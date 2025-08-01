@@ -104,7 +104,7 @@ Diskussionen innerhalb des Chat-Panels werden nicht aufgezeichnet. Das Chat-Pane
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-Erfahren Sie mehr über [das Chat-Bedienfeld](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+Erfahren Sie mehr über [das Chat-Bedienfeld](https://helpx.adobe.com/de/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Vorbereitungsmodus {#prepare-mode}
 
@@ -127,16 +127,16 @@ Weitere Informationen zum Vorbereitungsmodus [in diesem Video](https://www.youtu
 >[!NOTE]
 >
 >* Alle Änderungen an den Live-Pods werden sofort den Teilnehmern angezeigt.
->* [Chat-Bedienfeld](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ist nicht Teil des Vorbereitungsmodus und alle Änderungen daran werden sofort den Teilnehmern angezeigt.
+>* [Chat-Bedienfeld](https://helpx.adobe.com/de/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ist nicht Teil des Vorbereitungsmodus und alle Änderungen daran werden sofort den Teilnehmern angezeigt.
 
 ### Barrierefreiheit {#accessibility}
 
 Adobe ist bestrebt, Moderatoren und Teilnehmer mit Behinderungen einzubeziehen, indem die Barrierefreiheit von interaktiven Webinaren verbessert wird. Die Software wird kontinuierlich verbessert, um die Bedürfnisse aller Arten von Benutzern zu erfüllen und die weltweiten Standards einzuhalten, die Personen mit visuellen, auditiven, Mobilitäts- oder anderen Beeinträchtigungen einschließen.
 
-Erfahren Sie, wie Adobe Connect Unterstützung für [visuelle, auditive und Mobilitätsanforderungen](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"} bietet.
+Erfahren Sie, wie Adobe Connect Unterstützung für [visuelle, auditive und Mobilitätsanforderungen](https://helpx.adobe.com/de/adobe-connect/using/accessibility-features.html){target="_blank"} bietet.
 
 ### Untertitel {#closed-captions}
 
 Untertitel sind eine textliche Darstellung des Audioinhalts in einem Adobe Connect-Raum und helfen Teilnehmern, die taub oder schwerhörig sind, an Veranstaltungen teilzunehmen. Sie können die Echtzeit-Untertitelung von Audioinhalten in Ereignisse integrieren und diese Untertitel in der Anzeige für Untertitel präsentieren.
 
-Erfahren Sie, wie Sie [Untertitel aktivieren](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Erfahren Sie, wie Sie [Untertitel aktivieren](https://helpx.adobe.com/de/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.

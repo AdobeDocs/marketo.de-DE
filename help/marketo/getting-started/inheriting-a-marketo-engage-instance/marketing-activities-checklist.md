@@ -157,7 +157,7 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
   </tr>
   <tr>
    <td>Abonnement-/Präferenzzentrum</td>
-   <td><li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Abonnement/Präferenzzentrum</a> eingerichtet? Funktioniert sie so, wie sie sollte?</li></td>
+   <td><li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=de" target="_blank">Abonnement/Präferenzzentrum</a> eingerichtet? Funktioniert sie so, wie sie sollte?</li></td>
   </tr>
   <tr>
    <td>Interessante Momente (falls zutreffend)</td>

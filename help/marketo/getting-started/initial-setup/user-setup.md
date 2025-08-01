@@ -21,7 +21,7 @@ Nachdem Sie nun alle &quot;[ Einrichtungsschritte“ abgeschlossen haben](/help/
 
 ## Marketo Engage auf Adobe Identity Management {#marketo-engage-on-adobe-identity-management}
 
-Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management System (IMS) ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html). Fahren Sie mit der folgenden Überprüfung der Benutzerverwaltung in Adobe Admin Console fort.
+Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management System (IMS) ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=de). Fahren Sie mit der folgenden Überprüfung der Benutzerverwaltung in Adobe Admin Console fort.
 
 <table>
 <thead>
@@ -35,21 +35,21 @@ Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management S
     <td>Abonnement und Marketo Engage-Produktadministrator</td>
     <td><li>Vergewissern Sie sich, dass Ihnen von Ihrem Adobe-Organisations-Systemadministrator die Rolle "Adobe-Produktadministrator“ zugewiesen wurde.</li>
     <ul>
-    <li>Wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager) oder senden Sie eine E-Mail an <code>marketocares@marketo.com</code>, um herauszufinden, wer in Ihrem Unternehmen über <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-</a> verfügt.</li></ul>
-    <li>Akzeptieren Sie die Einladung "Marketo Engage-Produktadministrator“, um Ihre Adobe ID zu aktivieren. Die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">Begrüßungs-E</a>Mail wird gesendet, wenn die Rolle in der Adobe Admin Console zugewiesen wird.</li></td>
+    <li>Wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager) oder senden Sie eine E-Mail an <code>marketocares@marketo.com</code>, um herauszufinden, wer in Ihrem Unternehmen über <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=de">Adobe Admin Console-</a> verfügt.</li></ul>
+    <li>Akzeptieren Sie die Einladung "Marketo Engage-Produktadministrator“, um Ihre Adobe ID zu aktivieren. Die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=de#create-a-product-profile">Begrüßungs-E</a>Mail wird gesendet, wenn die Rolle in der Adobe Admin Console zugewiesen wird.</li></td>
   </tr>
   <tr>
     <td>Produktprofile</td>
-    <td><li>Weisen Sie alle gewünschten Benutzenden dem Marketo Engage-Produktprofil <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup#create-a-product-profile">Adobe Admin Console</a> zu.</li>
+    <td><li>Weisen Sie alle gewünschten Benutzenden dem Marketo Engage-Produktprofil <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup#create-a-product-profile">Adobe Admin Console</a> zu.</li>
     <ul>
     <li>Vor dem Hinzufügen zu einem Produktprofil können Sie in Marketo Engage &gt; Admin &gt; Benutzer &amp; Rollen keine Benutzerrollen zuweisen.</li>
     <li>Jedes Abonnement ist ein eigenständiges Produktprofil. Wenn ein unerwünschter Benutzer mehreren Produktprofilen hinzugefügt wird (z. B. Produktions- und Test-Sandbox), müssen Sie den Benutzer aus allen Produktprofilen löschen. Andernfalls haben sie weiterhin Zugriff auf Marketo Engage.</li></ul></td>
   </tr>
   <tr>
     <td>Benutzer</td>
-    <td><li>Erstellen Sie eine Richtlinie zum Zeitpunkt der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">Erstellung eines Benutzers</a>.</li> <li>Erstellen Sie eine Richtlinie zum Zeitpunkt der Benutzerentfernung.</li>
+    <td><li>Erstellen Sie eine Richtlinie zum Zeitpunkt der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html?lang=de">Erstellung eines Benutzers</a>.</li> <li>Erstellen Sie eine Richtlinie zum Zeitpunkt der Benutzerentfernung.</li>
     <p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Sie müssen Systemadministrator sein, um Benutzer entfernen zu können.
-    <li>Legen Sie fest, wer über <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe-Systemadministrator- und Marketo Engage-Produktadministrator-Berechtigungen verfügen soll.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Benutzer hinzufügen</a> zum gewünschten Produktprofil hinzufügen.</li>
+    <li>Legen Sie fest, wer über <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=de">Adobe-Systemadministrator- und Marketo Engage-Produktadministrator-Berechtigungen verfügen soll.</a> <li><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Benutzer hinzufügen</a> zum gewünschten Produktprofil hinzufügen.</li>
     <li>Erstellen Sie für jeden API-Anwendungsfall einen API-Benutzer.</li></td>
   </tr>
   <tr>
@@ -60,8 +60,8 @@ Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management S
   </tr>
   <tr>
     <td>Produktsupport-Administrator</td>
-    <td><li>Um <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#create-a-support-ticket-with-admin-console">Support-Ticket in der Adobe Admin Console einreichen</a>, muss Ihnen von einem Systemadministrator die Rolle „Produktsupport-Administrator“ zugewiesen worden sein. Nur ein Systemadministrator in Ihrer Organisation kann <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#assign-the-support-admin-role">Sie dieser Rolle zuweisen</a>.</li>
-    <li>Möglicherweise haben Sie eine E-Mail vom Systemadministrator erhalten, in der Sie angegeben haben, dass Sie der Support-Administrator für Ihr Marketo Engage-Abonnement sind. Wenn ja, klicken <a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#assign-the-support-admin-role"> in der E-Mail auf </a>Erste Schritte“, um der Organisation beizutreten.</li>
+    <td><li>Um <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html?lang=de#create-a-support-ticket-with-admin-console">Support-Ticket in der Adobe Admin Console einreichen</a>, muss Ihnen von einem Systemadministrator die Rolle „Produktsupport-Administrator“ zugewiesen worden sein. Nur ein Systemadministrator in Ihrer Organisation kann <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html?lang=de#assign-the-support-admin-role">Sie dieser Rolle zuweisen</a>.</li>
+    <li>Möglicherweise haben Sie eine E-Mail vom Systemadministrator erhalten, in der Sie angegeben haben, dass Sie der Support-Administrator für Ihr Marketo Engage-Abonnement sind. Wenn ja, klicken <a href="https://experienceleague.adobe.com/de/docs/customer-one/using/home#assign-the-support-admin-role"> in der E-Mail auf </a>Erste Schritte“, um der Organisation beizutreten.</li>
     <li>Bestimmen Sie die entsprechenden Kontakte (mit mindestens einem Backup-Kontakt) und weisen Sie dem Systemadministrator die Rolle des Produktsupport-Administrators entsprechend zu.</li></td>
   </tr>
 </tbody>
@@ -69,7 +69,7 @@ Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management S
 
 ## Einrichten von Dynamic Chat in Adobe Identity Management {#dynamic-chat-on-adobe-identity-management}
 
-Um [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), den nativen Kanal zur Konversationsautomatisierung in Marketo Engage, zu verwenden, fahren Sie mit der Einrichtung der Benutzerberechtigungen fort, indem Sie die folgenden Schritte in der [Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
+Um [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=de), den nativen Kanal zur Konversationsautomatisierung in Marketo Engage, zu verwenden, fahren Sie mit der Einrichtung der Benutzerberechtigungen fort, indem Sie die folgenden Schritte in der [Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>
@@ -82,21 +82,21 @@ Um [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-
   <tr>
     <td>Abonnement und Dynamic Chat-Produktadministrator (falls zutreffend)</td>
     <td><li>Vergewissern Sie sich, dass Ihnen von Ihrem Adobe-Organisations-Systemadministrator die Rolle "Adobe-Produktadministrator“ zugewiesen wurde.</li>
-    <ul><li>Wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager) oder senden Sie eine E-Mail an <code>marketocares@marketo.com</code>, um herauszufinden, wer in Ihrem Unternehmen über <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console-</a> verfügt.</li></ul>
-    <li>Akzeptieren Sie die Einladung des <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html"> Dynamic Chat</a>Produktadministrators. Die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">Begrüßungs-E</a>Mail wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator bestimmt werden.</li></td>
+    <ul><li>Wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager) oder senden Sie eine E-Mail an <code>marketocares@marketo.com</code>, um herauszufinden, wer in Ihrem Unternehmen über <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=de">Adobe Admin Console-</a> verfügt.</li></ul>
+    <li>Akzeptieren Sie die Einladung des <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=de"> Dynamic Chat</a>Produktadministrators. Die <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=de">Begrüßungs-E</a>Mail wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator bestimmt werden.</li></td>
   </tr>
   <tr>
     <td>Produktprofile</td>
     <td><li>Weisen Sie alle gewünschten Benutzenden dem Produktprofil des dynamischen Chats in Adobe Admin Console zu.</li>
     <ul>
     <li>Wenn ein unerwünschter Benutzer mehreren Produktprofilen hinzugefügt wird, müssen Sie ihn aus allen Produktprofilen löschen. Andernfalls haben sie weiterhin Zugriff auf Dynamic Chat.</li>
-    <li>Sie können <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">Produktprofile in Dynamic Chat bearbeiten</a> und ein benutzerdefiniertes Profil mit einem benutzerdefinierten Satz von (<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions"> in Ihrem Abonnement verfügbaren) </a>.</li></td>
+    <li>Sie können <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">Produktprofile in Dynamic Chat bearbeiten</a> und ein benutzerdefiniertes Profil mit einem benutzerdefinierten Satz von (<a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions"> in Ihrem Abonnement verfügbaren) </a>.</li></td>
   </tr>
   <tr>
     <td>Benutzer</td>
     <td><li>Erstellen Sie eine Richtlinie darüber, wann ein Chat-Benutzer hinzugefügt und entfernt werden soll.</li>
-    <li>Erstellen Sie eine Richtlinie für Benutzer mit <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup#access-admin-console">Adobe Dynamic Chat-Produktadministratorberechtigungen.</a></li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-a-chat-user">Fügen Sie dem gewünschten Produktprofil Benutzer hinzu</a>.</li></td>
+    <li>Erstellen Sie eine Richtlinie für Benutzer mit <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup#access-admin-console">Adobe Dynamic Chat-Produktadministratorberechtigungen.</a></li>
+    <li><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-a-chat-user">Fügen Sie dem gewünschten Produktprofil Benutzer hinzu</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -117,7 +117,7 @@ Um [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-
   </tr>
   <tr>
     <td>Benachrichtigungen</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications#subscribe-to-notifications">Abonnieren Sie Admin</a>Benachrichtigungen für kritische Probleme wie Fehler in Ihren Smart-Kampagnen und kritische Probleme bei der CRM-Synchronisierung.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications#subscribe-to-notifications">Abonnieren Sie Admin</a>Benachrichtigungen für kritische Probleme wie Fehler in Ihren Smart-Kampagnen und kritische Probleme bei der CRM-Synchronisierung.</li></td>
   </tr>
 </tbody>
 </table>

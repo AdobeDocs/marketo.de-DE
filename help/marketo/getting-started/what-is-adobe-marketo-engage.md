@@ -55,7 +55,7 @@ Nein! Wir haben eine Reihe einfacher Tutorials erstellt. [Erste Schritte hier](/
 
 ## Gibt es eine Liste von Elementen, die Beschränkungen abdecken, z. B. wie viele E-Mails ich insgesamt in einer Woche senden kann? {#list-of-limits}
 
-Da ist er. Statische Grenzwerte (und andere Parameter) sind [in diesem Artikel) ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Da ist er. Statische Grenzwerte (und andere Parameter) sind [in diesem Artikel) ](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Wie lange behält Marketo meine Daten bei? {#data-retention-policy}
 

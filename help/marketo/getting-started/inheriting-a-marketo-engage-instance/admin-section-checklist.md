@@ -33,7 +33,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
   <tr>
    <td>Abonnement und Marketo Engage-Produktadministrator</td>
    <td><li>Wurde Ihr Marketo Engage-Abonnement bereits zu <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> migriert?
-<br/>     Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle "Adobe Admin Console-Produktadministrator“ zugewiesen? Wenn Sie sich nicht sicher sind, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt, wenden Sie sich an die <a href="https://helpx.adobe.com/contact.html" target="_blank">Adobe-Kundenunterstützung</a>.</li>
+<br/>     Wenn ja, wurde Ihnen von Ihrem Adobe Admin Console-Systemadministrator die Rolle "Adobe Admin Console-Produktadministrator“ zugewiesen? Wenn Sie sich nicht sicher sind, wer in Ihrem Unternehmen über Administratorrechte in der Konsole verfügt, wenden Sie sich an die <a href="https://helpx.adobe.com/de/contact.html" target="_blank">Adobe-Kundenunterstützung</a>.</li>
 <li>Haben Sie die Einladung zum "Marketo Engage Product Admin“ angenommen? Die E-Mail wird gesendet, wenn die Rolle in der Adobe Admin Console zugewiesen wird.
 <br/>     Suchen Sie andernfalls in Ihrem Posteingang nach der <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">Begrüßungs-E</a>Mail) und akzeptieren Sie die Einladung zur Aktivierung Ihrer Adobe ID.</li></td>
   </tr>
@@ -281,7 +281,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <td>Munchkin</td>
    <td><li>Ist Ihr <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-Trackingcode</a> auf Ihrer Website (keine Marketo Engage-Landingpage)?</li>
 <li>Ist eine <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a>-Browser-Anfrage aktiviert?</li>
-<li>Ist Ihre <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin-API</a> konfiguriert?
+<li>Ist Ihre <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin-API</a> konfiguriert?
 <p><img src="assets/tip-icon.png" alt="Tipp-Symbol">TIPP: Wenn Sie keine Dokumentation darüber haben, wo sich der Munchkin-Code auf Ihrer Website befindet, können Sie alle URLs anzeigen, indem Sie einen <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a> erstellen.</li></td>
   </tr>
   <tr>
@@ -293,7 +293,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (falls anwendbar)</td>
-<td>Für die folgenden Schritte ist der Zugriff auf die <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a> erforderlich. Wenn Sie noch kein Adobe ID eingerichtet haben, finden <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank"> hier Informationen dazu</a>.
+<td>Für die folgenden Schritte ist der Zugriff auf die <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a> erforderlich. Wenn Sie noch kein Adobe ID eingerichtet haben, finden <a href="https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html" target="_blank"> hier Informationen dazu</a>.
 <br/>
 <li>Haben Sie die Einladung zum <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat-</a> angenommen? Die E-Mail wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator bestimmt werden.
 <br/>     Suchen Sie andernfalls in Ihrem Posteingang nach der Begrüßungs-E-Mail und akzeptieren Sie die Einladung zum Einrichten Ihrer Adobe ID.</li>
