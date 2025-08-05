@@ -3,7 +3,7 @@ description: Oktober 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Oktober 2024 – Versionshinweise
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 3%
@@ -92,8 +92,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Aktualisierung der Massenextraktions-API**: Es wurde ein Problem in der Massenextraktions-API behoben, das die Option columnHeaderNames betraf, mit der Sie benutzerdefinierte Spaltenkopfzeilennamen in der exportierten Datei angeben können. Zuvor konnten Spaltenkopfzeilennamen, die Nicht-ASCII-Zeichen enthielten, beschädigt werden.
 
-* **Einstellung von REST-API-Zugriffs-Token**: Der Abfrageparameter „access_token“, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. Oktober 2025 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
-
+* **Einstellung von REST-API-Zugriffs-Token**: Der Abfrageparameter „access_token“, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. Oktober 2025 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **QR-Code veraltet**: Am 4. Oktober 2024 wird die QR-Code-Funktion, die in Push-Benachrichtigungen und In-App-Messaging-Assets verwendet wird, eingestellt. Dazu gehört die Verwendung von QR-Codes für ein neues Testgerät sowie die Erstellung neuer Assets mit QR-Codes. Wenn Funktionen mit geringerer Nutzung verworfen werden, können wir ihre Ressourcen für die Gesamtwartung von Marketo Engage neu zuweisen.
 

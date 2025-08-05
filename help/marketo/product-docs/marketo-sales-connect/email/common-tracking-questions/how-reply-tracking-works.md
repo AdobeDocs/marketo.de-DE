@@ -4,9 +4,9 @@ description: Funktionsweise des Antwort-Trackings - Marketo-Dokumente - Produktd
 title: Funktionsweise der Antwortverfolgung
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Das Antwort-Tracking erfolgt anhand einer Nachrichten-ID in jeder gesendeten E-M
 
 Wenn [!DNL Sales Connect] die Antwort Ihres Interessenten auf Ihre E-Mail nicht verfolgen können, kann er eine Kampagne nicht auf der Grundlage der Antworterkennung stoppen oder diese Antwort [!DNL Salesforce] protokollieren.  Was meinen wir damit, dass jede E-Mail-Adresse antworten kann?
 
-Wenn Sie also eine E-Mail an flynn@flynnsarcade.com senden und er auf kevinf@flynnsarcade.com antwortet, können wir die Antwort verfolgen. Wenn du eine E-Mail an flynn@flynnsarcade.com und CC alan@encom.com schickst und Alan dich zurückschreibt, wird es auch die Antwort erkennen und die Kampagne beenden.
+Wenn Sie also eine E-Mail an <flynn@flynnsarcade.com> senden und er mit <kevinf@flynnsarcade.com> antwortet, können wir die Antwort verfolgen. Wenn Sie <flynn@flynnsarcade.com> und CC <alan@encom.com> per E-Mail senden und Alan Sie zurückschreibt, wird die Antwort ebenfalls erkannt und die Kampagne wird beendet.

@@ -4,7 +4,7 @@ description: Web-Segmente - Marketo-Dokumente - Produktdokumentation
 title: Web-Segmente
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '2043'
 ht-degree: 5%
@@ -76,7 +76,7 @@ Zu diesen Details gehören:
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Um ein Segment zu aktivieren oder zu deaktivieren, aktivieren Sie das Kontrollkästchen dieses Segments in der Tabelle und wählen Sie im Dropdown-Feld &quot;[!UICONTROL Aktion auswählen]&quot; unten in der Tabelle die Aktion &quot;[!UICONTROL Aktivieren]&quot; oder &quot;[!UICONTROL Deaktivieren]. Wenn ein Segment deaktiviert ist, wird unter der Spalte [!UICONTROL Status“ das Wort &#x200B;] angezeigt.
+Um ein Segment zu aktivieren oder zu deaktivieren, aktivieren Sie das Kontrollkästchen dieses Segments in der Tabelle und wählen Sie im Dropdown-Feld &quot;[!UICONTROL Aktion auswählen]&quot; unten in der Tabelle die Aktion &quot;[!UICONTROL Aktivieren]&quot; oder &quot;[!UICONTROL Deaktivieren]. Wenn ein Segment deaktiviert ist, wird unter der Spalte [!UICONTROL Status“ das Wort ] angezeigt.
 
 ## Segmente erstellen {#create-segments}
 
@@ -177,7 +177,7 @@ Aktivieren Sie **[!UICONTROL Abschnitt]** Profilsegmentierung“ das Kontrollkä
 * **Ist von diesen Unternehmen (bestimmte Namen)**
 
    * Wählen Sie das Zielunternehmen aus der Dropdown-Liste „Hinzuzufügende Firma auswählen“ aus.
-   * Sie können den genauen Organisationsnamen eingeben, den Sie ansprechen möchten. *Es wird _immer_ empfohlen, Namenskontenlisten zu verwenden, anstatt die Namen manuell einzugeben, um bessere Übereinstimmungen zu erzielen (siehe unten).
+   * Sie können den genauen Organisationsnamen eingeben, den Sie ansprechen möchten. *Es wird *immer* empfohlen, Namenskontenlisten zu verwenden, anstatt die Namen manuell einzugeben, um bessere Übereinstimmungen zu erzielen (siehe unten).
 
 **Liste benannter Konten**
 
@@ -187,7 +187,7 @@ Wählen Sie aus einer [benannten Kontenliste](/help/marketo/product-docs/web-per
 
 >[!NOTE]
 >
->Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **ISP ausschließen**
 
@@ -258,7 +258,7 @@ Definieren Sie Ihr Segment anhand des Status eines Interessenten: bekannt oder a
 
 **[!UICONTROL Mobile OS]**
 
-Ziehen Sie per Drag-and[!UICONTROL Drop den &#x200B;]Mobile OS) in den Segmenteditor
+Ziehen Sie per Drag-and[!UICONTROL Drop den ]Mobile OS) in den Segmenteditor
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
@@ -286,7 +286,7 @@ Fügen Sie den Ereigniswert hinzu, den Sie ansprechen möchten. z. B. aus Datenq
 
 **User Context-API**
 
-Aufruf der Web Personalization[API (weitere Informationen dazu finden Sie hier)](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Aufruf der Web Personalization[API (weitere Informationen dazu finden Sie hier)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

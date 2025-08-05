@@ -4,7 +4,7 @@ description: Hinzufügen [!DNL Facebook] benutzerdefinierter Zielgruppen als  [!
 title: Hinzufügen [!DNL Facebook] benutzerdefinierter Zielgruppen als  [!DNL LaunchPoint] -Service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!NOTE]
    >
-   >Sie _müssen_ ein [!DNL Facebook] Business Manager-Konto verwenden, damit Ihre Integration mit benutzerdefinierten Zielgruppen funktioniert. Informationen zum Einrichten eines Business Manager-Kontos finden Sie unter [[!DNL Facebook] Hilfe](https://www.facebook.com/business/help/1710077379203657).
+   >Sie *müssen* ein [!DNL Facebook] Business Manager-Konto verwenden, damit Ihre Integration mit benutzerdefinierten Zielgruppen funktioniert. Informationen zum Einrichten eines Business Manager-Kontos finden Sie unter [[!DNL Facebook] Hilfe](https://www.facebook.com/business/help/1710077379203657).
 
 1. Klicken Sie auf **[!UICONTROL OK]**, um die Installation der Marketo-App in [!DNL Facebook] zu akzeptieren.
 
@@ -55,7 +55,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!NOTE]
    >
-   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL &#x200B; Übereinstimmung“ &#x200B;].
+   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL  Übereinstimmung“ ].
 
    ![](assets/fb-custom-adv-matching-hands.png)
 

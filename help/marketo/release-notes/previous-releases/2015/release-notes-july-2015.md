@@ -4,9 +4,9 @@ description: Versionshinweise - Juli 2015 - Marketo-Dokumentation - Produktdokum
 title: Juli 2015 - Versionshinweise
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Haben Sie mehrere personalisierte RTP-Kampagnen eingerichtet und festgestellt, d
 
 **Zugriff auf Unternehmensobjekte über die REST-**: Die REST-API bietet jetzt Zugriff auf das Objekt des Unternehmens Marketo (auch als Kontoobjekt bezeichnet). Das bedeutet, dass Sie Unternehmensobjekte, die Sie in Marketo erstellt haben, lesen, aktualisieren und löschen und mithilfe der aktualisierten [!DNL Lead]-API Leads mit diesen Unternehmen verknüpfen können.
 
-Weitere []https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) finden Sie in unserem Referenzhandbuch für die Unternehmens-API.
+Weitere [ (]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>) finden Sie in unserem Referenzhandbuch für die Unternehmens-API.
 
 ## Zugriff auf die E-Mail-Zustellbarkeit {#access-email-deliverability}
 

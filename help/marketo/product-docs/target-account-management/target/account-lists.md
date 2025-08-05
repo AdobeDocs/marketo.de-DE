@@ -4,7 +4,7 @@ description: '[!UICONTROL Kontolisten] - Marketo-Dokumente - Produktdokumentatio
 title: '[!UICONTROL Kontolisten]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 1%
@@ -61,7 +61,7 @@ Zusätzlich zu den Kontolisten können Sie auch dynamische Kontolisten erstellen
 
 >[!NOTE]
 >
->Diese Schritte gelten nur für Kontolisten. _Dynamic_-Kontolisten verwenden den Namen der zugehörigen CRM-Kontoansichten.
+>Diese Schritte gelten nur für Kontolisten. *Dynamic*-Kontolisten verwenden den Namen der zugehörigen CRM-Kontoansichten.
 
 1. Wählen Sie das Konto aus, das Sie umbenennen möchten, klicken Sie auf die Dropdown **[!UICONTROL Liste der Kontoaktionen]** und wählen Sie **[!UICONTROL Kontoliste umbenennen]**.
 

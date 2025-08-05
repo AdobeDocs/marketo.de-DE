@@ -4,7 +4,7 @@ description: Vorlage 14e - Marketo-Dokumente - Produktdokumentation
 title: Meldebogen 14e
 exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 14e {#template-14e}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 14E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=de)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 14E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Template 14e.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=de)
+[Template 14e.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)

@@ -4,7 +4,7 @@ description: Personalisiertes Remarketing in Facebook - Marketo-Dokumente - Prod
 title: Personalisiertes Remarketing in Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 8%
@@ -18,7 +18,7 @@ Personalisiertes Remarketing ermöglicht Ihnen die erneute Interaktion mit Ihren
 >[!PREREQUISITES]
 >
 >* Schließen Sie das Setup [Retargeting mit Web Personalization-Daten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) ab
->* Lesen Sie die [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerdefinierten Zielgruppen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) und Remarketing.
+>* Lesen Sie die [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerdefinierten Zielgruppen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) und Remarketing.
 
 ## Erstellen einer Zielgruppe in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -26,35 +26,35 @@ Personalisiertes Remarketing ermöglicht Ihnen die erneute Interaktion mit Ihren
 
 1. Klicken Sie auf **[!UICONTROL Tools]** und wählen Sie **[!UICONTROL Zielgruppen]** aus.
 
-   ![](assets/one-1.png)
+![](assets/one-1.png)
 
 1. Klicken Sie **[!UICONTROL Benutzerdefinierte Zielgruppe erstellen]**.
 
-   ![](assets/two-1.png)
+![](assets/two-1.png)
 
 1. Wählen Sie **[!UICONTROL Website-Traffic]** aus.
 
-   ![](assets/image2015-1-19-16-3a32-3a2.png)
+![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Liste „Website]Traffic“ **[!UICONTROL Benutzerdefinierte Kombination]** aus.
+1. Wählen Sie in [!UICONTROL  Liste „Website]Traffic“ **[!UICONTROL Benutzerdefinierte Kombination]** aus.
 
-   ![](assets/image2015-1-19-16-3a33-3a21.png)
+![](assets/image2015-1-19-16-3a33-3a21.png)
 
 1. Wählen Sie in der Liste Einschließen die Option **[!UICONTROL Ereignis]** aus.
 
-   ![](assets/image2015-1-19-16-3a34-3a9.png)
+![](assets/image2015-1-19-16-3a34-3a9.png)
 
 1. Wählen Sie in der [!UICONTROL Ereignis]-Liste **[!UICONTROL RTP-Remarketing]** aus und wählen Sie einen Parameter aus.
 
-   ![](assets/image2015-1-19-16-3a52-3a29.png)
+![](assets/image2015-1-19-16-3a52-3a29.png)
 
 1. Wählen Sie für dieses Beispiel [!UICONTROL Branche] aus, um **[!UICONTROL Bildung]** einzuschließen. Geben Sie **[!UICONTROL Bildung]** ein und bearbeiten Sie **[!UICONTROL In den letzten]** auf 180 Tage. Geben Sie den Zielgruppennamen ein: **Education Industry**. Klicken Sie **[!UICONTROL Zielgruppe erstellen]**.
 
-   ![](assets/image2015-1-19-16-3a56-3a15.png)
+![](assets/image2015-1-19-16-3a56-3a15.png)
 
 1. Sie haben jetzt eine neue benutzerdefinierte Zielgruppe mit RTP-Daten in [!DNL Facebook] erstellt.
 
-   ![](assets/image2015-1-19-16-3a59-3a2.png)
+![](assets/image2015-1-19-16-3a59-3a2.png)
 
 ## RTP-Datenpunkte in [!DNL Facebook] {#rtp-data-points-in-facebook}
 

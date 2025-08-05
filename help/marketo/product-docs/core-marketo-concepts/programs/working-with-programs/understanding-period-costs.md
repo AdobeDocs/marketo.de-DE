@@ -4,7 +4,7 @@ description: Grundlegendes zu Periodenkosten - Marketo-Dokumente - Produktdokume
 title: Zeitraumkosten verstehen
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Stellen Sie sich ein Ereignis wie ein Webinar im März vor. Durch Werbung im Jan
 
    ![](assets/graph1.png)
 
-   …Kontakte, die in den Monaten davor und danach hinzugefügt wurden *werden* bis März gezählt.
+   …Kontakte, die in den Monaten davor und danach hinzugefügt wurden _werden_ bis März gezählt.
 
    ![](assets/graph2.png)
 

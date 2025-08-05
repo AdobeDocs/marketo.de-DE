@@ -3,7 +3,7 @@ description: Erfahren Sie mehr über die Best Practices bei der Implementierung 
 title: Wo Sie beginnen
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,4 +51,3 @@ Erste Schritte in der Community:
 1. Klicken Sie **Weiter mit Adobe ID** und wählen Sie auf der Anmeldeseite Ihr Primärabonnement aus.
 1. Füllen Sie nach der Anmeldung Ihr Community-Profil aus.
 1. Nachdem Sie die Informationen übermittelt haben, landen Sie auf der Community-Homepage und können loslegen!
-

@@ -4,7 +4,7 @@ title: Verwenden von Vibes-SMS-Nachrichten in Smart List-Triggern und -Filtern
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 1%
@@ -60,7 +60,7 @@ Sie können auch Vibes-Filter in Smart-Listen verwenden. Der Filter **[!UICONTRO
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Der Filter **Mitglied der Vibes-Liste** dagegen findet _alle_ derzeit bei Vibes abonniert und eignet sich am besten für die Verwendung in Smart-Kampagnen oder -Listen.
+Der Filter **Mitglied der Vibes-Liste** dagegen findet *alle* derzeit bei Vibes abonniert und eignet sich am besten für die Verwendung in Smart-Kampagnen oder -Listen.
 
 ![](assets/image001.png)
 

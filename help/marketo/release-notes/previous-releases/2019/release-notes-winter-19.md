@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Versionshinweise - Winter '19 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Winter '19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 3%
@@ -53,8 +53,8 @@ Fügen Sie E-Mails, die über Marketo gesendet werden, bis zu fünf CC-Adressen 
 * **E-Mail-**: Bessere Zustellbarkeit sowie verbessertes Antwort-Tracking, Funktionen für geplante E-Mails und Funktionen für Massen-E-Mails durch Herstellen einer Verbindung zu [!DNL Microsoft Outlook] (entweder über Office365 oder On-Premise über die Registerkarte E-Mail-Verbindung ).
 * **Neue Admin-**: Es wurden zwei Admin-Seiten hinzugefügt, um Ihre Sales Engage-Instanz zu optimieren
 
-   * _Team-Management_ unterstützt einen nahtlosen Prozess zur Kontoeinrichtung, indem es Administratoren ermöglicht, Abonnements und Teams zu bearbeiten.
-   * _Salesforce-Admin-_: Hilft Teams beim schnelleren und einfacheren Einrichten der SFDC-Synchronisierung als je zuvor.
+   * *Team-Management* unterstützt einen nahtlosen Prozess zur Kontoeinrichtung, indem es Administratoren ermöglicht, Abonnements und Teams zu bearbeiten.
+   * *Salesforce-Admin-*: Hilft Teams beim schnelleren und einfacheren Einrichten der SFDC-Synchronisierung als je zuvor.
 
 * **OWA-Plug-in für[!DNL Windows]**: Mit einem einzigen Add-in werden alle [!DNL Windows Office365]-Clients in Sales Engage unterstützt, sodass Live-Feed in Outlook verwendet werden kann. Das neue Plug-in wird im Microsoft Store verfügbar sein.
 * **Pusher-Aktivitäten**: Synchronisieren Sie Sales Engage mit der Marketo-Kernplattform, um Echtzeit-Marketing-Erkenntnisse zu nutzen.

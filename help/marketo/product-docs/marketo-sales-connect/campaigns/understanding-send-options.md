@@ -4,7 +4,7 @@ description: Grundlegendes zu Sendeoptionen - Marketo-Dokumente - Produktdokumen
 title: Verstehen der Sendeoptionen
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -63,4 +63,3 @@ Für alle nachfolgenden Tage/Schritte in Ihrer Kampagne haben Sie die folgenden 
 **Diese E-Mail in die vorherige E-Mail einfädeln**
 
 * Diese Versandoption ist eine „Folgeoption“ zu Ihrer vorherigen E-Mail und hängt den vorherigen E-Mail-Textkörper an das Ende dieser E-Mail an.
-

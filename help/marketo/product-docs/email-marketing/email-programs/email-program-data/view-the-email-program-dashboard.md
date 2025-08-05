@@ -4,7 +4,7 @@ description: Anzeigen des E-Mail-Programm-Dashboards - Marketo-Dokumente - Produ
 title: Anzeigen des E-Mail-Programm-Dashboards
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Wenn Sie Ihrem E-Mail-Programm einen A/B-Test hinzugefügt haben und der Test de
 
 ## E-Mail-Programmansicht {#email-program-view}
 
-Wenn Sie keinen A/B-Test hinzugefügt haben *oder* wenn der Test beendet ist, sollte Folgendes angezeigt werden:
+Wenn Sie keinen A/B-Test hinzugefügt haben _oder_ wenn der Test beendet ist, sollte Folgendes angezeigt werden:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 

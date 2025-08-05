@@ -4,9 +4,9 @@ title: Interaktionswerkzeuge in interaktiven Webinaren
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1270'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ SCREENSHOT
 
 ### Benutzerdefinierte Pods {#custom-pods}
 
-Benutzerdefinierte Pods erweitern die von Adobe Connect bereitgestellten Funktionen. Einige der beliebtesten benutzerdefinierten Pods, die kostenlos verfügbar sind, sind Countdown Timer, Clock, House Keeper, Titler und Word Cloud. Benutzerdefinierte Pods können von https://apps.adobeconnect.com/ als .pod- oder .zip-Datei heruntergeladen werden.
+Benutzerdefinierte Pods erweitern die von Adobe Connect bereitgestellten Funktionen. Einige der beliebtesten benutzerdefinierten Pods, die kostenlos verfügbar sind, sind Countdown Timer, Clock, House Keeper, Titler und Word Cloud. Benutzerdefinierte Pods können aus <https://apps.adobeconnect.com/> als .pod- oder .zip-Datei heruntergeladen werden.
 
 So verwenden Sie einen benutzerdefinierten Pod:
 

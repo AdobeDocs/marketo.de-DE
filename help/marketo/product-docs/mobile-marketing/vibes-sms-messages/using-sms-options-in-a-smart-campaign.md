@@ -3,7 +3,7 @@ description: Verwenden von SMS-Optionen in einer Smart-Kampagne - Marketo-Dokume
 title: Verwenden von SMS-Optionen in einer intelligenten Kampagne
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 4%
@@ -50,7 +50,7 @@ Der Trigger **Klicks auf Link in SMS** Nachricht initiiert einen Fluss, wenn ein
 
 Der Filter **Abonnierte Vibes-Liste** findet alle, die *jemals* Vibes abonniert haben. Dazu gehören sowohl abgemeldete als auch gelöschte Personen, auch wenn gelöschte Personen im Fluss weggelassen werden. Dieser Filter eignet sich am besten für das Reporting.
 
-Der Filter **Mitglied der Vibes-Liste** dagegen findet _alle_ derzeit bei Vibes abonniert und eignet sich am besten für die Verwendung in Smart-Kampagnen oder -Listen.
+Der Filter **Mitglied der Vibes-Liste** dagegen findet *alle* derzeit bei Vibes abonniert und eignet sich am besten für die Verwendung in Smart-Kampagnen oder -Listen.
 
 >[!NOTE]
 >

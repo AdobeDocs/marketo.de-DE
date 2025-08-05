@@ -4,7 +4,7 @@ description: E-Mail-Leistungsbericht - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Leistungsbericht
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 3%
@@ -36,6 +36,7 @@ Erstellen Sie einen E-Mail-Leistungsbericht, um zu sehen, wie gut Ihre E-Mails m
    [Berichtsspalten auswählen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen E-Mail-Leistungsbericht Folgendes enthalten:
 
    <table><thead>
+
 <tr>
     <th>Spalte</th>
     <th>Beschreibung</th>
@@ -75,7 +76,7 @@ Im Allgemeinen versuchen wir, den gesunden Menschenverstand zu verwenden, um die
 
 * **Regel 1**: Jeder E-Mail-Aktivitätsdatensatz ist auf einen und nur einen der folgenden Datensätze festgelegt: _Zugestellt_, _Hardbounce_, _Softbounce_ oder _Ausstehend_.
 
-* **Regel 2**: Wenn der E-Mail-Datensatz *[!UICONTROL Geöffnet]* anzeigt, wird er als &quot;*&quot;*.
+* **Regel 2**: Wenn der E-Mail-Datensatz _[!UICONTROL Geöffnet]_ anzeigt, wird er als &quot;_&quot;_.
 
 * **Regel 3**: Wenn der E-Mail-Datensatz _[!UICONTROL geklickte E-Mail]_ oder _[!UICONTROL Abgemeldet]_ anzeigt, wird er als _Zugestellt_ und _Geöffnet_ gezählt.
 

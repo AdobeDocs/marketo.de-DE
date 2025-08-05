@@ -4,7 +4,7 @@ description: Versionshinweise - 19. Juni - Marketo-Dokumente - Produktdokumentat
 title: Versionshinweise - Juni '19
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und b
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
 * **Massenaktionen bei der [!DNL Salesforce]-Anpassung**: Maximieren Sie die Produktivität, indem Sie E-Mails senden und Kontakte per [!DNL Salesforce]-Anpassung stapelweise zu Kampagnen hinzufügen.
-* **Einstellungen - [!DNL Salesforce] für Administratoren und Nicht-Administratoren**: Verwalten Sie Ihre [!DNL Sales Connect]-Instanz mit einer klaren Ansicht der mit [!DNL Sales Connect] verbundenen [!DNL Salesforce]-Instanz sowie Meine E-Mail, um Aktualisierungen zu [!DNL Salesforce]. Die erweiterten Synchronisierungseinstellungen für Admins, Nicht-Admins und Team Wide Sync werden in den kommenden Monaten veröffentlicht.
+* **Einstellungen - [!DNL Salesforce] für Administratoren und Nicht-Administratoren**: Verwalten Sie Ihre [!DNL Sales Connect]-Instanz mit einer klaren Ansicht der mit [!DNL Salesforce] verbundenen [!DNL Sales Connect]-Instanz sowie Meine E-Mail, um Aktualisierungen zu [!DNL Salesforce]. Die erweiterten Synchronisierungseinstellungen für Admins, Nicht-Admins und Team Wide Sync werden in den kommenden Monaten veröffentlicht.
 * **Einstellungen - Integrationsseite**: Eine zentrale Anlaufstelle für all Ihre Integrationen, damit Sie unser offenes Ökosystem optimal nutzen können.
 * **Einstellungen - Profilseite**: Zeigen Sie Ihre Kontodetails an, aktualisieren Sie sie, ändern Sie Ihr Passwort und überprüfen Sie den Status der Implementierung Ihrer Instanz auf dieser neuen Profilseite.
 
@@ -68,4 +68,4 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und b
 * **Drift-Integration**: Erfahren Sie, wie sich Drift-Unterhaltungen auf den Journey Ihres Kunden auswirken. [!DNL Bizible] werden auch E-Mail-Adressen aus Konversationen abrufen, um entweder einen neuen Lead zu erstellen oder den Touchpoint mit einem vorhandenen Lead zu verbinden.
 * **Lokalisierung**: [!DNL Bizible] ist jetzt in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
-***Webinar zur Produktversion*** Sehen Sie sich die Aufzeichnung unseres Webinars mit den Versionsinnovationen vom 19. Juni [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.
+_**Webinar zur Produktversion**_ Sehen Sie sich die Aufzeichnung unseres Webinars mit den Versionsinnovationen vom 19. Juni [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.

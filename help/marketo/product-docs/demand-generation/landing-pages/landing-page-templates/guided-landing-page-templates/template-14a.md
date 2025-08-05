@@ -4,7 +4,7 @@ description: Vorlage 14a - Marketo-Dokumente - Produktdokumentation
 title: Meldebogen 14a
 exl-id: bf096c89-b583-4618-aba9-8bfb7653af16
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 14a {#template-14a}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 14A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html?lang=de)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 14A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)
 
 ![](assets/image2015-8-11-15-3a9-3a52.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[template 14a.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html?lang=de)
+[template 14a.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14a.html)

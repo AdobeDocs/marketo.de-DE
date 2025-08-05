@@ -3,9 +3,9 @@ description: Übersicht über das E-Mail-Tracking - Marketo-Dokumente - Produktd
 title: E-Mail-Tracking - Übersicht
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Das Antwort-Tracking erfolgt anhand einer Nachrichten-ID in jeder gesendeten E-M
 
 Wenn [!DNL Sales Connect] die Antwort Ihres Interessenten auf Ihre E-Mail nicht verfolgen können, kann er eine Kampagne nicht auf der Grundlage der Antworterkennung stoppen oder diese Antwort in Salesforce protokollieren. Was meinen wir damit, dass jede E-Mail-Adresse antworten kann?
 
-Wenn Sie also eine E-Mail an flynn@flynnsarcade.com senden und er auf kevinf@flynnsarcade.com antwortet, können wir die Antwort verfolgen. Wenn du eine E-Mail an flynn@flynnsarcade.com und CC alan@encom.com schickst und Alan dich zurückschreibt, wird es auch die Antwort erkennen und die Kampagne beenden.
+Wenn Sie also eine E-Mail an <flynn@flynnsarcade.com> senden und er mit <kevinf@flynnsarcade.com> antwortet, können wir die Antwort verfolgen. Wenn Sie <flynn@flynnsarcade.com> und CC <alan@encom.com> per E-Mail senden und Alan Sie zurückschreibt, wird die Antwort ebenfalls erkannt und die Kampagne wird beendet.
 
 ## Tracking von E-Mail-Anhängen {#how-to-track-your-email-attachments}
 

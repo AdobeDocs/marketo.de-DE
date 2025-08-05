@@ -4,9 +4,9 @@ short-description: Sie beginnen gerade erst mit Adobe Marketo Engage? Erfahren S
 title: Einrichtungsschritte
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1688'
+source-wordcount: '1687'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ Es gibt verschiedene Maßnahmen, mit denen Sie sicherstellen können, dass die E
 * **Richten Sie einen MX-Eintrag für Ihre Domain ein.** Mit einem MX-Eintrag können Sie E-Mails an die Domain empfangen, von der Sie E-Mails senden, um Antworten und automatische Antworten zu verarbeiten. Wenn Sie von Ihrer Unternehmens-Domain aus senden, haben Sie dies wahrscheinlich bereits konfiguriert. Andernfalls können Sie für gewöhnlich so einrichten, dass der MX-Eintrag Ihrer Unternehmens-Domain zugeordnet wird.
 * **Empfohlene Einstellungen für die Absenderadresse.** Sie müssen in allen E-Mail-Kampagnen eine gültige, vorhandene und funktionierende E-Mail-Domain in der Absenderadresse verwenden. Es kann von Vorteil sein, eine Subdomain Ihrer Unternehmens-Domain zu konfigurieren, anstatt von Ihrer Unternehmens-Domain aus zu senden. Dadurch wird sichergestellt, dass Probleme aus Ihrem Unternehmens-Mailstream sich nicht auf Ihren Marketo-Mailstream auswirken und umgekehrt. Darüber hinaus führt der Versand von E-Mails von `something@nonexistentdomain.com` dazu, dass E-Mails gefiltert oder blockiert werden. Jede Domain, die in der Absenderadresse verwendet wird, muss über ein gültiges und funktionierendes Postmaster@- und abuse@-Konto verfügen.
 
-Wenn Sie Google-Programme zum Hosten Ihrer Unternehmens-E-Mail verwenden, können Sie unter Ihrer Domain keine abuse@ oder postmaster@-E-Mails erstellen. Um dies zu umgehen, müssen Sie Gruppen mit den Namen „Missbrauch“ und „Postmaster“ erstellen. Benutzer, die Mitglieder dieser Gruppen sind, erhalten E-Mails, die an diese Adressen gesendet werden (z. B. postmaster@domain.com). Detaillierte Anweisungen zum Erstellen von Gruppen finden Sie [hier](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+Wenn Sie Google-Programme zum Hosten Ihrer Unternehmens-E-Mail verwenden, können Sie unter Ihrer Domain keine abuse@ oder postmaster@-E-Mails erstellen. Um dies zu umgehen, müssen Sie Gruppen mit den Namen „Missbrauch“ und „Postmaster“ erstellen. Benutzer, die Mitglieder dieser Gruppen sind, erhalten E-Mails, die an diese Adressen gesendet werden (z. B. <postmaster@domain.com>). Detaillierte Anweisungen zum Erstellen von Gruppen finden Sie [hier](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Wählen Sie einen CNAME für E-Mail-Tracking-Links aus (wählen Sie einen CNAME aus _der sich_ von dem in Schritt 3 ausgewählten Landingpage-CNAME unterscheidet). Einige Beispiele:
 
@@ -147,7 +147,6 @@ Unser Marketing-Team nutzt jetzt die Marketo-Plattform, um mit unseren Mitarbeit
 auf die Zulassungsliste setzen `3)` Marketo.
 
     * Wenn wir IP-Adressen in unserer E-Mail-Zulassungsliste verwenden, fügen Sie die unten aufgeführten IPs hinzu:
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -271,7 +270,7 @@ Marketo Engage verfügt über eine benutzerdefinierte Tracking-JavaScript ([!DNL
 
 ## Leistungserwartungen {#performance-expectations}
 
-Was können Sie von Marketo in puncto Leistung erwarten? Er kann je nach Größe und Komplexität Ihrer Marketing-Kampagnen variieren. Sie können jedoch Leistungsstufen erwarten, die den Werten in der Spalte „Standard“ in mehreren Tabellen in der [Marketo Engage-Produktbeschreibung entsprechen](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Die Spalten „Performance“ und „Performance Plus“ beziehen sich auf Leistungspakete, die [höhere Leistungsstufen“ ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Was können Sie von Marketo in puncto Leistung erwarten? Er kann je nach Größe und Komplexität Ihrer Marketing-Kampagnen variieren. Sie können jedoch Leistungsstufen erwarten, die den Werten in der Spalte „Standard“ in mehreren Tabellen in der [Marketo Engage-Produktbeschreibung entsprechen](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Die Spalten „Performance“ und „Performance Plus“ beziehen sich auf Leistungspakete, die [höhere Leistungsstufen“ ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

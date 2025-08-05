@@ -4,7 +4,7 @@ description: Trigger und Filter für Smart-Mobile-Kampagnen - Marketo-Dokumente 
 title: Trigger und Filter für Smart-Kampagnen für Mobilgeräte
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 1%
@@ -103,7 +103,7 @@ Mobile App ist/wurde geöffnet
 
 Hat/hatte die Aktivität „Mobile App“
 
-Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking ([ Android) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} ([ iOS) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking ([ Android) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} ([ iOS) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Hat Mobile-App-Aktivität - Trigger
 
@@ -129,7 +129,7 @@ Mithilfe der Aktionseinschränkungen können Sie den Trigger und die Filter verw
 >
 >**Beispiel**
 >
->Unter dem Aktionstyp *Shopping* befindet sich eine sehr spezifische Aktion, die durch die anderen Einschränkungen definiert wird:
+>Unter dem Aktionstyp _Shopping_ befindet sich eine sehr spezifische Aktion, die durch die anderen Einschränkungen definiert wird:
 >
 >* Ich habe ein Hemd gekauft
 >   * Es war rot

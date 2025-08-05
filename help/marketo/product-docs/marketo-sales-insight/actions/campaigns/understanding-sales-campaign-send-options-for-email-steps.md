@@ -3,7 +3,7 @@ description: Grundlegendes zu Versandoptionen für Vertriebskampagnen bei E-Mail
 title: Grundlagen zu den Versandoptionen für Verkaufskampagnen für E-Mail-Schritte
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 2%
@@ -75,6 +75,5 @@ Für alle nachfolgenden Tage/Schritte in Ihrer Verkaufskampagne haben Sie die fo
 >[!MORELIKETHIS]
 >
 >[Erstellen einer Verkaufskampagne](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[Vertriebskampagne - Schritttypen und Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[Einstellungen für Verkaufskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
-
+>>[Vertriebskampagne - Schritttypen und Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[Einstellungen für Verkaufskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

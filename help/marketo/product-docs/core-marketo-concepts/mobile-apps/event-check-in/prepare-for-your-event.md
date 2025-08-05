@@ -4,7 +4,7 @@ description: Vorbereiten der Veranstaltung - Marketo-Dokumente - Produktdokument
 title: Vorbereiten der Veranstaltung
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Es gibt mehrere Dinge, die Sie tun müssen, um sich für die Veranstaltung vorzu
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 entfernte Adobe die Marketo Events App aus allen App Stores. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo auf Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Events App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Erstellen einer neuen Marketo-Rolle {#create-a-new-marketo-role}
 
@@ -49,7 +49,7 @@ Es ist ein Kinderspiel, Ihre Veranstaltungstermine festzulegen.
 
 ## Personen zu Ihrer Veranstaltung hinzufügen {#add-people-to-your-event}
 
-Jetzt, da Sie das _Wann_ kennen, ist es an der Zeit, das &quot;*&quot;*.
+Jetzt, da Sie das _Wann_ kennen, ist es an der Zeit, das &quot;_&quot;_.
 
 1. Wenn Sie bereits über eine Liste von Personen verfügen, klicken Sie in My Marketo auf die Kachel **[!UICONTROL Datenbank]**.
 

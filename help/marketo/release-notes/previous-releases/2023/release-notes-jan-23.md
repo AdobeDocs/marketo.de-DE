@@ -3,7 +3,7 @@ description: Januar 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – Januar 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 10%
@@ -41,6 +41,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Kippschalter</a></td>
   </tr>
   </tbody>
+
 </table>
 
 * **Verbessert von Komponente für E-Mail-Vorlagendetails und Snippet-Details verwendet**: Die Registerkarte Neu von der Benutzeroberfläche verwendet enthält zusätzliche Informationen zu den einzelnen von Assets verwendeten Assets, z. B. wann und von wem sie zuletzt geändert wurde. Sie können Analysen einfach durch die Such-, Sortier- und Filterfunktionen durchführen. Diese neue UI-Komponente wird ab der E-Mail-Vorlage und den Snippet-Assets integriert.
@@ -88,7 +89,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td>Versendet</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=de">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

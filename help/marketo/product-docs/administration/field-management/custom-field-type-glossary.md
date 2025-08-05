@@ -4,9 +4,9 @@ description: Glossar für benutzerdefinierten Feldtyp - Marketo-Dokumente - Prod
 title: Glossar für benutzerdefinierten Feldtyp
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '594'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, können Sie aus eine
 
 **Beispielname:** Alternative E-Mail - Verwenden Sie eine alternative E-Mail-Adresse für Ihre Mitarbeiter (Sie können tatsächlich keine E-Mails an dieses Feld senden, wie das Feld Standard-E-Mail-Adresse, das speziell ist)
 
-**Beispielwerte:** name@company.com
+**Beispielwerte:** <name@company.com>
 
 **Operatoren**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty
 
@@ -133,6 +133,6 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, können Sie aus eine
 
 **Beispielname:** Blog - Erstellen eines Felds zum Speichern von Personen-Blog-URLs
 
-**Beispielwert:** www.myblog.com
+**Beispielwert:** &lt;www.myblog.com>
 
 **Operatoren**: is, is not, starts with, not starts with, contains, not contains, is empty, is not empty

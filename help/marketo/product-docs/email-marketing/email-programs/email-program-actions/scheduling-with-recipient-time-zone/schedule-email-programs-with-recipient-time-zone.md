@@ -4,7 +4,7 @@ description: Planen von E-Mail-Programmen mit der Zeitzone des Empfängers - Mar
 title: Planen von E-Mail-Programmen mit Zeitzone des Empfängers
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '839'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Dies bietet Ihnen zwei Optionen:
 >
 >* **[!UICONTROL Versand am folgenden Tag in der Zeitzone des Empfängers]**: Wenn die E-Mail für Dienstag um 9 Uhr :00am geplant ist, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits verstrichen ist, die E-Mail am *Mittwoch* um 9 :00am.
 >
->* **[!UICONTROL Versand über die im Programm standardmäßig festgelegte Zeit]**: Wenn die E-Mail am Dienstag um 9 Uhr :00am ausgeführt werden soll, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits verstrichen ist, die E-Mail _basierend auf Ihren Einstellungen für die Zeitzone Ihres Abonnements_. Wenn Ihre [Zeitzoneneinstellungen für das Abonnement](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) also auf PDT America/Los Angeles eingestellt sind, erhalten diese Empfänger die E-Mail immer noch am Dienstag um 9:00amPDT (unabhängig von der Zeit, die in ihren eigenen Zeitzonen liegt).
+>* **[!UICONTROL Versand über die im Programm standardmäßig festgelegte Zeit]**: Wenn die E-Mail am Dienstag um 9 Uhr :00am ausgeführt werden soll, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits verstrichen ist, die E-Mail *basierend auf Ihren Einstellungen für die Zeitzone Ihres Abonnements*. Wenn Ihre [Zeitzoneneinstellungen für das Abonnement](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) also auf PDT America/Los Angeles eingestellt sind, erhalten diese Empfänger die E-Mail immer noch am Dienstag um 9:00amPDT (unabhängig von der Zeit, die in ihren eigenen Zeitzonen liegt).
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Sobald Sie Ihr Programm genehmigt haben, wird es innerhalb von 15 Minuten ausgef
 
 >[!NOTE]
 >
->Obwohl das Programm den _Prozess_ des E-Mail-Versands in 15 Minuten startet, werden E-Mails zu _Zeitpunkt_ zugestellt. Die Empfänger erhalten weiterhin E-Mails auf der Grundlage **[!UICONTROL von Ihnen]** Zeitzoneneinstellungen.
+>Obwohl das Programm den *Prozess* des E-Mail-Versands in 15 Minuten startet, werden E-Mails zu *Zeitpunkt* zugestellt. Die Empfänger erhalten weiterhin E-Mails auf der Grundlage **[!UICONTROL von Ihnen]** Zeitzoneneinstellungen.
 
 ## Szenario 2: Mehr als 25 Stunden {#scenario-more-than-hours}
 
@@ -81,8 +81,8 @@ Wenn Sie also in Amerika/Los Angeles sind und sowohl die Zeitzone „Head Start�
 
 Kurz gesagt: E-Mail-Programme, die mit der Zeitzone des Empfängers geplant sind, müssen zur geplanten Zeit in der frühesten Zeitzone ausgeführt werden (d. h. dort, wo sie zuerst Mitternacht erreichen), um jede Zeitzone aufzunehmen. Wenn Sie also ein E-Mail-Programm planen…
 
-* **Mit einer Lieferzeit _innerhalb_ 25 Stunden** beginnt das Programm innerhalb von 15 Minuten zu laufen. Empfänger, die die geplante Zeit bereits überschritten haben, erhalten die E-Mail entsprechend den von Ihnen gewählten Zeitzoneneinstellungen.
-* **mit einer Lieferzeit _mehr als_ 25 Stunden in der Zukunft** startet das Programm zur geplanten Zeit in der frühesten Zeitzone (UTC +14 :00).
+* **Mit einer Lieferzeit *innerhalb* 25 Stunden** beginnt das Programm innerhalb von 15 Minuten zu laufen. Empfänger, die die geplante Zeit bereits überschritten haben, erhalten die E-Mail entsprechend den von Ihnen gewählten Zeitzoneneinstellungen.
+* **mit einer Lieferzeit *mehr als* 25 Stunden in der Zukunft** startet das Programm zur geplanten Zeit in der frühesten Zeitzone (UTC +14 :00).
 * **mit Head Start** beginnt das Programm 12 Stunden vor der geplanten Zeit in der frühesten Zeitzone mit der Verarbeitung (UTC +14:00).
 
 >[!CAUTION]

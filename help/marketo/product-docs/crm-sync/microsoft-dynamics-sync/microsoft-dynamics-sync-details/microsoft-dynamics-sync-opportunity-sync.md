@@ -4,7 +4,7 @@ description: Microsoft Dynamics-Synchronisierung - Opportunity-Synchronisierung 
 title: Microsoft Dynamics-Synchronisierung - Opportunity-Synchronisierung
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -36,6 +36,5 @@ Der Kontakt/das Konto kann auf zwei Arten mit Opportunity verknüpft werden:
    * Wenn der Kontaktwert festgelegt ist und das Konto leer bleibt, erstellt Marketo eine `opportunitycontactrole` und legt das Konto für die Opportunity auf das Konto des Kontakts fest. Wenn der Kontakt kein Konto hat, bleibt dieses Feld leer.
    * Wenn der Kontowert festgelegt ist und der Kontakt leer gelassen wird, legt Marketo das Konto nur für die Opportunity auf dieses Konto fest.
    * Wenn beide Werte festgelegt sind, wählt Dynamics das Konto als Wert für die Kunden-ID aus, sodass das Verhalten dasselbe wie oben wäre.
-
 
 * Über Stakeholder: Dynamics verwendet Verbindungen, um über Stakeholder von der Seite „Opportunity erstellen“ aus eine Opportunity zu kontaktieren. Dazu erstellen wir für jeden neuen Stakeholder einen `opportunitycontactrole`.

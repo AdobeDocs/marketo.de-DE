@@ -4,7 +4,7 @@ description: Grundlegendes zum Bereich „Programm-Opportunity-Analyse“ - Mark
 title: Grundlegendes zum Bereich „Programm-Opportunity-Analyse“
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 20%
@@ -186,7 +186,7 @@ Während Kennzahlen (blaue Punkte) berechnet werden und etwas Nachdenken und Erk
  </tbody>
 </table>
 
-*&#42;Alle Opportunities, die einem Programm eine beliebige Art von Attribution zugeschrieben haben. Opportunities können durch eine oder mehrere Leads und ein oder mehrere Programme beeinflusst werden.*
+_&#42;Alle Opportunities, die einem Programm eine beliebige Art von Attribution zugeschrieben haben. Opportunities können durch eine oder mehrere Leads und ein oder mehrere Programme beeinflusst werden._
 
 >[!MORELIKETHIS]
 >

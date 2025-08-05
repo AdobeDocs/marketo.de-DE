@@ -4,7 +4,7 @@ description: Anzeigen des Dashboards für Push-Benachrichtigungen - Marketo-Doku
 title: Anzeigen des Dashboards für Push-Benachrichtigungen
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -27,13 +27,13 @@ Es ist einfach zu sehen, wie Ihre Push-Benachrichtigungen funktionieren.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Sie können die Diagramme [!UICONTROL Insgesamt gesendet] und [!UICONTROL Total Taps] für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um [!UICONTROL Tippen Sie auf &#x200B;] in Balkendiagrammen zu sehen.
+1. Sie können die Diagramme [!UICONTROL Insgesamt gesendet] und [!UICONTROL Total Taps] für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um [!UICONTROL Tippen Sie auf ] in Balkendiagrammen zu sehen.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 
    >[!NOTE]
    >
-   >Die Metrik _Gesendet_ spiegelt möglicherweise mehr Sendungen wider als die genaue Anzahl der Personen, an die die Push-Benachrichtigung gesendet wurde. Das liegt daran, dass die Berechnung auf der Grundlage der *Anzahl der Geräte* erfolgt, die für den Empfang Ihrer Push-Benachrichtigung qualifiziert sind. Wenn beispielsweise eine Person über drei Geräte verfügt, registriert das Dashboard drei Sendungen und nicht einen.
+   >Die Metrik _Gesendet_ spiegelt möglicherweise mehr Sendungen wider als die genaue Anzahl der Personen, an die die Push-Benachrichtigung gesendet wurde. Das liegt daran, dass die Berechnung auf der Grundlage der _Anzahl der Geräte_ erfolgt, die für den Empfang Ihrer Push-Benachrichtigung qualifiziert sind. Wenn beispielsweise eine Person über drei Geräte verfügt, registriert das Dashboard drei Sendungen und nicht einen.
 
    >[!MORELIKETHIS]
    >

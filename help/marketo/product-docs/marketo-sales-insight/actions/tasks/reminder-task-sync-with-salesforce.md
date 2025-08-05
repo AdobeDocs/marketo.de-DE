@@ -3,7 +3,7 @@ description: Erinnerungsaufgabe - Synchronisieren mit Salesforce - Marketo-Dokum
 title: Erinnerungsaufgabe - Synchronisieren mit Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -44,8 +44,8 @@ Nachstehend finden Sie eine Liste der Erinnerungsaufgabenfelder in [!DNL Sales I
   <p>Die anderen Statuswerte in [!DNL Salesforce] werden nicht mit [!DNL Sales Insight Actions] synchronisiert.</p></td>
  </tr>
  <tr>
-  <td>[!UICONTROL -Priorität]</td>
-  <td>[!UICONTROL -Priorität]</td>
+  <td>[!UICONTROL-Priorität]</td>
+  <td>[!UICONTROL-Priorität]</td>
   <td><p>[!DNL Sales Insight Actions] Die Priorität kann entweder Normal oder Hoch sein, was den Werten mit normaler und hoher Priorität in [!DNL Salesforce] entspricht.</p>
   <p>Der Wert für die niedrige Priorität in [!DNL Salesforce] wird nicht mit [!DNL Sales Insight Actions] synchronisiert.</p></td>
  </tr>
@@ -81,4 +81,4 @@ Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Kontrollkäs
 
 >[!NOTE]
 >
->Das Betrefffeld einer Aufgabe kann in [!DNL Sales Insight Actions] aktualisiert werden. Diese Aktualisierung wird im [!DNL Salesforce] Betrefffeld für die entsprechende synchronisierte Aufgabe synchronisiert, wenn Sie das dynamische Feld `{{activity_subject}}` in Ihren Einstellungen [Anpassung von Aktivitätsdetails](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) verwenden. Umgekehrt werden alle Aktualisierungen, die am Betrefffeld in [!DNL Salesforce] vorgenommen _,_ mit dem Betrefffeld [!DNL Sales Insight Actions] Erinnerungsaufgabe synchronisiert.
+>Das Betrefffeld einer Aufgabe kann in [!DNL Sales Insight Actions] aktualisiert werden. Diese Aktualisierung wird im [!DNL Salesforce] Betrefffeld für die entsprechende synchronisierte Aufgabe synchronisiert, wenn Sie das dynamische Feld `{{activity_subject}}` in Ihren Einstellungen [Anpassung von Aktivitätsdetails](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) verwenden. Umgekehrt werden alle Aktualisierungen, die am Betrefffeld in [!DNL Salesforce] vorgenommen *,* mit dem Betrefffeld [!DNL Sales Insight Actions] Erinnerungsaufgabe synchronisiert.

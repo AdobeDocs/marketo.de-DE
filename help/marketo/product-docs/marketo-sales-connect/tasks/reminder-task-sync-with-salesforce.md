@@ -3,7 +3,7 @@ description: Erinnerungsaufgabe - Synchronisieren mit Salesforce - Marketo-Dokum
 title: Erinnerungsaufgabe - Synchronisieren mit Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -44,8 +44,8 @@ Nachstehend finden Sie eine Liste der Erinnerungsaufgabenfelder in [!DNL Sales C
   <p>Die anderen Statuswerte in [!DNL Salesforce] werden nicht mit [!DNL Sales Connect] synchronisiert.</p></td>
  </tr>
  <tr>
-  <td>[!UICONTROL -Priorität]</td>
-  <td>[!UICONTROL -Priorität]</td>
+  <td>[!UICONTROL-Priorität]</td>
+  <td>[!UICONTROL-Priorität]</td>
   <td><p>[!DNL Sales Connect] Die Priorität kann entweder Normal oder Hoch sein, was den Werten mit normaler und hoher Priorität in [!DNL Salesforce] entspricht.</p>
   <p>Der Wert für die niedrige Priorität in [!DNL Salesforce] wird nicht mit [!DNL Sales Connect] synchronisiert.</p></td>
  </tr>
@@ -81,4 +81,4 @@ Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Kontrollkäs
 
 >[!NOTE]
 >
->Das Betrefffeld einer Aufgabe kann in [!DNL Sales Connect] aktualisiert werden. Diese Aktualisierung wird im [!DNL Salesforce] Betrefffeld für die entsprechende synchronisierte Aufgabe synchronisiert, wenn Sie das dynamische Feld `{{activity_subject}}` in Ihren Einstellungen [Anpassung von Aktivitätsdetails](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) verwenden. Umgekehrt werden alle Aktualisierungen, die am Betrefffeld in [!DNL Salesforce] vorgenommen _,_ mit dem Betrefffeld [!DNL Sales Connect] Erinnerungsaufgabe synchronisiert.
+>Das Betrefffeld einer Aufgabe kann in [!DNL Sales Connect] aktualisiert werden. Diese Aktualisierung wird im [!DNL Salesforce] Betrefffeld für die entsprechende synchronisierte Aufgabe synchronisiert, wenn Sie das dynamische Feld `{{activity_subject}}` in Ihren Einstellungen [Anpassung von Aktivitätsdetails](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) verwenden. Umgekehrt werden alle Aktualisierungen, die am Betrefffeld in [!DNL Salesforce] vorgenommen *,* mit dem Betrefffeld [!DNL Sales Connect] Erinnerungsaufgabe synchronisiert.

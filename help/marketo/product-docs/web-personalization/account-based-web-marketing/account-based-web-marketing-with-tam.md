@@ -4,7 +4,7 @@ description: Account-Based Web Marketing with TAM - Marketo Docs - Produktdokume
 title: Account-basiertes Web-Marketing mit TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Bei Verwendung von Marketo [!UICONTROL Web Personalization] und [!UICONTROL Targ
 Wenn Sie ABWM bereits verwenden:
 
 * Sie können [!UICONTROL Account-Listen] in ABWM _und_ TAM erstellen
-* Sie können ([!UICONTROL ) in TAM &#x200B;]und _in ABWM erstellen_ bearbeiten und löschen
+* Sie können ([!UICONTROL ) in TAM ]und _in ABWM erstellen_ bearbeiten und löschen
 * [!UICONTROL Kontolisten] (von ABWM und TAM) werden mit [!UICONTROL Web Personalization] zur Verwendung in der Segmentierung synchronisiert
 
    * **Hinweis**: Die Synchronisierung kann bis zu 5 Minuten dauern

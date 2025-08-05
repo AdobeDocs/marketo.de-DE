@@ -4,9 +4,9 @@ description: Hyperlinkten Text hinzufügen - Marketo-Dokumente - Produktdokument
 title: Hyperlinkten Text hinzufügen
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '46'
 ht-degree: 4%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 4%
 
 1. Klicken Sie auf die Schaltfläche Link im Editor.
 
-1. Geben Sie die URL ein, mit der sie verknüpft werden soll (z. B. &quot;https://www.mywebsite.com„).
+1. Geben Sie die URL ein, mit der sie verknüpft werden soll (z. B. &quot;<https://www.mywebsite.com>„).
 
 1. Klicken Sie auf **[!UICONTROL OK]**.

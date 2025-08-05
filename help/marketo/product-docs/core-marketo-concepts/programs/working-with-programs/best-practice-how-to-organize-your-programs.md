@@ -4,7 +4,7 @@ description: Best Practice - Organisieren von Programmen - Marketo-Dokumente - P
 title: 'Best Practice : Organisieren von Programmen'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 4%
@@ -30,9 +30,9 @@ In Marketing-Aktivitäten sollten Sie Ihre Programme mit Ordnern organisieren. D
 >* Aktive Marketingprogramme
 >   * E-Mails
 >   * Ereignisse
->      * Live-Events/Roadshows
->      * Messen
->      * Webinare
+>     * Live-Events/Roadshows
+>     * Messen
+>     * Webinare
 >   * Newsletter
 >   * Nurture-Kampagne
 >   * Web-Inhalt
@@ -48,8 +48,8 @@ In Marketing-Aktivitäten sollten Sie Ihre Programme mit Ordnern organisieren. D
 >   * Vom Verkauf angeforderte Kampagnen
 >* **Archivieren**
 >   * Ereignisse archivieren
->      * Archiv 2012
->      * Archiv 2013
+>     * Archiv 2012
+>     * Archiv 2013
 
 Jede der im Beispiel genannten ist ein Ordner. Beachten Sie, dass alle eindeutig benannt sind. Sie können doppelte (einfachere) Namen von Ordnern INNERHALB von Programmen haben, aber nicht am Stamm der Baumstruktur.
 

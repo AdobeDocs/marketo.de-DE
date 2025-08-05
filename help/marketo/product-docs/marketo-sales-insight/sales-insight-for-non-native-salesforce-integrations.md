@@ -4,7 +4,7 @@ description: '[!DNL Sales Insight] für nicht native  [!DNL Salesforce]  - Marke
 title: '[!DNL Sales Insight] für nicht-native  [!DNL Salesforce] '
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1200'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
 >
 >* Die Funktion „MSI Non-Native“ wurde für Ihre Marketo-Instanz aktiviert, bevor Sie mit der Einrichtung von MSI beginnen. Wenn dies nicht der Fall ist und Sie die Funktion bereits erworben haben, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Wenn Sie diese Funktion noch nicht erworben haben, wenden Sie sich an das Adobe Account Team (Ihren Account Manager).
 >* Ein Salesforce-Konto mit [MSI-Paket eingerichtet](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
->* Marketo REST-API [erfolgreich eingerichtet](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Die offen gelegten CRUD-APIs sind die Grundlage für die Durchführung der nicht nativen Synchronisierung.
+>* Marketo REST-API [erfolgreich eingerichtet](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Die offen gelegten CRUD-APIs sind die Grundlage für die Durchführung der nicht nativen Synchronisierung.
 >* Lesen Sie [diesen Blogpost](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"}, um ein Verständnis des Objekts und der Beziehungen zu erhalten.
 >* Richten Sie [!DNL Salesforce] Objekte so ein, dass die globale eindeutige Kennung, bei der nicht zwischen Groß- und Kleinschreibung unterschieden wird, anstelle der globalen eindeutigen Kennung, bei der nicht zwischen Groß- und Kleinschreibung unterschieden wird, bei der 15 Zeichen berücksichtigt werden.
 
@@ -53,12 +53,12 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody>
    </table>
 
-   * API-Dokumentation für Vertriebsperson: [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * API-Dokumentation für Vertriebsperson: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * API-Dokumentation zum Synchronisieren der Vertriebsperson: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchronisieren Sie die [!DNL Salesforce] mit Marketo.
 
-   Eine Marketo-Firma muss für das [!DNL Salesforce] upsertiert werden. Die Felder _externalCompanyId_ und _externalSalesPersonId_ sind für das Upsert des Unternehmens erforderlich.
+   Eine Marketo-Firma muss für das [!DNL Salesforce] upsertiert werden. Die Felder *externalCompanyId* und *externalSalesPersonId* sind für das Upsert des Unternehmens erforderlich.
 
    <table>
     <colgroup>
@@ -85,12 +85,12 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody>
    </table>
 
-   * API-Dokumentation für Unternehmen: [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * API-Dokumentation für Unternehmen: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * API-Dokumentation für das Synchronisieren von Unternehmen: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. Synchronisieren Sie die [!DNL Salesforce] Leads/Kontakte mit Marketo.
 
-   Sie müssen einen Marketo-Lead für den [!DNL Salesforce] Lead/Kontakt upsertieren. Die Felder _externalPersonId_, _externalSalesPersonId_ und _externalCompanyId_ sind für das Upsert des Leads erforderlich.
+   Sie müssen einen Marketo-Lead für den [!DNL Salesforce] Lead/Kontakt upsertieren. Die Felder *externalPersonId*, *externalSalesPersonId* und *externalCompanyId* sind für das Upsert des Leads erforderlich.
 
    <table>
     <colgroup>
@@ -122,12 +122,12 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody>
    </table>
 
-   * API-Dokumentation für Leads: [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * API-Dokumentation für Leads: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
    * API-Dokumentation zum Synchronisieren von Leads: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
 1. Synchronisieren Sie [!DNL Salesforce] Opportunities mit Marketo.
 
-   Sie müssen eine Marketo-Opportunity für die [!DNL Salesforce] Opportunity upsertieren. Die Felder _externalOpportunityId_, _externalCompanyId_ und _externalSalesPersonId_ werden für das Upsert der Opportunity benötigt.
+   Sie müssen eine Marketo-Opportunity für die [!DNL Salesforce] Opportunity upsertieren. Die Felder *externalOpportunityId*, *externalCompanyId* und *externalSalesPersonId* werden für das Upsert der Opportunity benötigt.
 
    <table>
     <colgroup>
@@ -159,12 +159,12 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody>
    </table>
 
-   * API-Dokumentation für Opportunity: [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-Dokumentation für Opportunity: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API-Dokumentation zum Synchronisieren von Opportunities: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchronisieren [!DNL Salesforce] Kontaktrollen mit Marketo.
 
-   [!DNL Salesforce] Kontaktrollen für eine [!DNL Salesforce] Opportunity können dann über die Opportunity-Rolle von Marketo synchronisiert werden. Der Datensatz für die Opportunity-Rolle erfordert die Felder _externalOpportunityId_, _role_ und _leadId_.
+   [!DNL Salesforce] Kontaktrollen für eine [!DNL Salesforce] Opportunity können dann über die Opportunity-Rolle von Marketo synchronisiert werden. Der Datensatz für die Opportunity-Rolle erfordert die Felder *externalOpportunityId*, *role* und *leadId*.
 
    <table>
     <colgroup>
@@ -196,14 +196,14 @@ Wenn Ihr Adobe Marketo Engage-Konto über eine benutzerdefinierte oder nicht nat
     </tbody>
    </table>
 
-   * API-Dokumentation für Opportunity: [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-Dokumentation für Opportunity: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API-Dokumentation zum Synchronisieren von Opportunities: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchronisieren Sie die Bewertungsfelder „Letzter interessanter Moment/MSI“ mit SFDC.
 
    Sobald Ihre [!DNL Salesforce]-Objekte korrekt mit Marketo synchronisiert wurden, können Sie die MSI-Funktionen nutzen. Die Felder für den letzten interessanten MSI-Moment/die letzte Bewertung werden in der REST-API für Leads angezeigt. Diese Felder werden von MSI berechnet und sind schreibgeschützt.
 
-   Die Felder „Letzter interessanter Moment/letzte Bewertung“ eines Marketo-Leads müssen regelmäßig mithilfe des Lead-Endpunkts der REST-API mit [!DNL Salesforce] synchronisiert werden. Fragen Sie diesen Endpunkt für einen Marketo-Lead mit der _externalPersonId_ als filterType ab und übergeben Sie die [!DNL Salesforce] Lead-GUID als filterValue.
+   Die Felder „Letzter interessanter Moment/letzte Bewertung“ eines Marketo-Leads müssen regelmäßig mithilfe des Lead-Endpunkts der REST-API mit [!DNL Salesforce] synchronisiert werden. Fragen Sie diesen Endpunkt für einen Marketo-Lead mit der *externalPersonId* als filterType ab und übergeben Sie die [!DNL Salesforce] Lead-GUID als filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
