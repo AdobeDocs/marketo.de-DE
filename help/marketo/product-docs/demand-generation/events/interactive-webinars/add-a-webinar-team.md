@@ -3,9 +3,9 @@ description: Webinar-Team hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines Webinar-Teams
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Hinzufügen eines Webinar-Teams {#add-a-webinar-team}
 
 Ein Webinar-Team in interaktiven Webinaren besteht aus allen Rollen, die zum erfolgreichen Abhalten des Webinars in Adobe Connect beitragen. Dazu gehören sowohl Moderatoren als auch Co-Moderatoren.
-
->[!IMPORTANT]
->
->Es wird dringend empfohlen, dass Sie [Ihr Webinar erstellen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _bevor_ Moderatoren oder Co-Hosts hinzufügen.
 
 >[!NOTE]
 >
@@ -52,6 +48,10 @@ Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erleb
 
    ![](assets/add-a-webinar-team-4.png)
 
+>[!NOTE]
+>
+> Mit ![ Symbol „Co-Host-URL kopieren](assets/icon-copy-join-url.png) wird die Co-Host-Join-URL kopiert, und mit dem Symbol ![Co-Host eine Einladungs-E-Mail senden](assets/icon-send-invitation-email.png) wird dem Co-Host eine Einladungs-E-Mail gesendet.
+
 ## Moderator hinzufügen {#add-a-presenter}
 
 1. Klicken Sie auf der Seite Überblick des interaktiven Webinars auf **Referenten hinzufügen**.
@@ -70,9 +70,9 @@ Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erleb
 
    ![](assets/add-a-webinar-team-7.png)
 
->[!TIP]
+>[!NOTE]
 >
->Nachdem Sie ein Webinar-Team hinzugefügt haben, können Sie auf das Kopiersymbol neben jedem Benutzer klicken, um dessen Join-URLs zu kopieren (und dann freizugeben).
+> Mit dem Symbol ![URL des Referenten kopieren](assets/icon-copy-join-url.png) wird die Referenten-Beitritt-URL kopiert, und mit dem Symbol ![Referenten eine Einladungs-E-Mail senden](assets/icon-send-invitation-email.png) wird dem Referenten eine Einladungs-E-Mail gesendet.
 
 >[!MORELIKETHIS]
 >
