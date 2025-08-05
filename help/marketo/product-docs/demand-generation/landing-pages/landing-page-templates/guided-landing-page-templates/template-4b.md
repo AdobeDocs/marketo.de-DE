@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 4b {#template-4b}
 
-Rechtsklick zum Herunterladen [Vorlage 4B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
+Rechtsklick zum Herunterladen [Vorlage 4B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=de)
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
+[Vorlage 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=de)

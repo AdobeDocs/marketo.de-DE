@@ -187,7 +187,7 @@ Wählen Sie aus einer [benannten Kontenliste](/help/marketo/product-docs/web-per
 
 >[!NOTE]
 >
->Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **ISP ausschließen**
 
@@ -286,7 +286,7 @@ Fügen Sie den Ereigniswert hinzu, den Sie ansprechen möchten. z. B. aus Datenq
 
 **User Context-API**
 
-Aufruf der Web Personalization[API (weitere Informationen dazu finden Sie hier)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Aufruf der Web Personalization[API (weitere Informationen dazu finden Sie hier)](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

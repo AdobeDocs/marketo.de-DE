@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlage 8d {#template-8d}
 
-Rechtsklick zum Herunterladen [Vorlage 8D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
+Rechtsklick zum Herunterladen [Vorlage 8D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html?lang=de)
 
 ![](assets/image2015-7-29-14-3a28-3a56.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
+[Vorlage 8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html?lang=de)

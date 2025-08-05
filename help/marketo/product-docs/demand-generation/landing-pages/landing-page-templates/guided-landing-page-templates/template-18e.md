@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 18e {#template-18e}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 18E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 18E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html?lang=de)
 
 ![](assets/image2015-8-17-18-3a29-3a1.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 18E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)
+[Vorlage 18E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html?lang=de)

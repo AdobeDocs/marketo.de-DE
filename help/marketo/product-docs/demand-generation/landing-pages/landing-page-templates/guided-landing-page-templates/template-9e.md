@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 9e {#template-9e}
 
-Rechtsklick zum Herunterladen [Vorlage 9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+Rechtsklick zum Herunterladen [Vorlage 9E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html?lang=de)
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+[Vorlage 9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html?lang=de)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 13a {#template-13a}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 13A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 13A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html?lang=de)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[template 13a.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+[template 13a.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html?lang=de)

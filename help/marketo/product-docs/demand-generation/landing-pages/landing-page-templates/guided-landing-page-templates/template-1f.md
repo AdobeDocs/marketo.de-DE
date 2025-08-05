@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorlage 1f {#template-1f}
 
-Rechtsklick zum Herunterladen [Vorlage 1F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html)
+Rechtsklick zum Herunterladen [Vorlage 1F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html?lang=de)
 
 ![](assets/image2015-5-29-9-3a9-3a19.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 1F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html)
+[Vorlage 1F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html?lang=de)

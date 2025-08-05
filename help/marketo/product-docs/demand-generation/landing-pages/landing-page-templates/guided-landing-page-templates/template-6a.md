@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 6a {#template-6a}
 
-Rechtsklick zum Herunterladen [Vorlage 6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
+Rechtsklick zum Herunterladen [Vorlage 6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=de)
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
+[Vorlage 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=de)

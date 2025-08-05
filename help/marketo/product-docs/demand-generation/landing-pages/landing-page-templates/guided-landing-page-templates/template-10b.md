@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 10b {#template-10b}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 10B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 10B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html?lang=de)
 
 ![](assets/image2015-7-27-10-3a48-3a23.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 10B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
+[Vorlage 10B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html?lang=de)

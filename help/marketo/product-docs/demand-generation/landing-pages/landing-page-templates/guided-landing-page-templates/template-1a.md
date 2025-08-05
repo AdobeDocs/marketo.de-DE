@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 1a {#template-1a}
 
-Rechtsklick zum Herunterladen [Vorlage 1A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
+Rechtsklick zum Herunterladen [Vorlage 1A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html?lang=de)
 
 ![](assets/image2015-5-28-10-3a1-3a40.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 1A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
+[Vorlage 1A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html?lang=de)

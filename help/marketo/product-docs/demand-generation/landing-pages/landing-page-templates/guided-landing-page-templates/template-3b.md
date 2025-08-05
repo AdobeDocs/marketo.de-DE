@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 3b {#template-3b}
 
-Rechtsklick zum Herunterladen [Vorlage 3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
+Rechtsklick zum Herunterladen [Vorlage 3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=de)
 
 ![](assets/image2015-6-15-11-3a11-3a30.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
+[Vorlage 3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=de)

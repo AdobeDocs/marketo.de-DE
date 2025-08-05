@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 2b {#template-2b}
 
-Rechtsklick zum Herunterladen [Vorlage 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+Rechtsklick zum Herunterladen [Vorlage 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=de)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+[Vorlage 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=de)

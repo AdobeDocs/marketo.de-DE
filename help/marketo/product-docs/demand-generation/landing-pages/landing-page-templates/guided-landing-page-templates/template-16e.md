@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 16-E {#template-16e}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 16-E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 16-E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html?lang=de)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
+[Vorlage 16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html?lang=de)

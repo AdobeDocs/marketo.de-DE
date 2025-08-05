@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 13c {#template-13c}
 
-Rechtsklick zum Herunterladen [Vorlage 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+Rechtsklick zum Herunterladen [Vorlage 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=de)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=de)

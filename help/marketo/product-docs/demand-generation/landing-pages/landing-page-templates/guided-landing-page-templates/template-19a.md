@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Meldebogen 19a {#template-19a}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 19A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 19A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html?lang=de)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+[Vorlage 19A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html?lang=de)

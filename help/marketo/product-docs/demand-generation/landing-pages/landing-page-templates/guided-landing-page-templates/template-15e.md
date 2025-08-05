@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Meldebogen 15e {#template-15e}
 
-Rechtsklick zum Herunterladen [Vorlage 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
+Rechtsklick zum Herunterladen [Vorlage 15E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html?lang=de)
 
 ![](assets/image2015-8-13-14-3a8-3a14.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 15E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)
+[Vorlage 15E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html?lang=de)
