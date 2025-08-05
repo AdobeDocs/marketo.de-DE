@@ -147,6 +147,7 @@ Unser Marketing-Team nutzt jetzt die Marketo-Plattform, um mit unseren Mitarbeit
 auf die Zulassungsliste setzen `3)` Marketo.
 
     * Wenn wir IP-Adressen in unserer E-Mail-Zulassungsliste verwenden, fügen Sie die unten aufgeführten IPs hinzu:
+
     199.15.212.0/22
     
     192.28.144.0/20
