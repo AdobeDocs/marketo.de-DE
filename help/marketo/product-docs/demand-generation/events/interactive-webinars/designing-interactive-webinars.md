@@ -3,9 +3,9 @@ description: Entwerfen interaktiver Webinare - Marketo-Dokumente - Produktdokume
 title: Entwerfen interaktiver Webinare
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ Erfahren Sie, wie Sie Ihr Webinar an Ihre Anforderungen anpassen.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Detaillierte Informationen zu Räumen und Vorlagen finden Sie im Abschnitt „Vorlagen und Layouts für Meetingräume“ in [diesem Adobe-Hilfeartikel](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Detaillierte Informationen zu Räumen und Vorlagen finden Sie im Abschnitt „Vorlagen und Layouts für Besprechungsräume“ in [Adobe-Hilfeartikel](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. Wenn Sie mit der Gestaltung Ihres Webinars fertig sind, klicken Sie auf **Raum verlassen**.
 
@@ -75,3 +75,7 @@ Erfahren Sie, wie Sie Ihr Webinar an Ihre Anforderungen anpassen.
 **Layout**: Bezieht sich auf verschiedene Arten, wie die verschiedenen Komponenten, die für den Erfolg des Webinars erforderlich sind, in einer bestimmten Vorlage angeordnet sind. Eine Vorlage kann mehrere Layouts zur Auswahl haben. Die wesentlichen Komponenten des Webinars bleiben in allen Vorlagen gleich. Das von Ihnen ausgewählte Arrangement ist am besten auf Ihren Stil/Ihre Bedürfnisse oder die des Referenten, der das Webinar hält, abgestimmt.
 
 **Pod**: Eine Komponente in einer Vorlage, die während des Webinars eine bestimmte Aktivität ausführt. Sie können beispielsweise eine Umfrage einrichten und durchführen, um die Antworten der Teilnehmer in einer Aktivität zu erfassen, die von einem Umfrage-Pod ausgeführt werden kann. Ebenso kann es sich bei dem Chat mit den Teilnehmern zur Vermittlung einer Nachricht oder bei der beiläufigen Interaktion mit ihnen um eine Aktivität handeln, die über den Chat-Pod bereitgestellt wird. Es stehen mehrere weitere Pods zur Verfügung, z. B. Freigabe, Notizen, Video, Chat, Teilnehmerliste, Dateien, Weblinks, Umfragen und Fragen und Antworten.
+
+>[!MORELIKETHIS]
+>
+>[Erfahren Sie, wie Sie Moderatoren und/oder Co-Hosts hinzufügen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

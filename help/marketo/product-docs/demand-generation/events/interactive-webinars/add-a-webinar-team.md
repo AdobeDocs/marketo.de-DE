@@ -3,7 +3,7 @@ description: Webinar-Team hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: Hinzufügen eines Webinar-Teams
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 Ein Webinar-Team in interaktiven Webinaren besteht aus allen Rollen, die zum erfolgreichen Abhalten des Webinars in Adobe Connect beitragen. Dazu gehören sowohl Moderatoren als auch Co-Moderatoren.
 
->[!NOTE]
->
->Moderatoren und Co-Hosts in Marketo Engage sind den Rollen des Moderators und Hosts während des Webinar-Versands in Adobe Connect genau zugeordnet. Co-Hosts können die Layouts und Pods ändern, Moderatoren dagegen nicht.
-
-Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erlebnisses beteiligt ist, während Co-Moderatoren als Referent agieren und administrative Aspekte der Webinar-Bereitstellung handhaben können. Co-Hosts können sowohl intern als auch extern sein. Externe Co-Moderatoren haben keinen Zugriff auf die Veranstaltungsprogramme für interaktive Webinare in Marketo, verfügen jedoch über Host-Berechtigungen während der Bereitstellung in Adobe Connect. Interne Co-Moderatoren haben Zugriff auf das Veranstaltungsprogramm für interaktive Webinare in Marketo sowie auf Hostberechtigungen während des Versands. Dadurch wird sichergestellt, dass die internen Co-Moderatoren die Zügel des Veranstaltungsprogramms für interaktive Webinare übernehmen können, wenn der ursprüngliche Ersteller des Programms für interaktive Webinare entweder nicht mehr zum Benutzerset für interaktive Webinare gehört oder noch nicht einmal ein Marketo-Benutzer ist.
-
 >[!PREREQUISITES]
 >
 >* [Erstellen eines interaktiven Webinars](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
 >
 >* [Gestalten Sie Ihr interaktives Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
+
+Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erlebnisses beteiligt ist, während Co-Moderatoren als Referent agieren und administrative Aspekte der Webinar-Bereitstellung handhaben können. Co-Hosts können sowohl intern als auch extern sein. Externe Co-Moderatoren haben keinen Zugriff auf die Veranstaltungsprogramme für interaktive Webinare in Marketo, verfügen jedoch über Host-Berechtigungen während der Bereitstellung in Adobe Connect. Interne Co-Moderatoren haben Zugriff auf das Veranstaltungsprogramm für interaktive Webinare in Marketo sowie auf Hostberechtigungen während des Versands. Dadurch wird sichergestellt, dass die internen Co-Moderatoren die Zügel des Veranstaltungsprogramms für interaktive Webinare übernehmen können, wenn der ursprüngliche Ersteller des Programms für interaktive Webinare entweder nicht mehr zum Benutzerset für interaktive Webinare gehört oder noch nicht einmal ein Marketo-Benutzer ist.
+
+>[!NOTE]
+>
+>Moderatoren und Co-Hosts in Marketo Engage sind den Rollen des Moderators und Hosts während des Webinar-Versands in Adobe Connect genau zugeordnet. Co-Hosts können die Layouts und Pods ändern, Moderatoren dagegen nicht.
 
 ## Co-Host hinzufügen {#add-a-co-host}
 
