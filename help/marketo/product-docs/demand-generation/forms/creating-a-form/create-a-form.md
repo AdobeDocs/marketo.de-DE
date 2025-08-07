@@ -4,20 +4,20 @@ description: Erstellen eines Formulars - Marketo-Dokumente - Produktdokumentatio
 title: Formular erstellen
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # Formular erstellen {#create-a-form}
 
-Erstellen und Verwenden eines Formulars auf einer Landingpage zum Generieren neuer Namen. Es ist wirklich einfach - hier ist der Einstieg.
+Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu generieren oder die gewünschten Daten zu erfassen.
 
 >[!NOTE]
 >
->Erfahren Sie, was Marketo tut, um [Ihre Formulare sicher zu ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Erfahren Sie, was Marketo Engage tut, um [Ihre Formulare sicher zu ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -41,9 +41,7 @@ Erstellen und Verwenden eines Formulars auf einer Landingpage zum Generieren neu
 
 >[!TIP]
 >
->Die meisten Kunden erstellen für jede Landingpage ein neues Formular. Sie können aber auch ein Formular erstellen, das mit mehreren Landingpages verwendet werden kann. Das hängt ganz von Ihnen ab!
-
-Süß! Nachdem das Formular erstellt wurde, feilen wir an ihm an.
+>Die meisten Benutzer erstellen für jede Landingpage ein neues Formular. Sie können aber auch ein Formular erstellen, das mit mehreren Landingpages verwendet werden kann. Das hängt ganz von Ihnen ab!
 
 >[!MORELIKETHIS]
 >
