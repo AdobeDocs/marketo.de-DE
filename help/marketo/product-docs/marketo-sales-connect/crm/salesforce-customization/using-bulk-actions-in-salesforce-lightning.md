@@ -4,9 +4,9 @@ description: Verwenden von Massenaktionen in Salesforce Lightning - Marketo-Doku
 title: Verwenden von Massenaktionen in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fad80e8dccbad19b76570ee49fd8e7def0103fb1
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,10 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne
 
 >[!PREREQUISITES]
 >
->Aktualisieren Sie auf die neueste Version des [!DNL Sales Connect]-Pakets und installieren Sie die Massenaktionsschaltflächen in Ihrer Lead-/Kontaktansicht. [Klicken Sie hier für Anweisungen](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Aktualisieren Sie auf die neueste Version des [!DNL Sales Connect]-Pakets und installieren Sie die Massenaktionsschaltflächen in Ihrer Lead-/Kontaktansicht.
+>* [Anweisungen in englischer Sprache](assets/SF+Guide+for+Lightning-EN)
+>* [Anleitungen auf Japanisch, Koreanisch, Chinesisch](assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [Anleitungen auf Spanisch, Französisch, Deutsch, Italienisch, Schwedisch](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
@@ -70,7 +73,7 @@ d. Sie können die E-Mail sofort senden oder einen Zeitplan festlegen, um sie zu
 
    ![](assets/eight-2.png)
 
-1. Eine neue Registerkarte mit dem Namen &quot;[!DNL Salesforce] Bridge&quot; wird geöffnet. Klicken Sie auf **[!UICONTROL Schaltfläche &#x200B;]Mit Gruppe fortfahren→**.
+1. Eine neue Registerkarte mit dem Namen &quot;[!DNL Salesforce] Bridge&quot; wird geöffnet. Klicken Sie auf **[!UICONTROL Schaltfläche ]Mit Gruppe fortfahren→**.
 
    ![](assets/nine-2.png)
 
