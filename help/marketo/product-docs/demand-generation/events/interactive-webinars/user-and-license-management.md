@@ -3,9 +3,9 @@ description: Benutzer- und Lizenzverwaltung - Marketo-Dokumente - Produktdokumen
 title: Benutzer- und Lizenzverwaltung
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 2%
 
 ---
@@ -89,7 +89,7 @@ Interaktive Webinare bieten spezielle Lizenzen zum Erstellen von Ereignissen, di
   </tr>
   <tr>
    <td width="20%"><b>Verbrauchte Ereignisse</b></td>
-   <td width="80%">Die Gesamtzahl der abgeschlossenen Ereignisse.</td>
+   <td width="80%">Alle abgeschlossenen und aktuell geplanten Events. <a href="#things-to-note">Weitere Informationen</a></td>
   </tr>
   <tr>
    <td width="20%"><b>Speicherkapazität</b></td>
@@ -98,13 +98,13 @@ Interaktive Webinare bieten spezielle Lizenzen zum Erstellen von Ereignissen, di
   </tbody>
 </table>
 
-**Zu beachtende Punkte**
+### Zu beachtende Punkte {#things-to-note}
+
+* Jedes Mal, wenn ein Ereignis erstellt wird, zählt es als „genutzt“ aus der jeweiligen Lizenz (es sei denn, es handelt sich um eine Shared Room-Lizenz). „Shared Event License“ wird bevorzugt, wenn sowohl „Shared Event License“ als auch „Shared Room License“ derselben Kapazität vorhanden sind. Wenn das Ereignis nicht zugestellt wurde und das Ereignisprogramm vor dem geplanten Zeitpunkt gelöscht wird, wird die Ereignisanzahl wieder aufgefüllt. Wenn das Ereignis nicht zugestellt wird und das Ereignisprogramm nicht vor dem geplanten Zeitpunkt gelöscht wird, wird das Ereignis nicht wieder aufgefüllt.
 
 * Der Typ „Zusätzliche Speicherlizenz“ bietet nur Speicher, daher wird der Wert in jedem Feld _außer_ Speicherkapazität einfach als &quot;-&quot; aufgeführt.
 
 * Der Typ „Shared Room License“ verfügt über unbegrenzte Ereignisse und „Additional Storage License“ bietet nur Speicher, sodass das Feld Gesamtereignisse für diese Lizenzen einfach als &quot;-&quot; aufgeführt wird.
-
-* Jedes Mal, wenn ein Ereignis erstellt wird, wird es von der jeweiligen Lizenz als „genutzt“ gezählt (es sei denn, es handelt sich um eine Shared Room-Lizenz). Die „Shared Event License“ wird bevorzugt, wenn es sowohl „Shared Event License“ als auch „Shared Room License“ derselben Kapazität gibt. Wenn das Ereignis nicht zugestellt wurde und das Ereignisprogramm vor dem geplanten Zeitpunkt gelöscht wird, wird die Ereignisanzahl durch Subtrahieren eines Ereignisses von den verbrauchten Ereignissen wieder aufgefüllt.
 
 * Sobald eine Lizenz erschöpft ist, bleibt ihre Kachel auf dem interaktiven Webinar-Bildschirm im Admin-Bereich mit dem gleichen Wert für „Gesamte Ereignisse“ und „Genutzte Ereignisse“. Nur wenn die Lizenz abläuft, wird sie vom Bildschirm entfernt.
 
