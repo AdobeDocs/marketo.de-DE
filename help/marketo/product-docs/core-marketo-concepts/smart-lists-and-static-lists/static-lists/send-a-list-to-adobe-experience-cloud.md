@@ -4,9 +4,9 @@ description: Liste an Adobe Experience Cloud senden - Marketo-Dokumente - Produk
 title: Liste an Adobe Experience Cloud senden
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 8bc619b9b9a75c3b20a8f30ebf902ab4b881e627
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '811'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 1%
 * Adobe Analytics (_nur_ wenn Sie eine Adobe Audience Manager-Lizenz besitzen)
 * Adobe Audience Manager
 * Adobe Experience Manager
-* Adobe Real-time Customer Data Platform
+* Adobe Real-Time Customer Data Platform
 * Adobe Target
 
 ## So senden Sie eine statische Liste {#how-to-send-a-static-list}
@@ -38,7 +38,7 @@ Eine statische Liste ist genau das: statisch. In Adobe Experience Cloud werden k
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Audience Manager Klicken Sie auf die Dropdown-**&#x200B;** Zielordner und wählen Sie den gewünschten Zielordner auf der Experience Cloud aus.
+1. Klicken Sie auf die Dropdown-**** Audience Manager-Ordner und wählen Sie den gewünschten Zielordner in der Experience Cloud aus.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
@@ -52,7 +52,7 @@ Eine statische Liste ist genau das: statisch. In Adobe Experience Cloud werden k
 
    >[!NOTE]
    >
-   >Es kann bis zu 6-8 Stunden dauern, bis die Zielgruppenzugehörigkeit vollständig im Adobe angegeben ist.
+   >Es kann bis zu 6-8 Stunden dauern, bis die Zielgruppenzugehörigkeit in Adobe vollständig ist.
 
 ## Senden einer synchronisierten Liste {#how-to-send-a-synced-list}
 
@@ -62,7 +62,7 @@ Das Synchronisieren einer Liste bedeutet, dass jedes Mal, wenn Sie eine Liste in
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
-1. Klicken Sie auf **[!UICONTROL Zielgruppenbibliotheksordner]** und wählen Sie den gewünschten Zielordner auf der Experience Cloud aus.
+1. Klicken Sie auf **[!UICONTROL Zielgruppenbibliotheksordner]** und wählen Sie den gewünschten Zielordner in der Experience Cloud aus.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
@@ -70,7 +70,7 @@ Das Synchronisieren einer Liste bedeutet, dass jedes Mal, wenn Sie eine Liste in
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. Klicken Sie auf **OK**.
+1. Klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -92,29 +92,31 @@ Sie können die Synchronisierung Ihrer Liste jederzeit beenden.
 
 ## Zu beachtende Punkte {#things-to-note}
 
-**Für Adobe Analytics freigeben**
+### Für Adobe Analytics freigeben {#sharing-to-adobe-analytics}
 
-* Kunden, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, können durch diese Integration Zielgruppen aus Marketo für Ihre Adobe Analytics Report Suites freigeben. Es müssen jedoch einige zusätzliche Konfigurationsschritte in Adobe Audience Manager vorgenommen werden, um dies zu aktivieren. Weitere Informationen zum Einrichten finden Sie in [&#128279;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=de){target="_blank"} Dokumentation zu Adobe Audience Manager.
+* Für Benutzende, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, ermöglicht diese Integration die Freigabe von Zielgruppen aus Marketo für Ihre Adobe Analytics Report Suites. Es müssen jedoch einige zusätzliche Konfigurationsschritte in Adobe Audience Manager vorgenommen werden, um dies zu aktivieren. Weitere Informationen zum Einrichten finden Sie in [ Dokumentation zu ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}Adobe Audience Manager.
 
-* Wenn eine Liste leer ist oder keine Personen mit ECID-Werten hat, wird der Listenname nicht an einen externen Ort weitergeleitet, um außerhalb von Marketo Engage referenziert zu werden.
+* Nachdem eine Liste von Marketo in Adobe Audience Manager hochgeladen wurde, kann sie auch von Adobe Target aufgerufen werden. Diese Konfiguration [muss in Adobe Target aktiviert werden](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
-**Nutzung von Eigenschaften für Adobe Audience Manager-Kunden**
+* Wenn eine Liste leer ist oder keine Personen mit ECID-Werten enthält, wird der Listenname nicht an einen externen Ort außerhalb von Marketo weitergeleitet.
+
+### Nutzung von Eigenschaften für Adobe Audience Manager-Kunden {#trait-usage-aam}
 
 Wenn Sie einen Listenexport in Marketo starten, werden Sie die folgenden Änderungen in Ihrer Adobe Audience Manager-Instanz feststellen:
 
 * Für alle Personen in der exportierten Liste schreibt Marketo eine Eigenschaft mit den gehashten E-Mails als geräteübergreifende Kennung. Der Name des Merkmals stimmt mit dem Namen der Ziel-Zielgruppe überein, den Sie beim Export angegeben haben.
 * Für alle ECIDs, die Marketo den Personen in der exportierten Liste zuordnen konnte, schreibt Marketo eine Eigenschaft mit der ECID-Gerätekennung. Der Name des Merkmals stimmt mit dem Namen der Ziel-Zielgruppe überein, den Sie beim Export angegeben haben.
-* Marketo Audience Manager erstellt auch ein Segment in Ihrer Segmentinstanz und verwendet dabei das ECID-Merkmal als einziges Segmentierungskriterium. Der Name des Segments entspricht dem Ziel-Zielgruppennamen, den Sie beim Export angegeben haben.
+* Marketo erstellt auch ein Segment in Ihrer Audience Manager-Instanz und verwendet dabei das ECID-Merkmal als einziges Segmentierungskriterium. Der Name des Segments entspricht dem Ziel-Zielgruppennamen, den Sie beim Export angegeben haben.
 
 ## FAQs {#faq}
 
 **Warum unterscheidet sich die Listengröße in Marketo von der in Adobe?**
 
-Im Hintergrund funktioniert die Zielgruppenintegration durch die Synchronisierung von Marketo Munchkin-Cookies mit dem entsprechenden Adobe-ECID-Cookie. Marketo kann Mitgliedschaftsdaten nur für Personen freigeben, für die Marketo eine ECID synchronisiert hat. Um die bestmöglichen Ergebnisse zu erzielen, wird empfohlen, das Tracking-Skript munchkin.js von Marketo parallel zum Trackingcode Adobe visitor.js auf allen Seiten zu laden, die für Marketingzwecke verfolgt werden sollen.
+Im Hintergrund funktioniert die Zielgruppenintegration durch die Synchronisierung von Marketo Munchkin-Cookies mit dem entsprechenden Adobe ECID-Cookie. Marketo kann Mitgliedschaftsdaten nur für Personen freigeben, für die Marketo eine ECID synchronisiert hat. Um die bestmöglichen Ergebnisse zu erzielen, wird empfohlen, das Tracking-Skript „munchkin.js“ von Marketo parallel zum Tracking-Code „visitor.js“ von Adobe auf allen Seiten zu laden, die für das Tracking zu Marketing-Zwecken verwendet werden sollen.
 
 **Wie funktioniert die Cookie-Synchronisierung?**
 
-Wenn die Cookie-Synchronisierung für Ihr Marketo-Abonnement aktiviert ist, versucht munchkin.js von Marketo, Adobe-ECIDs für die Adobe IMS-Organisation zu erfassen und zu speichern, die Sie während der Einrichtung der Integration angegeben haben, und diese ECIDs mit der entsprechenden Marketo-Cookie-Kennung abzugleichen. Dadurch können die anonymen Benutzerprofile von Marketo mit Adobe-ECIDs angereichert werden.
+Wenn die Cookie-Synchronisierung für Ihr Marketo-Abonnement aktiviert ist, versucht munchkin.js von Marketo, Adobe-ECIDs für die Adobe IMS-Organisation zu erfassen und zu speichern, die Sie während der Einrichtung der Integration angegeben haben, und diese ECIDs mit der entsprechenden Marketo-Cookie-Kennung abzugleichen. Dadurch können anonyme Benutzerprofile von Marketo mit Adobe-ECIDs angereichert werden.
 
 Ein weiterer Schritt ist erforderlich, um das anonyme Benutzerprofil mit einem Personenprofil zu verknüpfen, das mithilfe einer Nur-Text-E-Mail identifiziert wird. Wie das genau funktioniert, [ hier beschrieben](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
