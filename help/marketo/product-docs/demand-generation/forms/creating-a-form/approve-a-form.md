@@ -4,55 +4,51 @@ description: Genehmigen eines Formulars - Marketo-Dokumente - Produktdokumentati
 title: Formulare genehmigen
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e29ee847eb91a59c75d0afb9f3cfc19622b4dd81
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 1%
+source-wordcount: '112'
+ht-degree: 0%
 
 ---
 
 # Formulare genehmigen {#approve-a-form}
 
-Um ein Formular zu einer Landingpage hinzufügen zu können, muss es genehmigt werden. So geht das.
+Um ein Formular zu einer Landingpage hinzufügen zu können, muss es genehmigt werden.
 
-## Formulare genehmigen {#approve-a-form-1}
+## Formulare genehmigen {#approve}
 
 So validieren Sie ein vorhandenes Formular, das einsatzbereit ist.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
-   ![](assets/login-marketing-activities-7.png)
+   ![](assets/approve-a-form-1.png)
 
-1. Suchen und wählen Sie Ihr Formular aus.
+1. Wählen Sie das gewünschte Formular aus und klicken Sie auf **[!UICONTROL Entwurf genehmigen]**.
 
-   ![](assets/image2014-9-15-17-3a49-3a40.png)
+   ![](assets/approve-a-form-2.png)
 
-1. Klicken **[!UICONTROL unter &quot;]**&quot; auf **[!UICONTROL Genehmigen]**.
+   Ein grünes Häkchen wird angezeigt.
 
-   ![](assets/image2014-9-15-17-3a49-3a47.png)
+   ![](assets/approve-a-form-3.png)
 
-1. Das grüne Häkchen?
-
-   ![](assets/image2014-9-15-17-3a50-3a2.png)
-
-   Sie ist genehmigt und kann [zu einer Landingpage hinzugefügt werden](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Sie wurde genehmigt und kann jetzt [zu einer Landingpage hinzugefügt werden](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}.
 
    >[!NOTE]
    >
    >Änderungen, die nach der Genehmigung vorgenommen werden, können einige Minuten dauern, bis sie in eingebetteten Formularen aktualisiert werden.
 
-## Genehmigen eines Formulars im Editor {#approve-a-form-from-the-editor}
+## Genehmigen eines Formulars im Editor {#approve-from-the-editor}
 
-Wenn Sie Änderungen an einem Formular vornehmen, können Sie die Seite direkt über den Editor genehmigen.
+Sie können ein Formular direkt im Formulareditor genehmigen.
 
 >[!PREREQUISITES]
 >
 >[Bearbeiten eines Formulars](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
+1. Klicken Sie im Formular auf &quot;**[!UICONTROL &quot;]**.
 
-   ![](assets/image2014-9-15-17-3a51-3a43.png)
+   ![](assets/approve-a-form-4.png)
 
 1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
-   ![](assets/image2014-9-15-17-3a52-3a1.png)
+   ![](assets/approve-a-form-5.png)
