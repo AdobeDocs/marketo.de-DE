@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 1cfb28f47ba3c168292b298e1fc7ab2ff638b412
+source-git-commit: 5ec9477573128617445ce86163001c7b71980b8c
 workflow-type: tm+mt
 source-wordcount: '9296'
 ht-degree: 6%
@@ -1030,7 +1030,7 @@ ht-degree: 6%
          + [E-Mail-Erstellung](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Erstellen von E-Mail-Vorlagen](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Benutzerdefiniertes CSS](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Markenkit](product-docs/email-marketing/email-designer/brand-kit.md)
+         + [Markenthemen](product-docs/email-marketing/email-designer/brand-themes.md)
          + [Marke anwenden](product-docs/email-marketing/email-designer/apply-brand.md)
          + [E-Mail-Rendering mit Litmus testen](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization-Token](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1850,7 +1850,7 @@ ht-degree: 6%
          + [Einrichten von Account Insight](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Account Insight Plug-in - Übersicht](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Benutzer einladen, auf Konto-Insight zuzugreifen](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Target {#target}
+      + Ziel {#target}
          + Benannte Konten {#named-accounts}
             + [Übersicht über das benannte Konto](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Benannte Konten importieren](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
