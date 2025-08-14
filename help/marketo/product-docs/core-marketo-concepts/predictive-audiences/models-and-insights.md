@@ -3,10 +3,10 @@ description: Modelle und Einblicke - Marketo-Dokumente - Produktdokumentation
 title: Modelle und Erkenntnisse
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 785f7ce976e96deaef37e197f6ba772b477aa81c
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 3%
+source-wordcount: '218'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ Die Leistung Ihrer Modelle hängt von der Qualität und Vollständigkeit der Ein
 
 So bewertet man die Modellintegrität.
 
-Navigieren Sie zum Abschnitt **[!UICONTROL Modelle und Datenintegrität]** unter **[!UICONTROL Prädiktive Zielgruppen]** im Bereich **[!UICONTROL Admin]** von Marketo Engage. Hier sehen Sie alle Ihre Modelle und deren Status.
+Navigieren Sie im Bereich **[!UICONTROL Admin]** von Marketo Engage zum Abschnitt **[!UICONTROL Modelle]** **[!UICONTROL Datenintegrität]** unter Prädiktive Zielgruppen. Hier sehen Sie alle Ihre Modelle und deren Status.
 
 ![Bild eins](assets/models-and-insights-1.png)
 
@@ -29,3 +29,5 @@ Navigieren Sie zum Abschnitt **[!UICONTROL Modelle und Datenintegrität]** unter
 * **Leistung**: Kategorisierung der Modellintegrität auf der Grundlage von Datenvollständigkeit und Datenqualität (siehe unten).
 * **Datenvollständigkeit**: Prozentsatz der Datenattribute, die vorhanden/vollständig sind.
 * **Datenqualität**: Prozentsatz der Attribute, die gute, verwendbare Daten enthalten.
+
+* **Zuletzt trainiert**: Das Datum des Modells, das aus der Bewertung zwischen dem aktuellen Modell und dem neuen Modell, das alle zwei Wochen trainiert wird, am besten hervorgeht.
