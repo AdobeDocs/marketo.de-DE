@@ -3,16 +3,16 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 9%
+source-wordcount: '514'
+ht-degree: 6%
 
 ---
 
-# Versionshinweise: Juli 2025 {#release-notes-july-25}
+# Versionshinweise: August 2025 {#release-notes-aug-25}
 
-Unten finden Sie alle Funktionen, die in der Version vom 25. Juli enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Unten finden Sie alle Funktionen, die in der Version vom 25. August enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 
 ## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 11. **2025 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 22. **2025 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,87 +32,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>E-Mail-Designer - Benutzerdefiniertes CSS</strong>: Beim Entwerfen von E-Mails können Sie jetzt Ihr eigenes benutzerdefiniertes CSS direkt in der E-Mail-Designer hinzufügen.</td>
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Spam mit SpamAssassin erkennen</strong>: Mit SpamAssassin in Marketo Engage können Sie Ihren E-Mail-Inhalt testen und feststellen, wie wahrscheinlich es ist, dass ISPs/Postfachanbieter ihn als Spam markieren.</td>
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Unterstützung für das Verschieben von Assets und das Löschen von </strong>: Schnelles Verschieben eines E-Mail-Assets programmübergreifend. Sie können jetzt auch Programme löschen, die neue Designer-E-Mail-Assets enthalten.</td>
-   <td>Versendet</td>
-   <td>k. A.</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Firefox-</strong>: Die E-Mail-Designer wird jetzt von Mozilla Firefox vollständig unterstützt. Halten Sie Ihren Browser immer auf dem neuesten Stand, um ein optimales Erlebnis zu erzielen.</td>
-   <td>Versendet</td>
-   <td>k. A.</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Inhalt auf der Eigenschaftsseite simulieren</strong>: Inhalt für E-Mail-Assets aus <i>E-Mail-Eigenschaften</i> simulieren, ohne zum Bearbeitungsbildschirm zurückkehren zu müssen.</td>
-   <td>Versendet</td>
-   <td>k. A.</td>
-  </tr>
-   <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Rollenbasierte Zugriffssteuerung für Assets</strong>: In der Mai-Version wurde rollenbasierte Zugriffssteuerung (RBAC) für die Berechtigungen Bearbeiten, Genehmigen und Löschen implementiert. Leseberechtigungen sind jetzt in dieser Version verfügbar.</td>
-   <td>Versendet</td>
-   <td>k. A.</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - E-Mail-Eigenschaften für veröffentlichte E</strong>Mails bearbeiten: Nehmen Sie Änderungen in <i>E-Mail-Eigenschaften</i> auch nach der Veröffentlichung der E-Mail vor.</td>
-   <td>Versendet</td>
-   <td>k. A.</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Branding-Domain und Domain-IP-Konfiguration auswählen</strong>: Sie können jetzt für jedes E-Mail-Asset eine Branding-Domain und eine Domain-IP-Konfiguration auswählen.</td>
-   <td>Versendet</td>
-   <td>k. A.</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Integration von E-Mail-Designer mit GenStudio</strong>: Integrieren Sie GenStudio für Leistungsmarketing aus E-Mails heraus, um die Marketing-Effizienz zu verbessern und die Markenkonsistenz zu wahren.</td>
+   <td><strong>E-Mail-Designer - Reporting</strong>: Die Berichte E-Mail-Leistung und E-Mail-Link-Leistung zeigen jetzt Daten aus E-Mails an, die mit der neuen E-Mail-Designer erstellt wurden.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -122,8 +42,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Aktualisierungen der REST-API-Fehlercode-Benachrichtigung</strong>: Zwei zusätzliche Klassen von REST-API-Fehlern in In-App-Benachrichtigungen wurden hinzugefügt: 606 - Max. Ratenlimit überschritten und 607 - Tägliches Kontingent erreicht.</td>
-   <td>Versendet</td>
+   <td><strong>E-Mail-Designer - Optimierung </strong> E-Mail-Vorschau: Bei einigen Benutzenden traten langsamere Ladezeiten auf, als sie versuchten, ihre E-Mail auf der Detailseite für E-Mail/E-Mail-Vorlage/Fragment in der Vorschau anzuzeigen. Dieses Erlebnis wurde für bis zu 60 % schnellere Ladezeiten optimiert.</td>
+   <td><i>Demnächst verfügbar</i></td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -132,8 +52,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Standardfelder für Programmteilnehmer anzeigen in der </strong>: Die Felder für standardmäßige und benutzerdefinierte Programmteilnehmer in <i>Feldverwaltung</i> sind jetzt sichtbar.</td>
-   <td>Versendet</td>
+   <td><strong>E-Mail-Designer - Vorlagenkorrekturen</strong>: Bei einigen vorkonfigurierten Vorlagen traten Rendering-Probleme auf (z. B. falsche Darstellung in bestimmten Browsern/im Dunkelmodus, falsch ausgerichtete Bilder, falsch platzierte CTA-Schaltflächen und einige mehr). Diese werden mit dieser Version alle behoben.</td>
+   <td><i>Demnächst verfügbar</i></td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -142,8 +62,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>REST-API-Namen in der </strong>-Verwaltung: Diese Aktualisierung ermöglicht es Administratoren, REST-API-Feldnamen anzuzeigen, ohne die Liste exportieren zu müssen.</td>
-   <td>Versendet</td>
+   <td><strong>E-Mail-Designer - Inhaltssperren-Fehlerbehebung</strong>: Wenn zuvor eine E-Mail-Vorlage mit Inhaltssperrung erstellt wurde und die Vorlage zum Erstellen einer E-Mail verwendet wurde, blieb die Inhaltssperre auch dann bestehen, wenn die E-Mail zurückgesetzt oder die Option „Design ändern“ ausgewählt wurde. Dieses Problem wurde mit dieser Version behoben.</td>
+   <td><i>Demnächst verfügbar</i></td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -152,7 +72,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Munchkin-Cookies und -ECIDs sind sichtbar</strong>: Auf der Registerkarte _INFO_ einer <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">Personendetailseite</a> wird nun eine Liste der Munchkin-Cookie- und -ECID-Nummern (Experience Cloud-Identität) angezeigt, wodurch die Abhängigkeit von API-Aufrufen zum Abrufen dieser Informationen verringert wird.</td>
+   <td><strong>E-Mail-Designer - Entfernung der automatischen Vervollständigung</strong>: Die Option zur automatischen Vervollständigung im Token-Personalisierungseditor verwies auf fehlerhafte Objekte und wurde entfernt. Eine erneute Implementierung ist derzeit nicht geplant.</td>
    <td>Versendet</td>
    <td>k. A.</td>
   </tr>
@@ -162,12 +82,12 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Einstellung der Marketo Engage Identity**: Im August 2025 beginnt Adobe mit der schrittweisen Einstellung der Unterstützung für Marketo Engage Identity (Anmeldung über `login.marketo.com`). Um einen unterbrochenen Zugriff auf Marketo Engage zu verhindern, müssen Sie spätestens [ 30. September 2025 zu ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}Adobe Identity wechseln.
+* **Einstellung der Marketo Engage Identity**: Im August 2025 begann Adobe, die Unterstützung für Marketo Engage Identity auslaufen zu lassen (Anmeldung über `login.marketo.com`). Um einen unterbrochenen Zugriff auf Marketo Engage zu verhindern, müssen Sie spätestens [ 30. September 2025 zu ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}Adobe Identity wechseln.
 
-   * _Einstellung von IP-Einschränkungen_: Die Unterstützung für [Einschränken von Marketo-Anmeldungen auf der Grundlage ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} IP“ endet am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Eine neue standortbasierte Zugriffssteuerungsfunktion für Adobe Identity in Adobe Admin Console ist für die Version August 2025 geplant.
+   * _Einstellung von IP-_: Die Unterstützung für [Einschränken von Marketo-Anmeldungen auf der Grundlage von IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} wurde am 30. Juli 2025 eingestellt. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Eine neue standortbasierte Zugriffssteuerungsfunktion für Adobe Identity in Adobe Admin Console wird in Kürze eingeführt.
 
-   * _Einstellung von Single Sign-On (SSO_: Die Unterstützung für [Marketo Identity SSO](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} endet am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Single Sign-On für Adobe Identity in der Adobe Admin Console muss separat konfiguriert werden. Informationen zu den Einrichtungsschritten finden Sie unter [Einrichten von Identitäten und Single Sign-On](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
+   * _Einstellung von Single Sign-On (SSO)_: Die Unterstützung für [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} endete am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Single Sign-On für Adobe Identity in der Adobe Admin Console muss separat konfiguriert werden. Informationen zu den Einrichtungsschritten finden Sie unter [Einrichten von Identitäten und Single Sign-On](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Oktober 2025. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API“ migriert ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
