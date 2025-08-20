@@ -6,14 +6,14 @@ description: Nutzen Sie die generative KI-Technologie von Adobe, um Ihren E-Mail
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '726'
 ht-degree: 3%
 
 ---
 
-# Verwenden des KI-Assistenten {#use-the-ai-assistant}
+# Verwenden des KI-Assistenten {#use-ai-assistant}
 
 Der KI-Assistent in der Marketo Engage Email Designer hilft Ihnen beim Erstellen zeitgemäßer, leistungsstarker und intuitiver E-Mails. Dies wird durch die generative KI-Technologie und die Prompt-Bibliothek von Adobe zusammen mit Firefly für die Bildgenerierung erreicht, die bei der Erstellung geeigneter Inhalte für eine bestimmte Rolle/Einkaufsgruppe, Marketing-Journey-Phase, Kommunikationsstrategie, Ton usw. hilft. Bestimmte Marken-Assets können auch zum Erstellen von Inhalten verwendet werden.
 
@@ -21,7 +21,7 @@ Der KI-Assistent in der Marketo Engage Email Designer hilft Ihnen beim Erstellen
 >
 >Der KI-Assistent ist nicht standardmäßig aktiviert. Sie müssen zunächst den Gen-AI-Kernbedingungen und den Zusatzbedingungen für die Verwendung der Gen-AI-Funktionen in E-Mail-Designer zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-Es gibt drei primäre Anwendungsfälle für den KI-Assistenten:
+Es gibt drei primäre Anwendungsfälle für AI Assistant:
 
 * [Erstellen einer Betreffzeile](#create-a-subject-line) für Ihre E-Mail
 * [Inhalt für einen bestimmten Abschnitt erstellen](#create-content-for-a-specific-section) Ihrer E-Mail
@@ -93,7 +93,7 @@ Nachdem die E-Mail erstellt wurde, haben Sie die Möglichkeit, bestimmte Abschni
 
 ![](assets/use-the-ai-assistant-7.png)
 
-In diesem Beispiel verwenden wir eine Gesundheitsvorlage. Wenn das vorhandene Bild des Gesundheitsexperten nicht Ihren Anforderungen entspricht, können Sie den KI-Assistenten anweisen, ein eigenes Bild eines Gesundheitsexperten zu erstellen. Wählen Sie einfach den Bildinhalt aus und klicken Sie dann auf den KI-Assistenten.
+In diesem Beispiel verwenden wir eine Gesundheitsvorlage. Wenn das vorhandene Bild des Gesundheitsexperten nicht Ihren Anforderungen entspricht, können Sie den KI-Assistenten anweisen, ein eigenes Bild eines Gesundheitsexperten zu erstellen. Wählen Sie einfach den Bildinhalt aus und klicken Sie dann auf KI-Assistent.
 
 ![](assets/use-the-ai-assistant-8.png)
 
