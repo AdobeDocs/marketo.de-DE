@@ -3,7 +3,7 @@ description: Best Practices für interaktive Webinare - Marketo-Dokumente - Prod
 title: Best Practices für interaktive Webinare
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cf840cee3be4ee6bb9effca6e85dfa2200153e62
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Bei virtuellen Events, ob für kleine oder große Zielgruppen, ist es wichtig, dass alles wie geplant abläuft. Mit verschiedenen Schritten, die zur Planung und Durchführung eines Ereignisses erforderlich sind, von der Vorbereitung, Beförderung, Bereitstellung und Nachbereitung, kann es manchmal nach viel fühlen.
 
-Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die bei der Planung, Gestaltung und Produktion erfolgreicher und ansprechender Webinare hilfreich sein können. Diese Tipps helfen Ihnen, die interaktiven Webinare von Adobe Connect optimal zu nutzen.
+Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die bei der Planung, Gestaltung und Produktion erfolgreicher und ansprechender Webinare hilfreich sein können. Diese Tipps helfen Ihnen, die von Adobe Connect unterstützten interaktiven Webinare optimal zu nutzen.
 
 ## Vorbereitung vor einem Ereignis {#pre-event-preparation}
 
@@ -85,7 +85,7 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 * **Fragen und Antworten**: Der Name des Teilnehmers, der die Frage eingereicht hat, und der Name des Gastgebers/Moderators, der geantwortet hat, können beide ausgeblendet werden. Dies erreichen Sie, indem Sie die Datenschutzoptionen im Abschnitt „Fragen und Antworten“ in den Zimmereinstellungen deaktivieren.
 
-* **Chat-Panel**: Das Chat-Panel ist ein Chat-Bereich, der nicht Teil der Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass Chats in Aufzeichnungen angezeigt werden, verwenden Sie das Chat-Panel anstelle des Chat-Pods. [Hier klicken](https://helpx.adobe.com/de/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} um mehr über die Verwendung des Chat Panels zu erfahren.
+* **Chat-Panel**: Das Chat-Panel ist ein Chat-Bereich, der nicht Teil der Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass Chats in Aufzeichnungen angezeigt werden, verwenden Sie das Chat-Panel anstelle des Chat-Pods. [Hier klicken](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} um mehr über die Verwendung des Chat Panels zu erfahren.
 
 * **Privater Chat**: Deaktivieren Sie den privaten Chat, um zu verhindern, dass Teilnehmer einen anderen Teilnehmer anpingen können. Dies kann erreicht werden, indem Sie die Option „Teilnehmern erlauben, privat zu chatten“ im Abschnitt „Chat“ in den Zimmereinstellungen deaktivieren.
 
