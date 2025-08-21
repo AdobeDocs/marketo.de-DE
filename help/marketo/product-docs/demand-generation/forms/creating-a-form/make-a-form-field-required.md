@@ -4,39 +4,45 @@ description: Formularfeld als erforderlich festlegen - Marketo-Dokumente - Produ
 title: Formularfeld als erforderlich festlegen
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 1%
 
 ---
 
 # Formularfeld als erforderlich festlegen {#make-a-form-field-required}
 
-Beim [Hinzufügen von Feldern ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) einem Formular können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen. So geht&#39;s.
+Beim [Hinzufügen von Feldern zu einem ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen. So geht&#39;s.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
-   ![](assets/login-marketing-activities-4.png)
+   ![](assets/make-a-form-field-required-1.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Entwurf erstellen]**.
 
-   ![](assets/editform-2.png)
+   ![](assets/make-a-form-field-required-2.png)
+
+   >[!NOTE]
+   >
+   >Wenn Ihr Formular nicht genehmigt ist, klicken Sie auf **Entwurf bearbeiten**.
 
 1. Wählen Sie das Feld aus, das Sie als erforderlich festlegen möchten, und aktivieren Sie **[!UICONTROL Ist erforderlich]**.
 
-   ![](assets/image2014-9-15-17-3a30-3a44.png)
+   ![](assets/make-a-form-field-required-3.png)
 
 1. Gut gemacht! Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
-   ![](assets/image2014-9-15-17-3a30-3a58.png)
+   ![](assets/make-a-form-field-required-4.png)
 
 1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
-   ![](assets/image2014-9-15-17-3a31-3a11.png)
+   ![](assets/make-a-form-field-required-5.png)
 
 >[!NOTE]
 >
->Vergessen Sie nicht, [ Landingpages zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Dieses Formular wird verwendet, damit die Änderungen live geschaltet werden können.
+>Vergessen Sie nicht, [ Landingpages zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} Dieses Formular wird verwendet, damit die Änderungen live geschaltet werden können.
 
-Müssen Sie die Felder, [ Sie Ihrem Formular hinzugefügt haben, ](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+>[!MORELIKETHIS]
+>
+>[Ordnen Sie die Felder, die Sie dem Formular hinzugefügt haben, neu an](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}

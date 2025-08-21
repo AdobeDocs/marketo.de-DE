@@ -4,9 +4,9 @@ description: Bearbeiten einer Feldbezeichnung in einem Formular - Marketo-Dokume
 title: Bearbeiten einer Feldbezeichnung in einem Formular
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
+source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Sie können die Beschriftung auf einem Formular beliebig ändern - Sie können s
 
    >[!NOTE]
    >
-   >Wenn Ihr Formular noch nicht genehmigt wurde, klicken Sie auf **Entwurf bearbeiten**.
+   >Wenn Ihr Formular nicht genehmigt ist, klicken Sie auf **Entwurf bearbeiten**.
 
 1. Wählen Sie Ihr Feld aus und bearbeiten Sie dann **[!UICONTROL Bezeichnung]**. Die Felder in den Formulareinstellungen spiegeln die von Ihnen eingegebene(n) Beschriftung(en) wider.
 
