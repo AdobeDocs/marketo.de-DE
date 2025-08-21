@@ -4,9 +4,9 @@ description: Vorschau eines Formulars - Marketo-Dokumente - Produktdokumentation
 title: Formularvorschau
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -17,26 +17,24 @@ Vor der Veröffentlichung können Sie das Formular in dieser schnellen und einfa
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
-   ![](assets/login-marketing-activities-6.png)
+   ![](assets/preview-a-form-1.png)
 
-1. Suchen und wählen Sie Ihr Formular aus.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Vorschau]**.
 
-   ![](assets/image2014-9-15-17-3a45-3a51.png)
+   ![](assets/preview-a-form-2.png)
 
-1. Klicken **[!UICONTROL unter &quot;]**&quot; auf **[!UICONTROL Vorschau]**.
+   >[!NOTE]
+   >
+   >Wenn Ihr Formular nicht genehmigt ist, klicken Sie auf **Entwurf in der Vorschau**.
 
-   ![](assets/image2014-9-15-17-3a46-3a9.png)
+1. Der Formular-Editor wird im _-Modus_.
 
-1. Der Formular-Editor wird im **[!UICONTROL -Modus]**.
+   ![](assets/preview-a-form-3.png)
 
-   ![](assets/image2014-9-15-17-3a46-3a17.png)
+1. Klicken Sie **[!UICONTROL Entwurf bearbeiten]**, um zum Modus _Bearbeiten_ zurückzukehren.
 
-1. Klicken Sie **[!UICONTROL Entwurf bearbeiten]**, um zum Modus **[!UICONTROL Bearbeiten]** zurückzukehren.
-
-   ![](assets/image2014-9-15-17-3a46-3a37.png)
+   ![](assets/preview-a-form-4.png)
 
 1. Ein einfaches Zurückwechseln ist möglich, indem Sie auf **[!UICONTROL Vorschau des Entwurfs]** klicken.
 
-   ![](assets/image2014-9-15-17-3a46-3a45.png)
-
-War das nicht einfach? Jetzt wissen Sie, wie Sie Ihr Formular in der Vorschau anzeigen, während Sie Änderungen vornehmen.
+   ![](assets/preview-a-form-5.png)
