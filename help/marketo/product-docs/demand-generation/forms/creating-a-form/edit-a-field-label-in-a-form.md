@@ -4,9 +4,9 @@ description: Bearbeiten einer Feldbezeichnung in einem Formular - Marketo-Dokume
 title: Bearbeiten einer Feldbezeichnung in einem Formular
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '120'
 ht-degree: 1%
 
 ---
@@ -17,30 +17,32 @@ Sie können die Beschriftung auf einem Formular beliebig ändern - Sie können s
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
-   ![](assets/login-marketing-activities-3.png)
+   ![](assets/edit-a-field-label-in-a-form-1.png)
 
-1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Formular bearbeiten]**.
+1. Wählen Sie Ihr Formular aus und klicken Sie auf **[!UICONTROL Entwurf erstellen]**.
 
-   ![](assets/image2014-9-15-17-3a26-3a27.png)
+   ![](assets/edit-a-field-label-in-a-form-2.png)
+
+   >[!NOTE]
+   >
+   >Wenn Ihr Formular noch nicht genehmigt wurde, klicken Sie auf **Entwurf bearbeiten**.
 
 1. Wählen Sie Ihr Feld aus und bearbeiten Sie dann **[!UICONTROL Bezeichnung]**. Die Felder in den Formulareinstellungen spiegeln die von Ihnen eingegebene(n) Beschriftung(en) wider.
 
-   ![](assets/image2014-9-15-17-3a26-3a42.png)
+   ![](assets/edit-a-field-label-in-a-form-3.png)
 
    >[!TIP]
    >
-   >Wenn Sie Lust haben, können Sie auf den ![Bleistift](assets/image2014-9-15-17-3a27-3a7.png) klicken. Dadurch wird ein Rich-Text-Editor geöffnet und Sie können mit Bildern, Links und mehr in die Stadt gehen!
+   >Klicken Sie auf das ![Bleistift](assets/icon-pencil.png)-Symbol, um auf den Rich-Text-Editor zuzugreifen.
 
 1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a26.png)
+   ![](assets/edit-a-field-label-in-a-form-4.png)
 
 1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a44.png)
+   ![](assets/edit-a-field-label-in-a-form-5.png)
 
 >[!NOTE]
 >
->Vergessen Sie nicht, den [ der Formularänderungen ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Landingpage-Entwurf zu genehmigen.
-
-Da hast du es! Nach und nach werden Sie zu einem Form Designer Champion.
+>Vergessen Sie nicht, den [ der Formularänderungen erstellten Landingpage-](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} zu genehmigen.
