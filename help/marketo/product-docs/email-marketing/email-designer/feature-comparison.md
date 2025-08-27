@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '907'
 ht-degree: 14%
 
 ---
@@ -259,11 +259,11 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Velocity Scripting</td>
     <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
     <td>Verfügbar</td>
-    <td>Demnächst</td>
+    <td>Nicht erforderlich</td>
   </tr>
   <tr>
-    <td>Markenkit</td>
-    <td>Möglichkeit zur Verbesserung von E-Mails, die den Markenrichtlinien entsprechen.</td>
+    <td>Handlebar-Skript</td>
+    <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
     <td>Nicht verfügbar</td>
     <td>Geplant für Q3 '25</td>
   </tr>
@@ -272,6 +272,12 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Möglichkeit, Validierungs-Workflows für E-Mails in Marketo Engage einzuführen.</td>
     <td>Nicht verfügbar</td>
     <td>Geplant für Q4 '25</td>
+  </tr>
+  <tr>
+    <td>Markenkit</td>
+    <td>Möglichkeit zur Verbesserung von E-Mails, die den Markenrichtlinien entsprechen.</td>
+    <td>Nicht verfügbar</td>
+    <td>Geplant für Q1 '26</td>
   </tr>
   <tr>
     <td>Experimentieren (A/B-Tests)</td>
