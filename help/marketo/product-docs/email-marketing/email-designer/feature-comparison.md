@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 13%
+source-wordcount: '892'
+ht-degree: 14%
 
 ---
 
@@ -177,6 +177,17 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Möglichkeit zur <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">Integration mit Litmus</a>, um zu sehen, wie Ihre E-Mails in verschiedenen E-Mail-Clients gerendert werden.</td>
     <td>Nicht verfügbar</td>
     <td>Verfügbar</td>
+    <tr>
+    <td>Integration mit GenStudio</td>
+    <td>Möglichkeit zur <a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">Integration mit GenStudio</a>.</td>
+    <td>Nicht verfügbar</td>
+    <td>Verfügbar</td>
+  </tr>
+  <tr>
+    <td>Spam Assassin-Integration</td>
+    <td>Möglichkeit, <a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">potenzielle E-Mails, die als Spam gekennzeichnet werden</a> vor dem Versand zu erkennen.</td>
+    <td>Nicht verfügbar</td>
+    <td>Verfügbar</td>
   </tr>
   <tr>
     <td>Personalization-Editor</td>
@@ -227,12 +238,6 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Demnächst</td>
   </tr>
   <tr>
-    <td>Integration mit Gen Studio</td>
-    <td>Möglichkeit zur Integration mit Gen Studio.</td>
-    <td>Nicht verfügbar</td>
-    <td>Demnächst</td>
-  </tr>
-  <tr>
     <td>Unterstützung für das Verschieben, Löschen und Importieren von Programmen mit E-Mail-Assets</td>
     <td>Möglichkeit zum Verschieben, Löschen und Importieren von E-Mail-Programmen zusammen mit E-Mail-Assets.</td>
     <td>Verfügbar</td>
@@ -254,23 +259,11 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Velocity Scripting</td>
     <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
     <td>Verfügbar</td>
-    <td>Nicht benötigt</td>
-  </tr>
-   <tr>
-    <td>Handlebar-Skript</td>
-    <td>Möglichkeit zur Verwendung von Handlebar-Skripten in E-Mails.</td>
-    <td>Nicht verfügbar</td>
-    <td>Geplant für Q3 '25</td>
+    <td>Demnächst</td>
   </tr>
   <tr>
     <td>Markenkit</td>
     <td>Möglichkeit zur Verbesserung von E-Mails, die den Markenrichtlinien entsprechen.</td>
-    <td>Nicht verfügbar</td>
-    <td>Geplant für Q3 '25</td>
-  </tr>
-  <tr>
-    <td>Spam Assassin-Integration</td>
-    <td>Die Möglichkeit, potenzielle E-Mails zu erkennen, die vor dem Versand als Spam gekennzeichnet werden.</td>
     <td>Nicht verfügbar</td>
     <td>Geplant für Q3 '25</td>
   </tr>
