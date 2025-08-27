@@ -2,9 +2,9 @@
 description: Registerkarte „Interaktionskarte“ - Marketo-Dokumente - Produktdokumentation
 title: Registerkarte Interaktionszuordnung
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -42,10 +42,10 @@ Flussschritte: Wenn ein Flussschritt Auswahlmöglichkeiten enthält, zeigt diese
 * Liste der Auswahlbedingungen, die mit dem Flussschritt verknüpft sind
 * Flussschritt bearbeiten
 
-Flussschritte: Wenn ein Flussschritt _keine_ enthält, zeigt diese Karte die Attribute an, die mit dem Flussschritt verknüpft sind. Wenn Sie darauf klicken, wird ein ausklappbares Bedienfeld mit den folgenden Informationen angezeigt:
+Flussschritte: Wenn ein Flussschritt _keine Optionen enthält_ zeigt diese Karte die Attribute an, die mit dem Flussschritt verknüpft sind. Wenn Sie darauf klicken, wird ein ausklappbares Bedienfeld mit den folgenden Informationen angezeigt:
 
 * Der Kampagnen-Flussschritt gehört zu
-* Liste der dem Flussschritt zugeordneten Attribute
+* Liste der mit dem Flussschritt verknüpften Attribute
 * Flussschritt bearbeiten
 
   ![](assets/engagement-map-tab-5.png)
@@ -56,7 +56,7 @@ Flussschritte: Wenn ein Flussschritt _keine_ enthält, zeigt diese Karte die Att
 
    * Der Kampagnen-Flussschritt gehört zu
    * Flussschritt bearbeiten
-   * Liste der dem Flussschritt zugeordneten Attribute
+   * Liste der mit dem Flussschritt verknüpften Attribute
    * Schaltfläche „Liste anzeigen“, mit der Sie eine Liste von Kampagnen öffnen, die die spezifische Kampagne „Anfrage/Ausführung“ verwenden
 
 >[!NOTE]
@@ -69,7 +69,7 @@ Flussschritte: Wenn ein Flussschritt _keine_ enthält, zeigt diese Karte die Att
    * Liste der Auswahlbedingungen, die mit dem Flussschritt verknüpft sind
    * Flussschritt bearbeiten
 
-* Wenn eine Ausführungs- oder Kampagnenanfrage Optionen enthält, werden durch Klicken auf die Flusskarte alle Optionen in den einzelnen Karten angezeigt. Durch Klicken auf _Karte_ Auswahl“ wird die Kampagne, die mit der spezifischen Auswahl verknüpft ist, erweitert und ein ausklappbares Bedienfeld mit den folgenden Informationen angezeigt:
+* Wenn eine Ausführungs- oder Kampagnenanfrage Optionen enthält, werden durch Klicken auf die Flusskarte alle Optionen in den einzelnen Karten angezeigt. Durch Klicken auf _Karte_ Auswahl“ wird die Kampagne, die mit der spezifischen Auswahl verbunden ist, erweitert und ein ausklappbares Bedienfeld mit den folgenden Informationen angezeigt:
 
    * Kampagne, zu der die Auswahl gehört
    * Auswahl bearbeiten
@@ -86,10 +86,10 @@ Nachfolgend finden Sie ein Beispiel für eine intelligente Kampagne, „Kampagne
 
 ![](assets/engagement-map-tab-11.png)
 
-1. Wenn Sie auf die Karte Kampagnenfluss ausführen klicken, werden Details zu „Kampagne B“ angezeigt.
+1. Durch Klicken auf die Karte Kampagnenfluss ausführen werden Details zu „Kampagne B“ erweitert.
 1. „Kampagne B“ enthält einen Filter, der die Zielgruppe in zwei Gruppen aufteilt: „Qualifiziert“ und „Nicht qualifiziert“.
 1. Eine qualifizierte Zielgruppe durchläuft die mit „Kampagne B“ verknüpften Flussschritte.
-1. Alle Zielgruppen (qualifiziert und nicht qualifiziert) kehren zu „Kampagne A“ zurück und fahren mit dem nächsten Flussschritt fort.
+1. Alle Audiences (qualifiziert und nicht qualifiziert) kehren zu „Kampagne A“ zurück und fahren mit dem nächsten Flussschritt fort.
 
    ![](assets/engagement-map-tab-12.png)
 
@@ -105,7 +105,7 @@ Im Folgenden finden Sie ein Beispiel für eine intelligente Kampagne, „Kampagn
 
 ![](assets/engagement-map-tab-14.png)
 
-1. Wenn Sie auf die Karte Kampagnenfluss anfragen klicken, werden die Details von „Kampagne B“ angezeigt
+1. Durch Klicken auf die Karte Kampagnenfluss anfragen werden die Details von „Kampagne B“ eingeblendet
 1. „Kampagne B“ enthält einen Filter, der die Zielgruppe in zwei Gruppen aufteilt: „Qualifiziert“ und „Nicht qualifiziert“.
 1. Eine qualifizierte Zielgruppe durchläuft die mit „Kampagne B“ verknüpften Flussschritte.
 1. Gleichzeitig wechselt alle Zielgruppen zu den nächsten Fluss -Schritten in „Kampagne A“.
@@ -124,7 +124,7 @@ Im Folgenden finden Sie ein Beispiel für eine Anfragekampagne mit Auswahlmögli
 
 Fehler in Smart-Listen und Flussschritten werden durch ein rotes Symbol auf der Karte hervorgehoben. Zusätzlich wird eine entsprechende Fehlermeldung im ausklappbaren Bedienfeld angezeigt.
 
-Warnungen in Smart Lists und Flussschritten werden über ein orangefarbenes Symbol auf der Karte hervorgehoben. Zusätzlich wird eine entsprechende Warnmeldung im ausklappbaren Bedienfeld angezeigt.
+Warnungen in Smart Lists und Flussschritten werden durch ein orangefarbenes Symbol auf der Karte hervorgehoben. Zusätzlich wird eine entsprechende Warnmeldung im ausklappbaren Bedienfeld angezeigt.
 
 Nachfolgend finden Sie ein Beispiel für eine Warnung in einer Auswahlkarte, die auf der Karte „Kampagnenfluss-Schritt ausführen“, im ausklappbaren Bedienfeld und auf der Karte „Standardauswahl“ angezeigt wird.
 

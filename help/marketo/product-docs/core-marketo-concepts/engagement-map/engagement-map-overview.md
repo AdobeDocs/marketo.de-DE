@@ -2,9 +2,9 @@
 description: Übersicht über die Interaktionskarte - Marketo-Dokumente - Produktdokumentation
 title: Interaktionskarte - Übersicht
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Navigieren Sie zu einer beliebigen vorhandenen Kampagne und klicken Sie auf **Sc
 
 ![](assets/engagement-map-overview-2.png)
 
-In der Interaktionskarte werden zwei Registerkarten angezeigt: [Interaktionskarte](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} und [Einstellungen](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+In der Interaktionskarte gibt es zwei Registerkarten: [Interaktionskarte](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} und [Einstellungen](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -61,7 +61,7 @@ Die obere Navigationsleiste enthält die folgenden Funktionen:
 
 * Fluss bearbeiten - Sie werden in einer neuen Registerkarte zur Fluss -Oberfläche navigiert, wo Sie Ihre Flussschritte hinzufügen oder bearbeiten können.
 
-* Exportieren : Dadurch wird ein Bild der Kampagnenvisualisierung heruntergeladen. Die heruntergeladene Version spiegelt alle Verzweigungen wider, die Sie erweitert haben
+* Exportieren : Dadurch wird ein Bild der Kampagnenvisualisierung heruntergeladen. Die heruntergeladene Version spiegelt alle Verzweigungen wider, die erweitert wurden
 
 * Kampagnenmitglieder anzeigen - Dadurch wird eine neue Registerkarte mit Details zum Kampagnenmitglied geöffnet.
 

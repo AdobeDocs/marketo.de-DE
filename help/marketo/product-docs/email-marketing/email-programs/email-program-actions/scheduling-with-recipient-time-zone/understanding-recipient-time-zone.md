@@ -4,9 +4,9 @@ description: Informationen zur Zeitzone der Empfänger - Marketo-Dokumente - Pro
 title: Informationen zur Zeitzone des Empfängers
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ Um jede Zeitzone zu berücksichtigen, werden E-Mail-Programme, die mit [!UICONTR
 
 ## Interaktionsprogramme {#engagement-programs}
 
-Wenn Sie [Interaktionsprogramm-Stream planen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) und [!UICONTROL Zeitzone des Empfängers] aktiv ist, beginnt die Programmbesetzung um Mitternacht in UTC +14 :00. Wir verlangen, dass Sie die erste Besetzung mindestens 25 Stunden in der Zukunft (24 Stunden + einige Zeit, um die Kampagne zu starten) planen, da Personen sich für die Besetzung in jeder Zeitzone auf der ganzen Welt qualifizieren können. Der Beginn der Verarbeitung zu diesem Zeitpunkt in UTC +14:00 garantiert, dass wir die E-Mail zum geplanten Datum und zur geplanten Uhrzeit für jede Person senden, die sich für diese Besetzung qualifiziert.
+Wenn Sie [Interaktionsprogramm-Stream planen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) und die [!UICONTROL Zeitzone des Empfängers] aktiv ist, beginnt die Programmbesetzung um Mitternacht in UTC +14 :00. Wir verlangen, dass Sie die erste Besetzung mindestens 25 Stunden in der Zukunft (24 Stunden + einige Zeit, um die Kampagne zu starten) planen, da Personen sich für die Besetzung in jeder Zeitzone auf der ganzen Welt qualifizieren können. Der Beginn der Verarbeitung zu diesem Zeitpunkt in UTC +14:00 garantiert, dass die E-Mail zum geplanten Datum und zur geplanten Uhrzeit für jede Person gesendet wird, die sich für diese Besetzung qualifiziert.
 
 ## Zeitzone wird berechnet {#calculating-time-zone}
 

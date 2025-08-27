@@ -4,22 +4,22 @@ description: Erstellen eines  [!DNL Dynamics]  Synchronisierungsfilters - Market
 title: Erstellen eines benutzerdefinierten  [!DNL Dynamics] -Filters
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
 
 # Erstellen eines benutzerdefinierten [!DNL Dynamics]-Synchronisierungsfilters {#create-a-custom-dynamics-sync-filter}
 
-Möchten Sie nicht alles in Ihrem Dynamics CRM mit Marketo Engage synchronisieren? Keine Sorge! Mit Marketo können Sie einen Synchronisierungsfilter einrichten und nur einen Teil Ihrer Datensätze synchronisieren.
+Mit Marketo können Sie einen Synchronisierungsfilter einrichten und nur einen Teil Ihrer Datensätze synchronisieren.
 
 ## Überblick {#overview}
 
 So richten Sie einen [!DNL Dynamics] Synchronisierungsfilter ein:
 
-1. Erstellen Sie in Ihrem Dynamics CRM für ein beliebiges Objekt (Lead, Kontakt, Konto, Opportunity und andere benutzerdefinierte Entitäten) ein benutzerdefiniertes Feld mit zwei Optionen (boolesch) mit dem Namen „new_syncTo“.
+1. Erstellen Sie in Ihrem Dynamics CRM für ein beliebiges Objekt (Lead, Kontakt, Konto, Opportunity und andere benutzerdefinierte Entitäten) ein benutzerdefiniertes Feld mit zwei Optionen (boolesch) namens &quot;`new_synctomkto`&quot;.
 1. Weisen Sie diesem Feld einen Wert für Ja/Nein zu.
 
 Sie müssen diese Änderungen in Dynamics CRM vornehmen, nicht in Ihrer Datenbank oder in Marketo.
@@ -140,10 +140,6 @@ Im Folgenden finden Sie einige Implementierungsdetails, die Sie kennen sollten:
 * Starten eines Synchronisierungsvorgangs
 
   Wenn der **SyncToMkto**-Wert von **Nein** auf **Ja** wechselt, wird [!DNL Dynamics] Marketo sofort aufgefordert, mit der Synchronisierung dieses Datensatzes zu beginnen. Wenn der Datensatz bereits vorhanden ist, wird er von Marketo aktualisiert. Andernfalls erstellt Marketo den Datensatz.
-
-  >[!TIP]
-  >
-  >In diesem Fall wird dem Marketo-Protokoll ein `Create [StartSync]` hinzugefügt.
 
 * Synchronisierungsvorgang anhalten
 

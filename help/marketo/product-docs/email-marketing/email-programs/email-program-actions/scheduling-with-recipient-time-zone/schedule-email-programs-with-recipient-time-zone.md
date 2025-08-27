@@ -4,7 +4,7 @@ description: Planen von E-Mail-Programmen mit der Zeitzone des Empfängers - Mar
 title: Planen von E-Mail-Programmen mit Zeitzone des Empfängers
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '839'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Planen von E-Mail-Programmen mit Zeitzone des Empfängers {#schedule-email-programs-with-recipient-time-zone}
 
-Wenn die Zeitzone des Empfängers für ein E-Mail-Programm aktiviert ist, gibt es zwei mögliche Szenarien:
+Wenn ein E-Mail-Programm geplant wird, während die Zeitzone des Empfängers aktiviert ist, gibt es zwei mögliche Szenarien:
 
 1. Planen der Ausführung des Programms **innerhalb** nächsten 25 Stunden
 1. Planung der Programmausführung (**25** in der Zukunft (d. h. nächste Woche)
@@ -63,7 +63,7 @@ Sobald Sie Ihr Programm genehmigt haben, wird es innerhalb von 15 Minuten ausgef
 
 >[!NOTE]
 >
->Obwohl das Programm den *Prozess* des E-Mail-Versands in 15 Minuten startet, werden E-Mails zu *Zeitpunkt* zugestellt. Die Empfänger erhalten weiterhin E-Mails auf der Grundlage **[!UICONTROL von Ihnen]** Zeitzoneneinstellungen.
+>Obwohl das Programm den *Prozess* des E-Mail-Versands in 15 Minuten startet, werden E *Mails zu diesem* nicht zugestellt. Die Empfänger erhalten weiterhin E-Mails auf der Grundlage **[!UICONTROL von Ihnen]** Zeitzoneneinstellungen.
 
 ## Szenario 2: Mehr als 25 Stunden {#scenario-more-than-hours}
 
@@ -79,15 +79,15 @@ Wenn Sie also in Amerika/Los Angeles sind und sowohl die Zeitzone „Head Start�
 
 <br> 
 
-Kurz gesagt: E-Mail-Programme, die mit der Zeitzone des Empfängers geplant sind, müssen zur geplanten Zeit in der frühesten Zeitzone ausgeführt werden (d. h. dort, wo sie zuerst Mitternacht erreichen), um jede Zeitzone aufzunehmen. Wenn Sie also ein E-Mail-Programm planen…
+Kurz gesagt: E-Mail-Programme, die mit der Zeitzone des Empfängers geplant sind, müssen zur geplanten Zeit in der frühesten Zeitzone ausgeführt werden (d. h., wenn sie zuerst Mitternacht erreichen), um jede Zeitzone aufzunehmen. Wenn Sie also ein E-Mail-Programm planen…
 
-* **Mit einer Lieferzeit *innerhalb* 25 Stunden** beginnt das Programm innerhalb von 15 Minuten zu laufen. Empfänger, die die geplante Zeit bereits überschritten haben, erhalten die E-Mail entsprechend den von Ihnen gewählten Zeitzoneneinstellungen.
+* **Mit einer Lieferzeit *innerhalb* 25 Stunden** beginnt das Programm innerhalb von 15 Minuten zu laufen. Empfänger, die die geplante Zeit bereits überschritten haben, erhalten die E-Mail basierend auf den von Ihnen ausgewählten Zeitzoneneinstellungen.
 * **mit einer Lieferzeit *mehr als* 25 Stunden in der Zukunft** startet das Programm zur geplanten Zeit in der frühesten Zeitzone (UTC +14 :00).
 * **mit Head Start** beginnt das Programm 12 Stunden vor der geplanten Zeit in der frühesten Zeitzone mit der Verarbeitung (UTC +14:00).
 
 >[!CAUTION]
 >
->Jeder, der sich zwischen dem Beginn des E-Mail-Versands und dem tatsächlichen Versand abmeldet, erhält weiterhin die E-Mail. Es wird empfohlen, die Abmelde-Benachrichtigung so anzupassen, dass die Bearbeitung von Abmeldungen 1-2 Werktage dauern kann.
+>Jeder, der sich zwischen dem Beginn des E-Mail-Versands und dem tatsächlichen Versand abmeldet, erhält weiterhin die E-Mail. Es wird empfohlen, die Abmelde-Benachrichtigung anzupassen, um zu erklären, dass die Verarbeitung von Abmeldungen 1-2 Werktage dauern kann.
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über die Best Practices bei der Implementierung 
 title: Wo Sie beginnen
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,6 @@ Besuchen Sie die [Adobe Marketo Engage-Community](https://nation.marketo.com/){t
 
 Erste Schritte in der Community:
 
-1. Klicken Sie **Weiter mit Adobe ID** und wählen Sie auf der Anmeldeseite Ihr Primärabonnement aus.
+1. Klicken Sie **[!UICONTROL Mit Adobe ID fortfahren]** und wählen Sie auf der Anmeldeseite Ihr Primärabonnement aus.
 1. Füllen Sie nach der Anmeldung Ihr Community-Profil aus.
 1. Nachdem Sie die Informationen übermittelt haben, landen Sie auf der Community-Homepage und können loslegen!

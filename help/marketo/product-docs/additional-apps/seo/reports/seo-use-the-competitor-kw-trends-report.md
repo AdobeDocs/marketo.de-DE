@@ -4,9 +4,9 @@ description: SEO - Bericht zu KW-Trends des Mitbewerbers verwenden - Marketo-Dok
 title: SEO - Bericht zu den KW-Trends der Konkurrenz verwenden
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -35,7 +35,7 @@ Dieses Diagramm zeigt Ihnen, welcher Prozentsatz Ihrer Keywords in einem bestimm
 |---|---|
 | [!UICONTROL Schlüsselwörter] | Die Anzahl der Keywords, die Sie verfolgen. |
 | [!UICONTROL Rang-URLs] | Die Anzahl der URLs auf Ihrer Website, die in dem von Ihnen festgelegten Bereich nach Rang geordnet sind. |
-| [!UICONTROL &#x200B; % im Rang] | Der Prozentsatz der Keywords für die Rangfolge in dem von Ihnen festgelegten Bereich. |
+| [!UICONTROL  % im Rang] | Der Prozentsatz der Keywords für die Rangfolge in dem von Ihnen festgelegten Bereich. |
 | [!UICONTROL Durchschnitt Suchen] | Die durchschnittliche Anzahl der Suchen nach diesen Keywords, die während des von Ihnen festgelegten Bereichs stattgefunden haben (in den letzten 30 Tagen bei der Google US-Suche) |
 
 ## Filtern von Daten {#filtering-data}
@@ -49,10 +49,6 @@ Dieses Diagramm zeigt Ihnen, welcher Prozentsatz Ihrer Keywords in einem bestimm
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
 ## Daten werden exportiert {#exporting-data}
-
->[!TIP]
->
->Sie können diesen Bericht auf Ihren Desktop exportieren.
 
 1. Klicken Sie **[!UICONTROL CSV exportieren]** oder **[!UICONTROL Export PDF]**.
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359900
-description: Mindestsystemanforderungen - Marketo-Dokumente - Produktdokumentation
+description: Mindestsystemanforderungen - Marketo
 title: Mindestsystemanforderungen
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 # Mindestsystemanforderungen {#minimum-system-requirements}
 
-Wenn Sie sich fragen, was Sie brauchen, um sich anzumelden und Marketo Engage zu verwenden, hier sind die Informationen, nach denen Sie suchen.
+Wenn Sie sich fragen, was Sie anmelden und Marketo Engage verwenden müssen, finden Sie hier die gewünschten Informationen.
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ Wenn Sie sich fragen, was Sie brauchen, um sich anzumelden und Marketo Engage zu
 
 >[!NOTE]
 >
->Wenn Ihr IT-Team den Web-Zugriff mithilfe einer Zulassungsliste einschränkt, bitten Sie sie, `*.marketo.com`, `*.adobe.com` und `*.adobe.net` hinzuzufügen, damit alle Marketo Engage-Ressourcen und Websockets zugelassen werden.
+>Wenn Ihr IT-Team den Web-Zugriff mithilfe einer -Zulassungsliste einschränkt, bitten Sie sie, `*.marketo.com`, `*.adobe.com` und `*.adobe.net` hinzuzufügen, damit alle Marketo Engage-Ressourcen und -Websockets zugelassen werden.

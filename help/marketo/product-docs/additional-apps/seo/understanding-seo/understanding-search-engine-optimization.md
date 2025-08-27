@@ -4,9 +4,9 @@ description: Grundlegendes zur Suchmaschinenoptimierung - Marketo-Dokumente - Pr
 title: Grundlagen zur Suchmaschinenoptimierung
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Zuerst sollten Sie die Grundlagen mit diesem praktischen Glossar lernen.
 
 **Eingehende Links**: Links auf anderen Sites, die Traffic zu Ihrer Site leiten. Je höher die Reputation der verknüpfenden Site ist, desto wertvoller ist dieser eingehende Link.
 
-**SERP ranking**: steht für Suchmaschinenergebnisseite. Suchmaschinen geben mehrere Ergebnisseiten zurück. Die SERP-Rangfolge ist die Seite, auf der Ihr Link angezeigt wird. In der Regel gibt es 10 Ergebnisse pro Seite.
+**SERP ranking**: steht für Suchmaschinenergebnisseite. Suchmaschinen geben mehrere Ergebnisseiten zurück. Das SERP-Ranking ist die Seite, auf der Ihr Link angezeigt wird. In der Regel gibt es 10 Ergebnisse pro Seite.
 
 **Suchmaschinenansicht** Die Art und Weise, wie ein Suchmaschinencomputer Ihre Site im Gegensatz zu der eines Menschen wahrnimmt.
 

@@ -3,9 +3,9 @@ description: Synchronisieren einer Zielgruppe aus Adobe Experience Cloud - Marke
 title: Synchronisieren einer Zielgruppe aus Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 1%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Von Experience Cloud-Zielgruppe synchronisieren]**.
+1. Klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Aus Experience Cloud-Zielgruppe synchronisieren]**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
@@ -50,7 +50,7 @@ ht-degree: 1%
 
 **Wie funktioniert die Cookie-Synchronisierung?**
 
-Wenn die Cookie-Synchronisierung für Ihr Marketo-Abonnement aktiviert ist, versucht munchkin.js von Marketo, Adobe-ECIDs für die Adobe IMS-Organisation zu erfassen und zu speichern, die Sie während der Einrichtung der Integration angegeben haben, und diese ECIDs mit der entsprechenden Marketo-Cookie-Kennung abzugleichen. Dadurch können die anonymen Benutzerprofile von Marketo mit Adobe-ECIDs angereichert werden.
+Wenn die Cookie-Synchronisierung für Ihr Marketo-Abonnement aktiviert ist, versucht munchkin.js von Marketo, Adobe-ECIDs für die Adobe IMS-Organisation zu erfassen und zu speichern, die Sie während der Integrationseinrichtung angegeben haben, und diese ECIDs mit der entsprechenden Marketo-Cookie-Kennung abzugleichen. Dadurch können anonyme Benutzerprofile von Marketo mit Adobe-ECIDs angereichert werden.
 
 Ein weiterer Schritt ist erforderlich, um das anonyme Benutzerprofil mit einem Lead-Profil zu verknüpfen, das mithilfe einer Nur-Text-E-Mail identifiziert wird. Wie das genau funktioniert [wird hier beschrieben](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
@@ -60,4 +60,4 @@ Eine Person wird auch nicht synchronisiert, wenn wir eine ECID-Cookie-ID nicht a
 
 **Handelt es sich um eine einmalige Synchronisation?**
 
-Sie müssen die Synchronisierung nur einmal starten. Danach werden die Datensätze automatisch synchronisiert. Die Erstsynchronisierung kann bis zu 24 Stunden dauern. Ab sofort werden neue Datensätze in 2-3 Stunden synchronisiert.
+Sie müssen die Synchronisierung nur einmal starten. Danach werden die Datensätze automatisch synchronisiert. Die Erstsynchronisierung kann bis zu 24 Stunden dauern. In Zukunft werden neue Datensätze in 2-3 Stunden synchronisiert.

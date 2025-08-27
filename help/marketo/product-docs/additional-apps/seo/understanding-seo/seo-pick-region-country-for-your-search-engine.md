@@ -4,9 +4,9 @@ description: SEO - Region/Land für Suchmaschine auswählen - Marketo Docs - Pro
 title: SEO - Region/Land für Ihre Suchmaschine wählen
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ SEO-Administratoren können die Region für die Suchmaschine auswählen, für di
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-Ausgezeichnete Arbeit. Jetzt sehen Sie die Keyword-Ränge für das Land oder die Stadt Ihrer Wahl.
+Sehen Sie sich jetzt die Keyword-Ränge für das Land oder die Stadt Ihrer Wahl an.
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 

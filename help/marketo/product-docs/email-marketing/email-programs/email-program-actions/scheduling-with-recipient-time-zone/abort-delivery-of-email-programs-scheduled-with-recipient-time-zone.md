@@ -4,9 +4,9 @@ description: Abbruch des Versands von E-Mail-Programmen mit Zeitzone des Empfän
 title: Versand von E-Mail-Programmen mit Zeitzone des Empfängers abbrechen
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 In Notfällen können Sie den Versand eines E-Mail-Programms abbrechen, das bereits mit aktivierter Zeitzone des Empfängers ausgeführt wird.
 
-Da E-Mail-Programme, die mit der Zeitzone des Empfängers geplant sind, bis zu 24 Stunden laufen können, werden bei Abbruch der Bereitstellung des Programms alle nachfolgenden Sendungen nach diesem Zeitpunkt abgebrochen.
+Da E-Mail-Programme, die mit der Zeitzone des Empfängers geplant sind, bis zu 24 Stunden laufen können, werden bei Abbruch der Programmauslieferung alle nachfolgenden Sendungen nach diesem Zeitpunkt abgebrochen.
 
-1. Wählen Sie das E-Mail-Programm aus, das Sie abbrechen möchten, und klicken Sie dann **[!UICONTROL Versand abbrechen]** unter der Kachel [!UICONTROL Validierung] im Control Panel.
+1. Wählen Sie das E-Mail-Programm aus, das Sie abbrechen möchten, und klicken Sie dann unter der Kachel **[!UICONTROL Validierung]** im Control Panel auf [!UICONTROL Versand abbrechen].
 
    ![](assets/ptz-abortdelivery.png)
 

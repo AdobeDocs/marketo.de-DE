@@ -4,9 +4,9 @@ description: Anpassen einer Präsentation - Marketo-Dokumente - Produktdokumenta
 title: Anpassen einer Präsentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Richten Sie Ihre Kalenderpräsentation so ein, dass sie die Ziele und Aktivität
 
 ## Ansichten auswählen {#choosing-the-views}
 
-Presentations durchläuft verschiedene [Filterdefinitionen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} die Sie auswählen. Ziehen Sie beliebig viele Ansichten in den Arbeitsbereich und passen Sie die Häufigkeit an.
+Präsentationen durchlaufen verschiedene [Filterdefinitionen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} die Sie auswählen. Ziehen Sie beliebig viele Ansichten in den Arbeitsbereich und passen Sie die Häufigkeit an.
 
 1. Ziehen Sie aus der rechten Struktur die verschiedenen Ansichten, durch die Sie in Ihrer Präsentation gedreht werden möchten.
 
@@ -36,7 +36,7 @@ Presentations durchläuft verschiedene [Filterdefinitionen](/help/marketo/produc
 
 ## Ziel hinzufügen {#add-a-goal}
 
-Presentations sind die fantastischsten, wenn sie Ihre Teamziele anzeigen. Ziehen Sie einfach über verschiedene [benutzerdefinierte Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} oder [Smart List-Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Sie können bis zu 10 verwenden.
+Präsentationen sind am besten geeignet, wenn sie die Ziele Ihres Teams darstellen. Ziehen Sie einfach über verschiedene [benutzerdefinierte Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} oder [Smart List-Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Sie können bis zu 10 verwenden.
 
 1. Ziehen Sie aus der rechten Baumstruktur die verschiedenen Ziele, die in der Präsentation angezeigt werden sollen.
 

@@ -4,10 +4,10 @@ description: SEO - Bericht zu Keyword-Trends verwenden - Marketo-Dokumente - Pro
 title: SEO - Bericht zu Keyword-Trends verwenden
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 3%
+source-wordcount: '169'
+ht-degree: 2%
 
 ---
 
@@ -50,16 +50,12 @@ In diesem Bericht können Sie sehen, wie Sie im Laufe der Zeit bei Schlüsselwö
 
 ## Daten werden exportiert {#exporting-data}
 
->[!TIP]
->
->Sie können diesen Bericht auf Ihren Desktop exportieren.
-
 1. Klicken Sie **[!UICONTROL CSV exportieren]** oder **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   Gut gemacht! Sie können auch sehen, wie Sie im Keyword-Ranking mit Ihren Mitbewerbern vergleichen.
+Sie können auch sehen, wie Sie im Keyword-Ranking mit Ihren Mitbewerbern vergleichen.
 
-   >[!NOTE]
-   >
-   >[Verwenden des Berichts „Trends beim Wettbewerbsrang von KW“](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+>[!NOTE]
+>
+>[Verwenden des Berichts „Trends beim Wettbewerbsrang von KW“](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

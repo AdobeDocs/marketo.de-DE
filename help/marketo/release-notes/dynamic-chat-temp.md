@@ -5,9 +5,9 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '924'
 ht-degree: 3%
 
 ---
@@ -36,7 +36,7 @@ Die Live-Chat-Routing-Logik in Dynamic Chat wurde überarbeitet, um ein intellig
 
 * **Routingregelspezifisches Verhalten**
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 Wenn die E-Mail-Domain eines Besuchers einem bekannten Konto zugeordnet ist, wird der zugeordnete Agent immer priorisiert.
 
@@ -46,15 +46,14 @@ Wenn der Agent nicht verfügbar ist, führt das System Folgendes aus:
 
 * Versucht keinen anderen Agenten, auch wenn Round Robin als Ausweichlösung aktiviert ist.
 
-* Stattdessen gilt Folgendes:
+Stattdessen gilt Folgendes:
 
-   * Zeigt den Besprechungskalender des zugeordneten Agenten an (falls aktiviert),
-&#x200B;- oder -
-   * Kehrt zu einer Standardmeldung zurück (im schlimmsten Fall).
+* Zeigt den Besprechungskalender des zugeordneten Agenten an (falls aktiviert) oder:
+* Kehrt zu einer Standardmeldung zurück (im schlimmsten Fall).
 
 Die Routing-Regel auf Kartenebene (z. B. Team, Benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agent).
 
-_&#x200B;**Benutzerdefiniertes/Team-Routing**&#x200B;_
+_**Benutzerdefiniertes/Team-Routing**_
 
 Diese Regeln können mehrere geeignete Agenten zurückgeben.
 
@@ -65,10 +64,10 @@ Ein Round-Robin-Fallback wird nicht ausgelöst, nur weil ein Agent nicht reagier
 Wenn keiner der Agenten eingreift:
 
 * Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
-&#x200B;- oder -
+- oder -
 * Zeigt die standardmäßige Fallback-Nachricht an.
 
-_&#x200B;**Round Robin-Routing**&#x200B;_
+_**Round Robin-Routing**_
 
 Bei Verwendung als primäre Routingregel führt das System Folgendes durch:
 
@@ -78,7 +77,7 @@ Bei Verwendung als primäre Routingregel führt das System Folgendes durch:
 
 Wenn Round Robin als Fallback verwendet wird, wird er nur aktiviert, wenn keine Agenten von der primären Regel aufgelöst werden.
 
-_&#x200B;**Besuchererlebnis-Fluss**&#x200B;_
+_**Besuchererlebnis-Fluss**_
 
 Das System prüft, ob Konto-Routing anwendbar ist.
 
@@ -86,23 +85,23 @@ Das System prüft, ob Konto-Routing anwendbar ist.
 
 * Wenn der Agent nicht geeignet oder nicht verfügbar ist, fährt er mit der Routing-Regel auf Kartenebene fort.
 
-Routingregel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wird ausgewertet.
+Routingregel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wurden ausgewertet.
 
 * Berechtigte Agenten werden auf Verfügbarkeit geprüft (Berechtigungen, Status).
 
 * Das System greift auf einen Agenten zu und versucht bei Bedarf einen zweiten Agenten aus derselben Regel.
 
-* Wenn keine Interaktion erfolgreich ist, wird eine Ausweichlogik angewendet:
+* Wenn keine Interaktion erfolgreich ist, wird die Ausweichlogik angewendet:
 
    * Kalender-Fallback (falls aktiviert),
-&#x200B;- oder -
+- oder -
    * Standardnachricht.
 
 Ein Round-Robin-Fallback wird nur berücksichtigt, wenn keine geeigneten Agenten aus der primären Routing-Regel gefunden werden, nicht, wenn einzelne Agenten nicht reagieren.
 
 ##### Anwendungsfälle {#use-cases}
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 <table><thead>
   <tr>
@@ -119,16 +118,16 @@ _&#x200B;**Konto-Routing**&#x200B;_
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>Zugeordneter Agent ist nicht verfügbar, Round Robin Fallback ist aktiviert</td>
-    <td>System wählt einen verfügbaren Agenten über Round Robin aus und bindet ihn ein </td>
+    <td>Das System wählt einen verfügbaren Agenten über Round Robin aus und bindet ihn ein </td>
   </tr>
   <tr>
     <td>Kein Fallback-Agent</td>
     <td>Zugeordneter Agent ist nicht verfügbar, kein Round Robin Fallback; Besprechungsbuchung ist aktiviert</td>
-    <td>Das System zeigt den Kalender des zugeordneten Agenten an oder zeigt eine standardmäßige Ausweichmeldung an.</td>
+    <td>Das System zeigt den Kalender eines zugeordneten Agenten an oder zeigt eine standardmäßige Ausweichmeldung an</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
+_**Benutzerdefiniertes Routing**_
 
 <table><thead>
   <tr>
@@ -144,17 +143,17 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
-    <td>Benutzerdefinierte Regel löst keine Agenten auf, Round Robin Fallback ist aktiviert.</td>
-    <td>Das System wählt einen verfügbaren Agenten über Round Robin aus und bindet ihn ein.</td>
+    <td>Benutzerdefinierte Regel löst keine Agenten auf. Round Robin Fallback ist aktiviert.</td>
+    <td>Das System wählt über Round Robin einen verfügbaren Agenten aus und bindet ihn ein.</td>
   </tr>
   <tr>
     <td>Kein Fallback-Agent</td>
     <td>Zwei Agenten wurden aufgelöst. Keiner akzeptiert Chat, Fallback wird auf den Besprechungskalender festgelegt.</td>
-    <td>Der Kalender des zuerst getesteten Agenten wird angezeigt oder es wird eine standardmäßige Fallback-Nachricht angezeigt.</td>
+    <td>Zuerst versucht, den Kalender des Agenten anzuzeigen, oder die Standardfallback-Nachricht wird angezeigt.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Team-Routing**&#x200B;_
+_**Team-Routing**_
 
 <table><thead>
   <tr>
@@ -171,16 +170,16 @@ _&#x200B;**Team-Routing**&#x200B;_
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>Es ist kein Team-Agent verfügbar und Round Robin Fallback ist aktiviert.</td>
-    <td>Das System wählt einen Agenten aus dem Round Robin Pool aus und stellt eine Verbindung mit ihm her.</td>
+    <td>Das System wählt einen Agenten aus dem Round-Robin-Pool aus und stellt eine Verbindung mit ihm her.</td>
   </tr>
   <tr>
     <td>Kein Fallback-Agent</td>
     <td>Zwei Agenten verfügbar, aber keiner von beiden ist eingebunden; Kalenderfallback aktiviert.</td>
-    <td>Der Kalender des zuerst getesteten Agenten wird angezeigt oder es wird eine Fallback-Nachricht ausgelöst.</td>
+    <td>Zuerst versucht, den Kalender des Agenten anzuzeigen oder eine Ausweichmeldung auszulösen.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Round Robin-Routing**&#x200B;_
+_**Round Robin-Routing**_
 
 <table><thead>
   <tr>
@@ -191,13 +190,13 @@ _&#x200B;**Round Robin-Routing**&#x200B;_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>Round Robin Pool hat mehrere Agenten; zweiter Agent nimmt Chat an, nachdem der erste nicht.</td>
-    <td>Chat stellt eine Verbindung zum zweiten Agenten her.</td>
+    <td>Round Robin Pool hat mehrere Agenten; der zweite Agent nimmt Chat an, nachdem der erste nicht.</td>
+    <td>Chat stellt eine Verbindung zu einem zweiten Agenten her.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>Im Round Robin Pool sind keine Agenten verfügbar. Der Besprechungskalender ist aktiviert.</td>
-    <td>Der Kalender wird für den ersten Agenten in der Liste angezeigt (falls konfiguriert), oder es wird eine Fallback-Nachricht angezeigt.</td>
+    <td>Der Kalender wird für den ersten Agenten in der Liste angezeigt (falls konfiguriert) oder die Fallback-Nachricht wird angezeigt.</td>
   </tr>
   <tr>
     <td>Kein Fallback-Agent</td>
@@ -208,7 +207,7 @@ _&#x200B;**Round Robin-Routing**&#x200B;_
 
 ### Impuls-Benachrichtigung {#pulse-notification}
 
-Wenn ein Besucher die Verbindung zu einem Agenten anfordert, stellen wir dem Agenten eine In-App-Browser-Benachrichtigung zur Verfügung. Aber manchmal verpassen Agenten diese Chats.
+Wenn ein Besucher die Verbindung zu einem Agenten anfordert, stellen wir ihm eine In-App-Browser-Benachrichtigung zur Verfügung. Aber manchmal verpassen Agenten diese Chats.
 
 Mit dieser Version kann der Live-Agent eine E-Mail-, Slack-, In-App- und Browser-Benachrichtigung erhalten, wenn ein neuer Besucher am Chat interessiert ist.
 

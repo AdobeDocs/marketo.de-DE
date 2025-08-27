@@ -8,7 +8,8 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 1cfb28f47ba3c168292b298e1fc7ab2ff638b412
+exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '731'
 ht-degree: 74%
@@ -40,7 +41,7 @@ Key Benefits:
 - **Customization**: Add custom CSS and mobile-specific styles for advanced designs.
 - **Scalability**: Eliminate repetitive styling tasks, enabling faster email creation.-->
 
-## Schutzmechanismen und Einschränkungen {#themes-guardrails}
+## Leitlinien und Einschränkungen {#themes-guardrails}
 
 * Wenn Sie eine E-Mail von Grund auf neu erstellen, können Sie die Erstellung Ihres Inhalts mit einem Design beginnen, um schnell einen bestimmten Stil anzuwenden, der zu Ihrer Marke und Ihrem Design passt.
 

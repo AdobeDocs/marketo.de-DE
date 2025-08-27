@@ -4,9 +4,9 @@ description: Grundlegendes zum SEO-Dashboard - SEO-Schnappschuss - Marketo-Dokum
 title: Grundlegendes zum SEO Dashboard -SEO Snapshot
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Verwenden Sie das Dashboard, um einen Überblick darüber zu erhalten, wie der Keyword-Rang im Trend liegt und wie gut Ihre Site für SEO optimiert ist.
 
-Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühungen zu verbessern, verwenden [[!UICONTROL &#x200B; Abschnitt &#x200B;]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)Recommendations“ dieses Dashboards.
+Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühungen zu verbessern, verwenden [[!UICONTROL  Abschnitt ]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)Recommendations“ dieses Dashboards.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
@@ -61,7 +61,7 @@ Das Diagramm [!UICONTROL Keyword-Ranking]Trends“ zeigt Ihre Keywords mit den f
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Sehen wir uns nun den Abschnitt [!UICONTROL Recommendations] dieses Dashboards an.
+Sehen Sie sich den [!UICONTROL Recommendations] Abschnitt dieses Dashboards an.
 
 >[!MORELIKETHIS]
 >

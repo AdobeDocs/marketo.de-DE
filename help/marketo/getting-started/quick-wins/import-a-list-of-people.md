@@ -4,9 +4,9 @@ description: Liste von Personen importieren - Marketo-Dokumente - Produktdokumen
 title: Liste mit Personen importieren
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '577'
 ht-degree: 4%
 
 ---
@@ -127,7 +127,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellenkalkulations
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Zurück in **Mein Messeprogramm** klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]**. Sie werden alle Leute sehen, die Sie gerade importiert haben.
+1. Zurück in **Mein Messeprogramm** klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]**. Man sieht all die Leute, die man gerade importiert hat.
 
    ![](assets/import-a-list-of-people-15.png)
 
@@ -143,4 +143,4 @@ Ihre Messeteilnehmer sind nun Mitglieder Ihres Marketo-Programms!
 
 [◄ Mission 4: Automatische E-Mail-Antwort](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Mission 6: Tropfen, Tropfen, ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Mission 6: Tropfen, Tropfen, Pflegen ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
