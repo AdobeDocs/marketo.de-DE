@@ -3,9 +3,9 @@ description: Gruppen verwalten - Marketo-Dokumente - Produktdokumentation
 title: Gruppen verwalten
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Erstellen einer Gruppe {#create-a-group}
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das **+** neben [!UICONTROL Gruppen].
+1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das **+** neben [!UICONTROL Gruppen].
 
    ![](assets/manage-groups-1.png)
 
@@ -57,11 +57,11 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
    Das war&#39;s!
 
-## Kontakte zu einer Gruppe hinzufügen {#add-contacts-to-a-group}
+## Hinzufügen von Kontakten zu einer Gruppe {#add-contacts-to-a-}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, der Sie Personen hinzufügen möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, der Sie Personen hinzufügen möchten, und wählen Sie sie aus.
 
-   ![](assets/manage-groups-3.png)
+
 
 1. Klicken Sie auf **[!UICONTROL Gruppenaktionen]** und wählen Sie **[!UICONTROL Kontakt erstellen und zu Gruppe hinzufügen]** aus.
 
@@ -77,62 +77,85 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
    >
    >Möglicherweise müssen Sie auf Aktualisieren klicken, um neue hinzugefügte Kontakte anzuzeigen.
 
-## Freigeben einer Gruppe {#share-a-group}
+## Kontakte zu einer Gruppe hinzufügen {#add-contacts-to-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie freigeben möchten, und wählen Sie sie aus.
+1. Wählen _unter_ die Option **Alle Personen** aus.
+
+   ![](assets/manage-groups-3.png)
+
+1. Suchen Sie nach der Person oder den Personen, die Sie hinzufügen möchten.
+
+   ![](assets/manage-groups-4.png)
+
+1. Klicken Sie auf das Kontrollkästchen neben ihrem Namen, um sie auszuwählen.
+
+   ![](assets/manage-groups-5.png)
+
+1. Klicken Sie auf das Symbol Mehr Aktionen (![](assets/icon-more-actions.png)) und wählen Sie **Personen zu Gruppe hinzufügen** aus.
 
    ![](assets/manage-groups-6.png)
 
-1. Klicken Sie auf die Punkte (drei vertikale Punkte) und wählen Sie **[!UICONTROL Freigeben]**.
+1. Wählen Sie die Gruppe aus, der Sie sie hinzufügen möchten, und klicken Sie auf **Hinzufügen**.
 
    ![](assets/manage-groups-7.png)
 
-1. Klicken Sie auf die Dropdown-Liste, wählen Sie das Team aus, für das Sie die Gruppe freigeben möchten, und klicken Sie auf **[!UICONTROL Freigeben]**.
+
+## Freigeben einer Gruppe {#share-a-group}
+
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie freigeben möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-8.png)
+
+1. Klicken Sie auf die Punkte (drei vertikale Punkte) und wählen Sie **[!UICONTROL Freigeben]**.
+
+   ![](assets/manage-groups-9.png)
+
+1. Klicken Sie auf die Dropdown-Liste, wählen Sie das Team aus, für das Sie die Gruppe freigeben möchten, und klicken Sie auf **[!UICONTROL Freigeben]**.
+
+   ![](assets/manage-groups-10.png)
 
    Die Gruppe gehört weiterhin Ihnen, wird aber jetzt unter &quot;_&quot;_.
 
 ## Freigabe einer Gruppe aufheben {#unshare-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, deren Freigabe Sie aufheben möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, deren Freigabe Sie aufheben möchten, und wählen Sie sie aus.
 
-   ![](assets/manage-groups-9.png)
+   ![](assets/manage-groups-11.png)
 
 1. Klicken Sie auf die Punkte (drei vertikale Punkte) und wählen Sie **[!UICONTROL Freigeben]**.
 
-   ![](assets/manage-groups-10.png)
+   ![](assets/manage-groups-12.png)
 
 1. Klicken Sie auf **X** neben dem Team, für das Sie die Gruppe freigegeben haben, und klicken Sie dann auf Aus dem Modal.
 
-   ![](assets/manage-groups-11.png)
+   ![](assets/manage-groups-13.png)
 
    Die Gruppe ist jetzt nicht freigegeben.
 
 ## Eine Gruppe umbenennen {#rename-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie umbenennen möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie umbenennen möchten, und wählen Sie sie aus.
 
-   ![](assets/manage-groups-12.png)
+   ![](assets/manage-groups-14.png)
 
 1. Klicken Sie auf die Punkte (drei vertikale Punkte) und wählen Sie **[!UICONTROL Bearbeiten]**.
 
-   ![](assets/manage-groups-13.png)
+   ![](assets/manage-groups-15.png)
 
 1. Geben Sie den neuen Namen ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
-   ![](assets/manage-groups-14.png)
+   ![](assets/manage-groups-16.png)
 
 ## Löschen einer Gruppe {#delete-a-group}
 
 1. Suchen Sie auf der Seite Personen die Gruppe, die Sie löschen möchten, und wählen Sie sie aus.
 
-   ![](assets/manage-groups-15.png)
+   ![](assets/manage-groups-17.png)
 
 1. Klicken Sie auf die Punkte (drei vertikale Punkte) und wählen Sie **[!UICONTROL Löschen]**.
 
-   ![](assets/manage-groups-16.png)
+   ![](assets/manage-groups-18.png)
 
 1. Klicken Sie **[!UICONTROL Löschen]** zur Bestätigung.
 
-   ![](assets/manage-groups-17.png)
+   ![](assets/manage-groups-19.png)
