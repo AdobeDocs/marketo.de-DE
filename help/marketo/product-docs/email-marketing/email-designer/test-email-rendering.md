@@ -6,10 +6,10 @@ description: Marketo Engage-Anwender können ihr Litmus -Konto integrieren, um d
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 919406f948456bc265a73841c87a6d74605f045e
+source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 4%
+source-wordcount: '370'
+ht-degree: 2%
 
 ---
 
@@ -19,9 +19,11 @@ Nutzen Sie Ihr [Litmus](https://www.litmus.com/email-testing)-Konto in Marketo E
 
 >[!AVAILABILITY]
 >
->Diese Funktion steht allen Marketo Engage-Benutzern zur Verfügung, die über ein aktives Litmus-Konto im [Enterprise Plan](https://www.litmus.com/pricing/enterprise){target="_blank"}-Konto verfügen.
+>Diese Funktion steht allen Marketo Engage-Benutzern mit einem aktiven Litmus-Konto zur Verfügung.
 
-## Informationen zur Verwendung {#how-to-use}
+## Litmus Enterprise-Benutzer {#litmus-enterprise}
+
+Die folgenden Schritte gelten für Benutzer des [Litmus Enterprise Plan](https://www.litmus.com/pricing/enterprise){target="_blank"}.
 
 1. Klicken Sie auf dem _E-Mail_ Inhalt bearbeiten) auf die Schaltfläche **Inhalt simulieren**.
 
@@ -62,3 +64,27 @@ Nutzen Sie Ihr [Litmus](https://www.litmus.com/email-testing)-Konto in Marketo E
 **OPTIONALER SCHRITT**: Wenn Sie Änderungen an Ihrer E-Mail vornehmen möchten, klicken Sie nach dem Klicken auf **E-Mail rendern**, um sie anzuzeigen, stellen Sie sicher, dass Sie auch auf die Schaltfläche **Erneut testen** oben rechts im Bildschirm Litmus _E-Mail-Vorschau_ klicken.
 
 ![](assets/test-email-rendering-with-litmus-7.png)
+
+## Litmus Core-Benutzer {#litmus-core}
+
+Die folgenden Schritte gelten für Benutzer des [Litmus-](https://www.litmus.com/pricing/){target="_blank"}&quot;
+
+1. Rufen Sie in Ihrem Litmus-Konto die Test-E-Mail-Adresse ab, indem Sie auf die **Testadresse kopieren** im Bildschirm _Test_ klicken.
+
+   ![](assets/test-email-rendering-with-litmus-8.png){width="800" zoomable="yes"}
+
+1. Navigieren Sie in Marketo Engage zum Bildschirm _E-Mail-Inhalt bearbeiten_ der gewünschten E-Mail und klicken Sie auf die Schaltfläche **Inhalt simulieren**.
+
+   ![](assets/test-email-rendering-with-litmus-9.png){width="600" zoomable="yes"}
+
+1. Wählen Sie Ihre Testempfängerinnen und Testempfänger aus und klicken Sie auf die Schaltfläche **Testversand durchführen**.
+
+   ![](assets/test-email-rendering-with-litmus-10.png){width="800" zoomable="yes"}
+
+1. Geben Sie die Litmus-E-Mail-Adresse ein, die Sie in Schritt 1 kopiert haben, und klicken **erneut auf „Testversand**&quot;.
+
+   ![](assets/test-email-rendering-with-litmus-11.png)
+
+1. Überprüfen Sie die E-Mail in Ihrem Litmus-Konto (im Ordner, der der E-Mail-Adresse entspricht, die Sie aus Litmus kopiert haben).
+
+   ![](assets/test-email-rendering-with-litmus-12.png){width="800" zoomable="yes"}
