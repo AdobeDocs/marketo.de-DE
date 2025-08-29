@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
+source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '892'
 ht-degree: 14%
 
 ---
@@ -259,13 +259,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Velocity Scripting</td>
     <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
     <td>Verfügbar</td>
-    <td>Nicht erforderlich</td>
-  </tr>
-  <tr>
-    <td>Handlebar-Skript</td>
-    <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
-    <td>Nicht verfügbar</td>
-    <td>Geplant für Q3 '25</td>
+    <td>Demnächst verfügbar</td>
   </tr>
   <tr>
     <td>Inhaltsvalidierungs-Workflows</td>
