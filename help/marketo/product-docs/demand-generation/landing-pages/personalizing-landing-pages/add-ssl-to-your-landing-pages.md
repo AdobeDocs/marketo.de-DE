@@ -4,9 +4,9 @@ description: Hinzufügen von SSL zu Ihren Landingpages - Marketo-Dokumente - Pro
 title: Hinzufügen von SSL zu Ihren Landingpages
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '778'
 ht-degree: 1%
 
 ---
@@ -73,31 +73,35 @@ Unten finden Sie Fehlermeldungen, die Sie möglicherweise zusammen mit ihren Def
     <th>Details</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td><i>Unerwarteter Fehler beim Erstellen einer Domain. Bitte wenden Sie sich an den Support, um Hilfe zu erhalten.</i></td>
-    <td>Ein unerwarteter Fehler ist aufgetreten. Bitte Protokolle und Fehlerdetails sammeln und das Problem an den <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo-Support</a> eskalieren.</td>
-  </tr>
-  <tr>
-    <td><i>Die Standard-Domain wurde nicht gefunden. Bitte wenden Sie sich an den Support, um Hilfe zu erhalten.</i></td>
-    <td>Beim Suchen der Standard-Domain ist ein Problem aufgetreten. Bitte wenden Sie sich an den Support, damit er weitere Informationen erhalten kann.</td>
-  </tr>
-  <tr>
-    <td><i>SSL-Zertifikat wurde bereits ausgestellt.</i></td>
-    <td>Für diese benutzerdefinierte Domain ist bereits ein SSL-Zertifikat vorhanden. Es sind keine weiteren Maßnahmen erforderlich, es sei denn, das Zertifikat ist abgelaufen oder muss erneut ausgestellt werden.</td>
+<tr>
+    <td><i>Domäne existiert bereits.</i></td>
+    <td>Eine Domain mit demselben Namen ist bereits vorhanden.</td>
   </tr>
   <tr>
     <td><i>Domain ist nicht der Standard-Domain zugeordnet.</i></td>
     <td>Die benutzerdefinierte Domain wird nicht korrekt der Standard-Domain zugeordnet. Überprüfen Sie die Einstellungen der Domain-Zuordnung und stellen Sie sicher, dass die DNS-Konfiguration auf die richtige Standard-Domain verweist.</td>
   </tr>
   <tr>
-    <td><i>Domäne existiert bereits.</i></td>
-    <td>Eine Domain mit demselben Namen ist bereits vorhanden.</td>
+    <td><i>SSL-Zertifikate konnten aufgrund nicht unterstützter CAA-Einträge nicht ausgestellt werden. Fordern Sie Ihre IT an, Ihre CAA-Einträge zu aktualisieren.</i></td>
+    <td>Die CAA-Einträge sind nicht aktuell. Für Benutzer, die von Marketo Engage verwaltete SSL-Zertifikate verwenden, müssen CAA-Einträge auf Zertifikate aktualisiert werden, die von unserem Anbieter empfohlen werden. Bitte wenden Sie sich an Ihre IT-Abteilung, um die CAA-Einträge zu aktualisieren. Weitere Informationen finden <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246"> auf </a> Seite .</td>
+  </tr>
+  <tr>
+    <td><i>SSL-Zertifikat wurde bereits ausgestellt.</i></td>
+    <td>Für diese benutzerdefinierte Domain ist bereits ein SSL-Zertifikat vorhanden. Es sind keine weiteren Maßnahmen erforderlich, es sei denn, das Zertifikat ist abgelaufen oder muss erneut ausgestellt werden.</td>
+  </tr>
+  <tr>
+    <td><i>Die Standard-Domain wurde nicht gefunden. Bitte wenden Sie sich an den Support, um Hilfe zu erhalten.</i></td>
+    <td>Beim Suchen der Standard-Domain ist ein Problem aufgetreten. Bitte wenden Sie sich an den Support, damit er weitere Informationen erhalten kann.</td>
+  </tr>
+  <tr>
+    <td><i>Unerwarteter Fehler beim Erstellen einer Domain. Bitte wenden Sie sich an den Support, um Hilfe zu erhalten.</i></td>
+    <td>Ein unerwarteter Fehler ist aufgetreten. Bitte Protokolle und Fehlerdetails sammeln und das Problem an den <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo-Support</a> eskalieren.</td>
   </tr>
 </tbody></table>
 
 ## Zu beachtende Punkte {#things-to-note}
 
-* **DNS-Zuordnung für Domain zu Marketo Engage**: Bevor Sie Domains in der Benutzeroberfläche hinzufügen, müssen Sie [CNAMEs einer von Marketo bereitgestellten Domain zuordnen](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-Zuordnung für Domain zu Marketo Engage**: Bevor Sie Domains in der Benutzeroberfläche hinzufügen, müssen Sie [CNAMEs einer von Marketo bereitgestellten Domain zuordnen](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Benutzerdefinierte SSLs**: Wenn Sie eine benutzerdefinierte SSL benötigen, senden Sie ein [Support-Ticket](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Verwenden Sie nicht das Kontrollkästchen „Self-Service“ für die SSL-Erstellung.
 
