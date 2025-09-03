@@ -3,9 +3,9 @@ description: Übersicht über die erweiterte BI-Analyse - Marketo-Dokumente - Pr
 title: Erweiterte BI-Analytics-Übersicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '1228'
+source-wordcount: '1044'
 ht-degree: 0%
 
 ---
@@ -236,23 +236,13 @@ Die folgenden Standardberichte sind als Beispiele für Ihre benutzerdefinierten 
 
 ## Zu beachtende Punkte {#note}
 
-* Das klassische Erlebnis „Revenue Explorer“ wird am 10. Juni 2025 dauerhaft eingestellt. In der Zwischenzeit können Sie in beiden Erlebnissen auf Berichte zugreifen, Berichte erstellen, aktualisieren und löschen.
+* Ihre benutzerdefinierten Berichte wurden vom klassischen Erlebnis auf das neue Erlebnis repliziert, wobei die wesentlichen Verhaltensänderungen im Abschnitt [Lernen des neuen Erlebnisses](#learning-the-new-experience) unten erwähnt werden.
 
-* Ihre benutzerdefinierten Berichte werden vom klassischen Erlebnis auf das neue Erlebnis repliziert, wobei die wesentlichen Verhaltensänderungen im Abschnitt [Lernen des neuen Erlebnisses](#learning-the-new-experience) unten erwähnt werden.
+* Dashboards im klassischen Erlebnis waren nicht übertragbar und mussten in dem neuen Erlebnis neu erstellt werden. Sie können in der neuen -Version als Berichte neu erstellt werden, und die Filter in der neuen -Version rufen automatisch mögliche Werte ab.
 
-  >[!IMPORTANT]
+  >[!NOTE]
   >
-  >Die Replikation von benutzerdefinierten Berichten erfolgt in Gruppen. Sobald Ihre benutzerdefinierten Berichte in das neue Erlebnis repliziert wurden, müssen alle Änderungen, die in der klassischen Version vorgenommen wurden, auch manuell auf die entsprechenden Berichte in der neuen Version angewendet werden, um die Konsistenz zwischen den beiden Erlebnissen zu gewährleisten. Nach der Replikation Ihrer Kundenberichte wird im klassischen Erlebnis ein Informationsvermerk zum oben Genannten angezeigt.
-
-   * Dashboards im klassischen Erlebnis sind nicht übertragbar und müssen im neuen Erlebnis neu erstellt werden. Sie sollten als Berichte in der neuen -Version neu erstellt werden, und die Filter in der neuen -Version ziehen automatisch mögliche Werte ab, anstatt dass Sie alle möglichen Werte einzeln in der klassischen -Version manuell eingeben müssen.
-
-     >[!NOTE]
-     >
-     >Das Dashboard in der neuen -Version ist lediglich eine Sammlung von Berichten auf einer einzelnen Seite. Der primäre Wert von Dashboard in der neuen -Version besteht darin, Ihnen analytische Einblicke in verschiedene Reporting-Bereiche zu ermöglichen.
-
-* Ihre E-Mail-Abonnements in der klassischen -Version werden auf die neue -Version repliziert. Die E-Mail-Abonnements für das klassische Erlebnis funktionieren weiterhin, bis das klassische Erlebnis am 10. Juni 2025 eingestellt wird.
-
-* Vorhandene Benutzer von Revenue Explorer haben automatisch Zugriff auf das neue erweiterte BI-Analytics-Erlebnis.
+  >Das Dashboard in der neuen -Version ist lediglich eine Sammlung von Berichten auf einer einzelnen Seite. Der primäre Wert von Dashboard in der neuen -Version besteht darin, Ihnen analytische Einblicke in verschiedene Reporting-Bereiche zu ermöglichen.
 
 * Sie können **bis zu 700 Berichte** Advanced BI Analytics erstellen.
 
@@ -282,13 +272,9 @@ Im Folgenden finden Sie Änderungen am neuen Erlebnis (Advanced BI Analytics) im
 
 * Bei den Filtern vom Typ Zeichenfolge wird jetzt zwischen Groß- und Kleinschreibung unterschieden.
 
-* Das Feld Laufzeitformel in der klassischen -Version wird nicht mehr unterstützt.
-
 * Das E-Mail-Abonnement umfasst den PDF-Export anstelle der HTML des Berichts. Das neue E-Mail-Abonnement enthält nicht die Berichtsdefinition.
 
 * Deep-Link des Berichts wird derzeit nicht unterstützt.
-
-* Der PDF-Export verläuft in der neuen -Version synchron, im Vergleich zur klassischen -Version.
 
 >[!NOTE]
 >
