@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Mithilfe von Adobe Experience Manager Assets können Sie Marketing- und Kreativ-Workflows zusammenführen. Sie ist nativ in Marketo Engage integriert, sodass Sie einfach auf _Assets as a Cloud Service_ zugreifen können, um digitale Assets zu entdecken und zum Ausfüllen Ihrer Nachrichten zu verwenden.
 
-Adobe Experience Manager _Assets as a Cloud Service_ bietet eine benutzerfreundliche Cloud-Lösung für effizientes Digital Asset Management und Dynamic Media-Betrieb. Weitere Informationen finden Sie in der Dokumentation zu [](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/overview)Adobe Experience Manager as a Cloud Service.
+Adobe Experience Manager _Assets as a Cloud Service_ bietet eine benutzerfreundliche Cloud-Lösung für effizientes Digital Asset Management und Dynamic Media-Betrieb. Weitere Informationen finden Sie in der Dokumentation zu [&#128279;](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/overview)Adobe Experience Manager as a Cloud Service.
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Adobe Experience Manager _Assets as a Cloud Service_ bietet eine benutzerfreundl
 
 >[!NOTE]
 >
->Derzeit werden in Marketo Engage nur Bild-Assets von _0}Adobe Experience Manager Assets unterstützt._ Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Derzeit werden in Marketo Engage nur Bild-Assets von _0&rbrace;Adobe Experience Manager Assets unterstützt._ Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Link zu Ihren AEM Cloud Services {#link-to-your-aem-cloud-services}
 
