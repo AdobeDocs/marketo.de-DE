@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11387674
-description: Aktualisierungen der Marketo-Terminologie - Marketo-Dokumente - Produktdokumentation
+description: Aktualisierungen der Terminologie von Marketo – Marketo-Dokumente – Produktdokumentation
 hide: true
 hidefromtoc: true
 title: Aktualisierungen der Terminologie von Marketo
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '328'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 # Aktualisierungen der Terminologie von Marketo {#updates-to-marketo-terminology}
 
-Wir nehmen einige Änderungen an unserer Plattform vor, die sich auf einige Dinge auswirken werden, die wir nennen. Wenn Sie seit März 2016 eine neue Marketo-Instanz haben oder Ihr Unternehmen nach Juli 2016 erneuert wurde, wird Ihnen die neue Terminologie möglicherweise jetzt angezeigt.
+Wir nehmen einige Änderungen an unserer Plattform vor, die sich auf die Bezeichnungen mancher Elemente auswirken werden. Wenn Sie seit März 2016 eine neue Marketo-Instanz haben oder Ihr Unternehmen sie nach Juli 2016 erneuert hat, wird Ihnen möglicherweise jetzt die neue Terminologie angezeigt.
 
-Auch wenn in der Dokumentation zu Marketo möglicherweise eine andere Terminologie verwendet wird, seien Sie versichert, dass jeder Artikel in Kürze aktualisiert wird, um diese Änderungen widerzuspiegeln. Alle Anweisungen sind gleich.
+Auch wenn in der Marketo-Dokumentation möglicherweise eine andere Terminologie verwendet wird, seien Sie versichert, dass alle Artikel in Kürze aktualisiert werden, um diese Änderungen widerzuspiegeln. Alle Anweisungen bleiben gleich.
 
 Was hat sich also geändert?
 
@@ -75,15 +75,15 @@ Lead und Person **sind das Gleiche**.
 
 ## Token {#tokens}
 
-Token mit dem Wort Lead in ihnen **ändern sich nicht**. Wir entschuldigen uns für jegliche Verwirrung. Wenn Sie jedoch alle Token so ändern, dass sie der neuen Terminologie entsprechen, würde dies eine ganze Reihe von Token beschädigen, die derzeit verwendet werden. So werden weiterhin Token wie &quot;`{{lead.First Name}}`&quot; angezeigt. Es gibt keine personenspezifischen Token.
+Token mit dem Wort „Lead“ im Namen **ändern sich nicht**. Wir entschuldigen uns für jegliches Durcheinander. Wenn Sie jedoch alle Token so ändern, dass sie der neuen Terminologie entsprechen, würde dies eine ganze Reihe von Token, die derzeit in Verwendung sind, beschädigen. Darum werden weiterhin Token wie „`{{lead.First Name}}`“ angezeigt. Es gibt keine personenspezifischen Token.
 
 >[!NOTE]
 >
->Es *ein Token* dem Namen „Person Notes“, jedoch war dieses Token immer vorhanden. Sie wird in Ihrem CRM normalerweise für ein Beschreibungsfeld verwendet, falls vorhanden.
+>Es *gibt* ein Token mit dem Namen „Person Notes“. Dieses gab es jedoch schon immer. Es wird in Ihrem CRM normalerweise für ein Beschreibungsfeld verwendet, wenn überhaupt.
 
 ## Feldverwaltung {#field-management}
 
-Felder, die den Begriff Lead enthalten, wurden entweder durch Person ersetzt oder das Wort Lead wurde entfernt. Eine wichtige Ausnahme bildet jedoch das Feld „Lead Owner“. Sie wird jetzt als „Sales Owner“ bezeichnet.
+Bei Feldern, die den Begriff „Lead“ enthielten, wurde dieser entweder durch „Person“ ersetzt oder ganz entfernt. Eine wichtige Ausnahme bildet jedoch das Feld „Lead-Eigentümer“. Dieses Feld heißt jetzt „Verkaufsinhaberin bzw. Verkaufsinhaber“.
 
 <table>
  <colgroup>
@@ -110,9 +110,9 @@ Felder, die den Begriff Lead enthalten, wurden entweder durch Person ersetzt ode
 
 >[!NOTE]
 >
->Eine vollständige Liste der betroffenen Feldnamen finden Sie in diesem [-Artikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
+>Eine vollständige Liste der betroffenen Feldnamen finden Sie in diesem [Support-Artikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## Real-Time Personalization (RTP) ist jetzt Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
+## Real-Time Personalization (RTP) ist jetzt Web-Personalisierung {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table>
  <colgroup>
@@ -139,14 +139,14 @@ Felder, die den Begriff Lead enthalten, wurden entweder durch Person ersetzt ode
 
 Zusätzlich zur Namensänderung besteht sie jetzt aus vier separaten Apps:
 
-| **[Web-Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
+| **[Web-Personalisierung](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
 |---|---|
-| **[Account-Based Web Marketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Zugänglich über die Kachel Web Personalization |
-| **[Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Zugänglich über die Kachel Web Personalization |
-| **[Prädiktiver Inhalt](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
+| **[Kontenbasiertes Web Marketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Zugänglich über die Kachel „Web-Personalisierung“ |
+| **[Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Zugänglich über die Kachel „Web-Personalisierung“ |
+| **[Prädiktive Inhalte](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
 
 >[!NOTE]
 >
->Die auf Ihrem Startbildschirm angezeigten Kacheln spiegeln die gekauften Module wider.
+>Die auf Ihrem Startbildschirm angezeigten Kacheln spiegeln die erworbenen Module wider.
 
 Vielen Dank für Ihre Geduld während dieses Updates.

@@ -1,18 +1,18 @@
 ---
-description: Symbolglossar - Marketo Engage-Dokumente - Produktdokumentation
-title: Symbol-Glossar
+description: Symbolglossar – Marketo Engage-Dokumente – Produktdokumentation
+title: Symbolglossar
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '242'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
 # Marketo Engage-Symbolglossar {#icon-glossary}
 
-Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzeroberfläche. Wenn Sie auf die Marketo Classic-Symbole verweisen müssen, finden Sie sie [hier](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzeroberfläche. Wenn Sie auf die Marketo Classic-Symbole verweisen möchten, finden Sie diese [hier](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Allgemeine Symbole {#general-icons}
 
@@ -20,23 +20,23 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
  <tbody>
   <tr>
    <th style="width:25%">Altes Symbol</th>
-   <th style="width:25%">Symbol „Neu“</th>
+   <th style="width:25%">Neues Symbol</th>
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
    <td><strong>k. A.</strong></td>
    <td><img src="assets/account-smart-list.png"></td>
-   <td>Konto-Smart List</td>
+   <td>Konto-Smart-List</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
    <td><img src="assets/batch-active.png"></td>
-   <td>Batch-Kampagne - aktiv</td>
+   <td>Stapel-Kampagne – aktiv</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td>
    <td><img src="assets/batch-inactive.png"></td>
-   <td>Batch-Kampagne - inaktiv</td>
+   <td>Stapel-Kampagne – inaktiv</td>
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td>
@@ -86,7 +86,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><strong>k. A.</strong></td>
    <td><img src="assets/filter-active.png"></td>
-   <td>Filter - aktiv</td>
+   <td>Filter – aktiv</td>
   </tr>
   <tr>
    <td><img src="assets/classic-folder.png"></td>
@@ -96,17 +96,17 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-archive-folder.png"></td>
    <td><img src="assets/folder-archive.png"></td>
-   <td>Ordner - archiviert</td>
+   <td>Ordner – archiviert</td>
   </tr>
   <tr>
    <td><img src="assets/classic-shared-folder.png"></td>
    <td><img src="assets/folder-shared.png"></td>
-   <td>Ordner - freigegeben</td>
+   <td>Ordner – freigegeben</td>
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td>
    <td><img src="assets/folder-locked.png"></td>
-   <td>Ordner - gesperrt</td>
+   <td>Ordner – gesperrt</td>
   </tr>
   <tr>
    <td><img src="assets/classic-form.png"></td>
@@ -136,7 +136,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-landing-page-template.png"></td>
    <td><img src="assets/landing-page-template.png"></td>
-   <td>Landing Page-Vorlage</td>
+   <td>Landingpage-Vorlage</td>
   </tr>
   <tr>
    <td><img src="assets/classic-revenue-cycle-model-unapproved.png"></td>
@@ -176,12 +176,12 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-smart-list.png"></td>
    <td><img src="assets/smart-list.png"></td>
-   <td>Smart List</td>
+   <td>Intelligente Liste</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td>
    <td><img src="assets/smart-list-cached.png"></td>
-   <td>Smart-Liste - zwischengespeichert</td>
+   <td>Intelligente Liste – zwischengespeichert</td>
   </tr>
   <tr>
    <td><img src="assets/classic-sms-message.png"></td>
@@ -191,7 +191,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-snippet.png"></td>
    <td><img src="assets/snippets.png"></td>
-   <td>Snippets</td>
+   <td>Ausschnitte</td>
   </tr>
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
@@ -216,12 +216,12 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/trigger-active.png"></td>
-   <td>Trigger - aktiv</td>
+   <td>Auslöser – aktiv</td>
   </tr>
   <tr>
    <td><strong>k. A.</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
-   <td>Trigger - inaktiv</td>
+   <td>Auslöser – inaktiv</td>
   </tr>
   <tr>
    <td><img src="assets/classic-workspace.png"></td>
@@ -236,13 +236,13 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
  </tbody>
 </table>
 
-## Batch-Kampagnen {#batch-campaigns}
+## Stapel-Kampagnen {#batch-campaigns}
 
 <table>
  <tbody>
   <tr>
    <th style="width:25%">Altes Symbol</th>
-   <th style="width:25%"> Symbol „Neu“</th>
+   <th style="width:25%"> Neues Symbol</th>
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
@@ -258,7 +258,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>nie ausführen</td>
+   <td>Nie ausführen</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
@@ -273,23 +273,23 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td>
    <td><img src="assets/scheduled-to-run-again.png"></td>
-   <td>Erneuter Ausführung geplant</td>
+   <td>Zum erneuten Durchlauf eingeplant</td>
   </tr>
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td>
    <td><img src="assets/used-by-nurture.png"></td>
-   <td>Von Nurture verwendet</td>
+   <td>Zum Nurturing verwendet</td>
   </tr>
  </tbody>
 </table>
 
-## Trigger-Kampagnen {#trigger-campaigns}
+## Auslöser-Kampagnen {#trigger-campaigns}
 
 <table>
  <tbody>
   <tr>
    <th style="width:25%">Altes Symbol</th>
-   <th style="width:25%"> Symbol „Neu“</th>
+   <th style="width:25%"> Neues Symbol</th>
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
@@ -321,7 +321,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
  <tbody>
   <tr>
    <th style="width:25%">Altes Symbol</th>
-   <th style="width:25%"> Symbol „Neu“</th>
+   <th style="width:25%"> Neues Symbol</th>
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
@@ -353,7 +353,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
  <tbody>
   <tr>
    <th style="width:25%">Altes Symbol</th>
-   <th style="width:25%"> Symbol „Neu“</th>
+   <th style="width:25%"> Neues Symbol</th>
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
@@ -375,7 +375,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
  <tbody>
   <tr>
    <th style="width:25%">Altes Symbol</th>
-   <th style="width:25%"> Symbol „Neu“</th>
+   <th style="width:25%"> Neues Symbol</th>
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
@@ -386,7 +386,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-in-app-program.png"></td>
    <td><img src="assets/not-configured-yet.png"></td>
-   <td>Not Configured Yet</td>
+   <td>Noch nicht konfiguriert</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-paused.png"></td>
@@ -412,7 +412,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
  <tbody>
   <tr>
    <th style="width:25%">Altes Symbol</th>
-   <th style="width:25%"> Symbol „Neu“</th>
+   <th style="width:25%"> Neues Symbol</th>
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
@@ -439,23 +439,23 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
  <tbody>
   <tr>
    <th style="width:25%">Altes Symbol</th>
-   <th style="width:25%"> Symbol „Neu“</th>
+   <th style="width:25%"> Neues Symbol</th>
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
    <td><strong>k. A.</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
-   <td>Genehmigt - Berechnung läuft</td>
+   <td>Genehmigt – in Berechnung</td>
   </tr>
   <tr>
    <td><strong>k. A.</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
-   <td>Genehmigt - Neuberechnung läuft</td>
+   <td>Genehmigt – in Neuberechnung</td>
   </tr>
   <tr>
    <td><strong>k. A.</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
-   <td>Entwurf - Unterberechnung</td>
+   <td>Entwurf – in Berechnung</td>
   </tr>
  </tbody>
 </table>
