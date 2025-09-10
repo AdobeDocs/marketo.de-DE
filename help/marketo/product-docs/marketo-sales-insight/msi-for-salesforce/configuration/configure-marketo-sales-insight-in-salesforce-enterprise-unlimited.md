@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Marketo Sales Insight in Salesforce Enterpris
 title: Konfigurieren von Marketo Sales Insight in Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 07b2e888c31c6e98a3207fad5d277261f7f193af
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '926'
 ht-degree: 5%
 
 ---
@@ -235,9 +235,9 @@ Personenfelder für Marketo müssen den Salesforce-Kontaktfeldern zugeordnet wer
 
 1. Klicken Sie in Salesforce auf das **+** am Ende der Registerkartenleiste und dann auf **[!UICONTROL Marketo Sales Insight Config]**.
 
-1. Kopieren Sie die Anmeldeinformationen aus dem SOAP-API-Bedienfeld in der Admin-Seite von Marketo [0&rbrace; Sales Insight und fügen Sie sie im Abschnitt SOAP-API der Seite ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} [!DNL Salesforce] ein.[!DNL Sales Insight]
+1. Kopieren Sie die Anmeldeinformationen aus dem SOAP-API-Bedienfeld auf der [Marketo Sales Insight-](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} und fügen Sie sie im Abschnitt SOAP-API der Seite [!DNL Salesforce]-[!DNL Sales Insight] ein.
 
-1. Kopieren Sie die Anmeldeinformationen aus dem REST-API-Bedienfeld in der Admin-[ von Marketo Sales Insight und fügen Sie sie im Abschnitt REST-API der Seite ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} [!DNL Salesforce] ein.[!DNL Sales Insight]
+1. Kopieren Sie die Anmeldeinformationen aus dem REST-API-Bedienfeld auf der [ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}Marketo Sales Insight Admin und fügen Sie sie im Abschnitt REST-API der Seite [!DNL Salesforce] [!DNL Sales Insight] ein.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 

@@ -3,16 +3,16 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 44%
+source-wordcount: '494'
+ht-degree: 51%
 
 ---
 
-# Versionshinweise – August 2025 {#release-notes-aug-25}
+# Versionshinweise – September 2025 {#release-notes-sep-25}
 
-Unten finden Sie alle Funktionen, die in der Version vom 25. August enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom September 2025 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 22. August 2025 veröffentlicht**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 19. September 2025 veröffentlicht**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,57 +32,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>E-Mail-Designer - Reporting</strong>: Die Berichte E-Mail-Leistung und E-Mail-Link-Leistung zeigen jetzt Daten aus E-Mails an, die mit der neuen E-Mail-Designer erstellt wurden.</td>
-   <td>Versandt</td>
-   <td>k. A.</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Entfernung der automatischen Vervollständigung</strong>: Die Option zur automatischen Vervollständigung im Token-Personalisierungseditor verwies auf fehlerhafte Objekte und wurde entfernt. Eine erneute Implementierung ist derzeit nicht geplant.</td>
-   <td>Versandt</td>
-   <td>k. A.</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Optimierung </strong> E-Mail-Vorschau: Bei einigen Benutzenden traten langsamere Ladezeiten auf, als sie versuchten, ihre E-Mail auf der Detailseite für E-Mail/E-Mail-Vorlage/Fragment in der Vorschau anzuzeigen. Dieses Erlebnis wurde für bis zu 60 % schnellere Ladezeiten optimiert.</td>
-   <td>Versandt</td>
-   <td>k. A.</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Vorlagenkorrekturen</strong>: Bei einigen vorkonfigurierten Vorlagen traten Rendering-Probleme auf (z. B. falsche Darstellung in bestimmten Browsern/im Dunkelmodus, falsch ausgerichtete Bilder, falsch platzierte CTA-Schaltflächen und einige mehr). Diese werden mit dieser Version alle behoben.</td>
-   <td>Versandt</td>
-   <td>k. A.</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Inhaltssperren-Fehlerbehebung</strong>: Wenn zuvor eine E-Mail-Vorlage mit Inhaltssperrung erstellt wurde und die Vorlage zum Erstellen einer E-Mail verwendet wurde, blieb die Inhaltssperre auch dann bestehen, wenn die E-Mail zurückgesetzt oder die Option „Design ändern“ ausgewählt wurde. Dieses Problem wurde mit dieser Version behoben.</td>
-   <td>Versandt</td>
-   <td>k. A.</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Berechtigung zum Bearbeiten von Einschränkungen für intelligente Kampagnen</strong>: Administratoren können jetzt die Möglichkeit beschränken, Einschränkungen für intelligente Kampagnen zu ändern, nur auf Benutzer mit Berechtigungen.</td>
+   <td><strong>Bindung von Webinar-Aktivitäten auf Anfrage</strong>: Benutzende interaktiver Webinare haben jetzt für mehr als 30 Tage verfügbare On-Demand-Dashboard-Daten für Webinare (zuvor waren es nur bis zu 30 Tage ab dem Tag des Webinars).</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -91,6 +41,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* **Zurück zur Velocity-Skripterstellung in der neuen E-Mail-Designer**: Adobe Marketo Engage hat im vergangenen Juni eine Funktion namens _Bedingter Inhalt_ für die neue E-Mail-Designer veröffentlicht. Die Funktion basiert auf Handlebar-Skripterstellung anstelle von Velocity-Skripterstellung, in dem Bemühen, Ihren dynamischen Inhalten etwas mehr Flexibilität zu bieten. Aber als wir herausfanden, dass es dazu führte, dass einige Token falsch aufgelöst wurden, entschieden wir uns, es vorübergehend zu deaktivieren. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Einstellung der Marketo Engage Identity**: Im August 2025 begann Adobe, die Unterstützung für Marketo Engage Identity auslaufen zu lassen (Anmeldung über `login.marketo.com`). Um eine Unterbrechung des Zugriffs auf Marketo Engage zu verhindern, müssen Sie bis spätestens 30. September 2025 zu [Adobe Identity](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} wechseln.
 
