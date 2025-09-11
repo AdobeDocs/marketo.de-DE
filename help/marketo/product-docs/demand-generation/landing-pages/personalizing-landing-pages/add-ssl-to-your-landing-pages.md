@@ -4,9 +4,9 @@ description: Hinzufügen von SSL zu Ihren Landingpages - Marketo-Dokumente - Pro
 title: Hinzufügen von SSL zu einer Landingpage
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
+source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '801'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,27 @@ Gehen Sie wie folgt vor, um SSL für Ihre Standard-Domain zu aktivieren.
 
 >[!NOTE]
 >
->Es kann bis zu drei Minuten dauern, bis SSL BEREIT ist. Sie müssen die Seite aktualisieren, damit die Änderungen angezeigt werden.
+>Es kann bis zu drei Minuten dauern, bis SSL den Status BEREIT aufweist. Seite aktualisieren, damit die Änderungen angezeigt werden.
+
+## SSLs zu vorhandenen Domain-Aliassen bearbeiten
+
+Führen Sie diese Schritte aus, um SSL für Ihre vorhandenen Domain-Aliase zu aktivieren.
+
+1. Erweitern Sie im _[!UICONTROL Admin]_-Bereich **[!UICONTROL Integration]** im linken Navigationsbereich und wählen Sie **[!UICONTROL Landingpages]**.
+
+1. Wählen Sie auf der Seite oben die **[!UICONTROL Regeln]** aus.
+
+1. Wählen Sie die Domain-Alias-Zeile aus, die Sie bearbeiten möchten, und klicken Sie oben **[!UICONTROL SSL hinzufügen]**.
+
+   ![Admin-Bereich - Integration > Landingpages - Registerkarte „Regeln“ - Domain-Alias auswählen](./assets/admin-landing-pages-rules-add-ssl.png){width="800" zoomable="yes"}
+
+1. Klicken Sie im Dialogfeld auf &quot;**[!UICONTROL &quot;]**.
+
+   ![SSL hinzufügen - Bestätigen](./assets/generate-ssl-cert-confirm.png){width="400"}
+
+>[!NOTE]
+>
+>Es kann bis zu drei Minuten dauern, bis SSL den Status BEREIT aufweist. Seite aktualisieren, damit die Änderungen angezeigt werden.
 
 ## Fehlermeldungen {#error-messages}
 
@@ -99,7 +119,7 @@ Unten finden Sie Fehlermeldungen, die Sie möglicherweise zusammen mit ihren Def
 
 ## Zu beachtende Punkte {#things-to-note}
 
-* **DNS-Zuordnung für Domain zu Marketo Engage**: Bevor Sie Domains in der Benutzeroberfläche hinzufügen, müssen Sie [CNAMEs einer von Marketo bereitgestellten Domain zuordnen](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-Zuordnung für Domain zu Marketo Engage**: Bevor Sie Domains in der Benutzeroberfläche hinzufügen, müssen Sie [CNAMEs einer von Marketo bereitgestellten Domain zuordnen](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Benutzerdefinierte SSLs**: Wenn Sie eine benutzerdefinierte SSL benötigen, senden Sie ein [Support-Ticket](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Verwenden Sie nicht das Kontrollkästchen „Self-Service“ für die SSL-Erstellung.
 
