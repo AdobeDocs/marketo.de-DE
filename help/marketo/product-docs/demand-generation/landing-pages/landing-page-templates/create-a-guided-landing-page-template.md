@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515401
 description: Erstellen einer geführten Landingpage-Vorlage - Marketo-Dokumente - Produktdokumentation
-title: Erstellen einer geführten Landingpage-Vorlage
+title: Erstellen einer Vorlage für geführte Landingpages
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 1%
+source-wordcount: '1122'
+ht-degree: 2%
 
 ---
 
-# Erstellen einer geführten Landingpage-Vorlage {#create-a-guided-landing-page-template}
+# Erstellen einer Vorlage für geführte Landingpages {#create-a-guided-landing-page-template}
 
 Geführte Landingpage-Vorlagen haben eine spezielle Syntax. Verwenden Sie diese Syntax, um anzugeben, was angepasst werden kann und wo die Inhalte auf jeder Landingpage landen, die aus Ihrer Vorlage erstellt wurde. Nur die Regionen oder Variablen, die Sie als bearbeitbar angeben, stehen im „geführten“ Landingpage-Editor zur Anpassung zur Verfügung.
 
@@ -126,39 +126,6 @@ Erforderliche Attribute:
 Beispiel:
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## Umfrage {#poll}
-
-Erforderliche Attribute:
-**class**: „mktoPoll“
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
-**mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
-
-Beispiel:
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## Empfehlung {#referral}
-
-Erforderliche Attribute:
-**class**: „mktoReferral“
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
-**mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
-
-Beispiel:
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## Gewinnspiele {#sweepstakes}
-
-Erforderliche Attribute:
-**class**: „mktoSweepstakes“
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
-**mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
-
-Beispiel:
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Bearbeitbare Variablen {#editable-variables}
 
