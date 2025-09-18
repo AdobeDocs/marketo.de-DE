@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '655'
 ht-degree: 41%
 
 ---
@@ -62,7 +62,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dark Mode</strong>: Sie können jetzt den Dark Mode verwenden, der es unterstützenden E-Mail-Clients und Apps ermöglicht, E-Mails mit dunkleren Hintergründen und helleren Farben für Text, Schaltflächen und andere Benutzeroberflächenelemente anzuzeigen.</td>
+   <td><strong>E-Mail-Designer - Dunkelmodus</strong>: Sie können jetzt den Dunkelmodus verwenden, der es unterstützenden E-Mail-Clients und Apps ermöglicht, E-Mails mit dunkleren Hintergründen und helleren Farben für Text, Schaltflächen und andere Benutzeroberflächenelemente anzuzeigen.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
