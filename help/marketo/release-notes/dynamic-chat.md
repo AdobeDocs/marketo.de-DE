@@ -4,9 +4,9 @@ title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3414'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ Wenn diese Person verfügbar ist, wird der Chat direkt an sie weitergeleitet.
 
 Wenn sie nicht verfügbar ist, tut das System Folgendes:
 
-* Versucht keinen anderen Agenten, auch wenn Round Robin als Ausweichlösung aktiviert ist.
+* Es versucht nicht, eine andere Person als Agentin bzw. Agenten zu erreichen, auch wenn Round Robin als Ausweichlösung aktiviert ist.
 
 * Stattdessen gilt Folgendes:
 
@@ -104,7 +104,7 @@ Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine ge
 
 <p>
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Konto-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
+_**Benutzerdefiniertes Routing**_
 
 <table><thead>
   <tr>
@@ -141,7 +141,7 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>Benutzerdefinierte Logik löst eine Liste von Agenten auf. Der erste Agent ist verfügbar und akzeptiert Chat.</td>
+    <td>Benutzerdefinierte Logik löst eine Liste von Agentinnen und Agenten auf. Die erste Person ist verfügbar und akzeptiert den Chat.</td>
     <td>Chat stellt eine Verbindung zur ersten Agentin bzw. zum ersten Agenten her.</td>
   </tr>
   <tr>
@@ -152,11 +152,11 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
   <tr>
     <td>Keine Fallback-Agentin bzw. kein Fallback-Agent</td>
     <td>Zwei Agentinnen bzw. Agenten wurden aufgelöst. Keine der beiden Personen akzeptiert den Chat; Fallback wird auf den Meeting-Kalender festgelegt.</td>
-    <td>Der Kalender des zuerst getesteten Agenten wird angezeigt oder die standardmäßige Fallback-Nachricht wird angezeigt.</td>
+    <td>Der Kalender der zuerst als Agentin bzw. Agent gewählten Person wird angezeigt oder es wird die standardmäßige Fallback-Nachricht angezeigt.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Team-Routing**&#x200B;_
+_**Team-Routing**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Team-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round-Robin-Routing**&#x200B;_
+_**Round-Robin-Routing**_
 
 <table><thead>
   <tr>
@@ -193,13 +193,13 @@ _&#x200B;**Round-Robin-Routing**&#x200B;_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>Round Robin Pool hat mehrere Agenten; der zweite Agent nimmt Chat an, nachdem der erste nicht.</td>
+    <td>Der Round-Robin-Pool weist mehrere Agentinnen und Agenten auf; die zweite Person nimmt den Chat an, nachdem die erste abgelehnt hat.</td>
     <td>Chat stellt eine Verbindung zur zweiten Person her.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>Im Round-Robin-Pool sind keine Agentinnen und Agenten verfügbar. Der Meeting-Kalender ist aktiviert.</td>
-    <td>Der Kalender wird für den ersten Agenten in der Liste angezeigt (falls konfiguriert), oder die Fallback-Nachricht wird angezeigt.</td>
+    <td>Der Kalender der ersten Agentin bzw. des ersten Agenten in der Liste wird angezeigt (falls konfiguriert), oder es wird eine Fallback-Nachricht angezeigt.</td>
   </tr>
   <tr>
     <td>Keine Fallback-Agentin bzw. kein Fallback-Agent</td>
@@ -344,7 +344,7 @@ Wenn also eine Besucherin bzw. ein Besucher mit dem Cookie „abc“ auf einer S
     <td>Bekannte Person</td>
     <td>xyz</td>
     <td>Jemand anderes als die vorhandene Person</td>
-    <td>Dieses Szenario ist nicht möglich, als wäre es ein neues Cookie von   Standard als neues anonymes Profil betrachtet</td>
+    <td>Dieses Szenario ist nicht möglich, da es sich um ein neues Cookie handelt, das standardmäßig als ein neues, anonymes Profil betrachtet wird.</td>
   </tr>
 </tbody></table>
 

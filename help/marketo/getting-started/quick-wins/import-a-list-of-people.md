@@ -5,9 +5,9 @@ title: Importieren einer Liste mit Personen
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '577'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -113,7 +113,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellenkalkulations
 
    >[!TIP]
    >
-   >Spaltenüberschriften sollten immer genau mit dem Feld übereinstimmen (Groß-/Kleinschreibung beachten), um die besten Ergebnisse der automatischen Zuordnung zu erzielen. Wenn Sie benutzerdefinierte Felder verwenden und diese nicht in der Dropdown-Liste angezeigt werden, gehen Sie zurück und [erstellen Sie sie](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}, damit sie als Optionen verfügbar sind.
+   >Spaltenüberschriften sollten immer genau mit dem Feld übereinstimmen (Groß-/Kleinschreibung beachten), um bei der automatischen Zuordnung optimale Ergebnisse zu erzielen. Wenn Sie benutzerdefinierte Felder verwenden und diese nicht in der Dropdown-Liste angezeigt werden, gehen Sie zurück und [erstellen Sie sie](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}, damit sie als Optionen verfügbar sind.
 
    >[!NOTE]
    >
@@ -127,7 +127,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellenkalkulations
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Wieder zurück in **Mein Messeprogramm** klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]**. Man sieht all die Leute, die man gerade importiert hat.
+1. Wieder zurück in **Mein Messeprogramm** klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]**. Alle gerade importierten Personen werden angezeigt.
 
    ![](assets/import-a-list-of-people-15.png)
 
