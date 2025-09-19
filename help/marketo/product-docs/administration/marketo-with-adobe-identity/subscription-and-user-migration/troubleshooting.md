@@ -34,7 +34,7 @@ Verwenden Sie den Abschnitt „Auf dieser Seite“ rechts, um direkt zu einem be
 
 _Wenn der Benutzer migriert werden muss_ - Die E-Mail-Adresse muss in Marketo Engage aktualisiert werden, um die Adobe-Sicherheitsrichtlinie zu erfüllen, und erneut überprüft werden. Marketo Admin, um die Benutzermigration für diesen Benutzer über die Migrationskonsole erneut auszuführen.
 
-_Wenn der Benutzer nicht ****migriert werden muss_ - Marketo Engage-Administrator, um den Benutzer in der Migrationskonsole zu überspringen. Die Schaltfläche „Migration abgeschlossen“ wird angezeigt, wenn alle Benutzer durch Migration oder Überspringen berücksichtigt werden. Klicken Sie auf die Schaltfläche , um den Prozess der Benutzermigration abzuschließen.
+_Wenn der Benutzer nicht **&#x200B;**&#x200B;migriert werden muss_ - Marketo Engage-Administrator, um den Benutzer in der Migrationskonsole zu überspringen. Die Schaltfläche „Migration abgeschlossen“ wird angezeigt, wenn alle Benutzer durch Migration oder Überspringen berücksichtigt werden. Klicken Sie auf die Schaltfläche , um den Prozess der Benutzermigration abzuschließen.
 
 ### Benutzer nicht im Verzeichnis {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _Wenn der Benutzer nicht ****migriert werden muss_ - Marketo Engage-Administrato
 
 _Wenn der Benutzer migriert werden muss_ - Der Benutzer muss von einem Systemadministrator mit den entsprechenden Berechtigungen zum Active Directory hinzugefügt werden. Marketo Engage Admin, um die Benutzermigration für diesen Benutzer über die Migrationskonsole erneut auszuführen.
 
-_Wenn der Benutzer nicht ****migriert werden muss_ - Marketo Engage-Administrator, um den Benutzer in der Migrationskonsole zu überspringen. Die Schaltfläche „Migration abgeschlossen“ wird angezeigt, wenn alle Benutzer durch Migration oder Überspringen berücksichtigt werden. Klicken Sie auf die Schaltfläche , um den Prozess der Benutzermigration abzuschließen.
+_Wenn der Benutzer nicht **&#x200B;**&#x200B;migriert werden muss_ - Marketo Engage-Administrator, um den Benutzer in der Migrationskonsole zu überspringen. Die Schaltfläche „Migration abgeschlossen“ wird angezeigt, wenn alle Benutzer durch Migration oder Überspringen berücksichtigt werden. Klicken Sie auf die Schaltfläche , um den Prozess der Benutzermigration abzuschließen.
 
 ### Inaktiver Benutzer {#inactive-user}
 
@@ -54,7 +54,7 @@ _Wenn der Benutzer nicht ****migriert werden muss_ - Marketo Engage-Administrato
 
 _Wenn der Benutzer migriert werden muss_ - Der Status des Benutzers und seine Berechtigungen müssen von einem Systemadministrator wiederhergestellt werden. Marketo Engage Admin, um die Benutzermigration für diesen Benutzer über die Migrationskonsole erneut auszuführen.
 
-_Wenn der Benutzer nicht ****migriert werden muss_ - Marketo Engage-Administrator, um den Benutzer in der Migrationskonsole zu überspringen. Die Schaltfläche „Migration abgeschlossen“ wird angezeigt, wenn alle Benutzer durch Migration oder Überspringen berücksichtigt werden. Klicken Sie auf die Schaltfläche , um den Prozess der Benutzermigration abzuschließen.
+_Wenn der Benutzer nicht **&#x200B;**&#x200B;migriert werden muss_ - Marketo Engage-Administrator, um den Benutzer in der Migrationskonsole zu überspringen. Die Schaltfläche „Migration abgeschlossen“ wird angezeigt, wenn alle Benutzer durch Migration oder Überspringen berücksichtigt werden. Klicken Sie auf die Schaltfläche , um den Prozess der Benutzermigration abzuschließen.
 
 ### Ungültige Domain {#invalid-domain}
 
@@ -66,7 +66,7 @@ _Wenn der Benutzer migriert werden muss_ (und die Domain-Durchsetzung in der mig
 
 _Wenn der Benutzer migriert werden muss_ (und die Domain-Durchsetzung in einer anderen Organisation aktiviert ist) - Ein Systemadministrator der Organisation, in der die Domain beansprucht wurde, muss die E-Mail-Adresse des Benutzers zur Ausnahmeliste hinzufügen. Marketo Engage Admin, um die Benutzermigration für diesen Benutzer über die Migrationskonsole erneut auszuführen.
 
-_Wenn der Benutzer nicht ****migriert werden muss_ - Marketo Engage-Administrator, um den Benutzer in der Migrationskonsole zu überspringen. Die Schaltfläche „Migration abgeschlossen“ wird angezeigt, wenn alle Benutzer durch Migration oder Überspringen berücksichtigt werden. Klicken Sie auf die Schaltfläche , um den Prozess der Benutzermigration abzuschließen.
+_Wenn der Benutzer nicht **&#x200B;**&#x200B;migriert werden muss_ - Marketo Engage-Administrator, um den Benutzer in der Migrationskonsole zu überspringen. Die Schaltfläche „Migration abgeschlossen“ wird angezeigt, wenn alle Benutzer durch Migration oder Überspringen berücksichtigt werden. Klicken Sie auf die Schaltfläche , um den Prozess der Benutzermigration abzuschließen.
 
 ### Type2e-Fehler {#type2e-failure}
 
@@ -106,7 +106,7 @@ _Wenn der Benutzer migriert werden muss_
 
 1. Wenn auf die Konsole nicht zugegriffen werden kann, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support), um die Migration erneut durchzuführen.
 
-_Wenn der Benutzer **nicht**muss migriert werden_
+_Wenn der Benutzer **nicht**&#x200B;muss migriert werden_
 
 * Der Marketo Engage-Administrator sollte den Benutzer in der Migrationskonsole überspringen.
 * Nachdem alle Benutzer migriert oder übersprungen wurden, klicken Sie auf **[!UICONTROL Migration abgeschlossen]**, um den Vorgang abzuschließen.
