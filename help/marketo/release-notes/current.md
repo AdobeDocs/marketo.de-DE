@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
+source-git-commit: c83145ca5e723f19e5bc89279ccd40cf4cf68ee3
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '654'
 ht-degree: 60%
 
 ---
@@ -42,7 +42,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-Mail-Designer Collaboration - Workflow für Content-</strong>: Sie können jetzt mit Ihren Marketo-Kollegen in einem E-Mail-Asset zusammenarbeiten und Kommentare abgeben. Tag-Team-Mitglieder (Marketo-Benutzer mit entsprechenden Asset-Berechtigungen) und sie erhalten eine E-Mail- oder Push-Benachrichtigung.</td>
+   <td><strong>E-Mail-Designer Collaboration - Workflow für Content-</strong>): Sie können jetzt mit anderen Marketo-Benutzenden in einem E-Mail-Asset zusammenarbeiten und Kommentare abgeben. Tag-Team-Mitglieder (Marketo-Benutzer mit entsprechenden Asset-Berechtigungen) und sie erhalten eine E-Mail- oder Push-Benachrichtigung.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
