@@ -62,7 +62,7 @@ _Wenn der Benutzer nicht **&#x200B;**&#x200B;migriert werden muss_ - Marketo Eng
 
 **Auflösungen**:
 
-_Wenn der Benutzer migriert werden muss_ (und die Domain-Durchsetzung in der migrierenden Organisation aktiviert ist) - Die E-Mail-Adresse muss in Marketo Engage aktualisiert werden, um die Domain Enforcement (DE)-Richtlinie zu erfüllen. Alternativ kann der Systemadministrator die Domain entweder [in einen anderen ](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}-Ordner (DE) verschieben oder [einen neuen Ordner erstellen](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"} der nicht unter der DE-Richtlinie steht. Marketo Engage Admin, um die Benutzermigration für diesen Benutzer über die Migrationskonsole erneut auszuführen.
+_Wenn der Benutzer migriert werden muss_ (und die Domain-Durchsetzung in der migrierenden Organisation aktiviert ist) - Die E-Mail-Adresse muss in Marketo Engage aktualisiert werden, um die Domain Enforcement (DE)-Richtlinie zu erfüllen. Alternativ kann der Systemadministrator die Domain entweder [in einen anderen ](https://helpx.adobe.com/de/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"}-Ordner (DE) verschieben oder [einen neuen Ordner erstellen](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"} der nicht unter der DE-Richtlinie steht. Marketo Engage Admin, um die Benutzermigration für diesen Benutzer über die Migrationskonsole erneut auszuführen.
 
 _Wenn der Benutzer migriert werden muss_ (und die Domain-Durchsetzung in einer anderen Organisation aktiviert ist) - Ein Systemadministrator der Organisation, in der die Domain beansprucht wurde, muss die E-Mail-Adresse des Benutzers zur Ausnahmeliste hinzufügen. Marketo Engage Admin, um die Benutzermigration für diesen Benutzer über die Migrationskonsole erneut auszuführen.
 
@@ -79,8 +79,8 @@ _Wenn der Benutzer nicht **&#x200B;**&#x200B;migriert werden muss_ - Marketo Eng
 1. Das einzige Berechtigungskonto wird erstellt (falls zutreffend) und mit dem Federated Account als seinem Authentifizierungskonto verknüpft.
 
 **Weitere Informationen**
-* [Einrichten der Identität ohne einmaliges Anmelden](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
-* [Einrichten der Identität mit Single Sign-On](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
+* [Einrichten der Identität ohne einmaliges Anmelden](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
+* [Einrichten der Identität mit Single Sign-On](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
 
 ### Pendo-Migration fehlgeschlagen {#pendo-migration-failed}
 
