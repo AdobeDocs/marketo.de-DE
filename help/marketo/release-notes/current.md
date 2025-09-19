@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 41%
+ht-degree: 60%
 
 ---
 
@@ -22,7 +22,7 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 19. September 2025 veröffentlicht**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 19. September 2025** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -84,13 +84,13 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Zurück zur Velocity-Skripterstellung in der neuen E-Mail-Designer**: Adobe Marketo Engage hat im vergangenen Juni eine Funktion namens _Bedingter Inhalt_ für die neue E-Mail-Designer veröffentlicht. Die Funktion basiert auf Handlebar-Skripterstellung anstelle von Velocity-Skripterstellung, in dem Bemühen, Ihren dynamischen Inhalten etwas mehr Flexibilität zu bieten. Aber als wir herausfanden, dass es dazu führte, dass einige Token falsch aufgelöst wurden, entschieden wir uns, es vorübergehend zu deaktivieren. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
-* **Einstellung der Marketo Engage Identity**: Im August 2025 begann Adobe, die Unterstützung für Marketo Engage Identity auslaufen zu lassen (Anmeldung über `login.marketo.com`). Um eine Unterbrechung des Zugriffs auf Marketo Engage zu verhindern, müssen Sie bis spätestens 30. September 2025 zu [Adobe Identity](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} wechseln.
+* **Abschaffung der Marketo Engage Identity**: Im August 2025 beginnt Adobe mit der schrittweisen Einstellung der Unterstützung für Marketo Engage Identity (Anmeldung über `login.marketo.com`). Um eine Unterbrechung des Zugriffs auf Marketo Engage zu verhindern, müssen Sie bis spätestens 30. September 2025 zu [Adobe Identity](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} wechseln.
 
-   * _Einstellung von IP-_: Die Unterstützung für [Einschränken von Marketo-Anmeldungen auf der Grundlage von IP](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} wurde am 30. Juli 2025 eingestellt. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Eine neue standortbasierte Zugriffssteuerungsfunktion für Adobe Identity in Adobe Admin Console wird in Kürze eingeführt.
+   * _Abschaffung von IP-Einschränkungen_: Die Unterstützung für das [Einschränken von Marketo-Anmeldungen auf Grundlage der IP](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} endete am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Eine neue standortbasierte Zugriffssteuerungsfunktion für Adobe Identity in der Adobe Admin Console ist demnächst verfügbar.
 
-   * _Einstellung von Single Sign-On (SSO)_: Die Unterstützung für [Marketo Identity SSO](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} endete am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Das Single Sign-On für Adobe Identity in der Adobe Admin Console muss separat konfiguriert werden. Informationen zu den Einrichtungsschritten finden Sie unter [Einrichten von Identitäten und Single Sign-On](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
+   * _Abschaffung von Single Sign-on (SSO)_: Die Unterstützung für [Marketo Identity SSO](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} endete am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Das Single Sign-On für Adobe Identity in der Adobe Admin Console muss separat konfiguriert werden. Informationen zu den Einrichtungsschritten finden Sie unter [Einrichten von Identitäten und Single Sign-On](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Einstellung von _An einen Freund weiterleiten_ Funktion**: Am 29. September 2025 wird die _An einen Freund weiterleiten_ Funktion in Marketo Engage 2.0-E-Mails (dem alten E-Mail-Editor) für alle Abonnements vollständig eingestellt. Dies betrifft die Links „An einen Freund weiterleiten“ und „An einen Freund weiterleiten“ in E-Mails, die bereits mit dem Token gesendet wurden oder werden. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
+* **Einstellung der Funktion _An Freund/Freundin weiterleiten_**: Am 29. September 2025 wird die Funktion _An Freund/Freundin weiterleiten_ in E-Mails in Marketo Engage 2.0 (dem alten E-Mail-Editor) für alle Abonnements vollständig eingestellt. Dies betrifft das Token „An Freund/Freundin weiterleiten“ und die Links „An Freund/Freundin weiterleiten“ in E-Mails, die bereits mit dem Token gesendet wurden oder gesendet werden. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
 * **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem 31. Oktober 2025 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
