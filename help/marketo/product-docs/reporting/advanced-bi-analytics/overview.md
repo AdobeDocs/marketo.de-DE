@@ -1,16 +1,16 @@
 ---
 description: Übersicht über die erweiterte BI-Analyse - Marketo-Dokumente - Produktdokumentation
-title: Erweiterte BI-Analytics-Übersicht
+title: Erweiterte BI-Analyse – Überblick
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
+source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
 workflow-type: tm+mt
 source-wordcount: '1044'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Erweiterte BI-Analytics-Übersicht {#advanced-bi-analytics-overview}
+# Erweiterte BI-Analyse – Überblick {#advanced-bi-analytics-overview}
 
 Advanced BI Analytics (früher als Revenue Explorer und Advanced Report Builder bezeichnet) bietet eine flexible Reporting- und Visualisierungsschnittstelle für Marketo Engage-Daten, die granulare Details zu Fortschritt, Leistung und mehr bietet. Er bietet mehr Interaktivität und Visualisierung, schnellere Leistung und ein nahtloseres und intuitiveres Benutzererlebnis.
 
