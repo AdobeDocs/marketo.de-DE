@@ -18,7 +18,7 @@ Als Administrator können Sie die Anrufaufzeichnung für Ihre [!DNL Sales Insigh
 
    ![](assets/enable-call-recording-1.png)
 
-1. Klicken [!UICONTROL  unter „Admin] auf **[!UICONTROL Dialer]**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin] auf **[!UICONTROL Dialer]**.
 
    ![](assets/enable-call-recording-2.png)
 

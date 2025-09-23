@@ -13,7 +13,7 @@ ht-degree: 9%
 
 # Hinzufügen von neuen Inhalten {#add-new-content}
 
-Sie können der Seite „Alle Inhalte“ [!UICONTROL  Inhalt ] hinzufügen.
+Sie können der Seite „Alle Inhalte“ [!UICONTROL &#x200B; Inhalt &#x200B;] hinzufügen.
 
 1. Klicken Sie auf **[!UICONTROL Inhalt hinzufügen]** und wählen Sie **[!UICONTROL Inhalt hinzufügen]** aus.
 

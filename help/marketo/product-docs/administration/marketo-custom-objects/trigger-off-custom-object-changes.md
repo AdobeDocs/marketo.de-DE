@@ -40,7 +40,7 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flussaktion mit Trigger
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Wählen Sie das Attribut [!UICONTROL Trigger ].
+1. Wählen Sie das Attribut [!UICONTROL Trigger &#x200B;].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

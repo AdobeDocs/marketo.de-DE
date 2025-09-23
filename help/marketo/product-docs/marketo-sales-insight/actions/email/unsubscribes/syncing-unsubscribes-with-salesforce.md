@@ -40,11 +40,11 @@ Benutzerinnen und Benutzer können entscheiden, ob sie ihre Abmeldungen mit dem 
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. Wählen [!UICONTROL  unter „Admin]Einstellungen die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Admin]Einstellungen die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. Klicken Sie auf die **[!UICONTROL Integrationen]**. Aktivieren [!UICONTROL  unter „Mit Salesforce synchronisieren] die nächtliche Synchronisierung.
+1. Klicken Sie auf die **[!UICONTROL Integrationen]**. Aktivieren [!UICONTROL &#x200B; unter „Mit Salesforce synchronisieren] die nächtliche Synchronisierung.
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 

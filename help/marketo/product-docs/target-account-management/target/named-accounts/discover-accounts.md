@@ -25,7 +25,7 @@ Identifizieren Sie potenzielle Zielkonten in Ihrem CRM.
 
 **[!UICONTROL Personen]** (in [!UICONTROL CRM-Konten entdecken] und [!UICONTROL Marketo-Unternehmen entdecken]): Enthält sowohl Kontakte als auch Leads. Leads können mit der Marketo-Funktion [Lead-Konto-Zuordnung](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md) erkannt werden.
 
-**[!UICONTROL Potenzielle Personen]** (in [!UICONTROL CRM-Konten ] &amp; [!UICONTROL Marketo-Unternehmen entdecken]): Zeigt, wie viele Leads Marketo gefunden hat, die möglicherweise zu einem CRM-Konto gehören könnten.
+**[!UICONTROL Potenzielle Personen]** (in [!UICONTROL CRM-Konten &#x200B;] &amp; [!UICONTROL Marketo-Unternehmen entdecken]): Zeigt, wie viele Leads Marketo gefunden hat, die möglicherweise zu einem CRM-Konto gehören könnten.
 
 **Benutzerdefiniertes CRM-Feld** (nur in „CRM-Konten erkennen„): Auf diese Weise können Sie Ihre Vertriebs- und Marketing-Organisation für die Auswahl der richtigen Zielkonten abstimmen. Nachdem Sie [das benutzerdefinierte CRM-Feld ](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) Marketo TAM zugeordnet haben, zeigen wir Ihnen die zugeordneten Daten, damit Sie Ihre Zielkonten identifizieren können.
 
@@ -33,7 +33,7 @@ Identifizieren Sie potenzielle Zielkonten in Ihrem CRM.
 
    ![](assets/disc-crm-one.png)
 
-1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Wählen Sie die CRM-Konten aus, die Sie Ihren [!UICONTROL  Konten hinzufügen möchten, ] klicken Sie auf **[!UICONTROL Weiter]**.
+1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Wählen Sie die CRM-Konten aus, die Sie Ihren [!UICONTROL &#x200B; Konten hinzufügen möchten, &#x200B;] klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/disc-crm-two.png)
 
@@ -53,11 +53,11 @@ Identifizieren Sie die richtigen Unternehmen für das Targeting.
 >
 >In [!UICONTROL Entdecken Sie Marketo]Unternehmen“ sehen Sie Marketo-Unternehmen, die nicht aus Ihrem CRM stammen.
 
-1. Klicken [!UICONTROL  unter „Benannte ]&quot; auf die **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Marketo-Unternehmen entdecken]**.
+1. Klicken [!UICONTROL &#x200B; unter „Benannte &#x200B;]&quot; auf die **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Marketo-Unternehmen entdecken]**.
 
    ![](assets/one-1.png)
 
-1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Wählen Sie die Firmen aus, die Sie zu Ihren [!UICONTROL  Konten hinzufügen möchten, ] klicken Sie auf **[!UICONTROL Weiter]**.
+1. Ein neues Fenster/eine neue Registerkarte wird geöffnet. Wählen Sie die Firmen aus, die Sie zu Ihren [!UICONTROL &#x200B; Konten hinzufügen möchten, &#x200B;] klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/disc-comp-two.png)
 
@@ -83,7 +83,7 @@ Identifizieren Sie die richtigen Unternehmen für das Targeting.
 
    >[!CAUTION]
    >
-   >Künftig werden alle neuen Personen aus diesen ausgewählten Unternehmen automatisch ihren jeweiligen benannten Konten zugewiesen. Bitte überprüfen Sie diese Unternehmen und stellen Sie sicher, dass sie dem richtigen [!UICONTROL benannten Konto“ ].
+   >Künftig werden alle neuen Personen aus diesen ausgewählten Unternehmen automatisch ihren jeweiligen benannten Konten zugewiesen. Bitte überprüfen Sie diese Unternehmen und stellen Sie sicher, dass sie dem richtigen [!UICONTROL benannten Konto“ &#x200B;].
 
 1. Um ein vorhandenes Konto auszuwählen, klicken Sie auf die **[!UICONTROL Benanntes Konto]**, wählen Sie das gewünschte Konto aus und klicken Sie dann auf **[!UICONTROL Weiter]**.
 

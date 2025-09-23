@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Ranking und Optimierung für die Kontoprofilierung {#account-profiling-ranking-and-tuning}
 
-Das Account Profiling identifiziert Ihr Ideal Customer Profile (ICP), ordnet Unternehmen in Ihrer Datenbank basierend auf dem ICP an und fügt ICP-Indikatordaten zu Konten hinzu, die als [!UICONTROL Named Accounts“ ] werden.
+Das Account Profiling identifiziert Ihr Ideal Customer Profile (ICP), ordnet Unternehmen in Ihrer Datenbank basierend auf dem ICP an und fügt ICP-Indikatordaten zu Konten hinzu, die als [!UICONTROL Named Accounts“ &#x200B;] werden.
 
 >[!IMPORTANT]
 >

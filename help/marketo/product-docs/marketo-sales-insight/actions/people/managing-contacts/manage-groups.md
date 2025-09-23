@@ -47,7 +47,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Erstellen einer Gruppe {#create-a-group}
 
-1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das **+** neben [!UICONTROL Gruppen].
+1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das **+** neben [!UICONTROL Gruppen].
 
    ![](assets/manage-groups-1.png)
 
@@ -81,7 +81,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Freigeben einer Gruppe {#share-a-group}
 
-1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie freigeben möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie freigeben möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-8.png)
 
@@ -97,7 +97,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Freigabe einer Gruppe aufheben {#unshare-a-group}
 
-1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, deren Freigabe Sie aufheben möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, deren Freigabe Sie aufheben möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-11.png)
 
@@ -113,7 +113,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Eine Gruppe umbenennen {#rename-a-group}
 
-1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie umbenennen möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie umbenennen möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-14.png)
 

@@ -36,7 +36,7 @@ Sie können festlegen, dass bekannte Personen oder anonyme Personen angezeigt we
 
    >[!TIP]
    >
-   >Um herauszufinden, wer Ihre Site am häufigsten besucht, wählen [ ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} in der Spalte _Seitenansichten_ die Option Absteigend sortieren aus.
+   >Um herauszufinden, wer Ihre Site am häufigsten besucht, wählen [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} in der Spalte _Seitenansichten_ die Option Absteigend sortieren aus.
 
    [Marketo fügt Ihrer ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} anonyme Website-Besucher hinzu, die Sie in diesem Bericht anzeigen können. Es bietet eine Fülle von Informationen, obwohl sie anonym sind.
    [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} für einen Web-Seiten-Aktivitätsbericht umfassen:

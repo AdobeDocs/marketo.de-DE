@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Sendungen mit E-Mail Insights – Überblick {#email-insights-sends-overview}
 
-Untersuchen Sie auf [!UICONTROL  Seite ]Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
+Untersuchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
 
 ![](assets/one.png)
 

@@ -47,7 +47,7 @@ Nachdem Sie &quot;[ Feldtyp“ ](/help/marketo/product-docs/administration/field
 
    >[!NOTE]
    >
-   >Wenn Sie keinen &quot;[!UICONTROL  Wert“ eingeben] verwendet Marketo den [!UICONTROL Wert anzeigen] und speichert diesen.
+   >Wenn Sie keinen &quot;[!UICONTROL &#x200B; Wert“ eingeben] verwendet Marketo den [!UICONTROL Wert anzeigen] und speichert diesen.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 

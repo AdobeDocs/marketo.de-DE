@@ -42,7 +42,7 @@ Der Bereich Vorlagendetails enthält mehrere Registerkarten.
 
 <table>
  <tr>
-  <td><strong>[!UICONTROL-Vorlage]</strong></td>
+  <td><strong>[!UICONTROL -Vorlage]</strong></td>
   <td>Prüfen und bearbeiten, Kriterien einrichten, um die Vorlage zu einer empfohlenen Vorlage zu machen, Anmerkungen hinzufügen</td>
  </tr>
  <tr>

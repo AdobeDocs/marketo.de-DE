@@ -31,6 +31,6 @@ Das RTP-JavaScript-Tag steuert, ob Web Personalization Web-Aktivitäten nachverf
 
    Wenn [!UICONTROL Tag] auf [!UICONTROL Aus] eingestellt ist, ist der JavaScript-Code deaktiviert und [!UICONTROL Web-Personalization] verfolgt keine Web-Aktivitäten und führt keine Kampagnen oder Inhaltsempfehlungen auf Ihrer Website aus.
 
-1. Um das RTP-Tag zu aktivieren[!UICONTROL  klicken Sie in ]Domain[!UICONTROL  und ]Domain-Konfiguration unter [!UICONTROL Tag] auf den Umschalter **[!UICONTROL Ein]**.
+1. Um das RTP-Tag zu aktivieren[!UICONTROL &#x200B; klicken Sie in &#x200B;]Domain[!UICONTROL &#x200B; und &#x200B;]Domain-Konfiguration unter [!UICONTROL Tag] auf den Umschalter **[!UICONTROL Ein]**.
 
    Einfach.

@@ -44,7 +44,7 @@ Die folgenden Aktivitäten werden von [!DNL Sales Connect] an Marketo protokolli
   <td>[!UICONTROL Verkaufskampagne] URL</td>
  </tr>
  <tr>
-  <td>Name der [!UICONTROL-Verkaufsvorlage]</td>
+  <td>Name der [!UICONTROL -Verkaufsvorlage]</td>
  </tr>
  <tr>
   <td>[!UICONTROL E-Mail-Betreff]</td>

@@ -65,7 +65,7 @@ Nachdem der [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support
 
    ![](assets/lead-to-account-matching-2.png)
 
-1. Bestätigen Sie, dass das Feld vorhanden ist, indem Sie nach &quot;[!UICONTROL Abgestimmtes Berichtskonto“ ].
+1. Bestätigen Sie, dass das Feld vorhanden ist, indem Sie nach &quot;[!UICONTROL Abgestimmtes Berichtskonto“ &#x200B;].
 
    ![](assets/lead-to-account-matching-3.png)
 

@@ -19,7 +19,7 @@ Wenn Sie eine nicht verifizierte E-Mail-Identität haben, führen Sie die folgen
 
    ![](assets/verify-your-email-1.png)
 
-1. Klicken [!UICONTROL  unter „Mein ]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
+1. Klicken [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/verify-your-email-2.png)
 

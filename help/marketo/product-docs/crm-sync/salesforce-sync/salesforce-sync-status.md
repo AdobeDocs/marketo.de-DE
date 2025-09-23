@@ -26,7 +26,7 @@ Die Synchronisierungsschritte spiegeln Push- oder Pull-Vorgänge für jeden Obje
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Klicken [!UICONTROL  unter &quot;]Integration“ auf **Salesforce** und dann auf die Registerkarte **[!UICONTROL Synchronisierungsstatus]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]Integration“ auf **Salesforce** und dann auf die Registerkarte **[!UICONTROL Synchronisierungsstatus]**.
 
    ![](assets/salesforce-sync-status-2.png)
 

@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Abgeleitete Filter {#inferred-filters}
 
-Wenn jemand Ihre Website besucht, [ ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von Informationen ab.
+Wenn jemand Ihre Website besucht, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von Informationen ab.
 
 >[!NOTE]
 >

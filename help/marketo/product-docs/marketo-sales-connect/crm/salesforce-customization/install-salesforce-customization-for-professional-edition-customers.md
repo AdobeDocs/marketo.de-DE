@@ -26,7 +26,7 @@ Kunden mit [!DNL Salesforce] Professional Edition müssen diese Schritte ausfüh
 
    ![](assets/one-4.png)
 
-1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/two-4.png)
 

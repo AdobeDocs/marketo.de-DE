@@ -31,7 +31,7 @@ So synchronisieren Sie mit der Schnellsynchronisierung nach neuen Feldern neu.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Klicken Sie [!UICONTROL  „Details zur ]&quot; auf **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie [!UICONTROL &#x200B; „Details zur &#x200B;]&quot; auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 

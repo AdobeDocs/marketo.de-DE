@@ -23,7 +23,7 @@ Alle standardmäßigen Marketo-Dimensionen sind enthalten, Sie haben jedoch die 
 >
 >Benutzerdefinierte Dimensionen **können** nicht gelöscht oder ersetzt werden. Wählen Sie daher Ihre 10 sorgfältig aus.
 
-1. Klicken [!UICONTROL  in „E]Mail-Einblicke“ oben rechts auf der Seite auf das Zahnradsymbol.
+1. Klicken [!UICONTROL &#x200B; in „E]Mail-Einblicke“ oben rechts auf der Seite auf das Zahnradsymbol.
 
    ![](assets/cd1.png)
 

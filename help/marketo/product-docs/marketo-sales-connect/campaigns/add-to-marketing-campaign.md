@@ -69,7 +69,7 @@ ht-degree: 2%
 
    ![](assets/one-3.png)
 
-1. Wählen [!UICONTROL  unter „Meine ]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
+1. Wählen [!UICONTROL &#x200B; unter „Meine &#x200B;]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
 
    ![](assets/eleven.png)
 

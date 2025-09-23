@@ -31,7 +31,7 @@ Es gibt zwei Möglichkeiten, sowohl die Feldbeschriftungsbreite als auch die Fel
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. Geben Sie einen Wert in Pixel für [!UICONTROL Titelbreite] und/oder [!UICONTROL Feldbreite“ ].
+1. Geben Sie einen Wert in Pixel für [!UICONTROL Titelbreite] und/oder [!UICONTROL Feldbreite“ &#x200B;].
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 

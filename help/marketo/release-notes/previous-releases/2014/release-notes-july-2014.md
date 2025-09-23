@@ -31,7 +31,7 @@ Die Dokumentation zum Marketing-Kalender wird zum Zeitpunkt der Veröffentlichun
 
 ## Datumsoperatoren {#date-operators}
 
-[Erweiterte Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) für &quot;[!UICONTROL in der Vergangenheit]&quot;, &quot;[!UICONTROL in der ]&quot; und &quot;[!UICONTROL in der Zukunft danach]&quot;. Suchen Sie beispielsweise nach Leads, die in den nächsten 3 Monaten ein Geburtsdatum haben, oder nach einem Vertrag, der nach 6 Monaten abläuft.
+[Erweiterte Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) für &quot;[!UICONTROL in der Vergangenheit]&quot;, &quot;[!UICONTROL in der &#x200B;]&quot; und &quot;[!UICONTROL in der Zukunft danach]&quot;. Suchen Sie beispielsweise nach Leads, die in den nächsten 3 Monaten ein Geburtsdatum haben, oder nach einem Vertrag, der nach 6 Monaten abläuft.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -47,7 +47,7 @@ Zusätzlich zum Marketing-Kalender können Sie Ihre Ereignisse und Standardprogr
 
 ## Listenvorgänge in der REST-API {#list-operations-in-the-rest-api}
 
-Wir haben die folgenden Aufrufe im Zusammenhang mit Listenvorgängen in ReST hinzugefügt. Die vollständige Dokumentation finden Sie [ ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api)https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api.
+Wir haben die folgenden Aufrufe im Zusammenhang mit Listenvorgängen in ReST hinzugefügt. Die vollständige Dokumentation finden Sie [&#128279;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api)https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api.
 
 * Liste nach ID abrufen
 * Abrufen mehrerer Listen

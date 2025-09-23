@@ -72,7 +72,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
    >[!NOTE]
    >
-   >Um eine Untergruppe zu löschen, klicken Sie einfach auf das rote X neben dem Namen der Untergruppe. Wenn sich Datenwerte in der Gruppe befinden, werden die Datenwerte in die Standardgruppe &quot;[!UICONTROL &quot; ].
+   >Um eine Untergruppe zu löschen, klicken Sie einfach auf das rote X neben dem Namen der Untergruppe. Wenn sich Datenwerte in der Gruppe befinden, werden die Datenwerte in die Standardgruppe &quot;[!UICONTROL &quot; &#x200B;].
 
 1. Markieren Sie einen oder mehrere Datenwerte auf der Arbeitsfläche und ziehen Sie sie per Drag-and-Drop in die entsprechende Untergruppe.
 
@@ -178,7 +178,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
    >[!NOTE]
    >
-   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder [!UICONTROL Gruppenbereich] baut auf dem vorherigen Eintrag auf. Wenn Sie für die letzte [!UICONTROL  erstellte Untergruppe den ] „Gruppenbereich“ leer lassen, wird kein Enddatumswert festgelegt.
+   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder [!UICONTROL Gruppenbereich] baut auf dem vorherigen Eintrag auf. Wenn Sie für die letzte [!UICONTROL &#x200B; erstellte Untergruppe den &#x200B;] „Gruppenbereich“ leer lassen, wird kein Enddatumswert festgelegt.
 
    Das folgende Beispiel zeigt einen Eintrag für Q1 2015 führt durch Q3.
 

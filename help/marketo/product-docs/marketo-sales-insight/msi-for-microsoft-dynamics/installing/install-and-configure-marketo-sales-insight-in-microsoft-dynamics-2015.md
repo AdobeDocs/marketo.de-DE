@@ -29,7 +29,7 @@ OK, jetzt ist es Zeit, die [!DNL Marketo Sales Insight] Lösung in [!DNL Microso
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
-1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Anpassungen]**.
+1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Anpassungen]**.
 
    ![](assets/image2015-4-29-14-3a22-3a1.png)
 

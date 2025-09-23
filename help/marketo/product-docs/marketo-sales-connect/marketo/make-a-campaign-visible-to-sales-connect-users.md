@@ -39,11 +39,11 @@ Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. So g
 
    ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
-1. Wählen [!UICONTROL  für &quot;]&quot; die Option **[!UICONTROL Web]** aus.
+1. Wählen [!UICONTROL &#x200B; für &quot;]&quot; die Option **[!UICONTROL Web]** aus.
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 
-1. Schreiben Sie [!UICONTROL  Feld &quot;]&quot; eine Nachricht an Ihr Vertriebsteam. In diesem Beispiel verwenden wir Token, um das ausgefüllte Formular anzugeben.
+1. Schreiben Sie [!UICONTROL &#x200B; Feld &quot;]&quot; eine Nachricht an Ihr Vertriebsteam. In diesem Beispiel verwenden wir Token, um das ausgefüllte Formular anzugeben.
 
    ![](assets/make-a-marketing-campaign-visible-msc-8.png)
 

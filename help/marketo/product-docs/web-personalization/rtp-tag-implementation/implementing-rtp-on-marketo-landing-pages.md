@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Implementieren von RTP in Marketo-Landingpages {#implementing-rtp-on-marketo-landing-pages}
 
-Um Ihr [!UICONTROL RTP-Tag ] implementieren, folgen Sie den folgenden Installationsanweisungen:
+Um Ihr [!UICONTROL RTP-Tag &#x200B;] implementieren, folgen Sie den folgenden Installationsanweisungen:
 
 1. Gehen Sie zum **[!UICONTROL Design Studio].** Öffnen Sie das Element, das Sie bearbeiten möchten. Wählen Sie **[!UICONTROL Vorlagenaktionen]** und wählen Sie **[!UICONTROL Entwurf bearbeiten]**.
 
@@ -43,7 +43,7 @@ Um Ihr [!UICONTROL RTP-Tag ] implementieren, folgen Sie den folgenden Installati
 
    ![](assets/image2015-4-26-18-3a28-3a30.png)
 
-1. Schließlich müssen Sie alle Landingpages, **diese Vorlage verwenden** erneut genehmigen, damit die Vorlagenänderungen wirksam werden. Sie können sie alle gleichzeitig im Hauptabschnitt [!UICONTROL Landingpages“ erneut ].
+1. Schließlich müssen Sie alle Landingpages, **diese Vorlage verwenden** erneut genehmigen, damit die Vorlagenänderungen wirksam werden. Sie können sie alle gleichzeitig im Hauptabschnitt [!UICONTROL Landingpages“ erneut &#x200B;].
 
    ![](assets/image2015-4-26-18-3a28-3a49.png)
 

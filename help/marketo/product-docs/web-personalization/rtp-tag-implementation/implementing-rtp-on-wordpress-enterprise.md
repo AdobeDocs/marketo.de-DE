@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Implementieren von RTP in WordPress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
-Um Ihr [!UICONTROL RTP-Tag ] implementieren, folgen Sie den folgenden Installationsanweisungen:
+Um Ihr [!UICONTROL RTP-Tag &#x200B;] implementieren, folgen Sie den folgenden Installationsanweisungen:
 
 1. Navigieren Sie **[!UICONTROL Kontoeinstellungen]**.
 

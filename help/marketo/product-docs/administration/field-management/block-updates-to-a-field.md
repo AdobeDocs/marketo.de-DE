@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Blockieren von Aktualisierungen eines Felds {#block-updates-to-a-field}
 
-Wenn Sie Aktualisierungen an einem Feld blockieren, können Sie nur einmal in das Feld schreiben und dann den ursprünglichen Wert während der Lebensdauer des Felds beibehalten. Source Dies kann für ein Feld wie „Person [!UICONTROL &quot; nützlich ].
+Wenn Sie Aktualisierungen an einem Feld blockieren, können Sie nur einmal in das Feld schreiben und dann den ursprünglichen Wert während der Lebensdauer des Felds beibehalten. Source Dies kann für ein Feld wie „Person [!UICONTROL &quot; nützlich &#x200B;].
 
 >[!NOTE]
 >

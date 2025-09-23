@@ -74,7 +74,7 @@ Sie entscheiden, wann eine Besetzung geschieht, indem Sie **Stream-Kadenz** einr
 
 ## Personen-Kadenz {#person-cadence}
 
-Eine **Personen-Kadenz** ist ein Status, der seine Fähigkeit definiert, Inhalte aus einem Interaktionsprogramm zu erhalten. Sie können den **[!UICONTROL Ändern der Interaktionsprogrammkadenz]** Flussschritt verwenden, um dies in &quot;[!UICONTROL &quot; ] &quot;[!UICONTROL &quot; ].
+Eine **Personen-Kadenz** ist ein Status, der seine Fähigkeit definiert, Inhalte aus einem Interaktionsprogramm zu erhalten. Sie können den **[!UICONTROL Ändern der Interaktionsprogrammkadenz]** Flussschritt verwenden, um dies in &quot;[!UICONTROL &quot; &#x200B;] &quot;[!UICONTROL &quot; &#x200B;].
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 

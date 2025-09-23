@@ -29,7 +29,7 @@ ht-degree: 6%
 
 ## Löschen von Kontakten {#deleting-contacts}
 
-1. Aktivieren [!UICONTROL  auf der ] „Personen“ das Kontrollkästchen des Kontakts, den Sie löschen möchten.
+1. Aktivieren [!UICONTROL &#x200B; auf der &#x200B;] „Personen“ das Kontrollkästchen des Kontakts, den Sie löschen möchten.
 
    ![](assets/three-2.png)
 

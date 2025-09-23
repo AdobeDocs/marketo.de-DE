@@ -33,7 +33,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
    >
    >**Was ist eine Zonen-ID?**
    >
-   >Mit einer Zonen-ID möchten Sie Ihre &quot;[!UICONTROL  Zone]-Web-Kampagne auf der Site platzieren. Um eine &quot;[!UICONTROL Zone-ID] zu finden, wählen Sie einfach auf Ihrer Website den Bereich aus, den Sie durch eine Web-Kampagne ersetzen möchten, und klicken Sie mit der rechten Maustaste darauf. In Chrome lautet die Option „Element überprüfen“, in anderen Browsern kann sie variieren.
+   >Mit einer Zonen-ID möchten Sie Ihre &quot;[!UICONTROL &#x200B; Zone]-Web-Kampagne auf der Site platzieren. Um eine &quot;[!UICONTROL Zone-ID] zu finden, wählen Sie einfach auf Ihrer Website den Bereich aus, den Sie durch eine Web-Kampagne ersetzen möchten, und klicken Sie mit der rechten Maustaste darauf. In Chrome lautet die Option „Element überprüfen“, in anderen Browsern kann sie variieren.
    >
    >Anschließend möchten Sie die mit diesem Abschnitt der Website verknüpfte „ID“ suchen, die hervorgehoben ist, weil Sie dieses Element untersuchen. Wenn beispielsweise nach dem Rechtsklick in Chrome der hervorgehobene Text `<div id="featured-slider">` lautet, sollten Sie im Abschnitt „Zonenkennung“ „Vorgestellter Schieberegler“ eingeben. Normalerweise wird „div id“ verwendet, es können jedoch auch beliebige IDs verwendet werden, z. B. h1-ID, p-ID usw.
 

@@ -63,7 +63,7 @@ Sie können auch im linken Navigationsbereich mit der rechten Maustaste auf Ihre
 
 ## Löschen mehrerer Landingpages {#delete-multiple-landing-pages}
 
-1. Klicken Sie im [!UICONTROL  „Design ]&quot; auf **[!UICONTROL Landingpages]**.
+1. Klicken Sie im [!UICONTROL &#x200B; „Design &#x200B;]&quot; auf **[!UICONTROL Landingpages]**.
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 

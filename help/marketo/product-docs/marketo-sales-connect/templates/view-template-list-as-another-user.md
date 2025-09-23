@@ -33,4 +33,4 @@ Als Administrator können Sie Vorlagen wie beliebige Benutzer anzeigen.
 
    >[!NOTE]
    >
-   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL  anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.
+   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL &#x200B; anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.

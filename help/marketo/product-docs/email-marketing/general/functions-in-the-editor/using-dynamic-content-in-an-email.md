@@ -45,7 +45,7 @@ Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Leads zielgerichtete Inform
 
    ![](assets/1.4.png)
 
-   Die Segmentierung und die zugehörigen Segmente werden auf der rechten Seite [!UICONTROL  Registerkarte ]Dynamisch“ angezeigt.
+   Die Segmentierung und die zugehörigen Segmente werden auf der rechten Seite [!UICONTROL &#x200B; Registerkarte &#x200B;]Dynamisch“ angezeigt.
 
    ![](assets/1.5.png)
 

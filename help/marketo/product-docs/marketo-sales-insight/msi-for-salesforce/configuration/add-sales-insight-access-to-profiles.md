@@ -68,7 +68,7 @@ Wenn Sie über ein dediziertes Profil für Ihre [!DNL Sales Insight] Benutzer ve
 
 1. Wählen Sie **[!UICONTROL Zuweisung bearbeiten]** aus.
 
-1. Wählen Sie Ihr [!DNL Sales Insight] aus der Liste und dann Ihr [!DNL Sales insight] Layout aus der Dropdown-Liste [!UICONTROL Auswählen ]Seitenlayouts“ aus.
+1. Wählen Sie Ihr [!DNL Sales Insight] aus der Liste und dann Ihr [!DNL Sales insight] Layout aus der Dropdown-Liste [!UICONTROL Auswählen &#x200B;]Seitenlayouts“ aus.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

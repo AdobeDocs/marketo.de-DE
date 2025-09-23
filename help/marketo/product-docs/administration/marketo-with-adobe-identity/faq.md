@@ -87,7 +87,7 @@ Zwar wird es in Admin Console für [!DNL Sales Connect] eine Produktkarte geben,
 
 **Gehe ich immer noch zum Abschnitt Admin in Marketo, um Benutzerkontoänderungen für mein Konto vorzunehmen?**
 
-Nein, Sie müssen zu „account.adobe.com[ ](https://account.adobe.com){target="_blank"}.
+Nein, Sie müssen zu „account.adobe.com[&#128279;](https://account.adobe.com){target="_blank"}.
 
 **Wie funktioniert dies mit der universellen ID von Marketo?**
 

@@ -19,11 +19,11 @@ Durch die Aktivierung der Inhaltssperre können Benutzende ohne Administratorrec
 >
 >Benutzer **können** Inhalt einer E-Mail zum Zeitpunkt des Versands oder beim Starten einer Kampagne bearbeiten.
 
-1. Klicken [!UICONTROL  in &quot;]&quot; auf das Einstellungssymbol und wählen Sie &quot;**[!UICONTROL &quot;]**.
+1. Klicken [!UICONTROL &#x200B; in &quot;]&quot; auf das Einstellungssymbol und wählen Sie &quot;**[!UICONTROL &quot;]**.
 
    ![](assets/one-4.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two-4.png)
 

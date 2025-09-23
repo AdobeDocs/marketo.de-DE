@@ -14,7 +14,7 @@ ht-degree: 8%
 
 So erstellen Sie einen neuen Gesprächsfluss.
 
-1. Klicken [!UICONTROL  unter &quot;] Chat“ auf **[!UICONTROL Konversationsflüsse]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;] Chat“ auf **[!UICONTROL Konversationsflüsse]**.
 
    ![](assets/create-a-conversational-flow-1.png)
 

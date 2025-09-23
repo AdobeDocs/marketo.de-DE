@@ -70,7 +70,7 @@ Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf **[!UICONTRO
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Ausgezeichnet! Sie können jetzt die Daten dieses benutzerdefinierten Objekts in „Smart[!UICONTROL Kampagnen“ ] „Smart[!UICONTROL Listen“ ].
+Ausgezeichnet! Sie können jetzt die Daten dieses benutzerdefinierten Objekts in „Smart[!UICONTROL Kampagnen“ &#x200B;] „Smart[!UICONTROL Listen“ &#x200B;].
 
 >[!MORELIKETHIS]
 >

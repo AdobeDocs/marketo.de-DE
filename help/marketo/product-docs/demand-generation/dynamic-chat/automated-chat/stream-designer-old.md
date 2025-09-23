@@ -101,7 +101,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-7.png)
 
-1. Stellen [!UICONTROL  unter „Chatbot Response] Ihre Frage, wie Sie möchten.
+1. Stellen [!UICONTROL &#x200B; unter „Chatbot Response] Ihre Frage, wie Sie möchten.
 
    ![](assets/stream-designer-8.png)
 

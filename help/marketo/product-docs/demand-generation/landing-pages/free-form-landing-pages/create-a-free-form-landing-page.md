@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Erstellen einer Freiform-Landingpage {#create-a-free-form-landing-page}
 
-Freiform-Landingpages können als lokale Assets eines Programms oder im [!UICONTROL Design Studio) erstellt ] global verwendet werden.
+Freiform-Landingpages können als lokale Assets eines Programms oder im [!UICONTROL Design Studio) erstellt &#x200B;] global verwendet werden.
 
 >[!NOTE]
 >

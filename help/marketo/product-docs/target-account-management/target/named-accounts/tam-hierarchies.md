@@ -21,7 +21,7 @@ Unternehmen können mehrere Abteilungen und Tochtergesellschaften haben. Diese U
 
 ## Arbeiten mit TAM-Hierarchien {#working-with-tam-hierarchies}
 
-Mit TAM-Hierarchien können Sie im Dashboard „Benanntes Konto“ schnell Informationen über eine ganze Hierarchie [!UICONTROL  einzelne Konten ].
+Mit TAM-Hierarchien können Sie im Dashboard „Benanntes Konto“ schnell Informationen über eine ganze Hierarchie [!UICONTROL &#x200B; einzelne Konten &#x200B;].
 
 **Keine Verwendung von Hierarchie**
 

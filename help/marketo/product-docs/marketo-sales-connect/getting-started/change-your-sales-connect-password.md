@@ -20,7 +20,7 @@ Müssen Sie Ihr Passwort ändern? Und so geht das.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. Die Seite [!UICONTROL Mein Profil] wird standardmäßig geöffnet. Aktivieren [!UICONTROL  unter &quot;]&quot; das Kontrollkästchen **[!UICONTROL Kennwort ändern]**.
+1. Die Seite [!UICONTROL Mein Profil] wird standardmäßig geöffnet. Aktivieren [!UICONTROL &#x200B; unter &quot;]&quot; das Kontrollkästchen **[!UICONTROL Kennwort ändern]**.
 
    ![](assets/change-your-sales-connect-password-2.png)
 

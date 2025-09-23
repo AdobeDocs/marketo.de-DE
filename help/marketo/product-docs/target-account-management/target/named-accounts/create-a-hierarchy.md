@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, führen Sie diese Schritte aus, um eine Hierarchie manuell zu erstellen.
 
-1. Aktivieren [!UICONTROL  unter „Benannte ]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
+1. Aktivieren [!UICONTROL &#x200B; unter „Benannte &#x200B;]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
 
    ![](assets/create-a-hierarchy-1.png)
 

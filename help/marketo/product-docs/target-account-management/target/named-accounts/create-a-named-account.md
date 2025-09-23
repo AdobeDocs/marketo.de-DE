@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Führen Sie die folgenden Schritte aus, um ein benanntes Konto manuell zu erstellen.
 
-1. Klicken [!UICONTROL  in „Benannte ]&quot; auf die **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Benanntes Konto erstellen]**.
+1. Klicken [!UICONTROL &#x200B; in „Benannte &#x200B;]&quot; auf die **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Benanntes Konto erstellen]**.
 
    ![](assets/two-1.png)
 
@@ -29,4 +29,4 @@ Führen Sie die folgenden Schritte aus, um ein benanntes Konto manuell zu erstel
 
 >[!MORELIKETHIS]
 >
->[Personen zu einem [!UICONTROL  Konto hinzufügen]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+>[Personen zu einem [!UICONTROL &#x200B; Konto hinzufügen]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)

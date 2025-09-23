@@ -14,7 +14,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package} ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package&rbrace; ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
 >[!PREREQUISITES]
 >
@@ -82,11 +82,11 @@ Der Benutzer erhält eine E-Mail mit Schritten, um Zugriff auf das Konto zu erha
 
    ![](assets/msi-actions-admin-guide-3.png)
 
-1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
 
    ![](assets/msi-actions-admin-guide-5.png)
 
@@ -102,7 +102,7 @@ Wenn Sie bereits bei Salesforce angemeldet sind, sind Sie angemeldet. Wenn nicht
 
    ![](assets/msi-actions-admin-guide-7.png)
 
-1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **Marketo**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **Marketo**.
 
    ![](assets/msi-actions-admin-guide-8.png)
 
@@ -150,7 +150,7 @@ Personendatensätze, die in Marketo und [!DNL Salesforce] vorhanden sind, werden
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/msi-actions-admin-guide-15.png)
 
@@ -174,7 +174,7 @@ Sie erhalten eine Bestätigungsnachricht.
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/msi-actions-admin-guide-19.png)
 

@@ -37,7 +37,7 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Wählen Sie den (Datentyp[!UICONTROL  des Felds ].
+1. Wählen Sie den (Datentyp[!UICONTROL &#x200B; des Felds &#x200B;].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 

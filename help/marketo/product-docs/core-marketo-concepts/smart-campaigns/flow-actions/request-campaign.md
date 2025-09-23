@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Anfordern von Kampagne {#request-campaign}
 
-Sie können Personen mithilfe des Schritts „Kampagne anfragen[!UICONTROL  in eine bestimmte Kampagne ].
+Sie können Personen mithilfe des Schritts „Kampagne anfragen[!UICONTROL &#x200B; in eine bestimmte Kampagne &#x200B;].
 
 >[!NOTE]
 >

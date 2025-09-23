@@ -31,7 +31,7 @@ Sie können Ihre Personenberichte nach beliebigen Personen- oder Firmenattribute
    >
    >Sie können auch [Personenberichte nach Segment gruppieren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
-   Wählen [!UICONTROL  Dialogfeld „Personen gruppieren nach] das Attribut für Person oder Unternehmen aus, das für die Gruppierung verwendet werden soll.
+   Wählen [!UICONTROL &#x200B; Dialogfeld „Personen gruppieren nach] das Attribut für Person oder Unternehmen aus, das für die Gruppierung verwendet werden soll.
 
    ![](assets/image2017-3-28-11-3a34-3a42.png)
 

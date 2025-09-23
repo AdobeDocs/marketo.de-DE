@@ -39,7 +39,7 @@ Führen Sie diese Schritte aus, um die Marketo-Ereigniseinstellungen zu konfigur
 
 ## Zeitplan festlegen {#set-the-schedule}
 
-Wenn Sie ein Ereignis einrichten, das mit einem ON24-Webinar verknüpft ist, wird der Ereigniszeitplan mit Daten von ON24 gefüllt. Gehen Sie wie folgt vor, um auf [!UICONTROL  Dialogfeld ]Ereigniszeitplan“ zuzugreifen.
+Wenn Sie ein Ereignis einrichten, das mit einem ON24-Webinar verknüpft ist, wird der Ereigniszeitplan mit Daten von ON24 gefüllt. Gehen Sie wie folgt vor, um auf [!UICONTROL &#x200B; Dialogfeld &#x200B;]Ereigniszeitplan“ zuzugreifen.
 
 1. Wählen Sie das Ereignis aus. Klicken Sie auf **[!UICONTROL Dropdown-]** „Ereignisaktionen“ und wählen Sie **[!UICONTROL Zeitplan].**
 

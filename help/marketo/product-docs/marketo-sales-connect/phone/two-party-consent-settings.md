@@ -23,7 +23,7 @@ Um bei der Aufzeichnung von Anrufen die Einhaltung der US-amerikanischen Zwei-Pa
 
    ![](assets/one-1.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two-1.png)
 

@@ -32,7 +32,7 @@ Mithilfe von Ereignissen können Sie Besuchende gezielt ansprechen, je nachdem, 
 
    ![](assets/audience-criteria-4.png)
 
-1. Fügen Sie die URL der gewünschten Seite im Abschnitt [[!UICONTROL Target“ ]](#target).
+1. Fügen Sie die URL der gewünschten Seite im Abschnitt [[!UICONTROL Target“ &#x200B;]](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -86,7 +86,7 @@ Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die sich noch
 
    >[!NOTE]
    >
-   >Wenn jemand Ihre Website besucht, [ ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von guten Informationen ab.
+   >Wenn jemand Ihre Website besucht, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von guten Informationen ab.
 
 1. _[!UICONTROL Is]_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 

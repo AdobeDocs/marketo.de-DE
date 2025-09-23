@@ -57,7 +57,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Greifen Sie auf die Bearbeitungsfunktionen von Adobe zu, ohne Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder direkt im [!UICONTROL Design Studio“ einfach verbessern, zuschneiden und Text ].
+* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Greifen Sie auf die Bearbeitungsfunktionen von Adobe zu, ohne Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder direkt im [!UICONTROL Design Studio“ einfach verbessern, zuschneiden und Text &#x200B;].
 
 ## [!DNL Sales Insight] {#sales-insight}
 

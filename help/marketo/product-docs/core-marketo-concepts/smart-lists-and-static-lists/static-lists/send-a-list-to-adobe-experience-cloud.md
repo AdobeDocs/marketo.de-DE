@@ -38,7 +38,7 @@ Eine statische Liste ist genau das: statisch. In Adobe Experience Cloud werden k
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Klicken Sie auf die Dropdown-**** Audience Manager-Ordner und wählen Sie den gewünschten Zielordner in der Experience Cloud aus.
+1. Klicken Sie auf die Dropdown-**&#x200B;** Audience Manager-Ordner und wählen Sie den gewünschten Zielordner in der Experience Cloud aus.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 

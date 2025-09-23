@@ -23,7 +23,7 @@ ht-degree: 4%
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Sales Insight]**.
+1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Sales Insight]**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 

@@ -26,7 +26,7 @@ ht-degree: 10%
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 

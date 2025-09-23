@@ -19,7 +19,7 @@ Erfahren Sie mehr über die verfügbaren Dashboards in MPI.
 
 ## [!UICONTROL Interaktion] {#engagement}
 
-Mit [!UICONTROL  Dashboard ]Interaktion“ können Sie die Effektivität Ihrer Programme zur Namenserwerbung und zur Namenserwerbung messen.
+Mit [!UICONTROL &#x200B; Dashboard &#x200B;]Interaktion“ können Sie die Effektivität Ihrer Programme zur Namenserwerbung und zur Namenserwerbung messen.
 
 ![](assets/two-3.png)
 

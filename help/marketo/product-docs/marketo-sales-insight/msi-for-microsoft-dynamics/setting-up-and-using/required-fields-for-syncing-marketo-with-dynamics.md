@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Erforderliche Felder zum Synchronisieren von Marketo mit [!DNL Dynamics] {#required-fields-for-syncing-marketo-with-dynamics}
 
-Diese Felder *müssen* mit Marketo synchronisiert werden, [!UICONTROL  sowohl Lead] als auch [!UICONTROL Kontakt] funktionieren [!DNL Sales Insight]:
+Diese Felder *müssen* mit Marketo synchronisiert werden, [!UICONTROL &#x200B; sowohl Lead] als auch [!UICONTROL Kontakt] funktionieren [!DNL Sales Insight]:
 
 * Priorität
 * Dringlichkeit
@@ -31,7 +31,7 @@ So können Sie Synchronisierungsfelder überprüfen und hinzufügen.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Aktivieren [!UICONTROL  unter ] das Kontrollkästchen [!UICONTROL Priorität].
+1. Aktivieren [!UICONTROL &#x200B; unter &#x200B;] das Kontrollkästchen [!UICONTROL Priorität].
 
    ![](assets/image2016-6-8-13-3a33-3a50.png)
 

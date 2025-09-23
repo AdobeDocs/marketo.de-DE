@@ -19,7 +19,7 @@ Als Administrator können Sie die Anrufaufzeichnung für Ihre [!DNL Sales Connec
 
    ![](assets/one.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two.png)
 

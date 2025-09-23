@@ -35,7 +35,7 @@ Dieses Diagramm zeigt Ihnen, welcher Prozentsatz Ihrer Keywords in einem bestimm
 |---|---|
 | [!UICONTROL Schlüsselwörter] | Die Anzahl der Keywords, die Sie verfolgen. |
 | [!UICONTROL Rang-URLs] | Die Anzahl der URLs auf Ihrer Website, die in dem von Ihnen festgelegten Bereich nach Rang geordnet sind. |
-| [!UICONTROL  % im Rang] | Der Prozentsatz der Keywords für die Rangfolge in dem von Ihnen festgelegten Bereich. |
+| [!UICONTROL &#x200B; % im Rang] | Der Prozentsatz der Keywords für die Rangfolge in dem von Ihnen festgelegten Bereich. |
 | [!UICONTROL Durchschnitt Suchen] | Die durchschnittliche Anzahl der Suchen nach diesen Keywords, die während des von Ihnen festgelegten Bereichs stattgefunden haben (in den letzten 30 Tagen bei der Google US-Suche) |
 
 ## Filtern von Daten {#filtering-data}

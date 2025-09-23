@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Analytics-Seite – Übersicht {#analytics-page-overview}
 
-Auf der Registerkarte Analytics sehen Sie Daten zur Interaktion Ihrer E-Mails. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte &quot;[!UICONTROL &quot; nach ] filtern.
+Auf der Registerkarte Analytics sehen Sie Daten zur Interaktion Ihrer E-Mails. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte &quot;[!UICONTROL &quot; nach &#x200B;] filtern.
 
 ## Wie oft wird es aktualisiert? {#how-often-does-it-update}
 

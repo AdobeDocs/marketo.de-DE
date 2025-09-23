@@ -27,7 +27,7 @@ Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf Bearbeiten , um sie in die Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL &#x200B; Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf Bearbeiten , um sie in die Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 

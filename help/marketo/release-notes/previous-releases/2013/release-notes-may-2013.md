@@ -35,6 +35,6 @@ Mit der neu organisierten Fluss-Aktionsstruktur finden Sie Fluss-Aktionen schnel
 
 ## Umbenannte Fluss-Aktionen {#renamed-flow-actions}
 
-Der Status für das Ändern des Verlaufs [!UICONTROL  jetzt „Programmstatus ändern]. Programmdaten ändern heißt jetzt [!UICONTROL Programm erfolgreich ].
+Der Status für das Ändern des Verlaufs [!UICONTROL &#x200B; jetzt „Programmstatus ändern]. Programmdaten ändern heißt jetzt [!UICONTROL Programm erfolgreich &#x200B;].
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
