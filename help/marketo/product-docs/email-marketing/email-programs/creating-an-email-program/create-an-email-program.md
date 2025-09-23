@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900591
 description: Erstellen eines E-Mail-Programms - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Programm erstellen
+title: Erstellen eines E-Mail-Programms
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# E-Mail-Programm erstellen {#create-an-email-program}
+# Erstellen eines E-Mail-Programms {#create-an-email-program}
 
 Verwenden Sie E-Mail-Programme, um schnell und einfach eine E-Mail an eine Gruppe von Personen zu senden.
 

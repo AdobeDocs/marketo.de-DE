@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557275
 description: Verwenden von integrierten/System-Smart Lists - Marketo-Dokumente - Produktdokumentation
-title: Verwenden von integrierten System-/Smart-Listen
+title: Verwenden von integrierten oder systemeigenen intelligenten Listen
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 7%
+ht-degree: 12%
 
 ---
 
-# Verwenden von integrierten System-/Smart-Listen {#use-built-in-system-smart-lists}
+# Verwenden von integrierten oder systemeigenen intelligenten Listen {#use-built-in-system-smart-lists}
 
 Marketo Engage verfügt über einige sehr nützliche integrierte Smart Lists. Schauen wir sie uns an!
 

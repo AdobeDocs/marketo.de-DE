@@ -4,10 +4,10 @@ description: Hinzufügen eines Formulars zu einer geführten Landingpage - Marke
 title: Hinzufügen eines Formulars zu einer geführten Landingpage
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 >
 >[Erstellen einer geführten Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/one.png)
 

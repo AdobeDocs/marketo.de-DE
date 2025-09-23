@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949240
 description: SEO - Entfernen eines Keywords - Marketo-Dokumente - Produktdokumentation
-title: SEO - Keyword entfernen
+title: SEO – Entfernen eines Keywords
 exl-id: 4eba33aa-a397-4a02-8d24-3dbd945f9ac4
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# SEO - Keyword entfernen {#seo-remove-a-keyword}
+# SEO – Entfernen eines Keywords {#seo-remove-a-keyword}
 
 Wenn Sie ein Keyword haben, für das Sie nicht weiter optimieren möchten, sehen Sie hier, wie Sie es entfernen.
 

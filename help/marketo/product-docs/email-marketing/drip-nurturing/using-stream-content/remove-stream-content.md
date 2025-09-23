@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359915
 description: Entfernen von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
-title: Stream-Inhalt entfernen
+title: Entfernen von Stream-Inhalten
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Stream-Inhalt entfernen {#remove-stream-content}
+# Entfernen von Stream-Inhalten {#remove-stream-content}
 
 Sie können ein Inhaltselement entweder entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream[Inhalten behält ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)Archivierung) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn Sie nichts dagegen haben, den historischen Status einiger Inhalte zu verlieren und ihn entfernen möchten, hier ist, wie man es macht.
 

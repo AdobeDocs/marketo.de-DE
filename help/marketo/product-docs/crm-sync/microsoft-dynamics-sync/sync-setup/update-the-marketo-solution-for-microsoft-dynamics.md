@@ -4,7 +4,7 @@ description: Aktualisieren der Marketo-Lösung für  [!DNL Microsoft Dynamics]  
 title: Aktualisieren Sie die Marketo-Lösung für [!DNL Microsoft Dynamics]
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -51,4 +51,4 @@ Sobald eine neue [!DNL Microsoft Dynamics] veröffentlicht wird, können Sie das
 
 >[!CAUTION]
 >
->Die Auswahl von Aktualisieren anstelle von Aktualisieren könnte zu einer Beschädigung der Daten in Ihrer [!DNL Dynamics] führen. **Wählen Sie „Aktualisieren“** &quot;[!UICONTROL &quot; &#x200B;].
+>Die Auswahl von Aktualisieren anstelle von Aktualisieren könnte zu einer Beschädigung der Daten in Ihrer [!DNL Dynamics] führen. **Wählen Sie „Aktualisieren“** &quot;[!UICONTROL &quot; ].

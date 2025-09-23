@@ -4,14 +4,14 @@ description: Versionshinweise - Februar 2015 - Marketo-Dokumentation - Produktdo
 title: Versionshinweise - Februar 2015
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 13%
+ht-degree: 15%
 
 ---
 
-# Versionshinweise: Februar 2015 {#release-notes-february}
+# Versionshinweise – Februar 2015 {#release-notes-february}
 
 Die folgenden Funktionen sind in der Version vom Februar 2015 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Vergewissern Sie sich, dass Sie nach der Veröffentlichung zurückkehren, um Links zu detaillierten Artikeln für jede Funktion zu finden. Trommelwirbel…
 

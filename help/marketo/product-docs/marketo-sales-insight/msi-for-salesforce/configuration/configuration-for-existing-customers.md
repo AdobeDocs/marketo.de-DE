@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762519
 description: Konfiguration für Bestandskunden - Marketo-Dokumente - Produktdokumentation
-title: Konfiguration für Bestandskunden
+title: Konfiguration für bestehende Kundschaft
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 4%
+ht-degree: 9%
 
 ---
 
-# Konfiguration für Bestandskunden {#configuration-for-existing-customers}
+# Konfiguration für bestehende Kundschaft {#configuration-for-existing-customers}
 
 Richten Sie die folgende Konfiguration ein, um mit der Verwendung des neuen Insights-Dashboards zu beginnen.
 

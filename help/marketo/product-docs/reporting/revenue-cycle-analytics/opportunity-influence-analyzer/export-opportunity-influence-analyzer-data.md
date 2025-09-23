@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360394
 description: Daten von Opportunity Influence Analyzer exportieren - Marketo-Dokumente - Produktdokumentation
-title: Daten von Opportunity Influence Analyzer exportieren
+title: Exportieren eines Analyzers für Opportunity-Einfluss
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Daten von Opportunity Influence Analyzer exportieren {#export-opportunity-influence-analyzer-data}
+# Exportieren eines Analyzers für Opportunity-Einfluss {#export-opportunity-influence-analyzer-data}
 
 Um Aktualisierungen aus Ihren Revenue Cycle Explorer-Berichten zu erhalten und freizugeben, können Sie jede E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 

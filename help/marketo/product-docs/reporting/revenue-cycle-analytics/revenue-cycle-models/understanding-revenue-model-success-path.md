@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718664
 description: Grundlagen zum Erfolgspfad zum Umsatzmodell - Marketo-Dokumente - Produktdokumentation
-title: Grundlagen zum Erfolgspfad des Umsatzmodells
+title: Grundlegendes zum Erfolgspfad eines Umsatzmodells
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Grundlagen zum Erfolgspfad des Umsatzmodells {#understanding-revenue-model-success-path}
+# Grundlegendes zum Erfolgspfad eines Umsatzmodells {#understanding-revenue-model-success-path}
 
 ## Erfolgspfad {#success-path}
 

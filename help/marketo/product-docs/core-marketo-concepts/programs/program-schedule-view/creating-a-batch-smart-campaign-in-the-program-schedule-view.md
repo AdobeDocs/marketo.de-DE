@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147142
 description: Erstellen einer Smart-Batch-Kampagne in der Programmplanansicht - Marketo-Dokumente - Produktdokumentation
-title: Erstellen einer Smart-Batch-Kampagne in der Ansicht Programmzeitplan
+title: Erstellen einer intelligenten Stapel-Kampagne in der Ansicht „Programmplanung“
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Erstellen einer Smart-Batch-Kampagne in der Ansicht Programmzeitplan {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
+# Erstellen einer intelligenten Stapel-Kampagne in der Ansicht „Programmplanung“ {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
 Sie können in Ihrem Programm in der Ansicht [Programmzeitplan“ neue Smart](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"}Kampagnen erstellen und vorhandene erneut ausführen.
 

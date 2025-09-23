@@ -1,16 +1,16 @@
 ---
 description: Übersicht über die Abmeldung - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über die Abmeldung
+title: Abmeldung – Übersicht
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '342'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Übersicht über die Abmeldung {#unsubscribe-overview}
+# Abmeldung – Übersicht {#unsubscribe-overview}
 
 Für Unternehmen wird es immer wichtiger, die Datenschutzgesetze für E-Mails einzuhalten. Um Ihnen dabei zu helfen, haben wir einige Verbesserungen an unserem Abmeldeerlebnis vorgenommen.
 
@@ -20,7 +20,7 @@ Für Unternehmen wird es immer wichtiger, die Datenschutzgesetze für E-Mails ei
 * Abmeldungen können manuell erfolgen: angeklickter Link, [!DNL Salesforce] Synchronisierung und Bounce
 * Neuer Abmelde-Link für Landingpage
 
-## Abmelde-Link-Landingpage {#unsubscribe-link-landing-page}
+## Landingpage mit Abmelde-Link {#unsubscribe-link-landing-page}
 
 Wenn eine Person auf Ihren Abmelde-Link klickt, wird sie zu einer Landingpage weitergeleitet, auf der sie auswählen kann, wofür sie sich abmelden möchte und warum.
 
@@ -28,7 +28,7 @@ Wenn eine Person auf Ihren Abmelde-Link klickt, wird sie zu einer Landingpage we
 
 Diese Informationen werden in der Ansicht „Personendetails“ gespeichert, um sie später anzuzeigen.
 
-## Gruppe abmelden {#unsubscribe-group}
+## Abmelden einer Gruppe {#unsubscribe-group}
 
 Alle abgemeldeten Personen an einem Ort anzeigen und verwalten.
 
@@ -42,7 +42,7 @@ Wenn Sie Administrator sind, können Sie zur Abmeldegruppe gehen, um nach [!UICO
 
 ![](assets/unsubscribe-overview-4.png)
 
-## Verlaufskarte für Abmeldung {#unsubscribe-history-card}
+## Verlaufskarte für Abmeldungen {#unsubscribe-history-card}
 
 Die Karte [!UICONTROL Abmeldeverlauf] hilft Admins und Benutzern, kontextuelle Informationen über den Abmeldeverlauf ihrer Kontakte zu erhalten. Navigieren Sie dorthin, indem Sie zur Registerkarte [!UICONTROL Personen] wechseln und eine Person auswählen. Er befindet sich am unteren Rand der Registerkarte [!UICONTROL Info] in der Ansicht „Personendetails“.
 

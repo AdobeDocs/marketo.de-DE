@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147140
 description: Informationen zu voraussichtlichen/bestätigten Daten - Marketo-Dokumente - Produktdokumentation
-title: Informationen zu voraussichtlichen/bestätigten Daten
+title: Grundlegendes zu voraussichtlichen/bestätigten Daten
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Informationen zu voraussichtlichen/bestätigten Daten {#understanding-tentative-confirmed-dates}
+# Grundlegendes zu voraussichtlichen/bestätigten Daten {#understanding-tentative-confirmed-dates}
 
 Intelligente Kampagnen und E-Mail-Programme verfügen über eine leistungsstarke Funktion, die als **[!UICONTROL Vorläufig]** oder **[!UICONTROL Bestätigt]** gekennzeichnet werden kann. So funktionieren sie.
 

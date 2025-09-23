@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359918
 description: Landingpage-Einstellungen bearbeiten - Marketo-Dokumente - Produktdokumentation
-title: Landingpage-Einstellungen bearbeiten
+title: Bearbeiten der Landingpage-Einstellungen
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Landingpage-Einstellungen bearbeiten {#edit-landing-page-settings}
+# Bearbeiten der Landingpage-Einstellungen {#edit-landing-page-settings}
 
-Sie können Ihren Domain-Namen und die Fallback-Seite bearbeiten, das Vorbefüllen von Formularen aktivieren oder deaktivieren, einen Missbrauch Ihrer Landingpage verhindern und vieles mehr. So geht&#39;s.
+Sie können Ihren Domain-Namen und die Fallback-Seite bearbeiten, das Vorbefüllen von Formularen aktivieren oder deaktivieren, einen Missbrauch Ihrer Landingpage verhindern und vieles mehr. Und so geht das.
 
 >[!NOTE]
 >

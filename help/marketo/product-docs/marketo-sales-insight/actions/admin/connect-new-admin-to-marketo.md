@@ -1,16 +1,16 @@
 ---
 description: Neuen Administrator mit Marketo verbinden - Marketo-Dokumente - Produktdokumentation
-title: Neuen Admin mit Marketo verbinden
+title: Verbinden neuer Admins mit Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Neuen Admin mit Marketo verbinden {#connect-new-admin-to-marketo}
+# Verbinden neuer Admins mit Marketo {#connect-new-admin-to-marketo}
 
 Wenn der andere Administrator bereits mit Marketo verbunden ist, muss er nur Schritt 1 ausführen.
 

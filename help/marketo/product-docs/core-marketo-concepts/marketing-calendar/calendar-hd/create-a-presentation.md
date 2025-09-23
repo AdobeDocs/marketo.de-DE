@@ -4,16 +4,16 @@ description: Erstellen einer Präsentation - Marketo-Dokumente - Produktdokument
 title: Erstellen einer Präsentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
 # Erstellen einer Präsentation {#create-a-presentation}
 
-Erstellen Sie eine Präsentation, um die Kalenderansichten und Ziele Ihres Teams auf einem HDTV zu projizieren. Presentations sind Workspace-spezifisch.
+Erstellen Sie eine Präsentation, um die Kalenderansichten und Ziele Ihres Teams auf einem HDTV zu projizieren. Präsentationen sind Workspace-spezifisch.
 
 >[!AVAILABILITY]
 >
@@ -24,7 +24,7 @@ Erstellen Sie eine Präsentation, um die Kalenderansichten und Ziele Ihres Teams
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Klicken Sie unten **rechts auf** Presentations.
+1. Klicken Sie **[!UICONTROL Präsentationen]** in der rechten unteren Ecke.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 

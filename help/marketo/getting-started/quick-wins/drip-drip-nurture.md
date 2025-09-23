@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359420
 description: Tropfen, Tropfen, Pflegen - Marketo-Dokumente - Produktdokumentation
-title: Schrittweises Lead-Nurturing
+title: Schrittweises Nurturing
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 4%
+source-wordcount: '466'
+ht-degree: 8%
 
 ---
 
-# Schrittweises Lead-Nurturing {#drip-drip-nurture}
+# Schrittweises Nurturing {#drip-drip-nurture}
 
 ## Mission: Pflegen Sie die Menschen, die Ihre letzte Messe besucht haben {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
@@ -19,12 +19,12 @@ Sie können in Marketo einfach ein fortgeschrittenes und ausgefeiltes Nurture-Sy
 
 >[!PREREQUISITES]
 >
->* [Einrichten und Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Einrichten und eine Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Liste mit Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Schritt 1: Interaktionsprogramm erstellen {#step-create-an-engagement-program}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/drip-drip-nurture-1.png)
 
@@ -42,7 +42,7 @@ Sie können in Marketo einfach ein fortgeschrittenes und ausgefeiltes Nurture-Sy
 
    Sie haben jetzt ein Interaktionsprogramm erstellt.
 
-## Schritt 2: E-Mail erstellen {#step-create-an-email}
+## Schritt 2: Erstellen einer E-Mail {#step-create-an-email}
 
 1. Wählen Sie Ihr Interaktionsprogramm aus, klicken Sie auf **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL Neues lokales Asset]**.
 
@@ -134,7 +134,7 @@ Jetzt ist es an der Zeit, mit den von Ihnen erstellten E-Mails einen Stream von 
 
 ## Schritt 6: Hinzufügen einer Testperson zu Ihrem Interaktionsprogramm {#step-add-a-test-person-to-your-engagement-program}
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Datenbank]**.
+1. Wechseln Sie dazu zum Bereich **[!UICONTROL Datenbank]**.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -154,7 +154,7 @@ Jetzt ist es an der Zeit, mit den von Ihnen erstellten E-Mails einen Stream von 
 
    ![](assets/drip-drip-nurture-22.png)
 
-1. Mission abgeschlossen!
+1. Aufgabe abgeschlossen!
 
 1. Sie sollten E-Mails zu der Zeit und mit der angegebenen Kadenz erhalten.
 
@@ -162,7 +162,7 @@ Jetzt ist es an der Zeit, mit den von Ihnen erstellten E-Mails einen Stream von 
    >
    >Weitere Informationen zu [Interaktionsprogrammen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
-## Mission abgeschlossen! {#mission-complete}
+## Aufgabe abgeschlossen! {#mission-complete}
 
 <br> 
 

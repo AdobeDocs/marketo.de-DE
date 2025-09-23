@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11384651
 description: Neuen Inhalt hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: Neuen Inhalt hinzufügen
+title: Hinzufügen von neuen Inhalten
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 9%
 
 ---
 
-# Neuen Inhalt hinzufügen {#add-new-content}
+# Hinzufügen von neuen Inhalten {#add-new-content}
 
-Sie können der Seite „Alle Inhalte“ [!UICONTROL &#x200B; Inhalt &#x200B;] hinzufügen.
+Sie können der Seite „Alle Inhalte“ [!UICONTROL  Inhalt ] hinzufügen.
 
 1. Klicken Sie auf **[!UICONTROL Inhalt hinzufügen]** und wählen Sie **[!UICONTROL Inhalt hinzufügen]** aus.
 

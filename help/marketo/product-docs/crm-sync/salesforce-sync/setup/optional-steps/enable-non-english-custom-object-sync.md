@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719302
 description: Aktivieren der Synchronisierung nicht englischer benutzerdefinierter Objekte - Marketo-Dokumente - Produktdokumentation
-title: Aktivieren der Synchronisierung benutzerdefinierter Objekte in anderen Sprachen
+title: Aktivieren der Synchronisierung benutzerdefinierter Objekte in anderen Sprachen als Englisch
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Aktivieren der Synchronisierung benutzerdefinierter Objekte in anderen Sprachen {#enable-non-english-custom-object-sync}
+# Aktivieren der Synchronisierung benutzerdefinierter Objekte in anderen Sprachen als Englisch {#enable-non-english-custom-object-sync}
 
 Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch eingestellt ist, kann beim Versuch, eine benutzerdefinierte Objektsynchronisierung zu aktivieren, ein Fehler auftreten.
 

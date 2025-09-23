@@ -4,16 +4,16 @@ description: Verwenden eines Formulars in einer Lightbox - Marketo-Dokumente - P
 title: Verwenden eines Formulars in einer Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
 # Verwenden eines Formulars in einer Lightbox {#use-a-form-in-a-lightbox}
 
-Eine Lightbox ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet wird, wenn es angezeigt werden soll. So geht&#39;s.
+Eine Lightbox ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet wird, wenn es angezeigt werden soll. Und so geht das.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

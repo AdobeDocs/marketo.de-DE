@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360307
 description: Treasure Chest-Funktionen aktivieren oder deaktivieren - Marketo-Dokumente - Produktdokumentation
-title: Treasure Chest-Funktionen aktivieren oder deaktivieren
+title: Aktivieren oder Deaktivieren von Schatzkisten-Funktionen
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Treasure Chest-Funktionen aktivieren oder deaktivieren {#enable-or-disable-treasure-chest-features}
+# Aktivieren oder Deaktivieren von Schatzkisten-Funktionen {#enable-or-disable-treasure-chest-features}
 
 Die Schatzkiste enthält lustige experimentelle Funktionen, die nicht vollständig unterstützt werden.
 

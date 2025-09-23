@@ -1,16 +1,16 @@
 ---
 description: Anrufgründe - Marketo-Dokumente - Produktdokumentation
-title: Gründe für den Anruf
+title: Anrufgründe
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Gründe für den Anruf {#call-reasons}
+# Anrufgründe {#call-reasons}
 
 Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufgründe auszuwählen, damit Ihr Team verstehen kann, warum Anrufe getätigt werden.
 
@@ -24,7 +24,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufgründe auszuwählen, damit 
 
    ![](assets/call-reasons-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-reasons-2.png)
 
@@ -46,7 +46,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufgründe auszuwählen, damit 
 
    ![](assets/call-reasons-5.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-reasons-6.png)
 

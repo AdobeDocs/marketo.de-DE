@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359839
 description: Testen eines Interaktions-Streams - Marketo-Dokumente - Produktdokumentation
-title: Engagement-Strom testen
+title: Interaktionsstrom testen
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 5%
 
 ---
 
-# Engagement-Strom testen {#test-an-engagement-stream}
+# Interaktionsstrom testen {#test-an-engagement-stream}
 
 Nachdem Sie alle Ihre Inhalte zu einem Stream hinzugefügt haben, können Sie sie einzeln testen.
 

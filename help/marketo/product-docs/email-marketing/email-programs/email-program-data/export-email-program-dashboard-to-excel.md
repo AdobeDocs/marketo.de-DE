@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359598
 description: Export Email Program Dashboard to Excel - Marketo Docs - Produktdokumentation
-title: E-Mail-Programm-Dashboard nach Excel exportieren
+title: Exportieren des Dashboards für E-Mail-Programme nach Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# E-Mail-Programm-Dashboard nach Excel exportieren {#export-email-program-dashboard-to-excel}
+# Exportieren des Dashboards für E-Mail-Programme nach Excel {#export-email-program-dashboard-to-excel}
 
-Sobald Sie ein E-Mail-Programm ausgeführt und einige Daten im Dashboard haben, können Sie diese Rohdaten zur weiteren Analyse nach Excel exportieren. So geht&#39;s.
+Sobald Sie ein E-Mail-Programm ausgeführt und einige Daten im Dashboard haben, können Sie diese Rohdaten zur weiteren Analyse nach Excel exportieren. Und so geht das.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

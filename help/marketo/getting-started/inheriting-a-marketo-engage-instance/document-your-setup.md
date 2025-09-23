@@ -3,14 +3,14 @@ description: Einrichtung des geerbten Instanzdokuments - Marketo-Dokumente - Pro
 title: Vererbtes Instanzdokument - Einrichtung
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Übernommene Instanz: Dokumentieren Sie Ihre Einrichtung {#inherited-instance-document-your-setup}
+# Vererbte Instanz: Dokumentieren Ihrer Einrichtung {#inherited-instance-document-your-setup}
 
 Nachdem Sie nun die wichtigsten Produktbereiche gelernt haben, die beim Vererben einer eingerichteten Instanz überwacht werden müssen, besteht der nächste Schritt darin, die Dokumentation zu Ihrer Instanzkonfiguration und Ihrem technischen Stack zu erstellen bzw. zu aktualisieren. Egal, ob Sie sie über eine Tabelle oder eine Projektmanagement-Anwendung erstellen, Ihre Dokumentation ist eine großartige Ressource, um den Fortschritt zu verfolgen und Details aufzuzeichnen sowie Ihre Instanz strukturiert und nachhaltig zu halten.
 

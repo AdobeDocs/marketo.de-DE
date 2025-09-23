@@ -2,16 +2,16 @@
 description: Mai 2022 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2022 – Versionshinweise
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '803'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Mai 2022 - Versionshinweise {#release-notes-may-22}
+# Versionshinweise – Mai 2022 {#release-notes-may-22}
 
-Im Folgenden finden Sie alle Funktionen, die in der Version vom Mai 2022 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom Mai 2022 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >

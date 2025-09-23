@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359478
 description: E-Mail-Link-Leistungsbericht - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Link-Leistungsbericht
+title: Leistungsbericht zu E-Mail-Links
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# E-Mail-Link-Leistungsbericht {#email-link-performance-report}
+# Leistungsbericht zu E-Mail-Links {#email-link-performance-report}
 
 Erstellen Sie einen E-Mail-Link-Leistungsbericht, um zu sehen, wie gut die Links in Ihren E-Mails funktionieren.
 

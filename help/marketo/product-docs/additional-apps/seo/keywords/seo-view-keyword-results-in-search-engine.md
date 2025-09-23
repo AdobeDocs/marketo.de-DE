@@ -4,14 +4,14 @@ description: SEO - Keyword-Ergebnisse in Suchmaschine anzeigen - Marketo-Dokumen
 title: SEO - Keyword-Ergebnisse in Suchmaschine anzeigen
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
 feature: SEO
-source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# SEO - Keyword-Ergebnisse in einer Suchmaschine anzeigen {#seo-view-keyword-results-in-search-engine}
+# SEO – Anzeigen von Keyword-Ergebnissen in einer Suchmaschine  {#seo-view-keyword-results-in-search-engine}
 
 Wenn Sie sehen möchten, wie Ihre Inhalte in einer Suchmaschine aussehen, haben wir eine praktische kleine Abkürzung hinzugefügt.
 

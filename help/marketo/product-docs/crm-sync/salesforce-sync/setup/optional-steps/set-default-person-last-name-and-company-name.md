@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719291
 description: Festlegen des Nachnamens der Person und des Firmennamens - Marketo-Dokumente - Produktdokumentation
-title: Standardnamen für Nachnamen und Firmennamen von Personen festlegen
+title: Festlegen des standardmäßigen Nachnamens einer Person und Firmennamens
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Standardnamen für Nachnamen und Firmennamen von Personen festlegen {#set-default-person-last-name-and-company-name}
+# Festlegen des standardmäßigen Nachnamens einer Person und Firmennamens {#set-default-person-last-name-and-company-name}
 
 [!DNL Salesforce] erfordert (mindestens) Nachnamen und Firmennamen für die Leads und Kontakte. Unvollständige Datensätze werden nicht mit [!DNL Salesforce] synchronisiert. Wenn Sie partielle Datensätze synchronisieren möchten, müssen Sie Standardwerte für die Verwendung von Marketo mit [!DNL Salesforce] festlegen.
 

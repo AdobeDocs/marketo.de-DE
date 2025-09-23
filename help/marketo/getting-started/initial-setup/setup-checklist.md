@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Willkommen in Marketo! Verwenden Sie die folgende Checkliste als visuelle Aufgab
 
 1. Formular ausfüllen, um eine URL für neue Vorlagen zu senden
 
-## CRM-Synch {#crm-sync}
+## CRM-Synchronisierung {#crm-sync}
 
 1. Wenden Sie sich an Ihren CRM-Administrator, um alle CRM-Kontakte mit Marketo zu synchronisieren
 

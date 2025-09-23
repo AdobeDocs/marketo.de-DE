@@ -3,10 +3,10 @@ description: SMS-Glossar - Marketo-Dokumente - Produktdokumentation
 title: SMS-Glossar
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '734'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -32,10 +32,10 @@ Im Folgenden finden Sie einige allgemeine Begriffe, die bei der Verwendung von V
   </tr>
   <tr>
     <td>Unternehmensschlüssel</td>
-    <td>Der company_key ist eine eindeutige alphanumerische Kennung für Ihr Platform-Konto. Wenn Sie mehrere Unternehmenskonten in der Vibes-Plattform haben (z. B. untergeordnete Konten), können Sie mehrere company_keys haben. Jede Marketo Engage-Instanz kann nur einem Vibes-Unternehmensschlüssel zugeordnet werden.</td>
+    <td>Der company_key ist eine eindeutige alphanumerische Kennung für Ihr Platform-Konto. Wenn Sie mehrere Unternehmenskonten in der Vibes-Plattform haben (z. B. untergeordnete Konten), können Sie mehrere company_keys haben. Jede Instanz von Marketo Engage kann nur einem Vibes-Unternehmensschlüssel zugeordnet werden.</td>
   </tr>
   <tr>
-    <td>CTA (Handlungsaufforderung)</td>
+    <td>CTA (call to action)</td>
     <td>Digitale oder physische Beschilderung oder verbales Script zur Aufnahme von Abonnenten in ein wiederkehrendes Textnachrichtenprogramm oder Abonnementliste. Kann online, in sozialen Medien, in E-Mails, in gedruckten Medien usw. platziert werden.</td>
   </tr>
   <tr>
@@ -57,8 +57,8 @@ Im Folgenden finden Sie einige allgemeine Begriffe, die bei der Verwendung von V
     <td>Eine Akquise-Methode, bei der ein potenzieller Abonnent seine Zustimmung zum Hinzufügen zu einer Abonnement-Liste mit einem Antwortbefehl wie „Y“ oder seiner Postleitzahl bestätigen muss. Die Verwendung einer doppelten Opt-in-Eingabeaufforderung kann Ihnen bei der Einhaltung der bundesstaatlichen und bundesstaatlichen Richtlinien für Textnachrichten helfen.</td>
   </tr>
   <tr>
-    <td>Veranstaltung</td>
-    <td>Ein Ereignis ist ein definiertes Ereignis, das an die Vibes-Plattform gesendet und für Trigger-API-ausgelöste Aktionen, einschließlich Nachrichtensendungen, verwendet werden kann. Jedes Ereignis enthält ereignisspezifische Daten, einschließlich event_type , mit denen bestimmt wird, welcher API-ausgelösten Nachrichtenkampagne es entspricht. Die Ereignis-API kann über einen Webhook im Marketo Engage ausgelöst werden. Weitere Informationen finden Sie in unserer <a href="https://developer-platform.vibes.com/reference/event-api">Ereignis-API-</a>.</td>
+    <td>Ereignis</td>
+    <td>Ein Ereignis ist ein definiertes Ereignis, das an die Vibes-Plattform gesendet und für Trigger-API-ausgelöste Aktionen, einschließlich Nachrichtensendungen, verwendet werden kann. Jedes Ereignis enthält ereignisspezifische Daten, einschließlich event_type , mit denen bestimmt wird, welcher API-ausgelösten Nachrichtenkampagne es entspricht. Die Ereignis-API kann über einen Webhook in Marketo Engage ausgelöst werden. Weitere Informationen finden Sie in unserer <a href="https://developer-platform.vibes.com/reference/event-api">Ereignis-API-</a>.</td>
   </tr>
   <tr>
     <td>Keyword</td>

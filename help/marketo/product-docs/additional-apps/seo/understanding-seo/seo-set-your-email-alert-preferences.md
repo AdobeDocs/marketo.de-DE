@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949196
 description: SEO - Voreinstellungen für E-Mail-Warnhinweise festlegen - Marketo-Dokumente - Produktdokumentation
-title: SEO - E-Mail-Warnhinweis-Einstellungen festlegen
+title: SEO – Festlegen Ihrer Einstellungen für E-Mail-Warnhinweise
 exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-# SEO - E-Mail-Warnhinweis-Einstellungen festlegen {#seo-set-your-email-alert-preferences}
+# SEO – Festlegen Ihrer Einstellungen für E-Mail-Warnhinweise {#seo-set-your-email-alert-preferences}
 
 Sie können Ihre E-Mail-Voreinstellungen anpassen, um zu bestimmen, wann Sie über Ihre SEO-Maßnahmen informiert werden.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360227
 description: Filtern von Assets in E-Mail-Berichten in Campaign - Marketo-Dokumente - Produktdokumentation
-title: Filtern von Assets in E-Mail-Berichten in Campaign
+title: Filtern von Assets in E-Mail-Berichten zu Kampagnen
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Filtern von Assets in E-Mail-Berichten in Campaign {#filter-assets-in-a-campaign-email-reports}
+# Filtern von Assets in E-Mail-Berichten zu Kampagnen {#filter-assets-in-a-campaign-email-reports}
 
 Konzentrieren Sie Ihren [Kampagnen-E-Mail](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)Bericht auf bestimmte [intelligente Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in Ihren Programmen („lokale Assets„) oder auf die archivierten.
 

@@ -4,14 +4,14 @@ description: Versionshinweise - Januar 2013 - Marketo-Dokumentation - Produktdok
 title: Januar 2013 - Versionshinweise
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Versionshinweise: Januar 2013 {#release-notes-january}
+# Versionshinweise – Januar 2013 {#release-notes-january}
 
 Die Version vom Januar erweitert unser Social-Media-Angebot um **Empfehlungsangebote**. Darüber hinaus können [!DNL Marketo Lead Management] ihre Zeitzone, Sprache und Gebietsschema-Voreinstellungen festlegen. Bitte beachten Sie, dass Funktionen, die mit einem &#42; gekennzeichnet sind, nur in der Select Edition verfügbar sind.
 
@@ -59,6 +59,6 @@ Anzeigenamen in Feldern können Text in verschiedenen Sprachen anzeigen (z. B. w
 
 ## Programmdaten ändern {#change-program-data}
 
-Mit [!UICONTROL &#x200B; Schritt &quot;] ändern“ können Sie den [!UICONTROL Erfolgsstatus] und das [!UICONTROL Erfolgsdatum] eines Programmmitglieds manuell über eine Kampagne ändern. Sie können diesen Flussschritt verwenden, um einen Fehler zu korrigieren oder ein Mitglied, das möglicherweise nicht wie vorgesehen am Programm teilgenommen hat, manuell zu ändern.
+Mit [!UICONTROL  Schritt &quot;] ändern“ können Sie den [!UICONTROL Erfolgsstatus] und das [!UICONTROL Erfolgsdatum] eines Programmmitglieds manuell über eine Kampagne ändern. Sie können diesen Flussschritt verwenden, um einen Fehler zu korrigieren oder ein Mitglied, das möglicherweise nicht wie vorgesehen am Programm teilgenommen hat, manuell zu ändern.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)

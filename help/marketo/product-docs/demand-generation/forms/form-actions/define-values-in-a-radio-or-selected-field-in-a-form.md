@@ -4,16 +4,16 @@ description: Definieren von Werten in einem Optionsfeld oder einem ausgewählten
 title: Definieren von Werten in einem Optionsfeld oder einem ausgewählten Feld in einem Formular
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
 # Definieren von Werten in einem Optionsfeld oder einem ausgewählten Feld in einem Formular {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Nachdem Sie &quot;[ Feldtyp“ ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) Optionsfeld- oder Auswahltyp festgelegt haben, sollten Sie die Werte definieren, aus denen der Benutzer auswählen kann. So geht&#39;s.
+Nachdem Sie &quot;[ Feldtyp“ ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) Optionsfeld- oder Auswahltyp festgelegt haben, sollten Sie die Werte definieren, aus denen der Benutzer auswählen kann. Und so geht das.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -47,7 +47,7 @@ Nachdem Sie &quot;[ Feldtyp“ ](/help/marketo/product-docs/administration/field
 
    >[!NOTE]
    >
-   >Wenn Sie keinen &quot;[!UICONTROL &#x200B; Wert“ eingeben] verwendet Marketo den [!UICONTROL Wert anzeigen] und speichert diesen.
+   >Wenn Sie keinen &quot;[!UICONTROL  Wert“ eingeben] verwendet Marketo den [!UICONTROL Wert anzeigen] und speichert diesen.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 

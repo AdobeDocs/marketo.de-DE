@@ -1,15 +1,15 @@
 ---
 description: Verbinden mit Outlook - Marketo-Dokumente - Produktdokumentation
-title: Mit Outlook verbinden
+title: Verbinden mit Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Mit Outlook verbinden {#connect-to-outlook}
+# Verbinden mit Outlook {#connect-to-outlook}
 
 Erfahren Sie, wie Sie Ihr Sales Insight Actions-Konto mit Outlook verbinden.
 
@@ -33,7 +33,7 @@ Wenn Sie eine Verbindung zu Outlook herstellen, erhalten Sie ein Tracking der An
 
    ![](assets/connect-to-outlook-3.png)
 
-1. Klicken Sie **Erste Schritte**.
+1. Klicken Sie auf **Erste Schritte**.
 
    ![](assets/connect-to-outlook-4.png)
 
@@ -96,7 +96,7 @@ Die Verbindung zu Exchange On-Premise bedeutet, dass Sie die Antwort verfolgen, 
 
    ![](assets/connect-to-outlook-12.png)
 
-1. Klicken Sie **Erste Schritte**.
+1. Klicken Sie auf **Erste Schritte**.
 
    ![](assets/connect-to-outlook-13.png)
 

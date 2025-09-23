@@ -1,18 +1,18 @@
 ---
 description: Einzelflussaktionen auf der Seite „Personendetails“ - Marketo-Dokumente - Produktdokumentation
-title: Einzelne Fluss-Aktionen von der Seite „Personendetails“
+title: Einzelne Flussaktionen auf der Seite „Personendetails“
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Einzelne Fluss-Aktionen von der Seite „Personendetails“ {#single-flow-actions-from-person-detail-page}
+# Einzelne Flussaktionen auf der Seite „Personendetails“ {#single-flow-actions-from-person-detail-page}
 
 Zusätzlich zur Ausführung von einzelnen Flussaktionen aus einer Smart-Liste können Sie diese auch direkt auf einer Personendetailseite ausführen.
 

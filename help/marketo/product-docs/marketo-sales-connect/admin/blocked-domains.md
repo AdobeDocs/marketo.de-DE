@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317338
 description: Blockierte Domains - Marketo-Dokumente - Produktdokumentation
-title: Blockierte Domänen
+title: Blockierte Domains
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%
 
 ---
 
-# Blockierte Domänen {#blocked-domains}
+# Blockierte Domains {#blocked-domains}
 
 Helfen Sie Ihrem Verkaufsteam, erfolgreich zu sein, indem Sie verhindern, dass es versehentlich E-Mails an Mitbewerber, bekannte Spam-Fallen oder andere Domains sendet, mit denen Sie nicht in Kontakt treten möchten.
 
@@ -23,7 +23,7 @@ Helfen Sie Ihrem Verkaufsteam, erfolgreich zu sein, indem Sie verhindern, dass e
 
    ![](assets/one-3.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two-3.png)
 

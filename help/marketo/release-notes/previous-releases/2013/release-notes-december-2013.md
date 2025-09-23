@@ -4,14 +4,14 @@ description: Versionshinweise - Dezember 2013 - Marketo-Dokumentation - Produktd
 title: Versionshinweise - Dezember 2013
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Versionshinweise: Dezember 2013 {#release-notes-december}
+# Versionshinweise – Dezember 2013 {#release-notes-december}
 
 Die folgenden Funktionen sind in der Version vom Dezember enthalten.
 
@@ -37,7 +37,7 @@ Führen Sie im neuen E-Mail-Programm einen [A/B-Test](/help/marketo/product-docs
 
 ## Lead-Details in [!UICONTROL E-Mail-] {#lead-details-in-email-analysis}
 
-Wir haben in „E-Mail-Analyse[!UICONTROL &#x200B; zusätzliche Lead- und &#x200B;] eingeführt. Sie können jetzt Ihre E-Mail-Statistiken gruppiert nach neuen Attributen wie [!UICONTROL Branche] und [!UICONTROL Lead Source] anzeigen.
+Wir haben in „E-Mail-Analyse[!UICONTROL  zusätzliche Lead- und ] eingeführt. Sie können jetzt Ihre E-Mail-Statistiken gruppiert nach neuen Attributen wie [!UICONTROL Branche] und [!UICONTROL Lead Source] anzeigen.
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 

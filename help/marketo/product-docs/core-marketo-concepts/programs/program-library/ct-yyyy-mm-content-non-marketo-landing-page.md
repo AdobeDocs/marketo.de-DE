@@ -1,16 +1,16 @@
 ---
 description: CT-YYYY-MM-Content Landingpage von Nicht-Marketo - Marketo-Dokumente - Produktdokumentation
-title: CT-YYYY-MM-Content Landingpage von Nicht-Marketo
+title: 'Inhalt auf einer Landingpage nicht von Marketo: CT-JJJJ-MM'
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 12%
+ht-degree: 15%
 
 ---
 
-# CT-YYYY-MM-Content Landingpage von Nicht-Marketo {#ct-yyyy-mm-content-non-marketo-landing-page}
+# Inhalt auf einer Landingpage nicht von Marketo: CT-JJJJ-MM {#ct-yyyy-mm-content-non-marketo-landing-page}
 
 Dies ist ein Beispiel für ein Inhaltsprogramm mit einem Marketo Engage-Formular zum Herunterladen von Inhalten auf einer nicht zu Marketo Engage gehörenden Landingpage mithilfe eines Marketo Engage-Standardprogramms. Dieses Programm ist für die Verwendung mit einem Marketo Engage-Formular vorgesehen, das auf Ihrer Website eingebettet ist. Der Link zum Angebot/Inhalt kann in einer Dankesmail versendet werden.
 
@@ -47,7 +47,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>01-email-thank you</td>
   </tr>
   <tr>

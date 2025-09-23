@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718636
 description: Grundlegendes zum Bereich „Programmkostenanalyse“ - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zum Bereich „Programmkostenanalyse“
+title: Grundlegendes zum Bereich für die Analyse der Programmkosten
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 22%
+ht-degree: 25%
 
 ---
 
-# Grundlegendes zum Bereich „Programmkostenanalyse“ {#understanding-the-program-cost-analysis-area}
+# Grundlegendes zum Bereich für die Analyse der Programmkosten {#understanding-the-program-cost-analysis-area}
 
 Im Bereich „Programm-Kosten-Analyse“ können Sie die Effektivität einzelner Programme analysieren oder zusammengefasste Ergebnisse für einen bestimmten Zeitraum nach Kanal anzeigen.
 
@@ -83,9 +83,9 @@ Wie viel habe ich pro Programm und Monat ausgegeben?
 
 | Dimension | Beschreibung |
 |---|---|
-| Jahr | Zeitrahmen der Programmkosten |
+| Year | Zeitrahmen der Programmkosten |
 | Quartal | Zeitrahmen der Programmkosten |
-| Monat | Zeitrahmen der Programmkosten |
+| Month | Zeitrahmen der Programmkosten |
 
 ## Programm-Tags {#program-tags}
 

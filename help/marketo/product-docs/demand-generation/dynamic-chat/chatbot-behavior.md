@@ -3,10 +3,10 @@ description: Chatbot-Verhalten - Marketo-Dokumente - Produktdokumentation
 title: Chatbot-Verhalten
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1680'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -407,6 +407,6 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
   </tbody>
 </table>
 
-## Echtzeit-Lead-Auflösung {#real-time-lead-resolution}
+## Lead-Auflösung in Echtzeit {#real-time-lead-resolution}
 
-Während eines Gesprächs mit einem anonymen Lead und einer E-Mail-ID klären wir, ob ein bekannter Lead-Datensatz mit dieser E-Mail-ID vorhanden ist, und verwenden diesen Datensatz für die Personalisierung in Echtzeit. Wenn wir mehrere Datensätze finden, führen wir sie in Echtzeit zusammen. Dieses Verhalten ist sowohl für Dialogfelder als auch für Konversationsflüsse implementiert.
+Während einer Konversation mit einem anonymen Lead und einer angegebenen E-Mail-Adresse klären wir, ob ein bekannter Lead-Eintrag mit dieser E-Mail-Adresse vorhanden ist, und verwenden diesen Eintrag für Personalisierung in Echtzeit. Wenn wir mehrere Einträge finden, führen wir sie in Echtzeit zusammen. Dieses Verhalten ist sowohl für Dialogfelder als auch für Konversationsflüsse implementiert.

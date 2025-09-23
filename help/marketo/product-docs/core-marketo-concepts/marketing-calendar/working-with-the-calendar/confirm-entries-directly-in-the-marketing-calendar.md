@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953362
 description: Einträge direkt im Marketing-Kalender bestätigen - Marketo-Dokumente - Produktdokumentation
-title: Einträge direkt im Marketing-Kalender bestätigen
+title: Bestätigen von Einträgen direkt im Marketing-Kalender
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# Einträge direkt im Marketing-Kalender bestätigen {#confirm-entries-directly-in-the-marketing-calendar}
+# Bestätigen von Einträgen direkt im Marketing-Kalender {#confirm-entries-directly-in-the-marketing-calendar}
 
-Smart-Kampagnen und E-Mail-Programme können als provisorische Einträge erstellt werden und müssen bestätigt werden, damit alles tatsächlich geschieht. So geht&#39;s.
+Smart-Kampagnen und E-Mail-Programme können als provisorische Einträge erstellt werden und müssen bestätigt werden, damit alles tatsächlich geschieht. Und so geht das.
 
 1. Navigieren Sie zum **[!UICONTROL Kalender]**.
 

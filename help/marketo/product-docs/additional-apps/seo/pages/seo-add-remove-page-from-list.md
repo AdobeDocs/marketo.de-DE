@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949218
 description: SEO - Seite zur Liste hinzufügen/daraus entfernen - Marketo-Dokumente - Produktdokumentation
-title: SEO - Seite zur Liste hinzufügen/daraus entfernen
+title: SEO – Hinzufügen/Entfernen einer Seite aus Liste
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# SEO - Seite zur Liste hinzufügen/daraus entfernen {#seo-add-remove-page-from-list}
+# SEO – Hinzufügen/Entfernen einer Seite aus Liste {#seo-add-remove-page-from-list}
 
 Sie möchten Ihre Seiten verwalten? Sie können dies einfach tun, indem Sie eine Liste erstellen. Sie können Listen verwenden, um Seiten zu organisieren oder Daten in Dashboards zu filtern.
 

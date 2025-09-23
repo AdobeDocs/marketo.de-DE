@@ -4,16 +4,16 @@ description: Überschreiben von Personenbeschränkungen in einer Smart-Kampagne 
 title: Überschreiben von Personenbeschränkungen in einer intelligenten Kampagne
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
 # Überschreiben von Personenbeschränkungen in einer intelligenten Kampagne {#override-person-restrictions-in-a-smart-campaign}
 
-Beim Marketo Engage können Sie die maximale Anzahl an Personen festlegen, die sich für eine Smart-Kampagne qualifizieren können. So vermeiden Sie, dass Sie versehentlich eine E-Mail an Ihre gesamte Datenbank senden. Wenn Sie diese _außer Kraft setzen_, sehen Sie wie folgt aus:
+Mit Marketo Engage können Sie die maximale Anzahl von Personen festlegen, die sich für eine intelligente Kampagne qualifizieren können. So vermeiden Sie, dass Sie versehentlich eine E-Mail an Ihre gesamte Datenbank senden. Wenn Sie diese _außer Kraft setzen_, sehen Sie wie folgt aus:
 
 >[!PREREQUISITES]
 >

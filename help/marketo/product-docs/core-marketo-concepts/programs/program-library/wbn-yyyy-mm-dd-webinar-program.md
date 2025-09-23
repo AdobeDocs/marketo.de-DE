@@ -1,16 +1,16 @@
 ---
 description: WBN-YYYY-MM-DD-Webinar-Programm - Marketo-Dokumente - Produktdokumentation
-title: WBN-YYYY-MM-DD-Webinar-Programm
+title: 'Webinar-Programm: WBN-JJJJ-MM-TT'
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '591'
-ht-degree: 15%
+ht-degree: 20%
 
 ---
 
-# WBN-YYYY-MM-DD-Webinar-Programm {#wbn-yyyy-mm-dd-webinar-program}
+# Webinar-Programm: WBN-JJJJ-MM-TT {#wbn-yyyy-mm-dd-webinar-program}
 
 Dies ist ein Beispiel für ein Webinar-Programm mit Registrierungsverwaltung, drei Einladungs-E-Mails, Erinnerungs- und Follow-up-E-Mails unter Verwendung eines Marketo Engage-Veranstaltungsprogramms.
 
@@ -52,37 +52,37 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>01 - E-Mail - Einladung</td>
   </tr>
    <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>02 - E-Mail - Einladungs-Erinnerung</td>
   </tr>
    <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>03 - E-Mail - Einladungserinnerung - Letzte Chance</td>
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>04 - E-Mail - Anmeldebestätigung</td>
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>05 - E-Mail - Erinnerung</td>
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>06 -E-Mail - Follow-up - Teilgenommen</td>
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>07 - E-Mail - Follow-up - Keine Anzeige </td>
   </tr>
   <tr>

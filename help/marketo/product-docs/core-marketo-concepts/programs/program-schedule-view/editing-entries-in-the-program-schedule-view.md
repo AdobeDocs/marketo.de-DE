@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147136
 description: Bearbeiten von Einträgen in der Programmplanansicht - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten von Einträgen in der Programmplanansicht
+title: Bearbeiten von Einträgen in der Ansicht „Programmplanung“
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
-# Bearbeiten von Einträgen in der Programmplanansicht {#editing-entries-in-the-program-schedule-view}
+# Bearbeiten von Einträgen in der Ansicht „Programmplanung“ {#editing-entries-in-the-program-schedule-view}
 
 Sie können die verschiedenen Elemente Ihres Programms in der Zeitplanansicht bearbeiten.
 

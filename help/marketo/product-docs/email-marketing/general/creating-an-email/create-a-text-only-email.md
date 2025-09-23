@@ -4,10 +4,10 @@ description: Erstellen einer Nur-Text-E-Mail - Marketo-Dokumente - Produktdokume
 title: Erstellen einer Nur-Text-E-Mail
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Wenn Sie jemals nur Text-E-Mails senden möchten, finden Sie hier eine E-Mail, d
 >
 >Da Öffnungen von dem Empfänger verfolgt werden, der die Bilder der E-Mail herunterlädt (die ein unsichtbares Tracking-Pixel enthalten), können Öffnungen **nicht** für Nur-Text-E-Mails verfolgt werden.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/one-1.png)
 

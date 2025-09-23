@@ -1,12 +1,12 @@
 ---
 description: Marketo-Abmeldeprüfung - Marketo-Dokumente - Produktdokumentation
-title: Überprüfung von Marketo abbestellen
+title: Überprüfen der Abmeldung von Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -24,7 +24,7 @@ Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Mar
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin] auf **[!UICONTROL Abmeldungen]**.
+1. Klicken [!UICONTROL  unter „Admin] auf **[!UICONTROL Abmeldungen]**.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
@@ -32,7 +32,7 @@ Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Mar
 
    ![](assets/marketo-unsubscribe-check-3.png)
 
-## Was man wissen muss {#things-to-know}
+## Was Sie wissen sollten {#things-to-know}
 
 Die Marketo-Abmelde-Prüfung…
 

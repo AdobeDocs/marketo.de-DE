@@ -1,15 +1,15 @@
 ---
 description: Verbinden mit Gmail - Marketo-Dokumente - Produktdokumentation
-title: Mit Gmail verbinden
+title: Verbinden mit Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Mit Gmail verbinden {#connect-to-gmail}
+# Verbinden mit Gmail {#connect-to-gmail}
 
 Wenn Sie sich mit Gmail verbinden, erhalten Sie ein Tracking der Antworten, Zugriff auf den Gmail-Versandkanal, die Möglichkeit, E-Mails in Gmail zu planen und die Compliance zu gewährleisten.
 
@@ -29,7 +29,7 @@ Wenn Sie sich mit Gmail verbinden, erhalten Sie ein Tracking der Antworten, Zugr
 
    ![](assets/connect-to-gmail-3.png)
 
-1. Klicken Sie **Erste Schritte**.
+1. Klicken Sie auf **Erste Schritte**.
 
    ![](assets/connect-to-gmail-4.png)
 

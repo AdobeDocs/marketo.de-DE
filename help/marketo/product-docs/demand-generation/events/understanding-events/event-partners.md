@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949777
 description: Veranstaltungspartner - Marketo-Dokumente - Produktdokumentation
-title: Veranstaltungspartner
+title: Ereignispartner
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 8%
 
 ---
 
-# Veranstaltungspartner {#event-partners}
+# Ereignispartner {#event-partners}
 
 Verbinden Sie Marketo mit einem Veranstaltungspartner, um Ihre Online-Ereignisse zu automatisieren. Wenn Sie sie verbinden, können Sie:
 

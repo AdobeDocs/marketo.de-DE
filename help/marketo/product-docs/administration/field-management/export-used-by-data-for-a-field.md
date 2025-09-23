@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45417092
 description: Von Daten für ein Feld verwendete Exportdaten - Marketo-Dokumente - Produktdokumentation
-title: Von einem Feld verwendete Daten exportieren
+title: Exportieren der für ein Feld verwendeten Daten
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Von einem Feld verwendete Daten exportieren {#export-used-by-data-for-a-field}
+# Exportieren der für ein Feld verwendeten Daten {#export-used-by-data-for-a-field}
 
 Als Administrator haben Sie die Möglichkeit, zugehörige Assets eines Felds zu exportieren, damit Sie deren Aufhebung an Ihr Team delegieren können.
 

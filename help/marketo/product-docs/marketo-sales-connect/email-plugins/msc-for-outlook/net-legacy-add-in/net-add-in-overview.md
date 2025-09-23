@@ -1,23 +1,23 @@
 ---
 unique-page-id: 14352457
 description: Übersicht über das .NET-Add-in - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über das .NET-Add-in
+title: Übersicht über .NET-Add-ins
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Übersicht über das .NET-Add-in {#net-add-in-overview}
+# Übersicht über .NET-Add-ins {#net-add-in-overview}
 
 >[!NOTE]
 >
 >Dies ist unser altes Add-in. Wenn Sie ihn bereits installiert haben, funktioniert er bis 2020 weiter. Wenn Sie ein neuer Benutzer sind, installieren Sie bitte unser neues [Office 365-Add-in](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-## Ein Stück Inhalt anhängen {#attaching-a-piece-of-content}
+## Anhängen eines Inhaltselements {#attaching-a-piece-of-content}
 
 Fügen Sie verfolgbare Inhalte hinzu, indem Sie auf die Schaltfläche **[!UICONTROL Inhalt]** klicken und eine Datei hochladen.
 

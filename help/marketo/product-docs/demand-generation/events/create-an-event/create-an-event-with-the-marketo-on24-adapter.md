@@ -4,10 +4,10 @@ description: Erstellen eines Ereignisses mit dem Marketo ON24-Adapter - Marketo-
 title: Erstellen eines Ereignisses mit dem Marketo ON24-Adapter
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ Sie sollten mit den Bausteinen und der empfohlenen Reihenfolge zum Erstellen von
 
 >[!NOTE]
 >
->Weitere Informationen zu Marketo-APIs finden [&#128279;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} in der Dokumentation zur Marketo-APIs.
+>Weitere Informationen zu Marketo-APIs finden [ in der Dokumentation zur ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}Marketo-APIs.
 
 ## Voraussetzungen {#prerequisites}
 

@@ -4,10 +4,10 @@ description: TAM-Hierarchien - Marketo-Dokumente - Produktdokumentation
 title: TAM-Hierarchien
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ Unternehmen können mehrere Abteilungen und Tochtergesellschaften haben. Diese U
 
 ## Arbeiten mit TAM-Hierarchien {#working-with-tam-hierarchies}
 
-Mit TAM-Hierarchien können Sie im Dashboard „Benanntes Konto“ schnell Informationen über eine ganze Hierarchie [!UICONTROL &#x200B; einzelne Konten &#x200B;].
+Mit TAM-Hierarchien können Sie im Dashboard „Benanntes Konto“ schnell Informationen über eine ganze Hierarchie [!UICONTROL  einzelne Konten ].
 
 **Keine Verwendung von Hierarchie**
 

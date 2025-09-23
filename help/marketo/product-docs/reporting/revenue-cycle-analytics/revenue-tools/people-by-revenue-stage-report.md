@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360418
 description: Personen nach Umsatz - Stadienbericht - Marketo-Dokumente - Produktdokumentation
-title: Personen nach Umsatz - Stadienbericht
+title: Bericht zu Personen nach Umsatzphase
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Personen nach Umsatz - Stadienbericht {#people-by-revenue-stage-report}
+# Bericht zu Personen nach Umsatzphase {#people-by-revenue-stage-report}
 
 Sie können einen Bericht erstellen, der anzeigt, in welchem Stadium Ihres Umsatzzyklusmodells sich Ihre Mitarbeiter befinden. Der Bericht enthält alle Phasen des angegebenen Modells, solange ein Personensaldo für den angegebenen Datumsbereich des Berichts vorhanden ist.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782266
 description: Priorisieren von Web-Kampagnen - Marketo-Dokumente - Produktdokumentation
-title: Priorisieren von Web-Kampagnen
+title: Priorisierung von Web-Kampagnen
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Priorisieren von Web-Kampagnen {#prioritizing-web-campaigns}
+# Priorisierung von Web-Kampagnen {#prioritizing-web-campaigns}
 
 Priorisieren Sie Ihre Web-Kampagnen, wenn sich zwei oder mehr Web-Kampagnen überschneiden, indem Sie einen Prioritätswert festlegen.
 
@@ -40,7 +40,7 @@ Priorisieren Sie Ihre Web-Kampagnen, wenn sich zwei oder mehr Web-Kampagnen übe
 
    >[!TIP]
    >
-   >Es wird empfohlen, [!UICONTROL &#x200B; Kampagne „Prioritätswert] nur zu verwenden, wenn eine potenzielle Kampagnenüberschneidung vorliegt, bei der eine der Kampagnen eine höhere Bedeutung hat. Sie müssen nicht für jede Kampagne eine Priorität festlegen.
+   >Es wird empfohlen, [!UICONTROL  Kampagne „Prioritätswert] nur zu verwenden, wenn eine potenzielle Kampagnenüberschneidung vorliegt, bei der eine der Kampagnen eine höhere Bedeutung hat. Sie müssen nicht für jede Kampagne eine Priorität festlegen.
 
 1. Speichern oder Starten der Kampagne.
 

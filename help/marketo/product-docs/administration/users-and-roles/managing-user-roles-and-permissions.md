@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359909
 description: Verwalten von Benutzerrollen und -berechtigungen - Marketo-Dokumente - Produktdokumentation
-title: Verwalten von Benutzerrollen und Berechtigungen
+title: Verwalten von Benutzerrollen und -berechtigungen
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '489'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Verwalten von Benutzerrollen und Berechtigungen {#managing-user-roles-and-permissions}
+# Verwalten von Benutzerrollen und -berechtigungen {#managing-user-roles-and-permissions}
 
 Legen Sie Benutzerrollen fest, erstellen und bearbeiten Sie sie und weisen Sie sie Benutzern zu. Auf diese Weise können Sie die Bereiche und Funktionen steuern, auf die jeder Marketo-Benutzer Zugriff hat.
 

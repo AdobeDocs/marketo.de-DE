@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359669
 description: Aktivieren und Deaktivieren von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
-title: Stream-Inhalte aktivieren und deaktivieren
+title: Aktivieren und Deaktivieren von Stream-Inhalten
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Stream-Inhalte aktivieren und deaktivieren {#activate-and-deactivate-stream-content}
+# Aktivieren und Deaktivieren von Stream-Inhalten {#activate-and-deactivate-stream-content}
 
 Stream-Inhalte sind standardmäßig deaktiviert. Aktivieren Sie Inhalte, um sie bei Interaktionsbesprechungen zu versenden.
 

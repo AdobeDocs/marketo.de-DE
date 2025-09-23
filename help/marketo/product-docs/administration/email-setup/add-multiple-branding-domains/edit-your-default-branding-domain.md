@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377392
 description: Bearbeiten der Standard-Branding-Domain - Marketo-Dokumente - Produktdokumentation
-title: Standard-Branding-Domain bearbeiten
+title: Bearbeiten Ihrer standardmäßigen Branding-Domain
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Standard-Branding-Domain bearbeiten {#edit-your-default-branding-domain}
+# Bearbeiten Ihrer standardmäßigen Branding-Domain {#edit-your-default-branding-domain}
 
 Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit mit Branding-Domains.
 
@@ -27,7 +27,7 @@ Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf Bearbeiten , um sie in die Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf Bearbeiten , um sie in die Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 

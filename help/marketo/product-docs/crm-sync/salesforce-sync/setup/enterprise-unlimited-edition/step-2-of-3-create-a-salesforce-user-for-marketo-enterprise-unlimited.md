@@ -4,7 +4,7 @@ description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketo
 title: 'Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 3%
@@ -60,7 +60,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
    >
    >Stellen Sie sicher, dass Sie das Kontrollkästchen **[!UICONTROL Kennwort läuft nie ab]** aktivieren.
 
-1. Stellen Sie [!UICONTROL &#x200B; Abschnitt „Allgemeine Benutzerberechtigungen] sicher, dass die folgenden Kontrollkästchen aktiviert sind:
+1. Stellen Sie [!UICONTROL  Abschnitt „Allgemeine Benutzerberechtigungen] sicher, dass die folgenden Kontrollkästchen aktiviert sind:
 
    * [!UICONTROL Leads konvertieren]
    * [!UICONTROL Ereignisse bearbeiten]

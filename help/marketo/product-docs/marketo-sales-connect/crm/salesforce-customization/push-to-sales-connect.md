@@ -4,7 +4,7 @@ description: 'Push- [!DNL Sales Connect] : Marketo-Dokumente - Produktdokumentat
 title: Push an [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Unser [!UICONTROL Push to Tout] Button wird eine Liste Ihrer Leads/Kontakte in [
 ## Anleitung {#how-to}
 
 1. Klicken Sie in **[!UICONTROL auf]** Lead/Kontakt[!DNL Salesforce].
-1. Schalten Sie zur Listenansicht um, die Sie auf [!DNL Sales Connect] neben der Schaltfläche [!UICONTROL Los“ &#x200B;] möchten.
+1. Schalten Sie zur Listenansicht um, die Sie auf [!DNL Sales Connect] neben der Schaltfläche [!UICONTROL Los“ ] möchten.
 1. Klicken Sie **[!UICONTROL Los]**.
 1. Wählen Sie alle Leads/Kontakte aus, an die Sie gepusht werden möchten.
 1. Wählen Sie **[!UICONTROL Push an MSE]** aus.

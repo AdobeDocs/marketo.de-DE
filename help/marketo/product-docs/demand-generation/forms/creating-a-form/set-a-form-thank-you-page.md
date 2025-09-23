@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359573
 description: Einrichten eines Formulars - Dankeseite - Marketo-Dokumente - Produktdokumentation
-title: Einrichten eines Formulars für eine Dankeseite
+title: Einrichten einer Dankeseite für ein Formular
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Einrichten eines Formulars für eine Dankeseite {#set-a-form-thank-you-page}
+# Einrichten einer Dankeseite für ein Formular {#set-a-form-thank-you-page}
 
 Was passiert, wenn jemand ein Formular ausfüllt? Wohin werden sie weitergeleitet? So wird es konfiguriert.
 

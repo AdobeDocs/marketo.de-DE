@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147243
 description: Programmzeitplan - Eintragstypen anzeigen - Marketo-Dokumente - Produktdokumentation
-title: Programmzeitplan-Ansicht - Eintragstypen
+title: Eintragstypen in der Ansicht „Programmplanung“
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 12%
+ht-degree: 19%
 
 ---
 
-# Programmzeitplan-Ansicht - Eintragstypen {#program-schedule-view-entry-types}
+# Eintragstypen in der Ansicht „Programmplanung“ {#program-schedule-view-entry-types}
 
 Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanansicht sichtbar und verfügbar sind. Sie können [ Abschnitt Admin auch benutzerdefinierte ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) erstellen.
 

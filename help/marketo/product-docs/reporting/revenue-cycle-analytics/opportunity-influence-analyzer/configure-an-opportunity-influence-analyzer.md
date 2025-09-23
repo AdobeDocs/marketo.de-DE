@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360240
 description: Konfigurieren eines Opportunity Influence Analyzer - Marketo-Dokumente - Produktdokumentation
-title: Konfigurieren eines Opportunity Influence Analyzer
+title: Konfigurieren eines Analyzers für Opportunity-Einfluss
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Konfigurieren eines Opportunity Influence Analyzer {#configure-an-opportunity-influence-analyzer}
+# Konfigurieren eines Analyzers für Opportunity-Einfluss {#configure-an-opportunity-influence-analyzer}
 
 Nachdem Sie [Opportunity Influence Analyzer erstellt haben](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) können Sie die enthaltenen Typen [interessanter ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)&quot; konfigurieren.
 

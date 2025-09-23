@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557154
 description: Erstellen einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
-title: Erstellen einer Smart-Liste
+title: Erstellen einer intelligenten Liste
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Erstellen einer Smart-Liste {#create-a-smart-list}
+# Erstellen einer intelligenten Liste {#create-a-smart-list}
 
 Mit Smart Lists können Sie mithilfe einfacher Filter bestimmte Personengruppen finden. So wird eine erstellt.
 

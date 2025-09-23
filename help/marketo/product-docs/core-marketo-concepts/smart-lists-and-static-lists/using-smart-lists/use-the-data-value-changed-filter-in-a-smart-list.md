@@ -1,25 +1,25 @@
 ---
 unique-page-id: 557324
 description: Verwenden des Filters „Geänderter Datenwert“ in einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
-title: Verwenden des Filters „Datenwert geändert“ in einer Smart-Liste
+title: Verwenden des Filters „Datenwert geändert“ in einer intelligenten Liste
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-# Verwenden des Filters „Datenwert geändert“ in einer Smart-Liste {#use-the-data-value-changed-filter-in-a-smart-list}
+# Verwenden des Filters „Datenwert geändert“ in einer intelligenten Liste {#use-the-data-value-changed-filter-in-a-smart-list}
 
-Die Werte in Ihrer Marketo-Datenbank ändern sich ständig und werden aktualisiert. Anstatt nach einem bestimmten Wert zu suchen, sollten Sie manchmal nach Personen suchen, deren Wert sich geändert hat. So geht&#39;s.
+Die Werte in Ihrer Marketo-Datenbank ändern sich ständig und werden aktualisiert. Anstatt nach einem bestimmten Wert zu suchen, sollten Sie manchmal nach Personen suchen, deren Wert sich geändert hat. Und so geht das.
 
 >[!PREREQUISITES]
 >
 >[Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-1.png)
 

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360421
 description: Überschreiben des Analytics-Verhaltens auf Programmebene - Marketo-Dokumente - Produktdokumentation
-title: Überschreiben des Analytics-Verhaltens auf Programmebene
+title: Überschreiben von Analyseverhalten auf Programmebene
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Überschreiben des Analytics-Verhaltens auf Programmebene {#override-analytics-behavior-at-the-program-level}
+# Überschreiben von Analyseverhalten auf Programmebene {#override-analytics-behavior-at-the-program-level}
 
 Sie können das [Analytics-Verhalten auf der Admin-Ebene für Kanäle ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), es kann aber auch auf Programmebene überschrieben werden. So geht&#39;s:
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 

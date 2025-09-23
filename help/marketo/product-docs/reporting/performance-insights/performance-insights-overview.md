@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979006
 description: Übersicht über Performance Insights - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über Performance Insights
+title: Performance Insights – Übersicht
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -31,7 +31,7 @@ Bewerten Sie den [Umsatzbeitrag](/help/marketo/product-docs/reporting/performanc
 
 ![](assets/two.png)
 
-Standardmäßig spiegeln die angezeigten Daten die Leistung nach &quot;[!UICONTROL &quot; &#x200B;]. Sie können zur Leistung wechseln, indem **[!UICONTROL Pipeline]** oder **[!UICONTROL Umsatz]** einfach durch Klicken auf eine dieser Optionen auswählen.
+Standardmäßig spiegeln die angezeigten Daten die Leistung nach &quot;[!UICONTROL &quot; ]. Sie können zur Leistung wechseln, indem **[!UICONTROL Pipeline]** oder **[!UICONTROL Umsatz]** einfach durch Klicken auf eine dieser Optionen auswählen.
 
 ![](assets/3.png)
 

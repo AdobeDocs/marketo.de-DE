@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360205
 description: Modell über Arbeitsbereiche hinweg freigeben - Marketo-Dokumente - Produktdokumentation
-title: Modell über Arbeitsbereiche hinweg freigeben
+title: Freigeben eines Modells über Arbeitsbereiche hinweg
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Modell über Arbeitsbereiche hinweg freigeben {#share-a-model-across-workspaces}
+# Freigeben eines Modells über Arbeitsbereiche hinweg {#share-a-model-across-workspaces}
 
-Marketo bietet die Möglichkeit, ein Modell(e) über Arbeitsbereiche hinweg freizugeben. So geht&#39;s.
+Marketo bietet die Möglichkeit, ein Modell(e) über Arbeitsbereiche hinweg freizugeben. Und so geht das.
 
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Analytics]**.
 

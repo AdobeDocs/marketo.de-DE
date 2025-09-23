@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378814
 description: Smart-Listen für Konten - Marketo-Dokumente - Produktdokumentation
-title: Smart-Listen für Konten
+title: Intelligente Kontolisten
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '507'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Smart-Listen für Konten {#account-smart-lists}
+# Intelligente Kontolisten {#account-smart-lists}
 
 So können Sie schnell und präzise Ihre hochwertigen Konten identifizieren.
 
@@ -51,7 +51,7 @@ Ihre [!UICONTROL Smart List des Kontos] wurde erstellt! Anweisungen zum Definier
 
    ![](assets/account-smart-lists-6.png)
 
-1. Wählen Sie Ihre gewünschten Kontofilter aus. In diesem Beispiel wählen wir &quot;_[!UICONTROL &quot; &#x200B;] &quot;[!UICONTROL &quot;]_.
+1. Wählen Sie Ihre gewünschten Kontofilter aus. In diesem Beispiel wählen wir &quot;_[!UICONTROL &quot; ] &quot;[!UICONTROL &quot;]_.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -77,7 +77,7 @@ So wird der Container aussehen.
 >
 >Beim Erstellen eines Containers mit Filtern wird eine „Und“-Regel erstellt, d. h. es werden nur alle Ergebnisse kombiniert zurückgegeben. In diesem Beispiel Konten bei einer Branche des Gesundheitswesens zusammen mit einem Standort in Kalifornien _und_ mit einer Person, die als CFO aufgeführt ist. Wenn Sie keine Container verwenden möchten, legen Sie den Filter einfach unter/über dem vorhandenen ab.
 
-Und das war&#39;s! Im folgenden Abschnitt erfahren Sie, wie Sie Ihre [!UICONTROL Account Smart List“ &#x200B;] können.
+Und das war&#39;s! Im folgenden Abschnitt erfahren Sie, wie Sie Ihre [!UICONTROL Account Smart List“ ] können.
 
 >[!TIP]
 >
@@ -93,7 +93,7 @@ Auf der Registerkarte Übersicht Ihrer [!UICONTROL Smart List des Kontos] werden
 
 **[!UICONTROL An Werbenetzwerk senden]**: Sendet die Liste an [!DNL LinkedIn] als neue übereinstimmende Zielgruppe.
 
-Sie können auch in einer [!UICONTROL &#x200B; Smart-Kampagne/Liste auf Ihre &#x200B;]Account-Smart-Liste“ verweisen, indem Sie den Filter _[!UICONTROL People Member of Account Smart List]_ verwenden.
+Sie können auch in einer [!UICONTROL  Smart-Kampagne/Liste auf Ihre ]Account-Smart-Liste“ verweisen, indem Sie den Filter _[!UICONTROL People Member of Account Smart List]_ verwenden.
 
 ![](assets/account-smart-lists-12.png)
 

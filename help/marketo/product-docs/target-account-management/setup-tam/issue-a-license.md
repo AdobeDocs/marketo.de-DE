@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380771
 description: Lizenzerteilung - Marketo-Dokumente - Produktdokumentation
-title: Lizenz erteilen
+title: Erteilen einer Lizenz
 exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Lizenz erteilen {#issue-a-license}
+# Erteilen einer Lizenz {#issue-a-license}
 
 Sie müssen Benutzer mit einer Lizenz für die Verwendung von TAM einrichten. So geht das.
 

@@ -1,16 +1,16 @@
 ---
 description: Freigabeeinstellungen - Marketo-Dokumente - Produktdokumentation
-title: Weitergabe-Einstellungen
+title: Freigabeeinstellungen
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 1%
 
 ---
 
-# Weitergabe-Einstellungen {#sharing-settings}
+# Freigabeeinstellungen {#sharing-settings}
 
 Verwalten Sie Ihre Vorlagen besser, indem Sie einschränken, was Benutzende mit welchen Kategorien teilen können.
 
@@ -24,7 +24,7 @@ Wenn die Freigabeeinstellungen aktiviert ist, können nur Administratoren Inhalt
 
    ![](assets/sharing-settings-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Zugriff freigeben]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Zugriff freigeben]** aus.
 
    ![](assets/sharing-settings-2.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949212
 description: SEO - Optimieren spezifischer Seiten mit zielgerichteten Keywords - Marketo-Dokumente - Produktdokumentation
-title: SEO - Optimieren spezifischer Seiten mit zielgerichteten Keywords
+title: SEO – Optimieren spezifischer Seiten mit gezielten Keywords
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
-# SEO - Optimieren spezifischer Seiten mit zielgerichteten Keywords {#seo-optimize-specific-pages-with-targeted-keywords}
+# SEO – Optimieren spezifischer Seiten mit gezielten Keywords {#seo-optimize-specific-pages-with-targeted-keywords}
 
 Einige Schlüsselwörter passen sehr gut zu bestimmten Seiten. So passt man das perfekte Keyword auf die perfekte Seite. Dadurch werden die genauesten Daten und die besten Empfehlungen für Verbesserungen bereitgestellt.
 

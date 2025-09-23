@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147138
 description: Neuplanen eines gesamten Programms über die Zeitplanansicht - Marketo-Dokumente - Produktdokumentation
-title: Ein ganzes Programm über die Zeitplanansicht neu planen
+title: Erneutes Planen eines ganzen Programms über die Zeitplanansicht
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Ein ganzes Programm über die Zeitplanansicht neu planen {#rescheduling-an-entire-program-from-the-schedule-view}
+# Erneutes Planen eines ganzen Programms über die Zeitplanansicht {#rescheduling-an-entire-program-from-the-schedule-view}
 
-Wenn Sie ein Programm oder Ereignis mit Datumsangaben klonen, sollten Sie alle Datumsangaben gleichzeitig neu planen. So geht&#39;s.
+Wenn Sie ein Programm oder Ereignis mit Datumsangaben klonen, sollten Sie alle Datumsangaben gleichzeitig neu planen. Und so geht das.
 
 1. Wählen Sie das Programm aus, das Sie neu planen möchten.
 

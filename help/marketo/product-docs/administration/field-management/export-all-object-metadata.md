@@ -1,16 +1,16 @@
 ---
 description: Exportieren aller Objektmetadaten - Marketo-Dokumente - Produktdokumentation
-title: Alle Objektmetadaten exportieren
+title: Exportieren aller Objektmetadaten
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 13%
+ht-degree: 24%
 
 ---
 
-# Alle Objektmetadaten exportieren {#export-all-object-metadata}
+# Exportieren aller Objektmetadaten {#export-all-object-metadata}
 
 Mit dieser Funktion können Sie alle Objekte und ihre Metadaten exportieren.
 

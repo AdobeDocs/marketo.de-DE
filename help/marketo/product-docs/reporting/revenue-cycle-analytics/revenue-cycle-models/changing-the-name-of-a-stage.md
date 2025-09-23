@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718675
 description: Ändern des Namens eines Stadiums - Marketo-Dokumente - Produktdokumentation
-title: Name eines Stadiums ändern
+title: Ändern des Namens einer Phase
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 
-# Name eines Stadiums ändern {#changing-the-name-of-a-stage}
+# Ändern des Namens einer Phase {#changing-the-name-of-a-stage}
 
 Ihre Meinung ändern? Kein Problem. Das Umbenennen eines Stadiums im Umsatzzyklusmodellierer ist einfach.
 

@@ -4,10 +4,10 @@ description: Benutzerdefinierte RTP-Berichte in Google Universal Analytics - Mar
 title: Benutzerdefinierte RTP-Berichte in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 4%
+ht-degree: 8%
 
 ---
 
@@ -121,7 +121,7 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Wählen Sie [!UICONTROL &#x200B; Abschnitt &#x200B;] die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
+1. Wählen Sie [!UICONTROL  Abschnitt ] die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 

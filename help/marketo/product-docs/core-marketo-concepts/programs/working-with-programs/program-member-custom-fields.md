@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355569
 description: Benutzerdefinierte Felder für Programmteilnehmer - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefinierte Felder für Programmteilnehmer
+title: Benutzerdefinierte Felder für Programmmitglieder
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Benutzerdefinierte Felder für Programmteilnehmer {#program-member-custom-fields}
+# Benutzerdefinierte Felder für Programmmitglieder {#program-member-custom-fields}
 
 Benutzerdefinierte Felder für Programmteilnehmer ermöglichen es Ihnen, programmspezifische Daten für jedes Mitglied zu erfassen. Sie können in folgenden Bereichen verwendet werden: Marketo-Formulare, Filter und Trigger für Smart-Listen und Fluss-Aktionen für Smart-Kampagnen. Die Daten werden auf der Registerkarte Programmmitglieder angezeigt.
 
@@ -60,7 +60,7 @@ Sie können diese programmspezifischen Daten in Smart Lists über [Trigger ](/he
 
 ![](assets/six.png)
 
-## Was man wissen muss {#things-to-know}
+## Was Sie wissen sollten {#things-to-know}
 
 * Benutzerdefinierte Felder für Programmteilnehmer sind nur in lokalen Assets verfügbar. Sie werden in Design Studio nicht unterstützt, da es nicht möglich ist, sie mit einem bestimmten Programm zu verknüpfen.
 * Sie können ein Formular (oder eine Landingpage mit einem Formular), das benutzerdefinierte Felder für Programmteilnehmer enthält, nicht klonen/in das Design Studio verschieben.

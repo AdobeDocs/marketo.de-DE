@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953358
 description: Löschen von Einträgen direkt im Marketing-Kalender - Marketo-Dokumente - Produktdokumentation
-title: Einträge direkt im Marketing-Kalender löschen
+title: Löschen von Einträgen direkt im Marketing-Kalender
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# Einträge direkt im Marketing-Kalender löschen {#delete-entries-directly-in-the-marketing-calendar}
+# Löschen von Einträgen direkt im Marketing-Kalender {#delete-entries-directly-in-the-marketing-calendar}
 
-Neben dem [ (Erstellen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} und [Bearbeiten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} können Sie sie auch direkt im Marketing-Kalender löschen. So geht&#39;s.
+Neben dem [ (Erstellen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} und [Bearbeiten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} können Sie sie auch direkt im Marketing-Kalender löschen. Und so geht das.
 
 1. Klicken Sie auf **Kachel** MU“.
 

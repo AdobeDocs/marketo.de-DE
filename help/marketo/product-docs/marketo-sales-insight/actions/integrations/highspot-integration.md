@@ -3,16 +3,16 @@ description: Highspot-Integration - Marketo-Dokumente - Produktdokumentation
 title: Highspot-Integration
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Highspot-Integration {#highspot-integration}
 
-Der Vertrieb kann über Sales-Insight-Aktionen auf Highspot-Funktionen zugreifen und während des gesamten Verkaufszyklus für mehr Sichtbarkeit, Effizienz und Leistung sorgen. Benutzer von Sales Insight Action können auf der Verkaufsplattform von Highspot gespeicherte Verkaufsinhalte auswählen und direkt in E-Mails, E-Mail-Vorlagen und Verkaufskampagnen einfügen, während sie das Content-Tracking und die Analyse in Highspot- und Verkaufsinsights-Aktionen erfassen.
+Der Vertrieb kann über Sales Insight Actions auf Highspot-Funktionen zugreifen und während des gesamten Verkaufszyklus für mehr Sichtbarkeit, Effizienz und Leistung sorgen. Benutzende von Sales Insight Action können Verkaufsinhalte auswählen, die auf der Verkaufsplattform von Highspot gespeichert sind, und diese direkt in E-Mails, E-Mail-Vorlagen und Verkaufskampagnen einfügen, während sie gleichzeitig das Content-Tracking und die Analysen in Highspot- und Insight-Verkaufaktionen erfassen.
 
 ## Aktivieren der Highspot-Integration {#enabling-highspot-integration}
 
@@ -38,7 +38,7 @@ Jetzt sehen Benutzerinnen und Benutzer eine Option zur Auswahl von Highspot, wen
 
 ## Zugreifen auf Highspot-Inhalte und Freigeben von Inhalten per E-Mail {#accessing-highspot-content}
 
-Greifen Sie auf Highspot zu und fügen Sie Ihren E-Mails Inhalte aus dem Fenster „Sale Insights-Aktionen erstellen“, dem Vorlageneditor und dem E-Mail-Editor für Verkaufskampagnen hinzu. Im Folgenden finden Sie die Schritte zum Zugriff auf Inhalte über das Fenster „Erstellen“.
+Greifen Sie auf Highspot zu und fügen Sie Ihren E-Mails Inhalte aus dem Fenster für das Erstellen von Insight-Aktionen, dem Vorlageneditor und dem E-Mail-Editor für Vertriebskampagnen hinzu. Im Folgenden finden Sie die Schritte zum Zugriff auf Inhalte über das Fenster „Erstellen“.
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
 

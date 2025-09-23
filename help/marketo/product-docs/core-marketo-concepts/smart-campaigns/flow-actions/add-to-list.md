@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146952
 description: Zur Liste hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: Zu Liste hinzufügen
+title: Hinzufügen zur Liste
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 16%
 
 ---
 
-# Zu Liste hinzufügen {#add-to-list}
+# Hinzufügen zur Liste {#add-to-list}
 
 Mit diesem Flussschritt werden Personen zu Listen hinzugefügt.
 

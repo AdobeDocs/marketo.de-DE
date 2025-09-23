@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557339
 description: Suchen und Zusammenführen von doppelten Personen - Marketo-Dokumente - Produktdokumentation
-title: Doppelte Personen suchen und zusammenführen
+title: Suchen und Zusammenführen doppelter Personen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Doppelte Personen suchen und zusammenführen {#find-and-merge-duplicate-people}
+# Suchen und Zusammenführen doppelter Personen {#find-and-merge-duplicate-people}
 
 Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintreten. Möglicherweise hat Ihr CRM jedoch zunächst Duplikate gesendet. So führen wir sie zusammen.
 
@@ -29,7 +29,7 @@ Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintre
 
 ## Duplikate suchen {#find-duplicates}
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Datenbank]**.
+1. Wechseln Sie dazu zum Bereich **[!UICONTROL Datenbank]**.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 

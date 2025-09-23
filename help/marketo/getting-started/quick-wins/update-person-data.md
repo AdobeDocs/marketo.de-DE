@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359426
 description: Personendaten aktualisieren - Marketo-Dokumente - Produktdokumentation
-title: Personendaten aktualisieren
+title: Aktualisieren von Personendaten
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 1%
+ht-degree: 17%
 
 ---
 
-# Personendaten aktualisieren {#update-person-data}
+# Aktualisieren von Personendaten {#update-person-data}
 
 ## Mission: Aktualisieren der Kontaktinformationen einer Person oder anderer Daten {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Einrichten und Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Einrichten und eine Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Liste mit Personen importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 Stellen wir uns vor, dass Ihnen auf Ihrer letzten Messe eine Person zusätzliche Kontaktinformationen gegeben hat. So aktualisieren Sie Personendaten.
@@ -52,9 +52,9 @@ Stellen wir uns vor, dass Ihnen auf Ihrer letzten Messe eine Person zusätzliche
 
 >[!CAUTION]
 >
->* Stellen Sie sicher, dass E-Mail-Adressen nur ASCII-Zeichen enthalten.
+>* Achten Sie darauf, dass E-Mail-Adressen nur ASCII-Zeichen enthalten dürfen.
 >
->* Marketo unterstützt **nicht** E-Mail-Adressen, die Emojis enthalten.
+>* Marketo unterstützt **keine** E-Mail-Adressen, die Emojis enthalten.
 
 >[!NOTE]
 >

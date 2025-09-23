@@ -1,9 +1,9 @@
 ---
 description: Dynamic Chat-Übersicht - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über Dynamic Chat
+title: Dynamic Chat – Überblick
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '589'
 ht-degree: 4%
@@ -16,7 +16,7 @@ Mit Dynamic Chat können Sie eine benutzerfreundliche Oberfläche nutzen, um sow
 
 >[!TIP]
 >
->Besuchen Sie [diese Seite](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=de){target="_blank"}, um Anleitungsvideos zu Dynamic Chat anzuzeigen.
+>Besuchen Sie [diese Seite](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"}, um Anleitungsvideos zu Dynamic Chat anzuzeigen.
 
 ## Integrationen {#integrations}
 
@@ -88,7 +88,7 @@ Wenn Sie die Sprache aktualisieren, ändert sich alles in der App selbst, mit Au
 
 ## Grenzwerte für die Datenaufbewahrung in Dynamic Chat {#dynamic-chat-data-retention-limits}
 
-Im Folgenden finden Sie einige der Einschränkungen/Parameter in Dynamic Chat. Eine vollständige Liste finden Sie auf der Marketo Engage-[ (Produktbeschreibungsseite](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+Im Folgenden finden Sie einige der Einschränkungen/Parameter in Dynamic Chat. Eine vollständige Liste finden Sie auf der Marketo Engage-[ (Produktbeschreibungsseite](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 <table>
   <th>Datentyp</th>

@@ -4,10 +4,10 @@ description: Erstellen einer Hierarchie - Marketo-Dokumente - Produktdokumentati
 title: Erstellen einer Hierarchie
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, führen Sie diese Schritte aus, um eine Hierarchie manuell zu erstellen.
 
-1. Aktivieren [!UICONTROL &#x200B; unter „Benannte &#x200B;]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
+1. Aktivieren [!UICONTROL  unter „Benannte ]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
 
    ![](assets/create-a-hierarchy-1.png)
 

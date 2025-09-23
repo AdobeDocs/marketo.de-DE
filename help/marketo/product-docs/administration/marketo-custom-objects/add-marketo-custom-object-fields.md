@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093688
 description: Hinzufügen benutzerdefinierter Marketo-Objektfelder - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefinierte Marketo-Objektfelder hinzufügen
+title: Hinzufügen von benutzerdefinierten Marketo-Objektfeldern
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Benutzerdefinierte Marketo-Objektfelder hinzufügen {#add-marketo-custom-object-fields}
+# Hinzufügen von benutzerdefinierten Marketo-Objektfeldern {#add-marketo-custom-object-fields}
 
 Nachdem Sie ein benutzerdefiniertes Objekt erstellt haben, müssen Sie diesem Felder hinzufügen, um Ihre Geschäftsanforderungen zu erfüllen.
 

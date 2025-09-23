@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352597
 description: Hyperlinkten Text hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: Hyperlinkten Text hinzufügen
+title: Hinzufügen von Hyperlink-Text
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 4%
+ht-degree: 17%
 
 ---
 
-# Hyperlinkten Text hinzufügen {#add-hyperlinked-text}
+# Hinzufügen von Hyperlink-Text {#add-hyperlinked-text}
 
 1. Geben Sie den Text ein, für den Sie einen Hyperlink erstellen möchten (z. B. „Hier klicken„).
 

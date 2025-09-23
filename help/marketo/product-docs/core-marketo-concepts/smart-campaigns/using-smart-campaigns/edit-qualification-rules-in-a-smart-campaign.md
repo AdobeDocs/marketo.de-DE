@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146974
 description: Bearbeiten von Qualifizierungsregeln in einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten von Qualifizierungsregeln in einer Smart-Kampagne
+title: Bearbeiten von Qualifizierungsregeln in einer intelligenten Kampagne
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Bearbeiten von Qualifizierungsregeln in einer Smart-Kampagne {#edit-qualification-rules-in-a-smart-campaign}
+# Bearbeiten von Qualifizierungsregeln in einer intelligenten Kampagne {#edit-qualification-rules-in-a-smart-campaign}
 
 Qualifizierungsregeln steuern, wie oft jemand den Fluss in einer Smart-Kampagne durchlaufen kann. Standardmäßig werden Trigger einer Smart-Kampagne, die mehrere Male gesendet werden, nur einmal durch den Fluss gesendet. So können Sie diese Einstellungen ändern.
 

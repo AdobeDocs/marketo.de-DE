@@ -4,7 +4,7 @@ description: Schritt 2 von 3 - Einrichten des Marketo-Synchronisierungsbenutzers
 title: Schritt 2 von 3 - Einrichten des Marketo Sync-Benutzers in [!DNL Dynamics] (2011 On-Premise)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 0%

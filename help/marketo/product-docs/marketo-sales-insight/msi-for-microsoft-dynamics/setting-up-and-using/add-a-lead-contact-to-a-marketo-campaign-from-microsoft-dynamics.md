@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953342
 description: Hinzufügen eines Leads/Kontakts zu einer Marketo-Kampagne über Microsoft Dynamics - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen eines Leads/Kontakts zu einer Marketo-Kampagne aus Microsoft Dynamics
+title: Hinzufügen eines Leads/Kontakts aus Microsoft Dynamics zu einer Marketo-Kampagne
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
 # Hinzufügen eines Leads/Kontakts zu einer Marketo-Kampagne aus [!DNL Microsoft Dynamics] {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-Sie können Marketo Smart-Kampagnen direkt aus [!DNL Microsoft Dynamics] heraus schnell und einfach Leads/Kontakte hinzufügen. So geht&#39;s.
+Sie können Marketo Smart-Kampagnen direkt aus [!DNL Microsoft Dynamics] heraus schnell und einfach Leads/Kontakte hinzufügen. Und so geht das.
 
 1. Rufen Sie [!DNL Dynamics] den Bereich **[!UICONTROL Vertrieb]** auf.
 

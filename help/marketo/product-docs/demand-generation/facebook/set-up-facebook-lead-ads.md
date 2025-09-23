@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11379622
 description: Einrichten von Facebook-Lead-Anzeigen - Marketo-Dokumente - Produktdokumentation
-title: Facebook-Lead-Anzeigen einrichten
+title: Einrichten von Lead-Anzeigen in Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '312'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Facebook-Lead-Anzeigen einrichten {#set-up-facebook-lead-ads}
+# Einrichten von Lead-Anzeigen in Facebook {#set-up-facebook-lead-ads}
 
 Verwenden Sie [Facebook-Lead](https://www.facebook.com/business/ads/ad-objectives/lead-generation){target="_blank"}, um Anzeigenkampagnen in Facebook durchzuführen und Leads für Marketo zu generieren.
 

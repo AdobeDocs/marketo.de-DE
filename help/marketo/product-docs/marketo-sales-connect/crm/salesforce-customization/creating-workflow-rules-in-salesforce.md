@@ -4,10 +4,10 @@ description: Erstellen von Workflow-Regeln in Salesforce - Marketo-Dokumente - P
 title: Erstellen von Workflow-Regeln in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -64,7 +64,7 @@ Im Folgenden finden Sie die empfohlenen Namen der Workflow-Regeln und eine Besch
 
    ![](assets/three-1.png)
 
-1. Geben Sie als [!UICONTROL Regelname“ „Feld für interessanten Moment aktualisieren] ein. Wählen Sie die Optionsschaltfläche **[!UICONTROL erstellt und jedes Mal, wenn sie bearbeitet wird]** aus. Wählen Sie in [!UICONTROL &#x200B; Dropdown-Liste &#x200B;]Regelkriterien“ **[!UICONTROL Formel wird als „true“ ausgewertet]**. Suchen Sie nach der Funktion ISCHANGED und wählen Sie sie aus. Markieren Sie dann den Wert des Standardfelds und klicken Sie auf **[!UICONTROL Feld einfügen]**.
+1. Geben Sie als [!UICONTROL Regelname“ „Feld für interessanten Moment aktualisieren] ein. Wählen Sie die Optionsschaltfläche **[!UICONTROL erstellt und jedes Mal, wenn sie bearbeitet wird]** aus. Wählen Sie in [!UICONTROL  Dropdown-Liste ]Regelkriterien“ **[!UICONTROL Formel wird als „true“ ausgewertet]**. Suchen Sie nach der Funktion ISCHANGED und wählen Sie sie aus. Markieren Sie dann den Wert des Standardfelds und klicken Sie auf **[!UICONTROL Feld einfügen]**.
 
    ![](assets/four-1.png)
 
@@ -76,11 +76,11 @@ Im Folgenden finden Sie die empfohlenen Namen der Workflow-Regeln und eine Besch
 
    ![](assets/6.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Dropdown-Liste &#x200B;]Workflow-Aktion hinzufügen **[!UICONTROL die Option „Neues Feld aktualisieren]**.
+1. Wählen Sie in [!UICONTROL  Dropdown-Liste ]Workflow-Aktion hinzufügen **[!UICONTROL die Option „Neues Feld aktualisieren]**.
 
    ![](assets/seven.png)
 
-1. Geben Sie [!UICONTROL &#x200B; Feld „Name] „Feld für interessanten Moment aktualisieren“ ein ([!UICONTROL Eindeutiger Name] wird automatisch generiert). Wählen Sie in [!UICONTROL &#x200B; Dropdown-Liste &#x200B;]Zu aktualisierendes Feld“ die Option **[!UICONTROL Beschreibung des letzten interessanten Moments]**. Wählen Sie das Optionsfeld **[!UICONTROL Formel zum Festlegen eines neuen Werts verwenden]** und klicken Sie dann auf **[!UICONTROL Formeleditor anzeigen]**.
+1. Geben Sie [!UICONTROL  Feld „Name] „Feld für interessanten Moment aktualisieren“ ein ([!UICONTROL Eindeutiger Name] wird automatisch generiert). Wählen Sie in [!UICONTROL  Dropdown-Liste ]Zu aktualisierendes Feld“ die Option **[!UICONTROL Beschreibung des letzten interessanten Moments]**. Wählen Sie das Optionsfeld **[!UICONTROL Formel zum Festlegen eines neuen Werts verwenden]** und klicken Sie dann auf **[!UICONTROL Formeleditor anzeigen]**.
 
    ![](assets/eight.png)
 

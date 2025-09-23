@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360188
 description: E-Mail-Leistungsbericht für Campaign - Marketo-Dokumente - Produktdokumentation
-title: Bericht zur E-Mail-Leistung in Campaign
+title: Leistungsbericht für Kampagnen-E-Mails
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Bericht zur E-Mail-Leistung in Campaign {#campaign-email-performance-report}
+# Leistungsbericht für Kampagnen-E-Mails {#campaign-email-performance-report}
 
 Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail-Leistungsstatistiken nach ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)Smart Campaign“ gruppiert anzuzeigen.
 
-1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **[!UICONTROL Kampagnen-E-Mail-Leistung]**&#x200B;[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **[!UICONTROL Kampagnen-E-Mail-Leistung]**[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
 

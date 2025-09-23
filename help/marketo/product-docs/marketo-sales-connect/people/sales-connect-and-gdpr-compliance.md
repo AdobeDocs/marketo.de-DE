@@ -4,7 +4,7 @@ description: Sales Connect und DSGVO-Compliance - Marketo-Dokumente - Produktdok
 title: Sales Connect und DSGVO-Compliance
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1355'
 ht-degree: 8%
@@ -74,7 +74,7 @@ Mit der neuen Kompatibilitätskarte können Benutzer die Quelle eines Kontakts v
 
 Auch hier stehen Benutzenden zahlreiche Dropdown-Optionen zur Auswahl, darunter:
 
-* CRM-Synch
+* CRM-Synchronisierung
 * Importieren
 * Manueller Upload
 * [!DNL Chrome] Erweiterung
@@ -133,7 +133,7 @@ Sie haben die Möglichkeit, Kontaktinformationen aus der Personendetailansicht z
  <tbody>
   <tr>
    <td>[!UICONTROL Vorname]</td>
-   <td>[!UICONTROL -Website]</td>
+   <td>[!UICONTROL-Website]</td>
    <td>[!DNL Facebook]</td>
   </tr>
   <tr>

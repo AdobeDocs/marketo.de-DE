@@ -4,14 +4,14 @@ description: Mai 2015 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2015 – Versionshinweise
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
-# Mai 2015 - Versionshinweise {#release-notes-may}
+# Versionshinweise – Mai 2015 {#release-notes-may}
 
 Die folgenden Funktionen sind in der Version vom Mai 2015 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung sollten Sie unbedingt zurückkommen, um Links zu detaillierten Artikeln für jede Funktion zu finden!
 
@@ -23,9 +23,9 @@ Wir veröffentlichen einen neuen Modus zur Bearbeitung von Landingpages und eine
 
 ![](assets/image2015-5-15-13-3a33-3a11.png)
 
-## E-Mail-Programm schließen
+## Schließen von E-Mail-Programm
 
-[E-Mail-Programm schließen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[Schließen von E-Mail-Programm](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 Haben Sie „Senden“ gedrückt, bevor ein E-Mail-Programm bereit war, auszugehen? Ziehen Sie die Bremsen mit der neuen Schaltfläche Abbruch E-Mail-Programm . Dadurch werden E-Mail-Programme in Flugzeugen gestoppt.
 

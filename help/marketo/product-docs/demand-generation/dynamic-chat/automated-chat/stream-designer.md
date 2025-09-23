@@ -1,16 +1,16 @@
 ---
 description: Streamen von Designer - Marketo-Dokumente - Produktdokumentation
-title: Entwerferin bzw. Entwerfer des Streams
+title: Gestalterin bzw. Gestalter des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1199'
 ht-degree: 2%
 
 ---
 
-# Entwerferin bzw. Entwerfer des Streams {#stream-designer}
+# Gestalterin bzw. Gestalter des Streams {#stream-designer}
 
 Es _(viele_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel, bei dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Wenn ja, kann der Besucher einen Termin vereinbaren. Ist dies nicht der Fall, hat der Besucher die Möglichkeit, einer Mailingliste für die zukünftige Korrespondenz beizutreten. Ihnen wird auch ein kostenloser PDF angeboten. Das letztendliche Ziel besteht darin, entweder einen Termin zu vereinbaren oder die E-Mail des Besuchers zu erfassen.
 
@@ -113,7 +113,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-7.png)
 
-1. Stellen [!UICONTROL &#x200B; unter „Chatbot Response] Ihre Frage, wie Sie möchten.
+1. Stellen [!UICONTROL  unter „Chatbot Response] Ihre Frage, wie Sie möchten.
 
    ![](assets/stream-designer-8.png)
 

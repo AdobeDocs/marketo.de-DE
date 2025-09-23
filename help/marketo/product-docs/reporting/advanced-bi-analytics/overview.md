@@ -3,7 +3,7 @@ description: Übersicht über die erweiterte BI-Analyse - Marketo-Dokumente - Pr
 title: Erweiterte BI-Analyse – Überblick
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 1%
@@ -98,7 +98,7 @@ Erfahren Sie, wie Sie bestimmte Abschnitte Ihres Berichts exportieren.
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. Klicken Sie auf das Symbol „Mehr“ (**…**)
+1. Klicken Sie auf das Symbol „Mehr“ (**`...`**)
 
    ![](assets/export-a-visualization-3.png)
 
@@ -237,7 +237,6 @@ Die folgenden Standardberichte sind als Beispiele für Ihre benutzerdefinierten 
 ## Zu beachtende Punkte {#note}
 
 * Ihre benutzerdefinierten Berichte wurden vom klassischen Erlebnis auf das neue Erlebnis repliziert, wobei die wesentlichen Verhaltensänderungen im Abschnitt [Lernen des neuen Erlebnisses](#learning-the-new-experience) unten erwähnt werden.
-
 * Dashboards im klassischen Erlebnis waren nicht übertragbar und mussten in dem neuen Erlebnis neu erstellt werden. Sie können in der neuen -Version als Berichte neu erstellt werden, und die Filter in der neuen -Version rufen automatisch mögliche Werte ab.
 
   >[!NOTE]
@@ -251,9 +250,7 @@ Die folgenden Standardberichte sind als Beispiele für Ihre benutzerdefinierten 
   >Wenn Sie im Umsatzexplorer über mehr als 700 Berichte verfügten, wurden einige Berichte mit anderen kombiniert und über Seiten im Bericht konsolidiert.
   >
   >* Wenn ein Bericht über ein E-Mail-Abonnement verfügte, wurde er nicht kombiniert.
-  >
   >* Der Rest der Berichte im _Ordner_ nach Berichtsbereich zu einem oder mehreren Berichten zusammengefasst. Wenn es mehr als fünf Berichte für den Berichtsbereich gab, wurden diese in mehr als einen kombinierten Bericht konsolidiert.
-  >
   >* Jeder kombinierte Bericht hat nicht mehr als fünf Seiten.
 
 * Bei jeder Visualisierung gibt es eine Beschränkung von 1 Million Zeilen pro Abfrage. Wenn Ihre Abfrage diesen Wert überschreitet, erhalten Sie den folgenden Fehler: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Um dies zu beheben, reduzieren Sie Ihren Datumsbereich und/oder passen Sie die Filter in Ihrem Bericht an, um die Anzahl der Zeilen in Ihrem Abfrageergebnis zu reduzieren.

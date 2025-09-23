@@ -1,28 +1,28 @@
 ---
 description: E-Mail-Authoring - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Erstellung
+title: Erstellung von E-Mails
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1504'
-ht-degree: 3%
+source-wordcount: '1503'
+ht-degree: 4%
 
 ---
 
-# E-Mail-Erstellung {#email-authoring}
+# Erstellung von E-Mails {#email-authoring}
 
-Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage-E-Mail-Designer erstellen, personalisieren und in der Vorschau anzeigen.
+Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage E-Mail-Designer erstellen, personalisieren und in der Vorschau anzeigen.
 
 >[!IMPORTANT]
 >
->Dieser Artikel ist nur für Mitglieder der neuen Marketo Engage Email Designer Beta. Bitte nicht verbreiten.
+>Dieser Artikel richtet sich nur an Mitglieder der neuen Betaversion von Marketo Engage Email Designer. Bitte nicht verbreiten.
 
 >[!PREREQUISITES]
 >
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe-Account-Team (Ihren Account Manager) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Erstellen einer E-Mail {#create-an-email}
 
@@ -56,7 +56,7 @@ Das war&#39;s. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 
 * [Erstellen von neuen Inhalten](#design-from-scratch) mithilfe des visuellen E-Mail-Editors
 
-* [Eigene HTML importieren](#import-html) über eine HTML- oder ZIP-Datei
+* [Importieren Sie Ihre eigene HTML ](#import-html) eine HTML- oder ZIP-Datei
 
 * [Vorhandene Vorlage auswählen](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben)
 
@@ -138,7 +138,7 @@ Wählen Sie eine der vordefinierten Vorlagen für einen Vorsprung beim Design Ih
 
 >[!ENDTABS]
 
-## Hinzufügen von Struktur und Inhalt {#add-structure-and-content}
+## Hinzufügen von Struktur und Inhalten {#add-structure-and-content}
 
 1. Um mit dem Erstellen oder Ändern von Inhalten zu beginnen, ziehen Sie ein Element per Drag-and-Drop aus „Strukturen“ auf die Arbeitsfläche. Bearbeiten Sie die Einstellungen im Bereich auf der rechten Seite.
 
@@ -213,7 +213,7 @@ Im folgenden Beispiel werden Schritte zum Anpassen des Abstands und der vertikal
 
 1. Speichern Sie Ihre Änderungen.
 
-### Inhalt personalisieren {#personalize-content}
+### Personalisieren von Inhalten {#personalize-content}
 
 Token funktionieren im neuen Editor genauso wie im alten, aber das Symbol sieht anders aus. Im folgenden Beispiel wird das Hinzufügen eines Vornamen-Tokens mit Fallback-Text beschrieben.
 
@@ -289,7 +289,7 @@ Warnhinweise geben Hinweise auf Empfehlungen und zeigen Best Practices, wie etwa
 >
 >Das Hinzufügen einer Abmelde-Option ist für [operative E-Mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (Nicht-Marketing) nicht erforderlich.
 
-* **Textversion von HTML ist leer**: Sie müssen eine Textversion Ihres E-Mail-Textkörpers definieren, für den Fall, dass HTML-Inhalte nicht angezeigt werden können.
+* **Textversion von HTML ist leer**: Sie müssen eine Textversion Ihres E-Mail-Textkörpers für den Fall definieren, dass HTML-Inhalte nicht angezeigt werden können.
 
 * **Leerer Link ist im E-Mail-Text vorhanden**: Überprüfen Sie, ob alle Links in Ihrer E-Mail korrekt sind.
 

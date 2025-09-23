@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11372299
 description: Übersicht über Email Editor v2.0 - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über Email Editor v2.0
+title: E-Mail-Editor v2.0 – Übersicht
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '423'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Übersicht über Email Editor v2.0 {#email-editor-v2-overview}
+# E-Mail-Editor v2.0 – Übersicht {#email-editor-v2-overview}
 
 Wenn Sie sich entscheiden, die [!DNL Email Editor v2.0] zu aktivieren, werden Sie mehrere neue Funktionen bemerken.
 
@@ -91,7 +91,7 @@ Unter **[!UICONTROL E-Mail]** Aktionen) werden Sie einige neue Funktionen bemerk
 
 **[!UICONTROL Einstellungen bearbeiten]**
 
-Sie haben die Möglichkeit, einen &quot;[!UICONTROL &quot; &#x200B;]. Ein [!UICONTROL Preheader] ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
+Sie haben die Möglichkeit, einen &quot;[!UICONTROL &quot; ]. Ein [!UICONTROL Preheader] ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
 
 ![](assets/email-editor-v2-overview-14.png)
 

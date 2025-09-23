@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951877
 description: Grundlegendes zum Bereich „Programm-Opportunity-Analyse“ - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zum Bereich „Programm-Opportunity-Analyse“
+title: Grundlegendes zum Bereich für die Analyse der Programm-Opportunitys
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '907'
-ht-degree: 20%
+ht-degree: 22%
 
 ---
 
-# Grundlegendes zum Bereich „Programm-Opportunity-Analyse“ {#understanding-the-program-opportunity-analysis-area}
+# Grundlegendes zum Bereich für die Analyse der Programm-Opportunitys {#understanding-the-program-opportunity-analysis-area}
 
 ## Überblick {#overview}
 

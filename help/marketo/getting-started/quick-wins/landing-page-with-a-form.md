@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359412
 description: Landingpage mit einem Formular - Marketo-Dokumente - Produktdokumentation
-title: Landing Page mit Formular
+title: Landingpage mit einem Formular
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 4%
+source-wordcount: '550'
+ht-degree: 8%
 
 ---
 
-# Landing Page mit Formular {#landing-page-with-a-form}
+# Landingpage mit einem Formular {#landing-page-with-a-form}
 
 ## Mission: Erstellen Sie eine Landingpage mit einem Formular, um neue Personen zu gewinnen. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
->[Einrichten und Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Einrichten und eine Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## SCHRITT 1: Erstellen eines Programms {#step-create-a-program}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/landing-page-with-a-form-1.png)
 
@@ -163,7 +163,7 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, fahren wir fort und er
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Datenbank]**.
+1. Wechseln Sie dazu zum Bereich **[!UICONTROL Datenbank]**.
 
    ![](assets/landing-page-with-a-form-26.png)
 
@@ -175,7 +175,7 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, fahren wir fort und er
 
    ![](assets/landing-page-with-a-form-28.png)
 
-## Mission abgeschlossen! {#mission-complete}
+## Aufgabe abgeschlossen! {#mission-complete}
 
 <br> 
 

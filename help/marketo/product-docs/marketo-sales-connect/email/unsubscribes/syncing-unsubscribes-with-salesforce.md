@@ -4,10 +4,10 @@ description: Synchronisieren von Abmeldungen mit Salesforce - Marketo-Dokumente 
 title: Synchronisieren von Abmeldungen mit Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -35,7 +35,7 @@ Benutzerinnen und Benutzer können entscheiden, ob sie ihre Abmeldungen mit dem 
 
    ![](assets/one-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin]Einstellungen die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL  unter „Admin]Einstellungen die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/two-2.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096409
 description: Vermeiden des Versands doppelter Inhalte - Marketo-Dokumente - Produktdokumentation
-title: Senden von doppeltem Inhalt vermeiden
+title: Vermeiden des Versands von doppelten Inhalten
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# Senden von doppeltem Inhalt vermeiden {#avoid-sending-duplicate-content}
+# Vermeiden des Versands von doppelten Inhalten {#avoid-sending-duplicate-content}
 
 Haben Sie schon einmal dieselbe E-Mail zweimal erhalten? Lärmend, nicht wahr?
 

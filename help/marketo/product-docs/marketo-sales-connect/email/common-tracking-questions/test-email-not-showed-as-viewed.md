@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352538
 description: Test-E-Mail nicht angezeigt als angezeigt - Marketo-Dokumente - Produktdokumentation
-title: Test-E-Mail nicht als angezeigt
+title: Test-E-Mail wird nicht als gelesen angezeigt
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Test-E-Mail nicht als angezeigt {#test-email-not-showed-as-viewed}
+# Test-E-Mail wird nicht als gelesen angezeigt {#test-email-not-showed-as-viewed}
 
 Selbst wenn Sie Ihre Nachricht an eine andere E-Mail-Adresse gesendet haben, werden wir Sie nicht beim Anzeigen von E-Mails protokollieren, die Sie sich selbst im Live-Feed gesendet haben. Unser Tracking ist gerätebasiert. Solange Sie einen Computer verwenden, mit dem Sie sich [!DNL Sales Connect] angemeldet haben, filtern wir diese Aktivität aus.
 

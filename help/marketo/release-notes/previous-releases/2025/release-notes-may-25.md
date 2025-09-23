@@ -3,7 +3,7 @@ description: Mai 2025 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – Mai 2025
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 40%
@@ -22,7 +22,7 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 23. Mai 2025 veröffentlicht**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 23. Mai 2025** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -62,7 +62,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Aktualisierung der Facebook-Offline-Konversionsintegration**: Am 29. Mai 2025 wird die [Facebook-Offline-Konversions](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}-Integration für Marketo Engage in die neue Meta [Conversions-API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} migriert, da Meta die [Offline-Konversions-API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} im Einklang mit der Graph-API-Versionierung einstellt. Weitere Informationen finden Sie im Meta-Handbuch zu [Senden von Offline-Ereignissen über die Konversions-API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI für Offline).
+* **Aktualisierung der Facebook-Offline-Konversionsintegration**: Am 29. Mai 2025 wird die [Facebook-Offline-Konversions](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}-Integration für Marketo Engage in die neue Meta [Conversions-API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} migriert, da Meta die [Offline-Konversions-API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} im Einklang mit der Graph-API-Versionierung einstellt. Weitere Informationen finden Sie im Meta-Handbuch zu [Senden von Offline-Ereignissen über die Konversions-API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI für Offline).
 
 * **Neue Analytics-Funktion - Öffentliche Beta**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (früher als Revenue Explorer und Advanced Report Builder bezeichnet) begann Mitte April mit dem Rollout an alle aktuellen Benutzenden des Umsatzzyklus-Explorers. Dieses neue Tool bietet eine flexible Reporting- und Visualisierungsschnittstelle zu Marketo Engage-Daten und liefert detaillierte Informationen zu Fortschritt, Leistung und mehr. Er bietet mehr Interaktivität und Visualisierung, schnellere Leistung und ein nahtloseres und intuitiveres Benutzererlebnis.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359673
 description: Hinzufügen von QuickInfo-Anweisungen zu einem Formularfeld - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen von QuickInfo-Anweisungen zu einem Formularfeld
+title: Hinzufügen von Kurzinfo-Anweisungen zu einem Formularfeld
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Hinzufügen von QuickInfo-Anweisungen zu einem Formularfeld {#add-tooltip-instructions-to-a-form-field}
+# Hinzufügen von Kurzinfo-Anweisungen zu einem Formularfeld {#add-tooltip-instructions-to-a-form-field}
 
 [Hinweise](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) und Anweisungen helfen beim Ausfüllen von Formularen. So fügen Sie QuickInfo-Anweisungen hinzu:
 

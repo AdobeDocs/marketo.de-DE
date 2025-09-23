@@ -4,7 +4,7 @@ description: Erstellen von  [!DNL Webhook] - Marketo-Dokumenten - Produktdokumen
 title: Erstellen eines [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 23a7b8cb1cd07c0194c08d30218602a52d03df5b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 1%
@@ -51,4 +51,4 @@ Verwenden Sie [!DNL Webhooks], um Web-Services von Drittanbietern zu nutzen, um 
 
 >[!NOTE]
 >
->Weitere Informationen finden Sie in den [[!DNL Webhooks]](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Weitere Informationen finden Sie in den [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

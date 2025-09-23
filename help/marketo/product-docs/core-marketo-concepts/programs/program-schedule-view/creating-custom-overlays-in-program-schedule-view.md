@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147251
 description: Erstellen benutzerdefinierter Überlagerungen in der Programmplanansicht - Marketo-Dokumente - Produktdokumentation
-title: Erstellen benutzerdefinierter Überlagerungen in der Ansicht „Programmplan“
+title: Erstellen benutzerdefinierter Überlagerungen in der Ansicht „Programmplanung“
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-# Erstellen benutzerdefinierter Überlagerungen in der Ansicht „Programmplan“ {#creating-custom-overlays-in-program-schedule-view}
+# Erstellen benutzerdefinierter Überlagerungen in der Ansicht „Programmplanung“ {#creating-custom-overlays-in-program-schedule-view}
 
 Sie können benutzerdefinierte Überlagerungen erstellen, um die für Ihre Anforderungen relevanten Einträge anzuzeigen.
 

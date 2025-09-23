@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720377
 description: Referenzieren einer Liste oder Smart-Liste in Arbeitsbereichen - Marketo-Dokumente - Produktdokumentation
-title: Verweisen auf eine Liste oder Smart-Liste in allen Arbeitsbereichen
+title: Verweisen auf eine Liste oder eine intelligente Liste in allen Arbeitsbereichen
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Verweisen auf eine Liste oder Smart-Liste in allen Arbeitsbereichen {#reference-a-list-or-smart-list-across-workspaces}
+# Verweisen auf eine Liste oder eine intelligente Liste in allen Arbeitsbereichen {#reference-a-list-or-smart-list-across-workspaces}
 
 Listen und Smart-Listen können über Arbeitsbereiche hinweg freigegeben und referenziert werden, damit sie einfach aus der Datenbank wiederverwendet werden können.
 

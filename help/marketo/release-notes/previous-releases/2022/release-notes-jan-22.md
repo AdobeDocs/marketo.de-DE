@@ -2,16 +2,16 @@
 description: Januar 2022 - Versionshinweise zu Marketo - Produktdokumentation
 title: Januar 2022 - Versionshinweise
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '897'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Versionshinweise: Januar 2022 {#release-notes-jan-22}
+# Versionshinweise – Januar 2022 {#release-notes-jan-22}
 
-Die folgenden Funktionen sind in der Version vom Januar 2022 enthalten. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Die folgenden Funktionen sind in der Version vom Januar 2022 enthalten. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
@@ -58,7 +58,7 @@ Marketo Engage-Kunden, die auch die Adobe Experience Platform (AEP) verwenden, k
 
 **[!DNL Sales Insight]für [!DNL Salesforce] CRM**
 
-* **Neue Typ-Spalte für [!UICONTROL Beste Wetten]**: Verkäufer erhalten schnellere Einblicke mit einer neuen Spalte mit der Bezeichnung „Typ“, um auf der Seite „Beste [!UICONTROL &quot; zwischen Leads und Kontakten &#x200B;] unterscheiden.
+* **Neue Typ-Spalte für [!UICONTROL Beste Wetten]**: Verkäufer erhalten schnellere Einblicke mit einer neuen Spalte mit der Bezeichnung „Typ“, um auf der Seite „Beste [!UICONTROL &quot; zwischen Leads und Kontakten ] unterscheiden.
 
 * **[!DNL Salesforce]Platform-API-**: Als Reaktion auf [!DNL Salesforce] Einstellung der [!DNL Salesforce] Platform-API-Versionen 21.0 bis 30.0 wurde das [!DNL Sales Insight] mit den neuesten APIs aktualisiert.
 

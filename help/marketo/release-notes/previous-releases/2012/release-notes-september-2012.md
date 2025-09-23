@@ -4,14 +4,14 @@ description: Versionshinweise - September 2012 - Marketo-Dokumentation - Produkt
 title: September 2012 - Versionshinweise
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Versionshinweise: September 2012 {#release-notes-september}
+# Versionshinweise – September 2012 {#release-notes-september}
 
 Diese Version enthält mit Spannung erwartete, integrierte Social-Media-Funktionen und gute Tipps für das Lead-Management! Hinweis: Social-Media-Funktionen sind als Add-on oder als Teil ausgewählter Bundles verfügbar.
 

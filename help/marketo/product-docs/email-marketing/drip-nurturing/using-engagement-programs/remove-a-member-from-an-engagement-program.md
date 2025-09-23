@@ -4,10 +4,10 @@ description: Entfernen eines Mitglieds aus einem Interaktionsprogramm - Marketo-
 title: Entfernen eines Mitglieds aus einem Interaktionsprogramm
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
@@ -19,7 +19,7 @@ Entschuldigung! Wie sind die Leute da reingekommen? Sie können Mitglieder aus e
 >
 >Verwenden Sie dies nicht, um Inhalte für eine Person anzuhalten. Dadurch werden alle Zuordnungen in Analytics eliminiert. Erfahren Sie mehr darüber, wie Sie [Personen in einem Interaktionsprogramm anhalten](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
-## Flow-Schritt {#flow-step}
+## Flussschritt {#flow-step}
 
 1. Ziehen Sie den **[!UICONTROL Programmstatus ändern]** in den Flussschritt.
 

@@ -4,16 +4,16 @@ description: Champion/Challenger - E-Mail-Test genehmigen - Marketo-Dokumente - 
 title: Champion/Challenger - Genehmigen Sie Ihren E-Mail-Test
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Champion/Challenger: Genehmigen Sie Ihren E-Mail-Test {#champion-challenger-approve-your-email-test}
+# Champion/Challenger: Genehmigen Ihres E-Mail-Tests {#champion-challenger-approve-your-email-test}
 
-Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. So geht&#39;s.
+Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. Und so geht das.
 
 >[!PREREQUISITES]
 >

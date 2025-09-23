@@ -1,16 +1,16 @@
 ---
 description: Anpassen der Abmelde-Link-Nachricht - Marketo-Dokumente - Produktdokumentation
-title: Abmelde-Link-Nachricht anpassen
+title: Anpassen der Nachricht mit dem Abmelde-Link
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Abmelde-Link-Nachricht anpassen {#customize-unsubscribe-link-message}
+# Anpassen der Nachricht mit dem Abmelde-Link {#customize-unsubscribe-link-message}
 
 Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Administratoren haben die Möglichkeit, die Abmelde-Link-Nachrichten für ihr gesamtes Team festzulegen, um eine konsistente Nachrichtenübermittlung zu gewährleisten.
 
@@ -22,7 +22,7 @@ Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Ad
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin] auf **[!UICONTROL Abmeldungen]**.
+1. Klicken [!UICONTROL  unter „Admin] auf **[!UICONTROL Abmeldungen]**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 

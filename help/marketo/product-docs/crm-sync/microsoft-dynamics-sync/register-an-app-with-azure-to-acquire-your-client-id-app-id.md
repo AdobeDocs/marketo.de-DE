@@ -4,10 +4,10 @@ description: Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhal
 title: Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhalten
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -34,7 +34,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/two.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
 
    ![](assets/three.png)
 
@@ -56,7 +56,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/seven.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
 
    ![](assets/eight.png)
 

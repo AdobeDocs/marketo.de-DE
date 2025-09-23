@@ -4,14 +4,14 @@ description: Löschen eines benannten Kontos - Marketo-Dokumente - Produktdokume
 title: Löschen eines benannten Kontos
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Löschen eines [!UICONTROL &#x200B; Kontos] {#delete-a-named-account}
+# Löschen eines [!UICONTROL  Kontos] {#delete-a-named-account}
 
 Führen Sie diese kurzen Schritte aus, um ein benanntes Konto zu löschen.
 

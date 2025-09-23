@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12983291
 description: Informationen zur Zeitzone der Empfänger - Marketo-Dokumente - Produktdokumentation
-title: Informationen zur Zeitzone des Empfängers
+title: Grundlegendes zur Zeitzone der Empfängerin bzw. des Empfängers
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Informationen zur Zeitzone des Empfängers {#understanding-recipient-time-zone}
+# Grundlegendes zur Zeitzone der Empfängerin bzw. des Empfängers {#understanding-recipient-time-zone}
 
 E-Mail- und Interaktionsprogramme können so konfiguriert werden, dass sie entsprechend den Zeitzonen der Empfängerinnen und Empfänger bereitgestellt werden. So entfällt die Notwendigkeit, mehrere Programme zu erstellen - einmal senden und Marketo speichert die E-Mail automatisch bis zur korrekten Ortszeit.
 

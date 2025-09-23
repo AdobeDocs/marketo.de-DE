@@ -4,10 +4,10 @@ description: Einrichten eines benutzerdefinierten Versandkanals - Marketo-Dokume
 title: Einrichten eines benutzerdefinierten Versandkanals
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene Verwendu
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
+1. Klicken [!UICONTROL  unter „Mein ]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
@@ -53,7 +53,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene Verwendu
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Karte &#x200B;]Zustellbarkeit **[!UICONTROL auf]**.
+1. Klicken Sie auf [!UICONTROL  Karte ]Zustellbarkeit **[!UICONTROL auf]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
@@ -75,7 +75,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene Verwendu
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 

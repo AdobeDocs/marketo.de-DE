@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147237
 description: Programmbericht nach Periode filtern - Kosten - Marketo-Dokumente - Produktdokumentation
-title: Filtern eines Programmberichts nach Periode und Kosten
+title: Filtern eines Programmberichts nach Kostenzeiträumen
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Filtern eines Programmberichts nach Periode und Kosten {#filter-a-program-report-by-period-cost}
+# Filtern eines Programmberichts nach Kostenzeiträumen {#filter-a-program-report-by-period-cost}
 
 Konzentrieren Sie Ihren [Bericht zur Programmleistung](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} auf einen bestimmten Kostenrahmen für einen Zeitraum.
 

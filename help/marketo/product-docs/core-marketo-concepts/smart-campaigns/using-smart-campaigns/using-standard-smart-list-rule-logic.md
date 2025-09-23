@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147001
 description: Verwenden der standardmäßigen Smart-List-Regellogik - Marketo-Dokumente - Produktdokumentation
-title: Verwenden der standardmäßigen Smart-List-Regellogik
+title: Verwenden der standardmäßigen Regellogik für intelligente Listen
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Verwenden der standardmäßigen Smart-List-Regellogik {#using-standard-smart-list-rule-logic}
+# Verwenden der standardmäßigen Regellogik für intelligente Listen {#using-standard-smart-list-rule-logic}
 
 Ihnen ist möglicherweise die Option „Filter verwenden“ beim Erstellen von Smart Lists für Kampagnen aufgefallen. Mit dieser Einstellung können Sie entscheiden, ob die Filter mit einem AND- oder einem OR-Operator ausgewertet werden müssen.
 

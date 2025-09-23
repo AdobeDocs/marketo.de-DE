@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147340
 description: Senden von E-Mails vom Lead-Inhaber - Marketo-Dokumente - Produktdokumentation
-title: Senden von E-Mails vom Lead-Inhaber
+title: Senden von E-Mails von der Lead-Inhaberin bzw. dem Lead-Inhaber
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Senden von E-Mails vom Lead-Inhaber {#send-emails-from-the-lead-owner}
+# Senden von E-Mails von der Lead-Inhaberin bzw. dem Lead-Inhaber {#send-emails-from-the-lead-owner}
 
-Was passiert, wenn Sie eine E-Mail an einen Lead im Namen des Lead-Inhabers senden möchten?  So geht&#39;s.
+Was passiert, wenn Sie eine E-Mail an einen Lead im Namen des Lead-Inhabers senden möchten?  Und so geht das.
 
 1. Suchen Sie Ihre E-Mail, wählen Sie sie aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 

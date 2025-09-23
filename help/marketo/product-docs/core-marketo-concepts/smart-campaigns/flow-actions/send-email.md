@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146948
 description: E-Mail senden - Marketo-Dokumente - Produktdokumentation
-title: E-Mail senden
+title: Senden von E-Mail
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 4%
 
 ---
 
-# E-Mail senden {#send-email}
+# Senden von E-Mail {#send-email}
 
 Der Flussschritt [!UICONTROL E-] senden“ kann als Teil von Kampagnen oder als einzelner Flussschritt zum Senden von E-Mails an Ihre Personen verwendet werden.
 

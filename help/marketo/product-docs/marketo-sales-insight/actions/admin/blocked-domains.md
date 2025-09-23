@@ -1,16 +1,16 @@
 ---
 description: Blockierte Domains - Marketo-Dokumente - Produktdokumentation
-title: Blockierte Domänen
+title: Blockierte Domains
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%
 
 ---
 
-# Blockierte Domänen {#blocked-domains}
+# Blockierte Domains {#blocked-domains}
 
 Helfen Sie Ihrem Verkaufsteam, erfolgreich zu sein, indem Sie verhindern, dass es versehentlich E-Mails an Mitbewerber, bekannte Spam-Fallen oder andere Domains sendet, mit denen Sie nicht in Kontakt treten möchten.
 
@@ -22,7 +22,7 @@ Helfen Sie Ihrem Verkaufsteam, erfolgreich zu sein, indem Sie verhindern, dass e
 
    ![](assets/blocked-domains-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/blocked-domains-2.png)
 

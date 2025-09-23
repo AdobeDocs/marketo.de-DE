@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385053
 description: Bereitstellen der JavaScript für Content-KI - Marketo-Dokumente - Produktdokumentation
-title: Bereitstellen des JavaScript für Content-AI
+title: Bereitstellen von JavaScript für Content-AI
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Bereitstellen des JavaScript für Content-AI {#deploy-the-javascript-for-content-ai}
+# Bereitstellen von JavaScript für Content-AI {#deploy-the-javascript-for-content-ai}
 
 Um prädiktive Inhalte zu verwenden, müssen Sie das RTP-Tag (Web Personalization) generieren und einrichten.
 

@@ -4,7 +4,7 @@ description: Inhaltssperrung - Marketo-Dokumente - Produktdokumentation
 title: Inhaltssperre
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 3%
@@ -19,11 +19,11 @@ Durch die Aktivierung der Inhaltssperre können Benutzende ohne Administratorrec
 >
 >Benutzer **können** Inhalt einer E-Mail zum Zeitpunkt des Versands oder beim Starten einer Kampagne bearbeiten.
 
-1. Klicken [!UICONTROL &#x200B; in &quot;]&quot; auf das Einstellungssymbol und wählen Sie &quot;**[!UICONTROL &quot;]**.
+1. Klicken [!UICONTROL  in &quot;]&quot; auf das Einstellungssymbol und wählen Sie &quot;**[!UICONTROL &quot;]**.
 
    ![](assets/one-4.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two-4.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147324
 description: Löschen von Feldwerten - Marketo-Dokumente - Produktdokumentation
-title: Feldwerte löschen
+title: Löschen von Feldwerten
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Feldwerte löschen {#clear-field-values}
+# Löschen von Feldwerten {#clear-field-values}
 
 [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) ist großartig, aber wie _der Wert vollständig_? Gute Frage!
 

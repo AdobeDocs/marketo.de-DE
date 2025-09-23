@@ -4,14 +4,14 @@ description: Versionshinweise - Frühjahr 1916 - Marketo-Dokumentation - Produkt
 title: Versionshinweise - Spring '16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '790'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Versionshinweise: Frühling &#39;16 {#release-notes-spring}
+# Versionshinweise – Frühjahr 2016 {#release-notes-spring}
 
 Die folgenden Funktionen sind in der Version vom Frühjahr 1916 enthalten. Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen.
 
@@ -59,7 +59,7 @@ Die Marketo-REST-APIs unterstützen jetzt die Kontrolle über Marketo-Landingpag
 
 ## [IP-Zulassungsauflistung für API-Zugriff](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Ähnlich wie bei der IP-Zulassungsauflistung für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine Zulassungsliste von IP-Adressen einrichten, die auf die Marketo SOAP- und REST-APIs zugreifen können, und so den Zugriff von nicht autorisierten IP-Adressen blockieren. Dies bietet eine zusätzliche Sicherheitsebene für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur innerhalb des Netzwerks Ihres Unternehmens erfolgen kann. Einzelheiten zum Einrichten finden Sie auf der Dokumentations-Site zu Marketo [&#128279;](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Ähnlich wie bei der IP-Zulassungsauflistung für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine Zulassungsliste von IP-Adressen einrichten, die auf die Marketo SOAP- und REST-APIs zugreifen können, und so den Zugriff von nicht autorisierten IP-Adressen blockieren. Dies bietet eine zusätzliche Sicherheitsebene für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur innerhalb des Netzwerks Ihres Unternehmens erfolgen kann. Einzelheiten zum Einrichten finden Sie auf der Dokumentations-Site zu Marketo [](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Neuer Hochgeschwindigkeits-Microsoft Dynamics-Sync-Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 

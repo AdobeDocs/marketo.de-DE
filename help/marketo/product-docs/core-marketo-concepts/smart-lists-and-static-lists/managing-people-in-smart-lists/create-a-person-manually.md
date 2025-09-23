@@ -4,16 +4,16 @@ description: Manuelles Erstellen einer Person - Marketo-Dokumente - Produktdokum
 title: Manuelles Erstellen einer Person
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
 # Manuelles Erstellen einer Person {#create-a-person-manually}
 
-Es gibt viele Möglichkeiten, eine Person zum Marketo Engage zu bringen. Wenn Sie eine manuell erstellen müssen, sehen Sie hier, wie das geht.
+Es gibt viele Möglichkeiten, eine Person in Marketo Engage zu bringen. Wenn Sie eine manuell erstellen müssen, sehen Sie hier, wie das geht.
 
 >[!CAUTION]
 >

@@ -3,10 +3,10 @@ description: Senden einer Test-E-Mail - Marketo-Dokumente - Produktdokumentation
 title: Senden einer Test-E-Mail
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -34,4 +34,4 @@ Sie erhalten eine E-Mail mit Token-Werten, die für die von Ihnen ausgewählten 
 
 >[!NOTE]
 >
->Keine Sorge. Sie bleiben auch nach dem Versand der Test-E-Mail auf der [!UICONTROL &#x200B; &quot;]Marketo-E-Mail senden, damit Sie die von Ihnen erstellte E-Mail nicht verlieren.
+>Keine Sorge. Sie bleiben auch nach dem Versand der Test-E-Mail auf der [!UICONTROL  &quot;]Marketo-E-Mail senden, damit Sie die von Ihnen erstellte E-Mail nicht verlieren.

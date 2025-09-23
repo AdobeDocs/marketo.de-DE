@@ -1,20 +1,20 @@
 ---
 description: Benutzerhandbuch zum Onboarding von Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
-title: Benutzerhandbuch zum Onboarding von Sales Insight-Aktionen
+title: Handbuch zum Onboarding von Benutzenden für Sales Insight Actions
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Benutzerhandbuch zum Onboarding von Sales Insight-Aktionen {#sales-insight-actions-user-onboarding-guide}
+# Handbuch zum Onboarding von Benutzenden für Sales Insight Actions {#sales-insight-actions-user-onboarding-guide}
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package&rbrace; ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package} ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
 >[!PREREQUISITES]
 >

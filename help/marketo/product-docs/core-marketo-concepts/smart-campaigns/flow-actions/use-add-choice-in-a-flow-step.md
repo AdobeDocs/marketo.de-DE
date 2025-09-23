@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146980
 description: Verwenden der Option „Auswahl hinzufügen“ in einem Flussschritt - Marketo-Dokumente - Produktdokumentation
-title: Verwenden von Auswahl hinzufügen in einem Flussschritt
+title: Verwenden von „Auswahl hinzufügen“ in einem Flussschritt
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Verwenden von Auswahl hinzufügen in einem Flussschritt {#use-add-choice-in-a-flow-step}
+# Verwenden von „Auswahl hinzufügen“ in einem Flussschritt {#use-add-choice-in-a-flow-step}
 
 >[!PREREQUISITES]
 >

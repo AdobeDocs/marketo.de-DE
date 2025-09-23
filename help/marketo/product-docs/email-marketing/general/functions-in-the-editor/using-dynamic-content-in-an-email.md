@@ -4,10 +4,10 @@ description: Verwenden dynamischer Inhalte in einer E-Mail - Marketo-Dokumente -
 title: Verwenden dynamischer Inhalte in einer E-Mail
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -45,7 +45,7 @@ Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Leads zielgerichtete Inform
 
    ![](assets/1.4.png)
 
-   Die Segmentierung und die zugehörigen Segmente werden auf der rechten Seite [!UICONTROL &#x200B; Registerkarte &#x200B;]Dynamisch“ angezeigt.
+   Die Segmentierung und die zugehörigen Segmente werden auf der rechten Seite [!UICONTROL  Registerkarte ]Dynamisch“ angezeigt.
 
    ![](assets/1.5.png)
 

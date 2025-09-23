@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8783557
 description: Als erledigt markieren - Marketo-Dokumente - Produktdokumentation
-title: Als erledigt markieren
+title: Markieren als erledigt
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Als erledigt markieren {#marking-it-done}
+# Markieren als erledigt {#marking-it-done}
 
 Markieren Sie ein E-Mail-Programm, ein Ereignis oder eine Analytics-Karte als [!UICONTROL Fertig], um sie aus Ihrem Stream zu entfernen. Es gibt zwei Möglichkeiten, das zu tun.
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 entfernte Adobe die Marketo Moments-App aus allen App Stores. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo auf Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Tippen Sie auf das Aktionsmenü.
 

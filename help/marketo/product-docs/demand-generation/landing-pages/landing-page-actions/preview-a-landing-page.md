@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359716
 description: Vorschau einer Landingpage - Marketo-Dokumente - Produktdokumentation
-title: Vorschau einer Landingpage
+title: Anzeigen einer Vorschau für eine Landingpage
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Vorschau einer Landingpage {#preview-a-landing-page}
+# Anzeigen einer Vorschau für eine Landingpage {#preview-a-landing-page}
 
 Sie möchten wahrscheinlich sehen, wie Ihre Landingpage aussieht, bevor Sie sie live schalten.
 
-## Vorschau einer Landingpage {#preview-a-landing-page-1}
+## Anzeigen einer Vorschau für eine Landingpage {#preview-a-landing-page-1}
 
 1. Wählen Sie eine Landingpage aus und klicken Sie auf **[!UICONTROL Vorschau der Seite]**.
 

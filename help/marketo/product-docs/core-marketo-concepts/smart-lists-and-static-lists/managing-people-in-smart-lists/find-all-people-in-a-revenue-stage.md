@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557331
 description: Alle Personen in einer Umsatzphase suchen - Marketo-Dokumente - Produktdokumentation
-title: Alle Personen in einer Umsatzphase suchen
+title: Suchen nach allen Personen in einer Umsatzphase
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Alle Personen in einer Umsatzphase suchen {#find-all-people-in-a-revenue-stage}
+# Suchen nach allen Personen in einer Umsatzphase {#find-all-people-in-a-revenue-stage}
 
 >[!PREREQUISITES]
 >

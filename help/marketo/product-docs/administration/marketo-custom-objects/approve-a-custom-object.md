@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10094188
 description: Benutzerdefiniertes Objekt genehmigen - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefiniertes Objekt genehmigen
+title: Genehmigen eines benutzerdefinierten Objekts
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Benutzerdefiniertes Objekt genehmigen {#approve-a-custom-object}
+# Genehmigen eines benutzerdefinierten Objekts {#approve-a-custom-object}
 
 Sie müssen ein benutzerdefiniertes Objekt genehmigen, bevor Sie es verwenden können. Der Prozess unterscheidet sich geringfügig von dem für neue benutzerdefinierte Objekte und für Objekte, die Sie bearbeitet haben.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8159286
 description: Opportunity-Filter und -Trigger - Marketo-Dokumente - Produktdokumentation
-title: Opportunity-Filter und -Trigger
+title: Opportunity-Filter und -Auslöser
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
-# Opportunity-Filter und -Trigger {#opportunity-filters-and-triggers}
+# Opportunity-Filter und -Auslöser {#opportunity-filters-and-triggers}
 
 Mit Opportunity-Filtern und Triggern können Sie Opportunity-Ereignisse aus [!DNL Salesforce] verfolgen. Sie unterscheiden sich ein wenig von anderen Filtern und Triggern.
 

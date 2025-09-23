@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359644
 description: Benutzerdefiniertes HTML-Formular für Bekannte Personen anzeigen - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefiniertes HTML-Formular für Bekannte Personen anzeigen
+title: Anzeigen eines benutzerdefinierten HTML-Formulars für bekannte Personen
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Benutzerdefiniertes HTML-Formular für Bekannte Personen anzeigen {#show-custom-html-form-for-known-people}
+# Anzeigen eines benutzerdefinierten HTML-Formulars für bekannte Personen {#show-custom-html-form-for-known-people}
 
 Wenn ein Besucher in der Vergangenheit seinen vollständigen Namen und seine E-Mail-Adresse angegeben hat und Sie nicht möchten, dass er/sie das gesamte Formular erhält, erfahren Sie, wie Sie ihm/ihr einige benutzerdefinierte HTML zeigen (z. B. nur eine Download-Schaltfläche).
 

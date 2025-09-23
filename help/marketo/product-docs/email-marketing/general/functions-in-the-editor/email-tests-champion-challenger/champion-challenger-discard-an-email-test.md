@@ -4,16 +4,16 @@ description: Champion/Challenger - E-Mail-Test verwerfen - Marketo-Dokumente - P
 title: Champion/Challenger - E-Mail-Test verwerfen
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Champion/Challenger: E-Mail-Test verwerfen {#champion-challenger-discard-an-email-test}
+# Champion/Challenger: Verwerfen eines E-Mail-Tests {#champion-challenger-discard-an-email-test}
 
-Wenn Sie zu irgendeinem Zeitpunkt entscheiden, dass Sie den E-Mail-Test nicht fortsetzen möchten, können Sie ihn verwerfen. So geht&#39;s.
+Wenn Sie zu irgendeinem Zeitpunkt entscheiden, dass Sie den E-Mail-Test nicht fortsetzen möchten, können Sie ihn verwerfen. Und so geht das.
 
 >[!PREREQUISITES]
 >

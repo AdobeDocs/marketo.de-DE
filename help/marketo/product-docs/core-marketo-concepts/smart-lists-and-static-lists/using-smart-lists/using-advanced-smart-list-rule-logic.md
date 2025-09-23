@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146901
 description: Verwenden der erweiterten Smart-List-Regellogik - Marketo-Dokumente - Produktdokumentation
-title: Verwenden der erweiterten Regellogik für Smart List
+title: Verwenden der erweiterten Regellogik für intelligente Listen
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Verwenden der erweiterten Regellogik für Smart List {#using-advanced-smart-list-rule-logic}
+# Verwenden der erweiterten Regellogik für intelligente Listen {#using-advanced-smart-list-rule-logic}
 
-Sie können genau die Personen finden, die Sie benötigen, indem Sie die Regellogik der Smart-Liste auf mehrere Filter in einer Smart-Liste anwenden. So geht&#39;s.
+Sie können genau die Personen finden, die Sie benötigen, indem Sie die Regellogik der Smart-Liste auf mehrere Filter in einer Smart-Liste anwenden. Und so geht das.
 
 >[!PREREQUISITES]
 >

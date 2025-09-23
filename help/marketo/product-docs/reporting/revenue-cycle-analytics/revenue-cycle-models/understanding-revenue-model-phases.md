@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718660
 description: Grundlagen zu Umsatzmodellphasen - Marketo-Dokumente - Produktdokumentation
-title: Grundlagen zu Umsatzmodellphasen
+title: Grundlegendes zu Umsatzmodellphasen
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Grundlagen zu Umsatzmodellphasen {#understanding-revenue-model-phases}
+# Grundlegendes zu Umsatzmodellphasen {#understanding-revenue-model-phases}
 
 Phasen sind eine Möglichkeit, eine Reihe von Phasen zu gruppieren. Manchmal spiegeln mehrere Stadien in einem Modell eine Phase eines Trichters wider.
 

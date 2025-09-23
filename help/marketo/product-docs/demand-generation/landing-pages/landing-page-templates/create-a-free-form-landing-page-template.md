@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097969
 description: Erstellen einer Freiform-Landingpage-Vorlage - Marketo-Dokumente - Produktdokumentation
-title: Erstellen einer Freiform-Landingpage-Vorlage
+title: Erstellen einer Vorlage für Freiform-Landingpages
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Erstellen einer Freiform-Landingpage-Vorlage {#create-a-free-form-landing-page-template}
+# Erstellen einer Vorlage für Freiform-Landingpages {#create-a-free-form-landing-page-template}
 
 Freiform-Landingpages erfordern weniger technisches Wissen als deren geführte Gegenstücke. Gehen Sie wie folgt vor, um eine Vorlage für zukünftige Landingpages zu erstellen.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360323
 description: Bearbeiten einer vorhandenen Personenpartition - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten einer vorhandenen Personenpartition
+title: Bearbeiten einer vorhandenen Personen-Partition
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Bearbeiten einer vorhandenen Personenpartition {#edit-an-existing-person-partition}
+# Bearbeiten einer vorhandenen Personen-Partition {#edit-an-existing-person-partition}
 
 Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partition kann mit einem oder mehreren Arbeitsbereichen verbunden werden. So bearbeiten Sie die Partitionsdetails.
 

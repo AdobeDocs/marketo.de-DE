@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360311
 description: Erstellen einer neuen Workspace - Marketo-Dokumente - Produktdokumentation
-title: Erstellen einer neuen Workspace
+title: Erstellen eines neuen Arbeitsbereichs
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Erstellen einer neuen Workspace {#create-a-new-workspace}
+# Erstellen eines neuen Arbeitsbereichs {#create-a-new-workspace}
 
 Arbeitsbereiche sind nützlich, um Ihr Unternehmen zu unterteilen. Gründe für die Einrichtung von Arbeitsbereichen sind:
 

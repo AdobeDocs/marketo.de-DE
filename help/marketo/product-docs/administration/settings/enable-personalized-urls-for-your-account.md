@@ -4,10 +4,10 @@ description: Aktivieren personalisierter URLs für Ihr Konto - Marketo-Dokumente
 title: Aktivieren personalisierter URLs für Ihr Konto
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 4%
+ht-degree: 17%
 
 ---
 

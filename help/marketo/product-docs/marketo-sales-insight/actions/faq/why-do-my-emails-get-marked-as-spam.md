@@ -1,11 +1,11 @@
 ---
-description: Warum werden meine E-Mails als Spam gekennzeichnet? - Marketo-Dokumente - Produktdokumentation
+description: Warum werden meine E-Mails als Spam gekennzeichnet? – Marketo-Dokumente – Produktdokumentation
 title: Warum werden meine E-Mails als Spam gekennzeichnet?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

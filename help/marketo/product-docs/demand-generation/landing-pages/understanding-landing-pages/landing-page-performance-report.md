@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359713
 description: Performance-Bericht der Landingpage - Marketo-Dokumente - Produktdokumentation
-title: Bericht zur Leistung der Landingpage
+title: Leistungsbericht für Landingpage
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Bericht zur Leistung der Landingpage {#landing-page-performance-report}
+# Leistungsbericht für Landingpage {#landing-page-performance-report}
 
 Ermitteln Sie, wie viele Personen die Formulare auf Ihren Landingpages ausgefüllt haben und wie viele davon neu waren.
 

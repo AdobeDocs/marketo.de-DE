@@ -4,10 +4,10 @@ description: Erstellen untergeordneter Kampagnen und lokaler Assets - Marketo-Do
 title: Erstellen untergeordneter Kampagnen und lokaler Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '665'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -64,7 +64,7 @@ Beispiele für untergeordnete Kampagnen sind eine Einladungskampagne, eine Regis
 
 **Anmeldung/Bestätigung (Trigger Campaign)**
 
-* Smart List
+* Intelligente Liste
 * Trigger basierend auf **Formular ausfüllen**. Denken Sie daran, die Landingpage, auf der sich das Formular befindet, mithilfe von **Einschränkung hinzufügen** einzubeziehen, insbesondere wenn dasselbe Formular auf mehreren Landingpages verwendet wird.
 
 >[!CAUTION]

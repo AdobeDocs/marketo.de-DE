@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384653
 description: Inhalt bearbeiten - Marketo-Dokumente - Produktdokumentation
-title: Inhalt bearbeiten
+title: Bearbeiten von Inhalten
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 7%
 
 ---
 
-# Inhalt bearbeiten {#edit-content}
+# Bearbeiten von Inhalten {#edit-content}
 
 Sie können einige Änderungen an Listeneinträgen auf der Seite [!UICONTROL Alle Inhalte] vornehmen.
 

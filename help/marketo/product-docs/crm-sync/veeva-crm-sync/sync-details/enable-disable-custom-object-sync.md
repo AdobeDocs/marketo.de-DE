@@ -1,16 +1,16 @@
 ---
 description: Aktivieren/Deaktivieren der Synchronisierung benutzerdefinierter Objekte - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren
+title: Aktivieren/Deaktivieren der benutzerdefinierten Objektsynchronisierung
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren {#enable-disable-custom-object-sync}
+# Aktivieren/Deaktivieren der benutzerdefinierten Objektsynchronisierung {#enable-disable-custom-object-sync}
 
 Benutzerdefinierte Objekte, die in Ihrer [!DNL Veeva] CRM-Instanz erstellt wurden, können auch Teil von Marketo Engage sein. Gehen Sie wie folgt vor, um sie einzurichten.
 
@@ -70,7 +70,7 @@ Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf **[!UICONTRO
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Ausgezeichnet! Sie können jetzt die Daten dieses benutzerdefinierten Objekts in „Smart[!UICONTROL Kampagnen“ &#x200B;] „Smart[!UICONTROL Listen“ &#x200B;].
+Ausgezeichnet! Sie können jetzt die Daten dieses benutzerdefinierten Objekts in „Smart[!UICONTROL Kampagnen“ ] „Smart[!UICONTROL Listen“ ].
 
 >[!MORELIKETHIS]
 >

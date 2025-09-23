@@ -4,10 +4,10 @@ description: Hinzufügen von Inhalten zu einem Stream - Marketo-Dokumente - Prod
 title: Hinzufügen von Inhalten zu einem Stream
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
@@ -41,7 +41,7 @@ Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalte zu den 
 
 **+-Symbol**
 
-1. Klicken Sie auf das Symbol **+**, wählen Sie **[!UICONTROL E-Mail]** _oder_&#x200B;**[!UICONTROL Programm]** und dann die E-Mail-Adresse oder das Programm/die intelligente Kampagne aus, die Sie hinzufügen möchten.
+1. Klicken Sie auf das Symbol **+**, wählen Sie **[!UICONTROL E-Mail]** _oder_**[!UICONTROL Programm]** und dann die E-Mail-Adresse oder das Programm/die intelligente Kampagne aus, die Sie hinzufügen möchten.
 
    ![](assets/add-content-to-a-stream-5.png)
 

@@ -3,7 +3,7 @@ description: Häufig gestellte Fragen zu Dynamic Chat - Marketo-Dokumente - Prod
 title: Häufig gestellte Fragen zu Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Das Dynamic Chat JavaScript-Snippet kann auf jeder Website sowie auf Landingpage
 
 **Wie lange werden Daten für das Reporting gespeichert?**
 
-90 Tage. Eine vollständige Liste der Grenzwerte/Parameter finden Sie auf der Marketo Engage-[Produktbeschreibungsseite](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 Tage. Eine vollständige Liste der Grenzwerte/Parameter finden Sie auf der Marketo Engage-[Produktbeschreibungsseite](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 **Unterstützt Dynamic Chat neben Englisch auch andere Sprachen?**
 

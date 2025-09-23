@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360055
 description: Bericht, E-Mail, Kampagnenleistung in allen Arbeitsbereichen - Marketo-Dokumente - Produktdokumentation
-title: Bericht, E-Mail, Kampagnenleistung in allen Arbeitsbereichen
+title: Bericht zur E-Mail-Kampagnenleistung in allen Arbeitsbereichen
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Bericht, E-Mail, Kampagnenleistung in allen Arbeitsbereichen {#report-email-campaign-performance-across-workspaces}
+# Bericht zur E-Mail-Kampagnenleistung in allen Arbeitsbereichen {#report-email-campaign-performance-across-workspaces}
 
 Aktivieren Sie die globale Berichterstellung, um Daten aus allen Marketo [Arbeitsbereichen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in Ihre Berichte [E-Mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) und [E-Mail-Link](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) aufzunehmen.
 

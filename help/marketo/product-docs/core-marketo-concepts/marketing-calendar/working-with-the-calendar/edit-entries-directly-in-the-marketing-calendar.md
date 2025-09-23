@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953352
 description: Einträge direkt im Marketing-Kalender bearbeiten - Marketo-Dokumente - Produktdokumentation
-title: Einträge direkt im Marketing-Kalender bearbeiten
+title: Bearbeiten von Einträgen direkt im Marketing-Kalender
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Einträge direkt im Marketing-Kalender bearbeiten {#edit-entries-directly-in-the-marketing-calendar}
+# Bearbeiten von Einträgen direkt im Marketing-Kalender {#edit-entries-directly-in-the-marketing-calendar}
 
-Sobald Sie sich im Programmfokus-Modus befinden, können Sie schnell Änderungen an Kalendereinträgen vornehmen. So geht&#39;s.
+Sobald Sie sich im Programmfokus-Modus befinden, können Sie schnell Änderungen an Kalendereinträgen vornehmen. Und so geht das.
 
 ## Programmfokus aktivieren {#enable-program-focus}
 

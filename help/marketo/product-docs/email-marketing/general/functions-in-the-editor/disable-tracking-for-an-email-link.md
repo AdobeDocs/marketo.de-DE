@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900579
 description: Tracking für einen E-Mail-Link deaktivieren - Marketo-Dokumente - Produktdokumentation
-title: Tracking für einen E-Mail-Link deaktivieren
+title: Deaktivieren des Trackings für einen E-Mail-Link
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Tracking für einen E-Mail-Link deaktivieren {#disable-tracking-for-an-email-link}
+# Deaktivieren des Trackings für einen E-Mail-Link {#disable-tracking-for-an-email-link}
 
 Manchmal möchten Sie die **Marketo-Tracking-URL** nicht für einen Link in einer E-Mail aktivieren. Dies ist nützlich, wenn die Zielseite URL-Parameter nicht unterstützt und zu einem fehlerhaften Link führen kann.
 

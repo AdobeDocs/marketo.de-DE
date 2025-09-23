@@ -3,10 +3,10 @@ description: Erste Schritte mit prädiktiven Zielgruppen - Marketo-Dokumente - P
 title: Erste Schritte mit prädiktiven Zielgruppen
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -30,7 +30,7 @@ Die Leistung der KI-/ML-Modelle hängt von den Daten in Ihrem Abonnement ab. Je 
 
 ## Verfügbarkeit
 
-Predictive Audiences werden automatisch für Instanzen eingeschlossen und aktiviert, die Prime- oder Ultimate-Preispakete verwenden. Um mehr über den Zugriff auf diese Funktion zu erfahren, wenden Sie sich bitte an das Adobe-Account-Team (Ihren Account Manager).
+Predictive Audiences werden automatisch für Instanzen eingeschlossen und aktiviert, die Prime- oder Ultimate-Preispakete verwenden. Weitere Informationen zum Zugriff auf diese Funktion erhalten Sie vom Adobe Account Team (Ihrem Account Manager).
 
 1. Nachdem die Funktion zu Ihrer Instanz hinzugefügt wurde, navigieren Sie zur Seite **[!UICONTROL Predictive Audiences]** im Bereich **[!UICONTROL Admin]** von Marketo.
 

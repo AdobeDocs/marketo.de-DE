@@ -4,16 +4,16 @@ description: Abbrechen des A/B-Tests - Marketo-Dokumente - Produktdokumentation
 title: Abbrechen des A/B-Tests
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 # Abbrechen des A/B-Tests {#cancel-the-a-b-test}
 
-Wenn Sie Ihrem E[Mail-Programm einen A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)Test hinzugefügt haben und entschieden haben, dass Sie ihn nicht mehr benötigen, können Sie ihn einfach rückgängig machen. So geht&#39;s.
+Wenn Sie Ihrem E[Mail-Programm einen A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)Test hinzugefügt haben und entschieden haben, dass Sie ihn nicht mehr benötigen, können Sie ihn einfach rückgängig machen. Und so geht das.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

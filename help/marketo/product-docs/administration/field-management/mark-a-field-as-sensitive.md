@@ -1,16 +1,16 @@
 ---
 description: Markieren eines Felds als sensibel - Marketo-Dokumente - Produktdokumentation
-title: Markieren eines Felds als sensibel
+title: Markieren eines Felds als sensitiv
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Markieren eines Felds als sensibel {#mark-a-field-as-sensitive}
+# Markieren eines Felds als sensitiv {#mark-a-field-as-sensitive}
 
 Als Marketo-Administrator können Sie ein bestimmtes Feld als „sensibel“ markieren, sodass seine Werte nie in Formularen vorausgefüllt werden, wodurch die sensiblen Daten der Benutzenden geschützt werden.
 

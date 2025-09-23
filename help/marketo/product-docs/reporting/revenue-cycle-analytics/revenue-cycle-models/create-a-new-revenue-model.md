@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718656
 description: Erstellen eines neuen Umsatzmodells - Marketo-Dokumente - Produktdokumentation
-title: Neues Umsatzmodell erstellen
+title: Erstellen eines neuen Umsatzmodells
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Neues Umsatzmodell erstellen {#create-a-new-revenue-model}
+# Erstellen eines neuen Umsatzmodells {#create-a-new-revenue-model}
 
 1. Um ein neues Umsatzzyklusmodell zu erstellen, klicken Sie auf die Schaltfläche **[!UICONTROL Analytics]** im Startbildschirm [!UICONTROL My Marketo].
 

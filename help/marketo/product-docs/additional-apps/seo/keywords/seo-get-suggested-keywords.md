@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949202
 description: SEO - Empfohlene Keywords abrufen - Marketo-Dokumente - Produktdokumentation
-title: SEO - Vorschläge für Keywords
+title: SEO – Vorschläge für Keywords
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# SEO - Vorschläge für Keywords {#seo-get-suggested-keywords}
+# SEO – Vorschläge für Keywords {#seo-get-suggested-keywords}
 
 Marketo SEO kann vorschlagen, welche Keywords Sie verfolgen sollten. Wir können Vorschläge basierend auf einem Keyword oder der URL einer Website geben. Probier es mal!
 

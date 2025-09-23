@@ -3,14 +3,14 @@ unique-page-id: 10097199
 description: Versionshinweise - Winter '16 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Winter '16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Versionshinweise: Winter &#39;16 {#release-notes-winter}
+# Versionshinweise – Winter 2016 {#release-notes-winter}
 
 Die folgenden Funktionen sind in der Version Winter &#39;16 enthalten. Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen.
 

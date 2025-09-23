@@ -4,10 +4,10 @@ description: Verbinden Ihres Sales Connect-Kontos mit Salesforce - Marketo-Dokum
 title: Verbinden Ihres Sales Connect-Kontos mit Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 3%
+ht-degree: 13%
 
 ---
 
@@ -21,11 +21,11 @@ Führen Sie diese einfachen Schritte aus, um [!DNL Sales Connect] mit [!DNL Sale
 
    ![](assets/one.png)
 
-1. Klicken Sie unter [!UICONTROL &#x200B; Admin-] auf **[!UICONTROL Salesforce]**.
+1. Klicken Sie unter [!UICONTROL  Admin-] auf **[!UICONTROL Salesforce]**.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
+1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
 
    ![](assets/seven.png)
 
@@ -41,11 +41,11 @@ Führen Sie diese einfachen Schritte aus, um [!DNL Sales Connect] mit [!DNL Sale
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL Salesforce]**.
+1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
+1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
 
    ![](assets/three.png)
 

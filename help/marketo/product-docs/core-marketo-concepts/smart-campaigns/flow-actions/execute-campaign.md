@@ -1,16 +1,16 @@
 ---
 description: Ausführen von Campaign - Marketo-Dokumente - Produktdokumentation
-title: Kampagne ausführen
+title: Ausführen von Kampagne
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 1%
 
 ---
 
-# Kampagne ausführen {#execute-campaign}
+# Ausführen von Kampagne {#execute-campaign}
 
 Eine ausführbare Kampagne enthält wie andere Kampagnen eine Smart List, einen Fluss und einen Zeitplan. Im Gegensatz zu anderen Kampagnen planen oder aktivieren Sie diese nicht. Er kann nur von einer anderen Kampagne über den Schritt Kampagnenfluss ausführen aufgerufen werden. Die Flussschritte in der ausführbaren Kampagne werden in Serie mit der übergeordneten Kampagne ausgeführt (im Gegensatz zu Anfragekampagnen, die parallel in einer separaten Trigger-Kampagne ausgeführt werden).
 
@@ -60,7 +60,7 @@ Bei Festlegung auf „true“ werden die folgenden Token-Kontexte an die unterge
 
 **API-Interaktion**
 
-Bei Verwendung von Kampagne planen oder anfragen [in der API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) können Sie Werte für „Meine Token“ übergeben, wodurch die Werte überschrieben werden, die für diese Token in der von Ihnen aufgerufenen Kampagne festgelegt sind. Wenn diese Kampagne dann eine andere Kampagne ausführt und „Übergeordneten Kontext verwenden auf „True“ setzt, werden die über die API übergebenen Werte anstelle der in der Anwendung festgelegten Werte verwendet.
+Bei Verwendung von Kampagne planen oder anfragen [in der API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) können Sie Werte für „Meine Token“ übergeben, wodurch die Werte überschrieben werden, die für diese Token in der von Ihnen aufgerufenen Kampagne festgelegt sind. Wenn diese Kampagne dann eine andere Kampagne ausführt und „Übergeordneten Kontext verwenden auf „True“ setzt, werden die über die API übergebenen Werte anstelle der in der Anwendung festgelegten Werte verwendet.
 
 ## Zu beachtende Punkte {#things-to-note}
 

@@ -4,10 +4,10 @@ description: 'Dynamisches Umschalten der Sichtbarkeit eines Formularfelds: Marke
 title: Dynamisches Umschalten der Sichtbarkeit eines Formularfelds
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
@@ -45,7 +45,7 @@ Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder
 
    >[!TIP]
    >
-   >Dies ist cool, weil Sie unscharfe Übereinstimmungen wie &quot;[!UICONTROL Beginnt mit“ &#x200B;] können.
+   >Dies ist cool, weil Sie unscharfe Übereinstimmungen wie &quot;[!UICONTROL Beginnt mit“ ] können.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -69,6 +69,6 @@ Und das war&#39;s! Wenn Personen dieses Formular ausfüllen und „USA für Land
 
 >[!IMPORTANT]
 >
->Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte mithilfe von benutzerdefinierten Skripten (API[Funktionen) in Forms 2.0 ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}/aktualisiert werden.
+>Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte mithilfe von benutzerdefinierten Skripten (API[Funktionen) in Forms 2.0 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}/aktualisiert werden.
 >
 >Bedingte Felder funktionieren möglicherweise nicht wie erwartet, wenn Feldwerte durch andere externe Skripte als die Forms 2.0 JavaScript-API geändert werden.

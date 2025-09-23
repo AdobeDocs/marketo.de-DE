@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953364
 description: Programmfokus verstehen/aktivieren - Marketo-Dokumente - Produktdokumentation
-title: Programmfokus verstehen/aktivieren
+title: Verstehen/Aktivieren des Programmfokus
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Programmfokus verstehen/aktivieren {#understand-enable-program-focus}
+# Verstehen/Aktivieren des Programmfokus {#understand-enable-program-focus}
 
 Der Marketing-Kalender bietet eine Übersicht über die Dinge, ermöglicht aber auch einige Interaktionen. Sie können [Erstellen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [Bearbeiten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [Löschen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} und [Bestätigen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}. Um mit Einträgen zu interagieren, müssen Sie sich zuerst auf ein Programm konzentrieren.
 

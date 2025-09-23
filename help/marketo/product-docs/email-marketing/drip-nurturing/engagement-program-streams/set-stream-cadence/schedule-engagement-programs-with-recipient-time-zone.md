@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982909
 description: Planen von Interaktionsprogrammen mit der Zeitzone der Empfängerinnen und Empfänger - Marketo-Dokumente - Produktdokumentation
-title: Planen von Interaktionsprogrammen mit der Zeitzone des Empfängers
+title: Planen von Interaktionsprogrammen mit der Zeitzone der Empfängerin bzw. des Empfängers
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Planen von Interaktionsprogrammen mit der Zeitzone des Empfängers {#schedule-engagement-programs-with-recipient-time-zone}
+# Planen von Interaktionsprogrammen mit der Zeitzone der Empfängerin bzw. des Empfängers {#schedule-engagement-programs-with-recipient-time-zone}
 
 Wenn Sie einen Interaktionsprogramm-Stream planen und die Zeitzone des Empfängers aktiv ist, beginnt die Programmumwandlung um Mitternacht in der ersten Zeitzone (UTC +14) :00. Wir verlangen, dass Sie die erste Besetzung **mindestens 25 Stunden** in der Zukunft planen, da es möglicherweise Personen gibt, die sich für die Besetzung in jeder Zeitzone auf der ganzen Welt qualifizieren. Der Beginn der Verarbeitung zu diesem Zeitpunkt in der ersten Zeitzone garantiert, dass wir die E-Mail zum geplanten Datum und zur geplanten Uhrzeit für jede Empfängerin und jeden Empfänger versenden.
 

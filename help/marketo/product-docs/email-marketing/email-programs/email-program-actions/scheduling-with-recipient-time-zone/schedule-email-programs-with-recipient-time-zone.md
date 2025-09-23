@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982903
 description: Planen von E-Mail-Programmen mit der Zeitzone des Empfängers - Marketo-Dokumente - Produktdokumentation
-title: Planen von E-Mail-Programmen mit Zeitzone des Empfängers
+title: Planen von E-Mail-Programmen mit Zeitzone der Empfängerin bzw. des Empfängers
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '839'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Planen von E-Mail-Programmen mit Zeitzone des Empfängers {#schedule-email-programs-with-recipient-time-zone}
+# Planen von E-Mail-Programmen mit Zeitzone der Empfängerin bzw. des Empfängers {#schedule-email-programs-with-recipient-time-zone}
 
 Wenn ein E-Mail-Programm geplant wird, während die Zeitzone des Empfängers aktiviert ist, gibt es zwei mögliche Szenarien:
 

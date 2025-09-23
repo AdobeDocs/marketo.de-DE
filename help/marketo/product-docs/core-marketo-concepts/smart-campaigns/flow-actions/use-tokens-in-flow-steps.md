@@ -4,10 +4,10 @@ description: Verwenden von Token in Flussschritten - Marketo-Dokumente - Produkt
 title: Verwenden von Token in Flussschritten
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 5%
+ht-degree: 10%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 5%
 Ein Token ist eine Variable. Sie können ihn in E-Mails, Landingpages und intelligenten Kampagnen verwenden, um Ihnen das Leben zu erleichtern. Sie können [Meine Token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (benutzerdefinierte Token) in Flussschritten, Webhooks, E-Mails und Landingpages verwenden. Sie können Token verwenden, um Variableninhalte in diese Flussschritte einzuschließen:
 
 * Datenwert ändern
-* Programmmitgliedsdaten ändern
+* Ändern von Programmmitgliedsdaten
 * Interessanter Moment
 * [!DNL Salesforce] Kampagnenschritte (hinzufügen, entfernen, Status ändern)
-* Aufgabe erstellen
+* Erstellen von Aufgaben
 * Warnhinweis senden (nur in Trigger-Kampagnen)
 
 1. Beginnen Sie im Flussschritt mit der Eingabe von `{{`, um Token-Kategorien abzurufen.

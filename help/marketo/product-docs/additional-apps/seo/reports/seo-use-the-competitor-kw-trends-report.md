@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949270
 description: SEO - Bericht zu KW-Trends des Mitbewerbers verwenden - Marketo-Dokumente - Produktdokumentation
-title: SEO - Bericht zu den KW-Trends der Konkurrenz verwenden
+title: SEO – Verwenden eines Berichts zu Keyword-Trends der Konkurrenz
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# SEO - Bericht zu den KW-Trends der Konkurrenz verwenden {#seo-use-the-competitor-kw-trends-report}
+# SEO – Verwenden eines Berichts zu Keyword-Trends der Konkurrenz {#seo-use-the-competitor-kw-trends-report}
 
 In diesem Bericht können Sie sehen, wie Sie und Ihre Konkurrenten im Laufe der Zeit in Keywords eingestuft werden.
 
@@ -35,7 +35,7 @@ Dieses Diagramm zeigt Ihnen, welcher Prozentsatz Ihrer Keywords in einem bestimm
 |---|---|
 | [!UICONTROL Schlüsselwörter] | Die Anzahl der Keywords, die Sie verfolgen. |
 | [!UICONTROL Rang-URLs] | Die Anzahl der URLs auf Ihrer Website, die in dem von Ihnen festgelegten Bereich nach Rang geordnet sind. |
-| [!UICONTROL &#x200B; % im Rang] | Der Prozentsatz der Keywords für die Rangfolge in dem von Ihnen festgelegten Bereich. |
+| [!UICONTROL  % im Rang] | Der Prozentsatz der Keywords für die Rangfolge in dem von Ihnen festgelegten Bereich. |
 | [!UICONTROL Durchschnitt Suchen] | Die durchschnittliche Anzahl der Suchen nach diesen Keywords, die während des von Ihnen festgelegten Bereichs stattgefunden haben (in den letzten 30 Tagen bei der Google US-Suche) |
 
 ## Filtern von Daten {#filtering-data}

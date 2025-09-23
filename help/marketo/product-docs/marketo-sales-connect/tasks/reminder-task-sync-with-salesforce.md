@@ -1,12 +1,12 @@
 ---
 description: Erinnerungsaufgabe - Synchronisieren mit Salesforce - Marketo-Dokumente - Produktdokumentation
-title: Erinnerungsaufgabe - Synchronisieren mit Salesforce
+title: Synchronisieren von Erinnerungsaufgaben mit Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '508'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -44,8 +44,8 @@ Nachstehend finden Sie eine Liste der Erinnerungsaufgabenfelder in [!DNL Sales C
   <p>Die anderen Statuswerte in [!DNL Salesforce] werden nicht mit [!DNL Sales Connect] synchronisiert.</p></td>
  </tr>
  <tr>
-  <td>[!UICONTROL -Priorität]</td>
-  <td>[!UICONTROL -Priorität]</td>
+  <td>[!UICONTROL-Priorität]</td>
+  <td>[!UICONTROL-Priorität]</td>
   <td><p>[!DNL Sales Connect] Die Priorität kann entweder Normal oder Hoch sein, was den Werten mit normaler und hoher Priorität in [!DNL Salesforce] entspricht.</p>
   <p>Der Wert für die niedrige Priorität in [!DNL Salesforce] wird nicht mit [!DNL Sales Connect] synchronisiert.</p></td>
  </tr>

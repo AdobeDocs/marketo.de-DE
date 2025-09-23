@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949208
 description: SEO - Filtern von Keyword-Ergebnissen - Marketo-Dokumente - Produktdokumentation
-title: SEO - Keyword-Ergebnisse filtern
+title: SEO – Filtern von Keyword-Ergebnissen
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# SEO - Keyword-Ergebnisse filtern {#seo-filter-keyword-results}
+# SEO – Filtern von Keyword-Ergebnissen {#seo-filter-keyword-results}
 
 Sie haben vielleicht viele [Keywords](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Im Folgenden finden Sie verschiedene Möglichkeiten, sie zu filtern:
 

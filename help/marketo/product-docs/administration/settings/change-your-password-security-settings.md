@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360185
 description: Ändern der Kennwortsicherheitseinstellungen - Marketo-Dokumente - Produktdokumentation
-title: Ändern der Kennwortsicherheitseinstellungen
+title: Ändern der Einstellungen für Kennwortsicherheit
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Ändern der Kennwortsicherheitseinstellungen {#change-your-password-security-settings}
+# Ändern der Einstellungen für Kennwortsicherheit {#change-your-password-security-settings}
 
-Steuern Sie die Passwortrichtlinie Ihres Abonnements. So geht&#39;s.
+Steuern Sie die Passwortrichtlinie Ihres Abonnements. Und so geht das.
 
 >[!NOTE]
 >

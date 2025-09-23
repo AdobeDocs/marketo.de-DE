@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359947
 description: Personen zwischen Interaktionsströmen wechseln - Marketo-Dokumente - Produktdokumentation
-title: Personen zwischen Interaktionsströmen wechseln
+title: Transferieren von Personen zwischen Interaktionsströmen
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Personen zwischen Interaktionsströmen wechseln {#transition-people-between-engagement-streams}
+# Transferieren von Personen zwischen Interaktionsströmen {#transition-people-between-engagement-streams}
 
 Interaktionsprogramme können mehr als einen Stream haben. Wenn Sie [einen Stream hinzufügen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), sollten Sie eine Möglichkeit definieren, wie Personen von einem Stream zum anderen wechseln können. Diese werden **Übergangsregeln“**
 
@@ -31,7 +31,7 @@ Interaktionsprogramme können mehr als einen Stream haben. Wenn Sie [einen Strea
    >
    >Übergangsregeln rufen einen Stream ab. Definieren Sie immer die Regeln für den Stream, in den Sie wechseln möchten.
 
-   Sobald sich das Fenster für die Übergangsregel öffnet, suchen Sie den gewünschten Trigger und ziehen Sie ihn in den entsprechenden Bereich. In diesem Fall möchten wir Personen in das [!UICONTROL Mid-Stadium“ &#x200B;], wenn es zu einer Opportunity hinzugefügt wird.
+   Sobald sich das Fenster für die Übergangsregel öffnet, suchen Sie den gewünschten Trigger und ziehen Sie ihn in den entsprechenden Bereich. In diesem Fall möchten wir Personen in das [!UICONTROL Mid-Stadium“ ], wenn es zu einer Opportunity hinzugefügt wird.
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 

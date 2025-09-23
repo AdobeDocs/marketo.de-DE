@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384634
 description: Die Zusammenfassung prädiktiver Inhalte - Marketo-Dokumente - Produktdokumentation
-title: Die Zusammenfassung des prädiktiven Inhalts
+title: Die Zusammenfassung der prädiktiven Inhalte
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Die Zusammenfassung des prädiktiven Inhalts {#the-predictive-content-summary}
+# Die Zusammenfassung der prädiktiven Inhalte {#the-predictive-content-summary}
 
 Die Zusammenfassung des prädiktiven Inhalts zeigt auf einen Blick die Informationen an, die Sie über Ihren prädiktiven Inhalt benötigen - mit Tabellen, Diagrammen und aktuellen Zahlen.
 

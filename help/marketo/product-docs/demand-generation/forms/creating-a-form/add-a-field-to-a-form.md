@@ -4,16 +4,16 @@ description: Hinzufügen eines Felds zu einem Formular - Marketo-Dokumente - Pro
 title: Hinzufügen eines Felds zu einem Formular
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 92bc76d7538d24fabe7c3c69d7a4988b543edd39
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
 # Hinzufügen eines Felds zu einem Formular {#add-a-field-to-a-form}
 
-Nachdem Sie [Formular erstellt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} und [Design ausgewählt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"} können Sie zusätzliche Felder hinzufügen, die von Benutzern ausgefüllt werden können. So geht&#39;s.
+Nachdem Sie [Formular erstellt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} und [Design ausgewählt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"} können Sie zusätzliche Felder hinzufügen, die von Benutzern ausgefüllt werden können. Und so geht das.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

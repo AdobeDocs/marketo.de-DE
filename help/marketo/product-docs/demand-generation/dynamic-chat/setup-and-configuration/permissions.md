@@ -3,20 +3,20 @@ description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Berechtigungen
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '712'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
 # Berechtigungen {#permissions}
 
-Es gibt fünf Standardprofile mit vordefinierten Berechtigungen, die Sie im Dynamic Chat bearbeiten können. Sie können auch ein benutzerdefiniertes Profil mit einem benutzerdefinierten Berechtigungssatz erstellen. Lasst uns über beide gehen.
+Es gibt fünf Standardprofile mit vordefinierten Berechtigungen, die Sie in Dynamic Chat bearbeiten können. Sie können auch ein benutzerdefiniertes Profil mit einem benutzerdefinierten Berechtigungssatz erstellen. Lasst uns über beide gehen.
 
 ## Bearbeiten vorhandener Berechtigungen {#edit-existing-permissions}
 
-1. Adobe Admin Console Klicken Sie in der [&#128279;](https://adminconsole.adobe.com/){target="_blank"} auf **Dynamic Chat**.
+1. Klicken Sie in der [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"} auf **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
@@ -44,13 +44,13 @@ Es gibt fünf Standardprofile mit vordefinierten Berechtigungen, die Sie im Dyna
 
    ![](assets/permissions-6.png)
 
-Sie können diesen Vorgang nun für alle anderen Dynamic Chat-Bereiche wiederholen.
+Sie können diesen Vorgang nun für beliebige andere Dynamic Chat-Bereiche wiederholen.
 
 ![](assets/permissions-7.png)
 
 ## Profil erstellen {#create-a-profile}
 
-1. Adobe Admin Console Klicken Sie in der [&#128279;](https://adminconsole.adobe.com/){target="_blank"} auf **Dynamic Chat**.
+1. Klicken Sie in der [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"} auf **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 
@@ -62,7 +62,7 @@ Sie können diesen Vorgang nun für alle anderen Dynamic Chat-Bereiche wiederhol
 
    ![](assets/permissions-10.png)
 
-1. Ihr neues Profil wird auf der Registerkarte Produktprofile angezeigt. Wählen Sie es aus.
+1. Ihr neues Profil wird auf der Registerkarte Produktprofile angezeigt. Wählen Sie sie aus.
 
    ![](assets/permissions-11.png)
 
@@ -84,10 +84,10 @@ Unten finden Sie eine Liste aller verfügbaren Berechtigungen für jeden Bereich
     <td>Unterhaltungsverwaltung</td>
     <td><li>Anzeigen von Dialogfeldern</li>
     <li>Verwalten von Dialogfeldern (Erstellen, Löschen)</li>
-    <li>Publish-Dialogfelder</li>
+    <li>Veröffentlichen von Dialogfeldern</li>
     <li>Gesprächsflüsse anzeigen</li>
     <li>Verwalten von Gesprächsflüssen (Erstellen, Löschen)</li>
-    <li>Publish - Gesprächsflüsse</li></td>
+    <li>Veröffentlichen von Gesprächsflüssen</li></td>
   </tr>
   <tr>
     <td>Live-Chat</td>
@@ -150,16 +150,16 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <td><i>Unterhaltungsverwaltung</i>
     <li>Anzeigen von Dialogfeldern</li>
     <li>Verwalten von Dialogfeldern (Erstellen, Löschen)</li>
-    <li>Publish-Dialogfelder</li>
+    <li>Veröffentlichen von Dialogfeldern</li>
     <li>Gesprächsflüsse anzeigen</li>
     <li>Verwalten von Gesprächsflüssen (Erstellen, Löschen)</li>
-    <li>Publish - Gesprächsflüsse</li>
+    <li>Veröffentlichen von Gesprächsflüssen</li>
     <br>
     <i>Live-Chat</i>
-    <li>Nicht zutreffend</li>
+    <li>k. A.</li>
     <br>
     <i>Meetings</i>
-    <li>Nicht zutreffend</li>
+    <li>k. A.</li>
     <br>
     <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
@@ -167,7 +167,7 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Besprechungsberichte anzeigen</li>
     <br>
     <i>Agenteneinstellungen</i>
-    <li>Nicht zutreffend</li>
+    <li>k. A.</li>
     <br>
     <i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>
@@ -186,7 +186,7 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Meine Unterhaltungen anzeigen</li>
     <br>
     <i>Meetings</i>
-    <li>Nicht zutreffend</li>
+    <li>k. A.</li>
     <br>
     <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
@@ -212,10 +212,10 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Gesprächsflüsse anzeigen</li>
     <br>
     <i>Live-Chat</i>
-    <li>Nicht zutreffend</li>
+    <li>k. A.</li>
     <br>
     <i>Meetings</i>
-    <li>Nicht zutreffend</li>
+    <li>k. A.</li>
     <br>
     <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
@@ -238,16 +238,16 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <td><i>Unterhaltungsverwaltung</i>
     <li>Anzeigen von Dialogfeldern</li>
     <li>Verwalten von Dialogfeldern (Erstellen, Löschen)</li>
-    <li>Publish-Dialogfelder</li>
+    <li>Veröffentlichen von Dialogfeldern</li>
     <li>Gesprächsflüsse anzeigen</li>
     <li>Verwalten von Gesprächsflüssen (Erstellen, Löschen)</li>
-    <li>Publish - Gesprächsflüsse</li>
+    <li>Veröffentlichen von Gesprächsflüssen</li>
     <br>
     <i>Live-Chat</i>
-    <li>Nicht zutreffend</li>
+    <li>k. A.</li>
     <br>
     <i>Meetings</i>
-    <li>Nicht zutreffend</li>
+    <li>k. A.</li>
     <br>
     <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
@@ -256,7 +256,7 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Berichte exportieren</li>
     <br>
     <i>Agenteneinstellungen</i>
-    <li>Nicht zutreffend</li>
+    <li>k. A.</li>
     <br>
     <i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>

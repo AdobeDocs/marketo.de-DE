@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384433
 description: Einrichten des Account-Teams - Marketo-Dokumente - Produktdokumentation
-title: Konto-Team-Setup
+title: Einrichtung des Konten-Teams
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Konto-Team-Setup {#account-team-setup}
+# Einrichtung des Konten-Teams {#account-team-setup}
 
 Ein Account-Team ist eine Gruppe von Stakeholdern, die gemeinsam an einem benannten Account arbeiten. Führen Sie die folgenden Schritte aus, um festzulegen, welche CRM-Kontorollen hinzugefügt werden sollen.
 
@@ -37,7 +37,7 @@ Ein Account-Team ist eine Gruppe von Stakeholdern, die gemeinsam an einem benann
 
    >[!NOTE]
    >
-   >Sie können keinen [!UICONTROL Kontoinhaber“ &#x200B;]. Sie wird standardmäßig auf der Kontoebene in Ihrem CRM ausgewählt.
+   >Sie können keinen [!UICONTROL Kontoinhaber“ ]. Sie wird standardmäßig auf der Kontoebene in Ihrem CRM ausgewählt.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

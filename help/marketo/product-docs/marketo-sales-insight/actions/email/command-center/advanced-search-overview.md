@@ -1,16 +1,16 @@
 ---
 description: Übersicht über die erweiterte Suche - Marketo-Dokumente - Produktdokumentation
-title: Erweiterte Suche - Übersicht
+title: Erweiterte Suche – Überblick
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Erweiterte Suche - Übersicht {#advanced-search-overview}
+# Erweiterte Suche – Überblick {#advanced-search-overview}
 
 Mithilfe der erweiterten Suche können Sie eine Liste Ihrer aktivsten potenziellen Kunden erstellen, die E-Mails angesehen, angeklickt oder beantwortet haben.
 
@@ -67,7 +67,7 @@ Filtern Sie nach E-Mail-Empfänger/Absender im Abschnitt [!UICONTROL Wer].
 
 **Wenn**
 
-Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status ([!UICONTROL Gesendet], [!UICONTROL Nicht &#x200B;], [!UICONTROL Ausstehend]).
+Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status ([!UICONTROL Gesendet], [!UICONTROL Nicht ], [!UICONTROL Ausstehend]).
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -83,13 +83,13 @@ Es gibt drei E-Mail-Status zur Auswahl. Die Typ-/Aktivitätsoptionen ändern sic
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Status: gesendet**&#x200B;_
+_**Status: gesendet**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtert nach der Aktivität „Gesendete E-Mails“. Sie können [!UICONTROL Ansichten]/[!UICONTROL keine Ansichten], [!UICONTROL Klicks]/[!UICONTROL keine Klicks] und/oder [!UICONTROL Antworten]/[!UICONTROL keine Antworten].
 
-_&#x200B;**Status: Ausstehend**&#x200B;_
+_**Status: Ausstehend**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtert nach allen ausstehenden E-Mails.
  </tr>
 </table>
 
-_&#x200B;**Status: Nicht zugestellt**&#x200B;_
+_**Status: Nicht zugestellt**_
 
 ![](assets/advanced-search-overview-12.png)
 

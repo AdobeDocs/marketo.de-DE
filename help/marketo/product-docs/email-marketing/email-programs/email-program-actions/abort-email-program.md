@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504840
 description: Abbruch-E-Mail-Programm - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Programm schließen
+title: Schließen von E-Mail-Programm
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 7%
 
 ---
 
-# E-Mail-Programm schließen {#abort-email-program}
+# Schließen von E-Mail-Programm {#abort-email-program}
 
 Entschuldigung! Tretet auf die Bremse! Dieses E-Mail-Programm sollte nicht ausgehen.
 

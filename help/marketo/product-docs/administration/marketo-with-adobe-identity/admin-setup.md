@@ -3,24 +3,24 @@ description: Admin-Setup - Marketo-Dokumente - Produktdokumentation
 title: Admin-Setup
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
 # Admin-Setup {#admin-setup}
 
-Nachdem Sie als Adobe-Systemadministrator zum Marketo Engage in einer Adobe-Organisation hinzugefügt wurden, müssen Sie einige Schritte ausführen, um die Ersteinrichtung abzuschließen.
+Nachdem Sie als Adobe-Systemadministrator zu Marketo Engage in einer Adobe-Organisation hinzugefügt wurden, müssen Sie einige Schritte ausführen, um die Ersteinrichtung abzuschließen.
 
 ## Ersteinrichtung {#initial-setup}
 
-1. Nachdem Sie als designierter Systemadministrator für das Marketo Engage hinzugefügt wurden (in einer neuen oder etablierten Organisation), erhalten Sie eine Begrüßungs-E-Mail. Klicken Sie in dieser E-Mail auf **[!UICONTROL Erste Schritte]**.
+1. Nachdem Sie als designierter Systemadministrator für Marketo Engage hinzugefügt wurden (in einer neuen oder etablierten Organisation), erhalten Sie eine Begrüßungs-E-Mail. Klicken Sie in dieser E-Mail auf **[!UICONTROL Erste Schritte]**.
 
    ![](assets/admin-setup-1.png)
 
-1. Wenn Sie zuvor bereits auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zur Adobe Admin Console. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Wenn Sie zuvor bereits auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zur Adobe Admin Console. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
@@ -28,7 +28,7 @@ Nachdem Sie als Adobe-Systemadministrator zum Marketo Engage in einer Adobe-Orga
 
 Nachdem der Systemadministrator auf die Admin Console zugegriffen hat, ist es an der Zeit, ein Produktprofil zu erstellen. Auf diese Weise erhalten Ihre Benutzer/Administratoren Zugriff auf Marketo Engage.
 
-1. Klicken Sie auf der **[!UICONTROL Übersicht]** unter **[!UICONTROL Produkte und]** Services auf **Marketo Engage**.
+1. Klicken Sie auf **[!UICONTROL Seite]**&#x200B;Übersicht“ unter **[!UICONTROL Produkte und]** Services auf **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 

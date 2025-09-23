@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385057
 description: Einrichten von Kategorien - Marketo-Dokumente - Produktdokumentation
-title: Kategorien einrichten
+title: Einrichten von Kategorien
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Kategorien einrichten {#set-up-categories}
+# Einrichten von Kategorien {#set-up-categories}
 
 Erstellen Sie Kategorien in prädiktiven Inhalten, um Ihre prädiktiven Ergebnisse im Web oder in E-Mails zu gruppieren. Sie können beispielsweise nur mit Blogs oder mit Inhalten in einer bestimmten Sprache arbeiten. Außerdem können Sie damit Ihre Seitenansicht durchsuchen und filtern.  Kategorien werden auf den Seiten [!UICONTROL Alle Inhalte] und [!UICONTROL Prädiktiver Inhalt] angezeigt.
 

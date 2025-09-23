@@ -1,16 +1,16 @@
 ---
 description: Übersicht über das Command Center - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über das Command Center
+title: Kommandozentrale – Überblick
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Übersicht über das Command Center {#command-center-overview}
+# Kommandozentrale – Überblick {#command-center-overview}
 
 Das [!UICONTROL Command Center] ist eine einheitliche Ansicht, die Ihnen hilft, Ihren nächsten Schritt zu finden und gleichzeitig sicherzustellen, dass nichts durch die Ritzen fällt.
 
@@ -43,7 +43,7 @@ Der Abschnitt E-Mail bietet Ihnen einen Überblick über alle Ihre E-Mails und v
   <td>E-Mails, die derzeit für den Versand geplant sind. Sobald eine E-Mail gesendet wurde, wird sie in den Ordner für zugestellte Nachrichten verschoben.</td>
  </tr>
  <tr>
-  <td>[!UICONTROL -Entwurf]</td>
+  <td>[!UICONTROL-Entwurf]</td>
   <td>Als Entwurf gespeicherte E-Mails.<br/>
   <strong>Hinweis</strong>: Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden sowie Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</td>
  </tr>
@@ -86,5 +86,5 @@ Bonus: Wenn Sie Ihre erweiterte Suche speichern, funktioniert sie als dynamische
 >[!MORELIKETHIS]
 >
 >* Aufgaben
->* Erweiterte Suche - Übersicht
+>* Erweiterte Suche – Überblick
 >* Erstellen von Massen-E-Mails mit Auswählen und Senden

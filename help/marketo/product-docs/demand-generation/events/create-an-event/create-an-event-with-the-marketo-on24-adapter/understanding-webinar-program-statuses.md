@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096681
 description: Grundlegendes zum Webinar-Programmstatus - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zum Webinar-Programmstatus
+title: Grundlegendes zu Webinar-Programmstatus
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Grundlegendes zum Webinar-Programmstatus {#understanding-webinar-program-statuses}
+# Grundlegendes zu Webinar-Programmstatus {#understanding-webinar-program-statuses}
 
 Programmstatus stellen die verschiedenen Ereignisstatus dar, die eine Person als Mitglied des Ereignisses durchläuft. Sie sind mit einem Kanaltyp verknüpft. Marketo verfügt über einen integrierten Kanaltyp mit dem Namen **Webinar**. Status können sowohl in Batch- als auch in Trigger-Kampagnen verwendet werden.
 

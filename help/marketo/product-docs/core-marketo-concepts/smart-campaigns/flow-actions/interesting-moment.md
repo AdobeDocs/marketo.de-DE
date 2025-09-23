@@ -4,7 +4,7 @@ description: Interessanter Moment - Marketo-Dokumente - Produktdokumentation
 title: Interessanter Moment
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 4%
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Interessanter Moment {#interesting-moment}
 
-Wenn Sie über Marketo Sales Insight verfügen, können Sie den Flussschritt **Interessanter Moment** verwenden, um Ihrem Vertriebsteam Einblicke in die coolen Dinge zu geben, die Ihre Mitarbeiter tun.
+Wenn Sie über Marketo Sales Insight verfügen, können Sie den **Interesting Moment**-Flussschritt verwenden, um Ihrem Vertriebsteam Einblicke in die coolen Dinge zu geben, die Ihre Mitarbeiter tun.
 
 ![](assets/interesting-moment-1.png)
 

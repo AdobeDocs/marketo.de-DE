@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359870
 description: Ermitteln der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei - Marketo-Dokumente - Produktdokumentation
-title: Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei
+title: Suchen der URL eines hochgeladenen Bilds oder einer hochgeladenen Datei
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
-# Suchen der URL eines hochgeladenen Bildes oder einer hochgeladenen Datei {#find-the-url-of-an-uploaded-image-or-file}
+# Suchen der URL eines hochgeladenen Bilds oder einer hochgeladenen Datei {#find-the-url-of-an-uploaded-image-or-file}
 
 Suchen Sie nach der Web-Adresse (URL) eines Bildes oder einer Datei, das/die Sie hochgeladen haben?
 

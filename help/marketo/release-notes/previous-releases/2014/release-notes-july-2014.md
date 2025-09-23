@@ -4,14 +4,14 @@ description: Versionshinweise - Juli 2014 - Marketo-Dokumentation - Produktdokum
 title: Juli 2014 - Versionshinweise
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Versionshinweise: Juli 2014 {#release-notes-july}
+# Versionshinweise – Juli 2014 {#release-notes-july}
 
 Die folgenden Funktionen sind in der Version vom Juli 2014 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Kehren Sie nach der Veröffentlichung wieder zurück, um Links zu detaillierten Funktionsdokumentationen zu erhalten.
 
@@ -31,13 +31,13 @@ Die Dokumentation zum Marketing-Kalender wird zum Zeitpunkt der Veröffentlichun
 
 ## Datumsoperatoren {#date-operators}
 
-[Erweiterte Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) für &quot;[!UICONTROL in der Vergangenheit]&quot;, &quot;[!UICONTROL in der &#x200B;]&quot; und &quot;[!UICONTROL in der Zukunft danach]&quot;. Suchen Sie beispielsweise nach Leads, die in den nächsten 3 Monaten ein Geburtsdatum haben, oder nach einem Vertrag, der nach 6 Monaten abläuft.
+[Erweiterte Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) für &quot;[!UICONTROL in der Vergangenheit]&quot;, &quot;[!UICONTROL in der ]&quot; und &quot;[!UICONTROL in der Zukunft danach]&quot;. Suchen Sie beispielsweise nach Leads, die in den nächsten 3 Monaten ein Geburtsdatum haben, oder nach einem Vertrag, der nach 6 Monaten abläuft.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
 ![](assets/image2014-9-22-14-3a24-3a39.png)
 
-## Ansicht des Programmplans {#program-schedule-view}
+## Ansicht „Programmplanung“ {#program-schedule-view}
 
 Zusätzlich zum Marketing-Kalender können Sie Ihre Ereignisse und Standardprogramme mit einer neuen Zeitplanansicht direkt im Programm verwalten.
 
@@ -47,7 +47,7 @@ Zusätzlich zum Marketing-Kalender können Sie Ihre Ereignisse und Standardprogr
 
 ## Listenvorgänge in der REST-API {#list-operations-in-the-rest-api}
 
-Wir haben die folgenden Aufrufe im Zusammenhang mit Listenvorgängen in ReST hinzugefügt. Die vollständige Dokumentation finden Sie [&#128279;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api) https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api.
+Wir haben die folgenden Aufrufe im Zusammenhang mit Listenvorgängen in ReST hinzugefügt. Die vollständige Dokumentation finden Sie [ ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api)https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api.
 
 * Liste nach ID abrufen
 * Abrufen mehrerer Listen
@@ -78,7 +78,7 @@ Die Seite RTP-Set-[ (enthält jetzt vorgefertigte Vorlagen](/help/marketo/produc
 
 ## RTP: JavaScript API-Verbesserungen {#rtp-javascript-api-enhancements}
 
-Neuer RTP-API-Aufruf, um Echtzeit-Besucherdaten wie Organisation, Branche, Standort und Segment-Code abzugleichen. Darüber hinaus wird beim Bewegen des Mauszeigers über einen Segmentnamen auf der Seite Segmente eine QuickInfo mit dem Segment-Code angezeigt. Die vollständige Dokumentation finden [ auf unserer ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)-Website.
+Neuer RTP-API-Aufruf, um Echtzeit-Besucherdaten wie Organisation, Branche, Standort und Segment-Code abzugleichen. Darüber hinaus wird beim Bewegen des Mauszeigers über einen Segmentnamen auf der Seite Segmente eine QuickInfo mit dem Segment-Code angezeigt. Die vollständige Dokumentation finden [ auf unserer ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)-Website.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

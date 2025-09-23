@@ -1,23 +1,23 @@
 ---
 unique-page-id: 14746143
 description: Freigabeeinstellungen - Marketo-Dokumente - Produktdokumentation
-title: Weitergabe-Einstellungen
+title: Freigabeeinstellungen
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 1%
 
 ---
 
-# Weitergabe-Einstellungen {#sharing-settings}
+# Freigabeeinstellungen {#sharing-settings}
 
 Verwalten Sie Ihre Vorlagen besser, indem Sie einschränken, was Benutzende mit welchen Kategorien teilen können.
 
 ![](assets/main.png)
 
-Bei der ersten Erstellung Ihres Sales Connect-Kontos [!UICONTROL &#x200B; die Freigabeeinstellungen &#x200B;] aktiviert. Dadurch haben Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor sie die Schleusentore öffnen, und Benutzern die Freigabe von Inhalten in Ihren Team-Kategorien zu ermöglichen.
+Bei der ersten Erstellung Ihres Sales Connect-Kontos [!UICONTROL  die Freigabeeinstellungen ] aktiviert. Dadurch haben Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor sie die Schleusentore öffnen, und Benutzern die Freigabe von Inhalten in Ihren Team-Kategorien zu ermöglichen.
 
 Wenn [!UICONTROL Freigabeeinstellungen] aktiviert sind, können nur Administratoren Inhalte in Kategorien freigeben, es sei denn, einem Team oder allen Benutzern werden Freigabeberechtigungen gewährt. Wenn [!UICONTROL Freigabeeinstellungen] deaktiviert ist, gibt es keine Einschränkungen und alle Benutzer können Inhalte für beliebige Vorlagenkategorien freigeben.
 
@@ -27,7 +27,7 @@ Wenn [!UICONTROL Freigabeeinstellungen] aktiviert sind, können nur Administrato
 
    ![](assets/one-2.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Zugriff freigeben]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Zugriff freigeben]** aus.
 
    ![](assets/two-2.png)
 

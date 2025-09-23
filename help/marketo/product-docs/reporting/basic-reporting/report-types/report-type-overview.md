@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359965
 description: Übersicht über Berichtstypen - Marketo-Dokumente - Produktdokumentation
-title: Berichtstyp - Übersicht
+title: Überblick über Berichtstypen
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 11%
+ht-degree: 21%
 
 ---
 
-# Berichtstyp - Übersicht {#report-type-overview}
+# Überblick über Berichtstypen {#report-type-overview}
 
 Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) wählen Sie den gewünschten Berichtstyp aus.
 
@@ -26,7 +26,7 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
  </thead>
  <tbody>
   <tr>
-   <td><strong><a href="people-performance-report.md">People Performance Report</a></strong></td>
+   <td><strong><a href="people-performance-report.md">Personenleistungsbericht</a></strong></td>
    <td>Personen nach beliebigen Attributen gruppieren und Opportunity-Informationen einschließen. Drilldown und Erkunden.</td>
   </tr>
   <tr>
@@ -46,8 +46,8 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
    <td>Automatische Berichterstellung basierend auf dem Feld Personenstatus .</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Personen nach Umsatz - Stadienbericht</a></strong></td>
-   <td>Grundlegende Berichte für Ihr Umsatzmodell. Siehe <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td>
+   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Bericht zu Personen nach Umsatzphase</a></strong></td>
+   <td>Grundlegende Berichte für Ihr Umsatzmodell. Siehe <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Landing Page-Leistung</a>  </strong></td>
@@ -55,7 +55,7 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programmleistung</a>  </strong></td>
-   <td>Grundlegende Programmmetriken wie Mitglieder und Erfolg. Siehe <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td>
+   <td>Grundlegende Programmmetriken wie Mitglieder und Erfolg. Siehe <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Unternehmens-Webaktivität</a></strong></td>
@@ -66,12 +66,12 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
    <td>Erstellen Sie Berichte über Web-Aktivitäten auf Ihren Landingpages und auf der öffentlichen Website.</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Interaktionsverlauf - Leistungsbericht</a> </strong></td>
-   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td>
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Leistungsbericht für Interaktionsströme</a> </strong></td>
+   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Kampagnen-E-Mail-Leistung</a> </strong></td>
-   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td>
+   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td>
   </tr>
  </tbody>
 </table>

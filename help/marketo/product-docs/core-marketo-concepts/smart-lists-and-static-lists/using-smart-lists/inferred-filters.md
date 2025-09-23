@@ -4,22 +4,22 @@ description: Abgeleitete Filter - Marketo-Dokumente - Produktdokumentation
 title: Abgeleitete Filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Abgeleitete Filter {#inferred-filters}
 
-Wenn jemand Ihre Website besucht, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von Informationen ab.
+Wenn jemand Ihre Website besucht, [ ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von Informationen ab.
 
 >[!NOTE]
 >
 >Um sicherzustellen, dass die abgeleiteten Feldwerte auf dem neuesten Stand bleiben, aktualisieren wir regelmäßig die Datenbank, die für die Suche nach IP-Adressen verwendet wird. Datenbankaktualisierungen können neue abgeleitete Feldwerte einführen, die Sie ggf. den Filterdefinitionen für die Smart-Liste hinzufügen müssen.
 >
->Datenbankaktualisierungen können während einer [Marketo Engage-Produktversion erfolgen](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Wenn eine Aktualisierung erfolgt, enthalten die [Marketo Engage-Versionshinweise](/help/marketo/release-notes/current.md){target="_blank"} eine Erläuterung aller Änderungen an abgeleiteten Feldwerten.
+>Datenbankaktualisierungen können während einer [Marketo Engage-Produktversion erfolgen](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Wenn eine Aktualisierung erfolgt, enthalten die [Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"}Versionshinweise eine Erläuterung aller Änderungen an abgeleiteten Feldwerten.
 
 ![](assets/inferred-filters-1.png)
 

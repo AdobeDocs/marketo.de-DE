@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14745611
 description: Hinzufügen zur Marketing-Kampagne - Marketo-Dokumente - Produktdokumentation
-title: Zur Marketing-Kampagne hinzufügen
+title: Hinzufügen zu Marketing-Kampagne
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Zur Marketing-Kampagne hinzufügen {#add-to-marketing-campaign}
+# Hinzufügen zu Marketing-Kampagne {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
 >
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Meine &#x200B;]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
+1. Wählen [!UICONTROL  unter „Meine ]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
 
    ![](assets/eleven.png)
 

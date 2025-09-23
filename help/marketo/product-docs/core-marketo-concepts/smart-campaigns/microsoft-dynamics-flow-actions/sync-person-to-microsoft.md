@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514027
 description: Person mit Microsoft synchronisieren - Marketo-Dokumente - Produktdokumentation
-title: Personen mit Microsoft synchronisieren
+title: Synchronisieren von Personen mit Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 13%
 
 ---
 
-# Personen mit Microsoft synchronisieren {#sync-person-to-microsoft}
+# Synchronisieren von Personen mit Microsoft {#sync-person-to-microsoft}
 
 Diese Funktion ist nur für diejenigen verfügbar, die Marketo Engage mit [!DNL Microsoft Dynamics] integrieren.
 

@@ -4,14 +4,14 @@ description: Versionshinweise - 19. Juni - Marketo-Dokumente - Produktdokumentat
 title: Versionshinweise - Juni '19
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Versionshinweise: Juni &#39;19 {#release-notes-june}
+# Versionshinweise – Juni 2019 {#release-notes-june}
 
 Die folgenden Funktionen sind in der Version vom Juni 19 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 
@@ -68,4 +68,4 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und b
 * **Drift-Integration**: Erfahren Sie, wie sich Drift-Unterhaltungen auf den Journey Ihres Kunden auswirken. [!DNL Bizible] werden auch E-Mail-Adressen aus Konversationen abrufen, um entweder einen neuen Lead zu erstellen oder den Touchpoint mit einem vorhandenen Lead zu verbinden.
 * **Lokalisierung**: [!DNL Bizible] ist jetzt in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
-_&#x200B;**Webinar zur Produktversion**&#x200B;_ Sehen Sie sich die Aufzeichnung unseres Webinars mit den Versionsinnovationen vom 19. Juni [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.
+_**Webinar zur Produktversion**_ Sehen Sie sich die Aufzeichnung unseres Webinars mit den Versionsinnovationen vom 19. Juni [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.

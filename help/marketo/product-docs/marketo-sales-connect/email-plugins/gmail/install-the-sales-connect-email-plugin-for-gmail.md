@@ -4,10 +4,10 @@ description: Installieren des Sales Connect E-Mail-Plug-ins für Gmail - Marketo
 title: Installieren des Sales Connect E-Mail-Plug-ins für Gmail
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
@@ -17,7 +17,7 @@ Erfahren Sie, wie Sie das Gmail-Plug-in installieren.
 
 >[!IMPORTANT]
 >
->Die E-Mail-Plug-ins für Gmail und Outlook werden nur für Benutzende von Marketo Sales Connect unterstützt. Sie werden **Benutzenden** Sales Insight-Aktionen nicht unterstützt.
+>Die E-Mail-Plug-ins für Gmail und Outlook werden nur für Benutzende von Marketo Sales Connect unterstützt. Sie werden **nicht** für Benutzende von Sales Insight Actions unterstützt.
 
 1. Klicken Sie in [Web-](https://toutapp.com/next#settings)) auf das Zahnradsymbol und dann auf **[!UICONTROL Einstellungen]**.
 

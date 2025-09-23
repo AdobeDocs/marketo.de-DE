@@ -4,10 +4,10 @@ description: Grundlegendes zu Programmen - Marketo-Dokumente - Produktdokumentat
 title: Grundlegendes zu Programmen
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 11%
+ht-degree: 14%
 
 ---
 
@@ -17,11 +17,11 @@ Programme stellen eine einzelne Marketing-Initiative dar. Sie können sich dies 
 
 Es gibt vier Arten von Programmen:
 
-## Veranstaltungsprogramme {#event-programs}
+## Ereignisprogramme {#event-programs}
 
 **[Ereignisse](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}** haben eine bestimmte Uhrzeit und ein bestimmtes Datum. Sie helfen Ihnen bei der Koordinierung, Erleichterung und Verfolgung Ihrer Live- und Online-Events.
 
-## Engagementprogramme {#engagement-programs}
+## Interaktionsprogramme {#engagement-programs}
 
 **[Tropfpflege](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}** wird verwendet, um Menschen nach einem festgelegten periodischen Zeitplan zu pflegen.
 

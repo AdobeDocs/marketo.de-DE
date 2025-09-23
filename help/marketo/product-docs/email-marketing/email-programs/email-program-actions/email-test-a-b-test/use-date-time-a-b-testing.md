@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359520
 description: Verwenden von „Datum/Uhrzeit“-A/B-Tests - Marketo-Dokumente - Produktdokumentation
-title: Verwenden von „Datum/Uhrzeit“-A/B-Tests
+title: Verwenden von A/B-Tests nach Datum/Uhrzeit
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Verwenden von „Datum/Uhrzeit“-A/B-Tests {#use-date-time-a-b-testing}
+# Verwenden von A/B-Tests nach Datum/Uhrzeit {#use-date-time-a-b-testing}
 
 Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Ein Test ist der **[!UICONTROL Datum/Uhrzeit]**-Test. Dadurch wird getestet, zu welcher Tageszeit oder an welchem Wochentag E-Mails am besten gesendet werden. So richten Sie es ein.
 

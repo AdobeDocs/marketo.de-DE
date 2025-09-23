@@ -1,16 +1,16 @@
 ---
 description: Glossar zur Vertriebsaktivität - Marketo-Dokumente - Produktdokumentation
-title: Glossar zur Verkaufsaktivität
+title: Glossar zu Verkaufsaktivitäten
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Glossar zur Verkaufsaktivität {#sales-activity-glossary}
+# Glossar zu Verkaufsaktivitäten {#sales-activity-glossary}
 
 Wenn in Sales Connect ein Verkäufer: einen Lead zu einer Verkaufskadenz hinzufügt, ihm eine E-Mail sendet oder einen Aufruf zu einer Aktivität ausführt, wird dies unter dem Aktivitätsverlauf von Marketo protokolliert. Wenn der Lead mit E-Mails interagiert, werden außerdem Öffnungen, Klicks und Antworten protokolliert.
 
@@ -44,7 +44,7 @@ Die folgenden Aktivitäten werden von [!DNL Sales Connect] an Marketo protokolli
   <td>[!UICONTROL Verkaufskampagne] URL</td>
  </tr>
  <tr>
-  <td>Name der [!UICONTROL -Verkaufsvorlage]</td>
+  <td>Name der [!UICONTROL-Verkaufsvorlage]</td>
  </tr>
  <tr>
   <td>[!UICONTROL E-Mail-Betreff]</td>

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4719297
 description: Aktivieren/Deaktivieren der Synchronisierung benutzerdefinierter Objekte - Marketo-Dokumente - Produktdokumentation
-title: Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren
+title: Aktivieren/Deaktivieren der benutzerdefinierten Objektsynchronisierung
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren {#enable-disable-custom-object-sync}
+# Aktivieren/Deaktivieren der benutzerdefinierten Objektsynchronisierung {#enable-disable-custom-object-sync}
 
 Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, können auch Teil von Marketo Engage sein. So richten Sie es ein.
 
-## Benutzerdefinierte Objektsynchronisierung aktivieren/deaktivieren {#enable-disable-custom-object-sync-1}
+## Aktivieren/Deaktivieren der benutzerdefinierten Objektsynchronisierung {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >

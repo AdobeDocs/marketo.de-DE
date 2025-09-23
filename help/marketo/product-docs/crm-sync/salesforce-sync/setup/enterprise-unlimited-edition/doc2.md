@@ -4,14 +4,14 @@ title: 'Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Ente
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Schritt 2 von 3: Erstellen von Salesforce-Benutzenden für Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >

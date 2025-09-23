@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2953120
 description: Grundlegendes zu Smart Campaign - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zu Smart-Kampagnen
+title: Grundlegendes zu intelligenten Kampagnen
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
-# Grundlegendes zu Smart-Kampagnen {#understanding-smart-campaigns}
+# Grundlegendes zu intelligenten Kampagnen {#understanding-smart-campaigns}
 
 Wenn Sie sich Marketo Engage als ein Auto vorstellen, ist die Smart-Kampagne der Motor. Smart-Kampagnen bieten mehr Möglichkeiten, als Sie sich vorstellen können, und es ist ganz einfach, sie zu nutzen.
 
 Die intelligente Kampagne umfasst drei Hauptbereiche: die Registerkarten [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} und [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 
-## Smart List {#smart-list}
+## Intelligente Liste {#smart-list}
 
 Mit der Smart-Liste definieren Sie, _wer_ mit Ihrer Smart-Kampagne angesprochen werden soll. Es hat Filter und Trigger.
 

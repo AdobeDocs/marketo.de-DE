@@ -3,16 +3,16 @@ description: Oktober 2021 - Marketo-Dokumentation - Produktdokumentation
 title: Oktober 2021 – Versionshinweise
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1090'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Versionshinweise: Oktober 2021 {#release-notes-oct-21}
+# Versionshinweise – Oktober 2021 {#release-notes-oct-21}
 
-Die folgenden Funktionen sind in der Version vom Oktober 2021 enthalten. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Die folgenden Funktionen sind in der Version vom Oktober 2021 enthalten. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
@@ -52,7 +52,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **[!DNL Sales Insight]für [!DNL Microsoft Dynamics 365] Sales**
 
-* **[!UICONTROL Best Bets] Verbesserungen**: Die Registerkarte [!UICONTROL Best &#x200B;] in [!DNL Sales Insight] bietet eine Echtzeitansicht der wichtigsten Kontakte und Leads, die nach Qualität und Dringlichkeit priorisiert sind. Wir haben Vertriebsmitarbeitern die Möglichkeit eröffnet, Aktionen durchzuführen, wie zum Beispiel: den Punktestand einer Person zu überprüfen, eine E-Mail zu senden oder Interessenten direkt von der [!DNL Best Bets] aus zu bestimmten Marketo Engage-Kampagnen hinzuzufügen, was die Effizienz erhöht und die Reaktionszeit beschleunigt.
+* **[!UICONTROL Best Bets] Verbesserungen**: Die Registerkarte [!UICONTROL Best ] in [!DNL Sales Insight] bietet eine Echtzeitansicht der wichtigsten Kontakte und Leads, die nach Qualität und Dringlichkeit priorisiert sind. Wir haben Vertriebsmitarbeitern die Möglichkeit eröffnet, Aktionen durchzuführen, wie zum Beispiel: den Punktestand einer Person zu überprüfen, eine E-Mail zu senden oder Interessenten direkt von der [!DNL Best Bets] aus zu bestimmten Marketo Engage-Kampagnen hinzuzufügen, was die Effizienz erhöht und die Reaktionszeit beschleunigt.
 
 * **Neue E-Mail-, Web-Aktivitäts-, anonyme Web-Aktivitäts-Dashboards**: Wir haben die neuen Vertriebs-Dashboards hinzugefügt, um Verkäufer über die neuesten E-Mail- und Web-Aktivitäten ihrer Leads und Kontakte zu informieren. Mit der neuen Filterfunktion bieten die Dashboards jetzt insight in E-Mail-Öffnungen, Klicks und Web-Seitenbesuche für die vollständige Liste der Konten oder ein bestimmtes Konto. Marketo Engage verfolgt alle Web-Aktivitäten und stellt dem Vertrieb wichtige Informationen bereit, sodass anonymer Traffic zu Leads wird. Verkäufer können Interaktionen personalisieren und Leads schneller in Verkäufe umwandeln, da sie besser über das Lead-Verhalten informiert sind und basierend auf der Relevanz aller Touchpoints handeln.
 

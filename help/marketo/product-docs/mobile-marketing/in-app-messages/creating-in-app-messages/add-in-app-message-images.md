@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100636
 description: Hinzufügen von In-App-Nachrichtenbildern - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen von In-App-Nachrichtenbildern
+title: Hinzufügen von Bildern zu In-App-Nachrichten
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '344'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Hinzufügen von In-App-Nachrichtenbildern {#add-in-app-message-images}
+# Hinzufügen von Bildern zu In-App-Nachrichten {#add-in-app-message-images}
 
 Hier können Sie Ihre In-App-Nachrichtenbilder auswählen und anpassen.
 

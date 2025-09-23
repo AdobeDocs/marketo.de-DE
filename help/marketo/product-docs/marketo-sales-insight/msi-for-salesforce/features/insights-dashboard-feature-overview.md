@@ -4,7 +4,7 @@ description: Funktionsübersicht für das Insights-Dashboard - Marketo-Dokumente
 title: Übersicht über die Funktionen des Insights-Dashboards
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1522'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Erfahren Sie mehr über die in Ihrem [!DNL Sales Insights]-Dashboard verfügbare
 **Interaktionsgeschwindigkeitsraster**
 
 * Dieses intelligente Raster enthält interessante Momente, E-Mail- und Web-Aktivitäten in den letzten 90 Tagen
-* Benutzer können die Aktivität &quot;[!UICONTROL &#x200B; Konto anzeigen] auswählen. Dadurch werden alle interessanten Momente, E-Mail- und Web-Aktivitäten auf Kontoebene in der Kontaktansicht überlagert.
+* Benutzer können die Aktivität &quot;[!UICONTROL  Konto anzeigen] auswählen. Dadurch werden alle interessanten Momente, E-Mail- und Web-Aktivitäten auf Kontoebene in der Kontaktansicht überlagert.
 * Benutzer können eine bestimmte Woche markieren, um die Aktivitäten innerhalb dieser Woche anzuzeigen
 * Standardansicht: Aktuelle Woche ist ausgewählt
 

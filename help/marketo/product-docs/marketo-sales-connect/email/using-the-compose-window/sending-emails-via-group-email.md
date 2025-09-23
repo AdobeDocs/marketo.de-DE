@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356584
 description: Senden von E-Mails über Gruppen-E-Mails - Marketo-Dokumente - Produktdokumentation
-title: E-Mails über Gruppen-E-Mails senden
+title: Senden von E-Mails per Gruppen-E-Mail
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# E-Mails über Gruppen-E-Mails senden {#sending-emails-via-group-email}
+# Senden von E-Mails per Gruppen-E-Mail {#sending-emails-via-group-email}
 
 So senden/bearbeiten Sie E-Mails mit der Option Gruppen-E-Mail .
 

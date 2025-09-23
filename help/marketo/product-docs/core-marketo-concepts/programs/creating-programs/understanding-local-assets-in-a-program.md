@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147093
 description: Grundlegendes zur lokalen Assets in einem Programm - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zur lokalen Assets in einem Programm
+title: Grundlegendes zu lokalen Assets in einem Programm
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
-# Grundlegendes zur lokalen Assets in einem Programm {#understanding-local-assets-in-a-program}
+# Grundlegendes zu lokalen Assets in einem Programm {#understanding-local-assets-in-a-program}
 
 Lokale Assets sind die Inhalte, aus denen Ihr Programm besteht. Assets sind anpassbar und ermöglichen Ihnen das Erstellen automatisierter Marketing-Initiativen. Im Folgenden finden Sie eine Übersicht über die meisten lokalen Assets, die Sie in einem Programm erstellen können:
 

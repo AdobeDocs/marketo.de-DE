@@ -4,10 +4,10 @@ description: Integrieren von RTP mit Google Universal Analytics - Marketo-Dokume
 title: Integrieren von RTP mit Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -43,7 +43,6 @@ In diesem Beitrag wird erläutert, wie Sie die [!DNL Marketo Real-Time Personali
    1. Wählen Sie die **[!UICONTROL Konto].**
    1. Wählen Sie die **[!UICONTROL Eigenschaft].**
    1. Wählen Sie **[!UICONTROL Benutzerdefinierte Definitionen]** und **[!UICONTROL Benutzerdefinierte Dimensionen]** aus.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Eine neue benutzerdefinierte Dimension hinzufügen. Klicken Sie auf **[!UICONTROL +Neue benutzerdefinierte Dimension]**

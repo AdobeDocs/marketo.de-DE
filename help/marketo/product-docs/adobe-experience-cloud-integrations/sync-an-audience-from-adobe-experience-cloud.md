@@ -3,10 +3,10 @@ description: Synchronisieren einer Zielgruppe aus Adobe Experience Cloud - Marke
 title: Synchronisieren einer Zielgruppe aus Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 

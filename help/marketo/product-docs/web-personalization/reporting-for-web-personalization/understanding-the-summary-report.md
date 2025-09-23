@@ -1,10 +1,10 @@
 ---
 unique-page-id: 9438258
 description: Verstehen des Zusammenfassungsberichts - Marketo-Dokumente - Produktdokumentation
-title: Verstehen des Zusammenfassungsberichts
+title: Grundlegendes zum Übersichtsbericht
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Der [!UICONTROL Zusammenfassungsbericht] ist eine monatliche Ansicht aller Kampa
 >
 >Unterstützte Konversion: Ein Web-Besucher, der ein Formular auf der Website ausfüllt und seine E-Mail-Adresse hinterlässt und bei einem vorherigen Besuch (innerhalb der letzten 6 Monate) auf eine personalisierte Kampagne oder ein empfohlenes Inhalts-Asset geklickt hat.
 
-Navigieren [!UICONTROL &#x200B; in „Web]Personalization&quot; zu **[!UICONTROL Analytics]** und **[!UICONTROL Zusammenfassungsbericht]**.
+Navigieren [!UICONTROL  in „Web]Personalization&quot; zu **[!UICONTROL Analytics]** und **[!UICONTROL Zusammenfassungsbericht]**.
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 

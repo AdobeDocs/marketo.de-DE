@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359466
 description: Bearbeiten von Snippets mit dynamischen Inhalten - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten von Snippets mit dynamischen Inhalten
+title: Bearbeiten von Ausschnitten mit dynamischen Inhalten
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Bearbeiten von Snippets mit dynamischen Inhalten {#edit-snippets-with-dynamic-content}
+# Bearbeiten von Ausschnitten mit dynamischen Inhalten {#edit-snippets-with-dynamic-content}
 
 >[!PREREQUISITES]
 >

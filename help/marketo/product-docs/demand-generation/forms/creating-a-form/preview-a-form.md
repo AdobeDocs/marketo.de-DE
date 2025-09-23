@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359575
 description: Vorschau eines Formulars - Marketo-Dokumente - Produktdokumentation
-title: Formularvorschau
+title: Anzeigen der Vorschau für ein Formular
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Formularvorschau {#preview-a-form}
+# Anzeigen der Vorschau für ein Formular {#preview-a-form}
 
 Vor der Veröffentlichung können Sie das Formular in dieser schnellen und einfachen Formularvorschau sehen.
 

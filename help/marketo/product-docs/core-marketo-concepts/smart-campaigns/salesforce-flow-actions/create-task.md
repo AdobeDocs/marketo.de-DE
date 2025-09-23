@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147017
 description: Aufgabe erstellen - Marketo-Dokumente - Produktdokumentation
-title: Aufgabe erstellen
+title: Erstellen von Aufgaben
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 3%
 
 ---
 
-# Aufgabe erstellen {#create-task}
+# Erstellen von Aufgaben {#create-task}
 
 Als Marketing-Experte verfügen Sie über Informationen, die den Vertrieb beim Abschluss von Abschlüssen unterstützen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was und wann sie tun sollten.
 

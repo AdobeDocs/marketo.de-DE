@@ -1,16 +1,16 @@
 ---
 description: Aktivieren der Kampagnensynchronisierung - Marketo-Dokumente - Produktdokumentation
-title: Kampagnensynchronisierung aktivieren
+title: Aktivieren von Kampagnensynchronisierung
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 5%
 
 ---
 
-# Kampagnensynchronisierung aktivieren {#enable-campaign-sync}
+# Aktivieren von Kampagnensynchronisierung {#enable-campaign-sync}
 
 Mit dieser Option kann Marketo Mitglieder zu [!DNL MS Dynamics] Campaign hinzufügen und daraus entfernen.
 

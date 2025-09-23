@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147255
 description: Erstellen/Widerrufen einer Marketing-Kalender-Lizenz - Marketo-Dokumente - Produktdokumentation
-title: Marketing-Kalender-Lizenz erteilen/widerrufen
+title: Ausstellen/Widerrufen einer Lizenz für den Marketing-Kalender
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Marketing-Kalender-Lizenz erteilen/widerrufen {#issue-revoke-a-marketing-calendar-license}
+# Ausstellen/Widerrufen einer Lizenz für den Marketing-Kalender {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-Um Ihren [Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} Lizenzen zu nutzen, müssen Sie Lizenzen für Benutzer ausstellen, die Zugriff benötigen. So geht&#39;s.
+Um Ihren [Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} Lizenzen zu nutzen, müssen Sie Lizenzen für Benutzer ausstellen, die Zugriff benötigen. Und so geht das.
 
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Admin]**.
 

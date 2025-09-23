@@ -1,16 +1,16 @@
 ---
 description: Standardmäßige Dynamics-Feldzuordnung - Marketo-Dokumente - Produktdokumentation
-title: Dynamische Standardfeldzuordnung
+title: Standardfeldzuordnung in Dynamics
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1036'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Dynamische Standardfeldzuordnung {#default-dynamics-field-mapping}
+# Standardfeldzuordnung in Dynamics {#default-dynamics-field-mapping}
 
 Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, führt Marketo diese Verknüpfungen zwischen Ihren integrierten Dynamics- und Marketo-Feldern automatisch durch.  Marketo synchronisiert auch Ihre benutzerdefinierten Felder für Leads, Konten, Chancen und Kontakte.
 
@@ -79,7 +79,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>Fax</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Adresse]</td>
+      <td>[!UICONTROL-Adresse]</td>
       <td>[!UICONTROL Straße 1]</td>
       <td>address1_line1</td>
     </tr>
@@ -89,7 +89,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Status]</td>
+      <td>[!UICONTROL-Status]</td>
       <td>[!UICONTROL Bundesland/Provinz]</td>
       <td>address1_stateorProvince</td>
     </tr>
@@ -209,13 +209,13 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Priorität]</td>
-      <td>[!UICONTROL -Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
       <td>[!UICONTROL Relative Dringlichkeit]</td>
-      <td>[!UICONTROL -Dringlichkeit]</td>
+      <td>[!UICONTROL-Dringlichkeit]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
@@ -314,7 +314,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>Mobiltelefon</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Adresse]</td>
+      <td>[!UICONTROL-Adresse]</td>
       <td>[!UICONTROL Adresse 1: Straße 1]</td>
       <td>address1_line1</td>
     </tr>
@@ -324,7 +324,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Status]</td>
+      <td>[!UICONTROL-Status]</td>
       <td>[!UICONTROL Adresse 1: Bundesland/Region]</td>
       <td>address1_stateorProvince</td>
     </tr>
@@ -414,13 +414,13 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Priorität]</td>
-      <td>[!UICONTROL -Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
       <td>[!UICONTROL Relative Dringlichkeit]</td>
-      <td>[!UICONTROL -Dringlichkeit]</td>
+      <td>[!UICONTROL-Dringlichkeit]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
@@ -488,8 +488,8 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>[!UICONTROL -Konto (a)]</td>
-      <td>[!UICONTROL -Konto]</td>
+      <td>[!UICONTROL-Konto (a)]</td>
+      <td>[!UICONTROL-Konto]</td>
       <td>accountid</td>
     </tr>
     <tr>
@@ -563,8 +563,8 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
       <td>sic</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Website]</td>
-      <td>[!UICONTROL -Website]</td>
+      <td>[!UICONTROL-Website]</td>
+      <td>[!UICONTROL-Website]</td>
       <td>Website</td>
     </tr>
     <tr>
@@ -629,11 +629,11 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>[!UICONTROL Abschlusswahrscheinlichkeit]</td>
-      <td>[!UICONTROL -Wahrscheinlichkeit]</td>
+      <td>[!UICONTROL-Wahrscheinlichkeit]</td>
       <td>Nahwahrscheinlichkeit</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Phase]</td>
+      <td>[!UICONTROL-Phase]</td>
       <td>[!UICONTROL Status]</td>
       <td>Zustandscode</td>
     </tr>

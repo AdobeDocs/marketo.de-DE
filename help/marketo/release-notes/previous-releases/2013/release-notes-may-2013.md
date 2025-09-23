@@ -4,14 +4,14 @@ description: Mai 2013 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2013 - Versionshinweise
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Mai 2013 - Versionshinweise {#release-notes-may}
+# Versionshinweise – Mai 2013 {#release-notes-may}
 
 Die folgenden Funktionen sind in der Version vom Mai enthalten.
 
@@ -35,6 +35,6 @@ Mit der neu organisierten Fluss-Aktionsstruktur finden Sie Fluss-Aktionen schnel
 
 ## Umbenannte Fluss-Aktionen {#renamed-flow-actions}
 
-Der Status für das Ändern des Verlaufs [!UICONTROL &#x200B; jetzt „Programmstatus ändern]. Programmdaten ändern heißt jetzt [!UICONTROL Programm erfolgreich &#x200B;].
+Der Status für das Ändern des Verlaufs [!UICONTROL  jetzt „Programmstatus ändern]. Programmdaten ändern heißt jetzt [!UICONTROL Programm erfolgreich ].
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)

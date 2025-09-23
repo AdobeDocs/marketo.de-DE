@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514898
 description: Einrichten einer intelligenten Trigger-Kampagne für den Verkauf mithilfe von „Kampagne ist angefordert“ - Marketo-Dokumente - Produktdokumentation
-title: Einrichten einer intelligenten Trigger-Kampagne für den Verkauf mit „Kampagne ist angefordert“
+title: Einrichten einer intelligenten Auslöser-Kampagne für den Verkauf mit „Kampagne wurde angefordert“
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Einrichten einer intelligenten Trigger-Kampagne für den Verkauf mit „Kampagne ist angefordert“ {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
+# Einrichten einer intelligenten Auslöser-Kampagne für den Verkauf mit „Kampagne wurde angefordert“ {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Eine der coolsten Funktionen von Marketo ist die Möglichkeit, Vertriebsmitarbeiter an den Marketingmaßnahmen teilnehmen zu lassen. Sie stehen an vorderster Front und interagieren mit Menschen. Vertriebsmitarbeiter sollten in der Lage sein, das Marketing in die richtige Richtung zu lenken.
 
@@ -38,7 +38,7 @@ Eine der coolsten Funktionen von Marketo ist die Möglichkeit, Vertriebsmitarbei
    >
    >Die Quelloperatoren dienen der Sicherheit. Sie können die Kampagne auf Anfragen beschränken, die nur von bestimmten Quellen, wie anderen intelligenten Kampagnen oder Entwicklern, gestellt werden. Wählen Sie **[!UICONTROL Ist Beliebig]** im ersten Feld aus, wenn Sie Anfragen aus allen Quellen zulassen möchten.
    >
-   >_Denken Sie_, durch die Auswahl von Sales Insight wird es auf magische Weise in der Box für den Verkauf angezeigt. Übertreib&#39;s nicht. Zu viele werden von ihnen ignoriert.
+   >_Denken Sie_, wenn Sie sich für Sales Insight entscheiden, wird es auf magische Weise in der Box für den Vertrieb angezeigt. Übertreib&#39;s nicht. Zu viele werden von ihnen ignoriert.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

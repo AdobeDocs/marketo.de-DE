@@ -1,16 +1,16 @@
 ---
 description: Gewähren des Zugriffs für Benutzer - Marketo-Dokumente - Produktdokumentation
-title: Gewähren von Zugriff für Benutzer
+title: Gewähren von Zugriff für Benutzende
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Gewähren von Zugriff für Benutzer {#granting-access-to-users}
+# Gewähren von Zugriff für Benutzende {#granting-access-to-users}
 
 Gehen Sie wie in diesem Artikel beschrieben vor, um Ihren [!DNL Sales Connect] Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie „Interessante Momente“ im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
 

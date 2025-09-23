@@ -1,19 +1,19 @@
 ---
-description: Einrichten einer Sandbox für Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
-title: Einrichten einer Sandbox für Sales Insights-Aktionen
+description: Einrichten einer Insight-Aktions-Sandbox für den Vertrieb - Marketo-Dokumente - Produktdokumentation
+title: Einrichten einer Sandbox für Sales Insight Actions
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '671'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Einrichten einer Sandbox für Sales Insights-Aktionen {#set-up-a-sales-insight-actions-sandbox}
+# Einrichten einer Sandbox für Sales Insight Actions {#set-up-a-sales-insight-actions-sandbox}
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist eine Web-basierte Anwendung, die über das [Marketo Sales Insight Package&rbrace; ausschließlich mit Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package} ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
 Wenn Sie über eine Marketo-Sandbox verfügen, können Sie die Verwendung einer Actions-Instanz mit Ihrer Sandbox zu Testzwecken aktivieren.
 
@@ -25,9 +25,9 @@ Gehen Sie wie folgt vor, um eine Actions-Instanz für die Zusammenarbeit mit Ihr
 >
 >Erfahren Sie mehr darüber, wie Benutzer ihren [ aktivieren ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md){target="_blank"}. Außerdem erfahren Sie, wie sich Benutzer [bei Salesforce authentifizieren](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}. Wenn Sie es vorziehen, Benutzer per E-Mail und Kennwort authentifizieren zu lassen, können Sie mehr darüber in unserem Artikel [Login Management Settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"} erfahren.
 
-## Anfordern einer Action-Instanz zur Bereitstellung in Ihrer Marketo Sandbox-{#request=an-actions-instance}
+## Anfordern einer Aktionsinstanz zur Bereitstellung in Ihrer Marketo-Sandbox {#request=an-actions-instance}
 
-Sales Insight-Aktionen sind für Marketo-Sandbox-Instanzen nur aktiviert, wenn sie angefordert werden. Wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager), um eine Anfrage zu senden.
+Sales Insight Actions ist nur auf Anfrage für Marketo Sandbox-Instanzen aktiviert. Wenden Sie sich an das Adobe Account Team (Ihren Account Manager), um eine Anfrage zu senden.
 
 ## Bereitstellen Ihres Aktionskontos für Marketo Sandbox {#provision-your-actions-account}
 
@@ -45,7 +45,7 @@ Sobald Aktionen für Ihre Marketo-Sandbox aktiviert ist, müssen Sie die folgend
    >
    >Eine E-Mail-Adresse kann über Sandbox- und Produktionsinstanzen hinweg nur für eine Aktionsinstanz verwendet werden. Wenn Sie ein Administrator sind, der Zugriff auf mehrere Instanzen in Produktion und Sandbox benötigt, müssen Sie für jede Instanz eine andere E-Mail-Adresse verwenden.
 
-1. Wählen Sie auf der Bereitstellungskarte den Benutzer aus, den Sie zu Ihrer Sales Insight Actions-Instanz einladen möchten.
+1. Wählen Sie auf der Bereitstellungskarte den Benutzer aus, den Sie in Ihre Sales Insight Actions-Instanz einladen möchten.
 
 ## Aktivieren der Aktionsinstanz {#activate-your-actions-instance}
 
@@ -73,7 +73,7 @@ Für „Aktionen“ müssen Sie zunächst eine neue Instanz bei einem Salesforce
 
 ## Anfordern der Konvertierung Ihrer Aktionsinstanz, damit sie mit Ihrer Salesforce-Sandbox kompatibel ist {#request-your-actions-instance-be-converted}
 
-1. Wenden Sie sich an den [Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}Support, um anzufordern, dass Ihre neue Sales Insight Actions-Instanz so konfiguriert wird, dass sie mit Salesforce Sandbox kompatibel ist.
+1. Wenden Sie sich an den [Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}Support, um Ihre neue Sales Insight Actions-Instanz so zu konfigurieren, dass sie mit Salesforce Sandbox kompatibel ist.
 
 1. Testen Sie, ob alles richtig konfiguriert ist, indem Sie versuchen, sich mit der Schaltfläche „Mit Salesforce anmelden“ auf der Seite toutapp.com/login anzumelden.
 

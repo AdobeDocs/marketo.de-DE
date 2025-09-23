@@ -1,16 +1,16 @@
 ---
 description: Anmeldeverwaltungseinstellungen - Marketo-Dokumente - Produktdokumentation
-title: Einstellungen der Anmeldeverwaltung
+title: Einstellungen zur Anmeldeverwaltung
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Einstellungen der Anmeldeverwaltung {#login-management-settings}
+# Einstellungen zur Anmeldeverwaltung {#login-management-settings}
 
 Mit den Einstellungen der Anmeldeverwaltung können Administratoren die Authentifizierungseinstellungen für Benutzer von Sales Insight-Aktionen auf globaler Ebene festlegen.
 
@@ -30,7 +30,7 @@ Führen Sie die folgenden Schritte aus, um Ihre Einstellungen für die Anmeldeve
 
    ![](assets/login-management-settings-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/login-management-settings-2.png)
 

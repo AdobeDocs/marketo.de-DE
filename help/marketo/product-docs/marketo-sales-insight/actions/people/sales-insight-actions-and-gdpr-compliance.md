@@ -1,16 +1,16 @@
 ---
 description: Insight-Vertriebsaktionen und DSGVO-Konformität - Marketo-Dokumente - Produktdokumentation
-title: Sales Insight-Aktionen und DSGVO-Compliance
+title: Sales Insight Actions und DSGVO-Compliance
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1370'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# Sales Insight-Aktionen und DSGVO-Compliance {#sales-insight-actions-and-gdpr-compliance}
+# Sales Insight Actions und DSGVO-Compliance {#sales-insight-actions-and-gdpr-compliance}
 
 Die Datenschutz-Grundverordnung (DSGVO) ist eine Rechtsvorschrift der Europäischen Union, die am 25. Mai 2018 in Kraft trat.
 
@@ -87,11 +87,11 @@ Es werden zwei Dropdown-Listen angezeigt: [!UICONTROL Autorisierungstyp] und [!U
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
-Wenn Sie als [!UICONTROL Autorisierungstyp“ „Einverständnis] auswählen, werden zwei Pflichtfelder angezeigt: [!UICONTROL Einverständnisdatum] und [!UICONTROL Zweck der &#x200B;]&quot;. Diese beiden Felder sind nicht auf andere Optionen anwendbar.
+Wenn Sie als [!UICONTROL Autorisierungstyp“ „Einverständnis] auswählen, werden zwei Pflichtfelder angezeigt: [!UICONTROL Einverständnisdatum] und [!UICONTROL Zweck der ]&quot;. Diese beiden Felder sind nicht auf andere Optionen anwendbar.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-Wenn &quot;[!UICONTROL Other]&quot; entweder für [!UICONTROL Autorisierungstyp] oder [!UICONTROL Source-Typ] ausgewählt wurde, können Sie Text eingeben, um den [!UICONTROL Source-Typ zu &#x200B;].
+Wenn &quot;[!UICONTROL Other]&quot; entweder für [!UICONTROL Autorisierungstyp] oder [!UICONTROL Source-Typ] ausgewählt wurde, können Sie Text eingeben, um den [!UICONTROL Source-Typ zu ].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
@@ -132,7 +132,7 @@ Sie haben die Möglichkeit, Kontaktinformationen aus der Personendetailansicht z
  <tbody>
   <tr>
    <td>[!UICONTROL Vorname]</td>
-   <td>[!UICONTROL -Website]</td>
+   <td>[!UICONTROL-Website]</td>
    <td>[!DNL Facebook]</td>
   </tr>
   <tr>

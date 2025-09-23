@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949253
 description: SEO - Entfernen/Löschen einer URL für eingehende Links - Marketo-Dokumente - Produktdokumentation
-title: SEO - URL für eingehende Links entfernen/löschen
+title: SEO – Entfernen/Löschen einer URL für eingehende Links
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
-# SEO - URL für eingehende Links entfernen/löschen {#seo-remove-delete-an-inbound-link-url}
+# SEO – Entfernen/Löschen einer URL für eingehende Links {#seo-remove-delete-an-inbound-link-url}
 
 Manchmal möchten Sie eingehende Links entfernen. So geht&#39;s:
 

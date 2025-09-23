@@ -1,16 +1,16 @@
 ---
 description: Verwenden einer Vorlage im Fenster „Erstellen“ - Marketo-Dokumente - Produktdokumentation
-title: Verwenden einer Vorlage im Fenster „Erstellen“
+title: Verwenden einer Vorlage im Fenster „Verfassen“
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Verwenden einer Vorlage im Fenster „Erstellen“ {#using-a-template-in-the-compose-window}
+# Verwenden einer Vorlage im Fenster „Verfassen“ {#using-a-template-in-the-compose-window}
 
 ## Suchen und Verwenden von Vorlagen {#finding-and-using-templates}
 

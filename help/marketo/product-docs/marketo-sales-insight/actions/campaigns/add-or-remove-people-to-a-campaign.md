@@ -1,16 +1,16 @@
 ---
 unique-page-id: 14352613
 description: Personen zu Ihrer Kampagne hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: Personen zu Ihrer Kampagne hinzufügen
+title: Hinzufügen von Personen zu Ihrer Kampagne
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Personen zu Ihrer Kampagne hinzufügen {#add-people-to-your-campaign}
+# Hinzufügen von Personen zu Ihrer Kampagne {#add-people-to-your-campaign}
 
 Es gibt mehrere Möglichkeiten, jemanden zu einer Kampagne hinzuzufügen.
 
@@ -26,7 +26,7 @@ Wenn Sie einem Interessenten oder Kunden aus Ihrem Gmail- oder Outlook-Posteinga
 
 Antworten Sie einfach auf ihre E-Mail und wählen Sie eine Kampagne aus unserem Plug-in.
 
-## Personen aus einer Kampagne entfernen {#remove-people-from-a-campaign}
+## Entfernen von Personen aus einer Kampagne {#remove-people-from-a-campaign}
 
 Sie können eine Kampagne automatisch senden, wenn ein Empfänger antwortet. Außerdem können Sie festlegen, dass die Kampagne für diesen Empfänger als „Erfolg“ markiert wird.
 

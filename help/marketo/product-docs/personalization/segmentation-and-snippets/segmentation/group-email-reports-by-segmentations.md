@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359488
 description: E-Mail-Berichte nach Segmentierungen gruppieren - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Berichte nach Segmenten gruppieren
+title: Gruppieren von E-Mail-Berichten nach Segmentierungen
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 3%
+ht-degree: 12%
 
 ---
 
-# E-Mail-Berichte nach Segmenten gruppieren {#group-email-reports-by-segmentations}
+# Gruppieren von E-Mail-Berichten nach Segmentierungen {#group-email-reports-by-segmentations}
 
 Segmentierungen dienen nicht nur dynamischen Inhalten. Sie können Ihren E-Mail-Leistungsbericht auch nach Segmentierungen gruppieren.
 

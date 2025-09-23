@@ -4,10 +4,10 @@ description: Aktualisierungen bei der ON24-Ereignisregistrierung - Marketo-Dokum
 title: Aktualisierungen zur ON24-Ereignisregistrierung
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '282'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -31,7 +31,7 @@ Sie können die Registrierenden manuell genehmigen, bevor Sie ihnen eine Bestät
 
 Wenn eine Person am Ende nicht registriert wird, sondern auf den Status [!UICONTROL Registrierungsfehler] gesetzt wird, ist es noch nicht zu spät, um sich zu erholen.
 
-1. Filtern Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Mitglieder“ die Liste der Personen mit dem Status **[!UICONTROL Registrierungsfehler]**.
+1. Filtern Sie auf [!UICONTROL  Registerkarte ]Mitglieder“ die Liste der Personen mit dem Status **[!UICONTROL Registrierungsfehler]**.
 1. Bevor Sie fortfahren, stellen Sie sicher, dass Sie das Problem mit der -Integration ermittelt und behoben haben (stellen Sie sicher, dass unter **[!UICONTROL Ereignispartner]** in Admin keine Fehler auftreten).
 1. Nachdem das Problem behoben wurde, wählen Sie alle Personen mit dem Status [!UICONTROL Registrierungsfehler] aus und ändern Sie ihren Status in **[!UICONTROL Registriert]**. Dadurch wird versucht, sie erneut bei ON24 zu registrieren.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147122
 description: Mitglieder verwalten und anzeigen - Marketo-Dokumente - Produktdokumentation
-title: Mitglieder verwalten und anzeigen
+title: Verwalten und Anzeigen von Mitgliedern
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Mitglieder verwalten und anzeigen {#manage-and-view-members}
+# Verwalten und Anzeigen von Mitgliedern {#manage-and-view-members}
 
 Sie können Ihre Mitglieder in Ihren Programmen über die Registerkarte Mitglieder verwalten und anzeigen.
 

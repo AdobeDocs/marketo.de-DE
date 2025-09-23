@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949186
 description: SEO - Verwenden der Seitendetailaufschlüsselung - Marketo-Dokumente - Produktdokumentation
-title: SEO - Verwenden der Drill-down-Liste „Seitendetails“
+title: SEO – Verwenden der Drill-down-Liste „Seitendetails“
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# SEO - Verwenden der Drill-down-Liste „Seitendetails“ {#seo-using-the-page-detail-drill-down}
+# SEO – Verwenden der Drill-down-Liste „Seitendetails“ {#seo-using-the-page-detail-drill-down}
 
 Mithilfe der Drilldown-Liste „Seitendetails“ können Sie eine Vielzahl von Informationen zu Ihren Seiten anzeigen.
 
@@ -41,10 +41,10 @@ Mithilfe der Drilldown-Liste „Seitendetails“ können Sie eine Vielzahl von I
 | [!UICONTROL Eingehende Links (eindeutige Domains)] | Die Anzahl der anderen Websites mit mindestens einem eingehenden Link zu Ihrer Site. |
 | [!UICONTROL Ausgehende Links] | Die Anzahl der Links, die von dieser Seite zu anderen Websites verweisen. |
 | [!UICONTROL Facebook-Freigaben] | Häufigkeit, in der diese Seite auf [!DNL Facebook] freigegeben wurde. |
-| [!UICONTROL Facebook gefällt] | Anzahl der Verknüpfungen dieser Seitenfreigabe auf [!DNL Facebook]. |
+| [!UICONTROL Facebook-Likes] | Anzahl der Verknüpfungen dieser Seitenfreigabe auf [!DNL Facebook]. |
 | [!UICONTROL Facebook-Klicks] | Anzahl der Klicks aus dem [!DNL Facebook share]. |
 
-## [!UICONTROL Keyword(s), für den diese Seite optimiert ist] {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL Keyword(s), für den diese Seite optimiert ist]  {#keyword-s-that-page-is-optimized-for}
 
 Hier [ Sie (wählen Sie das Keyword aus, für das Sie Ihre Seite optimieren möchten](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 

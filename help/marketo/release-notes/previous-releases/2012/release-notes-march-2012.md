@@ -4,14 +4,14 @@ description: März 2012 - Marketo-Dokumentation - Produktdokumentation
 title: März 2012 - Versionshinweise
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Versionshinweise: März 2012 {#release-notes-march}
+# Versionshinweise – März 2012 {#release-notes-march}
 
 ## Meine Token auflösen {#resolve-my-tokens}
 

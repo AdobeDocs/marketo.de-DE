@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557322
 description: Ausführen eines einzelnen Flussschritts aus einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
-title: Ausführen eines einzelnen Flussschritts aus einer Smart-Liste
+title: Ausführen eines einzelnen Flussschritts aus einer intelligenten Liste
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Ausführen eines einzelnen Flussschritts aus einer Smart-Liste {#run-a-single-flow-step-from-a-smart-list}
+# Ausführen eines einzelnen Flussschritts aus einer intelligenten Liste {#run-a-single-flow-step-from-a-smart-list}
 
 Wenn Sie einen einmaligen Flussschritt ausführen möchten, können Sie in einer Smart-Liste einen einzelnen Flussschritt verwenden, anstatt eine gesamte Smart-Kampagne zu erstellen.
 

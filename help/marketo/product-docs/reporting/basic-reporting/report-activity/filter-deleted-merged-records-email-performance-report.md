@@ -3,10 +3,10 @@ description: Filtern von zusammengeführten/gelöschten Datensätzen in einem E-
 title: Filtern von zusammengeführten/gelöschten Datensätzen in einem E-Mail-Bericht
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: fa18730e9a7ce60f8a2e4f7069ea6b82976549aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

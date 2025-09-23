@@ -3,7 +3,7 @@ description: Synchronisierungsstatus von Salesforce - Marketo-Dokumente - Produk
 title: Salesforce-Synchronisierungsstatus
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 14%
@@ -26,7 +26,7 @@ Die Synchronisierungsschritte spiegeln Push- oder Pull-Vorgänge für jeden Obje
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]Integration“ auf **Salesforce** und dann auf die Registerkarte **[!UICONTROL Synchronisierungsstatus]**.
+1. Klicken [!UICONTROL  unter &quot;]Integration“ auf **Salesforce** und dann auf die Registerkarte **[!UICONTROL Synchronisierungsstatus]**.
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -165,7 +165,7 @@ Standardmäßig werden Statistiken nach den zuletzt gestarteten Versionen sortie
    <td colspan="1">Aufgabe</td>
   </tr>
   <tr>
-   <td colspan="1">Benutzer</td>
+   <td colspan="1">Benutzende</td>
   </tr>
  </tbody>
 </table>

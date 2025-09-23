@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11371040
 description: Syntax von E-Mail-Vorlagen - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Vorlagensyntax
+title: Syntax von E-Mail-Vorlagen
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 2%
 
 ---
 
-# E-Mail-Vorlagensyntax {#email-template-syntax}
+# Syntax von E-Mail-Vorlagen {#email-template-syntax}
 
 In Marketos neuer E-Mail-2.0-Version bestehen E-Mail-Vorlagen aus einer beliebigen Kombination von Elementen, Variablen, Modulen oder Containern. Jeder wird durch Hinzufügen einer Marketo-spezifischen Syntax zu Ihrer HTML definiert. Alte E-Mail-Vorlagen (v1.0) werden in E-Mail-Editor 2.0 unterstützt, enthalten jedoch nicht alle Funktionen des neuen Editors.
 
@@ -31,7 +31,7 @@ Elemente sind Inhaltsbereiche, die Sie in Ihrer E-Mail-Vorlage als bearbeitbar d
 
 * RTF
 * Bilder
-* Snippets
+* Ausschnitte
 * Videos
 
 ## RTF {#rich-text}
@@ -126,7 +126,7 @@ Erforderliche Attribute
 Beispiel:
 `<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
-## Snippets {#snippets}
+## Ausschnitte {#snippets}
 
 Wenn Sie einen Bereich als Snippet definieren, können Endbenutzer auswählen, welcher genehmigte [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) in diesen Bereich eingefügt werden soll. Rich-Text-Elemente können zwar aus dem E-Mail-Editor in Snippets konvertiert werden, wenn Sie jedoch einen Bereich speziell als Snippet definieren, kann er nicht in Rich-Text konvertiert werden. Sie können einen Snippet-Bereich mithilfe eines `<div>` mit class=„mktoSnippet“ angeben.
 

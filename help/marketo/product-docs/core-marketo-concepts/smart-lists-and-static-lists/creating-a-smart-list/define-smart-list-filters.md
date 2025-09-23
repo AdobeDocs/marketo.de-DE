@@ -1,24 +1,24 @@
 ---
 unique-page-id: 557316
 description: Definieren von Smart-List-Filtern - Marketo-Dokumente - Produktdokumentation
-title: Definieren von Smart-Listenfiltern
+title: Erstellen von Filtern für eine intelligente Liste
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Definieren von Smart-Listenfiltern {#define-smart-list-filters}
+# Erstellen von Filtern für eine intelligente Liste {#define-smart-list-filters}
 
 >[!PREREQUISITES]
 >
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [Suchen und Hinzufügen von Filtern zu Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Nachdem Sie nun [Smart-Liste“ erstellt ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} „Filter [&quot; ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} haben, definieren wir die Filter. So geht&#39;s.
+Nachdem Sie nun [Smart-Liste“ erstellt ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} „Filter [&quot; ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} haben, definieren wir die Filter. Und so geht das.
 
 Im weiteren Beispiel definieren wir diese Filter, um alle Personen in Kalifornien mit einem Ergebnis über 50 zu finden.
 

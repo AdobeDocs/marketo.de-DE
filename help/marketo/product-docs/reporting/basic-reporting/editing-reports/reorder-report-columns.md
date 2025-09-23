@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359999
 description: Berichtsspalten neu anordnen - Marketo-Dokumente - Produktdokumentation
-title: Berichtsspalten neu anordnen
+title: Neuanordnen der Berichtsspalten
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# Berichtsspalten neu anordnen {#reorder-report-columns}
+# Neuanordnen der Berichtsspalten {#reorder-report-columns}
 
 Sie können die Reihenfolge der Spalten in einem Bericht ändern.
 

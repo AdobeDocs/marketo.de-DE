@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097747
 description: Hinzufügen benutzerdefinierter Kennzahlen zu einem Umsatz-Explorer-Bericht - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen benutzerdefinierter Kennzahlen zu einem Umsatz-Explorer-Bericht
+title: Hinzufügen benutzerdefinierter Kennzahlen zu einem Revenue Explorer-Bericht
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Hinzufügen benutzerdefinierter Kennzahlen zu einem Umsatz-Explorer-Bericht {#adding-custom-measures-to-a-revenue-explorer-report}
+# Hinzufügen benutzerdefinierter Kennzahlen zu einem Revenue Explorer-Bericht {#adding-custom-measures-to-a-revenue-explorer-report}
 
 Manchmal soll eine benutzerdefinierte Kennzahl in einem Bericht enthalten sein. Es ist einfach, eigene zu erstellen.
 

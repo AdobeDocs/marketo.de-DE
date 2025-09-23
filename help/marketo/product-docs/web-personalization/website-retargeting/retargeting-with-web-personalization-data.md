@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720796
 description: Retargeting mit Web-Personalization-Daten - Marketo-Dokumente - Produktdokumentation
-title: Retargeting mit Web Personalization-Daten
+title: Retargeting mit Daten aus Web-Personalisierung
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 

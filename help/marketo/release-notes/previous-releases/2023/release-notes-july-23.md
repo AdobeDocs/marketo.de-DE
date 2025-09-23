@@ -3,24 +3,24 @@ description: Juli 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Juli 2023 – Versionshinweise
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 10%
+ht-degree: 22%
 
 ---
 
-# Versionshinweise: Juli 2023 {#release-notes-july-23}
+# Versionshinweise – Juli 2023 {#release-notes-july-23}
 
-Unten finden Sie alle Funktionen, die in der Version vom 23. Juli enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Unten finden Sie alle Funktionen, die in der Version vom 23. Juli enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
 >Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
-## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 21. **2023 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 21. Juli 2023 veröffentlicht**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
 
 </br>
 
@@ -32,8 +32,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Interaktionskarte - Übersicht</a></td>
+   <td>Versandt</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Interaktionskarte – Übersicht</a></td>
   </tr>
   </tbody>
 </table>
@@ -46,7 +46,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -68,7 +68,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -82,7 +82,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -100,8 +100,8 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Einstellung für automatische Abmeldung</a></td>
+   <td>Versandt</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Einstellung für automatisches Anhängen einer Abbestellungsnachricht</a></td>
   </tr>
   </tbody>
 </table>
@@ -114,8 +114,8 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Eingabeaufforderungen im Feld</a></td>
+   <td>Versandt</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Eingabeaufforderungen für Felder</a></td>
   </tr>
   </tbody>
 </table>
@@ -128,7 +128,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">Dynamische Felder</a></td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat-Auslöser-Token</a></td>
   </tr>
   </tbody>

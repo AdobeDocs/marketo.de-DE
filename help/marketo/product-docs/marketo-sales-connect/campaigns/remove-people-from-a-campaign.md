@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352608
 description: Personen aus einer Kampagne entfernen - Marketo-Dokumente - Produktdokumentation
-title: Personen aus einer Kampagne entfernen
+title: Entfernen von Personen aus einer Kampagne
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Personen aus einer Kampagne entfernen {#remove-people-from-a-campaign}
+# Entfernen von Personen aus einer Kampagne {#remove-people-from-a-campaign}
 
 Sie können eine Kampagne automatisch senden, wenn ein Empfänger antwortet. Außerdem können Sie festlegen, dass die Kampagne für diesen Empfänger als „Erfolg“ markiert wird.
 

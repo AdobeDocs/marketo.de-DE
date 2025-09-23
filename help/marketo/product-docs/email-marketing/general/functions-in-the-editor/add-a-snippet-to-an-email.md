@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147358
 description: Hinzufügen eines Snippets zu einer E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen eines Snippets zu einer E-Mail
+title: Hinzufügen eines Ausschnitts zu einer E-Mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Hinzufügen eines Snippets zu einer E-Mail {#add-a-snippet-to-an-email}
+# Hinzufügen eines Ausschnitts zu einer E-Mail {#add-a-snippet-to-an-email}
 
 Snippets sind wiederverwendbare Blöcke aus Rich-Text und Grafiken, die Sie in E-Mails und Landingpages verwenden können.
 

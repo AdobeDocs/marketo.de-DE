@@ -1,17 +1,17 @@
 ---
 unique-page-id: 15368208
 description: Installieren von Anpassungen in Ihrer Salesforce-Sandbox - Marketo-Dokumente - Produktdokumentation
-title: Installieren von Anpassungen in der Salesforce-Sandbox
+title: Installieren von Anpassungen in Ihrer Salesforce-Sandbox
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-# Installieren von Anpassungen in der Salesforce-Sandbox {#how-to-install-customizations-in-your-salesforce-sandbox}
+# Installieren von Anpassungen in Ihrer Salesforce-Sandbox {#how-to-install-customizations-in-your-salesforce-sandbox}
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/two-3.png)
 

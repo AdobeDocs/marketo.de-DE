@@ -4,14 +4,14 @@ description: Versionshinweise - Juli 2013 - Marketo-Dokumentation - Produktdokum
 title: Juli 2013 - Versionshinweise
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Versionshinweise: Juli 2013 {#release-notes-july}
+# Versionshinweise – Juli 2013 {#release-notes-july}
 
 Die folgenden Funktionen sind in der Juli-Version enthalten, die für Freitag, den 26. Juli, geplant ist.
 

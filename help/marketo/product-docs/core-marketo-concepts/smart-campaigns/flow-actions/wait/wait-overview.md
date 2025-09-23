@@ -4,10 +4,10 @@ description: Warten - Marketo-Dokumente - Produktdokumentation
 title: Warten
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ Pausieren Sie eine Person in einem Smart-Campaign-Fluss mit dem praktischen **Wa
 
 ![](assets/wait-overview-1.png)
 
-Beachten Sie, wie Sie in natürlicher Sprache tippen können, z. B. „4 Stunden“. **&#x200B;**&#x200B;die Wörter jedoch nicht abkürzen (d. h. 4 Stunden). Die intelligente Kampagne wird weiterhin ausgeführt, aber der Warteschritt wird ignoriert.
+Beachten Sie, wie Sie in natürlicher Sprache tippen können, z. B. „4 Stunden“. **** die Wörter jedoch nicht abkürzen (d. h. 4 Stunden). Die intelligente Kampagne wird weiterhin ausgeführt, aber der Warteschritt wird ignoriert.
 
 >[!CAUTION]
 >

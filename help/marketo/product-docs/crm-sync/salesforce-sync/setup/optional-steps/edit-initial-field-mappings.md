@@ -4,10 +4,10 @@ description: Bearbeiten der anfänglichen Feldzuordnungen - Marketo-Dokumente - 
 title: Bearbeiten der anfänglichen Feldzuordnungen
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Auf diese Funktion kann nur vor der ersten Synchronisierung mit Salesforce zugegriffen werden. Sobald die **[!UICONTROL Sync Now]**-Taste gedrückt wurde, kann dies nicht mehr durchgeführt werden.
 
-Bei der ersten Synchronisation mit Salesforce kombiniert Marketo Engage automatisch ähnlich benannte benutzerdefinierte Felder in einem einzigen Feld auf der Marketo-Seite, um sicherzustellen, dass die Daten sowohl mit Lead- als auch Kontaktobjekten im CRM ausgetauscht werden können. In diesem Artikel wird erläutert, wie Sie diese Zuordnungen anpassen können.
+Bei der ersten Synchronisation mit Salesforce kombiniert Marketo Engage automatisch ähnlich benannte benutzerdefinierte Felder in einem einzigen Feld auf der Marketo-Seite, um sicherzustellen, dass die Daten sowohl mit Lead- als auch mit Kontaktobjekten im CRM ausgetauscht werden können. In diesem Artikel wird erläutert, wie Sie diese Zuordnungen anpassen können.
 
 ## Nicht zugeordnete Felder zuordnen {#map-unmapped-fields}
 

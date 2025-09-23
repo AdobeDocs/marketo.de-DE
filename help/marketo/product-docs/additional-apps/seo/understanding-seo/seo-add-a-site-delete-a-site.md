@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949194
 description: SEO - Hinzufügen einer Site/Löschen einer Site - Marketo-Dokumente - Produktdokumentation
-title: SEO - Hinzufügen einer Site/Löschen einer Site
+title: SEO – Hinzufügen einer Site/Löschen einer Site
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# SEO - Hinzufügen einer Site/Löschen einer Site {#seo-add-a-site-delete-a-site}
+# SEO – Hinzufügen einer Site/Löschen einer Site {#seo-add-a-site-delete-a-site}
 
 Damit Marketo Daten (eingehende Links und Empfehlungen) abrufen kann, die für die Seiten Ihrer Site relevant sind, müssen Sie die URL der Site hier definieren.
 

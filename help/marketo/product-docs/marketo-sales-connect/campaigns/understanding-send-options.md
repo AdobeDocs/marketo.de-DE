@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352621
 description: Grundlegendes zu Sendeoptionen - Marketo-Dokumente - Produktdokumentation
-title: Verstehen der Sendeoptionen
+title: Grundlegendes zu Sendeoptionen
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
-# Verstehen der Sendeoptionen {#understanding-send-options}
+# Grundlegendes zu Sendeoptionen {#understanding-send-options}
 
 Wenn Sie eine Kampagne erstellen, haben Sie mehrere Möglichkeiten, wie Ihre E-Mail-Schritte in [!DNL Sales Connect] erstellt werden. Und je nachdem, wo Ihre E-Mail in Ihre Campaign-Kampagne fällt, unterscheiden sich auch Ihre Optionen.
 

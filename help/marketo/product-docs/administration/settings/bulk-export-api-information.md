@@ -3,7 +3,7 @@ description: Massenexport-API-Informationen - Marketo-Dokumente - Produktdokumen
 title: Informationen zur Massenexport-API
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 8%
@@ -12,7 +12,7 @@ ht-degree: 8%
 
 # Informationen zur Massenexport-API {#bulk-export-api-information}
 
-Erfahren Sie, wie Sie überprüfen können[ wie viel Kapazität (](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-API) Ihre Marketo Engage-Instanz in den letzten sieben Tagen in Anspruch genommen hat.
+Erfahren Sie, wie Sie überprüfen können[ wie viel Kapazität (](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-API) Ihre Marketo Engage-Instanz in den letzten sieben Tagen in Anspruch genommen hat.
 
 >[!NOTE]
 >
@@ -34,4 +34,4 @@ Erfahren Sie, wie Sie überprüfen können[ wie viel Kapazität (](https://exper
 
 >[!NOTE]
 >
->Die Zuordnung für Ihre Marketo Engage-Instanz wird täglich um 0:00 Uhr CST zurückgesetzt.
+>Die Zuordnung für Ihre Marketo Engage-Instanz wird täglich um 12 :00 Uhr CST zurückgesetzt.

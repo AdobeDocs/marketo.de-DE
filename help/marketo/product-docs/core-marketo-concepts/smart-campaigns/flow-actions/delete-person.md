@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147082
 description: Person löschen - Marketo-Dokumente - Produktdokumentation
-title: Person löschen
+title: Löschen von Person
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 3%
 
 ---
 
-# Person löschen {#delete-person}
+# Löschen von Person {#delete-person}
 
 Fehlerhafte Personen gelangen manchmal in Ihre Datenbank. Mit dem Schritt „Personenfluss löschen“ können Sie diese entfernen.
 
@@ -25,7 +25,7 @@ Fehlerhafte Personen gelangen manchmal in Ihre Datenbank. Mit dem Schritt „Per
 
    ![](assets/delete-person-2.png)
 
-1. Sie können wie folgt von der Marketo Engage und nicht aus Ihrem CRM löschen:
+1. Sie können wie folgt aus Marketo Engage und nicht aus Ihrem CRM löschen:
 
    ![](assets/delete-person-3.png)
 

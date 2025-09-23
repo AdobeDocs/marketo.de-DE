@@ -1,15 +1,15 @@
 ---
 description: Übersicht über die Interaktionskarte - Marketo-Dokumente - Produktdokumentation
-title: Interaktionskarte - Übersicht
+title: Interaktionskarte – Übersicht
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '742'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Interaktionskarte - Übersicht {#engagement-map-overview}
+# Interaktionskarte – Übersicht {#engagement-map-overview}
 
 Mit der Interaktionskarte können Sie Ihre Smart-Kampagnen intuitiv visualisieren. Es bietet vollständige Abwärtskompatibilität mit allen bestehenden Marketo Engage Smart-Kampagnen, ohne dass aktuelle Funktionen verloren gehen.
 

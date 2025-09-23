@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -18,7 +18,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
 
 ## So wählen Sie Spalten aus {#how-to-select-columns}
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das Symbol Listeneinstellungen .
+1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das Symbol Listeneinstellungen .
 
    ![](assets/people-page-columns-1.png)
 
@@ -71,7 +71,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
    <td>Gesamtzahl der Vertriebskampagnen, an denen die Person teilgenommen hat</td>
   </tr>
   <tr>
-   <td># [!UICONTROL -Aufrufe]</td>
+   <td># [!UICONTROL-Aufrufe]</td>
    <td>Gesamtzahl der Anrufe, die an diese Person getätigt wurden</td>
   </tr>
   <tr>

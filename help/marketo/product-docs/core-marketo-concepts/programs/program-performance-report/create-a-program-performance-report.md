@@ -4,10 +4,10 @@ description: Erstellen eines Programmleistungsberichts - Marketo-Dokumente - Pro
 title: Erstellen eines Programmleistungsberichts
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 6%
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Dieser Bericht bietet großartige Statistiken zu Ihren Programmen.
 
-1. [Erstellen Sie einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} und wählen Sie den **[!UICONTROL Programm-]**&#x200B;[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Erstellen Sie einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} und wählen Sie den **[!UICONTROL Programm-]**[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“.
 1. Du bist da! Erkunden Sie Ihren Bericht, um zu sehen, wie Ihre Programme funktionieren.
 

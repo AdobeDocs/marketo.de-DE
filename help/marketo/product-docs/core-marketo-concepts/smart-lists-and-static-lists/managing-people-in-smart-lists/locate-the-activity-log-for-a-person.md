@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472404
 description: Suchen Sie das Aktivitätsprotokoll für eine Person - Marketo-Dokumente - Produktdokumentation
-title: Suchen des Aktivitätsprotokolls für eine Person
+title: Suchen nach dem Aktivitätsprotokoll für eine Person
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Suchen des Aktivitätsprotokolls für eine Person {#locate-the-activity-log-for-a-person}
+# Suchen nach dem Aktivitätsprotokoll für eine Person {#locate-the-activity-log-for-a-person}
 
-Das Aktivitätsprotokoll ist die ultimative Datenquelle. Dies ist die komplette Geschichte des Journey einer Person in Marketo Engage.
+Das Aktivitätsprotokoll ist die ultimative Datenquelle. Dies ist die vollständige Geschichte des Journey einer Person in Marketo Engage.
 
 1. Navigieren Sie zur **[!UICONTROL Datenbank]**.
 
@@ -23,7 +23,7 @@ Das Aktivitätsprotokoll ist die ultimative Datenquelle. Dies ist die komplette 
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Klicken Sie auf die **[!UICONTROL Personen]**. Wählen Sie eine Personen **[!UICONTROL ID]** Nummer aus.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Personen]**. Wählen Sie eine Personen **[!UICONTROL ID]** Nummer aus.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 

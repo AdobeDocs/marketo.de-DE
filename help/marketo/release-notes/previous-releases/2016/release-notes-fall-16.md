@@ -3,14 +3,14 @@ unique-page-id: 11384018
 description: Versionshinweise - Herbst '16 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Herbst '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 1%
 
 ---
 
-# Versionshinweise: Herbst &#39;16 {#release-notes-fall}
+# Versionshinweise – Herbst 2016 {#release-notes-fall}
 
 Die folgenden Funktionen sind in der Version vom Herbst 16 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen. Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen.
 

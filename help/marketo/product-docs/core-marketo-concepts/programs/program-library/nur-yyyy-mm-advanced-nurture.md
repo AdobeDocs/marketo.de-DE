@@ -1,16 +1,16 @@
 ---
 description: NUR-YYYY-MM-Advanced Nurture - Marketo-Dokumentation
-title: NUR-YYYY-MM-Advanced Nurture
+title: 'Erweitertes Nurturing: NUR-JJJJ-MM'
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
-# NUR-YYYY-MM-Advanced Nurture {#nur-yyyy-mm-advanced-nurture}
+# Erweitertes Nurturing: NUR-JJJJ-MM {#nur-yyyy-mm-advanced-nurture}
 
 Dies ist ein Beispiel für erweiterte Nurture-Programme, die das Marketo Engage Engagement Program verwenden. Verschachtelte E-Mail-Programme verhindern, dass Personen Inhalte erhalten, die sie bereits konsumiert haben, oder steuern den Typ des Inhalts, den sie in jedem Stream konsumieren sollen. Attributionsberichte können für jedes einzelne verschachtelte E-Mail-Programm ausgeführt werden. Kanäle: „Pflegen“ und ein dedizierter Kanal „Pflege-E-Mail“ für die verschachtelten E-Mail-Programme senden eine Newsletter-E-Mail mit einem Marketo Engage-E-Mail-Programm. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
@@ -70,17 +70,17 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>01 - E-Mail (Live in verschachtelten Programmen)</td>
   </tr>
    <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>02 - E-Mail (Live in verschachtelten Programmen)</td>
   </tr>
    <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>03 - E-Mail (Live in verschachtelten Programmen)</td>
   </tr>
   <tr>

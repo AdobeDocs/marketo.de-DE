@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360309
 description: Grundlagen zu Arbeitsbereichen und Personenpartitionen - Marketo-Dokumente - Produktdokumentation
-title: Arbeitsbereiche und Personenpartitionen
+title: Grundlegendes zu Arbeitsbereichen und Personen-Partitionen
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 3%
+source-wordcount: '535'
+ht-degree: 5%
 
 ---
 
-# Arbeitsbereiche und Personenpartitionen {#understanding-workspaces-and-person-partitions}
+# Grundlegendes zu Arbeitsbereichen und Personen-Partitionen {#understanding-workspaces-and-person-partitions}
 
 ## Arbeitsbereiche {#workspaces}
 
@@ -80,7 +80,7 @@ Sie können diese Elemente über Arbeitsbereiche hinweg freigeben.
 * Intelligente Kampagnen
 * [Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
 * [Segmentierungen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-* Snippets
+* Ausschnitte
 
 ## Klonen von Arbeitsbereichen {#cloning-across-workspaces}
 
@@ -88,7 +88,7 @@ Für Assets, die keine Vorlagen sind, ist es am besten, sie als lokale Assets in
 
 * Programme
 * E-Mails
-* Landing Pages
+* Landingpages
 * Formulare
 
 >[!IMPORTANT]
@@ -113,7 +113,7 @@ Personenpartitionen funktionieren wie separate Datenbanken. Jede Partition hat i
 
 Sie können Personenpartitionen in [Arbeitsbereichen](create-a-new-workspace.md) in den folgenden Konfigurationen zuweisen:
 
-* 1:1-Partition (1:1)
+* Eine Workspace-zu-1-Personen-Partition (1:1)
 * Ein Arbeitsbereich für viele Personenpartitionen (1:x)
 * Viele Arbeitsbereiche zu einer Personenpartition (x:1)
 

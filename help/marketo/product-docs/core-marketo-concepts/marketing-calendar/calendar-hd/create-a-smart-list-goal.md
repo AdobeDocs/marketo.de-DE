@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504128
 description: Erstellen eines Smart List-Ziels - Marketo-Dokumente - Produktdokumentation
-title: Erstellen eines Smart List-Ziels
+title: Erstellen eines Ziels für eine intelligente Liste
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Erstellen eines Smart List-Ziels {#create-a-smart-list-goal}
+# Erstellen eines Ziels für eine intelligente Liste {#create-a-smart-list-goal}
 
 Ziele sind Möglichkeiten, den Fortschritt zu verfolgen und Ihr Team zu motivieren. Sie können mit Smart Lists kombiniert werden, um alle möglichen Dinge in Marketo zu verfolgen. Nachdem Sie ein Ziel für die Smart-Liste eingerichtet haben, wird es automatisch alle zwei Stunden aktualisiert, wenn es in einer Präsentation verwendet wird.
 
@@ -21,7 +21,7 @@ Wie Präsentationen sind Ziele [Workspace](/help/marketo/product-docs/administra
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Klicken Sie unten **rechts auf** Presentations.
+1. Klicken Sie **[!UICONTROL Präsentationen]** in der rechten unteren Ecke.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 

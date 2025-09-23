@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719398
 description: Erstellen eines neuen Dialogfelds Web-Kampagne - Marketo-Dokumente - Produktdokumentation
-title: Erstellen eines neuen Web-Kampagnendialogfelds
+title: Erstellen einer neuen Dialog-Web-Kampagne
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '749'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Erstellen eines neuen Web-Kampagnendialogfelds {#create-a-new-dialog-web-campaign}
+# Erstellen einer neuen Dialog-Web-Kampagne {#create-a-new-dialog-web-campaign}
 
 ## Erstellen eines Web-Kampagnendialogfelds {#create-a-dialog-web-campaign}
 
@@ -152,7 +152,7 @@ Siehe [Klonen einer Web-](/help/marketo/product-docs/web-personalization/working
 
 ## Löschen einer Web-Kampagne {#delete-a-web-campaign}
 
-1. Klicken Sie auf der **[!UICONTROL Web]**&#x200B;**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der **[!UICONTROL Web]****[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

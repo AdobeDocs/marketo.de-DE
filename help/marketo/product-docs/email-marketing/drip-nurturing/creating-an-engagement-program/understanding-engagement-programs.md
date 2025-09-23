@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359647
 description: Verstehen von Interaktionsprogrammen - Marketo-Dokumente - Produktdokumentation
-title: Verstehen von Interaktionsprogrammen
+title: Grundlegendes zu Interaktionsprogrammen
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
-# Verstehen von Interaktionsprogrammen {#understanding-engagement-programs}
+# Grundlegendes zu Interaktionsprogrammen {#understanding-engagement-programs}
 
 Interaktionsprogramme sind so konzipiert, dass sie neuen Personen Inhalte systematisch präsentieren.
 
@@ -54,7 +54,7 @@ Es gibt zwei Arten von **Inhalt** die Sie zu Interaktionsprogrammströmen hinzuf
 >* [Stream-Inhalte entfernen](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [Archivieren und Aufheben der Archivierung von Stream-Inhalten](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## gießen {#cast}
+## Umwandlung {#cast}
 
 Ein **cast** ist das Ereignis des Versands von E-Mails aus einem Interaktionsprogramm.
 
@@ -74,7 +74,7 @@ Sie entscheiden, wann eine Besetzung geschieht, indem Sie **Stream-Kadenz** einr
 
 ## Personen-Kadenz {#person-cadence}
 
-Eine **Personen-Kadenz** ist ein Status, der seine Fähigkeit definiert, Inhalte aus einem Interaktionsprogramm zu erhalten. Sie können den **[!UICONTROL Ändern der Interaktionsprogrammkadenz]** Flussschritt verwenden, um dies in &quot;[!UICONTROL &quot; &#x200B;] &quot;[!UICONTROL &quot; &#x200B;].
+Eine **Personen-Kadenz** ist ein Status, der seine Fähigkeit definiert, Inhalte aus einem Interaktionsprogramm zu erhalten. Sie können den **[!UICONTROL Ändern der Interaktionsprogrammkadenz]** Flussschritt verwenden, um dies in &quot;[!UICONTROL &quot; ] &quot;[!UICONTROL &quot; ].
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
@@ -88,7 +88,7 @@ Sobald eine Person alle Inhalte in einem Stream erhalten hat, nennen wir die Per
 >
 >[Personen mit erschöpftem Inhalt](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
-## Ebene der Inhaltsinteraktion {#content-engagement-level}
+## Grad der Inhaltsinteraktion {#content-engagement-level}
 
 Die Interaktionsstufe für Inhalte ist eine Punktzahl von 0 bis 100, die Marketo Ihrem Inhalt zuweist. Diese Zahl wird mittels einer komplexen Formel bestimmt, die Öffnungsvorgänge, Klicks, Abbestellungen, Programmerfolg und andere Faktoren einrechnet.
 

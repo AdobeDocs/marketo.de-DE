@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360016
 description: Filtern von Personen in einem Bericht mit einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
-title: Personen in einem Bericht mit einer Smart-Liste filtern
+title: Filtern von Personen in einem Bericht mit einer intelligenten Liste
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 20%
+ht-degree: 38%
 
 ---
 
-# Personen in einem Bericht mit einer Smart-Liste filtern {#filter-people-in-a-report-with-a-smart-list}
+# Filtern von Personen in einem Bericht mit einer intelligenten Liste {#filter-people-in-a-report-with-a-smart-list}
 
 Verwenden Sie Smart Lists, um Ihre Berichte nach bestimmten Personenattributen zu filtern.
 
@@ -27,7 +27,7 @@ Sie können Smart Lists mit den folgenden Berichtstypen verwenden:
 * [Unternehmens-Web-Aktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Webseitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 

@@ -1,18 +1,18 @@
 ---
 description: Vorlagenliste als weiteren Benutzer anzeigen - Marketo-Dokumente - Produktdokumentation
-title: Vorlagenliste als einen anderen Benutzer anzeigen
+title: Anzeigen der Vorlagenliste als andere Benutzerin bzw. anderer Benutzer
 hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Vorlagenliste als einen anderen Benutzer anzeigen {#view-template-list-as-another-user}
+# Anzeigen der Vorlagenliste als andere Benutzerin bzw. anderer Benutzer {#view-template-list-as-another-user}
 
 Als Administrator können Sie Vorlagen wie beliebige Benutzer anzeigen.
 

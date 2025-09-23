@@ -1,14 +1,14 @@
 ---
 description: Als Spam markierte E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Als Spam markierte E-Mail
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+title: E-Mail wurde als Spam markiert
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Als Spam markierte E-Mail {#email-marked-as-spam}
+# E-Mail wurde als Spam markiert {#email-marked-as-spam}
 
 Als Unternehmen arbeiten wir hart daran, dass unsere Zustellbarkeitsraten hoch bleiben. Es gibt jedoch bestimmte Benutzerverhaltensweisen und Einstellungen, die dazu führen können, dass Trigger in Ihren gesendeten E-Mails an den Spam-Ordner weitergeleitet werden.
 

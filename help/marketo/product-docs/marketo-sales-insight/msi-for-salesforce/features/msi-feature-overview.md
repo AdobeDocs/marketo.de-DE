@@ -4,10 +4,10 @@ description: MSI-Funktionsübersicht - Marketo-Dokumente - Produktdokumentation
 title: MSI-Funktionsübersicht
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '931'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -140,7 +140,7 @@ Die folgenden Funktionen sind **nicht verfügbar** auf der Seite „Opportunity-
 
 [!DNL Salesforce Classic]: Hinzufügen von Schaltflächen zur Watchlist, Hinzufügen zur Marketo-Kampagne und Massenaktion &quot;Marketo-E-Mail senden“ in der Ansicht Lead- und Kontaktliste.
 
-## Registerkarte Marketo {#marketo-tab}
+## Registerkarte „Marketo“ {#marketo-tab}
 
 * [!DNL Best Bets]
 

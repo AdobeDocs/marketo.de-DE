@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359545
 description: Definieren der Kriterien für den A/B-Testsieger - Marketo-Dokumente - Produktdokumentation
-title: Kriterien für den A/B-Testsieger definieren
+title: Definieren der Kriterien für den A/B-Testsieger
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 1%
+ht-degree: 22%
 
 ---
 
-# Kriterien für den A/B-Testsieger definieren {#define-the-a-b-test-winner-criteria}
+# Definieren der Kriterien für den A/B-Testsieger {#define-the-a-b-test-winner-criteria}
 
 Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}Tests zu Ihrem E-Mail-Programm müssen Sie einen Testtyp auswählen, [den A/B-Test planen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"} und dann die Kriterien für den Gewinner definieren. So entscheiden Sie, welche E-Mail gewinnt.
 
@@ -32,15 +32,15 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
    </tr>
    <tr>
    <td><b>[!UICONTROL Klicks]</b></td>
-   <td>Standardmäßig sind die Tracking-Funktionen für Links in E-Mails integriert, sodass Sie sehen können, wer auf welchen Link geklickt hat, wie viele Links insgesamt angeklickt wurden usw.</td>
+   <td>Standardmäßig sind Tracking-Funktionen für Links in E-Mails integriert, sodass Sie sehen können, wer auf welchen Link geklickt hat, wie viele Links insgesamt angeklickt wurden usw.</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Zum Öffnen klicken] %</b></td>
-   <td>Prozentsatz der E-Mails, die geöffnet wurden und bei denen auf einen Link in der E-Mail geklickt wurde. Dabei werden Relevanz und Kontext einer E-Mail gemessen. Hierzu wird die Anzahl der Einzelklicks dividiert durch die Anzahl der Einzelöffnungen mit 100 multipliziert, um den Wert als Prozentsatz anzuzeigen.</td>
+   <td>Prozentsatz der E-Mails, die geöffnet wurden und bei denen auf einen Link in der Nachricht geklickt wurde. Dabei werden Relevanz und Kontext einer E-Mail gemessen. Hierzu wird die Anzahl der Einzelklicks durch die Anzahl der Einzelöffnungen dividiert und mit 100 multipliziert, um den Wert als Prozentsatz anzuzeigen.</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=de" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihrer Inhalte.</td>
+   <td>Der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihrer Inhalte.</td>
    </tr>
    </table>
 

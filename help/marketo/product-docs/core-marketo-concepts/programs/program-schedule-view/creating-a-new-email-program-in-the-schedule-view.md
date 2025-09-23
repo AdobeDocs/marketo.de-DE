@@ -4,16 +4,16 @@ description: Erstellen eines neuen E-Mail-Programms in der Zeitplanansicht - Mar
 title: Erstellen eines neuen E-Mail-Programms in der Zeitplanansicht
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
 # Erstellen eines neuen E-Mail-Programms in der Zeitplanansicht {#creating-a-new-email-program-in-the-schedule-view}
 
-Sie können ein E-Mail-Programm in der Ansicht Programmplan erstellen. So geht&#39;s.
+Sie können ein E-Mail-Programm in der Ansicht Programmplan erstellen. Und so geht das.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

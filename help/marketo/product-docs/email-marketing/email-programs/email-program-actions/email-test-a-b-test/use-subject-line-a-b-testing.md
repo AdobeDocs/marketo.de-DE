@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359494
 description: Verwenden der „Betreffzeile“ von A/B-Tests - Marketo-Dokumente - Produktdokumentation
-title: Verwenden von A/B-Tests der „Betreffzeile“
+title: Verwenden von A/B-Tests nach Betreffzeile
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Verwenden von A/B-Tests der „Betreffzeile“ {#use-subject-line-a-b-testing}
+# Verwenden von A/B-Tests nach Betreffzeile {#use-subject-line-a-b-testing}
 
 Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Einer der häufigsten Tests ist der **[!UICONTROL Betreffzeile]** Test.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360401
 description: Vergleichen der Kanaleffektivität mit dem Programm-Analyzer - Marketo-Dokumente - Produktdokumentation
-title: Vergleich der Kanaleffektivität mit dem Programm-Analyzer
+title: Vergleichen der Kanaleffektivität mit dem Programm-Analyzer
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -79,7 +79,7 @@ In unserem Beispiel sehen wir, dass der Kanal der Fachmesse sowohl der teuerste 
 
 >[!TIP]
 >
->Die Beispiele in diesen Schritten messen die Effektivität basierend auf der erstellten Pipeline. Verwenden Sie die [!UICONTROL Y-Achse] Dropdown-Liste, um andere Möglichkeiten zur Messung der Kanaleffektivität auszuwählen, z. B[!UICONTROL &#x200B; „Neue &#x200B;]&quot;, [!UICONTROL Mitglieder], [!UICONTROL Kosten pro Erfolg] usw.
+>Die Beispiele in diesen Schritten messen die Effektivität basierend auf der erstellten Pipeline. Verwenden Sie die [!UICONTROL Y-Achse] Dropdown-Liste, um andere Möglichkeiten zur Messung der Kanaleffektivität auszuwählen, z. B[!UICONTROL  „Neue ]&quot;, [!UICONTROL Mitglieder], [!UICONTROL Kosten pro Erfolg] usw.
 
 >[!MORELIKETHIS]
 >

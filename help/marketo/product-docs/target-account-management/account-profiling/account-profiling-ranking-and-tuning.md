@@ -1,19 +1,19 @@
 ---
 unique-page-id: 15695924
 description: Ranking und Tuning bei der Kontoprofilerstellung - Marketo-Dokumente - Produktdokumentation
-title: Ranking und Optimierung für Kontoprofile
+title: Ranking und Optimierung für die Kontoprofilierung
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Ranking und Optimierung für Kontoprofile {#account-profiling-ranking-and-tuning}
+# Ranking und Optimierung für die Kontoprofilierung {#account-profiling-ranking-and-tuning}
 
-Das Account Profiling identifiziert Ihr Ideal Customer Profile (ICP), ordnet Unternehmen in Ihrer Datenbank basierend auf dem ICP an und fügt ICP-Indikatordaten zu Konten hinzu, die als [!UICONTROL Named Accounts“ &#x200B;] werden.
+Das Account Profiling identifiziert Ihr Ideal Customer Profile (ICP), ordnet Unternehmen in Ihrer Datenbank basierend auf dem ICP an und fügt ICP-Indikatordaten zu Konten hinzu, die als [!UICONTROL Named Accounts“ ] werden.
 
 >[!IMPORTANT]
 >

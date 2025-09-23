@@ -3,14 +3,14 @@ unique-page-id: 11380218
 description: Versionshinweise - 16. Sommer - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Sommer '16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '774'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Versionshinweise: Sommer &#39;16 {#release-notes-summer}
+# Versionshinweise – Sommer 2016 {#release-notes-summer}
 
 Die folgenden Funktionen sind in der Version vom Sommer 1916 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen. Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen.
 

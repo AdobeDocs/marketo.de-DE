@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359904
 description: Sprache, Gebietsschema und Zeitzone auswählen - Marketo-Dokumente - Produktdokumentation
-title: Sprache, Gebietsschema und Zeitzone auswählen
+title: Auswählen von Sprache, Gebietsschema und Zeitzone
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 4%
+ht-degree: 11%
 
 ---
 
-# Sprache, Gebietsschema und Zeitzone auswählen {#select-your-language-locale-and-time-zone}
+# Auswählen von Sprache, Gebietsschema und Zeitzone {#select-your-language-locale-and-time-zone}
 
-Englisch ist nicht Ihre Muttersprache? Keine Sorge, wir haben dich im Griff. So ändern Sie die Sprache, das Gebietsschema und die Zeitzone Ihres Marketo Engage-Abonnements.
+Englisch ist nicht Ihre Muttersprache? Keine Sorge, wir haben dich im Griff. Im Folgenden erfahren Sie, wie Sie die Sprache, das Gebietsschema und die Zeitzone Ihres Marketo Engage-Abonnements ändern.
 
 >[!IMPORTANT]
 >
->Wenn Ihr Marketo Engage-Abonnement auf [Marketo mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} migriert wurde, gilt nur [Zeitzone](#change-your-time-zone) in diesem Artikel für Sie. Um Ihre Sprache und/oder Ihr Gebietsschema zu ändern, müssen diese Einstellungen in Ihrem [Adobe-Kontoprofil aufgerufen werden](https://account.adobe.com/profile){target="_blank"}.
+>Wenn Ihr Marketo Engage-Abonnement auf [Marketo mit Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} migriert wurde, gilt nur [Zeitzone](#change-your-time-zone) in diesem Artikel für Sie. Um Ihre Sprache und/oder Ihr Gebietsschema zu ändern, müssen diese Einstellungen in Ihrem [Adobe-Kontoprofil](https://account.adobe.com/profile){target="_blank"} aufgerufen werden.
 
 ## Unterstützte Sprachen {#supported-languages}
 

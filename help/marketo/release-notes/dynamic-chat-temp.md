@@ -1,28 +1,28 @@
 ---
 description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdokumentation
-title: Versionshinweise zu Dynamic Chat
+title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '924'
-ht-degree: 3%
+ht-degree: 68%
 
 ---
 
-# Versionshinweise zu Dynamic Chat {#dynamic-chat-release}
+# Dynamic Chat-Versionshinweise {#dynamic-chat-release}
 
-Adobe Dynamic Chat-Versionen basieren auf einem kontinuierlichen Bereitstellungsmodell, das einen besser skalierbaren Ansatz für die Bereitstellung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat, daher schauen Sie regelmäßig nach den aktuellsten Informationen.
+Die Versionen von Adobe Dynamic Chat basieren auf einem Modell der kontinuierlichen Bereitstellung, das einen besser skalierbaren Ansatz für die Bereitstellung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat, schauen Sie daher regelmäßig nach den aktuellsten Informationen.
 
-Die Seite mit den standardmäßigen Versionshinweisen für Marketo Engage [finden Sie hier](/help/marketo/release-notes/current.md){target="_blank"}.
+Die Standardseite mit den Versionshinweisen für Marketo Engage [finden Sie hier](/help/marketo/release-notes/current.md){target="_blank"}.
 
 ## Version Juni 2025 {#june-2025-release}
 
 ### Überarbeitung der Routing-Logik {#routing-logic-revamp}
 
-Die Live-Chat-Routing-Logik in Dynamic Chat wurde überarbeitet, um ein intelligenteres und vorhersehbareres Interaktionsverhalten über alle Routing-Typen (Account, Custom, Team und Round Robin) hinweg sicherzustellen. Die neue Logik vereinfacht Routing-Flüsse und verbessert die Fallback-Handhabung, wenn Agenten nicht verfügbar sind.
+Die Routing-Logik des Live-Chats in Dynamic Chat wurde überarbeitet, um über alle Routing-Typen hinweg (Konto, benutzerdefiniert, Team und Round Robin) für ein intelligenteres und besser vorhersehbares Interaktionsverhalten zu sorgen. Die neue Logik vereinfacht Routing-Abläufe und verbessert Ausweichmöglichkeiten, wenn keine Agentinnen oder Agenten verfügbar sind.
 
 #### Wichtige Verbesserungen im Routing-Verhalten
 
@@ -32,19 +32,19 @@ Die Live-Chat-Routing-Logik in Dynamic Chat wurde überarbeitet, um ein intellig
 
    * Wenn ein Agent verfügbar ist, aber nicht reagiert (z. B. den Chat ablehnt oder verpasst), versucht das System, eine Verbindung zu einem anderen Agenten aus demselben Pool herzustellen.
 
-   * Fallback-Logik (wie Round Robin) wird nur aktiviert, wenn während der ersten Auflösung keine geeigneten Agenten gefunden werden, nicht erneut versuchen nach einer fehlgeschlagenen Interaktion.
+   * Die Ausweichlogik (wie etwa Round Robin) wird nur aktiviert, wenn bei der ersten Auflösung keine geeigneten Agentinnen oder Agenten gefunden werden, jedoch nicht für ein erneutes Versuchen nach einer fehlgeschlagenen Interaktion.
 
-* **Routingregelspezifisches Verhalten**
+* **Spezifisches Verhalten für eine Routing-Regel**
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
-Wenn die E-Mail-Domain eines Besuchers einem bekannten Konto zugeordnet ist, wird der zugeordnete Agent immer priorisiert.
+Wenn die E-Mail-Domain einer Besucherin oder eines Besuchers einem bekannten Konto zugeordnet ist, wird die als Agentin bzw. Agent zugeordnete Person immer priorisiert.
 
-Wenn der Agent verfügbar ist, wird der Chat direkt an ihn weitergeleitet.
+Wenn diese Person verfügbar ist, wird der Chat direkt an sie weitergeleitet.
 
-Wenn der Agent nicht verfügbar ist, führt das System Folgendes aus:
+Wenn sie nicht verfügbar ist, tut das System Folgendes:
 
-* Versucht keinen anderen Agenten, auch wenn Round Robin als Ausweichlösung aktiviert ist.
+* Es versucht nicht, eine andere Person als Agentin bzw. Agenten zu erreichen, auch wenn Round Robin als Ausweichlösung aktiviert ist.
 
 Stattdessen gilt Folgendes:
 
@@ -53,55 +53,55 @@ Stattdessen gilt Folgendes:
 
 Die Routing-Regel auf Kartenebene (z. B. Team, Benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agent).
 
-_&#x200B;**Benutzerdefiniertes/Team-Routing**&#x200B;_
+_**Benutzerdefiniertes/Team-Routing**_
 
-Diese Regeln können mehrere geeignete Agenten zurückgeben.
+Diese Regeln können mehrere geeignete Agentinnen oder Agenten zurückgeben.
 
 Wenn der erste verfügbare Agent nicht interagiert, versucht das System einen weiteren Agenten aus derselben Liste.
 
-Ein Round-Robin-Fallback wird nicht ausgelöst, nur weil ein Agent nicht reagiert.
+Nur weil eine Person nicht reagiert, wird nicht gleich ein Round-Robin-Fallback ausgelöst.
 
-Wenn keiner der Agenten eingreift:
+Wenn sich keine Agentin bzw. kein Agent meldet, passiert Folgendes:
 
-* Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
-&#x200B;- oder -
-* Zeigt die standardmäßige Fallback-Nachricht an.
+* Das System zeigt den Kalender der ersten Person an, die als Agentin bzw. Agent angefragt wurde (falls aktiviert).
+– oder –
+* Es zeigt die standardmäßige Fallback-Nachricht an.
 
-_&#x200B;**Round Robin-Routing**&#x200B;_
+_**Round-Robin-Routing**_
 
-Bei Verwendung als primäre Routingregel führt das System Folgendes durch:
+Bei Verwendung als primäre Routing-Regel führt das System Folgendes durch:
 
-* Versucht, den ersten verfügbaren Agenten aus dem Round-Robin-Pool zu kontaktieren.
+* Es versucht, die erste als Agentin bzw. Agent verfügbare Person aus dem Round-Robin-Pool zu kontaktieren.
 
-* Wenn der erste Agent nicht antwortet, versucht er es erneut mit dem nächstbesten geeigneten Agenten.
+* Wenn die erste Person nicht antwortet, erfolgt ein erneuter Versuch mit der am nächstbesten geeigneten Person.
 
-Wenn Round Robin als Fallback verwendet wird, wird er nur aktiviert, wenn keine Agenten von der primären Regel aufgelöst werden.
+Wenn Round Robin als Fallback verwendet wird, wird es nur aktiviert, wenn von der primären Regel keine Agentinnen oder Agenten aufgelöst werden.
 
-_&#x200B;**Besuchererlebnis-Fluss**&#x200B;_
+_**Besuchererlebnis-Fluss**_
 
 Das System prüft, ob Konto-Routing anwendbar ist.
 
-* Wenn ja und der Agent verfügbar ist, wird sofort eine Verbindung hergestellt.
+* Falls ja und wenn eine Agentin oder ein Agent verfügbar ist, wird sofort eine Verbindung hergestellt.
 
-* Wenn der Agent nicht geeignet oder nicht verfügbar ist, fährt er mit der Routing-Regel auf Kartenebene fort.
+* Wenn die Person nicht geeignet oder nicht verfügbar ist, wird mit der Routing-Regel auf Kartenebene fortgefahren.
 
 Routingregel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wurden ausgewertet.
 
-* Berechtigte Agenten werden auf Verfügbarkeit geprüft (Berechtigungen, Status).
+* Geeignete Agentinnen und Agenten werden auf Verfügbarkeit geprüft (Berechtigungen, Status).
 
 * Das System greift auf einen Agenten zu und versucht bei Bedarf einen zweiten Agenten aus derselben Regel.
 
 * Wenn keine Interaktion erfolgreich ist, wird die Ausweichlogik angewendet:
 
    * Kalender-Fallback (falls aktiviert),
-&#x200B;- oder -
+– oder –
    * Standardnachricht.
 
-Ein Round-Robin-Fallback wird nur berücksichtigt, wenn keine geeigneten Agenten aus der primären Routing-Regel gefunden werden, nicht, wenn einzelne Agenten nicht reagieren.
+Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine geeigneten Agentinnen oder Agenten gemäß der primären Routing-Regel gefunden werden, aber nicht, wenn einzelne Agentinnen bzw. Agenten nicht reagieren.
 
-##### Anwendungsfälle {#use-cases}
+##### Anwendungsszenarien {#use-cases}
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 <table><thead>
   <tr>
@@ -112,22 +112,22 @@ _&#x200B;**Konto-Routing**&#x200B;_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>Die Domain des Besuchers wird einem Konto zugeordnet. Für den zugeordneten Agenten ist der Live-Chat aktiviert und verfügbar</td>
-    <td>Der Chat stellt eine direkte Verbindung zum zugeordneten Agenten her</td>
+    <td>Die Domain der Besucherin bzw. des Besuchers wird einem Konto zugeordnet. Für die als Agentin bzw. Agent zugeordnete Person ist der Live-Chat aktiviert und verfügbar.</td>
+    <td>Der Chat stellt eine direkte Verbindung zur als Agentin bzw. Agent zugeordneten Person her.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
-    <td>Zugeordneter Agent ist nicht verfügbar, Round Robin Fallback ist aktiviert</td>
+    <td>Die als Agentin bzw. Agent zugeordnete Person ist nicht verfügbar, Round-Robin-Fallback ist aktiviert.</td>
     <td>Das System wählt einen verfügbaren Agenten über Round Robin aus und bindet ihn ein </td>
   </tr>
   <tr>
-    <td>Kein Fallback-Agent</td>
-    <td>Zugeordneter Agent ist nicht verfügbar, kein Round Robin Fallback; Besprechungsbuchung ist aktiviert</td>
+    <td>Keine Fallback-Agentin bzw. kein Fallback-Agent</td>
+    <td>Die als Agentin bzw. Agent zugeordnete Person ist nicht verfügbar, kein Round-Robin-Fallback; Meeting-Buchung ist aktiviert.</td>
     <td>Das System zeigt den Kalender eines zugeordneten Agenten an oder zeigt eine standardmäßige Ausweichmeldung an</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
+_**Benutzerdefiniertes Routing**_
 
 <table><thead>
   <tr>
@@ -138,8 +138,8 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>Benutzerdefinierte Logik löst eine Liste von Agenten auf. Der erste Agent ist verfügbar und akzeptiert Chat.</td>
-    <td>Chat stellt eine Verbindung zum ersten Agenten her.</td>
+    <td>Benutzerdefinierte Logik löst eine Liste von Agentinnen und Agenten auf. Die erste Person ist verfügbar und akzeptiert den Chat.</td>
+    <td>Chat stellt eine Verbindung zur ersten Agentin bzw. zum ersten Agenten her.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
@@ -147,13 +147,13 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
     <td>Das System wählt über Round Robin einen verfügbaren Agenten aus und bindet ihn ein.</td>
   </tr>
   <tr>
-    <td>Kein Fallback-Agent</td>
-    <td>Zwei Agenten wurden aufgelöst. Keiner akzeptiert Chat, Fallback wird auf den Besprechungskalender festgelegt.</td>
+    <td>Keine Fallback-Agentin bzw. kein Fallback-Agent</td>
+    <td>Zwei Agentinnen bzw. Agenten wurden aufgelöst. Keine der beiden Personen akzeptiert den Chat; Fallback wird auf den Meeting-Kalender festgelegt.</td>
     <td>Zuerst versucht, den Kalender des Agenten anzuzeigen, oder die Standardfallback-Nachricht wird angezeigt.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Team-Routing**&#x200B;_
+_**Team-Routing**_
 
 <table><thead>
   <tr>
@@ -164,22 +164,22 @@ _&#x200B;**Team-Routing**&#x200B;_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>Das Team umfasst Agenten mit Live-Chat. Der erste verfügbare Agent akzeptiert den Chat.</td>
-    <td>Chat stellt eine Verbindung zu diesem Agenten her.</td>
+    <td>Das Team umfasst Agentinnen und Agenten mit Live-Chat. Die erste verfügbare Person akzeptiert den Chat.</td>
+    <td>Chat stellt eine Verbindung zu dieser Agentin bzw. diesem Agenten her.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
-    <td>Es ist kein Team-Agent verfügbar und Round Robin Fallback ist aktiviert.</td>
+    <td>Es ist keine Team-Agentin bzw. kein Team-Agent verfügbar und Round-Robin-Fallback ist aktiviert.</td>
     <td>Das System wählt einen Agenten aus dem Round-Robin-Pool aus und stellt eine Verbindung mit ihm her.</td>
   </tr>
   <tr>
-    <td>Kein Fallback-Agent</td>
-    <td>Zwei Agenten verfügbar, aber keiner von beiden ist eingebunden; Kalenderfallback aktiviert.</td>
+    <td>Keine Fallback-Agentin bzw. kein Fallback-Agent</td>
+    <td>Zwei Agentinnen bzw. Agenten verfügbar, aber keine der beiden Personen reagiert; Kalender-Fallback aktiviert.</td>
     <td>Zuerst versucht, den Kalender des Agenten anzuzeigen oder eine Ausweichmeldung auszulösen.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Round Robin-Routing**&#x200B;_
+_**Round-Robin-Routing**_
 
 <table><thead>
   <tr>
@@ -195,27 +195,27 @@ _&#x200B;**Round Robin-Routing**&#x200B;_
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
-    <td>Im Round Robin Pool sind keine Agenten verfügbar. Der Besprechungskalender ist aktiviert.</td>
+    <td>Im Round-Robin-Pool sind keine Agentinnen und Agenten verfügbar. Der Meeting-Kalender ist aktiviert.</td>
     <td>Der Kalender wird für den ersten Agenten in der Liste angezeigt (falls konfiguriert) oder die Fallback-Nachricht wird angezeigt.</td>
   </tr>
   <tr>
-    <td>Kein Fallback-Agent</td>
-    <td>Keine verfügbaren Agenten; Fallback ist deaktiviert.</td>
+    <td>Keine Fallback-Agentin bzw. kein Fallback-Agent</td>
+    <td>Keine verfügbaren Agentinnen und Agenten; Fallback ist deaktiviert.</td>
     <td>Dem Besucher wird eine statische Fallback-Nachricht angezeigt.</td>
   </tr>
 </tbody></table>
 
-### Impuls-Benachrichtigung {#pulse-notification}
+### Pulse-Benachrichtigung {#pulse-notification}
 
-Wenn ein Besucher die Verbindung zu einem Agenten anfordert, stellen wir ihm eine In-App-Browser-Benachrichtigung zur Verfügung. Aber manchmal verpassen Agenten diese Chats.
+Wenn ein Besucher die Verbindung zu einem Agenten anfordert, stellen wir ihm eine In-App-Browser-Benachrichtigung zur Verfügung. Manchmal verpassen Agentinnen und Agenten diese Chats jedoch.
 
-Mit dieser Version kann der Live-Agent eine E-Mail-, Slack-, In-App- und Browser-Benachrichtigung erhalten, wenn ein neuer Besucher am Chat interessiert ist.
+Mit dieser Version kann die Live-Agentin bzw. der Live-Agent eine E-Mail-, Slack-, In-App- und Browser-Benachrichtigung erhalten, wenn eine neue Besucherin bzw. ein neuer Besucher am Chat interessiert ist.
 
-1. Klicken Sie auf Ihrer Adobe Experience Cloud-Homepage auf das Kontosymbol und wählen Sie **Voreinstellungen** aus.
+1. Klicken Sie auf Ihrer Adobe Experience Cloud-Homepage auf das Kontosymbol und wählen Sie **Einstellungen** aus.
 
    ![](assets/dynamic-chat-june-2025-release-1.png)
 
-1. Scrollen Sie nach unten zu _Benachrichtigungen_ und wählen Sie die gewünschten Dynamic Chat aus.
+1. Scrollen Sie nach unten zu _Benachrichtigungen_ und treffen Sie die gewünschten Dynamic Chat-Auswahlen.
 
    ![](assets/dynamic-chat-june-2025-release-2.png)
 

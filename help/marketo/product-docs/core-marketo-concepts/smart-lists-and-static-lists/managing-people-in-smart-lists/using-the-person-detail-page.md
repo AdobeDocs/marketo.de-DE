@@ -4,10 +4,10 @@ description: Verwenden der Seite „Personendetails“ - Marketo-Dokumente - Pro
 title: Verwenden der Seite „Personendetails“
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 33%
+ht-degree: 35%
 
 ---
 
@@ -60,7 +60,7 @@ Personeninformationen werden in die folgenden Registerkarten kategorisiert:
 
 >[!NOTE]
 >
->Sie können auch Opportunity-[ (über API eingefügt) für ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities) sehen, die nicht mit einem CRM synchronisiert wurden.
+>Sie können auch Opportunity-[ (über API eingefügt) für ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) sehen, die nicht mit einem CRM synchronisiert wurden.
 
 ## Bearbeiten eines Felds {#editing-a-field}
 
@@ -88,7 +88,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 | Foto-URL für Marketo Social [!DNL Twitter] | Profil-URL von Marketo Social [!DNL Twitter] | Marketo Social [!DNL Twitter] Reach | An Marketo Social [!DNL Twitter] weitergeleitete Registrierungen | Verwiesene Besuche bei Marketo Social [!DNL Twitter] |
 | Zweiter Vorname | Mobiltelefonnummer | Anzahl Mitarbeiter | Telefonnummer | Postleitzahl |
 | Priorität | Relative Bewertung | Rolle | Anrede | SIC-Code |
-| Seite | Land | Abgemeldet | Ursache für Abbestellung | Aktualisiert um |
+| Seite | Land | Abbestellt | Ursache für Abbestellung | Aktualisiert um |
 | Dringlichkeit | Website |  |  |  |
 
 >[!NOTE]

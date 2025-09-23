@@ -4,7 +4,7 @@ description: Install [!DNL Salesforce] Customization for Professional Edition-Ku
 title: Install [!DNL Salesforce] Customization for Professional Edition-Kunden
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Kunden mit [!DNL Salesforce] Professional Edition müssen diese Schritte ausfüh
 
    ![](assets/one-4.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/two-4.png)
 

@@ -1,16 +1,16 @@
 ---
 description: Gründe für Anrufe und Anrufergebnisse in Salesforce protokollieren - Marketo-Dokumente - Produktdokumentation
-title: Gründe und Anrufergebnisse bei Salesforce protokollieren
+title: Protokollieren der Anrufgründe und Anrufergebnisse bei Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Gründe und Anrufergebnisse bei Salesforce protokollieren {#log-call-reasons-and-call-outcomes-to-salesforce}
+# Protokollieren der Anrufgründe und Anrufergebnisse bei Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 
 Wenn Sie Anrufergebnisse und Anrufgründe zu Berichts- oder Sichtbarkeitszwecken in Salesforce protokollieren möchten, können Sie für jede Aktivität ein benutzerdefiniertes Feld erstellen. Jedes Feld muss einen bestimmten API-Namen (in Salesforce als „Feldname“ bezeichnet) verwenden.
 
@@ -57,7 +57,7 @@ Um diese Felder zu verwenden, müssen Sie das Feld zunächst als benutzerdefinie
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass das benutzerdefinierte Feld für das Profil sichtbar ist, das Ihre Benutzer von Sales Insight-Aktionen verwenden, zusammen mit überall dort, wo es sichtbar sein soll.
+   >Stellen Sie sicher, dass das benutzerdefinierte Feld für das Profil sichtbar ist, das Ihre Benutzer von Sales Insight Actions verwenden, zusammen mit überall dort, wo es sichtbar sein soll.
 
 1. Wählen Sie aus, welchen Seiten-Layouts das Feld hinzugefügt werden soll, und klicken Sie auf **Speichern** (optional können Sie auf **Speichern und neu** klicken und den Vorgang für das Feld Anrufgrund wiederholen).
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352402
 description: Benutzer einladen - Marketo-Dokumente - Produktdokumentation
-title: Benutzer einladen
+title: Einladen von Benutzenden
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 10%
 
 ---
 
-# Benutzer einladen {#invite-users}
+# Einladen von Benutzenden {#invite-users}
 
 Das Hinzufügen von Benutzern ist schnell und einfach!
 
@@ -19,7 +19,7 @@ Das Hinzufügen von Benutzern ist schnell und einfach!
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/invite-team-members-2.png)
 

@@ -4,16 +4,16 @@ description: Klonen eines Assets in einem Programm - Marketo-Dokumente - Produkt
 title: Klonen eines Assets in einem Programm
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
 # Klonen eines Assets in einem Programm {#clone-an-asset-in-a-program}
 
-Klonen eines Programms klont _alles_. Manchmal möchten Sie nur ein Asset klonen. So geht&#39;s.
+Klonen eines Programms klont _alles_. Manchmal möchten Sie nur ein Asset klonen. Und so geht das.
 
 >[!NOTE]
 >

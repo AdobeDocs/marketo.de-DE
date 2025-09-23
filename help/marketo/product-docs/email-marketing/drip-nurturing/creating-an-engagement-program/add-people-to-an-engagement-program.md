@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359782
 description: Personen zu einem Interaktionsprogramm hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: Personen zu einem Interaktionsprogramm hinzufügen
+title: Hinzufügen von Personen zu einem Interaktionsprogramm
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Personen zu einem Interaktionsprogramm hinzufügen {#add-people-to-an-engagement-program}
+# Hinzufügen von Personen zu einem Interaktionsprogramm {#add-people-to-an-engagement-program}
 
 Es gibt mehrere Möglichkeiten, wie Personen Mitglieder eines Interaktionsprogramms werden können:
 

@@ -4,10 +4,10 @@ description: Verwenden von Massenaktionen in Salesforce Lightning - Marketo-Doku
 title: Verwenden von Massenaktionen in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -73,7 +73,7 @@ d. Sie können die E-Mail sofort senden oder einen Zeitplan festlegen, um sie zu
 
    ![](assets/eight-2.png)
 
-1. Eine neue Registerkarte mit dem Namen &quot;[!DNL Salesforce] Bridge&quot; wird geöffnet. Klicken Sie auf **[!UICONTROL Schaltfläche &#x200B;]Mit Gruppe fortfahren→**.
+1. Eine neue Registerkarte mit dem Namen &quot;[!DNL Salesforce] Bridge&quot; wird geöffnet. Klicken Sie auf **[!UICONTROL Schaltfläche ]Mit Gruppe fortfahren→**.
 
    ![](assets/nine-2.png)
 

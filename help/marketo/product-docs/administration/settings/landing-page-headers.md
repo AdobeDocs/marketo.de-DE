@@ -1,16 +1,16 @@
 ---
 description: Kopfzeilen von Landingpages - Marketo-Dokumente - Produktdokumentation
-title: Kopfzeilen der Landingpage
+title: Header der Landingpage
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Kopfzeilen der Landingpage {#landing-page-headers}
+# Header der Landingpage {#landing-page-headers}
 
 Gehen Sie wie folgt vor, um einige HTTP-Kopfzeilen in den Domains Ihrer Landingpage anzupassen.
 
@@ -37,7 +37,7 @@ Gehen Sie wie folgt vor, um einige HTTP-Kopfzeilen in den Domains Ihrer Landingp
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>Ermöglicht die Definition, ob gehostete Marketo Engage-Assets in externe Web-Seiten eingebettet werden können</td>
+  <td>Ermöglicht die Definition, ob in Marketo Engage gehostete Assets in externe Web-Seiten eingebettet werden können</td>
  </tr>
 </table>
 

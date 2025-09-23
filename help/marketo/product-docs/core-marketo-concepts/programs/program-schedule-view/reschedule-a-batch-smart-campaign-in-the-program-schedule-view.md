@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514985
 description: Planen Sie eine Smart-Batch-Kampagne in der Ansicht Programmzeitplan - Marketo-Dokumente - Produktdokumentation
-title: Planen Sie eine Smart-Batch-Kampagne in der Ansicht Programmzeitplan neu
+title: Erneutes Planen einer intelligenten Stapel-Kampagne in der Ansicht „Programmplanung“
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 
-# Planen Sie eine Smart-Batch-Kampagne in der Ansicht Programmzeitplan neu {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# Erneutes Planen einer intelligenten Stapel-Kampagne in der Ansicht „Programmplanung“ {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
 Möchten Sie die Ausführung einer Batch-Kampagne neu planen? Ziehen Sie sie in der Ansicht Programmplan per Drag-and-Drop in die Zukunft.
 

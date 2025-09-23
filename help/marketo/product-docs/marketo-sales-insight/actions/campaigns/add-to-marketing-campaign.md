@@ -1,18 +1,18 @@
 ---
 description: Hinzufügen zur Marketing-Kampagne - Marketo-Dokumente - Produktdokumentation
-title: Zur Marketing-Kampagne hinzufügen
+title: Hinzufügen zu Marketing-Kampagne
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Zur Marketing-Kampagne hinzufügen {#add-to-marketing-campaign}
+# Hinzufügen zu Marketing-Kampagne {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
 >
@@ -54,7 +54,7 @@ PICC
 
 >[!NOTE]
 >
->Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass er von Ihrem Admin über die Seite „Team-Zugriff[!UICONTROL &#x200B; von Marketo bereitgestellt &#x200B;].
+>Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass er von Ihrem Admin über die Seite „Team-Zugriff[!UICONTROL  von Marketo bereitgestellt ].
 
 1. Wählen Sie die gewünschte Kampagne aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
@@ -70,7 +70,7 @@ PICC
 
 PICC
 
-1. Wählen [!UICONTROL &#x200B; unter „Meine &#x200B;]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
+1. Wählen [!UICONTROL  unter „Meine ]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
 
 PICC
 

@@ -4,7 +4,7 @@ title: Verwenden von Vibes-SMS-Nachrichten in Smart List-Triggern und -Filtern
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Verwenden von Vibes-SMS-Nachrichten in Smart List-Triggern und -Filtern {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Nach dem [Erstellen einer Vibes-SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"} sollten Sie die Trigger und Filter der Smart List innerhalb einer Smart Campaign verwenden, um von den Vorteilen zu profitieren. So geht&#39;s.
+Nach dem [Erstellen einer Vibes-SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"} sollten Sie die Trigger und Filter der Smart List innerhalb einer Smart Campaign verwenden, um von den Vorteilen zu profitieren. Und so geht das.
 
 1. Klicken Sie in My Marketo auf **[!UICONTROL Marketing-Aktivitäten]**.
 

@@ -1,15 +1,15 @@
 ---
 description: Verkaufsaktivitäten mit Salesforce synchronisieren - Marketo-Dokumente - Produktdokumentation
-title: Verkaufsaktivitäten mit Salesforce synchronisieren
+title: Synchronisieren von Verkaufsaktivitäten mit Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '761'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Verkaufsaktivitäten mit Salesforce synchronisieren {#sync-sales-activities-to-salesforce}
+# Synchronisieren von Verkaufsaktivitäten mit Salesforce {#sync-sales-activities-to-salesforce}
 
 Sie können die Aktionen Salesforce-Synchronisierungseinstellungen konfigurieren, um E-Mail- und Aufrufaktivitäten in Salesforce zu protokollieren. Dies bietet Teams, die aus Ihrem CRM heraus arbeiten, eine bessere Sichtbarkeit und ermöglicht es Managern, diese Aktivitäten zum Erstellen benutzerdefinierter Salesforce-Berichte zu verwenden, um die Leistung Ihrer Teams zu verfolgen.
 
@@ -21,7 +21,7 @@ Für diese Funktion müssen Sie die Enterprise/Unlimited Edition von Salesforce 
 >
 >Salesforce- und Sales Insight-Aktionen müssen verbunden sein.
 
-1. Klicken Sie in „Sales Insights-Aktionen“ auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in Sales Insight Actions auf das Zahnradsymbol und wählen Sie **Settings**.
 
    ![](assets/sync-sales-activities-to-salesforce-1.png)
 
@@ -93,9 +93,9 @@ Wenn Meine E-Mail an Salesforce in Ihren Einstellungen nicht angezeigt wird, hat
 1. Aktivieren Sie das Kontrollkästchen neben „Aktiv“.
 1. Klicken Sie auf **Speichern**.
 
-## Aufgaben/Erinnerungen für Sales Insight-Aktionen mit Salesforce-Aufgaben synchronisieren {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
+## Synchronisieren von Sales Insight-Aktionsaufgaben/-Erinnerungen mit Salesforce-Aufgaben {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. Klicken Sie in „Sales Insights-Aktionen“ auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
+1. Klicken Sie in Sales Insight Actions auf das Zahnradsymbol und wählen Sie **Settings**.
 
    ![](assets/sync-sales-activities-to-salesforce-10.png)
 
@@ -117,18 +117,18 @@ Wenn Meine E-Mail an Salesforce in Ihren Einstellungen nicht angezeigt wird, hat
 
 ## Erstmaliges Synchronisieren von Sales Insight-Aktionsaufgaben mit Salesforce {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
 
-Wenn Sie die Synchronisierung zwischen Sales Insight-Aktionen und Salesforce-Aufgaben zum ersten Mal aktivieren, importieren wir Ihre Salesforce-Aufgaben. Wir werden keine aktuellen Aufgaben, die Sie bei Sales Insight-Aktionen haben, an Salesforce weiterleiten. Um Übersichtlichkeit und Duplikate zu vermeiden, werden nur Aufgaben von Sales Insight-Aktionen in Salesforce synchronisiert, nachdem Sie Sales Insight-Aktionen mit SFDC synchronisiert haben.
+Wenn Sie die Synchronisierung zwischen Sales Insight-Aktionen und Salesforce-Aufgaben zum ersten Mal aktivieren, importieren wir Ihre Salesforce-Aufgaben. Wir werden keine aktuellen Aufgaben, die Sie in Sales Insight Actions haben, an Salesforce weiterleiten. Um Übersichtlichkeit und Duplikate zu vermeiden, werden nur Aufgaben von Sales Insight Actions mit Salesforce synchronisiert, nachdem Sales Insight Actions mit SFDC synchronisiert wurden.
 
 Folgendes passiert, wenn Sie Sales Insight-Aktionen und SFDC-Aufgaben synchronisieren:
 
 * Sobald Sie bei der Synchronisierung von Aufgaben auf Speichern klicken, beginnen sie mit der Synchronisierung. Dies wird zunächst einige Zeit in Anspruch nehmen.
 
-* Alle Erinnerungen, die in den letzten 24 Stunden aktualisiert oder erstellt wurden, werden von SFDC zu Sales Insight-Aktionen abgerufen. Die Synchronisierung basiert auf dem Fälligkeitsdatum, und alle diese Aufgaben werden im Backend synchronisiert. Im Command Center werden jedoch nur Aufgaben angezeigt, die heute und morgen fällig sind.
+* Alle Erinnerungen, die in den letzten 24 Stunden aktualisiert oder erstellt wurden, werden von SFDC zu Insight-Vertriebsaktionen abgerufen. Die Synchronisierung basiert auf dem Fälligkeitsdatum, und alle diese Aufgaben werden im Backend synchronisiert. Im Command Center werden jedoch nur Aufgaben angezeigt, die heute und morgen fällig sind.
 
 * Wenn die Synchronisierung zuvor aktiviert wurde und Sie alle Aufgaben in SFDC löschen, werden alle in den letzten 15 Tagen gelöschten Elemente aus dem Command Center gelöscht.
 
-* Solange die Synchronisierung aktiviert ist, synchronisieren wir Aufgaben zwischen Sales Insight-Aktionen und SFDC kontinuierlich.
+* Wir synchronisieren ständig Aufgaben zwischen Sales Insight-Aktionen und SFDC, solange die Synchronisierung aktiviert ist.
 
-* Nach der ersten Synchronisierung werden alle Aufgaben, die Sie in Sales Insight-Aktionen erstellen, bearbeiten, abschließen oder löschen, mit Ihrer Aufgabenliste in Salesforce synchronisiert. Und alles, was in Salesforce erstellt, bearbeitet, abgeschlossen oder gelöscht wird, aktualisiert Ihre Aufgabenliste in Sales Insight-Aktionen.
+* Nach der ersten Synchronisierung werden alle Aufgaben, die Sie in Sales Insight Actions erstellen, bearbeiten, abschließen oder löschen, mit Ihrer Aufgabenliste in Salesforce synchronisiert. Und alles, was in Salesforce erstellt, bearbeitet, abgeschlossen oder gelöscht wird, aktualisiert Ihre Aufgabenliste in den Sales Insight-Aktionen.
 
 * Um diese Synchronisierung zu aktivieren, aktivieren Sie einfach das Kontrollkästchen Synchronisieren auf der Seite Einstellungen in der Web-Anwendung.

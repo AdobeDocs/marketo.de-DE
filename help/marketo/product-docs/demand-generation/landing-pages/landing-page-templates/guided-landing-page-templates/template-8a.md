@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783960
 description: Vorlage 8a - Marketo-Dokumente - Produktdokumentation
-title: Meldebogen 8a
+title: Vorlage 8a
 exl-id: d73f9f29-7309-4525-a5fe-171ba67151ac
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Meldebogen 8a {#template-8a}
+# Vorlage 8a {#template-8a}
 
-Rechtsklick zum Herunterladen [Vorlage 8A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html?lang=de)
+Rechtsklick zum Herunterladen [Vorlage 8A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)
 
 ![](assets/image2015-7-29-9-3a53-3a6.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 8A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html?lang=de)
+[Vorlage 8A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949264
 description: SEO - Problem mit dem Entfernen/Löschen einer Seite - Marketo-Dokumente - Produktdokumentation
-title: SEO - Entfernen/Löschen eines Seitenproblems
+title: SEO – Entfernen/Löschen eines Seitenproblems
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# SEO - Entfernen/Löschen eines Seitenproblems {#seo-remove-delete-a-page-issue}
+# SEO – Entfernen/Löschen eines Seitenproblems {#seo-remove-delete-a-page-issue}
 
 Möglicherweise sind nicht alle Seitenprobleme für Sie von Nutzen. So entfernen Sie eine:
 
@@ -19,7 +19,7 @@ Möglicherweise sind nicht alle Seitenprobleme für Sie von Nutzen. So entfernen
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Klicken [!UICONTROL &#x200B; Abschnitt &quot;]&quot; auf **[!UICONTROL Probleme]**.
+1. Klicken [!UICONTROL  Abschnitt &quot;]&quot; auf **[!UICONTROL Probleme]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 

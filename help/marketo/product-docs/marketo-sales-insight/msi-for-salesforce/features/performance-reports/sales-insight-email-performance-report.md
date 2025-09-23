@@ -4,7 +4,7 @@ description: E-Mail-Leistungsbericht für Sales Insight - Marketo-Dokumente - Pr
 title: Sales Insight-E-Mail-Leistungsbericht
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 8%

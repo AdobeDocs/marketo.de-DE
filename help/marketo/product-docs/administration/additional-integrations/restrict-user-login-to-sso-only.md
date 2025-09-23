@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360358
 description: Benutzeranmeldung auf SSO beschränken - Marketo-Dokumente - Produktdokumentation
-title: Benutzeranmeldung auf SSO beschränken
+title: Beschränken der Benutzeranmeldung auf SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 5%
 
 ---
 
-# Benutzeranmeldung auf SSO beschränken {#restrict-user-login-to-sso-only}
+# Beschränken der Benutzeranmeldung auf SSO {#restrict-user-login-to-sso-only}
 
 Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) und sicherstellen möchten, dass Benutzer die SSO-Sicherheit nicht umgehen können, befolgen Sie diese Anweisungen.
 
@@ -41,7 +41,7 @@ Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-in
 
 >[!NOTE]
 >
->Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ Einladung angenommen wurde, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich“ &#x200B;].
+>Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ Einladung angenommen wurde, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich“ ].
 
 >[!TIP]
 >

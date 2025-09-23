@@ -4,7 +4,7 @@ description: Schritt 3 von 3 - Marketo und Dynamics verbinden (2013 On-Premise) 
 title: 'Schritt 3 von 3: Verbinden von Marketo und Dynamics (2013 On-Premise)'
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 2%

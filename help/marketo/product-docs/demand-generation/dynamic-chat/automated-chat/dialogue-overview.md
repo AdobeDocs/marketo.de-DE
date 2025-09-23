@@ -1,16 +1,16 @@
 ---
 description: Dialogfeld - Übersicht - Marketo-Dokumente - Produktdokumentation
-title: Dialog-Übersicht
+title: Dialoge – Übersicht
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Dialog-Übersicht {#dialogue-overview}
+# Dialoge – Übersicht {#dialogue-overview}
 
 Dialoge sind einzelne Chatunterhaltungen. In jedem Dialog entscheidet man, wo das spezifische Chat-Gespräch angezeigt wird, wem es angezeigt wird und wie der Inhalt des Gesprächs aussehen wird. Jedes Dialogfeld verfügt außerdem über eine eigene Berichtseite, auf der Sie die Effektivität überwachen können.
 
@@ -20,7 +20,7 @@ Im Abschnitt [Zielgruppenkriterien](/help/marketo/product-docs/demand-generation
 
 ![](assets/dialogue-overview-1.png)
 
-## Entwerferin bzw. Entwerfer des Streams {#stream-designer}
+## Gestalterin bzw. Gestalter des Streams {#stream-designer}
 
 Im [Stream-Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}-Abschnitt eines Dialogfelds entwerfen Sie die Konversation, die Sie mit Ihren Website-Besuchern führen möchten.
 

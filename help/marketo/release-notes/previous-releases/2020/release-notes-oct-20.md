@@ -4,14 +4,14 @@ description: Versionshinweise - 20. Oktober - Marketo-Dokumente - Produktdokumen
 title: Versionshinweise - Oktober 2020
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '936'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Versionshinweise: Oktober 2020 {#release-notes-oct}
+# Versionshinweise – Oktober 2020 {#release-notes-oct}
 
 Die folgenden Funktionen sind in der Version vom Oktober 2020 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 

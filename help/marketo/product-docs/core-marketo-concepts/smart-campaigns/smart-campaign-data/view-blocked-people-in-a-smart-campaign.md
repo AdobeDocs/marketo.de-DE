@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147062
 description: Blockierte Personen in einer Smart-Kampagne anzeigen - Marketo-Dokumente - Produktdokumentation
-title: Anzeigen blockierter Personen in einer Smart-Kampagne
+title: Anzeigen der blockierten Personen in einer intelligenten Kampagne
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Anzeigen blockierter Personen in einer Smart-Kampagne {#view-blocked-people-in-a-smart-campaign}
+# Anzeigen der blockierten Personen in einer intelligenten Kampagne {#view-blocked-people-in-a-smart-campaign}
 
 Blockierte Personen in der Marketo Engage-Datenbank werden als auf die Blockierungsliste gesetzt, abgemeldet, für Marketing gesperrt und/oder erhalten eine ungültige oder leere E-Mail.
 

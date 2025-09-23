@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359424
 description: Benachrichtigung des Vertriebsmitarbeiters - Marketo-Dokumente - Produktdokumentation
-title: Vertriebsmitarbeiter benachrichtigen
+title: Benachrichtigen von Vertriebspersonal
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Vertriebsmitarbeiter benachrichtigen {#alert-the-sales-rep}
+# Benachrichtigen von Vertriebspersonal {#alert-the-sales-rep}
 
 ## Mission: Benachrichtigen Sie den Vertriebsmitarbeiter, wenn eine Person ein Formular auf Ihrer Website ausfüllt {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
@@ -23,7 +23,7 @@ Um Warnhinweis-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen
 
 ## Schritt 1: Erstellen einer Benachrichtigungs-E-Mail {#step-create-an-alert-email}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/alert-the-sales-rep-1.png)
 
@@ -67,7 +67,7 @@ Um Warnhinweis-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. Klicken Sie auf die **[!UICONTROL E-Mail]** Aktionen) und wählen Sie **[!UICONTROL Genehmigen und schließen]**.
+1. Klicken Sie auf das Dropdown-Menü **[!UICONTROL E-Mail-Aktionen]** und wählen Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
@@ -109,7 +109,7 @@ Um Warnhinweis-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen
    >
    >Legen Sie die **[!UICONTROL Qualifizierungsregeln]** auf **[!UICONTROL Jedes Mal]** fest (durch Bearbeiten der Smart-Kampagne), damit dieselbe Person mehrmals Trigger-Warnhinweise empfangen kann.
 
-1. Klicken Sie **[!UICONTROL Bestätigungsbildschirm]** Aktivieren“.
+1. Klicken Sie auf dem Bestätigungsbildschirm auf **[!UICONTROL Aktivieren]**.
 
    ![](assets/alert-the-sales-rep-20.png)
 
@@ -133,7 +133,7 @@ Um Warnhinweis-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen
    >
    >Klicken Sie in Marketo auf **[!UICONTROL Personeninformationen]**, um die Kontaktinformationen anzuzeigen.
 
-## Mission abgeschlossen! {#mission-complete}
+## Aufgabe abgeschlossen! {#mission-complete}
 
 <br> 
 

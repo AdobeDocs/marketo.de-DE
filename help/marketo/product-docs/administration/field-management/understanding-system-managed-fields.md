@@ -4,10 +4,10 @@ description: Grundlegendes zu systemverwalteten Feldern - Marketo-Dokumente - Pr
 title: Grundlegendes zu systemverwalteten Feldern
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '523'
-ht-degree: 16%
+ht-degree: 17%
 
 ---
 
@@ -144,7 +144,7 @@ Im Folgenden finden Sie einige mögliche Werte und ihre Bedeutung.
     <td>Person wurde von einer Webservice-API erkannt</td>
   </tr>
   <tr>
-    <td>Veranstaltungspartner</td>
+    <td>Ereignispartner</td>
     <td>Person wurde durch einen synchronisierten Webinar-Service erkannt</td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ Im Folgenden finden Sie einige mögliche Werte und ihre Bedeutung.
     <td>Über ein soziales Widget zu einer Person geworden</td>
   </tr>
   <tr>
-    <td>Veranstaltungspartner</td>
+    <td>Ereignispartner</td>
     <td>Person durch einen verknüpften Webinar-Service geworden</td>
   </tr>
 </tbody>

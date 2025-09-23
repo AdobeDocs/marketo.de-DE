@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360303
 description: Anpassen von Sternen und Flammen - Marketo-Dokumente - Produktdokumentation
-title: Sterne und Flammen anpassen
+title: Anpassen von Sternen und Flammen
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Sterne und Flammen anpassen {#customize-stars-and-flames}
+# Anpassen von Sternen und Flammen {#customize-stars-and-flames}
 
 [!DNL Marketo Sales Insight] verwendet Sterne und Flammen, um Leads zu priorisieren. Marketo entscheidet automatisch, wer 1-2-3 Sterne/Flammen erhält. Sie können jedoch die Formel ändern. So geht&#39;s:
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Sales Insight]**.
+1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Sales Insight]**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 

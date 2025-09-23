@@ -3,10 +3,10 @@ description: Einrichten eines benutzerdefinierten Versandkanals für Ihr Team - 
 title: Einrichten eines benutzerdefinierten Versandkanals für Ihr Team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 

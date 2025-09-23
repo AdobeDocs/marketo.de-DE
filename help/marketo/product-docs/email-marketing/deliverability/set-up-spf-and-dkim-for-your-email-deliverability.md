@@ -4,10 +4,10 @@ description: Einrichten von SPF und DKIM für die Zustellbarkeit Ihrer E-Mails -
 title: Einrichten von SPF und DKIM für die Zustellbarkeit Ihrer E-Mails
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '421'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

@@ -1,18 +1,18 @@
 ---
 description: Ändern des Passworts für Sales Connect - Marketo-Dokumente - Produktdokumentation
-title: Passwort für Sales Connect ändern
+title: Ändern des Kennworts für Sales Connect
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Passwort für Sales Connect ändern {#change-your-sales-connect-password}
+# Ändern des Kennworts für Sales Connect {#change-your-sales-connect-password}
 
-Müssen Sie Ihr Passwort ändern? So geht&#39;s.
+Müssen Sie Ihr Passwort ändern? Und so geht das.
 
 ## Ändern des Passworts bei Anmeldung {#change-your-password-while-signed-in}
 
@@ -20,7 +20,7 @@ Müssen Sie Ihr Passwort ändern? So geht&#39;s.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. Die Seite [!UICONTROL Mein Profil] wird standardmäßig geöffnet. Aktivieren [!UICONTROL &#x200B; unter &quot;]&quot; das Kontrollkästchen **[!UICONTROL Kennwort ändern]**.
+1. Die Seite [!UICONTROL Mein Profil] wird standardmäßig geöffnet. Aktivieren [!UICONTROL  unter &quot;]&quot; das Kontrollkästchen **[!UICONTROL Kennwort ändern]**.
 
    ![](assets/change-your-sales-connect-password-2.png)
 

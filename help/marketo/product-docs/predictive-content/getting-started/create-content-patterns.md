@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385579
 description: Erstellen von Inhaltsmustern - Marketo-Dokumente - Produktdokumentation
-title: Inhaltsmutter erstellen
+title: Erstellen von Inhaltsmustern
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 2%
 
 ---
 
-# Inhaltsmutter erstellen {#create-content-patterns}
+# Erstellen von Inhaltsmustern {#create-content-patterns}
 
 Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein Web-Besucher auf die für das Inhaltsmuster relevante HTML-Web-Seite klickt. Er wird verwendet, um HTML-Seiten (Blog-Beiträge, Pressemitteilungen, Nachrichtenartikel) als Inhaltselemente zur Seite „Alle Inhalte“ hinzuzufügen. Wenn die automatische Erkennung auf Inhaltsmustern basiert, werden HTML-Seiten, die mit dem definierten URL-Muster zusammenhängen, erkannt und verfolgt, wenn ein Web-Besucher eine Seite anzeigt oder auf einen Link klickt. Dieser Teil des Inhalts (URL, Seitenname und Metadaten, einschließlich Bild-URL und Beschreibung) wird der Seite „Alle Inhalte“ hinzugefügt, um prädiktive Inhalte vorzubereiten. Für die automatische Erkennung anderer Inhalte, z. B. PDFs und eingebettete Videos, müssen Sie [Inhaltssuche aktivieren](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
@@ -27,7 +27,7 @@ Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein 
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL &#x200B; B. &#x200B;], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
+1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL  B. ], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 

@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -39,7 +39,7 @@ Begrenzen Sie die Anzahl der Personen, die sich mit einer Event-Obergrenze für 
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Dropdown-Liste &#x200B;]Registrierungsseite(n)“ und wählen Sie die Landingpage aus, die als Registrierungsseite dienen soll.
+1. Klicken Sie auf [!UICONTROL  Dropdown-Liste ]Registrierungsseite(n)“ und wählen Sie die Landingpage aus, die als Registrierungsseite dienen soll.
 
    ![](assets/setting-an-event-cap-4.png)
 

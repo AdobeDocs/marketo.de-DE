@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382858
 description: Grundlegendes zu Integrationen mit Werbenetzwerken - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zu Ad-Netzwerkintegrationen
+title: Grundlegendes zu Integrationen mit Anzeigennetzwerken
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Grundlegendes zu Ad-Netzwerkintegrationen {#understanding-ad-network-integrations}
+# Grundlegendes zu Integrationen mit Anzeigennetzwerken {#understanding-ad-network-integrations}
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 

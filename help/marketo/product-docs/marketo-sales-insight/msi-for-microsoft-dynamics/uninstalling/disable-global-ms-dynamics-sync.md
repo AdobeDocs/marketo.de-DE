@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355596
 description: Globale MS Dynamics-Synchronisierung deaktivieren - Marketo-Dokumente - Produktdokumentation
-title: Globale MS Dynamics-Synchronisierung deaktivieren
+title: Deaktivieren der globalen MS Dynamics-Synchronisierung
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Führen Sie die folgenden einfachen Schritte aus, um die [!DNL MS Dynamics] zu d
 
    ![](assets/one.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Integration] auf **[!UICONTROL Microsoft Dynamics]**.
+1. Klicken [!UICONTROL  unter „Integration] auf **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/two.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359476
 description: Verwenden des E-Mail-Programm-Dashboards - Marketo-Dokumente - Produktdokumentation
-title: Verwenden des E-Mail-Programm-Dashboards
+title: Verwenden des Dashboards für E-Mail-Programme
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '397'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Verwenden des E-Mail-Programm-Dashboards {#use-the-email-program-dashboard}
+# Verwenden des Dashboards für E-Mail-Programme {#use-the-email-program-dashboard}
 
 Sehen Sie sich mit dieser Dashboard-Ansicht an, wie Ihre E-Mail-Programme funktionieren.
 

@@ -1,16 +1,16 @@
 ---
 description: Profil verwalten - Marketo-Dokumente - Produktdokumentation
-title: Profil verwalten
+title: Verwalten Ihres Profils
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
-# Profil verwalten {#manage-your-profile}
+# Verwalten Ihres Profils {#manage-your-profile}
 
 Auf der Seite [!UICONTROL Mein Profil] können Sie Ihren Namen, die Sprache/das Gebietsschema/die Zeitzone Ihres Kontos aktualisieren und auch Ihr Passwort ändern.
 

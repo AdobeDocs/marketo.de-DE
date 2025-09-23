@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7511980
 description: Speichern eines Berichts - Marketo-Dokumente - Produktdokumentation
-title: Bericht speichern
+title: Speichern eines Berichts
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Bericht speichern {#save-a-report}
+# Speichern eines Berichts {#save-a-report}
 
 Manchmal muss ein Standardbericht gespeichert werden, damit er später erneut angezeigt werden kann. So geht das:
 

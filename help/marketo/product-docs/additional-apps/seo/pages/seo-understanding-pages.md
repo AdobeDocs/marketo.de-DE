@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949184
 description: SEO - Seitenverstehen - Marketo-Dokumente - Produktdokumentation
-title: SEO - Grundlegendes zu Seiten
+title: SEO – Grundlegendes zu Seiten
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# SEO - Grundlegendes zu Seiten {#seo-understanding-pages}
+# SEO – Grundlegendes zu Seiten {#seo-understanding-pages}
 
 ## Widget „Bewertung der Seitenoptimierung/Aufgaben“ {#page-optimization-score-to-do-widget}
 
@@ -42,7 +42,7 @@ Die Registerkarte **[!UICONTROL Seiten]** zeigt an, wie gut einzelne Seiten auf 
 
 ## [!UICONTROL Probleme] Registerkarte {#issues-tab}
 
-Auf **[!UICONTROL Registerkarte &#x200B;]Probleme** können Sie festlegen, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und Ihr Ranking zu erhöhen.
+Auf **[!UICONTROL Registerkarte ]Probleme** können Sie festlegen, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und Ihr Ranking zu erhöhen.
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 

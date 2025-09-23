@@ -3,14 +3,14 @@ description: Checkliste für das Design von geerbten Instanzen - Marketo-Dokumen
 title: Checkliste für das Design Studio der geerbten Instanz
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Vererbte Instanz: Design Studio-Checkliste {#inherited-instance-design-studio-checklist}
+# Vererbte Instanz: Checkliste für Design Studio {#inherited-instance-design-studio-checklist}
 
 Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets sowie Bilder und Dateien trägt dazu bei, Datenfehler zu minimieren und den Workflow für die Erstellung Ihres Programms zu optimieren. Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
@@ -25,7 +25,7 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
   <tr>
    <td>Globale Landing Pages</td>
    <td><li>Wie viele globale <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Landingpages</a> gibt es? Werden sie von Programmen verwendet?</li>
-   <li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=de" target="_blank">Abonnementzentrum</a> eingerichtet?
+   <li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">Abonnementzentrum</a> eingerichtet?
    <br/>     Wenn nicht, sollten Sie eine erstellen.</li></td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
  </tbody>
 </table>
 
-## Snippets {#snippets}
+## Ausschnitte {#snippets}
 
 <table style="table-layout:auto">
  <tbody>
@@ -139,7 +139,7 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
    <th>Review Focus</th>
   </tr>
   <tr>
-   <td>Snippets</td>
+   <td>Ausschnitte</td>
    <td><li>Wie viele <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">Snippets</a> gibt es? Werden sie verwendet?
    <br/>     Wenn nicht, sollten Sie sie für <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">E-Mail</a> und <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landingpage</a> Fußzeileninhalte, Logos und mehr verwenden.</li></td>
   </tr>

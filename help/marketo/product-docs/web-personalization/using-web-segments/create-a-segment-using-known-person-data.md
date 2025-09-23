@@ -4,10 +4,10 @@ description: Erstellen eines Segments mithilfe von Daten zu bekannten Personen -
 title: Erstellen eines Segments mit Daten einer bekannten Person
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 

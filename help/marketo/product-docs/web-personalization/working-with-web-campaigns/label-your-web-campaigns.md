@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949154
 description: Beschriften von Web-Kampagnen - Marketo-Dokumente - Produktdokumentation
-title: Kennzeichnen von Web-Kampagnen
+title: Beschriften Ihrer Web-Kampagnen
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Kennzeichnen von Web-Kampagnen {#label-your-web-campaigns}
+# Beschriften Ihrer Web-Kampagnen {#label-your-web-campaigns}
 
 Haben Sie so viele Kampagnen, dass das Scrollen mühsam wird? Kennzeichnungen verwenden, um Ihre Kampagnen zu taggen, damit Sie sie sortieren und schnell finden können.
 

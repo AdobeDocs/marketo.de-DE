@@ -1,16 +1,16 @@
 ---
 description: Anzeigen der Kampagnenliste als anderer Benutzer - Marketo-Dokumente - Produktdokumentation
-title: Anzeigen der Kampagnenliste als anderer Benutzer
+title: Anzeigen der Kampagnenliste als andere Benutzerin bzw. anderer Benutzer
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Anzeigen der Kampagnenliste als anderer Benutzer {#view-campaigns-list-as-another-user}
+# Anzeigen der Kampagnenliste als andere Benutzerin bzw. anderer Benutzer {#view-campaigns-list-as-another-user}
 
 Als Administrator können Sie Kampagnen als beliebige Benutzende anzeigen.
 
@@ -32,4 +32,4 @@ Als Administrator können Sie Kampagnen als beliebige Benutzende anzeigen.
 
    >[!NOTE]
    >
-   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL &#x200B; anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.
+   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL  anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.

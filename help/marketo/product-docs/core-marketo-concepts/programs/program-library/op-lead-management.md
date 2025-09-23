@@ -1,16 +1,16 @@
 ---
 description: OP-Lead-Management - Marketo-Dokumente - Produktdokumentation
-title: OP-Lead Management
+title: OP-Lead-Management
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
-# OP-Lead Management {#op-lead-management}
+# OP-Lead-Management {#op-lead-management}
 
 Dies ist ein Beispiel für Best Practice-Workflows für das Lead-Management, die ein Marketo Engage-Standardprogramm verwenden, um Sie bei der Verwaltung von Datensätzen in Ihrer Marketo Engage-Datenbank für Ihr CRM-System zu unterstützen.
 
@@ -60,7 +60,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>01 - E-MAIL - WARNHINWEIS - MQL</td>
   </tr>
   <tr>

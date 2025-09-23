@@ -4,16 +4,16 @@ description: Erstellen eines benutzerdefinierten Services zur Verwendung mit der
 title: Erstellen eines benutzerdefinierten Service zur Verwendung mit der REST-API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
 # Erstellen eines benutzerdefinierten Service zur Verwendung mit der REST-API {#create-a-custom-service-for-use-with-rest-api}
 
-Wenn Sie eine Integration mit Marketo über die REST-API durchführen möchten, sollten Sie einen benutzerdefinierten Service erstellen. So geht&#39;s.
+Wenn Sie eine Integration mit Marketo über die REST-API durchführen möchten, sollten Sie einen benutzerdefinierten Service erstellen. Und so geht das.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Wenn Sie eine Integration mit Marketo über die REST-API durchführen möchten, 
 
 >[!TIP]
 >
->Weitere Informationen zur (REST-API) finden Sie in [ Entwicklerdokumentation ](https://developer.adobe.com/marketo-apis/). Wir verfügen auch über die [SOAP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/soap/soap-api)API, falls Sie sie benötigen.
+>Weitere Informationen zur (REST-API) finden Sie in [ Entwicklerdokumentation ](https://developer.adobe.com/marketo-apis/). Wir verfügen auch über die [SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)API, falls Sie sie benötigen.
 
 ## Benutzerdefinierten Service erstellen {#create-custom-service}
 

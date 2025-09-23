@@ -4,7 +4,7 @@ title: Hinzufügen eines Flussschritts für SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 3%
@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Hinzufügen eines Flussschritts für SMS {#add-a-flow-step-for-sms}
 
-Marketo Engage verfügt über drei Flussschritte, die Sie in Ihren SMS Smart-Kampagnen verwenden können:
+Marketo Engage verfügt über drei Flussschritte, die Sie in Ihren SMS-Smart-Kampagnen verwenden können:
 
 <table>
 <tbody>

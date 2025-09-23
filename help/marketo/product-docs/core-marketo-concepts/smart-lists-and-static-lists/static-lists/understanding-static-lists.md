@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949891
 description: Grundlegendes zu statischen Listen - Marketo-Dokumente - Produktdokumentation
-title: Verstehen von statischen Listen
+title: Grundlegendes zu statischen Listen
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Verstehen von statischen Listen {#understanding-static-lists}
+# Grundlegendes zu statischen Listen {#understanding-static-lists}
 
 Statische Listen sind eine der einfachsten und nützlichsten Funktionen von Marketo. Es handelt sich lediglich um eine Liste mit Namen aus Ihrer Datenbank. Sie werden viele Gründe finden, sie zu verwenden.
 
@@ -23,7 +23,7 @@ Der Unterschied zwischen einer statischen und einer Smart List ist wichtig.
 
 | Typ | Logik |
 |---|---|
-| Smart List | Basierend auf **definierten Regeln** |
+| Intelligente Liste | Basierend auf **definierten Regeln** |
 | Statische Liste | Basierend auf **Hinzufügen/Entfernen jeder Person** |
 
 >[!CAUTION]

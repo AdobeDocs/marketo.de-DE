@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147126
 description: Verwenden der Programmstartseite - Marketo-Dokumente - Produktdokumentation
-title: Verwenden der Registerkarte Programm-Startseite
+title: Verwenden der Registerkarte „Startseite“ des Programms
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Verwenden der Registerkarte Programm-Startseite {#using-the-program-home-tab}
+# Verwenden der Registerkarte „Startseite“ des Programms {#using-the-program-home-tab}
 
 Die Registerkarte „Programm-Startseite“ bietet einen umfassenden Überblick über den Status in Ihrem Programm.
 

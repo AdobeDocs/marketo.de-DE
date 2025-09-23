@@ -1,16 +1,16 @@
 ---
 description: Einstellung für automatische Abmeldung - Marketo-Dokumente - Produktdokumentation
-title: Einstellung für automatische Abmeldung
+title: Einstellung für automatisches Anhängen einer Abbestellungsnachricht
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Einstellung für automatische Abmeldung {#auto-append-unsubscribe-message-setting}
+# Einstellung für automatisches Anhängen einer Abbestellungsnachricht {#auto-append-unsubscribe-message-setting}
 
 Stellen Sie sicher, dass jede gesendete E-Mail eine Abmelde-Nachricht enthält, damit Empfängerinnen und Empfänger die Möglichkeit haben, sich einfach von der Kommunikation abzumelden. Wenn die Option Abmeldung anhängen aktiviert ist, enthält die gesamte Kommunikation, die Ihr Team von Marketo Sales sendet, eine Abmelde-Nachricht, einschließlich E-Mails, die von der Web-Anwendung, Salesforce, dem Gmail-Plug-in und dem Outlook-Plug-in gesendet wurden.
 
@@ -36,4 +36,4 @@ Stellen Sie sicher, dass jede gesendete E-Mail eine Abmelde-Nachricht enthält, 
 
 >[!TIP]
 >
->Wenn Sie die Einstellung „Nachricht anhängen - Abmelden“ deaktivieren, empfehlen wir, eine Fußzeile zum Abmelden zu Ihren Vorlagen hinzuzufügen, um sicherzustellen, dass Ihre Kommunikation über eine Opt-out-Option verfügt. Dazu können Sie jeder Vorlage Ihre eigene Nachricht hinzufügen oder das Feld `{{team_unsubscribe}}`Dynamisch[&#128279;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.
+>Wenn Sie die Einstellung „Nachricht anhängen - Abmelden“ deaktivieren, empfehlen wir, eine Fußzeile zum Abmelden zu Ihren Vorlagen hinzuzufügen, um sicherzustellen, dass Ihre Kommunikation über eine Opt-out-Option verfügt. Dazu können Sie jeder Vorlage Ihre eigene Nachricht hinzufügen oder das Feld `{{team_unsubscribe}}`Dynamisch[ ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.

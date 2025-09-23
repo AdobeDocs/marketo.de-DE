@@ -1,12 +1,12 @@
 ---
 description: Sales Insight-Berechtigungssatz hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: Sales Insight-Berechtigungssatz hinzufügen
+title: Hinzufügen eines Sales Insight-Berechtigungssatzes
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 

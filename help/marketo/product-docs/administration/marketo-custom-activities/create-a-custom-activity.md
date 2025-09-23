@@ -4,10 +4,10 @@ description: Erstellen einer benutzerdefinierten Aktivit채t - Marketo-Dokumente 
 title: Erstellen einer benutzerdefinierten Aktivit채t
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -39,7 +39,7 @@ F체hren Sie die folgenden Schritte aus, um eine neue benutzerdefinierte Aktivit�
    >
    >Wenn Sie sich entscheiden, den [!UICONTROL API-Namen] zu 채ndern, stellen Sie sicher, dass der Name nicht mit Feldern in anderen benutzerdefinierten Aktivit채ten kollidiert.
 
-1. Definieren Sie [!UICONTROL Filter] und [!UICONTROL Trigger &#x200B;] und klicken Sie auf **[!UICONTROL Weiter]**.
+1. Definieren Sie [!UICONTROL Filter] und [!UICONTROL Trigger ] und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/create-a-custom-activity-5.png)
 

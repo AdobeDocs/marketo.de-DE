@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10912237
 description: Übersicht über die E-Mail-Vorlagenauswahl - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über die E-Mail-Vorlagenauswahl
+title: Auswahl von E-Mail-Vorlagen – Übersicht
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Übersicht über die E-Mail-Vorlagenauswahl {#email-template-picker-overview}
+# Auswahl von E-Mail-Vorlagen – Übersicht {#email-template-picker-overview}
 
 Wenn Sie [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md) haben Sie mehrere kostenlose Vorlagen zur Auswahl. Sie können auch Ihre eigene Vorlage erstellen und sie für die zukünftige Verwendung speichern.
 

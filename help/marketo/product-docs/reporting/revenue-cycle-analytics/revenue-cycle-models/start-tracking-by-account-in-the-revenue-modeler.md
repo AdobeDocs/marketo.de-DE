@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718681
 description: Beginnen Sie mit der Verfolgung nach Konto in der Umsatzdokumentation von Modeler - Marketo-Dokumente - Produktdokumentation
-title: Beginnen Sie mit der Verfolgung nach Konto in der Umsatz-Modeler
+title: Beginnen mit dem Tracking nach Konto im Umsatz-Modeler
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Beginnen Sie mit der Verfolgung nach Konto in der Umsatz-Modeler {#start-tracking-by-account-in-the-revenue-modeler}
+# Beginnen mit dem Tracking nach Konto im Umsatz-Modeler {#start-tracking-by-account-in-the-revenue-modeler}
 
 Mit der Umsatzstufe Modeler und dem [!UICONTROL Umsatz-Explorer] können Sie insight bei der Performance Ihrer Leads und Konten gewinnen, während diese Ihr Modell durchlaufen.
 

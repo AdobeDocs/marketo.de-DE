@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900552
 description: HTML einer E-Mail herunterladen - Marketo-Dokumente - Produktdokumentation
-title: HTML einer E-Mail herunterladen
+title: Herunterladen der HTML einer E-Mail
 exl-id: e749c520-6ae6-4460-89b7-6de3b39ef2c7
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# HTML einer E-Mail herunterladen {#download-an-emails-html}
+# Herunterladen der HTML einer E-Mail {#download-an-emails-html}
 
 Für Backups und andere Zwecke ermöglicht Marketo das Herunterladen des HTML-Inhalts einer E-Mail.
 

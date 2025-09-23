@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900565
 description: Einschließen eines Kalenderereignisses (.ics) in eine E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Kalenderereignis (.ics) in eine E-Mail einschließen
+title: Einschließen eines Kalenderereignisses (.ics) in eine E-Mail
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 2%
+ht-degree: 19%
 
 ---
 
-# Kalenderereignis (.ics) in eine E-Mail einschließen {#include-a-calendar-event-ics-in-an-email}
+# Einschließen eines Kalenderereignisses (.ics) in eine E-Mail {#include-a-calendar-event-ics-in-an-email}
 
 Mit einem Kalenderdatei-Token können Sie einen Kalenderereignis-Link (.ics) zu Ihren Marketo-E-Mails hinzufügen.
 

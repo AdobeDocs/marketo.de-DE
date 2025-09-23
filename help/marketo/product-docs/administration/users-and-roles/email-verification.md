@@ -3,20 +3,20 @@ description: E-Mail-Überprüfung - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Überprüfung
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '469'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # E-Mail-Überprüfung {#email-verification}
 
-Adobe Marketo Engage-Abonnements erfordern, dass alle Nicht-API-Benutzenden, einschließlich Marketo Engage-Administratoren, ihre E-Mail-Adresse überprüfen.
+Adobe Marketo Engage-Abonnements erfordern, dass alle Benutzenden, die keine API sind, einschließlich Marketo Engage-Administratoren, ihre E-Mail-Adresse überprüfen.
 
 ## Gründe für die Einführung dieser Funktion {#why-this-feature-was-introduced}
 
-Marketo Engage führt den Rollout der E-Mail-Überprüfung fort, um die Migration von Kunden zur Adobe Business-Plattform vorzubereiten, einschließlich der Benutzermigration auf Adobe-IDs. Diese Funktion erhöht die Sicherheit vorhandener Marketo Engage-Benutzerkonten. Um sicherzustellen, dass ein Marketo Engage-Benutzer mit der richtigen Adobe ID verknüpft ist, müssen bestehende Marketo Engage-Benutzer ihre E-Mail-Adresse überprüfen. Ein Marketo Engage-Benutzer muss über eine verifizierte E-Mail-Adresse verfügen, um in eine Adobe ID migriert zu werden. Wenn ein Marketo Engage-Benutzer seine E-Mail-Adresse nicht verifiziert, kann er nicht zu einer Adobe ID migriert werden und verliert den Zugriff auf ein Marketo-Abonnement, nachdem die Benutzermigration für das Abonnement abgeschlossen ist.
+Marketo Engage setzt den Rollout der E-Mail-Überprüfung fort, um Kunden auf die Adobe Business-Plattform zu migrieren, einschließlich der Benutzermigration auf Adobe IDs. Diese Funktion erhöht die Sicherheit vorhandener Marketo Engage-Benutzerkonten. Um sicherzustellen, dass ein Marketo Engage-Benutzer mit der richtigen Adobe ID verknüpft ist, müssen bestehende Marketo Engage-Benutzer ihre E-Mail-Adresse überprüfen. Ein Marketo Engage-Benutzer muss über eine verifizierte E-Mail-Adresse verfügen, um in eine Adobe ID migriert zu werden. Wenn Marketo Engage-Benutzende ihre E-Mail-Adresse nicht verifizieren, können sie nicht zu einer Adobe ID migriert werden und verlieren den Zugriff auf ein Marketo-Abonnement, nachdem die Benutzermigration für das Abonnement abgeschlossen ist.
 
 ## Benutzereinladung {#user-invite}
 
@@ -48,7 +48,7 @@ Wenn die E-Mail-Adresse eines Benutzers geändert wird, wird sie nicht mehr veri
 
 ![](assets/email-verification-4.png)
 
-## Benutzer und Rollen {#users-and-roles}
+## Benutzende und Rollen {#users-and-roles}
 
 In **[!UICONTROL Admin]** > **[!UICONTROL Benutzer und Rollen]** zeigt die Spalte E-Mail-Status den Verifizierungsstatus jedes Benutzers an.
 
@@ -56,7 +56,7 @@ In **[!UICONTROL Admin]** > **[!UICONTROL Benutzer und Rollen]** zeigt die Spalt
 
 ## Mehrere Benutzer-Login-IDs {#multiple-user-login-ids}
 
-Einer einzelnen E-Mail-Adresse kann nur ein Benutzerkonto zugeordnet werden. Wenn mehrere Benutzerkonten mit einer einzelnen E-Mail-Adresse verknüpft sind, erfordert das Marketo Engage, dass der Konflikt gelöst wird, und zeigt alle Benutzeranmeldungen, die mit der E-Mail-Adresse verknüpft sind, sowie drei Lösungsoptionen an:
+Einer einzelnen E-Mail-Adresse kann nur ein Benutzerkonto zugeordnet werden. Wenn mehrere Benutzerkonten mit einer einzelnen E-Mail-Adresse verknüpft sind, erfordert Marketo Engage, dass der Konflikt gelöst wird, und zeigt alle Benutzeranmeldungen, die mit der E-Mail-Adresse verknüpft sind, sowie drei Lösungsoptionen an:
 
 * Aktuelle E-Mail für aktuelle Benutzer-Login-ID verwenden
 * Neue E-Mail für aktuelle Benutzer-Anmelde-ID verwenden

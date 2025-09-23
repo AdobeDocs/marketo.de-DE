@@ -3,14 +3,14 @@ unique-page-id: 12255606
 description: Versionshinweise - Winter '17 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Winter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Versionshinweise: Winter &#39;17 {#release-notes-winter}
+# Versionshinweise – Winter 2017 {#release-notes-winter}
 
 Die folgenden Funktionen sind in der Version Winter &#39;17 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 
@@ -56,7 +56,7 @@ Verwenden [!UICONTROL Benanntes Konto] oder [!UICONTROL Kontoliste] als Dimensio
 
 ![](assets/ei.png)
 
-## [!UICONTROL Verbesserungen bei prädiktiven &#x200B;]) {#predictive-content-enhancements}
+## [!UICONTROL Verbesserungen bei prädiktiven ]) {#predictive-content-enhancements}
 
 **[Filtern nach [!UICONTROL Source aktiviert]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 

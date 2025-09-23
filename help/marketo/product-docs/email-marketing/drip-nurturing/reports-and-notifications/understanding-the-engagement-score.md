@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359890
 description: Informationen zum Engagement-Score - Marketo-Dokumente - Produktdokumentation
-title: Informationen zur Interaktionsbewertung
+title: Grundlegendes zur Interaktionsbewertung
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Informationen zur Interaktionsbewertung {#understanding-the-engagement-score}
+# Grundlegendes zur Interaktionsbewertung {#understanding-the-engagement-score}
 
 Der Interaktionswert macht es leicht zu erkennen, wie effektiv der Inhalt in Ihrem Interaktionsprogramm ist. Die Punktzahl liegt zwischen 0 und 100. Sehen Sie sich [Interaktions-Dashboard](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) an, um zu sehen, wie Sie die Leistung Ihrer Inhalte verfolgen können.
 

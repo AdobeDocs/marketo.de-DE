@@ -3,16 +3,16 @@ description: Kurzanleitung - Marketo-Dokumente - Produktdokumentation
 title: Kurzanleitung
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
 # Kurzanleitung {#quick-guide}
 
-Die folgenden Artikel helfen Ihnen beim Einrichten von Marketo Engage mit Adobe Identity Management und beim Erlernen dieser Funktionen.
+Die folgenden Artikel helfen Ihnen beim Einrichten von und beim Kennenlernen von Marketo Engage mit Adobe Identity Management.
 
 ## System-Admin-Setup {#system-admin-setup}
 
@@ -31,7 +31,7 @@ Admin).
 
 [Benutzer entfernen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
-## Nur API-Benutzer auf Marketo Engage {#api-only-user-in-marketo-engage}
+## Nur API-Benutzer in Marketo Engage {#api-only-user-in-marketo-engage}
 
 Nur Marketo Engage-API-Benutzer müssen in Marketo Engage erstellt und verwaltet werden.
 
@@ -39,7 +39,7 @@ Nur Marketo Engage-API-Benutzer müssen in Marketo Engage erstellt und verwaltet
 
 ## Benutzer über CSV hinzufügen {#add-users-via-csv}
 
-[CSV importieren](https://helpx.adobe.com/de/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[CSV importieren](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Benutzeranmeldung {#user-sign-in}
 

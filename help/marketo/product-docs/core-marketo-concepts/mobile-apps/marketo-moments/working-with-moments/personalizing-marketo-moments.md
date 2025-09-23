@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8782021
 description: Personalisieren von Marketo-Momenten - Marketo-Dokumente - Produktdokumentation
-title: Marketo-Momente personalisieren
+title: Personalisieren von Marketo Moments
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Marketo-Momente personalisieren {#personalizing-marketo-moments}
+# Personalisieren von Marketo Moments {#personalizing-marketo-moments}
 
 Wenn Sie viele Marketing-Programme und intelligente Kampagnen in Gang haben, ist es großartig, alles zu sehen, aber Sie möchten sich vielleicht nur auf Ihre eigene Arbeit konzentrieren.
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 entfernte Adobe die Marketo Moments-App aus allen App Stores. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo auf Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Aktivieren Sie **[!UICONTROL Nur meine Momente anzeigen]**, um nur Ihre eigenen E-Mail-Programme und intelligenten Kampagnen anzuzeigen.
 

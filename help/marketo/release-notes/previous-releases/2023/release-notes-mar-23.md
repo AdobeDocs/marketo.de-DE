@@ -3,26 +3,26 @@ description: März 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: März 2023 – Versionshinweise
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 11%
+ht-degree: 24%
 
 ---
 
-# März 2023 - Versionshinweise {#release-notes-mar-23}
+# Versionshinweise – März 2023 {#release-notes-mar-23}
 
-Nachstehend finden Sie alle Funktionen, die in der Version vom 23. März enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Nachstehend finden Sie alle Funktionen, die in der Version vom 23. März enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
 >Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
-## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 31. **2023 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 31. März 2023** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
 
-### Marketo Engage Modern UX {#modern-ux}
+### Moderne Benutzeroberfläche von Marketo Engage {#modern-ux}
 
 </br>
 
@@ -34,7 +34,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -62,7 +62,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -80,7 +80,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -102,7 +102,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -116,7 +116,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -130,7 +130,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -144,7 +144,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -158,7 +158,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -172,7 +172,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>

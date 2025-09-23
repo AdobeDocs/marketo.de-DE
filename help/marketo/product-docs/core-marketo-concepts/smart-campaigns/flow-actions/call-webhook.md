@@ -4,7 +4,7 @@ description: Webhook aufrufen - Marketo-Dokumente - Produktdokumentation
 title: Webhook aufrufen
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 5%
@@ -23,7 +23,7 @@ Webhooks ermöglichen die Interaktion mit Diensten von Drittanbietern. Senden/Em
 
 >[!NOTE]
 >
->Erfahren Sie mehr über die vielen faszinierenden Dinge[ die „Webhooks](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} für Sie tun können.
+>Erfahren Sie mehr über die vielen faszinierenden Dinge[ die „Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} für Sie tun können.
 
 1. Wählen Sie einen Webhook aus der Dropdownliste aus.
 

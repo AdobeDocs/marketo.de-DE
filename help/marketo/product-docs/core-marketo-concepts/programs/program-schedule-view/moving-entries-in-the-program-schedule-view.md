@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147134
 description: Verschieben von Einträgen in der Programmplanansicht - Marketo-Dokumente - Produktdokumentation
-title: Verschieben von Einträgen in der Programmplanansicht
+title: Verschieben von Einträgen in der Ansicht „Programmplanung“
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Verschieben von Einträgen in der Programmplanansicht {#moving-entries-in-the-program-schedule-view}
+# Verschieben von Einträgen in der Ansicht „Programmplanung“ {#moving-entries-in-the-program-schedule-view}
 
 Wenn Sie Einträge in der Zeitplanansicht verschieben, werden sie automatisch neu geplant.
 

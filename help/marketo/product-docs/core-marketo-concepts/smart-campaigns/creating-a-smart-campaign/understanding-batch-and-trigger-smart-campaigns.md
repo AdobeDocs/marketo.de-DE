@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953132
 description: Grundlegendes zu Smart Campaign im Batch- und Trigger - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zu Smart Campaign für Batch und Trigger
+title: Grundlegendes zu intelligenten Stapel- und Auslöser-Kampagnen
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Grundlegendes zu Smart Campaign für Batch und Trigger {#understanding-batch-and-trigger-smart-campaigns}
+# Grundlegendes zu intelligenten Stapel- und Auslöser-Kampagnen {#understanding-batch-and-trigger-smart-campaigns}
 
 Es gibt zwei Arten von Smart-Kampagnen: Batch und Trigger.
 

@@ -4,10 +4,10 @@ description: Erstellen eines Berichts zur Programmmitgliedschaftsanalyse, in dem
 title: Erstellen eines Berichts zur Programmmitgliedschaftsanalyse, in dem Leads aufgelistet sind
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

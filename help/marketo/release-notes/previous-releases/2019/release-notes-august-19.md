@@ -4,14 +4,14 @@ description: Versionshinweise - 19. August - Marketo-Dokumente - Produktdokument
 title: Versionshinweise - August '19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 3%
+source-wordcount: '325'
+ht-degree: 4%
 
 ---
 
-# Versionshinweise: August &#39;19 {#release-notes-august}
+# Versionshinweise – August 2019 {#release-notes-august}
 
 Die folgenden Funktionen sind in der Version vom 19. August enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 
@@ -50,4 +50,4 @@ Die folgenden Funktionen befinden sich in einem nicht-vierteljährlichen Zyklus 
 >
 >**Um Ihren Marketo Engage-Zugriff beizubehalten, stellen Sie sicher, dass alle Client-Systeme vor dem 13. Dezember 2019 TLS 1.2-kompatibel**. Weitere Informationen finden Sie [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinar zur Produktversion_** [Nehmen Sie am 28. ](https://engage.marketo.com/August_19_Release_Webinar.html) um 13:00 Uhr PT/16:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
+**_Webinar zur Produktversion_** [Nehmen Sie ](https://engage.marketo.com/August_19_Release_Webinar.html) 28. August um 1:00PM PT / 4 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die Funktionen dieser Version.

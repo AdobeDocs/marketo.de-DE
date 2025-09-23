@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095636
 description: Aktivieren von „Kein Entwurf“ für Snippets - Marketo-Dokumente - Produktdokumentation
-title: Kein Entwurf für Snippets aktivieren
+title: Aktivieren von Ausschnitten ohne Entwurf
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Kein Entwurf für Snippets aktivieren {#enable-no-draft-for-snippets}
+# Aktivieren von Ausschnitten ohne Entwurf {#enable-no-draft-for-snippets}
 
 Mit „Kein Entwurf“ für Ausschnitte können Sie Änderungen an Ausschnitten verteilen, ohne genehmigte Assets damit zu entwerfen. Alle Assets, die das bearbeitete Snippet verwenden, erhalten die Aktualisierungen und behalten ihren jeweiligen Status:
 

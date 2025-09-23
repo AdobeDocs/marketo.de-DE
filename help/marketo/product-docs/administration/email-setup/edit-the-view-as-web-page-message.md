@@ -4,10 +4,10 @@ description: Bearbeiten der Nachricht „Als Web-Seite anzeigen“ - Marketo-Dok
 title: Bearbeiten der Nachricht „Als Web-Seite anzeigen“
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
@@ -52,7 +52,7 @@ Da haben Sie es. Senden Sie Test-E-Mails, um die Formatierung sicherzustellen.
 
 ## Standardtext „Als Web-Seite anzeigen“ {#default-view-as-web-page-text}
 
-Wenn Sie jemals zum Standardsystem „Als Web-Seite anzeigen[!UICONTROL &#x200B; zurückkehren müssen] kopieren Sie Folgendes:
+Wenn Sie jemals zum Standardsystem „Als Web-Seite anzeigen[!UICONTROL  zurückkehren müssen] kopieren Sie Folgendes:
 
 **[!UICONTROL Als Webseite anzeigen HTML]**:
 

@@ -1,16 +1,16 @@
 ---
 description: Benutzer hinzufügen oder entfernen - Marketo-Dokumente - Produktdokumentation
-title: Benutzer hinzufügen oder entfernen
+title: Hinzufügen oder Entfernen von Benutzenden
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Benutzer hinzufügen oder entfernen {#add-or-remove-a-user}
+# Hinzufügen oder Entfernen von Benutzenden {#add-or-remove-a-user}
 
 ## Benutzer hinzufügen {#add-a-user}
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. Klicken Sie auf **Marketo Engage**.
+1. Auf **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -54,7 +54,7 @@ Der/die Benutzende erhält dann eine E-Mail, um sich bei Marketo Engage anzumeld
 
 >[!NOTE]
 >
->Wenn der/die Benutzende über die Adobe Admin Console zum Marketo Engage hinzugefügt wird, erhält er/sie im Standardarbeitsbereich des Abonnements die Rolle „Standardbenutzer“. Wenn die Rolle des Benutzers im Arbeitsbereich angepasst werden muss, geschieht dies auf Marketo Engage, [ hier beschrieben](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Wenn der/die Benutzende über die Adobe Admin Console zu Marketo Engage hinzugefügt wird, erhält er/sie im Standardarbeitsbereich des Abonnements die Rolle „Standardbenutzer“. Wenn die Rolle des Benutzers im Arbeitsbereich angepasst werden muss, geschieht dies in Marketo Engage ([ hier beschrieben](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Benutzer entfernen {#remove-a-user}
 
@@ -66,7 +66,7 @@ Der/die Benutzende erhält dann eine E-Mail, um sich bei Marketo Engage anzumeld
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. Klicken Sie auf **Marketo Engage**.
+1. Auf **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-10.png)
 

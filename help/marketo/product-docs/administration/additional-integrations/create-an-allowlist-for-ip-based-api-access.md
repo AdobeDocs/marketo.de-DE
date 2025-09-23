@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098433
 description: Erstellen einer Zulassungsliste für den IP-basierten API-Zugriff - Marketo-Dokumente - Produktdokumentation
-title: Erstellen einer Zulassungsliste für den IP-basierten API-Zugriff
+title: Erstellen einer Zulassungsliste für IP-basierten API-Zugriff
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Erstellen einer Zulassungsliste für den IP-basierten API-Zugriff {#create-an-allowlist-for-ip-based-api-access}
+# Erstellen einer Zulassungsliste für IP-basierten API-Zugriff {#create-an-allowlist-for-ip-based-api-access}
 
 Manchmal soll der API-Zugriff nur auf eine bestimmte IP-Adresse oder einen Adressenbereich gewährt werden. Dazu aktivieren Sie zunächst die Einschränkungen und geben dann die IP-Adressen an, die die APIs verwenden dürfen.
 
@@ -22,8 +22,8 @@ Manchmal soll der API-Zugriff nur auf eine bestimmte IP-Adresse oder einen Adres
 >[!NOTE]
 >
 >Diese Funktion funktioniert unabhängig von IP-basierten Anmeldebeschränkungen für Marketo Engage (die durch die IP-Zugriffsliste* von Admin Console ersetzt werden) und funktioniert auch nach der [Adobe IMS-Migration](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
->&#x200B;> 
->&#x200B;>&#42;Die allgemeine Verfügbarkeit der IP-Zugriffsliste ist für das 4. Quartal 2025 geplant.
+>> 
+>>&#42;Die allgemeine Verfügbarkeit der IP-Zugriffsliste ist für das 4. Quartal 2025 geplant.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

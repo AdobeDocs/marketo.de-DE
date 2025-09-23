@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13796471
 description: Live-Feed-Übersicht - Marketo-Dokumente - Produktdokumentation
-title: Live-Feed - Übersicht
+title: Live-Feed – Übersicht
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Live-Feed - Übersicht {#live-feed-overview}
+# Live-Feed – Übersicht {#live-feed-overview}
 
 Der Live-Feed ist ein unverankertes Fenster, das über die Web-Anwendung oder das Gmail-Plug-in gestartet werden kann und einen Echtzeitblick auf die Interaktion potenzieller Kundinnen und Kunden bietet.
 
@@ -60,7 +60,7 @@ Anzeige der Rangfolge Ihrer wichtigsten Personen (vom höchsten zum niedrigsten)
 * Wir zeigen die 50 besten Leads.
 * Sie sehen nur die Personen, die Ihnen in [!DNL Salesforce] zugewiesen wurden.
 
-## Symbol-Glossar {#icon-glossary}
+## Symbolglossar {#icon-glossary}
 
 <table>
  <colgroup>

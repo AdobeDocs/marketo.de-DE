@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380787
 description: Einblicke in die Kontoliste - Marketo-Dokumente - Produktdokumentation
-title: Account List Insights
+title: Einblicke in Kontolisten
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Account List Insights {#account-list-insights}
+# Einblicke in Kontolisten {#account-list-insights}
 
 Das Dashboard „Kontenliste“ bietet eine Ansicht der aggregierten Einblicke aller benannten Konten innerhalb dieser Liste.
 

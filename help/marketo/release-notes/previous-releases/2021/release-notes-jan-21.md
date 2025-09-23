@@ -3,10 +3,10 @@ description: Versionshinweise - Januar 2021 - Marketo-Dokumentation - Produktdok
 title: Versionshinweise - Januar 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1236'
-ht-degree: 0%
+source-wordcount: '1237'
+ht-degree: 1%
 
 ---
 
@@ -63,7 +63,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **[Einblicke in den E-Mail-Status ([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: Benutzende sehen eine Warnmeldung, wenn sie versuchen, eine E-Mail an eine ungültige E-Mail-ID oder eine abgemeldete E-Mail-Adresse zu senden, bevor sie eine E-Mail senden.  Der Status des E-Mail-Versands kann auf der Registerkarte E-Mail von [!DNL Sales Insight] eingesehen werden.
 * **Massen-E-Mails über [Konto](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) und [Opportunity](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout)-Bedienfelder ([!DNL Salesforce] CRM) senden**: Verbessern Sie die Effizienz des Workflows des Verkäufers und interagieren Sie mit einer ganzen Konto- oder Opportunity-Kontaktliste durch die Verwendung neuer Massenaktionsfunktionen. Senden Sie E-Mails oder fügen Sie Kontakte zu Marketo Engage-Kampagnen hinzu, indem Sie die neue Dropdown-Option auf den Registerkarten Konto oder Opportunity verwenden, anstatt mit einzelnen Kontakten zu arbeiten. Fügen Sie Account-Kontakte zu einer Watchlist hinzu, um benachrichtigt zu werden, wenn Leads heiß werden.
 * **[[!DNL Sales Insight] Für Nicht-Native- [!DNL Salesforce] -CRM-Integrationen](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**: GA-Abonnements mit benutzerdefinierten Salesforce CRM-Integrationen können das [!DNL Sales Insight] installieren und Vertriebsteams dabei helfen, Prioritäten zu setzen und mit den viel versprechendsten Leads und Chancen zu interagieren.
-* **[Best-Bets-Verbesserungen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Kontaktieren Sie schnell die besten Leads auf der Registerkarte Best-Bets , indem Sie sie per E-Mail versenden oder zu einer Marketo Engage-Kampagne hinzufügen. Zeigen Sie einen Lead in Marketo Engage an oder fügen Sie ihn Ihrer Watchlist hinzu. Massenaktionen und Sortieroptionen auf der Registerkarte [!UICONTROL Best &#x200B;]&quot; sparen Zeit und verbessern die Effizienz des Vertriebsteams.
+* **[Best-Bets-Verbesserungen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Kontaktieren Sie schnell die besten Leads auf der Registerkarte Best-Bets , indem Sie sie per E-Mail versenden oder zu einer Marketo Engage-Kampagne hinzufügen. Zeigen Sie einen Lead in Marketo Engage an oder fügen Sie ihn Ihrer Watchlist hinzu. Massenaktionen und Sortieroptionen auf der Registerkarte [!UICONTROL Best ]&quot; sparen Zeit und verbessern die Effizienz des Vertriebsteams.
 
 ## [!DNL Sales Connect] {#sales-connect}
 
@@ -83,4 +83,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **_Webinar zur Produktversion_**
 
-Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Melden Sie [ jetzt an](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) um am 21. Januar um 13:00 Uhr PT / 16:00 Uhr ET an einem Live-Webinar mit unserem Produkt-Team teilzunehmen, um einen tieferen Einblick in diese Innovationen zu erhalten.
+Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Melden Sie [ jetzt an](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) um am 21. Januar um 13 :00 PT / 16 :00 ET an einem Live-Webinar mit unserem Produkt-Team teilzunehmen, um einen tieferen Einblick in diese Innovationen zu erhalten.

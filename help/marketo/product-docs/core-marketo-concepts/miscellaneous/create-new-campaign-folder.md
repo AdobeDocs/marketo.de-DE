@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2953207
 description: Neuen Kampagnenordner erstellen - Marketo-Dokumente - Produktdokumentation
-title: Neuen Kampagnenordner erstellen
+title: Erstellen eines neuen Kampagnenordners
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Neuen Kampagnenordner erstellen {#create-new-campaign-folder}
+# Erstellen eines neuen Kampagnenordners {#create-new-campaign-folder}
 
 Mit Campaign-Ordnern behalten Sie einen aufgeräumten Arbeitsplatz. Folgen Sie diesen einfachen Schritten und Sie sind auf dem Weg zur Automatisierungsmagie.
 

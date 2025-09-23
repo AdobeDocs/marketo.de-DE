@@ -1,22 +1,22 @@
 ---
 description: Produktverwendungsbeschränkungen - Marketo-Dokumente - Produktdokumentation
-title: Produktverwendungsbeschränkungen
+title: Beschränkungen der Produktverwendung
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 15%
+ht-degree: 20%
 
 ---
 
-# Produktverwendungsbeschränkungen {#product-usage-limits}
+# Beschränkungen der Produktverwendung {#product-usage-limits}
 
 Nachstehend finden Sie die Beschränkungen für die Verwendung erweiterter Vertriebsinteraktionsfunktionen, die mit Sales Insight-Aktionen verfügbar sind.
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist eine Web-basierte Anwendung, die über das [Marketo Sales Insight Package&rbrace; ausschließlich mit Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package} ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
 <table>
   <th>Funktionalität</th>
@@ -117,7 +117,7 @@ Nachstehend finden Sie die Beschränkungen für die Verwendung erweiterter Vertr
   <td>15</td>
  </tr>
  <tr>
-  <td>Gründe für den Anruf</td>
+  <td>Anrufgründe</td>
   <td>pro Instanz</td>
   <td>15</td>
  </tr>

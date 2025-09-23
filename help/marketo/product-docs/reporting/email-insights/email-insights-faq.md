@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100257
 description: Häufig gestellte Fragen zu E-Mail-Einblicken - Marketo-Dokumente - Produktdokumentation
-title: Häufig gestellte Fragen zu E-Mail-Einblicken
+title: Häufig gestellte Fragen zu E-Mail Insights
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '602'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Häufig gestellte Fragen zu E-Mail-Einblicken {#email-insights-faq}
+# Häufig gestellte Fragen zu E-Mail Insights {#email-insights-faq}
 
 ## Gibt es Unterschiede zwischen Verhältnismetriken mit [!UICONTROL E-Mail-Insights] und anderen E-Mail-Berichten in Marketo? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 

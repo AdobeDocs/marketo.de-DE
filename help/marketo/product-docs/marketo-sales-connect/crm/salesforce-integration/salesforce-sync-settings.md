@@ -4,7 +4,7 @@ description: Salesforce-Synchronisierungseinstellungen - Marketo-Dokumente - Pro
 title: Salesforce-Synchronisationseinstellungen
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 3%

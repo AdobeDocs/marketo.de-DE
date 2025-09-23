@@ -3,10 +3,10 @@ description: Checkliste für geerbte Instanz-Marketing-Aktivitäten - Marketo-Do
 title: Checkliste für vererbte Marketing-Aktivitäten der Instanz
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -83,12 +83,12 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
 <li>Haben Sie Personen in mehreren Interaktionsprogrammen kennengelernt? Sollten sie sich in mehr als einem befinden?</li></td>
   </tr>
   <tr>
-   <td>Batch-Kampagnen</td>
+   <td>Stapel-Kampagnen</td>
    <td><li>Wie viele wiederkehrende <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign" target="_blank">Batch-Kampagnen</a> gibt es?</li>
 <li>Sollte einer von ihnen deaktiviert/archiviert werden?</li></td>
   </tr>
    <tr>
-   <td>Trigger-Kampagnen</td>
+   <td>Auslöser-Kampagnen</td>
    <td><li>Wie viele <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-campaign" target="_blank">Trigger-Kampagnen</a> gibt es?</li>
 <li>Sollte einer von ihnen deaktiviert/archiviert werden?</li>
 <li>Sollten Trigger-Kampagnen in Batch-Kampagnen geändert werden, um die Verarbeitungseffizienz zu verbessern?</li></td>
@@ -121,7 +121,7 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
    <th style="width:70%">Review Focus</th>
   </tr>
   <tr>
-   <td>Personenbewertung</td>
+   <td>Bewertung von Personen</td>
    <td><li>Verfügen Sie über ein zentralisiertes <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">Personen-Scoring</a>-Programm?</li>
 <li>Erhöht und verringert Ihr persönliches Scoring?</li></td>
   </tr>
@@ -157,7 +157,7 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
   </tr>
   <tr>
    <td>Abonnement-/Präferenzzentrum</td>
-   <td><li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=de" target="_blank">Abonnement/Präferenzzentrum</a> eingerichtet? Funktioniert sie so, wie sie sollte?</li></td>
+   <td><li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Abonnement/Präferenzzentrum</a> eingerichtet? Funktioniert sie so, wie sie sollte?</li></td>
   </tr>
   <tr>
    <td>Interessante Momente (falls zutreffend)</td>

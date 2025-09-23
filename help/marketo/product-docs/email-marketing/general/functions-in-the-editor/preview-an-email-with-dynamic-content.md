@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900548
 description: Vorschau einer E-Mail mit dynamischem Inhalt - Marketo-Dokumente - Produktdokumentation
-title: Vorschau einer E-Mail mit dynamischem Inhalt
+title: Anzeigen einer Vorschau für eine E-Mail mit dynamischem Inhalt
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Vorschau einer E-Mail mit dynamischem Inhalt {#preview-an-email-with-dynamic-content}
+# Anzeigen einer Vorschau für eine E-Mail mit dynamischem Inhalt {#preview-an-email-with-dynamic-content}
 
 Zeigen Sie Ihre E-Mail nach dem Hinzufügen dynamischer Inhalte in der Vorschau an, um sie zu überprüfen.
 

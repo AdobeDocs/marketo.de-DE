@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147118
 description: Verwenden von Periodenkosten in einem Programm - Marketo-Dokumente - Produktdokumentation
-title: Periodenkosten in einem Programm verwenden
+title: Verwenden von Kostenzeiträumen in einem Programm
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 
-# Periodenkosten in einem Programm verwenden {#using-period-costs-in-a-program}
+# Verwenden von Kostenzeiträumen in einem Programm {#using-period-costs-in-a-program}
 
 Ein [Periodenkosten](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} ist der Betrag, den Sie für ein Programm ausgeben. Sie kann ein oder mehrere Monate dauern und wird für die ROI-Berichterstellung verwendet.
 

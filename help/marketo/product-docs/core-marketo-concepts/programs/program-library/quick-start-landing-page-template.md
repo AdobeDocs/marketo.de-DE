@@ -1,16 +1,16 @@
 ---
 description: Schnellstart-Landingpage-Vorlage - Marketo-Dokumente - Produktdokumentation
-title: Schnellstart-Landingpage-Vorlage
+title: Landingpage-Vorlage für Schnellstart
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '462'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Schnellstart-Landingpage-Vorlage {#quick-start-landing-page-template}
+# Landingpage-Vorlage für Schnellstart {#quick-start-landing-page-template}
 
 Einige der Einstiegsprogramme in der Marketo Engage-Referenzbibliothek enthalten eine einfache, benutzerfreundliche und anpassbare Landingpage-Vorlage, mit der Landingpages in einer Reihe von Marketing-Anwendungsfällen schnell erstellt werden können.
 

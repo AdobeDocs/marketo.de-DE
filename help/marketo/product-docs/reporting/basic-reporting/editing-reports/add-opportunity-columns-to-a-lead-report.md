@@ -4,10 +4,10 @@ description: Hinzufügen von Opportunity-Spalten zu einem Lead-Bericht - Marketo
 title: Hinzufügen von Opportunity-Spalten zu einem Lead-Bericht
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Um die Statistiken zu Opportunitys in Ihren Personenberichten anzuzeigen, können Sie Opportunity-Spalten hinzufügen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 

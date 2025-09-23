@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352536
 description: Funktionsweise des Anzeigen-Trackings - Marketo-Dokumente - Produktdokumentation
-title: Funktionsweise von View Tracking
+title: Verfolgen von Ansichten
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Funktionsweise von View Tracking {#how-view-tracking-works}
+# Verfolgen von Ansichten {#how-view-tracking-works}
 
 Wir verfolgen das Öffnen von E-Mails, indem wir ein unsichtbares Bild in die gesendeten E-Mails einfügen.
 

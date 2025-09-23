@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359912
 description: Exportieren einer Liste von Benutzern und Rollen - Marketo-Dokumente - Produktdokumentation
-title: Exportieren einer Liste von Benutzern und Rollen
+title: 'Exportieren einer Liste der Benutzenden und der zugehörigen Rollen '
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# Exportieren einer Liste von Benutzern und Rollen {#export-a-list-of-users-and-roles}
+# Exportieren einer Liste der Benutzenden und der zugehörigen Rollen  {#export-a-list-of-users-and-roles}
 
 >[!NOTE]
 >
 >**Administratorberechtigungen erforderlich**
 
-Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer und Benutzerrollen zu exportieren. So geht&#39;s.
+Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer und Benutzerrollen zu exportieren. Und so geht das.
 
 1. Wechseln Sie zu **[!UICONTROL Admin]**.
 

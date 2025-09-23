@@ -1,16 +1,16 @@
 ---
 description: Flow Step Service - Marketo-Dokumente - Produktdokumentation
-title: Flow-Schritt-Service
+title: Flussschritt-Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1233'
 ht-degree: 0%
 
 ---
 
-# Flow-Schritt-Service {#flow-step-service}
+# Flussschritt-Service {#flow-step-service}
 
 Self-Service Flow Steps ist ein Framework und eine Reihe von Funktionen für das Verfassen, Veröffentlichen und Integrieren von Web-Services in Adobe Marketo Engage Smart Campaign. Dieses Handbuch richtet sich an Marketo Engage-Endbenutzer, die Services installieren und verwenden möchten, die bereits erstellt und veröffentlicht wurden. Informationen zum Verfassen und Veröffentlichen Ihres eigenen Services finden Sie im [[!DNL GitHub] Repository für die Benutzeroberfläche des Dienstleisters](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Eine Implementierung der Proof-of-Concept-Lookup-Tabelle finden Sie [hier](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 

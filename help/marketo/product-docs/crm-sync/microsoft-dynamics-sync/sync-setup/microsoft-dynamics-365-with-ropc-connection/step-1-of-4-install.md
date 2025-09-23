@@ -3,7 +3,7 @@ description: 'Schritt 1 von 4: Installieren der Marketo-Lösung mit der Kennwort
 title: 'Schritt 1 von 4: Installieren der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers'
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%

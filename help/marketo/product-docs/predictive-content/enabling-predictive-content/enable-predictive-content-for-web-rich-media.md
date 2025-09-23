@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514956
 description: Aktivieren von prädiktivem Inhalt für Web-Rich-Media - Marketo-Dokumente - Produktdokumentation
-title: Aktivieren von prädiktivem Inhalt für Web-Rich-Media
+title: Aktivieren prädiktiver Inhalte für Web Rich Media
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Aktivieren von prädiktivem Inhalt für Web-Rich-Media {#enable-predictive-content-for-web-rich-media}
+# Aktivieren prädiktiver Inhalte für Web Rich Media {#enable-predictive-content-for-web-rich-media}
 
 Prädiktive Inhalte interagieren Ihre Web-Besucher mit den relevantesten Inhalten, basierend auf maschinellem Lernen und prädiktiver Analyse. Mit Web-Rich-Media können Sie Ihre Inhalte mit Textbeschreibungen und Bildern verbessern und mehrere prädiktive Inhaltsempfehlungen in Ihre Website einbetten.
 
@@ -47,7 +47,7 @@ Nachdem Sie den Inhaltstitel, die Beschreibung und das Bild für Rich Media vorb
 
 ## Anpassen des JavaScript-Codes und Einbetten in Ihre Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Weitere Informationen finden Sie in der Dokumentation zur Vorlage für Rich-Media-Empfehlungen [auf der Marketo Developers-](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hier wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
+Weitere Informationen finden Sie in der Dokumentation zur Vorlage für Rich-Media-Empfehlungen [auf der Marketo Developers-](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hier wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
 
 Fügen Sie den JavaScript-Code an der Stelle in Ihre Website ein, an der die Vorlage angezeigt werden soll.
 

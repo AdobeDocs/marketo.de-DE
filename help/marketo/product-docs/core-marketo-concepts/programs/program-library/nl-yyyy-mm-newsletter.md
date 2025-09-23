@@ -1,16 +1,16 @@
 ---
 description: NL-YYYY-MM-Newsletter - Marketo Docs - Produktdokumentation
-title: NL-YYYY-MM-Newsletter
+title: 'Newsletter: NL-JJJJ-MM'
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 16%
+ht-degree: 18%
 
 ---
 
-# NL-YYYY-MM-Newsletter {#nl-yyyy-mm-newsletter}
+# Newsletter: NL-JJJJ-MM {#nl-yyyy-mm-newsletter}
 
 In diesem Beispiel wird eine Newsletter-E-Mail mit einem Marketo Engage-E-Mail-Programm gesendet. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
@@ -47,7 +47,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>01 - E-Mail</td>
   </tr>
   <tr>

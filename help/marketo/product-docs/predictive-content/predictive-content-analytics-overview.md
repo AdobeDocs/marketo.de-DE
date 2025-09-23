@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12981204
 description: Prädiktive Content Analytics-Übersicht - Marketo-Dokumente - Produktdokumentation
-title: Prädiktive Content Analytics - Übersicht
+title: Prädiktive Inhaltsanalyse – Überblick
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
-# Prädiktive Content Analytics - Übersicht {#predictive-content-analytics-overview}
+# Prädiktive Inhaltsanalyse – Überblick {#predictive-content-analytics-overview}
 
 Verwenden Sie die Inhaltsanalyse, um weitere Einblicke in Ihre vorhandenen Inhalte zu erhalten, zu erfahren (basierend auf KI und prädiktiven Algorithmen), welche Inhalte für Ihre Zielgruppen funktionieren, und den ROI Ihrer Marketing-Maßnahmen zu steigern.
 
@@ -25,7 +25,7 @@ Klicken Sie auf der Zusammenfassungsseite auf **[!UICONTROL Analytics]**.
 
 ![](assets/one.png)
 
-[!UICONTROL Analytics] umfasst mehrere Abschnitte: [!UICONTROL Top-Inhalte nach &#x200B;], [!UICONTROL Top-Inhalte nach Konversionsrate], [!UICONTROL Trending-Inhalte] [!UICONTROL Vorgeschlagene Inhalte] und [!UICONTROL Inhalte].
+[!UICONTROL Analytics] umfasst mehrere Abschnitte: [!UICONTROL Top-Inhalte nach ], [!UICONTROL Top-Inhalte nach Konversionsrate], [!UICONTROL Trending-Inhalte] [!UICONTROL Vorgeschlagene Inhalte] und [!UICONTROL Inhalte].
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ Klicken Sie auf die Schaltfläche Exportieren , um die Ergebnisse dieses Abschni
 
 ![](assets/new-3point5.png)
 
-Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B[!UICONTROL &#x200B; „ABM-]&quot;, [!UICONTROL Land] usw.).
+Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B[!UICONTROL  „ABM-]&quot;, [!UICONTROL Land] usw.).
 
 ![](assets/pca.png)
 

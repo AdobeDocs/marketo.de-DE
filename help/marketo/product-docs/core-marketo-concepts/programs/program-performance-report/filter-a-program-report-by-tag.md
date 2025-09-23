@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147235
 description: Programmbericht nach Tag filtern - Marketo-Dokumente - Produktdokumentation
-title: Programmbericht nach Tag filtern
+title: Filtern eines Programmberichts nach Tags
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 2%
+ht-degree: 15%
 
 ---
 
-# Programmbericht nach Tag filtern {#filter-a-program-report-by-tag}
+# Filtern eines Programmberichts nach Tags {#filter-a-program-report-by-tag}
 
 Konzentrieren Sie Ihren [Programmleistungsbericht](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) auf bestimmte [Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}.
 

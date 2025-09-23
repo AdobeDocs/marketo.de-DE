@@ -3,7 +3,7 @@ description: Adobe PDF-Einbettungs-API - Marketo-Dokumente - Produktdokumentatio
 title: Adobe PDF Embed-API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 5%
@@ -20,7 +20,7 @@ Mit der Dokumentkarte können Sie PDF-Dokumente in Dialoge einbetten und die Dok
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
-1. Beim Adobe-Konto anmelden.
+1. Melden Sie sich bei Ihrem Adobe-Konto an.
 
    ![](assets/adobe-pdf-embed-api-2.png)
 

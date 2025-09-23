@@ -1,10 +1,10 @@
 ---
 unique-page-id: 17727870
 description: Hinzufügen von Subdomains in den Kontoeinstellungen - Marketo-Dokumente - Produktdokumentation
-title: In den Kontoeinstellungen Subdomänen hinzufügen
+title: Hinzufügen von Subdomains in den Kontoeinstellungen
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 4%
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Hinzufügen von Subdomains in [!UICONTROL Kontoeinstellungen] {#add-subdomains-in-account-settings}
 
-So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären [!UICONTROL &#x200B; hinzu]. Auf diese Weise können Sie Subdomains verwalten, die sich auf das spezifische RTP-JavaScript Ihrer primären Domain beziehen. Es wird empfohlen, das [!DNL Javascript]-Tag für alle hinzugefügten Subdomains bereitzustellen.
+So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären [!UICONTROL  hinzu]. Auf diese Weise können Sie Subdomains verwalten, die sich auf das spezifische RTP-JavaScript Ihrer primären Domain beziehen. Es wird empfohlen, das [!DNL Javascript]-Tag für alle hinzugefügten Subdomains bereitzustellen.
 
 1. Navigieren Sie in Web Personalization zu **[!UICONTROL Kontoeinstellungen]**.
 

@@ -1,16 +1,16 @@
 ---
 description: Hinzufügen eines Anhangs oder verfolgbarer Inhalte zu Ihrer E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen eines Anhangs oder verfolgbarer Inhalte zu Ihrer E-Mail
+title: Hinzufügen eines Anhangs oder verfolgbarer Inhalte zu einer E-Mail
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Hinzufügen eines Anhangs oder verfolgbarer Inhalte zu Ihrer E-Mail {#add-an-attachment-or-trackable-content-to-your-email}
+# Hinzufügen eines Anhangs oder verfolgbarer Inhalte zu einer E-Mail {#add-an-attachment-or-trackable-content-to-your-email}
 
 Beim Versand einer E-Mail über [!DNL Marketo Sales] haben Sie die Möglichkeit, eine Datei als Anhang hinzuzufügen oder eine Datei zu einem herunterladbaren (und verfolgbaren) Link zu machen.
 

@@ -1,16 +1,16 @@
 ---
 description: Senden einer Liste an ein Werbenetzwerk - Marketo-Dokumente - Produktdokumentation
-title: Liste an ein Werbenetzwerk senden
+title: Senden einer Liste an ein Anzeigennetzwerk
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Liste an ein Werbenetzwerk senden {#send-a-list-to-an-ad-network}
+# Senden einer Liste an ein Anzeigennetzwerk {#send-a-list-to-an-ad-network}
 
 Erfahren Sie, wie Sie eine statische Liste an [!DNL LinkedIn], [!DNL Facebook] oder Google senden.
 

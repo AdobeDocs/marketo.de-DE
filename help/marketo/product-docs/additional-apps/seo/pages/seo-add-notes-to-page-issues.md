@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949220
 description: SEO - Hinzufügen von Hinweisen zu Seitenproblemen - Marketo-Dokumente - Produktdokumentation
-title: SEO - Hinzufügen von Hinweisen zu Seitenproblemen
+title: SEO – Hinzufügen von Hinweisen zu Seitenproblemen
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# SEO - Hinzufügen von Hinweisen zu Seitenproblemen {#seo-add-notes-to-page-issues}
+# SEO – Hinzufügen von Hinweisen zu Seitenproblemen {#seo-add-notes-to-page-issues}
 
 Wussten Sie, dass Sie Hinweise zu Seitenproblemen als persönliche Erinnerungen oder Team-Nachrichten hinzufügen können?
 

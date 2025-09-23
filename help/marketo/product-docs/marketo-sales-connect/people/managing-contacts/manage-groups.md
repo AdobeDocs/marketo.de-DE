@@ -1,23 +1,23 @@
 ---
 unique-page-id: 30081250
 description: Gruppen verwalten - Marketo-Dokumente - Produktdokumentation
-title: Gruppen verwalten
+title: Verwalten von Gruppen
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Gruppen verwalten {#manage-groups}
+# Verwalten von Gruppen {#manage-groups}
 
 Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Connect] verwalten.
 
 ## Erstellen einer Gruppe {#create-a-group}
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das **+** neben [!UICONTROL Gruppen].
+1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das **+** neben [!UICONTROL Gruppen].
 
    ![](assets/one-4.png)
 
@@ -29,7 +29,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Connect] verwalten.
 
 ## Kontakte zu einer Gruppe hinzufügen {#add-contacts-to-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, der Sie Personen hinzufügen möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, der Sie Personen hinzufügen möchten, und wählen Sie sie aus.
 
    ![](assets/three-3.png)
 
@@ -53,7 +53,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Connect] verwalten.
 
 ## Freigeben einer Gruppe {#share-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie freigeben möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie freigeben möchten, und wählen Sie sie aus.
 
    ![](assets/six.png)
 
@@ -69,11 +69,11 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Connect] verwalten.
 
    ![](assets/nine.png)
 
-   Die Gruppe gehört weiterhin Ihnen, wird aber jetzt unter &quot;[!UICONTROL &quot; &#x200B;].
+   Die Gruppe gehört weiterhin Ihnen, wird aber jetzt unter &quot;[!UICONTROL &quot; ].
 
 ## Freigabe einer Gruppe aufheben {#unshare-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, deren Freigabe Sie aufheben möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, deren Freigabe Sie aufheben möchten, und wählen Sie sie aus.
 
    ![](assets/ten.png)
 
@@ -89,7 +89,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Connect] verwalten.
 
 ## Eine Gruppe umbenennen {#rename-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie umbenennen möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie umbenennen möchten, und wählen Sie sie aus.
 
    ![](assets/six.png)
 
@@ -103,7 +103,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Connect] verwalten.
 
 ## Löschen einer Gruppe {#delete-a-group}
 
-1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie löschen möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie löschen möchten, und wählen Sie sie aus.
 
    ![](assets/fifteen.png)
 

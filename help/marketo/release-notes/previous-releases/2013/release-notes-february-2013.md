@@ -4,14 +4,14 @@ description: Versionshinweise - Februar 2013 - Marketo-Dokumentation - Produktdo
 title: Versionshinweise Februar 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Versionshinweise: Februar 2013 {#release-notes-february}
+# Versionshinweise – Februar 2013 {#release-notes-february}
 
 Die Februarversion enthält eine stark nachgefragte Funktion, Unterstützung für [!DNL Apple Safari] und andere kleine Verbesserungen.
 
@@ -25,7 +25,7 @@ Webhooks wurden verbessert, um Token in der URL/Payload zu escapen, und können 
 
 ## Aktualisierter SOAP-API-Endpunkt {#updated-soap-api-endpoint}
 
-Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter &quot;[!UICONTROL &quot; &#x200B;] &quot;SOAP-API“ angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der [!DNL Spark SMB Edition] nicht verfügbar)
+Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter &quot;[!UICONTROL &quot; ] &quot;SOAP-API“ angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der [!DNL Spark SMB Edition] nicht verfügbar)
 
 ## Mobile-Unterstützung für [!DNL Facebook] Registerkarten {#mobile-support-for-facebook-tabs}
 

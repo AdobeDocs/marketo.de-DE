@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360352
 description: Konfigurieren Ihrer SOAP-API-Einstellungen - Marketo-Dokumente - Produktdokumentation
-title: Konfigurieren der SOAP-API-Einstellungen
+title: Konfigurieren Ihrer SOAP-API-Einstellungen
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Konfigurieren der SOAP-API-Einstellungen {#configuring-your-soap-api-settings}
+# Konfigurieren Ihrer SOAP-API-Einstellungen {#configuring-your-soap-api-settings}
 
 >[!NOTE]
 >
@@ -39,4 +39,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[SOAP-API-Dokumentation](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/soap/soap-api)
+>[Dokumentation zur SOAP-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

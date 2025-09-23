@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504922
 description: Revenue Explorer-Berichtstypen - Marketo-Dokumente - Produktdokumentation
-title: Berichtstypen für den Umsatz-Explorer
+title: Berichtstypen zum Revenue Explorer
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 10%
+ht-degree: 15%
 
 ---
 
-# Berichtstypen für den Umsatz-Explorer {#revenue-explorer-report-types}
+# Berichtstypen zum Revenue Explorer {#revenue-explorer-report-types}
 
 Im Folgenden finden Sie die Berichtstypen, auf die Sie stoßen werden, wenn Sie die Umsatzzyklusanalyse verwenden.
 

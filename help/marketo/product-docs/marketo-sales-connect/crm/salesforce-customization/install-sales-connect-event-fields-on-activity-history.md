@@ -4,10 +4,10 @@ description: Installieren von Sales Connect-Ereignisfeldern im Aktivitätsverlau
 title: Installieren von Sales Connect-Ereignisfeldern im Aktivitätsverlauf
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 

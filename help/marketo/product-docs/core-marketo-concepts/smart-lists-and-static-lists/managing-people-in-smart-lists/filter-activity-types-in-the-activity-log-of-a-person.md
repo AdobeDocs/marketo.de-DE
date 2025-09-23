@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952402
 description: Filtern von Aktivitätstypen im Aktivitätsprotokoll einer Person - Marketo-Dokumente - Produktdokumentation
-title: Aktivitätstypen im Aktivitätsprotokoll einer Person filtern
+title: Filtern nach Aktivitätstypen im Aktivitätsprotokoll einer Person
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 1%
+ht-degree: 17%
 
 ---
 
-# Aktivitätstypen im Aktivitätsprotokoll einer Person filtern {#filter-activity-types-in-the-activity-log-of-a-person}
+# Filtern nach Aktivitätstypen im Aktivitätsprotokoll einer Person {#filter-activity-types-in-the-activity-log-of-a-person}
 
 Suchen Sie im Aktivitätsprotokoll nach den Aktivitäten, die Ihnen am wichtigsten sind.
 

@@ -4,16 +4,16 @@ description: Hardbounces und Softbounces in E-Mails - Marketo-Dokumente - Produk
 title: Hard- und Softbounces in E-Mails
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
 # Hard- und Softbounces in E-Mails {#hard-and-soft-bounces-in-email}
 
-Ein Hardbounce kann die E-Mail-Adresse einer Person ungültig machen, wenn ein Mail-Server Marketo mitteilt, dass die E-Mail der Person nicht zugestellt werden kann. Ein Softbounce bedeutet, dass beim Versand der E-Mail an die Person etwas schiefgelaufen ist. Dies wird automatisch behoben und kann manchmal Tage dauern. Sowohl Hard- als auch Softbounces bestehen aus [mehreren ](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
+Ein Hardbounce kann die E-Mail-Adresse einer Person ungültig machen, wenn ein Mailserver Marketo mitteilt, dass die E-Mail der Person nicht zugestellt werden kann. Ein Softbounce bedeutet, dass beim Versand der E-Mail an die Person etwas schiefgelaufen ist. Dies wird automatisch behoben und kann manchmal Tage dauern. Sowohl Hardbounces als auch Softbounces weisen [verschiedene Kategorien](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838) auf.
 
 ## Bounce-Klassifizierung {#bounce-classification}
 

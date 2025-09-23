@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949243
 description: SEO - Hinzufügen/Entfernen von Spalten aus der Keyword-Ansicht - Marketo-Dokumente - Produktdokumentation
-title: SEO - Hinzufügen/Entfernen von Spalten aus der Keyword-Ansicht
+title: SEO – Hinzufügen/Entfernen von Spalten aus der Keyword-Ansicht
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 2%
+ht-degree: 22%
 
 ---
 
-# SEO - Hinzufügen/Entfernen von Spalten aus der Keyword-Ansicht {#seo-add-remove-columns-from-your-keywords-view}
+# SEO – Hinzufügen/Entfernen von Spalten aus der Keyword-Ansicht {#seo-add-remove-columns-from-your-keywords-view}
 
 Sie können Ihre Keyword-Ansicht anpassen, um die Daten anzuzeigen, die Sie am meisten interessieren.
 

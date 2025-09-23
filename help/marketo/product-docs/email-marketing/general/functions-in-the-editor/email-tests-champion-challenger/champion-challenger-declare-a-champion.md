@@ -4,14 +4,14 @@ description: Champion/Challenger - Zum Champion erklären - Marketo-Dokumente - 
 title: Champion/Challenger - Zum Champion erklären
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Champion/Challenger: Zum Champion erklären {#champion-challenger-declare-a-champion}
+# Champion/Challenger: Erklären zum Champion {#champion-challenger-declare-a-champion}
 
 Wenn Sie bereit sind, können Sie einen Champion für Ihren E-Mail-Test erklären.
 

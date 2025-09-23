@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516017
 description: Vorlage 1e - Marketo-Dokumente - Produktdokumentation
-title: Meldebogen 1e
+title: Vorlage 1e
 exl-id: 3ff781e3-2dc9-4581-b116-e588596c0249
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Meldebogen 1e {#template-1e}
+# Vorlage 1e {#template-1e}
 
-Rechtsklick zum Herunterladen [Vorlage 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=de)
+Rechtsklick zum Herunterladen [Vorlage 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=de)
+[Vorlage 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)

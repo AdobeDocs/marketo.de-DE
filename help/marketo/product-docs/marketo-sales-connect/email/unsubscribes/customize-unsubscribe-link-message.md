@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746186
 description: Anpassen der Abmelde-Link-Nachricht - Marketo-Dokumente - Produktdokumentation
-title: Abmelde-Link-Nachricht anpassen
+title: Anpassen der Nachricht mit dem Abmelde-Link
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Abmelde-Link-Nachricht anpassen {#customize-unsubscribe-link-message}
+# Anpassen der Nachricht mit dem Abmelde-Link {#customize-unsubscribe-link-message}
 
 Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Administratoren können jetzt die Abmelde-Link-Nachrichten für ihr gesamtes Team festlegen, um ein konsistentes Messaging zu gewährleisten.
 
@@ -25,7 +25,7 @@ Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Ad
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Ad
 
    ![](assets/six.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/eight.png)
 

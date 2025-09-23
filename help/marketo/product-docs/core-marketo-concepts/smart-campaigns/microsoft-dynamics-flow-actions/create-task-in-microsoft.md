@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356429
 description: Aufgabe in Microsoft erstellen - Marketo-Dokumente - Produktdokumentation
-title: Aufgabe in Microsoft erstellen
+title: Erstellen einer Aufgabe in Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Aufgabe in Microsoft erstellen {#create-task-in-microsoft}
+# Erstellen einer Aufgabe in Microsoft {#create-task-in-microsoft}
 
 Als Marketing-Experte verfügen Sie über Informationen, die den Vertrieb beim Abschluss von Abschlüssen unterstützen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was und wann sie tun sollten.
 

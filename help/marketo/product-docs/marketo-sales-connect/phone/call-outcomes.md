@@ -3,10 +3,10 @@ description: Aufrufergebnisse - Marketo-Dokumente - Produktdokumentation
 title: Aufrufergebnisse
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -24,7 +24,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, dam
 
    ![](assets/call-outcomes-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-outcomes-2.png)
 
@@ -46,7 +46,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, dam
 
    ![](assets/call-outcomes-5.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-outcomes-6.png)
 

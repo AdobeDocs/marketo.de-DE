@@ -1,16 +1,16 @@
 ---
 description: Prioritätsüberschreibungen für Trigger-Kampagnen - Marketo-Dokumente - Produktdokumentation
-title: Prioritätsüberschreibungen für Trigger-Kampagnen
+title: Überschreiben der Priorität für Auslöser-Kampagnen
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Prioritätsüberschreibungen für Trigger-Kampagnen {#priority-override-for-trigger-campaigns}
+# Überschreiben der Priorität für Auslöser-Kampagnen {#priority-override-for-trigger-campaigns}
 
 Administratoren können die in Marketo Engage festgelegte Priorität für Trigger-Kampagnen außer Kraft setzen, um Prioritäten zu setzen, die besser auf Geschäftsziele abgestimmt sind.
 
@@ -56,6 +56,6 @@ Administratoren können die in Marketo Engage festgelegte Priorität für Trigge
 
 >[!NOTE]
 >
->* Sie können die Standardpriorität Ihrer Kampagne in der [!UICONTROL Kampagnenwarteschlange“ unter &#x200B;]Marketing[!UICONTROL Aktivitäten) &#x200B;]. Um die Ausführungsrate zu erhöhen, empfehlen wir, die Kampagnenpriorität eine Ebene höher als die Standardpriorität festzulegen.
+>* Sie können die Standardpriorität Ihrer Kampagne in der [!UICONTROL Kampagnenwarteschlange“ unter ]Marketing[!UICONTROL Aktivitäten) ]. Um die Ausführungsrate zu erhöhen, empfehlen wir, die Kampagnenpriorität eine Ebene höher als die Standardpriorität festzulegen.
 >* Die Priorität für Benutzereinstellungen gilt nur für neue Personen, die sich für die Kampagne qualifizieren. Personen, die sich bereits in der Warteschlange befinden, sind davon nicht betroffen.
 >* Prioritätsüberschreibungen werden im [Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"} erfasst.

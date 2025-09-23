@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719304
 description: Implizite Salesforce-Aktionen - Marketo-Dokumente - Produktdokumentation
-title: Implizite Salesforce-Aktionen
+title: Implizierte Salesforce-Aktionen
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 21%
+ht-degree: 26%
 
 ---
 
-# Implizite Salesforce-Aktionen {#implied-salesforce-actions}
+# Implizierte Salesforce-Aktionen {#implied-salesforce-actions}
 
 Wenn ein [!DNL Salesforce] Flussschritt ausgeführt wird, werden manchmal zusätzliche Schritte automatisch ausgeführt. Hier sind die Regeln, also wissen Sie:
 
@@ -26,28 +26,28 @@ Diese Regeln gelten, wenn sich die Person derzeit nicht in [Salesforce.com](http
  </thead>
  <tbody>
   <tr>
-   <td>Zu SFDC-Kampagne hinzufügen</td>
-   <td>Person mit SFDC synchronisieren</td>
+   <td>Hinzufügen zu SFDC-Kampagne</td>
+   <td>Synchronisieren von Personen mit SFDC</td>
   </tr>
   <tr>
-   <td>Status in SFDC-Kampagne ändern</td>
+   <td>Ändern des Status in SFDC-Kampagne</td>
    <td>Person mit SFDC synchronisieren<br> Zu SFDC Campaign hinzufügen</td>
   </tr>
   <tr>
-   <td>Eigentümer ändern</td>
-   <td><p>Person mit SFDC synchronisieren</p></td>
+   <td>Ändern von Eigentümerin bzw. Eigentümer</td>
+   <td><p>Synchronisieren von Personen mit SFDC</p></td>
   </tr>
   <tr>
-   <td>Person konvertieren</td>
-   <td><p>Person mit SFDC synchronisieren</p></td>
+   <td>Konvertieren von Person</td>
+   <td><p>Synchronisieren von Personen mit SFDC</p></td>
   </tr>
   <tr>
-   <td>Aufgabe erstellen</td>
-   <td>Person mit SFDC synchronisieren</td>
+   <td>Erstellen von Aufgaben</td>
+   <td>Synchronisieren von Personen mit SFDC</td>
   </tr>
  </tbody>
 </table>
 
-Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des **[!UICONTROL SFDC-Typs]** filtern, wobei der Operator auf &quot;[!UICONTROL ist nicht leer“ &#x200B;]. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
+Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des **[!UICONTROL SFDC-Typs]** filtern, wobei der Operator auf &quot;[!UICONTROL ist nicht leer“ ]. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
 
 Denken Sie daran, dass diese automatischen Aktionen nur stattfinden, wenn sich der Lead derzeit nicht in [Salesforce.com befindet](https://salesforce.com){target="_blank"}

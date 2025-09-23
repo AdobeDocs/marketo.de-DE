@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762409
 description: Vertriebs-Insight-Seite für Marketo-Administrierende - Marketo-Dokumente - Produktdokumentation
-title: Vertriebs-Insight-Seite für Marketo-Administratoren
+title: Sales Insight-Seite für Marketo-Admins
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '404'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -38,7 +38,7 @@ Standardmäßig verwendet [!DNL Marketo Sales Insight] das Feld Lead-Bewertung z
 
    ![](assets/four.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Lead]Bewertungseinstellungen“ auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL  unter „Lead]Bewertungseinstellungen“ auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/five.png)
 
@@ -68,7 +68,7 @@ Standardmäßig verwendet [!DNL Marketo Sales Insight] das Feld Lead-Bewertung z
 
 **Abmeldeeinstellungen:**
 
-Sie können aus den folgenden Abmeldeeinstellungen für „Keine Vorlage, &quot;[!UICONTROL Standard-E-Mails] und [!UICONTROL Operative E-Mails“ &#x200B;]
+Sie können aus den folgenden Abmeldeeinstellungen für „Keine Vorlage, &quot;[!UICONTROL Standard-E-Mails] und [!UICONTROL Operative E-Mails“ ]
 
 * [!UICONTROL Respektieren Sie die Abmeldeeinstellung]
 * [!UICONTROL Respektieren Sie die Abmeldeeinstellungen, wenn mehr als 1 Empfänger vorhanden ist]

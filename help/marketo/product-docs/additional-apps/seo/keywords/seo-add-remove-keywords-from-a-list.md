@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949678
 description: SEO - Hinzufügen/Entfernen von Keywords aus einer Liste - Marketo-Dokumente - Produktdokumentation
-title: SEO - Keywords zu einer Liste hinzufügen/entfernen
+title: SEO – Hinzufügen/Entfernen von Keywords aus einer Liste
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# SEO - Keywords zu einer Liste hinzufügen/entfernen {#seo-add-remove-keywords-from-a-list}
+# SEO – Hinzufügen/Entfernen von Keywords aus einer Liste {#seo-add-remove-keywords-from-a-list}
 
 Sie können alle Ihre Keywords schön und geordnet mithilfe von Listen halten. Dies erleichtert das Auffinden von Daten zu bestimmten Keywords.
 

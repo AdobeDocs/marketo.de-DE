@@ -1,9 +1,9 @@
 ---
 description: Best Practices - Marketo-Dokumente - Produktdokumentation
-title: Vielversprechende Kontakte
+title: Beste Optionen
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # [!DNL Best Bets] {#best-bets}
 
-Die Registerkarte [!UICONTROL Beste &#x200B;]&quot; enthält eine Liste aller Ihrer Hot Leads basierend auf ihrer Priorität, berechnet unter Verwendung von Dringlichkeit und relativem Score.
+Die Registerkarte [!UICONTROL Beste ]&quot; enthält eine Liste aller Ihrer Hot Leads basierend auf ihrer Priorität, berechnet unter Verwendung von Dringlichkeit und relativem Score.
 
 Durch Klicken auf das Punktmenü unter der Spalte Aktionen können Sie Interaktionsoptionen wie die folgenden verwenden:
 

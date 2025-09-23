@@ -1,15 +1,15 @@
 ---
 description: Registerkarte „Interaktionskarte“ - Marketo-Dokumente - Produktdokumentation
-title: Registerkarte Interaktionszuordnung
+title: Registerkarte „Interaktionszuordnung“
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '935'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Registerkarte Interaktionszuordnung {#engagement-map-tab}
+# Registerkarte „Interaktionszuordnung“ {#engagement-map-tab}
 
 Interaktionszuordnung wird durch eine Reihe von Trigger-, Filter- und Flusskarten dargestellt. Wenn Sie auf jede Karte klicken, werden zusätzliche Informationen angezeigt.
 

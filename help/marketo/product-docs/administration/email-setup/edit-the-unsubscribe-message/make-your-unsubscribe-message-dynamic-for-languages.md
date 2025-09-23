@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6848782
 description: Machen Sie Ihre Abmelde-Nachricht dynamisch für Sprachen - Marketo-Dokumente - Produktdokumentation
-title: Machen Sie Ihre Abmelde-Nachricht dynamisch für Sprachen
+title: Dynamisches Gestalten Ihrer Abmeldenachricht für Sprachen
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# Machen Sie Ihre Abmelde-Nachricht dynamisch für Sprachen {#make-your-unsubscribe-message-dynamic-for-languages}
+# Dynamisches Gestalten Ihrer Abmeldenachricht für Sprachen {#make-your-unsubscribe-message-dynamic-for-languages}
 
 Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. Sie können dynamische Inhalte verwenden, um sie in verschiedenen Sprachen anzuzeigen.
 
@@ -65,7 +65,7 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
-## Erstellen eines Snippets {#create-a-snippet}
+## Erstellen eines Ausschnitts {#create-a-snippet}
 
 1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 
@@ -87,7 +87,7 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. Wählen **[!UICONTROL Abschnitt**&#x200B;[!UICONTROL &#x200B; Segmentierung &#x200B;]&#x200B;**die Option „Segment nach]** aus.
+1. Wählen **[!UICONTROL Abschnitt]** Segmentierung **[!UICONTROL die Option „Segment nach]** aus.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 

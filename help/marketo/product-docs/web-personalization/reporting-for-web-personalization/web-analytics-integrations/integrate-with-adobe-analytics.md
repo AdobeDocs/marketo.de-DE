@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949160
 description: Integration mit Adobe Analytics - Marketo-Dokumente - Produktdokumentation
-title: Integration mit Adobe Analytics
+title: Integrieren mit Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1059'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Integration mit Adobe Analytics {#integrate-with-adobe-analytics}
+# Integrieren mit Adobe Analytics {#integrate-with-adobe-analytics}
 
 ## Einführung {#intro}
 
@@ -110,9 +110,9 @@ Wählen Sie die Nummer [Konversionsvariable](https://microsite.omniture.com/t2/h
 
       1. Ändern Sie die vier Eigenschaftsnamen. Dies ist der Name, der in der Report Suite angezeigt wird.
 
-   1. Wählen Sie [!UICONTROL &#x200B; Feld &#x200B;]Aktiviert“ aus, um **[!UICONTROL Aktiviert]**.
+   1. Wählen Sie [!UICONTROL  Feld ]Aktiviert“ aus, um **[!UICONTROL Aktiviert]**.
 
-   1. Wählen Sie [!UICONTROL &#x200B; Feld &#x200B;]Pfadberichte“ aus, um **[!UICONTROL Aktiviert]**.
+   1. Wählen Sie [!UICONTROL  Feld ]Pfadberichte“ aus, um **[!UICONTROL Aktiviert]**.
 
 ## In [!DNL Marketo Real-Time Personalization] eingerichtet (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 

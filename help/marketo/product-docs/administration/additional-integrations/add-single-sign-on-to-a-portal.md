@@ -4,10 +4,10 @@ description: Hinzufügen von Single Sign-on zu einem Portal - Marketo-Dokumente 
 title: Hinzufügen von Single Sign-On zu einem Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '606'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

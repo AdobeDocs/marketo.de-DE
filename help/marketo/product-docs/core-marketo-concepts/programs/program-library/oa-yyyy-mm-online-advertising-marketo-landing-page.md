@@ -1,16 +1,16 @@
 ---
 description: OA-YYYY-MM-online Advertising Marketo Landingpage - Marketo-Dokumente - Produktdokumentation
-title: OA-YYYY-MM-Online Landingpage von Advertising Marketo
+title: 'Marketo-Landingpage mit Online-Werbung: OA-JJJJ-MM'
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 12%
+ht-degree: 15%
 
 ---
 
-# OA-YYYY-MM-Online Landingpage von Advertising Marketo {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# Marketo-Landingpage mit Online-Werbung: OA-JJJJ-MM {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 Dies ist ein Beispiel für ein Tracking-Programm für Online-Werbung, einschließlich einer Marketo-Landingpage mit Registrierungsformular und Verwendung eines Marketo-Standardprogramms. Der Link zum Angebot kann auf der Dankeseite angezeigt, in einer Dankesnachricht gesendet oder auf beiden Seiten angezeigt werden.
 
@@ -52,7 +52,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>01-email-thank you</td>
   </tr>
   <tr>

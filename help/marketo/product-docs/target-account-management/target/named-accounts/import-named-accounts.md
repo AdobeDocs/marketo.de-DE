@@ -4,7 +4,7 @@ description: Importieren [!UICONTROL benannten Konten] - Marketo-Dokumente - Pro
 title: Importieren [!UICONTROL benannte Konten]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -103,6 +103,6 @@ Szenarien bei der Deduplizierung [!UICONTROL nach Domain-Name]:
 
 >[!NOTE]
 >
->Wenn Marketo ein benanntes Konto anhängt, aktualisieren wir eine Regel (hinter den Kulissen), mit der wir Personen identifizieren können, die Teil des [!UICONTROL benannten Kontos“ sein &#x200B;]. Beispiel: Wenn Sie &quot;IBM&quot; in &quot;IBM, USA“ aktualisieren, werden Personen mit einem der Firmennamen mit dem &quot;[!UICONTROL &#x200B; Konto“ &#x200B;].
+>Wenn Marketo ein benanntes Konto anhängt, aktualisieren wir eine Regel (hinter den Kulissen), mit der wir Personen identifizieren können, die Teil des [!UICONTROL benannten Kontos“ sein ]. Beispiel: Wenn Sie &quot;IBM&quot; in &quot;IBM, USA“ aktualisieren, werden Personen mit einem der Firmennamen mit dem &quot;[!UICONTROL  Konto“ ].
 
 Wenn Marketo Datensätze findet, die wir als Duplikate sehen, wird nur der erste verarbeitet.

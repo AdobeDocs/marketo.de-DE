@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7505310
 description: Abonnieren einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
-title: Abonnieren einer Smart-Liste
+title: Abonnieren einer intelligenten Liste
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Abonnieren einer Smart-Liste {#subscribe-to-a-smart-list}
+# Abonnieren einer intelligenten Liste {#subscribe-to-a-smart-list}
 
 Das Abonnieren von Smart Lists ist eine hervorragende Möglichkeit, den Überblick über Personen zu behalten, wobei Berichte direkt an Ihren Posteingang gesendet werden.
 

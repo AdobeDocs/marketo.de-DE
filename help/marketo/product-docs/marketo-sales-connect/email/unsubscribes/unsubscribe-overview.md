@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746161
 description: Übersicht über die Abmeldung - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über die Abmeldung
+title: Abmeldung – Übersicht
 exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Übersicht über die Abmeldung {#unsubscribe-overview}
+# Abmeldung – Übersicht {#unsubscribe-overview}
 
 Für Unternehmen wird es immer wichtiger, die Datenschutzgesetze für E-Mails einzuhalten. Um Ihnen dabei zu helfen, haben wir einige Verbesserungen an unserem Abmeldeerlebnis vorgenommen.
 

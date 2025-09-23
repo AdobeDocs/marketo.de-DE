@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571892
 description: Verwenden von Organisatoren vor Ort - Marketo-Dokumente - Produktdokumentation
-title: Verwenden von Feld-Organisatoren
+title: Verwenden von Feldorganisatoren
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Verwenden von Feld-Organisatoren {#using-field-organizers}
+# Verwenden von Feldorganisatoren {#using-field-organizers}
 
 Mit den Feld-Organisatoren können Sie bestimmte Felder aus allen möglichen Werten angeben. Sie können beispielsweise für das Feld Territorium aussagekräftige Gruppierungen wie West- und Ostküste erstellen. Dadurch können Berichte schneller ausgeführt werden.
 

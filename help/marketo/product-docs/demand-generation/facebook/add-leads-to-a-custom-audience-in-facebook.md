@@ -4,16 +4,16 @@ description: Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in Fa
 title: Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 
-Sie haben bereits eine benutzerdefinierte Zielgruppe in [!DNL Facebook] und möchten ihr weitere Leads hinzufügen? So geht&#39;s.
+Sie haben bereits eine benutzerdefinierte Zielgruppe in [!DNL Facebook] und möchten ihr weitere Leads hinzufügen? Und so geht das.
 
 >[!PREREQUISITES]
 >

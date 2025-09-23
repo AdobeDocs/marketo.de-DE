@@ -4,10 +4,10 @@ description: Installieren und Konfigurieren von Marketo Sales Insight in Microso
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2015
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,7 @@ OK, jetzt ist es Zeit, die [!DNL Marketo Sales Insight] Lösung in [!DNL Microso
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Anpassungen]**.
+1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Anpassungen]**.
 
    ![](assets/image2015-4-29-14-3a22-3a1.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9438203
 description: Vorlage 17e - Marketo-Dokumente - Produktdokumentation
-title: Meldebogen 17e
+title: Vorlage 17e
 exl-id: c4ffe84c-a15f-4d11-bbfa-5de78f981a7a
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Meldebogen 17e {#template-17e}
+# Vorlage 17e {#template-17e}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 17E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=de)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 17E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=de)
+[Vorlage 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)

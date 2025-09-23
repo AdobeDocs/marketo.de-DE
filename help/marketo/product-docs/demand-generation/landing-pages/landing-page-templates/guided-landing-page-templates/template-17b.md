@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9438194
 description: Vorlage 17b - Marketo-Dokumente - Produktdokumentation
-title: Meldebogen 17b
+title: Vorlage 17b
 exl-id: f1483278-0f4a-40a4-b652-1df2be5abfa4
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Meldebogen 17b {#template-17b}
+# Vorlage 17b {#template-17b}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 17B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=de)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 17B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=de)
+[Vorlage 17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)

@@ -4,16 +4,16 @@ description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
 title: Berechtigungen
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # Berechtigungen {#permissions}
 
-Sie müssen Berechtigungen einrichten, damit Ihre Benutzer TAM verwenden können. So geht&#39;s.
+Sie müssen Berechtigungen einrichten, damit Ihre Benutzer TAM verwenden können. Und so geht das.
 
 1. Klicken Sie auf **[!UICONTROL Admin]**.
 

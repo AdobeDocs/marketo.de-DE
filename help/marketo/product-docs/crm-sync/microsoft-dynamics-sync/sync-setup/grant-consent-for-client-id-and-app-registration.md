@@ -1,16 +1,16 @@
 ---
 description: Einverständnis für Client-ID und App-Registrierung erteilen - Marketo-Dokumente - Produktdokumentation
-title: Einverständnis für Client-ID und App-Registrierung erteilen
+title: Erteilen von Einverständnis für Client-ID und App-Registrierung
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Einverständnis für Client-ID und App-Registrierung erteilen {#grant-consent-for-client-id-and-app-registration}
+# Erteilen von Einverständnis für Client-ID und App-Registrierung {#grant-consent-for-client-id-and-app-registration}
 
 Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderlichen Einverständnisse/Berechtigungen erteilen.
 
@@ -75,7 +75,7 @@ Als Admin können Sie auch den delegierten Berechtigungen einer Anwendung im Nam
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

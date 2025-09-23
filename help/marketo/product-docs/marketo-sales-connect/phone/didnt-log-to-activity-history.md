@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352489
 description: hat sich nicht beim Aktivitätsverlauf - Marketo-Dokumente - Produktdokumentation angemeldet
-title: hat sich nicht im Aktivitätsverlauf angemeldet
+title: Hat sich nicht im Aktivitätsverlauf angemeldet
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# hat sich nicht im Aktivitätsverlauf angemeldet {#didnt-log-to-activity-history}
+# Hat sich nicht im Aktivitätsverlauf angemeldet {#didnt-log-to-activity-history}
 
 Wenn Sie Ihre Anrufprotokolle für [!DNL Salesforce] nicht sehen, liegt das möglicherweise daran, dass wir in [!DNL Salesforce] keinen Lead/Kontakt finden können.
 

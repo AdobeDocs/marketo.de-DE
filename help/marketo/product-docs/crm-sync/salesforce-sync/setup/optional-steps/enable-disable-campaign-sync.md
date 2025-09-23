@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719289
 description: Aktivieren/Deaktivieren der Kampagnensynchronisierung - Marketo-Dokumente - Produktdokumentation
-title: Kampagnensynchronisierung aktivieren/deaktivieren
+title: Aktivieren/Deaktivieren der Kampagnensynchronisierung
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Kampagnensynchronisierung aktivieren/deaktivieren {#enable-disable-campaign-sync}
+# Aktivieren/Deaktivieren der Kampagnensynchronisierung {#enable-disable-campaign-sync}
 
 >[!NOTE]
 >

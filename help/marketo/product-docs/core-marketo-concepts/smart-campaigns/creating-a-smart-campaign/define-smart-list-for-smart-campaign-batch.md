@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146940
 description: Smart-Liste für Smart-Kampagnen definieren | Batch - Marketo-Dokumente - Produktdokumentation
-title: Smart-Liste für Smart-Kampagnen definieren | Batch
+title: Definieren einer intelligenten Liste für eine intelligente Kampagne | Stapel
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '275'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Smart-Liste für Smart-Kampagnen definieren | Batch {#define-smart-list-for-smart-campaign-batch}
+# Definieren einer intelligenten Liste für eine intelligente Kampagne | Stapel {#define-smart-list-for-smart-campaign-batch}
 
 Smart Lists sind in Marketo Engage der Mechanismus, mit dem definiert wird, „wer“ (welche Personen) einbezogen werden soll, unabhängig davon, ob es sich um einen Bericht, eine Liste oder eine Smart Campaign handelt. So definieren Sie eine Smart-Liste für eine Batch-Kampagne.
 

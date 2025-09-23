@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359726
 description: Bearbeiten des Landingpage-Titels und der Metadaten - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten des Landingpage-Titels und der Metadaten
+title: Bearbeiten des Titels und der Metadaten einer Landingpage
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Bearbeiten des Landingpage-Titels und der Metadaten {#edit-landing-page-title-and-metadata}
+# Bearbeiten des Titels und der Metadaten einer Landingpage {#edit-landing-page-title-and-metadata}
 
 Mit Marketo können Sie Ihre Landingpage ([-Tags für SEO](https://www.w3schools.com/tags/tag_meta.asp)Zwecke) bearbeiten und den `<head>` Teil der HTML anpassen.
 

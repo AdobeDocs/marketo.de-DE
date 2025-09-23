@@ -3,10 +3,10 @@ description: Ersteinrichtung - Marketo-Dokumente - Produktdokumentation
 title: Ersteinrichtung
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -24,7 +24,7 @@ Gehen Sie wie folgt vor, um Dynamic Chat einzurichten.
 
    ![](assets/initial-setup-1.png)
 
-1. Wenn Sie zuvor bereits auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zur Adobe Admin Console. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Wenn Sie zuvor bereits auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zur Adobe Admin Console. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/initial-setup-2.png)
 

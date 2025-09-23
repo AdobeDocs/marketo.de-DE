@@ -4,7 +4,7 @@ description: Kontobewertung - Marketo-Dokumente - Produktdokumentation
 title: Kontobewertung
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 2%
@@ -47,9 +47,9 @@ In der komplexen Welt der B2B-Kaufprozesse ist es selten, dass eine einzelne Per
 >Zur Berechnung der Kontobewertungen müssen Sie zunächst Lead-Bewertungen erstellen. Marketo TAM aggregiert Lead-Bewertungen automatisch zu Konto-Bewertungen. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Account Product Interest Score_ und _Account Web Engagement Score_).
 >
 >Erstellen Sie zunächst Lead-Bewertungsfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.
->&#x200B;>Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:
->&#x200B;>Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)
->&#x200B;>Account Web Engagement Score = SUM (Lead Web Engagement Score)
+>>Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:
+>>Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)
+>>Account Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >
@@ -65,7 +65,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
 
    ![](assets/account-score-2.png)
 
-1. Klicken [!UICONTROL &#x200B; in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL  in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/account-score-3.png)
 
@@ -73,7 +73,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
    >
    >Sie können bis zu **fünf** Felder zur Berechnung des [!UICONTROL Kontowerts] auswählen.
 
-1. Geben Sie [!UICONTROL &#x200B; Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
+1. Geben Sie [!UICONTROL  Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
 
    ![](assets/account-score-4.png)
 

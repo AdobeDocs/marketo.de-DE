@@ -1,14 +1,14 @@
 ---
 description: Profil verwalten - Marketo-Dokumente - Produktdokumentation
-title: Profil verwalten
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+title: Verwalten Ihres Profils
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Profil verwalten {#manage-your-profile}
+# Verwalten Ihres Profils {#manage-your-profile}
 
 Auf Ihrer Seite Mein Profil können Sie Ihren Namen, die Sprache/das Gebietsschema/die Zeitzone Ihres Kontos aktualisieren und Ihr Passwort ändern.
 

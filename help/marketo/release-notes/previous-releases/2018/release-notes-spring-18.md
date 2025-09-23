@@ -3,14 +3,14 @@ unique-page-id: 14745959
 description: Versionshinweise - Frühjahr 1918 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Spring '18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Versionshinweise: Frühling &#39;18 {#release-notes-spring}
+# Versionshinweise – Frühjahr 2018 {#release-notes-spring}
 
 Die folgenden Funktionen sind in der Version vom Frühjahr 1918 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 

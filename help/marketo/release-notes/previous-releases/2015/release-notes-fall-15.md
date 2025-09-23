@@ -4,10 +4,10 @@ description: Versionshinweise - Herbst 2015 - Marketo-Dokumentation - Produktdok
 title: Versionshinweise - Herbst 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '966'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 Die folgenden Funktionen sind in der Version vom Herbst 15 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit.
 
-## Abonnieren einer Smart-Liste {#subscribe-to-a-smart-list}
+## Abonnieren einer intelligenten Liste {#subscribe-to-a-smart-list}
 
-[Abonnieren einer Smart-Liste](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+[Abonnieren einer intelligenten Liste](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
 Mit der Option „Smart-Liste abonnieren“ können Marketing-Experten eine Smart-Liste exportieren und per E-Mail an die Stakeholder senden, die Marketo nicht verwenden, z. B. Verkaufs- oder Telemarketing-Teams.
 

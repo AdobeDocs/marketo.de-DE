@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359866
 description: Erfassen von Bildern von einer Web-Seite - Marketo-Dokumente - Produktdokumentation
-title: Erfassen der Bilder von einer Web-Seite
+title: Abrufen der Bilder von einer Web-Seite
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Erfassen der Bilder von einer Web-Seite {#grab-the-images-from-a-web-page}
+# Abrufen der Bilder von einer Web-Seite {#grab-the-images-from-a-web-page}
 
 Um Bilder von einer Web-Seite hinzuzufügen, kopieren Sie die Web-Adresse (URL) der Seite, die die gewünschten Bilder enthält, und führen Sie dann diese einfachen Schritte aus.
 

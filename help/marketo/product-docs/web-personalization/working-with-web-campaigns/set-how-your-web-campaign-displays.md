@@ -4,10 +4,10 @@ description: 'Legen Sie fest, wie Ihre Web-Kampagne angezeigt wird: Marketo-Doku
 title: Festlegen, wie Ihre Web-Kampagne angezeigt wird
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -68,7 +68,7 @@ Mit der Absichtserklärung wird die Web-Kampagne beim Beenden des Browsers mit d
 
    ![](assets/ei1.png)
 
-1. Es wird eine Meldung angezeigt, die Sie daran erinnert[!UICONTROL &#x200B; dass die &#x200B;] nicht mit Mobilgeräten kompatibel ist.
+1. Es wird eine Meldung angezeigt, die Sie daran erinnert[!UICONTROL  dass die ] nicht mit Mobilgeräten kompatibel ist.
 
    ![](assets/ei2.png)
 

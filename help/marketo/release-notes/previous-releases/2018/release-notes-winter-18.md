@@ -3,14 +3,14 @@ unique-page-id: 13795395
 description: Versionshinweise - Winter '18 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Winter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Versionshinweise: Winter &#39;18 {#release-notes-winter}
+# Versionshinweise – Winter 2018 {#release-notes-winter}
 
 Die folgenden Funktionen sind in der Version Winter &#39;18 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 
@@ -58,7 +58,7 @@ Velocity-Skripterstellung wird jetzt in E-Mails mit dynamischen Inhalten unterst
 
 * **[Versand stoppen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Sie können jetzt alle verbleibenden Sendungen in der Mitte des Durchgangs stoppen.
 
-## Netzwerkintegrationen hinzufügen {#ad-network-integrations}
+## Integrationen mit Anzeigennetzwerken {#ad-network-integrations}
 
 **[Google Customer Match Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
@@ -94,7 +94,7 @@ Mit dieser neuen API können Sie Trigger-Kampagnen per Fernzugriff aktivieren un
 
 **Update abbestellen**
 
-Ab dem 1. März 2018 wird für alle E-Mails, die von [ToutApp.com](https://ToutApp.com) gesendet werden (und in [!DNL Salesforce] die Schaltfläche „E-Mail mit [!DNL Tout]&quot; verwenden), unten ein Abmelde-Link angehängt.
+Ab dem 1. März 2018 wird für alle E-Mails, die von [ToutApp.com](https://ToutApp.com) gesendet werden (und in [!DNL Tout] die Schaltfläche „E-Mail mit [!DNL Salesforce]&quot; verwenden), unten ein Abmelde-Link angehängt.
 
 **Live-Feed-Update**
 

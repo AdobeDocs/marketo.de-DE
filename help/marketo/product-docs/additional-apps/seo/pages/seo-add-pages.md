@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949216
 description: SEO - Seiten hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: SEO - Seiten hinzufügen
+title: SEO – Hinzufügen von Seiten
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# SEO - Seiten hinzufügen {#seo-add-pages}
+# SEO – Hinzufügen von Seiten {#seo-add-pages}
 
 Du hast Seiten! Marketo SEO durchsucht automatisch Ihre Site und verfolgt sie. Falls wir ein paar verpasst haben, besorgen Sie sie sich in der SEO-App wie folgt:
 

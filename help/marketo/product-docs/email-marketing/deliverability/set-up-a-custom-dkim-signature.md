@@ -4,10 +4,10 @@ description: Einrichten einer benutzerdefinierten DKIM-Signatur - Marketo-Dokume
 title: Einrichten einer benutzerdefinierten DKIM-Signatur
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ Um eine erstklassige Zustellbarkeit zu gewährleisten, signieren wir automatisch
 >
 >Möglicherweise benötigen Sie die Hilfe Ihres IT-Teams, um einige der Schritte in diesem Artikel auszuführen.
 
-Sie können die DKIM-Signatur personalisieren, um die Domain(s) Ihrer Wahl widerzuspiegeln. So geht&#39;s.
+Sie können die DKIM-Signatur personalisieren, um die Domain(s) Ihrer Wahl widerzuspiegeln. Und so geht das.
 
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Admin]**.
 

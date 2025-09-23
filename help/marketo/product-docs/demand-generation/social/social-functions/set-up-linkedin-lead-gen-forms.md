@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12976798
 description: Einrichten von LinkedIn-Lead-Gen-Forms - Marketo-Dokumente - Produktdokumentation
-title: Einrichten von LinkedIn Lead Gen Forms
+title: Einrichten von Formularen für die Lead-Generierung in LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '511'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Einrichten von LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
+# Einrichten von Formularen für die Lead-Generierung in LinkedIn {#set-up-linkedin-lead-gen-forms}
 
 Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigenkampagnen in LinkedIn auszuführen und Leads für Marketo zu generieren.
 

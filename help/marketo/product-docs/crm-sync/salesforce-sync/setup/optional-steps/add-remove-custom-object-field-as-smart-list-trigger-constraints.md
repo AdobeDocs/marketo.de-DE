@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719300
 description: Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen
+title: Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Einschränkung für intelligente Liste/Auslöser
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Einschränkung für intelligente Liste/Auslöser {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo Engage bietet eine präzise Kontrolle über die Synchronisierung benutzerdefinierter Salesforce-Objekte. Auf diese Weise können Sie die Felder auswählen, die als Einschränkungen in benutzerdefinierten Objektfiltern verfügbar sind, und sie als Trigger in Smart-Kampagnen verwenden.
 

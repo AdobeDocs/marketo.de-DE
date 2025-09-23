@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360184
 description: Kampagnenaktivitätsbericht filtern - Marketo-Dokumente - Produktdokumentation
-title: Kampagnenaktivitätsbericht filtern
+title: Filtern eines Kampagnenaktivitätsberichts
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Kampagnenaktivitätsbericht filtern {#filter-a-campaign-activity-report}
+# Filtern eines Kampagnenaktivitätsberichts {#filter-a-campaign-activity-report}
 
 Konzentrieren Sie Ihren [Kampagnenaktivitätsbericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) auf bestimmte [intelligente Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 

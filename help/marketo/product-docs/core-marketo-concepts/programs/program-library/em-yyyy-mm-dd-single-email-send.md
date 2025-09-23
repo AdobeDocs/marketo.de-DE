@@ -1,16 +1,16 @@
 ---
 description: EM-JJJJ-MM-TT-E-Mail senden - Marketo-Dokumente - Produktdokumentation
-title: EM-JJJJ-MM-TT-E-Mail senden
+title: 'Senden einer einzelnen E-Mail: EM-JJJJ-MM-TT'
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
-# EM-JJJJ-MM-TT-E-Mail senden {#em-yyyy-mm-dd-single-email-send}
+# Senden einer einzelnen E-Mail: EM-JJJJ-MM-TT {#em-yyyy-mm-dd-single-email-send}
 
 In diesem Beispiel wird eine einzige E-Mail mit einem Marketo Engage-E-Mail-Programm gesendet. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
@@ -47,7 +47,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>01-email-thank you</td>
   </tr>
   <tr>

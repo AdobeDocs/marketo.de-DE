@@ -4,10 +4,10 @@ description: Verbinden von Sales Connect mit Ihrer Salesforce-Sandbox - Marketo-
 title: Verbinden von Sales Connect mit Ihrer Salesforce Sandbox
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Ihr [!DNL &#x200B; Sales Connect]-Konto kann nicht bereits mit [!DNL Salesforce] verbunden werden, wenn eine Verbindung zur Sandbox hergestellt wird. Ist dies der Fall, [stellen Sie sicher, dass Sie die Verbindung trennen](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) bevor Sie die Schritte in diesem Artikel befolgen.
+>Ihr [!DNL  Sales Connect]-Konto kann nicht bereits mit [!DNL Salesforce] verbunden werden, wenn eine Verbindung zur Sandbox hergestellt wird. Ist dies der Fall, [stellen Sie sicher, dass Sie die Verbindung trennen](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) bevor Sie die Schritte in diesem Artikel befolgen.
 
 1. Klicken Sie [!DNL Sales Connect] oben rechts auf das Zahnradsymbol und dann auf **[!UICONTROL Einstellungen]**.
 
    ![](assets/one-2.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL CRM]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL CRM]**.
 
    ![](assets/two-2.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359400
 description: Formulardesign auswählen - Marketo-Dokumente - Produktdokumentation
-title: Formulardesign auswählen
+title: Auswählen eines Formular-Designs
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
-# Formulardesign auswählen {#select-a-form-theme}
+# Auswählen eines Formular-Designs {#select-a-form-theme}
 
 Wir haben eine Reihe von schönen Themen für Ihre Formulare erstellt. Was magst du am liebsten?
 

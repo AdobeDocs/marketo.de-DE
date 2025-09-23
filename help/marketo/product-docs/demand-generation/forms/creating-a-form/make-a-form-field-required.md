@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359569
 description: Formularfeld als erforderlich festlegen - Marketo-Dokumente - Produktdokumentation
-title: Formularfeld als erforderlich festlegen
+title: Festlegen eines Formularfelds als erforderlich
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Formularfeld als erforderlich festlegen {#make-a-form-field-required}
+# Festlegen eines Formularfelds als erforderlich {#make-a-form-field-required}
 
-Beim [Hinzufügen von Feldern zu einem ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen. So geht&#39;s.
+Beim [Hinzufügen von Feldern zu einem ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen. Und so geht das.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557337
 description: Erstellen und Ändern von Ansichten für Listen und Smart-Listen - Marketo-Dokumente - Produktdokumentation
-title: Erstellen und Ändern von Ansichten für Listen und Smart-Listen
+title: Erstellen und Ändern von Ansichten für Listen und intelligente Listen
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Erstellen und Ändern von Ansichten für Listen und Smart-Listen {#create-and-change-views-for-lists-and-smart-list}
+# Erstellen und Ändern von Ansichten für Listen und intelligente Listen {#create-and-change-views-for-lists-and-smart-list}
 
-Eine Smart-Liste zeigt einen Standardsatz von Spalten an. Wusstest du, dass du diese Spalten nach Herzenslust bearbeiten kannst? So geht&#39;s.
+Eine Smart-Liste zeigt einen Standardsatz von Spalten an. Wusstest du, dass du diese Spalten nach Herzenslust bearbeiten kannst? Und so geht das.
 
 ## Erstellen einer Ansicht {#create-a-view}
 

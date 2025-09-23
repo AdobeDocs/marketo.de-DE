@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900597
 description: Definieren einer Zielgruppe durch Importieren einer Liste - Marketo-Dokumente - Produktdokumentation
-title: Definieren einer Audience durch Importieren einer Liste
+title: Definieren einer Zielgruppe durch Importieren einer Liste
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
-# Definieren einer Audience durch Importieren einer Liste {#define-an-audience-by-importing-a-list}
+# Definieren einer Zielgruppe durch Importieren einer Liste {#define-an-audience-by-importing-a-list}
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, sollten Sie ihm mitteilen, an we
 >
 >Die Definition Ihrer Audience funktioniert nur, wenn das E-Mail-Programm nicht genehmigt ist.
 >
->Alle Datums-/Uhrzeitfelder, die importiert werden, werden als zentrale Zeit behandelt. Wenn Sie Datums-/Zeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (America/Chicago) umzuwandeln.
+>Alle importierten Datums-/Uhrzeitfelder werden als Central Time behandelt. Wenn Sie Datums-/Zeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (America/Chicago) umzuwandeln.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

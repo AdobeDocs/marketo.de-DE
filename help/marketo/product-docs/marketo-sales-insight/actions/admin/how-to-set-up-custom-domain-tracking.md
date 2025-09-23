@@ -1,16 +1,16 @@
 ---
 description: Einrichten des Trackings benutzerdefinierter Domains - Marketo-Dokumente - Produktdokumentation
-title: Einrichten der benutzerdefinierten Domain-Verfolgung
+title: Einrichten der Verfolgung benutzerdefinierter Domains
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Einrichten der benutzerdefinierten Domain-Verfolgung {#how-to-set-up-custom-domain-tracking}
+# Einrichten der Verfolgung benutzerdefinierter Domains {#how-to-set-up-custom-domain-tracking}
 
 Mit dem benutzerdefinierten Domain-Tracking kann Ihr Team in allen verfolgbaren Links, die zu Ihren Verkaufs-E-Mails hinzugefügt werden, Ihren eigenen Firmennamen verwenden. Auf die Zulassungsliste setzen Sobald Sie dies eingerichtet haben, werden alle Links in Ihrer E-Mail als go.yourcompany.com angezeigt, sodass, wenn jemand den Mauszeiger über einen Link bewegt, go.yourcompany.com anstelle von go.toutapp.com angezeigt wird.
 
@@ -32,7 +32,7 @@ Nachdem Sie sich bei Ihrem IT-Team vergewissert haben, dass der CNAME ordnungsge
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Tracking]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Tracking]** aus.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 

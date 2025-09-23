@@ -3,7 +3,7 @@ description: 'Schritt 1 von 3: Installieren der Marketo-Lösung mit Server-zu-Se
 title: 'Schritt 1 von 3: Installieren der Marketo-Lösung mit Server-zu-Server-Verbindung'
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 1%

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949180
-description: Grundlegendes zum SEO-Dashboard - SEO Recommendations - Marketo-Dokumente - Produktdokumentation
-title: Das SEO Dashboard - SEO Recommendations
+description: Grundlegendes zum SEO-Dashboard - SEO-Empfehlungen - Marketo-Dokumente - Produktdokumentation
+title: Grundlegendes zum SEO-Dashboard - SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Das SEO Dashboard verstehen: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
+# Grundlegendes zum SEO-Dashboard: SEO-Empfehlungen {#understanding-the-seo-dashboard-seo-recommendations}
 
 Verwenden Sie das Dashboard, um einen allgemeinen Überblick darüber zu erhalten, wie Keyword-Ränge im Trend liegen und wie gut Ihre Site für SEO optimiert ist.
 
-Im Abschnitt [!UICONTROL Recommendations&rbrace; erfahren Sie, wie Sie &#x200B;] verbessern können. Lasst uns eintauchen!
+Auch im Abschnitt „Recommendations[!UICONTROL  können Sie ] verbessern. Lasst uns eintauchen!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146942
 description: Smart-Liste für Smart-Kampagnen definieren | Trigger - Marketo-Dokumente - Produktdokumentation
-title: Smart-Liste für Smart-Kampagnen definieren | Trigger
+title: Definieren einer intelligenten Liste für eine intelligente Kampagne | Auslöser
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Smart-Liste für Smart-Kampagnen definieren | Trigger {#define-smart-list-for-smart-campaign-trigger}
+# Definieren einer intelligenten Liste für eine intelligente Kampagne | Auslöser {#define-smart-list-for-smart-campaign-trigger}
 
 Erstellen Sie durch Hinzufügen von Triggern, dass eine Smart-Kampagne basierend auf Live-Ereignissen jeweils nur für eine Person ausgeführt wird.
 

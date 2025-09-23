@@ -3,14 +3,14 @@ unique-page-id: 12977439
 description: Versionshinweise - Frühjahr 1917 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Spring '17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 3%
 
 ---
 
-# Versionshinweise: Frühling &#39;17 {#release-notes-spring}
+# Versionshinweise – Frühjahr 2017 {#release-notes-spring}
 
 Die folgenden Funktionen sind in der Version vom Frühjahr 1917 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 
@@ -76,7 +76,7 @@ Legen Sie die Animationseffekte für Ihre Dialog-Web-Kampagne fest, um anzupasse
 
 **[Anpassung des Schließen-Dialogs](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-Passen Sie die Schaltfläche Schließen für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die im Stil des transparenten Dialogfelds ([!UICONTROL ) verwendet &#x200B;]. Wählen Sie das Symbol, die Farbe und die Positionierung für die Schaltfläche „Schließen“ aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
+Passen Sie die Schaltfläche Schließen für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die im Stil des transparenten Dialogfelds ([!UICONTROL ) verwendet ]. Wählen Sie das Symbol, die Farbe und die Positionierung für die Schaltfläche „Schließen“ aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 

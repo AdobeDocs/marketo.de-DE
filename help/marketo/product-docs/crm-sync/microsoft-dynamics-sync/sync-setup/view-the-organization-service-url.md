@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504770
 description: Anzeigen der Organisations-Service-URL - Marketo-Dokumente - Produktdokumentation
-title: Organisations-Service-URL anzeigen
+title: Anzeigen der Organisations-Service-URL
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Organisations-Service-URL anzeigen {#view-the-organization-service-url}
+# Anzeigen der Organisations-Service-URL {#view-the-organization-service-url}
 
 Marketo Engage benötigt die Organisations-Service-URL für die Synchronisierung mit MD-Instanzen. So finden Sie sie in Dynamics.
 

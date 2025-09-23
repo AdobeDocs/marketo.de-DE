@@ -3,7 +3,7 @@ description: Metriken und Dimensionen - Marketo-Dokumente - Produktdokumentation
 title: Metriken und Dimensionen
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1040'
 ht-degree: 28%
@@ -12,11 +12,11 @@ ht-degree: 28%
 
 # Metriken und Dimensionen {#metrics-and-dimensions}
 
-Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Revenue Cycle Explorer Analyse&quot; verfügbar sind.
+Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Analysebericht des Umsatzzyklus-Explorers verfügbar sind.
 
 >[!TIP]
 >
->Wenn eine der Tabellen zu eng erscheint, können Sie die Ansicht erweitern, indem Sie auf die Pfeile nach links (![](assets/icon-left-arrow.png)) und rechts (![](assets/icon-right-arrow.png)) am oberen Rand dieser Seite klicken, um die linke und rechte Seitenleiste auszublenden.
+>Wenn eine der Tabellen zu eng erscheint, können Sie die Ansicht erweitern, indem Sie auf die Pfeile nach links (![](assets/icon-left-arrow.png)) und nach rechts (![](assets/icon-right-arrow.png)) oben auf dieser Seite klicken und die linken und rechten Seitenleisten reduzieren.
 
 ## Dimensionen und Kennzahlen {#dimensions-and-measures}
 
@@ -39,11 +39,11 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
       <td>
         <ul>
           <li>Quartalszeitrahmen</li>
-          <li>Monat Zeitrahmen</li>
-          <li>Woche Zeitrahmen</li>
-          <li>Datum Zeitrahmen</li>
-          <li>Tag der Woche</li>
-          <li>Stunde der Tag</li>
+          <li>Zeitraum des Monats</li>
+          <li>Zeitraum der Woche</li>
+          <li>Datums-/Zeitrahmen</li>
+          <li>Wochentag</li>
+          <li>Stunde des Tages</li>
         </ul>
       </td>
       <td>
@@ -167,7 +167,7 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
       </td>
       <td>
         <ul>
-          <li>Maße (M)</li>
+          <li>Maßnahmen (m)</li>
         </ul>
       </td>
     </tr>
@@ -189,24 +189,24 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
         <ul>
           <li>Investitionen (M)</li>
           <li>Mitgliedschaft (M)</li>
-          <li>Erfolg (M)</li>
+          <li>Erfolg (m)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Analyse der Programmmitgliedschaft</td>
+      <td>Analyse der Programmzugehörigkeit</td>
       <td>
         <ul>
           <li>Zeitraum für die Programmmitgliedschaft</li>
           <li>Zeitraum für den Programmerfolg</li>
           <li>Zeitrahmen für die Programmakquise</li>
-          <li>Programm Status Zeitrahmen</li>
+          <li>Programmstatus-Zeitrahmen</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Programm-Attribute</li>
-          <li>Programm Status Attribute</li>
+          <li>Programmattribute</li>
+          <li>Programmstatusattribute</li>
           <li>Unternehmensattribute</li>
           <li>Lead-Attribute</li>
           <li>ABM-Kontoattribute</li>
@@ -344,10 +344,10 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
       <td>
           <ul>
             <li>(FT) vor Abschluss der Opportunity</li>
-            <li>(FT) vor Opportunity Erstellt</li>
-            <li>Marketing-beeinflusste</li>
-            <li>(MT) vor Abschluss der Verkaufschance</li>
-            <li>(MT) vor der Verkaufschance Erstellt</li>
+            <li>(FT) vor Erstellung der Opportunity</li>
+            <li>Marketing beeinflusst</li>
+            <li>(MT) vor Abschluss der Opportunity</li>
+            <li>(MT) vor der Erstellung der Opportunity</li>
             <li>Opportunity geschlossen</li>
             <li>Opportunity-Prognosekategorie</li>
             <li>Opportunity-Name</li>
@@ -375,7 +375,7 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
           <ul>
             <li>ABM-Land</li>
             <li>ABM CRM ID</li>
-            <li>Genanntes Konto</li>
+            <li>Benanntes Konto</li>
           </ul>
       </td>
       <td>MPA_C
@@ -402,7 +402,7 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
           <ul>
             <li>Zu Opportunity hinzugefügt</li>
             <li>Ist primär</li>
-            <li>Role</li>
+            <li>Rolle</li>
           </ul>
       </td>
     </tr>
@@ -419,7 +419,7 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
       <th>Zeitraum der Woche</th>
       <th>Datums-/Zeitrahmen</th>
       <th>Wochentag</th>
-      <th>Stunde der Tag</th>
+      <th>Stunde des Tages</th>
     </tr>
     <tr>
       <td>
@@ -448,7 +448,7 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
           <ul>
             <li>Gesendet (Woche)</li>
             <li>Zugestellt (Woche)</li>
-            <li>Hardbounced (Woche)</li>
+            <li>Hardbounce (Woche)</li>
             <li>Geöffnet (Woche)</li>
             <li>Angeklickt (Woche)</li>
             <li>Abgemeldet (Woche)</li>
@@ -510,9 +510,9 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
     <tr>
       <td>
           <ul>
-            <li>Jahr</li>
+            <li>Year</li>
             <li>Quartal</li>
-            <li>Monat</li>
+            <li>Month</li>
             <li>Woche</li>
             <li>Datum</li>
           </ul>
@@ -557,13 +557,13 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
             <li>Mitgliederviertel</li>
             <li>Mitgliedschaft Monat</li>
             <li>Mitgliederwoche</li>
-            <li>Mitgliedschaft Datum</li>
+            <li>Abo-Datum</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li>Erfolg Jahr</li>
-            <li>Erfolg Quartal</li>
+            <li>Erfolgsjahr</li>
+            <li>Erfolgsquartal</li>
             <li>Erfolg Monat</li>
             <li>Erfolgswoche</li>
             <li>Erfolg am</li>
@@ -622,7 +622,7 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
             <li>Wurden geöffnet</li>
             <li>Gesendet</li>
             <li>Einzelklicks</li>
-            <li>Abgemeldet</li>
+            <li>Abbestellt</li>
           </ul>
       </td>
       <td>
@@ -660,9 +660,9 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
       <td>
           <ul>
             <li>Durchschn. Transition (Tage)</li>
-            <li>Konversationsverhältnis (Alle Typen)</li>
-            <li>Konversationsration (vorhanden)</li>
-            <li>Konversationsverhältnis (Neu)</li>
+            <li>Konversionsrate (alle Typen)</li>
+            <li>Konversationsrate (vorhanden)</li>
+            <li>Konversionsrate (neu)</li>
             <li>Fluss</li>
             <li>Fluss (vorhanden)</li>
             <li>Fluss (nur neu)</li>
@@ -701,24 +701,24 @@ Unten finden Sie alle Metriken und Dimensionen, die für den Bericht &quot;Reven
 <table>
   <tbody>
     <tr>
-      <th>Bühnenmitgliedschaft (M)</th>
+      <th>Stadienzugehörigkeit (M)</th>
       <th>Attribution</th>
-      <th>Programm Status Maßnahmen</th>
+      <th>Programmstatusmaßnahmen</th>
     </tr>
     <tr>
       <td>
           <ul>
             <li>% neuer Name (aktuell)</li>
             <li>% neuer Name (immer)</li>
-            <li>Durchschn. Tage bis Bereitstellen</li>
+            <li>Durchschn. Tage bis Staging</li>
             <li>Kosten pro neuem Namen</li>
-            <li>Name der Neu (aktuell)</li>
-            <li>Neu Name (jemals)</li>
+            <li>Neuer Name (aktuell)</li>
+            <li>Neuer Name (immer)</li>
           </ul>
       </td>
       <td>
           <ul>
-            <li># der mit dem Programm verbundenen Chancen</li>
+            <li>Anzahl der mit dem Programm verknüpften Opportunitys</li>
             <li>(FT) Opportunitätskosten</li>
             <li>(FT) Opportunities erstellt</li>
             <li>(FT) Generierte Opportunities</li>

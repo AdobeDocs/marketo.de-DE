@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11384665
 description: Verstehen prädiktiver Inhalte - Marketo-Dokumente - Produktdokumentation
-title: Prädiktive Inhalte verstehen
+title: Grundlegendes zu prädiktiven Inhalten
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Prädiktive Inhalte verstehen {#understanding-predictive-content}
+# Grundlegendes zu prädiktiven Inhalten {#understanding-predictive-content}
 
-Nachdem Sie [einen Titel für Prognoseinhalte genehmigt haben](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) bearbeiten Sie ihn hier. Auf [!UICONTROL &#x200B; Seite &#x200B;]Prädiktiver Inhalt“ werden alle Titel angezeigt, die Sie für prädiktiven Inhalt genehmigt haben.
+Nachdem Sie [einen Titel für Prognoseinhalte genehmigt haben](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) bearbeiten Sie ihn hier. Auf [!UICONTROL  Seite ]Prädiktiver Inhalt“ werden alle Titel angezeigt, die Sie für prädiktiven Inhalt genehmigt haben.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -58,7 +58,7 @@ In der Tabelle können Sie sehen, welche Quellen für prädiktive Inhalte aktivi
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-Bewegen Sie den Mauszeiger über den Balken in [!UICONTROL &#x200B; Spalte &quot;]&quot;, um die Konversionsrate, die direkte Konversion und die angeklickten Daten anzuzeigen.
+Bewegen Sie den Mauszeiger über den Balken in [!UICONTROL  Spalte &quot;]&quot;, um die Konversionsrate, die direkte Konversion und die angeklickten Daten anzuzeigen.
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 

@@ -1,15 +1,15 @@
 ---
 description: Feldaufforderungen - Marketo-Dokumente - Produktdokumentation
-title: Eingabeaufforderungen im Feld
+title: Eingabeaufforderungen für Felder
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Eingabeaufforderungen im Feld {#field-prompts}
+# Eingabeaufforderungen für Felder {#field-prompts}
 
 Mit Eingabeaufforderungen im Feld können Sie eine Textzeichenfolge zu E-Mails hinzufügen, die entfernt oder ersetzt werden müssen, bevor die E-Mail gesendet werden kann. Dies ist eine hervorragende Möglichkeit, Benutzer daran zu erinnern, zusätzliche Personalisierungen hinzuzufügen.
 

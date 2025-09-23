@@ -4,10 +4,10 @@ description: Erstellen einer neuen Widget-Web-Kampagne - Marketo-Dokumente - Pro
 title: Erstellen einer neuen Widget-Web-Kampagne
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '629'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -113,13 +113,13 @@ Siehe [Klonen einer Web-](/help/marketo/product-docs/web-personalization/working
 
 ## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
 
-Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Web-Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie in der Vorschau anzeigen möchten
+Klicken Sie auf [!UICONTROL  Seite ]Web-Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie in der Vorschau anzeigen möchten
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Löschen einer Web-Kampagne {#delete-a-web-campaign}
 
-1. Klicken Sie auf der [!UICONTROL Web]&#x200B;**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der [!UICONTROL Web]**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
 
    ![](assets/widget-campaign-delete-hand.png)
 

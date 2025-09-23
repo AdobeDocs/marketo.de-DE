@@ -1,18 +1,18 @@
 ---
 description: Neue Dokumente hinzufügen - Dokumentation zu Marketo-Dokumenten - Produktdokumentation
-title: Neues Dokument Bilder hinzufügen
+title: Neues Dokument zum Hinzufügen von Bildern
 hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# Neues Dokument Bilder hinzufügen {#new-add-images-doc}
+# Neues Dokument zum Hinzufügen von Bildern {#new-add-images-doc}
 
 Sie haben mehrere Optionen zum Hinzufügen neuer Dateien/Bilder zu Ihrem Bild- und Datei-Repository.
 

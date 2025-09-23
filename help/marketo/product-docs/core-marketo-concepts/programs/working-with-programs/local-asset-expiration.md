@@ -1,16 +1,16 @@
 ---
 description: Lokaler Ablauf von Assets - Marketo-Dokumente - Produktdokumentation
-title: Lokaler Asset-Ablauf
+title: Ablaufen eines lokalen Assets
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Lokaler Asset-Ablauf {#local-asset-expiration}
+# Ablaufen eines lokalen Assets {#local-asset-expiration}
 
 Legen Sie ein Ablaufdatum und eine Ablaufuhrzeit fest, um die Veröffentlichung von Landingpages rückgängig zu machen, Trigger-Kampagnen zu deaktivieren oder wiederkehrende Batch-Kampagnen zu stoppen.
 
@@ -30,7 +30,7 @@ Bevor Sie einen Asset-Ablauf planen können, muss für Ihre Marketo-Rolle die en
 
    ![](assets/local-asset-expiration-2.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Marketing-] aufrufen“ die Option **[!UICONTROL Lokalen Asset-Ablauf planen]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Wählen [!UICONTROL  unter „Marketing-] aufrufen“ die Option **[!UICONTROL Lokalen Asset-Ablauf planen]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/local-asset-expiration-3.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099415
 description: E-Mail-Einblicke - Schnelldiagramme - Marketo-Dokumente - Produktdokumentation
-title: Schnelldiagramme für E-Mail-Einblicke
+title: Schnelldiagramme für E-Mail Insights
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Schnelldiagramme für E-Mail-Einblicke {#email-insights-quick-charts}
+# Schnelldiagramme für E-Mail Insights {#email-insights-quick-charts}
 
 Schnelldiagramme sind Miniaturansichten, die Sie anpassen und speichern können, und bieten eine Schnellansicht der Diagramme, die Sie am häufigsten verwenden.
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359649
 description: Text der Schaltfläche zum Senden eines Formulars ändern - Marketo-Dokumente - Produktdokumentation
-title: Text für Senden-Schaltfläche ändern
+title: Ändern des Texts für Senden-Schaltfläche in einem Formular
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# Text für Senden-Schaltfläche ändern {#change-form-submit-button-text}
+# Ändern des Texts für Senden-Schaltfläche in einem Formular {#change-form-submit-button-text}
 
-Sie können eine Formularschaltfläche schnell und einfach von „Senden“ in ein anderes Wort ändern. So geht&#39;s.
+Sie können eine Formularschaltfläche schnell und einfach von „Senden“ in ein anderes Wort ändern. Und so geht das.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

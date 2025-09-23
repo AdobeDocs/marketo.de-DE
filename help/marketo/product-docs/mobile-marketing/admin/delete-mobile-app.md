@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512442
 description: Mobile App löschen - Marketo-Dokumente - Produktdokumentation
-title: Mobile App löschen
+title: Löschen von Mobile App
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 12%
 
 ---
 
-# Mobile App löschen {#delete-mobile-app}
+# Löschen von Mobile App {#delete-mobile-app}
 
 1. Klicken Sie auf **[!UICONTROL Admin]**.
 

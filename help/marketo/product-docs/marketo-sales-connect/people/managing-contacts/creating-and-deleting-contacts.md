@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352516
 description: Kontakte erstellen und löschen - Marketo-Dokumente - Produktdokumentation
-title: Kontakte erstellen und löschen
+title: Erstellen und Löschen von Kontakten
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Kontakte erstellen und löschen {#creating-and-deleting-contacts}
+# Erstellen und Löschen von Kontakten {#creating-and-deleting-contacts}
 
 ## Kontakte erstellen {#creating-contacts}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## Löschen von Kontakten {#deleting-contacts}
 
-1. Aktivieren [!UICONTROL &#x200B; auf der &#x200B;] „Personen“ das Kontrollkästchen des Kontakts, den Sie löschen möchten.
+1. Aktivieren [!UICONTROL  auf der ] „Personen“ das Kontrollkästchen des Kontakts, den Sie löschen möchten.
 
    ![](assets/three-2.png)
 

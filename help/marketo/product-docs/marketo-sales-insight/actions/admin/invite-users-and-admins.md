@@ -1,26 +1,26 @@
 ---
 description: Benutzer und Administratoren einladen - Marketo-Dokumente - Produktdokumentation
-title: Benutzer und Administratoren einladen
+title: Einladen von Benutzenden und Admins
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 3%
+ht-degree: 7%
 
 ---
 
-# Benutzer und Administratoren einladen {#invite-users-and-admins}
+# Einladen von Benutzenden und Admins {#invite-users-and-admins}
 
 Das Hinzufügen von Benutzern oder Administratoren ist schnell und einfach!
 
-## Benutzer einladen {#invite-users}
+## Einladen von Benutzenden {#invite-users}
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/invite-users-and-admins-2.png)
 
@@ -64,7 +64,7 @@ Führen Sie diese Schritte aus, um einen vorhandenen Benutzer zum Administrator 
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/invite-users-and-admins-9.png)
 

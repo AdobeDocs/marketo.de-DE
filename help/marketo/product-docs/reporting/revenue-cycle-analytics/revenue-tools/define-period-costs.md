@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953444
 description: Definieren der Periodenkosten - Marketo-Dokumente - Produktdokumentation
-title: Periodenkosten definieren
+title: Definieren der Kostenzeiträume
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Periodenkosten definieren {#define-period-costs}
+# Definieren der Kostenzeiträume {#define-period-costs}
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Verfolgen und verknüpfen Sie Lead-Pflege- und Lead-Akquise-Kosten für ein Prog
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
-## [!UICONTROL &#x200B; bearbeiten (Periodenkosten] {#edit-a-period-cost}
+## [!UICONTROL  bearbeiten (Periodenkosten] {#edit-a-period-cost}
 
 1. Klicken Sie mit der rechten Maustaste auf [!UICONTROL Periodenkosten] und wählen Sie **[!UICONTROL Bearbeiten]** aus dem Popup-Menü aus, um das Dialogfeld **[!UICONTROL Kosten bearbeiten]** zu öffnen.
 

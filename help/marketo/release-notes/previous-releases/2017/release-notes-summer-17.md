@@ -4,14 +4,14 @@ description: Versionshinweise - 17. Sommer - Marketo-Dokumentation - Produktdoku
 title: Versionshinweise - Sommer '17
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# Versionshinweise: Sommer &#39;17 {#release-notes-summer}
+# Versionshinweise – Sommer 2017 {#release-notes-summer}
 
 Die folgenden Funktionen sind in der Version vom Sommer 17 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359994
 description: Berichtsspalten auswählen - Marketo-Dokumente - Produktdokumentation
-title: Berichtsspalten auswählen
+title: Auswählen der Berichtsspalten
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Berichtsspalten auswählen {#select-report-columns}
+# Auswählen der Berichtsspalten {#select-report-columns}
 
 Sie können auswählen, welche Spalten in Ihrem Bericht enthalten sind und welche nicht.
 

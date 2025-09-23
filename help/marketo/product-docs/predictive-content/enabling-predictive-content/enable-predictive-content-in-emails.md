@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385020
 description: Aktivieren von prädiktiven Inhalten in E-Mails - Marketo-Dokumente - Produktdokumentation
-title: Aktivieren von prädiktivem Inhalt in E-Mails
+title: Aktivieren prädiktiver Inhalte in E-Mails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '392'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Aktivieren von prädiktivem Inhalt in E-Mails {#enable-predictive-content-in-emails}
+# Aktivieren prädiktiver Inhalte in E-Mails {#enable-predictive-content-in-emails}
 
 Erstellen Sie ein oder mehrere Bilder in Ihrer E-Mail prädiktiv und passen Sie das Erlebnis für jeden Empfänger an.
 

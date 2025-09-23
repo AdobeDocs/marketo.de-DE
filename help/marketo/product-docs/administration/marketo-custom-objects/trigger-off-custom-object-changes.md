@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378713
 description: Trigger von benutzerdefinierten Objektänderungen - Marketo-Dokumente - Produktdokumentation
-title: Trigger der benutzerdefinierten Objektänderungen
+title: Auslösen von Änderungen an benutzerdefinierten Objekten
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Trigger der benutzerdefinierten Objektänderungen {#trigger-off-custom-object-changes}
+# Auslösen von Änderungen an benutzerdefinierten Objekten {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flussaktion mit Trigger
 >
 >Wenn ein benutzerdefinierter Objektdatensatz geändert wird, wird kein Aktivitätsprotokolleintrag erstellt.
 
-1. Gehen Sie in Marketo Engage zu **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie in Marketo Engage zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flussaktion mit Trigger
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Wählen Sie das Attribut [!UICONTROL Trigger &#x200B;].
+1. Wählen Sie das Attribut [!UICONTROL Trigger ].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

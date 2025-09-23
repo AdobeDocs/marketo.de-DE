@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352437
 description: Anrufaufzeichnungen für Ihr Team freigeben - Marketo-Dokumente - Produktdokumentation
-title: Anrufaufzeichnungen für Ihr Team freigeben
+title: Freigeben von Anrufaufzeichnungen für Ihr Team
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Anrufaufzeichnungen für Ihr Team freigeben {#share-call-recordings-with-your-team}
+# Freigeben von Anrufaufzeichnungen für Ihr Team {#share-call-recordings-with-your-team}
 
 Sales Phone bietet Ihnen die Möglichkeit, Ihre Anrufaufzeichnungen aufzuzeichnen und zu speichern. Wenn Sie eine Anrufaufzeichnung für ein anderes Teammitglied freigeben möchten, gibt es zwei Stellen, von denen Sie den Link kopieren können.
 

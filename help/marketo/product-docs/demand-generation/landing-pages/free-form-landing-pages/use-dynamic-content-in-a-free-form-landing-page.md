@@ -4,10 +4,10 @@ description: Verwenden dynamischer Inhalte in einer Freiform-Landingpage - Marke
 title: Verwenden dynamischer Inhalte in einer Freiform-Landingpage
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -39,7 +39,7 @@ Die Verwendung von dynamischen Inhalten auf Landingpages bindet Ihre Zielgruppe 
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-1. Die Segmentierung und die zugehörigen Segmente werden [!UICONTROL &#x200B; rechts unter &#x200B;] angezeigt.
+1. Die Segmentierung und die zugehörigen Segmente werden [!UICONTROL  rechts unter ] angezeigt.
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 

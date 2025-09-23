@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10092925
 description: Vorschau und Testen einer Web-Kampagne - Marketo-Dokumente - Produktdokumentation
-title: Vorschau und Test einer Web-Kampagne
+title: Anzeigen einer Vorschau und Testen einer Web-Kampagne
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '394'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Vorschau und Test einer Web-Kampagne {#preview-and-test-a-web-campaign}
+# Anzeigen einer Vorschau und Testen einer Web-Kampagne {#preview-and-test-a-web-campaign}
 
 Dieser Artikel zeigt Ihnen verschiedene Möglichkeiten, eine Web-Kampagne in der Vorschau anzuzeigen und sie mit einem Sandbox-Segment live auf Ihrer Website zu testen.
 

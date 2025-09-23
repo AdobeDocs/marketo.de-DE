@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093041
 description: Bearbeiten von Smart-Listen-Abonnements - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten von Smart-Listen-Abonnements
+title: Bearbeiten eines Abonnements für eine intelligente Liste
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Bearbeiten von Smart-Listen-Abonnements {#edit-a-smart-list-subscription}
+# Bearbeiten eines Abonnements für eine intelligente Liste {#edit-a-smart-list-subscription}
 
 Sie können diese Spalten direkt auf der Registerkarte Abonnements bearbeiten, die unter Marketing-Aktivitäten oder in der Datenbank angezeigt wird:
 

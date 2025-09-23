@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147342
 description: Genehmigen einer E-Mail - Marketo-Dokumente - Produktdokumentation
-title: E-Mail genehmigen
+title: Genehmigen einer E-Mail
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# E-Mail genehmigen {#approve-an-email}
+# Genehmigen einer E-Mail {#approve-an-email}
 
 E-Mails beginnen im Entwurfsstatus. Sie sind im Allgemeinen im System erst verfügbar, nachdem Sie sie genehmigt haben. Es gibt mehrere Möglichkeiten, eine E-Mail zu genehmigen.
 

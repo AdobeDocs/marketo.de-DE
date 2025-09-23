@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359618
 description: Hinzufügen von Rich-Text zu einem Formular - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen von Rich-Text zu einem Formular
+title: Hinzufügen von Rich Text zu einem Formular
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 3%
+ht-degree: 15%
 
 ---
 
-# Hinzufügen von Rich-Text zu einem Formular {#add-rich-text-to-a-form}
+# Hinzufügen von Rich Text zu einem Formular {#add-rich-text-to-a-form}
 
 Verwenden Sie Rich Text in einem Formular, um Anweisungen oder andere Informationen zwischen Feldern hinzuzufügen. Schau es dir an.
 

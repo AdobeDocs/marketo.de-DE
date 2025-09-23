@@ -3,10 +3,10 @@ description: Adobe Experience Platform-Segment in eine statische Marketo-Liste p
 title: Pushen eines Adobe Experience Platform-Segments in eine statische Marketo-Liste
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '658'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -99,7 +99,7 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    >[!NOTE]
    >
-   >Sie können Attribute aus Experience Platform jedem der Attribute zuordnen, auf die Ihr Unternehmen in Marketo Engage Zugriff hat. Verwenden Sie die [API-Anfrage beschreiben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} um Attributfelder abzurufen, auf die Ihre Organisation Zugriff hat.
+   >Sie können Attribute aus Experience Platform jedem der Attribute zuordnen, auf die Ihr Unternehmen in Marketo Engage Zugriff hat. Verwenden Sie die [API-Anfrage beschreiben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} um Attributfelder abzurufen, auf die Ihre Organisation Zugriff hat.
 
 1. Ordnen Sie den Nachnamen und den Firmennamen zu, indem Sie erneut auf **[!UICONTROL Neue Zuordnung hinzufügen]** klicken und Schritt 15 zweimal wiederholen. Wählen Sie **[!UICONTROL lastName]** und dann **[!UICONTROL companyName]** aus.
 

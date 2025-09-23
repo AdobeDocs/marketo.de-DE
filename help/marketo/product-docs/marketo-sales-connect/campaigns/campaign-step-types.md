@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746690
 description: Kampagnenschritttypen - Marketo-Dokumente - Produktdokumentation
-title: Kampagnen-Schritttypen
+title: Typen von Kampagnenschritten
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Kampagnen-Schritttypen {#campaign-step-types}
+# Typen von Kampagnenschritten {#campaign-step-types}
 
 Beim Hinzufügen eines Schritts zu Ihrer Kampagne haben Sie vier Möglichkeiten.
 

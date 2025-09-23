@@ -1,15 +1,15 @@
 ---
-description: Warum werden meine Vertriebsaktivitäten und Aktivitätsfelder nicht mit Salesforce synchronisiert? - Marketo-Dokumente - Produktdokumentation
-title: Warum werden meine Vertriebsaktivitäten und Aktivitätsfelder nicht mit Salesforce synchronisiert?
+description: Warum werden meine Vertriebsaktivitäten und Aktivitätsfelder nicht mit Salesforce synchronisiert? – Marketo-Dokumente – Produktdokumentation
+title: Warum werden meine Verkaufsaktivitäten und Aktivitätsfelder nicht mit Salesforce synchronisiert?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Warum werden meine Vertriebsaktivitäten und Aktivitätsfelder nicht mit Salesforce synchronisiert? {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
+# Warum werden meine Verkaufsaktivitäten und Aktivitätsfelder nicht mit Salesforce synchronisiert? {#why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce}
 
 **Ich sehe keine mit Salesforce synchronisierten E-Mail- oder Anrufaktivitäten.**
 

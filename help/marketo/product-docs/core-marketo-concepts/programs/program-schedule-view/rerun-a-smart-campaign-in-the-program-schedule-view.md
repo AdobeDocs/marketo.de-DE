@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953331
 description: Erneutes Ausführen einer Smart Campaign in der Ansicht Programmzeitplan - Marketo-Dokumente - Produktdokumentation
-title: Erneutes Ausführen einer Smart-Kampagne in der Ansicht Programmzeitplan
+title: Erneutes Ausführen einer intelligenten Kampagne in der Ansicht „Programmplanung“
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Erneutes Ausführen einer Smart-Kampagne in der Ansicht Programmzeitplan {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# Erneutes Ausführen einer intelligenten Kampagne in der Ansicht „Programmplanung“ {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 Neue Ausführungen einer vorhandenen Smart-Kampagne können einfach direkt in der Ansicht Programmplan erstellt werden.
 

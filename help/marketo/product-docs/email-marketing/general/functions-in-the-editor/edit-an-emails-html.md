@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900554
 description: HTML einer E-Mail bearbeiten - Marketo-Dokumente - Produktdokumentation
-title: HTML einer E-Mail bearbeiten
+title: Bearbeiten der HTML einer E-Mail
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# HTML einer E-Mail bearbeiten {#edit-an-emails-html}
+# Bearbeiten der HTML einer E-Mail {#edit-an-emails-html}
 
 Manchmal muss der zugrunde liegende HTML einer E-Mail geändert werden. Manchmal können Sie ein externes System verwenden, um den Code Ihrer E-Mail zu entwerfen und zu erstellen. In beiden Fällen können Sie Code einfach aus dem E-Mail-Editor importieren und/oder bearbeiten.
 

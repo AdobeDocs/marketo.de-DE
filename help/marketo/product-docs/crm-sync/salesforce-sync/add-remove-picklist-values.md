@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719312
 description: Auswahllistenwerte hinzufügen/entfernen - Marketo-Dokumente - Produktdokumentation
-title: Auswahllistenwerte hinzufügen/entfernen
+title: Hinzufügen/Entfernen von Auswahllistenwerten
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Auswahllistenwerte hinzufügen/entfernen {#add-remove-picklist-values}
+# Hinzufügen/Entfernen von Auswahllistenwerten {#add-remove-picklist-values}
 
 Im Folgenden finden Sie einige Informationen zum Hinzufügen und Entfernen von Werten auf der Auswahlliste in [!DNL Salesforce].
 

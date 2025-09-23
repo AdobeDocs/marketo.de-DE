@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147084
 description: Aus dem Fluss entfernen - Marketo-Dokumente - Produktdokumentation
-title: Aus Flow entfernen
+title: Entfernen aus Fluss
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 4%
 
 ---
 
-# Aus Flow entfernen {#remove-from-flow}
+# Entfernen aus Fluss {#remove-from-flow}
 
 Angenommen, Sie verfügen über einen intelligenten Kampagnenfluss, der „Warnhinweis senden“ verwendet, um einen Vertriebsmitarbeiter daran zu erinnern, einen potenziellen Kunden anzurufen. Er sendet jeden Tag eine Nachricht, bis der Vertriebsmitarbeiter den Anruf tätigt. Sie können in einer Trigger-Kampagne „Aus Fluss entfernen“ verwenden, sobald der Interessent kontaktiert wurde, um weitere Warnhinweise zu stoppen. Es ist wie ein Klugscheißer-Sitz für eine Person.
 

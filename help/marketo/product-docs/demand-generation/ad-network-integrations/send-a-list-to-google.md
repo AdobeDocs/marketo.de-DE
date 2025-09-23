@@ -1,16 +1,16 @@
 ---
 description: Liste an Google senden - Marketo-Dokumente - Produktdokumentation
-title: Liste an Google senden
+title: Senden einer Liste an Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Liste an Google senden {#send-a-list-to-google}
+# Senden einer Liste an Google {#send-a-list-to-google}
 
 Gehen Sie für diejenigen, die Google Customer Match verwenden, wie folgt vor, um eine statische Marketo Engage-Liste an Ihr Google-Konto zu senden.
 

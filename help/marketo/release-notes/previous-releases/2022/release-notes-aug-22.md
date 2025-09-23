@@ -2,16 +2,16 @@
 description: August 2022 - Versionshinweise zu Marketo - Produktdokumentation
 title: August 2022 - Versionshinweise
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '512'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# August 2022 - Versionshinweise {#release-notes-aug-22}
+# Versionshinweise – August 2022 {#release-notes-aug-22}
 
-Unten finden Sie alle Funktionen, die in der Version vom 22. August enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Unten finden Sie alle Funktionen, die in der Version vom 22. August enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147102
 description: Erstellen eines Eintrags in der Programmplanansicht - Marketo-Dokumente - Produktdokumentation
-title: Erstellen eines Eintrags in der Programmplanansicht
+title: Erstellen eines Eintrags in der Ansicht „Programmplanung“
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Erstellen eines Eintrags in der Programmplanansicht {#creating-an-entry-in-the-program-schedule-view}
+# Erstellen eines Eintrags in der Ansicht „Programmplanung“ {#creating-an-entry-in-the-program-schedule-view}
 
 Sie können Einträge in der Programmplanungsansicht erstellen, um ein vorhandenes Programm zu ergänzen.
 

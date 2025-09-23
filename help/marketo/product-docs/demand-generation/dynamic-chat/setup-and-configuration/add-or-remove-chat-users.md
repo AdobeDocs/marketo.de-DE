@@ -1,16 +1,16 @@
 ---
 description: Hinzufügen oder Entfernen von Chat-Benutzern - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen oder Entfernen von Chat-Benutzern
+title: Hinzufügen oder Entfernen von Chat-Benutzenden
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Hinzufügen oder Entfernen von Chat-Benutzern {#add-or-remove-chat-users}
+# Hinzufügen oder Entfernen von Chat-Benutzenden {#add-or-remove-chat-users}
 
 Gehen Sie wie folgt vor, um Chat-Benutzer hinzuzufügen oder zu entfernen.
 
@@ -40,7 +40,7 @@ Gehen Sie wie folgt vor, um Chat-Benutzer hinzuzufügen oder zu entfernen.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. Geben Sie [!UICONTROL &#x200B; Namen, die Benutzergruppe oder die E]Mail-Adresse des Benutzers ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional.
+1. Geben Sie [!UICONTROL  Namen, die Benutzergruppe oder die E]Mail-Adresse des Benutzers ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional.
 
    ![](assets/add-or-remove-chat-users-5.png)
 

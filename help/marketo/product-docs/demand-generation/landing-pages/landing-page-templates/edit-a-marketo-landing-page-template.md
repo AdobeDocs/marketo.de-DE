@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720738
 description: Bearbeiten einer Marketo-Landingpage-Vorlage - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten einer Marketo-Landingpage-Vorlage
+title: Bearbeiten einer Vorlage für Marketo-Landingpages
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Bearbeiten einer Marketo-Landingpage-Vorlage {#edit-a-marketo-landing-page-template}
+# Bearbeiten einer Vorlage für Marketo-Landingpages {#edit-a-marketo-landing-page-template}
 
 Sie können in Marketo jede Landingpage-Vorlage bearbeiten.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949281
 description: Erstellen einer Marketo E-Mail-Add-in-Lizenz - Marketo-Dokumente - Produktdokumentation
-title: Marketo-E-Mail-Add-in-Lizenz erteilen
+title: Erteilen einer Lizenz für das Marketo-E-Mail-Add-in
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Marketo-E-Mail-Add-in-Lizenz erteilen {#issue-a-marketo-email-add-in-license}
+# Erteilen einer Lizenz für das Marketo-E-Mail-Add-in {#issue-a-marketo-email-add-in-license}
 
 Jeder, der das Marketo E-Mail-[!DNL Outlook]-Add-in verwenden möchte, muss zunächst über eine Lizenz verfügen. Es gibt zwei Möglichkeiten, die Lizenz bereitzustellen.
 

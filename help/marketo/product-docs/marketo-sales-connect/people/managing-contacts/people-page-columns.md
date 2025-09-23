@@ -4,10 +4,10 @@ description: Spalten der Personenseite - Marketo-Dokumente - Produktdokumentatio
 title: Spalten der Personenseite
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '296'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
 
 ## So wählen Sie Spalten aus {#how-to-select-columns}
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das Symbol Listeneinstellungen .
+1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das Symbol Listeneinstellungen .
 
    ![](assets/one-5.png)
 
@@ -70,7 +70,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
    <td>Gesamtzahl der Vertriebskampagnen, an denen die Person teilgenommen hat</td>
   </tr>
   <tr>
-   <td># [!UICONTROL -Aufrufe]</td>
+   <td># [!UICONTROL-Aufrufe]</td>
    <td>Gesamtzahl der Anrufe, die an diese Person getätigt wurden</td>
   </tr>
   <tr>

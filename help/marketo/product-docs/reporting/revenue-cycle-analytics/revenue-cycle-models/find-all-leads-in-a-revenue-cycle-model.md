@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360423
 description: Alle Leads in einem Umsatzzyklusmodell suchen - Marketo-Dokumente - Produktdokumentation
-title: Alle Leads in einem Umsatzzyklusmodell suchen
+title: Suchen nach allen Leads in einem Umsatzzyklusmodell
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Alle Leads in einem Umsatzzyklusmodell suchen {#find-all-leads-in-a-revenue-cycle-model}
+# Suchen nach allen Leads in einem Umsatzzyklusmodell {#find-all-leads-in-a-revenue-cycle-model}
 
 Durch die Verwendung von Smart Lists können Sie alle Mitglieder des Umsatzzyklusmodells leicht finden.
 

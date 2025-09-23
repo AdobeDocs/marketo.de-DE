@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360235
 description: Erstellen eines Opportunity Influence Analyzer - Marketo-Dokumente - Produktdokumentation
-title: Erstellen eines Opportunity Influence Analyzer
+title: Erstellen eines Analyzers für Opportunity-Einfluss
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Erstellen eines Opportunity Influence Analyzer {#create-an-opportunity-influence-analyzer}
+# Erstellen eines Analyzers für Opportunity-Einfluss {#create-an-opportunity-influence-analyzer}
 
 Verwenden Sie den Opportunity Influence Analyzer, um den Beitrag des Marketings zu einem wichtigen Geschäft anzuzeigen. Sehen Sie Ihre Programm- und Veranstaltungserfolge sowie interessante Momente im Leben einer Chance.
 

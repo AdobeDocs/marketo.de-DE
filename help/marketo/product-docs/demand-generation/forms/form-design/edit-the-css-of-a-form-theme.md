@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359679
 description: Bearbeiten des CSS eines Formulardesigns - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten der CSS-Datei eines Formulardesigns
+title: Bearbeiten der CSS-Datei eines Formular-Designs
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Bearbeiten der CSS-Datei eines Formulardesigns {#edit-the-css-of-a-form-theme}
+# Bearbeiten der CSS-Datei eines Formular-Designs {#edit-the-css-of-a-form-theme}
 
-Sie haben einige vorgefertigte [Designs, aus denen Sie einfach wählen können](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Wenn Sie CSS jedoch gerne bearbeiten, können Sie beliebige Änderungen vornehmen. So geht&#39;s.
+Sie haben einige vorgefertigte [Designs, aus denen Sie einfach wählen können](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Wenn Sie CSS jedoch gerne bearbeiten, können Sie beliebige Änderungen vornehmen. Und so geht das.
 
 >[!NOTE]
 >

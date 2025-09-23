@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762244
 description: Einrichten von Sternen und Flammen für Lead-/Kontaktaufzeichnungen - Marketo-Dokumente - Produktdokumentation
-title: Einrichten von Sternen und Flammen für Lead-/Kontakt-Datensätze
+title: Einrichten von Sternen und Flammen für Lead-/Kontakt-Einträge
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Einrichten von Sternen und Flammen für Lead-/Kontakt-Datensätze {#setting-up-stars-and-flames-for-lead-contact-records}
+# Einrichten von Sternen und Flammen für Lead-/Kontakt-Einträge {#setting-up-stars-and-flames-for-lead-contact-records}
 
 Sterne und Flammen in Lead-/Kontakt-Datensätzen sind abhängig von: [!UICONTROL Lead-Bewertung], [!UICONTROL Relativer Score], [!UICONTROL Dringlichkeit] und [!UICONTROL Priorität] Feldern. Diese Felder sind nach der Installation und Konfiguration der MSI-Lösung standardmäßig verfügbar. Wenn Sie keine Sterne und Flammen haben, kann eine vorherige Einrichtung/Anpassung dazu geführt haben, dass sie entfernt wurden. Gehen Sie wie folgt vor, um sie hinzuzufügen.
 
@@ -23,7 +23,7 @@ Sterne und Flammen in Lead-/Kontakt-Datensätzen sind abhängig von: [!UICONTROL
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Klicken Sie im linken Bedienfeld **&#x200B;**&#x200B;Marketo Sales Insight. Klicken Sie im rechten Bedienfeld auf die Dropdown-Liste Filter und wählen Sie **[!UICONTROL Benutzerdefinierte Felder]**.
+1. Klicken Sie im linken Bedienfeld **** Marketo Sales Insight. Klicken Sie im rechten Bedienfeld auf die Dropdown-Liste Filter und wählen Sie **[!UICONTROL Benutzerdefinierte Felder]**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 

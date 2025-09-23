@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17728401
 description: E-Mail-Verbindung für Gmail-Benutzer - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Verbindung für Gmail-Benutzer
+title: E-Mail-Verbindung für Gmail-Benutzende
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# E-Mail-Verbindung für Gmail-Benutzer {#email-connection-for-gmail-users}
+# E-Mail-Verbindung für Gmail-Benutzende {#email-connection-for-gmail-users}
 
 Wenn Sie sich mit Gmail verbinden, erhalten Sie ein Tracking der Antworten, Zugriff auf den Gmail-Versandkanal, die Möglichkeit, E-Mails in Gmail zu planen und die Compliance zu gewährleisten.
 
@@ -31,7 +31,7 @@ Wenn Sie sich mit Gmail verbinden, erhalten Sie ein Tracking der Antworten, Zugr
 
    ![](assets/three.png)
 
-1. Klicken Sie **[!UICONTROL Erste Schritte]**.
+1. Klicken Sie auf **[!UICONTROL Erste Schritte]**.
 
    ![](assets/four.png)
 

@@ -4,14 +4,14 @@ description: Versionshinweise - Juni 2014 - Marketo-Dokumentation - Produktdokum
 title: Versionshinweise - Juni 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 11%
+ht-degree: 14%
 
 ---
 
-# Versionshinweise: Juni 2014 {#release-notes-june}
+# Versionshinweise – Juni 2014 {#release-notes-june}
 
 Die folgenden Funktionen sind in der Version vom Juni 2014 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit.
 
@@ -43,7 +43,7 @@ RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagn
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
-## Web Analytics-Integrationen {#web-analytics-integrations}
+## Web-Analyse-Integrationen {#web-analytics-integrations}
 
 Hängen Sie alle Ihre RTP-Daten an Ihre Web-Analyseplattform an.
 

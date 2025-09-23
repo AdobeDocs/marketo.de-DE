@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147356
 description: Grundlagen zur Protokollierung von E-Mail-Ereignissen - Marketo-Dokumente - Produktdokumentation
-title: Grundlagen zur E-Mail-Ereignisprotokollierung
+title: Grundlegendes zur Protokollierung von E-Mail-Ereignissen
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Grundlagen zur E-Mail-Ereignisprotokollierung {#understanding-email-event-logging}
+# Grundlegendes zur Protokollierung von E-Mail-Ereignissen {#understanding-email-event-logging}
 
 Beim Versand von E-Mails protokolliert Marketo verschiedene Datenpunkte in den Aktivitätsprotokollen der Person. Hier sind die grundlegendsten.
 

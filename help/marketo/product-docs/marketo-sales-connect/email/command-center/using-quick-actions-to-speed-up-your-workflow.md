@@ -4,10 +4,10 @@ description: Schnellaktionen verwenden, um Ihren Workflow zu beschleunigen - Mar
 title: Verwenden von Schnellaktionen zur Beschleunigung Ihres Workflows
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '330'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -92,4 +92,4 @@ E-Mail-Schnellaktionen sind dynamisch und werden je nach den relevantesten Aktio
 | Folgenachricht senden | Öffnet das Fenster Erstellen mit dem ausgewählten Inline-E-Mail-Textkörper, der angehängt wird und an den Empfänger gesendet werden kann. |
 | Anruf tätigen | Öffnet das Verkaufstelefon, um den E-Mail-Empfänger anzurufen. |
 | InMail senden | Leitet zu LinkedIn weiter, um der Person eine InMail-Nachricht zu senden. |
-| Aufgabe erstellen | Öffnet das Popup Aufgabe erstellen zum Erstellen einer Erinnerungsaufgabe. |
+| Erstellen von Aufgaben | Öffnet das Popup Aufgabe erstellen zum Erstellen einer Erinnerungsaufgabe. |

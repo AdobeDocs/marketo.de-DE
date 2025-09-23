@@ -4,16 +4,16 @@ description: Daten an ein Feld anhängen - Marketo-Dokumente - Produktdokumentat
 title: Anfügen von Daten an ein Feld
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
 # Anfügen von Daten an ein Feld {#append-data-to-a-field}
 
-Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. So geht&#39;s.
+Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. Und so geht das.
 
 >[!PREREQUISITES]
 >

@@ -3,10 +3,10 @@ description: Hinzufügen oder Aktualisieren Ihrer E-Mail-Signatur - Marketo-Doku
 title: Hinzufügen oder Aktualisieren Ihrer E-Mail-Signatur
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -18,7 +18,7 @@ Wir möchten, dass E-Mails von Marketo Sales sich wie ein nahtloses Erlebnis anf
 
    ![](assets/add-or-update-your-email-signature-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
+1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
@@ -26,7 +26,7 @@ Wir möchten, dass E-Mails von Marketo Sales sich wie ein nahtloses Erlebnis anf
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Karte &#x200B;]Signatur **[!UICONTROL auf]**.
+1. Klicken Sie auf [!UICONTROL  Karte ]Signatur **[!UICONTROL auf]**.
 
    ![](assets/add-or-update-your-email-signature-4.png)
 

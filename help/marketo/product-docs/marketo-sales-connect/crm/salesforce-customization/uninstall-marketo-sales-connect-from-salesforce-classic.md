@@ -1,15 +1,15 @@
 ---
 description: Marketo Sales Connect von Salesforce Classic deinstallieren - Marketo-Dokumente - Produktdokumentation
-title: Marketo Sales Connect von Salesforce Classic deinstallieren
+title: Deinstallieren von Marketo Sales Connect aus Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1186'
-ht-degree: 8%
+ht-degree: 10%
 
 ---
 
-# Marketo Sales Connect von Salesforce Classic deinstallieren {#uninstall-marketo-sales-connect-from-salesforce-classic}
+# Deinstallieren von Marketo Sales Connect aus Salesforce Classic {#uninstall-marketo-sales-connect-from-salesforce-classic}
 
 So deinstallieren Sie das Marketo Sales Connect-Paket von Ihrem Salesforce-Konto, sobald Sie Sales Insight-Aktionen verwenden.
 
@@ -55,7 +55,7 @@ So deinstallieren Sie das Marketo Sales Connect-Paket von Ihrem Salesforce-Konto
    >
    >Wenn keine der Schaltflächen ausgegraut ist, bedeutet dies, dass Sie sie nicht hinzugefügt haben. Sie können diesen Abschnitt überspringen.
 
-1. Ziehen Sie die MSC-Schaltflächen per Drag-and[!UICONTROL Drop aus dem Abschnitt „Benutzerdefinierte &#x200B;]&quot; in die Konsole.
+1. Ziehen Sie die MSC-Schaltflächen per Drag-and[!UICONTROL Drop aus dem Abschnitt „Benutzerdefinierte ]&quot; in die Konsole.
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
@@ -139,7 +139,7 @@ Die Kontoansicht enthält nur eine Schaltfläche „E-Mail senden“ und die fol
 
 1. Klicken Sie **[!UICONTROL Meine Registerkarten anpassen]**.
 
-1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf [!UICONTROL &#x200B; Pfeil „Entfernen] und dann auf **[!UICONTROL Speichern]**.
+1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf [!UICONTROL  Pfeil „Entfernen] und dann auf **[!UICONTROL Speichern]**.
 
 ## [!DNL Sales Connect] löschen {#delete-sales-connect-package}
 
@@ -383,7 +383,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Lead</td>
  </tr>
  <tr>
-  <td>[!UICONTROL -Aufruf mit MSC]</td>
+  <td>[!UICONTROL-Aufruf mit MSC]</td>
   <td>Verkaufsanrufe tätigen von [!DNL Salesforce]</td>
   <td>
   <p>Kontakt

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359428
 description: Umleiten einer Landingpage - Marketo-Dokumente - Produktdokumentation
-title: Landing Page umleiten
+title: Umleiten von Landingpage
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
-# Landing Page umleiten {#redirect-a-landing-page}
+# Umleiten von Landingpage {#redirect-a-landing-page}
 
 ## Mission: Eine Landingpage zu einer anderen Web-Seite umleiten {#mission-redirect-a-landing-page-to-a-different-web-page}
 

@@ -1,16 +1,16 @@
 ---
 description: Tracking der E-Mail-Öffnungen auf Kampagnenebene - Marketo-Dokumente - Produktdokumentation
-title: Tracking der Öffnungen von E-Mails auf Kampagnenebene
+title: Tracking der E-Mail-Öffnungen auf Kampagnenebene
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: f0f95604ba3b033fbbf0e4fcd3b502142ef16134
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Tracking der Öffnungen von E-Mails auf Kampagnenebene {#email-open-tracking-at-campaign-level}
+# Tracking der E-Mail-Öffnungen auf Kampagnenebene {#email-open-tracking-at-campaign-level}
 
 Mit dieser Funktion können Sie das Tracking von E-Mail-Öffnungen steuern, entweder einmal pro geöffneter Kampagne oder einmal pro E-Mail, unabhängig davon, wie oft sie in verschiedenen Kampagnen verwendet werden.
 

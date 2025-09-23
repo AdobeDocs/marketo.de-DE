@@ -1,16 +1,16 @@
 ---
 description: Übersicht über das E-Mail-Tracking - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Tracking - Übersicht
+title: E-Mail-Tracking – Überblick
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '487'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# E-Mail-Tracking - Übersicht {#email-tracking-overview}
+# E-Mail-Tracking – Überblick {#email-tracking-overview}
 
 ## Funktionsweise der Antwortverfolgung {#how-reply-tracking-works}
 
@@ -24,7 +24,7 @@ Wenn [!DNL Sales Connect] die Antwort Ihres Interessenten auf Ihre E-Mail nicht 
 
 Wenn Sie also eine E-Mail an <flynn@flynnsarcade.com> senden und er mit <kevinf@flynnsarcade.com> antwortet, können wir die Antwort verfolgen. Wenn Sie <flynn@flynnsarcade.com> und CC <alan@encom.com> per E-Mail senden und Alan Sie zurückschreibt, wird die Antwort ebenfalls erkannt und die Kampagne wird beendet.
 
-## Tracking von E-Mail-Anhängen {#how-to-track-your-email-attachments}
+## Verfolgen von E-Mail-Anhängen {#how-to-track-your-email-attachments}
 
 [!DNL Sales Connect] bietet Tracking für Ihre Anlagen (.doc, .ppt, .pdf), damit Sie sehen können, wann diese geöffnet/heruntergeladen wurden, und sehen können, welche Seiten Ihre Empfängerin bzw. Ihr Empfänger durchsucht. Wir ermöglichen Ihnen die Verwendung unserer Funktion zum Tracking von Anhängen sowohl aus der [Web-Anwendung](https://toutapp.com/login) als auch aus Gmail (oder Google Apps).
 
@@ -46,7 +46,7 @@ Wenn Sie also eine E-Mail an <flynn@flynnsarcade.com> senden und er mit <kevinf@
 >
 >Wenn Sie eine Anlage nicht verfolgen möchten, klicken Sie einfach auf Dateien anhängen und diese Anlage wird nicht verfolgt.
 
-## Funktionsweise von View Tracking {#how-view-tracking-works}
+## Verfolgen von Ansichten {#how-view-tracking-works}
 
 Wir verfolgen das Öffnen von E-Mails, indem wir ein unsichtbares Bild in die gesendeten E-Mails einfügen.
 
@@ -57,7 +57,7 @@ Tipps für bessere Tracking-Statistiken in E-Mails:
 * Fügen Sie Ihren E-Mails ein Bild hinzu (z. B. ein Logo), damit der Empfänger Bilder aktivieren kann, um Ihre Nachricht zu sehen.
 * Fügen Sie einen Link als call to action in die E-Mail ein.
 
-## Test-E-Mail nicht als angezeigt {#test-email-not-showed-as-viewed}
+## Test-E-Mail wird nicht als gelesen angezeigt {#test-email-not-showed-as-viewed}
 
 Selbst wenn Sie Ihre Nachricht an eine andere E-Mail-Adresse gesendet haben, werden wir Sie nicht beim Anzeigen von E-Mails protokollieren, die Sie sich selbst im Live-Feed gesendet haben. Unser Tracking ist gerätebasiert. Solange Sie einen Computer verwenden, mit dem Sie sich [!DNL Sales Connect] angemeldet haben, filtern wir diese Aktivität aus.
 

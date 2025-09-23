@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147354
 description: Funktionsweise einer E-Mail festlegen - Marketo-Dokumente - Produktdokumentation
-title: E-Mail funktionsfähig machen
+title: Einsetzbarmachen einer E-Mail
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# E-Mail funktionsfähig machen {#make-an-email-operational}
+# Einsetzbarmachen einer E-Mail {#make-an-email-operational}
 
 Operative E-Mails ignorieren den Status Abgemeldet und Marketing ausgesetzt . Sie unterliegen auch keinen Kommunikationsbeschränkungen. Sie senden, egal was kommt.
 

@@ -4,7 +4,7 @@ description: 'Schritt 2 von 3: Einrichten der Marketo-Lösung mit Server-zu-Serv
 title: 'Schritt 2 von 3: Einrichten der Marketo-Lösung mit einer Server-zu-Server-Verbindung'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%

@@ -4,10 +4,10 @@ description: Hinzufügen von Hinweistext zu einem Formularfeld - Marketo-Dokumen
 title: Hinzufügen von Hinweistext zu einem Formularfeld
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 

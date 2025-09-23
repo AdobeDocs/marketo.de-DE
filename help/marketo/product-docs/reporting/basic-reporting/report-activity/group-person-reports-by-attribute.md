@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360199
 description: Personenberichte nach Attribut gruppieren - Marketo-Dokumente - Produktdokumentation
-title: Personenberichte nach Attribut gruppieren
+title: Gruppieren von Personenberichten nach Attributen
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Personenberichte nach Attribut gruppieren {#group-person-reports-by-attribute}
+# Gruppieren von Personenberichten nach Attributen {#group-person-reports-by-attribute}
 
 Sie können Ihre Personenberichte nach beliebigen Personen- oder Firmenattributen gruppieren.
 
@@ -31,7 +31,7 @@ Sie können Ihre Personenberichte nach beliebigen Personen- oder Firmenattribute
    >
    >Sie können auch [Personenberichte nach Segment gruppieren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
-   Wählen [!UICONTROL &#x200B; Dialogfeld „Personen gruppieren nach] das Attribut für Person oder Unternehmen aus, das für die Gruppierung verwendet werden soll.
+   Wählen [!UICONTROL  Dialogfeld „Personen gruppieren nach] das Attribut für Person oder Unternehmen aus, das für die Gruppierung verwendet werden soll.
 
    ![](assets/image2017-3-28-11-3a34-3a42.png)
 

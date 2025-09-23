@@ -3,24 +3,24 @@ description: Oktober 2022 - Marketo-Dokumentation - Produktdokumentation
 title: Oktober 2022 – Versionshinweise
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 10%
+ht-degree: 23%
 
 ---
 
-# Versionshinweise: Oktober 2022 {#release-notes-oct-22}
+# Versionshinweise – Oktober 2022 {#release-notes-oct-22}
 
-Im Folgenden finden Sie alle Funktionen, die in der Version vom Oktober 2022 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom Oktober 2022 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
 >Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
-## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 14. **2022 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 14. Oktober 2022** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
 
 ### Marketing-Datenumgebung {#marketing-data-environment}
 
@@ -34,8 +34,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synchronisierung benutzerdefinierter Felder für Programmmitglieder</a></td>
+   <td>Versandt</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synchronisieren benutzerdefinierter Felder für Programmmitglieder</a></td>
   </tr>
   </tbody>
 </table>
@@ -48,7 +48,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -60,7 +60,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Aktualisierter Screens im Erlebnis der nächsten Generation**: Wir bieten zusätzliche, aktualisierte Bildschirme im Erlebnis der nächsten Generation, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, die über einen Umschalter zugänglich sind:
 
-   * Details zur Landingpage-Vorlage
+   * Details zu Landingpage-Vorlagen
    * E-Mail-Vorlagenliste
 
 <table>
@@ -69,8 +69,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Kippschalter</a></td>
+   <td>Versandt</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Umschalter</a></td>
   </tr>
   </tbody>
 </table>
@@ -83,7 +83,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -97,7 +97,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -115,7 +115,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Massenimport von Leads</a></td>
   </tr>
   </tbody>
@@ -135,7 +135,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integration von Dynamic Chat</a></td>
   </tr>
   </tbody>
@@ -153,7 +153,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Designer-Symbole streamen</a></td>
   </tr>
   </tbody>
@@ -167,7 +167,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>

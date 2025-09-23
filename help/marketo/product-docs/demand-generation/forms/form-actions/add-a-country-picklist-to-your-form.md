@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949966
 description: Hinzufügen einer Länder-Auswahlliste zu Ihrem Formular - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen einer Länder-Auswahlliste zu Ihrem Formular
+title: Hinzufügen einer Länder-Auswahlliste zu einem Formular
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Hinzufügen einer Länder-Auswahlliste zu Ihrem Formular {#add-a-country-picklist-to-your-form}
+# Hinzufügen einer Länder-Auswahlliste zu einem Formular {#add-a-country-picklist-to-your-form}
 
 Folgen Sie diesen Anweisungen, um das Feld Land in eine Dropdown-Liste mit einer Liste aller Länder zu konvertieren.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384438
 description: TAM-Berichteinrichtung - Marketo-Dokumente - Produktdokumentation
-title: TAM-Bericht einrichten
+title: Einrichten eines TAM-Berichts
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# TAM-Bericht einrichten {#tam-report-setup}
+# Einrichten eines TAM-Berichts {#tam-report-setup}
 
 Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an das Konto-Team gesendet wird.
 
@@ -25,7 +25,7 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
 
    ![](assets/tam-report-setup-2.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;] Bericht“ auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL  unter &quot;] Bericht“ auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/three-3.png)
 
@@ -67,7 +67,7 @@ Für jeden Bericht gibt es die Option zum Opt-out. Klicken Sie dazu einfach auf 
 
    ![](assets/tam-report-setup-10.png)
 
-1. Klicken Sie unter [!UICONTROL Wöchentlicher Bericht] auf die als „Abgemeldet[!UICONTROL &#x200B; angegebene &#x200B;].
+1. Klicken Sie unter [!UICONTROL Wöchentlicher Bericht] auf die als „Abgemeldet[!UICONTROL  angegebene ].
 
    ![](assets/nine.png)
 

@@ -4,10 +4,10 @@ description: Grundlegendes zu E-Mail-Programmkarten - Marketo-Dokumente - Produk
 title: Grundlegendes zu E-Mail-Programmkarten
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Verwenden Sie Marketo Moments , um Ihre E-Mail-Programme von Ihrem Smartphone od
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 entfernte Adobe die Marketo Moments-App aus allen App Stores. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo auf Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## E-Mail-Programmkarten {#email-program-cards}
 
@@ -85,7 +85,7 @@ Sie können bestätigte oder unbestätigte E-Mail-Karten neu planen.
 
    Solange Sie drahtlosen Service haben, können Sie von überall aus neu planen!
 
-## Beispiel senden {#sending-a-sample}
+## Senden eines Beispiels {#sending-a-sample}
 
 Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen.
 
@@ -101,7 +101,7 @@ Sie können ein Beispiel für einen E-Mail-Moment direkt mit jemandem teilen.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## Vorschau einer E-Mail {#previewing-an-email}
+## Anzeigen einer E-Mail in der Vorschau {#previewing-an-email}
 
 Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um eine Vorschau anzuzeigen.
 

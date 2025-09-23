@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953405
 description: Analytics-Verhaltenseinstellungen bearbeiten - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten Sie die Verhaltenseinstellungen der Analytics
+title: Bearbeiten von Einstellungen für das Analyseverhalten
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
-# Bearbeiten Sie die Verhaltenseinstellungen der Analytics {#edit-analytics-behavior-settings}
+# Bearbeiten von Einstellungen für das Analyseverhalten {#edit-analytics-behavior-settings}
 
-Sie können das [Analytics-Verhalten auf Admin-Ebene für Kanäle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"} festlegen, es kann aber auch auf Programmebene bearbeitet werden. So geht&#39;s.
+Sie können das [Analytics-Verhalten auf Admin-Ebene für Kanäle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"} festlegen, es kann aber auch auf Programmebene bearbeitet werden. Und so geht das.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -23,7 +23,7 @@ Sie können das [Analytics-Verhalten auf Admin-Ebene für Kanäle](/help/marketo
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL &#x200B; „Analytics Behavior] auf die Arbeitsfläche.
+1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL  „Analytics Behavior] auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 

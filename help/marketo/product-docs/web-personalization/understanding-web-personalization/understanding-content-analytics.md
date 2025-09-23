@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093159
 description: Grundlegendes zu Content Analytics - Marketo-Dokumente - Produktdokumentation
-title: Grundlegendes zu Content Analytics
+title: Grundlegendes zur Inhaltsanalyse
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Grundlegendes zu Content Analytics {#understanding-content-analytics}
+# Grundlegendes zur Inhaltsanalyse {#understanding-content-analytics}
 
 Auf der Content Analytics-Seite werden die von Ihrer Website entdeckten Inhalte (Fallstudien, Blog-Posts, Videos, Pressemitteilungen usw.) angezeigt. Es zeigt auch die Leistung Ihrer Inhalte und Personen an, die generiert werden, wenn Besucher mit ihnen interagieren.
 
@@ -52,7 +52,7 @@ Die Analytics-Tabelle enthält die folgenden Details:
    <td colspan="1">Zeigt an, ob das Inhaltselement für Inhaltsempfehlungen <a href="#"> wurde</a>.</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL -Ansichten]</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL-Ansichten]</strong></p></td>
    <td colspan="1" rowspan="1"><p>Die Anzahl der Ansichten von Web-Besuchern über das Inhalts-Asset. Die Häufigkeit, mit der sie angezeigt, geöffnet, angesehen oder heruntergeladen wurde. Klicken Sie auf die Anzahl der Anzeigen in der Spalte, um einen Drilldown durchzuführen und zu sehen, wer den Inhalt angezeigt hat</p></td>
   </tr>
   <tr>
@@ -86,17 +86,17 @@ Zu den zusätzlichen Inhaltsanalysen gehören:
 
 * **[!UICONTROL Ansichten]**: Ansichten dieses Inhaltselements für den ausgewählten Zeitraum
 * **[!UICONTROL Direkte Konversionen]**: Web-Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben.
-* **[!UICONTROL Konversionsrate]**&#x200B;**:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
+* **[!UICONTROL Konversionsrate]****:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
 
 **[!UICONTROL Trends]**
 
 * Ein **[!UICONTROL Trends]**-Diagramm, das die letzten 30 Tage der Ansichten des jeweiligen Inhaltselements anzeigt. Bewegen Sie den Mauszeiger über das Liniendiagramm, um die Anzahl der Inhaltsansichten von einem bestimmten Tag anzuzeigen
 
-## Inhalte löschen {#delete-content}
+## Löschen von Inhalten {#delete-content}
 
 ![](assets/six.png)
 
-Klicken Sie auf der Seite [!UICONTROL 0&rbrace;Content Analytics&quot; auf das Löschsymbol des Inhalts, den Sie löschen möchten. &#x200B;] Es wird eine Meldung angezeigt, die bestätigt, dass Sie den Inhalt löschen möchten.
+Klicken Sie auf der Seite [!UICONTROL 0}Content Analytics&quot; auf das Löschsymbol des Inhalts, den Sie löschen möchten. ] Es wird eine Meldung angezeigt, die bestätigt, dass Sie den Inhalt löschen möchten.
 
 >[!MORELIKETHIS]
 >

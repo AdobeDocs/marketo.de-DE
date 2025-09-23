@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979010
 description: Performance Insights - Trend-Übersicht - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über den Performance Insights-Trend
+title: Trend von Performance Insights – Überblick
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -23,7 +23,7 @@ Klicken Sie auf die **[!UICONTROL Trend]**, um auf diese Ansicht zuzugreifen.
 
 ![](assets/2-1.png)
 
-Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir gewonnene Opportunitys mit &quot;[[!UICONTROL -Touch“ &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir gewonnene Opportunitys mit &quot;[[!UICONTROL -Touch“ ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949210
 description: SEO - Exportieren von Keyword-Ergebnissen - Marketo-Dokumente - Produktdokumentation
-title: SEO - Exportieren von Keyword-Ergebnissen
+title: SEO – Exportieren von Keyword-Ergebnissen
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# SEO - Exportieren von Keyword-Ergebnissen {#seo-exporting-keyword-results}
+# SEO – Exportieren von Keyword-Ergebnissen {#seo-exporting-keyword-results}
 
 Sie können Ihre Keyword-Ergebnisse exportieren, um sie für Ihr Team freizugeben oder um einen Bericht zu erstellen.
 

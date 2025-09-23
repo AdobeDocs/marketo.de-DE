@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352434
 description: Telefongespräche im Vertrieb - Marketo-Dokumentation - Produktdokumentation
-title: Telefongespräch im Ausland
+title: Sales-Telefonnummer – Ausland
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '399'
-ht-degree: 12%
+ht-degree: 14%
 
 ---
 
-# Telefongespräch im Ausland {#sales-phone-international-calling}
+# Sales-Telefonnummer – Ausland {#sales-phone-international-calling}
 
 Sales Phone erleichtert Ihnen die internationale Kommunikation. Für Kunden, die aus den USA anrufen, kann Sales Phone für ausgehende Anrufe in internationale Länder verwendet werden. Für Kunden außerhalb der USA unterstützen wir Anrufe aus internationalen Ländern.
 

@@ -1,12 +1,12 @@
 ---
 description: Zugriff auf Sales Insight entfernen - Marketo-Dokumente - Produktdokumentation
-title: Zugriff auf Sales Insight entfernen
+title: Entfernen des Zugriffs auf Sales Insight
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -81,7 +81,7 @@ Für den Zugriff auf alle [!DNL Sales Insight] Funktionen ist eine Berechtigung 
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Benutzer verwalten]** gefolgt von **[!UICONTROL Profile]**.
+1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Benutzer verwalten]** gefolgt von **[!UICONTROL Profile]**.
 
 1. Klicken Sie auf das Profil, das Sie aktualisieren möchten, und dann auf **[!UICONTROL Bearbeiten]**.
 

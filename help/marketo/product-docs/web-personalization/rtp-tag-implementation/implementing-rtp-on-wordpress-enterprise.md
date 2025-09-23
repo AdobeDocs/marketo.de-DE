@@ -4,16 +4,16 @@ description: Implementieren von RTP in WordPress Enterprise - Marketo-Dokumente 
 title: Implementieren von RTP in WordPress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
 # Implementieren von RTP in WordPress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
-Um Ihr [!UICONTROL RTP-Tag &#x200B;] implementieren, folgen Sie den folgenden Installationsanweisungen:
+Um Ihr [!UICONTROL RTP-Tag ] implementieren, folgen Sie den folgenden Installationsanweisungen:
 
 1. Navigieren Sie **[!UICONTROL Kontoeinstellungen]**.
 

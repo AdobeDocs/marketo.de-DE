@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719400
 description: Erstellen einer neuen Zone in der Web-Kampagne - Marketo-Dokumente - Produktdokumentation
-title: Erstellen einer neuen Zone in einer Web-Kampagne
+title: Erstellen einer neuen In-Zone-Web-Kampagne
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '693'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Erstellen einer neuen Zone in einer Web-Kampagne {#create-a-new-in-zone-web-campaign}
+# Erstellen einer neuen In-Zone-Web-Kampagne {#create-a-new-in-zone-web-campaign}
 
 Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten Segment verknüpft ist und ein [Dialogfeld](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) auf Ihrer Website, ein Zonenersatz, eine [Widget-Funktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) oder ein E-Mail-Warnhinweis sein kann. Eine In-Zone-Web-Kampagne ersetzt ein Element Ihrer Website basierend auf der Zone-ID durch Inhalte oder grafische Banner.
 
@@ -33,7 +33,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
    >
    >**Was ist eine Zonen-ID?**
    >
-   >Mit einer Zonen-ID möchten Sie Ihre &quot;[!UICONTROL &#x200B; Zone]-Web-Kampagne auf der Site platzieren. Um eine &quot;[!UICONTROL Zone-ID] zu finden, wählen Sie einfach auf Ihrer Website den Bereich aus, den Sie durch eine Web-Kampagne ersetzen möchten, und klicken Sie mit der rechten Maustaste darauf. In Chrome lautet die Option „Element überprüfen“, in anderen Browsern kann sie variieren.
+   >Mit einer Zonen-ID möchten Sie Ihre &quot;[!UICONTROL  Zone]-Web-Kampagne auf der Site platzieren. Um eine &quot;[!UICONTROL Zone-ID] zu finden, wählen Sie einfach auf Ihrer Website den Bereich aus, den Sie durch eine Web-Kampagne ersetzen möchten, und klicken Sie mit der rechten Maustaste darauf. In Chrome lautet die Option „Element überprüfen“, in anderen Browsern kann sie variieren.
    >
    >Anschließend möchten Sie die mit diesem Abschnitt der Website verknüpfte „ID“ suchen, die hervorgehoben ist, weil Sie dieses Element untersuchen. Wenn beispielsweise nach dem Rechtsklick in Chrome der hervorgehobene Text `<div id="featured-slider">` lautet, sollten Sie im Abschnitt „Zonenkennung“ „Vorgestellter Schieberegler“ eingeben. Normalerweise wird „div id“ verwendet, es können jedoch auch beliebige IDs verwendet werden, z. B. h1-ID, p-ID usw.
 

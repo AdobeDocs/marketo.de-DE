@@ -4,10 +4,10 @@ description: Einfache Bewertung - Marketo-Dokumente - Produktdokumentation
 title: Einfache Bewertung
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '375'
-ht-degree: 4%
+ht-degree: 19%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->* [Einrichten und Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Einrichten und eine Person hinzufügen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Schritt 1: Bewertungskampagne erstellen {#step-create-a-scoring-campaign}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/simple-scoring-1.png)
 
@@ -82,15 +82,15 @@ ht-degree: 4%
 
    ![](assets/simple-scoring-12.png)
 
-1. Klicken Sie **[!UICONTROL Bestätigungsbildschirm]** Aktivieren“.
+1. Klicken Sie auf dem Bestätigungsbildschirm auf **[!UICONTROL Aktivieren]**.
 
    ![](assets/simple-scoring-13.png)
 
 >[!NOTE]
 >
->Nach der Aktivierung wird diese Kampagne jedes Mal ausgeführt, wenn eine Person das Formular ausfüllt. Die Kampagne wird weiter ausgeführt, bis sie deaktiviert wird.
+>Nach der Aktivierung wird diese Kampagne jedes Mal ausgeführt, wenn eine Person das Formular ausfüllt. Die Kampagne läuft so lange, bis sie deaktiviert wird.
 
-## Schritt 2: Formular ausfüllen {#step-fill-out-the-form}
+## Schritt 2: Ausfüllen des Formulars {#step-fill-out-the-form}
 
 1. Wählen Sie die Landingpage aus, die Sie in der [Landingpage mit einem Formular](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} Quick Win erstellt haben.
 
@@ -100,7 +100,7 @@ ht-degree: 4%
 
    ![](assets/simple-scoring-15.png)
 
-1. Füllen Sie das Formular mit Vorname, Nachname und E-Mail-Adresse aus und klicken Sie dann auf **[!UICONTROL Senden]**.
+1. Füllen Sie das Formular mit Ihrem Vornamen, Nachnamen und Ihrer E-Mail-Adresse aus und klicken Sie auf **[!UICONTROL Senden]**.
 
    ![](assets/simple-scoring-16.png)
 
@@ -110,7 +110,7 @@ ht-degree: 4%
 
 ## Schritt 3: Anzeigen der Personeninformationen {#step-view-the-person-info}
 
-1. Wechseln Sie zum Bereich **[!UICONTROL Datenbank]**.
+1. Wechseln Sie dazu zum Bereich **[!UICONTROL Datenbank]**.
 
    ![](assets/simple-scoring-17.png)
 
@@ -126,7 +126,7 @@ Ihre Personendaten werden in einer neuen Registerkarte oder einem neuen Fenster 
 
 ![](assets/simple-scoring-20.png)
 
-## Mission abgeschlossen! {#mission-complete}
+## Aufgabe abgeschlossen! {#mission-complete}
 
 <br> 
 

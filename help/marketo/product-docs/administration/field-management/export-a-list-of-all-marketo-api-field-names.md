@@ -4,10 +4,10 @@ description: Exportieren einer Liste aller Marketo-API-Feldnamen - Marketo-Dokum
 title: Exportieren einer Liste aller Marketo-API-Feldnamen
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 

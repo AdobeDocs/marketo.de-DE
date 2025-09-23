@@ -4,10 +4,10 @@ description: Erstellen eines E-Mail-Analyseberichts mit einer Liste der Leads - 
 title: Erstellen eines E-Mail-Analyseberichts mit einer Liste der Leads
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

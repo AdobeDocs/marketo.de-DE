@@ -1,15 +1,15 @@
 ---
 description: Verwenden der Massenhinzufügung zur Verkaufskampagne in Salesforce - Marketo-Dokumente - Produktdokumentation
-title: Verwenden der Massenhinzufügung zur Verkaufskampagne in Salesforce
+title: Verwenden der Massenhinzufügung zu einer Verkaufskampagne in Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Verwenden der Massenhinzufügung zur Verkaufskampagne in Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
+# Verwenden der Massenhinzufügung zu einer Verkaufskampagne in Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
 
 Erfahren Sie, wie Sie in Salesforce Massenbeiträge zu einer Verkaufskampagne hinzufügen, um Ihre ausgehende Kommunikation mithilfe von Verkaufsaktionen zu skalieren.
 

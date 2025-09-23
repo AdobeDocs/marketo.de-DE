@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10094404
 description: Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organisator - Marketo-Dokumente - Produktdokumentation
-title: Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organizer
+title: Erstellen benutzerdefinierter Feldergruppen mit dem Feldorganisator
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1000'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organizer {#create-custom-field-groups-using-the-field-organizer}
+# Erstellen benutzerdefinierter Feldergruppen mit dem Feldorganisator {#create-custom-field-groups-using-the-field-organizer}
 
 Bevor Sie benutzerdefinierte Feldergruppen für das Reporting im Bereich Modellleistungsanalyse (Leads) des Umsatzzyklus-Explorers aktivieren können, müssen Sie standardmäßige oder benutzerdefinierte Felder in Gruppen für das Reporting über den Feld-Organisator in der Marketo-Lead-Verwaltung kategorisieren. Dies gilt nur für Lead- und Firmenattribute.
 Wenn Sie ein Standardfeld oder ein benutzerdefiniertes Feld aus der Dropdown-Liste Feld im Dialogfeld „Neuer Feltorganisator“ auswählen, ordnet das System den Datentyp Marketo-Lead-Management dem Feld zu, das Sie gruppieren möchten, und zwar mit einem der drei verfügbaren Editoren im Feld-Organizer: Zeichenfolge, Ganzzahl oder Datum.
@@ -72,7 +72,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
    >[!NOTE]
    >
-   >Um eine Untergruppe zu löschen, klicken Sie einfach auf das rote X neben dem Namen der Untergruppe. Wenn sich Datenwerte in der Gruppe befinden, werden die Datenwerte in die Standardgruppe &quot;[!UICONTROL &quot; &#x200B;].
+   >Um eine Untergruppe zu löschen, klicken Sie einfach auf das rote X neben dem Namen der Untergruppe. Wenn sich Datenwerte in der Gruppe befinden, werden die Datenwerte in die Standardgruppe &quot;[!UICONTROL &quot; ].
 
 1. Markieren Sie einen oder mehrere Datenwerte auf der Arbeitsfläche und ziehen Sie sie per Drag-and-Drop in die entsprechende Untergruppe.
 
@@ -178,7 +178,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
    >[!NOTE]
    >
-   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder [!UICONTROL Gruppenbereich] baut auf dem vorherigen Eintrag auf. Wenn Sie für die letzte [!UICONTROL &#x200B; erstellte Untergruppe den &#x200B;] „Gruppenbereich“ leer lassen, wird kein Enddatumswert festgelegt.
+   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder [!UICONTROL Gruppenbereich] baut auf dem vorherigen Eintrag auf. Wenn Sie für die letzte [!UICONTROL  erstellte Untergruppe den ] „Gruppenbereich“ leer lassen, wird kein Enddatumswert festgelegt.
 
    Das folgende Beispiel zeigt einen Eintrag für Q1 2015 führt durch Q3.
 

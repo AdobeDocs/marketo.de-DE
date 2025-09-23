@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949413
 description: Hinzufügen einer Einschränkung zu einem Smart-Listenfilter - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen einer Einschränkung zu einem Smart-Listen-Filter
+title: Hinzufügen einer Einschränkung zu einem Filter für intelligente Listen
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Hinzufügen einer Einschränkung zu einem Smart-Listen-Filter {#add-a-constraint-to-a-smart-list-filter}
+# Hinzufügen einer Einschränkung zu einem Filter für intelligente Listen {#add-a-constraint-to-a-smart-list-filter}
 
 Beim Erstellen einer Smart-Liste verfügen einige Filter über erweiterte Optionen, die als „Einschränkungen“ bezeichnet werden. Dies sind zusätzliche Bedingungen, die Sie zu Filtern und Triggern hinzufügen können, um Ihre Suche weiter einzugrenzen.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10912163
 description: E-Mail erstellen - Marketo-Dokumente - Produktdokumentation
-title: E-Mail erstellen
+title: Erstellen einer E-Mail
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# E-Mail erstellen {#create-an-email}
+# Erstellen einer E-Mail {#create-an-email}
 
 Es gibt zwei Möglichkeiten, eine E-Mail in Marketo zu erstellen. Schauen wir uns beides an.
 

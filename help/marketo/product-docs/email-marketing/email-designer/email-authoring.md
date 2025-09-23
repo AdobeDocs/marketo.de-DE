@@ -1,17 +1,17 @@
 ---
 description: E-Mail-Authoring - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Erstellung
+title: Erstellung von E-Mails
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1742'
+source-wordcount: '1740'
 ht-degree: 3%
 
 ---
 
-# E-Mail-Erstellung {#email-authoring}
+# Erstellung von E-Mails {#email-authoring}
 
 Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage E-Mail-Designer erstellen, personalisieren und in der Vorschau anzeigen.
 
@@ -193,7 +193,7 @@ Der Editor rendert das Fragment innerhalb des Abschnitts/Elements der E-Mail-Str
 
 >[!TIP]
 >
->Wenn das Fragment das gesamte horizontale Layout in der E-Mail einnehmen soll, fügen Sie eine 1:1-Spaltenstruktur hinzu und ziehen Sie das Fragment dann per Drag-and-Drop hinein.
+>Wenn das Fragment das gesamte horizontale Layout in der E-Mail einnehmen soll, fügen Sie eine 1::1-Spaltenstruktur hinzu und ziehen Sie das Fragment dann per Drag-and-Drop hinein.
 
 Nachdem die E-Mail gespeichert wurde, wird sie auf der Registerkarte _[!UICONTROL Verwendet von]_ der Seite mit den Fragmentdetails angezeigt. Fragmente, die einer E-Mail-Vorlage hinzugefügt wurden, können innerhalb der Vorlage nicht bearbeitet werden. Das Quellfragment definiert den Inhalt.
 

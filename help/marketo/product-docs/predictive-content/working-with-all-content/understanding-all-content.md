@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384645
 description: Grundlegendes zu allen Inhalten - Marketo-Dokumente - Produktdokumentation
-title: Alle Inhalte verstehen
+title: Grundlegendes zu allen Inhalten
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Alle Inhalte verstehen {#understanding-all-content}
+# Grundlegendes zu allen Inhalten {#understanding-all-content}
 
 Auf der Seite Alle Inhalte werden alle Inhalte angezeigt, die manuell erkannt oder hinzugefügt wurden.
 

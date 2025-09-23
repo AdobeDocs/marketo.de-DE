@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352408
-description: Auf die Zulassungsliste setzen Wie kann ich eine Verbindung zum Vertrieb auf meinem Server herstellen? - Marketo-Dokumente - Produktdokumentation
-title: Auf die Zulassungsliste setzen Wie kann ich eine Verbindung zum Vertrieb auf meinem Server herstellen?
+description: Auf die Zulassungsliste setzen Wie kann ich eine Verbindung zum Vertrieb auf meinem Server herstellen? – Marketo-Dokumente – Produktdokumentation
+title: Wie kann ich Sales Connect auf meinem Server auf die Zulassungsliste setzen?
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 

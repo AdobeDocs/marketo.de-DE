@@ -4,10 +4,10 @@ description: Grundlegendes zum Bereich der Programmmitgliedschaftsanalyse - Mark
 title: Grundlegendes zum Bereich für die Analyse der Programmmitgliedschaft
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 16%
+ht-degree: 21%
 
 ---
 
@@ -54,9 +54,9 @@ Wie viele neue Namen hat jedes Programm/jeder Kanal pro Monat generiert?
 
 | Dimension | Beschreibung |
 |---|---|
-| Jahr | Zeitrahmen der Programmmitgliedschaft |
+| Year | Zeitrahmen der Programmmitgliedschaft |
 | Quartal | Zeitrahmen der Programmmitgliedschaft |
-| Monat | Zeitrahmen der Programmmitgliedschaft |
+| Month | Zeitrahmen der Programmmitgliedschaft |
 | Woche | Zeitrahmen der Programmmitgliedschaft |
 | Datum | Zeitrahmen der Programmmitgliedschaft |
 

@@ -4,10 +4,10 @@ description: Filtern im Audit-Protokoll - Marketo-Dokumente - Produktdokumentati
 title: Filtern im Audit-Protokoll
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 

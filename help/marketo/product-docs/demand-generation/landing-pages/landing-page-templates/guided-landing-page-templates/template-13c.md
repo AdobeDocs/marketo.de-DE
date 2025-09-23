@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437792
 description: Vorlage 13c - Marketo-Dokumente - Produktdokumentation
-title: Meldebogen 13c
+title: Vorlage 13c
 exl-id: 05624f86-03ab-45ab-8daa-61cf4f2b44ba
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Meldebogen 13c {#template-13c}
+# Vorlage 13c {#template-13c}
 
-Rechtsklick zum Herunterladen [Vorlage 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=de)
+Rechtsklick zum Herunterladen [Vorlage 13C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=de)
+[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)

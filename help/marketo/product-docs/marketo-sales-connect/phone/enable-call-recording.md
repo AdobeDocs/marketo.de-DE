@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45416564
 description: Anrufaufzeichnung aktivieren - Marketo-Dokumente - Produktdokumentation
-title: Anrufaufzeichnung aktivieren
+title: Aktivieren der Anrufaufzeichnung
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Anrufaufzeichnung aktivieren {#enable-call-recording}
+# Aktivieren der Anrufaufzeichnung {#enable-call-recording}
 
 Als Administrator können Sie die Anrufaufzeichnung für Ihre [!DNL Sales Connect]-Anrufe aktivieren. Die Anrufe Ihres Teams aufzunehmen kann eine gute Möglichkeit sein, Ihre Vertriebsmitarbeiter über die Best Practices für Anrufe zu informieren.
 
@@ -19,7 +19,7 @@ Als Administrator können Sie die Anrufaufzeichnung für Ihre [!DNL Sales Connec
 
    ![](assets/one.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two.png)
 

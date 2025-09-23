@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949247
 description: SEO - Manuelles Hinzufügen einer URL für eingehende Links - Marketo-Dokumente - Produktdokumentation
-title: SEO - Manuelles Hinzufügen einer URL für eingehende Links
+title: SEO – Manuelles Hinzufügen einer URL für eingehende Links
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 2%
+ht-degree: 17%
 
 ---
 
-# SEO - Manuelles Hinzufügen einer URL für eingehende Links {#seo-add-an-inbound-link-url-manually}
+# SEO – Manuelles Hinzufügen einer URL für eingehende Links {#seo-add-an-inbound-link-url-manually}
 
 Sie können eingehende Links manuell hinzufügen. So geht&#39;s:
 

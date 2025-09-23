@@ -4,14 +4,14 @@ description: Versionshinweise - Februar '20 - Marketo-Dokumente - Produktdokumen
 title: Versionshinweise - Feb '20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 0%
+source-wordcount: '637'
+ht-degree: 2%
 
 ---
 
-# Versionshinweise: Feb &#39;20 {#release-notes-feb}
+# Versionshinweise – Februar 2020 {#release-notes-feb}
 
 Die folgenden Funktionen sind in der Version vom Februar 2020 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 
@@ -59,4 +59,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **Asset-API „_method“-Parameter**: Nach September 2020 akzeptieren Asset-API-Endpunkte keine „_method“ mehr zum Übergeben von Abfrageparametern in einem POST-Text, um URI-Längenbeschränkungen zu umgehen. Um Anfragen zu berücksichtigen, die diesen Parameter erfordern, wird die URI-Beschränkung für Asset-APIs von 6 KB auf 65 KB erhöht, sodass lange Anfrage-URIs gesendet werden können.
 * **Einstellung der Internet Explorer-**: Ab unserer Version vom 31. Juli 2020 wird die Marketo Engage-Benutzeroberfläche in Internet Explorer nicht mehr unterstützt.
 
-**_Webinar zur Produktversion_** [Nehmen Sie ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11:00 Uhr PT/14:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
+**_Webinar zur Produktversion_** [Nehmen Sie ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11 :00AM PT / 2 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.

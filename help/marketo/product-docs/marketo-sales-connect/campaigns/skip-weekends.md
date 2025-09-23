@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352622
 description: Wochenenden überspringen - Marketo-Dokumente - Produktdokumentation
-title: Wochenenden überspringen
+title: Überspringen von Wochenenden
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# Wochenenden überspringen {#skip-weekends}
+# Überspringen von Wochenenden {#skip-weekends}
 
 Beim Automatisieren einer Kampagne möchten Sie wahrscheinlich nicht, dass Ihre E-Mails an einem Samstag oder Sonntag gesendet werden. Andernfalls können Sie das Wochenende überspringen.
 

@@ -3,16 +3,16 @@ description: Versionshinweise - Juni 2024 - Marketo-Dokumentation - Produktdokum
 title: Versionshinweise – Juni 2024
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 4%
+ht-degree: 37%
 
 ---
 
-# Versionshinweise: Juni 2024 {#release-notes-june-24}
+# Versionshinweise – Juni 2024 {#release-notes-june-24}
 
-Im Folgenden finden Sie alle Funktionen, die in der Version vom Juni 2024 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom Juni 2024 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -20,9 +20,9 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 >
 >Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
-## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 7. **2024 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 7. Juni 2024** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
      <tr>
    <td><strong>Vorlagen für interaktive Webinare</strong>: Marketing-Experten können jetzt benutzerdefinierte Vorlagen für Raum-Layouts in interaktiven Webinaren erstellen.</td>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Vorlagen</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
      <tr>
    <td><strong>Abgeleitete Felder in Forms</strong>: Die Datenquelle, die zum Ausfüllen abgeleiteter Felder verwendet wird, wenn eine Person ohne vorherige Web-Aktivität über ein Formular erstellt wird, wurde aktualisiert, um dieselbe Datenquelle wie andere Personenerhebungsmethoden zu verwenden. Die abgeleiteten Felddaten sind jetzt für alle Sammlungspunkte konsistent.</td>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
  </tbody>

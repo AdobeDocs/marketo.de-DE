@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359483
 description: Grundlegendes zu E-Mail-Testoptionen - Marketo-Dokumente - Produktdokumentation
-title: Optionen für E-Mail-Tests
+title: Grundlegendes zu Optionen für E-Mail-Tests
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 3%
+ht-degree: 11%
 
 ---
 
-# Optionen für E-Mail-Tests {#understanding-email-testing-options}
+# Grundlegendes zu Optionen für E-Mail-Tests {#understanding-email-testing-options}
 
 Testen Sie Ihre E-Mails, um ihren Interaktionswert zu verbessern. In Marketo gibt es zwei Arten von E-Mail-Tests.
 

@@ -1,16 +1,16 @@
 ---
 description: Hinzufügen oder Entfernen eines Produktadministrators - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen oder Entfernen eines Produktadministrators
+title: Hinzufügen oder Entfernen von Produktadmins
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Hinzufügen oder Entfernen eines Produktadministrators {#add-or-remove-a-product-admin}
+# Hinzufügen oder Entfernen von Produktadmins {#add-or-remove-a-product-admin}
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. Klicken Sie auf **Marketo Engage**.
+1. Auf **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -62,11 +62,11 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
-Der Benutzer erhält dann zwei E-Mails. Die erste E-Mail benachrichtigt sie, dass ihnen Produktadministratorrechte für das Marketo Engage gewährt wurden. Die zweite E-Mail lädt sie ein, sich bei Marketo Engage anzumelden.
+Der Benutzer erhält dann zwei E-Mails. Die erste E-Mail benachrichtigt sie, dass ihnen Produktadministratorrechte für Marketo Engage gewährt wurden. Die zweite E-Mail lädt sie ein, sich bei Marketo Engage anzumelden.
 
 >[!NOTE]
 >
->Wenn Produktadministratorinnen und -administratoren über die Adobe Admin Console zum Marketo Engage hinzugefügt werden, erhält die Person die Adobe-Produktadministratorrolle im Abonnement.
+>Wenn Produktadministratorinnen und -Administratoren über die Adobe Admin Console zu Marketo Engage hinzugefügt werden, erhält die Person im Abonnement die Adobe-Produktadministratorrolle.
 
 ## Einen Administrator entfernen {#remove-a-user}
 
@@ -74,7 +74,7 @@ Der Benutzer erhält dann zwei E-Mails. Die erste E-Mail benachrichtigt sie, das
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. Klicken Sie auf **Marketo Engage**.
+1. Auf **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 

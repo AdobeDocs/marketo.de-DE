@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359553
 description: E-Mail-Champion/Challenger hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Champion/Challenger hinzufügen
+title: Hinzufügen eines E-Mail-Champions/-Challengers
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# E-Mail-Champion/Challenger hinzufügen {#add-an-email-champion-challenger}
+# Hinzufügen eines E-Mail-Champions/-Challengers {#add-an-email-champion-challenger}
 
 Es empfiehlt sich, häufig verwendete E-Mails auf ihre Funktionsfähigkeit zu testen. Eine Möglichkeit besteht darin, die Effektivität einer E-Mail mit anderen Versionen oder Challengern zu vergleichen. Bei einem Champion-/Challenger-Test können Sie die gesamte E-Mail, die Betreffzeile oder die Absenderadresse testen.
 

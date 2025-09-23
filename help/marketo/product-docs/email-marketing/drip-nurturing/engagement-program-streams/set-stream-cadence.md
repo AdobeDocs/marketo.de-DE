@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359665
 description: Festlegen der Stream-Kadenz - Marketo-Dokumente - Produktdokumentation
-title: Stream-Kadenz festlegen
+title: Festlegen einer Stream-Kadenz
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 3%
 
 ---
 
-# Stream-Kadenz festlegen {#set-stream-cadence}
+# Festlegen einer Stream-Kadenz {#set-stream-cadence}
 
 Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beispiel: einmal pro Woche oder jeden dritten Dienstag im Monat.
 

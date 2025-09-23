@@ -1,16 +1,16 @@
 ---
 description: TS-YYYY-MM-DD-Tradeshow-Programm - Marketo-Dokumentation
-title: TS-YYYY-MM-DD-Tradeshow-Programm
+title: 'Messeprogramm: TS-EV-JJJJ-MM-TT'
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 15%
+ht-degree: 18%
 
 ---
 
-# TS-YYYY-MM-DD-Tradeshow-Programm {#ts-yyyy-mm-dd-tradeshow-program}
+# Messeprogramm: TS-EV-JJJJ-MM-TT {#ts-yyyy-mm-dd-tradeshow-program}
 
 Dies ist ein Beispiel für ein Messeprogramm mit Einladungen und Follow-up-E-Mails unter Verwendung eines Marketo Engage-Veranstaltungsprogramms.
 
@@ -51,12 +51,12 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>01-email-thank you</td>
   </tr>
    <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>02a- E-Mail - Einladung</td>
   </tr>
   <tr>

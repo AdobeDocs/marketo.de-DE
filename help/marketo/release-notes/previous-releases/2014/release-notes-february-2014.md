@@ -4,14 +4,14 @@ description: Versionshinweise - Februar 2014 - Marketo-Dokumentation - Produktdo
 title: Versionshinweise - Februar 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '364'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Versionshinweise: Februar 2014 {#release-notes-february}
+# Versionshinweise – Februar 2014 {#release-notes-february}
 
 Die folgenden Funktionen sind in der Version vom Februar 2014 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Kehren Sie nach der Veröffentlichung immer wieder zu Links zu detaillierten Knowledge Base-Artikeln für jede Funktion zurück!
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317340
 description: Marketo-Abmeldeprüfung - Marketo-Dokumente - Produktdokumentation
-title: Überprüfung von Marketo abbestellen
+title: Überprüfen der Abmeldung von Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# Überprüfung von Marketo abbestellen {#marketo-unsubscribe-check}
+# Überprüfen der Abmeldung von Marketo {#marketo-unsubscribe-check}
 
 Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Marketo, um zu verhindern, dass E-Mails an Personen gesendet werden, die sich im Lead-Management-System von Marketo abgemeldet haben. Wenn ein Verkaufsbenutzer eine E-Mail mit [!DNL Sales Connect] sendet, wird ein API-Aufruf an Marketo durchgeführt, um zu überprüfen, ob die E-Mail-ID abgemeldet wurde. Wenn dies der Fall ist, blockieren wir den Versand der E-Mail.
 
@@ -25,7 +25,7 @@ Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Mar
 
    ![](assets/one-2.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin] auf **[!UICONTROL Abmeldungen]**.
+1. Klicken [!UICONTROL  unter „Admin] auf **[!UICONTROL Abmeldungen]**.
 
    ![](assets/two-3.png)
 
@@ -37,7 +37,7 @@ Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Mar
 
    ![](assets/four-2.png)
 
-## Was man wissen muss {#things-to-know}
+## Was Sie wissen sollten {#things-to-know}
 
 Die Marketo-Abmelde-Prüfung…
 

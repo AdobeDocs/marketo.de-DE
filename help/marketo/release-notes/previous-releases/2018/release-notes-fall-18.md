@@ -4,14 +4,14 @@ description: Versionshinweise - Herbst '18 - Marketo-Dokumente - Produktdokument
 title: Versionshinweise - Herbst '18
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '820'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Versionshinweise: Herbst &#39;18 {#release-notes-fall}
+# Versionshinweise – Herbst 2018 {#release-notes-fall}
 
 Die folgenden Funktionen sind in der Version vom Herbst 18 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 

@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950555
 description: Facebook-Rich-Post-Einstellungen bearbeiten - Marketo-Dokumente - Produktdokumentation
-title: Rich-Post-Einstellungen für Facebook bearbeiten
+title: Bearbeiten von Rich-Post-Einstellungen für Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo Mit _(Social_ Apps) können Ihre Leads Ihre Landingpages über ihre Verb
 
 Sie können die Arten von Seiteninformationen angeben, die in den [!DNL Facebook] Rich-Posts verwendet werden sollen, die durch Freigaben auf Ihrer Landingpage generiert wurden.
 
-1. Wählen Sie **[!UICONTROL Facebook-Nachricht]** im Editor für Ihr _&#x200B;_[!DNL YouTube_]_-Video oder Ihren Social-Media-Button aus.
+1. Wählen Sie **[!UICONTROL Facebook-Nachricht]** im Editor für Ihr __[!DNL YouTube_]_-Video oder Ihren Social-Media-Button aus.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

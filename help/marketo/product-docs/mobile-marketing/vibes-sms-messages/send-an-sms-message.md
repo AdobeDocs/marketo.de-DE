@@ -3,10 +3,10 @@ description: Senden einer SMS-Nachricht - Marketo-Dokumente - Produktdokumentati
 title: Senden einer SMS-Nachricht
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ Sie haben [Ihre SMS-Nachricht erstellt](/help/marketo/product-docs/mobile-market
 >
 >Beim Versand von SMS-Nachrichten:
 >
->* Marketo Engage-Deduplizierungen nach Telefonnummer. Wenn also mehrere Personen dieselbe Telefonnummer haben, erhält nur eine Person die Nachricht, wenn sie nur Mitglied einer einzigen Vibes-Abonnement-Liste sind. Die Deduplizierung erfolgt auf der Ebene der Vibes-Abonnement-Liste, nicht auf der Ebene des Marketo-Programms.
+>* Marketo Engage dedupliziert nach Telefonnummer. Wenn also mehrere Personen dieselbe Telefonnummer haben, erhält nur eine Person die Nachricht, wenn sie nur Mitglied einer einzigen Vibes-Abonnement-Liste sind. Die Deduplizierung erfolgt auf der Ebene der Vibes-Abonnement-Liste, nicht auf der Ebene des Marketo-Programms.
 >* Marketo sendet keine Nachrichten an Personen, die auf die Blockierungsliste setzte oder Marketing ausgesetzt sind.
 >* Eine SMS-Nachricht wird an niemanden gesendet, der sich abgemeldet hat, wenn er sich nicht in der Liste der mobilen Vibes-Datenbank befindet.
 

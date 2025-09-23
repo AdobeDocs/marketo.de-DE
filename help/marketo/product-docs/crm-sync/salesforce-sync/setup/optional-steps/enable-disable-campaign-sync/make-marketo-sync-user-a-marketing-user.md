@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8782944
 description: Marketo-Synchronisierungsbenutzer zu einem Marketing-Benutzer machen - Marketo-Dokumente - Produktdokumentation
-title: Marketo-Synchronisierungsbenutzer als Marketing-Benutzer festlegen
+title: Festlegen von Marketo-Synchronisierungsbenutzenden als Marketing-Benutzende
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# Marketo-Synchronisierungsbenutzer als Marketing-Benutzer festlegen {#make-marketo-sync-user-a-marketing-user}
+# Festlegen von Marketo-Synchronisierungsbenutzenden als Marketing-Benutzende {#make-marketo-sync-user-a-marketing-user}
 
 Der [Marketo-Synchronisierungsbenutzer](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} muss Marketing-Benutzer sein, damit die Salesforce-Kampagnensynchronisierung ordnungsgemäß funktioniert. So machen Sie einen Benutzer zu einem Marketing-Benutzer in Salesforce.
 

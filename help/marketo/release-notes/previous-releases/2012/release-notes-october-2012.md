@@ -4,14 +4,14 @@ description: Oktober 2012 - Marketo-Dokumentation - Produktdokumentation
 title: Oktober 2012 – Versionshinweise
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '352'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Versionshinweise: Oktober 2012 {#release-notes-october}
+# Versionshinweise – Oktober 2012 {#release-notes-october}
 
 Die Oktober-Version enthält weitere aufregende neue Funktionen! Social-Media-Funktionen sind als Add-on oder als Teil ausgewählter Bundles verfügbar.
 

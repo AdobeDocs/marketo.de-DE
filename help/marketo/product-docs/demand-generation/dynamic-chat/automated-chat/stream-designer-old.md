@@ -1,23 +1,23 @@
 ---
 description: Streamen von Designer - Marketo-Dokumente - Produktdokumentation
-title: Entwerferin bzw. Entwerfer des Streams
+title: Gestalterin bzw. Gestalter des Streams
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 2%
 
 ---
 
-# Entwerferin bzw. Entwerfer des Streams {#stream-designer}
+# Gestalterin bzw. Gestalter des Streams {#stream-designer}
 
-Es _(viele_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel, bei dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Wenn ja, kann der Besucher einen Termin vereinbaren. Ist dies nicht der Fall, hat der Besucher die Möglichkeit, einer Mailingliste für die zukünftige Korrespondenz beizutreten. Ihnen steht auch eine kostenlose PDF zur Verfügung. Das letztendliche Ziel besteht darin, entweder einen Termin zu vereinbaren oder die E-Mail des Besuchers zu erfassen.
+Es _(viele_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel, bei dem der Marketing-Experte den Site-Besucher fragt, ob er Produktfragen hat. Wenn ja, kann der Besucher einen Termin vereinbaren. Ist dies nicht der Fall, hat der Besucher die Möglichkeit, einer Mailingliste für die zukünftige Korrespondenz beizutreten. Ihnen wird auch ein kostenloser PDF angeboten. Das letztendliche Ziel besteht darin, entweder einen Termin zu vereinbaren oder die E-Mail des Besuchers zu erfassen.
 
 >[!PREREQUISITES]
 >
->Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie zunächst [in ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten).
+>Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie [ in ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten.
 
 ## Streamen von Designer-Karten {#stream-designer-cards}
 
@@ -52,7 +52,7 @@ Die Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  <tr>
   <td style="width:25%"><strong>Aktion*</strong></td>
   <td>Ähnlich wie bei ausgeblendeten Feldern in einem Formular können Sie mit der Aktionskarte jedes Lead- oder Firmenattribut (das einen <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">Datentyp Zeichenfolge</a> aufweist) mit impliziten Werten füllen, die Sie für einen Lead-Datensatz erfassen möchten. Sie können die Aktionskarte zu einem beliebigen Zeitpunkt in der Konversation hinzufügen und die entsprechenden Attribute mit einem Wert oder nativen Token aktualisieren, die den entsprechenden Wert automatisch ausfüllen.
-  <p><i>* Für die Aktionskarte ist das Dynamic Chat von Prime erforderlich. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).</i></td>
+  <p><i>* Die Aktionskarte erfordert Dynamic Chat Prime. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live-Chat</strong></td>
@@ -101,7 +101,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-7.png)
 
-1. Stellen [!UICONTROL &#x200B; unter „Chatbot Response] Ihre Frage, wie Sie möchten.
+1. Stellen [!UICONTROL  unter „Chatbot Response] Ihre Frage, wie Sie möchten.
 
    ![](assets/stream-designer-8.png)
 
@@ -188,11 +188,11 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-20.png)
 
-1. Denken Sie daran, eine Antwort hinzuzufügen, wenn sie „Nein“ sagen. Eine Möglichkeit besteht darin, eine Nachrichtenkarte unten zu ziehen und „Trotzdem danke“ zu sagen. In diesem Beispiel stellen wir ihnen stattdessen ein kostenloses PDF-Dokument zur Verfügung.
+1. Denken Sie daran, eine Antwort hinzuzufügen, wenn sie „Nein“ sagen. Eine Möglichkeit besteht darin, eine Nachrichtenkarte unten zu ziehen und „Trotzdem danke“ zu sagen. In diesem Beispiel stellen wir ihnen jedoch stattdessen ein kostenloses PDF-Dokument zur Verfügung.
 
    ![](assets/stream-designer-21.png)
 
-1. In diesem Beispiel erstellen wir ein neues Dokument. Geben Sie einen Namen für die bereits gehostete PDF ein, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. In diesem Beispiel erstellen wir ein neues Dokument. Geben Sie einen Namen für das Konto ein, geben Sie die URL für das bereits gehostete PDF ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -200,13 +200,13 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-23.png)
 
-1. Wenn Sie Ihr Dialogfeld aktivieren möchten, klicken Sie auf **[!UICONTROL Publish]**.
+1. Wenn Sie Ihr Dialogfeld aktivieren möchten, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Bevor Sie auf [!UICONTROL Publish] klicken, vergewissern Sie sich, dass [ Ihre Ziel-URL(s) eingegeben haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Bevor Sie auf [!UICONTROL Veröffentlichen] klicken, vergewissern Sie sich, dass Sie [ Ziel-URL(s) ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} haben.
 
 >[!MORELIKETHIS]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571900
 description: Übersicht über Web Personalization - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über Web Personalization
+title: Web-Personalisierung – Überblick
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '849'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Übersicht über Web Personalization {#web-personalization-overview}
+# Web-Personalisierung – Überblick {#web-personalization-overview}
 
 ## Einführung {#introduction}
 
@@ -46,7 +46,7 @@ Die **[!UICONTROL Web Personalization]**-Kachel ist Ihr Zugriffspunkt zum Erstel
 
 >[!NOTE]
 >
->Um auf [!UICONTROL Account-Based Web &#x200B;] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
+>Um auf [!UICONTROL Account-Based Web ] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
 
 ## Organisationen {#organizations}
 

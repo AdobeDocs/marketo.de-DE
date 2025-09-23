@@ -2,10 +2,10 @@
 description: Datenschutzverwaltung - Marketo-Dokumente - Produktdokumentation
 title: Datenschutzverwaltung
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

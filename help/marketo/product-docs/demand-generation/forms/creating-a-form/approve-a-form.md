@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359578
 description: Genehmigen eines Formulars - Marketo-Dokumente - Produktdokumentation
-title: Formulare genehmigen
+title: Genehmigen eines Formulars
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: e29ee847eb91a59c75d0afb9f3cfc19622b4dd81
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Formulare genehmigen {#approve-a-form}
+# Genehmigen eines Formulars {#approve-a-form}
 
 Um ein Formular zu einer Landingpage hinzufügen zu können, muss es genehmigt werden.
 
-## Formulare genehmigen {#approve}
+## Genehmigen eines Formulars {#approve}
 
 So validieren Sie ein vorhandenes Formular, das einsatzbereit ist.
 

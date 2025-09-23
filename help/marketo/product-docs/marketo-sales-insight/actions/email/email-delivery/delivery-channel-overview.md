@@ -1,16 +1,16 @@
 ---
 description: Übersicht über den Versandkanal - Marketo-Dokumente - Produktdokumentation
-title: Versandkanal - Übersicht
+title: Versandkanal – Überblick
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '660'
 ht-degree: 0%
 
 ---
 
-# Versandkanal - Übersicht {#delivery-channel-overview}
+# Versandkanal – Überblick {#delivery-channel-overview}
 
 Marketo Sales bietet mehrere Optionen zum Versand von E-Mails. In diesem Artikel werden die verfügbaren Versandkanäle sowie deren Auswahl und der Zeitpunkt der Auswahl erläutert.
 

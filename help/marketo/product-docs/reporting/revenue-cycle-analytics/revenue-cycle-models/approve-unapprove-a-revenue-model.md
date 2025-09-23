@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718687
 description: Genehmigung eines Umsatzmodells erteilen/aufheben - Marketo-Dokumente - Produktdokumentation
-title: Genehmigung eines Umsatzmodells erteilen/aufheben
+title: Genehmigen/Aufheben der Genehmigung eines Umsatzmodells
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Genehmigung eines Umsatzmodells erteilen/aufheben {#approve-unapprove-a-revenue-model}
+# Genehmigen/Aufheben der Genehmigung eines Umsatzmodells {#approve-unapprove-a-revenue-model}
 
 Es kann immer nur ein genehmigtes Modell zur Verfügung stehen.
 

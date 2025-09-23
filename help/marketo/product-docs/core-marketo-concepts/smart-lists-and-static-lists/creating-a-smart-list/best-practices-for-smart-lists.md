@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512524
 description: Best Practices für Smart Lists - Marketo-Dokumente - Produktdokumentation
-title: Best Practices für Smart Lists
+title: Best Practices für intelligente Listen
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '566'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Best Practices für Smart Lists {#best-practices-for-smart-lists}
+# Best Practices für intelligente Listen {#best-practices-for-smart-lists}
 
 Smart Lists sind das leistungsfähigste Abfrage-Tool im Marketing-Universum. Sie finden die Menschen, die Sie suchen, mit magischer Geschwindigkeit und Leichtigkeit.
 
@@ -19,7 +19,7 @@ Um die Arbeit mit ihnen zu vereinfachen und die Leistung zu optimieren, haben wi
 
 >[!NOTE]
 >
->**Jeder Marketo Engage-Anwender ist anders.** Je größer die Datenbank, desto mehr Verarbeitung erfolgt. Je mehr Aktivitäten Sie gespeichert haben, desto länger dauert es, sie zu durchsuchen.
+>**Jeder Marketo Engage-Benutzer ist anders.** Je größer die Datenbank, desto mehr Verarbeitung erfolgt. Je mehr Aktivitäten Sie gespeichert haben, desto länger dauert es, sie zu durchsuchen.
 >
 >Wenn Sie Langsamkeit verspüren, versuchen Sie die folgenden Tipps. Wenn das Problem weiterhin besteht, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
@@ -36,4 +36,4 @@ Um die Arbeit mit ihnen zu vereinfachen und die Leistung zu optimieren, haben wi
 
 >[!TIP]
 >
->Marketo Engage kann auf viele Arten verwendet werden und bestimmte Techniken sind besser für Sie und Ihr Unternehmen. Wenden Sie sich an Ihren Adobe Professional Services-Vertriebsmitarbeiter, wenn Sie Unterstützung benötigen, um Ihre Investition optimal zu nutzen.
+>Marketo Engage kann auf viele Arten verwendet werden und bestimmte Verfahren sind besser für Sie und Ihr Unternehmen. Wenden Sie sich an Ihren Adobe Professional Services-Vertriebsmitarbeiter, wenn Sie Unterstützung benötigen, um Ihre Investition optimal zu nutzen.

@@ -4,14 +4,14 @@ description: Dezember 2012 - Versionshinweise zu Marketo - Produktdokumentation
 title: Dezember 2012 - Versionshinweise
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '390'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Versionshinweise: Dezember 2012 {#release-notes-december}
+# Versionshinweise – Dezember 2012 {#release-notes-december}
 
 Die Dezember-Version enthält die viel erwartete **Forward to Friend**-Funktion sowie mehrere andere Leckereien! Mit einem Sternchen (&#42;) gekennzeichnete Funktionen sind nur in der Select Edition und in RCA (Revenue Cycle Analytics) verfügbar.
 
@@ -29,7 +29,7 @@ Verwenden Sie die entsprechenden Trigger und Filter, um Benutzer zu identifizier
 
 ## Granulare Administratorberechtigungen {#granular-admin-permissions}
 
-Unsere neueste Version bietet Ihnen besseren Zugriff und bessere Kontrolle über [!UICONTROL Admin]-Rollen, indem sie den Zugriff auf verschiedene Funktionen im Bereich „Admin[!UICONTROL &#x200B; von Marketo &#x200B;] jede Rolle steuert. Wenn Sie eine neue Rolle erstellen, können Sie dieser Rolle bestimmte [!UICONTROL Admin]-Funktionen zuweisen, auf die diese Rolle zugreifen kann.
+Unsere neueste Version bietet Ihnen besseren Zugriff und bessere Kontrolle über [!UICONTROL Admin]-Rollen, indem sie den Zugriff auf verschiedene Funktionen im Bereich „Admin[!UICONTROL  von Marketo ] jede Rolle steuert. Wenn Sie eine neue Rolle erstellen, können Sie dieser Rolle bestimmte [!UICONTROL Admin]-Funktionen zuweisen, auf die diese Rolle zugreifen kann.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
@@ -62,13 +62,13 @@ Ermitteln Sie, welcher Prozentsatz der Pipeline und des Umsatzes Ihres Unternehm
 
 ## Benutzerdefinierte Opportunity-Felder in der Programm-Opportunity-Analyse&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-Fügen Sie benutzerdefinierte Opportunity-Felder hinzu, um die Berichte zur Analyse von Programm-Opportunities in [!UICONTROL Revenue Explorer) &#x200B;].
+Fügen Sie benutzerdefinierte Opportunity-Felder hinzu, um die Berichte zur Analyse von Programm-Opportunities in [!UICONTROL Revenue Explorer) ].
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## Kampagnenprüfung {#campaign-inspector}
 
-Haben Sie sich jemals gefragt, welche Kampagnen eine bestimmte Flussaktion verwenden, z. B[!UICONTROL &#x200B; &quot;]&quot; oder [!UICONTROL Kampagne anfordern]? Oder wo ein bestimmter Filter verwendet wird? Mit dem neuen [!UICONTROL Kampagneninspektor] (verfügbar über die Schatztruhe) können Sie diese Kampagnen sowie aktive Kampagnen und Kampagnen mit Fehlern identifizieren.
+Haben Sie sich jemals gefragt, welche Kampagnen eine bestimmte Flussaktion verwenden, z. B[!UICONTROL  &quot;]&quot; oder [!UICONTROL Kampagne anfordern]? Oder wo ein bestimmter Filter verwendet wird? Mit dem neuen [!UICONTROL Kampagneninspektor] (verfügbar über die Schatztruhe) können Sie diese Kampagnen sowie aktive Kampagnen und Kampagnen mit Fehlern identifizieren.
 
 Gehen Sie **[!UICONTROL Admin]** > **[!UICONTROL Schatztruhe]** um den **[!UICONTROL Kampagneninspektor]** zu aktivieren.
 

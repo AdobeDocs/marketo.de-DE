@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949204
 description: SEO - Keywords hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: SEO - Keywords hinzufügen
+title: SEO – Hinzufügen von Keywords
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# SEO - Keywords hinzufügen {#seo-add-keywords}
+# SEO – Hinzufügen von Keywords {#seo-add-keywords}
 
 Keywords sind Phrasen, die in Suchmaschinen eingegeben werden. Fügen Sie die Schlüsselwörter hinzu, die für Ihr Unternehmen am relevantesten sind.
 

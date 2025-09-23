@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352601
 description: Referenzieren Sie sich selbst in einem dynamischen Feld - Marketo-Dokumente - Produktdokumentation
-title: Referenzieren Sie sich selbst in einem dynamischen Feld
+title: Sich selbst in einem dynamischen Feld referenzieren
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Referenzieren Sie sich selbst in einem dynamischen Feld {#reference-yourself-in-a-dynamic-field}
+# Sich selbst in einem dynamischen Feld referenzieren {#reference-yourself-in-a-dynamic-field}
 
 Dynamische Felder sind unsere Form des Seriendrucks.
 

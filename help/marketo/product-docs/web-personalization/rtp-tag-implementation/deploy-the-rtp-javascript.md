@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719332
 description: Bereitstellen des RTP JavaScript - Marketo Docs - Produktdokumentation
-title: Bereitstellen des RTP JavaScript
+title: Bereitstellen von RTP-JavaScript
 exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Bereitstellen des RTP JavaScript {#deploy-the-rtp-javascript}
+# Bereitstellen von RTP-JavaScript {#deploy-the-rtp-javascript}
 
 Um Ihr RTP-Tag zu generieren und einzurichten, folgen Sie bitte den unten stehenden Installationsanweisungen
 
@@ -37,7 +37,7 @@ Um Ihr RTP-Tag zu generieren und einzurichten, folgen Sie bitte den unten stehen
 
 1. [!UICONTROL Tag]-Umschalter auf &quot;**[!UICONTROL &quot;]**.
 
-   Bestätigen Sie, dass der [!UICONTROL Tag]-Umschalter auf &quot;[!UICONTROL &quot; &#x200B;]. Sie sollten sehen, wie die Daten in die Registerkarte Organisation fließen.
+   Bestätigen Sie, dass der [!UICONTROL Tag]-Umschalter auf &quot;[!UICONTROL &quot; ]. Sie sollten sehen, wie die Daten in die Registerkarte Organisation fließen.
 
    Sie haben jetzt das RTP-Tag eingerichtet und können mit dem [Erstellen von Segmenten](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) und Echtzeit-Kampagnen beginnen!
 

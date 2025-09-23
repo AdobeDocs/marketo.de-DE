@@ -4,10 +4,10 @@ description: Priorität der Segmentierungsreihenfolge - Marketo-Dokumente - Prod
 title: Priorität der Segmentierungsreihenfolge
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -18,7 +18,7 @@ Es ist wichtig zu verstehen, wie **Reihenfolge** die Priorität für die Bewertu
 >[!PREREQUISITES]
 >
 >[Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->&#x200B;>[Definieren Sie Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>>[Definieren Sie Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

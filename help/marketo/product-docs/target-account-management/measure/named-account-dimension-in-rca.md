@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11380789
-description: Benannte Konto-Dimension in RCA - Marketo-Dokumente - Produktdokumentation
-title: Benannte Konto-Dimension in RCA
+description: Benanntes Konto Dimension in RCA - Marketo-Dokumente - Produktdokumentation
+title: Dimension „Benanntes Konto“ in RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 
-# Benannte Konto-Dimension in RCA {#named-account-dimension-in-rca}
+# Dimension „Benanntes Konto“ in RCA {#named-account-dimension-in-rca}
 
 Erstellen Sie umsatzbasierte Berichte mithilfe der TAM-spezifischen Dimension Benanntes Konto in der Umsatzzyklusanalyse.
 
 >[!NOTE]
 >
->**Dimensionen** - Attribute (durch gelbe Punkte dargestellt), die unterschiedliche Ansichten der Kennzahlen wiedergeben.
+>**Dimensionen** - Attribute (dargestellt durch gelbe Punkte), die unterschiedliche Ansichten der Kennzahlen wiedergeben.
 
 ![](assets/one-2.png)
 

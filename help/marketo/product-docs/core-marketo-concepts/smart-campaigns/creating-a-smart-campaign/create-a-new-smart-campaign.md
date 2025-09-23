@@ -4,16 +4,16 @@ description: Erstellen einer neuen Smart Campaign - Marketo-Dokumente - Produktd
 title: Erstellen einer neuen intelligenten Kampagne
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Erstellen einer neuen intelligenten Kampagne {#create-a-new-smart-campaign}
 
-Smart-Kampagnen sind das wichtigste Tool beim Marketo Engage. Sie können Trigger auf eine Person anwenden und Aktionen durchführen oder Millionen von Personen aggregieren und eine Reihe von Flussschritten ausführen.
+Intelligente Kampagnen sind das wichtigste Tool in Marketo Engage. Sie können Trigger auf eine Person anwenden und Aktionen durchführen oder Millionen von Personen aggregieren und eine Reihe von Flussschritten ausführen.
 
 >[!TIP]
 >

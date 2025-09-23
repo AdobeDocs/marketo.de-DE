@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359469
 description: Anzeigen des E-Mail-Programm-Dashboards - Marketo-Dokumente - Produktdokumentation
-title: Anzeigen des E-Mail-Programm-Dashboards
+title: Anzeigen des Dashboards für E-Mail-Programme
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Anzeigen des E-Mail-Programm-Dashboards {#view-the-email-program-dashboard}
+# Anzeigen des Dashboards für E-Mail-Programme {#view-the-email-program-dashboard}
 
 Sehen Sie sich an, wie Ihr E-Mail-Programm (mit oder ohne A/B-Test) mit diesem Dashboard funktioniert.
 

@@ -1,25 +1,25 @@
 ---
 unique-page-id: 14352406
 description: Erstellen eines Unterteams - Marketo-Dokumente - Produktdokumentation
-title: Erstellen eines Unterteams
+title: Erstellen eines Unter-Teams
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Erstellen eines Unterteams {#create-a-sub-team}
+# Erstellen eines Unter-Teams {#create-a-sub-team}
 
-## Erstellen eines Unterteams {#create-a-sub-team-1}
+## Erstellen eines Unter-Teams {#create-a-sub-team-1}
 
 1. Klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/one-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
 
    ![](assets/two-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Personen zu Ihrem Unterteam hinzufügen {#add-people-to-your-sub-team}
 
-1. Wählen Sie noch [!UICONTROL &#x200B; &quot;]&quot; die Gruppe **[!UICONTROL Alle]** aus.
+1. Wählen Sie noch [!UICONTROL  &quot;]&quot; die Gruppe **[!UICONTROL Alle]** aus.
 
    ![](assets/five-1.png)
 

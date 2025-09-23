@@ -3,14 +3,14 @@ description: Checkliste für die geerbte Instanzdatenbank - Marketo-Dokumente - 
 title: Checkliste für geerbte Instanzdatenbank
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Vererbte Instanz: Datenbank-Checkliste {#inherited-instance-database-checklist}
+# Vererbte Instanz: Checkliste für Datenbank {#inherited-instance-database-checklist}
 
 Erfahren Sie, wie viele Personen, vermarktbare Personen und die wichtigsten Personen-Akquise-Quellen in Ihrem Abonnement vorhanden sind. Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 

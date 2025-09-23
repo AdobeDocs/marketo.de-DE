@@ -4,10 +4,10 @@ title: Hinzufügen von Vibes als LaunchPoint-Service
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 

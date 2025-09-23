@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360052
 description: Angezeigte Web-Seiten, Web-Seiten-Aktivitätsbericht - Marketo-Dokumente - Produktdokumentation
-title: Angezeigte Web-Seiten, Webseitenaktivitätsbericht
+title: Bericht zu angezeigten Web-Seiten und Web-Seiten-Aktivitäten
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Angezeigte Web-Seiten, Webseitenaktivitätsbericht {#web-pages-viewed-web-page-activity-report}
+# Bericht zu angezeigten Web-Seiten und Web-Seiten-Aktivitäten {#web-pages-viewed-web-page-activity-report}
 
 In einem [[!UICONTROL Web-]-Bericht](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) können Sie die spezifischen Seiten sehen, die von den Personen im Bericht angesehen wurden.
 

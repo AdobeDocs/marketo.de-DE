@@ -4,14 +4,14 @@ description: März 2013 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise – März 2013
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Versionshinweise: März 2013 {#release-notes-march}
+# Versionshinweise – März 2013 {#release-notes-march}
 
 Die folgenden Funktionen sind in der -Version vom März enthalten.
 
@@ -35,7 +35,7 @@ Ein Gewinnspiel gibt Ihren Leads die Chance, einen Preis zu gewinnen und ihre Fr
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Zusätzliche [!UICONTROL &#x200B; (Fehlermeldung] Sprachen {#additional-form-error-message-languages}
+## Zusätzliche [!UICONTROL  (Fehlermeldung] Sprachen {#additional-form-error-message-languages}
 
 Mehr als ein Dutzend Sprachen wurden zu den Formularfehlermeldungen hinzugefügt!
 

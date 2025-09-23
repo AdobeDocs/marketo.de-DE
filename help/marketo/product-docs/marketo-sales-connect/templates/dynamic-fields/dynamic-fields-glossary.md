@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352509
 description: Glossar für dynamische Felder - Marketo-Dokumente - Produktdokumentation
-title: Glossar für dynamische Felder
+title: Glossar zu dynamischen Feldern
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Glossar für dynamische Felder {#dynamic-fields-glossary}
+# Glossar zu dynamischen Feldern {#dynamic-fields-glossary}
 
 Beim Erstellen einer Vorlage in [!DNL Sales Connect] empfehlen wir immer die Integration dynamischer Felder mithilfe der Schaltfläche **[!UICONTROL Dynamische MSE-Felder]**.
 

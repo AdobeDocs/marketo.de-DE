@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719344
 description: Erstellen eines einfachen Web-Segments - Marketo-Dokumente - Produktdokumentation
-title: Erstellen eines einfachen Websegments
+title: Erstellen eines einfachen Web-Segments
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 
-# Erstellen eines einfachen Websegments {#create-a-basic-web-segment}
+# Erstellen eines einfachen Web-Segments {#create-a-basic-web-segment}
 
 Erstellen wir ein Basissegment für alle Web-Besucher aus den USA und der Finanzdienstleistungsbranche.
 

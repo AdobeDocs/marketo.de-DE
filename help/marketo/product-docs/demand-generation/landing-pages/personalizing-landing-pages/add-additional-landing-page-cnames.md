@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359798
 description: Hinzufügen zusätzlicher Landingpage-CNAMEs - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen zusätzlicher Landingpage-CNAMEs
+title: Hinzufügen zusätzlicher CNAMEs zu einer Landingpage
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Hinzufügen zusätzlicher Landingpage-CNAMEs {#add-additional-landing-page-cnames}
+# Hinzufügen zusätzlicher CNAMEs zu einer Landingpage {#add-additional-landing-page-cnames}
 
 Sie können CNAMEs für Landingpages hinzufügen, damit verschiedene URLs auf Ihre Marketo-Landingpages verweisen können. Die folgenden Schritte helfen Ihnen bei der Verwaltung mehrerer Domains.
 

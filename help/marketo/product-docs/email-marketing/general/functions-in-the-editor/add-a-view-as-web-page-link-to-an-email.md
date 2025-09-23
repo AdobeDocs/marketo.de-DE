@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900560
 description: Hinzufügen einer Ansicht als Web-Seitenlink zu einer E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen einer Ansicht als Web-Seitenlink zu einer E-Mail
+title: Hinzufügen einer Ansicht als Web-Seiten-Link zu einer E-Mail
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Hinzufügen einer Ansicht als Web-Seitenlink zu einer E-Mail {#add-a-view-as-web-page-link-to-an-email}
+# Hinzufügen einer Ansicht als Web-Seiten-Link zu einer E-Mail {#add-a-view-as-web-page-link-to-an-email}
 
 E-Mails verfügen über eingeschränkte Funktionen (eingeschränktes CSS und keine JavaScript oder Formulare). Verwenden Sie Als Web-Seite anzeigen , um einen Link bereitzustellen, über den Ihre E-Mail in einem Browser angezeigt werden kann. Dadurch wird der Empfänger mithilfe der [!DNL Munchkin] Cookies gesetzt.
 

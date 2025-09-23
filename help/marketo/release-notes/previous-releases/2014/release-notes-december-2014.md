@@ -4,14 +4,14 @@ description: Versionshinweise - Dezember 2014 - Marketo-Dokumentation - Produktd
 title: Versionshinweise - Dezember 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Versionshinweise: Dezember 2014 {#release-notes-december}
+# Versionshinweise – Dezember 2014 {#release-notes-december}
 
 Die folgenden Funktionen sind in der Version vom Dezember 2014 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung sollten Sie unbedingt zurückkommen, um Links zu detaillierten Artikeln für jede Funktion zu finden!
 
@@ -65,7 +65,7 @@ Drei neue Aufrufe für die Lead &amp; Activity REST-API:
 
 ・ Lead zusammenführen
 
-Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
+Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
 
 ## [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719071
 description: Kontoeinstellungen bearbeiten - Marketo-Dokumente - Produktdokumentation
-title: Kontoeinstellungen bearbeiten
+title: Bearbeiten der Kontoeinstellungen
 exl-id: 770841b8-dbaa-4bb6-bcc0-5ea07e8f7b6c
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 12%
 
 ---
 
-# Kontoeinstellungen bearbeiten {#edit-account-settings}
+# Bearbeiten der Kontoeinstellungen {#edit-account-settings}
 
 Möchten Sie die E-Mail-Adresse, den Namen oder die Telefonnummer des Kontos ändern? Weitere Informationen dazu finden Sie unten.
 

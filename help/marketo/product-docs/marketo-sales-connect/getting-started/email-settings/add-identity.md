@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352412
 description: Identität hinzufügen - Marketo-Dokumente - Produktdokumentation
-title: Identität hinzufügen
+title: Hinzufügen einer Identität
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 2%
 
 ---
 
-# Identität hinzufügen {#add-identity}
+# Hinzufügen einer Identität {#add-identity}
 
 Fügen Sie eine Identität hinzu, wenn Sie mehrere E-Mail-Adressen haben, von denen aus gesendet werden soll.
 

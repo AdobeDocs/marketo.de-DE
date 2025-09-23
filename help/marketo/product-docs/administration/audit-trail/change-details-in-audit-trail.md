@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11379928
 description: Änderungsdetails im Audit-Protokoll - Marketo-Dokumente - Produktdokumentation
-title: Details im Audit-Protokoll ändern
+title: Ändern von Details im Audit-Protokoll
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1902'
-ht-degree: 14%
+ht-degree: 15%
 
 ---
 
-# Details im Audit-Protokoll ändern {#change-details-in-audit-trail}
+# Ändern von Details im Audit-Protokoll {#change-details-in-audit-trail}
 
 Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Marketo-Abonnement tut. Im Folgenden finden Sie die Details.
 
@@ -39,7 +39,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In Arbeitsbereich geklonter „Arbeitsbereichsname“ <br>Speicherort „Kampagnenordner“ oder „Interaktionsprogramm“ <br>Klonierter Programmname „neuer Name“</td>
   </tr>
   <tr>
@@ -148,7 +148,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In „Design Studio“ in Ordner „Ordnername“ geklont <br>Name des geklonten Assets „Name“<br>oder<br>geklont in „Marketing-Aktivitäten“ in Programm „Programmname“<br>Name des geklonten Assets“</td>
   </tr>
   <tr>
@@ -176,7 +176,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td colspan="1">Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In Arbeitsbereich geklonter „Arbeitsbereichsname“ <br>Speicherort „Kampagnenordner oder Interaktionsprogramm“ <br>Klonierter Programmname „neuer Name“</td>
   </tr>
   <tr>
@@ -257,7 +257,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In „Ordnername“ geklont <br> Name des geklonten Assets „Name“</td>
   </tr>
   <tr>
@@ -278,7 +278,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Neuer Name „neuer Name“, vorheriger Name „vorheriger Name“</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In Arbeitsbereich geklonter „Arbeitsbereichsname“ <br>Speicherort „Kampagnenordner oder Interaktionsprogramm“ <br>Klonierter Programmname „neuer Name“</td>
   </tr>
   <tr>
@@ -375,7 +375,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Nicht zutreffend</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In Arbeitsbereich geklonter „Arbeitsbereichsname“ <br>Speicherort „Kampagnenordner“ oder „Interaktionsprogramm“ <br>Klonierter Programmname „neuer Name“</td>
   </tr>
   <tr>
@@ -481,7 +481,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Bearbeitete Felddetails</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In „Design Studio“ in Ordner „Ordnername“ geklont <br>Name des geklonten Assets „Name“<br>oder<br>geklont in „Marketing-Aktivitäten“ in Programm „Programmname“<br>Name des geklonten Assets“</td>
   </tr>
   <tr>
@@ -519,7 +519,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Rich-Text hinzugefügt, Rich-Text entfernt, Rich-Text bearbeitet</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In „Design Studio“ in Ordner „Ordnername“ geklont<br>geklonter Asset-Name „Name“<br>geklonte Asset-URL "www.url.com"<br>oder<br>geklont in „Marketing-Aktivitäten“ in Programm „Programmname“ <br>geklonter Asset-Name „Name“<br>geklonte Asset-URL "www.url.com"</td>
   </tr>
   <tr>
@@ -539,7 +539,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Nicht zutreffend</td>
   </tr>
   <tr>
-   <td rowspan="8">Landing Page-Vorlage</td>
+   <td rowspan="8">Landingpage-Vorlage</td>
    <td>Erstellen</td>
    <td><p>Leer<br>oder<br>geklont aus „Asset-Name“</p></td>
   </tr>
@@ -556,7 +556,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Neue Beschreibung „Neue Beschreibung“ Vorherige Beschreibung „Vorherige Beschreibung“</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In „Ordnername“ geklont <br>Name des geklonten Assets „Name“</td>
   </tr>
   <tr>
@@ -581,7 +581,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Nicht zutreffend</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In „Personendatenbank“ in Ordner „Ordnername“ geklont <br>Name des geklonten Assets "<br>" oder <br>geklont in „Marketing-Aktivitäten“ in Programm „Programmname“<br>Name des geklonten Assets“</td>
   </tr>
   <tr>
@@ -626,7 +626,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Nicht zutreffend</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In „Programme“ geklont in Programm „Programmname“ <br>Name des geklonten Assets "<br>„oder<br>geklont in „Ordner“ in Ordner „Ordnername“<br>Name des geklonten Assets“</td>
   </tr>
   <tr>
@@ -642,7 +642,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Zeigt den aktuellen Status einschließlich der Namen und Werte der einzelnen Flussschritte an</td>
   </tr>
   <tr>
-   <td rowspan="7">Smart List</td>
+   <td rowspan="7">Intelligente Liste</td>
    <td>Erstellen</td>
    <td>Aus „Smart List Name“ geklont</td>
   </tr>
@@ -663,7 +663,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Nicht zutreffend</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In „Personendatenbank“ in Ordner „Ordnername“ geklont <br>Name des geklonten Assets "<br>" oder "<br>" in Programm „Programmname“ geklont <br>Name des geklonten Assets“</td>
   </tr>
   <tr>
@@ -700,7 +700,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>Neue Beschreibung „neue Beschreibung“ Vorherige „vorherige Beschreibung“</td>
   </tr>
   <tr>
-   <td>Klonen</td>
+   <td>Klon</td>
    <td>In „Ordnername“ geklont <br>Klonter Snippet-Name „Name“</td>
   </tr>
   <tr>
@@ -770,7 +770,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
    <td>SmartList für Anmeldung zum Herunterladen bearbeitet: „true or false“</td>
   </tr>
   <tr>
-   <td rowspan="7">Benutzer<br><br><br><br></td>
+   <td rowspan="7">Benutzende<br><br><br><br></td>
    <td>Erstellen (einladen)</td>
    <td>Eingeladener Benutzer mit: E-Mail-Adresse, Name „Vor- und Nachname“, Zugriff läuft „leer oder mit einem Datum“ ab, API-Benutzer „true oder false“ - <br>zeigt den Schnappschuss der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche an</td>
   </tr>

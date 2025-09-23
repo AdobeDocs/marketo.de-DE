@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360389
 description: Erstellen Sie ein Programm ohne Kostenzeitraum in Revenue Explorer und Analyzer - Marketo-Dokumente - Produktdokumentation
-title: Ein Programm ohne Kostenperiode in Revenue Explorer und Analyzer verfügbar machen
+title: Verfügbarmachung eines Programms ohne Kostenzeitraum in Revenue Explorer und Analyzer
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Ein Programm ohne Kostenperiode in Revenue Explorer und Analyzer verfügbar machen {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# Verfügbarmachung eines Programms ohne Kostenzeitraum in Revenue Explorer und Analyzer {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
 Mit Kosten für den Programmzeitraum können Sie festlegen, „wie viel Geld“ und „wann“ für ein Programm ausgegeben werden soll. Dies wird im Umsatzzyklus-Explorer und in [Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md) angezeigt.
 
@@ -25,7 +25,7 @@ Einige Programme müssen möglicherweise einbezogen werden, auch wenn sie keine 
 >
 >Der Programm-Analyzer erfasst den Programmerfolg nach Kostenzeitraum. Wenn keine Periodenkosten verfügbar sind, wird der Programmerfolg unabhängig vom Analyseverhalten des Programms nicht angezeigt. Wenn das Analytics-Verhalten eingerichtet ist, werden Daten für Opportunity-Metriken angezeigt (Pipeline-Opportunities, gewonnener Umsatz usw.).
 
-1. Klicken Sie [!UICONTROL &#x200B; Abschnitt &#x200B;]Admin“ auf **[!UICONTROL Tags]**.
+1. Klicken Sie [!UICONTROL  Abschnitt ]Admin“ auf **[!UICONTROL Tags]**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 

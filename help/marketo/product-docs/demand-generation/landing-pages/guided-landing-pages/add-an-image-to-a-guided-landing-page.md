@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515027
 description: Hinzufügen eines Bildes zu einer geführten Landingpage - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen eines Bildes zu einer geführten Landingpage
+title: Hinzufügen eines Bilds zu einer geführten Landingpage
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Hinzufügen eines Bildes zu einer geführten Landingpage {#add-an-image-to-a-guided-landing-page}
+# Hinzufügen eines Bilds zu einer geführten Landingpage {#add-an-image-to-a-guided-landing-page}
 
 Im Gegensatz zu den Freiform-Landingpages verfügen geführte Landingpages über vordefinierte, gesperrte Bereiche, in denen Sie Bilder hinzufügen.
 

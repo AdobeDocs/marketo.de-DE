@@ -4,7 +4,7 @@ description: Set [!DNL Google AdWords] Conversions im Umsatzmodell - Marketo-Dok
 title: Set [!DNL Google AdWords] Conversions im Umsatzmodell
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Verknüpfen Sie Ihr [!DNL Google AdWords] mit Marketo, um Offline-Konversionsdat
 >
 >Hierbei handelt es sich um eine Push-Integration von Marketo in [!DNL Google AdWords]. Konversionsdaten werden _nur_ in Ihrem [!DNL Google AdWords]-Portal angezeigt, _nicht in der Marketo-_.
 
-Google Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en). Ordnen Sie [!DNL AdWords] Offline-Konversionen einem oder mehreren Phasen in einem Umsatzmodell zu. Es gibt drei Möglichkeiten für die Zuordnung:
+Google Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [](https://support.google.com/adwords/answer/2998031?hl=en). Ordnen Sie [!DNL AdWords] Offline-Konversionen einem oder mehreren Phasen in einem Umsatzmodell zu. Es gibt drei Möglichkeiten für die Zuordnung:
 
 * [!DNL AdWords]
 * Bühnenaktion

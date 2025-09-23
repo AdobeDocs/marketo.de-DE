@@ -3,7 +3,7 @@ description: Salesforce-Diagnose - Marketo-Dokumente - Produktdokumentation
 title: Salesforce-Diagnose
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1342'
 ht-degree: 1%
@@ -20,7 +20,7 @@ Ein Teil unserer [!DNL Salesforce]-Integration umfasst eine [!DNL Salesforce] Di
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Integrationen] auf **[!UICONTROL Diagnose]**.
+1. Klicken [!UICONTROL  unter „Integrationen] auf **[!UICONTROL Diagnose]**.
 
    ![](assets/salesforce-diagnostics-2.png)
 
@@ -157,8 +157,8 @@ auf die Zulassungsliste setzen **Schritte zur Fehlerbehebung:** Ihr [!DNL Salesf
 **Kategorie:** intermittierend
 **message:**
 1 - ConcurrentPerOrgLongTxn-Limit überschritten
-&#x200B;2. Gesamtzahl der Anfragen überschritten
-&#x200B;3. ConcurrentRequest
+2. Gesamtzahl der Anfragen überschritten
+3. ConcurrentRequest
 **Was passiert:**
 1 - Das Limit für gleichzeitige Anfragen wurde überschritten, wahrscheinlich aufgrund eines ineffizienten Trigger-Codes.
 2 - Zu viele Integrationen führen dazu, dass die Organisation das 24-Stunden-Rollierfenster hinter sich lässt.

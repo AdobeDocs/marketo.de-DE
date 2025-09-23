@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951884
 description: Verstehen der Opportunity-Analyse im Umsatz-Explorer - Marketo-Dokumente - Produktdokumentation
-title: Verstehen der Opportunity-Analyse im Umsatz-Explorer
+title: Grundlegendes zur Opportunity-Analyse im Revenue Explorer
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 10%
+ht-degree: 12%
 
 ---
 
-# Verstehen der Opportunity-Analyse im Umsatz-Explorer {#understanding-opportunity-analysis-in-revenue-explorer}
+# Grundlegendes zur Opportunity-Analyse im Revenue Explorer {#understanding-opportunity-analysis-in-revenue-explorer}
 
 Mit der Opportunity-Analyse im Umsatz-Explorer können Sie Ihre Opportunities eingehender untersuchen. Schneiden Sie die Daten basierend auf beliebigen Lead-/Unternehmensattributen wie Lead-Quelle, Branche oder Geografie aus. Analyse der Opportunity-Erstellung und des Opportunity-Abschlusses basierend auf Name, Stadium oder Wahrscheinlichkeit. Erfahren Sie mehr über Marketing-Beiträge zur Pipeline.
 

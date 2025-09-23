@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359502
 description: A/B-Tests in „ganzen E-Mails“ verwenden - Marketo-Dokumente - Produktdokumentation
-title: A/B-Tests für ganze E-Mails verwenden
+title: Verwenden von A/B-Tests für ganze E-Mails
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# A/B-Tests für ganze E-Mails verwenden {#use-whole-email-a-b-testing}
+# Verwenden von A/B-Tests für ganze E-Mails {#use-whole-email-a-b-testing}
 
 Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Ein großartiger Test ist der **Gesamte E-Mail**-Test. So richten Sie es ein.
 
@@ -45,11 +45,11 @@ Sie können Ihre E-Mails einfach mit A/B-Tests überprüfen. Ein großartiger Te
 
 1. Wählen Sie Ihre zweite E-Mail aus.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Klicken Sie auf **[!UICONTROL Hinzufügen]**, um die zweite E-Mail anzuwenden. Ziehen Sie den Schieberegler, um den Prozentsatz der Zielgruppe auszuwählen, den Sie Ihren A/B-Test erhalten möchten, und klicken Sie auf **[!UICONTROL Weiter]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

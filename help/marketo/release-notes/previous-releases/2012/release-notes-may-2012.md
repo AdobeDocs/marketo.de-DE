@@ -4,14 +4,14 @@ description: Mai 2012 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2012 - Versionshinweise
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '641'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Mai 2012 - Versionshinweise {#release-notes-may}
+# Versionshinweise – Mai 2012 {#release-notes-may}
 
 ## Umgestaltung des E-Mail-Leistungsberichts {#email-performance-report-redesign}
 

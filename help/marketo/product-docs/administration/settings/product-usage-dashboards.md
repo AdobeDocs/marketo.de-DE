@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Marketo Engage-Produktnutzungs-Dashboards bieten die Möglichkeit, die Produkt- und Plattformnutzung anhand bestimmter Beschränkungen oder Rückstände des Datendurchsatzes, der Nutzung im Hinblick auf das tägliche Kontingent und der Schlüsselmetriken in Ihrem Abonnement anzuzeigen. Die Infrastruktur wird zugewiesen, um Leistungsgrenzen bereitzustellen, die für Produktebenen für bestimmte Attribute definiert sind. Einige dieser Beschränkungen, z. B. die API-Nutzung, sind vertraglich festgelegte Beschränkungen, die als Teil Ihres Pakets oder Ihrer Produktebene erworben werden.
 
-## Zugriff {#how-to-access}
+## So greifen Sie darauf zu {#how-to-access}
 
 1. Klicken Sie in Marketo Engage auf **Admin**.
 

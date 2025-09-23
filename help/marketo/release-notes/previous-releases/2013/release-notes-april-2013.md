@@ -4,14 +4,14 @@ description: Versionshinweise - April 2013 - Marketo-Dokumentation - Produktdoku
 title: April 2013 - Versionshinweise
 exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Versionshinweise: April 2013 {#release-notes-april}
+# Versionshinweise – April 2013 {#release-notes-april}
 
 Die folgenden Funktionen sind in der Version vom April enthalten.
 

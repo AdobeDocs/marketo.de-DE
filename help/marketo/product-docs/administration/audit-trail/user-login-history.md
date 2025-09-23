@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377958
 description: Verlauf der Benutzeranmeldung - Marketo-Dokumente - Produktdokumentation
-title: Verlauf der Benutzeranmeldung
+title: Verlauf der Benutzeranmeldungen
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Verlauf der Benutzeranmeldung {#user-login-history}
+# Verlauf der Benutzeranmeldungen {#user-login-history}
 
 Der Anmeldeverlauf des Benutzers hilft Ihnen bei der Aufrechterhaltung der Rechenschaftspflicht und Sicherheit, indem er Ihnen genau zeigt, wer sich bei Ihrem Abonnement angemeldet hat, einschließlich fehlgeschlagener Anmeldeversuche.
 
@@ -23,7 +23,7 @@ Der Anmeldeverlauf des Benutzers identifiziert Personen, die sich wie folgt anme
 
 * Anmeldezeit und -datum
 * Name und E-Mail-Adresse des Benutzers
-* Role
+* Rolle
 * Arbeitsbereich
 * IP-Adresse
 

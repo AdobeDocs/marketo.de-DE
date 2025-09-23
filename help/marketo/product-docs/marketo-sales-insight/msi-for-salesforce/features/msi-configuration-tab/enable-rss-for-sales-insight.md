@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377005
 description: RSS für Vertrieb aktivieren Insight - Marketo Docs - Produktdokumentation
-title: RSS für Sales Insight aktivieren
+title: Aktivieren von RSS für Sales Insight
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ Wenn Marketo-Benutzer ihren Lead-Feed nicht nur in [!DNL Salesforce], sondern au
 
    ![](assets/rss-settings-tab.png)
 
-1. Aktivieren Sie [!UICONTROL &#x200B; Dialogfeld „Einstellungen bearbeiten] das Kontrollkästchen **[!UICONTROL RSS-Feed]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Aktivieren Sie [!UICONTROL  Dialogfeld „Einstellungen bearbeiten] das Kontrollkästchen **[!UICONTROL RSS-Feed]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 

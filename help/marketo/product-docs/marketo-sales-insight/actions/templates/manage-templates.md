@@ -1,16 +1,16 @@
 ---
 description: Vorlagen verwalten - Marketo-Dokumente - Produktdokumentation
-title: Vorlagen verwalten
+title: Verwalten von Vorlagen
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Vorlagen verwalten {#manage-templates}
+# Verwalten von Vorlagen {#manage-templates}
 
 ## Erstellen einer Vorlage {#create-a-new-template}
 
@@ -42,7 +42,7 @@ Der Bereich Vorlagendetails enthält mehrere Registerkarten.
 
 <table>
  <tr>
-  <td><strong>[!UICONTROL -Vorlage]</strong></td>
+  <td><strong>[!UICONTROL-Vorlage]</strong></td>
   <td>Prüfen und bearbeiten, Kriterien einrichten, um die Vorlage zu einer empfohlenen Vorlage zu machen, Anmerkungen hinzufügen</td>
  </tr>
  <tr>
@@ -103,7 +103,7 @@ Sie können Vorlagen aus jeder Kategorie zu Ihrer Favoritenliste hinzufügen. Da
 
    ![](assets/manage-templates-12.png)
 
-## Vorlagenansicht anpassen {#customize-template-view}
+## Anpassen der Vorlagenansicht {#customize-template-view}
 
 Aus der **[!UICONTROL Ansicht]** können Sie Folgendes auswählen: Alle Vorlagen, Ihre Vorlagen, Favoriten-Vorlagen, freigegebene Vorlagen, nicht freigegebene Vorlagen oder nicht verwendete Vorlagen (Vorlagen, die in den letzten 90 Tagen nicht verwendet wurden).
 

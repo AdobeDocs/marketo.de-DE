@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2953173
 description: Verwenden von Listenmitgliedern in einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
-title: Verwenden von Listenmitgliedern in einer Smart-Liste
+title: Verwenden von Listenmitgliedern in einer intelligenten Liste
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Verwenden von Listenmitgliedern in einer Smart-Liste {#use-members-of-list-in-a-smart-list}
+# Verwenden von Listenmitgliedern in einer intelligenten Liste {#use-members-of-list-in-a-smart-list}
 
 >[!TIP]
 >
 >Sie können Personen mit dem Schritt [Importieren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) oder dem Schritt [Zu Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"} zu einer Liste hinzufügen.
 
-Mit diesem Filter können Sie Mitglieder aus einer anderen Liste abrufen, indem Sie in Ihren Regeln für Smart-Listen darauf verweisen. So geht&#39;s.
+Mit diesem Filter können Sie Mitglieder aus einer anderen Liste abrufen, indem Sie in Ihren Regeln für Smart-Listen darauf verweisen. Und so geht das.
 
 1. Wählen Sie eine Smart-Liste aus und klicken Sie auf **[!UICONTROL Registerkarte]** Smart-Liste“.
 

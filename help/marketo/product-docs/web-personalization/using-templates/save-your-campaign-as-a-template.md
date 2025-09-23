@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949170
 description: Speichern Ihrer Kampagne als Vorlage - Marketo-Dokumente - Produktdokumentation
-title: Kampagne als Vorlage speichern
+title: Speichern Ihrer Kampagne als Vorlage
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# Kampagne als Vorlage speichern {#save-your-campaign-as-a-template}
+# Speichern Ihrer Kampagne als Vorlage {#save-your-campaign-as-a-template}
 
 Haben Sie schon einmal Zeit mit der Erstellung der perfekten Web-Kampagne verbracht? Sie können sie jetzt als Vorlage speichern, um sie später einfach wiederzuverwenden.
 

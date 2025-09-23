@@ -4,14 +4,14 @@ description: Versionshinweise - Oktober 2014 - Marketo-Dokumentation - Produktdo
 title: Oktober 2014 - Versionshinweise
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Versionshinweise: Oktober 2014 {#release-notes-october}
+# Versionshinweise – Oktober 2014 {#release-notes-october}
 
 Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen. Die Dokumentation wird zum Zeitpunkt der Veröffentlichung bereitgestellt.
 
@@ -30,7 +30,7 @@ Verwenden Sie die -API, um neue Aktivitäten oder Änderungen an Leads abzurufen
 * Aktivitätstypen abrufen
 * Paging-Token abrufen
 
-Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api) verfügbar sein.
+Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api) verfügbar sein.
 
 ## MSI - Marketo-E-Mail senden für [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Verwenden Sie einen neuen Aufruf, der den Verlauf der letzten Besuche eines Besu
 * Interessierte Produkte
 * Welche RTP-Kampagnen sie gesehen haben
 
-Ausführliche Informationen finden Sie [&#128279;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation.
+Ausführliche Informationen finden Sie [ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation.

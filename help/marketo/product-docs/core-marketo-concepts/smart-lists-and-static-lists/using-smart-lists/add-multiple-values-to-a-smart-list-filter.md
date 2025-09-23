@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360496
 description: Hinzufügen mehrerer Werte zu einem Smart-Listenfilter - Marketo-Dokumente - Produktdokumentation
-title: Hinzufügen mehrerer Werte zu einem Smart-Listen-Filter
+title: Hinzufügen mehrerer Werte zu einem Filter für intelligente Listen
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Hinzufügen mehrerer Werte zu einem Smart-Listen-Filter {#add-multiple-values-to-a-smart-list-filter}
+# Hinzufügen mehrerer Werte zu einem Filter für intelligente Listen {#add-multiple-values-to-a-smart-list-filter}
 
 >[!PREREQUISITES]
 >

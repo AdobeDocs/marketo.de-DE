@@ -4,7 +4,7 @@ description: E-Mail-Berichte - Marketo-Dokumente - Produktdokumentation
 title: E-Mail-Berichte
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # E-Mail-Berichte {#email-reports}
 
-Informationen zum Anpassen des automatisierten E-Mail-Berichts, den die Benutzerin bzw. der Benutzer erhält[[!UICONTROL &#x200B; finden Sie im Abschnitt &#x200B;]Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Informationen zum Anpassen des automatisierten E-Mail-Berichts, den die Benutzerin bzw. der Benutzer erhält[[!UICONTROL  finden Sie im Abschnitt ]Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Web Personalization Email Reports {#web-personalization-email-reports}
 

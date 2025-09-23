@@ -1,16 +1,16 @@
 ---
 description: Klassisches Symbolglossar - Marketo-Dokumente - Produktdokumentation
-title: Glossar des klassischen Symbols
+title: Glossar der Classic-Symbole
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 34%
+ht-degree: 35%
 
 ---
 
-# Glossar des klassischen Symbols {#classic-icon-glossary}
+# Glossar der Classic-Symbole {#classic-icon-glossary}
 
 Nachfolgend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Classic. Das aktuelle Symbolglossar finden Sie [hier](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
 
@@ -371,7 +371,7 @@ Nachfolgend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr>
    <td><img src="assets/image2015-1-9-14-3a46-3a39.png">
     </td>
-   <td>Klonen</td>
+   <td>Klon</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a50-3a30.png">
@@ -406,7 +406,7 @@ Nachfolgend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr>
    <td><img src="assets/image2015-1-9-14-3a57-3a27.png">
     </td>
-   <td>Klonen</td>
+   <td>Klon</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a58-3a0.png">
@@ -436,7 +436,7 @@ Nachfolgend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr>
    <td><img src="assets/image2015-1-9-15-3a18-3a20.png">
     </td>
-   <td>Klonen</td>
+   <td>Klon</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-15-3a19-3a46.png">
@@ -466,7 +466,7 @@ Nachfolgend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr>
    <td><img src="assets/image2015-1-14-13-3a3-3a30.png">
     </td>
-   <td>Klonen</td>
+   <td>Klon</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a3-3a42.png">
@@ -507,7 +507,7 @@ Nachfolgend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr>
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png">
     </td>
-   <td>Landingpage. Aktionen</td>
+   <td>Landingpage. Landingpage-Aktionen</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-10-3a55-3a52.png">
@@ -688,7 +688,7 @@ Nachfolgend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr>
    <td><img src="assets/image2015-1-9-15-3a46-3a10.png">
     </td>
-   <td>Interessante Momente - Überblick</td>
+   <td>Interessante Momente – Überblick</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-13-3a35-3a23.png">
@@ -831,7 +831,7 @@ Nachfolgend finden Sie die alten Symbole der Benutzeroberfläche von Marketo Cla
   <tr>
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png">
     </td>
-   <td>Smart List</td>
+   <td>Intelligente Liste</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-16-3a27-3a35.png">

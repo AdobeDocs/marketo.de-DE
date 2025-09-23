@@ -3,33 +3,33 @@ description: Januar 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – Januar 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 10%
+ht-degree: 23%
 
 ---
 
-# Versionshinweise: Januar 2023 {#release-notes-jan-23}
+# Versionshinweise – Januar 2023 {#release-notes-jan-23}
 
-Im Folgenden finden Sie alle Funktionen, die in der Version vom Januar 2023 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom Januar 2023 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
 >Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
-## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 20. **2023 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 20. Januar 2023** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
 
-### Marketo Engage Modern UX {#modern-ux}
+### Moderne Benutzeroberfläche von Marketo Engage {#modern-ux}
 
 </br>
 
 * **Aktualisierter Screens in Modern UX**: In Modern UX (früher als „Erlebnis der nächsten Generation“ bezeichnet) stellen wir zusätzliche, aktualisierte Bildschirme bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, die über einen Umschalter zugänglich sind:
 
-   * Snippet-Listenansicht
-   * Vorlagenliste für Landingpages
+   * Listenansicht für Ausschnitte
+   * Liste der Landingpage-Vorlagen
 
   <table>
   <tr>
@@ -37,8 +37,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Kippschalter</a></td>
+   <td>Versandt</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Umschalter</a></td>
   </tr>
   </tbody>
 
@@ -52,7 +52,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -70,7 +70,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -88,8 +88,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=de">Marketo Measure Ultimate</a></td>
+   <td>Versandt</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +106,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informationen zur Massenexport-API</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -142,7 +142,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
@@ -156,7 +156,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -184,7 +184,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Meetings</a></td>
   </tr>
   </tbody>

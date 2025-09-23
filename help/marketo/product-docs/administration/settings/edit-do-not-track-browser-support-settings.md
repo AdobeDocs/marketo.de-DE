@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6095047
 description: Bearbeiten der Browser-Support-Einstellungen „Nicht verfolgen“ - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten der Browser-Support-Einstellungen „Do Not Track“
+title: Bearbeiten der Browser-Support-Einstellungen „Nicht nachverfolgen“
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Bearbeiten der Browser-Support-Einstellungen „Do Not Track“ {#edit-do-not-track-browser-support-settings}
+# Bearbeiten der Browser-Support-Einstellungen „Nicht nachverfolgen“ {#edit-do-not-track-browser-support-settings}
 
 „Do Not Tracking“ ist eine Browser-Anfrage, die in Systemen wie Marketo nicht verfolgt werden soll. Sie können diese Anfrage mit den folgenden Schritten erfüllen.
 

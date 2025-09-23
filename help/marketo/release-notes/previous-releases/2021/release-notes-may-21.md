@@ -3,14 +3,14 @@ description: Mai 2021 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2021 - Versionshinweise
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1440'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Mai 2021 - Versionshinweise {#release-notes-may-21}
+# Versionshinweise – Mai 2021 {#release-notes-may-21}
 
 Die folgenden Funktionen sind in der Version vom Mai 2021 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen.
 

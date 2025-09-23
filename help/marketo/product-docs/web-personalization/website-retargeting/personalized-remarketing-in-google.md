@@ -4,10 +4,10 @@ description: Personalisiertes Remarketing in Google - Marketo-Dokumente - Produk
 title: Personalisiertes Remarketing in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -34,7 +34,7 @@ Personalisiertes Remarketing ermöglicht es Ihnen, mit Ihren Benutzenden erneut 
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Klicken Sie in Audience Builder auf **[!UICONTROL Sequenzen]** und **[!UICONTROL Suchen der RTP-Daten]** unter [!UICONTROL Benutzerdefinierte Dimensionen], [!UICONTROL UICONTROL [ !]Benutzerdefinierte -Variablen], [!UICONTROL Ereignisse].
+1. Klicken Sie in Audience Builder auf **[!UICONTROL Sequenzen]** und **[!UICONTROL Suchen der RTP-Daten]** unter [!UICONTROL Benutzerdefinierte Dimensionen], [!UICONTROL [!]Benutzerdefinierte UICONTROL-Variablen], [!UICONTROL Ereignisse].
 
 >[!TIP]
 >

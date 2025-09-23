@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147352
 description: Senden einer Beispiel-E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Beispiel-E-Mail senden
+title: Senden einer Beispiel-E-Mail
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Beispiel-E-Mail senden {#send-a-sample-email}
+# Senden einer Beispiel-E-Mail {#send-a-sample-email}
 
 Es ist schnell und einfach, Beispiele einer E-Mail zu senden. Informationen zum Senden einer E-Mail mit dynamischem Inhalt finden Sie unter [Vorschau einer E-Mail mit dynamischem Inhalt](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
@@ -19,7 +19,7 @@ Es ist schnell und einfach, Beispiele einer E-Mail zu senden. Informationen zum 
 >
 >Sie müssen über die Berechtigung **Zugriff auf Datenbank - Einzelflussaktionen ausführen** verfügen, um Beispiel-E-Mails zu senden.
 
-## Beispiel-E-Mail senden {#send-a-sample-email-1}
+## Senden einer Beispiel-E-Mail {#send-a-sample-email-1}
 
 1. Suchen Sie Ihre E-Mail und wählen Sie sie aus. Klicken Sie auf **[!UICONTROL E-Mail]** Aktionen) und wählen Sie **[!UICONTROL Beispiel senden]**.
    ![](assets/one-281-29.jpg)
@@ -56,7 +56,7 @@ Es ist schnell und einfach, Beispiele einer E-Mail zu senden. Informationen zum 
 
    >[!NOTE]
    >
-   >Das Feld Trigger gilt nur für Benutzer, die E-[-Skripte ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting).
+   >Das Feld Trigger gilt nur für Benutzer, die E-[-Skripte ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Senden einer Beispiel-E-Mail basierend auf einem Segment {#send-a-sample-email-based-on-a-segment}
 

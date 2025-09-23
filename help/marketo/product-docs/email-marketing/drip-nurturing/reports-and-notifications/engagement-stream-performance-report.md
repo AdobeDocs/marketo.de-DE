@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359955
 description: Interaktions-Stream-Leistungsbericht - Marketo-Dokumente - Produktdokumentation
-title: Interaktionsverlauf - Leistungsbericht
+title: Leistungsbericht für Interaktionsströme
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Interaktionsverlauf - Leistungsbericht {#engagement-stream-performance-report}
+# Leistungsbericht für Interaktionsströme {#engagement-stream-performance-report}
 
 Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den Bericht zur Interaktions-Stream-Leistung.
 

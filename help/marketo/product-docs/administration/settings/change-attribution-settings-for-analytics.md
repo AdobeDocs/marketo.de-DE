@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360217
 description: Attributionseinstellungen für Analytics ändern - Marketo-Dokumente - Produktdokumentation
-title: Attributionseinstellungen für Analytics ändern
+title: Ändern der Attributionseinstellungen für Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Attributionseinstellungen für Analytics ändern {#change-attribution-settings-for-analytics}
+# Ändern der Attributionseinstellungen für Analytics {#change-attribution-settings-for-analytics}
 
 Sie können die Art und Weise ändern, wie Marketo Kontakte mit Opportunities für Erstkontakt- und Mehrfachkontakt-Attribution, Lead-Konversionsmetriken und der Marketing-beeinflussten Opportunity-Markierung verknüpft.
 

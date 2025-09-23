@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147344
 description: Glossar zu System-Token - Marketo-Dokumente - Produktdokumentation
-title: Glossar zu System-Tokens
+title: Glossar zu System-Token
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 
-# Glossar zu System-Tokens {#system-tokens-glossary}
+# Glossar zu System-Token {#system-tokens-glossary}
 
 Zusätzlich zu Personen-Token können Sie einige wirklich coole System-Token verwenden. Hier sind sie.
 
@@ -32,7 +32,7 @@ Das `{{system.date}}`-Token rendert das aktuelle Datum zur Laufzeit wie folgt: *
 
 ## system.time {#system-time}
 
-Das `{{system.time}}`-Token rendert die aktuelle Zeit zur Laufzeit wie folgt: **04:34 PM (GMT -0700)**
+Das `{{system.time}}`-Token rendert die aktuelle Uhrzeit zur Laufzeit wie folgt: **04:34 PM (GMT -0700)**
 
 **Funktioniert in:**
 

@@ -1,16 +1,16 @@
 ---
 description: Konversationsflussübersicht - Marketo-Dokumente - Produktdokumentation
-title: Konversationsfluss - Übersicht
+title: Konversationsfluss – Übersicht
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Konversationsfluss - Übersicht {#conversational-flow-overview}
+# Konversationsfluss – Übersicht {#conversational-flow-overview}
 
 Konversationsfluss entwerfen und ihn für jeden Besucher auf der Grundlage einer bestimmten Aktion (z. B. Klicken auf eine call-to-action-Schaltfläche, beim Laden der Seite, auf der Seite verbrachte Zeit usw.) Trigger.
 
@@ -82,7 +82,7 @@ Passen Sie in der unteren Hälfte der Registerkarte „Einstellungen“ den Konv
 
 >[!TIP]
 >
->Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=de){target="_blank"} in Aktion!
+>Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in Aktion!
 
 >[!MORELIKETHIS]
 >

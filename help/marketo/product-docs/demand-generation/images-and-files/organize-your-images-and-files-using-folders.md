@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359880
 description: Organisieren von Bildern und Dateien mithilfe von Ordnern - Marketo-Dokumente - Produktdokumentation
-title: Organisieren von Bildern und Dateien mithilfe von Ordnern
+title: Anordnen von Bildern und Dateien mithilfe von Ordnern
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Organisieren von Bildern und Dateien mithilfe von Ordnern {#organize-your-images-and-files-using-folders}
+# Anordnen von Bildern und Dateien mithilfe von Ordnern {#organize-your-images-and-files-using-folders}
 
 Durch das Erstellen von Ordnern können Sie Bilder und Dateien verschieben, die gewünschten Bilder anzeigen und direkt in einen bestimmten Ordner hochladen.
 

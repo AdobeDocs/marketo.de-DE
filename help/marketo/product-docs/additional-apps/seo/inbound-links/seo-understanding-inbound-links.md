@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949226
 description: SEO - Grundlegendes zu eingehenden Links - Marketo-Dokumente - Produktdokumentation
-title: SEO - Grundlegendes zu eingehenden Links
+title: SEO – Grundlegendes zu eingehenden Links
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

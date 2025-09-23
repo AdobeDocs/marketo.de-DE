@@ -3,7 +3,7 @@ description: Adobe Marketo Engage - Marketo-Dokumente - Produktdokumentation
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 2%
@@ -12,15 +12,15 @@ ht-degree: 2%
 
 # Adobe Marketo Engage {#adobe-marketo-engage}
 
-## Anschluss von Dynamic Chat {#connecting-dynamic-chat}
+## Verbinden von Dynamic Chat {#connecting-dynamic-chat}
 
-Nachdem Sie die [Ersteinrichtung“ abgeschlossen haben](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"} ist es an der Zeit, die einmalige Synchronisierungs-Dynamic Chat mit Ihrem Adobe Marketo Engage-Abonnement durchzuführen.
+Nachdem Sie die [Ersteinrichtung“ abgeschlossen haben](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"} ist es an der Zeit, die einmalige Synchronisierung durchzuführen, um Dynamic Chat mit Ihrem Adobe Marketo Engage-Abonnement zu verbinden.
 
 >[!NOTE]
 >
->Dynamic Chat unterstützt das Synchronisieren von [nativen ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} von Marketo sowie benutzerdefinierten Personenfeldern und Unternehmensfeldern.
+>Dynamic Chat unterstützt die Synchronisierung von [nativen ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} benutzerdefinierten Personenfeldern und Unternehmensfeldern in Marketo.
 
-1. Klicken Sie in My Marketo auf die Kachel **[!UICONTROL Dynamic Chat]**.
+1. Klicken Sie in „Mein Marketo&quot; auf die Kachel **[!UICONTROL Dynamic Chat]** .
 
    ![](assets/adobe-marketo-engage-1.png)
 
@@ -28,7 +28,7 @@ Nachdem Sie die [Ersteinrichtung“ abgeschlossen haben](/help/marketo/product-d
    >
    >Wenn die Kachel nicht angezeigt wird, wenden Sie sich an Ihren Marketo-Administrator.
 
-1. Wenn Sie bereits mit einer Adobe ID auf eine Anwendung zugegriffen haben, gelangen Sie direkt zum Dynamic Chat. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Wenn Sie zuvor bereits auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zu Dynamic Chat. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Um Ihre Marketo-Instanz zu verbinden, wählen Sie **[!UICONTROL Integrationen]** aus.
 
@@ -38,7 +38,7 @@ Nachdem Sie die [Ersteinrichtung“ abgeschlossen haben](/help/marketo/product-d
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. Wählen Sie bis zu 50 Attribute (Standard- oder benutzerdefinierte Felder) aus Ihrer Marketo-Instanz aus, um sie zur Verwendung beim Audience-Targeting, bei der Datenzuordnung und bei der Personalisierung mit Dynamic Chat zu synchronisieren. Klicken Sie abschließend **[!UICONTROL Weiter]**.
+1. Wählen Sie bis zu 50 Attribute (Standard- oder benutzerdefinierte Felder) aus Ihrer Marketo-Instanz aus, um sie zur Verwendung bei Zielgruppen-Targeting, Datenzuordnung und Personalisierung mit Dynamic Chat zu synchronisieren. Klicken Sie abschließend **[!UICONTROL Weiter]**.
 
    ![](assets/adobe-marketo-engage-4.png)
 

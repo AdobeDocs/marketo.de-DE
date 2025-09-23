@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360014
 description: Personen-Leistungsbericht - Marketo-Dokumente - Produktdokumentation
-title: People Performance Report
+title: Personenleistungsbericht
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# People Performance Report {#people-performance-report}
+# Personenleistungsbericht {#people-performance-report}
 
 Verwenden Sie einen [!UICONTROL People Performance]-Bericht, um das Datenbankwachstum im Zeitverlauf zu messen. Sie können sehen, wie viele Personen Sie wann hinzugefügt haben. Erfahren Sie mehr über die Mitarbeiter und bewerten Sie Ihre Programme. Gruppieren Sie die Ergebnisse nach beliebigen Personen- oder Firmenattributen oder nach [Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 

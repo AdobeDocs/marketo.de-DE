@@ -1,16 +1,16 @@
 ---
 description: Synchronisieren von Meldungen zu Aufrufen und Anrufen - Marketo-Dokumente - Produktdokumentation
-title: Nachrichten zu Aufruf- und Aufrufschlüsseln synchronisieren
+title: Synchronisieren von Nachrichten zu Aufrufen und Aufrufschlüsseln
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '477'
-ht-degree: 10%
+ht-degree: 13%
 
 ---
 
-# Nachrichten zu Aufruf- und Aufrufschlüsseln synchronisieren {#syncing-call-and-call-key-messages}
+# Synchronisieren von Nachrichten zu Aufrufen und Aufrufschlüsseln {#syncing-call-and-call-key-messages}
 
 Die Nachrichtenobjekte „Aufruf“ und „Aufrufschlüssel“ [!DNL Veeva] CRM werden standardmäßig mit Marketo Engage synchronisiert. Marketo synchronisiert Daten, die bis zu sechs Monate alt sind, basierend auf dem Erstellungsdatum des Anrufs.
 

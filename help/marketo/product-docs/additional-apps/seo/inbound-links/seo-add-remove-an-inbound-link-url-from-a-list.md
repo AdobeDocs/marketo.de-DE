@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949251
 description: SEO - Hinzufügen/Entfernen einer URL für eingehende Links aus einer Liste - Marketo-Dokumente - Produktdokumentation
-title: SEO - Hinzufügen/Entfernen einer URL für eingehende Links aus einer Liste
+title: SEO – Hinzufügen/Entfernen einer URL für eingehende Links aus einer Liste
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# SEO - Hinzufügen/Entfernen einer URL für eingehende Links aus einer Liste {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO – Hinzufügen/Entfernen einer URL für eingehende Links aus einer Liste {#seo-add-remove-an-inbound-link-url-from-a-list}
 
 Sie können Ihre URLs für eingehende Links nach Herzenslust organisieren.
 

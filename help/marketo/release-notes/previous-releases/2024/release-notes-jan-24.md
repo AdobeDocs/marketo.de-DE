@@ -3,24 +3,24 @@ description: Januar 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – Januar 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 7%
+ht-degree: 19%
 
 ---
 
-# Versionshinweise: Januar 2024 {#release-notes-jan-24}
+# Versionshinweise – Januar 2024 {#release-notes-jan-24}
 
-Im Folgenden finden Sie alle Funktionen, die in der Version vom Januar 2024 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom Januar 2024 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
 >Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
 
-## Standardfunktionen des Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 12. **2024 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion auf ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 12. Januar 2024** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,7 +31,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
     <tr>
    <td><strong>On-Demand-Webinare für interaktive Webinare</strong>: Mit On-Demand-Webinaren können Sie die Webinar-Aufzeichnung veröffentlichen und ihre Besuche/Aufrufe verfolgen. Auf diese Weise erhalten Sie weitere Leads durch Teilnehmer, die nicht am Webinar teilgenommen haben (nicht angezeigt), aber dennoch daran interessiert sind, weitere Details zu erfahren und die Aufzeichnung anzusehen.</td>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">On-Demand-Webinare</a></td>
   </tr>
    <tr>
@@ -51,8 +51,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
     <tr>
    <td><strong>E-Mail-Bot-Aktivität filtern</strong>: Verbessert die Erfassung von Bot-Aktivitäten für E-Mail-Interaktionen, indem Sie auswählen können, wie aggressiv die Filterung der Bot-Aktivität sein soll.</td>
-   <td>Versendet</td>
-   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Bot-Aktivität für E-Mails filtern</a></td>
+   <td>Versandt</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtern auf E-Mail-Bot-Aktivität</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -61,7 +61,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    </tr>
     <tr>
    <td><strong>API-Aktualisierung für den Massenimport von Leads</strong>: Das Verhalten der API für den Massenimport von Leads wurde geringfügig angepasst, wenn <b>id</b> bei der <b> der Auftragserstellung als </b>lookupField“ angegeben wird. Wenn ein mit der angegebenen <b>ID</b> verknüpfter Personendatensatz nicht in der Marketo Engage-Datenbank gefunden wird, erfolgt keine Datensatzaktualisierung, da der Datensatz nicht gefunden werden kann. Das aktualisierte Verhalten umfasst jetzt die Erhöhung der Anzahl in der <b>numOfRowsFailed</b>-Eigenschaft in der Antwort, wodurch signalisiert wird, dass der Vorgang in solchen Fällen fehlgeschlagen ist.</td>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    </tr>
   <tr>
    <td><strong>Co-Hosts für interaktive Webinare</strong>: Die Co-Hosts im Webinar-Team-Bereich interaktiver Webinare ermöglichen es dem Ersteller der Veranstaltung, interne oder externe Benutzer zum Programm für interaktive Webinare hinzuzufügen, um administrative und Bereitstellungs-Zuständigkeiten zu teilen.</td>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Hinzufügen eines Webinar-Teams</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
     <tr>
    <td><strong>Benutzer in interaktiven Webinaren entfernen</strong>: Ein Marketo Engage-Administrator kann jetzt bestimmte Benutzer in interaktiven Webinaren entfernen.</td>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td>k. A.</td>
   </tr>
  </tbody>
@@ -90,7 +90,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Funktionen für Agile Versionen {#agile-release-features}
 
-Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Überprüfen Sie neben jeder Funktion auf ihren Status.
+Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an verschiedenen Daten vor oder nach dem standardmäßigen Veröffentlichungsdatum veröffentlicht. Überprüfen Sie neben jeder Funktion ihren Status.
 
 ### Sales Insight-Aktionen {#sales-insight-actions}
 
@@ -160,7 +160,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
     </tr>
     <tr>
    <td><strong>Manuelle Beendigung des Live</strong>Chats: Sowohl Besucher als auch Agenten können jetzt eine Live-Chat-Sitzung manuell beenden.</td>
-   <td>Versendet</td>
+   <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Agenten-Posteingang</a></td>
   </tr>
   <tr>

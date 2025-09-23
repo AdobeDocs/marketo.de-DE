@@ -1,16 +1,16 @@
 ---
 description: WR-YYYY-MM-Web Request-Programm - Marketo-Dokumente - Produktdokumentation
-title: WR-YYYY-MM-Web-Anfrage-Programm
+title: 'Web-Anfrage-Programm: WR-JJJJ-MM'
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
-# WR-YYYY-MM-Web-Anfrage-Programm {#wr-yyyy-mm-web-request-program}
+# Web-Anfrage-Programm: WR-JJJJ-MM {#wr-yyyy-mm-web-request-program}
 
 Dies ist ein Beispielprogramm, das sich ideal für Formulare für Kontaktanfragen, Angebotsanfragen, Demoanfragen oder Testanfragen eignet, bei denen ein Standardprogramm von Marketo Engage verwendet wird. Kann mit Marketo-Landingpages oder als eingebettetes Formular auf Landingpages verwendet werden, bei denen es sich nicht um Marketo handelt. Bei der Übermittlung eines Formulars wird eine Benachrichtigungs-E-Mail an eine bestimmte Person gesendet.
 
@@ -51,7 +51,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
    <td>alert-webRequest</td>
   </tr>
   <tr>

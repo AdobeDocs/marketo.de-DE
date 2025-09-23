@@ -4,22 +4,22 @@ description: Kampagnenaktionen - Löschen einer Smart-Kampagne - Marketo-Dokumen
 title: Kampagnenaktionen - Löschen einer intelligenten Kampagne
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Kampagnenaktionen: Smart-Kampagne löschen {#campaign-actions-delete-a-smart-campaign}
+# Kampagnenaktionen: Löschen einer intelligenten Kampagne {#campaign-actions-delete-a-smart-campaign}
 
-Wenn Sie eine alte intelligente Kampagne haben, die Sie nicht mehr benötigen, können Sie sie löschen. So geht&#39;s.
+Wenn Sie eine alte intelligente Kampagne haben, die Sie nicht mehr benötigen, können Sie sie löschen. Und so geht das.
 
 >[!CAUTION]
 >
 >Stellen Sie sicher, dass Sie vor dem Löschen Folgendes tun. Nachdem Sie eine Smart-Kampagne gelöscht haben, kann sie nicht mehr wiederhergestellt werden.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Marketing]** Aktivitäten.
+1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 

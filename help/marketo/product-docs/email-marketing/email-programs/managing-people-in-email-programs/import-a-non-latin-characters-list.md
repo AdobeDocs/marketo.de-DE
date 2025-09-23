@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472678
 description: Importieren einer Liste nicht lateinischer Zeichen - Marketo-Dokumente - Produktdokumentation
-title: Importieren einer Liste nicht lateinischer Zeichen
+title: Importieren einer Liste mit nicht lateinischen Zeichen
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '308'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Importieren einer Liste nicht lateinischer Zeichen {#import-a-non-latin-characters-list}
+# Importieren einer Liste mit nicht lateinischen Zeichen {#import-a-non-latin-characters-list}
 
 Versuchen Sie, eine Datei zu importieren, die nicht auf Englisch ist? Die Liste sieht perfekt aus, wenn Sie sie mit Excel öffnen.
 
@@ -69,6 +69,6 @@ Dies liegt daran, dass die Datei nicht ordnungsgemäß gespeichert wird, damit M
 
    >[!NOTE]
    >
-   >Alle Datums-/Uhrzeitfelder, die importiert werden, werden als zentrale Zeit behandelt. Wenn Sie Datums-/Zeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (America/Chicago) umzuwandeln.
+   >Alle importierten Datums-/Uhrzeitfelder werden als Central Time behandelt. Wenn Sie Datums-/Zeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (America/Chicago) umzuwandeln.
 
 Wir wissen, dass das seltsam ist, aber es funktioniert. Viel Spaß beim Importieren!

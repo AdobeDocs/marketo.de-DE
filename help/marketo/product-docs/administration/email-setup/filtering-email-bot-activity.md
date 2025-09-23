@@ -1,16 +1,16 @@
 ---
 description: Filtern der E-Mail-Bot-Aktivität - Marketo-Dokumente - Produktdokumentation
-title: Bot-Aktivität für E-Mails filtern
+title: Filtern auf E-Mail-Bot-Aktivität
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Bot-Aktivität für E-Mails filtern {#filtering-email-bot-activity}
+# Filtern auf E-Mail-Bot-Aktivität {#filtering-email-bot-activity}
 
 Manchmal kann die E-Mail-Bot-Aktivität fälschlicherweise die Daten Ihrer E-Mail-Öffnungen und Klicks aufblähen. Gehen Sie wie folgt vor, um dieses Problem zu beheben.
 
@@ -43,7 +43,7 @@ Für die Aktivität E-Mail-Link-Klick und E-Mail-Öffnen werden neue Attribute m
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Es stehen zwei Schieberegler zur Auswahl. Sie können nur ein oder beide aktivieren. Wenn Sie &quot;**[!UICONTROL mit IAB-Liste abgleichen]** aktivieren, wählen Sie aus, ob [!UICONTROL Bot-Aktivität &#x200B;] _oder_ [!UICONTROL Bot-Aktivität filtern].
+1. Es stehen zwei Schieberegler zur Auswahl. Sie können nur ein oder beide aktivieren. Wenn Sie &quot;**[!UICONTROL mit IAB-Liste abgleichen]** aktivieren, wählen Sie aus, ob [!UICONTROL Bot-Aktivität ] _oder_ [!UICONTROL Bot-Aktivität filtern].
 
    ![](assets/filtering-email-bot-activity-4.png)
 

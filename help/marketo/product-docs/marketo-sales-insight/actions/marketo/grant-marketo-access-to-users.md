@@ -1,16 +1,16 @@
 ---
 description: Gewähren von Marketo-Zugriff für Benutzer - Marketo-Dokumente - Produktdokumentation
-title: Gewähren von Marketo-Zugriff für Benutzer
+title: Gewähren von Marketo-Zugriff für Benutzende
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Gewähren von Marketo-Zugriff für Benutzer {#grant-marketo-access-to-users}
+# Gewähren von Marketo-Zugriff für Benutzende {#grant-marketo-access-to-users}
 
 Gehen Sie wie in diesem Artikel beschrieben vor, um Ihren [!DNL Sales Insight Actions] Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie „Interessante Momente“ im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
 
@@ -24,7 +24,7 @@ Sie müssen Benutzer zu [[!DNL Sales Insight Actions]](/help/marketo/product-doc
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **Marketo**.
+1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **Marketo**.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 

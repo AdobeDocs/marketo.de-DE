@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099413
 description: Übersicht über E-Mail-Einblicke - Marketo-Dokumente - Produktdokumentation
-title: Übersicht über E-Mail-Einblicke
+title: Sendungen mit E-Mail Insights – Überblick
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Übersicht über E-Mail-Einblicke {#email-insights-sends-overview}
+# Sendungen mit E-Mail Insights – Überblick {#email-insights-sends-overview}
 
-Untersuchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
+Untersuchen Sie auf [!UICONTROL  Seite ]Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
 
 ![](assets/one.png)
 

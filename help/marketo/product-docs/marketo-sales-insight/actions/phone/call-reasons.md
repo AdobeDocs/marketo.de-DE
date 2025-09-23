@@ -1,16 +1,16 @@
 ---
 description: Anrufgründe - Marketo-Dokumente - Produktdokumentation
-title: Gründe für den Anruf
+title: Anrufgründe
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Gründe für den Anruf {#call-reasons}
+# Anrufgründe {#call-reasons}
 
 Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufgründe auszuwählen, damit Ihr Team verstehen kann, warum Anrufe getätigt werden.
 

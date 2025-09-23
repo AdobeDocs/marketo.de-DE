@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377945
-description: Audit-Protokoll&rbrack; Übersicht - Marketo-Dokumente - Produktdokumentation
-title: Audit-Protokoll - Übersicht
+description: Audit-Protokoll] Übersicht - Marketo-Dokumente - Produktdokumentation
+title: Überblick über Audit-Protokolle
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Audit-Protokoll - Übersicht {#audit-trail-overview}
+# Überblick über Audit-Protokolle {#audit-trail-overview}
 
 Das Audit-Protokoll bietet Ihnen die Möglichkeit, einen vollständigen Verlauf (sechs Monate) der Änderungen abzurufen, die in Ihrer Marketo-Instanz vorgenommen wurden.
 

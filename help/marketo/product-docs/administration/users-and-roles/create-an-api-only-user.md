@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360207
 description: Nur API-Benutzer erstellen - Marketo-Dokumente - Produktdokumentation
-title: Nur API-Benutzer erstellen
+title: Erstellen von Nur-API-Benutzenden
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
-# Nur API-Benutzer erstellen {#create-an-api-only-user}
+# Erstellen von Nur-API-Benutzenden {#create-an-api-only-user}
 
-Wenn Sie eine Integration mit Marketo über die [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} durchführen möchten, müssen Sie nur einen API-Benutzer erstellen. So geht&#39;s.
+Wenn Sie eine Integration mit Marketo über die [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} durchführen möchten, müssen Sie nur einen API-Benutzer erstellen. Und so geht das.
 
 >[!IMPORTANT]
 >

@@ -1,15 +1,15 @@
 ---
 description: Aktualisieren des Felds „Aktivitätstyp“ bei der Protokollierung von Aktivitäten in Salesforce - Marketo-Dokumente - Produktdokumentation
-title: Feld „Aktivitätstyp“ bei der Protokollierung von Aktivitäten in Salesforce aktualisieren
+title: Aktualisieren des Felds „Aktivitätstyp“ bei der Protokollierung von Aktivitäten in Salesforce
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Feld „Aktivitätstyp“ bei der Protokollierung von Aktivitäten in Salesforce aktualisieren {#update-activity-type-field-when-logging-activities-to-salesforce}
+# Aktualisieren des Felds „Aktivitätstyp“ bei der Protokollierung von Aktivitäten in Salesforce {#update-activity-type-field-when-logging-activities-to-salesforce}
 
 Aktionen können Ihre E-Mail- und Anrufaktivitäten automatisch mit Salesforce synchronisieren, um Berichte zu erstellen und den Aktivitätsverlauf besser sichtbar zu machen. Stellen Sie bei der Protokollierung von Aktivitäten sicher, dass das Feld Aktivitätstyp ordnungsgemäß auf E-Mail, Anruf oder Antwort aktualisiert wird, je nachdem, welcher Aktivitätstyp protokolliert wird.
 
@@ -17,7 +17,7 @@ Aktionen können Ihre E-Mail- und Anrufaktivitäten automatisch mit Salesforce s
 >
 >Beim Protokollieren von E-Mails über BCC wird nicht die Auswahlliste „Aufgabentyp“ berücksichtigt, sondern das Feld „Typ“ automatisch als „E-Mail“ ausgefüllt, da sie über Ihre BCC-Adresse an Salesforce gesendet werden.
 
-## Was man wissen muss {#things-to-know}
+## Was Sie wissen sollten {#things-to-know}
 
 * Für die Aktualisierung des Aufgabentyps ist eine Verbindung mit Salesforce erforderlich.
 * In der Auswahlliste „Aufgabentyp“ sollte kein Wert „Standardtyp“ ausgewählt sein.
@@ -50,7 +50,7 @@ Vergewissern Sie sich zunächst, dass Sie die richtigen Werte für die Auswahlli
 1. Geben Sie den Namen der fehlenden Auswahllistenwerte für den Aufgabentyp ein („E-Mail“, „Anruf“, „Antwort„).
 1. Klicken Sie auf **Speichern**.
 
-Nachdem dies eingerichtet ist, sehen Sie, dass das Feld Typ den entsprechenden Wert für protokollierte E-Mails, Aufrufe und Antworten ausfüllt. Diese Werte werden _nicht_ in Erinnerungsaufgaben für Sales Insights-Aktionen ausgefüllt.
+Nachdem dies eingerichtet ist, sehen Sie, dass das Feld Typ den entsprechenden Wert für protokollierte E-Mails, Aufrufe und Antworten ausfüllt. Diese Werte werden _nicht_ in Erinnerungsaufgaben für Sales Insight-Aktionen ausgefüllt.
 
 >[!NOTE]
 >

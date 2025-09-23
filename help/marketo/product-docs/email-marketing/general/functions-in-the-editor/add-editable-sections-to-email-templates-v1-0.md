@@ -4,10 +4,10 @@ description: Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0 - Mark
 title: Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
@@ -25,7 +25,7 @@ Regeln:
 
 1. Die HTML muss immer gültig sein.
 1. Die Klasse **mktEditable** muss enthalten sein.
-1. Die ID muss auf dieser HTML eindeutig sein.
+1. Die ID muss in dieser HTML eindeutig sein.
 1. Keine Leerzeichen in der ID.
 
 >[!CAUTION]

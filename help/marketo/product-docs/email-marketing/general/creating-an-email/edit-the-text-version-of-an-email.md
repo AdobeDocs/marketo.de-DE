@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11372054
 description: Bearbeiten der Textversion einer E-Mail - Marketo-Dokumente - Produktdokumentation
-title: Bearbeiten der Textversion einer E-Mail
+title: Erstellen der Textversion einer E-Mail
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Bearbeiten der Textversion einer E-Mail {#edit-the-text-version-of-an-email}
+# Erstellen der Textversion einer E-Mail {#edit-the-text-version-of-an-email}
 
 Wenn Sie eine E-Mail erstellen, sollte deren Textversion möglicherweise anders formuliert sein als die HTML-Version. Standardmäßig kopiert Marketo den Textinhalt jedes Rich-Text-Elements in Ihrer E-Mail automatisch in die Textversion. So lässt sich das bearbeiten.
 

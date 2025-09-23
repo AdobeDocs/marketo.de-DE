@@ -1,12 +1,12 @@
 ---
 description: Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails - Marketo-Dokumente - Produktdokumentation
-title: Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails
+title: Konfigurieren der Anpassung für Salesforce-Aktivitätsdetails
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '679'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719190
 description: Aktivieren der Inhaltserkennung - Marketo-Dokumente - Produktdokumentation
-title: Aktivieren der Inhaltserkennung
+title: Aktivieren der Inhaltsentdeckung
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Aktivieren der Inhaltserkennung {#enable-content-discovery}
+# Aktivieren der Inhaltsentdeckung {#enable-content-discovery}
 
 Die Funktion zur Inhaltssuche erkennt und kennzeichnet automatisch vorhandene Inhalte auf Ihrer Website (einschließlich Fallstudien, Blog-Posts, Videos, Pressemitteilungen usw.) und verfolgt die Anzahl der Aufrufe dieser Materialien.  Prädiktive Inhalte verwenden die erkannten Inhalte und verwenden prädiktive Analysen, um zu ermitteln, welcher Inhalt Ihre leistungsstärksten Inhalte sind, und empfehlen der richtigen Person die besten Inhalte.
 

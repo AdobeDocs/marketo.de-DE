@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147060
 description: Abbrechen einer geplanten wiederkehrenden Batch-Kampagne - Marketo-Dokumente - Produktdokumentation
-title: Abbrechen einer geplanten wiederkehrenden Batch-Kampagne
+title: Abbrechen der geplanten Ausführung einer wiederkehrenden Stapel-Kampagne
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Abbrechen einer geplanten wiederkehrenden Batch-Kampagne {#cancel-a-scheduled-recurring-batch-campaign-run}
+# Abbrechen der geplanten Ausführung einer wiederkehrenden Stapel-Kampagne {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-Wenn Sie eine wiederkehrende Batch-Kampagne haben, die Sie nicht mehr benötigen, können Sie zukünftige Ausführungen abbrechen. So geht&#39;s.
+Wenn Sie eine wiederkehrende Batch-Kampagne haben, die Sie nicht mehr benötigen, können Sie zukünftige Ausführungen abbrechen. Und so geht das.
 
 1. Wählen Sie die Smart-Kampagne aus und klicken Sie auf die **Zeitplan**.
 
