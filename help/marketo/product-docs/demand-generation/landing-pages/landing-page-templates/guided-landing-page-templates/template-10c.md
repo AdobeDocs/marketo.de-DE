@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Vorlage 10c {#template-10c}
 
-Rechtsklick zum Herunterladen [Vorlage 10C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
+Rechtsklick zum Herunterladen [Vorlage 10C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html?lang=de)
 
 ![](assets/image2015-7-27-10-3a57-3a9.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 10c.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
+[Vorlage 10c.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html?lang=de)

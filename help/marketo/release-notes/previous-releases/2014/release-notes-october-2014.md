@@ -30,7 +30,7 @@ Verwenden Sie die -API, um neue Aktivitäten oder Änderungen an Leads abzurufen
 * Aktivitätstypen abrufen
 * Paging-Token abrufen
 
-Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api) verfügbar sein.
+Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api) verfügbar sein.
 
 ## MSI - Marketo-E-Mail senden für [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Verwenden Sie einen neuen Aufruf, der den Verlauf der letzten Besuche eines Besu
 * Interessierte Produkte
 * Welche RTP-Kampagnen sie gesehen haben
 
-Ausführliche Informationen finden Sie [&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation.
+Ausführliche Informationen finden Sie [&#128279;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation.

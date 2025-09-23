@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Vorlage 16b {#template-16b}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 16B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 16B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html?lang=de)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
+[Vorlage 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html?lang=de)

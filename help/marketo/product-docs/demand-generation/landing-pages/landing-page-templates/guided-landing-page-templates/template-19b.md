@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Vorlage 19b {#template-19b}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 19B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 19B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=de)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+[Vorlage 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=de)

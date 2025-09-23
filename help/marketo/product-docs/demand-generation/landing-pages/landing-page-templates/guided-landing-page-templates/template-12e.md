@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Vorlage 12e {#template-12e}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 12E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 12E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=de)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+[Vorlage 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=de)

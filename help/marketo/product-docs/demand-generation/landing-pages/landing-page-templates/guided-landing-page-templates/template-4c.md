@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Vorlage 4c {#template-4c}
 
-Rechtsklick zum Herunterladen [Vorlage 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+Rechtsklick zum Herunterladen [Vorlage 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html?lang=de)
 
 ![](assets/image2015-7-28-16-3a32-3a2.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+[Vorlage 4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html?lang=de)

@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Vorlage 4a {#template-4a}
 
-Rechtsklick zum Herunterladen [Vorlage 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+Rechtsklick zum Herunterladen [Vorlage 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=de)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+[Vorlage 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=de)

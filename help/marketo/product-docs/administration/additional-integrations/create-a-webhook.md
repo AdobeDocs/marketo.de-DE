@@ -51,4 +51,4 @@ Verwenden Sie [!DNL Webhooks], um Web-Services von Drittanbietern zu nutzen, um 
 
 >[!NOTE]
 >
->Weitere Informationen finden Sie in den [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Weitere Informationen finden Sie in den [[!DNL Webhooks]](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Vorlage 2c {#template-2c}
 
-Rechtsklick zum Herunterladen [Vorlage 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+Rechtsklick zum Herunterladen [Vorlage 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=de)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+[Vorlage 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=de)

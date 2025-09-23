@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Vorlage 9f {#template-9f}
 
-Rechtsklick zum Herunterladen [Vorlage 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+Rechtsklick zum Herunterladen [Vorlage 9F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html?lang=de)
 
 ![](assets/image2015-7-28-16-3a1-3a25.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 9F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+[Vorlage 9F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html?lang=de)

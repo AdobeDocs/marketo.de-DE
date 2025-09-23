@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Vorlage 3d {#template-3d}
 
-Rechtsklick zum Herunterladen [Vorlage 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+Rechtsklick zum Herunterladen [Vorlage 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=de)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+[Vorlage 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=de)

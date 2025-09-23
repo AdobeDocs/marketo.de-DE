@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Vorlage 6e {#template-6e}
 
-Rechtsklick zum Herunterladen [Vorlage 6E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)
+Rechtsklick zum Herunterladen [Vorlage 6E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html?lang=de)
 
 ![](assets/image2015-7-29-14-3a8-3a54.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 6E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html)
+[Vorlage 6E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6e.html?lang=de)

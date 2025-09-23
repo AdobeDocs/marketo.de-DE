@@ -37,7 +37,7 @@ Verknüpfen Sie Ihr [[!DNL Google AdWords] Konto mit Marketo](/help/marketo/prod
 
 ## Neue Ressourcen-REST-APIs {#new-asset-rest-apis}
 
-[Neue Ressourcen-REST-APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[Neue Ressourcen-REST-APIs](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/assets)
 
 Wir bieten jetzt Unterstützung für das Erstellen und Bearbeiten von E-Mails, Vorlagen, meinen Token, Dateien und Snippets [über die API](https://developer.adobe.com/marketo-apis/api/asset/)!
 

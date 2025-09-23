@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Vorlage 2d {#template-2d}
 
-Rechtsklick zum Herunterladen [Vorlage 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+Rechtsklick zum Herunterladen [Vorlage 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=de)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+[Vorlage 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=de)

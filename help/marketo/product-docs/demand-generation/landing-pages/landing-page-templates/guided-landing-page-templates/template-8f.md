@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Vorlage 8f {#template-8f}
 
-Rechtsklick zum Herunterladen [Vorlage 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
+Rechtsklick zum Herunterladen [Vorlage 8F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html?lang=de)
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
+[Vorlage 8F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html?lang=de)

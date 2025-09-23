@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Vorlage 13d {#template-13d}
 
-Rechtsklick zum Herunterladen [Vorlage 13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
+Rechtsklick zum Herunterladen [Vorlage 13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html?lang=de)
 
 ![](assets/image2015-8-11-14-3a17-3a5.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 13d.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
+[Vorlage 13d.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html?lang=de)

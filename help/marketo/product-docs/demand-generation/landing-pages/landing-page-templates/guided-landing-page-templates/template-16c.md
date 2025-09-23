@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Vorlage 16c {#template-16c}
 
-Rechtsklick zum Herunterladen [Vorlage 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
+Rechtsklick zum Herunterladen [Vorlage 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=de)
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
+[Vorlage 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=de)
