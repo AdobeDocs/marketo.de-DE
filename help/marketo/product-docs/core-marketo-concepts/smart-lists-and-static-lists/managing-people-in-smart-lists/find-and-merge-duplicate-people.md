@@ -4,9 +4,9 @@ description: Suchen und Zusammenführen von doppelten Personen - Marketo-Dokumen
 title: Suchen und Zusammenführen doppelter Personen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '419'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintre
 
 >[!PREREQUISITES]
 >
->Das Suchen und Zusammenführen von Duplikaten erfolgt mithilfe von [integrierten/Smart-Listen des Systems](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>Das Suchen und Zusammenführen von Duplikaten erfordert die Verwendung [integrierten/System-Smart Lists](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -59,13 +59,15 @@ Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintre
    >
    >Möglicherweise gibt es zwei oder mehr Duplikate für dieselbe Person. Wählen Sie sie alle gleichzeitig aus.
 
-1. Zwischen den Datensätzen werden die Werte angezeigt, _nicht_. Wählen Sie den Wert aus, den Sie für jedes Feld beibehalten möchten. Klicken Sie abschließend **[!UICONTROL Zusammenführen]**. Wenn Sie keinen der Werte möchten, können Sie **[!UICONTROL Benutzerdefiniert]** aktivieren und einen Wert Ihrer Wahl eingeben.
+1. Die Werte zwischen Datensätzen, die nicht übereinstimmen, werden angezeigt. _Wählen Sie den Wert aus, den Sie für jedes Feld beibehalten möchten_. Klicken Sie abschließend **[!UICONTROL Zusammenführen]**. Wenn Sie keinen der Werte möchten, können Sie **[!UICONTROL Benutzerdefiniert]** aktivieren und einen Wert Ihrer Wahl eingeben.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >Beim manuellen Zusammenführen von Personen ist die erste ausgewählte Person der „Gewinner“. Wenn Sie also auf der Registerkarte Personen die Datensatz-IDs 198 und 199 zusammenführen und zuerst 199 anklicken, ist 199 die Datensatz-ID der zusammengeführten Personen. Dies gilt auch, wenn mehr als zwei Datensätze zusammengeführt werden.
+   >* Im Gegensatz zu Salesforce werden bei der Zusammenführung von Personen in Marketo deren Ergebnisse _nicht_ zusammengefasst. Sie wählen die Werte aus, die Sie beibehalten möchten.
+   >
+   >* Beim manuellen Zusammenführen von Personen ist die erste ausgewählte Person der „Gewinner“. Wenn Sie also auf der Registerkarte Personen die Datensatz-IDs 198 und 199 zusammenführen und zuerst 199 anklicken, ist 199 die Datensatz-ID der zusammengeführten Personen. Dies gilt auch, wenn mehr als zwei Datensätze zusammengeführt werden.
 
    >[!TIP]
    >
