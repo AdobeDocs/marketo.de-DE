@@ -5,9 +5,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
+source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
 workflow-type: tm+mt
-source-wordcount: '1276'
+source-wordcount: '1277'
 ht-degree: 62%
 
 ---
@@ -136,7 +136,7 @@ Gehen Sie wie folgt vor, um die Einstellungen für den benutzerdefinierten dunkl
 
 1. Wenn Sie mit den Änderungen für den dunklen Modus zufrieden sind, klicken Sie auf **[!UICONTROL Inhalt simulieren]**.
 
-   ![](assets/dark-mode-simulate.png)
+   SCREENSHOT
 
 1. Wählen Sie **[!UICONTROL E-Mail rendern]** und verbinden Sie sich mit Ihrem Litmus-Konto. Sie können das endgültige Rendering des dunklen Modus für verschiedene E-Mail-Clients sehen. Weitere Informationen zu [E-Mail-Rendering](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
