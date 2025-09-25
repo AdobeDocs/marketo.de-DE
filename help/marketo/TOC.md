@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
 workflow-type: tm+mt
-source-wordcount: '9306'
+source-wordcount: '9308'
 ht-degree: 99%
 
 ---
@@ -1032,6 +1032,7 @@ ht-degree: 99%
          + [Benutzerdefiniertes CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [Marken-Designs](product-docs/email-marketing/email-designer/brand-themes.md)
          + [Anwenden einer Marke](product-docs/email-marketing/email-designer/apply-brand.md)
+         + [Dunkler Modus](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Testen der E-Mail-Darstellung mit Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalisierungs-Token](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Arbeiten mit AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
