@@ -5,9 +5,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
+source-git-commit: 3718ab4d6241c45b937929d253297d9d0cf1b3d4
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -16,43 +17,50 @@ ht-degree: 1%
 
 E-Mail-Kollaboration und -Kommentare ermöglichen es Marketing-Teams, E-Mail-Assets in der Adobe Marketo Engage E-Mail-Designer nahtlos zu überprüfen, zu besprechen und abzuschließen. Anstatt Entwürfe über externe Tools (wie Chat, E-Mail-Threads, Tabellen usw.) freizugeben, können Sie Kommentare abgeben, Änderungen vorschlagen und Feedback in Echtzeit auflösen. Dies optimiert den Workflow, verringert Fehler und stellt sicher, dass Stakeholder vor dem Versand einer E-Mail-Kampagne aufeinander abgestimmt sind.
 
+## Berechtigungen {#permissions}
 
-## Collaboration aktivieren {#enable-collaboration}
-
-1. Beim Erstellen oder Bearbeiten einer E-Mail in der E-Mail-Designer wird auf der rechten Seite die Option &quot;Collaboration&quot; angezeigt.
-
-   SCREENSHOT
-
-1. Auf diese Weise können Team-Mitglieder in den Modus für die gemeinsame Überprüfung wechseln.
-
-   SCREENSHOT
+Benutzer mit Bearbeitungsberechtigungen für ein E-Mail-Asset können Kommentare einfügen, taggen und Kommentare anzeigen. Benutzende mit Leseberechtigung für E-Mail-Assets **nicht** Kommentare hinzufügen oder anzeigen können.
 
 ## Kommentare hinzufügen {#add-comments}
 
-1. Klicken Sie auf eine Struktur, Spalte oder einen Inhalt (Text, Bild, Schaltfläche usw.) über einem bearbeitbaren Abschnitt in der E-Mail-Designer.
+1. Wenn Sie eine E-Mail in der E-Mail-Designer erstellen oder bearbeiten, klicken Sie auf eine Struktur, Spalte oder einen Inhalt (Text, Bild, Schaltfläche usw.) über einem bearbeitbaren Abschnitt.
 
-   SCREENSHOT
+   ![](assets/email-collaboration-1.png)
 
-1. Klicken Sie auf das Symbol Kommentar ().
+1. Klicken Sie auf das Kommentarsymbol.
 
-   SCREENSHOT
+   ![](assets/email-collaboration-2.png)
 
-1. Geben Sie Feedback, Fragen oder Vorschläge ein.
+1. Feedback, Fragen oder Vorschläge eingeben.
 
-   SCREENSHOT
+   ![](assets/email-collaboration-3.png)
 
 >[!NOTE]
 >
 >Taggen Sie Teammitglieder mithilfe von @mentions (z. B. &quot;@John, bitte aktualisieren Sie den Winter-Newsletter„).
 
+## Alle Kommentare anzeigen {#view-all-comments}
+
+1. Klicken Sie auf der rechten Seite auf _Symbol_ Collaboration.
+
+   ![](assets/email-collaboration-4.png)
+
+1. Schnelle Antwort auf oder wie ein Kommentar.
+
+   ![](assets/email-collaboration-5.png)
+
+1. Klicken Sie auf das Symbol **…**, um weitere Aktionen anzuzeigen.
+
+   ![](assets/email-collaboration-6.png)
+
 ## Kommentare auflösen {#resolve-comments}
 
 Jeder Kommentar-Thread enthält:
 
-* Antwort: Diskussion fortsetzen.
-* Resolve: Markiert den Kommentar als adressiert.
-* Auflösung aufheben: Wenn weitere Änderungen erforderlich sind.
-* Entfernen: Entkoppelt den Kommentar vom Design-Element (das beim Erstellen des Kommentars ausgewählt wurde)
+* Antwort: Fortsetzung der Diskussion
+* Auflösen : Markiert den Kommentar als aufgelöst.
+* Auflösung aufheben: Wenn weitere Änderungen erforderlich sind
+* Entfernen: Entfernt den Kommentar aus seinem Design-Element
 * Löschen: Löscht den Kommentar dauerhaft
 
 >[!NOTE]
@@ -69,11 +77,7 @@ Benachrichtigungen werden ausgelöst für:
 * Erwähnungen (@username)
 * Auflösungen
 
-## Berechtigungen {#permissions}
-
-Benutzer mit Bearbeitungsberechtigungen für ein E-Mail-Asset können Kommentare einfügen, taggen und Kommentare anzeigen. Benutzende mit Leseberechtigung für E-Mail-Assets **nicht** Kommentare hinzufügen oder anzeigen können.
-
-## Bewährte Methoden {#best-practices}
+## Best Practices {#best-practices}
 
 * Verwenden Sie @mentions, um sicherzustellen, dass das Feedback schnell das richtige Teammitglied erreicht.
 
