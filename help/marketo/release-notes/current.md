@@ -3,7 +3,7 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 91%
@@ -53,8 +53,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Berechtigungen für den KI-Assistenten</strong>: Marketo-Admins können bestimmten Benutzenden Zugriff auf GenAI-Funktionen gewähren.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versandt</td>
+   <td><a href="/help\marketo\product-docs\email-marketing\email-designer\ai-assistant.md#set-up-permissions">Berechtigungen einrichten</a></td>
   </tr>
   <tr>
    <td> </td>
