@@ -6,10 +6,10 @@ description: Nutzen Sie die Technologie für generative KI von Adobe, um Ihren E
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 5%
+source-wordcount: '814'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,33 @@ Der KI-Assistent in der Marketo Engage Email Designer hilft Ihnen beim Erstellen
 
 >[!PREREQUISITES]
 >
->Der KI-Assistent ist nicht standardmäßig aktiviert. Sie müssen zunächst den Gen-AI-Kernbedingungen und den Zusatzbedingungen für die Verwendung der Gen-AI-Funktionen in E-Mail-Designer zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>Der KI-Assistent ist nicht standardmäßig aktiviert. Sie müssen zunächst den [Core Gen-AI-Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen, um die Gen-AI-Funktion in E-Mail-Designer nutzen zu können. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+
+## Berechtigungen einrichten {#set-up-permissions}
+
+_Nach_ der oben genannten Voraussetzung müssen Marketo-Admins Zugriff auf bestimmte Benutzende/Rollen anwenden, bevor Benutzende die GenAI-Schaltflächen sehen.
+
+1. Klicken Sie in Marketo Engage auf **Admin** und wählen Sie **Benutzer und Rollen** aus.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. Doppelklicken Sie auf **Registerkarte** Rollen“ auf die gewünschte Rolle.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. Aktivieren _unter „Access Design_&quot; das Kontrollkästchen **Access AI Assistant** und klicken Sie auf **Speichern**.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. Klicken Sie auf die Registerkarte Benutzer und wählen Sie den Benutzer aus, dem Sie Zugriff gewähren möchten.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. Wählen Sie die in Schritt 3 ausgewählte Rolle und ggf. den gewünschten Arbeitsbereich aus. Klicken Sie auf **Speichern**.
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
+## Anwendungsszenarien {#use-cases}
 
 Es gibt drei primäre Anwendungsfälle für AI Assistant:
 
