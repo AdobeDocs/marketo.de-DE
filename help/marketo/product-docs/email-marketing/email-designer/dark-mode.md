@@ -5,10 +5,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
+source-git-commit: 618514b786546bfc8eb91de04093791bdb41eeae
 workflow-type: tm+mt
-source-wordcount: '1277'
-ht-degree: 62%
+source-wordcount: '1217'
+ht-degree: 42%
 
 ---
 
@@ -20,59 +20,59 @@ Im **[!UICONTROL Dunkelmodus]** können Sie bestimmte benutzerdefinierte Einstel
 
 ## Was ist der dunkle Modus? {#what-is-dark-mode}
 
-Der Dunkelmodus ermöglicht es unterstützenden E-Mail-Clients und -Programmen, E-Mails mit dunkleren Hintergründen und helleren Farben für Text, Schaltflächen und andere Benutzeroberflächenelemente anzuzeigen. Dadurch werden die Augen entlastet, die Akkulaufzeit verkürzt und die Lesbarkeit in schwach beleuchteten Umgebungen verbessert, sodass das Betrachten angenehmer wird.
+Der Dunkelmodus ermöglicht es unterstützenden E-Mail-Clients und -Programmen, E-Mails mit dunkleren Hintergründen und helleren Farben für Text, Schaltflächen und andere Benutzeroberflächenelemente anzuzeigen. Dadurch werden die Augen weniger beansprucht, die Akkulaufzeit verkürzt und die Lesbarkeit in schwach beleuchteten Umgebungen verbessert, sodass das Betrachten angenehmer wird.
 
 ## Schutzmechanismen {#guardrails}
 
 Das Dark-Mode-Rendering kann in verschiedenen E-Mail-Clients erheblich variieren.
 
-Bevor Sie den Dunkelmodus verwenden, müssen Sie wissen, wie die wichtigsten E-Mail-Clients damit umgehen. Es gibt drei Fälle, in denen unterschieden werden muss:
+Bevor Sie den Dunkelmodus verwenden, müssen Sie wissen, wie die wichtigsten E-Mail-Clients damit umgehen. Es sind drei Fälle zu unterscheiden:
 
-### Clients unterstützen keinen Dunkelmodus {#not-supporting}
+### Clients, die keinen dunklen Modus unterstützen {#not-supporting}
 
-Einige E-Mail-Clients unterstützen diese Funktion überhaupt nicht, z. B.:
+Einige E-Mail-Clients unterstützen diese Funktion überhaupt nicht, z. B.:
 
 * Yahoo!Mail
 * AOL
 
-Unabhängig davon, ob Sie benutzerdefinierte Einstellungen für den Dunkelmodus definieren oder nicht, zeigen diese E-Mail-Clients nie Rendering im Dunkelmodus an.
+Unabhängig davon, ob Sie benutzerdefinierte Einstellungen für den Dunkelmodus definieren oder nicht, zeigen diese E-Mail-Clients keinen Rendering-Modus für den Dunkelmodus an.
 
-### Clients, die ihren eigenen Dunkelmodus anwenden {#default-support}
+### Clients, die ihren eigenen dunklen Modus anwenden {#default-support}
 
-Einige E-Mail-Clients wenden systematisch ihren eigenen standardmäßigen Dunkelmodus auf alle empfangenen E-Mails an. Farben, Hintergründe, Bilder usw. werden automatisch mit den für diesen E-Mail-Client spezifischen Einstellungen für den Dunkelmodus angepasst. Externe Änderungen sind nicht möglich.
+Einige E-Mail-Clients wenden systematisch ihren eigenen standardmäßigen dunklen Modus auf alle empfangenen E-Mails an. Farben, Hintergründe, Bilder usw. werden automatisch mit den für diesen E-Mail-Client spezifischen Einstellungen für den Dunkelmodus angepasst. Externe Änderungen sind nicht möglich.
 
-Diese Clients zum Beispiel:
+Beispiele:
 
 * Gmail (Desktop-Webmail, iOS, Android, Mobile-Webmail)
 * Outlook Windows
 * Outlook Windows Mail
 
-Wenn Sie in diesem Fall benutzerdefinierte Einstellungen für den Dunkelmodus in der E-Mail-Designer definieren, werden diese Einstellungen durch die E-Mail-Client-Einstellungen überschrieben.
+Wenn Sie in diesem Fall benutzerdefinierte Einstellungen für den Dunkelmodus in der E-Mail-Designer definieren, werden diese Einstellungen durch die Einstellungen des E-Mail-Clients überschrieben.
 
 Während diese E-Mail-Clients also den Dunkelmodus verarbeiten, wird Ihr spezifisches Dunkelmodus-Design nicht gerendert.
 
-### Clients, die den benutzerdefinierten Dunkelmodus unterstützen {#custom-support}
+### Clients, die den benutzerdefinierten dunklen Modus unterstützen {#custom-dark-mode}
 
-Andere E-Mail-Clients bieten die Option, den benutzerdefinierten Dunkelmodus mit der `@media (prefers-color-scheme: dark)`-Abfrage zu rendern, was die von der [!DNL Marketo Engage] E-Mail-Designer verwendete Methode ist.
+Einige E-Mail-Clients bieten die Möglichkeit, den benutzerdefinierten Dunkelmodus mit der `@media (prefers-color-scheme: dark)`-Abfrage zu rendern, was die von der [!DNL Marketo Engage] E-Mail-Designer verwendete Methode ist.
 
-Im Folgenden finden Sie eine Liste der wichtigsten Clients, die diese Option handhaben:
+Die wichtigsten Clients, die diese Option handhaben, sind:
 
-* Apple Mail macOS
-* Apple Mail iOS
+* Apple Mail für macOS
+* Apple Mail für iOS
 * Outlook macOS
 * Outlook.com
 * Outlook iOS
 * Outlook Android
 
-In diesem Fall sollten die Einstellungen angezeigt werden, die Sie in der E-Mail-Designer definieren.
+Die Einstellungen, die Sie in der E-Mail-Designer definieren, sollten angezeigt werden.
 
 >[!NOTE]
 >
->In diesem Abschnitt erfahren Sie, wie Sie mit der E-Mail-Designer benutzerdefinierte Einstellungen für [ Dunkelmodus ](#define-custom-dark-mode).
+>Erfahren Sie, wie Sie [benutzerdefinierte Einstellungen für den Dunkelmodus](#define-custom-dark-mode) in der E-Mail-Designer definieren.
 
-Je nach E-Mail-Client können jedoch einige Einschränkungen gelten. Beispielsweise erzeugen einige Clients wie Apple Mail 16 (macOs 13) keinen Dunkelmodus, wenn Bilder vorhanden sind.
+Je nach E-Mail-Client können einige Einschränkungen gelten. Beispielsweise erzeugen einige Clients (z. B. Apple Mail 16) keinen Dunkelmodus, wenn Bilder vorhanden sind.
 
-Um optimale Ergebnisse zu erzielen, testen Sie Ihren Inhalt in den E-Mail-Clients, auf die Sie abzielen. Um eine Simulation anzuzeigen, die dem Endergebnis für jeden Client so nahe wie möglich kommt, verwenden Sie die Funktion [E-Mail-Rendering](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) in der E-Mail-Designer.
+Um optimale Ergebnisse zu erzielen, testen Sie Ihren Inhalt in den E-Mail-Clients, auf die Sie abzielen. Um eine Simulation in jedem Client anzuzeigen, verwenden Sie die Funktion [E-Mail-Rendering](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) in der E-Mail-Designer.
 
 ## Dunkler Modus im E-Mail-Designer {#dark-mode-email-designer}
 
@@ -84,7 +84,7 @@ Beim dunklen Modus im E-Mail-Designer sind zwei Aspekte zu berücksichtigen:
 
 ### Vorschau des standardmäßigen dunklen Modus {#preview-dark-mode}
 
-Gehen Sie wie folgt vor, um auf den dunklen Modus im E-Mail-Designer zuzugreifen und eine Vorschau der Einstellungen für den standardmäßigen dunklen Modus zu erhalten.
+Erfahren Sie, wie Sie in der E-Mail-Designer auf den Dunkelmodus zugreifen und eine Vorschau der Standardeinstellungen für den Dunkelmodus erhalten.
 
 1. Wählen Sie auf der Startseite des E-Mail-Designers die Option **[!UICONTROL Erstellen von neuen Inhalten]** aus.
 
@@ -92,11 +92,11 @@ Gehen Sie wie folgt vor, um auf den dunklen Modus im E-Mail-Designer zuzugreifen
 
 1. Aktivieren Sie oben rechts den Umschalter **[!UICONTROL Dunkelmodus]**.
 
-   SCREENSHOT
+   ![](assets/dark-mode-1.png)
 
 1. Die Vorschau des standardmäßigen dunklen Modus wird angezeigt.
 
-   SCREENSHOT
+   ![](assets/dark-mode-2.png)
 
 Standardmäßig wendet die Vorschau des dunklen Modus im E-Mail-Designer das Farbschema „Vollfarbinvertierung“ auf alle Elemente außer auf Bilder und Symbole an. 
 
@@ -104,51 +104,51 @@ Das bedeutet, dass Bereiche mit hellen und dunklen Elementen erkannt und inverti
 
 >[!CAUTION]
 >
->Das endgültige Rendering kann je nach E-Mail-Client der Empfängerinnen und Empfänger variieren. Um für jeden E-Mail-Client eine Simulation anzuzeigen, die dem Endergebnis möglichst nahe kommt, verwenden Sie die Option [E-Mail-Rendering](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
+>Das endgültige Rendering kann je nach E-Mail-Client der Empfängerinnen und Empfänger variieren. Um eine Simulation für jeden E-Mail-Client anzuzeigen, verwenden Sie die Funktion [E-Mail-Rendering](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
 ### Definieren des benutzerdefinierten dunklen Modus {#define-custom-dark-mode}
 
-Nach dem Wechsel in den **[!UICONTROL dunklen Modus]** können Sie bestimmte Stilelemente Ihres Inhalts bearbeiten, die nur angezeigt werden, wenn der dunkle Modus im E-Mail-Client der Empfängerin bzw. des Empfängers aktiviert ist, sofern diese Funktion unterstützt wird.
+Nach dem Wechsel **[!UICONTROL Dunkler Modus]** können Sie bestimmte Stilelemente Ihres Inhalts bearbeiten, die nur angezeigt werden, wenn der Dunkle Modus im E-Mail-Client des Empfängers aktiviert ist (sofern er diese Funktion unterstützt).
 
->[!WARNING]
+>[!IMPORTANT]
 >
->Das endgültige Rendering im dunklen Modus hängt vom individuellen E-Mail-Client ab, die Ergebnisse können daher variieren. [Weitere Informationen](#guardrails)
+>Das endgültige Rendering im Dunkelmodus hängt von jedem E-Mail-Client ab, sodass die Ergebnisse von einem Client zum anderen variieren können. [Weitere Informationen](#guardrails)
 
-Um die benutzerdefinierten Dunkelmodus-Stile von E-Mail-Designer zu nutzen, verwendet Journey Optimizer die `@media (prefers-color-scheme: dark)` CSS-Abfrage , die erkennt, ob der E-Mail-Client der Benutzenden auf den Dunkelmodus eingestellt ist, und das in Ihrer E-Mail definierte Design mit dunklem Design anwendet.
+Um die benutzerdefinierten Dunkelmodus-Stile von E-Mail-Designer zu nutzen, verwendet Marketo Engage die `@media (prefers-color-scheme: dark)` CSS-Abfrage , die erkennt, ob der E-Mail-Client der Benutzenden auf den Dunkelmodus eingestellt ist, und das in Ihrer E-Mail definierte Design mit dunklem Design anwendet.
 
 Gehen Sie wie folgt vor, um die Einstellungen für den benutzerdefinierten dunklen Modus zu definieren.
 
-1. Stellen Sie sicher, dass Sie im E-Mail-Designer in den **[!UICONTROL Dunklen Modus]** wechseln. [Weitere Informationen](#preview-dark-mode)
+1. Wechseln Sie in der E[Mail-Designer zur ](#preview-dark-mode)Vorschau im Dunkelmodus“.
 
-1. Bearbeiten Sie alle Stilattribute wie Text, Hintergrund, Schaltflächen usw.
+1. Bearbeiten Sie alle Stilattribute wie Text, Hintergründe, Schaltflächen usw.
 
-1. Sie können die Farben von Bildern und Symbolen nicht ändern, Sie können jedoch bestimmte Assets nur für den dunklen Modus definieren. Wählen Sie dazu ein Bild aus. Wechseln Sie über den entsprechenden Umschalter im Bereich **[!UICONTROL Einstellungen]** zu **[!UICONTROL Dunkler Modus]** und wählen Sie ein anderes Asset aus.
+1. Sie können die Farben von Bildern und Symbolen nicht ändern, aber Sie können bestimmte Assets nur für den Dunkelmodus definieren. Wählen Sie dazu ein Bild aus. Wechseln Sie über den entsprechenden Umschalter im Bereich **[!UICONTROL Einstellungen]** zu **[!UICONTROL Dunkler Modus]** und wählen Sie ein anderes Asset aus.
 
-   SCREENSHOT
+   ![](assets/dark-mode-3.png)
 
-1. Sie können jederzeit die Option **[!UICONTROL Zur Live-Ansicht wechseln]** wählen, um zu überprüfen, wie Ihre Inhalte auf verschiedenen Gerätegrößen gerendert werden. Wählen Sie in dieser Ansicht den Umschalter für den dunklen Modus oben auf dem Bildschirm aus, um eine Vorschau der Version Ihres Inhalts im dunklen Modus auf den verschiedenen Geräten anzuzeigen.
+1. Sie können jederzeit **[!UICONTROL Zur Live-Ansicht wechseln]** um zu sehen, wie Ihre Inhalte auf verschiedenen Gerätegrößen gerendert werden können. Wählen Sie in dieser Ansicht den Umschalter für den Dunkelmodus aus, um eine Vorschau der Dunkelmodusversion Ihres Inhalts auf verschiedenen Geräten anzuzeigen.
 
-   SCREENSHOT
+   ![](assets/dark-mode-4.png)
 
-   >[!CAUTION]
+   >[!NOTE]
    >
    >Die Live-Ansicht ist eine allgemeine Vorschau, die vergleicht, wie das Rendering über verschiedene Gerätegrößen hinweg aussehen könnte. Das endgültige Rendering kann je nach E-Mail-Client der Empfängerinnen und Empfänger variieren.
 
 1. Wenn Sie mit den Änderungen für den dunklen Modus zufrieden sind, klicken Sie auf **[!UICONTROL Inhalt simulieren]**.
 
-   SCREENSHOT
+   ![](assets/dark-mode-5.png)
 
 1. Wählen Sie **[!UICONTROL E-Mail rendern]** und verbinden Sie sich mit Ihrem Litmus-Konto. Sie können das endgültige Rendering des dunklen Modus für verschiedene E-Mail-Clients sehen. Weitere Informationen zu [E-Mail-Rendering](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
-   >[!WARNING]
+   >[!IMPORTANT]
    >
-   >Auch wenn die Simulation dem Aussehen von E-Mails im dunklen Modus sehr nahe kommt, kann das tatsächliche Rendering aufgrund von Variationen bei E-Mail-Service-Anbietern oder Einstellungen auf Geräteebene unterschiedlich sein.
+   >Während die Simulation dem Aussehen von E-Mails im Dunkelmodus sehr nahe kommt, kann das tatsächliche Rendering aufgrund von Variationen bei E-Mail-Service-Anbietern oder Geräteeinstellungen unterschiedlich sein.
 
 ## Best Practices {#best-practices}
 
-Da der dunkle Modus in den wichtigsten E-Mail-Clients immer beliebter wird, müssen Sie berücksichtigen, wie Ihre E-Mails in hellen und dunklen Umgebungen gerendert werden – unabhängig davon, ob Sie einen [benutzerdefinierten dunklen Modus](#define-custom-dark-mode) verwenden oder nicht.
+Da die Akzeptanz des Dunkelmodus in den wichtigsten E-Mail-Clients zunimmt, ist es wichtig zu berücksichtigen, wie Ihre E-Mails in hellen und dunklen Umgebungen gerendert werden, unabhängig davon, ob Sie [benutzerdefinierten Dunkelmodus](#define-custom-dark-mode) verwenden oder nicht.
 
-Der dunkle Modus kann Farben, Hintergründe und Bilder verändern – und manchmal bestimmte Design-Entscheidungen überschreiben. Befolgen Sie die unten aufgeführten Best Practices, um visuelle Konsistenz, Barrierefreiheit und Markenintegrität sicherzustellen.
+Der Dunkelmodus kann Farben, Hintergründe und Bilder verändern und manchmal die Design-Auswahl überschreiben. Befolgen Sie die unten aufgeführten Best Practices, um visuelle Konsistenz, Barrierefreiheit und Markenintegrität sicherzustellen.
 
 **Optimieren Ihrer Bilder und Logos**
 
@@ -182,4 +182,4 @@ Der dunkle Modus kann Farben, Hintergründe und Bilder verändern – und manchm
 
 * Nutzen Sie die [Vorschau des dunklen Modus](#preview-dark-mode) im E-Mail-Designer. Diese verwendet invertierte Farbschemata, sodass Sie Probleme frühzeitig erkennen.
 
-* Verwenden Sie die Option [E-Mail-Rendering](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md), die Litmus zur Simulation Ihrer Designs in wichtigen E-Mail-Clients (Apple Mail, Gmail, Outlook) nutzt, damit Sie sehen, wie sich Farben und Bilder im dunklen Modus verhalten.
+* Verwenden Sie die Funktion [E-Mail](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md)Rendering, die Litmus nutzt, um Ihre Designs in wichtigen E-Mail-Clients zu simulieren und zu sehen, wie sich Farben und Bilder im Dunkelmodus verhalten.
