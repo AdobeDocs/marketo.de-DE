@@ -3,8 +3,8 @@ unique-page-id: 557074
 description: Marketo-Kernkonzepte – Marketo-Dokumente – Produktdokumentation
 title: Marketo-Kernkonzepte
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
-source-wordcount: '132'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---

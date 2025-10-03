@@ -4,8 +4,8 @@ title: Adobe Experience Cloud-Integrationen – Übersicht
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
-source-wordcount: '168'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---

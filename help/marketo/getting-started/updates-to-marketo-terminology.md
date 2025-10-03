@@ -5,8 +5,8 @@ hide: true
 hidefromtoc: true
 title: Aktualisierungen der Terminologie von Marketo
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
-source-wordcount: '328'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---

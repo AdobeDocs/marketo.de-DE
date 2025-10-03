@@ -5,7 +5,7 @@ title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: f6b0e5c6409e173803a0ec4f8c912511bd90c41f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
@@ -69,7 +69,7 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
   </tr>
   <tr>
    <td>Oktober 2025</td>
-   <td>Samstag, 31. Oktober 2025</td>
+   <td>31. Oktober 2025</td>
    <td>Planmäßig</td>
   </tr>
  </tbody>
