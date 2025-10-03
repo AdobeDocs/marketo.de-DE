@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-Mail-Designer Collaboration - Workflow für Content-</strong>): Sie können jetzt mit anderen Marketo-Benutzenden in einem E-Mail-Asset zusammenarbeiten und Kommentare abgeben. Taggen Sie Team-Mitglieder (Marketo-Benutzende mit entsprechenden Asset-Berechtigungen), sodass sie eine E-Mail- oder Push-Benachrichtigung erhalten.</td>
+   <td><strong>E-Mail-Designer – Workflow für Content-Zusammenarbeit</strong>: Sie können jetzt mit anderen Marketo-Benutzenden an E-Mail-Assets zusammenarbeiten und Kommentare abgeben. Taggen Sie Team-Mitglieder (Marketo-Benutzende mit entsprechenden Asset-Berechtigungen), sodass sie eine E-Mail- oder Push-Benachrichtigung erhalten.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -62,7 +62,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-Mail-Designer - Dunkelmodus</strong>: Sie können jetzt den Dunkelmodus verwenden, der es unterstützenden E-Mail-Clients und Apps ermöglicht, E-Mails mit dunkleren Hintergründen und helleren Farben für Text, Schaltflächen und andere Benutzeroberflächenelemente anzuzeigen.</td>
+   <td><strong>E-Mail-Designer – Dunkler Modus</strong>: Sie können jetzt den dunklen Modus nutzen, in dem E-Mail-Clients und -Apps, die den Modus unterstützen, E-Mails mit dunkleren Hintergründen und helleren Farben für Text, Schaltflächen und andere UI-Elemente anzeigen können.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
