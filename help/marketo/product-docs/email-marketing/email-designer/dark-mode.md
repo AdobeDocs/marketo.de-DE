@@ -116,7 +116,7 @@ Um die benutzerdefinierten Dunkelmodus-Stile von E-Mail-Designer zu nutzen, verw
 
 Gehen Sie wie folgt vor, um die Einstellungen für den benutzerdefinierten dunklen Modus zu definieren.
 
-1. Wechseln Sie in der E[Mail-Designer zur ](#preview-dark-mode)Vorschau im Dunkelmodus“.
+1. Wechseln Sie in der E[Mail-Designer zur &#x200B;](#preview-dark-mode)Vorschau im Dunkelmodus“.
 
 1. Bearbeiten Sie alle Stilattribute wie Text, Hintergründe, Schaltflächen usw.
 
