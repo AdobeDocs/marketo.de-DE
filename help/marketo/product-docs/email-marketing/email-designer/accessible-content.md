@@ -1,13 +1,13 @@
 ---
 title: Gestalten barrierefreier Inhalte
-description: Erfahren Sie, wie Sie in Marketo Engage barrierefreie Inhalte für Ihre E-Mails entwerfen.
+description: Erfahren Sie, wie Sie in Adobe Marketo Engage barrierefreie Inhalte für Ihre E-Mails entwerfen.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: E-Mail, Design, Barrierefreiheit
-source-git-commit: 753455b40ead039a56c595fa61ab9a95b7936382
+source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1368'
 ht-degree: 45%
 
 ---
