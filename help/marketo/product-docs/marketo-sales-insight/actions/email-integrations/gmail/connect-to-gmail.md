@@ -15,7 +15,7 @@ Wenn Sie sich mit Gmail verbinden, erhalten Sie ein Tracking der Antworten, Zugr
 
 >[!CAUTION]
 >
->Wenn Sie in Ihrem Gmail[Konto Filter oder Regeln verwenden, ](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} E-Mails automatisch als gelesen zu markieren, kann dies zu Problemen mit dem Antwort-Tracking führen. Es wird empfohlen, alle Regeln zu deaktivieren, die E-Mails bei Verwendung des Antwort-Trackings mit Gmail automatisch als gelesen markieren.
+>Wenn Sie in Ihrem Gmail[Konto Filter oder Regeln verwenden, &#x200B;](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} E-Mails automatisch als gelesen zu markieren, kann dies zu Problemen mit dem Antwort-Tracking führen. Es wird empfohlen, alle Regeln zu deaktivieren, die E-Mails bei Verwendung des Antwort-Trackings mit Gmail automatisch als gelesen markieren.
 
 1. Klicken Sie in Marketo Sales auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 

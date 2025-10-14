@@ -60,7 +60,7 @@ Personeninformationen werden in die folgenden Registerkarten kategorisiert:
 
 >[!NOTE]
 >
->Sie können auch Opportunity-[ (über API eingefügt) für ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities) sehen, die nicht mit einem CRM synchronisiert wurden.
+>Sie können auch Opportunity-[&#x200B; (über API eingefügt) für &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities) sehen, die nicht mit einem CRM synchronisiert wurden.
 
 ## Bearbeiten eines Felds {#editing-a-field}
 

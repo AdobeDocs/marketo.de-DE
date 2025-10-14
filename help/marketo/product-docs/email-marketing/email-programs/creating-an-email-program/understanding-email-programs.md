@@ -38,7 +38,7 @@ Erfahren Sie mehr über die folgenden A/B-Tests:
 
 >[!CAUTION]
 >
->Um präzise Berichte zu erstellen, vermeiden Sie _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Dadurch werden alle Daten in jedem Reporting-Dashboard aggregiert, das an diese E-Mail angehängt ist. Wenn Sie eine E-Mail wiederverwenden müssen, [ Sie sie stattdessen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, da diese die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt.
+>Um präzise Berichte zu erstellen, vermeiden Sie _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Dadurch werden alle Daten in jedem Reporting-Dashboard aggregiert, das an diese E-Mail angehängt ist. Wenn Sie eine E-Mail wiederverwenden müssen, [&#x200B; Sie sie stattdessen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, da diese die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt.
 
 Genieße die Früchte deiner Arbeit. Dashboards zeigen die Leistung von E-Mail-Programmen und A/B-Tests auf einen Blick.
 
@@ -68,7 +68,7 @@ Verwenden Sie ein E-Mail-Programm innerhalb eines Standardprogramms, um die Ding
 
 >[!NOTE]
 >
->E-Mail-Programme können nicht in [Interaktionsprogrammen“ verschachtelt ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Sie können auch nicht erneut gesendet werden und nur jeweils einen Test ausführen.
+>E-Mail-Programme können nicht in [Interaktionsprogrammen“ verschachtelt &#x200B;](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Sie können auch nicht erneut gesendet werden und nur jeweils einen Test ausführen.
 
 ## Zeitplaneinstellungen {#schedule-settings}
 

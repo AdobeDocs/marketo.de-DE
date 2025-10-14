@@ -60,7 +60,7 @@ Das Dashboard wurde nun erweitert, sodass es mehr Daten auf einen Blick enthält
 
 ## RTP - Neue Mobile-Vorlagen für Kampagnen {#rtp-new-mobile-templates-for-campaigns}
 
-Mit [ neuen Vorlagen können Sie schnell und einfach ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) Mobile-Kampagnen erstellen.
+Mit [&#x200B; neuen Vorlagen können Sie schnell und einfach &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) Mobile-Kampagnen erstellen.
 
 ## RTP - User Context API {#rtp-user-context-api}
 

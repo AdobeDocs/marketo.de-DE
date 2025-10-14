@@ -41,7 +41,7 @@ Verwenden Sie den [!UICONTROL Programm]Analyzer, um Kanalkosten, Mitgliederakqui
 
    >[!NOTE]
    >
-   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, sind für Berechnungen mit Erstkontakt (FT) und Multi-Touch (MT) verfügbar. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution“ zu ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, sind für Berechnungen mit Erstkontakt (FT) und Multi-Touch (MT) verfügbar. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution“ zu &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Verwenden Sie die **[!UICONTROL Y-Achse]** Dropdown-Liste, um **[!UICONTROL (MT) Pipeline Erstellt auszuwählen]**.
 

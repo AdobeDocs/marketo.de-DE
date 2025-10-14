@@ -13,7 +13,7 @@ ht-degree: 13%
 
 # Definieren von Werten in einem Optionsfeld oder einem ausgewählten Feld in einem Formular {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Nachdem Sie &quot;[ Feldtyp“ ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) Optionsfeld- oder Auswahltyp festgelegt haben, sollten Sie die Werte definieren, aus denen der Benutzer auswählen kann. Und so geht das.
+Nachdem Sie &quot;[&#x200B; Feldtyp“ &#x200B;](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) Optionsfeld- oder Auswahltyp festgelegt haben, sollten Sie die Werte definieren, aus denen der Benutzer auswählen kann. Und so geht das.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

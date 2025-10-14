@@ -55,7 +55,7 @@ Erstellen Sie durch Hinzufügen von Triggern, dass eine Smart-Kampagne basierend
    >
    >Bei mehreren Triggern durchläuft eine Person den Fluss, wenn _BELIEBIG_ einer der Trigger aktiviert wird.
 
-Wenn Sie die Kampagne für mehrere Personen gleichzeitig ausführen möchten, erfahren Sie hier, wie Sie [ Smart-Liste für Smart-Kampagnen definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Wenn Sie die Kampagne für mehrere Personen gleichzeitig ausführen möchten, erfahren Sie hier, wie Sie [&#x200B; Smart-Liste für Smart-Kampagnen definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

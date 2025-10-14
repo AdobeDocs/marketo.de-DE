@@ -40,7 +40,7 @@ Lassen Sie uns zunächst die Grundlagen behandeln. So entfernen Sie einen unerw�
    1. **Nie gerannt**. Nehmen Sie alle gewünschten Änderungen vor. Dies wirkt sich erst auf andere aus, wenn Sie diese Kampagne ausführen.
    1. **Ist eine wiederkehrende intelligente Kampagne**. Die Änderungen betreffen Personen in zukünftigen Ausführungen, nicht in vorherigen Ausführungen.
    1. **Wurde bereits OHNE Warteschritte ausgeführt**. Es sind keine Personen betroffen, da die Kampagne nach der Ausführung inaktiv ist.
-   1. **Wird gerade ausgeführt**. Änderungen können je nach Zeitpunkt und Details des Löschvorgangs zu unerwartetem Verhalten führen. Es wird dringend empfohlen, keine Batch-Kampagne zu bearbeiten, die aktiv ausgeführt wird. Erfahren Sie in Notfällen, wie Sie [ laufende intelligente Kampagne abbrechen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
+   1. **Wird gerade ausgeführt**. Änderungen können je nach Zeitpunkt und Details des Löschvorgangs zu unerwartetem Verhalten führen. Es wird dringend empfohlen, keine Batch-Kampagne zu bearbeiten, die aktiv ausgeführt wird. Erfahren Sie in Notfällen, wie Sie [&#x200B; laufende intelligente Kampagne abbrechen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
    1. **Bereits mit Warteschritten ausgeführt.** Mehrere Details zu diesem.
 Wenn eine Person in einen Warteschritt eintritt, notiert die Person die Dauer und den ZAHLENSCHRITT, zu dem sie zurückkehren soll. Siehe Beispiel unten.

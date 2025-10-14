@@ -25,7 +25,7 @@ Die Synchronisierung erfolgt in eine Richtung, von [!DNL Salesforce] zu Marketo.
 
 ## Kann ich eine Aufgabe mit Marketo erstellen? {#can-i-create-a-task-using-marketo}
 
-Ja, Sie können die Aktion [Aufgabenfluss erstellen“ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
+Ja, Sie können die Aktion [Aufgabenfluss erstellen“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
 
 ## Welche Trigger/Filter beziehen sich auf eine Aktivität? {#what-are-the-triggers-filters-related-to-activity}
 

@@ -33,7 +33,7 @@ Wenn Sie jemals die URL einer Seite aktualisieren und möchten, dass die alte UR
 
    >[!NOTE]
    >
-   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Marketo ([) ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Marketo ([) &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
 1. Wählen Sie die Landingpage, die Sie umleiten möchten, im zweiten Feld **[!UICONTROL Ursprüngliche URL]** aus.
 

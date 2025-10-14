@@ -17,7 +17,7 @@ Erhalten Sie eine wÃ¶chentliche E-Mail mit Ihren wichtigsten Konten und deren wÃ
 
 >[!NOTE]
 >
->Erfahren Sie (hier[, wie Sie diesen Bericht ](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>Erfahren Sie (hier[, wie Sie diesen Bericht &#x200B;](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 Der Bericht teilt:
 

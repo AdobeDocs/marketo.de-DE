@@ -19,7 +19,7 @@ In einem [[!UICONTROL Web-]-Bericht](/help/marketo/product-docs/reporting/basic-
 >
 >Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [auf  [!DNL Munchkin]  Website einrichten](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. Klicken Sie [ Bericht „Webseitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) auf den Namen der Person.
+1. Klicken Sie [&#x200B; Bericht „Webseitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) auf den Namen der Person.
 
    ![](assets/web-pages-viewed-web-page-activity-report-1.png)
 

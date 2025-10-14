@@ -31,7 +31,7 @@ Ermitteln Sie, wie viele Personen die Formulare auf Ihren Landingpages ausgefül
    >
    >Finden Sie die Seiten mit dem höchsten Konversionsprozentsatz! [Bericht sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in dieser Spalte und wählen Sie Absteigend sortieren.
 
-   Das AB-Symbol im Bericht zeigt an, dass die Statistiken die Summe aller Seiten in dieser [Landingpage-Testgruppe“ ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
+   Das AB-Symbol im Bericht zeigt an, dass die Statistiken die Summe aller Seiten in dieser [Landingpage-Testgruppe“ &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
 
 1. Scrollen Sie nach rechts, um die Anzahl der Besuche anzuzeigen, die von verschiedenen Social-Media-Plattformen stammen.
 

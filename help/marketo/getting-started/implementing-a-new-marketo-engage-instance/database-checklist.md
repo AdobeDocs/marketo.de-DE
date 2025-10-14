@@ -14,7 +14,7 @@ ht-degree: 9%
 
 Im Abschnitt Datenbank finden Sie die wichtigsten Attribute der Personen in Ihrer Instanz. Erfahren Sie mehr über die erforderlichen Schritte zum Navigieren durch verschiedene Listen und Segmentierungen in Ihrer Datenbank sowie zum Verwalten von Personendatensätzen.
 
-Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Intelligente Listen für System {#system-smart-lists}
 

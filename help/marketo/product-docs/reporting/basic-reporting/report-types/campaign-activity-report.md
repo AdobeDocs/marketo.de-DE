@@ -13,7 +13,7 @@ ht-degree: 15%
 
 # Bericht zur Kampagnenaktivität {#campaign-activity-report}
 
-Erfahren Sie[ wie Ihre „Smart](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}Kampagnen“ funktionieren.
+Erfahren Sie[&#x200B; wie Ihre „Smart](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}Kampagnen“ funktionieren.
 
 1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **Kampagnenaktivität**&#x200B;[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 
@@ -31,7 +31,7 @@ Erfahren Sie[ wie Ihre „Smart](/help/marketo/product-docs/core-marketo-concept
 >
 >Um die Kampagnen zu finden, die die meisten Personen verarbeitet haben, z. B. [Bericht sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} unter _Gesamtzahl der verarbeiteten Personen_ und wählen Sie **Absteigend sortieren**.
 
-**[Sie können für ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Kampagnenaktivitätsbericht Spalten auswählen**:
+**[Sie können für &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Kampagnenaktivitätsbericht Spalten auswählen**:
 
 <table><thead>
   <tr>

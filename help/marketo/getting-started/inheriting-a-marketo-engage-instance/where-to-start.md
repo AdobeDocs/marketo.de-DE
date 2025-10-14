@@ -62,7 +62,7 @@ Benötigen Sie weitere Hilfe? Verbinden Sie sich über die unten stehenden Links
 
 * Für technische Unterstützung bei Problemen, die nicht ordnungsgemäß funktionieren, wenden Sie sich an den **[Marketo Engage-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-* Treten Sie mit anderen Marketo Engage-Benutzenden in der **[Adobe Marketo Engage-Community in Verbindung und lernen Sie von ihnen ](https://nation.marketo.com/){target="_blank"}**.
+* Treten Sie mit anderen Marketo Engage-Benutzenden in der **[Adobe Marketo Engage-Community in Verbindung und lernen Sie von ihnen &#x200B;](https://nation.marketo.com/){target="_blank"}**.
 
 * Wenn Sie praktische Unterstützung benötigen, um Ihre Marketo Engage-Instanz optimal zu nutzen, wenden Sie sich an **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 

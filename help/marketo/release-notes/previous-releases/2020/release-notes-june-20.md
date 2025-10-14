@@ -75,4 +75,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 * **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Ab Version 159 von [!DNL Munchkin] JS wird in der Browser-Konsole eine Warnung vor veralteten Elementen protokolliert, wenn die Methode „Lead verknüpfen“ aufgerufen wird. Diese Warnung gibt an, dass die Funktion in einer zukünftigen Version entfernt wird.  Der vollständige Zeitplan zur Einstellung wird zu einem späteren Zeitpunkt bekannt gegeben.
 
-**_Webinar zur Produktversion_** [Sehen Sie sich die Aufzeichnung ](https://engage.marketo.com/June-Release-2020-On-Demand.html) Webinars zu den Produktinnovationen vom 20. Juni an.
+**_Webinar zur Produktversion_** [Sehen Sie sich die Aufzeichnung &#x200B;](https://engage.marketo.com/June-Release-2020-On-Demand.html) Webinars zu den Produktinnovationen vom 20. Juni an.

@@ -57,4 +57,4 @@ Verwenden Sie Rich Text in einem Formular, um Anweisungen oder andere Informatio
 
 >[!TIP]
 >
->Wussten Sie, dass Sie [ Rich-Text-Block auch ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)Sichtbarkeitsregeln hinzufügen“ können?
+>Wussten Sie, dass Sie [&#x200B; Rich-Text-Block auch &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)Sichtbarkeitsregeln hinzufügen“ können?

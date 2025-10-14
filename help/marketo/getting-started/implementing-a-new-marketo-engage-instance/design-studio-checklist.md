@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Im Design Studio-Abschnitt sollten sich die wiederverwendbaren „globalen Assets“ befinden. Erstellen Sie die globalen Assets, die Ihr Unternehmen in Programmen verwenden möchte, verwenden Sie eine konsistente Namenskonvention und organisieren Sie sie in den Unterordnern, um die Suche zu vereinfachen.
 
-Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Landingpages {#landing-pages}
 

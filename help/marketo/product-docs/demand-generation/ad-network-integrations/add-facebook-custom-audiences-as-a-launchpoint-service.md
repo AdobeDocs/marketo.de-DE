@@ -63,7 +63,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!CAUTION]
    >
-   >Ach, bevor Sie gehen, stellen Sie sicher[ dass Sie  [!DNL Facebook]Benutzerdefinierte Zielgruppenbedingungen“ ](https://www.facebook.com/ads/manage/customaudiences/tos.php) Ihrem [!DNL Facebook]-Konto akzeptieren! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
+   >Ach, bevor Sie gehen, stellen Sie sicher[&#x200B; dass Sie  [!DNL Facebook]Benutzerdefinierte Zielgruppenbedingungen“ &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) Ihrem [!DNL Facebook]-Konto akzeptieren! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
 
 >[!MORELIKETHIS]
 >

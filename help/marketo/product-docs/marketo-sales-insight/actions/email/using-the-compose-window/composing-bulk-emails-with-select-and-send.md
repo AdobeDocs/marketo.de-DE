@@ -34,7 +34,7 @@ So senden/bearbeiten Sie E-Mails mit den Optionen [!UICONTROL Auswählen] und [!
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
-1. Geben Sie eine Betreffzeile ein, wählen Sie eine Vorlage aus (oder erstellen Sie die E-Mail von Grund auf neu) und senden/[ Sie ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) E-Mail.
+1. Geben Sie eine Betreffzeile ein, wählen Sie eine Vorlage aus (oder erstellen Sie die E-Mail von Grund auf neu) und senden/[&#x200B; Sie &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) E-Mail.
 
    ![](assets/composing-bulk-emails-with-select-and-send-4.png)
 

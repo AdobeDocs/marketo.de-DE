@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Grundlegendes zu Freiform- im Vergleich zu geführten Landingpages {#understanding-free-form-vs-guided-landing-pages}
 
-Die ausgewählte Vorlage bestimmt, in welchem Landingpage-Bearbeitungsmodus Sie arbeiten. Es gibt zwei mögliche Pfade[ (Freiform](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) und [Geführt](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Nachfolgend finden Sie eine kurze Zusammenfassung der wichtigsten Unterschiede.
+Die ausgewählte Vorlage bestimmt, in welchem Landingpage-Bearbeitungsmodus Sie arbeiten. Es gibt zwei mögliche Pfade[&#x200B; (Freiform](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) und [Geführt](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Nachfolgend finden Sie eine kurze Zusammenfassung der wichtigsten Unterschiede.
 
 ## Freiformseiten {#free-form-pages}
 

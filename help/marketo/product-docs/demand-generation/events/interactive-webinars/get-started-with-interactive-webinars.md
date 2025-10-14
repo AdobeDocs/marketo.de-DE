@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Erste Schritte mit interaktiven Webinaren {#get-started-with-interactive-webinars}
 
-Sie haben die „Übersicht über [ interaktive Webinare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} gelesen und sind nun bereit. Gehen Sie wie folgt vor, um zu beginnen.
+Sie haben die „Übersicht über [&#x200B; interaktive Webinare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} gelesen und sind nun bereit. Gehen Sie wie folgt vor, um zu beginnen.
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 
@@ -34,7 +34,7 @@ Das war&#39;s!
 
 ## Zusätzliche Dokumentation {#additional-documentation}
 
-Sehen Sie nach Abschluss des Webinars anhand des hilfreichen Dashboards im Bildschirm Überblick der Veranstaltung nach, wie es funktioniert. Eine detaillierte Interaktion Ihrer Audience finden Sie im [Interaktions-Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Nutzen Sie die Webinar-Interaktionen, um die Zielgruppe mithilfe von Smart Filters und Trigger in (Ereignis[Workflows) personalisiert ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} ansprechen. Erfahren Sie in „On-Demand-Webinaren“, wie Sie Ihre On[Demand-Leistung ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
+Sehen Sie nach Abschluss des Webinars anhand des hilfreichen Dashboards im Bildschirm Überblick der Veranstaltung nach, wie es funktioniert. Eine detaillierte Interaktion Ihrer Audience finden Sie im [Interaktions-Dashboard](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Nutzen Sie die Webinar-Interaktionen, um die Zielgruppe mithilfe von Smart Filters und Trigger in (Ereignis[Workflows) personalisiert &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} ansprechen. Erfahren Sie in „On-Demand-Webinaren“, wie Sie Ihre On[Demand-Leistung &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
 
 Zu diesem Thema finden Sie weitere Hilfeartikel, darunter [Best Practices für interaktive Webinare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, wie Sie [Ihre Webinare anpassen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"}, um Ihre Anforderungen/Ihr Branding widerzuspiegeln, unternehmensweite Vorlagen mithilfe von [Vorlagen für interaktive Webinare](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} erstellen und Räume und Aufzeichnungen in [Room Management](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"} verwalten.
 

@@ -17,7 +17,7 @@ Die folgenden Funktionen sind in der Version vom August 2014 enthalten. Überpr�
 
 ## Marketing-Kalender-Lizenzen {#marketing-calendar-licenses}
 
-Nach dem 5. September 2014 haben nur noch 5 Benutzer freien Zugang zum Marketing-Kalender. Stellen Sie sicher[ dass Sie den Benutzern Ihrer Wahl zuvor eine Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)Lizenz erteilen/widerrufen, um einen unterbrechungsfreien Zugriff zu erhalten.
+Nach dem 5. September 2014 haben nur noch 5 Benutzer freien Zugang zum Marketing-Kalender. Stellen Sie sicher[&#x200B; dass Sie den Benutzern Ihrer Wahl zuvor eine Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)Lizenz erteilen/widerrufen, um einen unterbrechungsfreien Zugriff zu erhalten.
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 

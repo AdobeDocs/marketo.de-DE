@@ -42,7 +42,7 @@ Stellen wir uns vor, dass Ihnen auf Ihrer letzten Messe eine Person zusätzliche
 
    >[!TIP]
    >
-   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Importieren einer Personenliste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} und [Ändern des ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}&quot;.
+   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Importieren einer Personenliste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} und [Ändern des &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}&quot;.
 
 ## Aktualisieren der Personendaten {#update-the-person-data}
 

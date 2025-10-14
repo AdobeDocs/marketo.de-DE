@@ -34,6 +34,6 @@ Unser [!UICONTROL Push to Tout] Button wird eine Liste Ihrer Leads/Kontakte in [
 
    >[!NOTE]
    >
-   >[!DNL Sales Connect] fügt diese Gruppe mit dem Titel &quot;SFDC-…“ zur Seite „Beziehungen“ in der [Web-Anwendung“ ](https://toutapp.com/login).
+   >[!DNL Sales Connect] fügt diese Gruppe mit dem Titel &quot;SFDC-…“ zur Seite „Beziehungen“ in der [Web-Anwendung“ &#x200B;](https://toutapp.com/login).
 
 1. Wählen Sie **[!UICONTROL E-Mail an gesamte]** senden, um diese Gruppen-E-Mail zu senden.

@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Leistungsbericht für Kampagnen-E-Mails {#campaign-email-performance-report}
 
-Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail-Leistungsstatistiken nach ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)Smart Campaign“ gruppiert anzuzeigen.
+Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail-Leistungsstatistiken nach &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)Smart Campaign“ gruppiert anzuzeigen.
 
 1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **[!UICONTROL Kampagnen-E-Mail-Leistung]**&#x200B;[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
@@ -27,7 +27,7 @@ Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail-Leis
    >
    >Klicken Sie auf den Namen einer E-Mail, um sie in der E-Mail-Vorschau zu öffnen.
 
-   [Spalten, die Sie für ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Kampagnen-E-Mail-Leistungsbericht auswählen können, umfassen:
+   [Spalten, die Sie für &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Kampagnen-E-Mail-Leistungsbericht auswählen können, umfassen:
 
    | Spalte | Beschreibung |
    |---|---|

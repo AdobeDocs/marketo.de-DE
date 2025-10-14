@@ -39,7 +39,7 @@ Marketo Engage ermöglicht es Ihnen, Ihre Programme mit [!DNL Salesforce] Kampag
 
    >[!TIP]
    >
-   >Wenn Sie eine bestehende [!DNL Salesforce] auswählen, stellen Sie sicher, dass Sie [den Programmstatus der Kampagne  [!DNL Salesforce]  das Marketo-Programm ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
+   >Wenn Sie eine bestehende [!DNL Salesforce] auswählen, stellen Sie sicher, dass Sie [den Programmstatus der Kampagne  [!DNL Salesforce]  das Marketo-Programm &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Geben Sie einen Namen für die neue Kampagne ein und klicken Sie auf **[!UICONTROL Speichern]**.
 

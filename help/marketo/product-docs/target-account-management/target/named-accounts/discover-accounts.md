@@ -27,7 +27,7 @@ Identifizieren Sie potenzielle Zielkonten in Ihrem CRM.
 
 **[!UICONTROL Potenzielle Personen]** (in [!UICONTROL CRM-Konten &#x200B;] &amp; [!UICONTROL Marketo-Unternehmen entdecken]): Zeigt, wie viele Leads Marketo gefunden hat, die möglicherweise zu einem CRM-Konto gehören könnten.
 
-**Benutzerdefiniertes CRM-Feld** (nur in „CRM-Konten erkennen„): Auf diese Weise können Sie Ihre Vertriebs- und Marketing-Organisation für die Auswahl der richtigen Zielkonten abstimmen. Nachdem Sie [das benutzerdefinierte CRM-Feld ](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) Marketo TAM zugeordnet haben, zeigen wir Ihnen die zugeordneten Daten, damit Sie Ihre Zielkonten identifizieren können.
+**Benutzerdefiniertes CRM-Feld** (nur in „CRM-Konten erkennen„): Auf diese Weise können Sie Ihre Vertriebs- und Marketing-Organisation für die Auswahl der richtigen Zielkonten abstimmen. Nachdem Sie [das benutzerdefinierte CRM-Feld &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) Marketo TAM zugeordnet haben, zeigen wir Ihnen die zugeordneten Daten, damit Sie Ihre Zielkonten identifizieren können.
 
 1. Klicken Sie [!UICONTROL Benannte Konten] auf die Dropdown-Liste **[!UICONTROL Neu]** und wählen Sie **[!UICONTROL CRM-Konten suchen]**.
 

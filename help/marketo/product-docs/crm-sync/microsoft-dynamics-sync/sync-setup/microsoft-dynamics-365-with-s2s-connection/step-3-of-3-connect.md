@@ -30,7 +30,7 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
 >[!NOTE]
 >
->Bevor Sie neue Anmeldeinformationen eingeben, können [ sie hier ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
+>Bevor Sie neue Anmeldeinformationen eingeben, können [&#x200B; sie hier &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
 ## Benutzerinformationen für [!DNL Dynamics] eingeben {#enter-dynamics-sync-user-information}
 
@@ -52,7 +52,7 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
    >[!CAUTION]
    >
-   >Stellen Sie sicher, dass Ihre Organisations-URL korrekt ist, da wir die nachfolgenden Schemaänderungen nach der Übermittlung nicht rückgängig machen können. Wenn eine falsche Org-URL verwendet wird, müssen Sie ein neues Marketo-Abonnement erwerben. Wenn Sie die URL nicht kennen, ([ Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Stellen Sie sicher, dass Ihre Organisations-URL korrekt ist, da wir die nachfolgenden Schemaänderungen nach der Übermittlung nicht rückgängig machen können. Wenn eine falsche Org-URL verwendet wird, müssen Sie ein neues Marketo-Abonnement erwerben. Wenn Sie die URL nicht kennen, ([&#x200B; Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
 1. Geben Sie die [!DNL Dynamics] Benutzerinformationen für die Synchronisierung ein und klicken **[!UICONTROL abschließend auf]** Speichern“.
 

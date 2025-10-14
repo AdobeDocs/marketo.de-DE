@@ -30,7 +30,7 @@ Ein Veranstaltungsprogramm ist ein Programmtyp, der zur Automatisierung Ihrer Of
 >* Messen
 >* Meetups
 
-Ereignisse können automatisch eine Verbindung zu Ihrem [Webinar-Anbieter](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) herstellen und mit einer [iPad-Check-in-App ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Ereignisse können automatisch eine Verbindung zu Ihrem [Webinar-Anbieter](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) herstellen und mit einer [iPad-Check-in-App &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >

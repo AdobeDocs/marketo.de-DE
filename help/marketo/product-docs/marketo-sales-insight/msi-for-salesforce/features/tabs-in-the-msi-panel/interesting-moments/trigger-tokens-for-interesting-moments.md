@@ -15,7 +15,7 @@ ht-degree: 68%
 
 >[!PREREQUISITES]
 >
->Erfahren Sie, wie Sie den Schritt &quot;[ Momentfluss“ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Erfahren Sie, wie Sie den Schritt &quot;[&#x200B; Momentfluss“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Verfügbare Token {#available-tokens}
 

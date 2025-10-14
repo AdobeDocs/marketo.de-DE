@@ -29,7 +29,7 @@ Google Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128
 
 >[!NOTE]
 >
->Sie können auch ein [Standalone-Konto [!DNL Google AdWords]  als  [!DNL Launchpoint] -Service ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
+>Sie können auch ein [Standalone-Konto [!DNL Google AdWords]  als  [!DNL Launchpoint] -Service &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

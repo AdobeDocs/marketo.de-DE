@@ -19,9 +19,9 @@ Die folgenden Funktionen sind in der Version vom Januar 2015 enthalten. Bitte ü
 
 **Handy-freundliche Landingpages**
 
-Sie können [im Landingpage-Editor ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) mobile Ansichten für Landingpages erstellen). Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und steigern Sie die Interaktion, indem Sie Ihre Inhalte für den einfachen Gebrauch unterwegs anpassen. Diese Funktion wird in der Woche nach der Veröffentlichung schrittweise eingeführt.
+Sie können [im Landingpage-Editor &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) mobile Ansichten für Landingpages erstellen). Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und steigern Sie die Interaktion, indem Sie Ihre Inhalte für den einfachen Gebrauch unterwegs anpassen. Diese Funktion wird in der Woche nach der Veröffentlichung schrittweise eingeführt.
 
-Video-[ zur schrittweisen Anleitung für ](https://youtu.be/aPQHlG2X6c0)-Landingpages
+Video-[&#x200B; zur schrittweisen Anleitung für &#x200B;](https://youtu.be/aPQHlG2X6c0)-Landingpages
 
 **Neue REST API-Aufrufe**
 

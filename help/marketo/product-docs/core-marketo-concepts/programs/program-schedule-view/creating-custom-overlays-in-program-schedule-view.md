@@ -27,7 +27,7 @@ Sie können benutzerdefinierte Überlagerungen erstellen, um die für Ihre Anfor
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Sie können auch nach ([-Tags) ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
+1. Sie können auch nach ([-Tags) &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

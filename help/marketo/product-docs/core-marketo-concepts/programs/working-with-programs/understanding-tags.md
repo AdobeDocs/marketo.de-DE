@@ -23,7 +23,7 @@ Tag-Typen identifizieren die Art von Informationen, nach denen Sie sortieren mö
 
 >[!TIP]
 >
->Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie &quot;[ Tags“ erstellen ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie &quot;[&#x200B; Tags“ erstellen &#x200B;](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >

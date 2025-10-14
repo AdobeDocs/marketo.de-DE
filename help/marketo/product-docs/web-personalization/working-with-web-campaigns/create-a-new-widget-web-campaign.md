@@ -95,7 +95,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der [!UICONTROL AutoTune]-Funktion erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, setzt die Konvertierungskampagnen mit den höchsten Werten fort und setzt die anderen Kampagnen aus.
+>**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der [!UICONTROL AutoTune]-Funktion erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, setzt die Konvertierungskampagnen mit den höchsten Werten fort und setzt die anderen Kampagnen aus.
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 

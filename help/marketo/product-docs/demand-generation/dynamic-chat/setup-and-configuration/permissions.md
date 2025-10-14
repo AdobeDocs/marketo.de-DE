@@ -66,7 +66,7 @@ Sie können diesen Vorgang nun für beliebige andere Dynamic Chat-Bereiche wiede
 
    ![](assets/permissions-11.png)
 
-1. Führen Sie nun für jeden gewünschten Bereich die Schritte 3 [ 6 ](#edit-existing-permissions) oben beschriebenen Bereich aus.
+1. Führen Sie nun für jeden gewünschten Bereich die Schritte 3 [&#x200B; 6 &#x200B;](#edit-existing-permissions) oben beschriebenen Bereich aus.
 
 ## Liste der Berechtigungen {#list-of-permissions}
 

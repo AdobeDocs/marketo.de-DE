@@ -17,7 +17,7 @@ Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, [ Sie einen CNAME in Ihrem DNS eingerichtet haben](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} bevor Sie Ihre Branding-Domains in Marketo hinzufügen.
+>Vergewissern Sie sich, [&#x200B; Sie einen CNAME in Ihrem DNS eingerichtet haben](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} bevor Sie Ihre Branding-Domains in Marketo hinzufügen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

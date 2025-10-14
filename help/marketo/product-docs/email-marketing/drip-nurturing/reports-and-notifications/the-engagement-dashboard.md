@@ -27,7 +27,7 @@ Wählen Sie Ihr Interaktionsprogramm aus und klicken Sie auf **Anzeigen** > **[!
 
 >[!TIP]
 >
->Ausführlichere Statistiken finden Sie im [Bericht zur ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) des Interaktionsstroms“.
+>Ausführlichere Statistiken finden Sie im [Bericht zur &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) des Interaktionsstroms“.
 
 ## Erläuterung des Erschöpfungs-Widgets {#understand-the-exhaustion-widget}
 

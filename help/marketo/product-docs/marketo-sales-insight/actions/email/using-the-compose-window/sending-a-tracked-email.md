@@ -19,7 +19,7 @@ Beim Versand einer E-Mail mit Marketo Sales Connect werden Ansichten (E-Mail-Öf
 >Bevor Sie eine verfolgte E-Mail versenden, müssen Sie eine verifizierte Identität und einen E-Mail-Versandkanal einrichten.
 >
 >* [E-Mail-Adresse überprüfen](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
->* Einrichten eines Versandkanals für ([) ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)Gmail[&#128279;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* Einrichten eines Versandkanals für ([) &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)Gmail[&#128279;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
 1. Erstellen Sie Ihren E-Mail-Entwurf (es gibt mehrere Möglichkeiten, dies zu tun, in diesem Beispiel wählen wir **Erstellen** in der Kopfzeile).
 
@@ -49,7 +49,7 @@ Beim Versand einer E-Mail mit Marketo Sales Connect werden Ansichten (E-Mail-Öf
    >
    >Zum Senden der E-Mail sind eine Betreffzeile und ein Empfänger erforderlich. Wir **Ihren Entwurf automatisch speichern** sobald eine Betreffzeile und ein Empfänger hinzugefügt wurden.
 
-1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken **abschließend auf** Senden[ oder ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)Planen).
+1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken **abschließend auf** Senden[&#x200B; oder &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)Planen).
 
    ![](assets/sending-a-tracked-email-5.png)
 

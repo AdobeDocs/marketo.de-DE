@@ -15,7 +15,7 @@ ht-degree: 2%
 
 [!UICONTROL Keywords] sind das Rückgrat Ihrer SEO-Strategie. Ihr Ziel ist es, auf der ersten Seite so nah wie möglich an #1 Schlüsselwörtern zu sein, die für Ihr Unternehmen relevant sind.
 
-Der Abschnitt [!UICONTROL Keywords] zeigt Ihnen, wie erfolgreich Ihre Site ist, um dies zu erreichen, und wie Sie im Vergleich zu [Ihrer Konkurrenz“ ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+Der Abschnitt [!UICONTROL Keywords] zeigt Ihnen, wie erfolgreich Ihre Site ist, um dies zu erreichen, und wie Sie im Vergleich zu [Ihrer Konkurrenz“ &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## [!UICONTROL Keywords] - Zusammenfassungsansicht {#keywords-summary-view}
 

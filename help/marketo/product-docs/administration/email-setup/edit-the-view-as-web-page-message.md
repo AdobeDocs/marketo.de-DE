@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Bearbeiten der Nachricht „Als Web-Seite anzeigen“ {#edit-the-view-as-web-page-message}
 
-Wenn Sie den Text &quot;[ als Web-Seite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) bearbeiten müssen, sehen Sie folgendes:
+Wenn Sie den Text &quot;[&#x200B; als Web-Seite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) bearbeiten müssen, sehen Sie folgendes:
 
 >[!NOTE]
 >

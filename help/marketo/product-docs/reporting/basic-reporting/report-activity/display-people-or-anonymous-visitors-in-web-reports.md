@@ -17,7 +17,7 @@ ht-degree: 10%
 >
 >[Fügen Sie Ihrer Website Munchkin-Trackingcode hinzu](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-In den Berichten [[!UICONTROL Web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Seitenaktivität und [[!UICONTROL Unternehmens]Webaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) können Sie entweder ([ Personen oder anonyme Besucher) sehen, ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) Ihre Site besuchen. Die anonymen Besucher haben auf Daten wie Metro Area geschlossen.  So wählen Sie aus, ob der Bericht bekannte Leads oder anonyme Besucher anzeigen soll.
+In den Berichten [[!UICONTROL Web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Seitenaktivität und [[!UICONTROL Unternehmens]Webaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) können Sie entweder ([&#x200B; Personen oder anonyme Besucher) sehen, &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) Ihre Site besuchen. Die anonymen Besucher haben auf Daten wie Metro Area geschlossen.  So wählen Sie aus, ob der Bericht bekannte Leads oder anonyme Besucher anzeigen soll.
 
 1. Klicken Sie [!UICONTROL &#x200B; Bericht „Webseitenaktivität] auf **[!UICONTROL Setup]**.
 

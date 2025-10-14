@@ -21,7 +21,7 @@ Im folgenden Beispiel erstellen Sie eine berechnete Kennzahl für Softbounces, b
 >
 >Sie benötigen mindestens eine Metrik in Ihrem Bericht, sie muss jedoch nicht zu den Kennzahlen gehören, die Sie zum Definieren Ihrer benutzerdefinierten Kennzahl verwenden.
 
-1. Überziehen Sie die Felder, die Sie für Ihren Bericht benötigen. Weitere [ finden Sie unter „Hinzufügen von Feldern zu einem ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)&quot;.
+1. Überziehen Sie die Felder, die Sie für Ihren Bericht benötigen. Weitere [&#x200B; finden Sie unter „Hinzufügen von Feldern zu einem &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)&quot;.
 
 1. Klicken Sie mit der rechten Maustaste auf eine vorhandene Metrik (blaue Zelle), klicken Sie auf **[!UICONTROL Benutzerdefinierte Kennzahl]** und wählen Sie **[!UICONTROL Berechnete Kennzahl]**.
 

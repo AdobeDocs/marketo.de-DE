@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Layout von E-Mail-Spalten und E-Mail-Seiten {#email-columns-and-email-page-layout}
 
-Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-Abschnitt des [Command Center“ angezeigt ](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Ihre Konfigurationseinstellungen werden für jeden E-Mail-Unterordner gespeichert (z. B. Zugestellt, Fehlgeschlagen, Geplant usw.).
+Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-Abschnitt des [Command Center“ angezeigt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Ihre Konfigurationseinstellungen werden für jeden E-Mail-Unterordner gespeichert (z. B. Zugestellt, Fehlgeschlagen, Geplant usw.).
 
 ## E-Mail-Spalten {#email-columns}
 

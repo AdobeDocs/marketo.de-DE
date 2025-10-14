@@ -69,7 +69,7 @@ Gute Arbeit! Diese Segmente werden an vielen Stellen in Marketo nützlich sein.
 
 >[!NOTE]
 >
->Eine Person kann sich für verschiedene Segmente qualifizieren, gehört aber letztendlich zu nur einem Segment, das von der [Prioritätsreihenfolge der Segmente“ ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
+>Eine Person kann sich für verschiedene Segmente qualifizieren, gehört aber letztendlich zu nur einem Segment, das von der [Prioritätsreihenfolge der Segmente“ &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
 
 >[!NOTE]
 >

@@ -29,4 +29,4 @@ ht-degree: 8%
 
    >[!MORELIKETHIS]
    >
-   >[Verwenden Sie eine Smart-Liste, um Ihren Bericht nach ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) Personen zu filtern.
+   >[Verwenden Sie eine Smart-Liste, um Ihren Bericht nach &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) Personen zu filtern.

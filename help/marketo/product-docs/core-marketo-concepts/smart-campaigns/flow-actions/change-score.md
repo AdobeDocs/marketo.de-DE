@@ -23,7 +23,7 @@ Die Bewertung von Personen ist einfach und leistungsstark und hilft Ihrem Verkau
 
    >[!TIP]
    >
-   >Sie können mehrere Bewertungsfelder erstellen. Weitere [ finden Sie unter „Erstellen eines benutzerdefinierten Felds ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} Marketo&quot;.
+   >Sie können mehrere Bewertungsfelder erstellen. Weitere [&#x200B; finden Sie unter „Erstellen eines benutzerdefinierten Felds &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} Marketo&quot;.
 
 1. Geben Sie die gewünschte Score-Änderung ein.
 

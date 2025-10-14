@@ -17,7 +17,7 @@ Es _(viele_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel,
 
 >[!PREREQUISITES]
 >
->Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie [ in ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten.
+>Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie [&#x200B; in &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten.
 
 ## Streamen von Designer-Karten {#stream-designer-cards}
 
@@ -93,7 +93,7 @@ Oben rechts im Stream Designer sehen Sie eine Handvoll Symbole. Hier ist, was si
 
 Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} erstellen. In diesem Beispiel erstellen wir einen für ein Dialogfeld.
 
-1. Nachdem Sie &quot;[ Dialogfeld“ erstellt haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} klicken Sie auf die Registerkarte **[!UICONTROL Stream-Designer]**.
+1. Nachdem Sie &quot;[&#x200B; Dialogfeld“ erstellt haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} klicken Sie auf die Registerkarte **[!UICONTROL Stream-Designer]**.
 
    ![](assets/stream-designer-6.png)
 
@@ -206,7 +206,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
 >[!NOTE]
 >
->Bevor Sie auf [!UICONTROL Veröffentlichen] klicken, vergewissern Sie sich, dass Sie [ Ziel-URL(s) ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} haben.
+>Bevor Sie auf [!UICONTROL Veröffentlichen] klicken, vergewissern Sie sich, dass Sie [&#x200B; Ziel-URL(s) &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} haben.
 
 >[!MORELIKETHIS]
 >

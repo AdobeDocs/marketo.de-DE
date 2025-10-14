@@ -50,7 +50,7 @@ Zeigen Sie alle Ihre Aufgaben und deren relevante Details an, z. B. den Zeitpunk
 
 >[!NOTE]
 >
->Die generierten Fragen und Antworten können auch in der [Antwortbibliothek“ angezeigt ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>Die generierten Fragen und Antworten können auch in der [Antwortbibliothek“ angezeigt &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Suchen Sie die gewünschte Aufgabe und klicken Sie auf das Download-Symbol neben ihrem Namen.
 

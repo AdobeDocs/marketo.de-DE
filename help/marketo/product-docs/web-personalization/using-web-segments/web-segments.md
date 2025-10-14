@@ -187,7 +187,7 @@ Wählen Sie aus einer [benannten Kontenliste](/help/marketo/product-docs/web-per
 
 >[!NOTE]
 >
->Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **ISP ausschließen**
 
@@ -290,7 +290,7 @@ Aufruf der Web Personalization[API (weitere Informationen dazu finden Sie hier)]
 
 >[!TIP]
 >
->**Verwenden von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einbeziehen möchten, der bzw. die etwas darin enthält, z. B. &quot;[google.com](https://google.com)&quot; oder „Suchbegriffprodukt“, nennen wir dies einen Platzhalter, und er sollte mit einem Sternchen - diesem kleinen Kerl&#42; - an jedem Ende eingegeben werden. Daher sollte alles, was von [google.com](https://google.com) kommt, als &#42; ([.com) ](https://google.com)&#42; werden
+>**Verwenden von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einbeziehen möchten, der bzw. die etwas darin enthält, z. B. &quot;[google.com](https://google.com)&quot; oder „Suchbegriffprodukt“, nennen wir dies einen Platzhalter, und er sollte mit einem Sternchen - diesem kleinen Kerl&#42; - an jedem Ende eingegeben werden. Daher sollte alles, was von [google.com](https://google.com) kommt, als &#42; ([.com) &#x200B;](https://google.com)&#42; werden
 
 ## Bearbeiten [!UICONTROL Segmente] {#edit-segments}
 

@@ -46,7 +46,7 @@ ht-degree: 11%
 
    >[!NOTE]
    >
-   >Denken Sie daran, dass Sie nur Landingpages umleiten können, die mit Ihrem Marketo ([) ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}.
+   >Denken Sie daran, dass Sie nur Landingpages umleiten können, die mit Ihrem Marketo ([) &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}.
 
 1. Klicken Sie auf die zweite **[!UICONTROL Original-URL]** Dropdown-Liste und wählen Sie die Landingpage aus, die Sie umleiten möchten.
 

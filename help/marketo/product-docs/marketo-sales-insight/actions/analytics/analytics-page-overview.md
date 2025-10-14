@@ -34,7 +34,7 @@ Auf den Registerkarten [!UICONTROL Ich] und [!UICONTROL Team] werden Information
 
 ## Registerkarte [!UICONTROL ME] {#me-tab}
 
-Die [Registerkarte ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}Ich“ ist ein hervorragender Ort, um die Interaktion Ihrer E-Mails, Vorlagen und Links zu überprüfen. Wenn Sie ein Administrator in Sales Insight Actions sind, können Sie nach beliebigen Benutzenden in Ihrem Team filtern, um deren Statistiken anzuzeigen.
+Die [Registerkarte &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}Ich“ ist ein hervorragender Ort, um die Interaktion Ihrer E-Mails, Vorlagen und Links zu überprüfen. Wenn Sie ein Administrator in Sales Insight Actions sind, können Sie nach beliebigen Benutzenden in Ihrem Team filtern, um deren Statistiken anzuzeigen.
 
 ## Registerkarte [!UICONTROL Team] {#team-tab}
 

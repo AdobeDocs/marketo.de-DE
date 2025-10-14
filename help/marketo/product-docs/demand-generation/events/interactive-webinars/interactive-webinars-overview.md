@@ -24,7 +24,7 @@ Interaktive Webinare ergänzen das vorhandene Ereignis- und Webinarerlebnis, ind
 
 Interaktive Webinare bieten [drei verschiedene Lizenzen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"} jeweils mit verschiedenen Funktionen und Kapazitäten.
 
-Greifen Sie nach dem Webinar über Berichte [ Dashboards, die Lead](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} und aggregierte Interaktionsdaten enthalten, auf die Analyse der Ereignisleistung zu. Mit interaktiven Webinar-spezifischen Filtern und Triggern können Sie bestimmte Gruppen von Personen finden, die bestimmte Aktionen durchgeführt haben (z. B. auf einen Link geklickt oder ein Asset heruntergeladen haben).
+Greifen Sie nach dem Webinar über Berichte [&#x200B; Dashboards, die Lead](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} und aggregierte Interaktionsdaten enthalten, auf die Analyse der Ereignisleistung zu. Mit interaktiven Webinar-spezifischen Filtern und Triggern können Sie bestimmte Gruppen von Personen finden, die bestimmte Aktionen durchgeführt haben (z. B. auf einen Link geklickt oder ein Asset heruntergeladen haben).
 
 ## FAQs {#faq}
 

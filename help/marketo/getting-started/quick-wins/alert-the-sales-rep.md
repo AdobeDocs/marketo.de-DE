@@ -61,7 +61,7 @@ Um Warnhinweis-E-Mails automatisch an Vertriebsmitarbeiter zu senden, benötigen
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} ist ein spezielles Token für Benachrichtigungs-E-Mails. Weitere [ finden Sie unter „Verwenden des Tokens ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} Warnhinweisinfo senden .
+   >{{SP_Send_Alert_Info}} ist ein spezielles Token für Benachrichtigungs-E-Mails. Weitere [&#x200B; finden Sie unter „Verwenden des Tokens &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} Warnhinweisinfo senden .
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 

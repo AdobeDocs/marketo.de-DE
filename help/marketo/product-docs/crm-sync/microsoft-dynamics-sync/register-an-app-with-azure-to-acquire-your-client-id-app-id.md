@@ -17,7 +17,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
 ## Registrieren einer neuen App {#registering-a-new-app}
 
-1. [Melden Sie ](https://login.microsoftonline.com/){target="_blank"} beim Verwaltungsportal von Microsoft Azure mit einem Konto mit Administratorberechtigungen an. Sie können auf das Microsoft Azure-Portal auch über das Office 365 Admin Center zugreifen, indem Sie das **[!UICONTROL Admin]**-Element im linken Navigationsbereich erweitern und **[!UICONTROL Azure AD]** auswählen.
+1. [Melden Sie &#x200B;](https://login.microsoftonline.com/){target="_blank"} beim Verwaltungsportal von Microsoft Azure mit einem Konto mit Administratorberechtigungen an. Sie können auf das Microsoft Azure-Portal auch über das Office 365 Admin Center zugreifen, indem Sie das **[!UICONTROL Admin]**-Element im linken Navigationsbereich erweitern und **[!UICONTROL Azure AD]** auswählen.
 
    >[!CAUTION]
    >
@@ -25,7 +25,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    >[!NOTE]
    >
-   >Wenn Sie kein Azure-Konto haben, können Sie [ für eines ](https://azure.microsoft.com/en-us/free/){target="_blank"}. Weitere Informationen finden Sie in der Dokumentation von Microsoft oder bei Ihrem Microsoft-Support-Mitarbeiter. Nachdem Sie ein Azure-Konto erstellt haben, können Sie eine oder mehrere Apps wie unten beschrieben registrieren.
+   >Wenn Sie kein Azure-Konto haben, können Sie [&#x200B; für eines &#x200B;](https://azure.microsoft.com/en-us/free/){target="_blank"}. Weitere Informationen finden Sie in der Dokumentation von Microsoft oder bei Ihrem Microsoft-Support-Mitarbeiter. Nachdem Sie ein Azure-Konto erstellt haben, können Sie eine oder mehrere Apps wie unten beschrieben registrieren.
    >
    >
    >Wenn Sie ein Azure-Konto haben, Ihr [!DNL Office 365]-Abonnement mit [!DNL Microsoft Dynamics 365] jedoch nicht in Ihrem Azure-Abonnement verfügbar ist, befolgen Sie [diese Anweisungen](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} um die beiden Konten zu verknüpfen.

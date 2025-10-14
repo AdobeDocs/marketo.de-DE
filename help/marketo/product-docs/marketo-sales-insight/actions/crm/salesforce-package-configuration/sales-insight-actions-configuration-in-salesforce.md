@@ -59,7 +59,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >Wenn Sie Ihren [!UICONTROL API-Geheimschlüssel] nicht zur Hand haben, können Sie ihn finden, indem Sie die Schritte in [diesem Artikel) ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
+   >Wenn Sie Ihren [!UICONTROL API-Geheimschlüssel] nicht zur Hand haben, können Sie ihn finden, indem Sie die Schritte in [diesem Artikel) &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

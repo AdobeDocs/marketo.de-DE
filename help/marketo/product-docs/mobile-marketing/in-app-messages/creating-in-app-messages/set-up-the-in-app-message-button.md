@@ -71,7 +71,7 @@ Sie können das standardmäßige Schaltflächendesign verwenden, es ändern oder
    >
    >Die Schaltfläche verfügt immer über eine Tipp-Aktion, sodass das Kontrollkästchen Tipp-Aktion automatisch mit der Standardmeldung „Nachricht [!UICONTROL &quot; &#x200B;] ist.
 
-Fast da. Der letzte Schritt besteht darin[ „In-App-Nachrichtenhintergrund konfigurieren und Schaltfläche schließen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Fast da. Der letzte Schritt besteht darin[&#x200B; „In-App-Nachrichtenhintergrund konfigurieren und Schaltfläche schließen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >

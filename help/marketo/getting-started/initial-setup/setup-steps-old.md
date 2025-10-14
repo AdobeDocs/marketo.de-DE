@@ -98,13 +98,13 @@ Der neue Benutzer wird jetzt auf der Registerkarte **[!UICONTROL Benutzer]** auf
 
 ## Einrichten autorisierter Support-Kontakte {#set-up-your-authorized-support-contacts}
 
-Möglicherweise haben Sie eine E-Mail vom Marketo-Support erhalten, in der Sie darauf hingewiesen werden, dass Sie der Marketo-Support-Administrator für Ihr Unternehmen sind. In diesem Fall können Sie **autorisierte Support-Kontakte** für Ihr Team einrichten. Nur autorisierte Support-Kontakte können sich direkt über das [Marketo Support-Portal an den Marketo-Support ](https://support.marketo.com){target="_blank"}.
+Möglicherweise haben Sie eine E-Mail vom Marketo-Support erhalten, in der Sie darauf hingewiesen werden, dass Sie der Marketo-Support-Administrator für Ihr Unternehmen sind. In diesem Fall können Sie **autorisierte Support-Kontakte** für Ihr Team einrichten. Nur autorisierte Support-Kontakte können sich direkt über das [Marketo Support-Portal an den Marketo-Support &#x200B;](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
 >Die Anzahl der Support-Kontakte, die Sie erstellen können, wird durch das von Ihnen erworbene Paket bestimmt. Dieser Grenzwert wird in Ihrer E-Mail vom Marketo-Support angegeben.
 
-Autorisierte Support-Kontaktdokumente wurden in die Marketo-Community verschoben. Siehe [ Artikel](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
+Autorisierte Support-Kontaktdokumente wurden in die Marketo-Community verschoben. Siehe [&#x200B; Artikel](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
 
 >[!NOTE]
 >
@@ -342,7 +342,7 @@ Wählen Sie je nach CRM, das Ihr Unternehmen verwendet, eine der folgenden Optio
 >
 >Sind Sie ein [!DNL Launch Pack]? Sie können diesen Schritt überspringen. Ihr Berater stellt Ihnen [!DNL Munchkin] Code-Anweisungen in Ihrem Dokument mit den IT-Einrichtungsanweisungen zur Verfügung.
 
-Marketo verfügt über eine benutzerdefinierte Tracking-JavaScript ([!DNL Munchkin] genannt), mit der Sie Personenaktivitäten auf jeder Web-Seite verfolgen können. [!DNL Munchkin] ist für die Integration Ihrer Website in Marketo erforderlich. Führen Sie die folgenden Schritte aus[ um  [!DNL Munchkin] Trackingcode zu Ihrer Website hinzuzufügen](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo verfügt über eine benutzerdefinierte Tracking-JavaScript ([!DNL Munchkin] genannt), mit der Sie Personenaktivitäten auf jeder Web-Seite verfolgen können. [!DNL Munchkin] ist für die Integration Ihrer Website in Marketo erforderlich. Führen Sie die folgenden Schritte aus[&#x200B; um  [!DNL Munchkin] Trackingcode zu Ihrer Website hinzuzufügen](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -350,6 +350,6 @@ Marketo verfügt über eine benutzerdefinierte Tracking-JavaScript ([!DNL Munchk
 
 ## Leistungserwartungen {#performance-expectations}
 
-Was können Sie von Marketo in puncto Leistung erwarten? Er kann je nach Größe und Komplexität Ihrer Marketing-Kampagnen variieren. Sie können jedoch Leistungsstufen erwarten, die den Werten in der Spalte „Standard“ in mehreren Tabellen in der [Marketo Engage-Produktbeschreibung entsprechen](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Die Spalten „Performance“ und „Performance Plus“ beziehen sich auf Leistungspakete, die [höhere Leistungsstufen“ ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Was können Sie von Marketo in puncto Leistung erwarten? Er kann je nach Größe und Komplexität Ihrer Marketing-Kampagnen variieren. Sie können jedoch Leistungsstufen erwarten, die den Werten in der Spalte „Standard“ in mehreren Tabellen in der [Marketo Engage-Produktbeschreibung entsprechen](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Die Spalten „Performance“ und „Performance Plus“ beziehen sich auf Leistungspakete, die [höhere Leistungsstufen“ &#x200B;](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Alle Einrichtungsschritte sind abgeschlossen. Das Einzige, was noch übrig ist, ist einzutauchen und Marketo zu benutzen!

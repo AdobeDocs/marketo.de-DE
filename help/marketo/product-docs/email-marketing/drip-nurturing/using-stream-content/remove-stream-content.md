@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Entfernen von Stream-Inhalten {#remove-stream-content}
 
-Sie können ein Inhaltselement entweder entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream[Inhalten behält ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)Archivierung) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn Sie nichts dagegen haben, den historischen Status einiger Inhalte zu verlieren und ihn entfernen möchten, hier ist, wie man es macht.
+Sie können ein Inhaltselement entweder entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream[Inhalten behält &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)Archivierung) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn Sie nichts dagegen haben, den historischen Status einiger Inhalte zu verlieren und ihn entfernen möchten, hier ist, wie man es macht.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -29,6 +29,6 @@ Sie können ein Inhaltselement entweder entfernen oder archivieren. Im Gegensatz
 
    >[!CAUTION]
    >
-   >Entfernen Sie Inhalte nur, wenn Sie sich nicht um den Verlauf kümmern. Wenn Sie die Geschichte erhalten möchten, [ Sie sie ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
+   >Entfernen Sie Inhalte nur, wenn Sie sich nicht um den Verlauf kümmern. Wenn Sie die Geschichte erhalten möchten, [&#x200B; Sie sie &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
 
    Das ist alles! Jetzt wissen Sie, wie Sie ein Inhaltselement entfernen können.

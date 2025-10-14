@@ -14,7 +14,7 @@ ht-degree: 12%
 
 >[!PREREQUISITES]
 >
->* Erstellung [ benutzerdefinierten Felder für Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* Erstellung [&#x200B; benutzerdefinierten Felder für Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
 >* [Synchronisieren einer  [!DNL Salesforce]  mit einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]

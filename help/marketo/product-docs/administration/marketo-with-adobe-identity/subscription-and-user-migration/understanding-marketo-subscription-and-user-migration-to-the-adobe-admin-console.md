@@ -16,7 +16,7 @@ Adobe verbessert die Verwaltung Ihrer Adobe Marketo Engage-Abonnements und -Benu
 
 >[!TIP]
 >
->Erfahren Sie mit dem „Enterprise and Teams Admin Guide“, wie Sie die Adobe Admin Console verwenden können, um Ihre Adobe[Berechtigungen für Ihr gesamtes Unternehmen ](https://helpx.adobe.com/de/enterprise/admin-guide.html){target="_blank"} verwalten.
+>Erfahren Sie mit dem „Enterprise and Teams Admin Guide“, wie Sie die Adobe Admin Console verwenden können, um Ihre Adobe[Berechtigungen für Ihr gesamtes Unternehmen &#x200B;](https://helpx.adobe.com/de/enterprise/admin-guide.html){target="_blank"} verwalten.
 
 ## Was ändert sich? {#what-is-changing}
 
@@ -28,7 +28,7 @@ Im Rahmen der Migration werden Ihr Abonnement und Ihre Benutzerverwaltung von de
 
 * **Benutzer melden sich mit Adobe Identity an**. Adobe migriert bestehende Benutzerinnen und Benutzer zur Adobe Admin Console. Benutzende melden sich mit ihrer neuen Adobe-Identität - entweder Adobe ID oder Adobe Federated ID (SSO) - bei ihren Marketo-Abonnements an.
 
-* **URLs sehen nach der Migration anders**. Marketo Engage wird von experience.adobe.com an Adobe Experience Cloud übermittelt und die URLs haben das folgende Format: `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (die XXXs stellen die Munchkin-ID dar und @tenantID stammt aus Ihrer Adobe-Organisation). Auf die Zulassungsliste setzen Sie müssen mit Ihrem IT-Team zusammenarbeiten, um alle aufgelisteten Adobe-Domains [am Anfang dieses Artikels) ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}, um eine Unterbrechung des Marketo Engage-Zugriffs zu verhindern.
+* **URLs sehen nach der Migration anders**. Marketo Engage wird von experience.adobe.com an Adobe Experience Cloud übermittelt und die URLs haben das folgende Format: `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (die XXXs stellen die Munchkin-ID dar und @tenantID stammt aus Ihrer Adobe-Organisation). Auf die Zulassungsliste setzen Sie müssen mit Ihrem IT-Team zusammenarbeiten, um alle aufgelisteten Adobe-Domains [am Anfang dieses Artikels) &#x200B;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}, um eine Unterbrechung des Marketo Engage-Zugriffs zu verhindern.
 
 Die ID-Nummern Ihrer Assets bleiben gleich. Und vorherige Links und Lesezeichen zu Marketo Engage-Assets auf der Domain engage-xx.marketo.com _funktionieren_. Sie müssen sich jedoch zuerst bei der Marketo Engage-Instanz für die URL anmelden, zu der Sie navigieren. Um beispielsweise zu einem Lesezeichen für eine Smart-Campaign-Instanz mit der Munchkin-ID 123-ABC-456 zu navigieren, müssen Sie sich zuerst mit der Munchkin-ID 123-ABC-456 bei der Marketo Engage-Instanz anmelden.
 
@@ -82,7 +82,7 @@ Marketo-Produktadministratoren werden:
 
 Als Marketo-Produktadministrator sollten Sie sicherstellen, dass alle Benutzenden auf den Migrationstag vorbereitet sind.
 
-* Überprüfen Sie [ Status ](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"}E-Mail-Überprüfung) für alle Benutzenden im Marketo Admin-Bereich. Bitten Sie Benutzer, die ihre E-Mail-Adresse nicht verifiziert haben, dies zu tun, und helfen Sie Benutzern, alle Herausforderungen beim Abschluss des Verifizierungsprozesses zu lösen.
+* Überprüfen Sie [&#x200B; Status &#x200B;](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"}E-Mail-Überprüfung) für alle Benutzenden im Marketo Admin-Bereich. Bitten Sie Benutzer, die ihre E-Mail-Adresse nicht verifiziert haben, dies zu tun, und helfen Sie Benutzern, alle Herausforderungen beim Abschluss des Verifizierungsprozesses zu lösen.
 
 * Durchsuchen Sie Ihren E-Mail-Posteingang nach „Gesperrte“ Benutzerbenachrichtigungen. Weisen Sie Benutzende, die gesperrt wurden, darauf hin, ihr Kennwort zurückzusetzen, um den Zugriff auf Marketo Engage vor dem Migrationstag wiederherzustellen.
 

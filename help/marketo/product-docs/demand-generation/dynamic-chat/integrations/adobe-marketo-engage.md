@@ -18,7 +18,7 @@ Nachdem Sie die [Ersteinrichtung“ abgeschlossen haben](/help/marketo/product-d
 
 >[!NOTE]
 >
->Dynamic Chat unterstützt die Synchronisierung von [nativen ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} benutzerdefinierten Personenfeldern und Unternehmensfeldern in Marketo.
+>Dynamic Chat unterstützt die Synchronisierung von [nativen &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} benutzerdefinierten Personenfeldern und Unternehmensfeldern in Marketo.
 
 1. Klicken Sie in „Mein Marketo&quot; auf die Kachel **[!UICONTROL Dynamic Chat]** .
 

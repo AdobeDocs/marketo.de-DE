@@ -55,7 +55,7 @@ Jede der im Beispiel genannten ist ein Ordner. Beachten Sie, dass alle eindeutig
 
 >[!TIP]
 >
->Der Ordner „Archiv“ ist eine spezielle Art von Ordner, der dazu dient, Elemente aus ausgewählten Listen zu entfernen und Berichte zu erstellen. Dadurch kann Ihr System schneller ausgeführt werden. Weitere [ zu Ordnern](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>Der Ordner „Archiv“ ist eine spezielle Art von Ordner, der dazu dient, Elemente aus ausgewählten Listen zu entfernen und Berichte zu erstellen. Dadurch kann Ihr System schneller ausgeführt werden. Weitere [&#x200B; zu Ordnern](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Sie können sicherlich weitere Ordner hinzufügen, wie Sie es für richtig halten. Denken Sie daran, dass zukünftige Generationen von Marketern in Ihrem Unternehmen mit Ihren Entscheidungen über die Benennung/Organisation von Dingen leben werden.
 
@@ -97,7 +97,7 @@ Ein Event hat in der Regel viele bewegte Teile, darunter Einladungen, Landingpag
 
 ## Interaktionsprogramme {#engagement-programs}
 
-Erfahren [ alles über Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie für jeden Stream einen Ordner und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jeden Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
+Erfahren [&#x200B; alles über Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie für jeden Stream einen Ordner und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jeden Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
 
 ## Operationelle Programme {#operational-programs}
 

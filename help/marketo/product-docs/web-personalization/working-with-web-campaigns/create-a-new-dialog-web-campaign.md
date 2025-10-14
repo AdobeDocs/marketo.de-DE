@@ -128,7 +128,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 >[!TIP]
 >
->Beschleunigen und vereinfachen Sie die Erstellung von Kampagnen mithilfe unserer [ Vorlagen ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) durch [Speichern Ihrer vorhandenen Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
+>Beschleunigen und vereinfachen Sie die Erstellung von Kampagnen mithilfe unserer [&#x200B; Vorlagen &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) durch [Speichern Ihrer vorhandenen Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 

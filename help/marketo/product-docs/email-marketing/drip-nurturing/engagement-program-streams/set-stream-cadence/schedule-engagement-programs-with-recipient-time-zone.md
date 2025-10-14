@@ -19,7 +19,7 @@ Wenn Sie einen Interaktionsprogramm-Stream planen und die Zeitzone des Empfänge
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Legen Sie Ihre Kadenzeinstellungen ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) wie gewohnt fest und aktivieren Sie dann das Kontrollkästchen **[!UICONTROL Zeitzone des Empfängers]**. Denke daran, dass dein erster Cast mindestens 25 Stunden in der Zukunft liegen muss. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. [Legen Sie Ihre Kadenzeinstellungen &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) wie gewohnt fest und aktivieren Sie dann das Kontrollkästchen **[!UICONTROL Zeitzone des Empfängers]**. Denke daran, dass dein erster Cast mindestens 25 Stunden in der Zukunft liegen muss. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 

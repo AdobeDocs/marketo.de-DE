@@ -74,7 +74,7 @@ Erstellen Sie einen E-Mail-Link-Leistungsbericht, um zu sehen, wie gut die Links
 
 >[!NOTE]
 >
->Dieser Bericht zeigt einen „falsch formatierten Link“ an, wenn einer E-Mail ungültige/leere Links hinzugefügt werden. Wenn diese Meldung angezeigt wird[ prüfen Sie im E-](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)-Editor die HTML-Quelle auf leere Links oder Token, die keinen vollständigen Link ausfüllen.
+>Dieser Bericht zeigt einen „falsch formatierten Link“ an, wenn einer E-Mail ungültige/leere Links hinzugefügt werden. Wenn diese Meldung angezeigt wird[&#x200B; prüfen Sie im E-](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)-Editor die HTML-Quelle auf leere Links oder Token, die keinen vollständigen Link ausfüllen.
 
 >[!TIP]
 >

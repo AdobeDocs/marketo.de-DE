@@ -17,7 +17,7 @@ Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-in
 
 >[!IMPORTANT]
 >
->Dieser Artikel gilt nicht für Marketo[Abonnements mit aktiviertem ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+>Dieser Artikel gilt nicht für Marketo[Abonnements mit aktiviertem &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
 
 >[!NOTE]
 >

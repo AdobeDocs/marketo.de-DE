@@ -49,7 +49,7 @@ Klicken Sie in den [!UICONTROL Umsatz] und [!UICONTROL Pipeline]-Dashboards auf 
 
 ## Daten exportieren {#export-data}
 
-Sie können die Daten und Diagramme entweder in [!DNL PowerPoint] oder [!DNL Excel] exportieren. Sie können sie auch als [Schnelldiagramm“ ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+Sie können die Daten und Diagramme entweder in [!DNL PowerPoint] oder [!DNL Excel] exportieren. Sie können sie auch als [Schnelldiagramm“ &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 

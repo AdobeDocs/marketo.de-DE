@@ -31,7 +31,7 @@ In diesem Artikel konfigurieren Sie Marketo Engage für die Synchronisierung mit
 
    >[!NOTE]
    >
-   >Stellen Sie sicher[ dass Sie in Marketo alle nicht benötigten Felder ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Synchronisierungsbenutzer ausblenden, bevor Sie auf „Felder synchronisieren“ klicken. Nachdem Sie auf Felder synchronisieren geklickt haben, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
+   >Stellen Sie sicher[&#x200B; dass Sie in Marketo alle nicht benötigten Felder &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Synchronisierungsbenutzer ausblenden, bevor Sie auf „Felder synchronisieren“ klicken. Nachdem Sie auf Felder synchronisieren geklickt haben, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
 
 1. Klicken Sie **[!UICONTROL Mit Veeva anmelden]**.
 

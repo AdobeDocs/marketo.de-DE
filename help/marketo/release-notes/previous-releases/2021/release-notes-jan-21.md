@@ -83,4 +83,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **_Webinar zur Produktversion_**
 
-Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Melden Sie [ jetzt an](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) um am 21. Januar um 13 :00 PT / 16 :00 ET an einem Live-Webinar mit unserem Produkt-Team teilzunehmen, um einen tieferen Einblick in diese Innovationen zu erhalten.
+Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Melden Sie [&#x200B; jetzt an](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) um am 21. Januar um 13 :00 PT / 16 :00 ET an einem Live-Webinar mit unserem Produkt-Team teilzunehmen, um einen tieferen Einblick in diese Innovationen zu erhalten.

@@ -20,7 +20,7 @@ Mit Dynamic Chat können Sie eine benutzerfreundliche Oberfläche nutzen, um sow
 
 ## Integrationen {#integrations}
 
-Eine Schlüsselkomponente von Dynamic Chat ist die Möglichkeit, nativ mit Ihrem Marketo-Abonnement zu interagieren. Um die volle Funktionalität dieser Integration nutzen zu können, müssen Sie zunächst die Datensynchronisation starten. Je nach Größe Ihrer Marketo-Datenbank kann es bis zu 24 Stunden dauern, bis die erste (einmalige [) ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} abgeschlossen ist.
+Eine Schlüsselkomponente von Dynamic Chat ist die Möglichkeit, nativ mit Ihrem Marketo-Abonnement zu interagieren. Um die volle Funktionalität dieser Integration nutzen zu können, müssen Sie zunächst die Datensynchronisation starten. Je nach Größe Ihrer Marketo-Datenbank kann es bis zu 24 Stunden dauern, bis die erste (einmalige [) &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} abgeschlossen ist.
 
 Folgendes wird synchronisiert:
 
@@ -50,7 +50,7 @@ Hier sehen Sie eine Liste aller Agenten, die ihre Kalender verbunden haben, in w
 
 ## Live-Chat {#live-chat}
 
-Bieten Sie Ihren qualifizierten Web-Besuchern an, sich über den [-Chat mit Ihren Vertriebsmitarbeitern ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
+Bieten Sie Ihren qualifizierten Web-Besuchern an, sich über den [-Chat mit Ihren Vertriebsmitarbeitern &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
 ## Konversationsfluss {#conversational-flow}
 
@@ -88,7 +88,7 @@ Wenn Sie die Sprache aktualisieren, ändert sich alles in der App selbst, mit Au
 
 ## Grenzwerte für die Datenaufbewahrung in Dynamic Chat {#dynamic-chat-data-retention-limits}
 
-Im Folgenden finden Sie einige der Einschränkungen/Parameter in Dynamic Chat. Eine vollständige Liste finden Sie auf der Marketo Engage-[ (Produktbeschreibungsseite](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+Im Folgenden finden Sie einige der Einschränkungen/Parameter in Dynamic Chat. Eine vollständige Liste finden Sie auf der Marketo Engage-[&#x200B; (Produktbeschreibungsseite](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 <table>
   <th>Datentyp</th>

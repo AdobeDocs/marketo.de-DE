@@ -13,7 +13,7 @@ ht-degree: 9%
 
 # Pausieren von Personen in einem Interaktionsprogramm {#pause-people-in-an-engagement-program}
 
-Wenn eine Person Mitglied eines Interaktionsprogramms ist, erhält sie Inhalte, bis sie [alle Inhalte ausgeschöpft) ](people-who-have-exhausted-content.md). Sie können den Schritt [[!UICONTROL Kadenz des Interaktionsprogramms ändern]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) verwenden, um Personen daran zu hindern, Inhalte zu erhalten, selbst wenn sie noch nicht alle Inhalte erreicht haben.
+Wenn eine Person Mitglied eines Interaktionsprogramms ist, erhält sie Inhalte, bis sie [alle Inhalte ausgeschöpft) &#x200B;](people-who-have-exhausted-content.md). Sie können den Schritt [[!UICONTROL Kadenz des Interaktionsprogramms ändern]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) verwenden, um Personen daran zu hindern, Inhalte zu erhalten, selbst wenn sie noch nicht alle Inhalte erreicht haben.
 
 1. Wählen Sie das Interaktionsprogramm aus.
 

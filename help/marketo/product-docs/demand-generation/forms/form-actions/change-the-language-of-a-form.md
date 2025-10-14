@@ -17,7 +17,7 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern.
 
 >[!IMPORTANT]
 >
->Durch die Schritte in diesem Artikel werden die Sprache von Marketo-Standardfeldern sowie der Wortlaut geändert, der in der Beschriftung der Senden-Schaltfläche verwendet wird. Es werden keine ([ Felder) ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
+>Durch die Schritte in diesem Artikel werden die Sprache von Marketo-Standardfeldern sowie der Wortlaut geändert, der in der Beschriftung der Senden-Schaltfläche verwendet wird. Es werden keine ([&#x200B; Felder) &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
 
 1. Navigieren Sie **Marketing-Aktivitäten**.
 
@@ -53,7 +53,7 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern.
 
    >[!TIP]
    >
-   >Denken Sie daran[ den von den Formularänderungen ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Entwurf der Landingpage zu genehmigen.
+   >Denken Sie daran[&#x200B; den von den Formularänderungen &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Entwurf der Landingpage zu genehmigen.
 
 Im Formular wird nun die von Ihnen ausgewählte Sprache angezeigt.
 

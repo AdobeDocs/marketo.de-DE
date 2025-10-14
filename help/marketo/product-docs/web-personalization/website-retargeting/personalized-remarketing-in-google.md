@@ -18,7 +18,7 @@ Personalisiertes Remarketing ermöglicht es Ihnen, mit Ihren Benutzenden erneut 
 >[!PREREQUISITES]
 >
 >* Abschließen der Konfiguration [Retargeting mit  [!DNL Web Personalization] Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Google Analytics Lesen Sie [ Dokumentation zu Remarketing mit ](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645) Hilfe.
+>* Google Analytics Lesen Sie [&#x200B; Dokumentation zu Remarketing mit &#x200B;](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645) Hilfe.
 
 ## Erstellen einer Remarketing-Zielgruppe in Google {#creating-a-remarketing-audience-in-google}
 

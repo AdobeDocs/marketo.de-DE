@@ -43,7 +43,7 @@ Um Ihre Sales Connect-Instanz mit Ihrer Salesforce-Instanz als Admin oder Nicht-
 Durch die Verbindung mit Marketo können Ihre Verkäufer die Vorteile der Marketing-Automatisierung und der Marketing-Erkenntnisse bei der Kundenakquise nutzen. Für die folgenden Funktionen müssen Sie eine Integration mit Marketo einrichten.
 
 * Freigeben [Marketing-Kampagnen](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md){target="_blank"} für Verkäufer
-* &quot;[ Momente“ ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md){target="_blank"} den Live-Feed pushen
+* &quot;[&#x200B; Momente“ &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md){target="_blank"} den Live-Feed pushen
 * Protokollieren von Vertriebsaktivitäten in Marketo
 
 Um mehr darüber zu erfahren, wie Sie eine Verbindung zu Marketo herstellen und Vertriebsbenutzern Zugriff auf die Verbindung gewähren, [hier klicken](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.
@@ -52,7 +52,7 @@ Um mehr darüber zu erfahren, wie Sie eine Verbindung zu Marketo herstellen und 
 
 Um sicherzustellen, dass der Verkauf erfolgreich ist, müssen Sie auch die richtigen Funktionen in Ihrem primären Arbeitsbereich haben. Das Sales Connect-Anpassungspaket ermöglicht den Zugriff auf Interaktionsfunktionen und wichtige Vertriebsaktivitätsattribute über Salesforce.
 
-Weitere Informationen zur Installation der Sales Connect-Anpassung [hier ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md){target="_blank"}.
+Weitere Informationen zur Installation der Sales Connect-Anpassung [hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md){target="_blank"}.
 
 ## Testen in Sandbox {#testing-in-sandbox}
 

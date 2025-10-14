@@ -31,7 +31,7 @@ Verwenden Sie [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/emai
 
 **Filter**
 
-Erweiterte [Filter) zur ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) der Ergebnisse nach Zielgruppe, Inhalt oder Plattform verwendet. Die gleichen Filter gelten sowohl für [!UICONTROL Analytics] als auch für [!UICONTROL Sendungen].
+Erweiterte [Filter) zur &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) der Ergebnisse nach Zielgruppe, Inhalt oder Plattform verwendet. Die gleichen Filter gelten sowohl für [!UICONTROL Analytics] als auch für [!UICONTROL Sendungen].
 
 ![](assets/filter.png)
 

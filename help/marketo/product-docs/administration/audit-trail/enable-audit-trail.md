@@ -73,7 +73,7 @@ Das Audit-Protokoll steht allen Kunden zur Verfügung und wird von zwei Administ
 
    >[!CAUTION]
    >
-   >Wenn Arbeitsbereiche aktiviert sind, aktivieren Sie das Kontrollkästchen der Rolle, wodurch alle Arbeitsbereiche ausgewählt werden. Wenn Sie die Auswahl eines einzelnen Arbeitsbereichs aufheben, wird das Audit-Protokoll ausgeblendet. Das bedeutet, dass Audit-Protokoll-Daten für jeden Arbeitsbereich angezeigt werden. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern“ ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >Wenn Arbeitsbereiche aktiviert sind, aktivieren Sie das Kontrollkästchen der Rolle, wodurch alle Arbeitsbereiche ausgewählt werden. Wenn Sie die Auswahl eines einzelnen Arbeitsbereichs aufheben, wird das Audit-Protokoll ausgeblendet. Das bedeutet, dass Audit-Protokoll-Daten für jeden Arbeitsbereich angezeigt werden. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern“ &#x200B;](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 

@@ -51,7 +51,7 @@ Mit Events können Sie Online- und Offline-Events automatisieren! Erfassen Sie d
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Erstellen Sie nach der Erstellung Ihres Ereignisses die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie sollten sich auch mit der Ansicht [Programmzeitplan“ ](https://docs.marketo.com/display/docs/program+schedule+view).
+Erstellen Sie nach der Erstellung Ihres Ereignisses die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie sollten sich auch mit der Ansicht [Programmzeitplan“ &#x200B;](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >

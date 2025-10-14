@@ -23,7 +23,7 @@ Dieser Bericht bietet großartige Statistiken zu Ihren Programmen.
 
 >[!TIP]
 >
->Um beispielsweise die Programme mit den niedrigsten *Kosten pro Erfolg* zu finden, [ Sie Ihren Bericht ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} dieser Spalte und wählen Sie **[!UICONTROL Aufsteigend sortieren]**.
+>Um beispielsweise die Programme mit den niedrigsten *Kosten pro Erfolg* zu finden, [&#x200B; Sie Ihren Bericht &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} dieser Spalte und wählen Sie **[!UICONTROL Aufsteigend sortieren]**.
 
 Zu den Spalten in einem Programmleistungsbericht gehören:
 

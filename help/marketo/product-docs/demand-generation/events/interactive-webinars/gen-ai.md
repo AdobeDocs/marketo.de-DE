@@ -68,7 +68,7 @@ Nachdem Sie die Adobe GenAI-Nutzungsbedingungen akzeptiert haben, müssen Sie si
 
    >[!NOTE]
    >
-   >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![ ](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) ](assets/icon-flag.png).
+   >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![&#x200B; &#x200B;](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) &#x200B;](assets/icon-flag.png).
    >
    >* Wenn Sie mit der ursprünglichen Zusammenfassung nicht zufrieden sind, können Sie auf die Schaltfläche **[!UICONTROL Zusammenfassung neu erstellen]** klicken, und es wird eine andere Version generiert.
 

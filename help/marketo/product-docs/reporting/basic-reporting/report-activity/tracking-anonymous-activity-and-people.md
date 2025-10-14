@@ -28,7 +28,7 @@ Wenn jemand zum ersten Mal eine Marketo [Landingpage](/help/marketo/product-docs
    Eine anonyme Aktivität wird zu einer neuen oder vorhandenen Person zusammengeführt, wenn jemand:
 
    * Klickt auf einen [Link in einer Marketo-E-Mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Füllen Sie ein Marketo-[ aus](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
+   * Füllen Sie ein Marketo-[&#x200B; aus](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
    * Verwendet die Marketo [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/leads) oder die [Munchkin](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking)-API (für Entwickler), um eine anonyme Aktivität mit einem bekannten Datensatz zu verknüpfen.
 
    Ein Name in der Datenbank kann mit vielen Cookies verknüpft sein, da Benutzer häufig verschiedene Geräte und Browser verwenden, um Ihre Site zu besuchen.

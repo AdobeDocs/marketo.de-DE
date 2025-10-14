@@ -47,4 +47,4 @@ Sie müssen Berechtigungen einrichten, damit Ihre Benutzer TAM verwenden können
 
    ![](assets/permissions-6.png)
 
-   Ihre neue TAM-Rolle kann jetzt [einem Benutzer zugewiesen) ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user).
+   Ihre neue TAM-Rolle kann jetzt [einem Benutzer zugewiesen) &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user).

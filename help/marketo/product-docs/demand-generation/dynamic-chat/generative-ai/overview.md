@@ -46,13 +46,13 @@ Um den vollständigen Kontext eines Besuchergesprächs zu erhalten, müssen Sie 
 
 ## Antwortbibliothek {#response-library}
 
-[Erstellen Sie eine maßgeschneiderte Sammlung ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, alle vorab von Ihnen genehmigt, zur Verwendung innerhalb von Generative AI-Chat-Kampagnen.
+[Erstellen Sie eine maßgeschneiderte Sammlung &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, alle vorab von Ihnen genehmigt, zur Verwendung innerhalb von Generative AI-Chat-Kampagnen.
 
 ![](assets/generative-ai-overview-6.png)
 
 ## Aktivitätsprotokoll {#activity-log}
 
-[Anzeige einer Liste aller ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und der zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie wann bearbeitet hat.
+[Anzeige einer Liste aller &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und der zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie wann bearbeitet hat.
 
 ![](assets/generative-ai-overview-7.png)
 

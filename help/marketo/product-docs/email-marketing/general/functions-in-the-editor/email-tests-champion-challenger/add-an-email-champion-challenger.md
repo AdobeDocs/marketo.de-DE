@@ -26,7 +26,7 @@ So fängt man an.
 
 >[!CAUTION]
 >
->Champion-/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktionsprogrammströmen. Verwenden Sie für Batch-Mailings die A/B[Testfunktion ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) E-Mail-Programms.
+>Champion-/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktionsprogrammströmen. Verwenden Sie für Batch-Mailings die A/B[Testfunktion &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) E-Mail-Programms.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

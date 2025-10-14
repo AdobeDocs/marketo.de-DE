@@ -45,7 +45,7 @@ Bei internationalen Formularen sollten Datums-/Uhrzeitangaben in den richtigen F
 
    >[!NOTE]
    >
-   >Denken Sie daran[ den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
+   >Denken Sie daran[&#x200B; den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
 
    Das war&#39;s! Personen können Datum/Uhrzeit sehen, die im richtigen Gebietsschema angezeigt werden.
 

@@ -35,7 +35,7 @@ Diese Dinge auf der rechten Seite des Editors werden Module genannt. Erfahren Si
 
 **Textversion**
 
-Der Wechsel zwischen der HTML- und der Textversion Ihrer E-Mail erfolgt jetzt unten in einer praktischen Registerkarte. Erfahren Sie, wie [ die Textversion einer E-Mail bearbeiten ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Der Wechsel zwischen der HTML- und der Textversion Ihrer E-Mail erfolgt jetzt unten in einer praktischen Registerkarte. Erfahren Sie, wie [&#x200B; die Textversion einer E-Mail bearbeiten &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 

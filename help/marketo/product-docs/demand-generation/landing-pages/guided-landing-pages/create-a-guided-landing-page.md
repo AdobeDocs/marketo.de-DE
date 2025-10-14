@@ -45,7 +45,7 @@ Geführte Landingpages können als lokale Assets eines Programms oder im [!UICON
 
    >[!NOTE]
    >
-   >Geführte Landingpage-Vorlagen haben neben ihnen das Symbol ![ - ](assets/image2015-5-26-9-3a26-3a51.png) . Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
+   >Geführte Landingpage-Vorlagen haben neben ihnen das Symbol ![&#x200B; - &#x200B;](assets/image2015-5-26-9-3a26-3a51.png) . Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 

@@ -35,7 +35,7 @@ Möchten Sie eine Aufschlüsselung von allem, was in einer intelligenten Kampagn
    >
    >Zeigen Sie Personendetails an, indem Sie auf den Namen der Person klicken.
 
-   Sehen Sie sich die Ergebnisse an, um zu sehen, was Ihre Kampagne tatsächlich getan hat, oder [ Sie einfach die Ergebnisse Ihrer Smart-Kampagne in Excel ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
+   Sehen Sie sich die Ergebnisse an, um zu sehen, was Ihre Kampagne tatsächlich getan hat, oder [&#x200B; Sie einfach die Ergebnisse Ihrer Smart-Kampagne in Excel &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >

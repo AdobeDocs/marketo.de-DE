@@ -29,7 +29,7 @@ Wenn Sie eine Test-E-Mail von [!DNL Sales Insight] senden, werden die Token in d
 
 ## Prozentsätze für Sterne und Flammen anpassen {#customize-percentages-for-stars-and-flames}
 
-[Legen Sie den Prozentsatz ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) Leads fest, die 1, 2 oder 3 Sterne und Flammen erhalten.
+[Legen Sie den Prozentsatz &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) Leads fest, die 1, 2 oder 3 Sterne und Flammen erhalten.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
@@ -39,7 +39,7 @@ Erstellen, lesen und aktualisieren Sie Leads programmatisch mithilfe unserer neu
 
 ## Real-Time Personalization (RTP, Echtzeit-Personalisierung) – Aktualisierung der Kampagnenseite {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagnenleistung. Darüber hinaus können Sie [ Kampagnen nach Datum ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) Spitzenleistung organisieren.
+RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagnenleistung. Darüber hinaus können Sie [&#x200B; Kampagnen nach Datum &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) Spitzenleistung organisieren.
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 

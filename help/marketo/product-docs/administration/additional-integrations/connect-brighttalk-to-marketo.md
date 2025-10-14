@@ -21,7 +21,7 @@ Erfahren Sie, wie Sie Ihren [!DNL BrightTALK]-Kanal mit Ihrer Marketo-Instanz ve
 
 ## Schritte in [!DNL BrightTALK] {#steps-in-brighttalk}
 
-1. Melden Sie sich bei [business.brighttalk.com/demandcentral an ](https://business.brighttalk.com/demandcentral/login){target="_blank"} klicken Sie auf **[!UICONTROL Jetzt verbinden]**.
+1. Melden Sie sich bei [business.brighttalk.com/demandcentral an &#x200B;](https://business.brighttalk.com/demandcentral/login){target="_blank"} klicken Sie auf **[!UICONTROL Jetzt verbinden]**.
 1. Klicken [!UICONTROL &#x200B; unter „Erweiterter Marketo-]&quot; auf **[!UICONTROL Verbinden]**.
 1. Sie gelangen zum Bildschirm mit den Anmeldeinformationen und fragen nach: Client-ID, Client-Geheimnis, Identity Service-URL und REST-Service-URL. Um diese Informationen zu erhalten, melden Sie sich bei Marketo an.
 

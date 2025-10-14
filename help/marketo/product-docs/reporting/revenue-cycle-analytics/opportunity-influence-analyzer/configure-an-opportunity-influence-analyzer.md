@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Konfigurieren eines Analyzers für Opportunity-Einfluss {#configure-an-opportunity-influence-analyzer}
 
-Nachdem Sie [Opportunity Influence Analyzer erstellt haben](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) können Sie die enthaltenen Typen [interessanter ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)&quot; konfigurieren.
+Nachdem Sie [Opportunity Influence Analyzer erstellt haben](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) können Sie die enthaltenen Typen [interessanter &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)&quot; konfigurieren.
 
 >[!PREREQUISITES]
 >

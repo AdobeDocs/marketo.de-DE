@@ -27,7 +27,7 @@ Google Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128
 
 >[!NOTE]
 >
->Sie können auch einen [[!DNL Google AdWords] as a [!DNL Launchpoint] Service mit einem Manager-Konto ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
+>Sie können auch einen [[!DNL Google AdWords] as a [!DNL Launchpoint] Service mit einem Manager-Konto &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

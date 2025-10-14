@@ -59,7 +59,7 @@ Wenn eine E-Mail mit der neuen E-Mail-Designer erstellt wird, geben Sie eine tem
 
 ![](assets/use-the-ai-assistant-1.png)
 
-Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![ ( ](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
+Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![&#x200B; ( &#x200B;](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
 
 ![](assets/use-the-ai-assistant-2.png)
 

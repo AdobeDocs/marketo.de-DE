@@ -17,7 +17,7 @@ Verwenden Sie benutzerdefinierte Objekte in Marketo, um für Ihr Unternehmen spe
 
 >[!NOTE]
 >
->Sie können benutzerdefinierte Objekte so einrichten, dass sie 1:n oder n:n funktionieren. Sie erstellen das anfängliche -Objekt auf die gleiche Weise, aber die Schritte unterscheiden sich, wenn Sie dem -Objekt Felder hinzufügen. Weitere Informationen [ Sie unter „Grundlegendes ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) benutzerdefinierten Marketo-Objekten“.
+>Sie können benutzerdefinierte Objekte so einrichten, dass sie 1:n oder n:n funktionieren. Sie erstellen das anfängliche -Objekt auf die gleiche Weise, aber die Schritte unterscheiden sich, wenn Sie dem -Objekt Felder hinzufügen. Weitere Informationen [&#x200B; Sie unter „Grundlegendes &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) benutzerdefinierten Marketo-Objekten“.
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Auto-Objekt zur Verwendung in eine
 
    >[!NOTE]
    >
-   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api).
+   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Erstellen eines benutzerdefinierten Objekts für eine Viele-zu-viele-Struktur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, das Sie zum Erstellen 
 
    >[!NOTE]
    >
-   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api).
+   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api).
 
 Im nächsten Schritt erstellen Sie Ihr Zwischenobjekt (siehe unten). Zuvor müssen Sie jedoch ein Feld erstellen, mit dem eine Verknüpfung hergestellt werden kann.
 

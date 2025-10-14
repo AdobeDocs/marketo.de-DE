@@ -45,4 +45,4 @@ Sie können die Beschriftung auf einem Formular beliebig ändern - Sie können s
 
 >[!NOTE]
 >
->Vergessen Sie nicht, den [ der Formularänderungen erstellten Landingpage-](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} zu genehmigen.
+>Vergessen Sie nicht, den [&#x200B; der Formularänderungen erstellten Landingpage-](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} zu genehmigen.

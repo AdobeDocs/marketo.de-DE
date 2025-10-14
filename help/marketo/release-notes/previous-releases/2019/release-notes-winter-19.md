@@ -22,7 +22,7 @@ Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktio
 
 >[!NOTE]
 >
->Microsoft drängt alle Online-Kunden, auf die neueste Version von [!DNL Microsoft Dynamics] zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit [!DNL Dynamics Online] integrieren, müssen Sie vor dem 31. [ 2019 ein Upgrade auf ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) neueste Version der Marketo-**durchführen** um sicherzustellen, dass Ihre Integration weiterhin funktioniert.
+>Microsoft drängt alle Online-Kunden, auf die neueste Version von [!DNL Microsoft Dynamics] zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit [!DNL Dynamics Online] integrieren, müssen Sie vor dem 31. [&#x200B; 2019 ein Upgrade auf &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) neueste Version der Marketo-**durchführen** um sicherzustellen, dass Ihre Integration weiterhin funktioniert.
 
 >[!NOTE]
 >

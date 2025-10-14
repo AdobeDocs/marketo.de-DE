@@ -53,7 +53,7 @@ Ja, die [Kampagnenflussaktion Zu SFDC hinzufügen](/help/marketo/product-docs/co
 
 ## Kann ich Mitglieder mithilfe von Marketo aus meiner SFDC-Kampagne entfernen? {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-Ja, die Flussaktion [Aus SFDC Campaign entfernen“ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
+Ja, die Flussaktion [Aus SFDC Campaign entfernen“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
 
 ## Kann ich den Status des Kampagnenmitglieds mit Marketo ändern? {#can-i-change-campaign-member-status-using-marketo}
 
@@ -63,12 +63,12 @@ Ja, verwenden Sie die [Statusänderung in SFDC Campaign-Flussaktion](/help/marke
 
 Hier sind die Dinge, die Sie überprüfen können:
 
-1. Stellen Sie sicher[ dass die Kampagnensynchronisierung aktiviert ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-1. Vergewissern Sie sich, dass Ihr [Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)Synchronisierungsbenutzer[ ein „Marketing-](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)&quot; in [!DNL Salesforce] ist.
+1. Stellen Sie sicher[&#x200B; dass die Kampagnensynchronisierung aktiviert &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+1. Vergewissern Sie sich, dass Ihr [Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)Synchronisierungsbenutzer[&#x200B; ein „Marketing-](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)&quot; in [!DNL Salesforce] ist.
 
 >[!NOTE]
 >
->Wenn Ihre [!DNL Salesforce]-Kampagne und das zugeordnete Marketo-Programm inkompatible Programmstatus haben, erhalten Sie möglicherweise eine Fehlermeldung. Es wird empfohlen[ die Programmstatus vor der Synchronisierung abzugleichen](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+>Wenn Ihre [!DNL Salesforce]-Kampagne und das zugeordnete Marketo-Programm inkompatible Programmstatus haben, erhalten Sie möglicherweise eine Fehlermeldung. Es wird empfohlen[&#x200B; die Programmstatus vor der Synchronisierung abzugleichen](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 >[!MORELIKETHIS]
 >

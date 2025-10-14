@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Wie [!DNL Sales Connect] mit der E-Mail-Deduplizierung umgeht {#how-sales-connect-handles-email-de-duping}
 
-Wenn Sie eine CSV[-Datei in ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) hochladen[!DNL Sales Connect] führen wir alle ähnlichen Kontakte in der CSV zusammen, bevor der Import stattfindet.
+Wenn Sie eine CSV[-Datei in &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) hochladen[!DNL Sales Connect] führen wir alle ähnlichen Kontakte in der CSV zusammen, bevor der Import stattfindet.
 
 Wir tun dies basierend auf wie E-Mail-Adresse. Wenn es also zwei identische E-Mail-Adressen gibt, führen wir sie zu einem Kontakt zusammen.
 

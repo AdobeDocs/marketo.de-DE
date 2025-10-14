@@ -50,4 +50,4 @@ Die folgenden Funktionen befinden sich in einem nicht-vierteljährlichen Zyklus 
 >
 >**Um Ihren Marketo Engage-Zugriff beizubehalten, stellen Sie sicher, dass alle Client-Systeme vor dem 13. Dezember 2019 TLS 1.2-kompatibel**. Weitere Informationen finden Sie [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinar zur Produktversion_** [Nehmen Sie ](https://engage.marketo.com/August_19_Release_Webinar.html) 28. August um 1:00PM PT / 4 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die Funktionen dieser Version.
+**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/August_19_Release_Webinar.html) 28. August um 1:00PM PT / 4 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die Funktionen dieser Version.

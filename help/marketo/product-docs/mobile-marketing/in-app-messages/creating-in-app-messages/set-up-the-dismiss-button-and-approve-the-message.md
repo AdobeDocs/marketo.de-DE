@@ -71,7 +71,7 @@ Alle Ihre Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch ge
 
 So viele Möglichkeiten, aber jetzt haben Sie eine großartige In-App-Nachricht, bereit zu gehen!
 
-Jetzt ist es an der Zeit, [Ihre Nachricht zu ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Jetzt ist es an der Zeit, [Ihre Nachricht zu &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >

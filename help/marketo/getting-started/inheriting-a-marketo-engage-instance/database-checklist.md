@@ -12,7 +12,7 @@ ht-degree: 8%
 
 # Vererbte Instanz: Checkliste für Datenbank {#inherited-instance-database-checklist}
 
-Erfahren Sie, wie viele Personen, vermarktbare Personen und die wichtigsten Personen-Akquise-Quellen in Ihrem Abonnement vorhanden sind. Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Erfahren Sie, wie viele Personen, vermarktbare Personen und die wichtigsten Personen-Akquise-Quellen in Ihrem Abonnement vorhanden sind. Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Intelligente Listen für System {#system-smart-lists}
 

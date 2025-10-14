@@ -23,7 +23,7 @@ Bei Verwendung von Marketo [!UICONTROL Web Personalization] und [!UICONTROL Targ
 
    * **Hinweis**: Die Synchronisierung kann bis zu 5 Minuten dauern
 
-* In [!UICONTROL Web Personalization] können Sie [Zielgruppenkonten aus der Kontenliste) erstellen, ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) Sie in TAM erstellt haben, und Inhalte für diese Konten personalisieren
+* In [!UICONTROL Web Personalization] können Sie [Zielgruppenkonten aus der Kontenliste) erstellen, &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) Sie in TAM erstellt haben, und Inhalte für diese Konten personalisieren
 
 ## Für bestehende ABWM-Kunden {#for-existing-abwm-customers}
 

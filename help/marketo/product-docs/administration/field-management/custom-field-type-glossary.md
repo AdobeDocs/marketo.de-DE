@@ -77,7 +77,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, können Sie aus eine
 
 ## Formel {#formula}
 
-**Beispielname:** Anrede - Verwenden Sie dieses spezielle Feld in einer [Lösung, um die richtige Anrede basierend ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) Geschlecht zu erhalten
+**Beispielname:** Anrede - Verwenden Sie dieses spezielle Feld in einer [Lösung, um die richtige Anrede basierend &#x200B;](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) Geschlecht zu erhalten
 
 **Beispielwerte:** Überprüfen der verknüpften Lösung
 

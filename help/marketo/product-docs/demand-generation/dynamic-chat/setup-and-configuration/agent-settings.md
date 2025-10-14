@@ -16,7 +16,7 @@ Konfigurieren Sie Ihren Kalender und legen Sie die Verfügbarkeit von Meetings/L
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Ihren Agenten die entsprechenden [Berechtigungen“ ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} wurden.
+>Stellen Sie sicher, dass Ihren Agenten die entsprechenden [Berechtigungen“ &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} wurden.
 
 ![](assets/agent-settings-1.png)
 

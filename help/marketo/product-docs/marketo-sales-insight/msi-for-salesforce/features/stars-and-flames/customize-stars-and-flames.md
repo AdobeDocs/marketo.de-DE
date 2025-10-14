@@ -37,7 +37,7 @@ ht-degree: 4%
    >
    >**Definition**
    >
-   >**[!UICONTROL Dynamisch]** - Ist ein Prozentwert, der von (relativen [) ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
+   >**[!UICONTROL Dynamisch]** - Ist ein Prozentwert, der von (relativen [) &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
    >
    >**[!UICONTROL Static]** - Ermöglicht die Definition exakter Score-Zahlen - keine weiteren Prozentsätze, keine geheimen Sauces mehr.
 

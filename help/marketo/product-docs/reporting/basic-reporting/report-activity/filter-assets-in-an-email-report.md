@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Filtern von Assets in einem E-Mail-Bericht {#filter-assets-in-an-email-report}
 
-Konzentrieren Sie Ihren Bericht [E](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)Mail-Performance[ oder E-Mail-Link-Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) auf E-Mails in Ihren Programmen („lokale Assets„), auf diejenigen in Design Studio („globale Assets„) oder auf diejenigen, die archiviert wurden.
+Konzentrieren Sie Ihren Bericht [E](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)Mail-Performance[&#x200B; oder E-Mail-Link-Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) auf E-Mails in Ihren Programmen („lokale Assets„), auf diejenigen in Design Studio („globale Assets„) oder auf diejenigen, die archiviert wurden.
 
 >[!NOTE]
 >

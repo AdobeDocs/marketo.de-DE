@@ -34,7 +34,7 @@ Hier können Sie [den Namen der Smart-Liste bearbeiten](/help/marketo/product-do
 
 ## Registerkarte „Personen“ {#people-tab}
 
-Hier sehen Sie die Ergebnisse, d. h. alle Personen, die für die Filter qualifiziert sind, die Sie auf [ Registerkarte ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}Smart-Liste“ hinzugefügt und definiert haben.
+Hier sehen Sie die Ergebnisse, d. h. alle Personen, die für die Filter qualifiziert sind, die Sie auf [&#x200B; Registerkarte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}Smart-Liste“ hinzugefügt und definiert haben.
 
 ![](assets/understanding-smart-lists-2.png)
 

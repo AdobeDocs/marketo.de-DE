@@ -13,15 +13,15 @@ ht-degree: 7%
 
 # Benutzer-Setup-Checkliste {#user-setup-checklist}
 
-Nachdem Sie nun alle &quot;[ Einrichtungsschritte“ abgeschlossen haben](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} ist es an der Zeit, einige grundlegende Elemente einzurichten, um eine reibungslose fortlaufende Verwendung sicherzustellen. Dadurch wird die Grundlage für Ihre Journey mit Marketo Engage gelegt und Sie können die Funktionen von nutzen. Los geht‘s!
+Nachdem Sie nun alle &quot;[&#x200B; Einrichtungsschritte“ abgeschlossen haben](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} ist es an der Zeit, einige grundlegende Elemente einzurichten, um eine reibungslose fortlaufende Verwendung sicherzustellen. Dadurch wird die Grundlage für Ihre Journey mit Marketo Engage gelegt und Sie können die Funktionen von nutzen. Los geht‘s!
 
 >[!NOTE]
 >
->Sie können diese Checkliste ([ einer Liste mit Best ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)) für Ihre neue Instanz auch herunterladen und die Schritte sofort abhaken.
+>Sie können diese Checkliste ([&#x200B; einer Liste mit Best &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)) für Ihre neue Instanz auch herunterladen und die Schritte sofort abhaken.
 
 ## Marketo Engage auf Adobe Identity Management {#marketo-engage-on-adobe-identity-management}
 
-Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management System (IMS) ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=de). Fahren Sie mit der folgenden Überprüfung der Benutzerverwaltung in Adobe Admin Console fort.
+Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management System (IMS) &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=de). Fahren Sie mit der folgenden Überprüfung der Benutzerverwaltung in Adobe Admin Console fort.
 
 <table>
 <thead>
@@ -69,7 +69,7 @@ Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management S
 
 ## Einrichten von Dynamic Chat in Adobe Identity Management {#dynamic-chat-on-adobe-identity-management}
 
-Um [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=de), den nativen Kanal zur Konversationsautomatisierung in Marketo Engage, zu verwenden, fahren Sie mit der Einrichtung der Benutzerberechtigungen fort, indem Sie die folgenden Schritte in der [Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
+Um [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=de), den nativen Kanal zur Konversationsautomatisierung in Marketo Engage, zu verwenden, fahren Sie mit der Einrichtung der Benutzerberechtigungen fort, indem Sie die folgenden Schritte in der [Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>

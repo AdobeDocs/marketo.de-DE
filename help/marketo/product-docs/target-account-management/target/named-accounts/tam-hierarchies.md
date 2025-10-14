@@ -35,6 +35,6 @@ Mit TAM-Hierarchien können Sie im Dashboard „Benanntes Konto“ schnell Infor
 >
 >Auf der Marketo-Benutzeroberfläche werden nur bis zu 10 Ebenen nach unten angezeigt (untergeordnete und untergeordnete Konten des übergeordneten Kontos). Die Anzahl der untergeordneten Konten, die Sie erstellen können, ist jedoch nicht beschränkt.
 
-Targeting und Reporting ganzer Hierarchien mit [ Klick](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Targeting und Reporting ganzer Hierarchien mit [&#x200B; Klick](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

@@ -33,7 +33,7 @@ Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein 
 
    >[!NOTE]
    >
-   >Die Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie beim Erstellen [ Kategorien festgelegt ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >Die Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie beim Erstellen [&#x200B; Kategorien festgelegt &#x200B;](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
 1. Klicken Sie auf **+**, um einen weiteren Pfad hinzuzufügen.
 

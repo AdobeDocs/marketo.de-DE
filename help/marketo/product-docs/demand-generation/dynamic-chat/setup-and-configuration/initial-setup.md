@@ -32,4 +32,4 @@ Gehen Sie wie folgt vor, um Dynamic Chat einzurichten.
 
 1. Nach der Anmeldung bei der Admin Console sollten Sie als Nächstes Benutzer hinzufügen. Wir haben diesen Prozess [hier dokumentiert](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}.
 
-Als Nächstes ist es an der Zeit, [Dynamic Chat mit Marketo zu ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}.
+Als Nächstes ist es an der Zeit, [Dynamic Chat mit Marketo zu &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}.

@@ -60,7 +60,7 @@ Diese Verbesserungen helfen Ihnen, Zeit zu sparen, wertvollere Einblicke zu gewi
 
 ## Exportieren eines Berichts {#export-a-report}
 
-Beim Exportieren eines vollständigen Berichts sind Ihre Exportoptionen PDF und PPT. Wenn Sie Ihre Daten in .XLS oder .CSV benötigen, können Sie dies tun, indem Sie einzelne Visualisierungen exportieren ([ unten](#export-a-visualization)).
+Beim Exportieren eines vollständigen Berichts sind Ihre Exportoptionen PDF und PPT. Wenn Sie Ihre Daten in .XLS oder .CSV benötigen, können Sie dies tun, indem Sie einzelne Visualisierungen exportieren ([&#x200B; unten](#export-a-visualization)).
 
 >[!BEGINTABS]
 

@@ -14,7 +14,7 @@ ht-degree: 3%
 
 Marketing-Aktivitäten enthalten alle Assets und Inhalte, aus denen Ihre automatisierten Marketing-Programme bestehen. Beim Einrichten einer neuen Marketo Engage-Instanz stellt eine übersichtliche Organisation sicher, dass alle Benutzer verschiedene Programme einfach finden und verwalten können.
 
-Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Organisation {#organization}
 

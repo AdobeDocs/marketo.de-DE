@@ -30,7 +30,7 @@ So erstellen Sie ein neues Dialogfeld.
 >
 >Die Priorität bestimmt, welches Dialogfeld einem Besucher angezeigt wird, wenn er für mehrere Dialogfelder gleichzeitig qualifiziert ist.
 
-Erfahren Sie als Nächstes, wie [ einen Stream erstellen ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+Erfahren Sie als Nächstes, wie [&#x200B; einen Stream erstellen &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

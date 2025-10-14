@@ -29,6 +29,6 @@ Wenn Sie Ihrem E[Mail-Programm einen A/B](/help/marketo/product-docs/email-marke
 
    >[!NOTE]
    >
-   >Ihr E-Mail-Programm muss nicht genehmigt sein, bevor Sie den A/B-Test entfernen können. Weitere [ finden Sie unter „Genehmigen/](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) eines E-Mail-Programms“.
+   >Ihr E-Mail-Programm muss nicht genehmigt sein, bevor Sie den A/B-Test entfernen können. Weitere [&#x200B; finden Sie unter „Genehmigen/](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) eines E-Mail-Programms“.
 
 Einfach, bequem!

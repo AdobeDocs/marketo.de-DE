@@ -45,7 +45,7 @@ ht-degree: 3%
    >
    >Es gibt drei Arten von [!UICONTROL Tipp-Aktionen]:
    >
-   >**Launch App** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerdefiniert** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder einer anderen App zu öffnen, zu der Sie den Link haben (weitere Informationen finden [ unter Deep-Link-](#deep-link-uris)).
+   >**Launch App** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerdefiniert** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder einer anderen App zu öffnen, zu der Sie den Link haben (weitere Informationen finden [&#x200B; unter Deep-Link-](#deep-link-uris)).
    >
    >**[!UICONTROL Landingpage]** - Bringt Sie zu einer bestimmten Marketo-Landingpage.
    >

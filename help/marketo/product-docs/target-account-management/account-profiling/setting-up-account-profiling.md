@@ -28,7 +28,7 @@ Führen Sie diese Schritte aus, um mit der Verwendung der Kontoprofilerstellung 
 >* E-Mail
 >* Land
 >
->Hier erfahren Sie, wie [ ein Feld ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Hier erfahren Sie, wie [&#x200B; ein Feld &#x200B;](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
 1. Öffnen Sie in My Marketo **[!UICONTROL Target Account Management]**.
 

@@ -16,7 +16,7 @@ Die folgenden Funktionen sind in der Version Winter &#39;16 enthalten. Bitte kli
 
 ## [Ist anonymer Filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Der Filter Ist anonym wurde für Smart-Listen entfernt. Weitere Informationen finden Sie [ Dokument „Häufig gestellte Fragen zum Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)Tracking der nächsten Generation“. Diese Änderung wirkt sich nicht auf Web Personalization (RTP) aus, das anonyme und bekannte Web-Besucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
+Der Filter Ist anonym wurde für Smart-Listen entfernt. Weitere Informationen finden Sie [&#x200B; Dokument „Häufig gestellte Fragen zum Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)Tracking der nächsten Generation“. Diese Änderung wirkt sich nicht auf Web Personalization (RTP) aus, das anonyme und bekannte Web-Besucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
 
 ## [Datenbank-Dashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -26,7 +26,7 @@ Die [!UICONTROL Lead]Datenbank verfügt über ein aktualisiertes Dashboard mit e
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Wir haben [!DNL Microsoft Edge] zur [Liste der von Marketo ](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) Browser“ hinzugefügt.
+Wir haben [!DNL Microsoft Edge] zur [Liste der von Marketo &#x200B;](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) Browser“ hinzugefügt.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 

@@ -54,7 +54,7 @@ Das `{{system.dateTime}}`-Token rendert das aktuelle Datum und die aktuelle Uhrz
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-Mit dem `{{system.forwardToFriendLink}}`-Token können Sie die Platzierung des [&#39;Weiterleiten an einen Freund-Link&#39; in E-Mails ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}.
+Mit dem `{{system.forwardToFriendLink}}`-Token können Sie die Platzierung des [&#39;Weiterleiten an einen Freund-Link&#39; in E-Mails &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}.
 
 **Funktioniert in:**
 

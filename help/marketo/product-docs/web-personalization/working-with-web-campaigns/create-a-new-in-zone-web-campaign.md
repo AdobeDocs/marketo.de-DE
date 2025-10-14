@@ -80,11 +80,11 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 >[!TIP]
 >
->Beschleunigen und vereinfachen Sie die Erstellung von Kampagnen mithilfe unserer [ Vorlagen ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) durch [Speichern Ihrer vorhandenen Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
+>Beschleunigen und vereinfachen Sie die Erstellung von Kampagnen mithilfe unserer [&#x200B; Vorlagen &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) durch [Speichern Ihrer vorhandenen Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der Funktion „Auto-Tune“ erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, fährt mit den höchsten Konvertierungskampagnen fort und hält die anderen an.
+>**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der Funktion „Auto-Tune“ erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, fährt mit den höchsten Konvertierungskampagnen fort und hält die anderen an.
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 

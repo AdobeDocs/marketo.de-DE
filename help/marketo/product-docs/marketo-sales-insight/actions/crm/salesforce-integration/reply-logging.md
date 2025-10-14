@@ -21,7 +21,7 @@ Mit Sales Insight Actions können Sie die Antworten Ihrer Interessenten automati
 * Muss E-Mails über API-Protokollierung protokollieren
 * Muss in der Lage sein, [eine Antwort zu verfolgen](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
 * Muss mit [!DNL Salesforce] verbunden sein
-* Muss [!DNL Salesforce] ([) ](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) haben
+* Muss [!DNL Salesforce] ([) &#x200B;](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) haben
 
 ## Antwortprotokollierung aktivieren {#enable-reply-logging}
 

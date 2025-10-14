@@ -25,7 +25,7 @@ Die folgenden Funktionen sind in der Version vom Oktober 2020 enthalten. Überpr
 
 ![(Stern)](assets/yellow-star.png)
 
-* **Account Smart List (Beta)**: Laden Sie Ihre ABM-Strategie mit der neuen Funktion „Account Smart List“ auf. Dynamische Identifizierung von Konten mit gewünschten Konto- und Personenattributen, um kanalübergreifende Kampagnen auszuführen und zeitnahe Warnhinweise an den Vertrieb zu senden, um Angebote schneller abzuschließen. Hinweis: Dies ist nur für Target Account Management-Kunden verfügbar, die das [Benutzererlebnis der nächsten Generation“ ](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205) haben.
+* **Account Smart List (Beta)**: Laden Sie Ihre ABM-Strategie mit der neuen Funktion „Account Smart List“ auf. Dynamische Identifizierung von Konten mit gewünschten Konto- und Personenattributen, um kanalübergreifende Kampagnen auszuführen und zeitnahe Warnhinweise an den Vertrieb zu senden, um Angebote schneller abzuschließen. Hinweis: Dies ist nur für Target Account Management-Kunden verfügbar, die das [Benutzererlebnis der nächsten Generation“ &#x200B;](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205) haben.
 
 ## E-Mail-Marketing {#email-marketing}
 

@@ -22,7 +22,7 @@ Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage E-Mail-Designer erstel
 
 >[!PREREQUISITES]
 >
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Erstellen einer E-Mail {#create-an-email}
 
@@ -56,7 +56,7 @@ Das war&#39;s. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 
 * [Erstellen von neuen Inhalten](#design-from-scratch) mithilfe des visuellen E-Mail-Editors
 
-* [Importieren Sie Ihre eigene HTML ](#import-html) eine HTML- oder ZIP-Datei
+* [Importieren Sie Ihre eigene HTML &#x200B;](#import-html) eine HTML- oder ZIP-Datei
 
 * [Vorhandene Vorlage auswählen](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben)
 
@@ -315,9 +315,9 @@ Um eine Vorschau Ihres E-Mail-Inhalts anzuzeigen, klicken Sie **Inhalt simuliere
 
 Nachdem Sie eine E-Mail im neuen Editor erstellt haben, können Sie sie in Smart-Kampagnen und/oder Smart-Listen wie bei jeder anderen E-Mail referenzieren.
 
-* Verweisen Sie in einer Smart List darauf, indem [ die üblichen Schritte ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
+* Verweisen Sie in einer Smart List darauf, indem [&#x200B; die üblichen Schritte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
-* Verweisen Sie in einer Smart Campaign darauf, [ Sie die üblichen Schritte ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+* Verweisen Sie in einer Smart Campaign darauf, [&#x200B; Sie die üblichen Schritte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
 >[!NOTE]
 >

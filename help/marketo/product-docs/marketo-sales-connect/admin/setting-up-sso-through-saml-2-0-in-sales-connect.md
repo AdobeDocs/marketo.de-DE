@@ -31,6 +31,6 @@ Die Datei „metadata.xml“ der SSO-Instanz Ihres Teams sollte die Aussteller-U
 
 Wir benötigen außerdem den SSO-Speicherort für das SSO-Konto Ihres Unternehmens, um eine eindeutige Domain zu sein. Wir benötigen beispielsweise eine eindeutige Subdomain wie `toutapp.pingidentity.com` oder Ähnliches. Ohne diesen Typ der eindeutigen Kennung können wir SAML nicht über das Dashboard einrichten.
 
-One Login und Okta stellen beim Zuweisen einer URL nicht immer eindeutige Kennungen bereit. Wenn Sie Okta oder One Login verwenden, bedeutet dies, dass wir nicht in der Lage sein werden, eine Anmeldung über die Dashboard-Schaltfläche einzurichten. Wir können sie weiterhin über die Single Sign-On-Schaltfläche in der [Web-Anwendung) ](https://toutapp.com/login).
+One Login und Okta stellen beim Zuweisen einer URL nicht immer eindeutige Kennungen bereit. Wenn Sie Okta oder One Login verwenden, bedeutet dies, dass wir nicht in der Lage sein werden, eine Anmeldung über die Dashboard-Schaltfläche einzurichten. Wir können sie weiterhin über die Single Sign-On-Schaltfläche in der [Web-Anwendung) &#x200B;](https://toutapp.com/login).
 
 Sobald wir diese Informationen haben, werden wir mit unserem Engineering-Team zusammenarbeiten, um diese für Ihr Abonnement einzurichten.

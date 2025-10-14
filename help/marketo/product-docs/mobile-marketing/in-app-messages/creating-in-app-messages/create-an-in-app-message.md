@@ -36,4 +36,4 @@ Nachdem Sie Ihre In-App-Nachricht erstellt haben, gehen Sie [hier](/help/marketo
 >
 >Der Programmname wird automatisch in der Dropdown-Liste angezeigt, Sie können jedoch einen anderen auswählen.
 
-Wählen [ als Nächstes ein Layout ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) Ihre In-App-Nachricht aus.
+Wählen [&#x200B; als Nächstes ein Layout &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) Ihre In-App-Nachricht aus.

@@ -18,7 +18,7 @@ ht-degree: 5%
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [Suchen und Hinzufügen von Filtern zu Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Nachdem Sie nun [Smart-Liste“ erstellt ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} „Filter [&quot; ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} haben, definieren wir die Filter. Und so geht das.
+Nachdem Sie nun [Smart-Liste“ erstellt &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} „Filter [&quot; &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} haben, definieren wir die Filter. Und so geht das.
 
 Im weiteren Beispiel definieren wir diese Filter, um alle Personen in Kalifornien mit einem Ergebnis über 50 zu finden.
 

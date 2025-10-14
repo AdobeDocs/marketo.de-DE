@@ -104,7 +104,7 @@ Ja. MPI lässt sich mit [Marketo TAM](https://docs.marketo.com/display/DOCS/Acco
 
 ## Ist Attribution beim Kauf von MPI sofort verfügbar? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Die Attributionsfunktionen von Marketo stehen unseren Kunden beim Kauf von MPI zur Verfügung. Es [ jedoch eine ](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) Einrichtung erforderlich, um sicherzustellen, dass Opportunities und Programmdaten korrekt in das MPI fließen.
+Die Attributionsfunktionen von Marketo stehen unseren Kunden beim Kauf von MPI zur Verfügung. Es [&#x200B; jedoch eine &#x200B;](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) Einrichtung erforderlich, um sicherzustellen, dass Opportunities und Programmdaten korrekt in das MPI fließen.
 
 ## Was muss ich tun, um Attribution einzurichten? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Die Attributionsfunktionen von Marketo stehen unseren Kunden beim Kauf von MPI z
 
 >[!TIP]
 >
->Alle erforderlichen Einrichtungsschritte werden in [diesem Artikel) ](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
+>Alle erforderlichen Einrichtungsschritte werden in [diesem Artikel) &#x200B;](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
 
 ## Was ist der Unterschied zwischen MPI und dem Programm-Analyzer? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 

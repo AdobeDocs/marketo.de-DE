@@ -30,7 +30,7 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 * Vermeiden Sie die Planung von Rückgesprächen. Achten Sie darauf, dass Sie mindestens 30 Minuten Vorbereitungszeit haben, bevor Ihr Webinar beginnt. Auf diese Weise können Sie alle Änderungen an der Präsentation in letzter Minute hochladen, Ihr Mikrofon und Ihre Kamera anpassen und neue Präsentatoren mit der Benutzeroberfläche vertraut machen.
 
-* Weisen Sie Ihren Team-Mitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Moderatoren und Moderatoren können den Raum vor den Teilnehmern betreten. Achten Sie jedoch darauf[ Ihr interaktives Webinar zu ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}_bevor Sie_ und Moderatoren hinzufügen.
+* Weisen Sie Ihren Team-Mitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Moderatoren und Moderatoren können den Raum vor den Teilnehmern betreten. Achten Sie jedoch darauf[&#x200B; Ihr interaktives Webinar zu &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}_bevor Sie_ und Moderatoren hinzufügen.
 
 ### Bewerben einer Veranstaltung {#promoting-your-event}
 

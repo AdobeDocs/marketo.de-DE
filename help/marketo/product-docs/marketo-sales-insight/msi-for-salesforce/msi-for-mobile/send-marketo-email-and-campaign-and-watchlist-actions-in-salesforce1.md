@@ -23,7 +23,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >Welche intelligenten Kampagnen werden angezeigt? Die mit dem Trigger „Kampagne ist angefordert“. Erfahren Sie, wie Sie eine [ausgelöste Kampagne mit „Kampagne ist angefordert“ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md).
+   >Welche intelligenten Kampagnen werden angezeigt? Die mit dem Trigger „Kampagne ist angefordert“. Erfahren Sie, wie Sie eine [ausgelöste Kampagne mit „Kampagne ist angefordert“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md).
 
 Cool, jetzt können Ihre Vertriebsmitarbeiter aktiv an den Marketing-Maßnahmen teilnehmen.
 

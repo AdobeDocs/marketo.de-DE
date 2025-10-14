@@ -44,4 +44,4 @@ Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, soll
 
    ![](assets/five.png)
 
-Sehr gut! Nachdem wir nun eine E-Mail erstellt haben, die wir senden möchten, [ wir „einen A/B-Test hinzufügen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) oder gehen direkt zum [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+Sehr gut! Nachdem wir nun eine E-Mail erstellt haben, die wir senden möchten, [&#x200B; wir „einen A/B-Test hinzufügen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) oder gehen direkt zum [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).

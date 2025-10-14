@@ -43,7 +43,7 @@ Bevor Sie [!DNL Microsoft Dynamics] On-Premise und Marketo synchronisieren könn
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klicken Sie **[!UICONTROL Durchsuchen]**. Wählen Sie die Marketo-Lead-Management-Lösung aus[ die Sie heruntergeladen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie **[!UICONTROL Durchsuchen]**. Wählen Sie die Marketo-Lead-Management-Lösung aus[&#x200B; die Sie heruntergeladen &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 

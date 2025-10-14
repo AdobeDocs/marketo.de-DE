@@ -21,7 +21,7 @@ Blockierte Personen in der Marketo Engage-Datenbank werden als auf die Blockieru
 
    >[!NOTE]
    >
-   >Personen, die ihre Kommunikationsbeschränkungen erreicht haben, können auch daran gehindert werden, E-Mails zu erhalten. Erfahren Sie [ Abschnitt Admin , wie ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} Kommunikationsbeschränkungen bearbeiten können.
+   >Personen, die ihre Kommunikationsbeschränkungen erreicht haben, können auch daran gehindert werden, E-Mails zu erhalten. Erfahren Sie [&#x200B; Abschnitt Admin , wie &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} Kommunikationsbeschränkungen bearbeiten können.
 
    Auf **[!UICONTROL Registerkarte „Blockierte Leads]** werden Personen angezeigt, die möglicherweise keine E-Mails erhalten.
 

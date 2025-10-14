@@ -66,7 +66,7 @@ Wenn ein Besucher in der Vergangenheit seinen vollständigen Namen und seine E-M
 
    >[!NOTE]
    >
-   >Denken Sie daran[ den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
+   >Denken Sie daran[&#x200B; den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
 
    Ein Stück Kuchen! Sehen Sie nach, was eine Person sehen würde, wenn sie zum selben Formular zurückkehren würde:
 

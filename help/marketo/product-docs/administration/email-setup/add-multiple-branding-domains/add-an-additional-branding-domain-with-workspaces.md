@@ -17,9 +17,9 @@ Wenn Sie über Arbeitsbereiche verfügen, können Sie zusätzliche Branding-Doma
 
 >[!PREREQUISITES]
 >
->Sie müssen [zuerst Ihre Standard-Branding-Domain ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
+>Sie müssen [zuerst Ihre Standard-Branding-Domain &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
 >
->Sie müssen zunächst [ generischen Tracking-Link durch ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) Branding-Domain ersetzen, bevor Sie weitere Branding-Domains hinzufügen.
+>Sie müssen zunächst [&#x200B; generischen Tracking-Link durch &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) Branding-Domain ersetzen, bevor Sie weitere Branding-Domains hinzufügen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

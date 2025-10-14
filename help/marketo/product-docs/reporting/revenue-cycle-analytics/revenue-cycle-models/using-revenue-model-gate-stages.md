@@ -25,7 +25,7 @@ Eine Torstufe dient als Qualifikationsprüfung.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Wählen Sie ein vorhandenes Modell aus oder [ Sie ein neues ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Wählen Sie ein vorhandenes Modell aus oder [&#x200B; Sie ein neues &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 

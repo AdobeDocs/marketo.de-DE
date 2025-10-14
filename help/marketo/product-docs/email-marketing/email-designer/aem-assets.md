@@ -19,7 +19,7 @@ Adobe Experience Manager _Assets as a Cloud Service_ bietet eine benutzerfreundl
 
 >[!PREREQUISITES]
 >
->* Lizenzen für _Assets as a Cloud Service_ und Dynamic Media sind für die Integration erforderlich. Stellen Sie sicher[ dass „Dynamic Media mit Open API aktiviert ist](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Je nach Vertrag und Konfiguration ist der Zugriff auf Adobe Experience Manager _Assets as a Cloud Service_ beim Entwerfen visueller Inhalte direkt über Marketo Engage möglich.
+>* Lizenzen für _Assets as a Cloud Service_ und Dynamic Media sind für die Integration erforderlich. Stellen Sie sicher[&#x200B; dass „Dynamic Media mit Open API aktiviert ist](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Je nach Vertrag und Konfiguration ist der Zugriff auf Adobe Experience Manager _Assets as a Cloud Service_ beim Entwerfen visueller Inhalte direkt über Marketo Engage möglich.
 
 >[!NOTE]
 >

@@ -14,7 +14,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package&rbrace; ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package&rbrace; ausschließlich mit dem Salesforce CRM integriert &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
 >[!PREREQUISITES]
 >
@@ -142,7 +142,7 @@ Personendatensätze, die in Marketo und [!DNL Salesforce] vorhanden sind, werden
 
 >[!NOTE]
 >
->Weitere Informationen dazu, wie Personen- und Aktivitätsdaten zwischen Sales Insight Actions, Marketo und Salesforce synchronisiert werden, [hier ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+>Weitere Informationen dazu, wie Personen- und Aktivitätsdaten zwischen Sales Insight Actions, Marketo und Salesforce synchronisiert werden, [hier &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Einzelne Benutzer zu MSI-Aktionen einladen {#invite-individual-users-to-msi-actions}
 
@@ -194,4 +194,4 @@ Sie erhalten eine Bestätigungsnachricht, sobald die Einladungen gesendet wurden
 
 >[!NOTE]
 >
->Sobald dies geschehen ist, können Sie entweder Ihr bestehendes MSI-Paket aktualisieren oder ein neues installieren und mit &quot;[ von MSI-Aktionen in Salesforce&quot; ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>Sobald dies geschehen ist, können Sie entweder Ihr bestehendes MSI-Paket aktualisieren oder ein neues installieren und mit &quot;[&#x200B; von MSI-Aktionen in Salesforce&quot; &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.

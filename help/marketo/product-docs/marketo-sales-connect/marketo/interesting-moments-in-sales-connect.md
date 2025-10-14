@@ -21,7 +21,7 @@ Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebste
 
 >[!PREREQUISITES]
 >
->* Sie müssen über eine [Verbindung mit dem Salesforce CRM“ ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* Sie müssen über eine [Verbindung mit dem Salesforce CRM“ &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
 >* Sie müssen der Lead- oder Kontaktinhaber in Salesforce sein
 >* Sie müssen Zugriff auf haben [Zugriff auf die Marketo Engage-Verbindung gewähren](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
 
@@ -57,7 +57,7 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Vertriebsteam r
 
 ## Wie sieht ein interessanter Moment in Marketo aus?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interessante Momente werden im Aktivitätsprotokoll eines [Leads) ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Interessante Momente werden im Aktivitätsprotokoll eines [Leads) &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 

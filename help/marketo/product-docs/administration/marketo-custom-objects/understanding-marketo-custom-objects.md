@@ -99,7 +99,7 @@ Wenn Sie mehrere Personen in Marketo haben, bei denen es sich um Datensätze im 
 
 Benutzerdefinierte Objekte können nur direkt mit einem einzelnen Datensatz verknüpft werden. Wenn Ihr benutzerdefinierter Objekttyp also nach Unternehmensfeld verknüpft ist, sollten Sie sicherstellen, dass Ihre Personendatensätze entweder über eine Kontaktkonvertierung im CRM-System oder mithilfe des Felds externalCompanyId mit einem Unternehmen verknüpft sind, wenn Sie Unternehmen mithilfe der REST-APIs von Marketo verwalten. Bei Personendatensätzen, die nicht explizit mit Firmendatensätzen verknüpft sind, werden benutzerdefinierte Objekte, die über „Firma“ verknüpft sind, nach dem Zufallsprinzip mit einem einzelnen Datensatz verknüpft, auch wenn der Wert des Firmenfelds für viele Personen freigegeben ist.
 
-Weitere [ finden Sie unter ](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) von benutzerdefinierten Objektdaten importieren .
+Weitere [&#x200B; finden Sie unter &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) von benutzerdefinierten Objektdaten importieren .
 
 >[!MORELIKETHIS]
 >

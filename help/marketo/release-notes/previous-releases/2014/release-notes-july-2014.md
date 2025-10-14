@@ -70,7 +70,7 @@ Der Rollout wird ab Mitte Juli geplant und in den nächsten Monaten fortgesetzt.
 
 ## RTP: Echtzeit-Personalization-Kampagnenvorlagen {#rtp-real-time-personalization-campaign-templates}
 
-Die Seite RTP-Set-[ (enthält jetzt vorgefertigte Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Wählen Sie aus einer Vielzahl von Stilen, einschließlich Webinaren, Fallstudien und eBooks.
+Die Seite RTP-Set-[&#x200B; (enthält jetzt vorgefertigte Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Wählen Sie aus einer Vielzahl von Stilen, einschließlich Webinaren, Fallstudien und eBooks.
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
@@ -78,7 +78,7 @@ Die Seite RTP-Set-[ (enthält jetzt vorgefertigte Vorlagen](/help/marketo/produc
 
 ## RTP: JavaScript API-Verbesserungen {#rtp-javascript-api-enhancements}
 
-Neuer RTP-API-Aufruf, um Echtzeit-Besucherdaten wie Organisation, Branche, Standort und Segment-Code abzugleichen. Darüber hinaus wird beim Bewegen des Mauszeigers über einen Segmentnamen auf der Seite Segmente eine QuickInfo mit dem Segment-Code angezeigt. Die vollständige Dokumentation finden [ auf unserer ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)-Website.
+Neuer RTP-API-Aufruf, um Echtzeit-Besucherdaten wie Organisation, Branche, Standort und Segment-Code abzugleichen. Darüber hinaus wird beim Bewegen des Mauszeigers über einen Segmentnamen auf der Seite Segmente eine QuickInfo mit dem Segment-Code angezeigt. Die vollständige Dokumentation finden [&#x200B; auf unserer &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)-Website.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

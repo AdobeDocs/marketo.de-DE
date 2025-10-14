@@ -21,4 +21,4 @@ Wenn Sie beim Senden einer E-Mail einen „unerwarteten Fehler“ in Gmail erhal
 
 1. Klicken Sie nach dem Trennen auf **[!UICONTROL Mit Google verbinden]**.
 
-   Sobald Sie wieder eine Verbindung hergestellt haben, gehen Sie zurück zu Gmail und aktualisieren Sie Ihre Seite und versuchen Sie erneut, Ihre E-Mail zu senden. Wenn es immer noch nicht funktioniert, [ Sie bitte ein Ticket ](https://nation.marketo.com/t5/Support/ct-p/Support) unserem Support-Team ab.
+   Sobald Sie wieder eine Verbindung hergestellt haben, gehen Sie zurück zu Gmail und aktualisieren Sie Ihre Seite und versuchen Sie erneut, Ihre E-Mail zu senden. Wenn es immer noch nicht funktioniert, [&#x200B; Sie bitte ein Ticket &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) unserem Support-Team ab.

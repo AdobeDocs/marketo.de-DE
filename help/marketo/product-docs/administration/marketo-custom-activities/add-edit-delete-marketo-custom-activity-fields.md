@@ -43,7 +43,7 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    >[!TIP]
    >
-   >Nicht sicher, was ausgewählt werden soll? Wir haben Sie im Griff! Alle verfügbaren Datentypen werden in [diesem Artikel) ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Nicht sicher, was ausgewählt werden soll? Wir haben Sie im Griff! Alle verfügbaren Datentypen werden in [diesem Artikel) &#x200B;](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Benennen Sie das Feld. Der API-Name wird automatisch ausgefüllt. Wenn Sie fertig sind, klicken Sie auf **[!UICONTROL Speichern]**.
 

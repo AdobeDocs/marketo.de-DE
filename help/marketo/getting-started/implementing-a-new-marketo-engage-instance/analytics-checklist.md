@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Der Abschnitt „Analytics“ bietet globale Berichte, die die Leistung Ihrer Marketing-Maßnahmen analysieren. Erfahren Sie mehr über die erforderlichen Schritte, um darin zu navigieren.
 
-Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Baumstruktur {#tree}
 

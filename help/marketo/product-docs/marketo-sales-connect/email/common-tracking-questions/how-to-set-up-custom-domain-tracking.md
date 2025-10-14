@@ -15,6 +15,6 @@ ht-degree: 15%
 
 Wir bieten Ihnen die Möglichkeit, das benutzerdefinierte Domain-Tracking für Ihre Links zu konfigurieren. Wenn also jemand den Mauszeiger über einen Link bewegt, lautet die Bezeichnung „go.meinefirma.com“ anstelle von &quot;go.toutapp.com&quot;.
 
-Um dies einzurichten, muss Ihr IT-Administrator die auf unserer Seite „Einstellungen[ aufgeführten Schritte ](https://toutapp.com/custom_tracking_domain).
+Um dies einzurichten, muss Ihr IT-Administrator die auf unserer Seite „Einstellungen[&#x200B; aufgeführten Schritte &#x200B;](https://toutapp.com/custom_tracking_domain).
 
 Auf die Zulassungsliste setzen Sobald Sie dies eingerichtet haben, werden alle Links in Ihrer E-Mail als &quot;go.yourcompany.com&quot; angezeigt.

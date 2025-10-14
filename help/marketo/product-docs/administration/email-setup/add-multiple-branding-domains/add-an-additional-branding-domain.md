@@ -17,7 +17,7 @@ Fügen Sie eine zusätzliche Branding-Domain hinzu, wenn Sie mehrere Marken von 
 
 >[!PREREQUISITES]
 >
->Sie müssen [ generischen Tracking-Link durch ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} Markendomäne ersetzen, bevor Sie weitere Markendomänen hinzufügen.
+>Sie müssen [&#x200B; generischen Tracking-Link durch &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} Markendomäne ersetzen, bevor Sie weitere Markendomänen hinzufügen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -97,7 +97,7 @@ Führen Sie diese Schritte aus, um SSL für Ihre bestehenden Domains zu aktivier
 
 * **Vorhandene SSLs**: Beim Hinzufügen einer Domain sucht das System nach bereits vorhandenen SSLs, die möglicherweise zuvor manuell erstellt wurden. Wenn diese Validierung auftritt, erstellen Sie Ihre Domain, ohne die SSL-Erstellung auszuwählen, und wir werden sie für Sie verbinden. [Support kontaktieren](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} weitere Details/Optionen.
 
-* **Löschen von Domains**: Beim automatischen Löschen einer Domain **das SSL** Zertifikat nicht gelöscht. Diese Schutzmaßnahme verhindert Benutzerfehler, die dazu führen, dass eine Website ohne SSL-Zertifikate ist. Wenn Sie die SSL-Zertifikate entfernen möchten, wenden Sie sich [ den Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* **Löschen von Domains**: Beim automatischen Löschen einer Domain **das SSL** Zertifikat nicht gelöscht. Diese Schutzmaßnahme verhindert Benutzerfehler, die dazu führen, dass eine Website ohne SSL-Zertifikate ist. Wenn Sie die SSL-Zertifikate entfernen möchten, wenden Sie sich [&#x200B; den Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

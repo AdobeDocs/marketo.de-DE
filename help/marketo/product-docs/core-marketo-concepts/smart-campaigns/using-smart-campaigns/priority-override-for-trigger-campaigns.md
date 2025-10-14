@@ -16,7 +16,7 @@ Administratoren können die in Marketo Engage festgelegte Priorität für Trigge
 
 >[!NOTE]
 >
->Diese Funktion ist nur für Trigger-Kampagnen und für Benutzende verfügbar, denen die [ &quot;Trigger-Kampagnenpriorität bearbeiten“ gewährt ](#grant-priority-override-access).
+>Diese Funktion ist nur für Trigger-Kampagnen und für Benutzende verfügbar, denen die [&#x200B; &quot;Trigger-Kampagnenpriorität bearbeiten“ gewährt &#x200B;](#grant-priority-override-access).
 
 >[!CAUTION]
 >

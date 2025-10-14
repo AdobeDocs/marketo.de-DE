@@ -103,7 +103,7 @@ Mobile App ist/wurde geöffnet
 
 Hat/hatte die Aktivität „Mobile App“
 
-Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking ([ Android) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} ([ iOS) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking ([&#x200B; Android) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} ([&#x200B; iOS) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Hat Mobile-App-Aktivität - Trigger
 

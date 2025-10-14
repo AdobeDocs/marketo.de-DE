@@ -20,7 +20,7 @@ Benutzerdefinierte Regel: Sie können bestimmte Agenten auswählen, die basieren
 
 >[!NOTE]
 >
->Das Konto-Routing hat die höchste Priorität. Wenn ein Besucher den Punkt im Gespräch erreicht, um entweder ein Meeting zu buchen oder einen Live-Chat zu initiieren[ wird ](#account-routing)Konto-Routing“ zuerst überprüft, bevor andere Routing-Optionen berücksichtigt werden.
+>Das Konto-Routing hat die höchste Priorität. Wenn ein Besucher den Punkt im Gespräch erreicht, um entweder ein Meeting zu buchen oder einen Live-Chat zu initiieren[&#x200B; wird &#x200B;](#account-routing)Konto-Routing“ zuerst überprüft, bevor andere Routing-Optionen berücksichtigt werden.
 
 ## Erstellen einer benutzerdefinierten Regel {#create-a-custom-rule}
 

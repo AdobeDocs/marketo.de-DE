@@ -198,4 +198,4 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
 
 * **E-Mail-Überprüfung nur für SSO-Benutzer**: Nur SSO-Benutzer wurden automatisch überprüft, sodass sie ein nicht zugängliches E-Mail-Konto verwenden können. Ab Mitte Januar werden alle bestehenden SSO Only-Benutzer nicht mehr verifiziert und werden über einen Link, den wir an das E-Mail-Konto senden, aufgefordert, ihre E-Mail erneut zu verifizieren. Alle neuen SSO-Benutzer müssen in Zukunft nur noch ihre E-Mail-Adressen verifizieren.
 
-* Marketo Engage Sehen Sie sich [ (Januar 2024) Webinar zur Version von ](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"} an.
+* Marketo Engage Sehen Sie sich [&#x200B; (Januar 2024) Webinar zur Version von &#x200B;](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"} an.

@@ -16,7 +16,7 @@ ht-degree: 1%
 
 ## Priorität {#priority}
 
-Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als einen qualifiziert ist. Er wird beim ersten Erstellen [ Dialogfelds ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Sie können die Priorität für ein vorhandenes Dialogfeld ändern, indem Sie es öffnen und auf **[!UICONTROL Registerkarte Zielgruppenkriterien]** Dialogfelddetails) wechseln.
+Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als einen qualifiziert ist. Er wird beim ersten Erstellen [&#x200B; Dialogfelds &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Sie können die Priorität für ein vorhandenes Dialogfeld ändern, indem Sie es öffnen und auf **[!UICONTROL Registerkarte Zielgruppenkriterien]** Dialogfelddetails) wechseln.
 
 ![](assets/audience-criteria-1.png)
 

@@ -20,7 +20,7 @@ Sales Connect bietet Ihnen die Möglichkeit, die Antworten Ihrer Interessenten a
 * Muss E-Mails über API-Protokollierung protokollieren
 * Muss in der Lage sein, [eine Antwort zu verfolgen](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
 * Muss mit [!DNL Salesforce] verbunden sein
-* Muss [!DNL Salesforce] ([) ](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) haben
+* Muss [!DNL Salesforce] ([) &#x200B;](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) haben
 
 ## Antwortprotokollierung aktivieren {#enable-reply-logging}
 

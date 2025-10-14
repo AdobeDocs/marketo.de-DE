@@ -35,7 +35,7 @@ Ja, Sie können [Feld synchronisieren](/help/marketo/product-docs/crm-sync/micro
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
-Sie können [ Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
+Sie können [&#x200B; Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
 
 ## Was passiert, wenn ich ein benutzerdefiniertes Feld hinzufügen muss, nachdem Marketo und [!DNL Dynamics] synchronisiert wurden? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 

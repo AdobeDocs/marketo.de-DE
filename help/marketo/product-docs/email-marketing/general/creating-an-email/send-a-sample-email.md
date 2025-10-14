@@ -56,7 +56,7 @@ Es ist schnell und einfach, Beispiele einer E-Mail zu senden. Informationen zum 
 
    >[!NOTE]
    >
-   >Das Feld Trigger gilt nur für Benutzer, die E-[-Skripte ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting).
+   >Das Feld Trigger gilt nur für Benutzer, die E-[-Skripte &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting).
 
 ## Senden einer Beispiel-E-Mail basierend auf einem Segment {#send-a-sample-email-based-on-a-segment}
 

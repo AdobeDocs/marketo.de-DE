@@ -21,7 +21,7 @@ Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühunge
 
 ## [!UICONTROL Keyword-Rang-Zusammenfassung] {#keyword-rank-summary}
 
-In diesem Abschnitt erfahren Sie, wie Ihre Site für die [Keywords, die Sie ansprechen“, ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) wird.
+In diesem Abschnitt erfahren Sie, wie Ihre Site für die [Keywords, die Sie ansprechen“, &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) wird.
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 

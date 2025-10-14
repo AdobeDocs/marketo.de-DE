@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Programmstatus ändern {#change-program-status}
 
-Mit dem Programmstatus können Sie den Fortschritt von Personen während eines Programms oder Ereignisses verfolgen. Weitere Informationen finden Sie unter [Anpassen, Erstellen und Verwalten von ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}&quot;.
+Mit dem Programmstatus können Sie den Fortschritt von Personen während eines Programms oder Ereignisses verfolgen. Weitere Informationen finden Sie unter [Anpassen, Erstellen und Verwalten von &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}&quot;.
 
 >[!CAUTION]
 >

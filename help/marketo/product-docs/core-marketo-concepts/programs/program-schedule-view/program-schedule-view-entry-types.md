@@ -13,7 +13,7 @@ ht-degree: 19%
 
 # Eintragstypen in der Ansicht „Programmplanung“ {#program-schedule-view-entry-types}
 
-Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanansicht sichtbar und verfügbar sind. Sie können [ Abschnitt Admin auch benutzerdefinierte ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) erstellen.
+Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanansicht sichtbar und verfügbar sind. Sie können [&#x200B; Abschnitt Admin auch benutzerdefinierte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) erstellen.
 
 >[!NOTE]
 >

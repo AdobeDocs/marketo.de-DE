@@ -19,7 +19,7 @@ ht-degree: 10%
 
 >[!IMPORTANT]
 >
->Das Plug-in auf dieser Seite ist für diejenigen vorgesehen, die mit der nativen CRM-Synchronisierungslösung von Marketo mit Marketo Engage synchronisieren[!DNL Dynamics 365]. Für diejenigen, die Folgendes haben: eine benutzerdefinierte Synchronisierung, [!DNL MS Dynamics 365 Online] (9.x und höher), und [!DNL Marketo Sales Insight] gekauft haben, [ das Paket hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>Das Plug-in auf dieser Seite ist für diejenigen vorgesehen, die mit der nativen CRM-Synchronisierungslösung von Marketo mit Marketo Engage synchronisieren[!DNL Dynamics 365]. Für diejenigen, die Folgendes haben: eine benutzerdefinierte Synchronisierung, [!DNL MS Dynamics 365 Online] (9.x und höher), und [!DNL Marketo Sales Insight] gekauft haben, [&#x200B; das Paket hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

@@ -85,4 +85,4 @@ Programme verwenden externe Assets wie E-Mail-Vorlagen, Landingpage-Vorlagen, Bi
 
 >[!CAUTION]
 >
->Beim Importieren eines Programms werden E-Mails/Landingpages mit [dynamischen ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}) übersprungen.
+>Beim Importieren eines Programms werden E-Mails/Landingpages mit [dynamischen &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}) übersprungen.

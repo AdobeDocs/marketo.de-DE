@@ -95,7 +95,7 @@ Der **[!UICONTROL E-Mail senden]** Flussschritt MUSS der zweite Schritt sein. Di
 >
 >Wenn der Person ein Registrierungsfehler zurückgegeben wird, erhält sie die E-Mail-Bestätigung nicht.
 
-Ihr nächster Schritt besteht darin, [Ihre ON24-Ereignisintegration zu ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
+Ihr nächster Schritt besteht darin, [Ihre ON24-Ereignisintegration zu &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

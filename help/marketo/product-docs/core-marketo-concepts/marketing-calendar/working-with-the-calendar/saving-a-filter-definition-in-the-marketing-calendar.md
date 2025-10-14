@@ -35,7 +35,7 @@ Durch Speichern eines Filters können Sie zwischen verschiedenen Filterdefinitio
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Bei Bedarf können Sie [eine Kopie) ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} Definition an andere Marketo-Benutzer senden.
+   Bei Bedarf können Sie [eine Kopie) &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} Definition an andere Marketo-Benutzer senden.
 
    >[!NOTE]
    >

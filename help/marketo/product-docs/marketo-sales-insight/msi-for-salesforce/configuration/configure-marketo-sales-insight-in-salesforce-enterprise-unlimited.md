@@ -245,7 +245,7 @@ Sie sollten die Marketo Sales Insight-Felder für Leads, Kontakte, Konten und Op
 
 >[!NOTE]
 >
->Wenn der Diagnosetest fehlgeschlagen ist, kann [ Problem möglicherweise durch Hinzufügen weiterer Felder ](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} Seiten-Layout behoben werden.
+>Wenn der Diagnosetest fehlgeschlagen ist, kann [&#x200B; Problem möglicherweise durch Hinzufügen weiterer Felder &#x200B;](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} Seiten-Layout behoben werden.
 
 >[!NOTE]
 >

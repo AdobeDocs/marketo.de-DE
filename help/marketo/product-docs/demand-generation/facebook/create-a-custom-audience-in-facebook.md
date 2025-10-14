@@ -16,7 +16,7 @@ ht-degree: 3%
 >[!PREREQUISITES]
 >
 >* [Hinzufügen [!DNL Facebook] Benutzerdefinierte Zielgruppen als LaunchPoint-](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} im Administratorbereich.
->* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von ](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in Ihrem [!DNL Facebook].
+>* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in Ihrem [!DNL Facebook].
 
 >[!TIP]
 >

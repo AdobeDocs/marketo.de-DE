@@ -57,7 +57,7 @@ Verwenden Sie einen Trigger, um eine E-Mail oder einen Warnhinweis zu senden ode
    >
    >Bei mehreren Triggern wechselt eine Person in den Fluss, wenn einer der Trigger aktiviert wird.
 
-   Wenn Sie die Kampagne für mehrere Personen gleichzeitig ausführen möchten, erfahren Sie hier, wie Sie [ Smart-Liste für Smart-Kampagnen definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Wenn Sie die Kampagne für mehrere Personen gleichzeitig ausführen möchten, erfahren Sie hier, wie Sie [&#x200B; Smart-Liste für Smart-Kampagnen definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >

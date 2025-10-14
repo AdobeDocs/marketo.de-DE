@@ -17,7 +17,7 @@ Die Verwendung von Token kann Ihre Arbeit in Marketo Engage vereinfachen. Sie k�
 
 >[!TIP]
 >
->Weitere Informationen dazu, welche Token bereits verfügbar sind, finden Sie unter [ von Token ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+>Weitere Informationen dazu, welche Token bereits verfügbar sind, finden Sie unter [&#x200B; von Token &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Erstellen eines lokalen oder globalen My Token {#create-a-my-token}
 

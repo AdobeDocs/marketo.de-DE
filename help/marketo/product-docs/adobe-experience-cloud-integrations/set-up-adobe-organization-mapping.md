@@ -36,7 +36,7 @@ Um mit Adobe-Programmen wie Audience Manager, dem B2B CDP-Marketo-Connector, [!D
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Geben Sie Ihre Adobe IMS-Organisations-ID ein (erfahren Sie hier[ wie Sie sie finden](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=de){target="_blank"} und klicken Sie auf **[!UICONTROL OK]**.
+1. Geben Sie Ihre Adobe IMS-Organisations-ID ein (erfahren Sie hier[&#x200B; wie Sie sie finden](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=de){target="_blank"} und klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -54,4 +54,4 @@ Um mit Adobe-Programmen wie Audience Manager, dem B2B CDP-Marketo-Connector, [!D
 
 1. Wenn Sie _noch nicht_ angemeldet sind, wird ein Popup-Fenster in einer neuen Registerkarte/einem neuen Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (dieser Vorgang validiert den Organisationszugriff).
 
-Sie können [ Adobe Experience Cloud jetzt Zielgruppendaten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} oder [synchronisieren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}.
+Sie können [&#x200B; Adobe Experience Cloud jetzt Zielgruppendaten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} oder [synchronisieren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}.

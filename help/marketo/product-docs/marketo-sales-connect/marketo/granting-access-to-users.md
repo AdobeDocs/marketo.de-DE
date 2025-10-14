@@ -14,7 +14,7 @@ ht-degree: 4%
 
 Gehen Sie wie in diesem Artikel beschrieben vor, um Ihren [!DNL Sales Connect] Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie „Interessante Momente“ im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
 
-Sie müssen Benutzer zu [!DNL Sales Connect] (hier[ einladen](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) bevor sie auf der Seite Marketo > [!UICONTROL Team-Zugriff] (in [!DNL Sales Connect]) angezeigt werden, wo der Zugriff auf die Marketo-Verbindung gewährt wird.
+Sie müssen Benutzer zu [!DNL Sales Connect] (hier[&#x200B; einladen](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) bevor sie auf der Seite Marketo > [!UICONTROL Team-Zugriff] (in [!DNL Sales Connect]) angezeigt werden, wo der Zugriff auf die Marketo-Verbindung gewährt wird.
 
 >[!CAUTION]
 >

@@ -45,7 +45,7 @@ Wenn Sie jemals nur Text-E-Mails senden möchten, finden Sie hier eine E-Mail, d
 
    >[!CAUTION]
    >
-   >Links werden nicht automatisch in Nur-Text-E-Mails nachverfolgt. Siehe „Hinzufügen [ getrackten Links zu einer Text-E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Links werden nicht automatisch in Nur-Text-E-Mails nachverfolgt. Siehe „Hinzufügen [&#x200B; getrackten Links zu einer Text-E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >

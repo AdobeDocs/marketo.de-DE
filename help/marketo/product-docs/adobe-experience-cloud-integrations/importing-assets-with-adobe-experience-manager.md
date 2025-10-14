@@ -21,7 +21,7 @@ Mit dem Asset-Wähler können Marketo-Kundinnen und -Kunden auf AEM-Assets zugre
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, dass Sie die [AEM-Konfiguration bereits ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) haben.
+>Vergewissern Sie sich, dass Sie die [AEM-Konfiguration bereits &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) haben.
 
 >[!IMPORTANT]
 >

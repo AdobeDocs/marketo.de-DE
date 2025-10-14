@@ -268,7 +268,7 @@ Es gibt zwei Arten der Ausrichtung für DMARC: DKIM-Ausrichtung und SPF-Ausricht
 
 * Wenn Sie E-Mails von Marketo Engage über eine dedizierte IP-Adresse senden und den gebrandeten Rückgabepfad noch nicht implementiert haben oder nicht sicher sind, ob Sie dies haben, eröffnen Sie bitte ein Ticket beim [Adobe-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* Wenn Sie E-Mails von Marketo Engage über einen freigegebenen IP-Pool senden, können Sie durch [hier ](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"} sehen, ob Sie sich für vertrauenswürdige IPs qualifizieren. Der gebrandete Rückgabepfad wird denjenigen kostenlos angeboten, die von vertrauenswürdigen Marketo Engage-IPs senden. Wenden Sie sich bei Genehmigung für dieses Programm an den Adobe-Support, um einen gebrandeten Rückgabepfad einzurichten.
+* Wenn Sie E-Mails von Marketo Engage über einen freigegebenen IP-Pool senden, können Sie durch [hier &#x200B;](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"} sehen, ob Sie sich für vertrauenswürdige IPs qualifizieren. Der gebrandete Rückgabepfad wird denjenigen kostenlos angeboten, die von vertrauenswürdigen Marketo Engage-IPs senden. Wenden Sie sich bei Genehmigung für dieses Programm an den Adobe-Support, um einen gebrandeten Rückgabepfad einzurichten.
 
    * Vertrauenswürdige IPs: Ein freigegebener IP-Pool, der Benutzern mit einem geringeren Volumen vorbehalten ist, die weniger als 75 KB/Monat senden und sich nicht für eine dedizierte IP qualifizieren. Diese Benutzenden müssen auch die Best-Practice-Anforderungen erfüllen.
 

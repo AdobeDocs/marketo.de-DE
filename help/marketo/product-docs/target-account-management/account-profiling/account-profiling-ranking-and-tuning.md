@@ -162,7 +162,7 @@ Klicken Sie auf [!UICONTROL ICP-Indikator hinzufügen], um weitere Indikatoren i
 
 ![](assets/add-icp.png)
 
-Wenn Sie das Kästchen [!UICONTROL Exportieren] aktivieren, können Sie den ICP-Indikator auf der Detailseite [!UICONTROL Benanntes Konto] sowie den ausgewählten ICP-Indikator als Einschränkungen in [benannten Kontofiltern“ ](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Wenn Sie das Kästchen [!UICONTROL Exportieren] aktivieren, können Sie den ICP-Indikator auf der Detailseite [!UICONTROL Benanntes Konto] sowie den ausgewählten ICP-Indikator als Einschränkungen in [benannten Kontofiltern“ &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 

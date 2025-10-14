@@ -17,7 +17,7 @@ Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu
 
 >[!NOTE]
 >
->Erfahren Sie, was Marketo Engage tut, um [Ihre Formulare sicher zu ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Erfahren Sie, was Marketo Engage tut, um [Ihre Formulare sicher zu &#x200B;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 

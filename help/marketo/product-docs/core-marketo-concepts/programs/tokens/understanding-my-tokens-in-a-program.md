@@ -19,7 +19,7 @@ Zusätzlich zu „Meine Token“ können Sie auch eines der integrierten Token i
 
 ## Meine Token  {#my-tokens}
 
-Meine Token sind benutzerdefinierte Variablen, die jeder erstellen kann. Lokal werden sie [ Kampagnenordnern ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} Programmen erstellt.
+Meine Token sind benutzerdefinierte Variablen, die jeder erstellen kann. Lokal werden sie [&#x200B; Kampagnenordnern &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} Programmen erstellt.
 
 Meine Token werden wie folgt angezeigt: `{{my.Name Of Token}}`
 
@@ -89,7 +89,7 @@ Das Verschieben von Programmen und Ordnern wirkt sich auch auf Token aus. Stelle
 
 >[!IMPORTANT]
 >
->Verschachtelte Token werden in (Batch[Kampagnen) ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
+>Verschachtelte Token werden in (Batch[Kampagnen) &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >

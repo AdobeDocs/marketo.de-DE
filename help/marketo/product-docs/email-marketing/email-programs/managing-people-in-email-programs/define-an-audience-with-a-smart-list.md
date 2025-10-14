@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Definieren einer Zielgruppe mit einer intelligenten Liste {#define-an-audience-with-a-smart-list}
 
-Nachdem Sie [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) sollten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Sie können dies tun, indem Sie [eine Liste von Personen ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) oder eine Smart-Liste importieren. So erreichen Sie dies mit einer Smart-Liste.
+Nachdem Sie [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) sollten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Sie können dies tun, indem Sie [eine Liste von Personen &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) oder eine Smart-Liste importieren. So erreichen Sie dies mit einer Smart-Liste.
 
 >[!PREREQUISITES]
 >

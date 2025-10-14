@@ -53,4 +53,4 @@ Interaktionsprogramme können mehr als einen Stream haben. Wenn Sie [einen Strea
 
    >[!NOTE]
    >
-   >Die oben beschriebenen Schritte *tun* gelten auch für Personen[ die ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) anhalten.
+   >Die oben beschriebenen Schritte *tun* gelten auch für Personen[&#x200B; die &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) anhalten.

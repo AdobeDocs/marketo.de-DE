@@ -41,7 +41,7 @@ Wie Marketing-Experten diese höheren Erwartungen in Bezug auf die Erfassung, Ve
 
 Es gibt zwei wichtige Aspekte der DSGVO, in denen Marketing-Experten vergangene, aktuelle und zukünftige Vorgehensweisen überprüfen müssen. Das erste ist die Zustimmung des Einzelnen zur Verarbeitung seiner personenbezogenen Daten, das zweite die Rechenschaftspflicht, d. h. die Fähigkeit zu demonstrieren, wie die Grundsätze der DSGVO befolgt werden.
 
-In unserem E-Book (DSGVO und [ Marketer) stellen wir umfangreiche Informationen zum Einverständnis und zur Rechenschaftspflicht innerhalb der Marketo-Plattform ](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In diesem Artikel konzentrieren wir uns jedoch speziell auf die neuen Funktionen in [!DNL Sales Insight Actions], die Ihrem Unternehmen bei der Einhaltung der DSGVO-Regeln helfen.
+In unserem E-Book (DSGVO und [&#x200B; Marketer) stellen wir umfangreiche Informationen zum Einverständnis und zur Rechenschaftspflicht innerhalb der Marketo-Plattform &#x200B;](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In diesem Artikel konzentrieren wir uns jedoch speziell auf die neuen Funktionen in [!DNL Sales Insight Actions], die Ihrem Unternehmen bei der Einhaltung der DSGVO-Regeln helfen.
 
 ## DSGVO-Compliance in [!DNL Sales Insight Actions] {#gdpr-compliance-in-marketo-sales-connect}
 

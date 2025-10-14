@@ -28,7 +28,7 @@ Das Dynamic Chat JavaScript-Snippet kann auf jeder Website sowie auf Landingpage
 
 **Unterstützt Dynamic Chat neben Englisch auch andere Sprachen?**
 
-Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Spanisch, Deutsch, Japanisch, Niederländisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Spanisch, Deutsch, Japanisch, Niederländisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Unterstützen Sie KI-/NLP-Funktionen?**
 
@@ -94,7 +94,7 @@ Ja! [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/using-dy
 
 In Dynamic Chat werden mehrere Begriffe verwendet. Definitionen für viele von ihnen finden Sie in den Hilfeartikeln der jeweiligen Bereiche.
 
-* Analytics-Begriffe wie „Personen erworben[ (finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Analytics-Begriffe wie „Personen erworben[&#x200B; (finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
 * Trigger-/Filterdefinitionen für Smart-Listen [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
 * Beschreibungen der verschiedenen Stream Designer-Karten [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
