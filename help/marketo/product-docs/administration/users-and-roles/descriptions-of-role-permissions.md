@@ -4,9 +4,9 @@ description: Beschreibungen der Rollenberechtigungen - Marketo-Dokumente - Produ
 title: Beschreibungen der Rollenberechtigungen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1451'
 ht-degree: 16%
 
 ---
@@ -120,7 +120,7 @@ Ermöglicht Benutzenden den Zugriff auf die Registerkarte „Design Studio“ un
 
 * Auf E-Mail zugreifen
    * E-Mail bearbeiten - Ermöglicht Benutzern das Bearbeiten, Erstellen und Klonen von E-Mails
-      * E-Mail betriebsbereit machen : Erteilt Benutzern die Berechtigung, eine E-Mail funktionsfähig zu machen. Siehe: [E-Mail funktionsfähig machen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Operative E-Mails erstellen und bearbeiten - Ermöglicht Benutzern das Erstellen und/oder Bearbeiten operativer E-Mails. Siehe: [E-Mail funktionsfähig machen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * E-Mail genehmigen - Ermöglicht Benutzern das Genehmigen von E-Mails.
       * E-Mail löschen - Ermöglicht Benutzern das Löschen von E-Mails.
