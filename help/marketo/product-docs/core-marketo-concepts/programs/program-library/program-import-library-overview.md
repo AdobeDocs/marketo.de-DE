@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Die Marketo Engage-Referenzbibliothek enthält mehrere Startprogramme, die Sie direkt in Ihre Marketo-Instanz importieren können, um die Erstellung von Programmen zu beschleunigen, die Ihr Team unterstützen.
 
-Die Bibliothek enthält Programme wie E-Mail, Interaktion, Ereignis, Bewertung, Zustellbarkeit und operative Programme. Alle Programme wurden vom Adobe Product Team entwickelt und von unserem [Global Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}-Team im Hinblick auf die Maximierung von Qualität und Effektivität geprüft.
+Die Bibliothek enthält Programme wie E-Mail, Interaktion, Ereignis, Bewertung, Zustellbarkeit und operative Programme. Alle Programme wurden vom Adobe Product Team entwickelt und von unserem [Global Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}-Team im Hinblick auf die Maximierung von Qualität und Effektivität geprüft.
 
 ## Verfügbare Programmbeispiele {#available-program-examples}
 

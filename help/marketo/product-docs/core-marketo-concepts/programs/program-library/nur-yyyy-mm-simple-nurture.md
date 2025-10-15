@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Dies ist ein Beispiel für Simple Nurture-Programme, bei denen das Marketo Engage Engagement-Programm verwendet wird. Dabei werden Inhalte im Zeitverlauf in die Datenbank übertragen, während Streams verwendet werden, um Datensätze anhand des Verhaltens durch die Journey zu leiten.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
