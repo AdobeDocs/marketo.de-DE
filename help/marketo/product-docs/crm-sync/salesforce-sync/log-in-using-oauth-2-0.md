@@ -22,7 +22,7 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzenden von Programmen einen si
 
 >[!NOTE]
 >
->Seit September 2025 schränkt Salesforce die Verwendung von &quot;[ Apps“ ](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"}. Bestehende Benutzende, die eine Connected App auf Grundlage unserer Dokumentation eingerichtet haben, können entweder die Berechtigung „Deinstallierte Connected Apps genehmigen“ zum Profil des Marketo Sync-Benutzenden hinzufügen oder eine neue externe Client-App erstellen, wie unten beschrieben.
+>Seit September 2025 schränkt Salesforce die Verwendung von &quot;[&#x200B; Apps“ &#x200B;](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"}. Bestehende Benutzende, die eine Connected App auf Grundlage unserer Dokumentation eingerichtet haben, können entweder die Berechtigung „Deinstallierte Connected Apps genehmigen“ zum Profil des Marketo Sync-Benutzenden hinzufügen oder eine neue externe Client-App erstellen, wie unten beschrieben.
 
 1. Klicken Sie in Salesforce auf das Zahnradsymbol und wählen Sie **Setup**.
 
