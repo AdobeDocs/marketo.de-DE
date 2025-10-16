@@ -63,7 +63,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] Integration von Lead Gen-Forms**: Marketing-Experten können jetzt Umsatzzuordnungen für Konversionen durchführen, die auftreten, wenn [!DNL LinkedIn] Formularausfüllungen über ihre Lead Gen-Forms-Werbeeinheiten erfasst. Diese Erkenntnisse können dann zur Optimierung der Formularleistung und der Investitionen in bezahlte Medien verwendet werden. [!DNL LinkedIn] Lead Gen Forms sind eines der am schnellsten wachsenden Paid-Media-Angebote von [!DNL LinkedIn] und diese neue Funktion ist Teil unserer bestehenden [!DNL LinkedIn] Ads-Integration mit [!DNL Bizible].
+* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Integration von Lead Gen-Forms**: Marketing-Experten können jetzt Umsatzzuordnungen für Konversionen durchführen, die auftreten, wenn [!DNL LinkedIn] Formularausfüllungen über ihre Lead Gen-Forms-Werbeeinheiten erfasst. Diese Erkenntnisse können dann zur Optimierung der Formularleistung und der Investitionen in bezahlte Medien verwendet werden. [!DNL LinkedIn] Lead Gen Forms sind eines der am schnellsten wachsenden Paid-Media-Angebote von [!DNL LinkedIn] und diese neue Funktion ist Teil unserer bestehenden [!DNL LinkedIn] Ads-Integration mit [!DNL Bizible].
 
 * **Verbessertes Geschwindigkeits-Dashboard**: Wir haben eine neue Geschwindigkeitsmetrik und einen Dashboard-Filter für tiefere Einblicke hinzugefügt. Dieses Dashboard wird von Marketing-Experten verwendet, um die Lead- und Opportunity-Geschwindigkeit und die Effizienz verschiedener Formen der Marketing- und Vertriebsinteraktion Schritt für Schritt zu verstehen.
 
