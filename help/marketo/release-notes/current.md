@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+workflow-type: tm+mt
+source-wordcount: '704'
+ht-degree: 92%
 
 ---
 
@@ -81,6 +81,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* **Einstellung der REST-API mit doppelten Schrägstrichen**: Am 16. September 2025 wurde Adobe auf eine modernere Hosting-Infrastruktur für REST-API-URLs umgestellt, die neuere Technologien nutzt und so Sicherheit und Skalierbarkeit bietet. Wenn Ihr Abonnement APIs mit einem doppelten Schrägstrich (//) in der URL verwendet hat, lesen Sie bitte [diesen Beitrag von Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} für die nächsten Schritte.
 
 * **Zurück zur Geschwindigkeits-Skripterstellung im neuen E-Mail-Designer**: Adobe Marketo Engage hat im vergangenen Juni für den neuen E-Mail-Designer eine Funktion namens _Bedingter Inhalt_ veröffentlicht. Die Funktion basierte auf Handlebar-Skripterstellung anstelle von Geschwindigkeits-Skripterstellung. Das war ein Bemühen, Ihren dynamischen Inhalten etwas mehr Flexibilität zu verleihen. Als wir jedoch erkannten, dass dadurch manche Token falsch aufgelöst werden, entschieden wir, die Funktion vorübergehend zu deaktivieren. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
