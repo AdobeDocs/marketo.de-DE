@@ -21,7 +21,7 @@ Manchmal soll der API-Zugriff nur auf eine bestimmte IP-Adresse oder einen Adres
 
 >[!NOTE]
 >
->Diese Funktion funktioniert unabhängig von Marketo Engage [IP-basierten Anmeldebeschränkungen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} die durch die [IP-basierte Zugriffssteuerung](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"} von Admin Console ersetzt werden. Nach der Adobe IMS-Migration funktioniert sie weiterhin unverändert.
+>Diese Funktion funktioniert unabhängig von Marketo Engage [IP-basierten Anmeldebeschränkungen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} die durch die [IP-basierte Zugriffssteuerung](https://helpx.adobe.com/de/enterprise/using/ip-based-access.html){target="_blank"} von Admin Console ersetzt werden. Nach der Adobe IMS-Migration funktioniert sie weiterhin unverändert.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
