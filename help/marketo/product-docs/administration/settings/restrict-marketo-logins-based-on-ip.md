@@ -4,10 +4,10 @@ description: Marketo-Anmeldungen auf Basis von IP beschränken - Marketo-Dokumen
 title: Beschränken von Marketo-Anmeldungen auf Grundlage von IP-Adressen
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 7%
+source-wordcount: '236'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,12 @@ Sie können den Zugriff von Benutzenden auf Marketo anhand ihrer IP-Adressen ein
 
 >[!IMPORTANT]
 >
->Die Informationen in diesem Artikel richten sich an Benutzer, die sich direkt unter login.marketo.com anmelden. Sie gelten nicht für Benutzer, die sich bei Adobe ID authentifizieren. Es ist derzeit nicht möglich, IP-Einschränkungen für SSO-Anmeldungen (Single Sign-on) durchzusetzen.
+>Adobe Admin Console (AAC) unterstützt [IP-basierte Zugriffssteuerung](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Um einen reibungslosen Übergang zu gewährleisten, werden bestehende IP-Beschränkungen für Marketo Engage aktiv, einschließlich Adobe ID-Benutzender bis zum 1. Quartal 2026 in Abonnements, in denen diese Funktion aktiviert ist.
+>
+>* Sie können den AAC-IP-basierten Zugriff jederzeit konfigurieren.
+>* Einschränkungen von AAC und Marketo Engage können gleichzeitig ausgeführt werden. Verwenden Sie dieselbe IP-Zulassungsliste für Kompatibilität.
+>
+>Nach dem 1. Quartal 2026 werden Marketo Engage-IP-Beschränkungen eingestellt. Der IP-basierte Zugriff wird ausschließlich über AAC verwaltet und muss so konfiguriert sein, dass Anmeldebeschränkungen erzwungen werden. Ein endgültiges Übergangsdatum wird zu einem späteren Zeitpunkt bekannt gegeben.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -50,5 +55,3 @@ Sie können den Zugriff von Benutzenden auf Marketo anhand ihrer IP-Adressen ein
    >Sie können mehrere Einschränkungen hinzufügen, sie können jedoch nur ALLE zulässig oder ALLE blockiert sein. Zulässig und blockiert können nicht gemischt und übereinstimmen.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)
-
-   Gut gemacht, Ihre Marketing-Daten sind jetzt sicherer als je zuvor!
