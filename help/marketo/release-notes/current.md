@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
-workflow-type: ht
-source-wordcount: '688'
-ht-degree: 100%
+source-git-commit: 517ac202934acb737aa7b1496693668871f38f71
+workflow-type: tm+mt
+source-wordcount: '690'
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>Import-Tool für Vorlagen</strong>: Importieren Sie E-Mail-Vorlagen aus dem klassischen E-Mail-Editor, um Vorlagen zu erstellen, die mit dem neuen E-Mail-Designer in Design Studio kompatibel sind.</td>
+   <td><strong>E-Mail-Designer - Vorlagen-Importer</strong>: Importieren Sie E-Mail-Vorlagen aus dem klassischen E-Mail-Editor, um Vorlagen zu erstellen, die mit der neuen E-Mail-Designer in Design Studio kompatibel sind.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
