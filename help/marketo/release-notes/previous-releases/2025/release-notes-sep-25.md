@@ -2,7 +2,7 @@
 description: September 2025 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – September 2025
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
+source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 98%
@@ -32,8 +32,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Speicherung von Aktivitäten zu On-Demand-Webinaren</strong>: Benutzenden interaktiver Webinare stehen Dashboard-Daten zu On-Demand-Webinaren jetzt für mehr als 30 Tage zur Verfügung (zuvor waren es nur bis zu 30 Tage ab dem Tag des Webinars).</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versandt</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
   </tr>
   <tr>
    <td> </td>
