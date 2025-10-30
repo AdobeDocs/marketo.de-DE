@@ -5,18 +5,19 @@ title: Vorlagenimport
 description: Erfahren Sie, wie Sie Ihre vorhandenen E-Mail-Vorlagen aus dem klassischen Editor in die neue E-Mail-Designer importieren.
 level: Beginner, Intermediate
 feature: Email Designer
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '723'
 ht-degree: 1%
 
 ---
 
 # Vorlagenimport {#template-import}
 
-Importieren Sie Ihre vorhandenen E-Mail-Vorlagen nahtlos aus dem klassischen Editor in die neue E-Mail-Designer, behalten Sie Ihre Designs bei und beschleunigen Sie die Vorlagenerstellung mit vertrauten, wiederverwendbaren Strukturen.
+Importieren Sie Ihre vorhandenen E-Mail-Vorlagen nahtlos aus dem klassischen Editor in die neue E-Mail-Designer, behalten Sie Ihre Designs bei und beschleunigen Sie die Vorlagenerstellung mit vertrauten, wiederverwendbaren Strukturen. Lesen Sie [Best Practices](#best-practices) und erfahren Sie mehr über [Einschränkungen und Abhilfemaßnahmen](#limitations-and-remedies).
 
 1. Gehen Sie zum **Design Studio**.
 
@@ -77,6 +78,8 @@ Es empfiehlt sich, Fragmente wiederholbarer Abschnitte zur späteren Verwendung 
 * Nach dem Import können Sie wiederverwendbare Abschnitte als Fragmente speichern und für die Verwendung durch E-Mail-Autoren genehmigen. Wenden Sie Markendesigns an, um Konsistenz und Konformität zu gewährleisten.
 
 * Sie können die Velocity-Skripterstellung fortsetzen und ältere Snippets mit einer Kombination aus Fragmenten und bedingten Inhalten erneut implementieren, um die Flexibilität und Kontrolle zu verbessern.
+
+## Einschränkungen und Abhilfemaßnahmen {#limitations-and-remedies}
 
 <table><thead>
   <tr>
