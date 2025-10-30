@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 5e708d24c193791bae308d979c094df61da48c5b
+source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 0%
+source-wordcount: '710'
+ht-degree: 1%
 
 ---
 
@@ -20,75 +20,126 @@ Importieren Sie Ihre vorhandenen E-Mail-Vorlagen nahtlos aus dem klassischen Edi
 
 1. Gehen Sie zum **Design Studio**.
 
-SCREENSHOT
+   SCREENSHOT
 
 1. Klicken Sie auf **E-Mail** Vorlagen) und wählen Sie **E-Mail-Vorlagen (Neu)**.
 
-SCREENSHOT
+   SCREENSHOT
 
 1. Klicken Sie **Vorlage erstellen**.
 
-SCREENSHOT
+   SCREENSHOT
 
 1. Geben Sie _Name_ und (optional) _Beschreibung_ ein.
 
-SCREENSHOT
+   SCREENSHOT
 
-Wählen Sie aus den neuen Marketo-Vorlagen. Marketo-Vorlagen zeigen alle vorhandenen Vorlagen an, die in E-Mail 2.0 entwickelt wurden.
+1. Klicken Sie auf die **Marketo** Vorlagen und wählen Sie die vorhandenen Vorlagen aus, die im klassischen E-Mail-Editor erstellt wurden.
 
+   SCREENSHOT
 
+   >[!NOTE]
+   >
+   >Nur genehmigte Vorlagen und Vorlagen, die für den aktuellen Arbeitsbereich freigegeben wurden, können importiert werden.
 
-Wählen Sie eine vorhandene Vorlage aus, um in das Bedienfeld „Variablen bearbeiten“ zu gelangen.
-In diesem Bedienfeld können Sie die rechte Leiste verwenden, um die Variablen unter den entsprechenden Modulen zu bearbeiten und den Inhalt anzupassen.
+1. Wählen Sie die gewünschte Vorlage aus.
 
+   SCREENSHOT
 
+1. Klicken Sie auf Diese Vorlage verwenden .
 
-Wählen Sie die Module im Bedienfeld auf der rechten Seite aus, um die Variablen unter den einzelnen Variablen anzuzeigen.  Der Abschnitt wird im Anzeigefeld hervorgehoben.
+   SCREENSHOT
 
+1. Die importierte Vorlage wird in der E-Mail-Designer geöffnet.
 
+1. Überprüfen Sie die Komponenten auf korrekte Konvertierung und nehmen Sie mithilfe der Designer die gewünschten Anpassungen vor. Wenn Sie mit der Vorlage zufrieden sind, genehmigen Sie sie für die Verwendung in E-Mails.
 
-Variablen ändern. Beispiel: Ändern Sie den Modulhintergrund und sehen Sie die Änderung, die auf der Anzeigeebene widergespiegelt wird.
+## Erstellen von Fragmenten {#create-fragments}
 
+Es empfiehlt sich, Fragmente wiederholbarer Abschnitte zur späteren Verwendung zu erstellen.
 
+1. Klicken Sie oben auf die Schaltfläche **…** und wählen Sie **Als Fragment speichern**.
 
-Klicken Sie auf (-) und melden Sie sich bei einem beliebigen Modul an, um es zu löschen. Beispiel: header-clone.
+   SCREENSHOT
 
+1. Wählen Sie eine Komponente oder Struktur aus und klicken Sie auf **Erstellen**.
 
+   SCREENSHOT
 
-Wiederholen Sie den Vorgang, um die verschiedenen Variablen zu ändern und den Inhalt zu definieren. Klicken Sie abschließend auf die Schaltfläche „In neuem Designer öffnen“.
+1. Geben Sie einen Namen (und optional eine Beschreibung) ein und klicken Sie auf **Speichern**.
 
+   SCREENSHOT
 
+## Best Practices {#best-practices}
 
-Die konvertierte Vorlage wird im neuen E-Mail-Designer geöffnet.
+* Da der Freestyle HTML erheblich variieren kann, interpretiert der Importer möglicherweise nicht immer alle Komponenten perfekt. Überprüfen Sie Ihre importierten Vorlagen, um sicherzustellen, dass alle Abschnitte bearbeitbar und korrekt zugeordnet sind. Wenn ein Bauteil nicht ausgewählt werden kann, müssen Sie diesen Abschnitt einfach neu erstellen, um ein optimales Ergebnis zu erzielen.
 
+* Nach dem Import können Sie wiederverwendbare Abschnitte als Fragmente speichern und für die Verwendung durch E-Mail-Autoren genehmigen. Wenden Sie Markendesigns an, um Konsistenz und Konformität zu gewährleisten.
 
+* Sie können die Velocity-Skripterstellung fortsetzen und ältere Snippets mit einer Kombination aus Fragmenten und bedingten Inhalten erneut implementieren, um die Flexibilität und Kontrolle zu verbessern.
 
-Sie können die Komponenten auf korrekte Konvertierung überprüfen und gegebenenfalls Anpassungen mit dem Editor vornehmen. Sobald Sie mit der Vorlage zufrieden sind, können Sie sie für die Verwendung in E-Mails genehmigen.
-
-Smart-Tipp
-
-Sie können Fragmente wiederholbarer Abschnitte zur späteren Verwendung erstellen.
-
-Klicken Sie dazu auf die Schaltfläche Mehr oben, um „Als Fragment speichern“ einzublenden.
-
-Wählen Sie eine Komponente oder Struktur aus und klicken Sie auf Erstellen .
-
-
-
-Geben Sie einen Namen ein und speichern Sie das Fragment.
-
-
-
-Empfehlungen, die Ihnen helfen, Ihre vorhandenen Vorlagen im neuen Editor zu übernehmen
-
-
-
-Der neue Editor bietet eine Vielzahl leistungsstarker Funktionen - ein echtes WYSIWYG-Erlebnis, Content Governance durch Sperren, Markenthemen, direkten Zugriff auf AEM Assets, Bildbearbeitung mit Adobe Express und erweiterte Personalisierung mithilfe bedingter Inhalte. Das Beste daran ist, dass es Sie von der Codierung von Vorlagen in HTML befreit.
-
-Da der Freestyle HTML sehr unterschiedlich ist, interpretiert der Importer möglicherweise nicht immer alle Komponenten perfekt. Überprüfen Sie Ihre konvertierten Vorlagen, um sicherzustellen, dass alle Abschnitte bearbeitbar und korrekt zugeordnet sind. Wenn kein Teil ausgewählt werden kann, erstellen Sie einfach diesen Abschnitt neu, um optimale Ergebnisse zu erzielen - dies ist eine schnelle Lösung, die eine reibungslose Bearbeitung für alle gewährleistet.
-
-Speichern Sie nach dem Import wiederverwendbare Abschnitte als Fragmente und genehmigen Sie sie für die Verwendung durch E-Mail-Autoren. Wenden Sie Markendesigns an, um Konsistenz und Konformität zu gewährleisten.
-
-Sie können die Velocity-Skripterstellung fortsetzen und ältere Snippets mit einer Kombination aus Fragmenten und bedingten Inhalten erneut implementieren, um die Flexibilität und Kontrolle zu verbessern.
-
-TABELLE
+<table><thead>
+  <tr>
+    <th>Einschränkung</th>
+    <th>Grund</th>
+    <th>Rechtsmittel</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Die im klassischen E-Mail-Editor definierten Variablen sind nicht auf E-Mail-Ebene verfügbar.</td>
+    <td>Die Variablen wurden ursprünglich entwickelt, um die E-Mail-Bearbeitung zu vereinfachen, als der Editor noch keine WYSIWYG-Funktionen bot. In der E-Mail-Designer können Benutzende durch die verfügbaren Steuerelemente eine ähnliche Flexibilität erzielen. Das Import-Tool verwaltet die Struktur und Komponenten der vorhandenen Vorlage und hilft Ihnen, sie effizient in der E-Mail-Designer neu zu erstellen.</td>
+    <td>Benutzer sollten dies in der Designer erreichen können. <p>
+    Bei -Modulen können Sie verschiedene Segmente als Fragmente speichern. Genehmigte Fragmente sind zur Verwendung auf E-Mail-Ebene verfügbar.</td>
+  </tr>
+  <tr>
+    <td>Wenn die Quell-HTML verschachtelte Blöcke enthält, sind die tieferen Ebenen in der Designer nicht adressierbar.</td>
+    <td>Verschachtelte Kommentare werden von E-Mail-Designer nicht unterstützt.</td>
+    <td>Obwohl Designer die Bearbeitung verschachtelter Strukturen nicht zulässt, sollte es genau gerendert werden. Achten Sie darauf, zuerst die Vorlage zu testen.<p>
+    Erstellen Sie die Struktur mithilfe des Rasters neu.</td>
+  </tr>
+  <tr>
+    <td>Manchmal werden Schaltflächen als einfache Container mit Text darin importiert.</td>
+    <td>Einige Implementierungsstile, die HTML verwenden, können beim Import falsch ausgelegt werden.</td>
+    <td>Erstellen Sie die Schaltfläche in der Designer neu.</td>
+  </tr>
+  <tr>
+    <td>Schaltflächen können manchmal übergroß sein.</td>
+    <td>Konflikt zwischen CSS der Marketo-E-Mail und anderen Elementen der unteren Ebene (<code>&lt;span&gt;</code>)</td>
+    <td>Passen Sie die Ränder und Abstände der Schaltfläche in der Designer an.</td>
+  </tr>
+  <tr>
+    <td>Aufzählungspunkte werden nativ nicht unterstützt.</td>
+    <td>Die E-Mail-Designer bietet derzeit keine Aufzählungspunkte.</td>
+    <td>Erwägen Sie die erneute Implementierung von Aufzählungszeichen mithilfe alternativer Techniken.</td>
+  </tr>
+  <tr>
+    <td>Die vertikale Ausrichtung ist verzerrt, wenn der Inhalt des Containers nicht den Wert des Attributs „valign“ berücksichtigt.</td>
+    <td><code>valign</code> funktioniert nicht in Containern, die in der Vorlage definiert sind.</td>
+    <td>Passen Sie Ränder und Abstände der Schaltfläche in der E-Mail-Designer an.</td>
+  </tr>
+  <tr>
+    <td>Personalization-Token (Meine Token) auf Programmebene auf Vorlagenebene können zu Validierungsfehlern führen.</td>
+    <td>E-Mail-Vorlagen unterstützen keine Token auf Programmebene.</td>
+    <td>Ersetzen Sie sie durch andere Token-Typen in Vorlagen und ersetzen Sie sie durch „Meine Token“ in den einzelnen E-Mails.</td>
+  </tr>
+  <tr>
+    <td>Unterteilungskomponenten sind möglicherweise nicht auswählbar.</td>
+    <td>Trennzeichenkomponenten werden in dieser Version nicht behandelt.</td>
+    <td>k. A.</td>
+  </tr>
+  <tr>
+    <td>Wenn der HTML noch irgendwelche Strukturen hat, die nicht richtig geformt sind, dann werden diese wahrscheinlich übernommen.</td>
+    <td>Probleme mit dem Original-HTML.</td>
+    <td>Die Probleme müssen vor dem Import behoben werden.</td>
+  </tr>
+  <tr>
+    <td>Für den importierten Inhalt ist die Verwendung der Inhaltsvorschau kein zuverlässiger Indikator.</td>
+    <td>Die Vorschaufunktion von Designer unterstützt keine benutzerdefinierte HTML.</td>
+    <td>Es wird empfohlen, Ihre E-Mail mit der Option <b>Testversand durchführen</b> im Bildschirm <i>Inhalt simulieren</i> zu testen.</td>
+  </tr>
+  <tr>
+    <td>Die Snippets in der alten Vorlage funktionieren in der E-Mail-Designer nicht.</td>
+    <td>E-Mail-Designer unterstützt keine Snippets.</td>
+    <td>Implementieren Sie Ihre Ausschnitte als Fragmente zusammen mit bedingten Inhalten erneut.</td>
+  </tr>
+</tbody></table>
