@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 517ac202934acb737aa7b1496693668871f38f71
+source-git-commit: dda635ffac84c76eb60ecac395707914c4902c9d
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 96%
+source-wordcount: '730'
+ht-degree: 91%
 
 ---
 
@@ -94,6 +94,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* **Upgrade für die Salesforce CRM-Integration**: Eine neue Version der nativen CRM-Integration wird in aktiven Sandboxes bereitgestellt, in denen der native Connector innerhalb von sieben Tagen ab dem 13. November 2025 aktiviert ist. Ausführliche Informationen finden Sie in [diesem Beitrag von Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
 
 * **Einstellung der REST-API mit doppelten Schrägstrichen**: Am 16. September 2025 hat Adobe auf eine modernere Hosting-Infrastruktur für REST-API-URLs umgestellt, die neuere Technologien nutzt und so Sicherheit und Skalierbarkeit bietet. Wenn Ihr Abonnement APIs mit einem doppelten Schrägstrich (//) in der URL verwendet hat, finden Sie in [diesem Post von Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} Informationen zu den nächsten Schritten.
 
