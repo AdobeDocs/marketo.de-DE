@@ -4,10 +4,10 @@ description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1c4fc86d7eed3babf697b139f11707ec94443c7c
+source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '126'
+ht-degree: 70%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 **Status**:
 
-* Planmäßig: Die Funktionen und Verbesserungen werden planmäßig zum angegebenen Datum veröffentlicht.
-* In Bearbeitung: Wir sind dabei, die Funktionen der Version einzuführen.
-* Versandt: Die Veröffentlichung ist abgeschlossen.
+* **Planmäßig** - Wir planen, die Funktionen und Verbesserungen zum angegebenen Datum zu veröffentlichen
+* **In Bearbeitung** - Wir sind dabei, die Funktionen der Version einzuführen
+* **Versand** - Die Version ist abgeschlossen
 
 _Veröffentlichungsdaten und Funktionen können sich ändern._
 
@@ -33,20 +33,6 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
    <th width="250px">Status</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Januar 2025</a></td>
-   <td>17. Januar 2025</td>
-   <td>Versandt</td>
-  </tr>
-   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">März 2025</a></td>
-   <td>28. März 2025</td>
-   <td>Versandt</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">April 2025</a></td>
-   <td>April 2025</td>
-   <td>Versandt</td>
-  </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Mai 2025</a></td>
    <td>23. Mai 2025</td>
@@ -70,7 +56,11 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">Oktober 2025</a></td>
    <td>31. Oktober 2025</td>
-   <td>Im Gange</td>
+   <td>In Bearbeitung</td>
+  </tr>
+  <td>Januar '26</td>
+   <td>Samstag, 30. Januar 2026</td>
+   <td>Planmäßig</td>
   </tr>
  </tbody>
 </table>
