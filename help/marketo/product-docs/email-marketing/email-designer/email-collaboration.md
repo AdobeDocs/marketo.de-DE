@@ -1,19 +1,17 @@
 ---
 description: E-Mail-Zusammenarbeit - Marketo-Dokumente - Produktdokumentation
-title: E-Mail-Kollaboration
+title: E-Mail-Zusammenarbeit
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 3718ab4d6241c45b937929d253297d9d0cf1b3d4
+source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# E-Mail-Kollaboration {#email-collaboration}
+# E-Mail-Zusammenarbeit {#email-collaboration}
 
 E-Mail-Kollaboration und -Kommentare ermöglichen es Marketing-Teams, E-Mail-Assets in der Adobe Marketo Engage E-Mail-Designer nahtlos zu überprüfen, zu besprechen und abzuschließen. Anstatt Entwürfe über externe Tools (wie Chat, E-Mail-Threads, Tabellen usw.) freizugeben, können Sie Kommentare abgeben, Änderungen vorschlagen und Feedback in Echtzeit auflösen. Dies optimiert den Workflow, verringert Fehler und stellt sicher, dass Stakeholder vor dem Versand einer E-Mail-Kampagne aufeinander abgestimmt sind.
 
