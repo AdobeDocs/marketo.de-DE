@@ -2,9 +2,9 @@
 description: September 2025 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – September 2025
 feature: Release Information
-source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
+source-git-commit: a0c6dd9413c8ecce0d1d674d7635d57dabd2ae12
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '704'
 ht-degree: 98%
 
 ---
@@ -33,17 +33,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Speicherung von Aktivitäten zu On-Demand-Webinaren</strong>: Benutzenden interaktiver Webinare stehen Dashboard-Daten zu On-Demand-Webinaren jetzt für mehr als 30 Tage zur Verfügung (zuvor waren es nur bis zu 30 Tage ab dem Tag des Webinars).</td>
    <td>Versandt</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer – Workflow für Content-Zusammenarbeit</strong>: Sie können jetzt mit anderen Marketo-Benutzenden an E-Mail-Assets zusammenarbeiten und Kommentare abgeben. Taggen Sie Team-Mitglieder (Marketo-Benutzende mit entsprechenden Asset-Berechtigungen), sodass sie eine E-Mail- oder Push-Benachrichtigung erhalten.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -71,9 +61,19 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
+   <td><strong>E-Mail-Designer – Workflow für Content-Zusammenarbeit</strong>: Sie können jetzt mit anderen Marketo-Benutzenden an E-Mail-Assets zusammenarbeiten und Kommentare abgeben. Taggen Sie Team-Mitglieder (Marketo-Benutzende mit entsprechenden Asset-Berechtigungen), sodass sie eine E-Mail- oder Push-Benachrichtigung erhalten.</td>
+   <td>Versandt</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">E-Mail-Zusammenarbeit</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>E-Mail-Designer – Fehlerbehebung bei Umleitungen</strong>: Bei einigen Benutzenden traten Umleitungsprobleme mit URLs für E-Mails auf, die mit der neuen Designer erstellt wurden (z. B. funktionierte das direkte Einfügen der URLs oder das Hinzufügen von Lesezeichen für E-Mail-Assets nicht immer). Dieses Problem wurde behoben. Darüber hinaus werden Links zu E-Mail-Assets aus <b>E-Mail-Vorlagen</b> &gt; <b>Details</b> &gt; <b>Verwendet von</b> zum entsprechenden E-Mail-Asset umgeleitet.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versandt</td>
+   <td>k. A.</td>
   </tr>
   </tbody>
 </table>
