@@ -8,48 +8,50 @@ feature: Email Designer
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
+source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
 
 # Vorlagenimport {#template-import}
 
-Importieren Sie Ihre vorhandenen E-Mail-Vorlagen nahtlos aus dem klassischen Editor in die neue E-Mail-Designer, behalten Sie Ihre Designs bei und beschleunigen Sie die Vorlagenerstellung mit vertrauten, wiederverwendbaren Strukturen. Lesen Sie [Best Practices](#best-practices) und erfahren Sie mehr über [Einschränkungen und Abhilfemaßnahmen](#limitations-and-remedies).
+Importieren Sie Ihre vorhandenen E-Mail-Vorlagen einfach aus dem klassischen Editor in die neue E-Mail-Designer, behalten Sie Ihre Designs bei und beschleunigen Sie die Vorlagenerstellung mit vertrauten, wiederverwendbaren Strukturen. Lesen Sie [Best Practices](#best-practices) und erfahren Sie mehr über [Einschränkungen und Abhilfemaßnahmen](#limitations-and-remedies).
+
+>[!NOTE]
+>
+>Die klassischen E-Mail-Vorlagen wurden mit Freestyle HTML entwickelt, sodass dieser Importer nicht immer alle Komponenten perfekt importieren kann. Überprüfen Sie Ihre importierten Vorlagen, um sicherzustellen, dass alle Abschnitte bearbeitbar und korrekt zugeordnet sind. Wenn ein Bereich nicht auswählbar ist, stellen Sie ihn neu her, um optimale Ergebnisse zu erzielen.
+
+## Vorlage importieren {#import-a-template}
 
 1. Gehen Sie zum **Design Studio**.
 
-   SCREENSHOT
+   ![](assets/import-template-1.png)
 
 1. Klicken Sie auf **E-Mail** Vorlagen) und wählen Sie **E-Mail-Vorlagen (Neu)**.
 
-   SCREENSHOT
+   ![](assets/import-template-2.png)
 
 1. Klicken Sie **Vorlage erstellen**.
 
-   SCREENSHOT
+   ![](assets/import-template-3.png)
 
 1. Geben Sie _Name_ und (optional) _Beschreibung_ ein.
 
-   SCREENSHOT
+   ![](assets/import-template-4.png)
 
-1. Klicken Sie auf die **Marketo** Vorlagen und wählen Sie die vorhandenen Vorlagen aus, die im klassischen E-Mail-Editor erstellt wurden.
+1. Klicken Sie auf die Registerkarte **Marketo** Vorlagen und wählen Sie eine der vorhandenen Vorlagen aus, die im klassischen E-Mail-Editor erstellt wurden.
 
-   SCREENSHOT
+   ![](assets/import-template-5.png)
 
    >[!NOTE]
    >
    >Nur genehmigte Vorlagen und Vorlagen, die für den aktuellen Arbeitsbereich freigegeben wurden, können importiert werden.
 
-1. Wählen Sie die gewünschte Vorlage aus.
+1. Klicken Sie auf **Diese Vorlage verwenden**.
 
-   SCREENSHOT
-
-1. Klicken Sie auf Diese Vorlage verwenden .
-
-   SCREENSHOT
+   ![](assets/import-template-6.png)
 
 1. Die importierte Vorlage wird in der E-Mail-Designer geöffnet.
 
@@ -61,19 +63,19 @@ Es empfiehlt sich, Fragmente wiederholbarer Abschnitte zur späteren Verwendung 
 
 1. Klicken Sie oben auf die Schaltfläche **…** und wählen Sie **Als Fragment speichern**.
 
-   SCREENSHOT
+   ![](assets/import-template-7.png)
 
 1. Wählen Sie eine Komponente oder Struktur aus und klicken Sie auf **Erstellen**.
 
-   SCREENSHOT
+   ![](assets/import-template-8.png)
 
 1. Geben Sie einen Namen (und optional eine Beschreibung) ein und klicken Sie auf **Speichern**.
 
-   SCREENSHOT
+   ![](assets/import-template-9.png)
 
 ## Best Practices {#best-practices}
 
-* Da der Freestyle HTML erheblich variieren kann, interpretiert der Importer möglicherweise nicht immer alle Komponenten perfekt. Überprüfen Sie Ihre importierten Vorlagen, um sicherzustellen, dass alle Abschnitte bearbeitbar und korrekt zugeordnet sind. Wenn ein Bauteil nicht ausgewählt werden kann, müssen Sie diesen Abschnitt einfach neu erstellen, um ein optimales Ergebnis zu erzielen.
+* Die klassischen E-Mail-Vorlagen wurden mit Freestyle HTML entwickelt, sodass dieser Importer nicht immer alle Komponenten perfekt importieren kann. Überprüfen Sie Ihre importierten Vorlagen, um sicherzustellen, dass alle Abschnitte bearbeitbar und korrekt zugeordnet sind. Wenn ein Bereich nicht auswählbar ist, stellen Sie ihn neu her, um optimale Ergebnisse zu erzielen.
 
 * Nach dem Import können Sie wiederverwendbare Abschnitte als Fragmente speichern und für die Verwendung durch E-Mail-Autoren genehmigen. Wenden Sie Markendesigns an, um Konsistenz und Konformität zu gewährleisten.
 
@@ -113,7 +115,7 @@ Es empfiehlt sich, Fragmente wiederholbarer Abschnitte zur späteren Verwendung 
   <tr>
     <td>Aufzählungspunkte werden nativ nicht unterstützt.</td>
     <td>Die E-Mail-Designer bietet derzeit keine Aufzählungspunkte.</td>
-    <td>Erwägen Sie die erneute Implementierung von Aufzählungszeichen mithilfe alternativer Techniken.</td>
+    <td>Erwägen Sie, Aufzählungszeichen mit alternativen Techniken neu zu erstellen.</td>
   </tr>
   <tr>
     <td>Die vertikale Ausrichtung ist verzerrt, wenn der Inhalt des Containers nicht den Wert des Attributs „valign“ berücksichtigt.</td>
@@ -141,8 +143,8 @@ Es empfiehlt sich, Fragmente wiederholbarer Abschnitte zur späteren Verwendung 
     <td>Es wird empfohlen, Ihre E-Mail mit der Option <b>Testversand durchführen</b> im Bildschirm <i>Inhalt simulieren</i> zu testen.</td>
   </tr>
   <tr>
-    <td>Die Snippets in der alten Vorlage funktionieren in der E-Mail-Designer nicht.</td>
+    <td>Ausschnitte in der alten Vorlage funktionieren nicht in der E-Mail-Designer.</td>
     <td>E-Mail-Designer unterstützt keine Snippets.</td>
-    <td>Implementieren Sie Ihre Ausschnitte als Fragmente zusammen mit bedingten Inhalten erneut.</td>
+    <td>Erstellen Sie Ihre Snippets als Fragmente zusammen mit bedingten Inhalten neu.</td>
   </tr>
 </tbody></table>
