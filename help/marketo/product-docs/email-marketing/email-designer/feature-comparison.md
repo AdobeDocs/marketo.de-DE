@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
+source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 14%
+source-wordcount: '888'
+ht-degree: 15%
 
 ---
 
@@ -262,21 +262,21 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Demnächst verfügbar</td>
   </tr>
   <tr>
-    <td>Inhaltsvalidierungs-Workflows</td>
-    <td>Möglichkeit, Validierungs-Workflows für E-Mails in Marketo Engage einzuführen.</td>
-    <td>Nicht verfügbar</td>
-    <td>Geplant für Q4 '25</td>
-  </tr>
-  <tr>
-    <td>Markenkit</td>
+    <td>Marken-Kit</td>
     <td>Möglichkeit zur Verbesserung von E-Mails, die den Markenrichtlinien entsprechen.</td>
     <td>Nicht verfügbar</td>
-    <td>Geplant für Q1 '26</td>
+    <td>Demnächst verfügbar</td>
   </tr>
   <tr>
     <td>Experimentieren (A/B-Tests)</td>
     <td>Möglichkeit, E-Mails zu testen, bevor sie an Ihre Audience gesendet werden.</td>
     <td>Verfügbar</td>
+    <td>Demnächst verfügbar</td>
+  </tr>
+  <tr>
+    <td>Inhaltsvalidierungs-Workflows</td>
+    <td>Möglichkeit, Validierungs-Workflows für E-Mails in Marketo Engage einzuführen.</td>
+    <td>Nicht verfügbar</td>
     <td>TBD</td>
   </tr>
   <tr>
@@ -292,7 +292,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>TBD</td>
   </tr>
   <tr>
-    <td>Predictive Content</td>
+    <td>Prädiktive Inhalte</td>
     <td>Möglichkeit, Inhalte aus einer Wissensdatenbank innerhalb der E-Mail basierend auf der Zielgruppe vorherzusagen.</td>
     <td>Verfügbar</td>
     <td>Nicht verfügbar</td>
