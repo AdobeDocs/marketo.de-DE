@@ -4,9 +4,9 @@ description: Abbrechen des A/B-Tests - Marketo-Dokumente - Produktdokumentation
 title: Abbrechen des A/B-Tests
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: de037f08506f51ecf4a98a0806a8b2a430f6bc81
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '83'
 ht-degree: 14%
 
 ---
@@ -17,18 +17,16 @@ Wenn Sie Ihrem E[Mail-Programm einen A/B](/help/marketo/product-docs/email-marke
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/cancel-the-a-b-test-1.png)
 
 1. Wählen Sie Ihr E-Mail-Programm.
 
-   ![](assets/selectemailprogram-1.jpg)
+   ![](assets/cancel-the-a-b-test-2.png)
 
 1. Klicken Sie unter **[!UICONTROL Kachel]** E-Mail“ auf **[!UICONTROL A/B-Test entfernen]**.
 
-   ![](assets/image2015-5-6-14-3a27-3a58.png)
+   ![](assets/cancel-the-a-b-test-3.png)
 
    >[!NOTE]
    >
-   >Ihr E-Mail-Programm muss nicht genehmigt sein, bevor Sie den A/B-Test entfernen können. Weitere [&#x200B; finden Sie unter „Genehmigen/](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) eines E-Mail-Programms“.
-
-Einfach, bequem!
+   >Ihr E-Mail-Programm muss nicht genehmigt sein, bevor Sie den A/B-Test entfernen können. Weitere [ finden Sie unter „Genehmigen/](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) eines E-Mail-Programms“.

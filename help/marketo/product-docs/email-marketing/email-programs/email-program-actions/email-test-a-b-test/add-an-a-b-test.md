@@ -4,9 +4,9 @@ description: Hinzufügen eines A/B-Tests - Marketo-Dokumente - Produktdokumentat
 title: Hinzufügen eines A/B-Tests
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: de037f08506f51ecf4a98a0806a8b2a430f6bc81
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 5%
 
 ---
@@ -24,25 +24,25 @@ Testen ist eine hervorragende Möglichkeit, Ihre E-Mails für eine bessere Inter
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/add-an-a-b-test-1.png)
 
 1. Wählen Sie Ihr E-Mail-Programm.
 
-   ![](assets/selectemailprogram.jpg)
+   ![](assets/add-an-a-b-test-2.jpg)
 
 1. Klicken Sie unter **[!UICONTROL Kachel]** E-Mail“ auf **[!UICONTROL A/B-Test hinzufügen]**.
 
-   ![](assets/image2014-9-12-14-3a39-3a29.png)
+   ![](assets/add-an-a-b-test-3.png)
 
    >[!NOTE]
    >
    >Beim Hinzufügen eines A/B-Tests ist die ausgewählte E-Mail nicht mehr für die Verwendung in anderen Programmen verfügbar.
 
-1. Es öffnet sich ein neues Fenster mit verschiedenen **Testtypen** zur Auswahl. Entdecken Sie einen der folgenden verwandten Artikel, um fortzufahren.
+1. Ein neues Fenster mit verschiedenen **Testtypen** zur Auswahl wird geöffnet. Entdecken Sie einen der folgenden verwandten Artikel, um fortzufahren.
 
    >[!CAUTION]
    >
-   >Wenn Sie doppelte Datensätze in Ihrer Datenbank haben, erhalten diese Datensätze **sowohl** Test- als auch Erfolgs-E-Mails. Um dies zu verhindern, stellen Sie sicher, [&#x200B; Sie in Ihrer Datenbank doppelte Personen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) und zusammenführen.
+   >Wenn Sie doppelte Datensätze in Ihrer Datenbank haben, erhalten diese Datensätze **sowohl** Test- als auch Erfolgs-E-Mails. Um dies zu verhindern, stellen Sie sicher, [ Sie in Ihrer Datenbank doppelte Personen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) und zusammenführen.
 
 >[!MORELIKETHIS]
 >
