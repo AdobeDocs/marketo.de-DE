@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -86,8 +86,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – E-Mail-Aktion klonen</strong>: Sie können nun eine E-Mail in einen anderen Programmordner innerhalb der Marketing-Aktivitäten klonen und vorhandene E-Mails schnell wiederverwenden.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versandt</td>
+   <td>k. A.</td>
   </tr>
   </tbody>
 </table>
