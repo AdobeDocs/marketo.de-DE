@@ -4,10 +4,10 @@ description: Definieren der Kriterien für den A/B-Testsieger - Marketo-Dokument
 title: Definieren der Kriterien für den A/B-Testsieger
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 22%
+source-wordcount: '432'
+ht-degree: 21%
 
 ---
 
@@ -23,7 +23,7 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
 
 1. Die Standardoptionen **[!UICONTROL Gewinnerkriterien]** werden zuerst aufgeführt.
 
-   ![](assets/image2014-9-12-15-3a51-3a3.png)
+   ![](assets/define-the-a-b-test-winner-criteria-1.png)
 
    <table>
    <tr>
@@ -40,7 +40,7 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=de" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihrer Inhalte.</td>
+   <td>Der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihrer Inhalte.</td>
    </tr>
    </table>
 
@@ -50,35 +50,33 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
 
 1. Sie können Ihre Kriterien auch anpassen, indem Sie **[!UICONTROL Benutzerdefinierte Konversion]** auswählen und auf **[!UICONTROL Bearbeiten]** klicken.
 
-   ![](assets/image2014-9-12-15-3a51-3a53.png)
+   ![](assets/define-the-a-b-test-winner-criteria-2.png)
 
    >[!NOTE]
    >
    >Benutzerdefinierte Konversion ermöglicht es Ihnen, jedes Ereignis als Konversion auszuwählen, indem Sie Trigger und Filter verwenden.
 
-1. Ein Fenster öffnet sich. Suchen Sie den Trigger Ihrer Wahl und ziehen Sie ihn auf die Arbeitsfläche.
+1. Ein Fenster wird geöffnet. Suchen Sie den Trigger Ihrer Wahl und ziehen Sie ihn auf die Arbeitsfläche.
 
-   ![](assets/image2014-9-12-15-3a52-3a18.png)
+   ![](assets/define-the-a-b-test-winner-criteria-3.png)
 
 1. Definieren Sie den Trigger.
 
-   ![](assets/image2014-9-12-15-3a53-3a11.png)
+   ![](assets/define-the-a-b-test-winner-criteria-4.png)
 
    >[!IMPORTANT]
    >
    >Marketo lässt nur Trigger/Filter für Personen zu, die die E-Mail von diesem E-Mail-Programm erhalten haben. Daher ist es nicht erforderlich, den Filter „Wurde E-Mail gesendet“ hinzuzufügen. Darüber hinaus sollten Sie bei der Verwendung eines E-Mail-bezogenen Triggers/Filters „is any“ als Operator verwenden.
 
-1. Klicken Sie auf **[!UICONTROL Schließen]**.
+1. Schließen Sie das neu geöffnete Fenster (oder die neu geöffnete Registerkarte). Die Smart-Liste wird automatisch gespeichert.
 
-   ![](assets/image2014-9-12-15-3a53-3a36.png)
-
-   Sehr gut! Jetzt ist es an der Zeit zu entscheiden, wie der Gewinner bestimmt wird.
+Jetzt ist es an der Zeit zu entscheiden, wie der Gewinner bestimmt wird.
 
 ## Gewinner benennen {#declare-winner}
 
 1. Wählen Sie eine der beiden verfügbaren Optionen aus.
 
-   ![](assets/image2014-9-12-15-3a53-3a44.png)
+   ![](assets/define-the-a-b-test-winner-criteria-5.png)
 
    >[!NOTE]
    >
@@ -88,10 +86,10 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
 
 1. Automatisch ist genial und ist die Standardoption. Klicken Sie einfach **[!UICONTROL Weiter]**.
 
-   ![](assets/image2014-9-12-15-3a54-3a35.png)
+   ![](assets/define-the-a-b-test-winner-criteria-6.png)
 
    >[!TIP]
    >
    >Wenn Sie **[!UICONTROL Manuell]** wählen, wird der Test gesendet und Sie müssen warten, bis Sie einen Gewinner bestimmen. Sie erhalten einen Bericht über die Ergebnisse.
 
-Perfekt! Planen wir nun [den A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
+Planen wir nun [den A/B-Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.

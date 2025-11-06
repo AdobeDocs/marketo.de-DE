@@ -4,9 +4,9 @@ description: Planen des A/B-Tests - Marketo-Dokumente - Produktdokumentation
 title: Planen des A/B-Tests
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '208'
 ht-degree: 5%
 
 ---
@@ -25,35 +25,35 @@ Nachdem Sie einem E-Mail-Programm einen A/B-Test hinzugefügt und die Kriterien 
 
 1. Wählen Sie das **[!UICONTROL Test senden]** Datum aus.
 
-![](assets/image2014-9-12-15-3a59-3a54.png)
+![](assets/schedule-the-a-b-test-1.png)
 
 1. Wählen Sie die Zeit **[!UICONTROL Test senden]** aus.
 
-   ![](assets/image2014-9-12-16-3a0-3a2.png)
+   ![](assets/schedule-the-a-b-test-2.png)
 
    >[!NOTE]
    >
    >Test senden und Gewinner senden muss mindestens 4 Stunden auseinander liegen. Bei größeren Sendungen sollten Sie jedoch 24 Stunden warten, um genügend Zeit für gute Ergebnisse zu haben.
 
-1. Tun Sie dasselbe für &quot;**[!UICONTROL senden]**. Geben Sie die Benachrichtigungsempfänger (optional) ein und klicken Sie auf **[!UICONTROL Weiter]**.
+1. Wiederholen Sie die Schritte 1 und 2 für _Gewinner senden_. Geben Sie die Benachrichtigungsempfänger (optional) ein und klicken Sie auf **[!UICONTROL Weiter]**.
 
    >[!NOTE]
    >
    >Nur die Testgruppe erhält die Testvarianten.
 
-   ![](assets/image2014-9-12-16-3a0-3a12.png)
+   ![](assets/schedule-the-a-b-test-3.png)
 
    >[!NOTE]
    >
    >Wenn Sie den Gewinner manuell angeben möchten, definieren Sie **Bericht senden** Datum/Uhrzeit anstelle von **Absendedatum**.
 
-   Super! Sie sind fertig, überprüfen Sie einfach die Zusammenfassung und klicken Sie auf **[!UICONTROL Schließen]**.
+1. Überprüfen Sie die Zusammenfassung und klicken Sie auf **[!UICONTROL Schließen]**.
 
-   ![](assets/image2014-9-12-16-3a1-3a23.png)
+   ![](assets/schedule-the-a-b-test-4.png)
 
    Sie werden feststellen, dass **[!UICONTROL Kachel]** Zeitplan“ jetzt aktualisiert wurde.
 
-   ![](assets/image2014-9-12-16-3a1-3a33.png)
+   ![](assets/schedule-the-a-b-test-5.png)
 
    >[!NOTE]
    >

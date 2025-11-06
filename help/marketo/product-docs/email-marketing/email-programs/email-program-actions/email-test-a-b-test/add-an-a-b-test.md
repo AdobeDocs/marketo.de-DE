@@ -4,7 +4,7 @@ description: Hinzufügen eines A/B-Tests - Marketo-Dokumente - Produktdokumentat
 title: Hinzufügen eines A/B-Tests
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: de037f08506f51ecf4a98a0806a8b2a430f6bc81
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 5%
@@ -28,7 +28,7 @@ Testen ist eine hervorragende Möglichkeit, Ihre E-Mails für eine bessere Inter
 
 1. Wählen Sie Ihr E-Mail-Programm.
 
-   ![](assets/add-an-a-b-test-2.jpg)
+   ![](assets/add-an-a-b-test-2.png)
 
 1. Klicken Sie unter **[!UICONTROL Kachel]** E-Mail“ auf **[!UICONTROL A/B-Test hinzufügen]**.
 
@@ -42,7 +42,7 @@ Testen ist eine hervorragende Möglichkeit, Ihre E-Mails für eine bessere Inter
 
    >[!CAUTION]
    >
-   >Wenn Sie doppelte Datensätze in Ihrer Datenbank haben, erhalten diese Datensätze **sowohl** Test- als auch Erfolgs-E-Mails. Um dies zu verhindern, stellen Sie sicher, [&#x200B; Sie in Ihrer Datenbank doppelte Personen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) und zusammenführen.
+   >Wenn Sie doppelte Datensätze in Ihrer Datenbank haben, erhalten diese Datensätze **sowohl** Test- als auch Erfolgs-E-Mails. Um dies zu verhindern, stellen Sie sicher, [ Sie in Ihrer Datenbank doppelte Personen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) und zusammenführen.
 
 >[!MORELIKETHIS]
 >
