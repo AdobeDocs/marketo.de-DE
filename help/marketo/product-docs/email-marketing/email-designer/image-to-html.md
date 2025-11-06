@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 6f1b4b6478e95d6d8aa332622daf2f29dd794bfe
+source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
 workflow-type: tm+mt
-source-wordcount: '1332'
+source-wordcount: '1278'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Der Image-zu-HTML-Konverter nutzt generative KI-Technologie und analysiert Layou
 >[!PREREQUISITES]
 >
 >* Sie müssen zunächst den [Core Gen-AI-Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen, um die Gen-AI-Funktion in E-Mail-Designer nutzen zu können. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
->* Sie müssen _Zugriffsname_ sowie _Zugriffs-E-Mail-Vorlage_-Berechtigungen [in Ihrer Marketo-Rolle](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Sie müssen _Zugriff auf E-Mail_ Vorlage) sowie _E-Mail-Vorlage bearbeiten/_) [in Ihrer Marketo-Rolle ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Konvertieren eines Bildes {#convert-an-image}
 
@@ -46,14 +46,6 @@ Gehen Sie wie folgt vor, um ein Bild in eine vollständig anpassbare HTML-E-Mail
 1. Geben Sie einen _Vorlagennamen_ und optional eine Beschreibung ein. Optional können Sie auch Ihren Markenstil auswählen. Laden Sie das gewünschte Bild hoch oder ziehen Sie es per Drag-and-Drop hinüber.
 
    ![](assets/image-to-html-3.png)
-
-   DEEPTHI KANN ICH DIESES WARNTAG DELETE…
-
-   >[!CAUTION]
-   >
-   >Wenn Sie ein Bild zur Konvertierung hochladen **werden alle aktuell in der E-Mail hinzugefügten Inhalte gelöscht und durch** generierte Vorlage ersetzt. Wenn Sie in Ihrer E-Mail bereits Inhalt haben, speichern Sie diese, bevor Sie mit der Bildkonvertierung fortfahren.
-
-   DEEPTHI KANN ICH DIESES WARNUNGS-TAG DELETE^^^
 
 1. Scrollen Sie nach unten und aktivieren Sie _Kontrollkästchen Die Upload-Datei enthält nicht…_. Klicken Sie **Konvertieren**.
 
