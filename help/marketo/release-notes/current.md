@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>E-Mail-Designer - Vorlagen-Importer (Beta)</strong>: Importieren Sie E-Mail-Vorlagen aus dem klassischen E-Mail-Editor, um Vorlagen zu erstellen, die mit der neuen E-Mail-Designer in Design Studio kompatibel sind.</td>
+   <td><strong>E-Mail-Designer – Import-Tool für Vorlagen (Beta)</strong>: Importieren Sie E-Mail-Vorlagen aus dem klassischen E-Mail-Editor, um Vorlagen zu erstellen, die mit dem neuen E-Mail-Designer in Design Studio kompatibel sind.</td>
    <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Vorlagenimport</a></td>
   </tr>
@@ -95,7 +95,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Upgrade für die Salesforce CRM-Integration**: Eine neue Version der nativen CRM-Integration wird in aktiven Sandboxes bereitgestellt, in denen der native Connector innerhalb von sieben Tagen ab dem 13. November 2025 aktiviert ist. Ausführliche Informationen finden Sie in [diesem Beitrag von Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
+* **Upgrade für die Salesforce CRM-Integration**: Ab dem 13. November 2025 wird innerhalb eines Zeitraums von sieben Tagen eine neue Version der nativen CRM-Integration in aktiven Sandboxes bereitgestellt, in denen der native Connector aktiviert ist. Ausführliche Informationen finden Sie in diesem [Post von Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}.
 
 * **Einstellung der REST-API mit doppelten Schrägstrichen**: Am 16. September 2025 hat Adobe auf eine modernere Hosting-Infrastruktur für REST-API-URLs umgestellt, die neuere Technologien nutzt und so Sicherheit und Skalierbarkeit bietet. Wenn Ihr Abonnement APIs mit einem doppelten Schrägstrich (//) in der URL verwendet hat, finden Sie in [diesem Post von Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} Informationen zu den nächsten Schritten.
 
