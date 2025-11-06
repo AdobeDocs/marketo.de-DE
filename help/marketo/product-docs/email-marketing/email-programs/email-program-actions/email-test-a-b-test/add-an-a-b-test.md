@@ -42,7 +42,7 @@ Testen ist eine hervorragende Möglichkeit, Ihre E-Mails für eine bessere Inter
 
    >[!CAUTION]
    >
-   >Wenn Sie doppelte Datensätze in Ihrer Datenbank haben, erhalten diese Datensätze **sowohl** Test- als auch Erfolgs-E-Mails. Um dies zu verhindern, stellen Sie sicher, [ Sie in Ihrer Datenbank doppelte Personen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) und zusammenführen.
+   >Wenn Sie doppelte Datensätze in Ihrer Datenbank haben, erhalten diese Datensätze **sowohl** Test- als auch Erfolgs-E-Mails. Um dies zu verhindern, stellen Sie sicher, [&#x200B; Sie in Ihrer Datenbank doppelte Personen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) und zusammenführen.
 
 >[!MORELIKETHIS]
 >
