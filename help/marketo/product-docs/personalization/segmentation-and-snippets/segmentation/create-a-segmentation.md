@@ -4,9 +4,9 @@ description: Segmentierung erstellen - Marketo-Dokumente - Produktdokumentation
 title: Erstellen einer Segmentierung
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '223'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 3%
 
 Mit der Segmentierung können Sie Personen für Berichte und dynamische Inhalte in unterschiedlichen Profilen gruppieren. So können Sie sie erstellen:
 
-1. Wechseln Sie zu **[!UICONTROL Datenbank]**.
+1. Gehen Sie zu Ihrer **[!UICONTROL Datenbank]**.
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. Klicken Sie auf **[!UICONTROL Neu]** und dann auf **[!UICONTROL Neue Segmentierung]**.
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ Mit der Segmentierung können Sie Personen für Berichte und dynamische Inhalte 
 
 1. Geben Sie einen **[!UICONTROL Namen]** ein, klicken Sie auf **[!UICONTROL Segment hinzufügen]** und benennen Sie es.
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ Mit der Segmentierung können Sie Personen für Berichte und dynamische Inhalte 
 
 1. Fügen Sie beliebig viele Segmente hinzu (bis zu 100).
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ Mit der Segmentierung können Sie Personen für Berichte und dynamische Inhalte 
 
 1. Segmente per Drag-and-Drop verschieben, um ihre Reihenfolge zu ändern. Klicken Sie abschließend auf **[!UICONTROL Erstellen]**.
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >

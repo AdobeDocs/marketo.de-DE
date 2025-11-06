@@ -4,9 +4,9 @@ description: Segmentierung genehmigen - Marketo-Dokumente - Produktdokumentation
 title: Genehmigen einer Segmentierung
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---
@@ -26,22 +26,23 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 
 1. Navigieren Sie zur **[!UICONTROL Datenbank]**.
 
-   ![](assets/image2017-3-28-14-3a25-3a49.png)
+   ![](assets/approve-a-segmentation-1.png)
 
 1. Klicken Sie in der Segmentierung **[!UICONTROL Segmentierungsaktionen]** und dann **[!UICONTROL Genehmigen]**.
 
-   ![](assets/image2017-3-28-14-3a46-3a22.png)
+   ![](assets/approve-a-segmentation-2.png)
 
    >[!NOTE]
    >
-   >Der Status ändert sich in [!UICONTROL Genehmigen] mit einem sich drehenden Rad ( ![](assets/image2014-9-15-15-3a31-3a43.png)), während die Genehmigung ausgeführt wird.
+   >Der Status ändert sich in _Genehmigend_ während die Genehmigung ausgeführt wird.
 
    >[!CAUTION]
    >
-   >Die Validierung kann je nach Größe der Datenbank einige Minuten bis über einen Tag dauern.
+   >Die Validierung kann je nach Größe der Datenbank einige Minuten bis zu einem oder zwei Tage dauern.
 
-   Nach der Genehmigung ändert [!UICONTROL Status] von [!UICONTROL Genehmigend] in [!UICONTROL Genehmigt].
-   ![](assets/image2017-3-28-14-3a46-3a44.png)
+1. Nach der Genehmigung ändert [!UICONTROL Status] von [!UICONTROL Genehmigend] in [!UICONTROL Genehmigt].
+
+   ![](assets/approve-a-segmentation-3.png)
 
    >[!TIP]
    >
@@ -49,7 +50,7 @@ Eine Segmentierung muss genehmigt werden, bevor sie verwendet werden kann.
 
 1. Die **[!UICONTROL Personen]** in **[!UICONTROL Segment]** zeigt jetzt die endgültige Liste der Personen für das Segment an.
 
-   ![](assets/image2017-3-28-14-3a47-3a10.png)
+   ![](assets/approve-a-segmentation-4.png)
 
 >[!CAUTION]
 >
