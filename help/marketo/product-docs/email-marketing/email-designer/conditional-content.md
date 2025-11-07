@@ -5,9 +5,9 @@ title: Bedingte Inhalte
 description: Verwenden Sie bedingte Inhalte in Ihren E-Mails, um Inhalte je nach Empfänger dynamisch anzuzeigen.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Mit bedingten Inhalten können Sie dynamisch steuern, welche Inhalte von welcher
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. Das neue Bild wird angezeigt. Es empfiehlt sich, die Variante umzubenennen, damit sie leichter zu erkennen ist. Klicken Sie einfach auf die Auslassungszeichen und wählen Sie **Umbenennen**.
+1. Das neue Bild wird angezeigt. Es empfiehlt sich, die Variante umzubenennen, damit sie leichter zu erkennen ist. Klicken Sie auf die Auslassungszeichen und wählen Sie **Umbenennen**.
 
    >[!NOTE]
    >
