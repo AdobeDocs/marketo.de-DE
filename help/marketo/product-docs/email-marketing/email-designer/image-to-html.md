@@ -5,9 +5,9 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
 workflow-type: tm+mt
-source-wordcount: '1283'
+source-wordcount: '1287'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Der Image-zu-HTML-Konverter nutzt generative KI-Technologie und analysiert Layou
 >[!PREREQUISITES]
 >
 >* Sie müssen zunächst den [Core Gen-AI-Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen, um die Gen-AI-Funktion in E-Mail-Designer nutzen zu können. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
->* Sie müssen _Zugriff auf E-Mail_ Vorlage) sowie _E-Mail-Vorlage bearbeiten/_) [in Ihrer Marketo-Rolle &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Sie müssen _Zugriff auf E-Mail_ Vorlage) sowie _E-Mail-Vorlage bearbeiten/_) [in Ihrer Marketo-Rolle ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Konvertieren eines Bildes {#convert-an-image}
 
@@ -53,7 +53,7 @@ Gehen Sie wie folgt vor, um ein Bild in eine vollständig anpassbare HTML-E-Mail
    >
    >Der Generierungsprozess kann je nach Komplexität und Größe des Bilddesigns bis zu fünf Minuten dauern. Die KI-Verarbeitung erfolgt im Hintergrund, sodass Sie diesen Bildschirm verlassen und an anderen Aufgaben arbeiten können, während die Konvertierung läuft. Möglicherweise müssen Sie den Bibliotheksbildschirm _E-Mail_ aktualisieren, um die Statusänderung anzuzeigen.
 
-1. Nach Abschluss der Konvertierung wird Ihre Vorlage automatisch als Entwurf gespeichert. Auswählen..
+1. Nach Abschluss der Konvertierung wird Ihre Vorlage automatisch als Entwurf gespeichert. Klicken Sie auf den Namen, um ihn anzuzeigen/zu bearbeiten.
 
    ![](assets/image-to-html-5.png)
 
