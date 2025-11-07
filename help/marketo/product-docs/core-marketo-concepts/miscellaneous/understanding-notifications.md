@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Grundlegendes zu Benachrichtigungen - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Benachrichtigungen
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 3%
@@ -28,7 +28,7 @@ Benachrichtigungen halten Sie über Systemereignisse in Ihrem Marketo Engage-Abo
 
 Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 
-1. Klicken Sie im Bildschirm _Benachrichtigungen_ auf **[!UICONTROL Abonnieren]**.
+1. Klicken Sie _Bildschirm_ Benachrichtigungen“ auf **[!UICONTROL Abonnieren]**.
 
    ![](assets/understanding-notifications-3.png)
 
@@ -38,7 +38,7 @@ Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 
 >[!NOTE]
 >
->Das Feld **[!UICONTROL Senden an]** dient nur zur Eingabe einer E-Mail-Adresse. Es wird keine Liste der vorhandenen Abonnenten angezeigt.
+>Das Feld _[!UICONTROL Senden an]_ dient nur zur Eingabe einer E-Mail-Adresse. Es wird keine Liste der vorhandenen Abonnenten angezeigt.
 
 In einigen Fällen enthält eine Benachrichtigung einen Link „Vollständige Liste anzeigen“, über den Sie eine CSV-Datei (kommagetrennte Werte) herunterladen können, z. B. die Microsoft Dynamics-Synchronisierungsfehlerdatei. Marketo Engage bewahrt diese CSV-Dateien 30 Tage lang auf. Wenn Sie versuchen, die Datei nach 30 Tagen herunterzuladen, erhalten Sie einen 404-Fehler.
 
