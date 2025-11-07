@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '730'
 ht-degree: 99%
 
 ---
@@ -47,6 +47,25 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Bedingte Inhalte</a></td>
   </tr>
   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>E-Mail-Designer – Konvertierer für Bild zu HTML</strong>: Laden Sie eine konforme PNG-/JPEG-Bilddatei einer E-Mail hoch. Sie wird automatisch in HTML konvertiert und kann im neuen E-Mail-Designer verwendet werden.</td>
+   <td>Versandt</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Konvertieren von Bildern in HTML-Vorlagen</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-Mail-Designer – E-Mail-Aktion klonen</strong>: Sie können nun eine E-Mail in einen anderen Programmordner innerhalb der Marketing-Aktivitäten klonen und vorhandene E-Mails schnell wiederverwenden.</td>
+   <td>Versandt</td>
+   <td>k. A.</td>
+  </tr>
   <tr>
    <td> </td>
    <td> </td>
@@ -58,7 +77,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><i>Demnächst verfügbar</i></td>
   </tr>
   <tr>
-  <tr>
    <td> </td>
    <td> </td>
    <td> </td>
@@ -67,27 +85,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><strong>E-Mail-Designer – Marken-Designs</strong>: Sie können nun Marken-Designs innerhalb von Marketo Engage definieren. Stilkonfigurationen können wiederverwendet und auf E-Mail-Vorlagen und andere E-Mail-Assets angewendet werden, um die Markenkonsistenz zu gewährleisten.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>E-Mail-Designer – Konvertierer für Bild zu HTML</strong>: Laden Sie eine konforme PNG-/JPEG-Bilddatei einer E-Mail hoch. Sie wird automatisch in HTML konvertiert und kann im neuen E-Mail-Designer verwendet werden.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer – E-Mail-Aktion klonen</strong>: Sie können nun eine E-Mail in einen anderen Programmordner innerhalb der Marketing-Aktivitäten klonen und vorhandene E-Mails schnell wiederverwenden.</td>
-   <td>Versandt</td>
-   <td>k. A.</td>
   </tr>
   </tbody>
 </table>

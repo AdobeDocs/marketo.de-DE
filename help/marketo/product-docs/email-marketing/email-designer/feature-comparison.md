@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '884'
-ht-degree: 15%
+source-wordcount: '883'
+ht-degree: 14%
 
 ---
 
@@ -226,12 +226,6 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Fragment per Drag-and-Drop verschieben</td>
   </tr>
   <tr>
-    <td>Globale Designs</td>
-    <td>Möglichkeit, genehmigte Designs im gesamten Unternehmen anzuwenden, um Konsistenz in Elementen wie Stil, Farbe, Schriftgröße usw. sicherzustellen.</td>
-    <td>Nicht verfügbar</td>
-    <td>Demnächst</td>
-  </tr>
-  <tr>
     <td>Dynamischer Inhalt/Bedingter Inhalt</td>
     <td>Möglichkeit zum <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank"> (Erstellen von Varianten</a> innerhalb von E-Mails, basierend auf der Zielgruppe.</td>
     <td>Verfügbar</td>
@@ -239,9 +233,9 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
   </tr>
   <tr>
     <td>Bild in HTML</td>
-    <td>Möglichkeit, ein Bild in HTML zu konvertieren und es dann zum Erstellen von E-Mails zu verwenden.</td>
+    <td>Möglichkeit zum <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank"> (Konvertieren eines Bildes in HTML</a> um dann E-Mails zu erstellen.</td>
     <td>Nicht verfügbar</td>
-    <td>Demnächst</td>
+    <td>Verfügbar</td>
   </tr>
   <tr>
     <td>Unterstützung für das Verschieben, Löschen und Importieren von Programmen mit E-Mail-Assets</td>
@@ -266,6 +260,12 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Möglichkeit zur Verbesserung von E-Mails, die den Markenrichtlinien entsprechen.</td>
     <td>Nicht verfügbar</td>
     <td>Demnächst verfügbar</td>
+  </tr>
+  <tr>
+    <td>Globale Designs</td>
+    <td>Möglichkeit, genehmigte Designs im gesamten Unternehmen anzuwenden, um Konsistenz in Elementen wie Stil, Farbe, Schriftgröße usw. sicherzustellen.</td>
+    <td>Nicht verfügbar</td>
+    <td>Demnächst</td>
   </tr>
   <tr>
     <td>Experimentieren (A/B-Tests)</td>
