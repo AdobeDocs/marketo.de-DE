@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
+source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 3%
@@ -26,15 +26,15 @@ Mit bedingten Inhalten können Sie dynamisch steuern, welche Inhalte von welcher
 
 1. Öffnen Sie die gewünschte E-Mail und klicken Sie auf **E-Mail-Inhalt bearbeiten**.
 
-   ![](assets/conditional-content-1.png){width="800" zoomable="yes"}
+   ![](assets/conditional-content-1.png)
 
 1. Wählen Sie den Inhalt aus, der bedingt sein soll (in diesem Beispiel wählen wir das Kopfzeilenbild aus). Klicken Sie auf _Symbol „Bedingten Inhalt_&quot;.
 
    ![](assets/conditional-content-2.png)
 
-1. Die Kiste wird orange. Klicken Sie links auf das Symbol _Bedingung auswählen_ (), um Ihre Variante zu definieren.
+1. Die Kiste wird orange. Klicken Sie links auf das Symbol _Bedingung auswählen_, um Ihre Variante zu definieren.
 
-   ![](assets/conditional-content-3.png)
+   ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
 1. Wählen Sie das gewünschte Segment aus und klicken Sie auf **Auswählen**.
 
@@ -46,11 +46,11 @@ Mit bedingten Inhalten können Sie dynamisch steuern, welche Inhalte von welcher
 
 1. Wählen Sie das entsprechende Bild aus und klicken Sie auf **Auswählen**.
 
-   ![](assets/conditional-content-6.png)
+   ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
 1. Das neue Bild wird angezeigt. Es empfiehlt sich, die Variante umzubenennen, damit sie leichter zu erkennen ist.
 
-   ![](assets/conditional-content-7.png)
+   ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
 1. Um weitere Varianten hinzuzufügen (optional), klicken Sie auf **Variante hinzufügen** und führen Sie dieselben Schritte aus.
 
