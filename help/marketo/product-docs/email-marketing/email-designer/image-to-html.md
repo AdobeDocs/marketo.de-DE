@@ -1,15 +1,15 @@
 ---
-title: GenStudio-Integration für Marketo Engage
-description: Erfahren Sie, wie Sie GenStudio in Marketo Engage verwenden.
+title: Konvertieren von Bildern in HTML-Vorlagen
+description: Verwenden Sie dieses Nicht-Code-Tool, um ein Bild in eine bearbeitbare E-Mail-Vorlage umzuwandeln.
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
+source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
 workflow-type: tm+mt
-source-wordcount: '1278'
+source-wordcount: '1283'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Der Image-zu-HTML-Konverter nutzt generative KI-Technologie und analysiert Layou
 >[!PREREQUISITES]
 >
 >* Sie müssen zunächst den [Core Gen-AI-Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen, um die Gen-AI-Funktion in E-Mail-Designer nutzen zu können. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
->* Sie müssen _Zugriff auf E-Mail_ Vorlage) sowie _E-Mail-Vorlage bearbeiten/_) [in Ihrer Marketo-Rolle &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Sie müssen _Zugriff auf E-Mail_ Vorlage) sowie _E-Mail-Vorlage bearbeiten/_) [in Ihrer Marketo-Rolle ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Konvertieren eines Bildes {#convert-an-image}
 
