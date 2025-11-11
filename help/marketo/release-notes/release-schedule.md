@@ -5,9 +5,9 @@ title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 70%
 
 **Status**:
 
-* **Planmäßig** - Wir planen, die Funktionen und Verbesserungen zum angegebenen Datum zu veröffentlichen
-* **In Bearbeitung** - Wir sind dabei, die Funktionen der Version einzuführen
-* **Versand** - Die Version ist abgeschlossen
+* **Planmäßig**: Die Funktionen und Verbesserungen sollen planmäßig zum angegebenen Datum veröffentlicht werden.
+* **In Bearbeitung**: Wir sind dabei, die Funktionen der Version einzuführen.
+* **Versandt**: Die Veröffentlichung ist abgeschlossen.
 
 _Veröffentlichungsdaten und Funktionen können sich ändern._
 
@@ -58,8 +58,8 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
    <td>31. Oktober 2025</td>
    <td>In Bearbeitung</td>
   </tr>
-  <td>Januar '26</td>
-   <td>Samstag, 30. Januar 2026</td>
+  <td>Januar 2026</td>
+   <td>30. Januar 2026</td>
    <td>Planmäßig</td>
   </tr>
  </tbody>
