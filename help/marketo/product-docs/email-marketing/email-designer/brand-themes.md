@@ -1,16 +1,16 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITEL
-description: BESCHREIBUNG.
+title: Marken-Designs
+description: Erfahren Sie, wie Sie Ihre Markenrichtlinien erstellen und verwalten.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1201'
 ht-degree: 4%
 
 ---
@@ -81,17 +81,13 @@ Wenn Sie die Bearbeitung abgeschlossen haben, klicken Sie auf den Rückwärtspfe
 
 Um eine Variante zu bearbeiten, klicken Sie auf ihr Stiftsymbol.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >Sie können bis zu sechs Varianten erstellen.
 
-Es stehen mehrere Elemente zum Anpassen zur Verfügung.
-
-![](assets/brand-themes-.png)
-
-Varianteneinstellungen sind in die folgenden Kategorien unterteilt:
+Es stehen mehrere Elemente zum Anpassen zur Verfügung. Varianteneinstellungen sind in die folgenden Kategorien unterteilt:
 
 * Allgemein
 * Überschriften
@@ -102,55 +98,49 @@ Varianteneinstellungen sind in die folgenden Kategorien unterteilt:
 
 Mit diesen Einstellungen können Sie Farben für den Textkörper, Strukturen, Hintergründe, Container, Bilder und mehr festlegen.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **Überschrift**
 
 Legen Sie die Text- und Rahmenfarben für jeden Überschriftstyp von Überschrift 1 bis Überschrift 6 fest.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **Absatz**
 
 Legen Sie Text- und Rahmenfarben von bis zu drei Absatztypen fest.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **Schaltflächen**
 
 Legen Sie Füllung, Rahmen und Textfarbe für drei verschiedene Schaltflächentypen fest: Primär, Sekundär und tertiär.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### Texteinstellungen {#text-settings}
 
 Legen Sie Schriftarten und -größen für globale Absätze, Überschriften und Absätze fest.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **Global**
 
-Wählen Sie unter Globale Texteinstellungen die Option Formularbibliothek zwischen standardmäßigen und Google-Schriftbibliotheken.
+Wählen Sie zwischen Standard- oder Google-Schriftbibliotheken und den entsprechenden Schriftfamilien.
 
-![](assets/brand-themes-.png)
-
-Wählen Sie unter Standard aus einer anderen Schriftfamilie.
-
-![](assets/brand-themes-.png)
-
-In ähnlicher Weise werden unter Google Fonts Optionen zur Auswahl der jeweils unterstützten Schriftarten angezeigt.
+![](assets/brand-themes-15.png)
 
 **Überschriften**
 
-Hier können Sie Schriftbibliothek, Familie, Größe, Textstil und Textausrichtung für die verschiedenen Überschrifttypen festlegen.
+Legen Sie Schriftbibliothek, Familie, Größe, Textstil und Textausrichtung für verschiedene Überschrifttypen fest.
 
-SCREENSHOT
+![](assets/brand-themes-16.png)
 
 **Absätze**
 
-Hier können Sie Schriftbibliothek, Familie, Größe, Textstil und Textausrichtung für die verschiedenen Absatzvorgaben festlegen.
+Legen Sie Schriftbibliothek, Familie, Größe, Textstil und Textausrichtung für verschiedene Absatzvorgaben fest.
 
-SCREENSHOT
+![](assets/brand-themes-17.png)
 
 ### Abstand und Rahmen {#spacing-and-border}
 
