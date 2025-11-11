@@ -8,10 +8,10 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
 workflow-type: tm+mt
-source-wordcount: '1365'
-ht-degree: 5%
+source-wordcount: '1226'
+ht-degree: 4%
 
 ---
 
@@ -25,132 +25,134 @@ Diese Funktion ermöglicht es Marketing-Fachleuten, visuell ansprechende, marken
 
 * Wenn Sie eine E-Mail von Grund auf neu erstellen, können Sie mit der Erstellung Ihres Inhalts beginnen, indem Sie ein Design verwenden, um schnell einen bestimmten Stil anzuwenden, der zu Ihrer Marke und Ihrem Design passt. Wenn Sie den klassischen Modus wählen, können Sie keine Designs anwenden, es sei denn, Sie setzen Ihre E-Mail zurück.
 
-* Fragmente sind zwischen dem Design-Modus und dem klassischen Modus nicht kreuzkompatibel. Um ein Fragment in einem Inhalt verwenden zu können, auf den ein Design angewendet wird, muss dieses Fragment im Design-Modus erstellt werden.
+* Fragmente sind zwischen dem Design-Modus und dem klassischen Modus nicht kreuzkompatibel. Um ein Fragment in einem Inhalt verwenden zu können, auf den ein Design angewendet wird, muss es im Design-Modus erstellt werden.
 
-* Die Aktualisierung der Designs wird nicht automatisch an alle Assets weitergegeben, die sie verwenden. Benutzer müssen einzelne Objekte bearbeiten, um das Design zu aktualisieren.
+* Das Aktualisieren eines Designs wird nicht automatisch an alle Assets weitergegeben, die es verwenden. Sie müssen einzelne Objekte bearbeiten, um das Design zu aktualisieren.
 
 * Wenn Designs gelöscht werden, hat dies keine Auswirkungen auf die Assets, die sie verwenden.
 
-## Erstellen von Markendesigns
+## Erstellen eines Markendesigns {#create-a-brand-theme}
 
-Die Erstellung von Markendesigns ist im Editor im Bereich Vorlagenauswahl verfügbar. Sie können dieses Bedienfeld erreichen, wenn Sie eine neue Vorlage erstellen, oder innerhalb von Design ändern im Editor.
+1. Führen Sie die Schritte aus, um [eine E-Mail-Vorlage zu erstellen](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-SCREENSHOT
+1. Wählen Sie auf _Bildschirm_ Vorlage entwerfen“ **Erstellen oder Bearbeiten von Designs**.
 
-Klicken Sie auf Design ändern .
+   ![](assets/brand-themes-1.png)
 
-SCREENSHOT
+1. Wählen Sie das Standarddesign als Grundlage für die Erstellung von Grund auf aus und klicken Sie auf **Erstellen**.
 
-Klicken Sie auf Erstellen oder Bearbeiten von Designs
+   ![](assets/brand-themes-2.png)
 
-SCREENSHOT
+1. Die Arbeitsfläche wird geöffnet, damit Sie verschiedene Teile des Designs bearbeiten können.
 
-Wählen Sie das Standarddesign als Grundlage für die Erstellung aus und klicken Sie auf Erstellen . Das Design enthält Elemente aller Texttypen, Schaltflächen und Container, damit Sie die Änderungen beim Festlegen des Designs sehen können.
+   ![](assets/brand-themes-3.png)
 
-Hinweis: Sie können vorhandene Designs mit dem Optionsfeld Benutzerdefinierte Designs bearbeiten.
+## Einstellungen
 
-SCREENSHOT
+Über die Symbole auf der rechten Seite können Sie auf alle Einstellungsoptionen zugreifen. Lassen Sie uns jede überprüfen.
 
-Die Arbeitsfläche wird geöffnet, damit Sie verschiedene Teile des Designs bearbeiten können.
-
-SCREENSHOT
+![](assets/brand-themes-4.png)
 
 ### Allgemeine Einstellungen {#general-settings}
 
 Benennen Sie das Design und passen Sie die Größe des Darstellungsfelds an.
 
-SCREENSHOT
+![](assets/brand-themes-5.png)
 
-### Farbeinstellungen {#color-settings}
+### Farben {#colors}
 
-Passen Sie als Nächstes die Farbpalette in der rechten Leiste an.
+Beachten Sie bei der Farbanpassung die Änderungen, die im Hauptbedienfeld wirksam werden.
 
-Hinweis: Während Sie Änderungen vornehmen, beachten Sie, dass die Änderungen im Hauptbedienfeld wirksam werden.
+![](assets/brand-themes-6.png)
 
-SCREENSHOT
+>[!NOTE]
+>
+>Es ist bereits ein Satz von Farbfeldern für Sie auf der Grundlage des Standarddesigns konfiguriert.
 
-Bearbeiten Sie die Farbpalette.
+Klicken Sie auf **Bearbeiten**.
 
-Beachten Sie, dass bereits eine Reihe von Farbfeldern für Sie basierend auf dem Standarddesign konfiguriert wurde.
+![](assets/brand-themes-7.png)
 
 Sie können aus einer Vorgabe auswählen oder jede Farbe im Set einzeln konfigurieren. Wenn Sie die Palette auswählen, sind diese Farben später unter den verschiedenen Farbeinstellungen verfügbar.
 
-SCREENSHOT
+![](assets/brand-themes-8.png)
 
-Klicken Sie nach der Konfiguration der Voreinstellungen auf das Symbol Zurück .
+Wenn Sie die Bearbeitung abgeschlossen haben, klicken Sie auf den Rückwärtspfeil (![Rückwärtspfeilsymbol](assets/icon-back-arrow.png)), um zurückzukehren.
 
-Bearbeiten Sie als Nächstes die Variante mit dem Stiftsymbol neben Variante 1.
+Um eine Variante zu bearbeiten, klicken Sie auf ihr Stiftsymbol.
 
-Hinweis: Sie können bis zu 6 Varianten erstellen.
+![](assets/brand-themes-.png)
 
-SCREENSHOT
+>[!NOTE]
+>
+>Sie können bis zu sechs Varianten erstellen.
 
-Im Bearbeitungsfenster können Sie Farben für verschiedene Elemente festlegen.
+Es stehen mehrere Elemente zum Anpassen zur Verfügung.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-Die Einstellungen sind in Gruppen unter den folgenden Überschriften zusammengefasst.
+Varianteneinstellungen sind in die folgenden Kategorien unterteilt:
 
-Allgemein
-Überschriften
-Absätze
-Schaltflächen
+* Allgemein
+* Überschriften
+* Absätze
+* Schaltflächen
 
-### Allgemeine Einstellungen für Name {#general-name-settings}
+**Allgemein**
 
-Mit diesen Einstellungen können Sie Farben für Körper, Strukturen, Hintergründe, Container, Raster, Bilder usw. festlegen.
+Mit diesen Einstellungen können Sie Farben für den Textkörper, Strukturen, Hintergründe, Container, Bilder und mehr festlegen.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Überschrift {#heading}
+**Überschrift**
 
-Dieser Abschnitt ist nur für Text vom Typ Überschrift vorgesehen, in dem Sie die Text- und Rahmenfarben für jeden Überschrifttyp festlegen können.  Sie können Überschriften in 6 Schriftgrößen festlegen.
+Legen Sie die Text- und Rahmenfarben für jeden Überschriftstyp von Überschrift 1 bis Überschrift 6 fest.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Absatz {#paragraph}
+**Absatz**
 
-Dieser Abschnitt ist nur für Text vom Typ Absatz gedacht, in dem Sie die Text- und Rahmenfarben für jeden Absatztyp festlegen können.  Sie können drei Vorgaben für Absatzeinstellungen festlegen.
+Legen Sie Text- und Rahmenfarben von bis zu drei Absatztypen fest.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Schaltflächen {#buttons}
+**Schaltflächen**
 
-Dieser Abschnitt ist nur für Schaltflächen für Füllfarbe, Rahmenfarbe und Textfarbe.  Sie können drei Voreinstellungen für Schaltflächeneinstellungen festlegen: Primär, Sekundär und tertiär.
+Legen Sie Füllung, Rahmen und Textfarbe für drei verschiedene Schaltflächentypen fest: Primär, Sekundär und tertiär.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
 ### Texteinstellungen {#text-settings}
 
-Darunter können Sie die Schriftarten und -größen für globale Überschriften und Absätze festlegen.
+Legen Sie Schriftarten und -größen für globale Absätze, Überschriften und Absätze fest.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Globale Texteinstellungen {#global-text-settings}
+**Global**
 
 Wählen Sie unter Globale Texteinstellungen die Option Formularbibliothek zwischen standardmäßigen und Google-Schriftbibliotheken.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
 Wählen Sie unter Standard aus einer anderen Schriftfamilie.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
 In ähnlicher Weise werden unter Google Fonts Optionen zur Auswahl der jeweils unterstützten Schriftarten angezeigt.
 
-### Einstellungen für Überschriftentext {#heading-text-settings}
+**Überschriften**
 
 Hier können Sie Schriftbibliothek, Familie, Größe, Textstil und Textausrichtung für die verschiedenen Überschrifttypen festlegen.
 
 SCREENSHOT
 
-### Einstellungen für Absatztext {#paragraph-text-settings}
+**Absätze**
 
 Hier können Sie Schriftbibliothek, Familie, Größe, Textstil und Textausrichtung für die verschiedenen Absatzvorgaben festlegen.
 
 SCREENSHOT
 
-### Abstandseinstellungen {#spacing-settings}
+### Abstand und Rahmen {#spacing-and-border}
 
 Darunter können Sie den Abstand und den Rand für verschiedene Strukturtypen oder Schaltflächentypen festlegen.  Wählen Sie den Typ in der ersten Dropdown-Liste aus und setzen Sie dann weiterhin den Abstand und/oder den Rand für dieses Element. Wiederholen Sie dies gegebenenfalls einzeln.
 
