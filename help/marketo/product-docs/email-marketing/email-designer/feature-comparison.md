@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '868'
 ht-degree: 14%
 
 ---
@@ -232,6 +232,12 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Verfügbar</td>
   </tr>
   <tr>
+    <td>Marken-Designs</td>
+    <td>Möglichkeit zur <a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank"> (Anwendung genehmigter </a>) im gesamten Unternehmen, um Konsistenz in Elementen wie Stil, Farbe, Schriftgröße usw. sicherzustellen.</td>
+    <td>Nicht verfügbar</td>
+    <td>Verfügbar</td>
+  </tr>
+  <tr>
     <td>Bild in HTML</td>
     <td>Möglichkeit zum <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank"> (Konvertieren eines Bildes in HTML</a> um dann E-Mails zu erstellen.</td>
     <td>Nicht verfügbar</td>
@@ -254,18 +260,6 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
     <td>Verfügbar</td>
     <td>Demnächst verfügbar</td>
-  </tr>
-  <tr>
-    <td>Marken-Kit</td>
-    <td>Möglichkeit zur Verbesserung von E-Mails, die den Markenrichtlinien entsprechen.</td>
-    <td>Nicht verfügbar</td>
-    <td>Demnächst verfügbar</td>
-  </tr>
-  <tr>
-    <td>Globale Designs</td>
-    <td>Möglichkeit, genehmigte Designs im gesamten Unternehmen anzuwenden, um Konsistenz in Elementen wie Stil, Farbe, Schriftgröße usw. sicherzustellen.</td>
-    <td>Nicht verfügbar</td>
-    <td>Demnächst</td>
   </tr>
   <tr>
     <td>Experimentieren (A/B-Tests)</td>

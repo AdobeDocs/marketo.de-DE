@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -35,6 +35,16 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><strong>E-Mail-Designer – Import-Tool für Vorlagen (Beta)</strong>: Importieren Sie E-Mail-Vorlagen aus dem klassischen E-Mail-Editor, um Vorlagen zu erstellen, die mit dem neuen E-Mail-Designer in Design Studio kompatibel sind.</td>
    <td>Versandt</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Vorlagenimport</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-Mail-Designer – Marken-Designs</strong>: Sie können nun Marken-Designs innerhalb von Marketo Engage definieren. Stilkonfigurationen können wiederverwendet und auf E-Mail-Vorlagen und andere E-Mail-Assets angewendet werden, um die Markenkonsistenz zu gewährleisten.</td>
+   <td>Versandt</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Markenthemen</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -73,16 +83,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – A/B-Tests</strong>: Paritätsfunktion für den neuen E-Mail-Designer, mit der Sie A/B-Tests durchführen können, um herauszufinden, welche Arten von Inhalten die beste Resonanz erzielen.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer – Marken-Designs</strong>: Sie können nun Marken-Designs innerhalb von Marketo Engage definieren. Stilkonfigurationen können wiederverwendet und auf E-Mail-Vorlagen und andere E-Mail-Assets angewendet werden, um die Markenkonsistenz zu gewährleisten.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
