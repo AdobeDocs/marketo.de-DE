@@ -5,10 +5,10 @@ description: Willkommen bei der neuen Adobe Marketo Engage E-Mail-Designer.
 title: Überblick
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 6389e9549ec8caf9d96e6524e46b61e801fc7806
+source-git-commit: 4c0c880202ea4785b157366d8d8712c830921d69
 workflow-type: tm+mt
-source-wordcount: '881'
-ht-degree: 0%
+source-wordcount: '690'
+ht-degree: 4%
 
 ---
 
@@ -26,7 +26,7 @@ Der E-Mail-Designer ist die neueste Innovation in Marketo Engage und bietet ein 
 
 +++Erfahren Sie, wie Sie auf die E-Mail-Designer zugreifen
 
-Um auf die neue E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+Um auf die neue E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Benutzer hinzufügen {#add-users}
 
@@ -44,7 +44,9 @@ Um auf die neue E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Ab
 
 +++
 
-## Verfügbare Artikel {#available-articles}
+## Beliebte Artikel {#popular-articles}
+
+### Erste Schritte {#getting-started}
 
 * [E-Mail-Authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Erfahren Sie, wie Sie eine E-Mail im neuen Editor erstellen, gestalten und referenzieren.
 
@@ -52,21 +54,15 @@ Um auf die neue E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Ab
 
 * [Fragments](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
 
-* [Anpassbare Fragmente](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Erfahren Sie, wie Sie Fragmente anpassen können, indem Sie einige ihrer Felder bearbeitbar machen.
+### Neue Funktionen {#new-features}
 
-* [Arbeiten mit AEM-Assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Erfahren Sie, wie Sie zur Verwendung in Marketo Engage einfach auf Ihre digitalen AEM-Assets zugreifen können.
+* [Bild-zu-HTML-Konverter](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Laden Sie eine konforme PNG/JPEG-Bilddatei einer E-Mail hoch und sie wird automatisch in HTML konvertiert, um in der neuen E-Mail-Designer verwendet zu werden.
 
-* [Bearbeiten von Bildern mit Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: Erfahren Sie, wie Sie Bilder im Adobe Marketo Engage-E-Mail-Editor mithilfe von Adobe Express bearbeiten.
+* [Markenthemen](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}: Definieren Sie Markenthemen in Marketo Engage. Stilkonfigurationen können wiederverwendet und auf E-Mail-Vorlagen und andere E-Mail-Assets angewendet werden, um die Markenkonsistenz zu gewährleisten.
 
-* [KI-Assistenten verwenden](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Nutzen Sie die generative KI-Technologie von Adobe, um Ihren E-Mails hilfreichen Text und/oder Bilder hinzuzufügen.
+* [Vorlagen-Importer](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}: Importieren Sie E-Mail-Vorlagen aus dem klassischen E-Mail-Editor, um Vorlagen zu erstellen, die mit der neuen E-Mail-Designer in Design Studio kompatibel sind.
 
-* [Inhalt in E-Mail-Vorlagen sperren](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Erfahren Sie, wie Sie Inhalte in E-Mail-Vorlagen sperren, um zu verhindern, dass Inhalte versehentlich bearbeitet oder gelöscht werden.
-
-* [E-Mail-Rendering mit Litmus testen](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Nutzen Sie Ihr Litmus-Konto in Marketo Engage, um sofort zu sehen, wie Ihre E-Mail in gängigen E-Mail-Clients gerendert wird.
-
-* [Spam-Erkennung mit SpamAssassin](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}: Mit SpamAssassin in Marketo Engage können Sie Ihren E-Mail-Inhalt testen und feststellen, wie wahrscheinlich es ist, dass ISPs/Postfachanbieter ihn als Spam markieren.
-
-* [Funktionsvergleich](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Vergleichen der Verfügbarkeit der Funktionen im vorherigen E-Mail-Editor (E-Mail-Editor 2.0) und im neuen E-Mail-Designer.
+* [Bedingter Inhalt](/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md){target="_blank"}: Paritätsfunktion für die neue E-Mail-Designer, mit der Sie über Token hinaus eine E-Mail-Personalisierung durchführen können.
 
 ## FAQs {#faq}
 
@@ -78,9 +74,9 @@ Ja, der alte (klassische) E-Mail-Editor wird mit der neuen E-Mail-Designer koexi
 
 Auf neue E-Mail-Designer-E-Mails kann in allen Programmen zugegriffen werden (mit Ausnahme von interaktiven Webinar-Programmen). Klonen ist ebenfalls verfügbar.
 
-**Funktionieren unsere vorhandenen E-Mail-Vorlagen im neuen Designer? Falls nicht, müssen wir Vorlagen mit dem neuen Designer erstellen, damit alle Abschnitte/Module entsprechen, wie unser Inhalt aussehen soll?**
+**Funktionieren unsere vorhandenen E-Mail-Vorlagen im neuen Designer?**
 
-E-Mail-Vorlagen aus dem klassischen Editor können im neuen Designer nicht referenziert werden. Sie müssen neue Vorlagen im neuen Designer erstellen. Sie _jedoch_ Vorlage &quot;HTML&quot; in den neuen Designer importieren und dann die erforderlichen Anpassungen vornehmen. **Hinweis**: Die Kompatibilität der klassischen Editor-Vorlage mit dem neuen Designer wird in Kürze verfügbar sein.
+Ja, aber [müssen importiert werden](/help/marketo/product-docs/email-marketing/email-designer/import-template.md).
 
 **Kann ich neue Designer-Assets einfach in ein anderes Programm verschieben?**
 
@@ -92,7 +88,7 @@ Assets, das über eine API bearbeitet wird, wird derzeit in der neuen E-Mail-Des
 
 **Gibt es eine Möglichkeit, das Branding (Schriftarten, Logos und Farben) durchzusetzen?**
 
-Sperren von Inhaltsabschnitten ist Teil des neuen Designers, und Sperren von Stilen, Farben usw. wird bald verfügbar sein.
+Ja! Erstellen und verwalten Sie Ihre Markenrichtlinien mit [Markenthemen](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md).
 
 **Können Module für Vorlagen besser angepasst und skaliert werden?**
 
@@ -100,15 +96,11 @@ Ja, absolut anpassbar mit unserem WYSIWYG-Editor (What-you-see-is-what-you-get).
 
 **Wie funktioniert der Erstellungsprozess von E-Mail-Vorlagen im neuen Designer? Ist es WYSIWYG oder sind dafür Kenntnisse über HTML erforderlich?**
 
-Es ist WYSIWYG; HTML-Kenntnisse sind nicht erforderlich. Sie können auf einfache Weise Vorlagen im Designer erstellen, wodurch der Bedarf an externen Web-Entwicklern reduziert wird. Sie haben jedoch weiterhin die Möglichkeit, CSS zu aktualisieren und einzelne Abschnitte über HTML zu bearbeiten. Wir arbeiten auch an einer Möglichkeit, Vorlagen einfach vom klassischen Editor zum neuen Designer zu migrieren.
+Es ist WYSIWYG; HTML-Kenntnisse sind nicht erforderlich. Sie können auf einfache Weise Vorlagen im Designer erstellen, wodurch der Bedarf an externen Web-Entwicklern reduziert wird. Sie haben jedoch weiterhin die Möglichkeit, CSS zu aktualisieren und einzelne Abschnitte über HTML zu bearbeiten.
 
 **Unterstützt die neue E-Mail-Designer die AMP-Sprache?**
 
 AMP wird derzeit nicht unterstützt.
-
-**Der dynamische Inhalt nach Attribut ist großartig, aber funktioniert der dynamische Inhalt nach Segment weiterhin?**
-
-Derzeit unterstützt der neue Designer nur Attribute, wir arbeiten jedoch daran, Segmente in einer zukünftigen Version hinzuzufügen.
 
 **Wie kann ich feststellen, ob unser Marketo Engage-Abonnement auf IMS (die Adobe Admin Console) migriert wurde?**
 
