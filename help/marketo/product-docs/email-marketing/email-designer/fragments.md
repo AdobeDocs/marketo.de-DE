@@ -6,9 +6,9 @@ description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendba
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1921'
+source-wordcount: '1951'
 ht-degree: 2%
 
 ---
@@ -94,7 +94,7 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
 </tbody>
 </table>
 
-## Erstellen von Fragmenten {#create-fragments}
+## Erstellen eines Fragments {#create-a-fragment}
 
 1. Um ein neues visuelles Fragment zu erstellen, klicken **[!UICONTROL oben rechts]** der Seite mit der Fragmentliste auf „Fragment erstellen“.
 
@@ -119,9 +119,21 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
    >
    >Der &quot;**&quot; eines Fragments** derzeit nicht geändert werden.
 
-   Der visuelle Designer wird mit einer leeren Arbeitsfläche geöffnet.
+1. Ein _E-Mail erstellen_-Modal wird angezeigt. Wählen Sie _Verwenden von Designs_ oder _Manuelles Styling_. In dieser Option wählen wir &quot;**verwenden**. Klicken Sie **Bestätigen** wenn Sie fertig sind.
 
-1. Verwenden Sie die [Inhaltserstellungs-Tools](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}, um den visuellen Fragmentinhalt zu erstellen.
+   ![](assets/create-fragments-4.png)
+
+   >[!NOTE]
+   >
+   >Wenn Sie manuelle Formatierung wählen, verwenden Sie die [Inhaltserstellungs-Tools](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}, um den Inhalt des visuellen Fragments zu erstellen.
+
+1. Klicken Sie auf _Symbol_ Designs“.
+
+   ![](assets/create-fragments-5.png)
+
+   >[!INFO]
+   >
+   >Weitere Informationen zu [Design-Einstellungen](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}.
 
 1. Klicken Sie **[!UICONTROL auf &quot;]**&quot;, um das Entwurfsfragment zu speichern.
 
