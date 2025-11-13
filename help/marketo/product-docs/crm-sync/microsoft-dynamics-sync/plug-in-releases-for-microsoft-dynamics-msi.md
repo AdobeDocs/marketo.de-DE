@@ -4,9 +4,9 @@ description: Plug-in-Versionen für  [!DNL Microsoft Dynamics] -MSI - Marketo-Do
 title: Plug-in-Versionen für  [!DNL Microsoft Dynamics] .MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '442'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Wenn Sie zum ersten Mal eine Synchronisierung mit [!DNL Microsoft Dynamics] durchführen, laden Sie die neueste Version der Plug-ins für Marketo Sales Insight (MSI) herunter und installieren Sie sie. Marketo aktualisiert diese Plug-ins regelmäßig, damit Sie zum Download der neuen Version an denselben Ort zurückkehren können.
 
-Wenn Sie die native CRM-Synchronisierungslösung von Marketo für [!DNL Dynamics] verwenden, laden [das neueste Plug-in &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} Ihrer [!DNL Dynamics] Version herunter. Für diejenigen, die eine benutzerdefinierte Synchronisierung haben und Marketo Sales Insight erworben haben, ist das [Paket hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Wenn Sie die native CRM-Synchronisierungslösung von Marketo für [!DNL Dynamics] verwenden, laden [das neueste Plug-in ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} Ihrer [!DNL Dynamics] Version herunter. Für diejenigen, die eine benutzerdefinierte Synchronisierung haben und Marketo Sales Insight erworben haben, ist das [Paket hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
@@ -63,7 +63,9 @@ Und das war&#39;s! Nach dem Upgrade wird nur noch eine einzige MSI-Lösung angez
    <td>2,00,31</td>
    <td>Änderungen an der Paginierung bei anonymer Web-Aktivität.
    <p>
-   Verschlüsseln von geheimen Schlüsselinformationen aus der Benutzeransicht. Das Kennwort muss nach dem Import des neuen Pakets geändert werden, damit die Verschlüsselung erfolgt.</td>
+   Verschlüsseln von geheimen Schlüsselinformationen aus der Benutzeransicht. Das Kennwort muss nach dem Import des neuen Pakets geändert werden, damit die Verschlüsselung erfolgt.
+   <p>
+   SOAP Bei der Aktualisierung des MSI for Dynamics-Plug-ins wird empfohlen, sowohl den API-Geheimschlüssel als auch die MSI-Anmeldeinformationen zu aktualisieren, um sicherzustellen, dass mit der Installation des neuen Pakets keine Zugriffsberechtigungen stattfinden.</td>
   </tr>
   <tr>
    <td>10/18/23</td>
