@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '865'
 ht-degree: 14%
 
 ---
@@ -244,22 +244,22 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Verfügbar</td>
   </tr>
   <tr>
+    <td>Velocity Scripting</td>
+    <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
+    <td>Verfügbar</td>
+    <td>Verfügbar</td>
+  </tr>
+  <tr>
     <td>Unterstützung für das Verschieben, Löschen und Importieren von Programmen mit E-Mail-Assets</td>
     <td>Möglichkeit zum Verschieben, Löschen und Importieren von E-Mail-Programmen zusammen mit E-Mail-Assets.</td>
     <td>Verfügbar</td>
-    <td>Demnächst</td>
+    <td>Verfügbar</td>
   </tr>
   <tr>
     <td>Rollen und Berechtigungen</td>
     <td>Möglichkeit zum Hinzufügen von Rollen und Berechtigungen für E-Mail, E-Mail-Vorlagen und Fragmente.</td>
     <td>Verfügbar</td>
-    <td>Demnächst</td>
-  </tr>
-  <tr>
-    <td>Velocity Scripting</td>
-    <td>Möglichkeit zur Verwendung von Velocity-Skripten in E-Mails.</td>
     <td>Verfügbar</td>
-    <td>Demnächst verfügbar</td>
   </tr>
   <tr>
     <td>Experimentieren (A/B-Tests)</td>
