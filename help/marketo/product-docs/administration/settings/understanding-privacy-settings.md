@@ -68,7 +68,7 @@ Marketing-Experten können Benutzer aktivieren, indem sie die Funktionen von Mar
 
 Marketing-Experten können die Privatsphäre schützen, indem sie Benutzer mit einer anonymisierten IP-Adresse verfolgen. Fügen Sie dazu diesen Code zum RTP oder [!DNL Munchkin] JavaScript hinzu, das in die Website eingebettet ist.
 
-* Fügen Sie [!DNL Munchkin] einfach `{"anonymizeIP",true}` zur [init-Funktion“ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Fügen Sie [!DNL Munchkin] einfach `{"anonymizeIP",true}` zur [init-Funktion“ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Fügen Sie für Web Personalization (RTP) Folgendes zum JavaScript hinzu:
 
