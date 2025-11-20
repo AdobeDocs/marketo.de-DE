@@ -32,7 +32,7 @@ Nein. URLs werden nach der Migration im folgenden Format angezeigt: `https://exp
 
 **Müssen wir etwas tun, um uns auf die URL-Änderung vorzubereiten?**
 
-Ja. Nach der Migration wird Marketo Engage von experience.adobe.com nach Adobe Experience Cloud bereitgestellt. Auf die Zulassungsliste setzen Sie müssen mit Ihrem IT-Team zusammenarbeiten, um alle aufgelisteten Adobe-Domains [am Anfang dieses Artikels) ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}, um eine Unterbrechung des Marketo Engage-Zugriffs zu verhindern.
+Ja. Nach der Migration wird Marketo Engage von experience.adobe.com nach Adobe Experience Cloud bereitgestellt. Auf die Zulassungsliste setzen Sie müssen mit Ihrem IT-Team zusammenarbeiten, um alle aufgelisteten Adobe-Domains [am Anfang dieses Artikels) &#x200B;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}, um eine Unterbrechung des Marketo Engage-Zugriffs zu verhindern.
 
 Bisherige Links und Lesezeichen zu Marketo Engage-Assets auf der Domain engage-xx.marketo.com _funktionieren_. Sie müssen sich jedoch zuerst bei der Marketo Engage-Instanz für die URL anmelden, zu der Sie navigieren. Um beispielsweise zu einem Lesezeichen für eine Smart-Campaign-Instanz mit der Munchkin-ID 123-ABC-456 zu navigieren, müssen Sie sich zuerst mit der Munchkin-ID 123-ABC-456 bei der Marketo Engage-Instanz anmelden.
 
@@ -40,7 +40,7 @@ Auch wenn dies nicht geplant ist, können zukünftige Entwicklungsarbeiten diese
 
 **Funktioniert dies mit SSO?**
 
-Ja. Die Integration mit Adobe IMS unterstützt Benutzer mit universeller ID und SSO. SSO wird jetzt von Adobe IMS gesteuert und auf Unternehmensebene in der Adobe Admin Console eingerichtet. Es gibt jedoch Unterschiede zwischen der ID-initiierten Unterstützung für Marketo Engage und der SP-initiierten Unterstützung für Adobe ([ Informationen finden Sie hier](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}). Wenn Sie Hilfe zu SSO-Unterschieden nach der Migration zu Admin Console benötigen, wenden Sie sich an die [Adobe-Kundenunterstützung](https://helpx.adobe.com/contact.html){target="_blank"}.
+Ja. Die Integration mit Adobe IMS unterstützt Benutzer mit universeller ID und SSO. SSO wird jetzt von Adobe IMS gesteuert und auf Unternehmensebene in der Adobe Admin Console eingerichtet. Es gibt jedoch Unterschiede zwischen der ID-initiierten Unterstützung für Marketo Engage und der SP-initiierten Unterstützung für Adobe ([&#x200B; Informationen finden Sie hier](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}). Wenn Sie Hilfe zu SSO-Unterschieden nach der Migration zu Admin Console benötigen, wenden Sie sich an die [Adobe-Kundenunterstützung](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **Was ist der Unterschied zwischen einem Adobe-Produktadministrator und einem Marketo Engage-Administrator?**
 
@@ -59,7 +59,7 @@ Ja. Wer in Adobe IMS integriert wurde, kann nicht alle vorhandenen Marketo User 
 
 * Pre-User-Migration: Support-Fälle in der [Marketing Nation-Community](https://nation.marketo.com/t5/support/ct-p/Support) oder E-Mail-`customercare@marketo.com`.
 
-* Migration nach der Benutzermigration: Fälle, in denen die Datei unterstützt wird, z[ B. in der Marketing Nation Community ](https://nation.marketo.com/t5/support/ct-p/Support) E-Mail-`customercare@marketo.com`.
+* Migration nach der Benutzermigration: Fälle, in denen die Datei unterstützt wird, z[&#x200B; B. in der Marketing Nation Community &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) E-Mail-`customercare@marketo.com`.
 
 * Abschluss der Migration nach dem Support: Produktsupport-Administratoren können Fälle über das Experience League Support-Portal einreichen.
 
@@ -87,7 +87,7 @@ Zwar wird es in Admin Console für [!DNL Sales Connect] eine Produktkarte geben,
 
 **Gehe ich immer noch zum Abschnitt Admin in Marketo, um Benutzerkontoänderungen für mein Konto vorzunehmen?**
 
-Nein, Sie müssen zu „account.adobe.com[ ](https://account.adobe.com){target="_blank"}.
+Nein, Sie müssen zu „account.adobe.com[&#x200B; &#x200B;](https://account.adobe.com){target="_blank"}.
 
 **Wie funktioniert dies mit der universellen ID von Marketo?**
 
@@ -119,7 +119,7 @@ Die unterstützten Produktkarten sind: Marketo Engage, Marketo Measure, Marketo 
 
 **Was passiert, wenn meine Benutzeranmeldung nicht mit meiner E-Mail-Adresse übereinstimmt, wenn ich zu einer Adobe-Identität migriert werde?**
 
-Aktuelle Marketo Engage-Benutzer mit Anmeldungen, die sich von ihrer E-Mail-Adresse unterscheiden, melden sich nach der Migration zu einer Adobe-Identität nicht mehr mit diesen Anmeldedaten an. Adobe-Identitäten authentifizieren sich immer mit der E-Mail-Adresse eines Benutzers. Sie können eine Adobe-Identitäts-E-Mail-Adresse unter [account.adobe.com) ](https://account.adobe.com){target="_blank"}.
+Aktuelle Marketo Engage-Benutzer mit Anmeldungen, die sich von ihrer E-Mail-Adresse unterscheiden, melden sich nach der Migration zu einer Adobe-Identität nicht mehr mit diesen Anmeldedaten an. Adobe-Identitäten authentifizieren sich immer mit der E-Mail-Adresse eines Benutzers. Sie können eine Adobe-Identitäts-E-Mail-Adresse unter [account.adobe.com) &#x200B;](https://account.adobe.com){target="_blank"}.
 
 **Was passiert nach der Adobe-Identitätsmigration, wenn mein Abonnement IP-Einschränkungseinstellungen verwendet?**
 
