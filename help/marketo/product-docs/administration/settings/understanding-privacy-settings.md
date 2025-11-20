@@ -4,9 +4,9 @@ description: Datenschutzeinstellungen - Marketo-Dokumente - Produktdokumentation
 title: Grundlegendes zu Datenschutzeinstellungen
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '479'
 ht-degree: 1%
 
 ---
@@ -68,11 +68,7 @@ Marketing-Experten können Benutzer aktivieren, indem sie die Funktionen von Mar
 
 Marketing-Experten können die Privatsphäre schützen, indem sie Benutzer mit einer anonymisierten IP-Adresse verfolgen. Fügen Sie dazu diesen Code zum RTP oder [!DNL Munchkin] JavaScript hinzu, das in die Website eingebettet ist.
 
-* Fügen Sie [!DNL Munchkin] einfach {„anonymizeIP“,true} zur init-Funktion hinzu.
-
-  >[!NOTE]
-  >
-  >Für die Verwendung dieses Parameters muss [!DNL Munchkin] V2 aktiviert sein. Um sie für Ihr Abonnement zu aktivieren, wenden Sie sich bitte an den [Marketo-Support](https://nation.marketo.com/community/support_solutions).
+* Fügen Sie [!DNL Munchkin] einfach `{"anonymizeIP",true}` zur [init-Funktion“ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Fügen Sie für Web Personalization (RTP) Folgendes zum JavaScript hinzu:
 
