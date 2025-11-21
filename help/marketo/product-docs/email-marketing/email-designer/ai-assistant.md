@@ -9,13 +9,13 @@ exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
 source-wordcount: '814'
-ht-degree: 6%
+ht-degree: 11%
 
 ---
 
 # Verwenden des KI-Assistenten {#use-ai-assistant}
 
-Der KI-Assistent in der Marketo Engage Email Designer hilft Ihnen beim Erstellen zeitgemäßer, leistungsstarker und intuitiver E-Mails. Dies wird durch die generative KI-Technologie und die Prompt-Bibliothek von Adobe zusammen mit Firefly für die Bildgenerierung erreicht, die bei der Erstellung geeigneter Inhalte für eine bestimmte Rolle/Einkaufsgruppe, Marketing-Journey-Phase, Kommunikationsstrategie, Ton usw. hilft. Bestimmte Marken-Assets können auch zum Erstellen von Inhalten verwendet werden.
+Der KI-Assistent in der Marketo Engage Email Designer hilft Ihnen beim Erstellen zeitgemäßer, leistungsstarker und intuitiver E-Mails. Dies wird durch die Technologie für generative KI und die Prompt-Bibliothek von Adobe zusammen mit Firefly für die Bildgenerierung erreicht, die bei der Erstellung geeigneter Inhalte für eine bestimmte Persona/Käufergruppe, Marketing-Journey-Phase, Kommunikationsstrategie, einen bestimmten Tonfall usw. hilft. Bestimmte Marken-Assets können auch zum Erstellen von Inhalten verwendet werden.
 
 >[!PREREQUISITES]
 >
@@ -59,7 +59,7 @@ Wenn eine E-Mail mit der neuen E-Mail-Designer erstellt wird, geben Sie eine tem
 
 ![](assets/use-the-ai-assistant-1.png)
 
-Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![&#x200B; ( &#x200B;](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
+Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![ ( ](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
 
 ![](assets/use-the-ai-assistant-2.png)
 

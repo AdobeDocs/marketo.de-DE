@@ -4,7 +4,7 @@ title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '3414'
 ht-degree: 100%
 
@@ -314,13 +314,13 @@ Wenn also eine Besucherin bzw. ein Besucher mit dem Cookie „abc“ auf einer S
     <td>Anonym</td>
     <td>abc</td>
     <td>Existiert in Datenbank</td>
-    <td>Fusionieren der Person</td>
+    <td>Zusammenführen der Person</td>
   </tr>
   <tr>
     <td>Anonym</td>
     <td>xyz</td>
     <td>Existiert in Datenbank</td>
-    <td>Fusionieren der Person</td>
+    <td>Zusammenführen der Person</td>
   </tr>
   <tr>
     <td>Bekannte Person</td>
