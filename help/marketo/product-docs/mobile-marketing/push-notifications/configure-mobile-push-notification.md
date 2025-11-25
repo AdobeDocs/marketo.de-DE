@@ -1,13 +1,12 @@
 ---
-unique-page-id: 7512454
 description: Mobile Push-Benachrichtigung konfigurieren - Marketo-Dokumente - Produktdokumentation
 title: Konfigurieren einer Push-Benachrichtigung für Mobilgeräte
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 3%
+source-wordcount: '464'
+ht-degree: 5%
 
 ---
 
@@ -45,7 +44,7 @@ ht-degree: 3%
    >
    >Es gibt drei Arten von [!UICONTROL Tipp-Aktionen]:
    >
-   >**Launch App** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerdefiniert** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder einer anderen App zu öffnen, zu der Sie den Link haben (weitere Informationen finden [&#x200B; unter Deep-Link-](#deep-link-uris)).
+   >**Launch App** - **Diese App** öffnet die Startseite Ihrer App, wenn auf die Benachrichtigung getippt wird. **Benutzerdefiniert** verwendet einen Deep-Link, um andere Bereiche Ihrer App oder einer anderen App zu öffnen, zu der Sie den Link haben (weitere Informationen finden [ unter Deep-Link-](#deep-link-uris)).
    >
    >**[!UICONTROL Landingpage]** - Bringt Sie zu einer bestimmten Marketo-Landingpage.
    >
@@ -55,11 +54,7 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-6.png)
 
-   >[!NOTE]
-   >
-   >Nachrichten und Tipp-Aktionen sehen auf beiden Plattformen gleich aus.
-
-1. Markieren Sie nur für iOS das Kontrollkästchen, um der App mitzuteilen, dass bei Eintreffen der Nachricht ein Ton abgespielt werden soll. Android spielt den Ton automatisch ab.
+1. Aktivieren Sie für iOS das Kontrollkästchen, um der App mitzuteilen, dass bei Eintreffen der Nachricht ein Ton abgespielt werden soll. Android spielt den Ton automatisch ab.
 
    ![](assets/configure-mobile-push-notification-7.png)
 
@@ -71,7 +66,13 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-9.png)
 
-Herzlichen Glückwunsch! Jetzt kann die Push-Benachrichtigung gesendet werden.
+Die Push-Benachrichtigung kann gesendet werden.
+
+Wenn Sie den Fehler erhalten: `Limited Access: You do not have sufficient privileges to perform this action`, stellen Sie sicher, dass die Berechtigung **Zugriff auf Design Studio** > `Access Landing Page` für den Benutzer festgelegt ist, sowie mindestens eine der folgenden Optionen:
+
+* Push-Benachrichtigung genehmigen
+* Push-Benachrichtigung löschen
+* Push-Benachrichtigung bearbeiten
 
 ## Deep-Link-URIs {#deep-link-uris}
 
@@ -81,7 +82,7 @@ Ein Deep-Link-URI besteht aus drei Teilen: Schemaname, Pfad und Kennung. Im folg
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Die Deep-Link-Struktur Ihrer App kann sich jedoch vom obigen Beispiel unterscheiden. Ihr Entwickler hat viele Optionen zum Definieren von Deep-Link-URIs. Bitten Sie Ihren Entwickler daher, Ihnen die URIs (Links) für die Seiten zu senden, die Sie verwenden möchten. Dadurch wird sichergestellt, dass die URIs, die Sie in Push-Nachrichten eingeben, an die richtigen Stellen zeigen. Ihr Entwickler kann [weitere Informationen finden Sie hier](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Die Deep-Link-Struktur Ihrer App kann sich jedoch vom obigen Beispiel unterscheiden. Ihr Entwickler hat viele Optionen zum Definieren von Deep-Link-URIs. Bitten Sie Ihren Entwickler daher, Ihnen die URIs (Links) für die Seiten zu senden, die Sie verwenden möchten. Dadurch wird sichergestellt, dass die URIs, die Sie in Push-Nachrichten eingeben, an die richtigen Stellen zeigen. Ihr Entwickler kann [weitere Informationen finden Sie hier](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
