@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
+source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '866'
 ht-degree: 14%
 
 ---
@@ -253,7 +253,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Unterstützung für das Verschieben, Löschen und Importieren von Programmen mit E-Mail-Assets</td>
     <td>Möglichkeit zum Verschieben, Löschen und Importieren von E-Mail-Programmen zusammen mit E-Mail-Assets.</td>
     <td>Verfügbar</td>
-    <td>Verfügbar</td>
+    <td>Nicht verfügbar</td>
   </tr>
   <tr>
     <td>Rollen und Berechtigungen</td>
