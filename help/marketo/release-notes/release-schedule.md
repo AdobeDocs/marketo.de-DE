@@ -4,10 +4,10 @@ description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8148440f2893fa27922b91ea641fc591cab57680
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 97%
+source-wordcount: '137'
+ht-degree: 94%
 
 ---
 
@@ -31,12 +31,6 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
    <th width="250px">Version</th>
    <th width="250px">Veröffentlichungsdatum</th>
    <th width="250px">Status</th>
-  </tr>
-  <tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Mai 2025</a></td>
-   <td>23. Mai 2025</td>
-   <td>Versandt</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Juli 2025</a></td>
@@ -66,6 +60,16 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
   <tr>
   <td>Februar '26</td>
    <td>20. Februar 2026</td>
+   <td>Planmäßig</td>
+  </tr>
+  <tr>
+  <td>26. März</td>
+   <td>Samstag, 27. März 2026</td>
+   <td>Planmäßig</td>
+  </tr>
+  <tr>
+  <td>Mai '26</td>
+   <td>Samstag, 1. Mai 2026</td>
    <td>Planmäßig</td>
   </tr>
  </tbody>

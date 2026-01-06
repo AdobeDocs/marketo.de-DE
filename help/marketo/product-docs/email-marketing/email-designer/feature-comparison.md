@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
 source-wordcount: '866'
 ht-degree: 14%
@@ -250,12 +250,6 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Verfügbar</td>
   </tr>
   <tr>
-    <td>Unterstützung für das Verschieben, Löschen und Importieren von Programmen mit E-Mail-Assets</td>
-    <td>Möglichkeit zum Verschieben, Löschen und Importieren von E-Mail-Programmen zusammen mit E-Mail-Assets.</td>
-    <td>Verfügbar</td>
-    <td>Nicht verfügbar</td>
-  </tr>
-  <tr>
     <td>Rollen und Berechtigungen</td>
     <td>Möglichkeit zum Hinzufügen von Rollen und Berechtigungen für E-Mail, E-Mail-Vorlagen und Fragmente.</td>
     <td>Verfügbar</td>
@@ -284,6 +278,12 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Möglichkeit, den HTML-Inhalt von E-Mails, E-Mail-Vorlagen und Fragmenten zu ändern.</td>
     <td>Verfügbar</td>
     <td>TBD</td>
+  </tr>
+  <tr>
+    <td>Unterstützung für das Verschieben, Löschen und Importieren von Programmen mit E-Mail-Assets</td>
+    <td>Möglichkeit zum Verschieben, Löschen und Importieren von E-Mail-Programmen zusammen mit E-Mail-Assets.</td>
+    <td>Verfügbar</td>
+    <td>Nicht verfügbar</td>
   </tr>
   <tr>
     <td>Prädiktive Inhalte</td>
