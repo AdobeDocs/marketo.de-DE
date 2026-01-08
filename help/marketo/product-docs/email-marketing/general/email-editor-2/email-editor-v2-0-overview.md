@@ -4,16 +4,20 @@ description: Übersicht über Email Editor v2.0 - Marketo-Dokumente - Produktdok
 title: E-Mail-Editor v2.0 – Übersicht
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '469'
 ht-degree: 2%
 
 ---
 
 # E-Mail-Editor v2.0 – Übersicht {#email-editor-v2-overview}
 
-Wenn Sie sich entscheiden, die [!DNL Email Editor v2.0] zu aktivieren, werden Sie mehrere neue Funktionen bemerken.
+Übersicht über den klassischen E-Mail-Editor.
+
+>[!IMPORTANT]
+>
+>Obwohl es kein genaues Datum gibt, wird der klassische E-Mail-Editor wahrscheinlich irgendwann im Jahr 2026 eingestellt (wir werden ein genaues Datum bekannt geben, wenn wir es haben). Es wird dringend empfohlen, mit der Einführung der erweiterten [E-Mail-Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} zu beginnen, da sie über viele Funktionen verfügt, die im klassischen Editor nicht verfügbar sind.
 
 **Auswahl der E-Mail-Vorlagen**
 
@@ -35,7 +39,7 @@ Diese Dinge auf der rechten Seite des Editors werden Module genannt. Erfahren Si
 
 **Textversion**
 
-Der Wechsel zwischen der HTML- und der Textversion Ihrer E-Mail erfolgt jetzt unten in einer praktischen Registerkarte. Erfahren Sie, wie [&#x200B; die Textversion einer E-Mail bearbeiten &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Der Wechsel zwischen der HTML- und der Textversion Ihrer E-Mail erfolgt jetzt unten in einer praktischen Registerkarte. Erfahren Sie, wie [ die Textversion einer E-Mail bearbeiten ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
@@ -91,7 +95,7 @@ Unter **[!UICONTROL E-Mail]** Aktionen) werden Sie einige neue Funktionen bemerk
 
 **[!UICONTROL Einstellungen bearbeiten]**
 
-Sie haben die Möglichkeit, einen &quot;[!UICONTROL &quot; &#x200B;]. Ein [!UICONTROL Preheader] ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
+Sie haben die Möglichkeit, einen &quot;[!UICONTROL &quot; ]. Ein [!UICONTROL Preheader] ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
 
 ![](assets/email-editor-v2-overview-14.png)
 
