@@ -39,7 +39,7 @@ Diese Dinge auf der rechten Seite des Editors werden Module genannt. Erfahren Si
 
 **Textversion**
 
-Der Wechsel zwischen der HTML- und der Textversion Ihrer E-Mail erfolgt jetzt unten in einer praktischen Registerkarte. Erfahren Sie, wie [ die Textversion einer E-Mail bearbeiten ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Der Wechsel zwischen der HTML- und der Textversion Ihrer E-Mail erfolgt jetzt unten in einer praktischen Registerkarte. Erfahren Sie, wie [&#x200B; die Textversion einer E-Mail bearbeiten &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
@@ -95,7 +95,7 @@ Unter **[!UICONTROL E-Mail]** Aktionen) werden Sie einige neue Funktionen bemerk
 
 **[!UICONTROL Einstellungen bearbeiten]**
 
-Sie haben die Möglichkeit, einen &quot;[!UICONTROL &quot; ]. Ein [!UICONTROL Preheader] ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
+Sie haben die Möglichkeit, einen &quot;[!UICONTROL &quot; &#x200B;]. Ein [!UICONTROL Preheader] ist der kurze Zusammenfassungstext nach der Betreffzeile, wenn E-Mails in Ihrem Posteingang angezeigt werden.
 
 ![](assets/email-editor-v2-overview-14.png)
 
