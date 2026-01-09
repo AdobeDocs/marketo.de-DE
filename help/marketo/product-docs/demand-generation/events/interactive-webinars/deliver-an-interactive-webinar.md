@@ -3,9 +3,9 @@ description: Durchführen eines interaktiven Webinars - Marketo-Dokumente - Prod
 title: Durchführen eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1114'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,7 @@ Die Teilnehmer können an dem Webinar teilnehmen, indem sie auf den personalisie
 
 Der „Host- und Präsentationsbereich“ (auch als „Backstage“ bezeichnet) ist ein privater Bereich auf der rechten Seite eines Meetingraums, den nur Moderatoren und Moderatoren sehen können. Sie kann zur Zusammenarbeit vor, während und nach einem Ereignis verwendet werden. Verwenden Sie Chat, Notizen und andere Pods als Rückkanäle im Bereich „Host &amp; Presenter“.
 
-Um darauf zuzugreifen, wählen Sie **Bereich „Host und Moderator** aus dem Dropdown-Menü Raum aus. Weitere Informationen zu diesem Bereich finden Sie im [&#x200B; Video](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}.
+Um darauf zuzugreifen, wählen Sie **Bereich „Host und Moderator** aus dem Dropdown-Menü Raum aus. Weitere Informationen zu diesem Bereich finden Sie im [ Video](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}.
 
 ### Broadcast-Steuerung {#broadcast-controls}
 
@@ -92,7 +92,7 @@ Die Broadcast-Steuerung fügt Ihrer interaktiven Webinar-Sitzung einen virtuelle
 
 Die Broadcast-Steuerung kann so eingestellt werden, dass die Aufnahme automatisch gestartet wird, nachdem der grüne Raum verlassen wurde. Dadurch wird sichergestellt, dass Hosts nicht daran denken müssen, die Aufzeichnung manuell zu starten und zu beenden. Durch das Anhalten oder Stoppen der Übertragung wird auch die Aufzeichnung angehalten oder gestoppt. Alles ist automatisch.
 
-Weitere Informationen zu Broadcast-Steuerelementen finden [&#x200B; in diesem Video](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
+Weitere Informationen zu Broadcast-Steuerelementen finden [ in diesem Video](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
 
 ### Chats in Aufzeichnungen {#chats-in-recordings}
 
@@ -104,7 +104,7 @@ Diskussionen innerhalb des Chat-Panels werden nicht aufgezeichnet. Das Chat-Pane
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-Erfahren Sie mehr über [das Chat-Bedienfeld](https://helpx.adobe.com/de/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+Erfahren Sie mehr über [das Chat-Bedienfeld](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Vorbereitungsmodus {#prepare-mode}
 
@@ -127,16 +127,22 @@ Weitere Informationen zum Vorbereitungsmodus [in diesem Video](https://www.youtu
 >[!NOTE]
 >
 >* Alle Änderungen an den Live-Pods werden sofort den Teilnehmern angezeigt.
->* [Chat-Bedienfeld](https://helpx.adobe.com/de/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ist nicht Teil des Vorbereitungsmodus und alle Änderungen daran werden sofort den Teilnehmern angezeigt.
+>* [Chat-Bedienfeld](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} ist nicht Teil des Vorbereitungsmodus und alle Änderungen daran werden sofort den Teilnehmern angezeigt.
 
 ### Barrierefreiheit {#accessibility}
 
 Adobe ist bestrebt, Moderatoren und Teilnehmer mit Behinderungen einzubeziehen, indem die Barrierefreiheit von interaktiven Webinaren verbessert wird. Die Software wird kontinuierlich verbessert, um die Bedürfnisse aller Arten von Benutzern zu erfüllen und die weltweiten Standards einzuhalten, die Personen mit visuellen, auditiven, Mobilitäts- oder anderen Beeinträchtigungen einschließen.
 
-Erfahren Sie, wie Adobe Connect Unterstützung für [visuelle, auditive und Mobilitätsanforderungen](https://helpx.adobe.com/de/adobe-connect/using/accessibility-features.html){target="_blank"} bietet.
+Erfahren Sie, wie Adobe Connect Unterstützung für [visuelle, auditive und Mobilitätsanforderungen](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"} bietet.
 
 ### Untertitel {#closed-captions}
 
 Untertitel sind eine textliche Darstellung des Audioinhalts in einem Adobe Connect-Raum und helfen Teilnehmern, die taub oder schwerhörig sind, an Veranstaltungen teilzunehmen. Sie können die Echtzeit-Untertitelung von Audioinhalten in Ereignisse integrieren und diese Untertitel in der Anzeige für Untertitel präsentieren.
 
-Erfahren Sie, wie Sie [Untertitel aktivieren](https://helpx.adobe.com/de/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Erfahren Sie, wie Sie [Untertitel aktivieren](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+
+### Simulierte Live-Webinare {#simulated-live-webinars}
+
+Präsentieren Sie aufgezeichnete Webinare so, als wären sie live im simulierten Webinar-Format. Die Teilnehmer können zu einem geplanten Zeitpunkt teilnehmen und die Sitzung in Echtzeit erleben, wobei sie interaktive Funktionen wie Chat, Umfragen und Fragen und Antworten nutzen können. Simulierte Live-Webinare kombinieren die Zuverlässigkeit aufgezeichneter Inhalte mit dem interaktiven Erlebnis eines Live-Ereignisses.
+
+Weitere Informationen zu [simulierten Live-Webinaren](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.

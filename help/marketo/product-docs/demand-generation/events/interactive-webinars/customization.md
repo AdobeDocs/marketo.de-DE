@@ -3,9 +3,9 @@ description: Anpassung interaktiver Webinare - Marketo-Dokumente - Produktdokume
 title: Anpassung interaktiver Webinare
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Bevor Benutzerinnen und Benutzer in Ihrem Unternehmen Ihre interaktiven Webinare
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### Raumschnittstelle anpassen {#customize-the-room-interface}
+## Raumschnittstelle anpassen {#customize-the-room-interface}
 
 Sie können das Erscheinungsbild des Sitzungsraums anpassen, indem Sie das Logo, den anklickbaren Weiterleitungs-Link und die Farben ändern. Ihre Änderungen werden in allen Veranstaltungen und Räumen in Ihrer Organisation widergespiegelt.
 
@@ -134,3 +134,11 @@ Verwenden Sie den Umschalter, um die Verfügbarkeit dieser Standardhintergründe
 ![](assets/interactive-webinars-customization-13.png)
 
 Wählen Sie **Übernehmen**, um die Änderungen zu speichern, oder **Auf Standard zurücksetzen**, um die Standardeinstellungen wiederherzustellen.
+
+### Erstellen anpassbarer Designs {#create-customizable-themes}
+
+* Administratoren können Designs mit benutzerdefinierten Logos, Farben und Videohintergründen erstellen/verwalten.
+
+* Gastgeber können Themen während der Raumerstellung auswählen oder sie später auf der Zimmerinformationsseite aktualisieren (**Zimmeroberleiste** > **Mehr Menü** > **Zimmerinformationen anzeigen**).
+
+Weitere Informationen zu [Designs](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

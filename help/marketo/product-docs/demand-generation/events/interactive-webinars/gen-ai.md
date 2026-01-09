@@ -3,9 +3,9 @@ description: GenAI-Funktionen - Marketo-Dokumente - Produktdokumentation
 title: GenAI-Funktionen
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '674'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete 
 * **Automatische Kapitelgenerierung**: KI-gestützte Technologie erstellt Kapitel für Ihre Webinar-Inhalte.
 
 * **KI-generierte Zusammenfassung**: Erhalten Sie eine automatisierte Textzusammenfassung Ihres Webinars.
+
+* **KI-basierte Blog-Generierung**: Hiermit können Sie automatisch markeninterne Blog-Inhalte aus Ihren Webinaren generieren.
 
 * **Bearbeitbare Inhalte**: Ändern Sie die generierten Kapitel und Zusammenfassungen bei Bedarf mithilfe von manuellen und KI-gestützten Bearbeitungsfunktionen.
 
@@ -68,7 +70,7 @@ Nachdem Sie die Adobe GenAI-Nutzungsbedingungen akzeptiert haben, müssen Sie si
 
    >[!NOTE]
    >
-   >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![&#x200B; &#x200B;](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) &#x200B;](assets/icon-flag.png).
+   >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![ ](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) ](assets/icon-flag.png).
    >
    >* Wenn Sie mit der ursprünglichen Zusammenfassung nicht zufrieden sind, können Sie auf die Schaltfläche **[!UICONTROL Zusammenfassung neu erstellen]** klicken, und es wird eine andere Version generiert.
 
@@ -109,6 +111,8 @@ Der „Link“ ist der Name des Kapitels und die „Web-Seite“ ist die Seite, 
 * Das Löschen oder Zusammenführen von Kapiteln wirkt sich nur auf den Kapitelstapel aus, nicht auf den Videoinhalt selbst. Diese Aktionen sind dauerhaft.
 
 * Die GenAI-Funktionen sind flexibel und können mit verschiedenen Web-Seiten-Editoren verwendet werden, nicht nur mit denen in Marketo Engage.
+
+* Nur Sitzungen, die in Seminarräumen abgehalten werden, werden für die Blogenerierung zur Verfügung stehen. Seminarräume sind nur für Konten mit einem Veranstaltungsmodul oder einer Lizenz für Seminare (Shared Room/Events) verfügbar.
 
 * Zeigen Sie Ihre Änderungen immer in der Vorschau an, um die gewünschte Funktionalität und das gewünschte Erscheinungsbild sicherzustellen.
 
