@@ -24,7 +24,7 @@ ht-degree: 2%
 >* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
 >* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
-Der Abschnitt [!UICONTROL Keywords] zeigt Ihnen, wie erfolgreich Ihre Site ist, um dies zu erreichen, und wie Sie im Vergleich zu [Ihrer Konkurrenz“ ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+Der Abschnitt [!UICONTROL Keywords] zeigt Ihnen, wie erfolgreich Ihre Site ist, um dies zu erreichen, und wie Sie im Vergleich zu [Ihrer Konkurrenz“ &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## [!UICONTROL Keywords] - Zusammenfassungsansicht {#keywords-summary-view}
 

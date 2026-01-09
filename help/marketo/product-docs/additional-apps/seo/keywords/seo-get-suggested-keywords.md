@@ -40,7 +40,7 @@ Marketo SEO kann vorschlagen, welche Keywords Sie verfolgen sollten. Wir können
 
    >[!TIP]
    >
-   >Wussten Sie, [ Sie Ihr Keyword direkt hier zu einer neuen oder ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Liste hinzufügen können?
+   >Wussten Sie, [&#x200B; Sie Ihr Keyword direkt hier zu einer neuen oder &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Liste hinzufügen können?
 
 1. Vorgeschlagene Keywords auswählen. Klicken Sie **[!UICONTROL Ausgewählte hinzufügen]**.
 
@@ -72,7 +72,7 @@ Marketo SEO kann vorschlagen, welche Keywords Sie verfolgen sollten. Wir können
 
    >[!TIP]
    >
-   >Wussten Sie, [ Sie Ihr Keyword direkt hier zu einer neuen oder ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Liste hinzufügen können?
+   >Wussten Sie, [&#x200B; Sie Ihr Keyword direkt hier zu einer neuen oder &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Liste hinzufügen können?
 
 1. Vorgeschlagene Keywords auswählen. Klicken Sie **[!UICONTROL Ausgewählte hinzufügen]**.
 

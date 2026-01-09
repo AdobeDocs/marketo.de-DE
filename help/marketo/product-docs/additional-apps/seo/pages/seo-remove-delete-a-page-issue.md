@@ -28,7 +28,7 @@ Möglicherweise sind nicht alle Seitenprobleme für Sie von Nutzen. So entfernen
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Klicken [!UICONTROL  Abschnitt &quot;]&quot; auf **[!UICONTROL Probleme]**.
+1. Klicken [!UICONTROL &#x200B; Abschnitt &quot;]&quot; auf **[!UICONTROL Probleme]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 

@@ -45,7 +45,7 @@ Die Registerkarte **[!UICONTROL Seiten]** zeigt an, wie gut einzelne Seiten auf 
 
 ## [!UICONTROL Probleme] Registerkarte {#issues-tab}
 
-Auf **[!UICONTROL Registerkarte ]Probleme** können Sie festlegen, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und Ihr Ranking zu erhöhen.
+Auf **[!UICONTROL Registerkarte &#x200B;]Probleme** können Sie festlegen, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und Ihr Ranking zu erhöhen.
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 

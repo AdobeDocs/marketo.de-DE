@@ -24,13 +24,13 @@ Verwenden Sie das Dashboard, um einen Überblick darüber zu erhalten, wie der K
 >* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
 >* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
-Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühungen zu verbessern, verwenden [[!UICONTROL  Abschnitt ]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)Recommendations“ dieses Dashboards.
+Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühungen zu verbessern, verwenden [[!UICONTROL &#x200B; Abschnitt &#x200B;]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)Recommendations“ dieses Dashboards.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## [!UICONTROL Keyword-Rang-Zusammenfassung] {#keyword-rank-summary}
 
-In diesem Abschnitt erfahren Sie, wie Ihre Site für die [Keywords, die Sie ansprechen“, ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) wird.
+In diesem Abschnitt erfahren Sie, wie Ihre Site für die [Keywords, die Sie ansprechen“, &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) wird.
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 

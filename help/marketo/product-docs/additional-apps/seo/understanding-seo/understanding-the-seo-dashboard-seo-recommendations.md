@@ -24,7 +24,7 @@ Verwenden Sie das Dashboard, um einen allgemeinen Überblick darüber zu erhalte
 >* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
 >* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
-Auch im Abschnitt „Recommendations[!UICONTROL  können Sie ] verbessern. Lasst uns eintauchen!
+Auch im Abschnitt „Recommendations[!UICONTROL &#x200B; können Sie &#x200B;] verbessern. Lasst uns eintauchen!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
