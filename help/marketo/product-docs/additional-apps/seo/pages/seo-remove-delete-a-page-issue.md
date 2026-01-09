@@ -4,10 +4,10 @@ description: SEO - Problem mit dem Entfernen/Löschen einer Seite - Marketo-Doku
 title: SEO – Entfernen/Löschen eines Seitenproblems
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 10%
 
 ---
 
@@ -15,11 +15,20 @@ ht-degree: 12%
 
 Möglicherweise sind nicht alle Seitenprobleme für Sie von Nutzen. So entfernen Sie eine:
 
+>[!IMPORTANT]
+>
+>Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Seiten]**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Klicken [!UICONTROL &#x200B; Abschnitt &quot;]&quot; auf **[!UICONTROL Probleme]**.
+1. Klicken [!UICONTROL  Abschnitt &quot;]&quot; auf **[!UICONTROL Probleme]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 

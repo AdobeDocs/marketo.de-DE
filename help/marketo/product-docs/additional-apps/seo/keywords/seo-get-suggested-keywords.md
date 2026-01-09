@@ -4,16 +4,25 @@ description: SEO - Empfohlene Keywords abrufen - Marketo-Dokumente - Produktdoku
 title: SEO – Vorschläge für Keywords
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '213'
 ht-degree: 5%
 
 ---
 
 # SEO – Vorschläge für Keywords {#seo-get-suggested-keywords}
 
-Marketo SEO kann vorschlagen, welche Keywords Sie verfolgen sollten. Wir können Vorschläge basierend auf einem Keyword oder der URL einer Website geben. Probier es mal!
+Marketo SEO kann vorschlagen, welche Keywords Sie verfolgen sollten. Wir können Vorschläge basierend auf einem Keyword oder der URL einer Website geben.
+
+>[!IMPORTANT]
+>
+>Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Abrufen von Keyword-Vorschlägen mit einem Keyword {#get-keyword-suggestions-using-a-keyword}
 
@@ -31,7 +40,7 @@ Marketo SEO kann vorschlagen, welche Keywords Sie verfolgen sollten. Wir können
 
    >[!TIP]
    >
-   >Wussten Sie, [&#x200B; Sie Ihr Keyword direkt hier zu einer neuen oder &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Liste hinzufügen können?
+   >Wussten Sie, [ Sie Ihr Keyword direkt hier zu einer neuen oder ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Liste hinzufügen können?
 
 1. Vorgeschlagene Keywords auswählen. Klicken Sie **[!UICONTROL Ausgewählte hinzufügen]**.
 
@@ -63,7 +72,7 @@ Marketo SEO kann vorschlagen, welche Keywords Sie verfolgen sollten. Wir können
 
    >[!TIP]
    >
-   >Wussten Sie, [&#x200B; Sie Ihr Keyword direkt hier zu einer neuen oder &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Liste hinzufügen können?
+   >Wussten Sie, [ Sie Ihr Keyword direkt hier zu einer neuen oder ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Liste hinzufügen können?
 
 1. Vorgeschlagene Keywords auswählen. Klicken Sie **[!UICONTROL Ausgewählte hinzufügen]**.
 

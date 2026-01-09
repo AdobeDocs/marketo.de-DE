@@ -4,16 +4,25 @@ description: SEO - Optimieren spezifischer Seiten mit zielgerichteten Keywords -
 title: SEO – Optimieren spezifischer Seiten mit gezielten Keywords
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 14%
+source-wordcount: '150'
+ht-degree: 12%
 
 ---
 
 # SEO – Optimieren spezifischer Seiten mit gezielten Keywords {#seo-optimize-specific-pages-with-targeted-keywords}
 
 Einige Schlüsselwörter passen sehr gut zu bestimmten Seiten. So passt man das perfekte Keyword auf die perfekte Seite. Dadurch werden die genauesten Daten und die besten Empfehlungen für Verbesserungen bereitgestellt.
+
+>[!IMPORTANT]
+>
+>Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Seiten]**.
 

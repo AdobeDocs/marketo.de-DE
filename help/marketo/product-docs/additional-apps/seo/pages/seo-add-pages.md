@@ -4,16 +4,25 @@ description: SEO - Seiten hinzufügen - Marketo-Dokumente - Produktdokumentation
 title: SEO – Hinzufügen von Seiten
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 6%
 
 ---
 
 # SEO – Hinzufügen von Seiten {#seo-add-pages}
 
-Du hast Seiten! Marketo SEO durchsucht automatisch Ihre Site und verfolgt sie. Falls wir ein paar verpasst haben, besorgen Sie sie sich in der SEO-App wie folgt:
+Marketo SEO durchsucht automatisch Ihre Site und verfolgt sie. Falls wir ein paar verpasst haben, besorgen Sie sie sich in der SEO App wie hier.
+
+>[!IMPORTANT]
+>
+>Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Seiten]**.
 

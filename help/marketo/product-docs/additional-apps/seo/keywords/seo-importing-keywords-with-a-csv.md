@@ -4,16 +4,25 @@ description: SEO - Importieren von Keywords mit einer CSV - Marketo-Dokumente - 
 title: SEO – Importieren von Keywords mit einer CSV
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 10%
+source-wordcount: '156'
+ht-degree: 8%
 
 ---
 
 # SEO – Importieren von Keywords mit einer CSV {#seo-importing-keywords-with-a-csv}
 
-1. Sie können [Keywords hinzufügen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuell [Keyword-Vorschläge abrufen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) und sogar Keywords aus einer CSV-Datei importieren. Gehen Sie wie folgt vor, um zu importieren.
+Sie können [Keywords hinzufügen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manuell [Keyword-Vorschläge abrufen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) und sogar Keywords aus einer CSV-Datei importieren. Gehen Sie wie folgt vor, um zu importieren.
+
+>[!IMPORTANT]
+>
+>Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Keywords]**.
 

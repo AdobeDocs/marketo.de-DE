@@ -4,9 +4,9 @@ description: SEO - Verwenden der Seitendetailaufschlüsselung - Marketo-Dokument
 title: SEO – Verwenden der Drill-down-Liste „Seitendetails“
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '308'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 5%
 # SEO – Verwenden der Drill-down-Liste „Seitendetails“ {#seo-using-the-page-detail-drill-down}
 
 Mithilfe der Drilldown-Liste „Seitendetails“ können Sie eine Vielzahl von Informationen zu Ihren Seiten anzeigen.
+
+>[!IMPORTANT]
+>
+>Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Drilldown für Seite suchen {#find-page-drill-down}
 
@@ -46,7 +55,7 @@ Mithilfe der Drilldown-Liste „Seitendetails“ können Sie eine Vielzahl von I
 
 ## [!UICONTROL Keyword(s), für den diese Seite optimiert ist]  {#keyword-s-that-page-is-optimized-for}
 
-Hier [&#x200B; Sie (wählen Sie das Keyword aus, für das Sie Ihre Seite optimieren möchten](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Hier [ Sie (wählen Sie das Keyword aus, für das Sie Ihre Seite optimieren möchten](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >

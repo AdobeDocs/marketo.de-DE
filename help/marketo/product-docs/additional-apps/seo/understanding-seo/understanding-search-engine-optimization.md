@@ -4,9 +4,9 @@ description: Grundlegendes zur Suchmaschinenoptimierung - Marketo-Dokumente - Pr
 title: Grundlegendes zur Suchmaschinenoptimierung
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '442'
 ht-degree: 3%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 3%
 # Grundlegendes zur Suchmaschinenoptimierung {#understanding-search-engine-optimization}
 
 Suchmaschinenoptimierung (SEO) ist eine Sammlung von Best Practices, mit denen Sie Ihre Seiten mithilfe von Suchmaschinen vor die Leute bringen können. Die SEO-App von Marketo hilft Ihnen bei der Verbesserung.
+
+>[!IMPORTANT]
+>
+>Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 Zuerst sollten Sie die Grundlagen mit diesem praktischen Glossar lernen.
 

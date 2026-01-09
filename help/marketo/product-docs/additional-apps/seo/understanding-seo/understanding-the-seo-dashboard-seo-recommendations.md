@@ -4,9 +4,9 @@ description: Grundlegendes zum SEO-Dashboard - SEO-Empfehlungen - Marketo-Dokume
 title: Grundlegendes zum SEO-Dashboard - SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '190'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,16 @@ ht-degree: 4%
 
 Verwenden Sie das Dashboard, um einen allgemeinen Überblick darüber zu erhalten, wie Keyword-Ränge im Trend liegen und wie gut Ihre Site für SEO optimiert ist.
 
-Auch im Abschnitt „Recommendations[!UICONTROL &#x200B; können Sie &#x200B;] verbessern. Lasst uns eintauchen!
+>[!IMPORTANT]
+>
+>Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+
+Auch im Abschnitt „Recommendations[!UICONTROL  können Sie ] verbessern. Lasst uns eintauchen!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 

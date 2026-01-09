@@ -4,16 +4,25 @@ description: SEO - Diagramm zu Schlüsselwort-Trends - Marketo-Dokumente - Produ
 title: SEO – Diagramm der Keyword-Trends
 exl-id: 093f713b-e9f1-48d6-b4d8-7c5ef349a2ae
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 10%
+source-wordcount: '120'
+ht-degree: 8%
 
 ---
 
 # SEO – Diagramm der Keyword-Trends {#seo-keyword-trends-chart}
 
 Es ist wichtig zu überwachen, wie sich Ihr Keyword [SERP-Ränge](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) im Laufe der Zeit entwickelt. Schauen Sie sich dieses coole Diagramm an, um den Fortschritt zu überwachen.
+
+>[!IMPORTANT]
+>
+>Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Keywords]**.
 
