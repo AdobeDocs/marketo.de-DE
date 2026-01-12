@@ -64,7 +64,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Adobe Connect-Funktionen {#adobe-connect-features}
 
-Die Funktion [Interaktive Webinare](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} von Marketo Engage basiert auf Adobe Connect und erweitert das Personenmanagement und Kampagnen mit Ereignisdaten und verbessert die Personenqualität. Im Folgenden finden Sie einige aktuelle Adobe Connect-Versionen, die sich direkt auf Benutzer von interaktiven Webinaren auswirken.
+Die Funktion [Interaktive Webinare](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} von Marketo Engage basiert auf Adobe Connect und erweitert das Personenmanagement und Kampagnen mit Ereignisdaten und verbessert die Personenqualität. Im Folgenden finden Sie einige aktuelle Adobe Connect-Versionen, die sich direkt auf Benutzer von interaktiven Webinaren auswirken.
 
 * **Umfrage-Pod**: Adobe Connect 12.11 führt einen neuen Umfrage-Pod ein, mit dem Hosts strukturierte Feedback-Formulare direkt innerhalb einer Live-Sitzung entwerfen und bereitstellen können.
 
@@ -72,7 +72,7 @@ Die Funktion [Interaktive Webinare](https://experienceleague.adobe.com/en/docs/m
 
 * **Verbesserte Raumschnittstelle**: Adobe Connect 12.11 führt eine aktualisierte und modernere Raumschnittstelle ein, die auf Adobes neuestem Spectrum 2-Design-Framework basiert und an die Bildsprache angepasst ist, die in anderen Adobe-Produkten wie Creative Cloud und Experience Cloud verwendet wird.
 
-Ausführliche Informationen finden Sie in den Versionshinweisen zu [Adobe Connect 12.11](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Ausführliche Informationen finden Sie in den Versionshinweisen zu [Adobe Connect 12.11](https://helpx.adobe.com/de/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Ankündigungen {#announcements}
 
