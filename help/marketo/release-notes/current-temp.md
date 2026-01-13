@@ -64,7 +64,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Adobe Connect-Funktionen {#adobe-connect-features}
 
-Diese Funktionen wurden bereits vom Adobe Connect-Team veröffentlicht. Marketo Engage [Interaktive Webinare](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} basieren auf Adobe Connect. Die folgenden Funktionen gelten nur für Benutzer interaktiver Webinare.
+Diese Funktionen wurden bereits vom Adobe Connect-Team veröffentlicht. Marketo Engage [Interaktive Webinare](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} basieren auf Adobe Connect. Die folgenden Funktionen gelten nur für Benutzer interaktiver Webinare.
 
 * **Umfrage-Pod**: Adobe Connect 12.11 führt einen neuen Umfrage-Pod ein, mit dem Hosts strukturierte Feedback-Formulare direkt innerhalb einer Live-Sitzung entwerfen und bereitstellen können.
 
@@ -72,7 +72,7 @@ Diese Funktionen wurden bereits vom Adobe Connect-Team veröffentlicht. Marketo 
 
 * **Verbesserte Raumschnittstelle**: Adobe Connect 12.11 führt eine aktualisierte und modernere Raumschnittstelle ein, die auf Adobes neuestem Spectrum 2-Design-Framework basiert und an die Bildsprache angepasst ist, die in anderen Adobe-Produkten wie Creative Cloud und Experience Cloud verwendet wird.
 
-Ausführliche Informationen finden Sie in den Versionshinweisen zu [Adobe Connect 12.11](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Ausführliche Informationen finden Sie in den Versionshinweisen zu [Adobe Connect 12.11](https://helpx.adobe.com/de/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Ankündigungen {#announcements}
 
