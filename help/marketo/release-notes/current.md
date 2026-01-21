@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 733b85495632eaa31ce7fc08a82fb4948aadf29f
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '728'
 ht-degree: 100%
 
 ---
@@ -83,8 +83,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – A/B-Tests</strong>: Paritätsfunktion für den neuen E-Mail-Designer, mit der Sie A/B-Tests durchführen können, um herauszufinden, welche Arten von Inhalten die beste Resonanz erzielen.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Versandt</td>
+   <td>k. A.</td>
   </tr>
   </tbody>
 </table>
