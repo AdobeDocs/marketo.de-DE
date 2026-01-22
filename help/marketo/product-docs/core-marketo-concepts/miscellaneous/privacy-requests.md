@@ -2,7 +2,7 @@
 description: Datenschutzanfragen - Marketo-Dokumente - Produktdokumentation
 title: Datenschutzanfragen
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0105c6480f75f8daf3db61cd400a4956698839d9
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 16%
@@ -87,7 +87,7 @@ JSON-Anfrage
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -117,7 +117,7 @@ JSON-Antwort
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
@@ -150,7 +150,7 @@ JSON-Anfrage
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -180,7 +180,7 @@ JSON-Antwort
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
