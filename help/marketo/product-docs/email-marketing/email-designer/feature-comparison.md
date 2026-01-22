@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 6bb4455f1962164f6192ee050078fc65472f7ada
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '865'
 ht-degree: 14%
 
 ---
@@ -259,7 +259,7 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Experimentieren (A/B-Tests)</td>
     <td>Möglichkeit, E-Mails zu testen, bevor sie an Ihre Audience gesendet werden.</td>
     <td>Verfügbar</td>
-    <td>Demnächst verfügbar</td>
+    <td>Verfügbar</td>
   </tr>
   <tr>
     <td>Inhaltsvalidierungs-Workflows</td>
