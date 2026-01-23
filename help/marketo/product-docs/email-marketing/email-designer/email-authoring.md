@@ -4,9 +4,9 @@ title: Erstellung von E-Mails
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '1740'
+source-wordcount: '1768'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage E-Mail-Designer erstel
 
 >[!PREREQUISITES]
 >
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 ## Erstellen einer E-Mail {#create-an-email}
 
@@ -33,7 +33,7 @@ E-Mails aus Email Designer können derzeit nur im Design Studio erstellt und in 
 
    ![](assets/create-an-email-1.png)
 
-1. Wählen Sie in der Struktur **E-Mails (Neuer Editor)**.
+1. Wählen Sie in der Struktur **E-Mails (Neu)**.
 
    ![](assets/create-an-email-2.png)
 
@@ -71,7 +71,7 @@ Das war&#39;s. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 
 ## Wählen des Inhaltstyps {#choose-your-content-type}
 
-1. Klicken Sie in der soeben erstellten E-Mail auf **E-Mail-Inhalt hinzufügen**.
+1. Klicken Sie in der soeben erstellten E-Mail auf **E-Mail-Inhalt bearbeiten**.
 
    ![](assets/choose-your-content-type-1.png)
 
@@ -79,7 +79,7 @@ Das war&#39;s. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 
 * [Erstellen von neuen Inhalten](#design-from-scratch) mithilfe des visuellen E-Mail-Editors
 
-* [Importieren Sie Ihre eigene HTML &#x200B;](#import-html) eine HTML- oder ZIP-Datei
+* [Importieren Sie Ihre eigene HTML ](#import-html) eine HTML- oder ZIP-Datei
 
 * [Vorhandene Vorlage auswählen](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben)
 
@@ -88,6 +88,12 @@ Das war&#39;s. Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 Verwenden Sie die folgenden Optionen, um Ihren Inhalt zu definieren, wenn Sie im E-Mail-Editor von Grund auf neu beginnen.
 
 1. Wählen Sie auf _Seite „E_ Mail erstellen“ die Option **Erstellen von neuen Inhalten** aus.
+
+1. Wählen Sie entweder mit einem Design beginnen (empfohlen) oder von Grund auf neu mit manuellem Stil erstellen.
+
+   >[!NOTE]
+   >
+   >Für E-Mails, die mit manuellem Stil erstellt wurden, können keine mit Designs erstellten Fragmente verwendet werden
 
 1. Fügen Sie [Struktur und Inhalt](#add-structure-and-content) zu Ihrer E-Mail hinzu.
 
@@ -354,9 +360,9 @@ Um eine Vorschau Ihres E-Mail-Inhalts anzuzeigen, klicken Sie **Inhalt simuliere
 
 E-Mail-Designer-E-Mails sind in allen E-Mail-, Interaktions-, Standard- und Veranstaltungsprogrammen verfügbar (mit Ausnahme von interaktiven Webinar-Programmen). Wenn Sie Ihre E-Mail im Design Studio erstellt haben, kann sie von Smart-Kampagnen und/oder Smart-Listen wie jede andere E-Mail referenziert werden.
 
-* Verweisen Sie in einer Smart List darauf, indem [&#x200B; die üblichen Schritte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
+* Verweisen Sie in einer Smart List darauf, indem [ die üblichen Schritte ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
-* Verweisen Sie in einer Smart Campaign darauf, [&#x200B; Sie die üblichen Schritte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+* Verweisen Sie in einer Smart Campaign darauf, [ Sie die üblichen Schritte ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
 >[!NOTE]
 >

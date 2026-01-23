@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 61%
+source-wordcount: '599'
+ht-degree: 49%
 
 ---
 
@@ -34,7 +34,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Beschreibung der Funktionen.</td>
+   <td><strong>E-Mail an Designer - Marken verwalten (Betaversion)</strong>: Generieren Sie E-Mail-Inhalte basierend auf den spezifischen Richtlinien Ihres Unternehmens/Ihrer Marke zum Schreiben von Kopien.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -44,7 +44,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Beschreibung der Funktionen.</td>
+   <td><strong>E-Mail-Designer - Verbesserung des KI-Assistenten</strong>: Sie können jetzt in Ihrer Eingabeaufforderung direkt Marken-Assets hinzufügen und das Modell bitten, zum Generieren von Inhalten auf diese Quelle zu verweisen, anstatt ein Marken-Asset manuell als Datei hinzuzufügen.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -54,7 +54,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Beschreibung der Funktionen.</td>
+   <td><strong>E-Mail-Designer - Visuelle Vorschau für Fragmente</strong>: Alle veröffentlichten Fragmente werden jetzt als Miniaturansichten angezeigt, sodass Sie schneller die benötigte Vorlage ermitteln können.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -64,7 +64,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Beschreibung der Funktionen.</td>
+   <td><strong>E-Mail-Designer - Aufzählungszeichen</strong>: Sie können jetzt beim Verfassen einer E-Mail in der E-Mail-Designer Aufzählungszeichen auf mehreren Ebenen erstellen.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -74,7 +74,12 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Beschreibung der Funktionen.</td>
+   <td><strong>E-Mail-Designer - </strong> Inhaltsverbesserungen: Parität mit der Funktion <i>Dynamischer Inhalt</i> im alten E-Mail-Editor.
+   <ul>
+   <li>Bedingte Inhalte können jetzt auf die Segmentierung in freigegebenen Ordnern angewendet werden.</li>
+   <li>Die Segmentierungen sind jetzt in alphabetischer Reihenfolge sortiert.</li>
+   </ul>
+   </td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -84,17 +89,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>FEATURE TITLE</strong>: Beschreibung der Funktionen.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>FEATURE TITLE</strong>: Beschreibung der Funktionen.</td>
+   <td><strong>E-Mail-Designer - Ordner</strong>: Sie können jetzt Ihre mit der E-Mail-Designer erstellten Assets (E-Mails, E-Mail-Vorlagen, Fragmente) mit Ordnern organisieren.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -102,19 +97,23 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 </table>
 <br/>
 
-## Adobe Connect-Funktionen {#adobe-connect-features}
+## Nicht standardmäßige Funktionen für den Versionszyklus {#non-standard-release-cycle-features}
 
-Diese Funktionen wurden bereits vom Adobe Connect-Team veröffentlicht. Marketo Engage [Interaktive Webinare](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} basieren auf Adobe Connect. Die folgenden Funktionen gelten nur für Benutzer interaktiver Webinare.
+Die folgenden Funktionen wurden außerhalb des standardmäßigen Marketo Engage-Veröffentlichungszyklus veröffentlicht.
 
-* **Umfrage-Pod**: Adobe Connect 12.11 führt einen neuen Umfrage-Pod ein, mit dem Hosts strukturierte Feedback-Formulare direkt innerhalb einer Live-Sitzung entwerfen und bereitstellen können.
+### Interaktive Webinare {#interactive-webinars}
+
+* **Umfrage-Pod**: Ein neuer Umfrage-Pod ermöglicht es Hosts, strukturierte Feedback-Formulare direkt in einer Live-Sitzung zu entwerfen und bereitzustellen.
 
 * **Ressourcen-Pod**: Der neue Ressourcen-Pod ersetzt die vorherigen Dateien und Web-Link-Pods und bietet eine einzige, einheitliche Möglichkeit, Ressourcen während Live-Sitzungen freizugeben.
 
-* **Verbesserte Raumschnittstelle**: Adobe Connect 12.11 führt eine aktualisierte und modernere Raumschnittstelle ein, die auf Adobes neuestem Spectrum 2-Design-Framework basiert und an die Bildsprache angepasst ist, die in anderen Adobe-Produkten wie Creative Cloud und Experience Cloud verwendet wird.
+* **Verbesserte Raumoberfläche**: Genießen Sie eine aktualisierte und modernere Raumoberfläche, die auf dem neuesten Spectrum 2-Design-Framework von Adobe basiert und an der Bildsprache anderer Adobe-Produkte wie Creative Cloud und Experience Cloud ausgerichtet ist.
 
-Ausführliche Informationen finden Sie in den Versionshinweisen zu [Adobe Connect 12.11](https://helpx.adobe.com/de/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Besuchen Sie [diese Seite](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}, um mehr darüber zu erfahren.
 
 ## Ankündigungen {#announcements}
+
+* **Marketo Community-Migration abgeschlossen**: Die neue Adobe Experience League-Community ist jetzt live! [Es wurden ](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} Verbesserungen vorgenommen, um Ihr Marketo-Community-Erlebnis noch besser zu gestalten. [Schau dir das an](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem Mittwoch, 31. März 2026 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
