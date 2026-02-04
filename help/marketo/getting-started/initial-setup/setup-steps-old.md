@@ -98,13 +98,13 @@ Der neue Benutzer wird jetzt auf der Registerkarte **[!UICONTROL Benutzer]** auf
 
 ## Einrichten autorisierter Support-Kontakte {#set-up-your-authorized-support-contacts}
 
-Möglicherweise haben Sie eine E-Mail vom Marketo-Support erhalten, in der Sie darauf hingewiesen werden, dass Sie der Marketo-Support-Administrator für Ihr Unternehmen sind. In diesem Fall können Sie **autorisierte Support-Kontakte** für Ihr Team einrichten. Nur autorisierte Support-Kontakte können sich direkt über das [Marketo Support-Portal an den Marketo-Support ](https://support.marketo.com){target="_blank"}.
+Möglicherweise haben Sie eine E-Mail vom Marketo-Support erhalten, in der Sie darauf hingewiesen werden, dass Sie der Marketo-Support-Administrator für Ihr Unternehmen sind. In diesem Fall können Sie **autorisierte Support-Kontakte** für Ihr Team einrichten. Nur autorisierte Support-Kontakte können sich direkt über das [Marketo Support-Portal an den Marketo-Support &#x200B;](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
 >Die Anzahl der Support-Kontakte, die Sie erstellen können, wird durch das von Ihnen erworbene Paket bestimmt. Dieser Grenzwert wird in Ihrer E-Mail vom Marketo-Support angegeben.
 
-Autorisierte Support-Kontaktdokumente wurden in die Marketo-Community verschoben. Siehe [ Artikel](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
+Autorisierte Support-Kontaktdokumente wurden in die Marketo-Community verschoben. Siehe [&#x200B; Artikel](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
 
 >[!NOTE]
 >
