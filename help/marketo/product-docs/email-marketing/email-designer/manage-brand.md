@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 2f3cea36349de368e706da59f944a92708d976d2
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
-source-wordcount: '1417'
-ht-degree: 71%
+source-wordcount: '1410'
+ht-degree: 84%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 71%
 
 Markenrichtlinien sind ein detaillierter Satz an Regeln und Standards, die die visuelle und sprachliche Identität einer Marke festlegen. Sie dienen als Referenz, um eine konsistente Markendarstellung über alle Marketing- und Kommunikationsplattformen hinweg aufrechtzuerhalten.
 
-In [!DNL Marketo Engage] haben Sie jetzt die Möglichkeit, Ihre Markendetails manuell einzugeben und zu organisieren. Außerdem können Sie Dokumente zu Markenrichtlinien hochladen, um Informationen automatisch zu extrahieren.
+Manuelle Eingabe und Organisation Ihrer Markendetails oder Hochladen von Dokumenten zu Markenrichtlinien für die automatische Extraktion von Informationen.
 
 >[!AVAILABILITY]
 >
@@ -248,21 +248,21 @@ So personalisieren Sie Ihren **[!UICONTROL Schreibstil]**:
 
 1. Klicken Sie auf der **[!UICONTROL Schreibstil]** auf das Symbol **+** , um eine Richtlinie, einen Ausnahmefehler oder einen Ausschluss hinzuzufügen.
 
-1. Geben Sie Richtlinie, Ausnahme oder Ausschluss ein. Sie können auch &quot;**[!UICONTROL &quot;]**, um die Anwendung besser zu veranschaulichen.
+1. Geben Sie die Richtlinie, die Ausnahme oder den Ausschluss ein. Sie können auch **[!UICONTROL Beispiele]** hinzufügen, um die Anwendung besser zu veranschaulichen.
 
    SCREENSHOT
 
-1. Geben Sie den Nutzungskontext für Ihre Richtlinie, Ausnahme oder Ausschluss an:
+1. Geben Sie den Verwendungskontext für die Richtlinie, die Ausnahme oder den Ausschluss an:
 
-   * **[!UICONTROL Kanaltyp]**: Wählen Sie aus, wo diese Richtlinie, Ausnahme oder Ausnahme gelten soll. Beispielsweise soll ein bestimmter Schreibstil nur in E-Mail-, Mobile-, Druck- oder anderen Kommunikationskanälen angezeigt werden.
+   * **[!UICONTROL Kanaltyp]**: Wählen Sie aus, wo die Richtlinie, die Ausnahme oder der Ausschluss gelten soll. Beispielsweise soll möglicherweise ein bestimmter Schreibstil nur in E-Mail-, Mobile-, Print- oder anderen Kommunikationskanälen verwendet werden.
 
-   * **[!UICONTROL Elementtyp]**: Geben Sie an, für welches Inhaltselement die Regel gilt. Dazu können Elemente wie Überschriften, Schaltflächen, Links oder andere Komponenten in Ihrem Inhalt gehören.
+   * **[!UICONTROL Elementtyp]**: Geben Sie an, für welches Inhaltselement die Regel gilt. Das können Elemente wie Überschriften, Schaltflächen, Links oder andere Komponenten in Ihrem Inhalt sein.
 
    SCREENSHOT
 
-1. Nachdem Sie Ihre Richtlinie, Ausnahme oder Ausnahme eingerichtet haben, klicken Sie auf **[!UICONTROL Hinzufügen]**.
+1. Nachdem Sie die Richtlinie, die Ausnahme oder den Ausschluss eingerichtet haben, klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
-1. Wählen Sie bei Bedarf eine der Richtlinien oder einen Ausschluss aus, die aktualisiert oder gelöscht werden sollen.
+1. Wählen Sie bei Bedarf eine Richtlinie oder einen Ausschluss zum Aktualisieren oder Löschen aus.
 
 1. Klicken Sie auf „Bearbeiten“, um Ihr Beispiel zu bearbeiten, oder auf das Symbol „Löschen“, um es zu löschen.
 
@@ -319,21 +319,21 @@ So personalisieren Sie Ihren **[!UICONTROL visuellen Inhalt]**:
 
    SCREENSHOT
 
-1. Geben Sie den Nutzungskontext für Ihre Richtlinie oder Ihren Ausschluss an:
+1. Geben Sie den Verwendungskontext für die Richtlinie oder den Ausschluss an:
 
-   * **[!UICONTROL Kanaltyp]**: Wählen Sie aus, wo diese Richtlinie, Ausnahme oder Ausnahme gelten soll. Beispielsweise soll ein bestimmter Schreibstil nur in E-Mail-, Mobile-, Druck- oder anderen Kommunikationskanälen angezeigt werden.
+   * **[!UICONTROL Kanaltyp]**: Wählen Sie aus, wo die Richtlinie, die Ausnahme oder der Ausschluss gelten soll. Beispielsweise soll möglicherweise ein bestimmter Schreibstil nur in E-Mail-, Mobile-, Print- oder anderen Kommunikationskanälen verwendet werden.
 
-   * **[!UICONTROL Elementtyp]**: Geben Sie an, für welches Inhaltselement die Regel gilt. Dazu können Elemente wie Überschriften, Schaltflächen, Links oder andere Komponenten in Ihrem Inhalt gehören.
+   * **[!UICONTROL Elementtyp]**: Geben Sie an, für welches Inhaltselement die Regel gilt. Das können Elemente wie Überschriften, Schaltflächen, Links oder andere Komponenten in Ihrem Inhalt sein.
 
    SCREENSHOT
 
-1. Nachdem Sie Ihre Richtlinie, Ausnahme oder Ausnahme eingerichtet haben, klicken Sie auf **[!UICONTROL Hinzufügen]**.
+1. Nachdem Sie die Richtlinie, die Ausnahme oder den Ausschluss eingerichtet haben, klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
 1. Um ein Bild zum Veranschaulichen der korrekten Verwendung hinzuzufügen, wählen Sie **[!UICONTROL Beispiel]** und klicken Sie auf **[!UICONTROL Bild auswählen]**. Sie können auch ein Bild zur Veranschaulichung der inkorrekten Verwendung als Ausschlussbeispiel hinzufügen.
 
    SCREENSHOT
 
-1. Wählen Sie bei Bedarf eine der Richtlinien oder einen Ausschluss aus, die aktualisiert oder gelöscht werden sollen.
+1. Wählen Sie bei Bedarf eine Richtlinie oder einen Ausschluss zum Aktualisieren oder Löschen aus.
 
 1. Wählen Sie eine Richtlinie oder einen Ausschluss aus, um diese bzw. diesen zu aktualisieren. Klicken Sie auf das Symbol „Löschen“, um es zu löschen.
 
