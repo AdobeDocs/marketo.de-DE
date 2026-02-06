@@ -74,7 +74,7 @@ Interaktive Webinare werden nach und nach eingeführt. Um einen früheren Zugrif
   </tr>
   <tr>
    <td>Rollout gestartet</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Interaktive Webinare – Überblick</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=de">Interaktive Webinare – Überblick</a></td>
   </tr>
   </tbody>
 </table>
