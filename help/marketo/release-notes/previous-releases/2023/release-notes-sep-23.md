@@ -3,10 +3,10 @@ description: September 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – September 2023
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '922'
-ht-degree: 16%
+ht-degree: 14%
 
 ---
 
@@ -31,7 +31,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Marketo-Referenzbibliothek</strong>: Die Marketo Engage-Programmreferenzbibliothek ermöglicht es Benutzenden, „Beispielprogramme“ und andere Assets zu importieren, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Übersicht über die Programm-Importbibliothek</a></td>
   </tr>
    <tr>
@@ -41,7 +41,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Verwendet von Zählspalte für Design Studio Assets</strong>: Die Spalte „Verwendet von Zählung“ für Listenansichten in Design Studio hebt die Anzahl der verwendeten Assets hervor. Dies gilt für Snippets, E-Mail-Vorlagen, Forms und Landingpage-Vorlagen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
    <tr>
@@ -51,7 +51,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
    <tr>
    <td><strong>Von Registerkarten-Verbesserungen für Design Studio Assets verwendet</strong>: Die Registerkarte „Von Verbesserungen verwendet“ bietet eine detailliertere Ansicht des Typs und Namens eines Assets sowie dessen Verwendungsort. Dies gilt für E-Mail-Details und Details zu Bildern und Dateien.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
    <tr>
    <td><strong>Lokalisierung für interaktive Webinare</strong>: Auf diese Weise können Sie die Details des Veranstaltungsprogramms für interaktive Webinare in Marketo in der gewünschten Sprache anzeigen und die Bereitstellungssprache auswählen, wenn sie sich von der Sprache des Marketo-Benutzers unterscheidet, der das Veranstaltungsprogramm erstellt hat.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Häufig gestellte Fragen zu interaktiven Webinaren</a></td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
    <tr>
    <td><strong>Benutzerzugriffsverwaltung für interaktive Webinare</strong>: Die Benutzerzugriffsverwaltung ermöglicht es Benutzern von interaktiven Webinaren, nur auf die Veranstaltungsprogramme zuzugreifen, zu denen sie berechtigt sind, und so dazu beizutragen, nicht autorisierten Zugriff zu verhindern.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">Benutzerzugang</a></td>
   </tr>
  </tbody>
@@ -90,8 +90,8 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
   <tr>
    <td><strong>Integration von Marketo und Workfront</strong>: Für Benutzer mit Marketo und Workfront können Sie jetzt Workfront Fusion-Vorlagen verwenden, um die beiden Produkte zu integrieren und neue Automatisierungs-Workflows zu erschließen, um die Kampagnenausführung zu optimieren.</td>
-   <td>Versandt</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=de" target="_blank">Blueprint überprüfen und genehmigen</a></td>
+   <td>Freigegeben</td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Blueprint überprüfen und genehmigen</a></td>
   </tr>
  </tbody>
 </table>
@@ -108,7 +108,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
   <tr>
    <td><strong>Aktionskarte in Stream-Designer</strong>: Marketing-Experten können Aktionskarten im Dialogfeld-Stream verwenden, um ausgeblendete Werte an den Marketo Engage-Personendatensatz zu übergeben, wenn Besucher mit einem Dialogfeld interagieren.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">Streamen von Designer-Karten</a></td>
   </tr>
    <tr>
@@ -118,7 +118,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
    <tr>
    <td><strong>Conversational Forms mit Marketo Engage Forms</strong>: Machen Sie Marketo Engage Forms gesprächsbereit, indem Sie sie mit Dynamic Chat Conversational Flows integrieren. Qualifizieren Sie Leads sofort mithilfe von Formulardaten oder der Smart-List-Mitgliedschaft für Besprechungsbuchungen, Whitepaper-Links oder benutzerdefinierte Ziele.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Konversationsformulare</a></td>
   </tr>
    <tr>
@@ -128,8 +128,8 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
     <tr>
    <td><strong>Konversationen SDK</strong>: Verwandeln Sie jedes Formular, jede Landingpage oder fast jede Web-Seite in ansprechende Erlebnisse bei der Besprechungsbuchung.</td>
-   <td>Versandt</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">SDK-Unterhaltungen</a></td>
+   <td>Freigegeben</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">Konversations-SDK</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -138,7 +138,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
   <tr>
    <td><strong>Benutzerdefinierte Besprechungsbuchungseinstellungen</strong>: Kundendienstmitarbeiter können benutzerdefinierte Besprechungsbuchungseinstellungen wie Verfügbarkeit, Besprechungsdauer und „Pufferzeit“ zwischen Meetings festlegen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">Benutzerdefinierte Besprechungsbuchungseinstellungen</a></td>
   </tr>
    <tr>
@@ -148,7 +148,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
    <tr>
    <td><strong>Fallback-Einstellungen</strong>: Administratoren können benutzerdefinierte Fallback-Einstellungen festlegen, um zu definieren, was Besuchende sehen, wenn keine Agenten für den Chat verfügbar sind.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">Fallback-Regeln</a></td>
   </tr>
    <tr>
@@ -158,7 +158,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
     <tr>
    <td><strong>Dashboard für globale Leistung</strong>: Sehen Sie, wie gut Ihre Dialoge funktionieren, einschließlich Interaktions- und Leistungsmetriken (insgesamt und über einen Zeitraum), Seiten mit der besten Leistung und Dialogfelder mit der besten Leistung.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#global-performance-dashboard" target="_blank">Dashboard für globale Leistung</a></td>
   </tr>
    <tr>
@@ -168,7 +168,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
    <tr>
    <td><strong>Live-Chat</strong>: Web-Besucher können in Echtzeit mit Vertriebsmitarbeitern chatten, um Antworten auf ihre Fragen zu erhalten.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">Live-Chat – Übersicht</a></td>
   </tr>
    <tr>
@@ -178,7 +178,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
    <tr>
    <td><strong>Dashboard zur Performance des Live-</strong>Chats: Zeigt an, wie viele Konversationen Ihre Live-Vertriebsmitarbeiter geführt haben und welche Teams die besten Ergebnisse erzielen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#live-chat-performance-dashboard" target="_blank">Live-Chat-Leistungs-Dashboard</a></td>
   </tr>
    <tr>
@@ -188,7 +188,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
     <tr>
    <td><strong>Marketo Engage-Smart-Listen-Targeting</strong>: Marketing-Experten können Mitglieder von Marketo Engage-Smart-Listen als Ziel im Dialogfeld „Zielgruppenkriterien“ verwenden.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#membership" target="_blank">Mitgliedschaft</a></td>
   </tr>
    <tr>
@@ -198,7 +198,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
   <tr>
    <td><strong>Dashboard zur </strong>: Zeigt an, wie viele Meetings gebucht werden und mit wem sie gebucht werden.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#meeting-performance-dashboard" target="_blank">Meeting-Leistungs-Dashboard</a></td>
   </tr>
    <tr>
@@ -208,7 +208,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
    <tr>
    <td><strong>Neue Dynamic Chat-</strong>: Neue Aktivitäten zur Unterstützung von Gesprächsflüssen, Live-Chat und anderen neuen Funktionen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md" target="_blank">Dynamic Chat-Aktivitäten</a></td>
   </tr>
    <tr>
@@ -218,7 +218,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
     <tr>
    <td><strong>Echtzeit-Live-Chat</strong>-Benachrichtigungen: Wenn Besucher einen Live-Chat anfordern, erhalten Agenten In-App- und Browser-Benachrichtigungen in Echtzeit.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">Live-Chat-Benachrichtigungen</a></td>
   </tr>
   <tr>
@@ -228,7 +228,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
     <tr>
    <td><strong>Teams</strong>: Erstellen Sie Teams von Agenten, zu denen Besucher für Live-Chat- oder Besprechungsbuchungen weitergeleitet werden können.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#teams" target="_blank">Teams</a></td>
   </tr>
   <tr>
@@ -238,7 +238,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
     <tr>
    <td><strong>Trigger-Token für neue Aktivitäten</strong>: Neue Trigger-Token sind verfügbar, um die neuen Aktivitäten für Dynamic Chat zu unterstützen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chat-Auslöser-Token</a></td>
   </tr>
   <tr>
@@ -248,7 +248,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   </tr>
     <tr>
    <td><strong>Konversationsfluss-Asset</strong>Seite: Auf der Asset-Seite von Design Studio werden jetzt Dynamic Chat-Konversationsflüsse aufgelistet. Ermitteln Sie, welche Flüsse in Marketo Engage-Assets integriert werden können, und stellen Sie direkt einen Deeplink zu ihrem Editor bereit.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>

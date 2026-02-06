@@ -2,10 +2,11 @@
 description: September 2025 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – September 2025
 feature: Release Information
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
+source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
 workflow-type: tm+mt
 source-wordcount: '704'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -32,8 +33,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Speicherung von Aktivitäten zu On-Demand-Webinaren</strong>: Benutzenden interaktiver Webinare stehen Dashboard-Daten zu On-Demand-Webinaren jetzt für mehr als 30 Tage zur Verfügung (zuvor waren es nur bis zu 30 Tage ab dem Tag des Webinars).</td>
-   <td>Versandt</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
+   <td>Freigegeben</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -42,7 +43,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Berechtigungen für den KI-Assistenten</strong>: Marketo-Admins können bestimmten Benutzenden Zugriff auf GenAI-Funktionen gewähren.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Berechtigungen einrichten</a></td>
   </tr>
   <tr>
@@ -52,7 +53,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Dunkler Modus</strong>: Sie können jetzt den dunklen Modus nutzen, in dem E-Mail-Clients und -Apps, die den Modus unterstützen, E-Mails mit dunkleren Hintergründen und helleren Farben für Text, Schaltflächen und andere UI-Elemente anzeigen können.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Dunkler Modus</a></td>
   </tr>
   <tr>
@@ -62,7 +63,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Workflow für Content-Zusammenarbeit</strong>: Sie können jetzt mit anderen Marketo-Benutzenden an E-Mail-Assets zusammenarbeiten und Kommentare abgeben. Taggen Sie Team-Mitglieder (Marketo-Benutzende mit entsprechenden Asset-Berechtigungen), sodass sie eine E-Mail- oder Push-Benachrichtigung erhalten.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">E-Mail-Zusammenarbeit</a></td>
   </tr>
   <tr>
@@ -72,7 +73,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Fehlerbehebung bei Umleitungen</strong>: Bei einigen Benutzenden traten Umleitungsprobleme mit URLs für E-Mails auf, die mit der neuen Designer erstellt wurden (z. B. funktionierte das direkte Einfügen der URLs oder das Hinzufügen von Lesezeichen für E-Mail-Assets nicht immer). Dieses Problem wurde behoben. Darüber hinaus werden Links zu E-Mail-Assets aus <b>E-Mail-Vorlagen</b> &gt; <b>Details</b> &gt; <b>Verwendet von</b> zum entsprechenden E-Mail-Asset umgeleitet.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -93,6 +94,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Einstellung der Funktion _An Freund/Freundin weiterleiten_**: Am 29. September 2025 wird die Funktion _An Freund/Freundin weiterleiten_ in E-Mails in Marketo Engage 2.0 (dem alten E-Mail-Editor) für alle Abonnements vollständig eingestellt. Dies betrifft das Token „An Freund/Freundin weiterleiten“ und die Links „An Freund/Freundin weiterleiten“ in E-Mails, die bereits mit dem Token gesendet wurden oder gesendet werden. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem Mittwoch, 31. März 2026 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am Mittwoch, 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
+* **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.

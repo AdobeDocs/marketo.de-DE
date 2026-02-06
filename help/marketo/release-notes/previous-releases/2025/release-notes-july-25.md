@@ -3,10 +3,10 @@ description: Juli 2025 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – Juli 2025
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '714'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -33,7 +33,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Integration von E-Mail-Designer mit GenStudio</strong>: Integrieren Sie GenStudio für Performance Marketing aus E-Mails heraus, um die Marketing-Effizienz zu verbessern und die Markenkonsistenz zu wahren.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">GenStudio-Integration für Marketo Engage</a></td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Benutzerdefiniertes CSS</strong>: Beim Entwerfen von E-Mails können Sie jetzt direkt im E-Mail-Designer eigenes benutzerdefiniertes CSS hinzufügen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten</a></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Erkennen von Spam mit SpamAssassin</strong>: Mit SpamAssassin in Marketo Engage können Sie Ihren E-Mail-Content testen und ermitteln, wie wahrscheinlich es ist, dass ISPs/Postfachanbieter ihn als Spam markieren.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">E-Mail-Spam-Bericht</a></td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Unterstützung für das Verschieben von Assets und das Löschen von Programmen</strong>: Verschieben Sie E-Mail-Assets schnell zwischen Programmen. Außerdem können Sie jetzt auch Programme löschen, die neue Designer-E-Mail-Assets enthalten.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Firefox-Support</strong>: Der E-Mail-Designer wird jetzt in Mozilla Firefox vollständig unterstützt. Halten Sie Ihren Browser immer auf dem neuesten Stand, um ein optimales Erlebnis zu erzielen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Simulieren von Content auf der Eigenschaftsseite</strong>: Simulieren Sie Content für E-Mail-Assets über die <i>E-Mail-Eigenschaften</i>, ohne zum Bearbeitungsbildschirm zurückkehren zu müssen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
    <tr>
@@ -93,7 +93,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Rollenbasierte Zugriffssteuerung für Assets</strong>: In der Mai-Version wurde die rollenbasierte Zugriffssteuerung (RBAC) für die Berechtigungen zum Bearbeiten, Genehmigen und Löschen implementiert. In dieser Version sind jetzt auch Leseberechtigungen verfügbar.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Bearbeiten von E-Mail-Eigenschaften für veröffentlichte E-Mails</strong>: Nehmen Sie Änderungen in <i>E-Mail-Eigenschaften</i> auch nach der Veröffentlichung der E-Mail vor.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Auswählen einer Branding-Domain und Domain-IP-Konfiguration</strong>: Sie können jetzt für jedes E-Mail-Asset eine Branding-Domain und eine Domain-IP-Konfiguration auswählen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Aktualisierungen der Benachrichtigungen zu REST-API-Fehler-Codes</strong>: Zwei zusätzliche Klassen von REST-API-Fehlern in In-App-Benachrichtigungen wurden hinzugefügt: 606 – Max. Ratenlimit überschritten und 607 – Tägliches Kontingent erreicht.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Anzeige der Standardfelder für Teilnehmerinnen und Teilnehmer an Programmen in der Feldverwaltung</strong>: Sowohl Standard- als auch benutzerdefinierte Programmteilnehmerfelder in der <i>Feldverwaltung</i> sind jetzt sichtbar.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -143,7 +143,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>REST-API-Namen in der Feldverwaltung</strong>: Diese Aktualisierung ermöglicht es Admins, REST-API-Feldnamen anzuzeigen, ohne die Liste exportieren zu müssen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Munchkin-Cookies und -ECIDs sind sichtbar</strong>: Auf der Registerkarte _INFO_ einer <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">Personendetailseite</a> wird nun eine Liste der Munchkin-Cookie- und -ECID-Nummern (Experience Cloud Identity) angezeigt, wodurch die Abhängigkeit von API-Aufrufen zum Abrufen dieser Informationen verringert wird.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
  </tbody>
@@ -170,4 +170,4 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem Mittwoch, 31. März 2026 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am Mittwoch, 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
+* **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.

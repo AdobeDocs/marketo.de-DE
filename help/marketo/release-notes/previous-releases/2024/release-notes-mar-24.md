@@ -3,7 +3,7 @@ description: März 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – März 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 30%
@@ -20,7 +20,7 @@ Nachstehend finden Sie alle Funktionen, die in der Version vom 24. März enthalt
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 8. März 2024** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem **Samstag, 8. März 2024** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,7 +31,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Erweiterte Konversationsflusslogik</strong>: Fügen Sie zusätzliche Felder zur Auswertung in einer einzigen Auswahl für die Konversationsflussverfolgung hinzu.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Einstellungen für Konversationsflüsse für Marketo Engage Forms</a></td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    </tr>
     <tr>
    <td><strong>Konversationsflusslogik neu anordnen</strong>: In Marketo Engage Forms können Sie jetzt die Optionen für den Konversationsfluss neu anordnen, anstatt ihn löschen und wieder hinzufügen zu müssen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Einstellungen für Konversationsflüsse für Marketo Engage Forms</a></td>
    </tr>
   <tr>
@@ -53,7 +53,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
     <tr>
    <td><strong>API-Aktivitätsmetadaten</strong>:
    Metadaten wie Benutzeragent, Plattform und Gerät sind jetzt in Web- und E-Mail-Aktivitäten enthalten, was über die Marketo-REST-API zu konsistenten Einblicken in diese Aktivitäten beiträgt.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
  </tbody>

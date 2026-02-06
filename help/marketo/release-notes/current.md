@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d46ce01ca654ce17c1909d9e458cab1a8cb520f9
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '478'
 ht-degree: 38%
 
 ---
@@ -59,8 +59,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer - Aufzählungszeichen</strong>: Sie können jetzt beim Verfassen einer E-Mail in der E-Mail-Designer Aufzählungszeichen auf mehreren Ebenen erstellen.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Freigegeben</td>
+   <td>k. A.</td>
   </tr>
   <tr>
    <td> </td>
@@ -103,11 +103,11 @@ Die folgenden Funktionen wurden außerhalb des standardmäßigen Marketo Engage-
 
 * **Verbesserte Raumoberfläche**: Genießen Sie eine aktualisierte und modernere Raumoberfläche, die auf dem neuesten Spectrum 2-Design-Framework von Adobe basiert und an der Bildsprache anderer Adobe-Produkte wie Creative Cloud und Experience Cloud ausgerichtet ist.
 
-Besuchen Sie [diese Seite](https://helpx.adobe.com/de/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}, um mehr darüber zu erfahren.
+Besuchen Sie [diese Seite](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}, um mehr darüber zu erfahren.
 
 ## Ankündigungen {#announcements}
 
-* **Marketo Community-Migration abgeschlossen**: Die neue Adobe Experience League-Community ist jetzt live! [Es wurden &#x200B;](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=de){target="_blank"} Verbesserungen vorgenommen, um Ihr Marketo-Community-Erlebnis noch besser zu gestalten. [Schau dir das an](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=de){target="_blank"}.
+* **Marketo Community-Migration abgeschlossen**: Die neue Adobe Experience League-Community ist jetzt live! [Es wurden ](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} Verbesserungen vorgenommen, um Ihr Marketo-Community-Erlebnis noch besser zu gestalten. [Schau dir das an](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem Mittwoch, 31. März 2026 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

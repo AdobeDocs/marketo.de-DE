@@ -2,10 +2,11 @@
 description: Oktober 2025 - Marketo-Dokumentation - Produktdokumentation
 title: Oktober 2025 – Versionshinweise
 feature: Release Information
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+exl-id: 9c668de0-14d0-4d2e-8ea6-dc7db5be3ea7
+source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 98%
+ht-degree: 93%
 
 ---
 
@@ -32,7 +33,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Import-Tool für Vorlagen (Beta)</strong>: Importieren Sie E-Mail-Vorlagen aus dem klassischen E-Mail-Editor, um Vorlagen zu erstellen, die mit dem neuen E-Mail-Designer in Design Studio kompatibel sind.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Vorlagenimport</a></td>
   </tr>
   <tr>
@@ -42,7 +43,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Marken-Designs</strong>: Sie können nun Marken-Designs innerhalb von Marketo Engage definieren. Stilkonfigurationen können wiederverwendet und auf E-Mail-Vorlagen und andere E-Mail-Assets angewendet werden, um die Markenkonsistenz zu gewährleisten.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Markenthemen</a></td>
   </tr>
   <tr>
@@ -52,7 +53,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – Bedingter Inhalt</strong>: Paritätsfunktion für den neuen E-Mail-Designer, mit der sich eine E-Mail-Personalisierung über Token hinaus umsetzen lässt.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Bedingte Inhalte</a></td>
   </tr>
   <tr>
@@ -62,7 +63,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
  <tr>
    <td><strong>E-Mail-Designer – Konvertierer für Bild zu HTML</strong>: Laden Sie eine konforme PNG-/JPEG-Bilddatei einer E-Mail hoch. Sie wird automatisch in HTML konvertiert und kann im neuen E-Mail-Designer verwendet werden.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Konvertieren von Bildern in HTML-Vorlagen</a></td>
   </tr>
   <tr>
@@ -72,7 +73,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – E-Mail-Aktion klonen</strong>: Sie können nun eine E-Mail in einen anderen Programmordner innerhalb der Marketing-Aktivitäten klonen und vorhandene E-Mails schnell wiederverwenden.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -82,7 +83,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer – A/B-Tests</strong>: Paritätsfunktion für den neuen E-Mail-Designer, mit der Sie A/B-Tests durchführen können, um herauszufinden, welche Arten von Inhalten die beste Resonanz erzielen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   </tbody>
@@ -91,9 +92,9 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Upgrade für die Salesforce CRM-Integration**: Ab dem 13. November 2025 wird innerhalb eines Zeitraums von sieben Tagen eine neue Version der nativen CRM-Integration in aktiven Sandboxes bereitgestellt, in denen der native Connector aktiviert ist. Ausführliche Informationen finden Sie in diesem [Post von Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}.
+* **Upgrade für die Salesforce CRM-Integration**: Ab dem 13. November 2025 wird innerhalb eines Zeitraums von sieben Tagen eine neue Version der nativen CRM-Integration in aktiven Sandboxes bereitgestellt, in denen der native Connector aktiviert ist. Ausführliche Informationen finden Sie in [diesem Community-Beitrag](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
 
-* **Einstellung der REST-API mit doppelten Schrägstrichen**: Am 16. September 2025 hat Adobe auf eine modernere Hosting-Infrastruktur für REST-API-URLs umgestellt, die neuere Technologien nutzt und so Sicherheit und Skalierbarkeit bietet. Wenn Ihr Abonnement APIs mit einem doppelten Schrägstrich (//) in der URL verwendet hat, finden Sie in [diesem Post von Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} Informationen zu den nächsten Schritten.
+* **Einstellung der REST-API mit doppelten Schrägstrichen**: Am 16. September 2025 hat Adobe auf eine modernere Hosting-Infrastruktur für REST-API-URLs umgestellt, die neuere Technologien nutzt und so Sicherheit und Skalierbarkeit bietet. Wenn Ihr Abonnement APIs mit einem doppelten Schrägstrich (//) in der URL verwendet hat, lesen Sie bitte [diesen Community-Beitrag](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} für die nächsten Schritte.
 
 * **Zurück zur Geschwindigkeits-Skripterstellung im neuen E-Mail-Designer**: Adobe Marketo Engage hat im vergangenen Juni für den neuen E-Mail-Designer eine Funktion namens _Bedingter Inhalt_ veröffentlicht. Die Funktion basierte auf Handlebar-Skripterstellung anstelle von Geschwindigkeits-Skripterstellung. Das war ein Bemühen, Ihren dynamischen Inhalten etwas mehr Flexibilität zu verleihen. Als wir jedoch erkannten, dass dadurch manche Token falsch aufgelöst werden, entschieden wir, die Funktion vorübergehend zu deaktivieren. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
@@ -105,6 +106,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Einstellung der Funktion _An Freund/Freundin weiterleiten_**: Am 29. September 2025 wurde die Funktion _An Freund/Freundin weiterleiten_ in E-Mails in Marketo Engage 2.0 (dem alten E-Mail-Editor) für alle Abonnements vollständig eingestellt. Dies betraf das Token „An Freund/Freundin weiterleiten“ und die Links „An Freund/Freundin weiterleiten“ in E-Mails, die bereits mit dem Token gesendet wurden oder für den Versand geplant waren. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem Mittwoch, 31. März 2026 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am Mittwoch, 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
+* **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.

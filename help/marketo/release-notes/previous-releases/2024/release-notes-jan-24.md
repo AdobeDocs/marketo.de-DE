@@ -3,10 +3,10 @@ description: Januar 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – Januar 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 19%
+ht-degree: 18%
 
 ---
 
@@ -20,7 +20,7 @@ Im Folgenden finden Sie alle Funktionen, die in der Version vom Januar 2024 enth
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 12. Januar 2024** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem **Samstag, 12. Januar 2024** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,7 +31,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
     <tr>
    <td><strong>On-Demand-Webinare für interaktive Webinare</strong>: Mit On-Demand-Webinaren können Sie die Webinar-Aufzeichnung veröffentlichen und ihre Besuche/Aufrufe verfolgen. Auf diese Weise erhalten Sie weitere Leads durch Teilnehmer, die nicht am Webinar teilgenommen haben (nicht angezeigt), aber dennoch daran interessiert sind, weitere Details zu erfahren und die Aufzeichnung anzusehen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">On-Demand-Webinare</a></td>
   </tr>
    <tr>
@@ -51,7 +51,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
     <tr>
    <td><strong>E-Mail-Bot-Aktivität filtern</strong>: Verbessert die Erfassung von Bot-Aktivitäten für E-Mail-Interaktionen, indem Sie auswählen können, wie aggressiv die Filterung der Bot-Aktivität sein soll.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtern auf E-Mail-Bot-Aktivität</a></td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    </tr>
     <tr>
    <td><strong>API-Aktualisierung für den Massenimport von Leads</strong>: Das Verhalten der API für den Massenimport von Leads wurde geringfügig angepasst, wenn <b>id</b> bei der <b> der Auftragserstellung als </b>lookupField“ angegeben wird. Wenn ein mit der angegebenen <b>ID</b> verknüpfter Personendatensatz nicht in der Marketo Engage-Datenbank gefunden wird, erfolgt keine Datensatzaktualisierung, da der Datensatz nicht gefunden werden kann. Das aktualisierte Verhalten umfasst jetzt die Erhöhung der Anzahl in der <b>numOfRowsFailed</b>-Eigenschaft in der Antwort, wodurch signalisiert wird, dass der Vorgang in solchen Fällen fehlgeschlagen ist.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    </tr>
   <tr>
    <td><strong>Co-Hosts für interaktive Webinare</strong>: Die Co-Hosts im Webinar-Team-Bereich interaktiver Webinare ermöglichen es dem Ersteller der Veranstaltung, interne oder externe Benutzer zum Programm für interaktive Webinare hinzuzufügen, um administrative und Bereitstellungs-Zuständigkeiten zu teilen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Hinzufügen eines Webinar-Teams</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
     <tr>
    <td><strong>Benutzer in interaktiven Webinaren entfernen</strong>: Ein Marketo Engage-Administrator kann jetzt bestimmte Benutzer in interaktiven Webinaren entfernen.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td>k. A.</td>
   </tr>
  </tbody>
@@ -160,7 +160,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
     </tr>
     <tr>
    <td><strong>Manuelle Beendigung des Live</strong>Chats: Sowohl Besucher als auch Agenten können jetzt eine Live-Chat-Sitzung manuell beenden.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Agenten-Posteingang</a></td>
   </tr>
   <tr>
@@ -198,4 +198,4 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
 
 * **E-Mail-Überprüfung nur für SSO-Benutzer**: Nur SSO-Benutzer wurden automatisch überprüft, sodass sie ein nicht zugängliches E-Mail-Konto verwenden können. Ab Mitte Januar werden alle bestehenden SSO Only-Benutzer nicht mehr verifiziert und werden über einen Link, den wir an das E-Mail-Konto senden, aufgefordert, ihre E-Mail erneut zu verifizieren. Alle neuen SSO-Benutzer müssen in Zukunft nur noch ihre E-Mail-Adressen verifizieren.
 
-* Marketo Engage Sehen Sie sich [&#x200B; (Januar 2024) Webinar zur Version von &#x200B;](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"} an.
+* Marketo Engage Sehen Sie sich [ (Januar 2024) Webinar zur Version von ](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"} an.

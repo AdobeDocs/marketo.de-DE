@@ -3,7 +3,7 @@ description: April 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – April 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 31%
@@ -22,7 +22,7 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 26. April 2024** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem **Samstag, 26. April 2024** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
      <tr>
    <td><strong>Verbesserungen bei interaktiven Webinaren</strong>: Sie können jetzt Hosts und Moderatoren die Möglichkeit geben, einen Webinar-Titel hinzuzufügen, einen Raum umzubenennen und Interaktionsdaten nach dem Versand des Ereignisses manuell zu synchronisieren.</td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Erstellen eines interaktiven Webinars</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Manuelle Synchronisierung</a></li></td>
   </tr>
@@ -66,7 +66,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <li>Liste erstellen</li>
    <li>Kampagnenaktivität exportieren</li>
    </td>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Beschreibungen der Rollenberechtigungen</a></td>
   </tr>
  </tbody>

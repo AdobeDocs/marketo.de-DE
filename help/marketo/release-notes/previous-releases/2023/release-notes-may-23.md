@@ -2,7 +2,7 @@
 description: Mai 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2023 – Versionshinweise
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 27%
@@ -19,7 +19,7 @@ Im Folgenden finden Sie alle Funktionen, die in der Version vom Mai 2023 enthalt
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 12. Mai 2023** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem **Samstag, 12. Mai 2023** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
 
 ### Moderne Benutzeroberfläche von Marketo Engage {#modern-ux}
 
@@ -33,7 +33,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Übersicht über die Experience Cloud-Benutzeroberfläche</a></td>
   </tr>
   </tbody>
@@ -47,7 +47,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><b>Dokumentation – Aktualisierungen</b></td>
   </tr>
   <tr>
-   <td>Versandt</td>
+   <td>Freigegeben</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Hilfezentrum</a></td>
   </tr>
   </tbody>
@@ -74,7 +74,7 @@ Interaktive Webinare werden nach und nach eingeführt. Um einen früheren Zugrif
   </tr>
   <tr>
    <td>Rollout gestartet</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=de">Interaktive Webinare – Übersicht</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Interaktive Webinare – Überblick</a></td>
   </tr>
   </tbody>
 </table>
