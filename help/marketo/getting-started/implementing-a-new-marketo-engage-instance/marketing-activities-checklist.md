@@ -139,7 +139,7 @@ Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/market
   </tr>
   <tr>
     <td>Datenschutz und Compliance</td>
-    <td><li>Erstellen Sie Programme, um sicherzustellen, dass Sie die Datenschutz- und Spam-Gesetze wie <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">DSGVO, CASL, CAN-SPAM, CCPA usw. einhalten</a></li>
+    <td><li>Erstellen Sie Programme, um sicherzustellen, dass Sie die Datenschutz- und Spam-Gesetze wie <a href="https://business.adobe.com/de/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">DSGVO, CASL, CAN-SPAM, CCPA usw. einhalten</a></li>
     <p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Denken Sie immer daran, sich in diesen Fragen an Ihre Rechtsabteilung zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Compliance aufrechtzuerhalten, bevor Sie Änderungen vornehmen.</td>
   </tr>
   <tr>

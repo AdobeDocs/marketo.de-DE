@@ -95,7 +95,7 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
   <tr>
    <td>Datenschutz und Compliance</td>
    <td><li>Entspricht Ihre Formularstrategie den Datenschutz- und Opt-in-Anforderungen Ihres Unternehmens?
-   <br/>     Man betrachte etwa <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Datenschutz-Grundverordnung (DSGVO)</a>, das kanadische Anti-Spam-Gesetz (CASL), den Controlling the Assault of Non-Solicited Pornografy and Marketing Act von 2003 (CAN-SPAM), den California Consumer Privacy Act (CCPA) usw., um die Einhaltung der Vorschriften zu gewährleisten.</li>
+   <br/>     Man betrachte etwa <a href="https://business.adobe.com/de/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Datenschutz-Grundverordnung (DSGVO)</a>, das kanadische Anti-Spam-Gesetz (CASL), den Controlling the Assault of Non-Solicited Pornografy and Marketing Act von 2003 (CAN-SPAM), den California Consumer Privacy Act (CCPA) usw., um die Einhaltung der Vorschriften zu gewährleisten.</li>
 <p><img src="assets/tip-icon.png" alt="Tipp-Symbol">TIPP: Vergessen Sie nicht, sich in diesen Fragen immer an Ihre Rechtsabteilung zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Compliance aufrechtzuerhalten, bevor Sie Änderungen vornehmen.</td>
   </tr>
  </tbody>

@@ -58,7 +58,7 @@ Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/market
   </tr>
   <tr>
     <td>Datenschutz und Compliance</td>
-    <td><li>Halten Sie Ihre Formulare <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Datenschutz-Grundverordnung (DSGVO) </a>.</li></td>
+    <td><li>Halten Sie Ihre Formulare <a href="https://business.adobe.com/de/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Datenschutz-Grundverordnung (DSGVO) </a>.</li></td>
   </tr>
   <tr>
     <td>Datenstandardisierung</td>

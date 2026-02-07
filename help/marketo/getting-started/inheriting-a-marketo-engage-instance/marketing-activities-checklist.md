@@ -141,7 +141,7 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
   <tr>
    <td>Datenschutz und Compliance</td>
    <td><li>Verfügen Sie über Programme, die sicherstellen, dass Sie die Datenschutzgesetze und Spam-Gesetze einhalten?
-   <br/>     Berücksichtigen Sie <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">DSGVO</a>, CASL, CAN-SPAM, CCPA usw.</li>
+   <br/>     Berücksichtigen Sie <a href="https://business.adobe.com/de/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">DSGVO</a>, CASL, CAN-SPAM, CCPA usw.</li>
 <p><img src="assets/tip-icon.png" alt="Tipp-Symbol">TIPP: Vergessen Sie nicht, sich in diesen Fragen immer an Ihre Rechtsabteilung zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Compliance aufrechtzuerhalten, bevor Sie Änderungen vornehmen.</td>
   </tr>
   <tr>
