@@ -4,10 +4,10 @@ description: Einrichten von Facebook-Lead-Anzeigen - Marketo-Dokumente - Produkt
 title: Einrichten von Lead-Anzeigen in Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 3%
+source-wordcount: '338'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,9 @@ Verwenden Sie [Facebook-Lead](https://www.facebook.com/business/ads/ad-objective
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>* **Admin-Berechtigungen erforderlich**
+>
+>* Achten Sie beim Erstellen von Facebook-Lead-Anzeigen-Formularen darauf, dass der Formularname nicht nur numerische Zeichen enthält. Der Formularname muss entweder alphabetisch oder alphanumerisch sein.
 
 >[!AVAILABILITY]
 >
