@@ -4,10 +4,10 @@ description: Hinzufügen einer Ansicht als Web-Seitenlink zu einer E-Mail - Mark
 title: Hinzufügen einer Ansicht als Web-Seiten-Link zu einer E-Mail
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 12%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,9 @@ E-Mails verfügen über eingeschränkte Funktionen (eingeschränktes CSS und kei
 
 >[!NOTE]
 >
->Beim Erstellen einer neuen E-Mail ist „Als Web-Seite anzeigen“ nicht aktiviert. Wenn Sie sie aktivieren und die E-Mail klonen, wird diese Einstellung kopiert.
+>* Beim Erstellen einer neuen E-Mail ist „Als Web-Seite anzeigen“ nicht aktiviert. Wenn Sie sie aktivieren und die E-Mail klonen, wird diese Einstellung kopiert.
+>
+>* Links des Typs „Als Web-Seite anzeigen“ laufen nach sechs Monaten ab.
 
 1. Wählen Sie Ihre E-Mail aus und klicken Sie **[!UICONTROL Entwurf bearbeiten]**.
 
