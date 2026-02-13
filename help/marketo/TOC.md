@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
+source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
 workflow-type: tm+mt
-source-wordcount: '9331'
+source-wordcount: '9336'
 ht-degree: 99%
 
 ---
@@ -79,7 +79,7 @@ ht-degree: 99%
             + [SEO – Optimieren spezifischer Seiten mit gezielten Keywords](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
             + [SEO – Entfernen eines Keywords](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
             + [SEO – Grundlegendes zu Keywords](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO – Anzeigen von Keyword-Ergebnissen in einer Suchmaschine &#x200B;](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
+            + [SEO – Anzeigen von Keyword-Ergebnissen in einer Suchmaschine ](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Seiten {#pages}
             + [SEO – Hinzufügen von Hinweisen zu Seitenproblemen](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
             + [SEO – Hinzufügen von Seiten](product-docs/additional-apps/seo/pages/seo-add-pages.md)
@@ -191,11 +191,11 @@ ht-degree: 99%
          + [Hinzufügen von Nur-API-Benutzenden für Adobe IMS-fähige Abonnements](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [Hinzufügen oder Entfernen von Produktadmins](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Hinzufügen oder Entfernen von Benutzenden](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [FAQs](product-docs/administration/marketo-with-adobe-identity/faq.md)
+         + [Häufig gestellte Fragen](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Benutzeranmeldung mit Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + Abonnement- und Benutzermigration {#subscription-and-user-migration}
             + [Migrieren zu Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Grundlegendes zur Marketo-Abonnement- und Benutzermigration zur Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
+            + [Grundlegendes zur Marketo-Abonnement- und -Benutzermigration zur Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
             + [Migration des Marketo Engage-Supports](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
             + [Handbuch zur Fehlerbehebung](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + Einstellungen {#settings}
@@ -235,7 +235,7 @@ ht-degree: 99%
          + [Erstellen von Nur-API-Benutzenden](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-Mail-Überprüfung](product-docs/administration/users-and-roles/email-verification.md)
-         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen &#x200B;](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
+         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen ](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Verwalten von Marketo-Benutzenden](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Verwalten von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportieren von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -657,12 +657,12 @@ ht-degree: 99%
          + [Senden einer Liste an ein Anzeigennetzwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
          + [Senden einer Liste an Google](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
       + Dynamic Chat {#dynamic-chat}
-         + [Dynamic Chat – Überblick](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Überblick über Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Chatbot-Verhalten](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Meeting-Liste](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
-         + [FAQs](product-docs/demand-generation/dynamic-chat/faq.md)
+         + [Häufig gestellte Fragen](product-docs/demand-generation/dynamic-chat/faq.md)
          + Einrichtung und Konfiguration {#setup-and-configuration}
             + [Ersteinrichtung](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Hinzufügen oder Entfernen von Chat-Benutzenden](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
@@ -970,7 +970,7 @@ ht-degree: 99%
             + [Exportieren einer Liste mit personalisierten URLs](product-docs/demand-generation/landing-pages/personalizing-landing-pages/export-a-list-with-personalized-urls.md)
             + [Einbinden einer ICS-Datei für Kalenderereignisse in eine Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
             + [Umleiten eines URL-Pfads](product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
-            + [Token – Übersicht](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+            + [Token – Überblick](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [Verwenden von dynamischen Inhalten in einer Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [Verwenden des URL-Builders](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
       + Social {#social}
@@ -1028,7 +1028,7 @@ ht-degree: 99%
          + [Überblick](product-docs/email-marketing/email-designer/overview.md)
          + [Funktionsvergleich](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Erstellung von E-Mails](product-docs/email-marketing/email-designer/email-authoring.md)
-         + [Bedingter Inhalt](product-docs/email-marketing/email-designer/conditional-content.md)
+         + [Bedingte Inhalte](product-docs/email-marketing/email-designer/conditional-content.md)
          + [Erstellung von E-Mail-Vorlagen](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Importieren einer Vorlage](product-docs/email-marketing/email-designer/import-template.md)
          + [Konvertieren von Bildern in HTML-Vorlagen](product-docs/email-marketing/email-designer/image-to-html.md)
@@ -1108,7 +1108,7 @@ ht-degree: 99%
             + [Hinzufügen von Modulen zu einer E-Mail](product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)
             + [Erstellen einer E-Mail-Vorlage](product-docs/email-marketing/general/email-editor-2/create-an-email-template.md)
             + [Bearbeiten von Elementen in einer E-Mail](product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
-            + [E-Mail-Editor v2.0 – Übersicht](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+            + [Überblick über E-Mail-Editor v2.0](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
             + [Auswahl von E-Mail-Vorlagen – Übersicht](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
             + [Syntax von E-Mail-Vorlagen](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
             + [Wechseln zum E-Mail-Editor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
@@ -1288,7 +1288,7 @@ ht-degree: 99%
             + [Senden einer getrackten E-Mail](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [Senden von E-Mails per Gruppen-E-Mail](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [Verwenden einer Vorlage im Fenster „Verfassen“](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + FAQs {#faq}
+      + Häufig gestellte Fragen {#faq}
          + [Kann ich einen Kontakt oder eine Gruppe wiederherstellen, den bzw. die ich gelöscht habe?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Häufig gestellte Fragen zu Inhalten und Dateianlagen](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Verfügt Sales Connect über eine iPhone- oder Android-App?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1307,7 +1307,7 @@ ht-degree: 99%
          + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Gewähren von Zugriff für Benutzende](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interessante Momente in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zu Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personen {#people}
@@ -1448,7 +1448,7 @@ ht-degree: 99%
                + [Verbinden mit Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [Verbinden mit Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + FAQs {#faq}
+         + Häufig gestellte Fragen {#faq}
             + [Kann ich einen Kontakt oder eine Gruppe wiederherstellen, den bzw. die ich gelöscht habe?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kann ich mehrere Empfängerinnen und Empfänger mit CC/BCC verfolgen?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Häufig gestellte Fragen zu Inhalten und Dateianlagen](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1475,7 +1475,7 @@ ht-degree: 99%
          + Marketo {#marketo}
             + [Gewähren von Marketo-Zugriff für Benutzende](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interessante Momente in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar der Sales Insight Actions-Aktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
@@ -1971,6 +1971,8 @@ ht-degree: 99%
    + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
    + [Dynamic Chat-Version TEMP](release-notes/dynamic-chat-temp.md)
    + Frühere Versionen {#previous-releases}
+      + 2026 {#2026}
+         + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2025/release-notes-jan-26.md)
       + 2025 {#2025}
          + [Versionshinweise – Januar 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Versionshinweise – März 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
