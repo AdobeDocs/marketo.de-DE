@@ -106,7 +106,7 @@ Besuchen Sie [diese Seite](https://helpx.adobe.com/adobe-connect/release-note/ad
 
 ## Ankündigungen {#announcements}
 
-* **Marketo Community-Migration abgeschlossen**: Die neue Adobe Experience League-Community ist jetzt live! [Es wurden ](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} Verbesserungen vorgenommen, um Ihr Marketo-Community-Erlebnis noch besser zu gestalten. [Schau dir das an](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
+* **Marketo Community-Migration abgeschlossen**: Die neue Adobe Experience League-Community ist jetzt live! [Es wurden &#x200B;](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} Verbesserungen vorgenommen, um Ihr Marketo-Community-Erlebnis noch besser zu gestalten. [Schau dir das an](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem Mittwoch, 31. März 2026 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
