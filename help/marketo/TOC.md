@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: b7904b6375be98a3794e0b6b2cd3cde0b4b0eefd
 workflow-type: tm+mt
 source-wordcount: '9336'
 ht-degree: 99%
@@ -79,7 +79,7 @@ ht-degree: 99%
             + [SEO – Optimieren spezifischer Seiten mit gezielten Keywords](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
             + [SEO – Entfernen eines Keywords](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
             + [SEO – Grundlegendes zu Keywords](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO – Anzeigen von Keyword-Ergebnissen in einer Suchmaschine &#x200B;](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
+            + [SEO – Anzeigen von Keyword-Ergebnissen in einer Suchmaschine ](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Seiten {#pages}
             + [SEO – Hinzufügen von Hinweisen zu Seitenproblemen](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
             + [SEO – Hinzufügen von Seiten](product-docs/additional-apps/seo/pages/seo-add-pages.md)
@@ -235,7 +235,7 @@ ht-degree: 99%
          + [Erstellen von Nur-API-Benutzenden](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-Mail-Überprüfung](product-docs/administration/users-and-roles/email-verification.md)
-         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen &#x200B;](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
+         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen ](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Verwalten von Marketo-Benutzenden](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Verwalten von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportieren von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -1307,7 +1307,7 @@ ht-degree: 99%
          + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Gewähren von Zugriff für Benutzende](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interessante Momente in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zu Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personen {#people}
@@ -1475,7 +1475,7 @@ ht-degree: 99%
          + Marketo {#marketo}
             + [Gewähren von Marketo-Zugriff für Benutzende](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interessante Momente in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar der Sales Insight Actions-Aktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
@@ -1972,7 +1972,7 @@ ht-degree: 99%
    + [Dynamic Chat-Version TEMP](release-notes/dynamic-chat-temp.md)
    + Frühere Versionen {#previous-releases}
       + 2026 {#2026}
-         + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2025/release-notes-jan-26.md)
+         + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + 2025 {#2025}
          + [Versionshinweise – Januar 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Versionshinweise – März 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
