@@ -40,4 +40,4 @@ Mit dem KI-Assistenten für Produktkenntnisse können Ihre Teams schneller arbei
 
 ## Schnellstart: 60-Sekunden-Videoübersicht {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480124?captions=ger&learn=on){transcript=true}
