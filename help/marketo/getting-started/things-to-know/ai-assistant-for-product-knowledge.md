@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
+source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Mit dem KI-Assistenten für Produktkenntnisse können Ihre Teams schneller arbei
 
 1. Melden Sie sich über die [Adobe Experience Cloud](https://experience.adobe.com/) bei Marketo Engage an.
 
-1. Wählen Sie das Symbol KI-Assistent in der Kopfzeile aus.
+1. Wählen Sie das Symbol KI-Assistent auf der rechten Seite der Kopfzeile aus.
 
    SCREENSHOT
 
-1. Geben Sie die gewünschte Eingabeaufforderung im Eingabeaufforderungsfenster in natürlicher Sprache ein.
+1. Geben Sie die gewünschte Eingabeaufforderung in natürlicher Sprache ein.
 
    SCREENSHOT
 
@@ -36,7 +36,7 @@ Mit dem KI-Assistenten für Produktkenntnisse können Ihre Teams schneller arbei
 
    >[!TIP]
    >
-   >Verwenden Sie dieses Symbol (Symbolbild hier), um den Bildschirm zu erweitern, und dieses Symbol (Symbolbild hier), um den Verlauf der Eingabeaufforderung anzuzeigen. &lt;— WIE WEIT ZURÜCK? GIBT ES EINE UMGEBUNG?
+   >Verwenden Sie dieses Symbol (Symbolbild hier), um den Bildschirm zu erweitern, und dieses Symbol (Symbolbild hier), um Ihren Verlauf anzuzeigen oder eine neue Konversation zu beginnen.
 
 ## Schnellstart: 60-Sekunden-Videoübersicht {#video}
 
