@@ -4,10 +4,10 @@ description: Programm importieren - Marketo-Dokumente - Produktdokumentation
 title: Importieren eines Programms
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 1%
+source-wordcount: '553'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,14 @@ Ein Programm kann von einem Marketo Engage-Abonnement in ein anderes importiert 
 
 >[!CAUTION]
 >
->Bei Programmen mit Smart Lists, die den Trigger „Benutzerdefiniertes Objekt wird aktualisiert“ enthalten, schlägt der Import fehl. Entfernen Sie diesen Trigger aus allen Smart Lists, bevor Sie die unten beschriebenen Schritte ausführen.
+>
+>* Beim Importieren eines Programms werden E-Mails/Landingpages, die Snippets oder [dynamische Inhalte](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} enthalten, übersprungen.
+>
+>* Bei Programmen mit Smart Lists, die den Trigger „Benutzerdefiniertes Objekt wird aktualisiert“ enthalten, schlägt der Import fehl. Entfernen Sie diesen Trigger aus allen Smart Lists, bevor Sie die unten beschriebenen Schritte ausführen.
 
 ## Programm importieren {#importing-a-program}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/import-a-program-1.png)
 
@@ -33,7 +36,7 @@ Ein Programm kann von einem Marketo Engage-Abonnement in ein anderes importiert 
    >
    >* Programm-Import ist nur für Benutzer verfügbar, die Rollen mit aktivierter Berechtigung „Programm importieren“ haben. Weitere Informationen zu [Verwalten von Benutzerrollen und Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >* Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Um ein Sandbox-Konto mit Ihrem Live-Abonnement zu verbinden, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
 
 1. Wählen Sie ein Marketo **[!UICONTROL Abonnement]** und ein zu importierendes Programm aus. Klicken Sie auf **[!UICONTROL Weiter]**.
 
@@ -82,7 +85,3 @@ Programme verwenden externe Assets wie E-Mail-Vorlagen, Landingpage-Vorlagen, Bi
 >Bildtyp Meine Token werden für Programmimporte nicht unterstützt. Wenn ein Programm mit dem Bildtyp Meine Token importiert wird, werden _keine_ Token angezeigt.
 
 **Programm-Tags:** Sie können Konfliktregeln verwenden, um zu steuern, wie Programm-Tags, die nicht im Zielkonto vorhanden sind, behandelt werden. Wenn Sie die Standardregel verwenden, werden die Programm-Tags erstellt. Sie können aber auch wählen, ob Sie die Tags ignorieren möchten.
-
->[!CAUTION]
->
->Beim Importieren eines Programms werden E-Mails/Landingpages mit [dynamischen &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}) übersprungen.
