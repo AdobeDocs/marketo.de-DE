@@ -4,9 +4,9 @@ description: Versionsplanung – Marketo-Dokumente – Produktdokumentation
 title: Versionsplanung
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 5255f550b8aefcaaec0403589bb9a798187e884e
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 91%
 
 ---
@@ -33,29 +33,24 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
    <th width="250px">Status</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">August 2025</a></td>
-   <td>22. August 2025</td>
-   <td>Abgeschlossen</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">September 2025</a></td>
    <td>19. September 2025</td>
    <td>Abgeschlossen</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">Oktober 2025</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-oct-25.md">Oktober 2025</a></td>
    <td>31. Oktober 2025</td>
    <td>Abgeschlossen</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Januar 2026</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-jan-26.md">Januar 2026</a></td>
    <td>30. Januar 2026</td>
    <td>In Bearbeitung</td>
   </tr>
   <tr>
-  <td>Februar 2026</td>
+  <td><a href="/help/marketo/release-notes/current.md">Februar 2026</a></td>
    <td>20. Februar 2026</td>
-   <td>Planmäßig</td>
+   <td>In Bearbeitung</td>
   </tr>
   <tr>
   <td>März 2026</td>
@@ -74,7 +69,12 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
   </tr>
   <tr>
   <td>Juni '26</td>
-   <td>26. Juni 2026</td>
+   <td>Samstag, 26. Juni 2026</td>
+   <td>Planmäßig</td>
+  </tr>
+  <tr>
+  <td>Juli '26</td>
+   <td>Samstag, 31. Juli 2026</td>
    <td>Planmäßig</td>
   </tr>
  </tbody>
