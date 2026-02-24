@@ -22,7 +22,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 
 >[!NOTE]
 >
->Dies gilt nur für Marketo Engage-Abonnements, die in das [Adobe Identity Management System (IMS) integriert ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Wenn Adobe IMS noch nicht in Ihr Abonnement integriert wurde, fahren Sie mit dem Erlebnis [Legacy-Benutzerrollen und -Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Admin > Benutzer und Rollen fort.
+>Dies gilt nur für Marketo Engage-Abonnements, die in das [Adobe Identity Management System (IMS) integriert &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Wenn Adobe IMS noch nicht in Ihr Abonnement integriert wurde, fahren Sie mit dem Erlebnis [Legacy-Benutzerrollen und -Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Admin > Benutzer und Rollen fort.
 
 <table>
  <tbody>
