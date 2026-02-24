@@ -4,10 +4,10 @@ description: Marketo-Anmeldungen auf Basis von IP beschränken - Marketo-Dokumen
 title: Beschränken von Marketo-Anmeldungen auf Grundlage von IP-Adressen
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -17,16 +17,16 @@ Sie können den Zugriff von Benutzenden auf Marketo anhand ihrer IP-Adressen ein
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC) unterstützt [IP-basierte Zugriffssteuerung](https://helpx.adobe.com/de/enterprise/using/ip-based-access.html){target="_blank"}. Um einen reibungslosen Übergang zu gewährleisten, werden bestehende IP-Beschränkungen für Marketo Engage aktiv, einschließlich Adobe ID-Benutzender bis zum 1. Quartal 2026 in Abonnements, in denen diese Funktion aktiviert ist.
+>Adobe Admin Console (AAC) unterstützt [IP-basierte Zugriffssteuerung](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Um einen reibungslosen Übergang zu gewährleisten, werden bestehende IP-Beschränkungen für Marketo Engage aktiv, einschließlich Adobe ID-Benutzender bis zum 1. Quartal 2027 in Abonnements, in denen diese Funktion aktiviert ist.
 >
 >* Sie können den AAC-IP-basierten Zugriff jederzeit konfigurieren.
 >* Einschränkungen von AAC und Marketo Engage können gleichzeitig ausgeführt werden. Verwenden Sie dieselbe IP-Zulassungsliste für Kompatibilität.
 >
->Nach dem 1. Quartal 2026 werden Marketo Engage-IP-Beschränkungen eingestellt. Der IP-basierte Zugriff wird ausschließlich über AAC verwaltet und muss so konfiguriert sein, dass Anmeldebeschränkungen erzwungen werden. Ein endgültiges Übergangsdatum wird zu einem späteren Zeitpunkt bekannt gegeben.
+>Nach dem 1. Quartal 2027 werden Marketo Engage-IP-Beschränkungen eingestellt. Der IP-basierte Zugriff wird ausschließlich über AAC verwaltet und muss so konfiguriert sein, dass Anmeldebeschränkungen erzwungen werden. Ein endgültiges Übergangsdatum wird zu einem späteren Zeitpunkt bekannt gegeben.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
