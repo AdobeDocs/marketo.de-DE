@@ -3,7 +3,7 @@ description: Adobe Experience Platform-Segment in eine statische Marketo-Liste p
 title: Pushen eines Adobe Experience Platform-Segments in eine statische Marketo-Liste
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 3%
@@ -17,7 +17,7 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 >[!PREREQUISITES]
 >
 >* [Bearbeiten Sie die API-Rolle](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} um sicherzustellen, dass sie über die Berechtigung **Person lesen/schreiben** verfügt (finden Sie in der Dropdown-Liste „Zugriff-API„).
->* [Erstellen eines API-](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} in Marketo.
+>* [Erstellen eines API-](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} in Marketo.
 >* Navigieren Sie **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Suchen Sie den Namen der soeben erstellten Rolle und klicken Sie auf **[!UICONTROL Details]**. Kopieren Sie die Informationen in **[!UICONTROL Client-ID]** und **[!UICONTROL Client-Geheimnis]**, da Sie sie für Schritt 7 benötigen könnten.
 >* Erstellen Sie in Marketo eine statische Liste oder suchen und wählen Sie eine bereits erstellte Liste aus. Sie benötigen dessen ID.
 
@@ -99,7 +99,7 @@ Mit dieser Funktion können Sie Segmente, die sich in Ihrer Adobe Experience Pla
 
    >[!NOTE]
    >
-   >Sie können Attribute aus Experience Platform jedem der Attribute zuordnen, auf die Ihr Unternehmen in Marketo Engage Zugriff hat. Verwenden Sie die [API-Anfrage beschreiben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} um Attributfelder abzurufen, auf die Ihre Organisation Zugriff hat.
+   >Sie können Attribute aus Experience Platform jedem der Attribute zuordnen, auf die Ihr Unternehmen in Marketo Engage Zugriff hat. Verwenden Sie die [API-Anfrage beschreiben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} um Attributfelder abzurufen, auf die Ihre Organisation Zugriff hat.
 
 1. Ordnen Sie den Nachnamen und den Firmennamen zu, indem Sie erneut auf **[!UICONTROL Neue Zuordnung hinzufügen]** klicken und Schritt 15 zweimal wiederholen. Wählen Sie **[!UICONTROL lastName]** und dann **[!UICONTROL companyName]** aus.
 
