@@ -3,10 +3,10 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
+source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 60%
+source-wordcount: '306'
+ht-degree: 58%
 
 ---
 
@@ -43,6 +43,26 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
+   <td><strong>E-Mail-Designer - API</strong>: Sie können jetzt API-Aufrufe für die E-Mail-Designer verwenden.</td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-Mail an Designer - Marken verwalten (Betaversion)</strong>: Generieren Sie E-Mail-Inhalte basierend auf den spezifischen Richtlinien Ihres Unternehmens/Ihrer Marke zum Schreiben von Kopien.</td>
+   <td><i>Demnächst verfügbar</i></td>
+   <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>E-Mail Designer - Brand Quality Checker</strong>: Bewerten Sie die allgemeine Inhaltsqualität, um mögliche Probleme mit Lesbarkeit, Inhaltskohärenz und Effektivität unabhängig von Ihren Markenrichtlinien zu identifizieren.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
@@ -54,16 +74,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer - KI-Assistenten für die </strong>: Jetzt können Sie zusätzlich zu Firefly auch Nano-Bananenmodelle verwenden, um mit dem KI-Assistenten Bilder für E-Mail-Inhalte zu generieren.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - API</strong>: Sie können jetzt API-Aufrufe für die E-Mail-Designer verwenden.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
