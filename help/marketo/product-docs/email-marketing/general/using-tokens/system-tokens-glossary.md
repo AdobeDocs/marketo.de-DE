@@ -4,9 +4,9 @@ description: Glossar zu System-Token - Marketo-Dokumente - Produktdokumentation
 title: Glossar zu System-Token
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bf420edcc79aa551e286302fa002df9162371873
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---
@@ -51,14 +51,6 @@ Das `{{system.dateTime}}`-Token rendert das aktuelle Datum und die aktuelle Uhrz
 * [Interessanter Moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} Flussschritt
 * [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} Flussschritt
 * Der Textkörper einer E-Mail oder Vorlage
-
-## system.forwardToFriendLink {#system-forwardtofriendlink}
-
-Mit dem `{{system.forwardToFriendLink}}`-Token können Sie die Platzierung des [&#39;Weiterleiten an einen Freund-Link&#39; in E-Mails &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}.
-
-**Funktioniert in:**
-
-* [Hinzufügen eines System-Tokens als Link in einer E](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}Mail oder Vorlage
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
