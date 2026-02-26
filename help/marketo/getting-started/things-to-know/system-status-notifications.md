@@ -4,7 +4,8 @@ title: Abonnieren von Systemstatusbenachrichtigungen
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
+exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
+source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 1%
@@ -35,7 +36,7 @@ Im Feld _Rechenzentrum_ sind die Buchstaben das Rechenzentrum und die Zahlen der
 
 In Schritt 7 von [Abonnement erstellen](#create-a-subscription) wählt dieser Benutzer den regionalen Speicherort **Marketo Ashburn** und Pod **ab49**.
 
-<table style="width:225px;">
+<table style="width:300px;">
   <tr>
     <th colspan="2">Abkürzungen für Rechenzentren</th>
   </tr>
@@ -85,7 +86,7 @@ Nachdem Sie [Ihr Rechenzentrum und Ihren Pod/Server identifiziert](#identify), f
 
 1. Klicken Sie auf das ![Pluszeichen](assets/icon-plus-sign.png)-Symbol neben _Experience Cloud_, um das Menü zu erweitern. Tun Sie dasselbe für _Adobe Marketo Engage_.
 
-   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
 1. Wählen Sie die gewünschten Produktangebote/Services aus, zu denen Sie Benachrichtigungen erhalten möchten, und klicken Sie auf **Weiter**.
 
@@ -93,7 +94,7 @@ Nachdem Sie [Ihr Rechenzentrum und Ihren Pod/Server identifiziert](#identify), f
    >
    >Aktivieren Sie _Adobe Marketo Engage_, um alle auszuwählen.
 
-   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800"}
 
 1. Auswählen der gewünschten Ereignistypen.
 
@@ -101,26 +102,26 @@ Nachdem Sie [Ihr Rechenzentrum und Ihren Pod/Server identifiziert](#identify), f
 
    <table style="width:600px;">
    <tr>
-   <td style="width:30%;"><b>Hauptdienstproblem</b></td>
+   <td style="width:40%;"><b>Hauptdienstproblem</b></td>
    <td>Nicht verfügbare Services oder erhebliche Leistungseinbußen für mehrere Benutzer von Produktionssystemen.</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Geringfügiger Service-Fehler</b></td>
+   <td style="width:40%;"><b>Geringfügiger Service-Fehler</b></td>
    <td>Partielle Dienstausfälle oder mäßige Leistungseinbußen für mehrere Benutzer auf Produktionssystemen.</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Wartungsdienst</b></td>
+   <td style="width:40%;"><b>Wartungsdienst</b></td>
    <td>Text</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Ankündigungen</b></td>
+   <td style="width:40%;"><b>Ankündigungen</b></td>
    <td>Ankündigungen zu…</td>
    </tr>
    </table>
 
 1. Wählen Sie die gewünschte regionale Position und Umgebung aus. Klicken Sie auf **Fortfahren**.
 
-   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
 
 1. Wählen Sie Ihre Abonnementvoreinstellung (E **Mail** oder **Slack** und klicken Sie auf **Weiter**.
 
