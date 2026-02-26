@@ -4,7 +4,7 @@ title: Abonnieren von Systemstatusbenachrichtigungen
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 1%
@@ -85,7 +85,7 @@ Nachdem Sie [Ihr Rechenzentrum und Ihren Pod/Server identifiziert](#identify), f
 
 1. Klicken Sie auf das ![Pluszeichen](assets/icon-plus-sign.png)-Symbol neben _Experience Cloud_, um das Menü zu erweitern. Tun Sie dasselbe für _Adobe Marketo Engage_.
 
-   ![](assets/subscribe-to-system-status-notifications-6.png)
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
 
 1. Wählen Sie die gewünschten Produktangebote/Services aus, zu denen Sie Benachrichtigungen erhalten möchten, und klicken Sie auf **Weiter**.
 
@@ -93,7 +93,7 @@ Nachdem Sie [Ihr Rechenzentrum und Ihren Pod/Server identifiziert](#identify), f
    >
    >Aktivieren Sie _Adobe Marketo Engage_, um alle auszuwählen.
 
-   ![](assets/subscribe-to-system-status-notifications-7.png)
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
 
 1. Auswählen der gewünschten Ereignistypen.
 
@@ -120,7 +120,7 @@ Nachdem Sie [Ihr Rechenzentrum und Ihren Pod/Server identifiziert](#identify), f
 
 1. Wählen Sie die gewünschte regionale Position und Umgebung aus. Klicken Sie auf **Fortfahren**.
 
-   ![](assets/subscribe-to-system-status-notifications-9.png)
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
 
 1. Wählen Sie Ihre Abonnementvoreinstellung (E **Mail** oder **Slack** und klicken Sie auf **Weiter**.
 
