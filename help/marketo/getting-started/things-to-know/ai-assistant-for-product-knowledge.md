@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ Mit dem KI-Assistenten für Produktkenntnisse können Ihre Teams schneller arbei
    >
    >Verwenden Sie dieses Symbol ![](assets/icon-arrows.png), um den Bildschirm zu erweitern. Dieses Symbol ![](assets/icon-conversation-history.png), um Ihren Verlauf anzuzeigen oder eine neue Konversation zu beginnen.
 
-## Schnellstart: 60-Sekunden-Videoübersicht {#video}
+## Schnellstart: Videoübersicht {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480124?captions=ger&learn=on){transcript=true}
+Hier erfahren Sie, wie der KI-Assistent für Produktkenntnisse in etwa einer Minute funktioniert.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}

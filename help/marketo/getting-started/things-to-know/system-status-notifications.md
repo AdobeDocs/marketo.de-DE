@@ -2,12 +2,10 @@
 description: Abonnieren von Systemstatusbenachrichtigungen - Marketo Engage-Dokumente - Produktdokumentation
 title: Abonnieren von Systemstatusbenachrichtigungen
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 1%
 
 ---
@@ -22,8 +20,6 @@ Erfahren Sie, wie Sie verschiedene Statusbenachrichtigungen abonnieren, um über
 
 ## Identifizieren des Rechenzentrums {#identify}
 
-+++Identifizieren von Rechenzentrum und Pod/Server
-
 1. Klicken Sie im **Admin** von Marketo Engage auf **Mein Konto**.
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -34,39 +30,19 @@ Erfahren Sie, wie Sie verschiedene Statusbenachrichtigungen abonnieren, um über
 
 Im Feld _Rechenzentrum_ sind die Buchstaben das Rechenzentrum und die Zahlen der Pod. Im obigen Beispiel befindet sich der Benutzer in unserem Ashburn-Rechenzentrum auf Pod 49.
 
-In Schritt 7 von [Abonnement erstellen](#create-a-subscription) wählt dieser Benutzer den regionalen Speicherort **Marketo Ashburn** und Pod **ab49**.
+In Schritt 7 von [im folgenden Abschnitt](#create-a-subscription) wählt dieser Benutzer den regionalen Speicherort **Marketo Ashburn** und Pod **ab49**.
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">Abkürzungen für Rechenzentren</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">AB</td>
-    <td>aschbrennen</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">SJ</td>
-    <td>San Jose</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">Sn</td>
-    <td>Sydney</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">Lon</td>
-    <td>London</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">NLD</td>
-    <td>Amsterdam</td>
-  </tr>
-</table>
+**Abkürzungen für Rechenzentren**
+
+In: Ashburn
+San Jose
+SN: Sydney
+London: London
+NLD: Amsterdam
 
 >[!TIP]
 >
 >Mit dieser Methode kann auch ermittelt werden, in welchem Real-Time Personalization (RTP)-Pod/Server sich Ihr Abonnement befindet.
-
-+++
 
 ## Abonnement erstellen {#create-a-subscription}
 
