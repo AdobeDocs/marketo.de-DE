@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
+source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,20 @@ Mit dem KI-Assistenten für Produktkenntnisse können Ihre Teams schneller arbei
 
 1. Wählen Sie das Symbol KI-Assistent auf der rechten Seite der Kopfzeile aus.
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-1.png)
 
 1. Geben Sie die gewünschte Eingabeaufforderung in natürlicher Sprache ein.
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-2.png)
 
 1. Klicken Sie auf den blauen Pfeil, um die Eingabeaufforderung zu senden.
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-3.png)
 
    >[!TIP]
    >
-   >Verwenden Sie dieses Symbol (Symbolbild hier), um den Bildschirm zu erweitern, und dieses Symbol (Symbolbild hier), um Ihren Verlauf anzuzeigen oder eine neue Konversation zu beginnen.
+   >Verwenden Sie dieses Symbol ![](assets/icon-arrows.png), um den Bildschirm zu erweitern. Dieses Symbol ![](assets/icon-conversation-history.png), um Ihren Verlauf anzuzeigen oder eine neue Konversation zu beginnen.
 
 ## Schnellstart: 60-Sekunden-Videoübersicht {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480124?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
