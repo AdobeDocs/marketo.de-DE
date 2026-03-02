@@ -42,4 +42,4 @@ Mit dem KI-Assistenten für Produktkenntnisse können Ihre Teams schneller arbei
 
 Hier erfahren Sie, wie der KI-Assistent für Produktkenntnisse in etwa einer Minute funktioniert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480124?captions=ger&learn=on){transcript=true}
