@@ -3,7 +3,7 @@ description: Abonnieren von Systemstatusbenachrichtigungen - Marketo Engage-Doku
 title: Abonnieren von Systemstatusbenachrichtigungen
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 1%
@@ -30,15 +30,15 @@ Erfahren Sie, wie Sie verschiedene Statusbenachrichtigungen abonnieren, um über
 
 Im Feld _Rechenzentrum_ sind die Buchstaben das Rechenzentrum und die Zahlen der Pod. Im obigen Beispiel befindet sich der Benutzer in unserem Ashburn-Rechenzentrum auf Pod 49.
 
-In Schritt 7 von [im folgenden Abschnitt](#create-a-subscription) wählt dieser Benutzer den regionalen Speicherort **Marketo Ashburn** und Pod **ab49**.
+In Schritt 7 von [im folgenden Abschnitt](#create-a-subscription) wählt der Benutzer den regionalen Speicherort **Marketo Ashburn** und Pod **ab49**.
 
 **Abkürzungen für Rechenzentren**
 
-In: Ashburn
-San Jose
-SN: Sydney
-London: London
-NLD: Amsterdam
+* In: Ashburn
+* San Jose
+* SN: Sydney
+* London: London
+* NLD: Amsterdam
 
 >[!TIP]
 >
