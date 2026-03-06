@@ -55,7 +55,7 @@ Mithilfe der Drilldown-Liste „Seitendetails“ können Sie eine Vielzahl von I
 
 ## [!UICONTROL Keyword(s), für den diese Seite optimiert ist]  {#keyword-s-that-page-is-optimized-for}
 
-Hier [ Sie (wählen Sie das Keyword aus, für das Sie Ihre Seite optimieren möchten](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Hier [&#x200B; Sie (wählen Sie das Keyword aus, für das Sie Ihre Seite optimieren möchten](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
