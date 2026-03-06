@@ -44,7 +44,7 @@ Die Support-Migration erfolgt für alle Abonnements nach Abschluss der Benutzerm
 
 * Weitere Informationen zur Anmeldung bei Marketo Engage mit einem Adobe ID [finden Sie hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* Weitere Informationen zu [Adobe Experience League](https://experienceleague.adobe.com/?lang=de){target="_blank"}.
+* Weitere Informationen zu [Adobe Experience League](https://experienceleague.adobe.com/de?lang=de){target="_blank"}.
 
 ## Haben Sie noch Fragen? {#still-have-questions}
 

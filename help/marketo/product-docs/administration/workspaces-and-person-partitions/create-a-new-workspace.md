@@ -30,7 +30,7 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
 >[!TIP]
 >
->Weitere Informationen zu Best Practices für Workspace erhalten Sie von [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Weitere Informationen zu Best Practices für Workspace erhalten Sie von [Marketo Professional Services](https://business.adobe.com/de/products/marketo/services-support.html){target="_blank"}.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
