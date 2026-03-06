@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360215
-description: Aktivieren personalisierter URLs für Ihr Konto - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Aktivieren personalisierter URLs für Ihr Abonnement zur Verwendung in Print-Mails und anderen Kampagnen.
 title: Aktivieren personalisierter URLs für Ihr Konto
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 17%
+source-wordcount: '98'
+ht-degree: 19%
 
 ---
 
@@ -17,7 +17,7 @@ Personalisierte URLs eignen sich hervorragend für Print-E-Mail-Kampagnen.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

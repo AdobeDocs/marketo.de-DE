@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360309
-description: Grundlagen zu Arbeitsbereichen und Personenpartitionen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Arbeitsbereiche Marketing-Assets organisieren und wie Personenpartitionen als separate Datenbanken fungieren.
 title: Grundlegendes zu Arbeitsbereichen und Personen-Partitionen
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 5%
+source-wordcount: '540'
+ht-degree: 97%
 
 ---
 
@@ -17,74 +17,74 @@ ht-degree: 5%
 
 >[!CAUTION]
 >
->Die Einrichtung von Arbeitsbereichen kann komplex sein. Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support)Support, um herauszufinden, ob er für Sie geeignet ist.
+>Die Einrichtung von Arbeitsbereichen kann komplex sein. Wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de), um herauszufinden, ob Arbeitsbereiche für Sie geeignet sind.
 
-Arbeitsbereiche sind separate Bereiche in Marketo, die Marketing-Assets wie Programme, Landingpages, E-Mails und mehr enthalten. Sie können von mehreren Personen verwendet werden. Jeder Benutzer hat Zugriff auf einen oder mehrere Arbeitsbereiche.
+Arbeitsbereiche sind separate Bereiche in Marketo, die Marketing-Assets wie Programme, Landingpages, E-Mails und mehr enthalten. Sie können von mehreren Personen verwendet werden. Alle Benutzenden haben Zugriff auf einen oder mehrere Arbeitsbereiche.
 
 >[!NOTE]
 >
 >**Beispiel**
 >
->Einige Gründe, warum Sie einen Arbeitsbereich verwenden könnten:
+>Einige Gründe für die Verwendung eines Arbeitsbereichs:
 >
 >* Geografie: Marketing-Abteilungen in Europa, Asien und Nordamerika erhalten jeweils einen Arbeitsbereich
 >* Geschäftseinheit: [!DNL Quicken], [!DNL Quickbooks] und [!DNL TurboTax] erhalten jeweils einen Arbeitsbereich
 >
->Die Trennung ist in jedem Fall darauf zurückzuführen, dass die Marketing-Assets völlig unterschiedlich sind. Wenn sie Marketing-Assets gemeinsam nutzen, sind Workspaces möglicherweise nicht das richtige Tool für Sie.
+>Eine Trennung ist in jedem Fall notwendig, wenn die Marketing-Assets völlig unterschiedlich sind. Wenn sie jedoch dieselben Marketing-Assets nutzen, sind Arbeitsbereiche möglicherweise nicht das richtige Tool für Sie.
 
 >[!NOTE]
 >
 >Erfahren Sie, wie Sie [einen neuen Arbeitsbereich erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
-## Über Arbeitsbereiche hinweg freigeben {#sharing-across-workspaces}
+## Freigeben über Arbeitsbereiche hinweg {#sharing-across-workspaces}
 
-So geben Sie Assets über Arbeitsbereiche hinweg frei. Es funktioniert für alles, was Sie freigeben möchten, genauso. Dieses Beispiel zeigt Segmentierungen.
+Im Folgenden erfahren Sie, wie Sie Assets über Arbeitsbereiche hinweg freigeben. Die Freigabe funktioniert für alle Assets gleich. Dieses Beispiel behandelt Segmentierungen.
 
 >[!NOTE]
 >
->Der übergeordnete Ordner, der Ihre Assets enthält, ist der einzige Ordner, der freigegeben werden kann, nicht die untergeordneten Ordner.
+>Der übergeordnete Ordner mit den Assets ist der einzige Ordner, der freigegeben werden kann. Die untergeordneten Ordner können nicht freigegeben werden.
 
 1. Klicken Sie auf **[!UICONTROL Datenbank]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner Segmentierung und dann auf **[!UICONTROL Neuer Ordner]**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner „Segmentierung“ und klicken Sie dann auf **[!UICONTROL Neuer Ordner]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Benennen Sie Ihren Ordner und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Benennen Sie den Ordner und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
-1. Verschieben Sie die Assets, die Sie freigeben möchten, in den Ordner .
+1. Verschieben Sie die freizugebenden Assets in den Ordner.
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner freigeben]**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner freigeben]** aus.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten, und klicken Sie auf **[!UICONTROL Speichern]**. Im Dialogfeld Ordner freigeben werden nur Arbeitsbereiche angezeigt, für die Sie über Anzeigeberechtigungen verfügen.
+1. Wählen Sie die Arbeitsbereiche aus, für die Sie den Ordner freigeben möchten, und klicken Sie auf **[!UICONTROL Speichern]**. Im Dialogfeld „Ordner freigeben“ werden nur Arbeitsbereiche angezeigt, für die Sie über Anzeigeberechtigungen verfügen.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
    >[!NOTE]
    >
-   >Der Ursprungsordner weist nun einen kleinen grünen Pfeil auf, der anzeigt, dass er freigegeben wurde. In dem freigegebenen Arbeitsbereich verfügt der Ordner über ein Vorhängeschloss, das Schreibschutz anzeigt.
+   >Am Ursprungsordner wird nun ein kleiner grüner Pfeil angezeigt, der darauf hinweist, dass der Ordner freigegeben wurde. Am im Arbeitsbereich freigegebenen Ordner wird ein Vorhängeschloss angezeigt, das darauf hinweist, dass der Ordner schreibgeschützt ist.
 
 Sie können diese Elemente über Arbeitsbereiche hinweg freigeben.
 
 * E-Mail-Vorlagen
-* Landing Page-Vorlagen
+* Landingpage-Vorlagen
 * Modelle
 * Intelligente Kampagnen
-* [Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [Intelligente Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
 * [Segmentierungen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Ausschnitte
 
-## Klonen von Arbeitsbereichen {#cloning-across-workspaces}
+## Klonen über Arbeitsbereiche hinweg {#cloning-across-workspaces}
 
-Für Assets, die keine Vorlagen sind, ist es am besten, sie als lokale Assets innerhalb eines Programms zu klonen. Mit der richtigen Zugriffsebene können Sie diese Assets per Drag-and-Drop in einen anderen Arbeitsbereich ziehen:
+Assets, die keine Vorlagen sind, sollten am besten als lokale Assets in einem Programm geklont werden. Über die richtige Zugriffsebene können Sie diese Assets per Drag-and-Drop in einen anderen Arbeitsbereich ziehen:
 
 * Programme
 * E-Mails
@@ -93,11 +93,11 @@ Für Assets, die keine Vorlagen sind, ist es am besten, sie als lokale Assets in
 
 >[!IMPORTANT]
 >
->Alle oben aufgeführten Elemente können zum Zeitpunkt des Klonens über Arbeitsbereiche, E-Mails, Formulare und Landingpages hinweg geklont werden _müssen sich_ in einem Programm befinden).
+>Alle oben aufgeführten Elemente können über Arbeitsbereiche hinweg geklont werden. E-Mails, Formulare und Landingpages müssen sich zum Zeitpunkt des Klonens jedoch _in einem Programm befinden_.
 
 >[!NOTE]
 >
->Beim Klonen von Assets mit Vorlagen müssen diese Vorlagen für den Ziel-Arbeitsbereich freigegeben werden.
+>Beim Klonen von Assets mit Vorlagen müssen diese Vorlagen für den Zielarbeitsbereich freigegeben sein.
 
 ## Verschieben von Assets in andere Arbeitsbereiche {#moving-assets-to-other-workspaces}
 
@@ -105,29 +105,29 @@ Um Assets in einen neuen Arbeitsbereich zu verschieben, legen Sie sie in einem O
 
 >[!NOTE]
 >
->Sie können ein Programm, das Mitglieder enthält, nicht von einem Arbeitsbereich in einen anderen verschieben.
+>Sie können ein Programm mit Mitgliedern nicht von einem Arbeitsbereich in einen anderen verschieben.
 
 ## Personen-Partitionen {#person-partitions}
 
-Personenpartitionen funktionieren wie separate Datenbanken. Jede Partition hat ihre eigenen Leute, die nicht deduplizieren oder mit anderen Partitionen mischen. Wenn Sie der Meinung sind, dass ein geschäftlicher Anwendungsfall vorliegt, bei dem doppelte Einträge mit derselben E-Mail-Adresse erforderlich sein können, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+Personen-Partitionen funktionieren wie separate Datenbanken. Jede Partition enthält ihre eigenen Personen, die nicht dedupliziert oder mit anderen Partitionen vermischt werden. Wenn Sie der Meinung sind, dass ein geschäftlicher Anwendungsfall vorliegt, bei dem doppelte Einträge mit derselben E-Mail-Adresse erforderlich sein können, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
 
-Sie können Personenpartitionen in [Arbeitsbereichen](create-a-new-workspace.md) in den folgenden Konfigurationen zuweisen:
+Sie können Personen-Partitionen [Arbeitsbereichen](create-a-new-workspace.md) in den folgenden Konfigurationen zuweisen:
 
-* Eine Workspace-zu-1-Personen-Partition (1:1)
-* Ein Arbeitsbereich für viele Personenpartitionen (1:x)
-* Viele Arbeitsbereiche zu einer Personenpartition (x:1)
+* ein Arbeitsbereich für eine Personen-Partition (1:1)
+* ein Arbeitsbereich für viele Personen-Partitionen (1:x)
+* viele Arbeitsbereiche für eine Personen-Partition (x:1)
 
 >[!NOTE]
 >
->Gründe für die Verwendung einer Personenpartition:
+>Gründe für die Verwendung einer Personen-Partition:
 >
->* Ihre Arbeitsbereiche verfügen nicht nur über verschiedene Assets, sondern geben auch keine Personen frei
+>* Ihre Arbeitsbereiche verfügen über verschiedene Assets und enthalten auch keine gleichen Personen
 >* Duplikate werden aus anderen geschäftlichen Gründen gewünscht
 
 >[!CAUTION]
 >
->Personenpartitionen interagieren nicht miteinander, daher sollten Sie beim Einrichten vorsichtig sein.
+>Personen-Partitionen interagieren nicht miteinander, daher sollten Sie bei ihrer Einrichtung sorgfältig vorgehen.
 
 >[!NOTE]
 >
->Erfahren Sie, wie [eine Personenpartition erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
+>Erfahren Sie, wie Sie [eine Personen-Partition erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).

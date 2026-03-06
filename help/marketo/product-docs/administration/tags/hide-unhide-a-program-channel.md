@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360276
-description: Ein-/Ausblenden eines Programmkanals - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Ausblenden eines Programmkanals, wenn er verwendet wird, oder zum Einblenden mithilfe des Kontrollkästchens Ausgeblendet anzeigen.
 title: Ein-/Ausblenden eines Programmkanals
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '114'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Sie können [Programmkanal löschen](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) wenn er nicht von einem Programm verwendet wird.  Sobald es jedoch verwendet wird, müssen wir es dort halten.  Sie können sie jedoch ausblenden, wenn Sie sie nicht mehr benötigen.
 

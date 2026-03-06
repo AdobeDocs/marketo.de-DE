@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359906
-description: Verwalten von Marketo-Benutzern - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Erstellen und Löschen von Benutzern, Zurücksetzen von Kennwörtern und Bearbeiten von Benutzerinformationen und -berechtigungen für Abonnements, die keine Adobe Identity verwenden.
 title: Verwalten von Marketo-Benutzenden
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '415'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->Dieser Artikel ist nur für diejenigen gedacht, die {_}Marketo_ Adobe Identity verwenden[. &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} Wenn Sie dies tun, befolgen Sie bitte die Schritte in [diesem Artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Dieser Artikel ist nur für diejenigen gedacht, die {_}Marketo_ Adobe Identity verwenden[. ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} Wenn Sie dies tun, befolgen Sie bitte die Schritte in [diesem Artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## Benutzer erstellen {#create-users}
 

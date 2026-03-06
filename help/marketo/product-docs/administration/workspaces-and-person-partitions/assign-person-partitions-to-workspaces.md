@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360317
-description: Zuweisen von Personenpartitionen zu Arbeitsbereichen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie bearbeiten können, welche Personenpartitionen einem Arbeitsbereich zugewiesen sind.
 title: Zuweisen von Personen-Partitionen zu Arbeitsbereichen
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 8%
+source-wordcount: '140'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ So bearbeiten Sie die Zuweisungen für die Personenpartition/den Arbeitsbereich:
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ So bearbeiten Sie die Zuweisungen für die Personenpartition/den Arbeitsbereich:
 
 >[!CAUTION]
 >
->Arbeitsbereiche und Personenpartitionen können komplex sein. Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}Support, um Hilfe bei der Einrichtung zu erhalten.
+>Arbeitsbereiche und Personenpartitionen können komplex sein. Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}Support, um Hilfe bei der Einrichtung zu erhalten.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360281
-description: Löschen eines Programmkanals - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Löschen eines Programmkanals, wenn er mit keinem Programm verknüpft ist, oder zum Ausblenden, wenn er verwendet wird.
 title: Löschen eines Programmkanals
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 8%
+source-wordcount: '104'
+ht-degree: 7%
 
 ---
 

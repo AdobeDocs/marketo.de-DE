@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848782
-description: Machen Sie Ihre Abmelde-Nachricht dynamisch für Sprachen - Marketo-Dokumente - Produktdokumentation
+description: Verwenden Sie dynamische Inhalte und Segmentierung , um die Abmeldenachricht und den Link in verschiedenen Sprachen anzuzeigen.
 title: Dynamisches Gestalten Ihrer Abmeldenachricht für Sprachen
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '495'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
 ## Daten vorbereiten {#prepare-your-data}
 
-1. [Erstellen Sie ein benutzerdefiniertes Feld &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) dem Namen „Bevorzugte Sprache“. (Richten Sie es in Ihrem CRM ein, wenn Sie dieses Feld synchronisieren möchten).
+1. [Erstellen Sie ein benutzerdefiniertes Feld ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) dem Namen „Bevorzugte Sprache“. (Richten Sie es in Ihrem CRM ein, wenn Sie dieses Feld synchronisieren möchten).
 
    >[!TIP]
    >

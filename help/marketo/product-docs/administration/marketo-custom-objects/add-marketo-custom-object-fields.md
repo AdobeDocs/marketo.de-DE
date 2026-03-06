@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093688
-description: Hinzufügen benutzerdefinierter Marketo-Objektfelder - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Hinzufügen von Feldern zu einem benutzerdefinierten Objekt, einschließlich Anzeigename, Beschreibung und Datentyp.
 title: Hinzufügen von benutzerdefinierten Marketo-Objektfeldern
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '299'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Nachdem Sie ein benutzerdefiniertes Objekt erstellt haben, müssen Sie diesem Felder hinzufügen, um Ihre Geschäftsanforderungen zu erfüllen.
 
-Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder haben einen speziellen Auftrag zum Verbinden benutzerdefinierter Objekte und werden in einem [&#x200B; Artikel &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder haben einen speziellen Auftrag zum Verbinden benutzerdefinierter Objekte und werden in einem [ Artikel ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -61,7 +61,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
 
    >[!NOTE]
    >
-   >Wenn Sie eine Eins-zu-viele-Struktur erstellen, müssen Sie ein Verknüpfungsfeld zu Ihrem benutzerdefinierten Objekt hinzufügen. Bei einer n:n-Struktur benötigen Sie kein Verknüpfungsfeld im benutzerdefinierten Objekt, Sie müssen jedoch zwei Verknüpfungsfelder im Zwischenobjekt hinzufügen. Weitere Informationen [&#x200B; Typen benutzerdefinierter Objekte finden Sie unter „Hinzufügen benutzerdefinierter Objektverknüpfungsfelder &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) Marketo&quot;, um die Verknüpfungsfelder zu erstellen, und [Grundlegendes zu benutzerdefinierten Objekten &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) Marketo&quot;.
+   >Wenn Sie eine Eins-zu-viele-Struktur erstellen, müssen Sie ein Verknüpfungsfeld zu Ihrem benutzerdefinierten Objekt hinzufügen. Bei einer n:n-Struktur benötigen Sie kein Verknüpfungsfeld im benutzerdefinierten Objekt, Sie müssen jedoch zwei Verknüpfungsfelder im Zwischenobjekt hinzufügen. Weitere Informationen [ Typen benutzerdefinierter Objekte finden Sie unter „Hinzufügen benutzerdefinierter Objektverknüpfungsfelder ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) Marketo&quot;, um die Verknüpfungsfelder zu erstellen, und [Grundlegendes zu benutzerdefinierten Objekten ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) Marketo&quot;.
 
 >[!MORELIKETHIS]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377406
-description: Bearbeiten der Standard-Branding-Domain mit Arbeitsbereichen - Marketo-Dokumente - Produktdokumentation
+description: Ändern Sie bei der Verwendung von Arbeitsbereichen in Marketo die generische Branding-Domain in Ihre Unternehmens-Domain.
 title: Bearbeiten Ihrer standardmäßigen Branding-Domain mit Arbeitsbereichen
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 10%
+source-wordcount: '157'
+ht-degree: 11%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 10%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Tabelle „Branding]Domains“ die aktuelle generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie in die Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die aktuelle generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie in die Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 

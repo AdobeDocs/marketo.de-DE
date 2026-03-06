@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360344
-description: Anzeigen von Feldzuordnungen zwischen Marketo und  [!DNL Salesforce]  - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie  [!DNL Salesforce]  Admin-Feldverwaltung anzeigen können, welche -Felder den Marketo-Feldern zugeordnet sind.
 title: Anzeigen von Feldzuordnungen zwischen Marketo und  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Möglicherweise möchten Sie wissen, mit welchen [!DNL Salesforce] ein bestimmte
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

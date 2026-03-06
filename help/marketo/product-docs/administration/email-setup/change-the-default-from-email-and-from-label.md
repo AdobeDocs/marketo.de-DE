@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360247
-description: Ändern des Standardtitels „Von E-Mail“ und „Von“ - Marketo-Dokumente - Produktdokumentation
+description: Legen Sie die Standardwerte für „Von E-Mail“ und „Von Kennzeichnung“ für neue E-Mails als Admin-Benutzer fest.
 title: Ändern der Standardbeschriftungen „Von E-Mail“ und „Von“
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 14%
+source-wordcount: '115'
+ht-degree: 18%
 
 ---
 
@@ -17,7 +17,7 @@ Jeder Admin-Benutzer kann die Standardwerte für &quot;**[!UICONTROL -E-Mail]** 
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Admin]**.
 

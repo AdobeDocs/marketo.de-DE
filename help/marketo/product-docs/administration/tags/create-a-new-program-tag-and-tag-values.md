@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360272
-description: Erstellen eines neuen Programms mit Tag- und Tag-Werten - Marketo-Dokumente - Produktdokumentation
+description: Erstellen eines benutzerdefinierten Programm-Tags und Zuweisen von Werten, Auswählen von Programmtypen und Festlegen des Tags, das beim Erstellen neuer Programme erforderlich ist.
 title: Erstellen eines neuen Programms mit Tags und Tag-Werten
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 10%
+source-wordcount: '174'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Sie können benutzerdefinierte [Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) für Ihre Programme erstellen und dem Tag Werte zuweisen.
 

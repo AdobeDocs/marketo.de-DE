@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360305
-description: Erstellen einer benutzerdefinierten Registerkarte für die Personendetailseite - Marketo-Dokumente - Produktdokumentation
+description: Erstellen eines benutzerdefinierten Layouts für die Personendetailseite.
 title: Erstellen einer benutzerdefinierten Registerkarte für die Seite „Personendetails“
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 12%
 
 ---

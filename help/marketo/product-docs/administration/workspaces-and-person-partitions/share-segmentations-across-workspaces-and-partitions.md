@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515767
-description: Freigeben von Segmentierungen über Arbeitsbereiche und Partitionen hinweg - Marketo-Dokumente - Produktdokumentation
+description: Regeln und Schritte für die Freigabe von Segmentierungen über Arbeitsbereiche und Partitionen hinweg, einschließlich Einschränkungen und Tipps für die Erstellung von Segmentierungen im Standardarbeitsbereich.
 title: Freigeben von Segmentierungen über Arbeitsbereiche und Partitionen hinweg
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 2%
+source-wordcount: '485'
+ht-degree: 4%
 
 ---
 
@@ -72,7 +72,7 @@ Nachdem Sie diese Rollen eingerichtet haben (_und_ Arbeitsbereiche verwenden), s
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner freigeben]**.
+1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner freigeben]** aus.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 

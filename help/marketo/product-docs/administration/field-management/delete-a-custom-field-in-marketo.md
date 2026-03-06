@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360339
-description: Löschen eines benutzerdefinierten Felds in Marketo - Marketo-Dokumente - Produktdokumentation
+description: So entfernen Sie ein benutzerdefiniertes Feld aus der Verwendung, indem Sie es in der Benutzeroberfläche ausblenden, wenn es nicht mehr benötigt wird.
 title: Löschen eines benutzerdefinierten Felds in Marketo
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 13%
+source-wordcount: '102'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Sie können ein Feld, das Sie in der Vergangenheit erstellt haben, entfernen, wenn Sie es nicht mehr verwenden. Leider können Sie Felder in Marketo nicht löschen, sie _jedoch_ der Benutzeroberfläche ausgeblendet werden.
 

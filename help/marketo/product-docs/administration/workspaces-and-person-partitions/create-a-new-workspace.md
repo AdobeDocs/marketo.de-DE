@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360311
-description: Erstellen einer neuen Workspace - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Erstellen eines neuen Arbeitsbereichs, einschließlich seiner Benennung, der Auswahl von Personenpartitionen, der Auswahl einer primären Markendomäne und der Einstellung der Arbeitsbereichssprache.
 title: Erstellen eines neuen Arbeitsbereichs
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 4%
+source-wordcount: '226'
+ht-degree: 5%
 
 ---
 
@@ -22,7 +22,7 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
 >[!TIP]
 >
->Weitere Informationen zu Best Practices für Workspace erhalten Sie von [Marketo Professional Services](https://business.adobe.com/de/products/marketo/services-support.html){target="_blank"}.
+>Weitere Informationen zu Best Practices für Workspace erhalten Sie von [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

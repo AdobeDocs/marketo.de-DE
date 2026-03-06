@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359916
-description: Ändern des Marketo-Kennworts - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Ändern des Marketo-Kennworts.
 title: Ändern des Marketo-Kennworts
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 14%
+source-wordcount: '54'
+ht-degree: 20%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 14%
 
    ![](assets/change-your-marketo-password-1.png)
 
-1. Klicken Sie **[!UICONTROL Mein Konto]**.
+1. Klicken Sie auf **[!UICONTROL Mein Konto]**.
 
    ![](assets/change-your-marketo-password-2.png)
 

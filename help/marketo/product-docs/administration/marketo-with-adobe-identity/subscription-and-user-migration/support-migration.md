@@ -1,11 +1,11 @@
 ---
-description: Marketo Engage-Support-Migration - Marketo-Dokumente - Produktdokumentation
+description: Überblick über die Support-Migration zu Adobe Admin Console und Experience League für die Benutzerverwaltung und die Übermittlung von Support-Tickets, einschließlich Fallmigration und PSA-Rolle.
 title: Migration des Marketo Engage-Supports
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '484'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ Die Support-Migration erfolgt für alle Abonnements nach Abschluss der Benutzerm
 
 * Weitere Informationen zur Anmeldung bei Marketo Engage mit einem Adobe ID [finden Sie hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* Weitere Informationen zu [Adobe Experience League](https://experienceleague.adobe.com/de?lang=de){target="_blank"}.
+* Weitere Informationen zu [Adobe Experience League](https://experienceleague.adobe.com/?lang=de){target="_blank"}.
 
 ## Haben Sie noch Fragen? {#still-have-questions}
 

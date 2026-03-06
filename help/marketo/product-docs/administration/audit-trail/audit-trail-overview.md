@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377945
-description: Audit-Protokoll&rbrack; Übersicht - Marketo-Dokumente - Produktdokumentation
+description: Überblick über das Audit-Protokoll und wie es einen sechsmonatigen Verlauf der Änderungen und Anmeldeaktivitäten in Ihrer Marketo-Instanz erfasst.
 title: Überblick über Audit-Protokolle
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '345'
 ht-degree: 2%
 
 ---

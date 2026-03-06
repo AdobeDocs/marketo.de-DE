@@ -1,18 +1,18 @@
 ---
-description: Massenexport-API-Informationen - Marketo-Dokumente - Produktdokumentation
+description: Überprüfen der Kapazitätsauslastung der Bulk-Extract-API in den letzten sieben Tagen und beim Zurücksetzen der Zuordnung.
 title: Informationen zur Massenexport-API
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 8%
+source-wordcount: '106'
+ht-degree: 7%
 
 ---
 
 # Informationen zur Massenexport-API {#bulk-export-api-information}
 
-Erfahren Sie, wie Sie überprüfen können[&#x200B; wie viel Kapazität (](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-API) Ihre Marketo Engage-Instanz in den letzten sieben Tagen in Anspruch genommen hat.
+Erfahren Sie, wie Sie überprüfen können[ wie viel Kapazität (](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-API) Ihre Marketo Engage-Instanz in den letzten sieben Tagen in Anspruch genommen hat.
 
 >[!NOTE]
 >

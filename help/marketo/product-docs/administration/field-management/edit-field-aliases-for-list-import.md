@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360346
-description: Bearbeiten von Feldalias für den Listenimport - Marketo-Dokumente - Produktdokumentation
+description: Erstellen und bearbeiten Sie Feldaliase, damit Listenimporte mit unbekannten Spaltenüberschriften den richtigen Marketo-Feldern zugeordnet werden.
 title: Bearbeiten von Feldaliassen für den Listenimport
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 9%
+source-wordcount: '139'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Wenn Sie eine Liste mit unbekannten Kopfzeilen importieren, können Sie Feldalia
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

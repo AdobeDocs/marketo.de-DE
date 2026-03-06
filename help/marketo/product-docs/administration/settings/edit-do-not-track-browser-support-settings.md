@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095047
-description: Bearbeiten der Browser-Support-Einstellungen „Nicht verfolgen“ - Marketo-Dokumente - Produktdokumentation
+description: Berücksichtigen oder Ignorieren der Browser-Anfrage „Do Not Tracking“ durch Bearbeiten des Personen-Trackings
 title: Bearbeiten der Browser-Support-Einstellungen „Nicht nachverfolgen“
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 10%
+source-wordcount: '132'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!NOTE]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360278
-description: Löschen eines Programmstatus aus einem Programmkanal - Marketo-Dokumente - Produktdokumentation
+description: Entfernen eines Programmstatus aus einem Kanal in Admin unter Tags, einschließlich der Fälle, in denen Sie einen Status ausblenden müssen, anstatt ihn zu löschen.
 title: Löschen eines Programmstatus aus einem Programmkanal
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 13%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
@@ -35,4 +35,4 @@ Programmstatus sind die Checkpoints durch einen Programmpfad (Kanal). Wenn Sie e
    >
    >Wenn dem betreffenden Status derzeit eine Person zugewiesen ist, können Sie ihn nicht löschen, Sie können ihn jedoch ausblenden.
 
-Gut gemacht! Bei Bedarf können [&#x200B; auch einen gesamten &#x200B;](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) löschen.
+Gut gemacht! Bei Bedarf können [ auch einen gesamten ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) löschen.

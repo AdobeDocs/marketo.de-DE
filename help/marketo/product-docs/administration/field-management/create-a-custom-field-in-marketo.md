@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360287
-description: Erstellen eines benutzerdefinierten Felds in Marketo - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Erstellen eines neuen benutzerdefinierten Felds in Marketo Engage zum Speichern und Erfassen von Daten für Personen oder Unternehmen.
 title: Erstellen eines benutzerdefinierten Felds in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '200'
 ht-degree: 6%
 
 ---
@@ -37,7 +37,7 @@ Wenn Sie zum Speichern/Erfassen von Daten ein neues benutzerdefiniertes Feld in 
 
    >[!NOTE]
    >
-   >Sie können das Objekt &quot;_&quot; zwar nicht_ auswählen, Sie können es aber anfordern, indem Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} wenden.
+   >Sie können das Objekt &quot;_&quot; zwar nicht_ auswählen, Sie können es aber anfordern, indem Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"} wenden.
 
 1. Wählen Sie das Feld _[!UICONTROL Typ]_. Dies ändert die Darstellung in Smart Lists und Formularen in Marketo.
 

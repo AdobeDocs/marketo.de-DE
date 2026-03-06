@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360295
-description: Exportieren einer Liste aller Marketo-API-Feldnamen - Marketo-Dokumente - Produktdokumentation
+description: Laden Sie eine Tabelle mit allen Marketo-Feldern und ihren API-Namen für die Verwendung der SOAP-API oder der Munchkin-API herunter.
 title: Exportieren einer Liste aller Marketo-API-Feldnamen
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 18%
+source-wordcount: '104'
+ht-degree: 20%
 
 ---
 
@@ -17,7 +17,7 @@ Wenn Sie unsere [!DNL SOAP API] oder [!DNL Munchkin API] verwenden, benötigen S
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

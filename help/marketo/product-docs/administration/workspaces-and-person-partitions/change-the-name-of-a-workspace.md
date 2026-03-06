@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360321
-description: Ändern des Namens einer Workspace - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Arbeitsbereich umbenennen.
 title: Ändern des Namens eines Arbeitsbereichs
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 15%
+source-wordcount: '76'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!PREREQUISITES]
 >

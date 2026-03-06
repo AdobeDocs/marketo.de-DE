@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093690
-description: Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Bearbeiten oder Löschen eines benutzerdefinierten Objekts.
 title: Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '270'
 ht-degree: 5%
 
 ---

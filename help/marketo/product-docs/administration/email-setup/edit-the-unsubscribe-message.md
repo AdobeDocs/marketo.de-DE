@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360251
-description: Bearbeiten der Abmeldenachricht - Marketo-Dokumente - Produktdokumentation
+description: Ändern des Standardtextes zum Abmelden und der Links, die an Marketing-E-Mails in Admin-E-Mails angehängt werden.
 title: Bearbeiten der Abmeldenachricht
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 7%
+source-wordcount: '145'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Beim Versand von Marketing-E-Mails ([operationell](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)) werden Text und Links zur Abmeldung unten angehängt. Sie können die Standardeinstellungen ändern. Und so geht das.
 
@@ -44,7 +44,7 @@ Beim Versand von Marketing-E-Mails ([operationell](/help/marketo/product-docs/em
 
 >[!TIP]
 >
->Sie können die Abmeldeposition von HTML in Ihrer E-Mail mit „Token[&#x200B; anpassen](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Sie können die Abmeldeposition von HTML in Ihrer E-Mail mit „Token[ anpassen](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Standardtext zur Abmeldung {#default-unsubscribe-text}
 

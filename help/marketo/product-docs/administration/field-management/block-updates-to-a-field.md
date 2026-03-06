@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360291
-description: Blockieren von Aktualisierungen eines Felds - Marketo-Dokumente - Produktdokumentation
+description: Blockaktualisierungen an ein Feld, sodass der erste geschriebene Wert für die Lebensdauer des Datensatzes beibehalten wird.
 title: Blockieren von Aktualisierungen eines Felds
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 5%
+source-wordcount: '180'
+ht-degree: 7%
 
 ---
 
 # Blockieren von Aktualisierungen eines Felds {#block-updates-to-a-field}
 
-Wenn Sie Aktualisierungen an einem Feld blockieren, können Sie nur einmal in das Feld schreiben und dann den ursprünglichen Wert während der Lebensdauer des Felds beibehalten. Source Dies kann für ein Feld wie „Person [!UICONTROL &quot; nützlich &#x200B;].
+Wenn Sie Aktualisierungen an einem Feld blockieren, können Sie nur einmal in das Feld schreiben und dann den ursprünglichen Wert während der Lebensdauer des Felds beibehalten. Source Dies kann für ein Feld wie „Person [!UICONTROL &quot; nützlich ].
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

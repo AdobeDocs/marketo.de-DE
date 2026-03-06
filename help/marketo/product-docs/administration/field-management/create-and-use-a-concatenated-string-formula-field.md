@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360337
-description: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel) - Marketo-Dokumente - Produktdokumentation
+description: Kombinieren Sie Werte aus mehreren Feldern oder erstellen Sie bedingte Werte mithilfe von Formelfeldern in Marketo Engage.
 title: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 9%
 
 ---
@@ -53,6 +53,6 @@ Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo E
 
 >[!NOTE]
 >
->Formelfelder können in Landingpages, E-Mails und Smart-Listen-Spalten verwendet werden. E-Mails mit Formelfeldern können _nicht_ mithilfe einer Batch-Kampagne gesendet werden. Verwenden Sie in [&#x200B; Szenario ein &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)E-Mail-Skript-Token“.
+>Formelfelder können in Landingpages, E-Mails und Smart-Listen-Spalten verwendet werden. E-Mails mit Formelfeldern können _nicht_ mithilfe einer Batch-Kampagne gesendet werden. Verwenden Sie in [ Szenario ein ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)E-Mail-Skript-Token“.
 
 Gute Arbeit! Jetzt haben Sie ein intelligentes Feld, das weiß, welche Anrede basierend auf dem Geschlecht enthalten sein soll. Viel Spaß damit und kreativ werden.

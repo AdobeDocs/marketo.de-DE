@@ -1,12 +1,12 @@
 ---
-description: Markieren eines Felds als sensibel - Marketo-Dokumente - Produktdokumentation
+description: Markieren Sie Felder als sensibel, damit ihre Werte in Formularen nie vorausgefüllt werden, um Benutzerdaten zu schützen.
 title: Markieren eines Felds als sensitiv
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 10%
+source-wordcount: '104'
+ht-degree: 9%
 
 ---
 

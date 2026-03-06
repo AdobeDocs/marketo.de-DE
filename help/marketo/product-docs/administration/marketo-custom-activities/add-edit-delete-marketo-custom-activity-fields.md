@@ -1,10 +1,10 @@
 ---
 unique-page-id: 10100275
-description: Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen/bearbeiten/löschen - Marketo-Dokumente - Produktdokumentation
+description: Hinzufügen, Bearbeiten oder Löschen von Feldern in einer benutzerdefinierten Aktivität
 title: Hinzufügen/Bearbeiten/Löschen von benutzerdefinierten Marketo-Aktivitätsfeldern
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 6%
@@ -37,13 +37,13 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Wählen Sie den (Datentyp[!UICONTROL &#x200B; des Felds &#x200B;].
+1. Wählen Sie den (Datentyp[!UICONTROL  des Felds ].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
    >[!TIP]
    >
-   >Nicht sicher, was ausgewählt werden soll? Wir haben Sie im Griff! Alle verfügbaren Datentypen werden in [diesem Artikel) &#x200B;](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Nicht sicher, was ausgewählt werden soll? Wir haben Sie im Griff! Alle verfügbaren Datentypen werden in [diesem Artikel) ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Benennen Sie das Feld. Der API-Name wird automatisch ausgefüllt. Wenn Sie fertig sind, klicken Sie auf **[!UICONTROL Speichern]**.
 

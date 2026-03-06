@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360356
-description: Hinzufügen von Single Sign-on zu einem Portal - Marketo-Dokumente - Produktdokumentation
+description: SAML 2.0 Single Sign-on aktivieren, damit Ihr Identitätsanbieter Benutzende für Marketo authentifiziert (gilt nicht für Adobe IMS).
 title: Hinzufügen von Single Sign-On zu einem Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '606'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Sobald SSO aktiviert ist, kann der IdP die Anmeldeinformationen eines Benutzers 
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!IMPORTANT]
 >
@@ -42,7 +42,7 @@ Sobald SSO aktiviert ist, kann der IdP die Anmeldeinformationen eines Benutzers 
 >
 >Marketo unterstützt nur vom Identitätsanbieter initiierte (auch als „IdP-initiiert“ bezeichnet), bei denen der Benutzer zuerst die IdP-Anmeldeseite startet, sich authentifiziert und dann zu „Meine Marketo&quot; navigiert. Wenn Ihr Marketo-Abonnement in die Admin Console verschoben wurde, unterstützt Adobe Admin Console derzeit nur vom Dienstleister initiierte (auch als SP-initiiert bezeichnet). Möglicherweise wurde Ihr SSO-Erlebnis geändert.
 
-## Zusätzliche Hinweise {#additional-notes}
+## Weitere Hinweise {#additional-notes}
 
 * **Synchronisierungszeit** - Bei einem neuen Benutzer dauert es etwa 10 Minuten, bis eine erste SSO-Anfrage verarbeitet wird.
 * **Benutzerbereitstellung** - Benutzer werden manuell von Marketo bereitgestellt.
@@ -69,7 +69,7 @@ SSO ist standardmäßig deaktiviert. Führen Sie diese Schritte aus, um SAML zu 
 
    >[!NOTE]
    >
-   >Wenn „Single Sign **[!UICONTROL unter „Admin]** nicht angezeigt wird **[!UICONTROL wenden Sie]** an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >Wenn „Single Sign **[!UICONTROL unter „Admin]** nicht angezeigt wird **[!UICONTROL wenden Sie]** an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
 
 1. Klicken Sie **[!UICONTROL Abschnitt „SAML]** Einstellungen“ auf **[!UICONTROL Bearbeiten]**.
 

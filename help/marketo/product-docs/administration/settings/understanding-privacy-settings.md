@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617187
-description: Datenschutzeinstellungen - Marketo-Dokumente - Produktdokumentation
+description: Übersicht über Datenschutz- und Tracking-Optionen, einschließlich „Do Not Tracking“-Browser-Unterstützung, Opt-out-Cookies und anonymisiertes IP-Tracking für Web-Besucher.
 title: Grundlegendes zu Datenschutzeinstellungen
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '493'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Marketing-Experten können Benutzer aktivieren, indem sie die Funktionen von Mar
 
 Marketing-Experten können die Privatsphäre schützen, indem sie Benutzer mit einer anonymisierten IP-Adresse verfolgen. Fügen Sie dazu diesen Code zum RTP oder [!DNL Munchkin] JavaScript hinzu, das in die Website eingebettet ist.
 
-* Fügen Sie [!DNL Munchkin] einfach `{"anonymizeIP",true}` zur [init-Funktion“ &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Fügen Sie [!DNL Munchkin] einfach `{"anonymizeIP",true}` zur [init-Funktion“ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Fügen Sie für Web Personalization (RTP) Folgendes zum JavaScript hinzu:
 

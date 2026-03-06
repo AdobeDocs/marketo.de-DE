@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377392
-description: Bearbeiten der Standard-Branding-Domain - Marketo-Dokumente - Produktdokumentation
+description: Ersetzen Sie in der Admin-E-Mail-Adresse die generische Tracking-Domain durch Ihre Unternehmens-Domain (CNAME erforderlich).
 title: Bearbeiten Ihrer standardmäßigen Branding-Domain
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, [&#x200B; Sie einen CNAME in Ihrem DNS eingerichtet haben](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} bevor Sie Ihre Branding-Domains in Marketo hinzufügen.
+>Vergewissern Sie sich, [ Sie einen CNAME in Ihrem DNS eingerichtet haben](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} bevor Sie Ihre Branding-Domains in Marketo hinzufügen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -27,7 +27,7 @@ Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf Bearbeiten , um sie in die Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf Bearbeiten , um sie in die Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -43,4 +43,4 @@ Jetzt können Sie [alle zusätzlichen Branding-Domains hinzufügen](/help/market
 
 >[!NOTE]
 >
->Wenn Sie eine vorhandene SSL aktualisieren oder entfernen müssen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>Wenn Sie eine vorhandene SSL aktualisieren oder entfernen müssen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.

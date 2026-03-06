@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099785
-description: Abonnementeinstellungen bearbeiten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihrem Marketo-Abonnement einen eindeutigen Anzeigenamen geben, damit Sie mehrere Abonnements auseinander halten können.
 title: Bearbeiten von Abonnementeinstellungen
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 6%
+source-wordcount: '97'
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ Wenn Sie beispielsweise sowohl in Produktions- als auch in Sandbox-Instanzen arb
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. Klicken Sie **[!UICONTROL Mein Konto]**.
+1. Klicken Sie auf **[!UICONTROL Mein Konto]**.
 
    ![](assets/edit-subscription-settings-2.png)
 

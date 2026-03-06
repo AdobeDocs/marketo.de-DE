@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359912
-description: Exportieren einer Liste von Benutzern und Rollen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Liste von Benutzern und Rollen exportieren.
 title: 'Exportieren einer Liste der Benutzenden und der zugehörigen Rollen '
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 18%
+source-wordcount: '84'
+ht-degree: 22%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer und Benutzerrollen zu exportieren. Und so geht das.
 

@@ -1,11 +1,11 @@
 ---
-description: Globale Formularvalidierungsregeln - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Berechtigung Zugriff auf Formularvalidierungsregeln aktivieren und globale Regeln erstellen, um bestimmte Domains am Senden an Marketo Engage-Formulare zu hindern.
 title: Globale Formularvalidierungsregeln
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
@@ -62,7 +62,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für d
 
    >[!NOTE]
    >
-   >In [!UICONTROL &#x200B; Dropdown-Liste Formularvalidierungsregelaktionen &#x200B;] Sie vorhandene Regeln löschen oder bearbeiten.
+   >In [!UICONTROL  Dropdown-Liste Formularvalidierungsregelaktionen ] Sie vorhandene Regeln löschen oder bearbeiten.
 
 1. Benennen Sie Ihre Regel, geben Sie ihr eine optionale Beschreibung und geben Sie die Fehlermeldung ein, die den Besuchern des Formulars angezeigt werden soll. Geben Sie im Feld Regeln die Domain(s) ein, die blockiert werden sollen, wählen Sie **[!UICONTROL Regel aktivieren]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 

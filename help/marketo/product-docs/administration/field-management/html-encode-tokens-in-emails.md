@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720461
-description: HTML-Kodierung von Token in E-Mails - Marketo-Dokumente - Produktdokumentation
+description: Aktivieren oder deaktivieren Sie die HTML-Kodierung für Personen- und Unternehmens-Token, die in E-Mails verwendet werden, um eine korrekte Übertragung sicherzustellen.
 title: HTML-Kodier-Token in E-Mails
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+source-wordcount: '107'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ In E-Mails verwendete Personen- und Unternehmens-Token aktivieren/deaktivieren.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!NOTE]
 >

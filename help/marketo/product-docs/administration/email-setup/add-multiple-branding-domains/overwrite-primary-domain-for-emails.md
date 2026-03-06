@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378051
-description: Primäre Domain für E-Mails überschreiben - Marketo-Dokumente - Produktdokumentation
+description: Überschreiben Sie die primäre Branding-Domain für einzelne E-Mails, um zu ändern, wie Links beim Versand gebrandet werden.
 title: Überschreiben der primären Domain für E-Mails
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 11%
+source-wordcount: '95'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 Sie können die primäre Marken-Domain pro E-Mail überschreiben. Dadurch ändert sich die Art und Weise, wie die Links beim Versand der E-Mail gebrandet werden.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 

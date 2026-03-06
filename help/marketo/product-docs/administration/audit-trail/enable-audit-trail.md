@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382122
-description: Audit-Protokoll aktivieren - Marketo-Dokumente - Produktdokumentation
+description: Aktivieren Sie Audit-Protokoll und Anmeldeverlauf für eine Rolle und weisen Sie die Rolle Benutzern über Administratorberechtigungen zu.
 title: Aktivieren des Audit-Protokolls
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 4%
+source-wordcount: '256'
+ht-degree: 3%
 
 ---
 
@@ -73,7 +73,7 @@ Das Audit-Protokoll steht allen Kunden zur Verfügung und wird von zwei Administ
 
    >[!CAUTION]
    >
-   >Wenn Arbeitsbereiche aktiviert sind, aktivieren Sie das Kontrollkästchen der Rolle, wodurch alle Arbeitsbereiche ausgewählt werden. Wenn Sie die Auswahl eines einzelnen Arbeitsbereichs aufheben, wird das Audit-Protokoll ausgeblendet. Das bedeutet, dass Audit-Protokoll-Daten für jeden Arbeitsbereich angezeigt werden. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern“ &#x200B;](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >Wenn Arbeitsbereiche aktiviert sind, aktivieren Sie das Kontrollkästchen der Rolle, wodurch alle Arbeitsbereiche ausgewählt werden. Wenn Sie die Auswahl eines einzelnen Arbeitsbereichs aufheben, wird das Audit-Protokoll ausgeblendet. Das bedeutet, dass Audit-Protokoll-Daten für jeden Arbeitsbereich angezeigt werden. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern“ ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 

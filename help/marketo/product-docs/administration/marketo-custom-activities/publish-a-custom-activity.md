@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100272
-description: Veröffentlichen einer benutzerdefinierten Aktivität - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Veröffentlichen einer benutzerdefinierten Aktivität.
 title: Veröffentlichen einer benutzerdefinierten Aktivität
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '70'
 ht-degree: 11%
 
 ---
@@ -31,7 +31,7 @@ Sie haben Ihre benutzerdefinierte Aktivität genau so, wie Sie sie möchten. Jet
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Der Status Ihrer benutzerdefinierten Aktivität wird [!UICONTROL von &#x200B;]Entwurf[!UICONTROL &#x200B; angezeigt]…
+   Der Status Ihrer benutzerdefinierten Aktivität wird [!UICONTROL von ]Entwurf[!UICONTROL  angezeigt]…
 
    ![](assets/publish-a-custom-activity-5.png)
 

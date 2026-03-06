@@ -1,232 +1,232 @@
 ---
-description: Migration zu Adobe Identity - Marketo-Dokumente - Produktdokumentation
+description: Verwendung der Migrationskonsole für die Auswahl des Datums vor der Migration und die Self-Service-Benutzermigration, wenn Ihr Abonnement auf Adobe Identity wechselt, einschließlich SSO- und Nicht-SSO-Flüssen.
 title: Migrieren zu Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '2319'
-ht-degree: 0%
+source-wordcount: '2337'
+ht-degree: 98%
 
 ---
 
 # Migrieren zu Adobe Identity {#migrating-to-adobe-identity}
 
-Wenn Adobe die Benutzermigration eines Abonnements plant, erhalten Marketo Engage-Produktadministratoren Zugriff auf die Migrationskonsole, die im Navigationsmenü im Admin-Bereich unter „Integration“ zu finden ist.
+Wenn Adobe die Benutzermigration eines Abonnements plant, erhalten Marketo Engage-Produktadmins Zugriff auf die Migrationskonsole. Diese befindet sich im Navigationsmenü im Bereich „Administrator“ unter „Integration“.
 
 ![](assets/migrating-to-adobe-identity-1.png)
 
 ## Vormigration {#pre-migration}
 
-Vor Beginn der Migration kann ein Administrator das Startdatum der Benutzermigration für sein Abonnement ändern, indem er in der Migrationskonsole zum Bildschirm vor der Migration navigiert. Um das Datum zu ändern, kann der Administrator auf die Schaltfläche **Bearbeiten** klicken.
+Vor Beginn der Migration kann eine bzw. ein Admin das Startdatum der Benutzermigration für das Abonnement ändern, indem sie bzw. er in der Migrationskonsole zum Bildschirm „Vormigration“ navigiert. Um das Datum zu ändern, kann die bzw. der Admin auf die Schaltfläche **Bearbeiten** klicken.
 
 ![](assets/migrating-to-adobe-identity-2.png)
 
-Der Administrator kann ein Datum zwischen 8 und 30 Tagen in der Zukunft auswählen. Wenn ein Datum ausgewählt ist, muss der Administrator auf **Speichern** klicken, um die Änderung vorzunehmen.
+Die bzw. der Admin kann ein Datum zwischen 8 und 30 Tagen in der Zukunft auswählen. Nach Auswahl eines Datums muss die bzw. der Admin auf **Speichern** klicken, um die Änderung anzuwenden.
 
 ![](assets/migrating-to-adobe-identity-3.png)
 
 >[!NOTE]
 >
->Um ein Datum anzufordern, das vor acht Tagen oder älter als 30 ist, oder um das Datum anzupassen, das nach der Sperrung der Konsole vor der Migration erforderlich ist, senden Sie eine E-Mail an `marketocares@marketo.com`.
+>Um ein Datum anzufordern, das weniger als 8 Tage oder länger als 30 Tage in der Zukunft liegt, oder um das Datum nach Sperren der Vormigrationskonsole anzupassen, senden Sie eine E-Mail an `marketocares@marketo.com`.
 
-## Migrationen zur Adobe-Identität {#migrations-to-adobe-identity}
+## Migrationen zu Adobe Identity {#migrations-to-adobe-identity}
 
-Alle Marketo-Abonnements mit einer Zeitzone in den USA werden ab Mitternacht (Pacific Standard Time) des Startdatums der Benutzermigration migriert. Die Benutzermigration für alle anderen Abonnements beginnt um Mitternacht in der angegebenen Zeitzone des Abonnements. Wenn die Benutzermigration eines Abonnements beginnt, ist die Benutzerverwaltung nicht mehr im Marketo-Admin-Bereich verfügbar und erfolgt nur noch in der Adobe Admin Console. Die Rollenverwaltung verbleibt auf der Registerkarte „Benutzer und Rollen“ im Marketo-Administratorbereich sowie auf der lokalen Benutzerverwaltung (nur API).
+Alle Marketo-Abonnements mit einer Zeitzone in den USA werden ab Mitternacht (Pacific Standard Time) des Startdatums der Benutzermigration migriert. Die Benutzermigration für alle anderen Abonnements beginnt um Mitternacht der für das Abonnement festgelegten Zeitzone. Nach Beginn der Benutzermigration eines Abonnements ist die Benutzerverwaltung nicht mehr im Bereich „Administrator“ von Marketo verfügbar, sondern kann nur noch in der Adobe Admin Console vorgenommen werden. Die Rollenverwaltung sowie die lokale Benutzerverwaltung (nur API) sind weiterhin auf der Registerkarte „Benutzer und Rollen“ im Bereich „Administrator“ von Marketo verfügbar.
 
-Adobe migriert automatisch alle Marketo-Administratoren (mit der standardmäßigen Administratorrolle) mit verifizierten E-Mails. Wenn Marketo-Administrierende zur Adobe Identity migriert werden, werden sie als Produktadministrator für das Marketo-Abonnement zum Adobe Admin Console des Abonnements hinzugefügt und erhalten innerhalb des Marketo-Programms die Adobe-Produktadministratorrolle (zusammen mit allen anderen Rollen, die sie zuvor hatten) und haben ihre Adobe ID-Berechtigung für das Abonnement. Die Administratoren erhalten zwei E-Mails. Eine gibt an, dass sie als Admin Console-Produktadministrator zugewiesen werden, und die andere gibt an, dass ihre Adobe ID zum Marketo-Produkt berechtigt sind.
+Adobe migriert zuerst automatisch alle Marketo-Admins (mit einer standardmäßigen Admin-Rolle) mit verifizierten E-Mails. Wenn Marketo-Admins zu Adobe Identity migriert werden, werden sie als Produktadmins für das Marketo-Abonnement zur Adobe Admin Console des Abonnements hinzugefügt. Sie erhalten innerhalb der Marketo-Anwendung die Rolle „Adobe-Produktadmin“ (zusammen mit allen anderen Rollen, die sie zuvor innehatten) sowie ihre Adobe ID-Berechtigung für das Abonnement. Die Admins erhalten zwei E-Mails. Eine informiert darüber, dass sie als Admin Console-Produktadmins zugewiesen werden, und die andere, dass ihre Adobe ID für das Marketo-Produkt berechtigt ist.
 
 >[!IMPORTANT]
 >
->Sie müssen in der Berechtigungs **E-Mail auf die Schaltfläche** Einladung annehmen“ klicken, um mit Ihrer Adobe ID auf Marketo Engage zugreifen zu können.
+>Sie müssen in der Berechtigungs-E-Mail auf die Schaltfläche **Einladung annehmen** klicken, um mit Ihrer Adobe ID auf Marketo Engage zugreifen zu können.
 
-**E-Mail an Marketo-Produktadministrator**
+**Marketo-Produktadmin-E-Mail**
 
 ![](assets/migrating-to-adobe-identity-4.png)
 
-**E-Mail zu Marketo-Berechtigungen**
+**Marketo-Berechtigungs-E-Mail**
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**Wenn Ihr Marketo-Abonnement in Marketo und/oder Ihrer Adobe-Organisation nicht über SSO**, migriert Adobe automatisch die restlichen Benutzenden. Dieser Workflow soll ein Höchstmaß an Automatisierung bieten, und es ist keine Aktion erforderlich, um die Migration auszuführen. Nach Abschluss der Migration wird die Marketo-Migrationskonsole nicht mehr im Marketo Admin-Navigationsbereich angezeigt und alle Benutzenden greifen über eine Adobe ID auf Marketo zu.
+**Wenn Ihr Marketo-Abonnement in Marketo und/oder Ihrer Adobe-Organisation kein SSO verwendet**, migriert Adobe die restlichen Benutzenden automatisch. Dieser Workflow soll ein Höchstmaß an Automatisierung bieten. Es ist keine zusätzliche Handlung erforderlich, um die Migration auszuführen. Nach Abschluss der Migration wird die Marketo-Migrationskonsole nicht mehr im Navigationsbereich „Administrator“ von Marketo angezeigt und alle Benutzenden greifen über eine Adobe ID auf Marketo zu.
 
-**Wenn Ihr Marketo-Abonnement SSO in Marketo und/oder Ihrer Adobe-Organisation** enthält, erhalten Marketo-Administratoren beim Beginn der Benutzermigration Zugriff auf das Self-Service-Benutzermigrations-Tool der Migrationskonsole und werden über ein Banner bei der Anmeldung auf der Seite Mein Marketo benachrichtigt. Der Administrator ist für den Abschluss der Benutzermigration mithilfe des Self-Service-Tools für die Benutzermigration verantwortlich.
+**Wenn Ihr Marketo-Abonnement in Marketo und/oder Ihrer Adobe-Organisation SSO verwendet**, erhalten Marketo-Admins beim Beginn der Benutzermigration Zugriff auf das Self-Service-Tool für die Benutzermigration in der Migrationskonsole und werden über ein Banner bei der Anmeldung auf der Seite „Mein Marketo“ benachrichtigt. Die bzw. der Admin ist für den Abschluss der Benutzermigration über das Self-Service-Tool für die Benutzermigration verantwortlich.
 
 ![](assets/migrating-to-adobe-identity-6.png)
 
-## Marketo Self-Service-Benutzermigration {#marketo-self-service-user-migration}
+## Marketo-Self-Service-Benutzermigration {#marketo-self-service-user-migration}
 
-Das Marketo Self-Service-Tool für die Benutzermigrationskonsole besteht aus zwei Registerkarten.
+Das Marketo-Self-Service-Tool für die Benutzermigration in der Migrationskonsole verfügt über zwei Registerkarten.
 
-* **Registerkarte Migrationsstatus**
+* **Registerkarte „Migrationsstatus“**
 * **Registerkarte „Benutzermigration“**
 
 Es sind drei Hauptschritte erforderlich, um eine Self-Service-Migration abzuschließen.
 
-1. Alle gewünschten, für eine E-Mail-Adresse verifizierten Benutzer migrieren (Registerkarte Benutzermigration)
-1. Alle nicht zulässigen Benutzer und alle unerwünschten zulässigen Benutzer überspringen (Registerkarte Benutzermigration )
-1. Nachdem die Schritte 1 und 2 abgeschlossen sind, schließen Sie die Migrationsbestätigung ab (Registerkarte Migrationsstatus )
+1. Migrieren aller gewünschten, berechtigten Benutzenden mit einer verifizierten E-Mail-Adresse (Registerkarte „Benutzermigration“)
+1. Überspringen aller nicht berechtigten Benutzenden und aller berechtigten, jedoch nicht gewünschten Benutzenden (Registerkarte „Benutzermigration“)
+1. Bestätigen der Migration nach Abschluss der Schritte 1 und 2 (Registerkarte „Migrationsstatus“)
 
-### Registerkarte Migrationsstatus {#migration-status-tab}
+### Registerkarte „Migrationsstatus“ {#migration-status-tab}
 
-Die Registerkarte Migrationsstatus enthält allgemeine Metriken zum Fortschritt der erforderlichen E-Mail-Verifizierung der Benutzer, zur Migration und Aktivierung der Benutzer und zum Abschluss der Abonnementmigration.
+Die Registerkarte „Migrationsstatus“ enthält allgemeine Metriken zum Fortschritt der erforderlichen E-Mail-Überprüfung der Benutzenden, zur Migration und Aktivierung der Benutzenden und zum Abschluss der Abonnementmigration.
 
 ![](assets/migrating-to-adobe-identity-7.png)
 
-Oben im Migrationsstatus werden der Ablauf der Abonnementmigration und die Schaltfläche zur Verlängerung des Ablaufs angezeigt. Weitere Informationen zum Ablauf der Migration finden Sie im [Abschnitt Ablauf der Benutzermigration](#user-migration-expiration).
+Oben in der Registerkarte „Migrationsstatus“ werden der Ablauf der Abonnementmigration und die Schaltfläche zur Verlängerung des Ablaufs angezeigt. Weitere Informationen zum Ablauf der Migration finden Sie im [Abschnitt „Ablauf der Benutzermigration“](#user-migration-expiration).
 
-Im nächsten Abschnitt der Registerkarte Migrationsstatus gibt es zwei Fortschrittsbalken. Die erste Fortschrittsleiste zeigt den Fortschritt der Benutzer-E-Mail-Bestätigung an. Die zweite Fortschrittsleiste zeigt den Fortschritt der Benutzermigration an.
+Im nächsten Abschnitt der Registerkarte „Migrationsstatus“ befinden sich zwei Fortschrittsbalken. Der erste Fortschrittsbalken zeigt den Fortschritt der E-Mail-Überprüfung der Benutzenden an. Der zweite Fortschrittsbalken zeigt den Fortschritt der Benutzermigration an.
 
-Als Nächstes gibt es drei Abschnitte des Status, der dem Administrator angezeigt wird.
+Darunter werden der bzw. dem Admin drei Abschnitte zum Status angezeigt.
 
-* **Benutzer-E-Mail**&#x200B;Überprüfung: Überprüfungsstatus von Benutzern im Abonnement.
-* **Benutzermigration und -aktivierung**: Benutzermigrations- und -aktivierungsstatus (Migration und Berechtigung für das Marketo Engage-Produkt) der Benutzenden im Abonnement.
-* **Migrationsbestätigung**: Abschlussstatus der Migration des Abonnements.
+* **E-Mail-Überprüfung der Benutzenden**: Überprüfungsstatus der Benutzenden im Abonnement.
+* **Benutzermigration und -aktivierung**: Status der Benutzermigration und -aktivierung (Migration und Berechtigung für das Produkt Marketo Engage) der Benutzenden im Abonnement.
+* **Migrationsbestätigung**: Status des Migrationsabschlusses des Abonnements.
 
-#### Benutzer-E-Mail-Überprüfung {#user-email-verification}
+#### E-Mail-Überprüfung der Benutzenden {#user-email-verification}
 
-Im Abschnitt E-Mail-Verifizierung für Benutzer kann ein Administrator den aktuellen Status der E-Mail-Verifizierung für die Benutzer im Abonnement vor der Migration zu Adobe Identity feststellen.
+Im Abschnitt „E-Mail-Überprüfung“ für die Benutzenden können Admins den aktuellen Status der E-Mail-Überprüfung für die Benutzenden im Abonnement vor der Migration zu Adobe Identity einsehen.
 
-Ein Administrator kann den E-Mail-Überprüfungsstatus des Abonnements, den Prozentsatz der Benutzer im Abonnement, die die E-Mail-Überprüfung abgeschlossen haben, und die Anzahl der Benutzer, die als übersprungen markiert wurden, einsehen. Der Status wird über den Status des E-Mail-Bestätigungsstatus aller Benutzer im Abonnement gemeldet. Der Administrator kann auf die Anzahl der übersprungenen Benutzer klicken und zur Registerkarte Benutzermigration navigieren, um die übersprungenen Benutzer anzuzeigen.
+Admins können den E-Mail-Überprüfungsstatus des Abonnements, den Prozentsatz der Benutzenden im Abonnement, die die E-Mail-Überprüfung abgeschlossen haben, und die Anzahl der Benutzenden anzeigen, die als „Übersprungen“ markiert wurden. Der Status wird über den E-Mail-Überprüfungsstatus aller Benutzenden im Abonnement gemeldet. Die bzw. der Admin kann auf die Anzahl der übersprungenen Benutzenden klicken und zur Registerkarte „Benutzermigration“ navigieren, um die übersprungenen Benutzenden anzuzeigen.
 
-Die Verifizierungs-E-Mail kann von einem Administrator auf der Registerkarte „Benutzermigration“ der Migrationskonsole und auf der Registerkarte „Benutzer und Rollen“ im Bereich &quot;Marketo Admin“ bzw. von dem Benutzer in den Kontoeinstellungen erneut gesendet werden. Wie bei E-Mails mit Benutzereinladungen läuft der Link in der Verifizierungs-E-Mail in 3 Tagen ab. Weitere Informationen zur E-Mail-Überprüfung finden Sie in der [Community](https://nation.marketo.com/) und in der [Dokumentation zur E-Mail-Überprüfung](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
+Die Überprüfungs-E-Mail kann von einer bzw. einem Admin auf der Registerkarte „Benutzermigration“ der Migrationskonsole und auf der Registerkarte „Benutzer und Rollen“ im Bereich „Administrator“ von Marketo oder von der Benutzerin bzw. dem Benutzer über die Kontoeinstellungen erneut gesendet werden. Wie bei Einladungs-E-Mails für Benutzende läuft der Link in der Überprüfungs-E-Mail nach 3 Tagen ab. Weitere Informationen zur E-Mail-Überprüfung finden Sie in der [Community](https://nation.marketo.com/) und in der [Dokumentation zur E-Mail-Überprüfung](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
 >[!IMPORTANT]
 >
->Wenn Marketo Engage-Benutzende ihre E-Mail-Adresse nicht verifizieren, können sie nicht zu einer Adobe ID migriert werden und verlieren den Zugriff auf das Marketo-Abonnement, nachdem die Migration abgeschlossen ist. Um den Zugriff wiederzuerlangen, muss ein Marketo-Produktadministrator sie als neuen Benutzer hinzufügen.
+>Wenn Marketo Engage-Benutzende ihre E-Mail-Adresse nicht verifizieren, können sie nicht zu einer Adobe ID migriert werden und verlieren den Zugriff auf das Marketo-Abonnement nach Abschluss der Migration. Um den Zugriff wiederzuerlangen, muss eine bzw. ein Marketo-Produktadmin sie als neue Benutzende hinzufügen.
 
-#### Benutzermigration und Aktivierung {#user-migration-and-activation}
+#### Benutzermigration und -aktivierung {#user-migration-and-activation}
 
-Im Abschnitt „Benutzermigration und Aktivierung“ kann ein Administrator den aktuellen Status der gesamten Benutzermigration und die Berechtigung für das Adobe Identity Management-System finden.
+Im Abschnitt „Benutzermigration und -aktivierung“ kann eine bzw. ein Admin den aktuellen Status der gesamten Benutzermigration und der Berechtigung für das Identitäts-Management-System von Adobe einsehen.
 
-Ein Administrator kann den Prozentsatz der Benutzenden in ihrem Abonnement anzeigen, die zu einer Adobe ID migriert wurden oder als „Übersprungen“ markiert sind. Der Status wird beim Status des Migrationsstatus aller Benutzer zu einer Adobe ID im Abonnement gemeldet oder als „Übersprungen“ gekennzeichnet und wird nicht migriert. Wenn Benutzende migriert werden, die Berechtigung für Marketo Engage haben oder übersprungen werden, wird dieser Status aktualisiert.
+Eine bzw. ein Admin kann den Prozentsatz der Benutzenden in ihrem Abonnement anzeigen, die zu einer Adobe ID migriert oder als „Übersprungen“ markiert wurden. Der Status wird über den Status der Migration zu einer Adobe ID aller Benutzenden im Abonnement oder der als „Übersprungen“ markierten und nicht migrierten Benutzenden gemeldet. Wenn Benutzende migriert werden und die Berechtigung für Marketo Engage erhalten oder wenn sie übersprungen werden, wird dieser Status aktualisiert.
 
 #### Migrationsbestätigung {#migration-confirmation}
 
-Im Abschnitt Migrationsbestätigung muss ein Administrator bestätigen, dass die Benutzermigration für das Abonnement abgeschlossen ist.
+Im Abschnitt „Migrationsbestätigung“ muss eine bzw. ein Admin bestätigen, dass die Benutzermigration für das Abonnement abgeschlossen ist.
 
-Sobald alle Benutzenden im Abonnement berücksichtigt (migriert oder übersprungen) wurden, wird die Schaltfläche „Migration abschließen“ angezeigt.
+Sobald alle Benutzenden im Abonnement berücksichtigt (migriert oder übersprungen) wurden, wird die Schaltfläche „Vollständige Migration“ angezeigt.
 
 ![](assets/migrating-to-adobe-identity-8.png)
 
-Der Administrator, der die Migration durchführt, muss die Migrationsbestätigung durch Klicken auf die Schaltfläche **Migration**. Sie werden aufgefordert, Folgendes zu **Bestätigen**.
+Die bzw. der Admin, die bzw. der die Migration durchführt, muss die Migration durch Klicken auf die Schaltfläche **Vollständige Migration** bestätigen. Sie werden zum **Bestätigen** aufgefordert.
 
 ![](assets/migrating-to-adobe-identity-9.png)
 
-Nachdem der Abschluss der Benutzermigration bestätigt wurde, wird die Migrationskonsole aus dem Admin-Navigationsmenü entfernt.
+Nachdem der Abschluss der Benutzermigration bestätigt wurde, wird die Migrationskonsole aus dem Navigationsmenü im Bereich „Administrator“ entfernt.
 
 ### Ablauf der Benutzermigration {#user-migration-expiration}
 
-Adobe verlangt, dass Kunden Self-Service-Migrationen innerhalb von 30 Tagen durchführen. Administratoren werden nicht daran gehindert, Benutzer zu migrieren oder die Migration abzuschließen, wenn das Ablaufdatum überschritten ist. Sie können jedoch nur Benutzer nach Bedarf migrieren. Wenn ein Administrator mehr Zeit benötigt, kann er das Ablaufdatum des Abonnements verlängern.
+Adobe verlangt, dass Kundinnen und Kunden Self-Service-Migrationen innerhalb von 30 Tagen abschließen. Admins werden nach Überschreiten des Ablaufdatums nicht daran gehindert, Benutzende zu migrieren oder die Migration abzuschließen. Sie können dann jedoch nur noch Benutzende nach Bedarf migrieren. Wenn Admins mehr Zeit benötigen, können sie das Ablaufdatum des Abonnements verlängern.
 
 ![](assets/migrating-to-adobe-identity-10.png)
 
-Nach dem Klicken auf **Schaltfläche** verlängern wird das Datum auf eine Woche später aktualisiert. Ein Administrator kann die Gültigkeit bis zu dreimal verlängern.
+Nach Klicken auf die Schaltfläche **Ablauf verlängern** wird das Datum auf eine Woche später aktualisiert. Admins können den Ablauf bis zu dreimal verlängern.
 
 ![](assets/migrating-to-adobe-identity-11.png)
 
 ![](assets/migrating-to-adobe-identity-12.png)
 
-Adobe wird sich mit Ihnen in Verbindung setzen, wenn Sie die Migration nicht bis zum Ablaufdatum abschließen.
+Adobe setzt sich mit Ihnen in Verbindung, wenn Sie die Migration nicht bis zum Ablaufdatum abschließen.
 
 ### Registerkarte „Benutzermigration“ {#user-migration-tab}
 
-Die Registerkarte Benutzermigration bietet Admins die Tools, um die Benutzermigration vollständig steuern zu können.
+Die Registerkarte „Benutzermigration“ bietet Admins die Tools, mit denen sie die Benutzermigration vollständig steuern können.
 
-Administratoren haben folgende Möglichkeiten:
+Admins haben folgende Möglichkeiten:
 
-* E-Mails zur Benutzerüberprüfung für nicht verifizierte Trigger über die Schaltfläche „E-Mail überprüfen“
-* Benutzermigration überspringen für Benutzer, von denen der Administrator weiß, dass sie ihre E-Mail verifizieren können/werden, oder die nicht über die Schaltfläche „Migration überspringen“ migriert werden sollten
-* Ausgewählte(n) Benutzer bei Bedarf über die Schaltfläche „Jetzt migrieren“ migrieren
-* Benutzermigration für ausgewählten Benutzer für ein bestimmtes Datum über die Schaltfläche „Migration planen“ planen
-* Alle berechtigten Benutzer bei Bedarf migrieren (keine Benutzerauswahl erforderlich) über die Schaltfläche „Alle Benutzer migrieren“
+* Auslösen von Überprüfungs-E-Mails für nicht verifizierte Benutzende über die Schaltfläche „E-Mail bestätigen“
+* Überspringen der Benutzermigration für Benutzende über die Schaltfläche „Migration überspringen“, von denen Admins wissen, dass sie ihre E-Mail nicht verifizieren können/werden, oder die nicht migriert werden sollten
+* Migrieren von ausgewählten Benutzenden nach Bedarf über die Schaltfläche „Jetzt migrieren“
+* Planen der Benutzermigration für ausgewählte Benutzende an einem bestimmten Datum über die Schaltfläche „Migration planen“
+* Migrieren aller berechtigten Benutzenden nach Bedarf (keine Benutzerauswahl erforderlich) über die Schaltfläche „Alle Benutzenden migrieren“
 
 ![](assets/migrating-to-adobe-identity-13.png)
 
-**E-Mail überprüfen**
+**Verifizieren der E-Mail-Adresse**
 
-Eine E-Mail-Überprüfung ist erforderlich, damit Benutzende zu einer Adobe ID migriert werden können. Wenn Benutzer vorhanden sind, die ihre E-Mail-Adresse nicht verifiziert haben und migriert werden müssen, kann der Administrator die Verifizierungs-E-Mail an den Trigger senden, um sie erneut zu senden. Wenn Sie einen nicht verifizierten Benutzer auswählen, kann der Button „E-Mail überprüfen“ angeklickt werden.
+Eine E-Mail-Überprüfung ist erforderlich, damit Benutzende zu einer Adobe ID migriert werden können. Wenn Benutzende vorhanden sind, die ihre E-Mail-Adresse nicht verifiziert haben und migriert werden müssen, kann die bzw. der Admin veranlassen, dass die Überprüfungs-E-Mail erneut an die Benutzenden gesendet wird. Bei Auswahl nicht verifizierter Benutzender wird die Schaltfläche „E-Mail bestätigen“ klickbar.
 
 ![](assets/migrating-to-adobe-identity-14.png)
 
-Wenn der Administrator auf die Schaltfläche **E-Mail überprüfen** klickt, erhält er eine Benachrichtigung, dass die E-Mail gesendet wurde.
+Wenn die bzw. der Admin auf die Schaltfläche **E-Mail bestätigen** klickt, erhält sie bzw. er eine Benachrichtigung, dass die E-Mail gesendet wurde.
 
 ![](assets/migrating-to-adobe-identity-15.png)
 
-**Benutzermigration überspringen und**
+**Überspringen und Aufheben des Überspringens der Benutzermigration**
 
-Während der Benutzermigration müssen alle Benutzer entweder migriert oder übersprungen werden. Adobe erfordert, dass Administratoren bestätigen, dass ein Benutzer nicht migriert wird, und ein Administrator muss den Benutzer als übersprungen markieren. Wenn der Administrator dies nicht tut, kann er den Abschluss der Benutzermigration nicht bestätigen. Alle übersprungenen Benutzer verlieren den Zugriff auf Marketo, sobald die Benutzermigration abgeschlossen ist.
+Während der Benutzermigration müssen alle Benutzenden entweder migriert oder übersprungen werden. Adobe verlangt, dass Admins bestätigen, wenn eine Benutzerin bzw. ein Benutzer nicht migriert wird, und dass sie die Benutzerin bzw. den Benutzer als „Übersprungen“ markieren. Wenn dies nicht geschieht, kann der Abschluss der Benutzermigration nicht bestätigt werden. Alle übersprungenen Benutzenden verlieren den Zugriff auf Marketo, sobald die Benutzermigration abgeschlossen ist.
 
 >[!IMPORTANT]
 >
->Ein Administrator muss alle Benutzer mit nicht verifizierten E-Mails überspringen. Wenn es Benutzer gibt, die ihre E-Mails überprüft haben, der Administrator sie jedoch aus irgendeinem Grund nicht migrieren möchte, sollten sie als übersprungen markiert werden.
+>Eine bzw. ein Admin muss alle Benutzenden mit nicht verifizierten E-Mail-Adressen überspringen. Wenn es Benutzende gibt, die ihre E-Mail-Adresse verifiziert haben, die bzw. der Admin sie jedoch aus irgendeinem Grund nicht migrieren möchte, sollten sie als „Übersprungen“ markiert werden.
 
-Um einen Benutzer zu überspringen, kann der Administrator den/die gewünschten Benutzer auswählen. Die Schaltfläche „Migration überspringen“ wird anklickbar. Nach dem Klicken auf **Migration überspringen** wird die Seite aktualisiert und der Verifizierungsstatus und Migrationsstatus des ausgewählten Benutzers werden in „Übersprungen“ aktualisiert.
+Um Benutzende zu überspringen, kann die bzw. der Admin die gewünschten Benutzenden auswählen. Die Schaltfläche „Migration überspringen“ wird klickbar. Nach Klicken auf **Migration überspringen** wird die Seite aktualisiert und der Überprüfungs- und Migrationsstatus der ausgewählten Benutzerin bzw. des ausgewählten Benutzers werden zu „Übersprungen“ aktualisiert.
 
 ![](assets/migrating-to-adobe-identity-16.png)
 
-Ein Administrator kann einen zuvor übersprungenen Benutzer überspringen, wenn festgestellt wird, dass der Benutzer migriert werden muss.
+Eine bzw. ein Admin kann das Überspringen von zuvor übersprungenen Benutzenden aufheben, wenn festgestellt wird, dass die Benutzenden migriert werden müssen.
 
-Um die Überspringungsvorgänge für Benutzer aufzuheben, kann der Administrator den gewünschten Benutzer auswählen. Die Schaltfläche „Migration überspringen“ wird anklickbar. Wenn Sie auf die Schaltfläche **Migration** nicht überspringen) klicken, wird die Seite aktualisiert.  Der Überprüfungsstatus des ausgewählten Benutzers wird auf den aktuellen Status aktualisiert, entweder auf „Verifiziert“ oder „Nicht verifiziert“, und der Migrationsstatus des Benutzers wird auf „Nicht gestartet“ aktualisiert.
+Um das Überspringen für Benutzende aufzuheben, kann die bzw. der Admin die gewünschten Benutzenden auswählen. Die Schaltfläche „Migration nicht überspringen“ wird klickbar. Nach Klicken auf die Schaltfläche **Migration nicht überspringen** wird die Seite aktualisiert.  Der Überprüfungsstatus der ausgewählten Benutzerin bzw. des ausgewählten Benutzers wird auf den aktuellen Status aktualisiert („Verifiziert“ oder „Nicht verifiziert“) und der Migrationsstatus auf „Nicht gestartet“.
 
 ![](assets/migrating-to-adobe-identity-17.png)
 
 >[!NOTE]
 >
->Die Schaltfläche „Migration überspringen“ ist nur aktiv, wenn alle ausgewählten Benutzer über den Migrationsstatus „Übersprungen“ verfügen.
+>Die Schaltfläche „Migration nicht überspringen“ ist nur aktiv, wenn alle ausgewählten Benutzenden über den Migrationsstatus „Übersprungen“ verfügen.
 
-### Migrieren von Marketo-Benutzern zu Adobe IDs {#migrating-marketo-users-to-adobe-ids}
+### Migrieren von Marketo-Benutzenden zu Adobe IDs {#migrating-marketo-users-to-adobe-ids}
 
-Produktadministratoren von Marketo können Benutzende auswählen, die stapelweise migriert werden sollen, oder alle berechtigten Benutzenden gleichzeitig. Sobald Benutzer ausgewählt sind, haben Administratoren die Möglichkeit, „Jetzt migrieren“ oder „Migration planen“ für einen späteren Zeitpunkt, sodass Administratoren flexibel entscheiden können, welche Benutzer wann migriert werden. Admins wird außerdem die Option „Alle Benutzer migrieren“ in einem Abonnement angezeigt.
+Marketo-Produktadmins können wählen, ob sie Benutzende in Batches oder alle berechtigten Benutzenden gleichzeitig migrieren möchten. Nach Auswahl der Benutzenden stehen Admins die Optionen „Jetzt migrieren“ oder „Migration planen“ (für einen späteren Zeitpunkt) zur Verfügung. Dadurch sind Admins flexibel und haben Kontrolle darüber, welche Benutzenden migriert werden und wann dies geschieht. Admins wird außerdem die Option „Alle Benutzenden migrieren“ (in einem Abonnement) angezeigt.
 
-Beispielsweise kann ein Administrator eine Gruppe von „Hauptbenutzern“ auswählen, die zuerst migriert werden sollen. Sobald diese Benutzermigrationen erfolgreich abgeschlossen sind, können sie verschiedene Benutzergruppen basierend auf Variablen wie Arbeitsbereich/Unternehmen oder Funktion/Rolle auswählen, um weitere Batch-Benutzermigrationen durchzuführen. Oder sie können sich entscheiden, die restlichen Benutzenden in den Abonnements nach dem Erfolg des ersten Batches zu migrieren. Ziel ist es, den Benutzern die größte Flexibilität beim Rollout von Adobe IDs zu bieten.
+Beispielsweise kann eine bzw. ein Admin eine Gruppe von „Hauptbenutzenden“ auswählen, die zuerst migriert werden soll. Sobald diese Benutzermigrationen erfolgreich abgeschlossen sind, können sie verschiedene Benutzergruppen basierend auf Variablen wie Arbeitsbereich/Unternehmen oder Funktion/Rolle auswählen, um weitere Benutzermigrationen in Batches durchzuführen. Oder sie können sich entscheiden, nach Erfolg des ersten Batches die restlichen Benutzenden in den Abonnements zu migrieren. Ziel ist es, den Benutzenden die größte Flexibilität bei der Einführung von Adobe IDs zu bieten.
 
-Alle Benutzermigrationen finden gleichzeitig statt und sollten innerhalb von sechzig Sekunden erfolgreich abgeschlossen werden. Während die Benutzermigration für eine bestimmte Benutzerin oder einen bestimmten Benutzer erfolgt, kann die Benutzerin oder der Benutzer für bis zu 1 Minute den Zugriff verlieren, und zwar nur, wenn die Benutzerin oder der Benutzer bei der Anwendung angemeldet ist. Nach Abschluss der Benutzermigration erhält der/die Benutzende eine E-Mail, in der beschrieben wird, wie er/sie sich mit einer Adobe-Identität bei Marketo Engage anmeldet. Der Benutzer muss die Einladung über den Button-Link in der E-Mail annehmen _bevor_ sich mit einer Adobe ID anmelden können. Eine Anleitung zur Anmeldung bei Marketo Engage mit einem Adobe ID [finden Sie hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
+Alle Benutzermigrationen finden gleichzeitig statt und sollten innerhalb von sechzig Sekunden erfolgreich abgeschlossen sein. Während die Benutzermigration für eine bestimmte Benutzerin bzw. einen bestimmten Benutzer erfolgt, kann die Person für bis zu 1 Minute den Zugriff verlieren. Dies geschieht nur, wenn die Person bei der Anwendung angemeldet ist. Nach Abschluss der Benutzermigration erhalten Benutzende eine E-Mail mit der Anleitung, wie die Anmeldung bei Marketo Engage mit einer Adobe-Identität funktioniert. Benutzende müssen die Einladung über den Link auf der Schaltfläche in der E-Mail annehmen, _bevor_ sie sich mit einer Adobe ID anmelden können. Eine Anleitung zur Anmeldung bei Marketo Engage mit einer Adobe ID [finden Sie hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
 ![](assets/migrating-to-adobe-identity-18.png)
 
-Benutzermigrationen werden unabhängig verarbeitet. Wenn eine Benutzermigration fehlschlägt, verarbeitet Adobe also weiterhin andere Benutzermigrationen. Wenn die Benutzermigration fehlschlägt, ist keine Aktion von einem Administrator erforderlich. Der Administrator erhält eine E-Mail-Benachrichtigung über den Fehler und wird darauf hingewiesen, dass Adobe daran arbeitet, das Problem sofort zu beheben. Wenn die Migration einer Benutzerin oder eines Benutzers fehlschlägt und diese Person bei Marketo Engage angemeldet ist, kann die Benutzerin oder der Benutzer den Zugriff für bis zu zwei Minuten verlieren, während es erneut zu Migrationsversuchen kommt. Wenn die Migration einer Benutzerin oder eines Benutzers fehlschlägt, kann die Person weiterhin mit ihrer Marketo-Identität auf Marketo Engage zugreifen, bis sie per E-Mail darüber informiert wird, dass die Migration erfolgreich war, und sie bzw. er aufgefordert wird, sich mit einer Adobe ID anzumelden.
+Benutzermigrationen werden unabhängig voneinander verarbeitet. Wenn eine Benutzermigration fehlschlägt, verarbeitet Adobe also weiterhin andere Benutzermigrationen. Wenn eine Benutzermigration fehlschlägt, ist kein Eingreifen von einer bzw. einem Admin erforderlich. Die bzw. der Admin erhält eine E-Mail-Benachrichtigung über den Fehler und wird darauf hingewiesen, dass Adobe an der sofortigen Behebung des Problems arbeitet. Wenn die Migration einer Benutzerin bzw. eines Benutzers fehlschlägt und diese Person bei Marketo Engage angemeldet ist, verliert die Benutzerin bzw. der Benutzer möglicherweise für bis zu zwei Minuten den Zugriff, während es erneut zu Migrationsversuchen kommt. Wenn die Migration einer Benutzerin bzw. eines Benutzers fehlschlägt, kann die Person weiterhin mit ihrer Marketo-Identität auf Marketo Engage zugreifen, bis sie per E-Mail über die erfolgreiche Migration informiert und dazu aufgefordert wird, sich mit einer Adobe ID anzumelden.
 
 ![](assets/migrating-to-adobe-identity-19.png)
 
 **Jetzt migrieren**
 
-Ein Administrator kann bei Bedarf einen oder mehrere Benutzer für die Migration auswählen. Dadurch wird die Benutzermigration sofort Trigger. Um einen oder mehrere Benutzer zu migrieren, kann der Administrator die gewünschten Benutzer auswählen, und die Schaltfläche „Jetzt migrieren“ wird anklickbar.
+Eine bzw. ein Admin kann eine oder mehrere Personen nach Bedarf für die Migration auswählen. Dadurch wird die Benutzermigration sofort ausgelöst. Um eine oder mehrere Personen zu migrieren, kann die bzw. der Admin die gewünschten Personen auswählen. Dadurch wird die Schaltfläche „Jetzt migrieren“ klickbar.
 
 ![](assets/migrating-to-adobe-identity-20.png)
 
 >[!NOTE]
 >
->Die Schaltfläche „Jetzt migrieren“ ist nur aktiv, wenn alle ausgewählten Benutzer einen „Verifizierten“ Verifizierungsstatus haben.
+>Die Schaltfläche „Jetzt migrieren“ ist nur aktiv, wenn alle ausgewählten Benutzenden den Überprüfungsstatus „Verifiziert“ haben.
 
-Beim Klicken auf **Schaltfläche** Jetzt migrieren“ wird der Administrator aufgefordert, die Migration der ausgewählten Benutzer zu bestätigen. Sobald dies vom Administrator bestätigt wird, beginnen die Benutzermigrationen so bald wie möglich mit der Verarbeitung.
+Nach Klicken auf die Schaltfläche **Jetzt migrieren** wird die bzw. der Admin aufgefordert, die Migration der ausgewählten Benutzenden zu bestätigen. Wenn dies von der bzw. dem Admin bestätigt wird, beginnt die Verarbeitung der Benutzermigrationen so bald wie möglich.
 
 ![](assets/migrating-to-adobe-identity-21.png)
 
 **Migration planen**
 
-Ein Administrator kann einen oder mehrere Benutzer auswählen, um die Migration für einen späteren Zeitpunkt zu planen. Um die Migration für einen oder mehrere Benutzer zu planen, wählt der Administrator die gewünschten Benutzer aus, und die Schaltfläche „Migration planen“ wird angeklickt.
+Eine bzw. ein Admin kann eine Person oder mehrere Personen auswählen, um deren Migration für einen späteren Zeitpunkt zu planen. Um die Migration für eine oder mehrere Personen zu planen, wählt die bzw. der Admin die gewünschten Personen aus. Dadurch wird die Schaltfläche „Migration planen“ klickbar.
 
 ![](assets/migrating-to-adobe-identity-22.png)
 
 >[!NOTE]
 >
->Die Schaltfläche „Geplante Migration“ ist nur aktiv, wenn alle Benutzenden den Überprüfungsstatus „Geprüft“ und den Migrationsstatus „Nicht gestartet“ oder &quot;Adobe ID erstellt“ haben.
+>Die Schaltfläche „Migration planen“ ist nur aktiv, wenn alle Benutzenden den Überprüfungsstatus „Verifiziert“ und den Migrationsstatus „Nicht gestartet“ oder „Adobe ID erstellt“ haben.
 
-Beim Klicken auf **Migration planen** wird der Administrator aufgefordert, das gewünschte Migrationsdatum für die ausgewählten Benutzer auszuwählen. Der Administrator kann nur Daten vor dem Ablaufdatum der Migration des Abonnements auswählen. Sobald die Administratorin bzw. der Administrator dies bestätigt, ist geplant, dass die Benutzermigration(en) am ausgewählten Datum verarbeitet wird bzw. werden.
+Nach Klicken auf die Schaltfläche **Migration planen** wird die bzw. der Admin aufgefordert, das gewünschte Migrationsdatum für die ausgewählten Benutzenden auszuwählen. Die bzw. der Admin kann nur Daten auswählen, die vor dem Ablaufdatum der Migration des Abonnements liegen. Nach Bestätigung der bzw. des Admins wird der Beginn der Verarbeitung der Benutzermigrationen für das ausgewählte Datum geplant.
 
 ![](assets/migrating-to-adobe-identity-23.png)
 
 >[!NOTE]
 >
->Alle Marketo-Abonnements mit einer Zeitzone in den USA werden ab Mitternacht (Pacific Standard Time) des Migrationsstartdatums migriert. Die Benutzermigration für alle anderen Abonnements beginnt um Mitternacht in der angegebenen Zeitzone des Abonnements.
+>Alle Marketo-Abonnements mit einer Zeitzone in den USA werden ab Mitternacht (Pacific Standard Time) des Startdatums der Migration migriert. Die Benutzermigration für alle anderen Abonnements beginnt um Mitternacht der für das Abonnement festgelegten Zeitzone.
 
-**Alle Benutzer migrieren**
+**Alle Benutzenden migrieren**
 
-Ein Administrator kann auswählen, ob alle berechtigten Benutzer eines Abonnements jederzeit migriert werden sollen. Dadurch wird die Migration der berechtigten Benutzenden sofort zu einem Trigger. Berechtigte Benutzer sind Benutzer mit verifizierten E-Mails, die noch nicht migriert wurden.
+Eine bzw. ein Admin kann sich jederzeit dazu entscheiden, alle berechtigten Benutzenden eines Abonnements zu migrieren. Dadurch wird die Migration der berechtigten Benutzenden sofort ausgelöst. Berechtigte Benutzende sind Benutzende mit verifizierten E-Mail-Adressen, die noch nicht migriert wurden.
 
 ![](assets/migrating-to-adobe-identity-24.png)
 
-Wenn Sie auf die Schaltfläche **Alle Benutzer migrieren** klicken, wird der Administrator aufgefordert, die **aller** Benutzer zu bestätigen. Wenn der Administrator dies bestätigt, beginnen die Benutzermigrationen so bald wie möglich zu verarbeiten.
+Nach Klicken auf die Schaltfläche **Alle Benutzenden migrieren** wird die bzw. der Admin aufgefordert, die Migration der berechtigten Benutzenden zu **bestätigen**. Sobald dies von der bzw. dem Admin bestätigt wird, beginnt die Verarbeitung der Benutzermigrationen so bald wie möglich.
 
 ![](assets/migrating-to-adobe-identity-25.png)

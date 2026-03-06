@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360327
-description: Zuweisen von Personenpartitionen mit Zuweisungsregeln - Marketo-Dokumente - Produktdokumentation
+description: Wie man Zuweisungsregeln einrichtet, um Personen aus dem CRM in die richtigen Personenpartitionen zu leiten.
 title: Zuweisen von Personen-Partitionen mit Zuweisungsregeln
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!PREREQUISITES]
 >

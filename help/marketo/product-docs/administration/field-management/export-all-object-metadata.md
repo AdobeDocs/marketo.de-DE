@@ -1,12 +1,12 @@
 ---
-description: Exportieren aller Objektmetadaten - Marketo-Dokumente - Produktdokumentation
+description: Exportieren Sie alle Objekte und ihre Metadaten einschließlich Lead-Feldern, benutzerdefinierten Objekten, Aktivitäten, Kanälen und Tags als CSV.
 title: Exportieren aller Objektmetadaten
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 24%
+source-wordcount: '84'
+ht-degree: 25%
 
 ---
 
@@ -16,7 +16,7 @@ Mit dieser Funktion können Sie alle Objekte und ihre Metadaten exportieren.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 ## Objekte {#objects}
 

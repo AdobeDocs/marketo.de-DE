@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417092
-description: Von Daten für ein Feld verwendete Exportdaten - Marketo-Dokumente - Produktdokumentation
+description: Exportieren Sie eine Liste der Assets, die ein Feld verwenden, damit Sie die Aufhebung der Verknüpfung an Ihr Team delegieren können.
 title: Exportieren der für ein Feld verwendeten Daten
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 13%
+source-wordcount: '108'
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ Als Administrator haben Sie die Möglichkeit, zugehörige Assets eines Felds zu 
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

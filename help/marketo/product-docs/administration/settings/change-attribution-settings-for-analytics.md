@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360217
-description: Attributionseinstellungen für Analytics ändern - Marketo-Dokumente - Produktdokumentation
+description: Wie Sie in der Umsatzzyklusanalyse Optionen für Erstkontakt- und Multitouch-Attribution, Lead-Konversion und Marketing-beeinflusste Opportunities festlegen.
 title: Ändern der Attributionseinstellungen für Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '197'
 ht-degree: 5%
 
 ---

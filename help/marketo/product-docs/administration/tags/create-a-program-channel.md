@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950682
-description: Erstellen eines Programmkanals - Marketo-Dokumente - Produktdokumentation
+description: Schritte zum Erstellen eines Programmkanals mit Status und Fortschrittsschritten, einschließlich Programmtyp, Erfolgsstatus und mobile Eincheckoptionen für Ereignisse.
 title: Erstellen eines Programmkanals
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '442'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Ein Programm ist eine spezifische Marketing-Initiative. Der Kanal ist als Bereit
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!NOTE]
 >

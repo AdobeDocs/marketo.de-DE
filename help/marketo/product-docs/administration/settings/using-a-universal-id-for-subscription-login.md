@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100311
-description: Verwenden einer universellen ID für die Anmeldung bei Abonnements - Marketo-Dokumente - Produktdokumentation
+description: Wie mit der universellen ID auf mehrere Marketo-Abonnements mit nur einer Anmeldung zugegriffen werden kann, wie zwischen ihnen gewechselt werden kann und wie Passwortrichtlinien und Profildaten in allen Abonnements funktionieren.
 title: Verwenden einer universellen ID für die Anmeldung bei einem Abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '583'
 ht-degree: 2%
 
 ---

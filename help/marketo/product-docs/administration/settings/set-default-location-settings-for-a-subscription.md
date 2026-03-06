@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359902
-description: Standardspeicherorteinstellungen für ein Abonnement festlegen - Marketo-Dokumente - Produktdokumentation
+description: Anzeigen und Bearbeiten der standardmäßigen Standorteinstellungen für ein Abonnement durch Administratoren, einschließlich Sprache, Gebietsschema, Zeitzone und Währung.
 title: Festlegen der standardmäßigen Standorteinstellungen für ein Abonnement
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '255'
 ht-degree: 9%
 
 ---

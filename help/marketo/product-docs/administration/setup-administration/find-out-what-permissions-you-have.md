@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359898
-description: Erfahren Sie, welche Berechtigungen Sie haben - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihre aktuellen Marketo-Berechtigungen anzeigen.
 title: Ermitteln, welche Berechtigungen Sie haben
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '75'
+ht-degree: 21%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Wenn Sie sich fragen, welche Berechtigungen Sie in Marketo haben oder nicht, gibt es eine einfache Möglichkeit, dies herauszufinden.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/find-out-what-permissions-you-have-1.png)
 

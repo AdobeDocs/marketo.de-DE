@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360222
-description: Kommunikationsbeschränkungen aktivieren - Marketo-Dokumente - Produktdokumentation
+description: Legen Sie für E-Mails einen Grenzwert von pro Tag und pro sieben Tage fest, um eine Überkommunikation mit Ihren Mitarbeitern zu vermeiden.
 title: Aktivieren von Kommunikationsbeschränkungen
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 7%
+source-wordcount: '163'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Es ist sehr wichtig, mit seinen Leuten nicht zu viel zu kommunizieren. Das Festl
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

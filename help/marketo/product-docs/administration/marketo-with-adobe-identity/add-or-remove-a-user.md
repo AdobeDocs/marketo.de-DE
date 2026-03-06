@@ -1,11 +1,11 @@
 ---
-description: Benutzer hinzufügen oder entfernen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Marketo Engage-Benutzende in der Adobe Admin Console hinzufügen oder entfernen, indem Sie ein Produktprofil auswählen und die Registerkarte Benutzende verwalten.
 title: Hinzufügen oder Entfernen von Benutzenden
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '254'
 ht-degree: 6%
 
 ---
@@ -54,7 +54,7 @@ Der/die Benutzende erhält dann eine E-Mail, um sich bei Marketo Engage anzumeld
 
 >[!NOTE]
 >
->Wenn der/die Benutzende über die Adobe Admin Console zu Marketo Engage hinzugefügt wird, erhält er/sie im Standardarbeitsbereich des Abonnements die Rolle „Standardbenutzer“. Wenn die Rolle des Benutzers im Arbeitsbereich angepasst werden muss, geschieht dies in Marketo Engage ([&#x200B; hier beschrieben](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Wenn der/die Benutzende über die Adobe Admin Console zu Marketo Engage hinzugefügt wird, erhält er/sie im Standardarbeitsbereich des Abonnements die Rolle „Standardbenutzer“. Wenn die Rolle des Benutzers im Arbeitsbereich angepasst werden muss, geschieht dies in Marketo Engage ([ hier beschrieben](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Benutzer entfernen {#remove-a-user}
 

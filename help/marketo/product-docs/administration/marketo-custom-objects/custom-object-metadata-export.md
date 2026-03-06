@@ -1,11 +1,11 @@
 ---
-description: Export von benutzerdefinierten Objektmetadaten - Marketo-Dokumente - Produktdokumentation
+description: Exportieren des benutzerdefinierten Objekt-Metadatenschemas für die Verwendung mit der SOAP- oder Munchkin-API.
 title: Exportieren benutzerdefinierter Objektmetadaten
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '114'
 ht-degree: 7%
 
 ---

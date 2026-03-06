@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950660
-description: Erstellen benutzerdefinierter Tags - Marketo-Dokumente - Produktdokumentation
+description: Erstellen eines neuen Tag-Typs mit Werten, Auswählen der Programmtypen, für die er gilt, und Festlegen des Tags als erforderlich oder optional.
 title: Erstellen von benutzerdefinierten Tags
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 3%
+source-wordcount: '236'
+ht-degree: 4%
 
 ---
 
@@ -17,11 +17,11 @@ Tags helfen Ihnen bei der Organisation Ihrer Programme, während Kanäle bei der
 
 >[!NOTE]
 >
->Weitere Informationen finden [&#x200B; unter &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) von Tags .
+>Weitere Informationen finden [ unter ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) von Tags .
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 ## Erstellen eines neuen Tag-Typs {#create-a-new-tag-type}
 

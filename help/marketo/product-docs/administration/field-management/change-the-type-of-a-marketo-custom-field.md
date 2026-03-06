@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360331
-description: Ändern des Typs eines benutzerdefinierten Marketo-Felds - Marketo-Dokumente - Produktdokumentation
+description: Ändern des Datentyps eines benutzerdefinierten Felds in der Feldverwaltung (Score- und Formelfelder können nicht geändert werden).
 title: Ändern des Typs eines benutzerdefinierten Marketo-Felds
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 15%
+source-wordcount: '110'
+ht-degree: 14%
 
 ---
 

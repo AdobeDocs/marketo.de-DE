@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378713
-description: Trigger von benutzerdefinierten Objektänderungen - Marketo-Dokumente - Produktdokumentation
+description: Verwendung benutzerdefinierter Objekte Hinzufügen oder Ändern von Triggern in einer Smart Campaign-Smart-Liste für benutzerdefinierte Marketo-Objekte mit Schritten zum Hinzufügen des Triggers und Festlegen von Einschränkungen.
 title: Auslösen von Änderungen an benutzerdefinierten Objekten
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '202'
 ht-degree: 5%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 5%
 >* Zur Verwendung nur mit benutzerdefinierten Marketo-Objekten, nicht mit benutzerdefinierten Objekten, die über die native [!DNL Salesforce]- oder [!DNL Microsoft Dynamics]-Integration synchronisiert werden
 >* Als Trigger, nicht als Filter
 >
->Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support)Support, um die Trigger für benutzerdefinierte Objektänderungen zu aktivieren.
+>Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de)Support, um die Trigger für benutzerdefinierte Objektänderungen zu aktivieren.
 
 In der Smart-Liste einer Smart-Kampagne können Sie eine Flussaktion mit Trigger versehen, wenn ein benutzerdefiniertes Objekt einer Person oder einem Unternehmen hinzugefügt wird. Sie können auch eine Smart-Liste erstellen, die eine _Änderung_ in einem benutzerdefinierten Objekt als Trigger verwendet. Verwenden Sie sie beispielsweise, um eine E-Mail zu senden, wenn ein Kursname aktualisiert wird.
 
@@ -40,7 +40,7 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flussaktion mit Trigger
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Wählen Sie das Attribut [!UICONTROL Trigger &#x200B;].
+1. Wählen Sie das Attribut [!UICONTROL Trigger ].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

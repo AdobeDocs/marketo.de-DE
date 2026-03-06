@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360243
-description: Aktivieren von Personenbeschränkungen für Smart-Kampagnen - Marketo-Dokumente - Produktdokumentation
+description: Legen Sie eine maximale Anzahl von Personen fest, die sich für eine intelligente Kampagne qualifizieren können, um zu vermeiden, dass versehentlich eine E-Mail an die gesamte Datenbank gesendet wird.
 title: Aktivieren von Personenbeschränkungen für intelligente Kampagnen
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 1%
+source-wordcount: '160'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ In Marketo gibt es eine Funktion, mit der die _(maximale_ Anzahl von Personen, d
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!CAUTION]
 >
@@ -49,7 +49,7 @@ In Marketo gibt es eine Funktion, mit der die _(maximale_ Anzahl von Personen, d
 
    >[!CAUTION]
    >
-   >Diese Beschränkung gilt für alle Smart-Kampagnen, kann jedoch auf Kampagnenebene überschrieben werden. Erfahren Sie, wie [&#x200B; Personenbeschränkungen in einer intelligenten Kampagne überschreiben &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >Diese Beschränkung gilt für alle Smart-Kampagnen, kann jedoch auf Kampagnenebene überschrieben werden. Erfahren Sie, wie [ Personenbeschränkungen in einer intelligenten Kampagne überschreiben ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 Fertig! Sie haben gerade den Sicherheitsschalter eingeschaltet.
 

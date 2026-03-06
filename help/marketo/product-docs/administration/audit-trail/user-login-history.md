@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377958
-description: Verlauf der Benutzeranmeldung - Marketo-Dokumente - Produktdokumentation
+description: Zeigt an, wer sich wann bei Ihrem Abonnement angemeldet hat, einschließlich fehlgeschlagener Versuche, über Admin-Benutzer und -Rollen.
 title: Verlauf der Benutzeranmeldungen
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '189'
 ht-degree: 6%
 
 ---

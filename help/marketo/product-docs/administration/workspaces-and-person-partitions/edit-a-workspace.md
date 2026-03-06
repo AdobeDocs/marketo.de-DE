@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380986
-description: Workspace bearbeiten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Lead-Partition, die primäre Personenpartition und die primäre Marken-Domain eines Arbeitsbereichs ändern.
 title: Bearbeiten eines Arbeitsbereichs
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 6%
+source-wordcount: '156'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Manchmal müssen Sie Änderungen an einer Workspace vornehmen. Es ist ganz einfa
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!NOTE]
 >

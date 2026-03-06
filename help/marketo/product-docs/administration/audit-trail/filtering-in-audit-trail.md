@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378468
-description: Filtern im Audit-Protokoll - Marketo-Dokumente - Produktdokumentation
+description: Filtern Sie das Audit-Protokoll nach Zeitrahmen, Asset-Typ, Benutzern und Aktion, um bestimmte Änderungen zu finden.
 title: Filtern im Audit-Protokoll
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 7%
+source-wordcount: '149'
+ht-degree: 6%
 
 ---
 

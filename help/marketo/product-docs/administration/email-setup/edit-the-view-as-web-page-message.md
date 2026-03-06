@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360253
-description: Bearbeiten der Nachricht „Als Web-Seite anzeigen“ - Marketo-Dokumente - Produktdokumentation
+description: Passen Sie den Link Als Web-Seite anzeigen und HTML in der Admin-E-Mail an, während die erforderlichen Variablen intakt bleiben.
 title: Bearbeiten der Nachricht „Als Web-Seite anzeigen“
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 11%
+source-wordcount: '191'
+ht-degree: 13%
 
 ---
 
 # Bearbeiten der Nachricht „Als Web-Seite anzeigen“ {#edit-the-view-as-web-page-message}
 
-Wenn Sie den Text &quot;[&#x200B; als Web-Seite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) bearbeiten müssen, sehen Sie folgendes:
+Wenn Sie den Text &quot;[ als Web-Seite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) bearbeiten müssen, sehen Sie folgendes:
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 ## Bearbeiten der Nachricht „Als Web-Seite anzeigen“ {#edit-the-view-as-web-page-message-1}
 
@@ -52,7 +52,7 @@ Da haben Sie es. Senden Sie Test-E-Mails, um die Formatierung sicherzustellen.
 
 ## Standardtext „Als Web-Seite anzeigen“ {#default-view-as-web-page-text}
 
-Wenn Sie jemals zum Standardsystem „Als Web-Seite anzeigen[!UICONTROL &#x200B; zurückkehren müssen] kopieren Sie Folgendes:
+Wenn Sie jemals zum Standardsystem „Als Web-Seite anzeigen[!UICONTROL  zurückkehren müssen] kopieren Sie Folgendes:
 
 **[!UICONTROL Als Webseite anzeigen HTML]**:
 

@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10096583
-description: 'Häufig gestellte  [!DNL Munchkin] : Tracking der nächsten Generation - Marketo-Dokumente - Produktdokumentation'
+description: Häufig gestellte Fragen zum Tracking- [!DNL Munchkin]  der nächsten Generation und zur Änderung des Is Anonymous-Filters.
 title: Häufig gestellte  [!DNL Munchkin]  zum Tracking der nächsten Generation
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,8 @@ Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Sm
 >[!NOTE]
 >
 >**Trigger**: Besucht die Web-Seite, die Web-Seite ist die Preisseite
->&#x200B;>**Fluss**: Punktzahl ändern +10 und Interessanter Moment
->&#x200B;>**Web**: Seite mit angezeigten Preisen
+>**Fluss**: Punktzahl ändern +10 und Interessanter Moment
+>**Web**: Seite mit angezeigten Preisen
 >
 >Bei [!DNL Munchkin] V2 tritt eine anonyme Person, die die Preisseite besucht, nicht sofort in die Kampagne ein. Sobald die anonyme Person bekannt wird, führen wir diese Kampagne auf ihr durch. Sie wird:
 >
@@ -92,4 +92,4 @@ Sehen Sie sich diese Links an:
 
 ## Ich habe noch weitere Fragen! Wie bekomme ich Antworten? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Bitte kontaktieren Sie die [Community](https://nation.marketo.com/){target="_blank"}. Sie können sich auch an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} wenden. Sie werden Ihre Fragen gerne beantworten.
+Bitte kontaktieren Sie die [Community](https://nation.marketo.com/){target="_blank"}. Sie können sich auch an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"} wenden. Sie werden Ihre Fragen gerne beantworten.
