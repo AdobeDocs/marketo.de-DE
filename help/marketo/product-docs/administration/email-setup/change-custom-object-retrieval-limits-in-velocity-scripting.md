@@ -30,12 +30,12 @@ Sie können auf übergeordnete und untergeordnete benutzerdefinierte Objekte ver
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-2.png)
 
-1. Geben Sie in [!UICONTROL  Tabelle „Benutzerdefinierte Objektabrufbeschränkungen] ein neues „Übergeordnetes [!UICONTROL -Abruflimit“ ] klicken Sie auf **[!UICONTROL Änderungen speichern]**.
+1. Geben Sie in [!UICONTROL &#x200B; Tabelle „Benutzerdefinierte Objektabrufbeschränkungen] ein neues „Übergeordnetes [!UICONTROL -Abruflimit“ &#x200B;] klicken Sie auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-3.png)
 
 >[!NOTE]
 >
->Der Wert [!UICONTROL Übergeordnetes Abruflimit] muss im Bereich von 10 bis 100 liegen. Das [!UICONTROL Limit für untergeordnete ]&quot; wird automatisch festgelegt. Dies geschieht durch Division von 1000 durch das [!UICONTROL Limit für den übergeordneten Abruf]. Wenn Sie beispielsweise das übergeordnete Limit auf 50 festlegen, wird das untergeordnete Limit zu 20 (1000 ÷ 50 = 20).
+>Der Wert [!UICONTROL Übergeordnetes Abruflimit] muss im Bereich von 10 bis 100 liegen. Das [!UICONTROL Limit für untergeordnete &#x200B;]&quot; wird automatisch festgelegt. Dies geschieht durch Division von 1000 durch das [!UICONTROL Limit für den übergeordneten Abruf]. Wenn Sie beispielsweise das übergeordnete Limit auf 50 festlegen, wird das untergeordnete Limit zu 20 (1000 ÷ 50 = 20).
 
 Schön! Sie können jetzt von [!DNL Velocity script] aus auf weitere benutzerdefinierte Objekte zugreifen.

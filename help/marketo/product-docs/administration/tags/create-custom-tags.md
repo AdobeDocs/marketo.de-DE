@@ -17,7 +17,7 @@ Tags helfen Ihnen bei der Organisation Ihrer Programme, während Kanäle bei der
 
 >[!NOTE]
 >
->Weitere Informationen finden [ unter ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) von Tags .
+>Weitere Informationen finden [&#x200B; unter &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) von Tags .
 
 >[!NOTE]
 >

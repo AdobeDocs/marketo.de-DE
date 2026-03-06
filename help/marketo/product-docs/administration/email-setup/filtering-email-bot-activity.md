@@ -43,7 +43,7 @@ Für die Aktivität E-Mail-Link-Klick und E-Mail-Öffnen werden neue Attribute m
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Es stehen zwei Schieberegler zur Auswahl. Sie können nur ein oder beide aktivieren. Wenn Sie &quot;**[!UICONTROL mit IAB-Liste abgleichen]** aktivieren, wählen Sie aus, ob [!UICONTROL Bot-Aktivität ] _oder_ [!UICONTROL Bot-Aktivität filtern].
+1. Es stehen zwei Schieberegler zur Auswahl. Sie können nur ein oder beide aktivieren. Wenn Sie &quot;**[!UICONTROL mit IAB-Liste abgleichen]** aktivieren, wählen Sie aus, ob [!UICONTROL Bot-Aktivität &#x200B;] _oder_ [!UICONTROL Bot-Aktivität filtern].
 
    ![](assets/filtering-email-bot-activity-4.png)
 

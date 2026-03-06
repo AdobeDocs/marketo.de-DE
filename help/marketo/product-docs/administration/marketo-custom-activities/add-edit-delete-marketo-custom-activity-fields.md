@@ -37,13 +37,13 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Wählen Sie den (Datentyp[!UICONTROL  des Felds ].
+1. Wählen Sie den (Datentyp[!UICONTROL &#x200B; des Felds &#x200B;].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
    >[!TIP]
    >
-   >Nicht sicher, was ausgewählt werden soll? Wir haben Sie im Griff! Alle verfügbaren Datentypen werden in [diesem Artikel) ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Nicht sicher, was ausgewählt werden soll? Wir haben Sie im Griff! Alle verfügbaren Datentypen werden in [diesem Artikel) &#x200B;](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Benennen Sie das Feld. Der API-Name wird automatisch ausgefüllt. Wenn Sie fertig sind, klicken Sie auf **[!UICONTROL Speichern]**.
 

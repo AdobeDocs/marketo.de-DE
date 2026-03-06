@@ -27,7 +27,7 @@ Mithilfe benutzerdefinierter Aktivitäten können Sie eine Aktivität verfolgen,
 >
 >Benutzerdefinierte Aktivitäten unterscheiden sich von benutzerdefinierten Objekten. Verwenden Sie benutzerdefinierte Objekte, wenn sich der Wert ändern kann (d. h., wenn sich die „Autofarbe“ von Blau in Rot ändert). Verwenden Sie benutzerdefinierte Aktivitäten, wenn Sie aufgetretene Momente verfolgen und deren Details sich nicht ändern können (z. B. „gekauftes Auto„).
 
-**Felder** Sie können &quot;[ Felder“ hinzufügen](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) die Sie mit Ihrer Aktivität verknüpfen möchten. Wie das primäre Feld können sie als Filterkriterien in einer Smart-Liste verwendet werden.
+**Felder** Sie können &quot;[&#x200B; Felder“ hinzufügen](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) die Sie mit Ihrer Aktivität verknüpfen möchten. Wie das primäre Feld können sie als Filterkriterien in einer Smart-Liste verwendet werden.
 
 **Erste Schritte**
 
