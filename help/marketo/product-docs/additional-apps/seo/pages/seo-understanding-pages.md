@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949184
-description: SEO - Seitenverstehen - Marketo-Dokumente - Produktdokumentation
+description: Machen Sie sich mit den Registerkarten „Seiten“ und „Probleme“, der Skalierung des Seitenoptimierungswerts und der Verbesserung des Such-Rankings Ihrer Site vertraut.
 title: SEO – Grundlegendes zu Seiten
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 3%
+source-wordcount: '313'
+ht-degree: 4%
 
 ---
 
@@ -25,10 +25,10 @@ Der [!UICONTROL Optimierungswert] ist ein allgemeines Ranking der Suchoptimierun
 >
 >Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [Exportprobleme](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Export Keyword Trends](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## [!UICONTROL Seiten] Registerkarte {#pages-tab}
 
@@ -45,7 +45,7 @@ Die Registerkarte **[!UICONTROL Seiten]** zeigt an, wie gut einzelne Seiten auf 
 
 ## [!UICONTROL Probleme] Registerkarte {#issues-tab}
 
-Auf **[!UICONTROL Registerkarte &#x200B;]Probleme** können Sie festlegen, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und Ihr Ranking zu erhöhen.
+Auf **[!UICONTROL Registerkarte ]Probleme** können Sie festlegen, welche Verbesserungen Sie vornehmen können, um Ihren Optimierungswert und Ihr Ranking zu erhöhen.
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 

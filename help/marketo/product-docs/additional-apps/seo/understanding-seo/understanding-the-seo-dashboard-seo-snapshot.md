@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949178
-description: Grundlegendes zum SEO-Dashboard - SEO-Schnappschuss - Marketo-Dokumente - Produktdokumentation
+description: Verwenden Sie das SEO-Dashboard, um die Trends beim Keyword-Rang, den durchschnittlichen Seitenoptimierungswert und die Keyword-Rang-Zusammenfassung für Ihre Site anzuzeigen.
 title: Grundlegendes zum SEO Dashboard -SEO Snapshot
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 4%
+source-wordcount: '306'
+ht-degree: 3%
 
 ---
 
@@ -19,18 +19,18 @@ Verwenden Sie das Dashboard, um einen Überblick darüber zu erhalten, wie der K
 >
 >Am 31. März 2026 wird Marketo Engage die Suchmaschinenoptimierungsfunktion einstellen. Bitte exportieren Sie alle relevanten Daten am oder vor dem 30. März. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [Exportprobleme](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Export Keyword Trends](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
-Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühungen zu verbessern, verwenden [[!UICONTROL &#x200B; Abschnitt &#x200B;]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)Recommendations“ dieses Dashboards.
+Um herauszufinden, worauf Sie sich konzentrieren müssen, um Ihre SEO-Bemühungen zu verbessern, verwenden [[!UICONTROL  Abschnitt ]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)Recommendations“ dieses Dashboards.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## [!UICONTROL Keyword-Rang-Zusammenfassung] {#keyword-rank-summary}
 
-In diesem Abschnitt erfahren Sie, wie Ihre Site für die [Keywords, die Sie ansprechen“, &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) wird.
+In diesem Abschnitt erfahren Sie, wie Ihre Site für die [Keywords, die Sie ansprechen“, ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) wird.
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
