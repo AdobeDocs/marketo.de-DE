@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384433
-description: Einrichten des Account-Teams - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Account-Teams einrichten und CRM-Account-Rollen TAM zuordnen. Wählen Sie aus, welche Benutzer-Lookup-Felder Mitglieder des Account-Teams werden sollen.
 title: Einrichtung des Konten-Teams
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '197'
 ht-degree: 5%
 
 ---
@@ -37,7 +37,7 @@ Ein Account-Team ist eine Gruppe von Stakeholdern, die gemeinsam an einem benann
 
    >[!NOTE]
    >
-   >Sie können keinen [!UICONTROL Kontoinhaber“ &#x200B;]. Sie wird standardmäßig auf der Kontoebene in Ihrem CRM ausgewählt.
+   >Sie können keinen [!UICONTROL Kontoinhaber“ ]. Sie wird standardmäßig auf der Kontoebene in Ihrem CRM ausgewählt.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

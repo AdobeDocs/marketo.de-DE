@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727818
-description: Verwenden von Personas - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie mit Personas Ihre ABM-Zielgruppe segmentieren und für bestimmte Untergruppen vermarkten können. Fügen Sie in Admin Personas hinzu und verwenden Sie diese in Smart-Listen-Filtern.
 title: Verwenden von Personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 5%
+source-wordcount: '210'
+ht-degree: 4%
 
 ---
 

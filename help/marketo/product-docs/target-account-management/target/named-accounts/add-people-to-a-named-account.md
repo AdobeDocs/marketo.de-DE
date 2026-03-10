@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378816
-description: Personen zu einem benannten Konto hinzufügen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Personen mithilfe von Flussaktionen, Smart-Campaign-Flussschritten oder Listenimport zu einem benannten Konto hinzufügen.
 title: Hinzufügen von Personen zu einem benannten Konto
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 6%
+source-wordcount: '199'
+ht-degree: 7%
 
 ---
 
-# Personen zu einem &quot;[!UICONTROL &#x200B; Konto“ &#x200B;] {#add-people-to-a-named-account}
+# Personen zu einem &quot;[!UICONTROL  Konto“ ] {#add-people-to-a-named-account}
 
 Es gibt drei verschiedene Möglichkeiten, Personen in TAM manuell zu einem benannten Konto hinzuzufügen.
 
@@ -39,7 +39,7 @@ Es gibt drei verschiedene Möglichkeiten, Personen in TAM manuell zu einem benan
 
    ![](assets/five.png)
 
-1. Geben Sie im Suchfeld &quot;[!UICONTROL Zu benanntem Konto hinzufügen“ &#x200B;].
+1. Geben Sie im Suchfeld &quot;[!UICONTROL Zu benanntem Konto hinzufügen“ ].
 
    ![](assets/six.png)
 

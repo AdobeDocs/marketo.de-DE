@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378809
-description: '[!UICONTROL Benanntes Konto] Übersicht - Marketo-Dokumente - Produktdokumentation'
+description: Erfahren Sie mehr über Named Accounts und wie sie Personen aus Ihren Zielunternehmen binden. Zeigen Sie aktuelle Attributdaten für alle benannten Konten im Dashboard an.
 title: '[!UICONTROL Benanntes Konto] Übersicht'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '255'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 [!UICONTROL Spezifische Konten] enthalten die Personen aus den Unternehmen, an die Sie sich wenden. Das Dashboard enthält aktuelle Daten zu den einzelnen Attributen für alle benannten Konten.
 
-## Dashboard [!UICONTROL Benannte &#x200B;]&quot; {#named-accounts-dashboard}
+## Dashboard [!UICONTROL Benannte ]&quot; {#named-accounts-dashboard}
 
 ![](assets/one.png)
 
@@ -36,7 +36,7 @@ ht-degree: 10%
    <td>Identifikationsnummer des benannten Kontos</td>
   </tr>
   <tr>
-   <td><strong><span class="uicontrol">Genanntes Konto</span></strong></td>
+   <td><strong><span class="uicontrol">Benanntes Konto</span></strong></td>
    <td>Name des benannten Kontos</td>
   </tr>
   <tr>

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380778
-description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie TAM-Berechtigungen für Benutzer und Rollen einrichten. Zugriff auf die Verwaltung des Target-Kontos und den Zugriff auf den ABM-Administrator gewähren, um zu steuern, wer TAM verwenden darf.
 title: Berechtigungen
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '159'
 ht-degree: 2%
 
 ---
@@ -47,4 +47,4 @@ Sie müssen Berechtigungen einrichten, damit Ihre Benutzer TAM verwenden können
 
    ![](assets/permissions-6.png)
 
-   Ihre neue TAM-Rolle kann jetzt [einem Benutzer zugewiesen) &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user).
+   Ihre neue TAM-Rolle kann jetzt [einem Benutzer zugewiesen) ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user).

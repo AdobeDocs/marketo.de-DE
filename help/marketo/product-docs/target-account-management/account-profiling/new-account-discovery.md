@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355609
-description: Ermittlung neuer Konten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie mithilfe von KI-gestützten Empfehlungen aus Ihrem idealen Kundenprofil neue Zielkunden finden. Erkennen und Speichern neuer Zielkonten in Kontolisten.
 title: Entdeckung neuer Konten
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '318'
 ht-degree: 3%
 
 ---

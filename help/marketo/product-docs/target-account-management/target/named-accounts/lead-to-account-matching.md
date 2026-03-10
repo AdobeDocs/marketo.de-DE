@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11381156
-description: Lead-Konto-Zuordnung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Lead-Konto-Zuordnung und wie Marketo in nahezu Echtzeit zu benannten Konten führt. Schwache Übereinstimmungen und Trigger bei neuen Leads beheben.
 title: Abgleich zwischen Lead und Konto
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 1%
+source-wordcount: '485'
+ht-degree: 2%
 
 ---
 
@@ -41,11 +41,11 @@ Da die Lead-Konto-Zuordnung von Marketo eine integrierte Funktion von Marketo [!
 
 >[!NOTE]
 >
->Wenn Sie LeanData in Salesforce für die Lead-Konto-Zuordnung verwenden, verfügt Marketo über eine Integration, die diese Übereinstimmungen mit Ihrer Marketo-Instanz synchronisiert. Um diese Funktion aktivieren zu lassen, wenden Sie sich bitte an den [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) Im Folgenden erfahren Sie, wie Sie LeanData einrichten.
+>Wenn Sie LeanData in Salesforce für die Lead-Konto-Zuordnung verwenden, verfügt Marketo über eine Integration, die diese Übereinstimmungen mit Ihrer Marketo-Instanz synchronisiert. Um diese Funktion aktivieren zu lassen, wenden Sie sich bitte an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de) Im Folgenden erfahren Sie, wie Sie LeanData einrichten.
 
 ## LeanData für Lead-Konto-Zuordnung verwenden {#using-leandata-for-lead-to-account-matching}
 
-Nachdem der [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) LeanData für Ihr Konto aktiviert hat, führen Sie die folgenden Schritte aus, um es einzurichten.
+Nachdem der [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de) LeanData für Ihr Konto aktiviert hat, führen Sie die folgenden Schritte aus, um es einzurichten.
 
 1. Klicken Sie in Salesforce **[!UICONTROL Startseite einrichten]** im linken Navigationsbereich.
 
@@ -65,7 +65,7 @@ Nachdem der [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support
 
    ![](assets/lead-to-account-matching-2.png)
 
-1. Bestätigen Sie, dass das Feld vorhanden ist, indem Sie nach &quot;[!UICONTROL Abgestimmtes Berichtskonto“ &#x200B;].
+1. Bestätigen Sie, dass das Feld vorhanden ist, indem Sie nach &quot;[!UICONTROL Abgestimmtes Berichtskonto“ ].
 
    ![](assets/lead-to-account-matching-3.png)
 

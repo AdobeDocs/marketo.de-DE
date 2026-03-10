@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380785
-description: Spezifische Kontoeinblicke - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Dashboard für benannte Konten und seine 360-Grad-Ansicht von Zielkonten. Interaktion, Opportunities, Account Team und ICP-Indikatoren anzeigen.
 title: Einblicke in benannte Konten
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 2%
+source-wordcount: '432'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ Das Dashboard für benannte Konten bietet eine 360-Grad-Ansicht eines Zielkontos
 
 ## Dashboard {#dashboard}
 
-Das Dashboard aggregiert wichtige Einblicke auf Kontoebene von allen Personen in einem benannten Konto, sodass nicht jede Person aufgerufen werden muss, um ihren Fortschritt zu bewerten. Sie können mit „E-Mail-Einblicke“ einen tieferen Einblick in [&#x200B; E-Mail-Aktivität &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+Das Dashboard aggregiert wichtige Einblicke auf Kontoebene von allen Personen in einem benannten Konto, sodass nicht jede Person aufgerufen werden muss, um ihren Fortschritt zu bewerten. Sie können mit „E-Mail-Einblicke“ einen tieferen Einblick in [ E-Mail-Aktivität ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -112,6 +112,6 @@ Auf dieser Registerkarte können Sie Mitglieder des Account-Teams anzeigen, Mitg
 
 ## [!UICONTROL ICP-Indikatoren] {#icp-indicators}
 
-Sehen Sie sich die [!UICONTROL ICP-Indikatoren] an, die Sie beim „Anpassen [&#x200B; Modells“ für den Export &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) haben.
+Sehen Sie sich die [!UICONTROL ICP-Indikatoren] an, die Sie beim „Anpassen [ Modells“ für den Export ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) haben.
 
 ![](assets/eight.png)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17432598
-description: Einrichten der Kontoprofilerstellung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Kontoprofilerstellung einrichten und Ihr ideales Kundenprofilmodell in TAM erstellen. Beginnen Sie mit der Registerkarte Modell und erstellen Sie Ihr erstes Modell.
 title: Einrichten der Kontoprofilierung
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 8%
+source-wordcount: '188'
+ht-degree: 7%
 
 ---
 
@@ -28,7 +28,7 @@ Führen Sie diese Schritte aus, um mit der Verwendung der Kontoprofilerstellung 
 >* E-Mail
 >* Land
 >
->Hier erfahren Sie, wie [&#x200B; ein Feld &#x200B;](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Hier erfahren Sie, wie [ ein Feld ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
 1. Öffnen Sie in My Marketo **[!UICONTROL Target Account Management]**.
 

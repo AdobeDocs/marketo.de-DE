@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380732
-description: Kontofilter - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benannte Konten und Personas mithilfe von kontoorientierten Filtern identifizieren und ansprechen können. Verwenden Sie TAM-Filter in intelligenten Kampagnen, um die richtigen Konten anzusprechen.
 title: Kontofilter
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '200'
 ht-degree: 1%
 
 ---
@@ -67,4 +67,4 @@ Legen Sie &quot;[!UICONTROL Untergeordnete Elemente einschließen] auf **[!UICON
 
 >[!MORELIKETHIS]
 >
->[Account-Trigger &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
+>[Account-Trigger ](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)

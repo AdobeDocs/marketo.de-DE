@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12980105
-description: Benutzer zum Zugriff auf [!UICONTROL Account Insight] - Marketo Docs - Produktdokumentation einladen
+description: Erfahren Sie, wie Sie Benutzer einladen, auf die Konto-Insight zuzugreifen. Einladen per CRM oder E-Mail und Gewähren des Zugriffs auf die Konto-Insight über den Tab Verkaufsbenutzer .
 title: Benutzer zum Zugriff auf [!UICONTROL Account Insight] einladen
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '185'
 ht-degree: 1%
 
 ---

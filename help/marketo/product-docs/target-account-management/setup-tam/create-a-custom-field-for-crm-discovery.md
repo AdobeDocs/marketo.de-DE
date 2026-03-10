@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12978647
-description: Benutzerdefiniertes Feld für CRM-Erkennung erstellen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Feld mit benutzerdefiniertem Namen für das Konto erstellen, es Ihrem CRM zuordnen und es in der CRM-Kontoerkennung verwenden. Siehe zugeordnete Daten im Discover CRM-Raster.
 title: Erstellen eines benutzerdefinierten Felds für die CRM-Erkennung
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 10%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 

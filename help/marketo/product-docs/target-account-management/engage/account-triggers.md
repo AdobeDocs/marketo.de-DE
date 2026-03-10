@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380734
-description: Account Triggers - Marketo Docs - Produktdokumentation
+description: Erfahren Sie, wie Sie Verhaltensaktivitäten auf Kontoebene mithilfe von Account-Triggern überwachen und darauf reagieren können. Verwenden Sie Trigger mit spezifischen Konten in Smart-Kampagnen, um mit wichtigen Konten zu interagieren.
 title: Kontoauslöser
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 6%
+source-wordcount: '116'
+ht-degree: 5%
 
 ---
 

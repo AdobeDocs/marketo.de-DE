@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380789
-description: Benanntes Konto Dimension in RCA - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie mit der Dimension Benanntes Konto in der Analyse des Umsatzzyklus umsatzbasierte Berichte erstellen können. Messen Sie die Pipeline- und Umsatzauswirkungen zielgerichteter Konten.
 title: Dimension „Benanntes Konto“ in RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 10%
+source-wordcount: '163'
+ht-degree: 9%
 
 ---
 

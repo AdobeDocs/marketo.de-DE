@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795734
-description: Erstellen einer Hierarchie - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ohne Verwendung eines CRM manuell eine benannte Kontenhierarchie erstellen können. Verknüpfen von Konten mit einem übergeordneten benannten Konto mithilfe von „Gruppieren nach Hierarchie“.
 title: Erstellen einer Hierarchie
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 4%
+source-wordcount: '167'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, führen Sie diese Schritte aus, um eine Hierarchie manuell zu erstellen.
 
-1. Aktivieren [!UICONTROL &#x200B; unter „Benannte &#x200B;]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
+1. Aktivieren [!UICONTROL  unter „Benannte ]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
 
    ![](assets/create-a-hierarchy-1.png)
 

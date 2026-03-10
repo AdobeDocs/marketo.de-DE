@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12615802
-description: Löschen eines benannten Kontos - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein benanntes Konto in TAM löschen. Konten auswählen und Aktionen für benannte Konten zum Löschen verwenden.
 title: Löschen eines benannten Kontos
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '118'
 ht-degree: 5%
 
 ---
 
-# Löschen eines [!UICONTROL &#x200B; Kontos] {#delete-a-named-account}
+# Löschen eines [!UICONTROL  Kontos] {#delete-a-named-account}
 
 Führen Sie diese kurzen Schritte aus, um ein benanntes Konto zu löschen.
 

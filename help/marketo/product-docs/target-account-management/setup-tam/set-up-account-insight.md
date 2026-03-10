@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979223
-description: Einrichten des Kontos Insight - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Account Insight für Vertriebsteams einrichten. Konfigurieren Sie, wie benannte Konten und interaktive Personen auf der Registerkarte „Verkauf“ priorisiert werden.
 title: Einrichten von Account Insight
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 11%
+source-wordcount: '121'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ Gehen Sie wie folgt vor, um Account Insight einzurichten.
 
 >[!PREREQUISITES]
 >
->TAM-Kontobewertung [muss zuerst konfiguriert &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
+>TAM-Kontobewertung [muss zuerst konfiguriert ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
 
 1. Klicken Sie auf **[!UICONTROL Admin]**.
 

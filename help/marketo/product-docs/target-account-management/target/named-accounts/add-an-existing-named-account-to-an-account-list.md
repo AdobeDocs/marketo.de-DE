@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615798
-description: Hinzufügen eines vorhandenen benannten Kontos zu einer Kontoliste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein vorhandenes benanntes Konto zu einer Kontoliste hinzufügen. Verwenden Sie Aktionen für benannte Konten und wählen Sie Zur Kontoliste hinzufügen mit Ihrer gewünschten Liste aus.
 title: Hinzufügen eines vorhandenen benannten Kontos zu einer Kontenliste
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 9%
+source-wordcount: '107'
+ht-degree: 8%
 
 ---
 
