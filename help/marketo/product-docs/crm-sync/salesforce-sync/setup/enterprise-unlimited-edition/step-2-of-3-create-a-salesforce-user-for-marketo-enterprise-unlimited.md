@@ -60,7 +60,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
    >
    >Stellen Sie sicher, dass Sie das Kontrollkästchen **[!UICONTROL Kennwort läuft nie ab]** aktivieren.
 
-1. Stellen Sie [!UICONTROL  Abschnitt „Allgemeine Benutzerberechtigungen] sicher, dass die folgenden Kontrollkästchen aktiviert sind:
+1. Stellen Sie [!UICONTROL &#x200B; Abschnitt „Allgemeine Benutzerberechtigungen] sicher, dass die folgenden Kontrollkästchen aktiviert sind:
 
    * [!UICONTROL Leads konvertieren]
    * [!UICONTROL Ereignisse bearbeiten]

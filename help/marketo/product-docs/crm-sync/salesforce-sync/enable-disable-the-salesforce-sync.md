@@ -19,7 +19,7 @@ Wenn Sie größere Änderungen an Ihren Synchronisierungs- oder Feldeinstellunge
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. Salesforce Klicken Sie unter **** auf **[!UICONTROL Synchronisierung deaktivieren]**.
+1. Salesforce Klicken Sie unter **&#x200B;**&#x200B;auf **[!UICONTROL Synchronisierung deaktivieren]**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 

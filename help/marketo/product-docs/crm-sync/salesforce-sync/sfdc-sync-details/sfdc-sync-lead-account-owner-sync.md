@@ -37,7 +37,7 @@ Absolut, verwenden Sie einfach die [Besitzer ändern](/help/marketo/product-docs
 
 >[!NOTE]
 >
->Sie können die Besitzerinformationen nicht über die Seite [Verwenden der Personendetailseite“ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+>Sie können die Besitzerinformationen nicht über die Seite [Verwenden der Personendetailseite“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ## Was kann ich mit diesen Daten tun? {#what-can-i-do-with-this-data}
 

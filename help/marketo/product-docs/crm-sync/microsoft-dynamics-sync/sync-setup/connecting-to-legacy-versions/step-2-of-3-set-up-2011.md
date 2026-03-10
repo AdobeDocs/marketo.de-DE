@@ -69,7 +69,7 @@ Fast fertig! Wir haben nur noch ein paar letzte Konfigurationsschritte, bevor wi
 
    >[!NOTE]
    >
-   >Wenn [!UICONTROL Marketo Config] fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht[ veröffentlichen Sie die Marketo-Lösung erneut ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) oder melden Sie sich ab und wieder an.
+   >Wenn [!UICONTROL Marketo Config] fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht[&#x200B; veröffentlichen Sie die Marketo-Lösung erneut &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) oder melden Sie sich ab und wieder an.
 
 1. Klicken Sie auf **[!UICONTROL Standard]**.
 

@@ -26,6 +26,6 @@ In Marketo hat der Datensatz jetzt den SFDC-Typ = Kontakt.
 
 >[!TIP]
 >
->Stellen Sie beim Konvertieren in [!DNL Salesforce] sicher, [ Ihre benutzerdefinierten Lead-Felder gut zugeordnet ](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm). Sie möchten keine Daten verlieren.
+>Stellen Sie beim Konvertieren in [!DNL Salesforce] sicher, [&#x200B; Ihre benutzerdefinierten Lead-Felder gut zugeordnet &#x200B;](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm). Sie möchten keine Daten verlieren.
 
 Sie können Trigger erstellen und filtern mit: &quot;[!UICONTROL Lead ist konvertiert]&quot; und &quot;[!UICONTROL Lead wurde konvertiert]&quot;.

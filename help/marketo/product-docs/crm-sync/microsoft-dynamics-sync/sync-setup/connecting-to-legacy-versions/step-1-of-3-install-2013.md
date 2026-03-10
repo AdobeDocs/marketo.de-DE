@@ -31,7 +31,7 @@ Bevor Sie [!DNL Microsoft Dynamics] On-Premise und Marketo synchronisieren könn
 >
 >Sie benötigen CRM-Administratorrechte, um diese Synchronisierung durchzuführen.
 
-1. Anmelden bei **[!DNL Dynamics]**. Klicken Sie auf das Dropdown-**** Microsoft Dynamics CRM und wählen Sie **[!UICONTROL Einstellungen]**.
+1. Anmelden bei **[!DNL Dynamics]**. Klicken Sie auf das Dropdown-**&#x200B;** Microsoft Dynamics CRM und wählen Sie **[!UICONTROL Einstellungen]**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 

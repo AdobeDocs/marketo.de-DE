@@ -34,7 +34,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/two.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
 
    ![](assets/three.png)
 
@@ -56,7 +56,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/seven.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
 
    ![](assets/eight.png)
 

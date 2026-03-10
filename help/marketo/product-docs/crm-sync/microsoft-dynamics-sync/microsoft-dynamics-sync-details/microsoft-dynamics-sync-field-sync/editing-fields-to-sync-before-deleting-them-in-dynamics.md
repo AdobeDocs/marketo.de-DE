@@ -18,7 +18,7 @@ Manchmal empfiehlt es sich, Felder in [!DNL Dynamics] zu löschen. Marketo speic
 
    ![](assets/sync-before-deleting-them-in-dynamics-1.png)
 
-1. Klicken [!UICONTROL  unter „Integration] auf **[!UICONTROL Microsoft Dynamics]**.
+1. Klicken [!UICONTROL &#x200B; unter „Integration] auf **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/sync-before-deleting-them-in-dynamics-2.png)
 
