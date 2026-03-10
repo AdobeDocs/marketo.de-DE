@@ -21,7 +21,7 @@ Unternehmen können mehrere Abteilungen und Tochtergesellschaften haben. Diese U
 
 ## Arbeiten mit TAM-Hierarchien {#working-with-tam-hierarchies}
 
-Mit TAM-Hierarchien können Sie im Dashboard „Benanntes Konto“ schnell Informationen über eine ganze Hierarchie [!UICONTROL  einzelne Konten ].
+Mit TAM-Hierarchien können Sie im Dashboard „Benanntes Konto“ schnell Informationen über eine ganze Hierarchie [!UICONTROL &#x200B; einzelne Konten &#x200B;].
 
 **Keine Verwendung von Hierarchie**
 
@@ -35,6 +35,6 @@ Mit TAM-Hierarchien können Sie im Dashboard „Benanntes Konto“ schnell Infor
 >
 >Auf der Marketo-Benutzeroberfläche werden nur bis zu 10 Ebenen nach unten angezeigt (untergeordnete und untergeordnete Konten des übergeordneten Kontos). Die Anzahl der untergeordneten Konten, die Sie erstellen können, ist jedoch nicht beschränkt.
 
-Targeting und Reporting ganzer Hierarchien mit [ Klick](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Targeting und Reporting ganzer Hierarchien mit [&#x200B; Klick](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

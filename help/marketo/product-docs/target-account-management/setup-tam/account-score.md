@@ -65,7 +65,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
 
    ![](assets/account-score-2.png)
 
-1. Klicken [!UICONTROL  in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL &#x200B; in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/account-score-3.png)
 
@@ -73,7 +73,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
    >
    >Sie können bis zu **fünf** Felder zur Berechnung des [!UICONTROL Kontowerts] auswählen.
 
-1. Geben Sie [!UICONTROL  Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
+1. Geben Sie [!UICONTROL &#x200B; Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
 
    ![](assets/account-score-4.png)
 

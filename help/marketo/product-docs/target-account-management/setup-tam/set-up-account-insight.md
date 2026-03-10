@@ -17,7 +17,7 @@ Gehen Sie wie folgt vor, um Account Insight einzurichten.
 
 >[!PREREQUISITES]
 >
->TAM-Kontobewertung [muss zuerst konfiguriert ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
+>TAM-Kontobewertung [muss zuerst konfiguriert &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
 
 1. Klicken Sie auf **[!UICONTROL Admin]**.
 

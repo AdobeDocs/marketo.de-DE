@@ -25,7 +25,7 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
 
    ![](assets/tam-report-setup-2.png)
 
-1. Klicken [!UICONTROL  unter &quot;] Bericht“ auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;] Bericht“ auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/three-3.png)
 
@@ -67,7 +67,7 @@ Für jeden Bericht gibt es die Option zum Opt-out. Klicken Sie dazu einfach auf 
 
    ![](assets/tam-report-setup-10.png)
 
-1. Klicken Sie unter [!UICONTROL Wöchentlicher Bericht] auf die als „Abgemeldet[!UICONTROL  angegebene ].
+1. Klicken Sie unter [!UICONTROL Wöchentlicher Bericht] auf die als „Abgemeldet[!UICONTROL &#x200B; angegebene &#x200B;].
 
    ![](assets/nine.png)
 

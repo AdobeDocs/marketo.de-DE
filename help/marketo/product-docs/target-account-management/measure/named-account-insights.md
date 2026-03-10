@@ -19,7 +19,7 @@ Das Dashboard für benannte Konten bietet eine 360-Grad-Ansicht eines Zielkontos
 
 ## Dashboard {#dashboard}
 
-Das Dashboard aggregiert wichtige Einblicke auf Kontoebene von allen Personen in einem benannten Konto, sodass nicht jede Person aufgerufen werden muss, um ihren Fortschritt zu bewerten. Sie können mit „E-Mail-Einblicke“ einen tieferen Einblick in [ E-Mail-Aktivität ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+Das Dashboard aggregiert wichtige Einblicke auf Kontoebene von allen Personen in einem benannten Konto, sodass nicht jede Person aufgerufen werden muss, um ihren Fortschritt zu bewerten. Sie können mit „E-Mail-Einblicke“ einen tieferen Einblick in [&#x200B; E-Mail-Aktivität &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -112,6 +112,6 @@ Auf dieser Registerkarte können Sie Mitglieder des Account-Teams anzeigen, Mitg
 
 ## [!UICONTROL ICP-Indikatoren] {#icp-indicators}
 
-Sehen Sie sich die [!UICONTROL ICP-Indikatoren] an, die Sie beim „Anpassen [ Modells“ für den Export ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) haben.
+Sehen Sie sich die [!UICONTROL ICP-Indikatoren] an, die Sie beim „Anpassen [&#x200B; Modells“ für den Export &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) haben.
 
 ![](assets/eight.png)

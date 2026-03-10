@@ -51,7 +51,7 @@ Ihre [!UICONTROL Smart List des Kontos] wurde erstellt! Anweisungen zum Definier
 
    ![](assets/account-smart-lists-6.png)
 
-1. Wählen Sie Ihre gewünschten Kontofilter aus. In diesem Beispiel wählen wir &quot;_[!UICONTROL &quot; ] &quot;[!UICONTROL &quot;]_.
+1. Wählen Sie Ihre gewünschten Kontofilter aus. In diesem Beispiel wählen wir &quot;_[!UICONTROL &quot; &#x200B;] &quot;[!UICONTROL &quot;]_.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -77,7 +77,7 @@ So wird der Container aussehen.
 >
 >Beim Erstellen eines Containers mit Filtern wird eine „Und“-Regel erstellt, d. h. es werden nur alle Ergebnisse kombiniert zurückgegeben. In diesem Beispiel Konten bei einer Branche des Gesundheitswesens zusammen mit einem Standort in Kalifornien _und_ mit einer Person, die als CFO aufgeführt ist. Wenn Sie keine Container verwenden möchten, legen Sie den Filter einfach unter/über dem vorhandenen ab.
 
-Und das war&#39;s! Im folgenden Abschnitt erfahren Sie, wie Sie Ihre [!UICONTROL Account Smart List“ ] können.
+Und das war&#39;s! Im folgenden Abschnitt erfahren Sie, wie Sie Ihre [!UICONTROL Account Smart List“ &#x200B;] können.
 
 >[!TIP]
 >
@@ -93,7 +93,7 @@ Auf der Registerkarte Übersicht Ihrer [!UICONTROL Smart List des Kontos] werden
 
 **[!UICONTROL An Werbenetzwerk senden]**: Sendet die Liste an [!DNL LinkedIn] als neue übereinstimmende Zielgruppe.
 
-Sie können auch in einer [!UICONTROL  Smart-Kampagne/Liste auf Ihre ]Account-Smart-Liste“ verweisen, indem Sie den Filter _[!UICONTROL People Member of Account Smart List]_ verwenden.
+Sie können auch in einer [!UICONTROL &#x200B; Smart-Kampagne/Liste auf Ihre &#x200B;]Account-Smart-Liste“ verweisen, indem Sie den Filter _[!UICONTROL People Member of Account Smart List]_ verwenden.
 
 ![](assets/account-smart-lists-12.png)
 

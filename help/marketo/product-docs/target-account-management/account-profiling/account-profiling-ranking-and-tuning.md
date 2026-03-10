@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Ranking und Optimierung für die Kontoprofilierung {#account-profiling-ranking-and-tuning}
 
-Das Account Profiling identifiziert Ihr Ideal Customer Profile (ICP), ordnet Unternehmen in Ihrer Datenbank basierend auf dem ICP an und fügt ICP-Indikatordaten zu Konten hinzu, die als [!UICONTROL Named Accounts“ ] werden.
+Das Account Profiling identifiziert Ihr Ideal Customer Profile (ICP), ordnet Unternehmen in Ihrer Datenbank basierend auf dem ICP an und fügt ICP-Indikatordaten zu Konten hinzu, die als [!UICONTROL Named Accounts“ &#x200B;] werden.
 
 >[!IMPORTANT]
 >
@@ -162,7 +162,7 @@ Klicken Sie auf [!UICONTROL ICP-Indikator hinzufügen], um weitere Indikatoren i
 
 ![](assets/add-icp.png)
 
-Wenn Sie das Kästchen [!UICONTROL Exportieren] aktivieren, können Sie den ICP-Indikator auf der Detailseite [!UICONTROL Benanntes Konto] sowie den ausgewählten ICP-Indikator als Einschränkungen in [benannten Kontofiltern“ ](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Wenn Sie das Kästchen [!UICONTROL Exportieren] aktivieren, können Sie den ICP-Indikator auf der Detailseite [!UICONTROL Benanntes Konto] sowie den ausgewählten ICP-Indikator als Einschränkungen in [benannten Kontofiltern“ &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 

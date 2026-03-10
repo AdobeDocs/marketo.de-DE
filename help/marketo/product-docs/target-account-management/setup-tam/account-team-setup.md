@@ -37,7 +37,7 @@ Ein Account-Team ist eine Gruppe von Stakeholdern, die gemeinsam an einem benann
 
    >[!NOTE]
    >
-   >Sie können keinen [!UICONTROL Kontoinhaber“ ]. Sie wird standardmäßig auf der Kontoebene in Ihrem CRM ausgewählt.
+   >Sie können keinen [!UICONTROL Kontoinhaber“ &#x200B;]. Sie wird standardmäßig auf der Kontoebene in Ihrem CRM ausgewählt.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
