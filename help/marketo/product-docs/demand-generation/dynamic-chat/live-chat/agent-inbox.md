@@ -3,10 +3,10 @@ description: Agent-Posteingang - Marketo-Dokumente - Produktdokumentation
 title: Agenten-Posteingang
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 2%
+source-wordcount: '581'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Agenten können Live-Chats im Agenten-Posteingang abfragen. Zusätzlich zu den a
 
 ![](assets/agent-inbox-1.png)
 
-## Verfügbarkeits-Umschalter {#availability-toggle}
+## Umschalter für Verfügbarkeit {#availability-toggle}
 
 In der rechten oberen Ecke des Bildschirms Agentenposteingang haben Sie die Möglichkeit, Ihren Status als „Verfügbar“ oder „Nicht verfügbar“ festzulegen.
 
@@ -116,7 +116,13 @@ Am unteren Rand des Live-Chat-Fensters befindet sich ein Symbol, mit dem Sie den
 
    ![](assets/agent-inbox-16.png)
 
-## Zusammenfassung des Gesprächs {#conversation-summary}
+## Transkript herunterladen {#download-transcript}
+
+Nachdem ein Live-Chat beendet wurde, klicken Sie auf **Transkript herunterladen**-Schaltfläche am unteren Rand des Chat-Fensters und eine TXT-Datei des Gesprächs wird automatisch in Ihren Ordner „Downloads“ heruntergeladen.
+
+![](assets/agent-inbox-17.png)
+
+## Zusammenfassung der Konversation {#conversation-summary}
 
 >[!NOTE]
 >
@@ -124,7 +130,7 @@ Am unteren Rand des Live-Chat-Fensters befindet sich ein Symbol, mit dem Sie den
 
 Konversationszusammenfassung generiert eine schnelle Zusammenfassung für Sie in Echtzeit, einschließlich Themen, an denen der Besucher Interesse gezeigt hat. Er ist in der rechten unteren Ecke jedes Chatbildschirms verfügbar.
 
-![](assets/agent-inbox-17.png)
+![](assets/agent-inbox-18.png)
 
 >[!NOTE]
 >
