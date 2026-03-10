@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095307
-description: Benutzerdefinierte Synchronisierungsfilterregeln für eine E-Mail-Adresse - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Dynamics benutzerdefinierte Synchronisierungsfilterregeln für E-Mail-Adressen einrichten. Verwenden Sie Workflows, um die Synchronisierung auf Moto festzulegen, je nachdem, ob der Lead oder Kontakt eine E-Mail hat.
 title: Benutzerdefinierte Regeln zu Synchronisierungsfiltern für eine E-Mail-Adresse
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '220'
 ht-degree: 7%
 
 ---

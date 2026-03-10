@@ -1,11 +1,11 @@
 ---
-description: Synchronisierungsstatus von Salesforce - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Salesforce-Synchronisierungsstatus-Dashboard und wie Sie Synchronisierungsstatistiken anzeigen können. Filtern Sie nach Datum, Vorgangstyp oder Objekttyp und exportieren Sie Synchronisierungsfehler als CSV.
 title: Salesforce-Synchronisierungsstatus
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '574'
 ht-degree: 14%
 
 ---
@@ -26,7 +26,7 @@ Die Synchronisierungsschritte spiegeln Push- oder Pull-Vorgänge für jeden Obje
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]Integration“ auf **Salesforce** und dann auf die Registerkarte **[!UICONTROL Synchronisierungsstatus]**.
+1. Klicken [!UICONTROL  unter &quot;]Integration“ auf **Salesforce** und dann auf die Registerkarte **[!UICONTROL Synchronisierungsstatus]**.
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -183,7 +183,7 @@ Standardmäßig werden Statistiken nach den zuletzt gestarteten Versionen sortie
   <tr>
    <th>Vorgangstyp</th>
    <th>Gegen diese Objekte gefunden</th>
-   <th>Bemerkungen</th>
+   <th>Bemerkungen         </th>
    <th>Operationstyp</th>
   </tr>
   <tr>

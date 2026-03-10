@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953469
-description: SFDC-Synchronisierung - Kampagnensynchronisierung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Synchronisieren von Marketo-Programmen mit Salesforce-Kampagnen. Ordnen Sie Programme Kampagnen zu und halten Sie Mitglieder und Status zwischen beiden Systemen synchron.
 title: SFDC-Synchronisierung - Kampagnensynchronisierung
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '360'
-ht-degree: 6%
+source-wordcount: '374'
+ht-degree: 7%
 
 ---
 
@@ -53,7 +53,7 @@ Ja, die [Kampagnenflussaktion Zu SFDC hinzufügen](/help/marketo/product-docs/co
 
 ## Kann ich Mitglieder mithilfe von Marketo aus meiner SFDC-Kampagne entfernen? {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-Ja, die Flussaktion [Aus SFDC Campaign entfernen“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
+Ja, die Flussaktion [Aus SFDC Campaign entfernen“ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
 
 ## Kann ich den Status des Kampagnenmitglieds mit Marketo ändern? {#can-i-change-campaign-member-status-using-marketo}
 
@@ -63,16 +63,16 @@ Ja, verwenden Sie die [Statusänderung in SFDC Campaign-Flussaktion](/help/marke
 
 Hier sind die Dinge, die Sie überprüfen können:
 
-1. Stellen Sie sicher[&#x200B; dass die Kampagnensynchronisierung aktiviert &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-1. Vergewissern Sie sich, dass Ihr [Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)Synchronisierungsbenutzer[&#x200B; ein „Marketing-](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)&quot; in [!DNL Salesforce] ist.
+1. Stellen Sie sicher[ dass die Kampagnensynchronisierung aktiviert ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+1. Vergewissern Sie sich, dass Ihr [Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)Synchronisierungsbenutzer[ ein „Marketing-](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)&quot; in [!DNL Salesforce] ist.
 
 >[!NOTE]
 >
->Wenn Ihre [!DNL Salesforce]-Kampagne und das zugeordnete Marketo-Programm inkompatible Programmstatus haben, erhalten Sie möglicherweise eine Fehlermeldung. Es wird empfohlen[&#x200B; die Programmstatus vor der Synchronisierung abzugleichen](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+>Wenn Ihre [!DNL Salesforce]-Kampagne und das zugeordnete Marketo-Programm inkompatible Programmstatus haben, erhalten Sie möglicherweise eine Fehlermeldung. Es wird empfohlen[ die Programmstatus vor der Synchronisierung abzugleichen](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 >[!MORELIKETHIS]
 >
 >* [Synchronisieren einer SFDC-Kampagne mit einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
->* [Grundlegendes zur Programmmitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+>* [Grundlegendes zur Programmzugehörigkeit](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
 >* [Kampagnensynchronisierung aktivieren/deaktivieren](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}
 >* [Marketo-Synchronisierungsbenutzer als Marketing-Benutzer festlegen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"}

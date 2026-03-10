@@ -1,12 +1,12 @@
 ---
-description: Einverständnis für Client-ID und App-Registrierung erteilen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Zustimmung für die Client-ID und die App-Registrierung erteilen, die für die Dynamics-Synchronisierung verwendet werden. Erstellen Sie den Autorisierungs-URI und gewähren Sie delegierte Benutzerberechtigungen für den Synchronisierungsbenutzer.
 title: Erteilen von Einverständnis für Client-ID und App-Registrierung
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 6%
+source-wordcount: '280'
+ht-degree: 5%
 
 ---
 
@@ -63,7 +63,7 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderlichen Einverständ
 
    >[!NOTE]
    >
-   >Wenn Sie bereits auf einer anderen Registerkarte als Administrator bei Azure angemeldet sind, müssen Sie einen anderen Browser oder Inkognito-Modus verwenden, um sich als Synchronisierungsbenutzer anzumelden.
+   >Wenn Sie auf einer anderen Registerkarte bereits als Administrator bei Azure angemeldet sind, müssen Sie einen anderen Browser oder Inkognito-Modus verwenden, um sich als Synchronisierungsbenutzer anzumelden.
 
 1. Klicken Sie **[!UICONTROL Akzeptieren]**.
 
@@ -71,11 +71,11 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderlichen Einverständ
 
 ## Einverständnis für alle Benutzer erteilen {#grant-consent-for-all-users}
 
-Als Admin können Sie auch den delegierten Berechtigungen einer Anwendung im Namen aller Benutzenden in Ihrem Mandanten zustimmen. Die administrative Zustimmung verhindert, dass das Einverständnisdialogfeld für jeden Benutzer im Mandanten angezeigt wird, und kann im Azure-Portal von Benutzern mit Administratorrolle vorgenommen werden. Hier erfahren Sie, welche Administratorrollen [hier delegierten Berechtigungen zustimmen](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Als Admin können Sie auch den delegierten Berechtigungen einer Anwendung im Namen aller Benutzenden in Ihrem Mandanten zustimmen. Die administrative Zustimmung verhindert, dass das Einverständnisdialogfeld für alle Benutzenden im Mandanten angezeigt wird, und kann im Azure-Portal von Benutzenden mit Administratorrolle vorgenommen werden. Hier erfahren Sie, welche Administratorrollen [hier delegierten Berechtigungen zustimmen](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

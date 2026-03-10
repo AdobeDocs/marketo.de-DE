@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571838
-description: Microsoft Dynamics-Synchronisierung - Feldsynchronisierung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie die Feldsynchronisierung zwischen Microsoft Dynamics und Marketo funktioniert. Bidirektionale Synchronisierung für Leads und Kontakte und unidirektionale Synchronisierung für andere Entitäten.
 title: Microsoft Dynamics-Synchronisierung - Feldsynchronisierung
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Ja, Sie können [Feld synchronisieren](/help/marketo/product-docs/crm-sync/micro
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
-Sie können [&#x200B; Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
+Sie können [ Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
 
 ## Was passiert, wenn ich ein benutzerdefiniertes Feld hinzufügen muss, nachdem Marketo und [!DNL Dynamics] synchronisiert wurden? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 

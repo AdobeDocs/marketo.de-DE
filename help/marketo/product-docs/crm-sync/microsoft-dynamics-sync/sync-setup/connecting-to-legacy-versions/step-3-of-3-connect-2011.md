@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571809
-description: Schritt 3 von 3 -  [!DNL Microsoft Dynamics]  mit Marketo (2011 On-Premise) - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie im letzten Schritt, wie Sie Microsoft Dynamics 2011 lokal mit Marketo verbinden. Geben Sie in Marketo Admin Benutzerinformationen für die Synchronisierung ein und aktivieren Sie die Synchronisierung.
 title: Schritt 3 von 3 - Verbinden  [!DNL Microsoft Dynamics]  Marketo (2011 On-Premise)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '391'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ In Ordnung! Wir haben die Lösung installiert und den Synchronisierungsbenutzer 
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 ## Benutzerinformationen für [!DNL Dynamics] eingeben {#enter-dynamics-sync-user-information}
 
@@ -53,7 +53,7 @@ In Ordnung! Wir haben die Lösung installiert und den Synchronisierungsbenutzer 
    >[!NOTE]
    >
    >* Der [!UICONTROL Benutzername] in Marketo muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann `user@domain.com` oder DOMAIN\user lauten.
-   >* Wenn Sie die URL nicht kennen, ([&#x200B; Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >* Wenn Sie die URL nicht kennen, ([ Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 ## Felder für Synchronisierung auswählen {#select-fields-to-sync}
 

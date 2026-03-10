@@ -1,12 +1,12 @@
 ---
-description: 'Schritt 1 von 4: Installieren der Marketo-Lösung mit der Kennwortkontrollverbindung für Ressourcenbesitzer - Marketo-Dokumente - Produktdokumentation'
+description: Erfahren Sie, wie Sie die Marketo-Lösung in Dynamics 365 mit ROPC-Verbindung installieren. Importieren Sie die Lösung aus Office 365 und führen Sie die Installationsschritte aus.
 title: 'Schritt 1 von 4: Installieren der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers'
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 1%
+source-wordcount: '309'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Bevor Sie [!DNL Microsoft Dynamics] 365 und Marketo synchronisieren können, mü
 >[!CAUTION]
 >
 >* Aktivieren Sie die Synchronisierung benutzerdefinierter Entitäten nicht, bevor die erste Synchronisierung abgeschlossen ist. Sie werden per E-Mail benachrichtigt, sobald die erste Synchronisierung abgeschlossen ist.
->* Wenn Sie die Multi-Factor Authentication (MFA) für Ihre [!DNL Dynamics]-Synchronisierung aktiviert haben, müssen Sie sie deaktivieren, damit [!DNL Dynamics] ordnungsgemäß mit Marketo synchronisieren können. Weitere Informationen erhalten Sie vom [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>* Wenn Sie die Multi-Factor Authentication (MFA) für Ihre [!DNL Dynamics]-Synchronisierung aktiviert haben, müssen Sie sie deaktivieren, damit [!DNL Dynamics] ordnungsgemäß mit Marketo synchronisieren können. Weitere Informationen erhalten Sie vom [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Bevor Sie [!DNL Microsoft Dynamics] 365 und Marketo synchronisieren können, mü
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Klicken Sie **[!UICONTROL Datei wählen]**. Wählen Sie die Marketo-Lead-Management-Lösung aus[&#x200B; die Sie heruntergeladen &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie **[!UICONTROL Datei wählen]**. Wählen Sie die Marketo-Lead-Management-Lösung aus[ die Sie heruntergeladen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 

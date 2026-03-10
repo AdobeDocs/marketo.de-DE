@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719314
-description: Standardmäßige Salesforce-Feldzuordnung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die standardmäßige Salesforce-Feldzuordnung zwischen Salesforce und Marketo Engage. Sehen Sie, wie Lead-, Kontakt-, Konto- und Opportunity-Felder automatisch zugeordnet werden.
 title: Standardmäßige Zuordnung von Salesforce-Feldern
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '374'
 ht-degree: 9%
 
 ---

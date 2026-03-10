@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719308
-description: Hinzufügen eines bestehenden Salesforce-Felds zur Marketo-Synchronisierung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein vorhandenes Salesforce-Feld zur Marketo-Synchronisierung hinzufügen. Feld für den Synchronisierungsbenutzer in Salesforce sichtbar machen, damit es beim nächsten Zyklus synchronisiert wird.
 title: Hinzufügen eines vorhandenen Salesforce-Felds zur Marketo-Synchronisierung
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 7%
+source-wordcount: '172'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Normalerweise werden neue benutzerdefinierte Felder in Salesforce automatisch mit Marketo Engage synchronisiert. Andernfalls sind die Felder für den Marketo Sync-Benutzer möglicherweise nicht sichtbar. So können Sie das beheben.
 

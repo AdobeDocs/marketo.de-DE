@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719300
-description: Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benutzerdefinierte Salesforce-Objektfelder als Smart-List-Filter und Trigger-Einschränkungen hinzufügen oder entfernen. Verwenden Sie die Synchronisierung von Admin- und Salesforce-Objekten , um sichtbare Felder zu bearbeiten.
 title: Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Einschränkung für intelligente Liste/Auslöser
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 10%
+source-wordcount: '205'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo Engage bietet eine präzise Kontrolle über die Synchronisierung benutze
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken Sie auf **[!UICONTROL admin].**
 

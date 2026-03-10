@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10098625
-description: Grundlegendes zur  [!DNL Microsoft Dynamics] -Synchronisierung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie die Microsoft Dynamics-Synchronisierung Marketo- und Dynamics-Daten synchronisiert. Erfahren Sie, was synchronisiert wird und wie die bidirektionale Synchronisierung für Leads und Kontakte funktioniert.
 title: Grundlegendes zur Synchronisierung mit Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 12%
+source-wordcount: '229'
+ht-degree: 20%
 
 ---
 
-# Grundlegendes zur [!DNL Microsoft Dynamics] {#understanding-the-microsoft-dynamics-sync}
+# Grundlegendes zur [!DNL Microsoft Dynamics]-Synchronisierung {#understanding-the-microsoft-dynamics-sync}
 
-Marketo und [!DNL Microsoft Dynamics] gehen zusammen. Wir halten Ihre Verkaufs- und Marketingdaten synchron.
+Marketo und [!DNL Microsoft Dynamics] gehen zusammen. Ihre Vertriebs- und Marketing-Daten bleiben synchron. 
 
 >[!CAUTION]
 >

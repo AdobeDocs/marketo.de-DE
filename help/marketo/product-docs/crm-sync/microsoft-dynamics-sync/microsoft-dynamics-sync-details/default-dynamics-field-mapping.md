@@ -1,11 +1,11 @@
 ---
-description: Standardmäßige Dynamics-Feldzuordnung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die standardmäßige Microsoft Dynamics-Feldzuordnung zwischen Dynamics und Marketo. Sehen Sie, wie Lead-, Kontakt-, Konto- und Opportunity-Felder automatisch zugeordnet werden.
 title: Standardfeldzuordnung in Dynamics
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '1036'
+source-wordcount: '1049'
 ht-degree: 3%
 
 ---
@@ -79,7 +79,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>Fax</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Adresse]</td>
+      <td>[!UICONTROL-Adresse]</td>
       <td>[!UICONTROL Straße 1]</td>
       <td>address1_line1</td>
     </tr>
@@ -89,7 +89,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Status]</td>
+      <td>[!UICONTROL-Status]</td>
       <td>[!UICONTROL Bundesland/Provinz]</td>
       <td>address1_stateorProvince</td>
     </tr>
@@ -209,13 +209,13 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Priorität]</td>
-      <td>[!UICONTROL -Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
       <td>[!UICONTROL Relative Dringlichkeit]</td>
-      <td>[!UICONTROL -Dringlichkeit]</td>
+      <td>[!UICONTROL-Dringlichkeit]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
@@ -314,7 +314,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>Mobiltelefon</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Adresse]</td>
+      <td>[!UICONTROL-Adresse]</td>
       <td>[!UICONTROL Adresse 1: Straße 1]</td>
       <td>address1_line1</td>
     </tr>
@@ -324,7 +324,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Status]</td>
+      <td>[!UICONTROL-Status]</td>
       <td>[!UICONTROL Adresse 1: Bundesland/Region]</td>
       <td>address1_stateorProvince</td>
     </tr>
@@ -414,13 +414,13 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Priorität]</td>
-      <td>[!UICONTROL -Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
       <td>[!UICONTROL Relative Dringlichkeit]</td>
-      <td>[!UICONTROL -Dringlichkeit]</td>
+      <td>[!UICONTROL-Dringlichkeit]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
@@ -488,8 +488,8 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>[!UICONTROL -Konto (a)]</td>
-      <td>[!UICONTROL -Konto]</td>
+      <td>[!UICONTROL-Konto (a)]</td>
+      <td>[!UICONTROL-Konto]</td>
       <td>accountid</td>
     </tr>
     <tr>
@@ -563,8 +563,8 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
       <td>sic</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Website]</td>
-      <td>[!UICONTROL -Website]</td>
+      <td>[!UICONTROL-Website]</td>
+      <td>[!UICONTROL-Website]</td>
       <td>Website</td>
     </tr>
     <tr>
@@ -629,11 +629,11 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>[!UICONTROL Abschlusswahrscheinlichkeit]</td>
-      <td>[!UICONTROL -Wahrscheinlichkeit]</td>
+      <td>[!UICONTROL-Wahrscheinlichkeit]</td>
       <td>Nahwahrscheinlichkeit</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Phase]</td>
+      <td>[!UICONTROL-Phase]</td>
       <td>[!UICONTROL Status]</td>
       <td>Zustandscode</td>
     </tr>

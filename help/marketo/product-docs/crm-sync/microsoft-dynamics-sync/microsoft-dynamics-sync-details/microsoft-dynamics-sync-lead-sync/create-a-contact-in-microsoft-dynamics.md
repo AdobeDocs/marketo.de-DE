@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095389
-description: Erstellen eines Kontakts in Microsoft Dynamics - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Microsoft Dynamics aus Marketo einen Kontakt erstellen. Verwenden Sie die Flussaktion Person mit Microsoft synchronisieren in einer Trigger-Kampagne für die Echtzeit-Kontakterstellung.
 title: Erstellen eines Kontakts in Microsoft Dynamics
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 

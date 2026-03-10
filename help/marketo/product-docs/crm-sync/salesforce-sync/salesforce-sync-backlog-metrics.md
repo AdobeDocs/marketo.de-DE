@@ -1,12 +1,12 @@
 ---
-description: Salesforce-Synchronisierungsrückstandsmetriken - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Metriken zum Synchronisierungsrückstand bei Salesforce und wie Sie Datensätze überwachen, die noch synchronisiert werden müssen. Zeigt den Rückstandstrend und den Durchsatz nach Objekttyp in Admin und Salesforce an.
 title: Backlog-Metriken bei der Salesforce-Synchronisierung
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '1048'
-ht-degree: 0%
+source-wordcount: '1065'
+ht-degree: 1%
 
 ---
 
@@ -98,9 +98,9 @@ Wenn viele Aktualisierungen vorgenommen werden (z. B. durch Ändern eines Feldwe
 
 **Häufig aktualisierte Felder**: Einige Felder werden häufig aktualisiert. Zum Beispiel Währungsfelder, die Währungsänderungen unterliegen. Überprüfen Sie, ob diese synchronisiert werden müssen oder ob die Felder anders gestaltet werden sollen. Wenn Sie andere Felder haben, die häufig aktualisiert werden und nicht benötigt werden, blenden Sie diese aus dem Synchronisierungsbenutzer aus. Besprechen Sie dies unbedingt mit Ihren SFDC Admin-Integrationen, die Felder möglicherweise aktualisieren.
 
-**Benutzerdefinierte Objekte**: Überprüfen Sie regelmäßig [benutzerdefinierte Objekte](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}, die zum Synchronisieren und Deaktivieren nicht mehr synchronisierter Objekte aktiviert sind.
+**Benutzerdefinierte Objekte**: Überprüfen Sie regelmäßig [benutzerdefinierte Objekte](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}, die zum Synchronisieren und Deaktivieren nicht mehr synchronisierter Objekte aktiviert sind.
 
-**Aktivitäten**: [Überprüfen Sie, ob Aktivitäten aktiviert &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}, die möglicherweise aus der Synchronisierung entfernt werden.  Diese Aktivitäten werden nur einmal pro Tag pro Lead synchronisiert.
+**Aktivitäten**: [Überprüfen Sie, ob Aktivitäten aktiviert ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}, die möglicherweise aus der Synchronisierung entfernt werden.  Diese Aktivitäten werden nur einmal pro Tag pro Lead synchronisiert.
 
 **Synchronisierungsfehler überprüfen**: Die Ausnahmebehandlung kann die Synchronisierung verlangsamen. Die Überprüfung von Benutzerbenachrichtigungen und die Behebung von Fehlern können den Synchronisierungsstatus verbessern.
 

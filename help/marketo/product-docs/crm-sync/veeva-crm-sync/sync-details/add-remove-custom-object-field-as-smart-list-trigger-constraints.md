@@ -1,11 +1,11 @@
 ---
-description: Hinzufügen/Entfernen eines benutzerdefinierten Objektfelds als Smart-Listen-/Trigger-Beschränkungen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benutzerdefinierte Veeva-Objektfelder als Smart-List-Filter und Trigger-Einschränkungen hinzufügen oder entfernen. Verwenden Sie die Synchronisierung von Admin- und Veeva-Objekten , um sichtbare Felder zu bearbeiten.
 title: Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Einschränkung für intelligente Liste/Auslöser
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '193'
 ht-degree: 11%
 
 ---
@@ -16,7 +16,7 @@ Marketo Engage bietet spezifische Steuerung für die Synchronisierung [!DNL Veev
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken Sie auf **[!UICONTROL Admin]** und dann auf **[!UICONTROL Veeva Objects Sync]**.
 

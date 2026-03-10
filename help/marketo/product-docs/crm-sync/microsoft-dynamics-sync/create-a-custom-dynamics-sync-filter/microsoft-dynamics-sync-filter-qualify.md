@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092977
-description: Microsoft Dynamics-Synchronisierungsfilter - Qualifizieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über den Qualifizierungsprozess des Dynamics-Synchronisierungsfilters beim Konvertieren eines Leads in einen Kontakt. Verstehen, wie sich die Werte von Lead- und Kontaktsynchronisierungsfiltern auf die Marketo-Synchronisierung auswirken.
 title: Microsoft Dynamics-Synchronisierungsfilter - Qualifizieren
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849029
-description: Aktualisieren der Marketo-Lösung für  [!DNL Microsoft Dynamics]  - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Marketo-Lösung für Microsoft Dynamics aktualisieren. Laden Sie die neueste Lösung von Admin herunter und importieren Sie sie über die vorhandene Version in Dynamics.
 title: Aktualisieren Sie die Marketo-Lösung für [!DNL Microsoft Dynamics]
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Sobald eine neue [!DNL Microsoft Dynamics] veröffentlicht wird, können Sie das
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!CAUTION]
 >
@@ -51,4 +51,4 @@ Sobald eine neue [!DNL Microsoft Dynamics] veröffentlicht wird, können Sie das
 
 >[!CAUTION]
 >
->Die Auswahl von Aktualisieren anstelle von Aktualisieren könnte zu einer Beschädigung der Daten in Ihrer [!DNL Dynamics] führen. **Wählen Sie „Aktualisieren“** &quot;[!UICONTROL &quot; &#x200B;].
+>Die Auswahl von Aktualisieren anstelle von Aktualisieren könnte zu einer Beschädigung der Daten in Ihrer [!DNL Dynamics] führen. **Wählen Sie „Aktualisieren“** &quot;[!UICONTROL &quot; ].

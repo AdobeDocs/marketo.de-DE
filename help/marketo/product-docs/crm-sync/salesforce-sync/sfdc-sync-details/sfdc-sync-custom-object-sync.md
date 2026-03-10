@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953471
-description: SFDC-Synchronisierung - Benutzerdefinierte Objektsynchronisierung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Synchronisierung benutzerdefinierter Objekte von Salesforce mit Marketo einrichten. Benutzerdefinierte Objekte aktivieren und in Smart Lists, Triggern und Kampagnen verwenden.
 title: SFDC-Synchronisierung - Synchronisierung benutzerdefinierter Objekte
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 1%
+source-wordcount: '312'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Benutzerdefinierte Objekte, die in Ihrer [!DNL Salesforce] erstellt wurden, kön
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!PREREQUISITES]
 >

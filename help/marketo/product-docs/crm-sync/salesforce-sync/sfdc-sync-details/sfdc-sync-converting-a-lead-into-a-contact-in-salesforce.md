@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953465
-description: SFDC-Synchronisierung - Konvertieren eines Leads in einen Kontakt in Salesforce - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, was passiert, wenn Sie in Salesforce einen Lead in einen Kontakt konvertieren. Erfahren Sie, wie Marketo die Änderung widerspiegelt und wie Lead konvertierte Trigger und Filter verwendet werden.
 title: SFDC-Synchronisation - Konvertieren eines Leads in einen Kontakt in Salesforce
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ In Marketo hat der Datensatz jetzt den SFDC-Typ = Kontakt.
 
 >[!TIP]
 >
->Stellen Sie beim Konvertieren in [!DNL Salesforce] sicher, [&#x200B; Ihre benutzerdefinierten Lead-Felder gut zugeordnet &#x200B;](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm). Sie möchten keine Daten verlieren.
+>Stellen Sie beim Konvertieren in [!DNL Salesforce] sicher, [ Ihre benutzerdefinierten Lead-Felder gut zugeordnet ](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm). Sie möchten keine Daten verlieren.
 
 Sie können Trigger erstellen und filtern mit: &quot;[!UICONTROL Lead ist konvertiert]&quot; und &quot;[!UICONTROL Lead wurde konvertiert]&quot;.

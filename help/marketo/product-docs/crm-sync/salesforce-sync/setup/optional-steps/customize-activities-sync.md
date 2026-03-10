@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719294
-description: Anpassen der Aktivitätssynchronisierung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie anpassen können, welche Aktivitäten Marketo an Salesforce weiterleitet. Aktivieren Sie Aktivitätstypen in den Admin- und Synchronisierungsoptionen, um den Aktivitätsverlauf der Salesforce aus Ereignissen zu erstellen.
 title: Anpassen der Aktivitätensynchronisierung
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '324'
 ht-degree: 2%
 
 ---

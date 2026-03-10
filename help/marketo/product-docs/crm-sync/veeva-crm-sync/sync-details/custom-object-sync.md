@@ -1,14 +1,14 @@
 ---
-description: Benutzerdefinierte Objektsynchronisierung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Synchronisierung benutzerdefinierter Objekte von Veeva CRM mit Marketo Engage einrichten. Aktivieren Sie benutzerdefinierte Objekte in Admin und verwenden Sie sie in Smart-Listen und Triggern.
 title: Synchronisierung benutzerdefinierte Objekte
 hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '217'
+ht-degree: 2%
 
 ---
 

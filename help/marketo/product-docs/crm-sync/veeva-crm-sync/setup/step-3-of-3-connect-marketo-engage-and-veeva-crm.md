@@ -1,11 +1,11 @@
 ---
-description: Schritt 3 von 3 - Marketo Engage und  [!DNL Veeva] -CRM verbinden - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie im letzten Einrichtungsschritt, wie Sie Marketo Engage mit Veeva CRM verbinden. Konfigurieren Sie OAuth, bestätigen Sie die Anmeldeinformationen und synchronisieren Sie die Felder, um die Verbindung abzuschließen.
 title: 'Schritt 3 von 3: Marketo Engage und  [!DNL Veeva]  verbinden'
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ In diesem Artikel konfigurieren Sie Marketo Engage für die Synchronisierung mit
 
    >[!NOTE]
    >
-   >Stellen Sie sicher[&#x200B; dass Sie in Marketo alle nicht benötigten Felder &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Synchronisierungsbenutzer ausblenden, bevor Sie auf „Felder synchronisieren“ klicken. Nachdem Sie auf Felder synchronisieren geklickt haben, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
+   >Stellen Sie sicher[ dass Sie in Marketo alle nicht benötigten Felder ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Synchronisierungsbenutzer ausblenden, bevor Sie auf „Felder synchronisieren“ klicken. Nachdem Sie auf Felder synchronisieren geklickt haben, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
 
 1. Klicken Sie **[!UICONTROL Mit Veeva anmelden]**.
 

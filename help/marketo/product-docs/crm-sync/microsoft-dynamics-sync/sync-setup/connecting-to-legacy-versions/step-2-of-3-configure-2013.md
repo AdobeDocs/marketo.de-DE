@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571816
-description: Schritt 2 von 3 - Synchronisierungsbenutzer für Marketo konfigurieren (2013 On-Premise) - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Synchronisierungsbenutzer für Marketo mit Dynamics 2013 On-Premise konfigurieren. Richten Sie den -Benutzer ein und weisen Sie ihm die Rolle Marketo-Synchronisierungsbenutzer in Dynamics zu.
 title: Schritt 2 von 3 - Synchronisierungsbenutzer für Marketo konfigurieren (2013 On-Premise)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '359'
 ht-degree: 3%
 
 ---
@@ -69,7 +69,7 @@ Fast fertig! Wir haben nur noch ein paar letzte Konfigurationsschritte, bevor wi
 
    >[!NOTE]
    >
-   >Wenn **[!UICONTROL Marketo Config]** fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht[&#x200B; veröffentlichen Sie die Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)Lösung erneut oder melden Sie sich ab und wieder an.
+   >Wenn **[!UICONTROL Marketo Config]** fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht[ veröffentlichen Sie die Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)Lösung erneut oder melden Sie sich ab und wieder an.
 
 1. Klicken Sie auf **[!UICONTROL Standard]**.
 
@@ -89,7 +89,7 @@ Fast fertig! Wir haben nur noch ein paar letzte Konfigurationsschritte, bevor wi
 
 ## Bevor Sie mit Schritt 3 fortfahren {#before-proceeding-to-step}
 
-* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [&#x200B; jetzt einen benutzerdefinierten Synchronisierungsfilter &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
+* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [ jetzt einen benutzerdefinierten Synchronisierungsfilter ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
 * Führen Sie den Prozess [validate [!DNL Microsoft Dynamics] sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) aus. Es stellt sicher, dass die anfänglichen Setups korrekt ausgeführt wurden.
 * Melden Sie sich beim Marketo Sync User in [!DNL Microsoft Dynamics] CRM an.
 

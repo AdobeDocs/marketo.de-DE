@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953463
-description: SFDC-Synchronisierung - Synchronisierung von Lead-/Kontoinhabern - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie die Felder für Lead- und Kontoinhaber von Salesforce mit Marketo synchronisiert werden. Ändern Sie den Lead-Inhaber in Marketo und verwenden Sie die Daten des Verantwortlichen in Flussaktionen und Smart Lists.
 title: SFDC-Synchronisierung - Synchronisierung von Lead/Kontoinhaber
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 16%
+source-wordcount: '230'
+ht-degree: 14%
 
 ---
 
@@ -37,7 +37,7 @@ Absolut, verwenden Sie einfach die [Besitzer ändern](/help/marketo/product-docs
 
 >[!NOTE]
 >
->Sie können die Besitzerinformationen nicht über die Seite [Verwenden der Personendetailseite“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+>Sie können die Besitzerinformationen nicht über die Seite [Verwenden der Personendetailseite“ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ## Was kann ich mit diesen Daten tun? {#what-can-i-do-with-this-data}
 

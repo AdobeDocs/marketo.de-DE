@@ -1,12 +1,12 @@
 ---
-description: Standard [!DNL Veeva] Feldzuordnung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die standardmäßige Veeva-Feldzuordnung zwischen Veeva CRM und Marketo Engage. Erfahren Sie, wie Kontakt- und Kontofelder zugeordnet sind und welche benutzerdefinierten Felder synchronisiert werden.
 title: ' [!DNL Veeva]  Feldzuordnung'
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 47%
+source-wordcount: '270'
+ht-degree: 44%
 
 ---
 

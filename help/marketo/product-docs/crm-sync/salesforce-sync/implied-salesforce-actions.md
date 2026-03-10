@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719304
-description: Implizite Salesforce-Aktionen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, welche Salesforce-Flussschritte Trigger „Person automatisch mit SFDC synchronisieren“ oder andere Aktionen sind. Erfahren Sie mehr über die Regeln für „Zu Kampagne hinzufügen“, „Inhaber ändern“, „Aufgabe erstellen“ und „Person konvertieren“.
 title: Implizierte Salesforce-Aktionen
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 26%
+source-wordcount: '162'
+ht-degree: 22%
 
 ---
 
@@ -48,6 +48,6 @@ Diese Regeln gelten, wenn sich die Person derzeit nicht in [Salesforce.com](http
  </tbody>
 </table>
 
-Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des **[!UICONTROL SFDC-Typs]** filtern, wobei der Operator auf &quot;[!UICONTROL ist nicht leer“ &#x200B;]. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
+Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des **[!UICONTROL SFDC-Typs]** filtern, wobei der Operator auf &quot;[!UICONTROL ist nicht leer“ ]. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
 
 Denken Sie daran, dass diese automatischen Aktionen nur stattfinden, wenn sich der Lead derzeit nicht in [Salesforce.com befindet](https://salesforce.com){target="_blank"}

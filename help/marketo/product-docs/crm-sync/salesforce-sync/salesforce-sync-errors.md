@@ -1,12 +1,12 @@
 ---
-description: Salesforce-Synchronisierungsfehler - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Salesforce-Synchronisierungsfehler in Marketo anzeigen und filtern. Siehe Fehler auf Datensatzebene und Auftragsebene und Verwenden von Fehlerdetails zur Behebung von Synchronisierungsproblemen.
 title: Salesforce-Synchronisierungsfehler
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '195'
+ht-degree: 7%
 
 ---
 
@@ -16,7 +16,7 @@ Zeigen Sie eine Zusammenfassung der Fehler an, auf die während des Synchronisie
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 ## Synchronisierungsfehler anzeigen {#view-sync-errors}
 

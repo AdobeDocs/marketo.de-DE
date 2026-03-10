@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571797
-description: Schritt 2 von 3 - Erstellen eines Salesforce-Benutzers für Marketo (Professional) - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Salesforce-Benutzer für Marketo mit Professional Edition erstellen. Legen Sie Seiten-Layouts fest und erstellen Sie den Benutzer mit Feldberechtigungen für Lead und Kontakt.
 title: 'Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Professional)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---

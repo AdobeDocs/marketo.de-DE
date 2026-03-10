@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719291
-description: Festlegen des Nachnamens der Person und des Firmennamens - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Nachnamen und Firmennamen der Standardperson für die Synchronisierung mit Salesforce festlegen. Verwenden Sie die Optionen Admin und Sync , damit partielle Datensätze mit Standardwerten synchronisiert werden.
 title: Festlegen des standardmäßigen Nachnamens einer Person und Firmennamens
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 11%
+source-wordcount: '153'
+ht-degree: 10%
 
 ---
 

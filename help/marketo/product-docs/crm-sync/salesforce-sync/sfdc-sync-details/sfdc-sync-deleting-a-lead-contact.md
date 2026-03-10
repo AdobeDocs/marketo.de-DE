@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515131
-description: SFDC-Synchronisierung - Löschen eines Leads/Kontakts - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie das Löschen von Leads und Kontakten zwischen Salesforce und Marketo funktioniert. SFDC Erfahren Sie mehr über die Flussaktionen „Person löschen“ und „Aus SFDC löschen“.
 title: SFDC-Synchronisierung - Löschen eines Leads/Kontakts
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 4%
 
 ---

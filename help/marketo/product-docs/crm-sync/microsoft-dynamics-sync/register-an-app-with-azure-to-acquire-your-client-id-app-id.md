@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983390
-description: Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhalten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine App bei Azure registrieren, um Ihre Client-ID und App-ID für die Dynamics-Synchronisierung abzurufen. Verwenden Sie Azure Active Directory- und App-Registrierungen für die Authentifizierung.
 title: Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhalten
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 7%
+source-wordcount: '343'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
 ## Registrieren einer neuen App {#registering-a-new-app}
 
-1. [Melden Sie &#x200B;](https://login.microsoftonline.com/){target="_blank"} beim Verwaltungsportal von Microsoft Azure mit einem Konto mit Administratorberechtigungen an. Sie können auf das Microsoft Azure-Portal auch über das Office 365 Admin Center zugreifen, indem Sie das **[!UICONTROL Admin]**-Element im linken Navigationsbereich erweitern und **[!UICONTROL Azure AD]** auswählen.
+1. [Anmelden](https://login.microsoftonline.com/){target="_blank"} beim Verwaltungsportal von Microsoft Azure unter Verwendung eines Kontos mit Administratorberechtigungen. Sie können auf das Microsoft Azure-Portal auch über das Office 365 Admin Center zugreifen, indem Sie das **[!UICONTROL Admin]**-Element im linken Navigationsbereich erweitern und **[!UICONTROL Azure AD]** auswählen.
 
    >[!CAUTION]
    >
@@ -25,16 +25,16 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    >[!NOTE]
    >
-   >Wenn Sie kein Azure-Konto haben, können Sie [&#x200B; für eines &#x200B;](https://azure.microsoft.com/en-us/free/){target="_blank"}. Weitere Informationen finden Sie in der Dokumentation von Microsoft oder bei Ihrem Microsoft-Support-Mitarbeiter. Nachdem Sie ein Azure-Konto erstellt haben, können Sie eine oder mehrere Apps wie unten beschrieben registrieren.
+   >Wenn Sie noch kein Azure-Konto haben, können Sie [sich anmelden](https://azure.microsoft.com/en-us/free/){target="_blank"} um eines zu erhalten. Weitere Informationen finden Sie in der Dokumentation von Microsoft oder bei Ihrem Microsoft-Support-Mitarbeiter. Nachdem Sie ein Azure-Konto erstellt haben, können Sie eine oder mehrere Apps wie unten beschrieben registrieren.
    >
    >
-   >Wenn Sie ein Azure-Konto haben, Ihr [!DNL Office 365]-Abonnement mit [!DNL Microsoft Dynamics 365] jedoch nicht in Ihrem Azure-Abonnement verfügbar ist, befolgen Sie [diese Anweisungen](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} um die beiden Konten zu verknüpfen.
+   >Wenn Sie über ein Azure-Konto verfügen, Ihr [!DNL Office 365]-Abonnement für [!DNL Microsoft Dynamics 365] jedoch nicht in Ihrem Azure-Abonnement verfügbar ist, befolgen Sie [diese Anweisungen](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} um die beiden Konten zu verknüpfen.
 
 1. Suchen Sie nach **[!UICONTROL Azure Active Directory]** im linken Navigationsbereich und klicken Sie darauf.
 
    ![](assets/two.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
 
    ![](assets/three.png)
 
@@ -56,7 +56,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/seven.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
 
    ![](assets/eight.png)
 

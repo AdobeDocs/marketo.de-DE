@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719297
-description: Aktivieren/Deaktivieren der Synchronisierung benutzerdefinierter Objekte - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Synchronisierung benutzerdefinierter Salesforce-Objekte in Marketo Engage aktivieren oder deaktivieren. Verwenden Sie die Synchronisierung von Admin- und Salesforce-Objekten , um Objekte auszuwählen und das Schema zu aktualisieren.
 title: Aktivieren/Deaktivieren der benutzerdefinierten Objektsynchronisierung
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '235'
 ht-degree: 6%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Anmelden mit OAuth 2.0 - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Marketo und Salesforce mithilfe von OAuth 2.0 verbinden. Richten Sie eine externe Client-App in Salesforce ein und autorisieren Sie Marketo, sicher zu synchronisieren, ohne Anmeldeinformationen freizugeben.
 title: Anmelden mit OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '652'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzenden von Programmen einen si
 
 >[!NOTE]
 >
->Seit September 2025 schränkt Salesforce die Verwendung von &quot;[&#x200B; Apps“ &#x200B;](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"}. Bestehende Benutzende, die eine Connected App auf Grundlage unserer Dokumentation eingerichtet haben, können entweder die Berechtigung „Deinstallierte Connected Apps genehmigen“ zum Profil des Marketo Sync-Benutzenden hinzufügen oder eine neue externe Client-App erstellen, wie unten beschrieben.
+>Seit September 2025 schränkt Salesforce die Verwendung von &quot;[ Apps“ ](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"}. Bestehende Benutzende, die eine Connected App auf Grundlage unserer Dokumentation eingerichtet haben, können entweder die Berechtigung „Deinstallierte Connected Apps genehmigen“ zum Profil des Marketo Sync-Benutzenden hinzufügen oder eine neue externe Client-App erstellen, wie unten beschrieben.
 
 1. Klicken Sie in Salesforce auf das Zahnradsymbol und wählen Sie **Setup**.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571836
-description: Microsoft Dynamics-Synchronisierung - Kontosynchronisierung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Kontoinformationen von Microsoft Dynamics mit Marketo synchronisiert werden. Verstehen der Einwegsynchronisierung und der Beziehung Kontakt-Konto.
 title: Microsoft Dynamics-Synchronisierung - Kontosynchronisierung
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Nein. Marketo kann keine Konten in [!DNL Dynamics] erstellen.
 
 ## Welche Felder werden mit Marketo synchronisiert? {#which-fields-will-sync-to-marketo}
 
-Sie können [&#x200B; Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) die synchronisiert werden sollen. Marketo synchronisiert jedoch nur die Felder, auf die der [!DNL Dynamics] Synchronisierungsbenutzer Zugriff hat.
+Sie können [ Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) die synchronisiert werden sollen. Marketo synchronisiert jedoch nur die Felder, auf die der [!DNL Dynamics] Synchronisierungsbenutzer Zugriff hat.
 
 ## Führt eine Änderung an einem Kontofeld in [!DNL Dynamics] zu einem Aktivitätsprotokoll „Datenwert ändern“ für jeden Kontakt?  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 

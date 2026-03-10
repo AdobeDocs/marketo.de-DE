@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360370
-description: Programmstatus und Salesforce-Kampagnenstatus vor der Synchronisierung abgleichen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Marketo-Programmstatus vor der Synchronisierung mit dem Salesforce-Kampagnenstatus abgleichen. Fehlerbehebung und Zuordnungsstatus, damit Programme mit Kampagnen synchronisiert werden.
 title: Wie sich Programmstatus und Salesforce-Kampagnenstatus vor der Synchronisierung abgleichen lassen
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 5%
 
 ---

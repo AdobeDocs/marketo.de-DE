@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953461
-description: SFDC-Synchronisierung - Feldsynchronisierung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, welche Salesforce-Felder mit Marketo synchronisiert werden und wie SFDC Type und isDeleted funktionieren. Fügen Sie zuerst neue Felder in Salesforce hinzu, damit sie automatisch mit Marketo synchronisiert werden.
 title: SFDC-Synchronisierung - Feldsynchronisierung
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Suchfelder in SFDC synchronisieren die ID, aber nicht den referenzierten Namen.
 
 ## Was ist mit SFDC-Formelfeldern? {#what-about-sfdc-formula-fields}
 
-Formelfelder werden synchronisiert. Aktualisierungen an den Verweisen in der Formel werden jedoch erst synchronisiert, wenn eine Aktualisierung für einen [Systemmodusstempel“ &#x200B;](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=en_US){target="_blank"}.
+Formelfelder werden synchronisiert. Aktualisierungen an den Verweisen in der Formel werden jedoch erst synchronisiert, wenn eine Aktualisierung für einen [Systemmodusstempel“ ](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=en_US){target="_blank"}.
 
 ## Was passiert, wenn ich ein Feld aus [!DNL Salesforce] lösche, das zuvor mit Marketo synchronisiert wurde? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
