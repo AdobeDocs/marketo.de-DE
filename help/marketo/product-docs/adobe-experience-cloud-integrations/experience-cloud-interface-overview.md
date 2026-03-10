@@ -1,12 +1,12 @@
 ---
-description: Übersicht über die Adobe Experience Cloud-Benutzeroberfläche – Marketo-Dokumente – Produktdokumentation
+description: Erfahren Sie mehr über die Adobe Experience Cloud-Benutzeroberfläche und Unified Shell, die Marketo Engage in einer einzigen Instanz bereitstellt. Verwenden Sie sie, um sich anzumelden, zwischen Adobe-Produkten zu wechseln und auf Hilfe und Benachrichtigungen zuzugreifen.
 title: Adobe Experience Cloud-Benutzeroberfläche – Übersicht
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+workflow-type: tm+mt
+source-wordcount: '296'
+ht-degree: 89%
 
 ---
 
