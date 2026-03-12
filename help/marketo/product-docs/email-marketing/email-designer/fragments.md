@@ -6,9 +6,9 @@ description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendba
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
+source-git-commit: 8e4e5ddd4789b9ddfb5ced7d20b58f345d257caf
 workflow-type: tm+mt
-source-wordcount: '1951'
+source-wordcount: '1972'
 ht-degree: 2%
 
 ---
@@ -312,6 +312,10 @@ Wenn ein Fragment zu einer E-Mail oder E-Mail-Vorlage hinzugefügt wird, kann se
 * **[!UICONTROL Duplizieren]** - Dadurch wird das Fragment in derselben E-Mail oder E-Mail-Vorlage im Editor dupliziert. Das duplizierte Fragment wird direkt unter dem Original hinzugefügt.
 * **[!UICONTROL Fragment öffnen]** - Dadurch wird eine neue Browser-Registerkarte mit der Fragment-Editor-Seite und Details geöffnet.
 * **[!UICONTROL Vererbung unterbrechen]** - Hiermit wird die Vererbung des Fragments (und seiner Änderungen) von der Quelle unterbrochen. Verwenden Sie diese Aktion, um den Fragmentinhalt als unabhängigen und bearbeitbaren Inhalt in der E-Mail- oder E-Mail-Vorlage verfügbar zu machen. Diese Aktion entfernt auch die E-Mail- oder E-Mail-Vorlage aus der Referenz _Verwendet von_ für das ursprüngliche Fragment.
+
+>[!NOTE]
+>
+>Wenn _Mit HTML synchronisieren_ in der E-Mail deaktiviert ist, werden vorgenommene Änderungen (einschließlich Unterbrechung der Vererbung) nicht im Textinhalt widergespiegelt.
 
 Wenn Sie das Fragment auf der Editor-Seite auswählen, sind diese Aktionen in der Kontextsymbolleiste und im Bedienfeld Eigenschaften auf der rechten Seite verfügbar.
 
