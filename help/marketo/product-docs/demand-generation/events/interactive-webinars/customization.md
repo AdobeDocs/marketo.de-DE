@@ -141,4 +141,4 @@ Wählen Sie **Übernehmen**, um die Änderungen zu speichern, oder **Auf Standar
 
 * Gastgeber können Themen während der Raumerstellung auswählen oder sie später auf der Zimmerinformationsseite aktualisieren (**Zimmeroberleiste** > **Mehr Menü** > **Zimmerinformationen anzeigen**).
 
-Weitere Informationen zu [Designs](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Weitere Informationen zu [Designs](https://helpx.adobe.com/de/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
