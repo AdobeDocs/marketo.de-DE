@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557337
-description: Erstellen und Ändern von Ansichten für Listen und Smart-Listen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ansichten für Listen und Smart Lists erstellen und ändern. Passen Sie an, welche Spalten auf der Registerkarte Personen angezeigt werden.
 title: Erstellen und Ändern von Ansichten für Listen und intelligente Listen
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '231'
 ht-degree: 9%
 
 ---

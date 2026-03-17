@@ -1,11 +1,11 @@
 ---
-description: OA-YYYY-MM-online Advertising Marketo Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Online Advertising Marketo Landingpage-Programmvorlage. Verwenden Sie ihn für Paid-Kampagnen mit Marketo-Seiten.
 title: 'Marketo-Landingpage mit Online-Werbung: OA-JJJJ-MM'
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '491'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Dies ist ein Beispiel für ein Tracking-Programm für Online-Werbung, einschließlich einer Marketo-Landingpage mit Registrierungsformular und Verwendung eines Marketo-Standardprogramms. Der Link zum Angebot kann auf der Dankeseite angezeigt, in einer Dankesnachricht gesendet oder auf beiden Seiten angezeigt werden.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

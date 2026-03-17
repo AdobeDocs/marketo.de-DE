@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146985
-description: Ordnen Sie die Flussschritte in einer Smart-Kampagne neu an - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Flussschritte in einer intelligenten Kampagne neu anordnen. Drag & Drop, um die Reihenfolge der Aktionen im Fluss zu ändern.
 title: Neuanordnen der Flussschritte in einer intelligenten Kampagne
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 18%
+source-wordcount: '97'
+ht-degree: 16%
 
 ---
 

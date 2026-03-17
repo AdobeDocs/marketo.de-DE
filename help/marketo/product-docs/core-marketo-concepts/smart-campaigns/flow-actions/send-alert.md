@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146958
-description: Warnhinweis senden - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in einem Workflow-Schritt von Smart Campaign einen Warnhinweis senden. Benutzer benachrichtigen, wenn jemand in den Fluss eintritt oder die Kriterien erfüllt.
 title: Senden von Alarm
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Marketo Engage kann einen E-Mail-Warnhinweis mit Personeninformationen an jeden 
    >
    >Denken Sie daran, in Ihrer E[!UICONTROL Mail das Token &quot;]Warnhinweisinfo senden“ zu verwenden.
 
-1. Wählen Sie den Warnhinweisempfänger aus. Sie können &quot;[!UICONTROL &quot; &#x200B;] &quot;[!UICONTROL &quot; &#x200B;].
+1. Wählen Sie den Warnhinweisempfänger aus. Sie können &quot;[!UICONTROL &quot; ] &quot;[!UICONTROL &quot; ].
 
    ![](assets/send-alert-4.png)
 

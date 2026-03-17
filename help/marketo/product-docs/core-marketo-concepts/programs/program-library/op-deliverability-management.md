@@ -1,12 +1,12 @@
 ---
-description: Zustellbarkeits-Management - Marketo-Dokumente - Produktdokumentation
+description: Vorlage für das operationelle Zustellbarkeits-Management. Verwenden Sie sie, um die Zustellbarkeit von E-Mails zu gewährleisten.
 title: OP-Verwaltung der Zustellbarkeit
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 21%
+source-wordcount: '253'
+ht-degree: 20%
 
 ---
 
@@ -18,7 +18,7 @@ Dies ist ein Beispiel für Best Practice-Workflows zur Zustellbarkeitsverwaltung
 >
 >Erfordert das benutzerdefinierte Zeichenfolgenfeld „Grund für ausgesetztes Marketing“ zum Importieren. [Weitere Informationen](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

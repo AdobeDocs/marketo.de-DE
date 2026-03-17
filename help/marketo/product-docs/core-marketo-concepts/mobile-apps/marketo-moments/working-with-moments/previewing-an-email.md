@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783563
-description: Vorschau einer E-Mail - Marketo-Dokumente - Produktdokumentation
+description: In Marketo Moments erfahren Sie, wie Sie eine E-Mail in der Vorschau anzeigen. Sehen Sie sich an, wie Ihre E-Mail vor dem Versand über die Mobile App aussieht.
 title: Anzeigen einer E-Mail in der Vorschau
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 6%
+source-wordcount: '140'
+ht-degree: 5%
 
 ---
 

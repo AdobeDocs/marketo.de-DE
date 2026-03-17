@@ -1,20 +1,20 @@
 ---
-description: Übersicht über das Einchecken von Ereignissen
-title: Übersicht über das Einchecken von Ereignissen
+description: Erfahren Sie mehr über das Einchecken von Ereignissen zum Einchecken von Kunden über ein Tablet. Verwenden Sie die Check-in-App, um die Ereignisregistrierung zu verwalten.
+title: Übersicht über das Einchecken in ein Ereignis
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 0%
+source-wordcount: '288'
+ht-degree: 4%
 
 ---
 
-# Übersicht über das Einchecken von Ereignissen {#event-check-in-overview}
+# Übersicht über das Einchecken in ein Ereignis {#event-check-in-overview}
 
 >[!IMPORTANT]
 >
->Am 2. Oktober 2023 entfernte Adobe die Marketo Events App aus allen App Stores. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo auf Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Am 2. Oktober 2023 hat Adobe die Marketo Events App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Die Marketo Events App für [!DNL iPad] oder [!DNL Android] Tablet erleichtert das Einchecken von Personen, sobald sie bei Ihrer Veranstaltung ankommen.
 
@@ -24,7 +24,7 @@ Einige Aktivitäten finden vor dem Ereignis statt, z. B. das Erstellen einer neu
 
 Ich wünsche euch eine tolle Veranstaltung!
 
-## Vorbereiten der Veranstaltung
+## Vorbereiten des Ereignisses
 
 Vor dem Ereignis:
 

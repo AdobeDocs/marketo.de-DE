@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952484
-description: Umbenennen eines Marketo-Assets - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ordner, Programme und lokale Assets in Marketo Engage umbenennen.
 title: Umbenennen eines Marketo-Assets
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 12%
+source-wordcount: '84'
+ht-degree: 11%
 
 ---
 

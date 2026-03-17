@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146935
-description: Aktivieren einer Smart Trigger-Kampagne | Registerkarte „Zeitplan“ - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine intelligente Trigger-Kampagne über die Registerkarte „Planung“ aktivieren. Schalten Sie die Kampagne ein, damit sie auf Trigger wartet.
 title: Aktivieren einer intelligenten Auslöser-Kampagne | Registerkarte „Zeitplan“
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 16%
+source-wordcount: '97'
+ht-degree: 14%
 
 ---
 

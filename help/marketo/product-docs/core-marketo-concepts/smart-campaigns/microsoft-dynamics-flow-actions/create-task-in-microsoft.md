@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356429
-description: Aufgabe in Microsoft erstellen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Microsoft Dynamics eine Aufgabe aus einem Flussschritt erstellen. Erstellen Sie eine Aufgabe für den Eigentümer, wenn jemand in den Fluss eintritt.
 title: Erstellen einer Aufgabe in Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '184'
 ht-degree: 4%
 
 ---
@@ -39,4 +39,4 @@ Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
 
 >[!TIP]
 >
->Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den **[!UICONTROL Betreff]** und **[!UICONTROL Beschreibung]**. Weitere [&#x200B; finden Sie unter &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für Flussschritte .
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den **[!UICONTROL Betreff]** und **[!UICONTROL Beschreibung]**. Weitere [ finden Sie unter ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für Flussschritte .

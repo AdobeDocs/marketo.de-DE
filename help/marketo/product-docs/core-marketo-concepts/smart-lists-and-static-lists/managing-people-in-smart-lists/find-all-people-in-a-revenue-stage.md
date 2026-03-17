@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557331
-description: Alle Personen in einer Umsatzphase suchen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie alle Personen in einer Umsatzphase finden. Verwenden Sie den Filter Umsatzstufe zum Erstellen einer Liste oder eines Segments.
 title: Suchen nach allen Personen in einer Umsatzphase
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 9%
+source-wordcount: '160'
+ht-degree: 8%
 
 ---
 

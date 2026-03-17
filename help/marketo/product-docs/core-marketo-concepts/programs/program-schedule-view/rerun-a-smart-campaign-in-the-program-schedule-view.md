@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953331
-description: Erneutes Ausführen einer Smart Campaign in der Ansicht Programmzeitplan - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Smart-Kampagne über die Ansicht Programmzeitplan erneut ausführen. Führen Sie eine Batch-Kampagne bei Bedarf erneut aus.
 title: Erneutes Ausführen einer intelligenten Kampagne in der Ansicht „Programmplanung“
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Neue Ausführungen einer vorhandenen Smart-Kampagne können einfach direkt in der Ansicht Programmplan erstellt werden.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-3.png)
 

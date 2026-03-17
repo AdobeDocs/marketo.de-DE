@@ -1,11 +1,11 @@
 ---
-description: WR-YYYY-MM-Web Request-Programm - Marketo-Dokumente - Produktdokumentation
+description: Webanforderungs-Programmvorlage. Verwenden Sie ihn für Inhalts- und Formularübermittlungen mit Gates.
 title: 'Web-Anfrage-Programm: WR-JJJJ-MM'
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '405'
 ht-degree: 16%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Dies ist ein Beispielprogramm, das sich ideal für Formulare für Kontaktanfragen, Angebotsanfragen, Demoanfragen oder Testanfragen eignet, bei denen ein Standardprogramm von Marketo Engage verwendet wird. Kann mit Marketo-Landingpages oder als eingebettetes Formular auf Landingpages verwendet werden, bei denen es sich nicht um Marketo handelt. Bei der Übermittlung eines Formulars wird eine Benachrichtigungs-E-Mail an eine bestimmte Person gesendet.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

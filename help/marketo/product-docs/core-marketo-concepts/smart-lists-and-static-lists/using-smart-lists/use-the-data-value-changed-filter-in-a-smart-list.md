@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557324
-description: Verwenden des Filters „Geänderter Datenwert“ in einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Filter „Datenwertänderung“ in einer Smart-Liste verwenden. Personen suchen, wenn sich ein Feldwert geändert hat.
 title: Verwenden des Filters „Datenwert geändert“ in einer intelligenten Liste
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 19%
+source-wordcount: '153'
+ht-degree: 18%
 
 ---
 

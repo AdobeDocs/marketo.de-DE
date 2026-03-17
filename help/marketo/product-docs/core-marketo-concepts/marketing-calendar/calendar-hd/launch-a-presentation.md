@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504120
-description: Präsentation starten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Marketing-Kalenderpräsentation starten, nachdem Sie Ansichten und Rotation festgelegt haben. Anzeige auf einem HDTV- oder externen Monitor.
 title: Starten einer Präsentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 5%
+source-wordcount: '121'
+ht-degree: 4%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147102
-description: Erstellen eines Eintrags in der Programmplanansicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Eintrag in der Ansicht „Programmzeitplan“ erstellen. Fügen Sie E-Mail-Programme, intelligente Kampagnen oder Standardeinträge zum Zeitplan hinzu.
 title: Erstellen eines Eintrags in der Ansicht „Programmplanung“
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 9%
+source-wordcount: '185'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Sie können Einträge in der Programmplanungsansicht erstellen, um ein vorhanden
 
 ## Erstellen eines Basiseintrags {#create-a-basic-entry}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 

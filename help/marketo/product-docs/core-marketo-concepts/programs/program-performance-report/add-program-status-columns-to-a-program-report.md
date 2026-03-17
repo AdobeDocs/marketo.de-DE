@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147239
-description: Hinzufügen von Programmstatusspalten zu einem Programmbericht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einem Programmbericht Programmstatusspalten hinzufügen. Mitgliedsstatus in die Berichtsspalten einbeziehen.
 title: Hinzufügen von Programmstatusspalten zu einem Programmbericht
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 13%
+source-wordcount: '140'
+ht-degree: 12%
 
 ---
 
 # Hinzufügen von Programmstatusspalten zu einem Programmbericht {#add-program-status-columns-to-a-program-report}
 
-Fügen Sie Ihrem [Programmleistungsbericht“ Statistiken zum &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} hinzu.
+Fügen Sie Ihrem [Programmleistungsbericht“ Statistiken zum ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} hinzu.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]** (oder **[!UICONTROL Analytics]**).
 
@@ -45,7 +45,7 @@ Fügen Sie Ihrem [Programmleistungsbericht“ Statistiken zum &#x200B;](/help/ma
 
 >[!NOTE]
 >
->Wenn nicht für jeden Status im Programm eine Spalte angezeigt wird, stellen Sie sicher, dass Sie [&#x200B; Bericht die anzuzeigenden &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} ausgewählt haben.
+>Wenn nicht für jeden Status im Programm eine Spalte angezeigt wird, stellen Sie sicher, dass Sie [ Bericht die anzuzeigenden ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} ausgewählt haben.
 
 >[!MORELIKETHIS]
 >

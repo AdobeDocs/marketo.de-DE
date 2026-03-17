@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147296
-description: Speichern einer Filterdefinition im Marketing-Kalender - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Filterdefinition im Marketing-Kalender speichern. Speichern Sie Filter, um schnell zwischen verschiedenen Filterdefinitionen zu wechseln.
 title: Speichern einer Filterdefinition im Marketing-Kalender
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 21%
+source-wordcount: '93'
+ht-degree: 19%
 
 ---
 
@@ -35,7 +35,7 @@ Durch Speichern eines Filters können Sie zwischen verschiedenen Filterdefinitio
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Bei Bedarf können Sie [eine Kopie) &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} Definition an andere Marketo-Benutzer senden.
+   Bei Bedarf können Sie [eine Kopie) ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} Definition an andere Marketo-Benutzer senden.
 
    >[!NOTE]
    >

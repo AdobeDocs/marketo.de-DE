@@ -1,12 +1,12 @@
 ---
-description: TS-YYYY-MM-DD-Tradeshow-Programm - Marketo-Dokumentation
+description: Messe-Programmvorlage. Verwenden Sie ihn für Veranstaltungen und Messen mit konsistenter Benennung.
 title: 'Messeprogramm: TS-EV-JJJJ-MM-TT'
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 18%
+source-wordcount: '416'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 Dies ist ein Beispiel für ein Messeprogramm mit Einladungen und Follow-up-E-Mails unter Verwendung eines Marketo Engage-Veranstaltungsprogramms.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

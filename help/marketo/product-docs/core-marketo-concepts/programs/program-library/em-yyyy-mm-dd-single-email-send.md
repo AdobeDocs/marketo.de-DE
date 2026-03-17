@@ -1,12 +1,12 @@
 ---
-description: EM-JJJJ-MM-TT-E-Mail senden - Marketo-Dokumente - Produktdokumentation
+description: Programmvorlage für einmaliges Senden von E-Mails. Verwenden Sie diese Option, um einmalige E-Mail-Kampagnen mit einer klaren Namenskonvention zu senden.
 title: 'Senden einer einzelnen E-Mail: EM-JJJJ-MM-TT'
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 19%
+source-wordcount: '290'
+ht-degree: 18%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 In diesem Beispiel wird eine einzige E-Mail mit einem Marketo Engage-E-Mail-Programm gesendet. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146970
-description: Planen einer Smart-Batch-Kampagne für die spätere Ausführung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Smart-Batch-Kampagne für die spätere Ausführung planen. Legen Sie ein Datum und eine Uhrzeit fest, zu der die Kampagne einmal ausgeführt werden soll.
 title: Planen der Ausführung einer intelligenten Stapel-Kampagne zu einem späteren Zeitpunkt
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 12%
 
 ---
 

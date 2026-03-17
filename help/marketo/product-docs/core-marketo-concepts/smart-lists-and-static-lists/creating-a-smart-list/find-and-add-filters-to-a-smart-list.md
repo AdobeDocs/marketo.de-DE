@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557273
-description: Suchen und Hinzufügen von Filtern zu einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Filter finden und zu einer Smart-Liste hinzufügen. Durchsuchen Sie die Filterstruktur und fügen Sie Filter hinzu, um Ihre Listenlogik zu erstellen.
 title: Suchen und Hinzufügen von Filtern zu einer intelligenten Liste
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 12%
+source-wordcount: '145'
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ In diesem Beispiel wollen wir alle Menschen in Kalifornien mit einem Ergebnis ü
 >
 >Erkunden Sie den Baum auf der rechten Seite - Filter sind sehr leistungsstark und haben eine Vielzahl von möglichen Funktionen.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 

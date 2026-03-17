@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147120
-description: Importieren von Mitgliedern aus einer Tabelle in ein Programm - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Mitglieder aus einer Tabelle in ein Programm importieren.
 title: Importieren von Mitgliedern aus einer Tabelle in ein Programm
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 10%
 
 ---

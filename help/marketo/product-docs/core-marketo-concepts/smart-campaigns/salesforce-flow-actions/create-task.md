@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147017
-description: Aufgabe erstellen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in einem Flussschritt eine Salesforce-Aufgabe erstellen. Erstellen Sie eine Aufgabe für den Lead-Eigentümer, wenn jemand in den Fluss eintritt.
 title: Erstellen von Aufgaben
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---
@@ -31,4 +31,4 @@ Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
 
 >[!TIP]
 >
->Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den **[!UICONTROL Betreff]** und **[!UICONTROL Beschreibung]**. Weitere [&#x200B; finden Sie unter &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für Flussschritte .
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den **[!UICONTROL Betreff]** und **[!UICONTROL Beschreibung]**. Weitere [ finden Sie unter ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für Flussschritte .

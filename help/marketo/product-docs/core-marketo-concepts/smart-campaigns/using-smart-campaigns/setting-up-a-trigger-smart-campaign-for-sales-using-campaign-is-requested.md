@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514898
-description: Einrichten einer intelligenten Trigger-Kampagne für den Verkauf mithilfe von „Kampagne ist angefordert“ - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie mit Campaign eine intelligente Trigger-Kampagne für den Verkauf einrichten, wenn eine Kampagne angefordert wird. Lassen Sie Verkaufskampagnen für Leads vom CRM anfordern.
 title: Einrichten einer intelligenten Auslöser-Kampagne für den Verkauf mit „Kampagne wurde angefordert“
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 8%
 
 ---

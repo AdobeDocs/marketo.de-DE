@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504130
-description: Erstellen eines benutzerdefinierten Ziels - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie im Marketing-Kalender ein benutzerdefiniertes Ziel erstellen. Verfolgen Sie den Fortschritt und motivieren Sie Ihr Team mit manuell aktualisierten Zielen.
 title: Erstellen eines benutzerdefinierten Ziels
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '122'
+ht-degree: 6%
 
 ---
 

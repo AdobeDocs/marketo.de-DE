@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146962
-description: Score ändern - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Lead-Bewertung in einem Flussschritt ändern. Punkte zu einem Personenergebnis in der Kampagne hinzufügen oder davon abziehen.
 title: Ändern von Bewertung
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 4%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ Die Bewertung von Personen ist einfach und leistungsstark und hilft Ihrem Verkau
 
    >[!TIP]
    >
-   >Sie können mehrere Bewertungsfelder erstellen. Weitere [&#x200B; finden Sie unter „Erstellen eines benutzerdefinierten Felds &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} Marketo&quot;.
+   >Sie können mehrere Bewertungsfelder erstellen. Weitere [ finden Sie unter „Erstellen eines benutzerdefinierten Felds ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} Marketo&quot;.
 
 1. Geben Sie die gewünschte Score-Änderung ein.
 

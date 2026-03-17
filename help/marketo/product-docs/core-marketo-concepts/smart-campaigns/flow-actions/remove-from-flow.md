@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147084
-description: Aus dem Fluss entfernen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie mit dem Schritt „Aus Fluss entfernen“ Personen aus dem Fluss entfernen können. Beenden Sie die weitere Verarbeitung ausgewählter Personen.
 title: Entfernen aus Fluss
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 4%
+source-wordcount: '155'
+ht-degree: 3%
 
 ---
 

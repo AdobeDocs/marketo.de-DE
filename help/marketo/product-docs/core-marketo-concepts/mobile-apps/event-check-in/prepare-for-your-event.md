@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099360
-description: Vorbereiten der Veranstaltung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie sich mit dem Ereignis-Check-in auf Ihr Ereignis vorbereiten können. Richten Sie die App ein und synchronisieren Sie Ihr Veranstaltungsprogramm, bevor Teilnehmer eintreffen.
 title: Vorbereiten des Ereignisses
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '414'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ Marketo verfügt über eine spezielle Benutzerrolle für die Ereignis-Check-in-A
 
 ## Neue Tablet-Benutzer zur Veranstaltung einladen {#invite-new-tablet-users-to-the-event}
 
-[Laden Sie neue Tablet-Benutzer zum Ereignis &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) und weisen Sie ihnen die neue Rolle zu.
+[Laden Sie neue Tablet-Benutzer zum Ereignis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) und weisen Sie ihnen die neue Rolle zu.
 
 ## Erstellen eines neuen Marketo-Veranstaltungsprogramms {#create-a-new-marketo-event-program}
 

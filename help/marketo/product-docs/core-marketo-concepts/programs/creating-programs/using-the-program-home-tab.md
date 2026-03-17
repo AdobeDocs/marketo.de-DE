@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147126
-description: Verwenden der Programmstartseite - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Registerkarte „Programm-Startseite“ verwenden. Programmübersicht, Leistung und wichtige Details an einem Ort anzeigen.
 title: Verwenden der Registerkarte „Startseite“ des Programms
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 6%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Die Registerkarte „Programm-Startseite“ bietet einen umfassenden Überblick 
 
 ## Zusammenfassungsansicht {#summary-view}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -71,4 +71,4 @@ Die Registerkarte „Programm-Startseite“ bietet einen umfassenden Überblick 
 
    >[!MORELIKETHIS]
    >
-   >[Grundlegendes zur Programmmitgliedschaft](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[Grundlegendes zur Programmzugehörigkeit](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

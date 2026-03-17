@@ -1,12 +1,12 @@
 ---
-description: OP-Scoring-Verhalten - Marketo-Dokumente - Produktdokumentation
+description: Vorlage für das operationelle Programm „Scoring-Verhalten“ Damit können Sie festlegen, wie die Lead-Bewertung funktioniert.
 title: OP-Scoring-Verhalten
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 30%
+source-wordcount: '355'
+ht-degree: 29%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 30%
 
 Dieses Beispiel ist ein erweitertes (tokenisiertes) operationelles Programm für die Verhaltensbewertung unter Verwendung eines Marketo Engage-Standardprogramms. Zeigen Sie die Scoring-Werte auf der Registerkarte „Meine Token“ des Programms an und bearbeiten Sie sie. Erfordert ein benutzerdefiniertes Bewertungsfeld namens „Verhaltensbewertung“.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

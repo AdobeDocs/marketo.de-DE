@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953120
-description: Grundlegendes zu Smart Campaign - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Smart Campaign zur Automatisierung in Marketo. Verwenden Sie Trigger und Flussschritte, um Lead-Pflege und -Aktionen zu automatisieren.
 title: Grundlegendes zu intelligenten Kampagnen
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 19%
+source-wordcount: '261'
+ht-degree: 92%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 19%
 
 Wenn Sie sich Marketo Engage als ein Auto vorstellen, ist die Smart-Kampagne der Motor. Smart-Kampagnen bieten mehr Möglichkeiten, als Sie sich vorstellen können, und es ist ganz einfach, sie zu nutzen.
 
-Die intelligente Kampagne umfasst drei Hauptbereiche: die Registerkarten [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} und [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
+Eine intelligente Kampagne umfasst drei Hauptbereiche: die Registerkarten [Intelligente Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} und [Zeitplan](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 
 ## Intelligente Liste {#smart-list}
 
-Mit der Smart-Liste definieren Sie, _wer_ mit Ihrer Smart-Kampagne angesprochen werden soll. Es hat Filter und Trigger.
+Über die intelligente Liste definieren Sie, _wer_ mit Ihrer intelligenten Kampagne angesprochen werden soll. Sie verfügt über Filter und Trigger.
 
 <table>
  <tbody>
@@ -34,14 +34,14 @@ Mit der Smart-Liste definieren Sie, _wer_ mit Ihrer Smart-Kampagne angesprochen 
    <td><p>Erfassen Sie alle Personen in einem Batch, die sich derzeit qualifizieren.</p></td>
   </tr>
   <tr>
-   <td colspan="1">Auslöser</td>
+   <td colspan="1">Trigger</td>
    <td colspan="1">Klickt auf Link</td>
-   <td colspan="1">In dem Moment, in dem jemand etwas tut, feuere den Fluss sofort.</td>
+   <td colspan="1">In dem Moment, in dem jemand etwas tut, wird der Fluss sofort gestartet.</td>
   </tr>
  </tbody>
 </table>
 
-Sie können Filter auf verschiedene Arten kombinieren und in Verbindung mit Triggern verwenden. Dies ist ein leistungsstarkes Tool - experimentieren Sie damit.
+Sie können Filter auf verschiedene Arten kombinieren und in Verbindung mit Triggern verwenden. Dies ist ein leistungsstarkes Tool – experimentieren Sie damit.
 
 ## Fluss {#flow}
 
@@ -49,14 +49,14 @@ Der Fluss enthält die Schritte, die die intelligente Kampagne ausführen soll, 
 
 ## Zeitplan {#schedule}
 
-Schließlich wird hierdurch gesteuert, wann Sie Ihre intelligente Kampagne ausführen. Sie können sogar eine Wiederholung einrichten, damit sie nach einem sich wiederholenden Zeitplan ausgeführt wird.
+Hierdurch wird schließlich gesteuert, wann Ihre intelligente Kampagne ausgeführt wird. Sie können auch ein Intervall einrichten, damit sie nach einem sich wiederholenden Zeitplan ausgeführt wird.
 
-Die intelligente Kampagne kann eine enorme Menge an Aufgaben erledigen. Alles ist in Marketo viel leichter zu verstehen, und Sie werden alles finden.
+Mithilfe einer intelligenten Kampagne kann eine enorme Menge an Aufgaben erledigt werden. Machen Sie sich mit ihrer Verwendung vertraut und Sie werden sehen, dass alles in Marketo einfacher wird.
 
 >[!CAUTION]
 >
->Wenn Sie eine Smart-Kampagne von einem Programm in ein anderes Programm verschieben und die Smart-Liste oder die Flussschritte der Kampagne auf das ursprüngliche Programm verweisen, müssen Sie die Informationen manuell aktualisieren, um das neue Programm widerzuspiegeln, da es **automatisch aktualisiert**.
+>Wenn Sie eine intelligente Kampagne von einem Programm in ein anderes Programm verschieben und die intelligente Liste oder die Flussschritte der Kampagne auf das ursprüngliche Programm verweisen, müssen Sie die Informationen manuell aktualisieren, sodass diese das neue Programm widerspiegeln, da **keine** automatische Aktualisierung vorgenommen wird.
 
 >[!MORELIKETHIS]
 >
->[Erstellen Sie eine neue intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
+>[Erstellen einer neuen intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}

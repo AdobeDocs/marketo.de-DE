@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511477
-description: Verwenden von Inaktivitätsfiltern in einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Inaktivitätsfilter in einer Smart List verwenden. Finde Leute, die seit einer bestimmten Zeit nichts getan haben.
 title: Verwenden von Inaktivitätsfiltern in einer intelligenten Liste
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 10%
+source-wordcount: '138'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Wussten Sie, dass Sie in einer Smart List nach Personen suchen können _die_ etwas getan haben? Checken Sie diese Inaktivitätsfilter aus.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-1.png)
 

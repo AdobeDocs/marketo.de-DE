@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147243
-description: Programmzeitplan - Eintragstypen anzeigen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Eintragstypen in der Programmplanansicht. E-Mail-Programme, intelligente Kampagnen und andere Eintragstypen.
 title: Eintragstypen in der Ansicht „Programmplanung“
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 19%
+source-wordcount: '159'
+ht-degree: 18%
 
 ---
 
 # Eintragstypen in der Ansicht „Programmplanung“ {#program-schedule-view-entry-types}
 
-Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanansicht sichtbar und verfügbar sind. Sie können [&#x200B; Abschnitt Admin auch benutzerdefinierte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) erstellen.
+Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanansicht sichtbar und verfügbar sind. Sie können [ Abschnitt Admin auch benutzerdefinierte ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) erstellen.
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Es gibt acht verschiedene integrierte Eintragstypen, die in Ihrer Programmplanan
  </thead>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1">Grundlegender Eintrag<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td>
+   <td colspan="1" rowspan="1">Grundlegender Eintrag<span> <img alt="--" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td>
    <td colspan="1" rowspan="1">Standardeintragstyp. Verwenden Sie als Platzhalter oder Hinweis. </td>
   </tr>
   <tr>

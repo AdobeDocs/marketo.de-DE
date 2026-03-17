@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147251
-description: Erstellen benutzerdefinierter Überlagerungen in der Programmplanansicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benutzerdefinierte Überlagerungen in der Ansicht „Programmplan“ erstellen. Fügen Sie Überlagerungszeilen hinzu, um zusätzliche Daten im Zeitplan anzuzeigen.
 title: Erstellen benutzerdefinierter Überlagerungen in der Ansicht „Programmplanung“
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 19%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 
@@ -27,7 +27,7 @@ Sie können benutzerdefinierte Überlagerungen erstellen, um die für Ihre Anfor
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Sie können auch nach ([-Tags) &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
+1. Sie können auch nach ([-Tags) ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

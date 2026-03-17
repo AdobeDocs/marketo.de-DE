@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093348
-description: Grundlegendes zu Smart Campaign-Karten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Smart Campaign-Karten in Marketo Moments. Anzeigen des Kampagnenstatus und Ausführen von Flussschritten über die Mobile App.
 title: Grundlegendes zu Karten für intelligente Kampagnen
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '585'
 ht-degree: 1%
 
 ---

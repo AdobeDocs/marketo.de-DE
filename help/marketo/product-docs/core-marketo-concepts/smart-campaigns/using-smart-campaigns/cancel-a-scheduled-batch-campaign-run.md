@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147058
-description: Abbrechen einer geplanten Batch-Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Ausführung einer geplanten Batch-Kampagne abbrechen. Entfernen Sie eine einmalige geplante Ausführung, damit sie nicht ausgeführt wird.
 title: Abbrechen der geplanten Ausführung einer Stapel-Kampagne
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 12%
+source-wordcount: '103'
+ht-degree: 11%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147001
-description: Verwenden der standardmäßigen Smart-List-Regellogik - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die standardmäßige Regellogik der Smart List in einer Smart-Kampagne verwenden. Filter mit UND-Logik zur Qualifizierung kombinieren.
 title: Verwenden der standardmäßigen Regellogik für intelligente Listen
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 9%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 

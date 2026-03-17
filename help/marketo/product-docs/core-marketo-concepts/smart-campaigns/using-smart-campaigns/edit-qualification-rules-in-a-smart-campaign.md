@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146974
-description: Bearbeiten von Qualifizierungsregeln in einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in einer Smart-Kampagne Qualifizierungsregeln bearbeiten. Ändern Sie, wie oft Personen die Kampagne durchlaufen können.
 title: Bearbeiten von Qualifizierungsregeln in einer intelligenten Kampagne
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '222'
 ht-degree: 6%
 
 ---
@@ -33,7 +33,7 @@ Qualifizierungsregeln steuern, wie oft jemand den Fluss in einer Smart-Kampagne 
 
    >[!NOTE]
    >
-   >Kommunikationsbeschränkungen werden standardmäßig nicht auf Smart-Kampagnen angewendet. Erfahren Sie, wie [&#x200B; Kommunikationsbeschränkungen auf eine Smart-Kampagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
+   >Kommunikationsbeschränkungen werden standardmäßig nicht auf Smart-Kampagnen angewendet. Erfahren Sie, wie [ Kommunikationsbeschränkungen auf eine Smart-Kampagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >

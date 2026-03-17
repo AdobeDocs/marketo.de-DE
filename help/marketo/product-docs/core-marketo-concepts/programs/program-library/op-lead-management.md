@@ -1,11 +1,11 @@
 ---
-description: OP-Lead-Management - Marketo-Dokumente - Produktdokumentation
+description: Vorlage für das operationelle Programm für Lead-Management. Verwalten Sie damit den Lead-Lebenszyklus und die Bewertung.
 title: OP-Lead-Management
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '272'
 ht-degree: 16%
 
 ---
@@ -18,7 +18,7 @@ Dies ist ein Beispiel für Best Practice-Workflows für das Lead-Management, die
 >
 >In Marketo Engage werden Datensätze in Ihrer Datenbank als Personen/Personen bezeichnet. Die Lead-Verwaltung in diesem Beispiel bezieht sich auf die Datensätze in Ihrem CRM.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html), um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html), um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

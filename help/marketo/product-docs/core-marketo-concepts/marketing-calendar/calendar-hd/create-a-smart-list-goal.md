@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504128
-description: Erstellen eines Smart List-Ziels - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie im Marketing-Kalender ein Ziel für die Smart-Liste erstellen. Verfolgen Sie den Fortschritt mit Zielen, die in Präsentationen alle zwei Stunden automatisch aktualisiert werden.
 title: Erstellen eines Ziels für eine intelligente Liste
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '159'
 ht-degree: 6%
 
 ---

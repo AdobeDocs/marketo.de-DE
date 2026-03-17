@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953243
-description: Benachrichtigungstypen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Benachrichtigungstypen in Marketo, einschließlich Kampagnenfehler, CRM-Synchronisierung und Interaktion. Verstehen, was jeder Warnhinweis bedeutet.
 title: Benachrichtigungstypen
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 7%
+source-wordcount: '247'
+ht-degree: 6%
 
 ---
 
@@ -60,4 +60,4 @@ Sie werden benachrichtigt, wenn Sie Ihr tägliches Kontingent erreichen. Das Kon
 
 >[!NOTE]
 >
->Einige der Fehler-Codes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation“ &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/error-codes).
+>Einige der Fehler-Codes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation“ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

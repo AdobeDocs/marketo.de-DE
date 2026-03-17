@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516639
-description: Gewähren von Benutzerzugriff auf die Check-in-App - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Benutzern Zugriff auf die Ereignis-Check-in-App gewähren. Weisen Sie die Rolle Mobile Event Check-in zu, damit sie Teilnehmer einchecken kann.
 title: Gewähren von Benutzerzugriff auf die App zum Einchecken
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 6%
+source-wordcount: '275'
+ht-degree: 5%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8159286
-description: Opportunity-Filter und -Trigger - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Opportunity-Filter und Trigger in Marketo. Segment und Trigger in CRM-Opportunity-Daten.
 title: Opportunity-Filter und -Auslöser
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '480'
 ht-degree: 6%
 
 ---

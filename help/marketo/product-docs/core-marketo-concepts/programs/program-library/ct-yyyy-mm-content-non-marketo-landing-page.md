@@ -1,11 +1,11 @@
 ---
-description: CT-YYYY-MM-Content Landingpage von Nicht-Marketo - Marketo-Dokumente - Produktdokumentation
+description: Vorlage für Nicht-Marketo-Landingpage-Programm für Inhalte. Verwenden Sie es für Inhalte auf externen Landingpages.
 title: 'Inhalt auf einer Landingpage nicht von Marketo: CT-JJJJ-MM'
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '401'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Dies ist ein Beispiel für ein Inhaltsprogramm mit einem Marketo Engage-Formular zum Herunterladen von Inhalten auf einer nicht zu Marketo Engage gehörenden Landingpage mithilfe eines Marketo Engage-Standardprogramms. Dieses Programm ist für die Verwendung mit einem Marketo Engage-Formular vorgesehen, das auf Ihrer Website eingebettet ist. Der Link zum Angebot/Inhalt kann in einer Dankesmail versendet werden.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

@@ -1,10 +1,10 @@
 ---
-description: Datenschutzverwaltung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Tools zur Datenschutzverwaltung in Marketo Engage für die DSGVO, CCPA und mehr. Handhabung von Zugriffs- und Löschanfragen zur Einhaltung von Vorschriften.
 title: Datenschutzverwaltung
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '393'
 ht-degree: 1%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146931
-description: Erstellen einer neuen Smart Campaign - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine neue intelligente Kampagne erstellen. Richten Sie Trigger oder eine Smart-Liste ein und fügen Sie Flussschritte hinzu, um Aktionen zu automatisieren.
 title: Erstellen einer neuen intelligenten Kampagne
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 8%
+source-wordcount: '132'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ Intelligente Kampagnen sind das wichtigste Tool in Marketo Engage. Sie können T
 >
 >Weitere Informationen zu [Smart-Kampagnen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
@@ -40,4 +40,4 @@ Intelligente Kampagnen sind das wichtigste Tool in Marketo Engage. Sie können T
    >[!MORELIKETHIS]
    >
    >* [Definieren der Smart-Liste für intelligente Kampagnen | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
-   >* [Definieren der Smart-Liste für intelligente Kampagnen | Trigger &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Definieren der Smart-Liste für intelligente Kampagnen | Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949413
-description: Hinzufügen einer Einschränkung zu einem Smart-Listenfilter - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Einschränkung zu einem Smart-Listen-Filter hinzufügen. Filter mit zusätzlichen Bedingungen verfeinern, um präzisere Listen zu erhalten.
 title: Hinzufügen einer Einschränkung zu einem Filter für intelligente Listen
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 9%
+source-wordcount: '185'
+ht-degree: 10%
 
 ---
 
@@ -22,7 +22,7 @@ In diesem Beispiel fügen wir einige Einschränkungen zu einem Filter **[Datenwe
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [Verwenden des Filters „Datenwert geändert“ in einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md){target="_blank"}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-1.png)
 

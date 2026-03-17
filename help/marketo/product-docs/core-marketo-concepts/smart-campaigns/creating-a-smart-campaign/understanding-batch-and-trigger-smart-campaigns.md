@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953132
-description: Grundlegendes zu Smart Campaign im Batch- und Trigger - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Smart-Kampagnen im Batch- und Trigger-Modus. Verstehen, wann die einzelnen Typen verwendet werden und wie sie ausgeführt werden.
 title: Grundlegendes zu intelligenten Stapel- und Auslöser-Kampagnen
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 6%
+source-wordcount: '273'
+ht-degree: 5%
 
 ---
 
@@ -34,7 +34,7 @@ Durch Klicken auf **[!UICONTROL Zeitplan]** wird bestätigt, dass die Smart-Kamp
 **Batch-Smart-Kampagnen**
 
 * Kann für Wiederholungen geplant werden, z. B. täglich, wöchentlich und monatlich. Sie können sie auch nur einmal ausführen lassen.
-* Sind in der Ansicht [Programmzeitplan“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Alles nach einem „Warten“-Schritt in der Smart-Kampagne wird nicht in die Ansicht aufgenommen.
+* Sind in der Ansicht [Programmzeitplan“ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Alles nach einem „Warten“-Schritt in der Smart-Kampagne wird nicht in die Ansicht aufgenommen.
 
 <br> 
 

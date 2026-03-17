@@ -1,11 +1,11 @@
 ---
-description: Ändern der Daten von Programmmitgliedern - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Programmmitgliedsdaten in einem Flussschritt ändern. Mitgliedsstatus oder benutzerdefinierte Felder für Personen in einem Programm aktualisieren.
 title: Ändern von Programmmitgliedsdaten
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '154'
 ht-degree: 5%
 
 ---
@@ -32,13 +32,13 @@ Sie können Marketo verwenden, um den Wert eines Felds mithilfe der Flussaktion 
 
 >[!NOTE]
 >
->Sie können Token auch in &quot;[!UICONTROL &#x200B; Wert“ &#x200B;].
+>Sie können Token auch in &quot;[!UICONTROL  Wert“ ].
 
 Führen Sie jetzt einfach die Smart Campaign aus und Sie sind fertig!
 
 >[!TIP]
 >
->Wenn Sie die Felder löschen möchten, anstatt sie zu aktualisieren, können Sie „NULL“ (keine Anführungszeichen, alle Begrenzungen) als [!UICONTROL Neuer Wert“ &#x200B;].
+>Wenn Sie die Felder löschen möchten, anstatt sie zu aktualisieren, können Sie „NULL“ (keine Anführungszeichen, alle Begrenzungen) als [!UICONTROL Neuer Wert“ ].
 
 >[!MORELIKETHIS]
 >

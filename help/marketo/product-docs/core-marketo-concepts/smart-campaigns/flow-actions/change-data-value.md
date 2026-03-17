@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146960
-description: Datenwert ändern - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in einem Schritt des Flusses in Smart Campaign einen Datenwert ändern. Aktualisieren Sie Personen- oder Firmenfelder im Fluss.
 title: Datenwert ändern
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 5%
+source-wordcount: '124'
+ht-degree: 4%
 
 ---
 

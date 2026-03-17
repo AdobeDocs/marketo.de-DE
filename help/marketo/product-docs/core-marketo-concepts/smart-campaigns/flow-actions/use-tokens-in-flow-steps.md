@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146995
-description: Verwenden von Token in Flussschritten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Token in Flussschritten verwenden. Fügen Sie dynamische Werte in den Inhalt der Flussschritte und in E-Mails ein.
 title: Verwenden von Token in Flussschritten
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '201'
 ht-degree: 10%
 
 ---

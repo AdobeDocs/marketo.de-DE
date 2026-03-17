@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951703
-description: Campaign anfragen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Schritt „Kampagnenfluss anfragen“ verwenden. Trigger einer anderen Kampagne, die ausgeführt werden soll, wenn jemand diesen Schritt erreicht.
 title: Anfordern von Kampagne
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '129'
 ht-degree: 3%
 
 ---
 
 # Anfordern von Kampagne {#request-campaign}
 
-Sie können Personen mithilfe des Schritts „Kampagne anfragen[!UICONTROL &#x200B; in eine bestimmte Kampagne &#x200B;].
+Sie können Personen mithilfe des Schritts „Kampagne anfragen[!UICONTROL  in eine bestimmte Kampagne ].
 
 >[!NOTE]
 >

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146942
-description: Smart-Liste für Smart-Kampagnen definieren | Trigger - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Smart-Liste für eine Trigger-Smart-Kampagne definieren. Legen Sie Filter fest, die Personen für den Trigger qualifizieren.
 title: Definieren einer intelligenten Liste für eine intelligente Kampagne | Auslöser
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '262'
 ht-degree: 5%
 
 ---
@@ -55,7 +55,7 @@ Erstellen Sie durch Hinzufügen von Triggern, dass eine Smart-Kampagne basierend
    >
    >Bei mehreren Triggern durchläuft eine Person den Fluss, wenn _BELIEBIG_ einer der Trigger aktiviert wird.
 
-Wenn Sie die Kampagne für mehrere Personen gleichzeitig ausführen möchten, erfahren Sie hier, wie Sie [&#x200B; Smart-Liste für Smart-Kampagnen definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Wenn Sie die Kampagne für mehrere Personen gleichzeitig ausführen möchten, erfahren Sie hier, wie Sie [ Smart-Liste für Smart-Kampagnen definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

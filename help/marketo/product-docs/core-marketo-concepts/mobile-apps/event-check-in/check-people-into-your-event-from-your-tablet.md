@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949839
-description: Personen von Ihrem Tablet aus in Ihre Veranstaltung einchecken - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Personen von einem Tablet aus in Ihr Ereignis einchecken können. Verwenden Sie die App zum Einchecken von Ereignissen, um Teilnehmer zu scannen und einzuchecken.
 title: Einchecken von Personen in Ihr Ereignis über Ihr Tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '844'
 ht-degree: 2%
 
 ---
@@ -113,7 +113,7 @@ Die neue Person wird als bei Ihrem Ereignis eingecheckt registriert und der Mark
 
 ## Umkehren eines Eincheckens {#reverse-a-check-in}
 
-Wenn Sie versehentlich eine Person eingecheckt haben _bevor Sie mit Marketo synchronisiert haben_ können Sie den Status &quot;[!UICONTROL &quot; &#x200B;].
+Wenn Sie versehentlich eine Person eingecheckt haben _bevor Sie mit Marketo synchronisiert haben_ können Sie den Status &quot;[!UICONTROL &quot; ].
 
 1. Tippen Sie auf den Namen in der Liste und im Personendatensatz auf **[!UICONTROL Rückgängig]**.
 

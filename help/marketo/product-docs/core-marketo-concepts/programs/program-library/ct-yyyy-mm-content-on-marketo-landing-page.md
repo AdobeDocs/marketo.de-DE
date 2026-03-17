@@ -1,11 +1,11 @@
 ---
-description: CT-YYYY-MM-Inhalt auf der Marketo-Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Inhalte in der Marketo-Landingpage-Programmvorlage. Verwenden Sie ihn für Inhalte, die auf Marketo-Landingpages gehostet werden.
 title: 'Inhalt auf einer Landingpage von Marketo: CT-JJJJ-MM'
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '481'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Dieses Beispiel ist als Inhaltsprogramm konzipiert, das eine Marketo Engage-Landingpage mit einem Marketo Engage-Formular nutzt, wobei ein Marketo Engage-Standardprogramm verwendet wird. Das Formular dient zum Zugriff auf den Inhalt/das Angebot. Der Link zum Angebot kann auf der Dankeseite angezeigt, in einer Dankesnachricht gesendet oder auf beiden Seiten angezeigt werden.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

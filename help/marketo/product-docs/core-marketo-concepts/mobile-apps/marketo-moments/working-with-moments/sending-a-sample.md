@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783561
-description: Senden eines Beispiels - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Beispiel-E-Mail von Marketo Moments senden. Testen Sie Ihre E-Mail, indem Sie sich selbst ein Beispiel aus der App senden.
 title: Senden eines Beispiels
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 6%
+source-wordcount: '146'
+ht-degree: 5%
 
 ---
 

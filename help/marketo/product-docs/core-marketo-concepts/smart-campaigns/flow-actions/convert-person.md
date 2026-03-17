@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147019
-description: Person konvertieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Person in einem Flussschritt konvertieren. Markieren Sie anonyme Besucher als bekannt, wenn sie konvertieren.
 title: Konvertieren von Person
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '115'
 ht-degree: 3%
 
 ---

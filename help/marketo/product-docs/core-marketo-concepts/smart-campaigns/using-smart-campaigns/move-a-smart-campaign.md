@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094949
-description: Verschieben einer intelligenten Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine intelligente Kampagne verschieben. Verschieben Sie die Kampagne in Marketing-Aktivitäten in einen anderen Ordner.
 title: Verschieben einer intelligenten Kampagne
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 5%
+source-wordcount: '153'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ Verschieben Sie eine intelligente Kampagne zwischen verschiedenen Programmen ode
 >
 >Da sich die Regeln nicht ändern, müssen Sie diese Informationen manuell aktualisieren, um das neue Programm der Kampagne widerzuspiegeln, wenn die Smart-Listen- oder Flussschritte auf das ursprüngliche Programm verweisen _da sie_ automatisch aktualisiert werden.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 

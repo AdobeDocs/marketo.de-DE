@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147068
-description: Filtern von Smart Campaign-Ergebnissen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ergebnisse von Smart Campaign filtern. Einschränken der in der Ansicht der Kampagnenergebnisse angezeigten Personen nach Kriterien.
 title: Filtern der Ergebnisse einer intelligenten Kampagne
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 6%
+source-wordcount: '141'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147306
-description: Filtern des Marketing-Kalenders nach Workspace - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Marketing-Kalender nach Arbeitsbereich filtern. Zeigen Sie nur Objekte an, die in einem bestimmten Arbeitsbereich im Filterbedienfeld erstellt wurden.
 title: Filtern des Marketing-Kalenders nach Arbeitsbereichen
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 18%
+source-wordcount: '80'
+ht-degree: 16%
 
 ---
 

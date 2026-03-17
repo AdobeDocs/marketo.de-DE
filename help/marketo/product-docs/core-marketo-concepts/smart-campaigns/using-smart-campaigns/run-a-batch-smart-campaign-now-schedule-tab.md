@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146933
-description: Jetzt eine intelligente Batch-Kampagne ausführen | Registerkarte „Zeitplan“ - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie jetzt eine intelligente Batch-Kampagne über die Registerkarte Zeitplan ausführen. Die Kampagne sofort ausführen, anstatt sie zu planen.
 title: Unmittelbares Ausführen einer intelligenten Stapel-Kampagne | Registerkarte „Zeitplan“
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 15%
+source-wordcount: '112'
+ht-degree: 14%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512524
-description: Best Practices für Smart Lists - Marketo-Dokumente - Produktdokumentation
+description: Hier erhalten Sie Hilfe zu Best Practices für Smart Lists. Mit diesen Tipps können Sie schnellere und genauere Listen erstellen.
 title: Best Practices für intelligente Listen
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '574'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Um die Arbeit mit ihnen zu vereinfachen und die Leistung zu optimieren, haben wi
 >
 >**Jeder Marketo Engage-Benutzer ist anders.** Je größer die Datenbank, desto mehr Verarbeitung erfolgt. Je mehr Aktivitäten Sie gespeichert haben, desto länger dauert es, sie zu durchsuchen.
 >
->Wenn Sie Langsamkeit verspüren, versuchen Sie die folgenden Tipps. Wenn das Problem weiterhin besteht, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+>Wenn Sie Langsamkeit verspüren, versuchen Sie die folgenden Tipps. Wenn das Problem weiterhin besteht, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
 
 1. **Limitverlauf -** Verlaufsfilter (auch Aktivitätsfilter genannt) gehören zu den ressourcenintensivsten und zeitaufwendigsten Vorgängen. Wenn Sie sie verwenden müssen, versuchen Sie, den Datumsbereich auf so kurz wie möglich zu beschränken, wodurch der durchsuchbare Datensatz reduziert würde. Darüber hinaus ersetzen Datumsbereiche keine Aufbewahrungsfristen. Beispiel: Wenn die Aktivität, die Sie abfragen, eine Aufbewahrungsfrist von 90 Tagen hat und Sie „Letzte 100 Tage“ auswählen, werden nur Ergebnisse aus den letzten 90 Tagen zurückgegeben. Aufbewahrungsfristen für Aktivitäten [finden Sie hier](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}.
 1. **Einschränken von verschachtelten Smart-Listen -** Beschränken Sie beim Erstellen einer neuen Smart-Liste die Anzahl der verwendeten Filter „Mitglieder der Smart-Liste“. Dies wird als Verschachteln von Smart Lists bezeichnet. Jede Smart List, auf die verwiesen wird, verlängert die Verarbeitungszeit. Verweisen Sie stattdessen entweder auf statische Listen oder verwenden Sie [Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}.

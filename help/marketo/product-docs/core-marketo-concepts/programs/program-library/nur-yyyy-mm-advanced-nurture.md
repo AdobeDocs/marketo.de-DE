@@ -1,11 +1,11 @@
 ---
-description: NUR-YYYY-MM-Advanced Nurture - Marketo-Dokumentation
+description: Advanced Nurture-Programmvorlage. Verwenden Sie es für die Multi-Stream-Pflege mit einer Namenskonvention.
 title: 'Erweitertes Nurturing: NUR-JJJJ-MM'
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '497'
 ht-degree: 16%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Dies ist ein Beispiel für erweiterte Nurture-Programme, die das Marketo Engage Engagement Program verwenden. Verschachtelte E-Mail-Programme verhindern, dass Personen Inhalte erhalten, die sie bereits konsumiert haben, oder steuern den Typ des Inhalts, den sie in jedem Stream konsumieren sollen. Attributionsberichte können für jedes einzelne verschachtelte E-Mail-Programm ausgeführt werden. Kanäle: „Pflegen“ und ein dedizierter Kanal „Pflege-E-Mail“ für die verschachtelten E-Mail-Programme senden eine Newsletter-E-Mail mit einem Marketo Engage-E-Mail-Programm. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

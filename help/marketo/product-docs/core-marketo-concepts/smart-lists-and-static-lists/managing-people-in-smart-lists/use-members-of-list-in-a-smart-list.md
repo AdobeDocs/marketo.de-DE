@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953173
-description: Verwenden von Listenmitgliedern in einer Smart-Liste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Mitglieder der Liste in einem Smart-Listen-Filter verwenden. Personen, die sich in einer anderen Liste befinden, ein- oder ausschließen.
 title: Verwenden von Listenmitgliedern in einer intelligenten Liste
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 13%
+source-wordcount: '146'
+ht-degree: 12%
 
 ---
 

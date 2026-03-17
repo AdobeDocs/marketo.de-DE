@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147152
-description: Klonen eines Assets in einem Programm - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Asset innerhalb eines Programms klonen. Erstellen Sie eine Kopie einer E-Mail, einer Landingpage oder eines anderen lokalen Assets.
 title: Klonen eines Assets in einem Programm
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 12%
+source-wordcount: '129'
+ht-degree: 14%
 
 ---
 
@@ -21,7 +21,7 @@ Klonen eines Programms klont _alles_. Manchmal möchten Sie nur ein Asset klonen
 
 ## Klonen eines lokalen Assets {#clone-a-local-asset}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 

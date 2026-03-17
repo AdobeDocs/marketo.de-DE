@@ -1,11 +1,11 @@
 ---
 unique-page-id: 11386358
-description: Marketo Sandbox - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Marketo Engage-Sandbox zum Testen vor der Produktion. Verwenden Sie eine Sandbox-Instanz, um zu testen, ohne die Produktion zu beeinträchtigen.
 title: Marketo-Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Eine Marketo-Sandbox kann nicht mit Ihrem regulären CRM-System synchronisiert w
 
 ## Instanzkopie {#instance-copy}
 
-Sie können einen Support-Fall senden, in dem eine einmalige Instanzkopie zum Ausfüllen Ihrer Sandbox angefordert wird. Die Instanzkopie bringt jedoch nicht _alles_. Weitere Informationen finden Sie im [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support)Support.
+Sie können einen Support-Fall senden, in dem eine einmalige Instanzkopie zum Ausfüllen Ihrer Sandbox angefordert wird. Die Instanzkopie bringt jedoch nicht _alles_. Weitere Informationen finden Sie im [Marketo](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de)Support.
 
 >[!NOTE]
 >

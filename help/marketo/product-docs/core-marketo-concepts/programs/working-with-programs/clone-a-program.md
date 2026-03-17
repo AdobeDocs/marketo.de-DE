@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147110
-description: Klonen eines Programms - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Programm und alle zugehörigen Assets klonen. Erstellen Sie eine Kopie in einem Kampagnenordner oder Arbeitsbereich, ohne sie manuell neu zu erstellen.
 title: Klonen eines Programms
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '235'
 ht-degree: 2%
 
 ---

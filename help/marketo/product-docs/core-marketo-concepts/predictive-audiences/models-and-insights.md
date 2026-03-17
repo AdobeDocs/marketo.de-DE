@@ -1,12 +1,12 @@
 ---
-description: Modelle und Einblicke - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über prädiktive Zielgruppenmodelle und Einflussfaktoren. Verwenden Sie KI-Einblicke, um das Targeting abzustimmen und die Kampagnenleistung zu verbessern.
 title: Modelle und Erkenntnisse
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 2%
+source-wordcount: '230'
+ht-degree: 3%
 
 ---
 
@@ -24,7 +24,7 @@ Navigieren Sie im Bereich **[!UICONTROL Admin]** von Marketo Engage zum Abschnit
 
 ![Bild eins](assets/models-and-insights-1.png)
 
-* **Trainings-Status**: Gibt an, ob Ihr Modell aktiv trainiert (Prognosen werden verbessert). Das Training findet automatisch alle zwei Wochen statt. Bei allen Modellen, die _Verarbeitung_ aufweisen, kann die Fertigstellung bis zu 24 Stunden dauern. Wenden _sich bei (_) Modellen an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **Trainings-Status**: Gibt an, ob Ihr Modell aktiv trainiert (Prognosen werden verbessert). Das Training findet automatisch alle zwei Wochen statt. Bei allen Modellen, die _Verarbeitung_ aufweisen, kann die Fertigstellung bis zu 24 Stunden dauern. Wenden _sich bei (_) Modellen an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
 * **Scoring-Status**: Gibt an, ob Ihr Modell aktiv Prognosen (Wahrscheinlichkeitsprozentsätze) für Programmmitglieder berechnet.
 * **Leistung**: Kategorisierung der Modellintegrität auf der Grundlage von Datenvollständigkeit und Datenqualität (siehe unten).
 * **Datenvollständigkeit**: Prozentsatz der Datenattribute, die vorhanden/vollständig sind.

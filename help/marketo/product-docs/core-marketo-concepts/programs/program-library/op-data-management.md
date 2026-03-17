@@ -1,11 +1,11 @@
 ---
-description: OP-Daten-Management - Marketo-Dokumente - Produktdokumentation
+description: Vorlage für das operationelle Programm „Daten-Management“. Verwenden Sie diese Option, um Ihre Datenbank sauber und auf dem neuesten Stand zu halten.
 title: OP-Daten-Management
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '327'
 ht-degree: 27%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 27%
 
 Dies ist ein Beispiel für einfache Best Practice-Workflows für das Betriebsdaten-Management unter Verwendung eines Standardprogramms, das Sie bei der Verwaltung der Datenkonsistenz für Datensätze in Ihrer Marketo Engage-Datenbank unterstützt.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

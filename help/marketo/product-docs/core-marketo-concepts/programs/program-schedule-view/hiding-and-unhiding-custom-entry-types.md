@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147247
-description: Ausblenden und Aufheben von benutzerdefinierten Eintragstypen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benutzerdefinierte Eintragstypen in der Programmplanansicht ein- und ausblenden. Steuern, welche Eintragstypen angezeigt werden.
 title: Ein- und Ausblenden benutzerdefinierter Eintragstypen
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 11%
+source-wordcount: '118'
+ht-degree: 10%
 
 ---
 

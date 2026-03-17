@@ -1,12 +1,12 @@
 ---
-description: Lokaler Ablauf von Assets - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über den lokalen Ablauf von Assets in -Programmen. Wird festgelegt, wenn lokale Assets in einem Programm ablaufen und entfernt werden.
 title: Ablaufen eines lokalen Assets
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 2%
+source-wordcount: '276'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ Bevor Sie einen Asset-Ablauf planen können, muss für Ihre Marketo-Rolle die en
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken Sie im [!UICONTROL Admin]-Bereich auf **[!UICONTROL Benutzer und Rollen]**.
 
@@ -30,7 +30,7 @@ Bevor Sie einen Asset-Ablauf planen können, muss für Ihre Marketo-Rolle die en
 
    ![](assets/local-asset-expiration-2.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Marketing-] aufrufen“ die Option **[!UICONTROL Lokalen Asset-Ablauf planen]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Wählen [!UICONTROL  unter „Marketing-] aufrufen“ die Option **[!UICONTROL Lokalen Asset-Ablauf planen]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/local-asset-expiration-3.png)
 

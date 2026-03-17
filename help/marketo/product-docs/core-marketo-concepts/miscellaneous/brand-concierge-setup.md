@@ -1,12 +1,12 @@
 ---
-description: Einen Concierge erstellen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Brand Concierge erstellen und Wissensquellen hinzufügen. Richten Sie Ihren ersten Concierge mit Produktkatalog oder Website-Links ein.
 title: Einen Concierge einrichten
 hide: true
 hidefromtoc: true
 index: false
-source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1077'
+source-wordcount: '1092'
 ht-degree: 1%
 
 ---
@@ -242,13 +242,13 @@ Sie werden auch die intensiven Signale sehen können, wie das, was die Besucher 
 Versuchen sie, mehr Abfragen auf Erkennungsebene oder Abfragen auf Konversionsebene, Übersichtsabfragen usw. zu erhalten?
 
 9 :54
-Es hilft auch, die Stimmung der Besucher zu verstehen, nicht wahr?
+Es hilft Ihnen auch, die Sentiment der Besucher zu verstehen, nicht wahr?
 
 9 :58
 Sprechen sie positiv?
 
 10 :00
-Jede negative Empfindung genau dort, wo es irgendeine Art von Beschwerden gibt, die Besucher tun, werden Sie in der Lage sein, diese und sogar den Ton des Besuchers zu verstehen, wie ich sagte, nicht neutral, wertschätzend, enthusiastisch, und so weiter und so fort.
+Jede negative Sentiment genau dort, wo es irgendeine Art von Beschwerden gibt, die Besucher tun, werden Sie in der Lage sein, diese und sogar den Ton der Besucher zu verstehen, wie ich sagte, nicht neutral, wertschätzend, enthusiastisch, und so weiter und so fort.
 
 10 :14
 Im Moment habe ich Ihnen alles über den Concierge erzählt.

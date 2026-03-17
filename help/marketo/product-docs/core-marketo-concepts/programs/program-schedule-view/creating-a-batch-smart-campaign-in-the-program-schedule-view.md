@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147142
-description: Erstellen einer Smart-Batch-Kampagne in der Programmplanansicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie über die Ansicht Programmzeitplan eine Smart-Batch-Kampagne erstellen. Fügen Sie einen Batch-Kampagneneintrag hinzu und konfigurieren Sie ihn.
 title: Erstellen einer intelligenten Stapel-Kampagne in der Ansicht „Programmplanung“
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '162'
 ht-degree: 12%
 
 ---

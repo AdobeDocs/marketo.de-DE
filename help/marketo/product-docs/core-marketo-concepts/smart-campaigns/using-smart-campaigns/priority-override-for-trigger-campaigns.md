@@ -1,11 +1,11 @@
 ---
-description: Prioritätsüberschreibungen für Trigger-Kampagnen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Überschreiben von Prioritäten für Trigger-Kampagnen. Legen Sie fest, welche Kampagne ausgeführt wird, wenn mehrere Trigger für dieselbe Person ausgelöst werden.
 title: Überschreiben der Priorität für Auslöser-Kampagnen
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '258'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ Administratoren können die in Marketo Engage festgelegte Priorität für Trigge
 
 >[!NOTE]
 >
->Diese Funktion ist nur für Trigger-Kampagnen und für Benutzende verfügbar, denen die [&#x200B; &quot;Trigger-Kampagnenpriorität bearbeiten“ gewährt &#x200B;](#grant-priority-override-access).
+>Diese Funktion ist nur für Trigger-Kampagnen und für Benutzende verfügbar, denen die [ &quot;Trigger-Kampagnenpriorität bearbeiten“ gewährt ](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -56,6 +56,6 @@ Administratoren können die in Marketo Engage festgelegte Priorität für Trigge
 
 >[!NOTE]
 >
->* Sie können die Standardpriorität Ihrer Kampagne in der [!UICONTROL Kampagnenwarteschlange“ unter &#x200B;]Marketing[!UICONTROL Aktivitäten) &#x200B;]. Um die Ausführungsrate zu erhöhen, empfehlen wir, die Kampagnenpriorität eine Ebene höher als die Standardpriorität festzulegen.
+>* Sie können die Standardpriorität Ihrer Kampagne in der [!UICONTROL Kampagnenwarteschlange“ unter ]Marketing[!UICONTROL Aktivitäten) ]. Um die Ausführungsrate zu erhöhen, empfehlen wir, die Kampagnenpriorität eine Ebene höher als die Standardpriorität festzulegen.
 >* Die Priorität für Benutzereinstellungen gilt nur für neue Personen, die sich für die Kampagne qualifizieren. Personen, die sich bereits in der Warteschlange befinden, sind davon nicht betroffen.
 >* Prioritätsüberschreibungen werden im [Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"} erfasst.

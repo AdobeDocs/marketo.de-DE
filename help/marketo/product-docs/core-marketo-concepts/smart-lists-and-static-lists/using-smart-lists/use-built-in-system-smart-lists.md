@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557275
-description: Verwenden von integrierten/System-Smart Lists - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie integrierte System- und Smart-Listen verwenden. Verwenden Sie vordefinierte Listen wie „Alle Personen“ oder „Alle abgemeldet“ in Kampagnen.
 title: Verwenden von integrierten oder systemeigenen intelligenten Listen
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '206'
 ht-degree: 12%
 
 ---

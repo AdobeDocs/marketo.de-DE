@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7503973
-description: Anpassen einer Präsentation - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Marketing-Kalender-Präsentation mit Ansichten und Zielen anpassen. Legen Sie die Rotationshäufigkeit fest und zeigen Sie an, was Ihrem Team am wichtigsten ist.
 title: Anpassen einer Präsentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '311'
 ht-degree: 2%
 
 ---

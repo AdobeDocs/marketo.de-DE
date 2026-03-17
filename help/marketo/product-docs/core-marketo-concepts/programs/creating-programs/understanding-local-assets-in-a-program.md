@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147093
-description: Grundlegendes zur lokalen Assets in einem Programm - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über lokale Assets in einem Programm. Informationen zur Live-Schaltung von E-Mails, Landingpages und anderen Assets in Programmen
 title: Grundlegendes zu lokalen Assets in einem Programm
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 17%
+source-wordcount: '104'
+ht-degree: 19%
 
 ---
 

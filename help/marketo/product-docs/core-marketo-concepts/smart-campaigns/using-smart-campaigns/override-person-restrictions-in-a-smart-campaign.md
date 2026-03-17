@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147066
-description: Überschreiben von Personenbeschränkungen in einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Personenbeschränkungen in einer intelligenten Kampagne überschreiben. Erlauben Sie Benutzern, selbst dann zu laufen, wenn sie Kommunikationsbeschränkungen erreichen.
 title: Überschreiben von Personenbeschränkungen in einer intelligenten Kampagne
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '146'
+ht-degree: 9%
 
 ---
 

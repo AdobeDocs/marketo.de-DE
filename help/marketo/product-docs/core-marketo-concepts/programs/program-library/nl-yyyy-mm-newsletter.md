@@ -1,11 +1,11 @@
 ---
-description: NL-YYYY-MM-Newsletter - Marketo Docs - Produktdokumentation
+description: Vorlage für Newsletter-Programm. Verwenden Sie ihn für wiederkehrende E-Mail-Newsletter mit Standardbenennung.
 title: 'Newsletter: NL-JJJJ-MM'
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '280'
 ht-degree: 18%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 In diesem Beispiel wird eine Newsletter-E-Mail mit einem Marketo Engage-E-Mail-Programm gesendet. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

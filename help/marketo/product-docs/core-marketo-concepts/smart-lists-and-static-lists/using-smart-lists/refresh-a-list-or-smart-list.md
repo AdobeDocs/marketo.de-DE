@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557318
-description: Aktualisieren einer Liste oder Smart-Liste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Liste oder Smart-Liste aktualisieren. Aktualisieren Sie die Personen in der Liste, um aktuelle Filterergebnisse oder Mitgliedschaften widerzuspiegeln.
 title: Aktualisieren einer Liste oder intelligenten Liste
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 9%
+source-wordcount: '145'
+ht-degree: 8%
 
 ---
 

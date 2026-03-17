@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147245
-description: Erstellen benutzerdefinierter Eintragstypen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in der Programmplanansicht benutzerdefinierte Eintragstypen erstellen. Fügen Sie je nach Prozess Eintragstypen hinzu.
 title: Erstellen benutzerdefinierter Eintragstypen
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 10%
+source-wordcount: '117'
+ht-degree: 9%
 
 ---
 

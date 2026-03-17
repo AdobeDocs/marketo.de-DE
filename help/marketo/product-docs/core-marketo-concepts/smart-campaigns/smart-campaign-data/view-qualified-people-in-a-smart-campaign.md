@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146966
-description: Anzeigen qualifizierter Personen in einer Smart-Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in einer Smart-Kampagne qualifizierte Personen anzeigen können. Finden Sie heraus, wer die Smart-List- oder Trigger-Kriterien erfüllt.
 title: Anzeigen der qualifizierten Personen in einer intelligenten Kampagne
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '174'
 ht-degree: 8%
 
 ---

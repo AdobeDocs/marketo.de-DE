@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147108
-description: Programm importieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Programm in Marketo importieren. Bringen Sie ein Programm aus der Bibliothek oder einer anderen Instanz ein.
 title: Importieren eines Programms
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '565'
 ht-degree: 2%
 
 ---

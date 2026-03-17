@@ -1,14 +1,14 @@
 ---
-description: Einzelflussaktionen auf der Seite „Personendetails“ - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie auf der Seite „Personendetails“ eine einzelne Flussaktion ausführen. Führen Sie bei Bedarf einen Flussschritt für eine Person aus.
 title: Einzelne Flussaktionen auf der Seite „Personendetails“
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 11%
+source-wordcount: '132'
+ht-degree: 12%
 
 ---
 

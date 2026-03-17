@@ -1,11 +1,11 @@
 ---
-description: Erste Schritte mit prädiktiven Zielgruppen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über prädiktive Zielgruppen und KI-gesteuertes Targeting in Marketo. Verwenden Sie Wahrscheinlichkeitswerte und prädiktive Filter, um Ihre Ziele zu erreichen.
 title: Erste Schritte mit prädiktiven Zielgruppen
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '234'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953207
-description: Neuen Kampagnenordner erstellen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketing-Aktivitäten einen neuen Kampagnenordner erstellen. Organisieren Sie Ihren Arbeitsbereich mit Kampagnenordnern für Automatisierung und Assets.
 title: Erstellen eines neuen Kampagnenordners
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '123'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 Mit Campaign-Ordnern behalten Sie einen aufgeräumten Arbeitsplatz. Folgen Sie diesen einfachen Schritten und Sie sind auf dem Weg zur Automatisierungsmagie.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -47,4 +47,4 @@ Mit Campaign-Ordnern behalten Sie einen aufgeräumten Arbeitsplatz. Folgen Sie d
 >[!MORELIKETHIS]
 >
 >* [Erstellen eines Programms](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Erstellen Sie eine neue intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Erstellen einer neuen intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)

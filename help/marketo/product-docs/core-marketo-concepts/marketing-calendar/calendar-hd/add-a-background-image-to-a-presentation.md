@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504437
-description: Hinzufügen eines Hintergrundbilds zu einer Präsentation - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einer Marketing-Kalender-Präsentation ein Hintergrundbild hinzufügen. Passen Sie Ihre Präsentation an, indem Sie ein Bild aus der Bibliothek auswählen.
 title: Hinzufügen eines Hintergrundbilds zu einer Präsentation
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '108'
+ht-degree: 12%
 
 ---
 

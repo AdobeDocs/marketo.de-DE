@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472404
-description: Suchen Sie das Aktivitätsprotokoll für eine Person - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Aktivitätsprotokoll für eine Person finden. Anzeigen von E-Mail-, Web- und anderem Aktivitätsverlauf für einen Lead.
 title: Suchen nach dem Aktivitätsprotokoll für eine Person
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '138'
 ht-degree: 13%
 
 ---

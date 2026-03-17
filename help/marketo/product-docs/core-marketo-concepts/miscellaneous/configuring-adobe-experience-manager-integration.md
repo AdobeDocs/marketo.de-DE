@@ -1,15 +1,15 @@
 ---
 unique-page-id: 30081815
-description: Konfigurieren der Adobe Experience Manager-Integration - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Adobe Experience Manager-Integration mit Marketo konfigurieren. Richten Sie AEM ein, damit Sie auf Assets zugreifen und diese in Design Studio importieren können.
 title: Konfigurieren der Integration in Adobe Experience Manager
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 7%
+source-wordcount: '228'
+ht-degree: 8%
 
 ---
 
@@ -19,7 +19,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM-Assets zugre
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!IMPORTANT]
 >
@@ -47,7 +47,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM-Assets zugre
 
    ![](assets/four.png)
 
-1. Geben Sie **[!UICONTROL Textfeld „Zulässige Ursprünge (Regexp]** ein und klicken Sie auf `https://.*\.marketo\.com`Speichern **&#x200B;**.
+1. Geben Sie **[!UICONTROL Textfeld „Zulässige Ursprünge (Regexp]** ein und klicken Sie auf `https://.*\.marketo\.com`Speichern ****.
 
    ![](assets/five-psd.png)
 

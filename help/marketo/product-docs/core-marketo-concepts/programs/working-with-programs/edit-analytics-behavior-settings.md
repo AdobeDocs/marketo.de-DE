@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953405
-description: Analytics-Verhaltenseinstellungen bearbeiten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Analytics-Verhaltenseinstellungen für ein Programm bearbeiten. Konfigurieren, wie der Erfolg und der Umsatz des Programms verfolgt werden
 title: Bearbeiten von Einstellungen für das Analyseverhalten
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 6%
+source-wordcount: '191'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Sie können das [Analytics-Verhalten auf Admin-Ebene für Kanäle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"} festlegen, es kann aber auch auf Programmebene bearbeitet werden. Und so geht das.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Sie können das [Analytics-Verhalten auf Admin-Ebene für Kanäle](/help/marketo
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL &#x200B; „Analytics Behavior] auf die Arbeitsfläche.
+1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL  „Analytics Behavior] auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 

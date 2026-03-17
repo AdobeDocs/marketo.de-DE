@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781845
-description: Grundlegendes zu Marketo-Momenten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Marketo Moments, um zu sehen, was wichtig ist, wenn es wichtig ist. Wichtige Einblicke anzeigen und Aktionen von der Mobile App aus durchführen.
 title: Grundlegendes zu Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '618'
 ht-degree: 4%
 
 ---
@@ -21,7 +21,7 @@ Sie haben jetzt die leistungsstarken Funktionen von Marketo in der Hand – in j
 
 >[!NOTE]
 >
->_Zugriff auf mobile_&quot; ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator[&#x200B; um Ihre Rolle zu &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>_Zugriff auf mobile_&quot; ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator[ um Ihre Rolle zu ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 

@@ -1,12 +1,12 @@
 ---
-description: EV-YYYY-MM-DD-Event Program - Marketo Docs - Produktdokumentation
+description: Ereignisprogrammvorlage. Verwenden Sie sie, um Webinare und Ereignisse mit einer konsistenten Benennungsstruktur durchzuführen.
 title: 'Ereignisprogramm: EV-JJJJ-MM-TT'
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '561'
-ht-degree: 22%
+source-wordcount: '570'
+ht-degree: 21%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 22%
 
 Dies ist ein Beispiel für ein Veranstaltungsprogramm mit einer Registrierungsseite, drei Einladungs-E-Mails und Folge-E-Mails, die ein Marketo Engage-Veranstaltungsprogramm verwenden. Geeignet für alle Veranstaltungen, bei denen Sie sich anmelden müssen, einschließlich Roadshows, Mittagessen, Abendessen oder Präsentationen auf Messen.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

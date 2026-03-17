@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147112
-description: Grundlegendes zu Tags - Marketo-Dokumente - Produktdokumentation
+description: Informationen zu Tags für das Organisieren und Filtern von Programmen. Verwenden Sie Tags, um Programme zu kategorisieren und Berichte zu filtern.
 title: Grundlegendes zu Tags
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '178'
 ht-degree: 5%
 
 ---
@@ -23,7 +23,7 @@ Tag-Typen identifizieren die Art von Informationen, nach denen Sie sortieren mö
 
 >[!TIP]
 >
->Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie &quot;[&#x200B; Tags“ erstellen &#x200B;](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie &quot;[ Tags“ erstellen ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >

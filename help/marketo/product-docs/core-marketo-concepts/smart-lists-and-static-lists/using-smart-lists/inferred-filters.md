@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953188
-description: Abgeleitete Filter - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über abgeleitete Filter in Smart Lists. Verstehen, wie Marketo Filter aus verknüpften Assets ableitet.
 title: Abgeleitete Filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
 
 # Abgeleitete Filter {#inferred-filters}
 
-Wenn jemand Ihre Website besucht, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von Informationen ab.
+Wenn jemand Ihre Website besucht, [ ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von Informationen ab.
 
 >[!NOTE]
 >

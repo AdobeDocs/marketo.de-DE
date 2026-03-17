@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356194
-description: Liste an Adobe Experience Cloud senden - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Liste an Adobe Experience Cloud senden. Freigeben der Marketo-Listenmitgliedschaft für Experience Platform oder andere Lösungen.
 title: Senden einer Liste an Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '810'
-ht-degree: 3%
+source-wordcount: '819'
+ht-degree: 4%
 
 ---
 
@@ -38,7 +38,7 @@ Eine statische Liste ist genau das: statisch. In Adobe Experience Cloud werden k
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Klicken Sie auf die Dropdown-**&#x200B;** Audience Manager-Ordner und wählen Sie den gewünschten Zielordner in der Experience Cloud aus.
+1. Klicken Sie auf die Dropdown-**** Audience Manager-Ordner und wählen Sie den gewünschten Zielordner in der Experience Cloud aus.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
@@ -86,7 +86,7 @@ Sie können die Synchronisierung Ihrer Liste jederzeit beenden.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
 
-1. Klicken Sie **[!UICONTROL Beenden]** zur Bestätigung.
+1. Klicken Sie zur Bestätigung auf **[!UICONTROL Stoppen]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
 
@@ -94,9 +94,9 @@ Sie können die Synchronisierung Ihrer Liste jederzeit beenden.
 
 ### Für Adobe Analytics freigeben {#sharing-to-adobe-analytics}
 
-* Für Benutzende, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, ermöglicht diese Integration die Freigabe von Zielgruppen aus Marketo für Ihre Adobe Analytics Report Suites. Es müssen jedoch einige zusätzliche Konfigurationsschritte in Adobe Audience Manager vorgenommen werden, um dies zu aktivieren. Weitere Informationen zum Einrichten finden Sie in [&#x200B; Dokumentation zu &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=de){target="_blank"}Adobe Audience Manager.
+* Für Benutzende, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, ermöglicht diese Integration die Freigabe von Zielgruppen aus Marketo für Ihre Adobe Analytics Report Suites. Es müssen jedoch einige zusätzliche Konfigurationsschritte in Adobe Audience Manager vorgenommen werden, um dies zu aktivieren. Weitere Informationen zum Einrichten finden Sie in [ Dokumentation zu ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}Adobe Audience Manager.
 
-* Nachdem eine Liste von Marketo in Adobe Audience Manager hochgeladen wurde, kann sie auch von Adobe Target aufgerufen werden. Diese Konfiguration [muss in Adobe Target aktiviert sein](https://experienceleague.adobe.com/de/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
+* Nachdem eine Liste von Marketo in Adobe Audience Manager hochgeladen wurde, kann sie auch von Adobe Target aufgerufen werden. Diese Konfiguration [muss in Adobe Target aktiviert sein](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
 * Wenn eine Liste leer ist oder keine Personen mit ECID-Werten enthält, wird der Listenname nicht an einen externen Ort außerhalb von Marketo weitergeleitet.
 
@@ -118,7 +118,7 @@ Im Hintergrund funktioniert die Zielgruppenintegration durch die Synchronisierun
 
 Wenn die Cookie-Synchronisierung für Ihr Marketo-Abonnement aktiviert ist, versucht munchkin.js von Marketo, Adobe-ECIDs für die Adobe IMS-Organisation zu erfassen und zu speichern, die Sie während der Einrichtung der Integration angegeben haben, und diese ECIDs mit der entsprechenden Marketo-Cookie-Kennung abzugleichen. Dadurch können anonyme Benutzerprofile von Marketo mit Adobe-ECIDs angereichert werden.
 
-Ein weiterer Schritt ist erforderlich, um das anonyme Benutzerprofil mit einem Personenprofil zu verknüpfen, das mithilfe einer Nur-Text-E-Mail identifiziert wird. Wie das genau funktioniert, [&#x200B; hier beschrieben](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+Ein weiterer Schritt ist erforderlich, um das anonyme Benutzerprofil mit einem Personenprofil zu verknüpfen, das mithilfe einer Nur-Text-E-Mail identifiziert wird. Wie das genau funktioniert, [ hier beschrieben](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Welche Informationen werden freigegeben?**
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147100
-description: Navigieren in der Programmplanansicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in der Ansicht „Programmzeitplan“ navigieren. Durchlaufen Sie die Zeit und sehen Sie sich geplante Einträge in Ihrem Programm an.
 title: Navigieren in der Ansicht „Programmplanung“
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 5%
+source-wordcount: '193'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ Im Folgenden finden Sie die Grundlagen, die Ihnen bei der Navigation in der Ansi
 
 ## Ansicht „Zeitplan“ suchen {#find-the-schedule-view}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 

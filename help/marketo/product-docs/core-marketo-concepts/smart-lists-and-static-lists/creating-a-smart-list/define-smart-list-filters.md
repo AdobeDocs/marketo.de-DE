@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557316
-description: Definieren von Smart-List-Filtern - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Smart-List-Filter definieren. Legen Sie Filterbegrenzungen und -werte fest, um zu bestimmen, wer in der Liste angezeigt wird.
 title: Erstellen von Filtern für eine intelligente Liste
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 5%
+source-wordcount: '196'
+ht-degree: 7%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 5%
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [Suchen und Hinzufügen von Filtern zu Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Nachdem Sie nun [Smart-Liste“ erstellt &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} „Filter [&quot; &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} haben, definieren wir die Filter. Und so geht das.
+Nachdem Sie nun [Smart-Liste“ erstellt ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} „Filter [&quot; ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} haben, definieren wir die Filter. Und so geht das.
 
 Im weiteren Beispiel definieren wir diese Filter, um alle Personen in Kalifornien mit einem Ergebnis über 50 zu finden.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/define-smart-list-filters-1.png)
 

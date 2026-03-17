@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848705
-description: Best Practice - Organisieren von Programmen - Marketo-Dokumente - Produktdokumentation
+description: Hier erhalten Sie Hilfe zu Best Practices für die Organisation Ihrer Programme. Strukturieren Sie Kampagnenordner und -programme, um Klarheit und Skalierbarkeit zu schaffen.
 title: 'Best Practice : Organisieren von Programmen'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '854'
 ht-degree: 5%
 
 ---
@@ -55,7 +55,7 @@ Jede der im Beispiel genannten ist ein Ordner. Beachten Sie, dass alle eindeutig
 
 >[!TIP]
 >
->Der Ordner „Archiv“ ist eine spezielle Art von Ordner, der dazu dient, Elemente aus ausgewählten Listen zu entfernen und Berichte zu erstellen. Dadurch kann Ihr System schneller ausgeführt werden. Weitere [&#x200B; zu Ordnern](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>Der Ordner „Archiv“ ist eine spezielle Art von Ordner, der dazu dient, Elemente aus ausgewählten Listen zu entfernen und Berichte zu erstellen. Dadurch kann Ihr System schneller ausgeführt werden. Weitere [ zu Ordnern](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Sie können sicherlich weitere Ordner hinzufügen, wie Sie es für richtig halten. Denken Sie daran, dass zukünftige Generationen von Marketern in Ihrem Unternehmen mit Ihren Entscheidungen über die Benennung/Organisation von Dingen leben werden.
 
@@ -97,7 +97,7 @@ Ein Event hat in der Regel viele bewegte Teile, darunter Einladungen, Landingpag
 
 ## Interaktionsprogramme {#engagement-programs}
 
-Erfahren [&#x200B; alles über Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie für jeden Stream einen Ordner und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jeden Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
+Erfahren [ alles über Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie für jeden Stream einen Ordner und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jeden Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
 
 ## Operationelle Programme {#operational-programs}
 
@@ -121,4 +121,4 @@ Einige Personen abstrahieren sogar den Großteil des Textes in E-Mails und Landi
 
 ## Zusammenfassung {#summary}
 
-Wie Sie sehen können, gibt es viel Macht in Marketo. Wir haben hier die Grundlagen behandelt, erwägen jedoch zusätzliche Services von [Marketo Engage-](https://business.adobe.com/de/products/marketo/services-support.html){target="_blank"}, um eine Feinabstimmung vorzunehmen und sich für den Erfolg einzurichten.
+Wie Sie sehen können, gibt es viel Macht in Marketo. Wir haben hier die Grundlagen behandelt, erwägen jedoch zusätzliche Services von [Marketo Engage-](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}, um eine Feinabstimmung vorzunehmen und sich für den Erfolg einzurichten.

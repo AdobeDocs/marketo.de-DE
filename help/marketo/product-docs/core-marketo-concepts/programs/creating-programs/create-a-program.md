@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147095
-description: Erstellen eines Programms - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Engage ein Programm erstellen und Assets hinzufügen.
 title: Erstellen eines Programms
 exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 10%
+source-wordcount: '65'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Programme gehören zu den wichtigsten Elementen in Marketo. Du wirst sie oft benutzen!
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 

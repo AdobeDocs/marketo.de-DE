@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557326
-description: Verwenden der Schnellsuche in einer Liste oder Smart List - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Schnellsuche in einer Liste oder Smart List verwenden. Nach einer bestimmten Person nach Name oder E-Mail in der Liste suchen.
 title: Verwenden der Schnellsuche in einer Liste oder einer intelligenten Liste
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 12%
+source-wordcount: '150'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 Suchen Sie mithilfe der Schnellsuche nach einer Person aus den Ergebnissen einer Liste oder Smart-Liste.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 

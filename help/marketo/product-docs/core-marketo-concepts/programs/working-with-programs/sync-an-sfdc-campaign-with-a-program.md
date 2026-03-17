@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147154
-description: Synchronisieren einer SFDC-Kampagne mit einem Programm - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Salesforce-Kampagne mit einem Marketo-Programm synchronisieren. Mitgliedsstatus zwischen SFDC und Marketo synchron halten.
 title: Synchronisieren einer SFDC-Kampagne mit einem Programm
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 9%
+source-wordcount: '182'
+ht-degree: 11%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo Engage ermöglicht es Ihnen, Ihre Programme mit [!DNL Salesforce] Kampag
 >
 >Beim Synchronisieren einer SFDC-Kampagne mit einem Marketo Engage-Programm werden die impliziten SFDC-Aktionen (z. B. Zu SFDC Campaign hinzufügen, Mit SFDC synchronisieren) für untergeordnete Kampagnen des Programms deaktiviert.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -39,7 +39,7 @@ Marketo Engage ermöglicht es Ihnen, Ihre Programme mit [!DNL Salesforce] Kampag
 
    >[!TIP]
    >
-   >Wenn Sie eine bestehende [!DNL Salesforce] auswählen, stellen Sie sicher, dass Sie [den Programmstatus der Kampagne  [!DNL Salesforce]  das Marketo-Programm &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
+   >Wenn Sie eine bestehende [!DNL Salesforce] auswählen, stellen Sie sicher, dass Sie [den Programmstatus der Kampagne  [!DNL Salesforce]  das Marketo-Programm ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Geben Sie einen Namen für die neue Kampagne ein und klicken Sie auf **[!UICONTROL Speichern]**.
 

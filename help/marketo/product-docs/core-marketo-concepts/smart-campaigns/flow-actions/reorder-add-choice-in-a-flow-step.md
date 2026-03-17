@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557333
-description: Neuanordnen Auswahl in einem Flussschritt hinzufügen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in einem Flussschritt Auswahloptionen hinzufügen neu anordnen. Ändern Sie die Reihenfolge der ausgewählten Verzweigungen in Ihrer Kampagne.
 title: Auswahl in einem Flussschritt neu anordnen
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---

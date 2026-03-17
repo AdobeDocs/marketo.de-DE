@@ -1,12 +1,12 @@
 ---
-description: Ausführen von Campaign - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Schritt „Kampagnenfluss ausführen“ verwenden. Führen Sie eine weitere intelligente Kampagne aus, wenn jemand diesen Schritt erreicht.
 title: Ausführen von Kampagne
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '706'
-ht-degree: 1%
+source-wordcount: '718'
+ht-degree: 2%
 
 ---
 
@@ -60,7 +60,7 @@ Bei Festlegung auf „true“ werden die folgenden Token-Kontexte an die unterge
 
 **API-Interaktion**
 
-Bei Verwendung von Kampagne planen oder anfragen [in der API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) können Sie Werte für „Meine Token“ übergeben, wodurch die Werte überschrieben werden, die für diese Token in der von Ihnen aufgerufenen Kampagne festgelegt sind. Wenn diese Kampagne dann eine andere Kampagne ausführt und „Übergeordneten Kontext verwenden auf „True“ setzt, werden die über die API übergebenen Werte anstelle der in der Anwendung festgelegten Werte verwendet.
+Bei Verwendung von Kampagne planen oder anfragen [in der API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) können Sie Werte für „Meine Token“ übergeben, wodurch die Werte überschrieben werden, die für diese Token in der von Ihnen aufgerufenen Kampagne festgelegt sind. Wenn diese Kampagne dann eine andere Kampagne ausführt und „Übergeordneten Kontext verwenden auf „True“ setzt, werden die über die API übergebenen Werte anstelle der in der Anwendung festgelegten Werte verwendet.
 
 ## Zu beachtende Punkte {#things-to-note}
 

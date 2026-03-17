@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360496
-description: Hinzufügen mehrerer Werte zu einem Smart-Listenfilter - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einem Smart-Listen-Filter mehrere Werte hinzufügen. Sie können einen beliebigen von mehreren Werten in einem Filter abgleichen, um mehr Flexibilität zu erzielen.
 title: Hinzufügen mehrerer Werte zu einem Filter für intelligente Listen
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 12%
+source-wordcount: '141'
+ht-degree: 14%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 Angenommen, Sie möchten alle Personen in Kalifornien finden, aber möglicherweise speichern Sie sowohl „California“ als auch „CA“ in Ihrer Datenbank. Um alle anwendbaren Personen einzubeziehen, können Sie zwei [!UICONTROL state]-Filter verwenden, aber es ist einfacher mit einem.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 

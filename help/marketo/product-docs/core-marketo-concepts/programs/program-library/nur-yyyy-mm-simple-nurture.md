@@ -1,11 +1,11 @@
 ---
-description: NUR-YYYY-MM-Simple Nurture - Marketo-Dokumentation - Produktdokumentation
+description: Einfache Nurture-Programmvorlage. Verwenden Sie ihn für grundlegende Nurture-Kampagnen mit einer klaren Namenskonvention.
 title: 'Einfaches Nurturing: NUR-JJJJ-MM'
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '356'
 ht-degree: 19%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Dies ist ein Beispiel für Simple Nurture-Programme, bei denen das Marketo Engage Engagement-Programm verwendet wird. Dabei werden Inhalte im Zeitverlauf in die Datenbank übertragen, während Streams verwendet werden, um Datensätze anhand des Verhaltens durch die Journey zu leiten.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
