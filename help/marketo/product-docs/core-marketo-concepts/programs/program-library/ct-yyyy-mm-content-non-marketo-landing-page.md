@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Dies ist ein Beispiel für ein Inhaltsprogramm mit einem Marketo Engage-Formular zum Herunterladen von Inhalten auf einer nicht zu Marketo Engage gehörenden Landingpage mithilfe eines Marketo Engage-Standardprogramms. Dieses Programm ist für die Verwendung mit einem Marketo Engage-Formular vorgesehen, das auf Ihrer Website eingebettet ist. Der Link zum Angebot/Inhalt kann in einer Dankesmail versendet werden.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

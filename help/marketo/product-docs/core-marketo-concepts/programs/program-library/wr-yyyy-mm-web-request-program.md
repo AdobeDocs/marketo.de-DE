@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Dies ist ein Beispielprogramm, das sich ideal für Formulare für Kontaktanfragen, Angebotsanfragen, Demoanfragen oder Testanfragen eignet, bei denen ein Standardprogramm von Marketo Engage verwendet wird. Kann mit Marketo-Landingpages oder als eingebettetes Formular auf Landingpages verwendet werden, bei denen es sich nicht um Marketo handelt. Bei der Übermittlung eines Formulars wird eine Benachrichtigungs-E-Mail an eine bestimmte Person gesendet.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

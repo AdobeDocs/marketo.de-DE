@@ -14,7 +14,7 @@ ht-degree: 27%
 
 Dies ist ein Beispiel für einfache Best Practice-Workflows für das Betriebsdaten-Management unter Verwendung eines Standardprogramms, das Sie bei der Verwaltung der Datenkonsistenz für Datensätze in Ihrer Marketo Engage-Datenbank unterstützt.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

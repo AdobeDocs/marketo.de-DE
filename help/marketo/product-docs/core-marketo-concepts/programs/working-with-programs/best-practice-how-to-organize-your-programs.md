@@ -121,4 +121,4 @@ Einige Personen abstrahieren sogar den Großteil des Textes in E-Mails und Landi
 
 ## Zusammenfassung {#summary}
 
-Wie Sie sehen können, gibt es viel Macht in Marketo. Wir haben hier die Grundlagen behandelt, erwägen jedoch zusätzliche Services von [Marketo Engage-](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}, um eine Feinabstimmung vorzunehmen und sich für den Erfolg einzurichten.
+Wie Sie sehen können, gibt es viel Macht in Marketo. Wir haben hier die Grundlagen behandelt, erwägen jedoch zusätzliche Services von [Marketo Engage-](https://business.adobe.com/de/products/marketo/services-support.html){target="_blank"}, um eine Feinabstimmung vorzunehmen und sich für den Erfolg einzurichten.
