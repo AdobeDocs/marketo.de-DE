@@ -49,7 +49,7 @@ Mit „Auswahl hinzufügen“ können Sie einen Flussschritt verwenden und sagen
 
    >[!CAUTION]
    >
-   >Nur die erste übereinstimmende Auswahl wird auf den Flussschritt angewendet. Erfahren Sie, wie [ „Auswahl hinzufügen“ in einer Flussaktion neu anordnen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
+   >Nur die erste übereinstimmende Auswahl wird auf den Flussschritt angewendet. Erfahren Sie, wie [&#x200B; „Auswahl hinzufügen“ in einer Flussaktion neu anordnen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
 
    Sehr gut! Sie können jetzt eine einzelne intelligente Kampagne mit Flussschritt-Auswahlmöglichkeiten erstellen, anstatt für jede Auswahl mehrere intelligente Kampagnen zu erstellen.
 

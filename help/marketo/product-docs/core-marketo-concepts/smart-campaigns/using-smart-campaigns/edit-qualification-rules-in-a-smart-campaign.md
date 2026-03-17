@@ -33,7 +33,7 @@ Qualifizierungsregeln steuern, wie oft jemand den Fluss in einer Smart-Kampagne 
 
    >[!NOTE]
    >
-   >Kommunikationsbeschränkungen werden standardmäßig nicht auf Smart-Kampagnen angewendet. Erfahren Sie, wie [ Kommunikationsbeschränkungen auf eine Smart-Kampagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
+   >Kommunikationsbeschränkungen werden standardmäßig nicht auf Smart-Kampagnen angewendet. Erfahren Sie, wie [&#x200B; Kommunikationsbeschränkungen auf eine Smart-Kampagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >

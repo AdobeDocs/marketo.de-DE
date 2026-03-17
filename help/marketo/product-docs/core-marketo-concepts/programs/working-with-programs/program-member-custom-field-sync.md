@@ -14,7 +14,7 @@ ht-degree: 11%
 
 >[!PREREQUISITES]
 >
->* Erstellung [ benutzerdefinierten Felder für Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* Erstellung [&#x200B; benutzerdefinierten Felder für Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
 >* [Synchronisieren einer  [!DNL Salesforce]  mit einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
@@ -59,7 +59,7 @@ ht-degree: 11%
 
    >[!NOTE]
    >
-   >Wenn Sie den Datentyp eines Felds in [!DNL Salesforce] umbenennen oder ändern, werden alle Zuordnungen dieses Felds zum benutzerdefinierten Feld [!UICONTROL Programmteilnehmer“ ]. Sie können sie jedoch nach der Überprüfung dem neuen Feld zuordnen.
+   >Wenn Sie den Datentyp eines Felds in [!DNL Salesforce] umbenennen oder ändern, werden alle Zuordnungen dieses Felds zum benutzerdefinierten Feld [!UICONTROL Programmteilnehmer“ &#x200B;]. Sie können sie jedoch nach der Überprüfung dem neuen Feld zuordnen.
 
 ## Zuordnung von Salesforce-Feldern zu benutzerdefinierten Programmteilnehmerfeldern aufheben {#unmap-salesforce-fields-from-program-member-custom-fields}
 

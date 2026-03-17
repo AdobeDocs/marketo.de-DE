@@ -34,7 +34,7 @@ Durch Klicken auf **[!UICONTROL Zeitplan]** wird bestätigt, dass die Smart-Kamp
 **Batch-Smart-Kampagnen**
 
 * Kann für Wiederholungen geplant werden, z. B. täglich, wöchentlich und monatlich. Sie können sie auch nur einmal ausführen lassen.
-* Sind in der Ansicht [Programmzeitplan“ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Alles nach einem „Warten“-Schritt in der Smart-Kampagne wird nicht in die Ansicht aufgenommen.
+* Sind in der Ansicht [Programmzeitplan“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Alles nach einem „Warten“-Schritt in der Smart-Kampagne wird nicht in die Ansicht aufgenommen.
 
 <br> 
 

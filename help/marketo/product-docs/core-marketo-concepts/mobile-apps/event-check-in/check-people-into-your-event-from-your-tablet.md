@@ -113,7 +113,7 @@ Die neue Person wird als bei Ihrem Ereignis eingecheckt registriert und der Mark
 
 ## Umkehren eines Eincheckens {#reverse-a-check-in}
 
-Wenn Sie versehentlich eine Person eingecheckt haben _bevor Sie mit Marketo synchronisiert haben_ können Sie den Status &quot;[!UICONTROL &quot; ].
+Wenn Sie versehentlich eine Person eingecheckt haben _bevor Sie mit Marketo synchronisiert haben_ können Sie den Status &quot;[!UICONTROL &quot; &#x200B;].
 
 1. Tippen Sie auf den Namen in der Liste und im Personendatensatz auf **[!UICONTROL Rückgängig]**.
 

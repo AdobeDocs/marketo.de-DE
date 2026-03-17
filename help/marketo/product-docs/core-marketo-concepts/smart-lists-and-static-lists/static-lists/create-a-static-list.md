@@ -27,7 +27,7 @@ Statische Listen sind eine Gruppe von Personen, die sich bereits in Ihrer Datenb
 
    ![](assets/three.png)
 
-   Sie haben jetzt eine leere Liste, die ausgefüllt werden kann. Erfahren Sie (hier), wie [ Personen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}.
+   Sie haben jetzt eine leere Liste, die ausgefüllt werden kann. Erfahren Sie (hier), wie [&#x200B; Personen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}.
 
    >[!NOTE]
    >

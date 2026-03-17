@@ -17,7 +17,7 @@ Pausieren Sie eine Person in einem Smart-Campaign-Fluss mit dem praktischen **Wa
 
 ![](assets/wait-overview-1.png)
 
-Beachten Sie, wie Sie in natürlicher Sprache tippen können, z. B. „4 Stunden“. **** die Wörter jedoch nicht abkürzen (d. h. 4 Stunden). Die intelligente Kampagne wird weiterhin ausgeführt, aber der Warteschritt wird ignoriert.
+Beachten Sie, wie Sie in natürlicher Sprache tippen können, z. B. „4 Stunden“. **&#x200B;**&#x200B;die Wörter jedoch nicht abkürzen (d. h. 4 Stunden). Die intelligente Kampagne wird weiterhin ausgeführt, aber der Warteschritt wird ignoriert.
 
 >[!CAUTION]
 >
@@ -25,7 +25,7 @@ Beachten Sie, wie Sie in natürlicher Sprache tippen können, z. B. „4 Stunden
 
 >[!TIP]
 >
->Wenn Sie bereits jemanden in einem Warteschritt haben und Sie nicht möchten, dass er nach Ablauf der Wartezeit weiterläuft, fügen Sie [Aus Fluss entfernen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt nach dem Warteschritt ein. Geben Sie mit der Option „Auswahl hinzufügen[ an, wen Sie ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) möchten.
+>Wenn Sie bereits jemanden in einem Warteschritt haben und Sie nicht möchten, dass er nach Ablauf der Wartezeit weiterläuft, fügen Sie [Aus Fluss entfernen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) direkt nach dem Warteschritt ein. Geben Sie mit der Option „Auswahl hinzufügen[&#x200B; an, wen Sie &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) möchten.
 
 Es gibt drei Möglichkeiten, einen Warteflussschritt zu verwenden:
 

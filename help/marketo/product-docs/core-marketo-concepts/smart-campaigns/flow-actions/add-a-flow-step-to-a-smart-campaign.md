@@ -33,13 +33,13 @@ Flussschritte teilen Marketo Engage mit, was mit einer qualifizierten Personengr
 
 >[!NOTE]
 >
->Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Ordnen Sie die Flussschritte neu ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}, um sicherzustellen, dass sie in der richtigen Reihenfolge vorliegen.
+>Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Ordnen Sie die Flussschritte neu &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}, um sicherzustellen, dass sie in der richtigen Reihenfolge vorliegen.
 
 >[!TIP]
 >
 >Im Falle eines ungültigen Eintrags erscheint eine rote schnörkelige Linie. Bewegen Sie den Mauszeiger über die Linie, um zu sehen, wie Sie sie korrigieren können.
 
-Fantastisch! Denken Sie daran[ die Smart-Kampagne zu überprüfen und zu validieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} bevor Sie sie planen oder aktivieren.
+Fantastisch! Denken Sie daran[&#x200B; die Smart-Kampagne zu überprüfen und zu validieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} bevor Sie sie planen oder aktivieren.
 
 >[!MORELIKETHIS]
 >

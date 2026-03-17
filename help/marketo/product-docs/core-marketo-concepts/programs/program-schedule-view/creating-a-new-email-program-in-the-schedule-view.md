@@ -35,8 +35,8 @@ Sie können ein E-Mail-Programm in der Ansicht Programmplan erstellen. Und so ge
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Richten Sie Ihr E-Mail-Programm ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} und klicken Sie auf **[!UICONTROL Programm genehmigen]**.
+1. [Richten Sie Ihr E-Mail-Programm &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} und klicken Sie auf **[!UICONTROL Programm genehmigen]**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Neben dem detaillierten Dashboard bietet die Verwendung eines [E-Mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}Programms anstelle einer intelligenten Kampagne die Möglichkeit, einfach einen A/B[Test zu ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Viel Spaß!
+   Neben dem detaillierten Dashboard bietet die Verwendung eines [E-Mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}Programms anstelle einer intelligenten Kampagne die Möglichkeit, einfach einen A/B[Test zu &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Viel Spaß!
