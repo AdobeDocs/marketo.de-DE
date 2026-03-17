@@ -29,6 +29,6 @@ Der URL Builder hilft Ihnen beim Erstellen von URLs, die in ausgeblendete Formul
 
    >[!NOTE]
    >
-   >Wenn im Builder keine Felder verfügbar sind, stellen Sie sicher, dass das Formular ausgeblendete Felder enthält und dass diese [auf „URL-Parameter akzeptieren“ eingestellt ](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
+   >Wenn im Builder keine Felder verfügbar sind, stellen Sie sicher, dass das Formular ausgeblendete Felder enthält und dass diese [auf „URL-Parameter akzeptieren“ eingestellt &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
 Tolle Arbeit! Sie können jetzt die URL kopieren, einfügen und im Web verwenden.

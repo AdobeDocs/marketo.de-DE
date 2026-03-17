@@ -57,4 +57,4 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Schließen Sie nun einfach den Landingpage-Editor und [ Sie den Landingpage-Entwurf ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie nun einfach den Landingpage-Editor und [&#x200B; Sie den Landingpage-Entwurf &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

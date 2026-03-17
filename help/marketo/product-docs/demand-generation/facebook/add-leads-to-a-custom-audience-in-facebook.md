@@ -18,7 +18,7 @@ Sie haben bereits eine benutzerdefinierte Zielgruppe in [!DNL Facebook] und möc
 >[!PREREQUISITES]
 >
 >* [Erstellen einer benutzerdefinierten Zielgruppe in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von ](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem [!DNL Facebook].
+>* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem [!DNL Facebook].
 >
 
 1. Suchen Sie die Smart- oder statische Liste, die die Leads enthält, die Sie hinzufügen möchten, und wählen Sie sie aus.

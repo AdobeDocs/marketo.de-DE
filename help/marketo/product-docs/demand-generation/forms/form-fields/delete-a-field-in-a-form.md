@@ -37,4 +37,4 @@ Wenn es ein Feld gibt, das Sie nicht mehr in Ihrem Formular benötigen, kann es 
 
 >[!NOTE]
 >
->Vergessen Sie nicht, den [ der Formularänderungen ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Landingpage-Entwurf zu genehmigen.
+>Vergessen Sie nicht, den [&#x200B; der Formularänderungen &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Landingpage-Entwurf zu genehmigen.

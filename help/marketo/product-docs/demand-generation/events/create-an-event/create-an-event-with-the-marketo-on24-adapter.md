@@ -22,7 +22,7 @@ Sie sollten mit den Bausteinen und der empfohlenen Reihenfolge zum Erstellen von
 
 >[!NOTE]
 >
->Weitere Informationen zu Marketo-APIs finden [ in der Dokumentation zur ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}Marketo-APIs.
+>Weitere Informationen zu Marketo-APIs finden [&#x200B; in der Dokumentation zur &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}Marketo-APIs.
 
 ## Voraussetzungen {#prerequisites}
 

@@ -53,7 +53,7 @@ Geben Sie die folgenden Informationen für Ihr Webinar ein. Dieses wird dann üb
 
 >[!TIP]
 >
->Es gibt zusätzliche Felder, die Sie in [!DNL Zoom] konfigurieren werden und die sich NICHT auf die Integration auswirken. Weitere Informationen zu diesen Feldern [[!DNL Zoom]  Sie im ](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)Webinar-Hilfezentrum“.
+>Es gibt zusätzliche Felder, die Sie in [!DNL Zoom] konfigurieren werden und die sich NICHT auf die Integration auswirken. Weitere Informationen zu diesen Feldern [[!DNL Zoom]  Sie im &#x200B;](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)Webinar-Hilfezentrum“.
 
 Lassen Sie uns jetzt zu Marketo springen!
 

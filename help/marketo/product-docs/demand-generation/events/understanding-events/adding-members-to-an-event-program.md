@@ -43,7 +43,7 @@ Dieser Artikel gilt nur für Benutzer, die Event-Begrenzungs- oder Event-Ziele v
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf [!UICONTROL  Registerkarte ]Zeitplan **[!UICONTROL auf Einmal ausführen]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Zeitplan **[!UICONTROL auf Einmal ausführen]**.
 
    ![](assets/eight.png)
 

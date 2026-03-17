@@ -39,7 +39,7 @@ Begrenzen Sie die Anzahl der Personen, die sich mit einer Event-Obergrenze für 
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Klicken Sie auf [!UICONTROL  Dropdown-Liste ]Registrierungsseite(n)“ und wählen Sie die Landingpage aus, die als Registrierungsseite dienen soll.
+1. Klicken Sie auf [!UICONTROL &#x200B; Dropdown-Liste &#x200B;]Registrierungsseite(n)“ und wählen Sie die Landingpage aus, die als Registrierungsseite dienen soll.
 
    ![](assets/setting-an-event-cap-4.png)
 

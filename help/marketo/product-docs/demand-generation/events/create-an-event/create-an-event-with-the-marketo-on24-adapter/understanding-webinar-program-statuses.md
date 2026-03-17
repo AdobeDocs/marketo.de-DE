@@ -29,7 +29,7 @@ Im Folgenden finden Sie eine kurze Beschreibung der Programmstatus, die mit dem 
 
 **Eingeladen** - Verwenden Sie diesen Status, um Personen zur Veranstaltung hinzuzufügen.
 
-**Genehmigung ausstehend** - Verwenden Sie diesen Status, um den Versand einer Bestätigungs-E-Mail an Ihre Kontaktpersonen zu stoppen. Weitere Informationen finden Sie unter „Registranten manuell genehmigen[ in ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}-24-Ereignisregistrierungsaktualisierungen.
+**Genehmigung ausstehend** - Verwenden Sie diesen Status, um den Versand einer Bestätigungs-E-Mail an Ihre Kontaktpersonen zu stoppen. Weitere Informationen finden Sie unter „Registranten manuell genehmigen[&#x200B; in &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}-24-Ereignisregistrierungsaktualisierungen.
 
 **Warteliste** - Verwenden Sie diesen Status, damit einige Personen warten, bis weitere Lizenzen verfügbar sind.
 

@@ -32,7 +32,7 @@ Zeigen Sie alle Ihre Fragen, deren Genehmigungsstatus und den/die ihnen zugewies
 
    ![](assets/response-library-4.png)
 
-1. Klicken Sie auf „Aktualisieren“. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL &quot; ].
+1. Klicken Sie auf „Aktualisieren“. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL &quot; &#x200B;].
 
    ![](assets/response-library-5.png)
 

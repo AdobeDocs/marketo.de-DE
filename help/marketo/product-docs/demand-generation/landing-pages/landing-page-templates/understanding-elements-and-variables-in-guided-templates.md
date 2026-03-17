@@ -23,7 +23,7 @@ Elemente sind die verschiedenen Inhaltselemente, aus denen eine Landingpage best
 
 Wenn Sie eine geführte Landingpage bearbeiten, werden Elemente angezeigt, wenn sie in der Vorlage als bearbeitbar markiert wurden. Elemente werden über die folgenden Symbole verfügen:
 
-* ![ - ](assets/image2015-5-20-12-3a30-3a48.png) Bild
+* ![&#x200B; - &#x200B;](assets/image2015-5-20-12-3a30-3a48.png) Bild
 * ![-](assets/image2015-5-20-12-3a31-3a33.png)Marketo-Formular
 * ![—](assets/image2015-5-20-12-3a41-3a21.png)Text
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)video

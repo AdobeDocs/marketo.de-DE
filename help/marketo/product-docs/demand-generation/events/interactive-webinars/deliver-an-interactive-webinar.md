@@ -84,7 +84,7 @@ Die Teilnehmer können an dem Webinar teilnehmen, indem sie auf den personalisie
 
 Der „Host- und Präsentationsbereich“ (auch als „Backstage“ bezeichnet) ist ein privater Bereich auf der rechten Seite eines Meetingraums, den nur Moderatoren und Moderatoren sehen können. Sie kann zur Zusammenarbeit vor, während und nach einem Ereignis verwendet werden. Verwenden Sie Chat, Notizen und andere Pods als Rückkanäle im Bereich „Host &amp; Presenter“.
 
-Um darauf zuzugreifen, wählen Sie **Bereich „Host und Moderator** aus dem Dropdown-Menü Raum aus. Weitere Informationen zu diesem Bereich finden Sie im [ Video](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}.
+Um darauf zuzugreifen, wählen Sie **Bereich „Host und Moderator** aus dem Dropdown-Menü Raum aus. Weitere Informationen zu diesem Bereich finden Sie im [&#x200B; Video](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}.
 
 ### Broadcast-Steuerung {#broadcast-controls}
 
@@ -92,7 +92,7 @@ Die Broadcast-Steuerung fügt Ihrer interaktiven Webinar-Sitzung einen virtuelle
 
 Die Broadcast-Steuerung kann so eingestellt werden, dass die Aufnahme automatisch gestartet wird, nachdem der grüne Raum verlassen wurde. Dadurch wird sichergestellt, dass Hosts nicht daran denken müssen, die Aufzeichnung manuell zu starten und zu beenden. Durch das Anhalten oder Stoppen der Übertragung wird auch die Aufzeichnung angehalten oder gestoppt. Alles ist automatisch.
 
-Weitere Informationen zu Broadcast-Steuerelementen finden [ in diesem Video](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
+Weitere Informationen zu Broadcast-Steuerelementen finden [&#x200B; in diesem Video](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
 
 ### Chats in Aufzeichnungen {#chats-in-recordings}
 

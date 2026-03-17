@@ -39,7 +39,7 @@ Die Verwendung von dynamischen Inhalten auf Landingpages bindet Ihre Zielgruppe 
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-1. Die Segmentierung und die zugehörigen Segmente werden [!UICONTROL  rechts unter ] angezeigt.
+1. Die Segmentierung und die zugehörigen Segmente werden [!UICONTROL &#x200B; rechts unter &#x200B;] angezeigt.
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 

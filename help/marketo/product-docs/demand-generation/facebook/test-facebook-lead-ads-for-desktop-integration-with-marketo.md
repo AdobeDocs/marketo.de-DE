@@ -17,7 +17,7 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen! So geht da
 
 >[!PREREQUISITES]
 >
->Sie müssen [die [!UICONTROL Facebook-Lead-Anzeigen]-Integration ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Sie müssen [die [!UICONTROL Facebook-Lead-Anzeigen]-Integration &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. Wählen Sie im Facebook Power Editor eine Kampagne und eine Anzeige aus und klicken Sie auf **[!UICONTROL Bearbeiten]**.
 

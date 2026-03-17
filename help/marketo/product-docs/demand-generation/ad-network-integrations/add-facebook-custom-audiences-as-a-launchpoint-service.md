@@ -55,7 +55,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!NOTE]
    >
-   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL  Übereinstimmung“ ].
+   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL &#x200B; Übereinstimmung“ &#x200B;].
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!CAUTION]
    >
-   >Ach, bevor Sie gehen, stellen Sie sicher[ dass Sie  [!DNL Facebook]Benutzerdefinierte Zielgruppenbedingungen“ ](https://www.facebook.com/ads/manage/customaudiences/tos.php) Ihrem [!DNL Facebook]-Konto akzeptieren! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
+   >Ach, bevor Sie gehen, stellen Sie sicher[&#x200B; dass Sie  [!DNL Facebook]Benutzerdefinierte Zielgruppenbedingungen“ &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) Ihrem [!DNL Facebook]-Konto akzeptieren! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
 
 >[!MORELIKETHIS]
 >
