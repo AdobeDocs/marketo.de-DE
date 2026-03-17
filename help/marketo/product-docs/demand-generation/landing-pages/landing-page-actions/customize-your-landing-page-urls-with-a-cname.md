@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359746
-description: Anpassen der Landingpage-URLs mit einem CNAME - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Landingpage-URLs mit einem CNAME anpassen. Eigene Domain für Landingpage-Links verwenden
 title: Anpassen der Landingpage-URLs mit einem CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 7%
+source-wordcount: '245'
+ht-degree: 9%
 
 ---
 
@@ -37,13 +37,13 @@ Das eine Wort (plus YourCompany.com) wird als CNAME bezeichnet. Sie werden das s
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Klicken Sie **Mein Konto**.
+1. Klicken Sie auf **Mein Konto**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
    >[!NOTE]
    >
-   >**Administratorberechtigungen erforderlich**
+   >**Admin-Berechtigungen erforderlich**
 
 1. Scrollen Sie nach unten zu „Support-Informationen“ und kopieren Sie Ihre Munchkin ID.
 

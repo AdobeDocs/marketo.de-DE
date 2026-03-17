@@ -1,11 +1,11 @@
 ---
-description: Konversationsflussübersicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Konversationsflüsse und wie sie sich von Dialogfeldern unterscheiden. Entwerfen von Flüssen, die durch Besucheraktionen ausgelöst werden, und verwenden Sie sie in Formularen oder Popups.
 title: Konversationsfluss – Übersicht
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '355'
 ht-degree: 3%
 
 ---
@@ -74,7 +74,7 @@ In der oberen Hälfte der Registerkarte Einstellungen können Sie den Namen des 
 >
 >Wenn Sie eine andere Sprache auswählen, wird nur die Sprache des Systemtexts geändert. Sie sind für die Übersetzung von Inhalten verantwortlich.
 
-### SDK-Unterhaltungen {#conversations-sdk}
+### Konversations-SDK {#conversations-sdk}
 
 Passen Sie in der unteren Hälfte der Registerkarte „Einstellungen“ den Konversations-Trigger an, der auch als Konversations-SDK bezeichnet wird. Sie können entscheiden, ob die Konversation auf Ihrer Website ausgelöst wird, wenn ein Besucher auf einen Link klickt, oder beim Laden der Seite.
 
@@ -82,7 +82,7 @@ Passen Sie in der unteren Hälfte der Registerkarte „Einstellungen“ den Konv
 
 >[!TIP]
 >
->Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=de){target="_blank"} in Aktion!
+>Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in Aktion!
 
 >[!MORELIKETHIS]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983101
-description: Zuordnen benutzerdefinierter Felder zu Marketo - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benutzerdefinierte Facebook-Lead-Anzeigenfelder Marketo zuordnen. Stellen Sie sicher, dass Lead-Anzeigendaten den richtigen Personenfeldern in Marketo zugeordnet sind.
 title: Zuordnen benutzerdefinierter Felder zu Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 6%
+source-wordcount: '259'
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ Gehen Sie wie folgt vor, um dies im LaunchPoint-Bereich von Admin einzurichten.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Wechseln Sie zum Bereich Admin und klicken Sie auf **[!UICONTROL LaunchPoint]**. Suchen und bearbeiten Sie unter Installierte Dienste **[!UICONTROL Facebook-Lead-Anzeigen]**.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359540
-description: Einbinden einer ICS-Datei für Kalenderereignisse in eine Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine ICS-Datei für Kalenderereignisse in eine Marketo-Landingpage einschließen. Lassen Sie Besucherinnen und Besucher das Ereignis zu ihrem Kalender hinzufügen.
 title: Einbinden einer ICS-Datei für Kalenderereignisse in eine Landingpage
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 18%
+source-wordcount: '126'
+ht-degree: 17%
 
 ---
 

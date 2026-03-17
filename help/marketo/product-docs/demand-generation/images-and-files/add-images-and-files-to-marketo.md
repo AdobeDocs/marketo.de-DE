@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359858
-description: Hinzufügen von Bildern und Dateien zu Marketo - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Bilder und Dateien zu Marketo hinzufügen. Laden Sie Assets in Design Studio hoch, um sie in E-Mails, Landingpages und Formularen zu verwenden.
 title: Hinzufügen von Bildern und Dateien zu Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 10%
+source-wordcount: '128'
+ht-degree: 9%
 
 ---
 

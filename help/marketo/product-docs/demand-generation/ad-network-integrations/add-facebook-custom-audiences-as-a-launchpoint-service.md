@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720257
-description: Hinzufügen [!DNL Facebook] benutzerdefinierter Zielgruppen als  [!DNL LaunchPoint] -Service - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benutzerdefinierte Facebook-Zielgruppen als LaunchPoint-Service hinzufügen. Senden von Marketo-Listen an Facebook zur Verwendung als benutzerdefinierte Zielgruppen in Anzeigenkampagnen.
 title: Hinzufügen [!DNL Facebook] benutzerdefinierter Zielgruppen als  [!DNL LaunchPoint] -Service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 0%
+source-wordcount: '311'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lists von Marketo an [!DNL Facebook] senden, die als benutzerdefinierte Zielgruppen in [!DNL Facebook] Ad-Kampagnen verwendet werden. So richten Sie es ein.
 
@@ -55,7 +55,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!NOTE]
    >
-   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL &#x200B; Übereinstimmung“ &#x200B;].
+   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL  Übereinstimmung“ ].
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!CAUTION]
    >
-   >Ach, bevor Sie gehen, stellen Sie sicher[&#x200B; dass Sie  [!DNL Facebook]Benutzerdefinierte Zielgruppenbedingungen“ &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) Ihrem [!DNL Facebook]-Konto akzeptieren! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
+   >Ach, bevor Sie gehen, stellen Sie sicher[ dass Sie  [!DNL Facebook]Benutzerdefinierte Zielgruppenbedingungen“ ](https://www.facebook.com/ads/manage/customaudiences/tos.php) Ihrem [!DNL Facebook]-Konto akzeptieren! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
 
 >[!MORELIKETHIS]
 >

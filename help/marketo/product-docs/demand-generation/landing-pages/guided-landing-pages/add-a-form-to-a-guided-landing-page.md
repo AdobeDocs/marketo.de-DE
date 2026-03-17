@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515107
-description: Hinzufügen eines Formulars zu einer geführten Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo ein Formular zu einer geführten Landingpage hinzufügen. Fügen Sie ein Formularelement ein und wählen Sie Ihr Marketo-Formular aus.
 title: Hinzufügen eines Formulars zu einer geführten Landingpage
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '184'
 ht-degree: 13%
 
 ---
@@ -57,4 +57,4 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Schließen Sie nun einfach den Landingpage-Editor und [&#x200B; Sie den Landingpage-Entwurf &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie nun einfach den Landingpage-Editor und [ Sie den Landingpage-Entwurf ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

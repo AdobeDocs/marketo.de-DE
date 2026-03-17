@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096681
-description: Grundlegendes zum Webinar-Programmstatus - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über den Status der Webinar-Programme bei der Integration von ON24 und Marketo. Grundlegendes zu den Statuswerten „Registriert“, „Teilgenommen“ und „Andere“.
 title: Grundlegendes zu Webinar-Programmstatus
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '424'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Im Folgenden finden Sie eine kurze Beschreibung der Programmstatus, die mit dem 
 
 **Eingeladen** - Verwenden Sie diesen Status, um Personen zur Veranstaltung hinzuzufügen.
 
-**Genehmigung ausstehend** - Verwenden Sie diesen Status, um den Versand einer Bestätigungs-E-Mail an Ihre Kontaktpersonen zu stoppen. Weitere Informationen finden Sie unter „Registranten manuell genehmigen[&#x200B; in &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}-24-Ereignisregistrierungsaktualisierungen.
+**Genehmigung ausstehend** - Verwenden Sie diesen Status, um den Versand einer Bestätigungs-E-Mail an Ihre Kontaktpersonen zu stoppen. Weitere Informationen finden Sie unter „Registranten manuell genehmigen[ in ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}-24-Ereignisregistrierungsaktualisierungen.
 
 **Warteliste** - Verwenden Sie diesen Status, damit einige Personen warten, bis weitere Lizenzen verfügbar sind.
 

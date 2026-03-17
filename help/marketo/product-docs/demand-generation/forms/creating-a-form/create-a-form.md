@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359398
-description: Erstellen eines Formulars - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Formular in Marketo erstellen. Fügen Sie Felder hinzu, richten Sie das Formular ein und verwenden Sie es auf Landingpages oder Ihrer Website, um Leads zu erfassen.
 title: Erstellen eines Formulars
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 5%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 
@@ -17,9 +17,9 @@ Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu
 
 >[!NOTE]
 >
->Erfahren Sie, was Marketo Engage tut, um [Ihre Formulare sicher zu &#x200B;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Erfahren Sie, was Marketo Engage tut, um [Ihre Formulare sicher zu ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/create-a-form-1.png)
 

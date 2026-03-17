@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359569
-description: Formularfeld als erforderlich festlegen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Formularfeld in Marketo als erforderlich festlegen. Besucher werden aufgefordert, das Feld vor dem Absenden des Formulars auszufüllen.
 title: Festlegen eines Formularfelds als erforderlich
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 13%
+source-wordcount: '118'
+ht-degree: 15%
 
 ---
 
 # Festlegen eines Formularfelds als erforderlich {#make-a-form-field-required}
 
-Beim [Hinzufügen von Feldern zu einem &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen. Und so geht das.
+Beim [Hinzufügen von Feldern zu einem ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen. Und so geht das.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/make-a-form-field-required-1.png)
 
@@ -41,7 +41,7 @@ Beim [Hinzufügen von Feldern zu einem &#x200B;](/help/marketo/product-docs/dema
 
 >[!NOTE]
 >
->Vergessen Sie nicht, [&#x200B; Landingpages zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} Dieses Formular wird verwendet, damit die Änderungen live geschaltet werden können.
+>Vergessen Sie nicht, [ Landingpages zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} Dieses Formular wird verwendet, damit die Änderungen live geschaltet werden können.
 
 >[!MORELIKETHIS]
 >

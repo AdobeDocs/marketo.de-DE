@@ -1,11 +1,11 @@
 ---
-description: Adobe Marketo Engage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Dynamic Chat mit Ihrem Marketo Engage-Abonnement verbinden. Führen Sie die einmalige Synchronisierung durch und wählen Sie Personen- und Unternehmensattribute für die Zielgruppenbestimmung aus.
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Nachdem Sie die [Ersteinrichtung“ abgeschlossen haben](/help/marketo/product-d
 
 >[!NOTE]
 >
->Dynamic Chat unterstützt die Synchronisierung von [nativen &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} benutzerdefinierten Personenfeldern und Unternehmensfeldern in Marketo.
+>Dynamic Chat unterstützt die Synchronisierung von [nativen ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} benutzerdefinierten Personenfeldern und Unternehmensfeldern in Marketo.
 
 1. Klicken Sie in „Mein Marketo&quot; auf die Kachel **[!UICONTROL Dynamic Chat]** .
 
@@ -28,7 +28,7 @@ Nachdem Sie die [Ersteinrichtung“ abgeschlossen haben](/help/marketo/product-d
    >
    >Wenn die Kachel nicht angezeigt wird, wenden Sie sich an Ihren Marketo-Administrator.
 
-1. Wenn Sie zuvor bereits auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zu Dynamic Chat. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Wenn Sie zuvor bereits auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zu Dynamic Chat. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Um Ihre Marketo-Instanz zu verbinden, wählen Sie **[!UICONTROL Integrationen]** aus.
 

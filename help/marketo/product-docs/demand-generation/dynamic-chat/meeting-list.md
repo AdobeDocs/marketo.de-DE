@@ -1,18 +1,18 @@
 ---
-description: Besprechungsliste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Dynamic Chat-Besprechungsliste, in der von Besuchern gebuchte Termine angezeigt werden. Zeigt an, wer gebucht hat, welcher Agent und welcher Besprechungsstatus.
 title: Meeting-Liste
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 3%
+source-wordcount: '131'
+ht-degree: 18%
 
 ---
 
 # Meeting-Liste {#meeting-list}
 
-Hier sehen Sie alle Termine, die von Besuchenden der Website über Ihre verschiedenen Dialogfelder geplant wurden. Hier finden Sie die E-Mail-Adresse der Person, die den Termin gebucht hat, den Agenten, bei dem sie den Termin gebucht haben, wann der Termin geplant ist und ob die geplante Besprechungszeit abgelaufen ist oder nicht.
+Hier werden alle Termine angezeigt, die von Besuchenden der Website über Ihre verschiedenen Dialoge geplant wurden. Hier finden Sie die E-Mail-Adresse der Person, die den Termin gebucht hat, den Agenten, bei dem sie den Termin gebucht haben, wann der Termin geplant ist und ob die geplante Besprechungszeit abgelaufen ist oder nicht.
 
 ![](assets/meeting-list-1.png)
 

@@ -1,12 +1,12 @@
 ---
-description: Erfahren Sie mehr über die verschiedenen Interaktionswerkzeuge in interaktiven Webinaren.
+description: Erfahren Sie mehr über Interaktionswerkzeuge in interaktiven Webinaren. Verwenden Sie Umfragen, Fragen und Antworten sowie andere Funktionen, um die Interaktion der Teilnehmer während der Webinare zu verbessern.
 title: Interaktionswerkzeuge in interaktiven Webinaren
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1280'
 ht-degree: 0%
 
 ---

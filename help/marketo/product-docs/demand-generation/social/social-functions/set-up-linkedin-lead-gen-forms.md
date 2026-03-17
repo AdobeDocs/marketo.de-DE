@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12976798
-description: Einrichten von LinkedIn-Lead-Gen-Forms - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie LinkedIn Lead Gen Forms mit Marketo einrichten. Verbinden Sie LinkedIn und synchronisieren Sie die Übermittlung von Leads über LaunchPoint mit Marketo.
 title: Einrichten von Formularen für die Lead-Generierung in LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '504'
 ht-degree: 3%
 
 ---
@@ -77,7 +77,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigenkampagnen in LinkedIn auszufü
 
    >[!NOTE]
    >
-   >Nur LinkedIn-Felder, die bereits in LinkedIn[Kampagnenmanager in einer &#x200B;](https://www.linkedin.com/help/lms/answer/79634){target="_blank"}Formularvorlage) gespeichert wurden, werden als LinkedIn-Felder angezeigt, die Marketo-Feldern zugeordnet werden können.
+   >Nur LinkedIn-Felder, die bereits in LinkedIn[Kampagnenmanager in einer ](https://www.linkedin.com/help/lms/answer/79634){target="_blank"}Formularvorlage) gespeichert wurden, werden als LinkedIn-Felder angezeigt, die Marketo-Feldern zugeordnet werden können.
 
    ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 

@@ -1,11 +1,11 @@
 ---
-description: Übersicht über Generative KI - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über generative KI in Dynamic Chat für Agentenproduktivität und Besucherinteressen. Verwenden Sie Antwortkarten, eine Zusammenfassung der Konversation und unterstützte Antworten.
 title: Generative KI in Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '463'
 ht-degree: 3%
 
 ---
@@ -46,13 +46,13 @@ Um den vollständigen Kontext eines Besuchergesprächs zu erhalten, müssen Sie 
 
 ## Antwortbibliothek {#response-library}
 
-[Erstellen Sie eine maßgeschneiderte Sammlung &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, alle vorab von Ihnen genehmigt, zur Verwendung innerhalb von Generative AI-Chat-Kampagnen.
+[Erstellen Sie eine maßgeschneiderte Sammlung ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, alle vorab von Ihnen genehmigt, zur Verwendung innerhalb von Generative AI-Chat-Kampagnen.
 
 ![](assets/generative-ai-overview-6.png)
 
 ## Aktivitätsprotokoll {#activity-log}
 
-[Anzeige einer Liste aller &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und der zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie wann bearbeitet hat.
+[Anzeige einer Liste aller ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und der zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie wann bearbeitet hat.
 
 ![](assets/generative-ai-overview-7.png)
 

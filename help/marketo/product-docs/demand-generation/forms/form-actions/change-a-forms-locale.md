@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359657
-description: Ändern des Gebietsschemas eines Formulars - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Formulargebietsschema in Marketo ändern. Legen Sie die Formularsprache und das regionale Format für Beschriftungen und Validierungen fest.
 title: Ändern des Gebietsschemas eines Formulars
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '138'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Bei internationalen Formularen sollten Datums-/Uhrzeitangaben in den richtigen Formaten angezeigt werden. Marketo erledigt dies automatisch für Sie, Sie müssen lediglich das Gebietsschema des Formulars festlegen und wir kümmern uns um den Rest.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -45,7 +45,7 @@ Bei internationalen Formularen sollten Datums-/Uhrzeitangaben in den richtigen F
 
    >[!NOTE]
    >
-   >Denken Sie daran[&#x200B; den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
+   >Denken Sie daran[ den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
 
    Das war&#39;s! Personen können Datum/Uhrzeit sehen, die im richtigen Gebietsschema angezeigt werden.
 

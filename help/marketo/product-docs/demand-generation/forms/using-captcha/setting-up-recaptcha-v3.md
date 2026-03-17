@@ -1,12 +1,12 @@
 ---
-description: Einrichten von reCAPTCHA v3 - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie reCAPTCHA v3 für Marketo Forms einrichten. Konfigurieren Sie unsichtbares reCAPTCHA, um Spam zu bekämpfen, ohne Benutzer zu blockieren.
 title: Einrichten von reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 3%
+source-wordcount: '354'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ Für Schritt 6 im Abschnitt [!UICONTROL reCAPTCHA v3]-Ersteinrichtung benötigen
 
    ![](assets/setting-up-recaptcha-v3-1.png)
 
-1. Klicken Sie **[!UICONTROL Mein Konto]**.
+1. Klicken Sie auf **[!UICONTROL Mein Konto]**.
 
    ![](assets/setting-up-recaptcha-v3-2.png)
 
@@ -44,7 +44,7 @@ Die folgenden Schritte werden außerhalb von Marketo ausgeführt.
 
 1. Wählen Sie den Typ **[!UICONTROL reCAPTCHA v3]**. Marketo Engage unterstützt derzeit nicht reCAPTCHA v2.
 
-1. Fügen Sie jede Domain hinzu, die das Marketo Engage-Abonnement verwendet. Domänen, die hier nicht festgelegt sind, geben Fehler bei Formularen zurück, für die reCAPTCHA aktiviert ist. Denken Sie daran, die Wörter „datacenter“ und „munchkinID“ durch &quot;[&#x200B; in Ihrem Abonnement“ zu &#x200B;](#retrieve-your-data-center-and-munchkin-id).
+1. Fügen Sie jede Domain hinzu, die das Marketo Engage-Abonnement verwendet. Domänen, die hier nicht festgelegt sind, geben Fehler bei Formularen zurück, für die reCAPTCHA aktiviert ist. Denken Sie daran, die Wörter „datacenter“ und „munchkinID“ durch &quot;[ in Ihrem Abonnement“ zu ](#retrieve-your-data-center-and-munchkin-id).
 
    * app-datacenter.marketo.com
    * munchkinID.mktoweb.com

@@ -1,11 +1,11 @@
 ---
-description: '[!DNL Dynamic Chat] - Marketo-Dokumente - Produktdokumentation'
+description: Erfahren Sie mehr über Dynamic Chat-Filter und Trigger für Smart-Listen. Verwenden Sie ausgelöste, interaktive und zielerreichte Ereignisse zur Segmentierung und Automatisierung in Marketo.
 title: '[!DNL Dynamic Chat] Aktivitäten'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 4%
+source-wordcount: '254'
+ht-degree: 3%
 
 ---
 

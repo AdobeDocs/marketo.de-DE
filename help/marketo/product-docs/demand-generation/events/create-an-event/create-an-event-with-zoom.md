@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17728023
-description: Erstellen eines Ereignisses mit [!DNL Zoom] - Marketo-Dokumenten - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo ein Ereignis mit Zoom erstellen. Richten Sie die Zoom-Integration ein und synchronisieren Sie Meetings oder Webinare mit Ihrem Veranstaltungsprogramm.
 title: Ereignis erstellen mit [!DNL Zoom]
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Geben Sie die folgenden Informationen für Ihr Webinar ein. Dieses wird dann üb
 
 >[!TIP]
 >
->Es gibt zusätzliche Felder, die Sie in [!DNL Zoom] konfigurieren werden und die sich NICHT auf die Integration auswirken. Weitere Informationen zu diesen Feldern [[!DNL Zoom]  Sie im &#x200B;](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)Webinar-Hilfezentrum“.
+>Es gibt zusätzliche Felder, die Sie in [!DNL Zoom] konfigurieren werden und die sich NICHT auf die Integration auswirken. Weitere Informationen zu diesen Feldern [[!DNL Zoom]  Sie im ](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)Webinar-Hilfezentrum“.
 
 Lassen Sie uns jetzt zu Marketo springen!
 

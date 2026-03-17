@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720275
-description: Erstellen einer benutzerdefinierten Zielgruppe in Facebook - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Facebook von Marketo aus eine benutzerdefinierte Zielgruppe erstellen. Marketo-Listen für zielgerichtete Anzeigenkampagnen an Facebook senden.
 title: Erstellen einer benutzerdefinierten Zielgruppe in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 3%
 >[!PREREQUISITES]
 >
 >* [Hinzufügen [!DNL Facebook] Benutzerdefinierte Zielgruppen als LaunchPoint-](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} im Administratorbereich.
->* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in Ihrem [!DNL Facebook].
+>* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von ](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in Ihrem [!DNL Facebook].
 
 >[!TIP]
 >

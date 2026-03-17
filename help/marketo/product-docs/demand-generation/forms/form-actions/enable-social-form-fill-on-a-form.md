@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359616
-description: Ausfüllen eines Formulars mit Social Media-Inhalten aktivieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Ausfüllen sozialer Formulare aktivieren, damit Besucher Formulare über ihr soziales Netzwerk senden können. Holen Sie sich zusätzliche Lead-Daten und bieten Sie Besuchern ein schnelleres Erlebnis.
 title: Aktivieren des Ausfüllens eines Social-Media-Formulars
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 13%
+source-wordcount: '136'
+ht-degree: 14%
 
 ---
 
@@ -21,7 +21,7 @@ Erlauben Sie Ihren Besuchern, das Formular über ihr soziales Netzwerk auszufül
 >
 >Nicht alle Marketo Engage-Benutzer haben diese Funktion erworben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 

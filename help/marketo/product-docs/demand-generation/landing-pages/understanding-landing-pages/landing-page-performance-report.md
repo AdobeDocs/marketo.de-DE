@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359713
-description: Performance-Bericht der Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über den Leistungsbericht für Landingpages in Marketo. Besuche, Konversionen und andere Metriken für Ihre Landingpages anzeigen.
 title: Leistungsbericht für Landingpage
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '217'
 ht-degree: 4%
 
 ---
@@ -31,7 +31,7 @@ Ermitteln Sie, wie viele Personen die Formulare auf Ihren Landingpages ausgefül
    >
    >Finden Sie die Seiten mit dem höchsten Konversionsprozentsatz! [Bericht sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in dieser Spalte und wählen Sie Absteigend sortieren.
 
-   Das AB-Symbol im Bericht zeigt an, dass die Statistiken die Summe aller Seiten in dieser [Landingpage-Testgruppe“ &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
+   Das AB-Symbol im Bericht zeigt an, dass die Statistiken die Summe aller Seiten in dieser [Landingpage-Testgruppe“ ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
 
 1. Scrollen Sie nach rechts, um die Anzahl der Besuche anzuzeigen, die von verschiedenen Social-Media-Plattformen stammen.
 

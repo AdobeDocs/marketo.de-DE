@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949841
-description: Grundlegendes zu Ereignisprogrammen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Veranstaltungsprogramme in Marketo. Machen Sie sich mit Struktur, Kanälen und der Planung und Ausführung von Ereignissen und Webinaren vertraut.
 title: Grundlegendes zu Ereignisprogrammen
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 10%
+source-wordcount: '108'
+ht-degree: 9%
 
 ---
 
@@ -30,7 +30,7 @@ Ein Veranstaltungsprogramm ist ein Programmtyp, der zur Automatisierung Ihrer Of
 >* Messen
 >* Meetups
 
-Ereignisse können automatisch eine Verbindung zu Ihrem [Webinar-Anbieter](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) herstellen und mit einer [iPad-Check-in-App &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Ereignisse können automatisch eine Verbindung zu Ihrem [Webinar-Anbieter](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) herstellen und mit einer [iPad-Check-in-App ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >

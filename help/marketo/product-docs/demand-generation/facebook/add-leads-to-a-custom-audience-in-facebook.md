@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11376700
-description: Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in Facebook - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Leads zu einer benutzerdefinierten Zielgruppe in Facebook hinzufügen. Mitglieder der Push-Liste für Anzeigen-Targeting an Facebook pushen.
 title: Hinzufügen von Leads zu einer benutzerdefinierten Zielgruppe in Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 6%
 
 ---
@@ -18,7 +18,7 @@ Sie haben bereits eine benutzerdefinierte Zielgruppe in [!DNL Facebook] und möc
 >[!PREREQUISITES]
 >
 >* [Erstellen einer benutzerdefinierten Zielgruppe in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem [!DNL Facebook].
+>* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von ](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem [!DNL Facebook].
 >
 
 1. Suchen Sie die Smart- oder statische Liste, die die Leads enthält, die Sie hinzufügen möchten, und wählen Sie sie aus.

@@ -1,11 +1,11 @@
 ---
-description: Streamen von Designer - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Stream-Designer und -Karten zum Erstellen von Chat-Konversationen. Nachrichten, Fragen, Dokumenterfassung, Besprechungsbuchung und mehr zu Dialogen hinzufügen.
 title: Gestalterin bzw. Gestalter des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1199'
+source-wordcount: '1215'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Es _(viele_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel,
 
 >[!PREREQUISITES]
 >
->Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie [&#x200B; in &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten.
+>Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie [ in ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten.
 
 ## Streamen von Designer-Karten {#stream-designer-cards}
 
@@ -105,7 +105,7 @@ Oben rechts im Stream Designer sehen Sie eine Handvoll Symbole. Hier ist, was si
 
 Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} erstellen. In diesem Beispiel erstellen wir einen für ein Dialogfeld.
 
-1. Nachdem Sie &quot;[&#x200B; Dialogfeld“ erstellt haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} klicken Sie auf die Registerkarte **[!UICONTROL Stream-Designer]**.
+1. Nachdem Sie &quot;[ Dialogfeld“ erstellt haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} klicken Sie auf die Registerkarte **[!UICONTROL Stream-Designer]**.
 
    ![](assets/stream-designer-6.png)
 
@@ -113,7 +113,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-7.png)
 
-1. Stellen [!UICONTROL &#x200B; unter „Chatbot Response] Ihre Frage, wie Sie möchten.
+1. Stellen [!UICONTROL  unter „Chatbot Response] Ihre Frage, wie Sie möchten.
 
    ![](assets/stream-designer-8.png)
 
@@ -199,7 +199,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
 >[!NOTE]
 >
->Bevor Sie auf [!UICONTROL Veröffentlichen] klicken, vergewissern Sie sich, dass Sie [&#x200B; Ziel-URL(s) &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} haben.
+>Bevor Sie auf [!UICONTROL Veröffentlichen] klicken, vergewissern Sie sich, dass Sie [ Ziel-URL(s) ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} haben.
 
 >[!MORELIKETHIS]
 >

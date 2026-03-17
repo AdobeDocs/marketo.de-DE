@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515069
-description: Grundlegendes zu Elementen und Variablen in geführten Vorlagen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Elemente und Variablen in den geführten Landingpage-Vorlagen von Marketo. Definieren, was bearbeitbar ist und wie Inhalte platziert werden.
 title: Grundlegendes zu Elementen und Variablen in geführten Vorlagen
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 10%
+source-wordcount: '198'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ Elemente sind die verschiedenen Inhaltselemente, aus denen eine Landingpage best
 
 Wenn Sie eine geführte Landingpage bearbeiten, werden Elemente angezeigt, wenn sie in der Vorlage als bearbeitbar markiert wurden. Elemente werden über die folgenden Symbole verfügen:
 
-* ![&#x200B; - &#x200B;](assets/image2015-5-20-12-3a30-3a48.png) Bild
+* ![ - ](assets/image2015-5-20-12-3a30-3a48.png) Bild
 * ![-](assets/image2015-5-20-12-3a31-3a33.png)Marketo-Formular
 * ![—](assets/image2015-5-20-12-3a41-3a21.png)Text
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)video
@@ -49,7 +49,7 @@ Es gibt drei Variablentypen: Zeichenfolgenvariablen, Farbvariablen und boolesche
   </tr>
   <tr>
    <td>Farbe</td>
-   <td><p>Bearbeitbarer Hexadezimalcode für Farbe</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Beispiel: Hintergrundfarbe, Schriftfarbe, Rahmenfarbe</p></td>
+   <td><p>Bearbeitbarer Hexadezimalcode für Farbe</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Beispiel: Hintergrundfarbe, Schriftfarbe, Rahmenfarbe</p></td>
   </tr>
   <tr>
    <td>Boolesch</td>

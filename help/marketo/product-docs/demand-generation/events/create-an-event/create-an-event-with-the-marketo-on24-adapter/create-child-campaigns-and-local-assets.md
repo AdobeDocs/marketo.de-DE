@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096675
-description: Erstellen untergeordneter Kampagnen und lokaler Assets - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo untergeordnete Kampagnen und lokale Assets für ON24-Ereignisse erstellen. Programme für verschiedene Regionen oder Sprachen organisieren.
 title: Erstellen untergeordneter Kampagnen und lokaler Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '676'
 ht-degree: 3%
 
 ---
@@ -95,7 +95,7 @@ Der **[!UICONTROL E-Mail senden]** Flussschritt MUSS der zweite Schritt sein. Di
 >
 >Wenn der Person ein Registrierungsfehler zurückgegeben wird, erhält sie die E-Mail-Bestätigung nicht.
 
-Ihr nächster Schritt besteht darin, [Ihre ON24-Ereignisintegration zu &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
+Ihr nächster Schritt besteht darin, [Ihre ON24-Ereignisintegration zu ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -1,11 +1,11 @@
 ---
-description: Berechtigungen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Dynamic Chat-Berechtigungen und -Produktprofile in Admin Console. Bearbeiten Sie vorhandene Profile oder erstellen Sie benutzerdefinierte Profile mit bestimmten Berechtigungen.
 title: Berechtigungen
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '728'
 ht-degree: 6%
 
 ---
@@ -66,7 +66,7 @@ Sie können diesen Vorgang nun für beliebige andere Dynamic Chat-Bereiche wiede
 
    ![](assets/permissions-11.png)
 
-1. Führen Sie nun für jeden gewünschten Bereich die Schritte 3 [&#x200B; 6 &#x200B;](#edit-existing-permissions) oben beschriebenen Bereich aus.
+1. Führen Sie nun für jeden gewünschten Bereich die Schritte 3 [ 6 ](#edit-existing-permissions) oben beschriebenen Bereich aus.
 
 ## Liste der Berechtigungen {#list-of-permissions}
 

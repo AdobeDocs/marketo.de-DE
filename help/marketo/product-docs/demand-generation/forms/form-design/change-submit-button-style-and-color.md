@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359620
-description: Stil und Farbe der Senden-Schaltfläche ändern - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Stil und die Farbe der Senden-Schaltfläche in einem Marketo-Formular ändern. Passen Sie die Schaltfläche an Ihr Branding und Ihr Design an.
 title: Ändern von Stil und Farbe der Senden-Schaltfläche
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 12%
+source-wordcount: '159'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 Wenn Sie die standardmäßige Senden-Schaltfläche als langweilig empfinden oder etwas Ausgefalleneres benötigen, können Sie aus einer Vielzahl von einsatzbereiten Schaltflächenstilen wählen.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-3.png)
 

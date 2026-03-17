@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359826
-description: Umleiten eines URL-Pfads - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen URL-Pfad für Marketo-Landingpages umleiten. Senden Sie alte Pfade an neue URLs oder Landingpages.
 title: Umleiten eines URL-Pfads
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 7%
+source-wordcount: '153'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo erleichtert die Umleitung eines URL-Pfads zu einer beliebigen Seite. Und
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken **[!UICONTROL unter]** auf **[!UICONTROL Landingpages]**.
 
@@ -33,7 +33,7 @@ Marketo erleichtert die Umleitung eines URL-Pfads zu einer beliebigen Seite. Und
 
    >[!NOTE]
    >
-   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Marketo ([) &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Marketo ([) ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
 1. Geben Sie den URL-Pfad (oder eine bestimmte Seite), den/die Sie umleiten möchten, im zweiten Feld **[!UICONTROL Ursprüngliche URL]** auf der rechten Seite ein.
 

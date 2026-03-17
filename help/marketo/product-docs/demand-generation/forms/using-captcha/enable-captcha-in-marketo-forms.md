@@ -1,12 +1,12 @@
 ---
-description: Aktivieren von CAPTCHA in Marketo Forms - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie CAPTCHA in Marketo-Formularen aktivieren. Reduzieren Sie Spam-Einsendungen mit reCAPTCHA oder anderen CAPTCHA-Optionen.
 title: Aktivieren von CAPTCHA in Marketo-Formularen
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 11%
+source-wordcount: '111'
+ht-degree: 10%
 
 ---
 

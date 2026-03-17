@@ -1,11 +1,11 @@
 ---
-description: Agent-Posteingang - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über den Agenten-Posteingang, in dem Live-Chat-Agenten-Feldgespräche führen. Anzeigen aktiver und vergangener Chats, Besucherinformationen und Festlegen des Verfügbarkeitsstatus.
 title: Agenten-Posteingang
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '597'
 ht-degree: 1%
 
 ---

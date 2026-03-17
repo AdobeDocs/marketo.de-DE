@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096656
-description: Erstellen eines Ereignisses mit dem Marketo ON24-Adapter - Marketo-Dokumentation - Produktdokumentation
+description: Erfahren Sie, wie Sie mit dem Marketo ON24-Adapter ein Ereignis erstellen. Verbinden von ON24-Webinaren mit Marketo und Synchronisieren der Registrierung und Teilnahme.
 title: Erstellen eines Ereignisses mit dem Marketo ON24-Adapter
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '293'
 ht-degree: 6%
 
 ---
@@ -22,7 +22,7 @@ Sie sollten mit den Bausteinen und der empfohlenen Reihenfolge zum Erstellen von
 
 >[!NOTE]
 >
->Weitere Informationen zu Marketo-APIs finden [&#x200B; in der Dokumentation zur &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}Marketo-APIs.
+>Weitere Informationen zu Marketo-APIs finden [ in der Dokumentation zur ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}Marketo-APIs.
 
 ## Voraussetzungen {#prerequisites}
 

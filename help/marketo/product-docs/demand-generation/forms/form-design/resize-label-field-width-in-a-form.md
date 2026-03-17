@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359604
-description: Ändern der Größe von Beschriftung/Feldbreite in einem Formular - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Größe von Beschriftung und Feldbreite in einem Marketo-Formular ändern. Passen Sie die Breite von Beschriftungen und Eingabebereichen an.
 title: Ändern der Größe von Beschriftungen/Feldbreiten in einem Formular
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 16%
+source-wordcount: '106'
+ht-degree: 15%
 
 ---
 
@@ -31,7 +31,7 @@ Es gibt zwei Möglichkeiten, sowohl die Feldbeschriftungsbreite als auch die Fel
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. Geben Sie einen Wert in Pixel für [!UICONTROL Titelbreite] und/oder [!UICONTROL Feldbreite“ &#x200B;].
+1. Geben Sie einen Wert in Pixel für [!UICONTROL Titelbreite] und/oder [!UICONTROL Feldbreite“ ].
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359644
-description: Benutzerdefiniertes HTML-Formular für Bekannte Personen anzeigen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benutzerdefinierte HTML für bekannte Personen in einem Marketo-Formular anzeigen. Für erkannte Besucher unterschiedliche Inhalte oder Nachrichten anzeigen.
 title: Anzeigen eines benutzerdefinierten HTML-Formulars für bekannte Personen
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 7%
+source-wordcount: '264'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Wenn ein Besucher in der Vergangenheit seinen vollständigen Namen und seine E-Mail-Adresse angegeben hat und Sie nicht möchten, dass er/sie das gesamte Formular erhält, erfahren Sie, wie Sie ihm/ihr einige benutzerdefinierte HTML zeigen (z. B. nur eine Download-Schaltfläche).
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -66,7 +66,7 @@ Wenn ein Besucher in der Vergangenheit seinen vollständigen Namen und seine E-M
 
    >[!NOTE]
    >
-   >Denken Sie daran[&#x200B; den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
+   >Denken Sie daran[ den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
 
    Ein Stück Kuchen! Sehen Sie nach, was eine Person sehen würde, wenn sie zum selben Formular zurückkehren würde:
 

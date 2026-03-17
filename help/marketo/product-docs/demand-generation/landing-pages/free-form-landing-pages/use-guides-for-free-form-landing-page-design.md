@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359728
-description: Benutzerhandbücher für Freiform-Landingpage-Design - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Handbücher für das Freiform-Landingpage-Design in Marketo verwenden. Elemente ausrichten und Layout konsistent mit Handbüchern halten.
 title: Verwenden von Handbüchern für das Design von Freiform-Landingpages
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 12%
+source-wordcount: '121'
+ht-degree: 11%
 
 ---
 

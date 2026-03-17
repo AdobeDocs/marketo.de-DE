@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359716
-description: Vorschau einer Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Landingpage in Marketo in der Vorschau anzeigen. Sehen Sie, wie die Seite aussieht und sich verhält, bevor Sie sie live schalten.
 title: Anzeigen einer Vorschau für eine Landingpage
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 10%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 

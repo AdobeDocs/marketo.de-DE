@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512328
-description: Erstellen eines Ereignisses mit [!DNL Level 3 Web Meeting] - Marketo-Dokumenten - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Ereignis mit einer Web-Besprechung der Stufe 3 in Marketo erstellen. Einrichten der Integration und Synchronisieren der Registrierung für Webmeetings mit Marketo.
 title: Ereignis erstellen mit [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -31,15 +31,15 @@ Erstellen Sie zunächst Ihr Webinar in [!DNL Level 3]. Wenn Sie Hilfe benötigen
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Web-Meeting Stufe 3]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Web-Meeting Stufe 3]** aus.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; Ihre [!DNL Level 3] Anmeldung aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; Ihre [!DNL Level 3] Anmeldung aus.
 
    ![](assets/image2016-3-24-15-3a43-3a43.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &#x200B;] das [!DNL Level 3] Ereignis aus, das Sie verwenden möchten.
+1. Wählen [!UICONTROL  unter ] das [!DNL Level 3] Ereignis aus, das Sie verwenden möchten.
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 

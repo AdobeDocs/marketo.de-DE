@@ -1,11 +1,11 @@
 ---
-description: Konfiguration - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Erscheinungsbild Ihres Dynamic Chat-Dialogfelds anpassen. Festlegen von Farben, Schriftarten, Platzierung, Avatar und Benachrichtigungssound.
 title: Konfiguration
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---

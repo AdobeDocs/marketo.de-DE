@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359663
-description: Festlegen eines ausgeblendeten Formularfeldwerts - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo einen Wert für ein ausgeblendetes Formularfeld festlegen. Übergeben Sie statische Werte oder Token-Werte bei der Formularübermittlung.
 title: Festlegen eines Werts für ein ausgeblendetes Formularfeld
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '312'
 ht-degree: 7%
 
 ---

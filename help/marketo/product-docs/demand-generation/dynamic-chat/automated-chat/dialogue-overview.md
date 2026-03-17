@@ -1,11 +1,11 @@
 ---
-description: Dialogfeld - Übersicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Dialoge als individuelle Chatunterhaltungen in Dynamic Chat. Legen Sie fest, wo sie angezeigt werden, wer sie sieht und überwachen Sie die Effektivität in Berichten.
 title: Dialoge – Übersicht
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '270'
 ht-degree: 7%
 
 ---

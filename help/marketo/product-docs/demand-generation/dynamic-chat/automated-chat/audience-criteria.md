@@ -1,11 +1,11 @@
 ---
-description: Zielgruppenkriterien - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Zielgruppenkriterien für die Zielgruppe, die Ihre Dynamic Chat-Dialoge sieht. Zielgruppen mithilfe von Ereignissen, Personen- und Unternehmensattributen und Priorität definieren.
 title: Zielgruppenkriterien
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '621'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 ## Priorität {#priority}
 
-Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als einen qualifiziert ist. Er wird beim ersten Erstellen [&#x200B; Dialogfelds &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Sie können die Priorität für ein vorhandenes Dialogfeld ändern, indem Sie es öffnen und auf **[!UICONTROL Registerkarte Zielgruppenkriterien]** Dialogfelddetails) wechseln.
+Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als einen qualifiziert ist. Er wird beim ersten Erstellen [ Dialogfelds ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Sie können die Priorität für ein vorhandenes Dialogfeld ändern, indem Sie es öffnen und auf **[!UICONTROL Registerkarte Zielgruppenkriterien]** Dialogfelddetails) wechseln.
 
 ![](assets/audience-criteria-1.png)
 
@@ -32,7 +32,7 @@ Mithilfe von Ereignissen können Sie Besuchende gezielt ansprechen, je nachdem, 
 
    ![](assets/audience-criteria-4.png)
 
-1. Fügen Sie die URL der gewünschten Seite im Abschnitt [[!UICONTROL Target“ &#x200B;]](#target).
+1. Fügen Sie die URL der gewünschten Seite im Abschnitt [[!UICONTROL Target“ ]](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -86,7 +86,7 @@ Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die sich noch
 
    >[!NOTE]
    >
-   >Wenn jemand Ihre Website besucht, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von guten Informationen ab.
+   >Wenn jemand Ihre Website besucht, [ ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von guten Informationen ab.
 
 1. _[!UICONTROL Is]_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 
@@ -133,7 +133,7 @@ Zulässige Formate:
 >
 >* URL-Parameter werden derzeit nicht unterstützt.
 
-**Ausschlüsse**
+**Ausnahmen**
 
 Verwenden Sie Ausschlüsse, um sicherzustellen, _Ihr Dialogfeld_ auf einer bestimmten Seite/in einem bestimmten Bereich Ihrer Site angezeigt wird. Ausschlüsse haben dasselbe Format wie Einschlüsse.
 

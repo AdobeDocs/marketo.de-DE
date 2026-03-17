@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10098238
-description: Häufig gestellte Fragen zum Ausfüllen von LinkedIn-Social-Formularen - Marketo-Dokumente - Produktdokumentation
+description: Hilfe zu LinkedIn Social-Formularen erhalten, die mit Marketo-Formularen ausgefüllt werden. Hier finden Sie Antworten auf häufig gestellte Fragen zur Integration von LinkedIn-Formularausfüllungen.
 title: Häufig gestellte Fragen zum Ausfüllen von LinkedIn-Social-Media-Formularen
 hide: true
 hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '529'
 ht-degree: 1%
 
 ---

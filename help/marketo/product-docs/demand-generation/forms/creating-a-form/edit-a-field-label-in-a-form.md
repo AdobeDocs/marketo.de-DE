@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359566
-description: Bearbeiten einer Feldbezeichnung in einem Formular - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Feldbezeichnung in einem Marketo-Formular bearbeiten. Ändern Sie den Beschriftungstext, der neben einem Formularfeld angezeigt wird.
 title: Bearbeiten einer Feldbezeichnung in einem Formular
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 13%
+source-wordcount: '130'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Sie können die Beschriftung auf einem Formular beliebig ändern - Sie können sogar ein Bild verwenden oder es vollständig löschen! So geht das.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/edit-a-field-label-in-a-form-1.png)
 
@@ -45,4 +45,4 @@ Sie können die Beschriftung auf einem Formular beliebig ändern - Sie können s
 
 >[!NOTE]
 >
->Vergessen Sie nicht, den [&#x200B; der Formularänderungen erstellten Landingpage-](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} zu genehmigen.
+>Vergessen Sie nicht, den [ der Formularänderungen erstellten Landingpage-](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} zu genehmigen.

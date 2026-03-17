@@ -1,11 +1,11 @@
 ---
-description: Fragengenerierung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie mithilfe von Quell-URLs und Themen Fragen für Dynamic Chat generieren. Erstellen Sie KI-unterstützte Antworten und verfolgen Sie den Aufgabenstatus in unterstützten Antworten.
 title: Generierung von Fragen
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '315'
 ht-degree: 3%
 
 ---
@@ -50,7 +50,7 @@ Zeigen Sie alle Ihre Aufgaben und deren relevante Details an, z. B. den Zeitpunk
 
 >[!NOTE]
 >
->Die generierten Fragen und Antworten können auch in der [Antwortbibliothek“ angezeigt &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>Die generierten Fragen und Antworten können auch in der [Antwortbibliothek“ angezeigt ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Suchen Sie die gewünschte Aufgabe und klicken Sie auf das Download-Symbol neben ihrem Namen.
 

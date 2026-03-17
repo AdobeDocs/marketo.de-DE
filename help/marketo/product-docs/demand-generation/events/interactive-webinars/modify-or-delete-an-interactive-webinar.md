@@ -1,12 +1,12 @@
 ---
-description: Ändern oder Löschen eines interaktiven Webinars - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein interaktives Webinar in Marketo ändern oder löschen können. Aktualisieren Sie die Einstellungen oder entfernen Sie Webinare, wenn sie nicht mehr benötigt werden.
 title: Ändern oder Löschen eines interaktiven Webinars
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 5%
+source-wordcount: '324'
+ht-degree: 4%
 
 ---
 

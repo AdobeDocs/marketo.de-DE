@@ -1,12 +1,12 @@
 ---
-description: Erfahren Sie, wie Sie Vorlagen in interaktiven Webinaren erstellen und implementieren.
+description: Erfahren Sie, wie Sie Vorlagen in interaktiven Webinaren erstellen und implementieren. Verwenden Sie Vorlagen, um das Webinar-Design zu standardisieren und die Erstellung zu beschleunigen.
 title: Vorlagen für interaktive Webinare
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 0%
+source-wordcount: '329'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ Erstellen Sie benutzerfreundliche Vorlagen in interaktiven Webinaren, um Inhalte
 
 ## Berechtigungen erteilen {#grant-permissions}
 
-Bevor Benutzer in Ihrem Unternehmen auf Vorlagen für interaktive Webinare zugreifen können, muss ein Marketo Engage-Administrator zunächst den Zugriff auf die gewünschten Rollen hinzufügen.
+Bevor Benutzerinnen und Benutzer in Ihrem Unternehmen auf Vorlagen für interaktive Webinare zugreifen können, muss ein Marketo Engage-Administrator zunächst Zugriff auf die gewünschten Rollen hinzufügen.
 
 1. Klicken Sie in Marketo Engage auf **[!UICONTROL Admin]**.
 

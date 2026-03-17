@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359677
-description: Verwenden eines Formulars in einer Lightbox - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Formular in einer Lightbox in Marketo verwenden. Zeigen Sie Ihr Formular in einer Popup-Überlagerung auf einer Landingpage oder Website an.
 title: Verwenden eines Formulars in einer Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '117'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Eine Lightbox ist eine Technik, mit der ein Formular vor dem Inhalt geöffnet wird, wenn es angezeigt werden soll. Und so geht das.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-8.png)
 

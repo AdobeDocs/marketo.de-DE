@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949966
-description: Hinzufügen einer Länder-Auswahlliste zu Ihrem Formular - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihrem Marketo-Formular eine Länder-Auswahlliste hinzufügen. Geben Sie Besuchern eine Dropdown-Liste, um ihr Land auszuwählen.
 title: Hinzufügen einer Länder-Auswahlliste zu einem Formular
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 9%
+source-wordcount: '197'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 Folgen Sie diesen Anweisungen, um das Feld Land in eine Dropdown-Liste mit einer Liste aller Länder zu konvertieren.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-9.png)
 

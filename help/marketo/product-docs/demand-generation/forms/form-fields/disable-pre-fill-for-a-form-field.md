@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359675
-description: Deaktivieren des Vorbefüllens für ein Formularfeld - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Vorausfüllen für ein Formularfeld in Marketo deaktivieren. Anhalten, dass bekannte Besucherdaten das Feld automatisch ausfüllen.
 title: Deaktivieren des Vorbefüllens für ein Formularfeld
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 8%
+source-wordcount: '178'
+ht-degree: 10%
 
 ---
 
@@ -23,7 +23,7 @@ Wenn ein Web-Besucher bekannt ist (Cookies), füllt Marketo Forms Felder standar
 
 ## Deaktivieren der Vorbefüllung {#how-to-disable-pre-fill}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-7.png)
 

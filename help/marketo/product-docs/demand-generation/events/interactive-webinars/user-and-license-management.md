@@ -1,12 +1,12 @@
 ---
-description: Benutzer- und Lizenzverwaltung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Benutzer- und Lizenzverwaltung für interaktive Webinare. Weisen Sie Personen, die Webinare erstellen oder bereitstellen können, Zugriff zu und verwalten Sie sie.
 title: Benutzer- und Lizenzverwaltung
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '717'
-ht-degree: 3%
+source-wordcount: '728'
+ht-degree: 4%
 
 ---
 
@@ -46,7 +46,7 @@ Erfahren Sie, wie Sie Benutzer hinzufügen und entfernen und Ihre aktuellen Lize
 
    ![](assets/user-and-license-management-7.png)
 
-1. Markieren Sie die zu entfernenden Benutzer und drücken Sie die Entf-Taste auf der Tastatur. Klicken **abschließend** OK“.
+1. Markieren Sie die zu entfernenden Benutzer und drücken Sie die Entf-Taste auf der Tastatur. Klicken Sie auf **OK**, wenn Sie fertig sind.
 
    ![](assets/user-and-license-management-8.png)
 

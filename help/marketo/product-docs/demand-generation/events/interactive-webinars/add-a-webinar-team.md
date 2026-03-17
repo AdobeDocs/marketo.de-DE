@@ -1,11 +1,11 @@
 ---
-description: Webinar-Team hinzufügen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in interaktiven Webinaren ein Webinar-Team hinzufügen. Weisen Sie Team-Mitglieder zu, die Sie bei der Erstellung, Verwaltung oder Bereitstellung von Webinaren unterstützen.
 title: Hinzufügen eines Webinar-Teams
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '437'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erleb
 
 >[!NOTE]
 >
-> Mit ![&#x200B; Symbol „Co-Host-URL kopieren](assets/icon-copy-join-url.png) wird die Co-Host-Join-URL kopiert, und mit dem Symbol ![Co-Host eine Einladungs-E-Mail senden](assets/icon-send-invitation-email.png) wird dem Co-Host eine Einladungs-E-Mail gesendet.
+> Mit ![ Symbol „Co-Host-URL kopieren](assets/icon-copy-join-url.png) wird die Co-Host-Join-URL kopiert, und mit dem Symbol ![Co-Host eine Einladungs-E-Mail senden](assets/icon-send-invitation-email.png) wird dem Co-Host eine Einladungs-E-Mail gesendet.
 
 ## Moderator hinzufügen {#add-a-presenter}
 

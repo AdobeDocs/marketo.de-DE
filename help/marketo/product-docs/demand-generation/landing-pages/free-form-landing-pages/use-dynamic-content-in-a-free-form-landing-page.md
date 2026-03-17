@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359732
-description: Verwenden dynamischer Inhalte in einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie dynamische Inhalte in einer Freiform-Landingpage in Marketo verwenden. Anzeigen verschiedener Inhalte für verschiedene Segmente.
 title: Verwenden dynamischer Inhalte in einer Freiform-Landingpage
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 7%
+source-wordcount: '213'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ Die Verwendung von dynamischen Inhalten auf Landingpages bindet Ihre Zielgruppe 
 
 ## Segmentierung hinzufügen {#add-segmentation}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -39,7 +39,7 @@ Die Verwendung von dynamischen Inhalten auf Landingpages bindet Ihre Zielgruppe 
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-1. Die Segmentierung und die zugehörigen Segmente werden [!UICONTROL &#x200B; rechts unter &#x200B;] angezeigt.
+1. Die Segmentierung und die zugehörigen Segmente werden [!UICONTROL  rechts unter ] angezeigt.
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 

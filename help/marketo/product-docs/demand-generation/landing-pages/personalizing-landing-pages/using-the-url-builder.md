@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359801
-description: Verwenden des URL Builders - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den URL Builder für personalisierte Marketo-URLs verwenden. Erstellen von verfolgbaren personalisierten Links für E-Mails oder Kampagnen.
 title: Verwenden des URL-Builders
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 7%
 
 ---
 
@@ -29,6 +29,6 @@ Der URL Builder hilft Ihnen beim Erstellen von URLs, die in ausgeblendete Formul
 
    >[!NOTE]
    >
-   >Wenn im Builder keine Felder verfügbar sind, stellen Sie sicher, dass das Formular ausgeblendete Felder enthält und dass diese [auf „URL-Parameter akzeptieren“ eingestellt &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
+   >Wenn im Builder keine Felder verfügbar sind, stellen Sie sicher, dass das Formular ausgeblendete Felder enthält und dass diese [auf „URL-Parameter akzeptieren“ eingestellt ](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
 Tolle Arbeit! Sie können jetzt die URL kopieren, einfügen und im Web verwenden.

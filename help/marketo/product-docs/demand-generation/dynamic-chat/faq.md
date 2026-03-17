@@ -1,11 +1,11 @@
 ---
-description: Häufig gestellte Fragen zu Dynamic Chat - Marketo-Dokumente - Produktdokumentation
+description: Hier erhalten Sie Hilfe zu Zugriff auf Dynamic Chat, Installation, Datenaufbewahrung und Sprachunterstützung. Hier finden Sie Antworten auf häufig gestellte Fragen zu Marketo Engage Dynamic Chat.
 title: Häufig gestellte Fragen zu Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Das Dynamic Chat JavaScript-Snippet kann auf jeder Website sowie auf Landingpage
 
 **Unterstützt Dynamic Chat neben Englisch auch andere Sprachen?**
 
-Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Spanisch, Deutsch, Japanisch, Niederländisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Spanisch, Deutsch, Japanisch, Niederländisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Unterstützen Sie KI-/NLP-Funktionen?**
 
@@ -88,13 +88,13 @@ Ein Dialogfeld ist eine Konversation, die Web-Besuchern, die einen definierten S
 
 **Gibt es eine Möglichkeit, Dynamic Chat zu verwenden, um Meetings direkt über eine E-Mail zu buchen?**
 
-Ja! [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+Ja. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **Was genau bedeuten Begriffe wie „Interagiert“ oder „Erworbene Personen“?**
 
 In Dynamic Chat werden mehrere Begriffe verwendet. Definitionen für viele von ihnen finden Sie in den Hilfeartikeln der jeweiligen Bereiche.
 
-* Analytics-Begriffe wie „Personen erworben[&#x200B; (finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Analytics-Begriffe wie „Personen erworben[ (finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
 * Trigger-/Filterdefinitionen für Smart-Listen [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
 * Beschreibungen der verschiedenen Stream Designer-Karten [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 

@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359722
-description: Hinzufügen eines Videos zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo ein Video zu einer Freiform-Landingpage hinzufügen. Einbetten von Videoinhalten in Ihre Landingpage.
 title: Hinzufügen eines Videos zu einer Freiform-Landingpage
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 7%
+source-wordcount: '248'
+ht-degree: 6%
 
 ---
 
@@ -45,7 +45,7 @@ Legen Sie Videos mit Social-Sharing-Optionen auf Ihren Landingpages ab.
 >
 >Um Zeit zu sparen, können Sie die Option **[!UICONTROL Klonen von]** verwenden, um alle Einstellungen aus einer vorhandenen Videofreigabe zu kopieren.
 
-Herzlichen Glückwunsch! Sie haben Ihrer Freiform-Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage, und Ihre Videofreigabe ist live. Sie können [&#128279;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) Landingpage auch auf Facebook veröffentlichen oder _die Videofreigabe auf Ihre Website_.
+Herzlichen Glückwunsch! Sie haben Ihrer Freiform-Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage, und Ihre Videofreigabe ist live. Sie können [ ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) Landingpage auch auf Facebook veröffentlichen oder _die Videofreigabe auf Ihre Website_.
 
 >[!MORELIKETHIS]
 >

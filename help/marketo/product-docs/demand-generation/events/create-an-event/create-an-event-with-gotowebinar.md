@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949874
-description: Erstellen eines Ereignisses mit [!DNL GotoWebinar] - Marketo-Dokumenten - Produktdokumentation
+description: Erfahren Sie, wie Sie mit GotoWebinar in Marketo ein Ereignis erstellen. Konfigurieren der Registrierung für die Integration und Synchronisierung von Webinaren mit Marketo.
 title: Ereignis erstellen mit [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---

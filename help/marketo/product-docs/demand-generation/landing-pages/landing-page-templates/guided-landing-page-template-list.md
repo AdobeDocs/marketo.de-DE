@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515616
-description: Liste der geführten Landingpage-Vorlagen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Liste der geführten Landingpage-Vorlagen in Marketo. Durchsuchen Sie die Vorlagen für Ihre Landingpages und laden Sie sie herunter.
 title: Liste der Vorlagen für geführte Landingpages
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 62%
+source-wordcount: '356'
+ht-degree: 61%
 
 ---
 

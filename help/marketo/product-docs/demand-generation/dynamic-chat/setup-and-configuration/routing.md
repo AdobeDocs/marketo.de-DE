@@ -1,11 +1,11 @@
 ---
-description: Routing - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Routing-Meetings und Live-Chat in Dynamic Chat. Richten Sie Round Robin- oder benutzerdefinierte Regeln ein, um Besuchende bestimmten Agenten oder Teams zuzuweisen.
 title: Routing
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '358'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Benutzerdefinierte Regel: Sie können bestimmte Agenten auswählen, die basieren
 
 >[!NOTE]
 >
->Das Konto-Routing hat die höchste Priorität. Wenn ein Besucher den Punkt im Gespräch erreicht, um entweder ein Meeting zu buchen oder einen Live-Chat zu initiieren[&#x200B; wird &#x200B;](#account-routing)Konto-Routing“ zuerst überprüft, bevor andere Routing-Optionen berücksichtigt werden.
+>Das Konto-Routing hat die höchste Priorität. Wenn ein Besucher den Punkt im Gespräch erreicht, um entweder ein Meeting zu buchen oder einen Live-Chat zu initiieren[ wird ](#account-routing)Konto-Routing“ zuerst überprüft, bevor andere Routing-Optionen berücksichtigt werden.
 
 ## Erstellen einer benutzerdefinierten Regel {#create-a-custom-rule}
 

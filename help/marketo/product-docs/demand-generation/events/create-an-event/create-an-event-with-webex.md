@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949863
-description: Erstellen eines Ereignisses mit [!DNL Webex] - Marketo-Dokumenten - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo ein Ereignis mit WebEx erstellen. Konfigurieren Sie die WebEx-Integration und synchronisieren Sie Ereignis- oder Besprechungsdaten mit Marketo.
 title: Ereignis erstellen mit [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '646'
 ht-degree: 1%
 
 ---

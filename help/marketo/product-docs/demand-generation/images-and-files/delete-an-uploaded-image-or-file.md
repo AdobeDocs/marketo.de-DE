@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359873
-description: Hochgeladene Bilder oder Dateien löschen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein hochgeladenes Bild oder eine hochgeladene Datei aus Marketo löschen. Entfernen Sie nicht mehr benötigte Assets aus dem Design Studio.
 title: Löschen von hochgeladenen Bildern oder Dateien
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 11%
+source-wordcount: '118'
+ht-degree: 10%
 
 ---
 

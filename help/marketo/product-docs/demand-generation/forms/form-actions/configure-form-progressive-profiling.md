@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359646
-description: Konfigurieren der progressiven Formularprofilerstellung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die progressive Profilerstellung in einem Marketo-Formular konfigurieren. Zeigen Sie im Laufe der Zeit verschiedene Felder an, um mehr Daten ohne lange Formulare zu erfassen.
 title: Konfigurieren der progressiven Formularprofilerstellung
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 3%
+source-wordcount: '347'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
 >
 >Damit diese Funktion ordnungsgemäß funktioniert, müssen Sie sicherstellen, dass das Vorausfüllen des Formulars für sichtbare Felder und [deaktiviert](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) für ausgeblendete Felder aktiviert ist.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma-1.png)
 

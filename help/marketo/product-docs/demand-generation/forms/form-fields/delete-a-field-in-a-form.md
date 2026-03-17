@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359606
-description: Löschen eines Felds in einem Formular - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Feld aus einem Marketo-Formular löschen. Entfernen Sie nicht mehr benötigte Felder aus dem Formular.
 title: Löschen eines Felds in einem Formular
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 20%
+source-wordcount: '87'
+ht-degree: 22%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 20%
 
 Wenn es ein Feld gibt, das Sie nicht mehr in Ihrem Formular benötigen, kann es einfach gelöscht werden. Und so geht das.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,4 +37,4 @@ Wenn es ein Feld gibt, das Sie nicht mehr in Ihrem Formular benötigen, kann es 
 
 >[!NOTE]
 >
->Vergessen Sie nicht, den [&#x200B; der Formularänderungen &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Landingpage-Entwurf zu genehmigen.
+>Vergessen Sie nicht, den [ der Formularänderungen ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Landingpage-Entwurf zu genehmigen.

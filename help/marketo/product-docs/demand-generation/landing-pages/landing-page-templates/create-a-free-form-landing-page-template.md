@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097969
-description: Erstellen einer Freiform-Landingpage-Vorlage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo eine Freiform-Landingpage-Vorlage erstellen. Erstellen Sie eine wiederverwendbare Vorlage in Design Studio für zukünftige Landingpages.
 title: Erstellen einer Vorlage für Freiform-Landingpages
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 6%
+source-wordcount: '208'
+ht-degree: 5%
 
 ---
 

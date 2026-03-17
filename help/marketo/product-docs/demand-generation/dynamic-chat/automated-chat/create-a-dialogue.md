@@ -1,12 +1,12 @@
 ---
-description: Erstellen eines Dialogfelds - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Dynamic Chat ein neues Dialogfeld erstellen. Wählen Sie eine Vorlage aus, legen Sie einen Namen und eine Priorität fest und erstellen Sie dann einen Stream für Ihre Konversation.
 title: Erstellen eines Dialogs
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 6%
 
 ---
 
@@ -30,7 +30,7 @@ So erstellen Sie ein neues Dialogfeld.
 >
 >Die Priorität bestimmt, welches Dialogfeld einem Besucher angezeigt wird, wenn er für mehrere Dialogfelder gleichzeitig qualifiziert ist.
 
-Erfahren Sie als Nächstes, wie [&#x200B; einen Stream erstellen &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+Erfahren Sie als Nächstes, wie [ einen Stream erstellen ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

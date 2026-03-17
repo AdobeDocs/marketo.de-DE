@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515266
-description: Erstellen einer geführten Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo eine geführte Landingpage erstellen. Wählen Sie eine Vorlage aus und erstellen Sie Ihre Seite mit dem geführten Editor.
 title: Erstellen einer geführten Landingpage
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 5%
+source-wordcount: '213'
+ht-degree: 7%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 5%
 
 Geführte Landingpages können als lokale Assets eines Programms oder im [!UICONTROL Design Studio] erstellt und global verwendet werden.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/one-1.png)
 
@@ -45,7 +45,7 @@ Geführte Landingpages können als lokale Assets eines Programms oder im [!UICON
 
    >[!NOTE]
    >
-   >Geführte Landingpage-Vorlagen haben neben ihnen das Symbol ![&#x200B; - &#x200B;](assets/image2015-5-26-9-3a26-3a51.png) . Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
+   >Geführte Landingpage-Vorlagen haben neben ihnen das Symbol ![ - ](assets/image2015-5-26-9-3a26-3a51.png) . Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9438209
-description: Vorlage 18b - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Vorlage 18B der geführten Landingpage. Herunterladen und für Ihre Marketo-Landingpages verwenden.
 title: Vorlage 18b
 exl-id: a0bb1104-a905-4285-895b-df515449db89
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 8%
+source-wordcount: '61'
+ht-degree: 6%
 
 ---
 
 # Vorlage 18b {#template-18b}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 18B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html?lang=de)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 18B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
 
 ![](assets/image2015-8-17-18-3a6-3a30.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html?lang=de)
+[Vorlage 18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)

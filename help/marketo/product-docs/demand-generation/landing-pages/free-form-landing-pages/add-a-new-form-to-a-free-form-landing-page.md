@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359705
-description: Hinzufügen eines neuen Formulars zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo ein neues Formular zu einer Freiform-Landingpage hinzufügen. Fügen Sie ein Marketo-Formular ein, um Leads auf der Seite zu erfassen.
 title: Hinzufügen eines neuen Formulars zu einer Freiform-Landingpage
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 13%
+source-wordcount: '155'
+ht-degree: 15%
 
 ---
 
@@ -20,7 +20,7 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 >* [Erstellen eines Formulars](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Erstellen einer Freiform-Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -54,4 +54,4 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 
    Gut gemacht!
 
-Schließen Sie einfach den Landingpage-Editor und [&#x200B; Sie den Landingpage-Entwurf &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie einfach den Landingpage-Editor und [ Sie den Landingpage-Entwurf ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

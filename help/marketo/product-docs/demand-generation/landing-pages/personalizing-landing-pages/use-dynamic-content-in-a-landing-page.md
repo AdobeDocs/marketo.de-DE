@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359532
-description: Verwenden dynamischer Inhalte in einer Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie dynamische Inhalte in einer Marketo-Landingpage verwenden. Anzeigen verschiedener Inhalte für verschiedene Segmente oder Besucher.
 title: Verwenden von dynamischen Inhalten in einer Landingpage
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 7%
+source-wordcount: '204'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ Die Verwendung dynamischer Inhalte in Landingpages bindet Personen mit zielgeric
 
 ## Segmentierung hinzufügen {#add-segmentation}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 

@@ -1,11 +1,11 @@
 ---
-description: Rückruffunktionen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Rückruffunktionen von Dynamic Chat-Widgets zum Senden von Konversationsereignissen an Drittanbieterplattformen. Verwenden Sie Ereignisse für ausgelöste, interaktive und zielerreichte Aktionen.
 title: Rückruffunktionen
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '632'
 ht-degree: 8%
 
 ---

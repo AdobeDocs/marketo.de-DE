@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359618
-description: Hinzufügen von Rich-Text zu einem Formular - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einem Marketo-Formular Rich-Text hinzufügen. Überschriften, Links oder Anweisungen oberhalb oder unterhalb von Formularfeldern einfügen.
 title: Hinzufügen von Rich Text zu einem Formular
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 15%
+source-wordcount: '113'
+ht-degree: 17%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Verwenden Sie Rich Text in einem Formular, um Anweisungen oder andere Informationen zwischen Feldern hinzuzufügen. Schau es dir an.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -57,4 +57,4 @@ Verwenden Sie Rich Text in einem Formular, um Anweisungen oder andere Informatio
 
 >[!TIP]
 >
->Wussten Sie, dass Sie [&#x200B; Rich-Text-Block auch &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)Sichtbarkeitsregeln hinzufügen“ können?
+>Wussten Sie, dass Sie [ Rich-Text-Block auch ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)Sichtbarkeitsregeln hinzufügen“ können?

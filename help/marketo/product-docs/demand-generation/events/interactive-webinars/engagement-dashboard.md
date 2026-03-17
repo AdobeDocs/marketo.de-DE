@@ -1,12 +1,12 @@
 ---
-description: Interaktions-Dashboard - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Interaktions-Dashboard für interaktive Webinare. Sehen Sie sich Metriken und Einblicke zur Interaktion mit Teilnehmern während und nach Ihren Webinaren an.
 title: Interaktions-Dashboard
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 0%
+source-wordcount: '1755'
+ht-degree: 1%
 
 ---
 
@@ -25,7 +25,7 @@ Zeigen Sie Interaktionen für die folgenden Sitzungstypen in einem interaktiven 
 
 ## Dashboard anzeigen {#view-the-dashboard}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/engagement-dashboard-1.png)
 
@@ -301,7 +301,7 @@ Verstehen Sie die Kriterien zur Klassifizierung des Interaktionsniveaus für jed
     <li>Der Teilnehmer hat mindestens eine Frage im Fragenkatalog gestellt.</li></td>
   </tr>
   <tr>
-    <td>Medium</td>
+    <td>Mittel</td>
     <td>Teilnehmer, die alle folgenden Kriterien erfüllen:
     <li>Das Interaktionsniveau des Teilnehmers wurde nicht als hoch eingestuft.</li>
     <li>Die Anwesenheitsdauer beträgt mindestens 60 % der gesamten Veranstaltungszeit.</li>

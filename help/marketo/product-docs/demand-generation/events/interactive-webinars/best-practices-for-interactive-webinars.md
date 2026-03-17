@@ -1,11 +1,11 @@
 ---
-description: Best Practices für interaktive Webinare - Marketo-Dokumente - Produktdokumentation
+description: Hier erhalten Sie Hilfe zu Best Practices für interaktive Webinare in Marketo. Verbessern Sie die Interaktion, die Bereitstellung und die Nachbereitung für Ihre Webinare.
 title: Best Practices für interaktive Webinare
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1704'
+source-wordcount: '1713'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 * Vermeiden Sie die Planung von Rückgesprächen. Achten Sie darauf, dass Sie mindestens 30 Minuten Vorbereitungszeit haben, bevor Ihr Webinar beginnt. Auf diese Weise können Sie alle Änderungen an der Präsentation in letzter Minute hochladen, Ihr Mikrofon und Ihre Kamera anpassen und neue Präsentatoren mit der Benutzeroberfläche vertraut machen.
 
-* Weisen Sie Ihren Team-Mitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Moderatoren und Moderatoren können den Raum vor den Teilnehmern betreten. Achten Sie jedoch darauf[&#x200B; Ihr interaktives Webinar zu &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}_bevor Sie_ und Moderatoren hinzufügen.
+* Weisen Sie Ihren Team-Mitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Moderatoren und Moderatoren können den Raum vor den Teilnehmern betreten. Achten Sie jedoch darauf[ Ihr interaktives Webinar zu ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}_bevor Sie_ und Moderatoren hinzufügen.
 
 ### Bewerben einer Veranstaltung {#promoting-your-event}
 
@@ -85,7 +85,7 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 * **Fragen und Antworten**: Der Name des Teilnehmers, der die Frage eingereicht hat, und der Name des Gastgebers/Moderators, der geantwortet hat, können beide ausgeblendet werden. Dies erreichen Sie, indem Sie die Datenschutzoptionen im Abschnitt „Fragen und Antworten“ in den Zimmereinstellungen deaktivieren.
 
-* **Chat-Panel**: Das Chat-Panel ist ein Chat-Bereich, der nicht Teil der Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass Chats in Aufzeichnungen angezeigt werden, verwenden Sie das Chat-Panel anstelle des Chat-Pods. [Hier klicken](https://helpx.adobe.com/de/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} um mehr über die Verwendung des Chat Panels zu erfahren.
+* **Chat-Panel**: Das Chat-Panel ist ein Chat-Bereich, der nicht Teil der Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass Chats in Aufzeichnungen angezeigt werden, verwenden Sie das Chat-Panel anstelle des Chat-Pods. [Hier klicken](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} um mehr über die Verwendung des Chat Panels zu erfahren.
 
 * **Privater Chat**: Deaktivieren Sie den privaten Chat, um zu verhindern, dass Teilnehmer einen anderen Teilnehmer anpingen können. Dies kann erreicht werden, indem Sie die Option „Teilnehmern erlauben, privat zu chatten“ im Abschnitt „Chat“ in den Zimmereinstellungen deaktivieren.
 

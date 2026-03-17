@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359614
-description: Definieren von Werten in einem Optionsfeld oder einem ausgewählten Feld in einem Formular - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Werte in einem Optionsfeld oder Dropdown-Feld in einem Marketo-Formular definieren. Legen Sie die Optionen fest, aus denen Besucher wählen können.
 title: Definieren von Werten in einem Optionsfeld oder einem ausgewählten Feld in einem Formular
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 13%
+source-wordcount: '201'
+ht-degree: 14%
 
 ---
 
 # Definieren von Werten in einem Optionsfeld oder einem ausgewählten Feld in einem Formular {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Nachdem Sie &quot;[&#x200B; Feldtyp“ &#x200B;](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) Optionsfeld- oder Auswahltyp festgelegt haben, sollten Sie die Werte definieren, aus denen der Benutzer auswählen kann. Und so geht das.
+Nachdem Sie &quot;[ Feldtyp“ ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) Optionsfeld- oder Auswahltyp festgelegt haben, sollten Sie die Werte definieren, aus denen der Benutzer auswählen kann. Und so geht das.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 
@@ -47,7 +47,7 @@ Nachdem Sie &quot;[&#x200B; Feldtyp“ &#x200B;](/help/marketo/product-docs/admi
 
    >[!NOTE]
    >
-   >Wenn Sie keinen &quot;[!UICONTROL &#x200B; Wert“ eingeben] verwendet Marketo den [!UICONTROL Wert anzeigen] und speichert diesen.
+   >Wenn Sie keinen &quot;[!UICONTROL  Wert“ eingeben] verwendet Marketo den [!UICONTROL Wert anzeigen] und speichert diesen.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 

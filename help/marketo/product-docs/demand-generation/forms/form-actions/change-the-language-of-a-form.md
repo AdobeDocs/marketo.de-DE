@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359654
-description: Ändern der Sprache eines Formulars - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Sprache eines Marketo-Formulars ändern. Zeigen Sie Formularbeschriftungen und -nachrichten in einer anderen Sprache für Ihre Zielgruppe an.
 title: Ändern der Sprache eines Formulars
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '148'
+ht-degree: 12%
 
 ---
 
@@ -17,9 +17,9 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern.
 
 >[!IMPORTANT]
 >
->Durch die Schritte in diesem Artikel werden die Sprache von Marketo-Standardfeldern sowie der Wortlaut geändert, der in der Beschriftung der Senden-Schaltfläche verwendet wird. Es werden keine ([&#x200B; Felder) &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
+>Durch die Schritte in diesem Artikel werden die Sprache von Marketo-Standardfeldern sowie der Wortlaut geändert, der in der Beschriftung der Senden-Schaltfläche verwendet wird. Es werden keine ([ Felder) ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/change-the-language-of-a-form-1.png)
 
@@ -53,7 +53,7 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern.
 
    >[!TIP]
    >
-   >Denken Sie daran[&#x200B; den von den Formularänderungen &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Entwurf der Landingpage zu genehmigen.
+   >Denken Sie daran[ den von den Formularänderungen ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Entwurf der Landingpage zu genehmigen.
 
 Im Formular wird nun die von Ihnen ausgewählte Sprache angezeigt.
 

@@ -1,12 +1,12 @@
 ---
-description: Erstellen eines interaktiven Webinars - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo ein interaktives Webinar erstellen. Führen Sie die Schritte aus, um Ihr Webinar einzurichten und Einstellungen für die Live- oder On-Demand-Bereitstellung zu konfigurieren.
 title: Erstellen eines interaktiven Webinars
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 2%
+source-wordcount: '300'
+ht-degree: 4%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Erstellen Sie in wenigen einfachen Schritten ein interaktives Webinar.
 
-1. Navigieren Sie **Marketing-Aktivitäten**.
+1. Navigieren Sie zu **Marketing-Aktivitäten**.
 
    ![](assets/create-an-interactive-webinar-1.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359701
-description: Erstellen einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo eine Freiform-Landingpage erstellen. Erstellen Sie die Seite als Programm-Asset oder in Design Studio für die globale Verwendung.
 title: Erstellen einer Freiform-Landingpage
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 7%
+source-wordcount: '195'
+ht-degree: 9%
 
 ---
 
 # Erstellen einer Freiform-Landingpage {#create-a-free-form-landing-page}
 
-Freiform-Landingpages können als lokale Assets eines Programms oder im [!UICONTROL Design Studio) erstellt &#x200B;] global verwendet werden.
+Freiform-Landingpages können als lokale Assets eines Programms oder im [!UICONTROL Design Studio) erstellt ] global verwendet werden.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Freiform-Landingpages können als lokale Assets eines Programms oder im [!UICONT
 
 ## Erstellen einer Freiform-Landingpage in einem Programm {#create-a-free-form-landing-page-in-a-program}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 

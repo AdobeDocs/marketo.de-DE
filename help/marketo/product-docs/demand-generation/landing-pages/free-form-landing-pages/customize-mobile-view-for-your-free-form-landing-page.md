@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472283
-description: Mobilansicht für Freiform-Landingpage anpassen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Ansicht auf Mobilgeräten für Ihre Freiform-Landingpage in Marketo anpassen. Anpassen des Layouts und Inhalts für mobile Besucher.
 title: Anpassen der Mobilansicht für eine Freiform-Landingpage
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 4%
+source-wordcount: '376'
+ht-degree: 5%
 
 ---
 
@@ -107,7 +107,7 @@ Standardmäßig wird alles, was sich auf der Desktop-Ansicht befindet, auf der m
    >
    >Die Vorschau ist nicht interaktiv. Jedes Smartphone zeigt die Dinge etwas anders. Es wird empfohlen, Ihre Landingpage auf einigen Geräten in der Vorschau anzuzeigen, um genau zu sehen, wie sich die Landingpage verhält.
 
-Viel Spaß!
+Viel Spaß.
 
 >[!MORELIKETHIS]
 >

@@ -1,11 +1,11 @@
 ---
-description: Agenteneinstellungen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Agentenkalender und die Verfügbarkeit von Meetings oder Live-Chats in Dynamic Chat konfigurieren. Outlook oder Gmail für Terminplanung verbinden.
 title: Agenteneinstellungen
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '621'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Konfigurieren Sie Ihren Kalender und legen Sie die Verfügbarkeit von Meetings/L
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Ihren Agenten die entsprechenden [Berechtigungen“ &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} wurden.
+>Stellen Sie sicher, dass Ihren Agenten die entsprechenden [Berechtigungen“ ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} wurden.
 
 ![](assets/agent-settings-1.png)
 

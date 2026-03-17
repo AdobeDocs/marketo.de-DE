@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359724
-description: Gleichzeitiges Genehmigen mehrerer Landingpages - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo mehrere Landingpages gleichzeitig genehmigen. Massenvalidierung von Seiten, damit sie schnell verfügbar sind.
 title: Gleichzeitiges Genehmigen mehrerer Landingpages
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 14%
+source-wordcount: '94'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098242
-description: Ausfüllen von Social Media-Formularen deaktivieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Ausfüllen von Social Media-Formularen in einem Marketo-Formular deaktivieren. Deaktivieren Sie die Option für Besuchende, die über ihr soziales Netzwerk einreichen möchten.
 title: Deaktivieren des Ausfüllens von Social-Media-Formularen
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '97'
+ht-degree: 14%
 
 ---
 
@@ -19,7 +19,7 @@ Manchmal soll es nicht mehr möglich sein, dass Besuchende der Site Formulare ü
 >
 >Nicht alle Kunden haben diese Funktion erworben.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-10.png)
 

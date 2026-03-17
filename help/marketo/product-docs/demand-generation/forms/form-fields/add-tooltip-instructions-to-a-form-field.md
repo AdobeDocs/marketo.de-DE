@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359673
-description: Hinzufügen von QuickInfo-Anweisungen zu einem Formularfeld - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einem Formularfeld in Marketo QuickInfo-Anweisungen hinzufügen. Zusätzliche Hilfe anzeigen, wenn Besucher den Mauszeiger über ein Feld bewegen.
 title: Hinzufügen von Kurzinfo-Anweisungen zu einem Formularfeld
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 13%
+source-wordcount: '133'
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 13%
 >
 >Formular **Anweisungen** sind kleine QuickInfos, die angezeigt werden, wenn der Besucher den Mauszeiger über das Feld bewegt.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -45,7 +45,7 @@ ht-degree: 13%
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, den [&#x200B; der Formularänderungen &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Landingpage-Entwurf zu genehmigen.
+   >Vergessen Sie nicht, den [ der Formularänderungen ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Landingpage-Entwurf zu genehmigen.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 

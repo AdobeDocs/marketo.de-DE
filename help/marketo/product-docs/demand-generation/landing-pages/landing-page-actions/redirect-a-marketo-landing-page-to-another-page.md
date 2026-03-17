@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359740
-description: Umleiten einer Marketo-Landingpage zu einer anderen Seite - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Marketo-Landingpage zu einer anderen Seite umleiten. Senden Sie Besucher an eine andere URL, wenn sie auf der Seite landen.
 title: Umleiten einer Marketo-Landingpage zu einer anderen Seite
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 11%
+source-wordcount: '167'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ Wenn Sie jemals die URL einer Seite aktualisieren und möchten, dass die alte UR
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken **[!UICONTROL unter]** auf **[!UICONTROL Landingpages]**.
 
@@ -33,7 +33,7 @@ Wenn Sie jemals die URL einer Seite aktualisieren und möchten, dass die alte UR
 
    >[!NOTE]
    >
-   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Marketo ([) &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Marketo ([) ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
 1. Wählen Sie die Landingpage, die Sie umleiten möchten, im zweiten Feld **[!UICONTROL Ursprüngliche URL]** aus.
 

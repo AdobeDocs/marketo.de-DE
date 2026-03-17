@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10092902
-description: Vorlage 19e - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Vorlage 19E der geführten Landingpage. Herunterladen und für Ihre Marketo-Landingpages verwenden.
 title: Vorlage 19e
 exl-id: ab318a92-76b5-4ca6-bb51-6633ad498221
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 9%
+source-wordcount: '55'
+ht-degree: 7%
 
 ---
 
 # Vorlage 19e {#template-19e}
 
-Rechtsklick zum Herunterladen [Vorlage 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html?lang=de)
+Rechtsklick zum Herunterladen [Vorlage 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
 
 ![](assets/image2015-9-16-17-3a4-3a14.png)
 
@@ -28,4 +28,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 19E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html?lang=de)
+[Vorlage 19E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)

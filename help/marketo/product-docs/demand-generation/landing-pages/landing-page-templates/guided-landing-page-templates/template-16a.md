@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437834
-description: Vorlage 16a - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Vorlage 16A der geführten Landingpage. Herunterladen und für Ihre Marketo-Landingpages verwenden.
 title: Vorlage 16a
 exl-id: c55e4f9c-7aca-4cb6-b79a-5b25fd70ac3e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 8%
+source-wordcount: '60'
+ht-degree: 6%
 
 ---
 
 # Vorlage 16a {#template-16a}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 16A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html?lang=de)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 16A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)
 
 ![](assets/image2015-8-14-10-3a19-3a21.png)
 
@@ -29,4 +29,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 16A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html?lang=de)
+[Vorlage 16A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)

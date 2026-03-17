@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355758
-description: Hinzufügen von Mitgliedern zu einem Veranstaltungsprogramm - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Mitglieder zu einem Veranstaltungsprogramm hinzufügen. Personen zur Registrierung oder Anwesenheitsverfolgung zu Ihrem Programm hinzufügen.
 title: Hinzufügen von Mitgliedern zu einem Ereignisprogramm
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '188'
 ht-degree: 6%
 
 ---
@@ -43,7 +43,7 @@ Dieser Artikel gilt nur für Benutzer, die Event-Begrenzungs- oder Event-Ziele v
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Zeitplan **[!UICONTROL auf Einmal ausführen]**.
+1. Klicken Sie auf [!UICONTROL  Registerkarte ]Zeitplan **[!UICONTROL auf Einmal ausführen]**.
 
    ![](assets/eight.png)
 

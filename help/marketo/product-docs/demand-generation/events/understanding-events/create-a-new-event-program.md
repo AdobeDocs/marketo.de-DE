@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949844
-description: Erstellen eines neuen Veranstaltungsprogramms - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo ein neues Veranstaltungsprogramm erstellen. Richten Sie Ihr Programm ein, wählen Sie einen Kanal aus und konfigurieren Sie Ereigniseinstellungen.
 title: Erstellen eines neuen Ereignisprogramms
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Mit Events können Sie Online- und Offline-Events automatisieren! Erfassen Sie den Status Ihrer Mitarbeiter, während sie verschiedene Phasen durchlaufen, und erhalten Sie genaue Messwerte für den ROI für Ihre Marketing-Initiativen.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 
@@ -51,7 +51,7 @@ Mit Events können Sie Online- und Offline-Events automatisieren! Erfassen Sie d
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Erstellen Sie nach der Erstellung Ihres Ereignisses die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie sollten sich auch mit der Ansicht [Programmzeitplan“ &#x200B;](https://docs.marketo.com/display/docs/program+schedule+view).
+Erstellen Sie nach der Erstellung Ihres Ereignisses die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie sollten sich auch mit der Ansicht [Programmzeitplan“ ](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >

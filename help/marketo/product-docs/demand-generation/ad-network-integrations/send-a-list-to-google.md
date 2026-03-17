@@ -1,11 +1,11 @@
 ---
-description: Liste an Google senden - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine statische Marketo-Liste zur Kundenabstimmung an Google senden. Wählen Sie Ihre Liste aus, wählen Sie Google und das Werbekonto aus und halten Sie optional die Zielgruppe synchron.
 title: Senden einer Liste an Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '226'
 ht-degree: 5%
 
 ---

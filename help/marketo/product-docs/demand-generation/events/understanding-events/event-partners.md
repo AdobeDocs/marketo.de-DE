@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949777
-description: Veranstaltungspartner - Marketo-Dokumente - Produktdokumentation
+description: Informationen zu Veranstaltungspartnern in Marketo. Machen Sie sich mit unterstützten Webinar- und Veranstaltungsplattformen und deren Integration mit Marketo vertraut.
 title: Ereignispartner
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 8%
+source-wordcount: '92'
+ht-degree: 7%
 
 ---
 

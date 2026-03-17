@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359679
-description: Bearbeiten des CSS eines Formulardesigns - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die CSS eines Formulardesigns in Marketo bearbeiten. Passen Sie das Erscheinungsbild Ihres Formulars mit benutzerdefinierten Stilen an.
 title: Bearbeiten der CSS-Datei eines Formular-Designs
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 9%
+source-wordcount: '192'
+ht-degree: 11%
 
 ---
 
@@ -19,7 +19,7 @@ Sie haben einige vorgefertigte [Designs, aus denen Sie einfach wählen können](
 >
 >Vergewissern Sie sich, dass Sie CSS kennen, wenn Sie dies versuchen möchten, da der Marketo-Support nicht für die Unterstützung bei benutzerdefinierter Kodierung eingerichtet ist. Alle vorgenommenen Änderungen gelten nur für das Formular, das Sie gerade bearbeiten.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-5.png)
 

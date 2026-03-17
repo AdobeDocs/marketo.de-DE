@@ -1,11 +1,11 @@
 ---
-description: Bildeditor - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über den Bildeditor in Marketo Design Studio. Zuschneiden, Ändern der Größe und grundlegende Änderungen an Bildern, ohne Marketo verlassen zu müssen.
 title: Bildeditor
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 14%
+source-wordcount: '71'
+ht-degree: 11%
 
 ---
 

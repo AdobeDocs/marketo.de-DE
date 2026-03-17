@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359573
-description: Einrichten eines Formulars - Dankeseite - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo eine Dankeseite für ein Formular festlegen. Senden Sie Absender an eine bestimmte Seite oder URL, nachdem sie das Formular gesendet haben.
 title: Einrichten einer Dankeseite für ein Formular
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '375'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ Was passiert, wenn jemand ein Formular ausfüllt? Wohin werden sie weitergeleite
 
 ## Formular bearbeiten {#edit-form}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-5.png)
 

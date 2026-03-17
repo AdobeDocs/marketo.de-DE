@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359730
-description: Hinzufügen benutzerdefinierter HTML zu einer Freiform-Landingpage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einer Freiform-Landingpage in Marketo benutzerdefinierte HTML hinzufügen. Fügen Sie HTML-Blöcke für benutzerdefinierte Inhalte oder Tracking ein.
 title: Hinzufügen benutzerdefinierter HTML zu einer Freiform-Landingpage
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 10%
+source-wordcount: '161'
+ht-degree: 9%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515401
-description: Erstellen einer geführten Landingpage-Vorlage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo eine geführte Landingpage-Vorlage erstellen. Verwenden Sie die -Syntax, um bearbeitbare Bereiche und Variablen für den geführten Editor zu definieren.
 title: Erstellen einer Vorlage für geführte Landingpages
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 2%
+source-wordcount: '1135'
+ht-degree: 15%
 
 ---
 
@@ -34,7 +34,7 @@ Wenn Sie eine Region als Rich-Text definieren, können Benutzende ihren Inhalt b
 
 Erforderliche Attribute:
 **class**: „mktoText“
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
@@ -48,26 +48,26 @@ Beispiel:
 
 Zum Definieren bearbeitbarer Bildelemente stehen zwei Optionen zur Verfügung. Sie können entweder einen `<div>`, der einen Container angibt, in den das Bild eingefügt wird, oder ein `<img>`-Tag verwenden.
 
-## Option 1: Verwenden eines `<div>` {#option-use-a-div}
+## Option 1: Verwenden von `<div>` {#option-use-a-div}
 
 Erforderliche Attribute:
 
 class: „mktoImg“
-id: ID-String. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+id: ID-String. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 motoName : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
-mktoImgClass: Zeichenfolge. Der Wert hier wird zum Klassenattribut des `<img>` Elements im div hinzugefügt.
+mktoImgClass: Zeichenfolge. Der Wert hier wird zum Klassenattribut des `<img>`-Elements im „div“ hinzugefügt.
 
 Beispiel:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Option 2: Verwenden eines `<img>` {#option-use-a-img}
+## Option 2: Verwenden von `<img>` {#option-use-a-img}
 
 Erforderliche Attribute:
 class: „mktoImg“
-id: ID-String. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+id: ID-String. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 motoName : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
@@ -85,7 +85,7 @@ Beispiel:
 
 Beispiel:Required Attribute:
 **class**: „mktoForm“
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
@@ -94,7 +94,7 @@ Beispiel:Required Attribute:
 
 Erforderliche Attribute:
 **class**: „mktoSnippet“
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Beispiel:
@@ -105,7 +105,7 @@ Beispiel:
 
 Erforderliche Attribute:
 **class**: „mktoShareButton“
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Beispiel:
@@ -120,7 +120,7 @@ Beispiel:
 
 Erforderliche Attribute:
 **class**: „mktoVideo“
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Beispiel:
@@ -143,7 +143,7 @@ Variablen werden als Meta-Tags im `<head>` der Vorlage deklariert. Es gibt drei 
 
 Erforderliche Attribute:
 **class** : „mktoString“,
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
@@ -162,7 +162,7 @@ Beispiel mit allen Attributen:
 
 Erforderliche Attribute:
 **class** : „mktoColor“,
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
@@ -180,7 +180,7 @@ Beispiel mit allen Attributen:
 
 Erforderliche Attribute:
 **class** : „mktoBoolean“,
-**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich &quot;-&quot; und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
+**id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
