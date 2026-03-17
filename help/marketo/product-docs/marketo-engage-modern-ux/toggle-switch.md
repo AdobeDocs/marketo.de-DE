@@ -1,12 +1,14 @@
 ---
-description: Umschalter – Marketo-Dokumente – Produktdokumentation
+description: Erfahren Sie, wie Sie mit dem Umschalter zwischen Marketo Classic und Modern UX wechseln können. Richten Sie den Zugriff für Rollen in „Admin“ ein und aktivieren Sie ihn für einzelne oder alle Funktionen.
 title: Umschalter
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
+hide: true
+hidefromtoc: true
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '299'
+ht-degree: 89%
 
 ---
 

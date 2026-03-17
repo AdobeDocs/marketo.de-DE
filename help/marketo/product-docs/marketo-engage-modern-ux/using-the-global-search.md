@@ -1,12 +1,12 @@
 ---
-description: Verwenden der globalen Suche - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die globale Suche in Marketo Engage verwenden, um Assets in der gesamten Instanz zu finden. Führen Sie Suchvorgänge durch, klicken Sie auf Breadcrumbs, um zu Elementen zu springen, und verwenden Sie Filter, um die Ergebnisse einzugrenzen.
 title: Verwenden der globalen Suche
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 8%
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 

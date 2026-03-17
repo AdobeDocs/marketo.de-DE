@@ -1,14 +1,14 @@
 ---
-description: Symbolglossar - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Symbole in der Marketo Engage Modern UX und wie sie von Classic zugeordnet sind. Dieses Glossar dient zur Identifizierung von Asset-Typen, Kampagnenstatus und Programmtypen.
 title: Symbolglossar
 hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 92%
+source-wordcount: '261'
+ht-degree: 85%
 
 ---
 
