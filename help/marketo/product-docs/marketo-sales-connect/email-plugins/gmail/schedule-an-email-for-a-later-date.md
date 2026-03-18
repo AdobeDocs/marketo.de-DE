@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352441
-description: Planen einer E-Mail für einen späteren Zeitpunkt - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie über das Gmail-Plug-in eine E-Mail für einen späteren Zeitpunkt planen. Legen Sie die Versandzeit so fest, dass Ihre getrackte E-Mail ausgeht, wenn Sie möchten.
 title: Planen einer E-Mail für ein späteres Datum
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 10%
+source-wordcount: '154'
+ht-degree: 9%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745730
-description: Salesforce-Diagnose - Marketo-Dokumente - Produktdokumentation
+description: Informationen zu Salesforce Diagnostics for Sales Connect. Fehlerbehebung bei Verbindungs- und Synchronisationsproblemen zwischen Sales Connect und Salesforce.
 title: Salesforce-Diagnose
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1322'
+source-wordcount: '1333'
 ht-degree: 1%
 
 ---
@@ -50,7 +50,7 @@ Ein Teil unserer [!DNL Salesforce]-Integration umfasst eine [!DNL Salesforce] Di
 **Kategorie:** andere
 **Nachricht:** kann nicht auf konvertierten Lead verweisen
 **Was passiert:** Wir versuchen, uns während der Protokollierung der letzten Aktivität für Kontakte und Leads bei einem konvertierten Lead anzumelden. Ich sah auch einige von diesen für Stellplätze.
-**Schritte zur Fehlerbehebung:** Bitte melden Sie etwaige Vorfälle hiervon unserem [Supportteam](https://nation.marketo.com/t5/Support/ct-p/Support).
+**Schritte zur Fehlerbehebung:** Bitte melden Sie etwaige Vorfälle hiervon unserem [Supportteam](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
 
 <br> 
 
@@ -168,8 +168,8 @@ auf die Zulassungsliste setzen **Schritte zur Fehlerbehebung:** Ihr [!DNL Salesf
 **Kategorie:** intermittierend
 **message:**
 1 - ConcurrentPerOrgLongTxn-Limit überschritten
-&#x200B;2. Gesamtzahl der Anfragen überschritten
-&#x200B;3. ConcurrentRequest
+2. Gesamtzahl der Anfragen überschritten
+3. ConcurrentRequest
 **Was passiert:**
 1 - Das Limit für gleichzeitige Anfragen wurde überschritten, wahrscheinlich aufgrund eines ineffizienten Trigger-Codes.
 2 - Zu viele Integrationen führen dazu, dass die Organisation das 24-Stunden-Rollierfenster hinter sich lässt.

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352450
-description: Installieren des Sales Connect E-Mail-Plug-ins für Gmail - Marketo Docs - Produktdokumentation
+description: Erfahren Sie, wie Sie das Sales Connect E-Mail-Plug-in für Gmail installieren. Fügen Sie das Plug-in hinzu, um getrackte E-Mails zu senden und Vorlagen von Gmail zu verwenden.
 title: Installieren des Sales Connect E-Mail-Plug-ins für Gmail
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 18%
+source-wordcount: '99'
+ht-degree: 16%
 
 ---
 

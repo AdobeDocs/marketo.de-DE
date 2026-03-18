@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746177
-description: Erneutes Abonnieren eines Abmeldevorgangs - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Kontakt, der sich in Sales Connect abgemeldet hat, erneut abonnieren können. Stellen Sie bei Bedarf die Möglichkeit zum Empfang von Verkaufs-E-Mails wieder her.
 title: Erneutes Abonnieren nach einer Abmeldung
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Manchmal möchten Personen den Erhalt von E-Mails rückgängig machen. Hier ist,
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!CAUTION]
 >

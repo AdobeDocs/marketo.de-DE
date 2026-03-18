@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352608
-description: Personen aus einer Kampagne entfernen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Personen aus einer Sales Connect-Kampagne entfernen. Entfernen Sie Einzelpersonen aus der Kampagne oder der Seite „Personen“ oder entfernen Sie Gruppen stapelweise.
 title: Entfernen von Personen aus einer Kampagne
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '286'
 ht-degree: 3%
 
 ---

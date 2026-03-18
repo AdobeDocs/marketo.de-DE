@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746186
-description: Anpassen der Abmelde-Link-Nachricht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Abmelde-Link-Nachricht in Sales Connect anpassen. Ändern Sie den Text, den Empfänger für den Abmelde-Link sehen.
 title: Anpassen der Nachricht mit dem Abmelde-Link
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '215'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Ad
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Ad
 
    ![](assets/six.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/eight.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352438
-description: Telefonübersicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Sales Phone in Sales Connect. Tätigen Sie Anrufe aus der App, melden Sie sich bei Salesforce an und verwenden Sie die Anrufaufzeichnung und lokale Präsenz.
 title: Sales-Telefonnummer – Übersicht
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 2%
+source-wordcount: '312'
+ht-degree: 1%
 
 ---
 
@@ -37,6 +37,6 @@ In Command Center können Sie Ihre „Anrufliste“ über den Tab Gesendet verwe
 
 Sobald Sie einen Anruf getätigt haben, ruft [!DNL Sales Connect] die Telefonnummer Ihres Leads/Kontakts von [!DNL Salesforce] ab. Wenn in [!DNL Salesforce] keine Nummer aufgeführt ist, ruft [!DNL Sales Connect] die Telefonnummer im Kontodatensatz ab.
 
-Für Teams, die andere CRM-Systeme verwenden, ruft Sales Connect die Telefonnummer aus dem Datensatz in Sales Connect ab. Diese Daten können einfach über einen CSV[Upload verfügbar &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+Für Teams, die andere CRM-Systeme verwenden, ruft Sales Connect die Telefonnummer aus dem Datensatz in Sales Connect ab. Diese Daten können einfach über einen CSV[Upload verfügbar ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 Klicken Sie auf die große grüne **[!UICONTROL Anruf]**-Schaltfläche. Dann klingelt Ihr Telefon. Rufen Sie Ihr Telefon ab, und Sales Connect ruft automatisch den Lead/Kontakt an.

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352490
-description: Anmeldung bei Salesforce nicht möglich - Marketo-Dokumente - Produktdokumentation
+description: Hier erhalten Sie Hilfe, wenn sich die Sales Connect-Aktivität nicht bei Salesforce angemeldet hat. Fehlerbehebung bei der Synchronisierung von E-Mails, Aufrufen oder Aufgaben.
 title: Hat sich nicht bei Salesforce angemeldet
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '88'
+ht-degree: 4%
 
 ---
 

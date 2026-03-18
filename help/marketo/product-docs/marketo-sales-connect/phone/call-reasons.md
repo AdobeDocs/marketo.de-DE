@@ -1,11 +1,11 @@
 ---
-description: Anrufgründe - Marketo-Dokumente - Produktdokumentation
+description: Verstehen der Anrufgründe in Sales Connect. Legen Sie fest und protokollieren Sie, warum Sie die Synchronisierung von so Ergebnissen mit Salesforce korrekt aufgerufen haben.
 title: Anrufgründe
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '176'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufgründe auszuwählen, damit 
 
    ![](assets/call-reasons-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-reasons-2.png)
 
@@ -46,7 +46,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufgründe auszuwählen, damit 
 
    ![](assets/call-reasons-5.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-reasons-6.png)
 

@@ -1,10 +1,10 @@
 ---
-description: E-Mail-Vorlagen für Transaktionsverkäufe - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über E-Mail-Vorlagen für Transaktionsverkäufe in Sales Connect. Vorlagen verwenden, die Transaktionsnachrichten nicht abonnieren.
 title: E-Mail-Vorlagen für Transaktionsverkäufe
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '182'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Wenn Ihr Team Transaktions- oder nicht-kommerzielle E-Mails versendet, können S
 
 * Nicht-kommerzielle E-Mails umgehen die Abmeldungen von Verkäufen und die [Marketo Engage-Abmeldeprüfung](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, aber sie umgehen nicht [blockierte Domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
 
-* Abmelde-Nachrichten werden nicht automatisch an nicht-kommerzielle E-Mails angehängt, auch wenn die [Admin zum Abmelden von Nachrichten anhängen](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} aktiviert ist. Das Feld `{{team_unsubscribe}}`Dynamisch[&#x200B; füllt jedoch weiterhin &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} Nachricht zur Abmeldung Ihres Teams auf.
+* Abmelde-Nachrichten werden nicht automatisch an nicht-kommerzielle E-Mails angehängt, auch wenn die [Admin zum Abmelden von Nachrichten anhängen](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} aktiviert ist. Das Feld `{{team_unsubscribe}}`Dynamisch[ füllt jedoch weiterhin ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} Nachricht zur Abmeldung Ihres Teams auf.
 
 ## Konfigurieren einer E-Mail-Vorlage für die nicht-kommerzielle Verwendung {#configure-an-email-template-for-non-commercial-use}
 

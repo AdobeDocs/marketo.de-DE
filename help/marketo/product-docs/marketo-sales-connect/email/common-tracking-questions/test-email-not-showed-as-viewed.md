@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352538
-description: Test-E-Mail nicht angezeigt als angezeigt - Marketo-Dokumente - Produktdokumentation
+description: Hier erhalten Sie Hilfe, wenn eine Test-E-Mail nicht als in Sales Connect angezeigt wurde. Fehlerbehebung beim Anzeigen-Tracking für Test- oder Vorschau-Sendungen.
 title: Test-E-Mail wird nicht als gelesen angezeigt
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 8%
+source-wordcount: '154'
+ht-degree: 7%
 
 ---
 

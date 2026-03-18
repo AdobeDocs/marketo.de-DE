@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352494
-description: Ich wurde von meinem Konto ausgesperrt. Was soll ich tun? – Marketo-Dokumente – Produktdokumentation
+description: Erhalten Sie Hilfe, wenn Sie Ihr Sales Connect-Konto sperren. Erfahren Sie, wie Sie Ihr Kennwort zurücksetzen können, oder wenden Sie sich an den Support, um den Zugriff wiederzuerlangen.
 title: Ich wurde von meinem Konto ausgesperrt. Was kann ich tun?
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 51%
+source-wordcount: '71'
+ht-degree: 30%
 
 ---
 

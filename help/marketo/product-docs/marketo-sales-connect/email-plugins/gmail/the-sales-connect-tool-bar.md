@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352444
-description: Die Sales Connect-Symbolleiste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Sales Connect-Symbolleiste in Gmail. Verwenden Sie die Plug-in-Symbolleiste, um Vorlagen einzufügen, E-Mails zu verfolgen und sich bei Salesforce anzumelden.
 title: Die Sales Connect-Symbolleiste
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 7%
+source-wordcount: '113'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352402
-description: Benutzer einladen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Benutzer zu Ihrem Sales Connect-Konto einladen. Fügen Sie Team-Mitglieder über Einstellungen und Benutzerverwaltung hinzu, um schnell einzusteigen.
 title: Einladen von Benutzenden
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 10%
+source-wordcount: '75'
+ht-degree: 8%
 
 ---
 
@@ -19,7 +19,7 @@ Das Hinzufügen von Benutzern ist schnell und einfach!
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/invite-team-members-2.png)
 

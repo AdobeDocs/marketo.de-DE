@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352484
-description: Fehlerbehebung „Wir konnten Ihre Anfrage nicht authentifizieren“ beim Herstellen einer Verbindung zu Salesforce - Marketo-Dokumente - Produktdokumentation
+description: Hier erhalten Sie Hilfe zur Behebung des Fehlers „Wir konnten Ihre Anfrage nicht authentifizieren“ beim Verbinden von Sales Connect mit Salesforce. Fehlerbehebung bei Authentifizierungsproblemen.
 title: Wie sich der Fehler „Wir konnten Ihre Anfrage nicht authentifizieren“ beheben lässt, wenn eine Verbindung zu Salesforce hergestellt werden soll
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 8%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17728401
-description: E-Mail-Verbindung für Gmail-Benutzer - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die E-Mail-Verbindung für Gmail-Benutzer in Sales Connect. Verbinden Sie Gmail, um getrackte E-Mails zu senden und Aktivitäten in Salesforce zu protokollieren.
 title: E-Mail-Verbindung für Gmail-Benutzende
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 8%
+source-wordcount: '193'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ Wenn Sie sich mit Gmail verbinden, erhalten Sie ein Tracking der Antworten, Zugr
 
 >[!CAUTION]
 >
->Wenn Sie in Ihrem Gmail[Konto Filter oder Regeln verwenden, &#x200B;](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} E-Mails automatisch als gelesen zu markieren, kann dies zu Problemen mit dem Antwort-Tracking führen. Es wird empfohlen, alle Regeln zu deaktivieren, die E-Mails bei Verwendung des Antwort-Trackings mit Gmail automatisch als gelesen markieren.
+>Wenn Sie in Ihrem Gmail[Konto Filter oder Regeln verwenden, ](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} E-Mails automatisch als gelesen zu markieren, kann dies zu Problemen mit dem Antwort-Tracking führen. Es wird empfohlen, alle Regeln zu deaktivieren, die E-Mails bei Verwendung des Antwort-Trackings mit Gmail automatisch als gelesen markieren.
 
 1. Klicken Sie [!DNL Sales Connect] auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 

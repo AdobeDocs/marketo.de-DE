@@ -1,16 +1,16 @@
 ---
 unique-page-id: 14352486
-description: Warum werden meine Kontakte nicht zu Sales Connect gepusht? – Marketo-Dokumente – Produktdokumentation
+description: Hier erhalten Sie Hilfe, wenn keine Kontakte von Salesforce zu Sales Connect gepusht werden. Fehlerbehebung bei Verbindungs- und Synchronisierungseinstellungen.
 title: Warum werden meine Kontakte nicht zu Sales Connect gepusht?
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 19%
+source-wordcount: '81'
+ht-degree: 13%
 
 ---
 
 # Warum werden keine meiner Kontakte an [!DNL Sales Connect] gepusht? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-Wenn keine Kontakte übertragen wurden, ist es möglich, dass eine ungültige [!DNL Salesforce] besteht. Gehen Sie zu Ihren [[!DNL Salesforce] Einstellungen](https://toutapp.com/login) und trennen Sie dann die Verbindung erneut. Geben Sie ihm etwa 20 Minuten, um es vollständig zurückzusetzen. Wenn es danach immer noch null ist, senden [&#x200B; einen Fall &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support#) den Support.
+Wenn keine Kontakte übertragen wurden, ist es möglich, dass eine ungültige [!DNL Salesforce] besteht. Gehen Sie zu Ihren [[!DNL Salesforce] Einstellungen](https://toutapp.com/login) und trennen Sie dann die Verbindung erneut. Geben Sie ihm etwa 20 Minuten, um es vollständig zurückzusetzen. Wenn es danach immer noch null ist, senden [ einen Fall ](https://nation.marketo.com/t5/Support/ct-p/Support#) den Support.

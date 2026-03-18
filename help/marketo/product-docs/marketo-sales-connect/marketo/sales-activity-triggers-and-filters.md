@@ -1,12 +1,12 @@
 ---
-description: Trigger und Filter für Vertriebsaktivitäten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Trigger und Filter von Verkaufsaktivitäten in Marketo. Verwenden Sie die Aktivität Sales Connect , um intelligente Trigger-Kampagnen und -Filter zu erstellen.
 title: Auslöser und Filter für Verkaufsaktivitäten
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '128'
+ht-degree: 7%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352488
-description: Warum kann ich einen Kontakt nicht löschen? – Marketo-Dokumente – Produktdokumentation
+description: Hier erhalten Sie Hilfe zum Löschen eines Kontakts in Sales Connect. Verstehen Sie die Berechtigungen und den Zeitpunkt, zu dem Kontakte durch das Löschen gesperrt werden.
 title: Warum kann ich einen Kontakt nicht löschen?
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 17%
+source-wordcount: '100'
+ht-degree: 12%
 
 ---
 

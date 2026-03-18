@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352639
-description: Erstellen einer neuen Vorlage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Sales Connect eine neue E-Mail-Vorlage erstellen. Erstellen Sie wiederverwendbare Vorlagen mit dynamischen Feldern und verfolgbaren Inhalten.
 title: Erstellen einer neuen Vorlage
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 8%
+source-wordcount: '112'
+ht-degree: 7%
 
 ---
 

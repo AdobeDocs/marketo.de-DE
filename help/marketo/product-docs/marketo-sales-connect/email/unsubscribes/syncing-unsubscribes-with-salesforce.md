@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746188
-description: Synchronisieren von Abmeldungen mit Salesforce - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Sales Connect-Abmeldungen mit Salesforce synchronisieren. Halten Sie den Opt-out-Status synchron, damit Sie keine E-Mails an abgemeldete Kontakte senden.
 title: Synchronisieren von Abmeldungen mit Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '430'
 ht-degree: 2%
 
 ---
@@ -35,7 +35,7 @@ Benutzerinnen und Benutzer können entscheiden, ob sie ihre Abmeldungen mit dem 
 
    ![](assets/one-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin]Einstellungen die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL  unter „Admin]Einstellungen die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/two-2.png)
 

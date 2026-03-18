@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352437
-description: Anrufaufzeichnungen für Ihr Team freigeben - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Sales Connect-Anrufaufzeichnungen für Ihr Team freigeben. Aufgezeichnete Schulungs- oder Follow-up-Aufrufe abrufen und weiterleiten.
 title: Freigeben von Anrufaufzeichnungen für Ihr Team
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 7%
+source-wordcount: '177'
+ht-degree: 6%
 
 ---
 

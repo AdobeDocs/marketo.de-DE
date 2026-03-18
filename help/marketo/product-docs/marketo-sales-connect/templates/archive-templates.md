@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352640
-description: Archivvorlagen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Vorlagen in Sales Connect archivieren. Archivieren Sie alte Vorlagen, damit sie verfügbar bleiben, aber die aktive Liste nicht überladen.
 title: Archivieren von Vorlagen
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 5%
+source-wordcount: '94'
+ht-degree: 4%
 
 ---
 

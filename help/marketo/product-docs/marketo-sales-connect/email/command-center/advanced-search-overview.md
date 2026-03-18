@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356329
-description: Übersicht über die erweiterte Suche - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die erweiterte Suche im Sales Connect Command Center. E-Mails und Aufgaben nach Empfänger, Datum, Kampagne oder anderen Filtern suchen.
 title: Erweiterte Suche – Überblick
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '418'
 ht-degree: 4%
 
 ---
@@ -53,9 +53,9 @@ Filtern Sie nach E-Mail-Empfänger/Absender im Abschnitt [!UICONTROL Wer].
 | **[!UICONTROL Nach Gruppe]** | E-Mails nach einer bestimmten Empfängergruppe filtern |
 | **[!UICONTROL nach Person]** | Nach einem bestimmten Empfänger filtern. |
 
-**Wenn**
+**When**
 
-Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status ([!UICONTROL Gesendet], [!UICONTROL Nicht &#x200B;], [!UICONTROL Ausstehend]).
+Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status ([!UICONTROL Gesendet], [!UICONTROL Nicht ], [!UICONTROL Ausstehend]).
 
 ![](assets/when.png)
 

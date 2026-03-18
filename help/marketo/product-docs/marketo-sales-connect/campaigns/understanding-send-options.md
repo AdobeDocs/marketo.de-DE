@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352621
-description: Grundlegendes zu Sendeoptionen - Marketo-Dokumente - Produktdokumentation
+description: Verstehen der Sendeoptionen für Kampagnen-E-Mail-Schritte in Sales Connect. Wählen Sie aus, wann gesendet werden soll, erstellen Sie Aufgaben, um sich selbst zu senden, oder ziehen Sie E-Mails in Threads auf die vorherige Seite.
 title: Grundlegendes zu Sendeoptionen
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---

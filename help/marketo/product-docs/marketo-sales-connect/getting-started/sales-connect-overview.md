@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13796464
-description: Sales Connect - Übersicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Marketo Sales Connect und wie es die Interaktion über den gesamten Verkaufszyklus hinweg fördert. Verwenden Sie den Live-Feed, die Personendetails und Kampagnen, um den Verkauf mit dem Marketing zu verbinden.
 title: Sales Connect – Überblick
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 17%
+source-wordcount: '254'
+ht-degree: 15%
 
 ---
 
@@ -21,7 +21,7 @@ Marketo Sales Connect ist eine vielseitige Sales Support-Lösung mit einer Vielz
 
 ## Der Live-Feed {#the-live-feed}
 
-Vertriebsmitarbeiter können [&#x200B; (Echtzeit-Interaktion](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) von Marketing- und Verkaufsinhalten anzeigen.
+Vertriebsmitarbeiter können [ (Echtzeit-Interaktion](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) von Marketing- und Verkaufsinhalten anzeigen.
 
 ![](assets/engagement.jpg)
 
@@ -80,7 +80,7 @@ Erfahren Sie, wie Ihre potenziellen Kunden mit Ihren Vertriebsaktivitäten inter
 
 ## Marketing-Kampagnen freigeben {#share-marketing-campaigns}
 
-Erstellen Sie eine einfache intelligente Kampagne, um Ihren Vertriebsmitarbeitern Zugriff auf [Marketo-Kampagnendaten zu &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Erstellen Sie eine einfache intelligente Kampagne, um Ihren Vertriebsmitarbeitern Zugriff auf [Marketo-Kampagnendaten zu ](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 

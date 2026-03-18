@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081230
-description: Massenaktionen für Personen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Massenaktionen auf der Seite „Personen“ in Sales Connect verwenden. Zur Kampagne hinzufügen, aus der Kampagne entfernen oder mehrere Kontakte löschen.
 title: Massenaktionen für Personen
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 11%
+source-wordcount: '155'
+ht-degree: 10%
 
 ---
 

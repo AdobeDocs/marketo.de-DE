@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352414
-description: Registerkarte [!UICONTROL Team] - Marketo-Dokumente - Produktdokumentation
+description: Machen Sie sich mit der Registerkarte „Team“ und den teamweiten Metriken in Sales Connect vertraut. Zeigen Sie E-Mails an, die mit Vorlagen gesendet wurden, die maximale Interaktionszeit, abgeschlossene Angebote und das Leaderboard der Vertriebsmitarbeiter.
 title: Grundlegendes zur Registerkarte [!UICONTROL Team]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---

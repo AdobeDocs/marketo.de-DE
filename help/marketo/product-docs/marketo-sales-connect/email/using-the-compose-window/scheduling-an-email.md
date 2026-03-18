@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356568
-description: Planen einer E-Mail - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine E-Mail in Sales Connect planen. Legen Sie ein Datum und eine Uhrzeit für die verfolgte E-Mail fest, die über das Fenster „Erstellen“ gesendet werden soll.
 title: Planen einer E-Mail
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '148'
 ht-degree: 4%
 
 ---

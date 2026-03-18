@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727591
-description: E-Mail-Verbindung für Outlook-Benutzer - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über E-Mail-Verbindungen für Outlook-Benutzer in Sales Connect. Outlook verbinden, um getrackte E-Mails zu senden und sich bei Salesforce anzumelden.
 title: E-Mail-Verbindung für Outlook-Benutzende
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 4%
+source-wordcount: '316'
+ht-degree: 5%
 
 ---
 
@@ -90,7 +90,7 @@ Wenn Sie eine Verbindung zu [!DNL Exchange On-Premise] herstellen, erhalten Sie 
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
+1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
 
    ![](assets/two.png)
 

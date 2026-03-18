@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352477
-description: 'Push- [!DNL Sales Connect] : Marketo-Dokumente - Produktdokumentation'
+description: Erfahren Sie, wie Sie die Schaltfläche Push-Benachrichtigung für Vertriebsverbindung in Salesforce verwenden. Leads oder Kontakte aus Salesforce zu Sales Connect mit einem Klick hinzufügen.
 title: Push an [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Unser [!UICONTROL Push to Tout] Button wird eine Liste Ihrer Leads/Kontakte in [
 ## Anleitung {#how-to}
 
 1. Klicken Sie in **[!UICONTROL auf]** Lead/Kontakt[!DNL Salesforce].
-1. Schalten Sie zur Listenansicht um, die Sie auf [!DNL Sales Connect] neben der Schaltfläche [!UICONTROL Los“ &#x200B;] möchten.
+1. Schalten Sie zur Listenansicht um, die Sie auf [!DNL Sales Connect] neben der Schaltfläche [!UICONTROL Los“ ] möchten.
 1. Klicken Sie **[!UICONTROL Los]**.
 1. Wählen Sie alle Leads/Kontakte aus, an die Sie gepusht werden möchten.
 1. Wählen Sie **[!UICONTROL Push an MSE]** aus.
@@ -34,6 +34,6 @@ Unser [!UICONTROL Push to Tout] Button wird eine Liste Ihrer Leads/Kontakte in [
 
    >[!NOTE]
    >
-   >[!DNL Sales Connect] fügt diese Gruppe mit dem Titel &quot;SFDC-…“ zur Seite „Beziehungen“ in der [Web-Anwendung“ &#x200B;](https://toutapp.com/login).
+   >[!DNL Sales Connect] fügt diese Gruppe mit dem Titel &quot;SFDC-…“ zur Seite „Beziehungen“ in der [Web-Anwendung“ ](https://toutapp.com/login).
 
 1. Wählen Sie **[!UICONTROL E-Mail an gesamte]** senden, um diese Gruppen-E-Mail zu senden.

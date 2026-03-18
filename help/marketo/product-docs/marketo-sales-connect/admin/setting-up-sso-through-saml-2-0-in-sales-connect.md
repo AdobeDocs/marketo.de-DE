@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352405
-description: Einrichten von SSO über SAML 2.0 in [!DNL Sales Connect] - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie SSO über SAML 2.0 in Sales Connect einrichten. Erhalten Sie Anforderungen und Einrichtungsschritte für Ihren SSO-Provider und Ihre eindeutige Domain.
 title: Einrichten von SSO über SAML 2.0 in [!DNL Sales Connect]
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,6 @@ Die Datei „metadata.xml“ der SSO-Instanz Ihres Teams sollte die Aussteller-U
 
 Wir benötigen außerdem den SSO-Speicherort für das SSO-Konto Ihres Unternehmens, um eine eindeutige Domain zu sein. Wir benötigen beispielsweise eine eindeutige Subdomain wie `toutapp.pingidentity.com` oder Ähnliches. Ohne diesen Typ der eindeutigen Kennung können wir SAML nicht über das Dashboard einrichten.
 
-One Login und Okta stellen beim Zuweisen einer URL nicht immer eindeutige Kennungen bereit. Wenn Sie Okta oder One Login verwenden, bedeutet dies, dass wir nicht in der Lage sein werden, eine Anmeldung über die Dashboard-Schaltfläche einzurichten. Wir können sie weiterhin über die Single Sign-On-Schaltfläche in der [Web-Anwendung) &#x200B;](https://toutapp.com/login).
+One Login und Okta stellen beim Zuweisen einer URL nicht immer eindeutige Kennungen bereit. Wenn Sie Okta oder One Login verwenden, bedeutet dies, dass wir nicht in der Lage sein werden, eine Anmeldung über die Dashboard-Schaltfläche einzurichten. Wir können sie weiterhin über die Single Sign-On-Schaltfläche in der [Web-Anwendung) ](https://toutapp.com/login).
 
 Sobald wir diese Informationen haben, werden wir mit unserem Engineering-Team zusammenarbeiten, um diese für Ihr Abonnement einzurichten.

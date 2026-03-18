@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352638
-description: Erstellen einer neuen Kategorie - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Sales Connect eine neue Vorlagenkategorie erstellen. Organisieren Sie Vorlagen nach Kategorie für Ihr Team.
 title: Erstellen einer neuen Kategorie
 exl-id: 0bb6b244-dfc9-442d-bf85-1535bbe00f8a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 15%
+source-wordcount: '61'
+ht-degree: 13%
 
 ---
 

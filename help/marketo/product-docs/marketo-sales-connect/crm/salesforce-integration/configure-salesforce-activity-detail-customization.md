@@ -1,11 +1,11 @@
 ---
-description: Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Anpassung von Salesforce-Aktivitätsdetails für Sales Connect konfigurieren. Anpassen der Darstellung von Aktivitäten in Salesforce.
 title: Konfigurieren der Anpassung für Salesforce-Aktivitätsdetails
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '683'
 ht-degree: 2%
 
 ---

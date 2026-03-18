@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317367
-description: Anzeigen der Kampagnenliste als anderer Benutzer - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Kampagnenliste als einen anderen Benutzer in Sales Connect anzeigen. Verwenden Sie das Dropdown Anzeigen als Administrator, um die Kampagnen eines Benutzers anzuzeigen.
 title: Anzeigen der Kampagnenliste als andere Benutzerin bzw. anderer Benutzer
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 14%
+source-wordcount: '97'
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ Als Administrator können Sie Kampagnen als beliebige Benutzende anzeigen.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken Sie in der Web-Anwendung auf **[!UICONTROL Kampagnen]**.
 

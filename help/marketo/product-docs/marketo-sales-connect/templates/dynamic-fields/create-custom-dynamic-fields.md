@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352508
-description: Erstellen benutzerdefinierter dynamischer Felder - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benutzerdefinierte dynamische Felder in Sales Connect-Vorlagen erstellen. Fügen Sie Zusammenführungsfelder hinzu, die Kontakt- oder Benutzerdaten in E-Mails ziehen.
 title: Erstellen benutzerdefinierter dynamischer Felder
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 4%
+source-wordcount: '251'
+ht-degree: 3%
 
 ---
 

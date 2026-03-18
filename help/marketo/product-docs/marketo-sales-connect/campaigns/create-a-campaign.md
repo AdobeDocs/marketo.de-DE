@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352618
-description: Erstellen einer Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Sales Connect-Kampagne mit E-Mail-, Anruf-, InMail- und benutzerdefinierten Aufgabenschritten erstellen. Organisieren, planen und messen Sie Reichweite an einem Ort.
 title: Erstellen einer Kampagne
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 2%
+source-wordcount: '315'
+ht-degree: 1%
 
 ---
 

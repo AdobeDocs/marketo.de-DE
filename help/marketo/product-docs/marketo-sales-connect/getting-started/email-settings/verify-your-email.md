@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746491
-description: E-Mail überprüfen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihre E-Mail in Sales Connect verifizieren. Vollständige E-Mail-Überprüfung, damit Sie getrackte Verkaufs-E-Mails senden können.
 title: Prüfen Ihrer E-Mail
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ Wenn Sie eine nicht verifizierte E-Mail-Identität haben, führen Sie die folgen
 
    ![](assets/verify-your-email-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
+1. Klicken [!UICONTROL  unter „Mein ]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/verify-your-email-2.png)
 

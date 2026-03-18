@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352416
-description: '[!UICONTROL Analytics] Seitenübersicht - Marketo-Dokumente - Produktdokumentation'
-title: Analytics-Seitenübersicht
+description: Erfahren Sie mehr über die Sales Connect Analytics-Seite und die E-Mail-Interaktionsdaten. Anzeigen von Einzel- und Team-Statistiken auf den Registerkarten „Ich“, „Team“ und „Inhalt“.
+title: Analytics-Seite – Übersicht
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Analytics] Seitenübersicht {#analytics-page-overview}
 
-Auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Analytics“ werden Daten zur Interaktion Ihrer E-Mails angezeigt. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte &quot;[!UICONTROL &quot; nach &#x200B;] filtern.
+Auf [!UICONTROL  Registerkarte ]Analytics“ werden Daten zur Interaktion Ihrer E-Mails angezeigt. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte &quot;[!UICONTROL &quot; nach ] filtern.
 
 ## Wie oft wird es aktualisiert? {#how-often-does-it-update}
 

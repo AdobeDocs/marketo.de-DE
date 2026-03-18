@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352475
-description: Installieren von Sales Connect-Ereignisfeldern im Aktivitätsverlauf - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Sales Connect-Ereignisfelder im Aktivitätsverlauf von Salesforce installieren. Benutzerdefinierte Felder hinzufügen, um Sales Connect-Ereignisse zu verfolgen.
 title: Installieren von Sales Connect-Ereignisfeldern im Aktivitätsverlauf
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '268'
 ht-degree: 9%
 
 ---

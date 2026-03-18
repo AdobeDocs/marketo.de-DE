@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352430
-description: So protokollieren Sie E-Mails bei anderen CRMs - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Sales Connect-E-Mails mit anderen CRMs als Salesforce protokollieren. Erhalten Sie Optionen zur Protokollierung von Aktivitäten in Ihrem CRM.
 title: So protokollieren Sie E-Mails für andere CRMs
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 10%
+source-wordcount: '166'
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ Wenn Ihr CRM-System eine BCC-Adresse bereitstellt, können Sie im CRM-Abschnitt 
 
 * Unsere automatische BCC-Funktion funktioniert mit fast allen CRMs, die Sie mit [!DNL Sales Connect] an Ihre Leads gesendet haben. Stellen Sie einfach sicher, dass Ihr CRM Ihrer Wahl Ihnen eine BCC-Adresse zur Verfügung stellt, um diese nutzen zu können.
 
-**[!DNL Salesforce]**:
+**[!DNL Salesforce]**
 
 * Wir tun alle oben genannten und mehr!
 

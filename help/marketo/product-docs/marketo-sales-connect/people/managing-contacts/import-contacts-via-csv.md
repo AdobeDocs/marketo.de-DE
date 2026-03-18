@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352468
-description: Kontakte über CSV importieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Kontakte über CSV in Sales Connect importieren. Laden Sie eine CSV-Datei hoch, um mehrere Kontakte oder Gruppen gleichzeitig hinzuzufügen.
 title: Importieren von Kontakten per CSV
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '134'
 ht-degree: 8%
 
 ---
@@ -23,7 +23,7 @@ Kontakte auf der [!UICONTROL Personen]-Seite zu haben, ist wichtig, da hier die 
 
    ![](assets/two.png)
 
-1. Klicken Sie **[!UICONTROL Durchsuchen]**.
+1. Klicken Sie auf **[!UICONTROL Durchsuchen]**.
 
    ![](assets/three.png)
 

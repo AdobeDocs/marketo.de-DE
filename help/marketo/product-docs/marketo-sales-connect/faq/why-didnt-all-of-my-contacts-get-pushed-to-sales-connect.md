@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352491
-description: Warum wurden nicht alle meine Kontakte zu Sales Connect gepusht? – Marketo-Dokumente – Produktdokumentation
+description: Hier erhalten Sie Hilfe, wenn nicht alle Kontakte von Salesforce an Sales Connect gepusht wurden. Grundlegendes zu Synchronisierungsfiltern und Kontaktkriterien.
 title: Warum wurden nicht alle meine Kontakte zu Sales Connect gepusht?
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 17%
+source-wordcount: '91'
+ht-degree: 12%
 
 ---
 

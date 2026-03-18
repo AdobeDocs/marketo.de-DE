@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352609
-description: Deaktivieren einer Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Sales Connect-Kampagne deaktivieren, wenn ein Empfänger antwortet. Beenden Sie Kampagnen für eine Person oder entfernen Sie mehrere Personen zusammen aus dem Ordner Gesendet .
 title: Deaktivieren einer Kampagne
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 7%
+source-wordcount: '162'
+ht-degree: 6%
 
 ---
 

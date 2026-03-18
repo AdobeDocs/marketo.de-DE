@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352455
-description: Installieren des Sales Connect E-Mail-Plug-ins für Outlook - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Sales Connect E-Mail-Plug-in für Outlook installieren. Fügen Sie das Plug-in hinzu, um getrackte E-Mails zu senden und Vorlagen aus Outlook zu verwenden.
 title: Installieren des Sales Connect E-Mail-Plug-ins für Outlook
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '197'
+ht-degree: 7%
 
 ---
 
@@ -27,9 +27,9 @@ Als Administrator können Sie [im Namen Ihres gesamten Teams installieren](https
 >
 >i. Rufen Sie die Schaltfläche Hilfe auf (in der oberen Navigationsleiste rechts neben „Outlook„).
 >
->II. Wählen Sie **[!UICONTROL Dropdown-Menü]** Nach Updates suchen“ aus
+>ii. Wählen Sie **[!UICONTROL Dropdown-Menü]** Nach Updates suchen“ aus
 >
->III. Aktualisieren Sie auf die neueste Version von Outlook und kehren Sie nach Abschluss zu diesen Schritten zurück
+>iii. Aktualisieren Sie auf die neueste Version von Outlook und kehren Sie nach Abschluss zu diesen Schritten zurück
 
 ![](assets/install-the-sales-connect-email-plugin-for-outlook-1.png)
 

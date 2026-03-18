@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352443
-description: Kalenderfunktionen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Kalenderfunktionen im Sales Connect Gmail-Plug-in. Planen von Meetings und Synchronisieren mit dem Google-Kalender.
 title: Kalenderfunktionen
 exl-id: 15d127a8-ed9a-4e87-b41e-0126a38ec2b8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 7%
+source-wordcount: '64'
+ht-degree: 6%
 
 ---
 

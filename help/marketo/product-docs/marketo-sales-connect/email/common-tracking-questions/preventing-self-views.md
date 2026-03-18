@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352540
-description: Verhindern von Selbstansichten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Selbstansichten in Sales Connect verhindern können. Vermeiden Sie es, Ihre eigenen Öffnungen bei der Vorschau oder beim Testen von E-Mails zu zählen.
 title: Verhindern von Selbstansichten
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 2%
 
 ---
@@ -45,11 +45,11 @@ Ansichten werden nachverfolgt, indem ein kleines unsichtbares Bildpixel in Ihren
 
    ![](assets/win-4.png)
 
-1. Klicken Sie [!UICONTROL &#x200B; Menü links auf &#x200B;]Automatischer Download“ und aktivieren Sie das Kontrollkästchen **[!UICONTROL Bilder nicht automatisch in E-Mail- oder RSS-]** von HTML herunterladen.
+1. Klicken Sie [!UICONTROL  Menü links auf ]Automatischer Download“ und aktivieren Sie das Kontrollkästchen **[!UICONTROL Bilder nicht automatisch in E-Mail- oder RSS-]** von HTML herunterladen.
 
    ![](assets/win-5.png)
 
-1. Klicken Sie **[!UICONTROL Dialogfeld]** Trust Center[!UICONTROL &#x200B; auf &#x200B;]OK“.
+1. Klicken Sie **[!UICONTROL Dialogfeld]** Trust Center[!UICONTROL  auf ]OK“.
 
    ![](assets/win-6.png)
 
@@ -65,10 +65,10 @@ Ansichten werden nachverfolgt, indem ein kleines unsichtbares Bildpixel in Ihren
 
    ![](assets/mac-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „E]Mail“ die Option **[!UICONTROL Lesen]**.
+1. Wählen [!UICONTROL  unter „E]Mail“ die Option **[!UICONTROL Lesen]**.
 
    ![](assets/mac-2.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf das Optionsfeld **[!UICONTROL Nie]**.
+1. Klicken [!UICONTROL  unter ] auf das Optionsfeld **[!UICONTROL Nie]**.
 
    ![](assets/mac-3.png)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746184
-description: Historienkarte zur Abmeldung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Karte mit dem Verlauf der Abmeldung in Sales Connect. Zeigen Sie in der Detailansicht einer Person an, wann und wie sich ein Kontakt abgemeldet hat.
 title: Verlaufskarte für Abmeldungen
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 4%
+source-wordcount: '163'
+ht-degree: 3%
 
 ---
 

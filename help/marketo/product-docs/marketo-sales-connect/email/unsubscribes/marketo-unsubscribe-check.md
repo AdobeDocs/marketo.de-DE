@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317340
-description: Marketo-Abmeldeprüfung - Marketo-Dokumente - Produktdokumentation
+description: Machen Sie sich mit dem Marketo-Abmelde-Check in Sales Connect vertraut. Erfahren Sie, wie Sales Connect beim Versand den Abmeldestatus von Marketo berücksichtigt.
 title: Überprüfen der Abmeldung von Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 4%
+source-wordcount: '201'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Mar
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 ## Einschalten {#turning-it-on}
 
@@ -25,7 +25,7 @@ Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Mar
 
    ![](assets/one-2.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin] auf **[!UICONTROL Abmeldungen]**.
+1. Klicken [!UICONTROL  unter „Admin] auf **[!UICONTROL Abmeldungen]**.
 
    ![](assets/two-3.png)
 

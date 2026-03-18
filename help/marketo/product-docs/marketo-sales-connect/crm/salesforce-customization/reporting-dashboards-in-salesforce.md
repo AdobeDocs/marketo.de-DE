@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352464
-description: Reporting-Dashboards in Salesforce - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Reporting-Dashboards in Salesforce, die Sales Connect-Daten verwenden. Anzeigen von Aufruf- und E-Mail-Aktivitäten in Salesforce-Berichten und -Dashboards
 title: Berichterstellungs-Dashboards in Salesforce
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 4%
+source-wordcount: '213'
+ht-degree: 3%
 
 ---
 

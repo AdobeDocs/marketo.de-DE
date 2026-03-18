@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30081307
-description: Spalten der Personenseite - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Seitenspalten von Personen in Sales Connect. Passen Sie an, welche Spalten angezeigt werden, um die benötigten Kontaktinformationen anzuzeigen.
 title: Spalten der Personenseite
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '308'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
 
 ## So wählen Sie Spalten aus {#how-to-select-columns}
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das Symbol Listeneinstellungen .
+1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das Symbol Listeneinstellungen .
 
    ![](assets/one-5.png)
 
@@ -70,7 +70,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
    <td>Gesamtzahl der Vertriebskampagnen, an denen die Person teilgenommen hat</td>
   </tr>
   <tr>
-   <td># [!UICONTROL -Aufrufe]</td>
+   <td># [!UICONTROL-Aufrufe]</td>
    <td>Gesamtzahl der Anrufe, die an diese Person getätigt wurden</td>
   </tr>
   <tr>

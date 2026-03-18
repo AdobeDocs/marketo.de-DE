@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352619
-description: Verwenden von Aufgaben in Kampagnen - Marketo-Dokumente - Produktdokumentation
+description: Verstehen, wie Aufgaben in Sales Connect-Kampagnen funktionieren E-Mail, Anruf, InMail und benutzerdefinierte Aufgaben verwenden und in Command Center oder Salesforce verwalten.
 title: Verwenden von Aufgaben in Kampagnen
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 4%
+source-wordcount: '207'
+ht-degree: 3%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352525
-description: Als Spam markierte E-Mail - Marketo-Dokumente - Produktdokumentation
+description: Erhalten Sie Hilfe, wenn Ihre Sales Connect-E-Mail als Spam gekennzeichnet wurde. Erfahren Sie, wie Sie Spam-Beschwerden reduzieren und die Zustellbarkeit verbessern können.
 title: E-Mail wurde als Spam markiert
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '231'
 ht-degree: 3%
 
 ---

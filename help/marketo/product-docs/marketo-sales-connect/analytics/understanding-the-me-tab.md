@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352614
-description: Informationen zur Registerkarte [!UICONTROL Me] - Marketo-Dokumente - Produktdokumentation
+description: Machen Sie sich mit der Registerkarte „Ich“ und dem Status Ihrer E-Mail-Interaktion in Sales Connect vertraut. Anzeigen gesendeter E-Mails, der Verwendung von Vorlagen und Ihrer ansprechendsten E-Mails.
 title: Grundlegendes zur Registerkarte [!UICONTROL Me]
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

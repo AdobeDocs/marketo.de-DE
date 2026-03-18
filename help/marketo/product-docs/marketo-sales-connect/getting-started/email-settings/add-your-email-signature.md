@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352410
-description: Hinzufügen Ihrer E-Mail-Signatur - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihre E-Mail-Signatur in Sales Connect hinzufügen. Richten Sie eine Standardsignatur für Verkaufs-E-Mails ein, die über die Web-Anwendung oder Plug-ins gesendet werden.
 title: Hinzufügen einer E-Mail-Signatur
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ Wir möchten, dass E-Mails von Sales Connect sich wie ein nahtloses Erlebnis anf
 
    ![](assets/add-your-email-signature-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
+1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
 
    ![](assets/add-your-email-signature-2.png)
 
@@ -27,7 +27,7 @@ Wir möchten, dass E-Mails von Sales Connect sich wie ein nahtloses Erlebnis anf
 
    ![](assets/add-your-email-signature-3.png)
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Karte &#x200B;]Signatur **[!UICONTROL auf]**.
+1. Klicken Sie auf [!UICONTROL  Karte ]Signatur **[!UICONTROL auf]**.
 
    ![](assets/add-your-email-signature-4.png)
 

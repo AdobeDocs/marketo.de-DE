@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762825
-description: Verwenden von Massenaktionen in Salesforce Lightning - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Massenaktionen in Salesforce Lightning mit Sales Connect verwenden. Mehrere Leads oder Kontakte gleichzeitig an Sales Connect übertragen.
 title: Verwenden von Massenaktionen in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '401'
 ht-degree: 2%
 
 ---
@@ -73,7 +73,7 @@ d. Sie können die E-Mail sofort senden oder einen Zeitplan festlegen, um sie zu
 
    ![](assets/eight-2.png)
 
-1. Eine neue Registerkarte mit dem Namen &quot;[!DNL Salesforce] Bridge&quot; wird geöffnet. Klicken Sie auf **[!UICONTROL Schaltfläche &#x200B;]Mit Gruppe fortfahren→**.
+1. Eine neue Registerkarte mit dem Namen &quot;[!DNL Salesforce] Bridge&quot; wird geöffnet. Klicken Sie auf **[!UICONTROL Schaltfläche ]Mit Gruppe fortfahren→**.
 
    ![](assets/nine-2.png)
 

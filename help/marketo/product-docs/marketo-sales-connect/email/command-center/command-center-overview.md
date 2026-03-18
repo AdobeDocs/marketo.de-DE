@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352530
-description: Übersicht über das Command Center - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Command Center in Sales Connect. Verwalten Sie E-Mail-Aufgaben, gesendete E-Mails und Folgemaßnahmen an einem Ort.
 title: Kommandozentrale – Überblick
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '588'
 ht-degree: 1%
 
 ---
@@ -52,7 +52,7 @@ Der Abschnitt E-Mail bietet Ihnen einen Überblick über alle Ihre E-Mails und v
   </tr>
   <tr>
    <td title="Hintergrundfarbe: Grau"><br></td>
-   <td title="Hintergrundfarbe: Grau">[!UICONTROL -Entwurf]</td>
+   <td title="Hintergrundfarbe: Grau">[!UICONTROL-Entwurf]</td>
    <td title="Hintergrundfarbe: Grau"><p>Als Entwurf gespeicherte E-Mails.<br><strong>Hinweis:</strong> Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden sowie Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</p></td>
   </tr>
   <tr>

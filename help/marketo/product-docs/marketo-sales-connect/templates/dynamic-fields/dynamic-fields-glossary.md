@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352509
-description: Glossar für dynamische Felder - Marketo-Dokumente - Produktdokumentation
+description: Informationen zu dynamischen Feldern in Sales Connect. Verwenden Sie dieses Glossar, um verfügbare Zusammenführungsfelder für Vorlagen und Personalisierung zu finden.
 title: Glossar zu dynamischen Feldern
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 4%
+source-wordcount: '255'
+ht-degree: 3%
 
 ---
 

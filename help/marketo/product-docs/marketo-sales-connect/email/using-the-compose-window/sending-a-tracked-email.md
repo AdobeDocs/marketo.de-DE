@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356565
-description: Senden einer getrackten E-Mail - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Sales Connect eine verfolgte E-Mail senden. Senden Sie Daten aus dem Fenster „Erstellen“ und verfolgen Sie Öffnungen, Klicks und Antworten.
 title: Senden einer getrackten E-Mail
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 4%
+source-wordcount: '207'
+ht-degree: 3%
 
 ---
 
@@ -50,7 +50,7 @@ Beim Senden einer E-Mail mit [!DNL Marketo Sales Connect] werden Ansichten (E-Ma
    >
    >Zum Senden der E-Mail sind eine Betreffzeile und ein Empfänger erforderlich. Wir **Ihren Entwurf automatisch speichern** sobald eine Betreffzeile und ein Empfänger hinzugefügt wurden.
 
-1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken **[!UICONTROL abschließend auf]** Senden[&#x200B; oder &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)Planen).
+1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken **[!UICONTROL abschließend auf]** Senden[ oder ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)Planen).
 
    ![](assets/five.png)
 

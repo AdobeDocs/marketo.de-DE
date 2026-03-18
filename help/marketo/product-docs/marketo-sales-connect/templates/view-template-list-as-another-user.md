@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317369
-description: Vorlagenliste als weiteren Benutzer anzeigen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Vorlagenliste als einen anderen Benutzer in Sales Connect anzeigen. Verwenden Sie Ansicht als Administrator, um zu sehen, was ein Benutzer sieht.
 title: Anzeigen der Vorlagenliste als andere Benutzerin bzw. anderer Benutzer
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '92'
+ht-degree: 16%
 
 ---
 
@@ -17,7 +17,7 @@ Als Administrator können Sie Vorlagen wie beliebige Benutzer anzeigen.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken Sie auf **[!UICONTROL Vorlagen]**.
 
@@ -33,4 +33,4 @@ Als Administrator können Sie Vorlagen wie beliebige Benutzer anzeigen.
 
    >[!NOTE]
    >
-   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL &#x200B; anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.
+   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL  anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.
