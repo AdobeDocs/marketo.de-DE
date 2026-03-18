@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten
-description: Erfahren Sie, wie Sie Ihrem E-Mail-Inhalt direkt in der E-Mail-Designer in Marketo Engage benutzerdefiniertes CSS hinzufügen.
+description: Erfahren Sie, wie Sie in der E-Mail-Designer benutzerdefiniertes CSS zu E-Mail-Inhalten hinzufügen. Gestalten Sie Ihre E-Mails mit benutzerdefiniertem Code in Marketo Engage.
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '620'
-ht-degree: 32%
+source-wordcount: '624'
+ht-degree: 35%
 
 ---
 
@@ -163,7 +163,7 @@ body {
 
 Ihr benutzerdefiniertes CSS wird am Ende des Abschnitts `<head>` als Teil eines `<style>`-Tags mit dem Attribut `data-name="global-custom"` hinzugefügt, wie im folgenden Beispiel dargestellt. Dadurch wird sichergestellt, dass die benutzerdefinierten Stile global auf den Inhalt angewendet werden.
 
-+++ Beispiel anzeigen
++++ Siehe Beispiel
 
 ```html
 <!DOCTYPE html>
@@ -202,7 +202,7 @@ Ihr benutzerdefiniertes CSS wird am Ende des Abschnitts `<head>` als Teil eines 
 
 Das benutzerdefinierte CSS wird nicht vom Bereich **[!UICONTROL Einstellungen]** des E-Mail-Designers interpretiert oder überprüft. Es ist vollkommen unabhängig und kann nur über die Option **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** geändert werden.
 
-### Schutzmechanismen - Importierte Inhalte {#guardrails}
+### Schutzmechanismen – Importierte Inhalte {#guardrails}
 
 Wenn Sie benutzerdefiniertes CSS mit Inhalten verwenden möchten, die in den E-Mail-Designer importiert wurden, sollten Sie Folgendes beachten:
 
@@ -220,13 +220,13 @@ Wenn Ihr benutzerdefiniertes CSS nicht angewendet wird, versuchen Sie es mit den
 
 * Überprüfen Sie, ob für das `global-custom`-Stil-Tag das Attribut `data-disabled` auf `true` festgelegt ist. In diesem Fall wird das benutzerdefinierte CSS nicht angewendet.
 
-+++ Beispiel:
+  +++ Beispiel:
 
   ```html
   <style data-name="global-custom" type="text/css" data-disabled="true"> body: { color: red; } </style>
   ```
 
-+++
+  +++
 
 * Stellen Sie sicher, dass Ihr CSS nicht durch andere CSS-Regeln überschrieben wird.
 
@@ -234,7 +234,7 @@ Wenn Ihr benutzerdefiniertes CSS nicht angewendet wird, versuchen Sie es mit den
 
    * Erwägen Sie, Ihren Deklarationen `!important` hinzuzufügen, um sicherzustellen, dass sie Vorrang haben.
 
-+++ Beispiel:
+     +++ Beispiel:
 
      ```css
      .acr-Form {
@@ -242,7 +242,7 @@ Wenn Ihr benutzerdefiniertes CSS nicht angewendet wird, versuchen Sie es mit den
      }
      ```
 
-+++
+     +++
 
 >[!NOTE]
 >

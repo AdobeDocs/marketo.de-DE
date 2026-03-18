@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147344
-description: Glossar zu System-Token - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über System-Token, die in Marketo-E-Mails verfügbar sind. Verwenden Sie das Glossar, um das richtige Token für die Personalisierung zu finden.
 title: Glossar zu System-Token
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '228'
 ht-degree: 2%
 
 ---

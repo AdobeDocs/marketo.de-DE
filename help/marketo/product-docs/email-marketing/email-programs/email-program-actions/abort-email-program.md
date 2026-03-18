@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504840
-description: Abbruch-E-Mail-Programm - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein E-Mail-Programm vor oder während des Versands abbrechen. Versand stoppen und die verbleibende Audience nach Bedarf verarbeiten.
 title: Schließen von E-Mail-Programm
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 7%
+source-wordcount: '106'
+ht-degree: 6%
 
 ---
 

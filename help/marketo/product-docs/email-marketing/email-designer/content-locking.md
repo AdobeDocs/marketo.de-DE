@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Sperren von Inhalt in E-Mail-Vorlagen
-description: Erfahren Sie, wie Sie Inhalte in Ihren E-Mail-Vorlagen sperren.
+description: Erfahren Sie, wie Sie Inhalte in E-Mail-Vorlagen sperren, damit andere sie nicht bearbeiten können. Schützen Sie Abschnitte in E-Mail-Designer, um Konsistenz zu gewährleisten.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '891'
-ht-degree: 75%
+source-wordcount: '903'
+ht-degree: 73%
 
 ---
 

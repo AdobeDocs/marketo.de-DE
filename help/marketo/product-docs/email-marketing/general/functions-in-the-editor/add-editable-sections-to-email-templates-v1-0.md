@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900585
-description: Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0 - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Version 1.0 bearbeitbare Abschnitte zu E-Mail-Vorlagen hinzufügen. Benutzerinnen und Benutzer können bestimmte Bereiche bearbeiten, während der Rest gesperrt bleibt.
 title: Hinzufügen bearbeitbarer Abschnitte zu E-Mail-Vorlagen v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 16%
+source-wordcount: '110'
+ht-degree: 14%
 
 ---
 

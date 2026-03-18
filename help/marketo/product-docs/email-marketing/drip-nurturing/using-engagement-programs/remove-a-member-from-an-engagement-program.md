@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359951
-description: Entfernen eines Mitglieds aus einem Interaktionsprogramm - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Mitglieder aus einem Interaktionsprogramm entfernen.
 title: Entfernen eines Mitglieds aus einem Interaktionsprogramm
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 12%
 
 ---

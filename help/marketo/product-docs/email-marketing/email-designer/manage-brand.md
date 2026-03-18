@@ -2,15 +2,16 @@
 solution: Marketo Engage
 product: Marketo
 title: Verwalten von Marken
-description: Erfahren Sie, wie Sie Markenrichtlinien erstellen und verwalten
+description: Erfahren Sie, wie Sie in der E-Mail-Designer Markenrichtlinien erstellen und verwalten. Konfigurieren und aktualisieren Sie Markeneinstellungen für Ihre E-Mails.
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 84%
+source-wordcount: '1421'
+ht-degree: 82%
 
 ---
 

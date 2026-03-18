@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Marken-Designs
-description: Erfahren Sie, wie Sie Ihre Markenrichtlinien erstellen und verwalten.
+description: Erfahren Sie, wie Sie Markenrichtlinien in Marketo Engage erstellen und verwalten. Einrichten von Markendesigns für ein konsistentes E-Mail-Design.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1097'
-ht-degree: 6%
+source-wordcount: '1107'
+ht-degree: 7%
 
 ---
 
@@ -351,7 +351,7 @@ Sie können im Editor Strukturen und Komponenten erstellen und eines der Markend
    >
    >Die Registerkarte „Stil“ unterscheidet sich von einer herkömmlichen manuellen E-Mail, bei der es mehr kreative Freiheit gibt, eine Komponente zu gestalten.
 
-### Erstellen einer Vorlage mit Designs {#make-a-template-compatible}
+### Erstellen einer mit Designs kompatiblen Vorlage {#make-a-template-compatible}
 
 1. Suchen und wählen Sie die gewünschte Vorlage aus.
 
@@ -363,7 +363,7 @@ Sie können im Editor Strukturen und Komponenten erstellen und eines der Markend
 
    ![](assets/brand-themes-43.png)
 
-1. Das _Erstellen eines Designs_ wird geöffnet. Marketo Engage erkennt die Stilelemente automatisch und fasst sie zu einem neuen Design zusammen.
+1. Das Fenster _Design erstellen_ wird geöffnet. Marketo Engage erkennt die Stilelemente automatisch und fasst sie zu einem neuen Design zusammen.
 
    ![](assets/brand-themes-44.png)
 

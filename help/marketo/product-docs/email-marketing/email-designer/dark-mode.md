@@ -1,11 +1,12 @@
 ---
-description: Dunkelmodus - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in der E-Mail-Designer E-Mails für den Dunkelmodus entwerfen. Benutzerdefinierte Anzeige des Dunkelmodus für unterstützende E-Mail-Clients festlegen.
 title: Dunkler Modus
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
+exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1217'
+source-wordcount: '1232'
 ht-degree: 42%
 
 ---
@@ -116,7 +117,7 @@ Um die benutzerdefinierten Dunkelmodus-Stile von E-Mail-Designer zu nutzen, verw
 
 Gehen Sie wie folgt vor, um die Einstellungen für den benutzerdefinierten dunklen Modus zu definieren.
 
-1. Wechseln Sie in der E[Mail-Designer zur &#x200B;](#preview-dark-mode)Vorschau im Dunkelmodus“.
+1. Wechseln Sie in der E[Mail-Designer zur ](#preview-dark-mode)Vorschau im Dunkelmodus“.
 
 1. Bearbeiten Sie alle Stilattribute wie Text, Hintergründe, Schaltflächen usw.
 

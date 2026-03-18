@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900597
-description: Definieren einer Zielgruppe durch Importieren einer Liste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Zielgruppe eines E-Mail-Programms definieren, indem Sie eine Liste importieren. Verwenden Sie statische oder hochgeladene Listen, um Ihren Versand auszuwählen.
 title: Definieren einer Zielgruppe durch Importieren einer Liste
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 14%
+source-wordcount: '384'
+ht-degree: 15%
 
 ---
 
@@ -25,7 +25,7 @@ Nachdem Sie ein E-Mail-Programm erstellt haben, sollten Sie ihm mitteilen, an we
 >
 >Alle importierten Datums-/Uhrzeitfelder werden als Central Time behandelt. Wenn Sie Datums-/Zeitfelder in einer anderen Zeitzone haben, können Sie eine Excel-Formel verwenden, um sie in Central Time (America/Chicago) umzuwandeln.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 

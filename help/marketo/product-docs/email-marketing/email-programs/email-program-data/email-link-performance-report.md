@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359478
-description: E-Mail-Link-Leistungsbericht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den E-Mail-Link-Leistungsbericht erstellen und verwenden. Sehen Sie, wie sich die einzelnen Links in Ihrer E-Mail bei Klicks und Interaktionen verhalten.
 title: Leistungsbericht zu E-Mail-Links
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 5%
+source-wordcount: '254'
+ht-degree: 4%
 
 ---
 
@@ -74,7 +74,7 @@ Erstellen Sie einen E-Mail-Link-Leistungsbericht, um zu sehen, wie gut die Links
 
 >[!NOTE]
 >
->Dieser Bericht zeigt einen „falsch formatierten Link“ an, wenn einer E-Mail ungültige/leere Links hinzugefügt werden. Wenn diese Meldung angezeigt wird[&#x200B; prüfen Sie im E-](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)-Editor die HTML-Quelle auf leere Links oder Token, die keinen vollständigen Link ausfüllen.
+>Dieser Bericht zeigt einen „falsch formatierten Link“ an, wenn einer E-Mail ungültige/leere Links hinzugefügt werden. Wenn diese Meldung angezeigt wird[ prüfen Sie im E-](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)-Editor die HTML-Quelle auf leere Links oder Token, die keinen vollständigen Link ausfüllen.
 
 >[!TIP]
 >

@@ -2,14 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: Vorlagenimport
-description: Erfahren Sie, wie Sie Ihre vorhandenen E-Mail-Vorlagen aus dem klassischen Editor in die neue E-Mail-Designer importieren.
+description: Erfahren Sie, wie Sie E-Mail-Vorlagen aus dem klassischen Editor in die E-Mail-Designer importieren.
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 1%
+source-wordcount: '756'
+ht-degree: 2%
 
 ---
 

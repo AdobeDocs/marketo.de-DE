@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359665
-description: Festlegen der Stream-Kadenz - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Stream-Kadenz für Interaktionsprogramme festlegen. Planen Sie wöchentliche oder monatliche Umwandlungen und verwenden Sie optional die Zeitzone des Empfängers.
 title: Festlegen einer Stream-Kadenz
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 3%
+source-wordcount: '393'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beis
 
 ## Frequenz einstellen {#set-cadence}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 

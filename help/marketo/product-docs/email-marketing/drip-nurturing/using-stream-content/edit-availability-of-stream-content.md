@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359910
-description: Verfügbarkeit von Stream-Inhalten bearbeiten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie für Stream-Inhalte ein aktives Formular und ein aktives Datum für das Datum festlegen. Verwenden Sie Verfügbarkeit bearbeiten , um zu planen, wann Inhalte in Umwandlungen aktiv sind.
 title: Bearbeiten der Verfügbarkeit von Stream-Inhalten
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 10%
+source-wordcount: '126'
+ht-degree: 9%
 
 ---
 

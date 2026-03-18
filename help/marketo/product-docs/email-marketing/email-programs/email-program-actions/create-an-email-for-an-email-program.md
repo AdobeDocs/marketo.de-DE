@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900593
-description: Erstellen einer E-Mail für ein E-Mail-Programm - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine E-Mail für ein E-Mail-Programm erstellen. Ein neues E-Mail-Asset hinzufügen und eine Vorlage oder eine vorhandene E-Mail auswählen.
 title: Erstellen einer E-Mail für ein E-Mail-Programm
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 9%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, sollten Sie entscheiden, welche E-Mail Sie senden. Sie können [eine vorhandene E-Mail auswählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder eine neue erstellen. So erstellen Sie eine neue E-Mail.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/one.png)
 
@@ -44,4 +44,4 @@ Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, soll
 
    ![](assets/five.png)
 
-Sehr gut! Nachdem wir nun eine E-Mail erstellt haben, die wir senden möchten, [&#x200B; wir „einen A/B-Test hinzufügen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) oder gehen direkt zum [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+Sehr gut! Nachdem wir nun eine E-Mail erstellt haben, die wir senden möchten, [ wir „einen A/B-Test hinzufügen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) oder gehen direkt zum [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).

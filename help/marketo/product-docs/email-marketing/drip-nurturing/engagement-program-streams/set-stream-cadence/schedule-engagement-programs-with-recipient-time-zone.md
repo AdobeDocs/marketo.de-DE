@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12982909
-description: Planen von Interaktionsprogrammen mit der Zeitzone der Empfängerinnen und Empfänger - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Umwandlungen von Interaktionsprogrammen mit der Zeitzone des Empfängers planen. Legen Sie die erste Besetzung für die globale Bereitstellung auf mindestens 25 Stunden vor.
 title: Planen von Interaktionsprogrammen mit der Zeitzone der Empfängerin bzw. des Empfängers
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 8%
+source-wordcount: '207'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Wenn Sie einen Interaktionsprogramm-Stream planen und die Zeitzone des Empfänge
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Legen Sie Ihre Kadenzeinstellungen &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) wie gewohnt fest und aktivieren Sie dann das Kontrollkästchen **[!UICONTROL Zeitzone des Empfängers]**. Denke daran, dass dein erster Cast mindestens 25 Stunden in der Zukunft liegen muss. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. [Legen Sie Ihre Kadenzeinstellungen ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) wie gewohnt fest und aktivieren Sie dann das Kontrollkästchen **[!UICONTROL Zeitzone des Empfängers]**. Denke daran, dass dein erster Cast mindestens 25 Stunden in der Zukunft liegen muss. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
@@ -30,4 +30,4 @@ Wenn Sie einen Interaktionsprogramm-Stream planen und die Zeitzone des Empfänge
 >[!MORELIKETHIS]
 >
 >* [Informationen zur Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Festlegen der Stream-Kadenz](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>* [Festlegen einer Stream-Kadenz](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

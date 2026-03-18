@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359491
-description: Hinzufügen eines A/B-Tests - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einem E-Mail-Programm einen A/B-Test hinzufügen. Wählen Sie aus, was getestet werden soll (Betreff, Inhalt, ab oder Datum/Uhrzeit), und legen Sie die Gewinnerkriterien fest.
 title: Hinzufügen eines A/B-Tests
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 5%
+source-wordcount: '200'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 5%
 
 Testen ist eine hervorragende Möglichkeit, Ihre E-Mails für eine bessere Interaktion zu optimieren. So geht&#39;s los.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/add-an-a-b-test-1.png)
 
@@ -42,7 +42,7 @@ Testen ist eine hervorragende Möglichkeit, Ihre E-Mails für eine bessere Inter
 
    >[!CAUTION]
    >
-   >Wenn Sie doppelte Datensätze in Ihrer Datenbank haben, erhalten diese Datensätze **sowohl** Test- als auch Erfolgs-E-Mails. Um dies zu verhindern, stellen Sie sicher, [&#x200B; Sie in Ihrer Datenbank doppelte Personen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) und zusammenführen.
+   >Wenn Sie doppelte Datensätze in Ihrer Datenbank haben, erhalten diese Datensätze **sowohl** Test- als auch Erfolgs-E-Mails. Um dies zu verhindern, stellen Sie sicher, [ Sie in Ihrer Datenbank doppelte Personen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) und zusammenführen.
 
 >[!MORELIKETHIS]
 >

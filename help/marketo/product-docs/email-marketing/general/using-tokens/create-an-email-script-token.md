@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900577
-description: Erstellen eines E-Mail-Skript-Tokens - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein E-Mail-Skript-Token erstellen. Definieren Sie benutzerdefinierte Token, die dynamische Werte in Ihren E-Mails ausgeben.
 title: Erstellen eines E-Mail-Skript-Tokens
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 4%
+source-wordcount: '227'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity.apache.org/engine/1.7/user-guide.html) in Ihren E-Mails verwenden. So geht das.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 
@@ -49,7 +49,7 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
 1. Schreiben Sie Ihr Skript in Velocity. Im Folgenden finden Sie einige nützliche Ressourcen:
 
-   * [E-Mail-Skripterstellung für Marketo-Entwickler](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting)
+   * [E-Mail-Skripterstellung für Marketo-Entwickler](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity-Benutzerhandbuch](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity-Referenzhandbuch](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359584
-description: Champion/Challenger - Zum Champion erklären - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Champion für Ihren E-Mail-Test ernennen. Wählen Sie die erfolgreichste Variante aus und senden Sie der restlichen Zielgruppe den Gewinner.
 title: Champion/Challenger - Zum Champion erklären
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '138'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ Wenn Sie bereit sind, können Sie einen Champion für Ihren E-Mail-Test erkläre
 >
 >[Champion/Challenger: Genehmigen Sie Ihren E-Mail-Test](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 

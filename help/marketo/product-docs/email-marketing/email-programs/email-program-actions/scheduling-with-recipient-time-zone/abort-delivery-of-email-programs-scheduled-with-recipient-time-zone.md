@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795727
-description: Abbruch des Versands von E-Mail-Programmen mit Zeitzone des Empfängers - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Versand für E-Mail-Programme abbrechen, die mit der Zeitzone des Empfängers geplant sind. Beenden Sie den Versand und behandeln Sie die verbleibenden Empfänger.
 title: Abbrechen des Versands von mit Zeitzone der Empfängerin bzw. des Empfängers geplanten E-Mail-Programmen
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 9%
+source-wordcount: '227'
+ht-degree: 8%
 
 ---
 

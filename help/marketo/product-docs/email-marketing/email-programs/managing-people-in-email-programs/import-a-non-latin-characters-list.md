@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472678
-description: Importieren einer Liste nicht lateinischer Zeichen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Listen mit nicht lateinischen Zeichen für E-Mail-Programme importieren. Kodierung und Formatierung für internationale Zielgruppen sicherstellen.
 title: Importieren einer Liste mit nicht lateinischen Zeichen
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '317'
 ht-degree: 14%
 
 ---

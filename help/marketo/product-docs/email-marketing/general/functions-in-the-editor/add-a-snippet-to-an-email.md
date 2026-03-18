@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147358
-description: Hinzufügen eines Snippets zu einer E-Mail - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einer E-Mail einen Code-Ausschnitt hinzufügen. Fügen Sie wiederverwendbare Inhaltsbausteine aus der Snippet-Bibliothek in Ihre E-Mails ein.
 title: Hinzufügen eines Ausschnitts zu einer E-Mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '162'
 ht-degree: 7%
 
 ---

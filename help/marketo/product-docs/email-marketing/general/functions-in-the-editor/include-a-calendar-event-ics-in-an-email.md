@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900565
-description: Einschließen eines Kalenderereignisses (.ics) in eine E-Mail - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Kalenderereignis (.ics) in eine E-Mail einschließen. Fügen Sie eine Anlage hinzu, damit Empfängerinnen und Empfänger das Ereignis zu ihrem Kalender hinzufügen können.
 title: Einschließen eines Kalenderereignisses (.ics) in eine E-Mail
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 19%
+source-wordcount: '103'
+ht-degree: 17%
 
 ---
 

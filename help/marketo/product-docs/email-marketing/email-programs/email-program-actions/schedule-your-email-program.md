@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359455
-description: Planen des E-Mail-Programms - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihr E-Mail-Programm planen. Legen Sie Datum und Uhrzeit für den Versand fest und verwenden Sie optional die Zeitzone des Empfängers.
 title: Planen eines E-Mail-Programms
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 7%
 
 Nachdem Sie Ihr E-Mail-Programm erstellt, eine Audience definiert und eine E-Mail ausgewählt haben, sollten Sie Ihrem Programm mitteilen *wann* E-Mail gesendet werden soll. Und so geht das.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 

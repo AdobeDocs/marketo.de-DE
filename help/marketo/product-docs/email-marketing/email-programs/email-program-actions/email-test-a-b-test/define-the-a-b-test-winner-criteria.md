@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359545
-description: Definieren der Kriterien für den A/B-Testsieger - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Kriterien für den A/B-Testsieger definieren. Legen Sie die Metrik und den Schwellenwert fest, die bestimmen, welche Variante den Test gewinnt.
 title: Definieren der Kriterien für den A/B-Testsieger
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 21%
+source-wordcount: '442'
+ht-degree: 20%
 
 ---
 
@@ -40,7 +40,7 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=de" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihrer Inhalte.</td>
+   <td>Der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihrer Inhalte.</td>
    </tr>
    </table>
 

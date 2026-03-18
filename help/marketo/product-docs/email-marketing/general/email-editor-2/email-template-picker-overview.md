@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912237
-description: Übersicht über die E-Mail-Vorlagenauswahl - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Auswahl von E-Mail-Vorlagen im E-Mail-Editor 2.0. Bei der Erstellung neuer E-Mails aus Vorlagen auswählen.
 title: Auswahl von E-Mail-Vorlagen – Übersicht
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 3%
 
 ---
 
@@ -21,7 +21,7 @@ Wenn Sie [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/c
 
 ![](assets/two-2.png)
 
-Wenn Ihre E-Mail wichtig ist und Sie Kommunikationsbeschränkungen umgehen möchten, aktivieren [&#x200B; das Kontrollkästchen, um &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) E-Mail funktionsfähig zu machen. **[!UICONTROL Im Editor öffnen]** ist standardmäßig ausgewählt und bedeutet, dass Sie Ihre neue E-Mail sofort bearbeiten möchten. **[!UICONTROL Erstellen]** bedeutet, erstellen!
+Wenn Ihre E-Mail wichtig ist und Sie Kommunikationsbeschränkungen umgehen möchten, aktivieren [ das Kontrollkästchen, um ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) E-Mail funktionsfähig zu machen. **[!UICONTROL Im Editor öffnen]** ist standardmäßig ausgewählt und bedeutet, dass Sie Ihre neue E-Mail sofort bearbeiten möchten. **[!UICONTROL Erstellen]** bedeutet, erstellen!
 
 ![](assets/three-2.png)
 
@@ -65,5 +65,5 @@ Ziemlich ordentlich!
 
 >[!MORELIKETHIS]
 >
->* [E-Mail-Vorlagensyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [Syntax von E-Mail-Vorlagen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 >* [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)

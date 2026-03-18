@@ -1,15 +1,15 @@
 ---
 title: GenStudio-Integration für Marketo Engage
-description: Erfahren Sie, wie Sie GenStudio in Marketo Engage verwenden.
+description: Erfahren Sie, wie Sie GenStudio in Marketo Engage für die Inhaltserstellung verwenden. Zugriff auf GenStudio-Funktionen im E-Mail-Designer-Workflow.
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 7%
+source-wordcount: '406'
+ht-degree: 9%
 
 ---
 
@@ -42,7 +42,7 @@ Exportieren Sie ganz einfach eine Vorlage mit den Richtlinien Ihrer Marke nach G
 
    ![Exportieren von HTML](assets/genstudio-integration-1.png)
 
-1. [Laden Sie die exportierte &#x200B;](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} HTML in GenStudio for Performance Marketing hoch.
+1. [Laden Sie die exportierte ](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} HTML in GenStudio for Performance Marketing hoch.
 
 1. Verwenden Sie in GenStudio diese Vorlage, um [mehrere E-Mail-Varianten zu erstellen](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} mit KI-Eingabeaufforderungen und speichern Sie sie.
 

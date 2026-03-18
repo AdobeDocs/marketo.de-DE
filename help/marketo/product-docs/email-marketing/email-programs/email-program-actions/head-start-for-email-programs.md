@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097202
-description: Head Start for Email Programs - Marketo Docs - Product Documentation
+description: Erfahren Sie mehr über den „Head Start“ für E-Mail-Programme. An frühe Qualifikatoren vor dem Hauptplan für zeitkritische Kampagnen senden.
 title: Vorsprung für E-Mail-Programme
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '427'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, bestimmt di
    >
    >Head Start kann nicht mit A/B-Tests verwendet werden.
 
-1. Wählen Sie in [!UICONTROL &#x200B; Kachel &#x200B;]Zeitplan“ die Option E-Mail planen und dann das Feld **[!UICONTROL Direktstart]** aus.
+1. Wählen Sie in [!UICONTROL  Kachel ]Zeitplan“ die Option E-Mail planen und dann das Feld **[!UICONTROL Direktstart]** aus.
 
    ![](assets/three-1.png)
 

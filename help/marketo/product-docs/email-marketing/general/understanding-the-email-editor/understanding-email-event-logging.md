@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147356
-description: Grundlagen zur Protokollierung von E-Mail-Ereignissen - Marketo-Dokumente - Produktdokumentation
+description: Informationen zur Protokollierung von E-Mail-Ereignissen in Marketo. Erfahren Sie, wie Öffnungen, Klicks und andere Ereignisse verfolgt und gespeichert werden.
 title: Grundlegendes zur Protokollierung von E-Mail-Ereignissen
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '315'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359856
-description: Aktivieren und Deaktivieren eines Interaktionsprogramms - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Interaktionsprogramm aktivieren oder deaktivieren, um Inhalte zu stoppen oder fortzusetzen.
 title: Aktivieren und Deaktivieren eines Interaktionsprogramms
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 17%
+source-wordcount: '98'
+ht-degree: 20%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 17%
 
 Sie können ein Interaktionsprogramm mit einem Mausklick deaktivieren. Dadurch wird verhindert, dass Inhalte gesendet werden. Und so geht das.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 

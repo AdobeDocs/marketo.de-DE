@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094576
-description: Dauerhafte Abmeldung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über dauerhafte Abmeldungen und darüber, wie sich der Master-E-Mail-Status über Personen hinweg ausbreitet. Verwalten von Abonnements und Personendatensätzen in Marketo.
 title: Dauerhafte Abmeldung
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---

@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Verwenden des KI-Assistenten
-description: Nutzen Sie die Technologie für generative KI von Adobe, um Ihren E-Mails hilfreichen Text und/oder Bilder hinzuzufügen.
+description: Erfahren Sie, wie Sie mit dem KI-Assistenten Text und Bilder zu E-Mails hinzufügen. Verwenden Sie die generative KI von Adobe in der E-Mail-Designer für Inhaltsideen.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 11%
+source-wordcount: '824'
+ht-degree: 9%
 
 ---
 
@@ -59,7 +59,7 @@ Wenn eine E-Mail mit der neuen E-Mail-Designer erstellt wird, geben Sie eine tem
 
 ![](assets/use-the-ai-assistant-1.png)
 
-Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![&#x200B; ( &#x200B;](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
+Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![ ( ](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
 
 ![](assets/use-the-ai-assistant-2.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952678
-description: Verwenden der {{SP_Send_Alert_Info}} „Warnhinweis-Info-Token senden“ - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Token „Warnhinweis-Info senden“ in E-Mails verwenden. Fügen Sie Versanddetails wie Zeit und Programmname dynamisch ein.
 title: Verwenden des Tokens „Warnhinweisinfo senden“
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '268'
 ht-degree: 5%
 
 ---

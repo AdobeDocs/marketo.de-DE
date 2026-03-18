@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359462
-description: Genehmigen/Aufheben der Genehmigung eines E-Mail-Programms - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein E-Mail-Programm genehmigen oder die Genehmigung aufheben. Schließen Sie den Validierungs-Workflow ab, damit das Programm geplant und gesendet werden kann.
 title: Genehmigen/Aufheben der Genehmigung eines E-Mail-Programms
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 5%
+source-wordcount: '200'
+ht-degree: 9%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 5%
 
 Nachdem Ihr Programm startbereit ist, müssen Sie es genehmigen. So geht&#39;s:
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,7 +53,7 @@ Nachdem Ihr Programm startbereit ist, müssen Sie es genehmigen. So geht&#39;s:
 
 Wenn Sie es sich anders überlegen und nicht wollen, können Sie das E-Mail-Programm ablehnen.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 

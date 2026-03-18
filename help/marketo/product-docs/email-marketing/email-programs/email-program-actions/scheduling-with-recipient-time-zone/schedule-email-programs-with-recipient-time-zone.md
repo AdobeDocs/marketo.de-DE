@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12982903
-description: Planen von E-Mail-Programmen mit der Zeitzone des Empfängers - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie E-Mail-Programme mit der Zeitzone des Empfängers planen. Legen Sie den Versand auf einen Zeitraum von mindestens 25 Stunden fest und wählen Sie das Zeitzonenverhalten aus.
 title: Planen von E-Mail-Programmen mit Zeitzone der Empfängerin bzw. des Empfängers
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '839'
+source-wordcount: '851'
 ht-degree: 2%
 
 ---

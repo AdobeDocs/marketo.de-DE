@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900558
-description: Bearbeiten von Elementen in einer E-Mail - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Elemente in einer E-Mail im E-Mail-Editor 2.0 bearbeiten. Ändern von Text, Bildern und anderen Modulen im E-Mail-Layout.
 title: Bearbeiten von Elementen in einer E-Mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '499'
-ht-degree: 2%
+source-wordcount: '512'
+ht-degree: 1%
 
 ---
 

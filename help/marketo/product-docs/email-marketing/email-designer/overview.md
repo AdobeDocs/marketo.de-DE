@@ -1,14 +1,14 @@
 ---
 solution: Marketo Engage
 product: marketo
-description: Willkommen beim neuen E-Mail-Designer von Adobe Marketo Engage.
+description: Erfahren Sie mehr über E-Mail-Designer und den Drag-and-Drop-Editor. Erstellen und passen Sie E-Mail-Vorlagen in Marketo Engage an, um die Produktivität zu steigern.
 title: Überblick
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 735721e66b1cd2e21df5c2b85051d4bfee44d2e0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 98%
+source-wordcount: '680'
+ht-degree: 95%
 
 ---
 

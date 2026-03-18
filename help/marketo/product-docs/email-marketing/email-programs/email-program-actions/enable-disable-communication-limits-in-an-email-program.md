@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359596
-description: Aktivieren/Deaktivieren von Kommunikationsbeschränkungen in einem E-Mail-Programm - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Kommunikationsbeschränkungen in einem E-Mail-Programm aktivieren oder deaktivieren. Legen Sie fest, wie oft Personen E-Mails aus dem Programm erhalten können.
 title: Aktivieren/Deaktivieren von Kommunikationsbeschränkungen in einem E-Mail-Programm
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 13%
 
 ---
 
 # Aktivieren/Deaktivieren von Kommunikationsbeschränkungen in einem E-Mail-Programm {#enable-disable-communication-limits-in-an-email-program}
 
-Wenn Sie ein E-Mail-Programm ausführen, können Sie die [Kommunikationsbeschränkungen auf Administratorebene“ ignorieren oder &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). So geht das.
+Wenn Sie ein E-Mail-Programm ausführen, können Sie die [Kommunikationsbeschränkungen auf Administratorebene“ ignorieren oder ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). So geht das.
 
 >[!NOTE]
 >
 >Kommunikationsbeschränkungen werden [im Admin-Abschnitt festgelegt](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) sodass Sie vermeiden können, eine Person zu viele E-Mails zu senden.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-3.png)
 

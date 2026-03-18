@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359936
-description: Löschen eines Streams - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Stream aus einem Interaktionsprogramm löschen. Verschieben Sie die Personen bei Bedarf zuerst nach draußen und bestätigen Sie dies, um den Verlust historischer Daten zu vermeiden.
 title: Löschen eines Streams
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 6%
+source-wordcount: '105'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Wenn Sie jemals einen Stream aus Ihrem Interaktionsprogramm löschen müssen, führen Sie diese schnellen und einfachen Schritte aus.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,4 +37,4 @@ Wenn Sie jemals einen Stream aus Ihrem Interaktionsprogramm löschen müssen, f�
 
    >[!NOTE]
    >
-   >Wenn der Stream Personen enthält, werden Sie aufgefordert, diese zuerst [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)zu verschieben“.
+   >Wenn der Stream Personen enthält, werden Sie aufgefordert, diese zuerst [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)zu verschieben“.

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096400
-description: Erstellen einer E-Mail-Vorlage - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie im E-Mail-Editor 2.0 eine E-Mail-Vorlage erstellen. Erstellen Sie wiederverwendbare Vorlagen mit Modulen und bearbeitbaren Abschnitten.
 title: Erstellen einer E-Mail-Vorlage
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 2%
+source-wordcount: '284'
+ht-degree: 12%
 
 ---
 
@@ -75,4 +75,4 @@ Um Ihre E-Mail-Vorlage anzupassen, lesen Sie den folgenden Artikel.
 
 >[!MORELIKETHIS]
 >
->[E-Mail-Vorlagensyntax](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[Syntax von E-Mail-Vorlagen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

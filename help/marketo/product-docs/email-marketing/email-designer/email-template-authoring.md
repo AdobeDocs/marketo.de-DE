@@ -1,13 +1,13 @@
 ---
-description: E-Mail-Vorlagen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eigenständige E-Mail-Vorlagen zur Wiederverwendung erstellen. Erstellen Sie benutzerdefinierte Vorlagen in der E-Mail-Designer, um Design und Konsistenz zu beschleunigen.
 title: E-Mail-Vorlagen
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1838'
-ht-degree: 4%
+source-wordcount: '1853'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ Für einen beschleunigten und verbesserten Design-Prozess können Sie eigenstän
 
 >[!PREREQUISITES]
 >
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn Ihre Anfrage noch nicht bearbeitet wurde und Sie eine Beschleunigung anfordern möchten, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager) oder an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support).
+>Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn dies noch nicht geschehen ist und Sie eine Beschleunigung dieses Prozesses wünschen, wenden Sie sich bitte an das Adobe-Accountteam (Ihre Kundenbetreuung) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Für einen beschleunigten und verbesserten Design-Prozess können Sie eigenstän
 
 ## Entwerfen einer Vorlage {#design-your-template}
 
-Auf der _Vorlage entwerfen_ können Sie aus einigen Optionen auswählen. [Erstellen Sie von Grund &#x200B;](#design-from-scratch), [importieren Sie Ihre eigene HTML](#import-html) oder [wählen Sie eine vorhandene Vorlage aus](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben).
+Auf der _Vorlage entwerfen_ können Sie aus einigen Optionen auswählen. [Erstellen Sie von Grund ](#design-from-scratch), [importieren Sie Ihre eigene HTML](#import-html) oder [wählen Sie eine vorhandene Vorlage aus](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben).
 
 ![](assets/design-your-template-1.png)
 

@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Fragmente
-description: Erfahren Sie, wie Sie visuelle Inhaltsfragmente als wiederverwendbare Komponenten für E-Mails und E-Mail-Vorlagen erstellen und verwenden.
+description: Erfahren Sie, wie Sie Fragmente als wiederverwendbare E-Mail-Komponenten erstellen und verwenden. Hinzufügen visueller Inhaltsfragmente zu E-Mails und Vorlagen.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 8e4e5ddd4789b9ddfb5ced7d20b58f345d257caf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1972'
+source-wordcount: '1974'
 ht-degree: 2%
 
 ---

@@ -2,16 +2,16 @@
 solution: Marketo Engage
 product: marketo
 title: TITEL
-description: Erfahren Sie, wie Sie die E-Mail-Erstellung mit wiederverwendbaren Designs und Modulen optimieren können, um Konsistenz und Effizienz im Design sicherzustellen.
+description: Erfahren Sie, wie Sie Markendesigns auf E-Mails anwenden, um ein konsistentes Design zu gewährleisten. Verwenden Sie wiederverwendbare Designs und Module in der E-Mail-Designer.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '735'
 ht-degree: 74%
 
 ---

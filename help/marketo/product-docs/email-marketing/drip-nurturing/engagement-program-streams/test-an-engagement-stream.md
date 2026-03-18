@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359839
-description: Testen eines Interaktions-Streams - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Interaktions-Stream mit einer Testperson testen können. Verwenden Sie Programmaktionen und Ausführen von Umwandlungen, um Inhalte zu senden und Übergangsregeln zu überprüfen.
 title: Interaktionsstrom testen
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 5%
+source-wordcount: '175'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 Nachdem Sie alle Ihre Inhalte zu einem Stream hinzugefügt haben, können Sie sie einzeln testen.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/one.png)
 

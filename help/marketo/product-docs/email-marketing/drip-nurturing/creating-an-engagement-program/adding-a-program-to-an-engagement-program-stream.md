@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098134
-description: Hinzufügen eines Programms zu einem Interaktionsprogramm-Stream - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über verschachtelte Programme in Interaktionsstreams und wann diese verwendet werden sollten. Fügen Sie Programme für Untergruppen, Multi-Touch- und zusätzliche Flussschritte hinzu.
 title: Hinzufügen eines Programms zu einem Interaktionsprogramm-Stream
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 3%
+source-wordcount: '470'
+ht-degree: 4%
 
 ---
 
@@ -57,5 +57,5 @@ Die E-Mail, die Sie verwenden, kann im Programm, in einem anderen Programm oder 
 
 >[!MORELIKETHIS]
 >
->* [Inhalt zu einem Stream hinzufügen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Hinzufügen von Inhalten zu einem Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [Grundlegendes zu Programmen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

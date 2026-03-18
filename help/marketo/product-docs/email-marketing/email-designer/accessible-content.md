@@ -1,20 +1,21 @@
 ---
 title: Gestalten barrierefreier Inhalte
-description: Erfahren Sie, wie Sie in Adobe Marketo Engage barrierefreie Inhalte für Ihre E-Mails entwerfen.
+description: Erfahren Sie, wie Sie barrierefreie E-Mail-Inhalte in Marketo Engage entwerfen. Wenden Sie Best Practices an, damit E-Mails für alle Empfänger funktionieren.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: E-Mail, Design, Barrierefreiheit
-source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
+exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1368'
+source-wordcount: '1374'
 ht-degree: 45%
 
 ---
 
 # Gestalten barrierefreier Inhalte {#accessible-content}
 
-Der [Europäische Rechtsakt zur Barrierefreiheit](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0882){target="_blank"} ist eine Richtlinie, mit der der Binnenmarkt für barrierefreie Produkte und Dienstleistungen durch die Beseitigung von Hindernissen, die durch unterschiedliche nationale Vorschriften in den Mitgliedstaaten verursacht werden, verbessert werden soll.
+Der [Europäische Rechtsakt zur Barrierefreiheit](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882){target="_blank"} ist eine Richtlinie, mit der der Binnenmarkt für barrierefreie Produkte und Dienstleistungen durch die Beseitigung von Hindernissen, die durch unterschiedliche nationale Vorschriften in den Mitgliedstaaten verursacht werden, verbessert werden soll.
 
 Diese Verordnung besagt, dass alle digitalen Kommunikationen, einschließlich E-Mails, Newsletter, PDFs und herunterladbare Inhalte, zugänglich sein sollten. Beim Erstellen von Inhalten für Ihre Empfängerinnen und Empfänger müssen Sie daher bestimmte Richtlinien befolgen, z. B. die Verwendung barrierefreier Schriftarten und lesbarer Formate und die Bereitstellung von Alternativtext für Bilder.
 

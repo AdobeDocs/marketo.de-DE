@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359652
-description: Erstellen eines Interaktionsprogramms - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo ein Interaktionsprogramm für E-Mail-Pflege erstellen. Wählen Sie Interaktion als Programmtyp aus und fügen Sie Streams und Inhalte hinzu.
 title: Erstellen eines Interaktionsprogramms
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 9%
+source-wordcount: '99'
+ht-degree: 76%
 
 ---
 
 # Erstellen eines Interaktionsprogramms {#create-an-engagement-program}
 
-Sie können in Marketo Interaktionsprogramme verwenden, um E-Mail-Pflege einfach durchzuführen.
+Sie können Interaktionsprogramme in Marketo verwenden, um E-Mail-Nurturing ohne großen Aufwand durchzuführen.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,15 +23,15 @@ Sie können in Marketo Interaktionsprogramme verwenden, um E-Mail-Pflege einfach
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Geben Sie einen **[!UICONTROL Namen]** ein, wählen Sie **[!UICONTROL Interaktion]** für **[!UICONTROL Programmtyp]** aus und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie einen **[!UICONTROL Namen]** ein, wählen Sie **[!UICONTROL Interaktion]** als **[!UICONTROL Programmtyp]** aus und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
-1. Okay, jetzt, da Sie ein Interaktionsprogramm haben, machen wir weiter und verkleiden es.
+1. Nachdem Sie nun ein Interaktionsprogramm erstellt haben, können Sie mit seiner Gestaltung fortfahren.
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Inhalt zu einem Stream hinzufügen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-   >* [Festlegen der Stream-Kadenz](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [Hinzufügen von Inhalten zu einem Stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+   >* [Festlegen einer Stream-Kadenz](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

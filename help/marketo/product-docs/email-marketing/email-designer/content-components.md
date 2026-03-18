@@ -2,15 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: Inhaltskomponenten
-description: BESCHREIBUNG.
+description: Erfahren Sie mehr über Inhaltskomponenten zur Personalisierung des E-Mail-Layouts. Hinzufügen und Gestalten von Komponenten innerhalb von Strukturkomponenten in der E-Mail-Designer.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1290'
-ht-degree: 87%
+source-wordcount: '1308'
+ht-degree: 86%
 
 ---
 
@@ -158,7 +158,7 @@ Verwenden Sie die Komponente **[!UICONTROL Bild]**, um eine Bilddatei von Ihrem 
 1. Klicken Sie auf die neu hinzugefügte Komponente und konfigurieren Sie Ihre Bildeigenschaften:
 
    * **[!UICONTROL Bildtitel]** erlaubt Ihnen, den Titel für das Bild zu definieren.
-   * Mit **[!UICONTROL Alt-Text]** legen Sie die Bildunterschrift fest. Dies entspricht dem HTML-Attribut „alt“.
+   * **[!UICONTROL Alternativtext]** erlaubt Ihnen, die Beschriftung Ihres Bildes zu definieren. Dies entspricht dem HTML-Attribut „alt“.
 
    SCREENSHOT
 

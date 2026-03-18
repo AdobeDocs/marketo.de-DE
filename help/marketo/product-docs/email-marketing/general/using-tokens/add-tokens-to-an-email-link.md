@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147360
-description: Hinzufügen von Token zu einem E-Mail-Link - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Token zu E-Mail-Links hinzufügen. Einfügen dynamischer Werte in Link-URLs für Personalisierung und Tracking.
 title: Hinzufügen von Token zu einem E-Mail-Link
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 18%
+source-wordcount: '95'
+ht-degree: 16%
 
 ---
 

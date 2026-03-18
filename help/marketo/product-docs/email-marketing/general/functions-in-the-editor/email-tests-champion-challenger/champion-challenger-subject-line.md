@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359557
-description: Champion/Challenger - Betreffzeile - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Champion-/Challenger-Betreffzeilentests durchführen. Testen Sie verschiedene Betreffzeilen und erklären Sie einen Gewinner nach Ihren Kriterien.
 title: Champion/Challenger - Betreffzeile
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---

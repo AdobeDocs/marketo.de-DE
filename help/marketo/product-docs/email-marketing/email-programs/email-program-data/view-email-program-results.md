@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951167
-description: E-Mail-Programmergebnisse anzeigen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ergebnisse und Leistung des E-Mail-Programms anzeigen. Zugreifen auf Öffnungen, Klicks, Bounces und andere Metriken für Ihr Programm.
 title: Anzeigen der Ergebnisse für E-Mail-Programme
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 10%
+source-wordcount: '87'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Genau wie auf der Registerkarte [!UICONTROL Ergebnisse] in Smart-Kampagnen können Sie dieselben Informationen in E-Mail-Programmen sehen.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-2.png)
 

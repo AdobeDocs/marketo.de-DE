@@ -1,21 +1,21 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Personalization-Token
-description: Erfahren Sie, wie Sie in der neuen Marketo Engage Email Designer Personalisierungs-Token verwenden.
+title: Personalisierungs-Token
+description: Erfahren Sie, wie Sie Personalisierungs-Token in der E-Mail-Designer verwenden. Fügen Sie dynamische Empfängerdaten zu Ihrem E-Mail-Inhalt hinzu.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
 hidefromtoc: true
-source-git-commit: 2488e0e6af38a4d50b1a8f5f6194c64bd8504717
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '247'
+ht-degree: 1%
 
 ---
 
-# Personalization-Token {#personalization-tokens}
+# Personalisierungs-Token {#personalization-tokens}
 
 E-Mail-Designer hat ein anderes Format als der klassische E-Mail-Editor, wenn es um E-Mail-Personalisierungs-Token geht. Die Änderung wurde implementiert, um die Kompatibilität mit Handlebar-Skripten zu verbessern und den E-Mail-Erstellungsprozess zu optimieren.
 
@@ -25,7 +25,7 @@ E-Mail-Designer hat ein anderes Format als der klassische E-Mail-Editor, wenn es
 
 ## Primärer Anwendungsfall {#primary-use-case}
 
-Diese Verbesserung kommt in erster Linie denjenigen zugute, die von [Velocity-Skripterstellung](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting){target="_blank"} zu Handlebar-Skripterstellung wechseln. Der neue E-Mail-Designer unterstützt nur das neue Token-Format. Das aktualisierte Format beseitigt Leerzeichen und führt eine überarbeitete Standardtextstruktur ein, um ein reibungsloseres und effizienteres Skripterlebnis zu gewährleisten.
+Diese Verbesserung kommt in erster Linie denjenigen zugute, die von [Velocity-Skripterstellung](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} zu Handlebar-Skripterstellung wechseln. Der neue E-Mail-Designer unterstützt nur das neue Token-Format. Das aktualisierte Format beseitigt Leerzeichen und führt eine überarbeitete Standardtextstruktur ein, um ein reibungsloseres und effizienteres Skripterlebnis zu gewährleisten.
 
 ## Token-Erlebnis {#token-experience}
 

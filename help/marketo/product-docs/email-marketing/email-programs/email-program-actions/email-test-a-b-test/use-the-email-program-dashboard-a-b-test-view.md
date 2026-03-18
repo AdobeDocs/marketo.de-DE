@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359549
-description: Verwenden des E-Mail-Programm-Dashboards - A/B-Testansicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die A/B-Testansicht des Dashboards des E-Mail-Programms verwenden. Überwachen Sie Testvarianten und die Leistung, bevor Sie einen Gewinner bestimmen.
 title: Verwenden des Dashboards für E-Mail-Programme – A/B-Testansicht
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 22%
+source-wordcount: '118'
+ht-degree: 21%
 
 ---
 

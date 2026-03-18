@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359520
-description: Verwenden von „Datum/Uhrzeit“-A/B-Tests - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie A/B-Test mit Datum/Uhrzeit für E-Mail-Programme ausführen. Testen Sie verschiedene Versandzeitpunkte und wählen Sie einen Gewinner nach Leistung aus.
 title: Verwenden von A/B-Tests nach Datum/Uhrzeit
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '275'
 ht-degree: 4%
 
 ---

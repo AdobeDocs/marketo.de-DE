@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359834
-description: Priorisieren von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Stream-Inhalte durch Ziehen und Ablegen priorisieren. Inhalte werden in jedem Cast von oben nach unten bereitgestellt und zweimal wird kein Inhalt gesendet.
 title: Priorisieren von Stream-Inhalten
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 5%
+source-wordcount: '120'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 Nachdem Sie Inhalte zu Ihrem Stream hinzugefügt haben, sollten Sie die Priorität ändern. Der Inhalt wird bei jeder Besetzung immer von oben nach unten bereitgestellt, und es werden keine Inhalte zweimal an dieselbe Person gesendet.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 

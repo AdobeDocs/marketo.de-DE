@@ -2,15 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: Anpassbare Fragmente
-description: Erfahren Sie, wie Sie Fragmente anpassen, indem Sie einige der zugehörigen Felder als bearbeitbar festlegen.
+description: Erfahren Sie, wie Sie Fragmente anpassen können, indem Sie einige Felder bearbeitbar machen. Erstellen Sie flexible wiederverwendbare Fragmente in der E-Mail-Designer.
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: cc6c04ca8a72f6efb0bec93cba084fe2993f53f0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 64%
+source-wordcount: '420'
+ht-degree: 60%
 
 ---
 

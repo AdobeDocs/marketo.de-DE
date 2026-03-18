@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147340
-description: Senden von E-Mails vom Lead-Inhaber - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie E-Mails über die Adresse des Lead-Inhabers senden. Verwenden Sie die Option Von Lead-Inhaber senden , damit E-Mails den richtigen Absender anzeigen.
 title: Senden von E-Mails von der Lead-Inhaberin bzw. dem Lead-Inhaber
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 7%
+source-wordcount: '206'
+ht-degree: 6%
 
 ---
 

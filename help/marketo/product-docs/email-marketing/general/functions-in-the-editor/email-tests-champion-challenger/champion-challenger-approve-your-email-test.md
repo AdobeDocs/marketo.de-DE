@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359581
-description: Champion/Challenger - E-Mail-Test genehmigen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihren Champion-/Challenger-E-Mail-Test genehmigen. Vollständige Genehmigung, damit der Test ausgeführt und ein Gewinner bestimmt werden kann.
 title: Champion/Challenger - Genehmigen Sie Ihren E-Mail-Test
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 5%
+source-wordcount: '151'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. Und so geht
 >
 >[Konfigurieren von Berichtswarnungen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 

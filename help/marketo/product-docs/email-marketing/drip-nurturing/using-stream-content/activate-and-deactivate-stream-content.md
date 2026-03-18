@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359669
-description: Aktivieren und Deaktivieren von Stream-Inhalten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Stream-Inhalte für Interaktionscasts aktivieren und deaktivieren.
 title: Aktivieren und Deaktivieren von Stream-Inhalten
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 8%
+source-wordcount: '138'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Stream-Inhalte sind standardmäßig deaktiviert. Aktivieren Sie Inhalte, um sie 
 
 ## Stream-Inhalt aktivieren {#activate-stream-content}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities.png)
 

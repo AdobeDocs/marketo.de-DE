@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359877
-description: Deaktivieren und Aktivieren von Benachrichtigungen über erschöpften Inhalt - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Benachrichtigungen mit erschöpftem Inhalt aktivieren oder deaktivieren. Verwenden Sie die Registerkarte Setup und die Einstellung Erschöpfte Inhaltsbenachrichtigungen für Ihr Programm.
 title: Deaktivieren und Aktivieren von Benachrichtigungen übe erschöpfte Inhalte
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 15%
+source-wordcount: '104'
+ht-degree: 17%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Wenn Personen alle Inhalte in einem Stream ausfüllen, kann Marketo Ihnen eine Benachrichtigung senden. Sie können die Benachrichtigungen entsprechend Ihren Anforderungen deaktivieren/aktivieren. Und so geht das.
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900587
-description: Verwenden Ihrer dedizierten IP-Adressen zum Senden von E-Mails - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo dedizierte IP-Adressen für den E-Mail-Versand verwenden. Holen Sie sich von Zustellbarkeitsberatern Coaching zu IP-Warm-up und DNS-Einrichtung.
 title: Verwenden von dedizierten IP-Adressen zum Senden von E-Mails
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '428'
 ht-degree: 4%
 
 ---
@@ -42,4 +42,4 @@ Um die langfristige Zustellbarkeit zu maximieren, bieten die Zustellbarkeitsbera
 
 >[!CAUTION]
 >
->Wenn eine hohe Anzahl von Bounces oder andere Probleme auftreten, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support). Wenn Sie mehr zielgerichteten Support benötigen, um zu erfahren, wie Sie eine saubere Datenbank pflegen und die Interaktion mit Ihrem Programm verbessern können, können Sie die E-Mail-Zustellbarkeitsberater von Marketo für ein individuelles Service-Paket kontaktieren.
+>Wenn eine hohe Anzahl von Bounces oder andere Probleme auftreten, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de). Wenn Sie mehr zielgerichteten Support benötigen, um zu erfahren, wie Sie eine saubere Datenbank pflegen und die Interaktion mit Ihrem Programm verbessern können, können Sie die E-Mail-Zustellbarkeitsberater von Marketo für ein individuelles Service-Paket kontaktieren.
