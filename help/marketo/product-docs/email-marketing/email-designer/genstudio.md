@@ -42,7 +42,7 @@ Exportieren Sie ganz einfach eine Vorlage mit den Richtlinien Ihrer Marke nach G
 
    ![Exportieren von HTML](assets/genstudio-integration-1.png)
 
-1. [Laden Sie die exportierte ](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} HTML in GenStudio for Performance Marketing hoch.
+1. [Laden Sie die exportierte &#x200B;](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} HTML in GenStudio for Performance Marketing hoch.
 
 1. Verwenden Sie in GenStudio diese Vorlage, um [mehrere E-Mail-Varianten zu erstellen](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} mit KI-Eingabeaufforderungen und speichern Sie sie.
 

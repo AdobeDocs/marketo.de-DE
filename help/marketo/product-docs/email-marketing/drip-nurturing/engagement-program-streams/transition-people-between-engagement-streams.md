@@ -31,7 +31,7 @@ Interaktionsprogramme können mehr als einen Stream haben. Wenn Sie [einen Strea
    >
    >Übergangsregeln rufen einen Stream ab. Definieren Sie immer die Regeln für den Stream, in den Sie wechseln möchten.
 
-   Sobald sich das Fenster für die Übergangsregel öffnet, suchen Sie den gewünschten Trigger und ziehen Sie ihn in den entsprechenden Bereich. In diesem Fall möchten wir Personen in das [!UICONTROL Mid-Stadium“ ], wenn es zu einer Opportunity hinzugefügt wird.
+   Sobald sich das Fenster für die Übergangsregel öffnet, suchen Sie den gewünschten Trigger und ziehen Sie ihn in den entsprechenden Bereich. In diesem Fall möchten wir Personen in das [!UICONTROL Mid-Stadium“ &#x200B;], wenn es zu einer Opportunity hinzugefügt wird.
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
@@ -53,4 +53,4 @@ Interaktionsprogramme können mehr als einen Stream haben. Wenn Sie [einen Strea
 
    >[!NOTE]
    >
-   >Die oben beschriebenen Schritte *tun* gelten auch für Personen[ die ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) anhalten.
+   >Die oben beschriebenen Schritte *tun* gelten auch für Personen[&#x200B; die &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) anhalten.

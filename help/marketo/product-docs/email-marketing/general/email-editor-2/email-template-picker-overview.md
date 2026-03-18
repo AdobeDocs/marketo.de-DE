@@ -21,7 +21,7 @@ Wenn Sie [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/c
 
 ![](assets/two-2.png)
 
-Wenn Ihre E-Mail wichtig ist und Sie Kommunikationsbeschränkungen umgehen möchten, aktivieren [ das Kontrollkästchen, um ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) E-Mail funktionsfähig zu machen. **[!UICONTROL Im Editor öffnen]** ist standardmäßig ausgewählt und bedeutet, dass Sie Ihre neue E-Mail sofort bearbeiten möchten. **[!UICONTROL Erstellen]** bedeutet, erstellen!
+Wenn Ihre E-Mail wichtig ist und Sie Kommunikationsbeschränkungen umgehen möchten, aktivieren [&#x200B; das Kontrollkästchen, um &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) E-Mail funktionsfähig zu machen. **[!UICONTROL Im Editor öffnen]** ist standardmäßig ausgewählt und bedeutet, dass Sie Ihre neue E-Mail sofort bearbeiten möchten. **[!UICONTROL Erstellen]** bedeutet, erstellen!
 
 ![](assets/three-2.png)
 

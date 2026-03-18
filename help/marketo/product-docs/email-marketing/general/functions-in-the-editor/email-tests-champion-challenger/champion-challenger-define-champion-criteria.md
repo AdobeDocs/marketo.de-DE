@@ -49,7 +49,7 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Champion-Kriterien
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo erlaubt Trigger nur für Personen, denen die E-Mail von diesem E-Mail-Programm aus gesendet wurde. Es ist nicht erforderlich, einen Filter &quot;[!UICONTROL  gesendete E-]&quot; hinzuzufügen.
+   Marketo erlaubt Trigger nur für Personen, denen die E-Mail von diesem E-Mail-Programm aus gesendet wurde. Es ist nicht erforderlich, einen Filter &quot;[!UICONTROL &#x200B; gesendete E-]&quot; hinzuzufügen.
 
 1. Klicken Sie auf **[!UICONTROL Schließen]**.
 

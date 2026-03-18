@@ -17,7 +17,7 @@ Sehen Sie sich mit dieser Dashboard-Ansicht an, wie Ihre E-Mail-Programme funkti
 
 >[!CAUTION]
 >
->Um präzise Berichte zu erstellen, vermeiden Sie _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Dadurch werden alle Daten in jedem Reporting-Dashboard aggregiert, das an diese E-Mail angehängt ist. Wenn Sie eine E-Mail wiederverwenden müssen, [ Sie sie stattdessen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, da diese die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt.
+>Um präzise Berichte zu erstellen, vermeiden Sie _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Dadurch werden alle Daten in jedem Reporting-Dashboard aggregiert, das an diese E-Mail angehängt ist. Wenn Sie eine E-Mail wiederverwenden müssen, [&#x200B; Sie sie stattdessen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, da diese die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt.
 
 >[!NOTE]
 >

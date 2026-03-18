@@ -37,4 +37,4 @@ Wenn Sie jemals einen Stream aus Ihrem Interaktionsprogramm löschen müssen, f�
 
    >[!NOTE]
    >
-   >Wenn der Stream Personen enthält, werden Sie aufgefordert, diese zuerst [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)zu verschieben“.
+   >Wenn der Stream Personen enthält, werden Sie aufgefordert, diese zuerst [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)zu verschieben“.
