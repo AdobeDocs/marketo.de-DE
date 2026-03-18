@@ -1,12 +1,12 @@
 ---
-description: Ändern des Marketo-Verkaufskennworts - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihr Marketo-Verkaufskennwort in Insight-Verkaufsaktionen ändern. Aktualisieren Sie das Passwort in den Einstellungen, wenn Sie nicht die Nur-Salesforce-Anmeldung verwenden.
 title: Ändern des Marketo Sales-Kennworts
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 9%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 
@@ -20,7 +20,7 @@ Müssen Sie Ihr Passwort ändern? Und so geht das.
 
    ![](assets/change-your-marketo-sales-password-1.png)
 
-1. Die Seite [!UICONTROL Mein Profil] wird standardmäßig geöffnet. Aktivieren [!UICONTROL &#x200B; unter &quot;]&quot; das Kontrollkästchen **[!UICONTROL Kennwort ändern]**.
+1. Die Seite [!UICONTROL Mein Profil] wird standardmäßig geöffnet. Aktivieren [!UICONTROL  unter &quot;]&quot; das Kontrollkästchen **[!UICONTROL Kennwort ändern]**.
 
    ![](assets/change-your-marketo-sales-password-2.png)
 

@@ -1,12 +1,12 @@
 ---
-description: Hinzufügen von Massenaktionsschaltflächen zu Salesforce Classic - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Salesforce Classic Massenaktionsschaltflächen zu Listenansichten hinzufügen. Fügen Sie die Schaltflächen Verkaufs-E-Mail senden und Zu Kampagne hinzufügen hinzu.
 title: Hinzufügen von Schaltflächen für Massenaktionen zu Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 6%
+source-wordcount: '126'
+ht-degree: 5%
 
 ---
 

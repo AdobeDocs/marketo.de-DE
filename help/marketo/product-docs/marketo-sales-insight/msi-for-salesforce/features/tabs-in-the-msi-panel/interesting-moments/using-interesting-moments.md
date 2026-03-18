@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951640
-description: Verwenden interessanter Momente - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie interessante Momente im MSI-Bedienfeld verwenden. Anzeigen und Interpretieren wichtiger Aktivitäten, die auf Lead-Interaktion hinweisen
 title: Verwendung von interessanten Momenten
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---
@@ -51,7 +51,7 @@ Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Vertriebsteam r
 
 ## Wie kann das noch interessanter werden?  {#how-can-this-get-even-more-interesting}
 
-Token! Fügen Sie diese im Feld Beschreibung hinzu, um Ihrem Verkaufs-Team spezifischere Informationen bereitzustellen, z. B. die Betreffzeile der E-Mail, die der Lead geöffnet hat, oder wer sie gesendet hat. Im Glossar „Token für interessante Momente“ [&#x200B; Sie, welche Token &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) verwendet werden können.
+Token! Fügen Sie diese im Feld Beschreibung hinzu, um Ihrem Verkaufs-Team spezifischere Informationen bereitzustellen, z. B. die Betreffzeile der E-Mail, die der Lead geöffnet hat, oder wer sie gesendet hat. Im Glossar „Token für interessante Momente“ [ Sie, welche Token ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) verwendet werden können.
 
 >[!TIP]
 >
@@ -59,7 +59,7 @@ Token! Fügen Sie diese im Feld Beschreibung hinzu, um Ihrem Verkaufs-Team spezi
 
 ## Wie sieht ein interessanter Moment in Marketo aus?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interessante Momente werden im Aktivitätsprotokoll eines [Leads) &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Interessante Momente werden im Aktivitätsprotokoll eines [Leads) ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/using-interesting-moments-5.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516390
-description: Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange - Marketo-Dokumentation - Produktdokumentation
+description: Erfahren Sie, wie Sie das Marketo Sales Insight-Paket von Salesforce AppExchange installieren. Fügen Sie das Paket zu Ihrer Salesforce-Instanz hinzu.
 title: Installieren des Marketo Sales Insight-Pakets in Salesforce AppExchange
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 4%
+source-wordcount: '260'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Sie müssen die [!DNL Marketo Sales Insight]-App in Ihrem [!DNL Salesforce]-Abon
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!NOTE]
 >

@@ -1,11 +1,11 @@
 ---
-description: Empfohlene Vorlagen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über empfohlene Vorlagen und Best Practices. Erstellen Sie effektive Verkaufs-E-Mail-Vorlagen, die Interaktionen ermöglichen.
 title: Empfohlene Vorlagen
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '308'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Die von [!DNL Sales Insight Action] empfohlenen Vorlagen helfen Ihnen, die richt
 
    ![](assets/recommended-templates-2.png)
 
-1. Klicken Sie auf der Karte [!UICONTROL Empfohlene &#x200B;]Vorlage auf **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie auf der Karte [!UICONTROL Empfohlene ]Vorlage auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/recommended-templates-3.png)
 

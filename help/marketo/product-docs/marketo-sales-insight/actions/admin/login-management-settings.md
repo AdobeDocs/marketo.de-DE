@@ -1,11 +1,11 @@
 ---
-description: Anmeldeverwaltungseinstellungen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Anmeldeverwaltungseinstellungen für die Authentifizierung von Sales Insight-Aktionen. Legen Sie nur Salesforce oder andere Optionen fest.
 title: Einstellungen zur Anmeldeverwaltung
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '462'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Mit den Einstellungen der Anmeldeverwaltung können Administratoren die Authenti
 
 >[!NOTE]
 >
->Standardmäßig ist die Option [!UICONTROL Nur Salesforce] für [!DNL Sales Insight Actions] Instanzen ausgewählt. Wir empfehlen diese Einstellung, damit Benutzer sich von [&#x200B; aus &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)automatisch [!DNL Salesforce] können.
+>Standardmäßig ist die Option [!UICONTROL Nur Salesforce] für [!DNL Sales Insight Actions] Instanzen ausgewählt. Wir empfehlen diese Einstellung, damit Benutzer sich von [ aus ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)automatisch [!DNL Salesforce] können.
 
 ## Aktualisieren der Einstellungen für die Anmeldeverwaltung {#update-login-management-settings}
 
@@ -30,7 +30,7 @@ Führen Sie die folgenden Schritte aus, um Ihre Einstellungen für die Anmeldeve
 
    ![](assets/login-management-settings-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/login-management-settings-2.png)
 

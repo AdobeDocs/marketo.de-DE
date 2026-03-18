@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513865
-description: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2015 - Dokumentation zu Marketo - Produktdokumentation
+description: Erfahren Sie, wie Sie Marketo Sales Insight in Microsoft Dynamics 2015 installieren und konfigurieren. Fügen Sie die Lösung hinzu und schließen Sie die Einrichtung ab.
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2015
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 4%
+source-wordcount: '415'
+ht-degree: 5%
 
 ---
 
@@ -19,17 +19,17 @@ Marketo Sales Insight ist ein fantastisches Tool, mit dem Sie Ihrem Vertriebstea
 >
 >Abschließen der Marketo-Microsoft-Integration
 >
->[Laden Sie die richtige Lösung &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version von [!DNL Microsoft Dynamics CRM] herunter.
+>[Laden Sie die richtige Lösung ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version von [!DNL Microsoft Dynamics CRM] herunter.
 
 ## Lösung importieren {#import-solution}
 
-OK, jetzt ist es Zeit, die [!DNL Marketo Sales Insight] Lösung in [!DNL Microsoft Dynamics] zu importieren. So geht&#39;s:
+OK, jetzt ist es Zeit, die [!DNL Marketo Sales Insight] Lösung in [!DNL Microsoft Dynamics] zu importieren. So geht’s:
 
 1. Klicken Sie unter [!UICONTROL Microsoft Dynamics CRM] auf **[!UICONTROL Einstellungen]**.
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Anpassungen]**.
+1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Anpassungen]**.
 
    ![](assets/image2015-4-29-14-3a22-3a1.png)
 
@@ -75,7 +75,7 @@ OK, jetzt ist es Zeit, die [!DNL Marketo Sales Insight] Lösung in [!DNL Microso
 
 ## Marketo und Sales Insight verbinden {#connect-marketo-and-sales-insight}
 
-Binden wir Ihre Marketo-Instanz an [!DNL Sales Insight] in [!DNL Dynamics]. So geht&#39;s:
+Binden wir Ihre Marketo-Instanz an [!DNL Sales Insight] in [!DNL Dynamics]. So geht’s:
 
 >[!NOTE]
 >

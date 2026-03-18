@@ -1,12 +1,12 @@
 ---
-description: Registerkarte „Benutzeroberfläche“ - Marketo-Dokumente - Produktdokumentation
+description: Machen Sie sich mit der Registerkarte „Ich“ und den Statistiken Ihrer E-Mail-Interaktionen in Sales Insight-Aktionen vertraut. Anzeigen gesendeter E-Mails, der Verwendung von Vorlagen und der ansprechendsten E-Mails und Kontakte
 title: Grundlegendes zur Registerkarte „Ich“
 exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 4%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 

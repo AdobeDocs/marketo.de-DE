@@ -1,12 +1,12 @@
 ---
-description: Senden einer Test-E-Mail - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie über das MSI-Bedienfeld in Salesforce eine Test-E-Mail senden. Vorschau und Test von Verkaufs-E-Mail-Vorlagen vor dem Versand an Leads.
 title: Senden einer Test-E-Mail
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 5%
+source-wordcount: '170'
+ht-degree: 4%
 
 ---
 
@@ -34,4 +34,4 @@ Sie erhalten eine E-Mail mit Token-Werten, die für die von Ihnen ausgewählten 
 
 >[!NOTE]
 >
->Keine Sorge. Sie bleiben auch nach dem Versand der Test-E-Mail auf der [!UICONTROL &#x200B; &quot;]Marketo-E-Mail senden, damit Sie die von Ihnen erstellte E-Mail nicht verlieren.
+>Keine Sorge. Sie bleiben auch nach dem Versand der Test-E-Mail auf der [!UICONTROL  &quot;]Marketo-E-Mail senden, damit Sie die von Ihnen erstellte E-Mail nicht verlieren.

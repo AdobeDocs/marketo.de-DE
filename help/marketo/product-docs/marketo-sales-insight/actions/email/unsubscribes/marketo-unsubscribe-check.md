@@ -1,12 +1,12 @@
 ---
-description: Marketo-Abmeldeprüfung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Marketo-Abmeldeprüfung, damit Verkäufer keine E-Mails an Personen senden können, die sich in Marketo abgemeldet haben.
 title: Überprüfen der Abmeldung von Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 4%
+source-wordcount: '149'
+ht-degree: 6%
 
 ---
 
@@ -16,7 +16,7 @@ Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Mar
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 ## Einschalten {#turning-it-on}
 
@@ -24,7 +24,7 @@ Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Mar
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin] auf **[!UICONTROL Abmeldungen]**.
+1. Klicken [!UICONTROL  unter „Admin] auf **[!UICONTROL Abmeldungen]**.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 

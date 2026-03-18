@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571739
-description: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 365 - Marketo-Dokumentation - Produktdokumentation
+description: Erfahren Sie, wie Sie Marketo Sales Insight in Microsoft Dynamics 365 installieren und konfigurieren. Fügen Sie die Lösung hinzu und stellen Sie eine Verbindung zu Marketo her.
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 365
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 4%
+source-wordcount: '431'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 >
 >Abschließen der Marketo-Microsoft-Integration
 >
->[Laden Sie die richtige Lösung &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version von [!DNL Microsoft Dynamics CRM] herunter.
+>[Laden Sie die richtige Lösung ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version von [!DNL Microsoft Dynamics CRM] herunter.
 
 ## Lösung importieren {#import-solution}
 
@@ -43,7 +43,7 @@ ht-degree: 4%
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. Klicken Sie im neuen Fenster auf &quot;**[!UICONTROL &quot;]**. Wählen Sie die [Marketo Sales Insight-Lösung aus, die Sie in Schritt 1 heruntergeladen &#x200B;](#msi). Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie im neuen Fenster auf &quot;**[!UICONTROL &quot;]**. Wählen Sie die [Marketo Sales Insight-Lösung aus, die Sie in Schritt 1 heruntergeladen ](#msi). Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 
@@ -73,7 +73,7 @@ Binden wir Ihre Marketo-Instanz an [!DNL Sales Insight] in [!DNL Dynamics]. So g
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Melden Sie sich bei Marketo an und gehen Sie zum Abschnitt **[!UICONTROL Admin]**.
 

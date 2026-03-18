@@ -1,10 +1,10 @@
 ---
-description: Verwenden der Massenhinzufügung zur Verkaufskampagne in Salesforce - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einer Verkaufskampagne von Salesforce aus mehrere Leads und Kontakte hinzufügen. Wählen Sie eine Listenansicht aus und verwenden Sie die Schaltfläche Zu Kampagne hinzufügen in Lightning oder Classic.
 title: Verwenden der Massenhinzufügung zu einer Verkaufskampagne in Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '598'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: Welche Browser werden von Sales Insight Actions unterstützt? – Marketo-Dokumente – Produktdokumentation
+description: Hier erfahren Sie, welche Browser Sales Insight Actions unterstützt. Für ein optimales Benutzererlebnis wird ein unterstützter Browser verwendet.
 title: Welche Browser werden von Sales Insight Actions unterstützt?
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 37%
+source-wordcount: '66'
+ht-degree: 34%
 
 ---
 

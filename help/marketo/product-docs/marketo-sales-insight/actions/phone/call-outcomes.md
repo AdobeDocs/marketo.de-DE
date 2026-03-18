@@ -1,11 +1,11 @@
 ---
-description: Aufrufergebnisse - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Anrufergebnisse in Sales Insight-Aktionen. Protokollergebnis beim Beenden eines Aufrufs, damit die Aktivität in Marketo und Salesforce aufgezeichnet wird.
 title: Aufrufergebnisse
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '196'
 ht-degree: 2%
 
 ---

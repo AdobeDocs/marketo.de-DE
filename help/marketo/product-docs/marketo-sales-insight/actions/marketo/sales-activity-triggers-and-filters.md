@@ -1,12 +1,12 @@
 ---
-description: Trigger und Filter für Vertriebsaktivitäten - Marketo-Dokumente - Produktdokumentation
+description: Verstehen der Trigger und Filter von Verkaufsaktivitäten in Marketo. Verwenden Sie die Aktivitäten Aktionen , um Trigger für Smart-Kampagnen und Segment-Leads zu erstellen.
 title: Auslöser und Filter für Verkaufsaktivitäten
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 7%
 
 ---
 

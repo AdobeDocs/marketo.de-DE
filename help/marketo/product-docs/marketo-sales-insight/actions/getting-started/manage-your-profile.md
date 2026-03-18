@@ -1,9 +1,9 @@
 ---
-description: Profil verwalten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihr Sales Insight-Aktionsprofil verwalten. Aktualisieren Sie die Voreinstellungen für Name, E-Mail, Signatur und Benachrichtigung in den Einstellungen.
 title: Verwalten Ihres Profils
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '269'
 ht-degree: 6%
 
 ---
@@ -26,7 +26,7 @@ Hier können Sie Ihren Namen und/oder Ihr Kennwort aktualisieren.
 
 >[!NOTE]
 >
->Ihre E-Mail-Adresse ist so eingestellt, dass nur sie angezeigt wird. Wenn Sie das ändern müssen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Ihre E-Mail-Adresse ist so eingestellt, dass nur sie angezeigt wird. Wenn Sie das ändern müssen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
 
 In diesem Abschnitt können Sie auch Ihr Kennwort ändern. Die Schritte werden in diesem Dokument beschrieben.
 

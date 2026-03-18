@@ -1,11 +1,11 @@
 ---
-description: Erstellen eines Teams - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Sales Insight-Aktionen ein Team erstellen, um Vorlagen, Kampagnen und Gruppen freizugeben.
 title: Erstellen eines Teams
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '132'
 ht-degree: 4%
 
 ---
@@ -20,7 +20,7 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
    ![](assets/creating-a-team-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
 
    ![](assets/creating-a-team-2.png)
 
@@ -38,7 +38,7 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
 ## Personen zu einem Team hinzufügen {#add-people-to-a-team}
 
-1. Wählen Sie noch [!UICONTROL &#x200B; &quot;]&quot; die Option **[!UICONTROL Alle Mitglieder]** aus.
+1. Wählen Sie noch [!UICONTROL  &quot;]&quot; die Option **[!UICONTROL Alle Mitglieder]** aus.
 
    ![](assets/creating-a-team-5.png)
 

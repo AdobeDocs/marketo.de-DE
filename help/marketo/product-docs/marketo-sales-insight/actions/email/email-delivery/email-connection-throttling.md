@@ -1,11 +1,11 @@
 ---
-description: Drosselung der E-Mail-Verbindung - Marketo-Dokumente - Produktdokumentation
+description: Machen Sie sich mit der Drosselung der E-Mail-Verbindung und den Sendebeschränkungen in Sales Insight-Aktionen vertraut. Erfahren Sie, wie sich die Drosselung auf den Versand auswirkt und wie Sie innerhalb der Beschränkungen bleiben.
 title: Drosselung der E-Mail-Verbindung
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '417'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Wenn Limits durchgängig überschritten werden, kann dies manchmal als verdächt
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/email-connection-throttling-2.png)
 

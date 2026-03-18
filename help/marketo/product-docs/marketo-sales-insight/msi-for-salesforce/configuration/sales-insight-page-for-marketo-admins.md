@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762409
-description: Vertriebs-Insight-Seite für Marketo-Administrierende - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Seite „Sales Insight" für Marketo-Administratoren. Zugriff auf Konfigurations- und MSI-Einstellungen von Aktionen.
 title: Sales Insight-Seite für Marketo-Admins
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '409'
 ht-degree: 2%
 
 ---
@@ -38,7 +38,7 @@ Standardmäßig verwendet [!DNL Marketo Sales Insight] das Feld Lead-Bewertung z
 
    ![](assets/four.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Lead]Bewertungseinstellungen“ auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL  unter „Lead]Bewertungseinstellungen“ auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/five.png)
 
@@ -68,7 +68,7 @@ Standardmäßig verwendet [!DNL Marketo Sales Insight] das Feld Lead-Bewertung z
 
 **Abmeldeeinstellungen:**
 
-Sie können aus den folgenden Abmeldeeinstellungen für „Keine Vorlage, &quot;[!UICONTROL Standard-E-Mails] und [!UICONTROL Operative E-Mails“ &#x200B;]
+Sie können aus den folgenden Abmeldeeinstellungen für „Keine Vorlage, &quot;[!UICONTROL Standard-E-Mails] und [!UICONTROL Operative E-Mails“ ]
 
 * [!UICONTROL Respektieren Sie die Abmeldeeinstellung]
 * [!UICONTROL Respektieren Sie die Abmeldeeinstellungen, wenn mehr als 1 Empfänger vorhanden ist]
@@ -85,7 +85,7 @@ Wenn diese Option aktiviert ist, können MSI-Benutzer ihren Lead-Feed in einem R
 
 **Token-Ablauf:**
 
-Der Ablauf von Token wird im Feature Manager gesteuert. Um ihn aktivieren/deaktivieren zu lassen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support). Wenn diese Option aktiviert ist, laufen alle Marketo-Token innerhalb von 10 Minuten ab. Wenn deaktiviert, laufen Marketo-Token nicht ab.
+Der Ablauf von Token wird im Feature Manager gesteuert. Um ihn aktivieren/deaktivieren zu lassen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de). Wenn diese Option aktiviert ist, laufen alle Marketo-Token innerhalb von 10 Minuten ab. Wenn deaktiviert, laufen Marketo-Token nicht ab.
 
 Token, die vor der Aktivierung der Token-Gültigkeit generiert wurden, müssen nicht über eine Ablaufzeit verfügen, um sie zu validieren, sodass sie nicht ablaufen, selbst wenn die Funktion derzeit aktiviert ist.
 

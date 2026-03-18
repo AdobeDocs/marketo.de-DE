@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099167
-description: Auswählen einer Aktion in Sales Insight - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Aktion in Sales Insight im MSI-Bedienfeld auswählen. E-Mail senden, zu Kampagne hinzufügen, einen Aufruf protokollieren oder eine Aufgabe hinzufügen.
 title: Auswählen einer Aktion in Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 9%
+source-wordcount: '202'
+ht-degree: 8%
 
 ---
 

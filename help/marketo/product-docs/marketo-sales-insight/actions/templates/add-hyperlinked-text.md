@@ -1,12 +1,12 @@
 ---
-description: Hyperlinkten Text hinzufügen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in E-Mail-Vorlagen per Hyperlink verknüpften Text hinzufügen. Einfügen verfolgbarer Links und Formatieren von Link-Text im Vorlageneditor.
 title: Hinzufügen von Hyperlink-Text
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 6%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Gehen Sie wie folgt vor, um zu erfahren, wie Sie Ihren E-Mail-Vorlagen Hyperlinks hinzufügen.
 
-1. Wählen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Vorlagen“ die gewünschte Vorlage aus (oder erstellen Sie eine neue).
+1. Wählen Sie auf [!UICONTROL  Seite ]Vorlagen“ die gewünschte Vorlage aus (oder erstellen Sie eine neue).
 
    ![](assets/add-hyperlinked-text-1.png)
 
@@ -26,11 +26,11 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie Ihren E-Mail-Vorlagen Hyperlink
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Geben Sie die URL ein, mit der sie verknüpft werden soll (d. h. `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de`). Wählen Sie aus, ob die URL im selben oder einem neuen Fenster geöffnet werden soll, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie die URL ein, mit der sie verknüpft werden soll (d. h. `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Wählen Sie aus, ob die URL im selben oder einem neuen Fenster geöffnet werden soll, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 
-1. Klicken Sie **[!UICONTROL erneut auf]** Speichern“.
+1. Klicken Sie erneut auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-hyperlinked-text-5.png)
 

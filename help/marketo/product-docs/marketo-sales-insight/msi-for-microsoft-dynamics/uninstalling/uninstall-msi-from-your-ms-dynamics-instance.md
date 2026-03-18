@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355600
-description: Deinstallieren von MSI von Ihrer MS [!DNL Dynamics] Instance - Marketo Docs - Produktdokumentation
+description: Erfahren Sie, wie Sie Marketo Sales Insight von Ihrer MS Dynamics-Instanz deinstallieren. Entfernen Sie die Lösung und reinigen Sie sie bei Bedarf.
 title: Deinstallieren von MSI von der MS [!DNL Dynamics] Instance
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Um MSI von Ihrer MS [!DNL Dynamics]-Instanz zu deinstallieren, müssen Sie sowoh
 
    >[!NOTE]
    >
-   >Stellen Sie sicher[&#x200B; dass Sie die globale MS Dynamics-](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) deaktivieren, bevor Sie die Feldsynchronisierung deaktivieren.
+   >Stellen Sie sicher[ dass Sie die globale MS Dynamics-](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) deaktivieren, bevor Sie die Feldsynchronisierung deaktivieren.
 
    ![](assets/eight.png)
 

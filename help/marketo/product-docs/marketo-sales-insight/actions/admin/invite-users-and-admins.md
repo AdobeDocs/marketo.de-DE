@@ -1,12 +1,12 @@
 ---
-description: Benutzer und Administratoren einladen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Benutzer und Administratoren über User Management zu Sales Insight-Aktionen einladen. Fügen Sie Benutzer per E-Mail oder CSV hinzu und weisen Sie Teams und Marketo Workspace zu.
 title: Einladen von Benutzenden und Admins
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 7%
+source-wordcount: '207'
+ht-degree: 6%
 
 ---
 
@@ -20,7 +20,7 @@ Das Hinzufügen von Benutzern oder Administratoren ist schnell und einfach!
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/invite-users-and-admins-2.png)
 
@@ -64,7 +64,7 @@ Führen Sie diese Schritte aus, um einen vorhandenen Benutzer zum Administrator 
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/invite-users-and-admins-9.png)
 

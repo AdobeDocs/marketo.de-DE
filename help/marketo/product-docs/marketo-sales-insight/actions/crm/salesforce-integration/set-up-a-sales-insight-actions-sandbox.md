@@ -1,10 +1,10 @@
 ---
-description: Einrichten einer Insight-Aktions-Sandbox für den Vertrieb - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Sandbox für Sales Insight-Aktionen zum Testen einrichten. Bereitstellung anfordern, Instanz aktivieren und Verbindung zur Salesforce Sandbox herstellen.
 title: Einrichten einer Sandbox für Sales Insight Actions
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '682'
 ht-degree: 2%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package&rbrace; ausschließlich mit dem Salesforce CRM integriert &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package} ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
 Wenn Sie über eine Marketo-Sandbox verfügen, können Sie die Verwendung einer Actions-Instanz mit Ihrer Sandbox zu Testzwecken aktivieren.
 
@@ -23,7 +23,7 @@ Gehen Sie wie folgt vor, um eine Actions-Instanz für die Zusammenarbeit mit Ihr
 
 >[!NOTE]
 >
->Erfahren Sie mehr darüber, wie Benutzer ihren [&#x200B; aktivieren &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md){target="_blank"}. Außerdem erfahren Sie, wie sich Benutzer [bei Salesforce authentifizieren](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}. Wenn Sie es vorziehen, Benutzer per E-Mail und Kennwort authentifizieren zu lassen, können Sie mehr darüber in unserem Artikel [Login Management Settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"} erfahren.
+>Erfahren Sie mehr darüber, wie Benutzer ihren [ aktivieren ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md){target="_blank"}. Außerdem erfahren Sie, wie sich Benutzer [bei Salesforce authentifizieren](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}. Wenn Sie es vorziehen, Benutzer per E-Mail und Kennwort authentifizieren zu lassen, können Sie mehr darüber in unserem Artikel [Login Management Settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"} erfahren.
 
 ## Anfordern einer Aktionsinstanz zur Bereitstellung in Ihrer Marketo-Sandbox {#request=an-actions-instance}
 
@@ -73,7 +73,7 @@ Für „Aktionen“ müssen Sie zunächst eine neue Instanz bei einem Salesforce
 
 ## Anfordern der Konvertierung Ihrer Aktionsinstanz, damit sie mit Ihrer Salesforce-Sandbox kompatibel ist {#request-your-actions-instance-be-converted}
 
-1. Wenden Sie sich an den [Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}Support, um Ihre neue Sales Insight Actions-Instanz so zu konfigurieren, dass sie mit Salesforce Sandbox kompatibel ist.
+1. Wenden Sie sich an den [Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}Support, um Ihre neue Sales Insight Actions-Instanz so zu konfigurieren, dass sie mit Salesforce Sandbox kompatibel ist.
 
 1. Testen Sie, ob alles richtig konfiguriert ist, indem Sie versuchen, sich mit der Schaltfläche „Mit Salesforce anmelden“ auf der Seite toutapp.com/login anzumelden.
 
@@ -83,7 +83,7 @@ Für „Aktionen“ müssen Sie zunächst eine neue Instanz bei einem Salesforce
    >
    >Wenn an dieser Stelle Probleme auftreten, können Sie das Zurücksetzen des Kennworts anfordern und mithilfe eines Kennworts den Zugriff auf Ihr Konto wiederherstellen.
 
-Jetzt kann Ihre Instanz mit Ihrer Salesforce Sandbox-Instanz verwendet werden. Wenn Sie die automatische Anmeldung von [Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}Salesforce verwenden möchten, können Sie in Ihren [Anmeldeverwaltungseinstellungen“ auf „Nur Salesforce&quot; &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
+Jetzt kann Ihre Instanz mit Ihrer Salesforce Sandbox-Instanz verwendet werden. Wenn Sie die automatische Anmeldung von [Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}Salesforce verwenden möchten, können Sie in Ihren [Anmeldeverwaltungseinstellungen“ auf „Nur Salesforce&quot; ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
 >[!NOTE]
 >

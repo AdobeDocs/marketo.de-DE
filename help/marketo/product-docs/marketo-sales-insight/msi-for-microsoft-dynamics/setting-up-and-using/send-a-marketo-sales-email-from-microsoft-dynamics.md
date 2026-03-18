@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953338
-description: Senden einer Marketo-Verkaufs-E-Mail von Microsoft Dynamics - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Marketo-Verkaufs-E-Mail von Microsoft Dynamics aus senden. Verfassen und Senden getrackter E-Mails über das MSI-Bedienfeld in Dynamics.
 title: Senden einer Marketo-Verkaufs-E-Mail aus Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '165'
 ht-degree: 6%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Verwenden einer Vorlage im Fenster „Erstellen“ - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie beim Senden von Verkaufs-E-Mails im Fenster „Erstellen“ eine Vorlage verwenden. Fügen Sie Vorlagen und Pin-Kategorien für den Schnellzugriff ein.
 title: Verwenden einer Vorlage im Fenster „Verfassen“
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '303'
 ht-degree: 4%
 
 ---

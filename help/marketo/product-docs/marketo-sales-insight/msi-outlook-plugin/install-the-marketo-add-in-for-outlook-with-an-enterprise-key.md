@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377488
-description: Installieren des Marketo-Add-ins für  [!DNL Outlook]  mit einem Unternehmensschlüssel - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Marketo-Add-in für Outlook mit einem Unternehmensschlüssel installieren. Bereitstellen des Add-Ins für Ihre Organisation mithilfe eines Unternehmensschlüssels.
 title: Installieren des Marketo-Add-ins für  [!DNL Outlook]  mit einem Unternehmensschlüssel
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
 # Installieren des Marketo-Add-ins für [!DNL Outlook] mit einem Unternehmensschlüssel {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Vertriebsmitarbeiter verfügen häufig nicht über Administratorrechte für ihre Notebooks, und ihre IT-Teams sind für die Remote-Installation der gesamten Software verantwortlich. Das Marketo-Add-in für Outlook kann auf diese Weise mit Ihrem Unternehmensschlüssel installiert werden, der im Abschnitt Sales Insight von Admin zu finden ist. Wenn die Schaltfläche „Unternehmensschlüssel anzeigen“ nicht angezeigt wird, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support), um sie zu aktivieren.
+Vertriebsmitarbeiter verfügen häufig nicht über Administratorrechte für ihre Notebooks, und ihre IT-Teams sind für die Remote-Installation der gesamten Software verantwortlich. Das Marketo-Add-in für Outlook kann auf diese Weise mit Ihrem Unternehmensschlüssel installiert werden, der im Abschnitt Sales Insight von Admin zu finden ist. Wenn die Schaltfläche „Unternehmensschlüssel anzeigen“ nicht angezeigt wird, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de), um sie zu aktivieren.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Vertriebsmitarbeiter verfügen häufig nicht über Administratorrechte für ihre
 
 >[!IMPORTANT]
 >
->Microsoft hat eine [neue Version von Outlook für Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} veröffentlicht. Diese neue Version unterstützt nicht das vorhandene MSI Outlook-Plug-in. Das MSI Outlook-Plug-in funktioniert weiterhin für Windows-Desktops, auf denen die klassische Version von Outlook ausgeführt wird. Weitere Informationen zum neuen Outlook für Windows für Unternehmen finden Sie ([&#x200B; Sie hier](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>Microsoft hat eine [neue Version von Outlook für Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} veröffentlicht. Diese neue Version unterstützt nicht das vorhandene MSI Outlook-Plug-in. Das MSI Outlook-Plug-in funktioniert weiterhin für Windows-Desktops, auf denen die klassische Version von Outlook ausgeführt wird. Weitere Informationen zum neuen Outlook für Windows für Unternehmen finden Sie ([ Sie hier](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Klicken Sie in My Marketo auf **[!UICONTROL Admin]** und dann auf **[!UICONTROL Sales Insight]**.
 
@@ -39,7 +39,7 @@ Vertriebsmitarbeiter verfügen häufig nicht über Administratorrechte für ihre
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Kopieren Sie den [!DNL Outlook Enterprise] Lizenzschlüssel, fügen Sie ihn zusammen mit &quot;[&#x200B; Link“ in eine E-Mail &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md) und senden Sie ihn zur Remote-Installation an Ihre IT-Abteilung.
+1. Kopieren Sie den [!DNL Outlook Enterprise] Lizenzschlüssel, fügen Sie ihn zusammen mit &quot;[ Link“ in eine E-Mail ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md) und senden Sie ihn zur Remote-Installation an Ihre IT-Abteilung.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 

@@ -1,12 +1,12 @@
 ---
-description: Salesforce Lightning Customization Package deinstallieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Salesforce Lightning-Anpassungspaket für Sales Insight deinstallieren. Entfernen Sie bei Bedarf das Paket aus Ihrer Salesforce-Instanz.
 title: Salesforce Lightning Customization Package deinstallieren
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 9%
+source-wordcount: '1169'
+ht-degree: 10%
 
 ---
 
@@ -68,7 +68,7 @@ Deinstallieren Sie das Marketo [!DNL Sales Connect]-Paket von Ihrem [!DNL Salesf
    >
    >Wenn keine der Schaltflächen ausgegraut ist, bedeutet dies, dass Sie sie nicht hinzugefügt haben. Sie können diesen Abschnitt überspringen.
 
-1. Ziehen Sie die MSC-Schaltflächen per Drag-and[!UICONTROL Drop aus dem Abschnitt „Benutzerdefinierte &#x200B;]&quot; in die Konsole.
+1. Ziehen Sie die MSC-Schaltflächen per Drag-and[!UICONTROL Drop aus dem Abschnitt „Benutzerdefinierte ]&quot; in die Konsole.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
@@ -82,7 +82,7 @@ Deinstallieren Sie das Marketo [!DNL Sales Connect]-Paket von Ihrem [!DNL Salesf
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. Wählen Sie die [!DNL Sales Connect] Felder im Bereich [!UICONTROL Ausgewählte Felder] aus und klicken Sie auf den [!UICONTROL Entfernen]. Klicken **[!UICONTROL abschließend]** OK“.
+1. Wählen Sie die [!DNL Sales Connect] Felder im Bereich [!UICONTROL Ausgewählte Felder] aus und klicken Sie auf den [!UICONTROL Entfernen]. Klicken Sie auf **[!UICONTROL OK]**, wenn Sie fertig sind.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 
@@ -172,7 +172,7 @@ Die Kontoansicht enthält nur eine Schaltfläche „E-Mail senden“ und die fol
 
 1. Klicken Sie **[!UICONTROL Meine Registerkarten anpassen]**.
 
-1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf [!UICONTROL &#x200B; Pfeil „Entfernen] und dann auf **[!UICONTROL Speichern]**.
+1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf [!UICONTROL  Pfeil „Entfernen] und dann auf **[!UICONTROL Speichern]**.
 
 ## [!DNL Sales Connect] löschen {#delete-sales-connect-package}
 
@@ -416,7 +416,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer [!DNL Salesforce
   <p>Lead</td>
  </tr>
  <tr>
-  <td>[!UICONTROL -Aufruf mit MSC]</td>
+  <td>[!UICONTROL-Aufruf mit MSC]</td>
   <td>Verkaufsanrufe tätigen von [!DNL Salesforce]</td>
   <td>
   <p>Kontakt

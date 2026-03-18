@@ -1,11 +1,11 @@
 ---
-description: Übersicht über die Funktionen von Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Sales Insight-Aktionen und Marketing-gestützte Intelligence- und Interaktions-Tools für den Vertrieb. Verwenden Sie Verkaufs-E-Mails, Kampagnen, Dialer und Aufgaben, um die Akquise zu beschleunigen.
 title: Übersicht über die Funktionen in Sales Insight Actions
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1361'
+source-wordcount: '1375'
 ht-degree: 1%
 
 ---
@@ -16,9 +16,9 @@ Beschleunigen Sie die Akquise mit Marketing-gestützten Intelligence- und Intera
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package&rbrace; ausschließlich mit dem Salesforce CRM integriert &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package} ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
-Eine Videoübersicht der Sales Insight-Aktionen finden Sie [hier](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=de){target="_blank"}.
+Eine Videoübersicht der Sales Insight-Aktionen finden Sie [hier](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

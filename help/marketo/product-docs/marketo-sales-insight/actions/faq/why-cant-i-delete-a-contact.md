@@ -1,12 +1,12 @@
 ---
-description: Warum kann ich einen Kontakt nicht löschen? – Marketo-Dokumente – Produktdokumentation
+description: Erfahren Sie in Insight-Aktionen für den Vertrieb, warum Sie einen Kontakt nicht löschen können. Erfahren Sie mehr über Eigentümerschaft und Einschränkungen beim Löschen von Kontakten.
 title: Warum kann ich einen Kontakt nicht löschen?
 exl-id: 35e9d5c3-f7f8-4047-b63a-7548841d8267
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 17%
+source-wordcount: '100'
+ht-degree: 12%
 
 ---
 

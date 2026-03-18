@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953373
-description: Konfigurieren von Abmelde-Fußzeilen in Marketo Sales Insight - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Abmelde-Fußzeilen in Marketo Sales Insight konfigurieren. Abmelde-Links und Compliance für Verkaufs-E-Mails einrichten.
 title: Konfigurieren von Abmelde-Fußzeilen in Marketo Sales Insight
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 3%
+source-wordcount: '210'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Bei Verkaufs-E-Mails wird die Fußzeile zur Abmeldung automatisch unten angezeig
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!NOTE]
 >

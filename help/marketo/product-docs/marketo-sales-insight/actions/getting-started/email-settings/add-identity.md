@@ -1,11 +1,11 @@
 ---
-description: Identität hinzufügen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Sales Insight-Aktionen eine E-Mail-Identität hinzufügen. Fügen Sie in den Einstellungen unter „E-Mail“ Versandadressen hinzu und überprüfen Sie diese.
 title: Hinzufügen einer Identität
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '196'
 ht-degree: 2%
 
 ---

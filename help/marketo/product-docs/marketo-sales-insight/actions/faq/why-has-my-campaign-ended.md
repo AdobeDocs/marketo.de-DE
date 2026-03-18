@@ -1,11 +1,11 @@
 ---
-description: Warum ist meine Kampagne zu Ende? – Marketo-Dokumente – Produktdokumentation
+description: Verstehen, warum Ihre Verkaufskampagne beendet wurde. Erfahren Sie mehr über manuelles Ende, Antworteinstellungen, Entfernen von Bounces und automatische Endbedingungen.
 title: Warum ist meine Kampagne zu Ende?
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 17%
+source-wordcount: '89'
+ht-degree: 11%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: E-Mail überprüfen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihre E-Mail-Adresse in Sales Insight-Aktionen überprüfen. Vollständige Verifizierung, damit Sie getrackte Verkaufs-E-Mails senden können.
 title: Prüfen Ihrer E-Mail
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 5%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,7 @@ Wenn Sie eine nicht verifizierte E-Mail-Identität haben, führen Sie die folgen
 
    ![](assets/verify-your-email-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
+1. Klicken [!UICONTROL  unter „Mein ]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/verify-your-email-2.png)
 
@@ -36,4 +36,4 @@ Wenn Sie eine nicht verifizierte E-Mail-Identität haben, führen Sie die folgen
 
 >[!NOTE]
 >
->Wenn Sie die Bestätigungs-E-Mail nicht erhalten, überprüfen Sie Ihren Spam-Ordner. Ist er nicht vorhanden, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Wenn Sie die Bestätigungs-E-Mail nicht erhalten, überprüfen Sie Ihren Spam-Ordner. Ist er nicht vorhanden, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).

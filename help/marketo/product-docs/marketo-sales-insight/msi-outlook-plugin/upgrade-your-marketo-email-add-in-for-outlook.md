@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949279
-description: Aktualisieren des Marketo-E-Mail-Add-ins  [!DNL Outlook]  Marketo Docs - Produktdokumentation
+description: Erfahren Sie, wie Sie das Marketo E-Mail-Add-in für Outlook aktualisieren. Erhalten Sie die neueste Version für neue Funktionen und Fehlerbehebungen.
 title: Aktualisieren des Marketo E-Mail-Add-ins für [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 13%
+source-wordcount: '335'
+ht-degree: 12%
 
 ---
 

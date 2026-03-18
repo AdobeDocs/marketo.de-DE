@@ -1,13 +1,13 @@
 ---
-description: Hinzufügen zur Marketing-Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einer Marketo-Marketing-Kampagne über Insight-Vertriebsaktionen Kontakte hinzufügen. Kontakte auswählen und zur Kampagne hinzufügen.
 title: Hinzufügen zu Marketing-Kampagne
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '334'
 ht-degree: 2%
 
 ---
@@ -54,7 +54,7 @@ PICC
 
 >[!NOTE]
 >
->Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass er von Ihrem Admin über die Seite „Team-Zugriff[!UICONTROL &#x200B; von Marketo bereitgestellt &#x200B;].
+>Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass er von Ihrem Admin über die Seite „Team-Zugriff[!UICONTROL  von Marketo bereitgestellt ].
 
 1. Wählen Sie die gewünschte Kampagne aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
@@ -70,7 +70,7 @@ PICC
 
 PICC
 
-1. Wählen [!UICONTROL &#x200B; unter „Meine &#x200B;]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
+1. Wählen [!UICONTROL  unter „Meine ]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
 
 PICC
 

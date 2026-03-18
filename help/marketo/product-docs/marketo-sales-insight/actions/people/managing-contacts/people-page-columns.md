@@ -1,14 +1,14 @@
 ---
-description: Spalten der Personenseite - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Seitenspalten von Personen und wie Sie die Ansicht anpassen können. Spalten ein- oder ausblenden, um die benötigten Kontaktdaten anzuzeigen.
 title: Spalten der Personenseite
 hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 7%
+source-wordcount: '310'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
 
 ## So wählen Sie Spalten aus {#how-to-select-columns}
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das Symbol Listeneinstellungen .
+1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das Symbol Listeneinstellungen .
 
    ![](assets/people-page-columns-1.png)
 
@@ -71,7 +71,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
    <td>Gesamtzahl der Vertriebskampagnen, an denen die Person teilgenommen hat</td>
   </tr>
   <tr>
-   <td># [!UICONTROL -Aufrufe]</td>
+   <td># [!UICONTROL-Aufrufe]</td>
    <td>Gesamtzahl der Anrufe, die an diese Person getätigt wurden</td>
   </tr>
   <tr>

@@ -1,12 +1,12 @@
 ---
-description: Blockierte Domains - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Domains in Sales Insight-Aktionen blockieren, um E-Mail-Konkurrenten oder Spam-Fallen zu verhindern.
 title: Blockierte Domains
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '104'
+ht-degree: 6%
 
 ---
 
@@ -16,13 +16,13 @@ Helfen Sie Ihrem Verkaufsteam, erfolgreich zu sein, indem Sie verhindern, dass e
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken Sie in der Web-Anwendung auf das Zahnradsymbol und wählen Sie **[!UICONTROL Einstellungen]** aus.
 
    ![](assets/blocked-domains-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/blocked-domains-2.png)
 

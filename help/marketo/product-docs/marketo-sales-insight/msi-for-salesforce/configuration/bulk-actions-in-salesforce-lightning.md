@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356282
-description: Massenaktionen in Salesforce Lightning - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Massenaktionen in Salesforce Lightning für Marketo Sales Insight. Verwenden Sie Verkaufs-E-Mail senden und Zu Kampagne hinzufügen in Listenansichten.
 title: Massenaktionen in Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 9%
+source-wordcount: '128'
+ht-degree: 8%
 
 ---
 

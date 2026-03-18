@@ -1,11 +1,11 @@
 ---
-description: Konfiguration von Sales Insight-Aktionen in Salesforce - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Sales Insight-Aktionen in Salesforce konfigurieren. Fügen Sie Remote-Sites hinzu, aktivieren Sie MSI-Aktionen und geben Sie den API-Geheimschlüssel ein.
 title: Konfiguration von Sales Insight Actions in Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 4%
+source-wordcount: '251'
+ht-degree: 3%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >Wenn Sie Ihren [!UICONTROL API-Geheimschlüssel] nicht zur Hand haben, können Sie ihn finden, indem Sie die Schritte in [diesem Artikel) &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
+   >Wenn Sie Ihren [!UICONTROL API-Geheimschlüssel] nicht zur Hand haben, können Sie ihn finden, indem Sie die Schritte in [diesem Artikel) ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

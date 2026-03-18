@@ -1,11 +1,11 @@
 ---
-description: Wie kann ich das Problem beheben, dass wir Ihre Anfrage nicht authentifizieren konnten, als wir eine Verbindung zu Salesforce herstellen - Marketo-Dokumente - Produktdokumentation
+description: Beheben von Authentifizierungsfehlern beim Verbinden von Sales Insight-Aktionen mit Salesforce. Überprüfen Sie OAuth, Berechtigungen und Verbindungsschritte.
 title: Wie kann ich das Problem beheben, dass wir Ihre Anfrage beim Herstellen einer Verbindung mit Salesforce nicht authentifizieren konnten?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---

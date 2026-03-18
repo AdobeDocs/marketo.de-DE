@@ -1,10 +1,10 @@
 ---
-description: Hinzufügen von Aktionsschaltflächen zur Salesforce-Listenansicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Schaltflächen Verkaufs-E-Mail senden und Zu Kampagne hinzufügen zu Salesforce-Listenansichten hinzufügen. Konfigurieren Sie in Lightning oder Classic über die Schaltflächenlayouts für die Listenansicht.
 title: Hinzufügen von Aktionsschaltflächen zur Salesforce-Listenansicht
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '306'
 ht-degree: 8%
 
 ---

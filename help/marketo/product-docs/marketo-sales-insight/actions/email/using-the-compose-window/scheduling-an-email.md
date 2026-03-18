@@ -1,9 +1,9 @@
 ---
-description: Planen einer E-Mail - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Verkaufs-E-Mail für einen späteren Versand planen. Legen Sie Datum und Uhrzeit beim Erstellen von Aktionen in Sales Insight oder Ihrem Posteingang fest.
 title: Planen einer E-Mail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---

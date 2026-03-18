@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511931
-description: Senden von Marketo-E-Mail- und Kampagnen- und Watchlist-Aktionen in Salesforce1 - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Marketo-E-Mails senden und Kampagnen- und Watchlistenaktionen in Salesforce Mobile verwenden. Verwenden Sie MSI-Aktionen auf Mobilgeräten.
 title: Senden von Marketo-E-Mail- und Kampagnen- und Watchlist-Aktionen in Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '176'
 ht-degree: 6%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >Welche intelligenten Kampagnen werden angezeigt? Die mit dem Trigger „Kampagne ist angefordert“. Erfahren Sie, wie Sie eine [ausgelöste Kampagne mit „Kampagne ist angefordert“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md).
+   >Welche intelligenten Kampagnen werden angezeigt? Die mit dem Trigger „Kampagne ist angefordert“. Erfahren Sie, wie Sie eine [ausgelöste Kampagne mit „Kampagne ist angefordert“ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md).
 
 Cool, jetzt können Ihre Vertriebsmitarbeiter aktiv an den Marketing-Maßnahmen teilnehmen.
 

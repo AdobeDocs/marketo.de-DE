@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762244
-description: Einrichten von Sternen und Flammen für Lead-/Kontaktaufzeichnungen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Dynamics Sterne und Flammen für Lead- und Kontaktdatensätze einrichten. Lead-Bewertung und -Dringlichkeit im CRM anzeigen.
 title: Einrichten von Sternen und Flammen für Lead-/Kontakt-Einträge
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '192'
 ht-degree: 9%
 
 ---
@@ -23,7 +23,7 @@ Sterne und Flammen in Lead-/Kontakt-Datensätzen sind abhängig von: [!UICONTROL
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Klicken Sie im linken Bedienfeld **&#x200B;**&#x200B;Marketo Sales Insight. Klicken Sie im rechten Bedienfeld auf die Dropdown-Liste Filter und wählen Sie **[!UICONTROL Benutzerdefinierte Felder]**.
+1. Klicken Sie im linken Bedienfeld **** Marketo Sales Insight. Klicken Sie im rechten Bedienfeld auf die Dropdown-Liste Filter und wählen Sie **[!UICONTROL Benutzerdefinierte Felder]**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 

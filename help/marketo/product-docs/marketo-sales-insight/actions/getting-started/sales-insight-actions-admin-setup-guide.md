@@ -1,11 +1,11 @@
 ---
-description: Admin-Setup-Handbuch für Sales Insight-Aktionen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Sales Insight-Aktionen als Admin einrichten. Konfigurieren Sie die Marketo-Verbindung, Datensynchronisierung und laden Sie Benutzer ein.
 title: Admin-Einrichtungshandbuch für Sales Insight Actions
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '655'
 ht-degree: 4%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package&rbrace; ausschließlich mit dem Salesforce CRM integriert &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package} ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
 >[!PREREQUISITES]
 >
->* Vergewissern Sie sich beim Adobe Account Team (Ihrem Account Manager), dass MSI Actions für Ihr Marketo Engage Account aktiviert wurde (wenn Sie keinen Account Manager haben, wenden Sie sich an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
+>* Vergewissern Sie sich beim Adobe Account Team (Ihrem Account Manager), dass MSI Actions für Ihr Marketo Engage Account aktiviert wurde (wenn Sie keinen Account Manager haben, wenden Sie sich an den [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}).
 >* Die Synchronisierung von Marketo und Salesforce muss eingerichtet sein.
 
 <table>
@@ -82,11 +82,11 @@ Der Benutzer erhält eine E-Mail mit Schritten, um Zugriff auf das Konto zu erha
 
    ![](assets/msi-actions-admin-guide-3.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
+1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
 
    ![](assets/msi-actions-admin-guide-5.png)
 
@@ -102,7 +102,7 @@ Wenn Sie bereits bei Salesforce angemeldet sind, sind Sie angemeldet. Wenn nicht
 
    ![](assets/msi-actions-admin-guide-7.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **Marketo**.
+1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **Marketo**.
 
    ![](assets/msi-actions-admin-guide-8.png)
 
@@ -142,7 +142,7 @@ Personendatensätze, die in Marketo und [!DNL Salesforce] vorhanden sind, werden
 
 >[!NOTE]
 >
->Weitere Informationen dazu, wie Personen- und Aktivitätsdaten zwischen Sales Insight Actions, Marketo und Salesforce synchronisiert werden, [hier &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+>Weitere Informationen dazu, wie Personen- und Aktivitätsdaten zwischen Sales Insight Actions, Marketo und Salesforce synchronisiert werden, [hier ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Einzelne Benutzer zu MSI-Aktionen einladen {#invite-individual-users-to-msi-actions}
 
@@ -150,7 +150,7 @@ Personendatensätze, die in Marketo und [!DNL Salesforce] vorhanden sind, werden
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/msi-actions-admin-guide-15.png)
 
@@ -174,7 +174,7 @@ Sie erhalten eine Bestätigungsnachricht.
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/msi-actions-admin-guide-19.png)
 
@@ -194,4 +194,4 @@ Sie erhalten eine Bestätigungsnachricht, sobald die Einladungen gesendet wurden
 
 >[!NOTE]
 >
->Sobald dies geschehen ist, können Sie entweder Ihr bestehendes MSI-Paket aktualisieren oder ein neues installieren und mit &quot;[&#x200B; von MSI-Aktionen in Salesforce&quot; &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>Sobald dies geschehen ist, können Sie entweder Ihr bestehendes MSI-Paket aktualisieren oder ein neues installieren und mit &quot;[ von MSI-Aktionen in Salesforce&quot; ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.

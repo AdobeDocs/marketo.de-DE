@@ -1,12 +1,12 @@
 ---
-description: Anzeigen der Kampagnenliste als anderer Benutzer - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Kampagnen als einen anderen Benutzer anzeigen können, wenn Sie Administrator sind. Verwenden Sie das Dropdown Anzeigen als auf der Seite Kampagnen , um die Kampagnen eines Benutzers anzuzeigen.
 title: Anzeigen der Kampagnenliste als andere Benutzerin bzw. anderer Benutzer
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 14%
+source-wordcount: '98'
+ht-degree: 15%
 
 ---
 
@@ -16,7 +16,7 @@ Als Administrator können Sie Kampagnen als beliebige Benutzende anzeigen.
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken Sie in der Web-Anwendung auf **[!UICONTROL Kampagnen]**.
 
@@ -32,4 +32,4 @@ Als Administrator können Sie Kampagnen als beliebige Benutzende anzeigen.
 
    >[!NOTE]
    >
-   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL &#x200B; anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.
+   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL  anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.

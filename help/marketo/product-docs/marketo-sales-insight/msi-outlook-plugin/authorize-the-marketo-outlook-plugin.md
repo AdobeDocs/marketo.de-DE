@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377640
-description: Autorisieren des Marketo [!DNL Outlook] Plug-ins - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Marketo Outlook-Plug-in autorisieren. Schließen Sie OAuth ab, damit Benutzer E-Mails aus Outlook senden und verfolgen können.
 title: Marketo-Plug- [!DNL Outlook]  autorisieren
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Um das Marketo MSI-Plug-in [!DNL Outlook] verwenden zu können, müssen Sie es a
 
 >[!IMPORTANT]
 >
->Microsoft hat eine [neue Version von Outlook für Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} veröffentlicht. Diese neue Version unterstützt nicht das vorhandene MSI Outlook-Plug-in. Das MSI Outlook-Plug-in funktioniert weiterhin für Windows-Desktops, auf denen die klassische Version von Outlook ausgeführt wird. Weitere Informationen zum neuen Outlook für Windows für Unternehmen finden Sie ([&#x200B; Sie hier](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>Microsoft hat eine [neue Version von Outlook für Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} veröffentlicht. Diese neue Version unterstützt nicht das vorhandene MSI Outlook-Plug-in. Das MSI Outlook-Plug-in funktioniert weiterhin für Windows-Desktops, auf denen die klassische Version von Outlook ausgeführt wird. Weitere Informationen zum neuen Outlook für Windows für Unternehmen finden Sie ([ Sie hier](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Klicken Sie auf eine der Marketo-Nachrichtenschaltflächen.
 

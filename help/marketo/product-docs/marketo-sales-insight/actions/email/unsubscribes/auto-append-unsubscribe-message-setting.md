@@ -1,11 +1,11 @@
 ---
-description: Einstellung für automatische Abmeldung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das automatische Anhängen einer Abmeldenachricht für Verkaufs-E-Mails aktivieren oder deaktivieren.
 title: Einstellung für automatisches Anhängen einer Abbestellungsnachricht
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '180'
 ht-degree: 4%
 
 ---
@@ -34,4 +34,4 @@ Stellen Sie sicher, dass jede gesendete E-Mail mit Insight-Verkaufsaktionen eine
 
 >[!TIP]
 >
->Wenn Sie die Einstellung „Nachricht anhängen - Abmelden“ deaktivieren, empfehlen wir, eine Fußzeile zum Abmelden zu Ihren Vorlagen hinzuzufügen, um sicherzustellen, dass Ihre Kommunikation über eine Opt-out-Option verfügt. Dazu können Sie jeder Vorlage Ihre eigene Nachricht hinzufügen oder das Feld `{{team_unsubscribe}}`Dynamisch[&#128279;](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.
+>Wenn Sie die Einstellung „Nachricht anhängen - Abmelden“ deaktivieren, empfehlen wir, eine Fußzeile zum Abmelden zu Ihren Vorlagen hinzuzufügen, um sicherzustellen, dass Ihre Kommunikation über eine Opt-out-Option verfügt. Dazu können Sie jeder Vorlage Ihre eigene Nachricht hinzufügen oder das Feld `{{team_unsubscribe}}`Dynamisch[ ](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.

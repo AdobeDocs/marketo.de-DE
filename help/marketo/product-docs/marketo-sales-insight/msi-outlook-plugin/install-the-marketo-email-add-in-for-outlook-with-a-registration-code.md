@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949711
-description: Installieren des Marketo-E-Mail-Add [!DNL Outlook] ins für mit einem Registrierungs-Code - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Marketo E-Mail-Add-in für Outlook mit einem Registrierungs-Code installieren. Rufen Sie das Add-in für Benutzer ab, die über einen Registrierungs-Code verfügen.
 title: Installieren des Marketo-E-Mail-Add-ins für  [!DNL Outlook]  mit einem Registrierungs-Code
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '546'
 ht-degree: 6%
 
 ---
@@ -19,7 +19,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
 >[!PREREQUISITES]
 >
->Es muss [eine Marketo E-Mail-Add-In-Lizenz &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>Es muss [eine Marketo E-Mail-Add-In-Lizenz ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!IMPORTANT]
 >
@@ -104,7 +104,7 @@ Wenn Sie keine Einladungs-E-Mail erhalten haben, bitten Sie Ihren Marketo-Admini
 
 >[!IMPORTANT]
 >
->Microsoft hat eine [neue Version von Outlook für Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} veröffentlicht. Diese neue Version unterstützt nicht das vorhandene MSI Outlook-Plug-in. Das MSI Outlook-Plug-in funktioniert weiterhin für Windows-Desktops, auf denen die klassische Version von Outlook ausgeführt wird. Weitere Informationen zum neuen Outlook für Windows für Unternehmen finden Sie ([&#x200B; Sie hier](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>Microsoft hat eine [neue Version von Outlook für Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} veröffentlicht. Diese neue Version unterstützt nicht das vorhandene MSI Outlook-Plug-in. Das MSI Outlook-Plug-in funktioniert weiterhin für Windows-Desktops, auf denen die klassische Version von Outlook ausgeführt wird. Weitere Informationen zum neuen Outlook für Windows für Unternehmen finden Sie ([ Sie hier](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Registrierungs-Code kopieren {#copy-your-registration-code}
 

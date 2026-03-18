@@ -1,11 +1,11 @@
 ---
-description: Werden Ansichten, Klicks und Antworten der im Abschnitt CC und BCC der E-Mail aufgeführten Empfänger verfolgt? – Marketo-Dokumente – Produktdokumentation
+description: Erfahren Sie, ob CC- und BCC-Empfänger in Bezug auf Ansichten, Klicks und Antworten verfolgt werden. Grundlegendes zum Tracking-Verhalten für mehrere Empfänger.
 title: Werden Ansichten, Klicks und Antworten der im Abschnitt CC und BCC der E-Mail aufgeführten Empfängerinnen und Empfänger verfolgt?
 exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 36%
+source-wordcount: '117'
+ht-degree: 34%
 
 ---
 

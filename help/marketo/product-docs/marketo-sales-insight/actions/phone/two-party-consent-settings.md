@@ -1,12 +1,12 @@
 ---
-description: Einverständniseinstellungen von zwei Parteien - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Einstellungen für Zweiparteien-Einverständnis für die Anrufaufzeichnung konfigurieren. Einhaltung der gesetzlichen und lokalen Aufzeichnungsvorschriften.
 title: Einstellungen für Zwei-Parteien-Einverständnis
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 3%
+source-wordcount: '162'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ Um bei der Aufzeichnung von Anrufen die Einhaltung der US-amerikanischen Zwei-Pa
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two-party-consent-settings-2.png)
 
@@ -42,7 +42,7 @@ Um bei der Aufzeichnung von Anrufen die Einhaltung der US-amerikanischen Zwei-Pa
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. Wählen Sie nach Abschluss des Uploads die Daten (drei Punkte) im Datei-Manager aus und klicken Sie auf **[!UICONTROL Als Einverständniserklärung auswählen]**. Klicken **[!UICONTROL abschließend]** OK“.
+1. Wählen Sie nach Abschluss des Uploads die Daten (drei Punkte) im Datei-Manager aus und klicken Sie auf **[!UICONTROL Als Einverständniserklärung auswählen]**. Klicken Sie auf **[!UICONTROL OK]**, wenn Sie fertig sind.
 
    ![](assets/two-party-consent-settings-6.png)
 

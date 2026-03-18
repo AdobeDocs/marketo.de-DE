@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511959
-description: Best Bets in Salesforce1 - Dokumentation zu Marketo - Produktdokumentation
+description: Erfahren Sie mehr über Best Bets in Salesforce Mobile (Salesforce1). Erfahren Sie mehr über die aktivsten Leads im Marketo Sales Insight Mobile-Erlebnis.
 title: Beste Optionen in Salesforce1
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '98'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Ihre [[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for
 
 1. Wechseln Sie zum Bereich Marketo in der [!DNL Salesforce] App.
 
-   In der Dropdown-Liste können Sie &quot;[!UICONTROL Meine besten &#x200B;]&quot;, &quot;[!UICONTROL Meine Watchliste]&quot;, &quot;[!UICONTROL Web-]&quot;, &quot;[!UICONTROL Anonyme Web-Aktivität]&quot; oder &quot;[!UICONTROL Meine E-Mail]&quot; auswählen.
+   In der Dropdown-Liste können Sie &quot;[!UICONTROL Meine besten ]&quot;, &quot;[!UICONTROL Meine Watchliste]&quot;, &quot;[!UICONTROL Web-]&quot;, &quot;[!UICONTROL Anonyme Web-Aktivität]&quot; oder &quot;[!UICONTROL Meine E-Mail]&quot; auswählen.
 
    ![](assets/one-2.png)
 

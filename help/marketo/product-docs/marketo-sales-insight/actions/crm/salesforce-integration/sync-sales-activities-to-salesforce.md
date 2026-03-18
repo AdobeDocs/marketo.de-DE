@@ -1,10 +1,10 @@
 ---
-description: Verkaufsaktivitäten mit Salesforce synchronisieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Vertriebsaktivitäten über API oder BCC mit Salesforce synchronisieren. Konfigurieren von E-Mail und Anrufprotokollierung.
 title: Synchronisieren von Verkaufsaktivitäten mit Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '769'
 ht-degree: 2%
 
 ---

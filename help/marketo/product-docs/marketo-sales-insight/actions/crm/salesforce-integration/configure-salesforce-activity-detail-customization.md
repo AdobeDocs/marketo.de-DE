@@ -1,11 +1,11 @@
 ---
-description: Konfigurieren der Anpassung von Salesforce-Aktivitätsdetails - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Detailanpassung von Salesforce-Aktivitäten für Aufgabenbetrefffelder konfigurieren. Legt fest, welche Protokolle bei der Synchronisierung von Aktivitäten an die Salesforce-Aufgabe gesendet werden.
 title: Konfigurieren der Anpassung für Salesforce-Aktivitätsdetails
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '692'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146999
-description: Trigger-Token für interessante Momente - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Trigger-Token für interessante Momente in Marketo. Konfigurieren Sie, welche Aktivitäten interessante Momente im MSI-Bedienfeld erzeugen.
 title: Auslöser-Token für interessante Momente
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 68%
+source-wordcount: '556'
+ht-degree: 67%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 68%
 
 >[!PREREQUISITES]
 >
->Erfahren Sie, wie Sie den Schritt &quot;[&#x200B; Momentfluss“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Erfahren Sie, wie Sie den Schritt &quot;[ Momentfluss“ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Verfügbare Token {#available-tokens}
 

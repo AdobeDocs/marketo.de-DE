@@ -1,18 +1,18 @@
 ---
-description: Best Practices - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Best Bets in Marketo Sales Insight für Dynamics. Finden Sie heraus, welche Leads am aktivsten sind und für die Kontaktaufnahme bereit sind.
 title: Beste Optionen
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '85'
 ht-degree: 2%
 
 ---
 
 # [!DNL Best Bets] {#best-bets}
 
-Die Registerkarte [!UICONTROL Beste &#x200B;]&quot; enthält eine Liste aller Ihrer Hot Leads basierend auf ihrer Priorität, berechnet unter Verwendung von Dringlichkeit und relativem Score.
+Die Registerkarte [!UICONTROL Beste ]&quot; enthält eine Liste aller Ihrer Hot Leads basierend auf ihrer Priorität, berechnet unter Verwendung von Dringlichkeit und relativem Score.
 
 Durch Klicken auf das Punktmenü unter der Spalte Aktionen können Sie Interaktionsoptionen wie die folgenden verwenden:
 

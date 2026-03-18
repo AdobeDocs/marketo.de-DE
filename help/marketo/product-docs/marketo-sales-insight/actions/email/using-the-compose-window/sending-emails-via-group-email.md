@@ -1,12 +1,12 @@
 ---
-description: Senden von E-Mails über Gruppen-E-Mails - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Verkaufs-E-Mails über Gruppen-E-Mails senden. Gleichzeitiges Senden mehrerer Empfänger mit Tracking- und Personalisierungsoptionen.
 title: Senden von E-Mails per Gruppen-E-Mail
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 6%
+source-wordcount: '172'
+ht-degree: 5%
 
 ---
 

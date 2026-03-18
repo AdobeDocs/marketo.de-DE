@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352613
-description: Personen zu Ihrer Kampagne hinzufügen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Personen zu Verkaufskampagnen über die Web-Anwendung, Salesforce oder den Posteingang hinzufügen oder daraus entfernen können. Legen Sie die Antwort- und Bounce-Optionen fest, um Kampagnen automatisch zu beenden.
 title: Hinzufügen von Personen zu Ihrer Kampagne
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '462'
 ht-degree: 3%
 
 ---

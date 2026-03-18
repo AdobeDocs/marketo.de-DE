@@ -1,12 +1,12 @@
 ---
-description: Anpassen der Abmelde-Link-Nachricht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Nachricht Abmelde-Link in Verkaufs-E-Mails anpassen. Bearbeiten Sie den Text, den Benutzer sehen, wenn sie sich abmelden.
 title: Anpassen der Nachricht mit dem Abmelde-Link
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 4%
+source-wordcount: '205'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Ad
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin] auf **[!UICONTROL Abmeldungen]**.
+1. Klicken [!UICONTROL  unter „Admin] auf **[!UICONTROL Abmeldungen]**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 

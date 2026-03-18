@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512654
-description: Anzeigen des Lead-Feeds in Salesforce1 - Dokumentation zu Marketo - Produktdokumentation
+description: Erfahren Sie, wie Sie den Lead-Feed in Salesforce Mobile (Salesforce1) anzeigen. Zeigen Sie die Echtzeit-Lead-Aktivität im MSI-Bedienfeld auf einem Mobilgerät an.
 title: Anzeigen des Lead-Feeds in Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '81'
+ht-degree: 7%
 
 ---
 

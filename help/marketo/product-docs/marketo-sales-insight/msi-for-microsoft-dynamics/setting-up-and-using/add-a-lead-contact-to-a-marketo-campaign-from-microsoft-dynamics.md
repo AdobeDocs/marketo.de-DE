@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953342
-description: Hinzufügen eines Leads/Kontakts zu einer Marketo-Kampagne über Microsoft Dynamics - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie von Microsoft Dynamics aus einen Lead oder Kontakt zu einer Marketo-Kampagne hinzufügen. Verwenden Sie das MSI-Bedienfeld, um Leads zu Kampagnen hinzuzufügen.
 title: Hinzufügen eines Leads/Kontakts aus Microsoft Dynamics zu einer Marketo-Kampagne
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '142'
 ht-degree: 9%
 
 ---

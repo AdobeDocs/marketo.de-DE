@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516460
-description: Vorbereiten der Sales Insight für mehrsprachigen Support in Salesforce - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Marketo Sales Insight für mehrsprachigen Support in Salesforce vorbereiten. Richten Sie die Sprache und das Gebietsschema für globale Benutzer ein.
 title: Vorbereiten von Sales Insight für mehrsprachigen Support in Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 10%
+source-wordcount: '234'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Marketo Sales Insight wird nach Sprache gespeichert. Wenn Sie also möchten, dass dies für mehr als eine Sprache funktioniert, müssen Sie die Anmeldeinformationen für jede Sprache separat eingeben.
 
@@ -55,7 +55,7 @@ Marketo Sales Insight wird nach Sprache gespeichert. Wenn Sie also möchten, das
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Weiter zu Marketo. Suchen Sie Ihre [[!DNL Marketo Sales Insight] **[!UICONTROL API-Konfiguration &#x200B;]**&#x200B;Details](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Weiter zu Marketo. Suchen Sie Ihre [[!DNL Marketo Sales Insight] **[!UICONTROL API-Konfiguration ]**Details](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

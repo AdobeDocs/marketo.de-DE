@@ -1,11 +1,11 @@
 ---
-description: Häufig gestellte Fragen zu Inhalten und Dateianhängen - Marketo-Dokumente - Produktdokumentation
+description: Erhalten Sie Antworten auf häufig gestellte Fragen zu Inhalten und Dateianlagen in Verkaufs-E-Mails. Erfahren Sie mehr über Größenbeschränkungen, Tracking und Best Practices.
 title: Häufig gestellte Fragen zu Inhalten und Dateianlagen
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '273'
 ht-degree: 3%
 
 ---

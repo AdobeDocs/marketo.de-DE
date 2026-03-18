@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12981050
-description: Verkaufsvorlage sperren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Verkaufsvorlage in Marketo Sales Insight sperren. Änderungen an einer Vorlage verhindern, sodass der Vertrieb die genehmigte Version verwendet.
 title: Sperren einer Sales Insight-Vorlage
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 4%
+source-wordcount: '225'
+ht-degree: 5%
 
 ---
 
@@ -23,7 +23,7 @@ Um zu verhindern, dass CRM-Benutzer Verkaufsvorlagen bearbeiten, können Adminis
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Gehen Sie zu **[!UICONTROL Admin]** und klicken Sie dann auf **[!UICONTROL Sales Insight]**.
 

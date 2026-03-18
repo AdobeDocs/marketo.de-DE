@@ -1,11 +1,11 @@
 ---
-description: Übersicht über die erweiterte Suche - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die erweiterte Suche im Command Center verwenden, um E-Mails und Aufgaben zu finden. Filtern Sie nach Datum, Absender, Status und anderen Kriterien.
 title: Erweiterte Suche – Überblick
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '443'
 ht-degree: 3%
 
 ---
@@ -65,9 +65,9 @@ Filtern Sie nach E-Mail-Empfänger/Absender im Abschnitt [!UICONTROL Wer].
  </tr>
 </table>
 
-**Wenn**
+**When**
 
-Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status ([!UICONTROL Gesendet], [!UICONTROL Nicht &#x200B;], [!UICONTROL Ausstehend]).
+Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status ([!UICONTROL Gesendet], [!UICONTROL Nicht ], [!UICONTROL Ausstehend]).
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -83,13 +83,13 @@ Es gibt drei E-Mail-Status zur Auswahl. Die Typ-/Aktivitätsoptionen ändern sic
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Status: gesendet**&#x200B;_
+_**Status: gesendet**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtert nach der Aktivität „Gesendete E-Mails“. Sie können [!UICONTROL Ansichten]/[!UICONTROL keine Ansichten], [!UICONTROL Klicks]/[!UICONTROL keine Klicks] und/oder [!UICONTROL Antworten]/[!UICONTROL keine Antworten].
 
-_&#x200B;**Status: Ausstehend**&#x200B;_
+_**Status: Ausstehend**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtert nach allen ausstehenden E-Mails.
  </tr>
 </table>
 
-_&#x200B;**Status: Nicht zugestellt**&#x200B;_
+_**Status: Nicht zugestellt**_
 
 ![](assets/advanced-search-overview-12.png)
 

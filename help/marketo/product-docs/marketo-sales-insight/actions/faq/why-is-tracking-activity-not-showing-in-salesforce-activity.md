@@ -1,12 +1,12 @@
 ---
-description: Warum wird die Tracking-Aktivität nicht in der Salesforce-Aktivität angezeigt? – Marketo-Dokumente – Produktdokumentation
+description: Fehlerbehebung, wenn die Tracking-Aktivität in der Salesforce-Aktivität nicht angezeigt wird. Überprüfen Sie Synchronisierungseinstellungen, API-Protokollierung und Berechtigungen.
 title: Warum wird die Tracking-Aktivität nicht in der Salesforce-Aktivität angezeigt?
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 16%
+source-wordcount: '83'
+ht-degree: 10%
 
 ---
 

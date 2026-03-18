@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472672
-description: Senden einer E-Mail an mehrere Datensätze in Marketo Sales Insight - Marketo Docs - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Sales Insight in Salesforce eine E-Mail an mehrere Datensätze senden. Alle Kontakte eines Accounts oder einer Opportunity per E-Mail versenden
 title: Senden einer E-Mail an mehrere Einträge in Marketo Sales Insight
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 7%
+source-wordcount: '147'
+ht-degree: 6%
 
 ---
 
@@ -33,7 +33,7 @@ Es ist super einfach, mit [!DNL Marketo Sales Insight] eine Marketo-E-Mail an me
 
    >[!TIP]
    >
-   >Siehst du den Knopf nicht? Stellen Sie sicher, [&#x200B; Sie die Marketo-Schaltflächen zur Listenansicht hinzugefügt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
+   >Siehst du den Knopf nicht? Stellen Sie sicher, [ Sie die Marketo-Schaltflächen zur Listenansicht hinzugefügt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
 
 1. Erstellen Sie Ihre E-Mail. Klicken Sie **[!UICONTROL Mit Marketo senden]** wenn Sie fertig sind.
 

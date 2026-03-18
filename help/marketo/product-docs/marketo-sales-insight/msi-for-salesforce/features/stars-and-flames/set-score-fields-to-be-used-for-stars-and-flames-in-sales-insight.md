@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360301
-description: Bewertungsfelder für die Verwendung von Sternen und Flammen im Vertrieb festlegen Insight - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Sales Insight Bewertungsfelder für Sterne und Flammen festlegen. Ordnen Sie Marketo-Bewertungsfelder der MSI-Anzeige in Salesforce zu.
 title: Festlegen der Bewertungsfelder für Sterne und Flammen in Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 10%
 
 ---
 
-# Score-Felder festlegen, die für &quot;[!UICONTROL &quot; &#x200B;] &quot;[!UICONTROL &quot; &#x200B;] &quot;[!DNL Sales Insight]&quot; verwendet werden sollen {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Score-Felder festlegen, die für &quot;[!UICONTROL &quot; ] &quot;[!UICONTROL &quot; ] &quot;[!DNL Sales Insight]&quot; verwendet werden sollen {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Standardmäßig verwendet [!DNL Marketo Sales Insight] das Feld **[!UICONTROL Lead-Bewertung]**, um Sterne und Flammen zu berechnen. Wenn Sie jedoch ein anderes Feld auswählen möchten, sehen Sie folgendes:
 

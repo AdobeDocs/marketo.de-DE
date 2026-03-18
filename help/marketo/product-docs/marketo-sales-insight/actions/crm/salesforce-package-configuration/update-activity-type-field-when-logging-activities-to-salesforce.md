@@ -1,10 +1,10 @@
 ---
-description: Aktualisieren des Felds „Aktivitätstyp“ bei der Protokollierung von Aktivitäten in Salesforce - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das Feld „Aktivitätstyp“ bei der Protokollierung von Aktivitäten in Salesforce aktualisieren können. Fügen Sie der Auswahlliste „Aufgabentyp“ im Salesforce-Setup einen Antworttyp hinzu.
 title: Aktualisieren des Felds „Aktivitätstyp“ bei der Protokollierung von Aktivitäten in Salesforce
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '432'
 ht-degree: 6%
 
 ---

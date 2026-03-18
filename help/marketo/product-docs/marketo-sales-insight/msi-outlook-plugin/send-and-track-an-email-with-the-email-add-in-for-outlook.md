@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949716
-description: Senden und Verfolgen einer E-Mail mit dem E-Mail-Add-in  [!DNL Outlook]  Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie mit dem Marketo E-Mail-Add-in für Outlook eine E-Mail senden und verfolgen können. Aus Outlook erstellen und Ansichten, Klicks und Antworten anzeigen.
 title: Senden und Verfolgen einer E-Mail mit dem E-Mail-Add-in für  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---

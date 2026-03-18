@@ -1,18 +1,18 @@
 ---
-description: Zugriff von Insight auf Profile hinzufügen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Zugriff von Sales Insight auf Salesforce-Profile hinzufügen. Gewähren Sie Benutzenden Zugriff auf das Marketo Sales Insight-Paket.
 title: Hinzufügen des Zugriffs auf Sales Insight für Profile
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '404'
 ht-degree: 5%
 
 ---
 
 # [!DNL Sales Insight] Zugriff auf Profile hinzufügen {#add-sales-insight-access-to-profiles}
 
-Im Folgenden wird beschrieben, wie Sie ein Profil mit Zugriff auf [!DNL Sales Insight] erstellen und dabei den Zugriff für Ihre anderen Profile entfernen. Dies ist für Benutzende gedacht, die das [[!DNL Sales Insight] AppExchange-Paket bereits installiert &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Im Folgenden wird beschrieben, wie Sie ein Profil mit Zugriff auf [!DNL Sales Insight] erstellen und dabei den Zugriff für Ihre anderen Profile entfernen. Dies ist für Benutzende gedacht, die das [[!DNL Sales Insight] AppExchange-Paket bereits installiert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
@@ -68,7 +68,7 @@ Wenn Sie über ein dediziertes Profil für Ihre [!DNL Sales Insight] Benutzer ve
 
 1. Wählen Sie **[!UICONTROL Zuweisung bearbeiten]** aus.
 
-1. Wählen Sie Ihr [!DNL Sales Insight] aus der Liste und dann Ihr [!DNL Sales insight] Layout aus der Dropdown-Liste [!UICONTROL Auswählen &#x200B;]Seitenlayouts“ aus.
+1. Wählen Sie Ihr [!DNL Sales Insight] aus der Liste und dann Ihr [!DNL Sales insight] Layout aus der Dropdown-Liste [!UICONTROL Auswählen ]Seitenlayouts“ aus.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

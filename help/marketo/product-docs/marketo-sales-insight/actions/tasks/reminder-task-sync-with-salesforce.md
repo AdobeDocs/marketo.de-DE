@@ -1,11 +1,11 @@
 ---
-description: Erinnerungsaufgabe - Synchronisieren mit Salesforce - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Erinnerungsaufgaben mit Salesforce synchronisiert werden. Stellen Sie sicher, dass E-Mail-, Anruf- und benutzerdefinierte Aufgaben aus Aktionen in der Salesforce-Aktivität angezeigt werden.
 title: Synchronisieren von Erinnerungsaufgaben mit Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '522'
 ht-degree: 1%
 
 ---
@@ -44,8 +44,8 @@ Nachstehend finden Sie eine Liste der Erinnerungsaufgabenfelder in [!DNL Sales I
   <p>Die anderen Statuswerte in [!DNL Salesforce] werden nicht mit [!DNL Sales Insight Actions] synchronisiert.</p></td>
  </tr>
  <tr>
-  <td>[!UICONTROL -Priorität]</td>
-  <td>[!UICONTROL -Priorität]</td>
+  <td>[!UICONTROL-Priorität]</td>
+  <td>[!UICONTROL-Priorität]</td>
   <td><p>[!DNL Sales Insight Actions] Die Priorität kann entweder Normal oder Hoch sein, was den Werten mit normaler und hoher Priorität in [!DNL Salesforce] entspricht.</p>
   <p>Der Wert für die niedrige Priorität in [!DNL Salesforce] wird nicht mit [!DNL Sales Insight Actions] synchronisiert.</p></td>
  </tr>

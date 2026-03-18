@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720314
-description: E-Mail-Leistungsbericht für Sales Insight - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über den E-Mail-Leistungsbericht für Sales Insight in Salesforce. Anzeigen von E-Mail-Metriken und Interaktionen für Verkaufs-E-Mails.
 title: Sales Insight-E-Mail-Leistungsbericht
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 8%
+source-wordcount: '161'
+ht-degree: 16%
 
 ---
 

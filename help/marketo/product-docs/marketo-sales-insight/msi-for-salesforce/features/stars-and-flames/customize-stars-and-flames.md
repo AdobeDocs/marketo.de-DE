@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360303
-description: Anpassen von Sternen und Flammen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Sales Insight Sterne und Flammen anpassen. Konfigurieren Sie, wie Lead-Bewertung und Dringlichkeit in Salesforce angezeigt werden.
 title: Anpassen von Sternen und Flammen
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 4%
+source-wordcount: '186'
+ht-degree: 6%
 
 ---
 
 # Anpassen von Sternen und Flammen {#customize-stars-and-flames}
 
-[!DNL Marketo Sales Insight] verwendet Sterne und Flammen, um Leads zu priorisieren. Marketo entscheidet automatisch, wer 1-2-3 Sterne/Flammen erhält. Sie können jedoch die Formel ändern. So geht&#39;s:
+[!DNL Marketo Sales Insight] verwendet Sterne und Flammen, um Leads zu priorisieren. Marketo entscheidet automatisch, wer 1-2-3 Sterne/Flammen erhält. Sie können jedoch die Formel ändern. So geht’s:
 
 >[!AVAILABILITY]
 >
@@ -21,9 +21,9 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
-1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Sales Insight]**.
+1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Sales Insight]**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
@@ -37,7 +37,7 @@ ht-degree: 4%
    >
    >**Definition**
    >
-   >**[!UICONTROL Dynamisch]** - Ist ein Prozentwert, der von (relativen [) &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
+   >**[!UICONTROL Dynamisch]** - Ist ein Prozentwert, der von (relativen [) ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
    >
    >**[!UICONTROL Static]** - Ermöglicht die Definition exakter Score-Zahlen - keine weiteren Prozentsätze, keine geheimen Sauces mehr.
 

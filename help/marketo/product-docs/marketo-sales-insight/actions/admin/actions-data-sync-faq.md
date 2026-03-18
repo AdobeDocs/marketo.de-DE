@@ -1,11 +1,11 @@
 ---
-description: Häufig gestellte Fragen zur Datensynchronisierung für Aktionen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Synchronisierung von Aktionsdaten zwischen Marketo Engage-, Salesforce- und Sales Insight-Aktionen. Erhalten Sie Antworten auf häufig gestellte Fragen zu Personen und Aktivitätsdaten-Synchronisierung.
 title: Häufig gestellte Fragen zur Datensynchronisation für Aktionen
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '974'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Das obige Diagramm zeigt, wie Daten zu Personenaktivitäten und Aufgaben zwische
 
 * Personendatensätze werden mit [!DNL Sales Insight Actions] aus Marketo Engage synchronisiert, sodass Marketo Engage die Datenquelle für [!DNL Sales Insight Actions] Personendaten ist
 * Sowohl Marketo Engage als auch [!DNL Sales Insight Actions] [verfügen über einen Mechanismus](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) zum Erfassen und Synchronisieren des Abmeldestatus mit [!DNL Salesforce]
-* Der Abmeldestatus wird nicht mit Verkaufsaktionen für Marketo Engage synchronisiert. [!DNL Sales Insight Actions] kann jedoch so konfiguriert werden, dass der Marketo-Abmeldestatus von Personen geprüft wird, bevor Verkäufern erlaubt wird, eine E-Mail mit der [Marketo-Abmeldeprüfung zu &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* Der Abmeldestatus wird nicht mit Verkaufsaktionen für Marketo Engage synchronisiert. [!DNL Sales Insight Actions] kann jedoch so konfiguriert werden, dass der Marketo-Abmeldestatus von Personen geprüft wird, bevor Verkäufern erlaubt wird, eine E-Mail mit der [Marketo-Abmeldeprüfung zu ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
 
 Im Folgenden finden Sie einige häufig gestellte Fragen zur Funktionsweise der Datenvereinheitlichungssynchronisierung.
 
@@ -113,7 +113,7 @@ Ja, Vertriebsaktivitäten werden in [!DNL Salesforce] als native Aufgaben protok
 
 ![](assets/actions-data-sync-faq-6.png)
 
-Das obige Diagramm zeigt, welche Informationen in [!DNL Salesforce] protokolliert werden. Aktivitäten wie E-Mails und Anrufe werden in [!DNL Salesforce] in einer [&#x200B; Synchronisierung &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Abmeldungen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) und [Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) werden mit einer bidirektionalen Synchronisation auf dem neuesten Stand gehalten. Jede dieser Datensynchronisationen kann über [!DNL Sales Insight Actions] Web-App-Oberfläche konfiguriert werden.
+Das obige Diagramm zeigt, welche Informationen in [!DNL Salesforce] protokolliert werden. Aktivitäten wie E-Mails und Anrufe werden in [!DNL Salesforce] in einer [ Synchronisierung ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Abmeldungen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) und [Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) werden mit einer bidirektionalen Synchronisation auf dem neuesten Stand gehalten. Jede dieser Datensynchronisationen kann über [!DNL Sales Insight Actions] Web-App-Oberfläche konfiguriert werden.
 
 >[!MORELIKETHIS]
 >

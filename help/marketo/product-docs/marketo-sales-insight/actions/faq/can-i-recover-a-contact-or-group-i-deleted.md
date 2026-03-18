@@ -1,12 +1,12 @@
 ---
-description: Kann ich einen Kontakt oder eine Gruppe wiederherstellen, die ich gelöscht habe? – Marketo-Dokumente – Produktdokumentation
+description: Finden Sie in Sales Insight Actions heraus, ob Sie einen gelöschten Kontakt oder eine gelöschte Gruppe wiederherstellen können. Informationen zu Wiederherstellungsoptionen und -beschränkungen.
 title: Kann ich einen Kontakt oder eine Gruppe wiederherstellen, den bzw. die ich gelöscht habe?
 exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 26%
+source-wordcount: '89'
+ht-degree: 20%
 
 ---
 

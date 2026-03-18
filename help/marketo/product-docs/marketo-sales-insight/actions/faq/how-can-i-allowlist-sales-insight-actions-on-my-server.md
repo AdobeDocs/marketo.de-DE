@@ -1,12 +1,12 @@
 ---
-description: Wie kann ich Sales Insight-Aktionen auf meinem Server Auf die Zulassungsliste gesetzt haben? – Marketo-Dokumente – Produktdokumentation
+description: Auf die Zulassungsliste setzen Erfahren Sie, wie Sie Sales Insight-Aktionen auf Ihrem Server oder Ihrer Firewall konfigurieren. Abrufen von IPs und Domains für Tracking und Versand
 title: Wie kann ich Sales Insight Actions auf meinem Server auf die Zulassungsliste setzen?
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 20%
+source-wordcount: '77'
+ht-degree: 12%
 
 ---
 

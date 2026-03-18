@@ -1,12 +1,12 @@
 ---
-description: Einrichten eines benutzerdefinierten Versandkanals für Ihr Team - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen benutzerdefinierten Versandkanal für Ihr Team einrichten. Konfigurieren des Versands und Trackings von Verkaufs-E-Mails
 title: Einrichten eines benutzerdefinierten Versandkanals für Ihr Team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ ht-degree: 10%
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
