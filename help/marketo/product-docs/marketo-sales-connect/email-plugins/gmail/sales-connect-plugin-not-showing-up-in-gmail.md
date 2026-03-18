@@ -27,4 +27,4 @@ Aus unserer Erfahrung können Sie folgende Dinge ausprobieren, wenn Ihre Symboll
 
 - Versuchen Sie, die Verbindung zu trennen und dann die [!DNL Sales Connect] Browser-Erweiterung erneut zu verbinden.
 
-Wenn keiner der oben genannten Tipps geholfen hat, [ Sie bitte einen Fall ](https://nation.marketo.com/community/support_solutions) den Support.
+Wenn keiner der oben genannten Tipps geholfen hat, [&#x200B; Sie bitte einen Fall &#x200B;](https://nation.marketo.com/community/support_solutions) den Support.

@@ -37,6 +37,6 @@ In Command Center können Sie Ihre „Anrufliste“ über den Tab Gesendet verwe
 
 Sobald Sie einen Anruf getätigt haben, ruft [!DNL Sales Connect] die Telefonnummer Ihres Leads/Kontakts von [!DNL Salesforce] ab. Wenn in [!DNL Salesforce] keine Nummer aufgeführt ist, ruft [!DNL Sales Connect] die Telefonnummer im Kontodatensatz ab.
 
-Für Teams, die andere CRM-Systeme verwenden, ruft Sales Connect die Telefonnummer aus dem Datensatz in Sales Connect ab. Diese Daten können einfach über einen CSV[Upload verfügbar ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+Für Teams, die andere CRM-Systeme verwenden, ruft Sales Connect die Telefonnummer aus dem Datensatz in Sales Connect ab. Diese Daten können einfach über einen CSV[Upload verfügbar &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 Klicken Sie auf die große grüne **[!UICONTROL Anruf]**-Schaltfläche. Dann klingelt Ihr Telefon. Rufen Sie Ihr Telefon ab, und Sales Connect ruft automatisch den Lead/Kontakt an.

@@ -168,8 +168,8 @@ auf die Zulassungsliste setzen **Schritte zur Fehlerbehebung:** Ihr [!DNL Salesf
 **Kategorie:** intermittierend
 **message:**
 1 - ConcurrentPerOrgLongTxn-Limit überschritten
-2. Gesamtzahl der Anfragen überschritten
-3. ConcurrentRequest
+&#x200B;2. Gesamtzahl der Anfragen überschritten
+&#x200B;3. ConcurrentRequest
 **Was passiert:**
 1 - Das Limit für gleichzeitige Anfragen wurde überschritten, wahrscheinlich aufgrund eines ineffizienten Trigger-Codes.
 2 - Zu viele Integrationen führen dazu, dass die Organisation das 24-Stunden-Rollierfenster hinter sich lässt.

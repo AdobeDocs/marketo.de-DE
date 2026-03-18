@@ -24,7 +24,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, dam
 
    ![](assets/call-outcomes-1.png)
 
-1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-outcomes-2.png)
 
@@ -46,7 +46,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, dam
 
    ![](assets/call-outcomes-5.png)
 
-1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-outcomes-6.png)
 

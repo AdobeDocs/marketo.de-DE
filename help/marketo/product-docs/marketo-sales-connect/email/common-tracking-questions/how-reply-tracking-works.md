@@ -17,7 +17,7 @@ Das Antwort-Tracking erfolgt anhand einer Nachrichten-ID in jeder gesendeten E-M
 
 >[!PREREQUISITES]
 >
->**Verbindung zum E-Mail-Server:** [!DNL Sales Connect] muss mit Ihrem Posteingang verbunden sein, damit wir wissen, wann eine neue Antwort eingegangen ist. Sie müssen Ihr [!DNL Sales Connect]-Konto mit [Gmail“ ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Wenn Sie [!DNL Outlook] verwenden, müssen wir eine Integration mit Ihrem [Exchange-Server](https://toutapp.com/next#settings/exchange_settings) vornehmen.
+>**Verbindung zum E-Mail-Server:** [!DNL Sales Connect] muss mit Ihrem Posteingang verbunden sein, damit wir wissen, wann eine neue Antwort eingegangen ist. Sie müssen Ihr [!DNL Sales Connect]-Konto mit [Gmail“ &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md). Wenn Sie [!DNL Outlook] verwenden, müssen wir eine Integration mit Ihrem [Exchange-Server](https://toutapp.com/next#settings/exchange_settings) vornehmen.
 
 Wenn [!DNL Sales Connect] die Antwort Ihres Interessenten auf Ihre E-Mail nicht verfolgen können, kann er eine Kampagne nicht auf der Grundlage der Antworterkennung stoppen oder diese Antwort [!DNL Salesforce] protokollieren.  Was meinen wir damit, dass jede E-Mail-Adresse antworten kann?
 

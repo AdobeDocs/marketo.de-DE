@@ -24,7 +24,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufgründe auszuwählen, damit 
 
    ![](assets/call-reasons-1.png)
 
-1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-reasons-2.png)
 
@@ -46,7 +46,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufgründe auszuwählen, damit 
 
    ![](assets/call-reasons-5.png)
 
-1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-reasons-6.png)
 

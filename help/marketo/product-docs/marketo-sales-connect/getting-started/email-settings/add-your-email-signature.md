@@ -19,7 +19,7 @@ Wir möchten, dass E-Mails von Sales Connect sich wie ein nahtloses Erlebnis anf
 
    ![](assets/add-your-email-signature-1.png)
 
-1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
 
    ![](assets/add-your-email-signature-2.png)
 
@@ -27,7 +27,7 @@ Wir möchten, dass E-Mails von Sales Connect sich wie ein nahtloses Erlebnis anf
 
    ![](assets/add-your-email-signature-3.png)
 
-1. Klicken Sie auf [!UICONTROL  Karte ]Signatur **[!UICONTROL auf]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Karte &#x200B;]Signatur **[!UICONTROL auf]**.
 
    ![](assets/add-your-email-signature-4.png)
 

@@ -50,7 +50,7 @@ Beim Senden einer E-Mail mit [!DNL Marketo Sales Connect] werden Ansichten (E-Ma
    >
    >Zum Senden der E-Mail sind eine Betreffzeile und ein Empfänger erforderlich. Wir **Ihren Entwurf automatisch speichern** sobald eine Betreffzeile und ein Empfänger hinzugefügt wurden.
 
-1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken **[!UICONTROL abschließend auf]** Senden[ oder ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)Planen).
+1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken **[!UICONTROL abschließend auf]** Senden[&#x200B; oder &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)Planen).
 
    ![](assets/five.png)
 

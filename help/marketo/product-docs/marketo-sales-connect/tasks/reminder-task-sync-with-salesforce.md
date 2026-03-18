@@ -44,8 +44,8 @@ Nachstehend finden Sie eine Liste der Erinnerungsaufgabenfelder in [!DNL Sales C
   <p>Die anderen Statuswerte in [!DNL Salesforce] werden nicht mit [!DNL Sales Connect] synchronisiert.</p></td>
  </tr>
  <tr>
-  <td>[!UICONTROL-Priorität]</td>
-  <td>[!UICONTROL-Priorität]</td>
+  <td>[!UICONTROL -Priorität]</td>
+  <td>[!UICONTROL -Priorität]</td>
   <td><p>[!DNL Sales Connect] Die Priorität kann entweder Normal oder Hoch sein, was den Werten mit normaler und hoher Priorität in [!DNL Salesforce] entspricht.</p>
   <p>Der Wert für die niedrige Priorität in [!DNL Salesforce] wird nicht mit [!DNL Sales Connect] synchronisiert.</p></td>
  </tr>

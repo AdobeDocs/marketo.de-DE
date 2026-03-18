@@ -17,7 +17,7 @@ Verwalten Sie Ihre Vorlagen besser, indem Sie einschränken, was Benutzende mit 
 
 ![](assets/main.png)
 
-Bei der ersten Erstellung Ihres Sales Connect-Kontos [!UICONTROL  die Freigabeeinstellungen ] aktiviert. Dadurch haben Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor sie die Schleusentore öffnen, und Benutzern die Freigabe von Inhalten in Ihren Team-Kategorien zu ermöglichen.
+Bei der ersten Erstellung Ihres Sales Connect-Kontos [!UICONTROL &#x200B; die Freigabeeinstellungen &#x200B;] aktiviert. Dadurch haben Ihre Kontoadministratoren die Möglichkeit, Ihre Vorlagenkategorien zu erstellen und zu organisieren, bevor sie die Schleusentore öffnen, und Benutzern die Freigabe von Inhalten in Ihren Team-Kategorien zu ermöglichen.
 
 Wenn [!UICONTROL Freigabeeinstellungen] aktiviert sind, können nur Administratoren Inhalte in Kategorien freigeben, es sei denn, einem Team oder allen Benutzern werden Freigabeberechtigungen gewährt. Wenn [!UICONTROL Freigabeeinstellungen] deaktiviert ist, gibt es keine Einschränkungen und alle Benutzer können Inhalte für beliebige Vorlagenkategorien freigeben.
 
@@ -27,7 +27,7 @@ Wenn [!UICONTROL Freigabeeinstellungen] aktiviert sind, können nur Administrato
 
    ![](assets/one-2.png)
 
-1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Zugriff freigeben]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Zugriff freigeben]** aus.
 
    ![](assets/two-2.png)
 
