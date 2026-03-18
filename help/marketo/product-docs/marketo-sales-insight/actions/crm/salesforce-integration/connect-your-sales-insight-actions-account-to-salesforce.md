@@ -20,11 +20,11 @@ Führen Sie diese einfachen Schritte aus, um [!DNL Sales Insight Actions] Konto 
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Salesforce]** und dann auf **[!UICONTROL Verbinden]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Salesforce]** und dann auf **[!UICONTROL Verbinden]**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
@@ -40,7 +40,7 @@ Führen Sie diese einfachen Schritte aus, um [!DNL Sales Insight Actions] Konto 
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
-1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL Salesforce]**.
+1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL Salesforce]**.
 
 1. Klicken Sie auf der [!UICONTROL Verbindungen und Anpassungen] auf **[!UICONTROL Salesforce]** und dann auf **[!UICONTROL Verbinden]**.
 

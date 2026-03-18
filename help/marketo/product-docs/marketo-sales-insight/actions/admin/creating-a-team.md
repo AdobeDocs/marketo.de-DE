@@ -20,7 +20,7 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
    ![](assets/creating-a-team-1.png)
 
-1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
+1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
 
    ![](assets/creating-a-team-2.png)
 
@@ -38,7 +38,7 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
 ## Personen zu einem Team hinzufügen {#add-people-to-a-team}
 
-1. Wählen Sie noch [!UICONTROL  &quot;]&quot; die Option **[!UICONTROL Alle Mitglieder]** aus.
+1. Wählen Sie noch [!UICONTROL &#x200B; &quot;]&quot; die Option **[!UICONTROL Alle Mitglieder]** aus.
 
    ![](assets/creating-a-team-5.png)
 

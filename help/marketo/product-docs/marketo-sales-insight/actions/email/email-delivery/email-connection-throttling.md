@@ -33,7 +33,7 @@ Wenn Limits durchgängig überschritten werden, kann dies manchmal als verdächt
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/email-connection-throttling-2.png)
 

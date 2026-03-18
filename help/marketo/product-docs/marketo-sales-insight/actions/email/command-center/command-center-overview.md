@@ -43,7 +43,7 @@ Der Abschnitt E-Mail bietet Ihnen einen Überblick über alle Ihre E-Mails und v
   <td>E-Mails, die derzeit für den Versand geplant sind. Sobald eine E-Mail gesendet wurde, wird sie in den Ordner für zugestellte Nachrichten verschoben.</td>
  </tr>
  <tr>
-  <td>[!UICONTROL-Entwurf]</td>
+  <td>[!UICONTROL -Entwurf]</td>
   <td>Als Entwurf gespeicherte E-Mails.<br/>
   <strong>Hinweis</strong>: Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden sowie Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</td>
  </tr>

@@ -16,7 +16,7 @@ Die automatische Anmeldung ermöglicht es [!DNL Sales Insight Actions] Benutzern
 
 So verwenden Sie die automatische Anmeldung:
 
-* [Einstellungen für die Anmeldeverwaltung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) muss auf &quot;[!UICONTROL Nur Salesforce&quot; ].
+* [Einstellungen für die Anmeldeverwaltung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) muss auf &quot;[!UICONTROL Nur Salesforce&quot; &#x200B;].
 
 * Der Benutzer muss eingeladen worden sein, [!DNL Sales Insight Actions] zu verwenden
 

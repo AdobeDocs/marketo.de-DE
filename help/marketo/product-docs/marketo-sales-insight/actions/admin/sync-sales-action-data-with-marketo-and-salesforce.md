@@ -112,7 +112,7 @@ Mit Sales Insight-Aktionen können Administratoren konfigurieren, welche Verkauf
 
 ![](assets/actions-data-sync-faq-6.png)
 
-Das obige Diagramm zeigt, welche Informationen in Salesforce protokolliert werden. Aktivitäten wie E-Mails und Anrufe werden in Salesforce in einer [ (unidirektionalen Synchronisation) ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [Abmeldungen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) und [Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) werden mit einer bidirektionalen Synchronisation auf dem neuesten Stand gehalten. Jede dieser Datensynchronisationen kann über die Web-App-Oberfläche der Sales Insight Actions konfiguriert werden.
+Das obige Diagramm zeigt, welche Informationen in Salesforce protokolliert werden. Aktivitäten wie E-Mails und Anrufe werden in Salesforce in einer [&#x200B; (unidirektionalen Synchronisation) &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [Abmeldungen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) und [Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) werden mit einer bidirektionalen Synchronisation auf dem neuesten Stand gehalten. Jede dieser Datensynchronisationen kann über die Web-App-Oberfläche der Sales Insight Actions konfiguriert werden.
 
 >[!MORELIKETHIS]
 >

@@ -41,7 +41,7 @@ Wie Marketing-Experten diese höheren Erwartungen in Bezug auf die Erfassung, Ve
 
 Es gibt zwei wichtige Aspekte der DSGVO, in denen Marketing-Experten vergangene, aktuelle und zukünftige Vorgehensweisen überprüfen müssen. Das erste ist die Zustimmung des Einzelnen zur Verarbeitung seiner personenbezogenen Daten, das zweite die Rechenschaftspflicht, d. h. die Fähigkeit zu demonstrieren, wie die Grundsätze der DSGVO befolgt werden.
 
-In unserem E-Book (DSGVO und [ Marketer) stellen wir umfangreiche Informationen zum Einverständnis und zur Rechenschaftspflicht innerhalb der Marketo-Plattform ](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In diesem Artikel konzentrieren wir uns jedoch speziell auf die neuen Funktionen in [!DNL Sales Insight Actions], die Ihrem Unternehmen bei der Einhaltung der DSGVO-Regeln helfen.
+In unserem E-Book (DSGVO und [&#x200B; Marketer) stellen wir umfangreiche Informationen zum Einverständnis und zur Rechenschaftspflicht innerhalb der Marketo-Plattform &#x200B;](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In diesem Artikel konzentrieren wir uns jedoch speziell auf die neuen Funktionen in [!DNL Sales Insight Actions], die Ihrem Unternehmen bei der Einhaltung der DSGVO-Regeln helfen.
 
 ## DSGVO-Compliance in [!DNL Sales Insight Actions] {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -87,11 +87,11 @@ Es werden zwei Dropdown-Listen angezeigt: [!UICONTROL Autorisierungstyp] und [!U
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
-Wenn Sie als [!UICONTROL Autorisierungstyp“ „Einverständnis] auswählen, werden zwei Pflichtfelder angezeigt: [!UICONTROL Einverständnisdatum] und [!UICONTROL Zweck der ]&quot;. Diese beiden Felder sind nicht auf andere Optionen anwendbar.
+Wenn Sie als [!UICONTROL Autorisierungstyp“ „Einverständnis] auswählen, werden zwei Pflichtfelder angezeigt: [!UICONTROL Einverständnisdatum] und [!UICONTROL Zweck der &#x200B;]&quot;. Diese beiden Felder sind nicht auf andere Optionen anwendbar.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-Wenn &quot;[!UICONTROL Other]&quot; entweder für [!UICONTROL Autorisierungstyp] oder [!UICONTROL Source-Typ] ausgewählt wurde, können Sie Text eingeben, um den [!UICONTROL Source-Typ zu ].
+Wenn &quot;[!UICONTROL Other]&quot; entweder für [!UICONTROL Autorisierungstyp] oder [!UICONTROL Source-Typ] ausgewählt wurde, können Sie Text eingeben, um den [!UICONTROL Source-Typ zu &#x200B;].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
@@ -132,7 +132,7 @@ Sie haben die Möglichkeit, Kontaktinformationen aus der Personendetailansicht z
  <tbody>
   <tr>
    <td>[!UICONTROL Vorname]</td>
-   <td>[!UICONTROL-Website]</td>
+   <td>[!UICONTROL -Website]</td>
    <td>[!DNL Facebook]</td>
   </tr>
   <tr>

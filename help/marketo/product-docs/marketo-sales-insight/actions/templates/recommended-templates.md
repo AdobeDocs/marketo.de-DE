@@ -22,7 +22,7 @@ Die von [!DNL Sales Insight Action] empfohlenen Vorlagen helfen Ihnen, die richt
 
    ![](assets/recommended-templates-2.png)
 
-1. Klicken Sie auf der Karte [!UICONTROL Empfohlene ]Vorlage auf **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie auf der Karte [!UICONTROL Empfohlene &#x200B;]Vorlage auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/recommended-templates-3.png)
 

@@ -33,7 +33,7 @@ Es ist super einfach, mit [!DNL Marketo Sales Insight] eine Marketo-E-Mail an me
 
    >[!TIP]
    >
-   >Siehst du den Knopf nicht? Stellen Sie sicher, [ Sie die Marketo-Schaltflächen zur Listenansicht hinzugefügt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
+   >Siehst du den Knopf nicht? Stellen Sie sicher, [&#x200B; Sie die Marketo-Schaltflächen zur Listenansicht hinzugefügt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
 
 1. Erstellen Sie Ihre E-Mail. Klicken Sie **[!UICONTROL Mit Marketo senden]** wenn Sie fertig sind.
 

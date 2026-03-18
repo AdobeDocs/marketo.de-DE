@@ -21,7 +21,7 @@ Mit Sales Insight Actions können Sie die Antworten Ihrer Interessenten automati
 * Muss E-Mails über API-Protokollierung protokollieren
 * Muss in der Lage sein, [eine Antwort zu verfolgen](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
 * Muss mit [!DNL Salesforce] verbunden sein
-* Muss [!DNL Salesforce] ([) ](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) haben
+* Muss [!DNL Salesforce] ([) &#x200B;](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) haben
 
 ## Antwortprotokollierung aktivieren {#enable-reply-logging}
 
@@ -37,7 +37,7 @@ Es ist wichtig, aussagekräftige Daten aus Ihren [!DNL Salesforce]-Berichten zu 
 
 1. Wechseln Sie **[!UICONTROL Setup]** > **[!UICONTROL Anpassen]** > **[!UICONTROL Aktivitäten]** > **[!UICONTROL Aufgabenfelder]**.
 1. Klicken Sie auf **[!UICONTROL Typ]**.
-1. Klicken [!UICONTROL  unter „Aufgabenart Auswahllistenwerte] auf **[!UICONTROL Neu]**.
+1. Klicken [!UICONTROL &#x200B; unter „Aufgabenart Auswahllistenwerte] auf **[!UICONTROL Neu]**.
 1. Geben Sie „Antwort“ in das leere Feld ein. Achten Sie darauf, das „R“ großzuschreiben und auf &quot;**[!UICONTROL &quot;]**.
 
    >[!NOTE]

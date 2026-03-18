@@ -24,7 +24,7 @@ Für diese Funktion müssen Sie die Enterprise/Unlimited Edition von [!DNL Sales
 
    ![](assets/salesforce-sync-settings-1.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; (oder &quot;[!UICONTROL Mein Konto], wenn Sie kein Administrator sind) auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; (oder &quot;[!UICONTROL Mein Konto], wenn Sie kein Administrator sind) auf **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-2.png)
 
@@ -54,7 +54,7 @@ Sobald Sie &quot;[!UICONTROL E-Mail an Salesforce (BCC)]&quot; aktiviert haben, 
 
    ![](assets/salesforce-sync-settings-6.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; (oder &quot;[!UICONTROL Mein Konto], wenn Sie kein Administrator sind) auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; (oder &quot;[!UICONTROL Mein Konto], wenn Sie kein Administrator sind) auf **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-7.png)
 
@@ -98,7 +98,7 @@ Wenn Meine E-Mail an [!DNL Salesforce] in Ihren Einstellungen nicht angezeigt wi
 
    ![](assets/salesforce-sync-settings-10.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; (oder &quot;[!UICONTROL Mein Konto], wenn Sie kein Administrator sind) auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; (oder &quot;[!UICONTROL Mein Konto], wenn Sie kein Administrator sind) auf **[!UICONTROL Salesforce]**.
 
    ![](assets/salesforce-sync-settings-11.png)
 

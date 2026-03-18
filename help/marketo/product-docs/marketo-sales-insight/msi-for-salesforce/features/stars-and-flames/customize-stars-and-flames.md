@@ -23,7 +23,7 @@ ht-degree: 6%
 >
 >**Admin-Berechtigungen erforderlich**
 
-1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Sales Insight]**.
+1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Sales Insight]**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
@@ -37,7 +37,7 @@ ht-degree: 6%
    >
    >**Definition**
    >
-   >**[!UICONTROL Dynamisch]** - Ist ein Prozentwert, der von (relativen [) ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
+   >**[!UICONTROL Dynamisch]** - Ist ein Prozentwert, der von (relativen [) &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
    >
    >**[!UICONTROL Static]** - Ermöglicht die Definition exakter Score-Zahlen - keine weiteren Prozentsätze, keine geheimen Sauces mehr.
 

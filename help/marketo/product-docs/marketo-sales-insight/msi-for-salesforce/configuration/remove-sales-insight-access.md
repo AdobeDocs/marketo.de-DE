@@ -81,7 +81,7 @@ Für den Zugriff auf alle [!DNL Sales Insight] Funktionen ist eine Berechtigung 
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Benutzer verwalten]** gefolgt von **[!UICONTROL Profile]**.
+1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Benutzer verwalten]** gefolgt von **[!UICONTROL Profile]**.
 
 1. Klicken Sie auf das Profil, das Sie aktualisieren möchten, und dann auf **[!UICONTROL Bearbeiten]**.
 

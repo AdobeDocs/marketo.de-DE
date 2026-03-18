@@ -26,7 +26,7 @@ Erfahren Sie mehr über die in Ihrem [!DNL Sales Insights]-Dashboard verfügbare
 **Interaktionsgeschwindigkeitsraster**
 
 * Dieses intelligente Raster enthält interessante Momente, E-Mail- und Web-Aktivitäten in den letzten 90 Tagen
-* Benutzer können die Aktivität &quot;[!UICONTROL  Konto anzeigen] auswählen. Dadurch werden alle interessanten Momente, E-Mail- und Web-Aktivitäten auf Kontoebene in der Kontaktansicht überlagert.
+* Benutzer können die Aktivität &quot;[!UICONTROL &#x200B; Konto anzeigen] auswählen. Dadurch werden alle interessanten Momente, E-Mail- und Web-Aktivitäten auf Kontoebene in der Kontaktansicht überlagert.
 * Benutzer können eine bestimmte Woche markieren, um die Aktivitäten innerhalb dieser Woche anzuzeigen
 * Standardansicht: Aktuelle Woche ist ausgewählt
 

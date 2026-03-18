@@ -23,7 +23,7 @@ Sterne und Flammen in Lead-/Kontakt-Datensätzen sind abhängig von: [!UICONTROL
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Klicken Sie im linken Bedienfeld **** Marketo Sales Insight. Klicken Sie im rechten Bedienfeld auf die Dropdown-Liste Filter und wählen Sie **[!UICONTROL Benutzerdefinierte Felder]**.
+1. Klicken Sie im linken Bedienfeld **&#x200B;**&#x200B;Marketo Sales Insight. Klicken Sie im rechten Bedienfeld auf die Dropdown-Liste Filter und wählen Sie **[!UICONTROL Benutzerdefinierte Felder]**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
