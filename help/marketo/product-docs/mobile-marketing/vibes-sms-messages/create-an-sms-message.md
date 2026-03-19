@@ -1,11 +1,11 @@
 ---
-description: Erstellen einer SMS-Nachricht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine SMS-Nachricht erstellen. Fügen Sie Text, Token und Links im Editor hinzu und befolgen Sie die Zeichenbeschränkungen und Compliance-Anforderungen.
 title: Erstellen einer SMS-Nachricht
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '495'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ So erstellen Sie eine SMS-Nachricht.
 >
 >[Hinzufügen von Vibes als LaunchPoint-Service](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/create-an-sms-message-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096158
-description: Authentifizieren der Mobile Access Security - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Zugriffsschlüssel und Zugriffsgeheimnis für die Sicherheit mobiler Apps aktivieren. Code für IT bereitstellen, damit App-Anmeldungen überprüft werden.
 title: Authentifizieren der Mobile-Zugriffssicherheit
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '158'
 ht-degree: 6%
 
 ---
@@ -29,7 +29,7 @@ Um die IDs zu aktivieren, müssen Sie die Codes abrufen und sie Ihrer IT-Abteilu
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Scrollen Sie nach unten und klicken Sie [!UICONTROL &#x200B; Abschnitt &#x200B;] auf **[!UICONTROL Bearbeiten]**.
+1. Scrollen Sie nach unten und klicken Sie [!UICONTROL  Abschnitt ] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 

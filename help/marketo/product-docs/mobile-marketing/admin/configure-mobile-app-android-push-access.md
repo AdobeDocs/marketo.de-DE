@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512432
-description: Mobile App konfigurieren Android Push-Zugriff - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Push-Zugriff auf Android für Ihre Mobile App konfigurieren. Geben Sie den Server-API-Schlüssel und die Projektnummer von Ihrem Entwickler in Admin ein.
 title: Konfigurieren des Push-Zugriffs für Mobile App – Android
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 14%
+source-wordcount: '111'
+ht-degree: 12%
 
 ---
 

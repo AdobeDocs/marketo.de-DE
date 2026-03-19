@@ -1,12 +1,12 @@
 ---
-description: Verwenden von Vibes-SMS-Nachrichten in Smart List-Triggern und -Filtern - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie SMS-Trigger und -Filter von Vibes in Smart-Kampagnen verwenden. Festlegen, wann nach Abonnement und Listenmitgliedschaft gesendet oder gefiltert werden soll.
 title: Verwenden von Vibes-SMS-Nachrichten in Smart List-Triggern und -Filtern
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '420'
 ht-degree: 1%
 
 ---
@@ -72,5 +72,5 @@ Nachdem Sie Vibes-Trigger und -Filter in Ihrer Smart-Liste eingerichtet haben, k
 
 >[!MORELIKETHIS]
 >
->* [Definieren der Smart-Liste für intelligente Kampagnen | Trigger &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Definieren der Smart-Liste für intelligente Kampagnen | Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Filter suchen und zu einer Smart-Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

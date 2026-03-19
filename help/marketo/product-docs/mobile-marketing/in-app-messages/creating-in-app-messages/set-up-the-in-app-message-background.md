@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100649
-description: Einrichten des In-App-Nachrichtenhintergrunds - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den In-App-Nachrichtenhintergrund einrichten. Wählen Sie Farbe oder Bild aus, legen Sie Rahmen und Eckenradius fest und konfigurieren Sie Tipp-Aktionen für jede Plattform.
 title: Einrichten des In-App-Nachrichten-Hintergrunds
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---

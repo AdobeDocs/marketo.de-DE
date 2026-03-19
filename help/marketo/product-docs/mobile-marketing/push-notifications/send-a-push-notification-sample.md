@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783141
-description: Beispiel für das Senden einer Push-Benachrichtigung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Beispiel für eine Push-Benachrichtigung senden, um zu überprüfen, ob es funktioniert. Wählen Sie ein Testgerät aus oder fügen Sie eines hinzu und senden Sie dann das Beispiel aus dem Editor.
 title: Senden einer Beispiel-Push-Benachrichtigung
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '287'
 ht-degree: 3%
 
 ---

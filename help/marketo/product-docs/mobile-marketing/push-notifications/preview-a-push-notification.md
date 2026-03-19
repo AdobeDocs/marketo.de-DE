@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092730
-description: Vorschau einer Push-Benachrichtigung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Vorschau einer Push-Benachrichtigung in Android und iOS anzeigen. Sehen Sie, wie es auf dem Startbildschirm, Sperrbildschirm und im Benachrichtigungszentrum aussieht.
 title: Anzeigen der Vorschau für eine Push-Benachrichtigung
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '260'
 ht-degree: 3%
 
 ---

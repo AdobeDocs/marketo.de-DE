@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100644
-description: Einrichten der In-App-Nachrichten-Schaltfläche - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die In-App-Nachrichten-Schaltfläche einrichten. Konfigurieren Sie Farbe, Form, benutzerdefiniertes Bild, Schriftart und Tipp-Aktionen für Apple und Android.
 title: Einrichten der In-App-Nachrichtenschaltfläche
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,9 @@ Sie können das standardmäßige Schaltflächendesign verwenden, es ändern oder
 
    >[!NOTE]
    >
-   >Die Schaltfläche verfügt immer über eine Tipp-Aktion, sodass das Kontrollkästchen Tipp-Aktion automatisch mit der Standardmeldung „Nachricht [!UICONTROL &quot; &#x200B;] ist.
+   >Die Schaltfläche verfügt immer über eine Tipp-Aktion, sodass das Kontrollkästchen Tipp-Aktion automatisch mit der Standardmeldung „Nachricht [!UICONTROL &quot; ] ist.
 
-Fast da. Der letzte Schritt besteht darin[&#x200B; „In-App-Nachrichtenhintergrund konfigurieren und Schaltfläche schließen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Fast da. Der letzte Schritt besteht darin[ „In-App-Nachrichtenhintergrund konfigurieren und Schaltfläche schließen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >

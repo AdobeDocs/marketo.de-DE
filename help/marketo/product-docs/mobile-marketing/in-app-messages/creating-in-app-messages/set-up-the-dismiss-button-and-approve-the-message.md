@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912178
-description: Einrichten der Schaltfläche „Schließen“ und Genehmigen der Nachricht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Schaltfläche zum Schließen einrichten und Ihre In-App-Nachricht genehmigen. Konfigurieren Sie die Farbe, das Design und das Tippen auf Aktionen, zeigen Sie dann eine Vorschau an und genehmigen Sie den Start.
 title: Schaltfläche „Schließen“ einrichten und Nachricht genehmigen
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ Alle Ihre Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch ge
 
 So viele Möglichkeiten, aber jetzt haben Sie eine großartige In-App-Nachricht, bereit zu gehen!
 
-Jetzt ist es an der Zeit, [Ihre Nachricht zu &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Jetzt ist es an der Zeit, [Ihre Nachricht zu ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >

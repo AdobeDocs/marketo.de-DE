@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783146
-description: Hinzufügen eines neuen Testgeräts - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein neues Testgerät für Push-Benachrichtigungen hinzufügen. Verwenden Sie eine URL oder einen QR-Code, um Ihr Gerät anzuschließen und Test-Push-Benachrichtigungen zu senden.
 title: Hinzufügen eines neuen Testgeräts
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 9%
+source-wordcount: '146'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Es ist einfach, ein neues Testgerät hinzuzufügen, an das Benachrichtigungen ge
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken Sie auf **[!UICONTROL Admin]** und dann auf den Link **[!UICONTROL Mobile Apps]** .
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100397
-description: Grundlegendes zu In-App-Nachrichten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über In-App-Nachrichten, mit denen Sie App-Benutzer mit Angeboten und Erinnerungen ansprechen können. Nachrichten zu erstellen und zu senden, die Deep-Links oder verwerfen, mit einem Tippen.
 title: Grundlegendes zu In-App-Nachrichten
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '258'
 ht-degree: 2%
 
 ---
@@ -30,7 +30,7 @@ Bevor Sie In-App-Nachrichten für Ihre Mobile App erstellen und senden können, 
 
 ## Schritt 1: Administrator und Entwickler nehmen Ersteinstellungen vor {#step-admin-and-developer-perform-initial-setups}
 
-Marketo Admin und Entwickler mobiler Apps arbeiten bei der Einrichtung zusammen. Weitere [&#x200B; finden Sie unter „Vor dem Erstellen von Push-Benachrichtigungen und In-App](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)Nachrichten“.
+Marketo Admin und Entwickler mobiler Apps arbeiten bei der Einrichtung zusammen. Weitere [ finden Sie unter „Vor dem Erstellen von Push-Benachrichtigungen und In-App](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)Nachrichten“.
 
 ## Schritt 2: Erstellen einer In-App-Nachricht {#step-create-an-in-app-message}
 

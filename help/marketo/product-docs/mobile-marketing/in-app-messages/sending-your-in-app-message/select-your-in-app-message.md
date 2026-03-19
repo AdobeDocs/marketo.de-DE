@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617434
-description: In-App-Nachricht auswählen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die In-App-Nachricht für Ihr Programm auswählen. Wählen Sie aus dem Dropdown-Menü aus und bearbeiten, zeigen Sie eine Vorschau an oder fahren Sie mit dem Zeitplan fort.
 title: Auswählen Ihrer In-App-Nachricht
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 

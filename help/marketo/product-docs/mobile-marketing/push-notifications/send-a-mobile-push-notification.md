@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512457
-description: Mobile Push-Benachrichtigung senden - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine mobile Push-Benachrichtigung senden. Verwenden Sie eine intelligente Kampagne mit Smart List und Flow, um den Push an Ihre Audience zu planen.
 title: Senden einer Push-Benachrichtigung für Mobilgeräte
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 23%
+source-wordcount: '113'
+ht-degree: 24%
 
 ---
 
@@ -17,7 +17,7 @@ Senden Sie eine Push-Benachrichtigung an Personen, die Ihre Mobile App verwenden
 
 >[!PREREQUISITES]
 >
->* [Erstellen Sie eine neue intelligente Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Erstellen einer neuen intelligenten Kampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Push-Benachrichtigung erstellen](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
