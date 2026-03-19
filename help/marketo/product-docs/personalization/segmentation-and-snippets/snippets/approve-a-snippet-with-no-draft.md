@@ -42,7 +42,7 @@ Der Nicht-Entwurf wird jedes Mal ausgelöst, wenn ein Snippet genehmigt wird. Da
 
 >[!CAUTION]
 >
->Diese Funktion spart Zeit mit dem Workflow für die Snippet-Genehmigung. Es gibt jedoch einige Einschränkungen, die zu beachten sind. Einzelheiten finden [ in ](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} Artikel.
+>Diese Funktion spart Zeit mit dem Workflow für die Snippet-Genehmigung. Es gibt jedoch einige Einschränkungen, die zu beachten sind. Einzelheiten finden [&#x200B; in &#x200B;](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} Artikel.
 
 >[!MORELIKETHIS]
 >
