@@ -33,7 +33,7 @@ Der erste Schritt besteht darin, zu entscheiden, wer Ihre In-App-Nachricht erhal
 
    >[!NOTE]
    >
-   >Der Standardcode ([!UICONTROL App Open]) und alle benutzerdefinierten Trigger, die vom Entwickler bzw. der Entwicklerin zum Trigger hinzugefügt wurden, werden automatisch im [!UICONTROL Action]Selektor angezeigt. Wenn ein benutzerdefiniertes Ereignis fehlt, wenden Sie sich an Ihren Entwickler, um sicherzustellen, dass er die benutzerdefinierten Ereignisse zur App hinzugefügt hat. Beachten Sie, dass es einige Zeit dauern kann, bis der Prozess zur benutzerdefinierten Ereigniscodierung und -validierung abgeschlossen ist. Weitere Informationen finden [ in ](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) Artikel .
+   >Der Standardcode ([!UICONTROL App Open]) und alle benutzerdefinierten Trigger, die vom Entwickler bzw. der Entwicklerin zum Trigger hinzugefügt wurden, werden automatisch im [!UICONTROL Action]Selektor angezeigt. Wenn ein benutzerdefiniertes Ereignis fehlt, wenden Sie sich an Ihren Entwickler, um sicherzustellen, dass er die benutzerdefinierten Ereignisse zur App hinzugefügt hat. Beachten Sie, dass es einige Zeit dauern kann, bis der Prozess zur benutzerdefinierten Ereigniscodierung und -validierung abgeschlossen ist. Weitere Informationen finden [&#x200B; in &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) Artikel .
 
 1. Einschränkungen sind für den Trigger **[!UICONTROL Hat Mobile-App-Aktivität]** verfügbar, falls Sie sie benötigen.
 
@@ -55,4 +55,4 @@ Der erste Schritt besteht darin, zu entscheiden, wer Ihre In-App-Nachricht erhal
 
 Gut gemacht! Sie haben Ihre Audience eingestellt. Sie haben den blauen Balken und das grüne Häkchen verdient.
 
-Zeit zum [ (wählen Sie Ihre In-App-Nachricht aus](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+Zeit zum [&#x200B; (wählen Sie Ihre In-App-Nachricht aus](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

@@ -18,7 +18,7 @@ Nachdem Sie Ihre In-App-Nachricht erstellt haben, können Sie sie jetzt versende
 >
 >Wenn Sie eine In-App-Nachricht testen, die von [!UICONTROL App Open] ausgelöst wird, laden Sie die App auf das Smartphone herunter, öffnen Sie sie und schließen Sie sie. Dadurch wird der SDK-Code initialisiert. Beim nächsten Öffnen der App wird die In-App-Nachricht angezeigt. Trigger bei benutzerspezifischen Ereignissen beim ersten Öffnen der App.
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf den Ordner, in dem das Programm gespeichert werden soll, und wählen Sie **[!UICONTROL Neues Programm]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf den Ordner, in dem das Programm gespeichert werden soll, und wählen Sie **[!UICONTROL Neues Programm]**.
 
    ![Bild eins](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
 

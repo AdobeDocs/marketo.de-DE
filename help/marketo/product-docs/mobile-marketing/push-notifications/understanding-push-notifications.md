@@ -25,15 +25,15 @@ Mit der Interaktion mit Marketo Mobile können Sie eine Benachrichtigung wie ein
 
 ## Schritt 1: Administrator und Entwickler nehmen Ersteinstellungen vor {#step-admin-and-developer-perform-initial-setups}
 
-Marketo Admin und Entwickler mobiler Apps arbeiten bei der Einrichtung zusammen. Weitere [ finden Sie unter „Vor dem Erstellen von Push-Benachrichtigungen und In-App](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)Nachrichten“.
+Marketo Admin und Entwickler mobiler Apps arbeiten bei der Einrichtung zusammen. Weitere [&#x200B; finden Sie unter „Vor dem Erstellen von Push-Benachrichtigungen und In-App](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)Nachrichten“.
 
 ## Schritt 2: Erstellen einer Push-Benachrichtigung {#step-create-a-push-notification}
 
-[Erstellen Sie Ihre ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) und zeigen Sie eine Vorschau an, wie sie auf Android- und iOS-Geräten angezeigt wird.
+[Erstellen Sie Ihre &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) und zeigen Sie eine Vorschau an, wie sie auf Android- und iOS-Geräten angezeigt wird.
 
 ## Schritt 3: Senden! {#step-send}
 
-[Push-Benachrichtigungen können ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) Trigger- und Batch-Smart-Kampagnen gesendet werden. Ziemlich cool, was?
+[Push-Benachrichtigungen können &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) Trigger- und Batch-Smart-Kampagnen gesendet werden. Ziemlich cool, was?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
