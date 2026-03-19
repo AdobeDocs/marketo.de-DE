@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359459
-description: Erstellen eines Snippets - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Ausschnitt für dynamische Inhalte in E-Mails und Landingpages erstellen. Erstellen Sie ein neues Snippet und fügen Sie Inhalte für die Wiederverwendung über Assets hinweg hinzu.
 title: Erstellen eines Ausschnitts
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 7%
+source-wordcount: '95'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359474
-description: Segmentierung bearbeiten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Segmentierung bearbeiten, indem Sie einen Entwurf erstellen und Segmente oder Regeln ändern. Segmente hinzufügen, bearbeiten oder löschen und Regeln für Smart-Listen im Entwurf definieren.
 title: Bearbeiten einer Segmentierung
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 3%
+source-wordcount: '217'
+ht-degree: 2%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359466
-description: Bearbeiten von Snippets mit dynamischen Inhalten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Snippets mit dynamischen Inhalten mithilfe der Segmentierung bearbeiten. Fügen Sie Segment nach zu einem Snippet hinzu und wenden Sie in Design Studio unterschiedliche Inhalte pro Segment an.
 title: Bearbeiten von Ausschnitten mit dynamischen Inhalten
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 8%
+source-wordcount: '135'
+ht-degree: 7%
 
 ---
 

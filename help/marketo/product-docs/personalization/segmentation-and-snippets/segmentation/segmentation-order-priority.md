@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359500
-description: Priorität der Segmentierungsreihenfolge - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Priorität der Segmentierungsreihenfolge und darüber, wie sie bestimmt, zu welchem Segment eine Person gehört. Bearbeiten der Segmentreihenfolge in der Datenbank, um die Auswertung von Segmenten zu steuern.
 title: Priorität der Segmentierungsreihenfolge
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '144'
 ht-degree: 4%
 
 ---
@@ -18,7 +18,7 @@ Es ist wichtig zu verstehen, wie **Reihenfolge** die Priorität für die Bewertu
 >[!PREREQUISITES]
 >
 >[Segmentierung erstellen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->&#x200B;>[Definieren Sie Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[Definieren Sie Segmentregeln](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

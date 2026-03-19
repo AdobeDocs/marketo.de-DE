@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359492
-description: Personenberichte nach Segment gruppieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Personenberichte nach beliebigen Segmenten aus Ihren Segmentierungen gruppieren. Verwenden Sie die Registerkarte Berichtseinrichtung und gruppieren Sie Personen nach , um eine Segmentierung auszuwählen und Ergebnisse anzuzeigen.
 title: Gruppieren von Personenberichten nach Segmenten
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 7%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359496
-description: Hinzufügen von Inhalten zu einem Snippet - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einem Snippet Token, Bilder, Dateien oder Rich-Text hinzufügen. Verwenden Sie den Snippet-Editor in Design Studio, um Token-, Bild-/Datei- und Textelemente hinzuzufügen.
 title: Hinzufügen von Inhalten zu einem Ausschnitt
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '220'
 ht-degree: 5%
 
 ---

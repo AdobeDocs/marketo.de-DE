@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359447
-description: Segmentierung erstellen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Segmentierung erstellen, um Personen für Berichte und dynamische Inhalte zu gruppieren. Segmente in der Datenbank hinzufügen, Reihenfolge festlegen und Segmentregeln definieren.
 title: Erstellen einer Segmentierung
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '240'
 ht-degree: 3%
 
 ---
@@ -43,7 +43,7 @@ Mit der Segmentierung können Sie Personen für Berichte und dynamische Inhalte 
    >
    >Die Gesamtzahl der Segmente, die Sie in einer Segmentierung erstellen können, hängt von der Anzahl und dem Typ der verwendeten Filter sowie davon ab, wie komplex die Logik Ihrer Segmente ist. Sie können zwar mithilfe von Standardfeldern bis zu 100 Segmente erstellen, aber die Verwendung anderer Filtertypen kann die Komplexität erhöhen, und Ihre Segmentierung kann möglicherweise nicht genehmigt werden. Einige Beispiele sind: benutzerdefinierte Felder, Felder für Mitglieder der Liste, Felder für Lead-Inhaber und Umsatzstadien.
    >
-   >Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Unterstützung beim Reduzieren der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Wenn Sie während der Genehmigung eine Fehlermeldung erhalten und Unterstützung beim Reduzieren der Komplexität Ihrer Segmentierung benötigen, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
 
 1. Segmente per Drag-and-Drop verschieben, um ihre Reihenfolge zu ändern. Klicken Sie abschließend auf **[!UICONTROL Erstellen]**.
 

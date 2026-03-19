@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095644
-description: Genehmigen eines Ausschnitts ohne Entwurf - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Ausschnitt mit Optionen ohne Entwurf genehmigen. Wählen Sie Alle aktualisieren oder Entwürfe erstellen bei der Genehmigung aus, um zu steuern, wie Assets, die den Ausschnitt verwenden, aktualisiert werden.
 title: Genehmigen eines Ausschnitts ohne Entwurf
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '240'
 ht-degree: 4%
 
 ---
@@ -42,7 +42,7 @@ Der Nicht-Entwurf wird jedes Mal ausgelöst, wenn ein Snippet genehmigt wird. Da
 
 >[!CAUTION]
 >
->Diese Funktion spart Zeit mit dem Workflow für die Snippet-Genehmigung. Es gibt jedoch einige Einschränkungen, die zu beachten sind. Einzelheiten finden [&#x200B; in &#x200B;](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} Artikel.
+>Diese Funktion spart Zeit mit dem Workflow für die Snippet-Genehmigung. Es gibt jedoch einige Einschränkungen, die zu beachten sind. Einzelheiten finden [ in ](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} Artikel.
 
 >[!MORELIKETHIS]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359498
-description: Vorschau eines Snippets - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Snippet in der Vorschau anzeigen, um den Inhalt für jedes Segment zu überprüfen. Verwenden Sie Design Studio und Vorschau-Snippet , um dynamische Inhalte vor der Genehmigung zu überprüfen.
 title: Anzeigen der Vorschau für einen Ausschnitt
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 10%
+source-wordcount: '76'
+ht-degree: 7%
 
 ---
 
