@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745750
-description: Algorithmuszieleinstellungen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in den Inhaltseinstellungen das Ziel des prädiktiven Inhaltsalgorithmus auf Klicks oder Konversionen setzen. Passen Sie die KI an Ihren Geschäftszielen an, um die Content-Performance zu maximieren.
 title: Zieleinstellungen für Algorithmus
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 39%
+source-wordcount: '125'
+ht-degree: 32%
 
 ---
 

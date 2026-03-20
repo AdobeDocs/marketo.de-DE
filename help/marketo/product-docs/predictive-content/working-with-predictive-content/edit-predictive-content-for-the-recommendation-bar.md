@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385942
-description: Bearbeiten prädiktiver Inhalte für die Empfehlungsleiste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie genehmigte prädiktive Inhalte für die Inhaltsempfehlungsleiste aktivieren.
 title: Bearbeiten prädiktiver Inhalte für die Empfehlungsleiste
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 21%
+source-wordcount: '77'
+ht-degree: 20%
 
 ---
 
@@ -17,7 +17,7 @@ So richten Sie Ihre prädiktiven Inhalte für die Empfehlungsleiste ein.
 
 >[!PREREQUISITES]
 >
->Inhalte müssen auf [&#x200B; Seite „Alle Inhalte“ für &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) Inhalte genehmigt werden.
+>Inhalte müssen auf [ Seite „Alle Inhalte“ für ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) Inhalte genehmigt werden.
 
 1. Klicken Sie auf der **[!UICONTROL Prädiktiver Inhalt]**-Seite auf einen Titel, um den Editor zu öffnen.
 

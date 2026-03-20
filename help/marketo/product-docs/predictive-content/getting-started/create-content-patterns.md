@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385579
-description: Erstellen von Inhaltsmustern - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie URL-Muster definieren, damit prädiktive Inhalte HTML-Seiten, auf die Besucher klicken oder die sie anzeigen, automatisch erkennen. Fügen Sie unter URL-Muster für Inhaltseinstellungen Pfade und Kategorien hinzu.
 title: Erstellen von Inhaltsmustern
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '385'
 ht-degree: 2%
 
 ---
@@ -27,13 +27,13 @@ Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein 
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL &#x200B; B. &#x200B;], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
+1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL  B. ], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
    >[!NOTE]
    >
-   >Die Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie beim Erstellen [&#x200B; Kategorien festgelegt &#x200B;](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >Die Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie beim Erstellen [ Kategorien festgelegt ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
 1. Klicken Sie auf **+**, um einen weiteren Pfad hinzuzufügen.
 
@@ -71,7 +71,7 @@ Für _domain.com_:
    <td><p>Ermittelt alle Inhalte, die dem Muster domain.com/article/2017/ entsprechen:</p><p>domain.com/article/2017/5-top-tricks</p></td>
   </tr>
   <tr>
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
    <td><p>Ermittelt alle URLs, die das Wort „Datenblätter“ enthalten:</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
   </tr>
   <tr>

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384661
-description: Genehmigen eines Titels für prädiktive Inhalte - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Titel für prädiktive Inhalte auf der Seite „Alle Inhalte“ oder im Popup „Inhalt bearbeiten“ genehmigen. Fügen Sie der Seite Prädiktiver Inhalt genehmigte Inhalte für Recommendations hinzu.
 title: Genehmigen eines Titels für prädiktive Inhalte
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 8%
+source-wordcount: '166'
+ht-degree: 7%
 
 ---
 
@@ -37,10 +37,10 @@ Sie können Titel für prädiktive Inhalte auch direkt im Popup [!UICONTROL Inha
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
-Unabhängig davon, welche Methode Sie verwenden[!UICONTROL &#x200B; wird das Symbol „Für prädiktiven Inhalt &#x200B;]&quot; jetzt in der Zeile angezeigt.
+Unabhängig davon, welche Methode Sie verwenden[!UICONTROL  wird das Symbol „Für prädiktiven Inhalt ]&quot; jetzt in der Zeile angezeigt.
 
 ![](assets/five.png)
 
-Jetzt können Sie den Titel auf der Seite &quot;[!UICONTROL &quot; &#x200B;] sehen.
+Jetzt können Sie den Titel auf der Seite &quot;[!UICONTROL &quot; ] sehen.
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)

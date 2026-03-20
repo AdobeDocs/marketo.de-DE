@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514956
-description: Aktivieren von prädiktivem Inhalt für Web-Rich-Media - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie prädiktive Inhalte für Web-Rich-Media-Vorlagen auf Ihrer Site aktivieren. Aktivieren Sie Titel einzeln oder stapelweise und betten Sie dann die JavaScript pro Entwicklerdokument ein und passen Sie sie an.
 title: Aktivieren prädiktiver Inhalte für Web Rich Media
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '326'
 ht-degree: 4%
 
 ---
@@ -47,7 +47,7 @@ Nachdem Sie den Inhaltstitel, die Beschreibung und das Bild für Rich Media vorb
 
 ## Anpassen des JavaScript-Codes und Einbetten in Ihre Website  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Weitere Informationen finden Sie in der Dokumentation zur Vorlage für Rich-Media-Empfehlungen [auf der Marketo Developers-](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hier wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
+Weitere Informationen finden Sie in der Dokumentation zur Vorlage für Rich-Media-Empfehlungen [auf der Marketo Developers-](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hier wird beschrieben, wie Sie die Vorlage für Ihre Website anpassen.
 
 Fügen Sie den JavaScript-Code an der Stelle in Ihre Website ein, an der die Vorlage angezeigt werden soll.
 

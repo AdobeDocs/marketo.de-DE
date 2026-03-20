@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385020
-description: Aktivieren von prädiktiven Inhalten in E-Mails - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie mit ContentAI E-Mail-Bilder prädiktiv gestalten können, nachdem Titel genehmigt und bearbeitet wurden. Öffnen Sie den E-Mail 2.0-Editor, aktivieren Sie jedes Bild, wählen Sie Kategorien aus, zeigen Sie eine Vorschau an und schließen Sie es ab.
 title: Aktivieren prädiktiver Inhalte in E-Mails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '411'
 ht-degree: 2%
 
 ---

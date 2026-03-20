@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097873
-description: Definieren einer Smart-Liste für Aktivitäten mit prädiktiven Inhalten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Smart Lists mit prädiktiven Inhaltsaktivitäten für Rich-Media, die Empfehlungsleiste und E-Mail definieren. Trigger-Kampagnen und Filtern von Personen, die auf empfohlene Inhalte klicken.
 title: Definieren einer intelligenten Liste für prädiktive Inhaltsaktivitäten
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '315'
 ht-degree: 5%
 
 ---

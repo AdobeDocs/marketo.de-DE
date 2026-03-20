@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11384665
-description: Verstehen prädiktiver Inhalte - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über genehmigte prädiktive Inhaltstitel, aktivierte Quellen, Klicks und Konversionsdaten. Verwenden Sie Filter und Datumsangaben, um die Leistung von Recommendations im Web und in E-Mails zu vergleichen.
 title: Grundlegendes zu prädiktiven Inhalten
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '323'
 ht-degree: 2%
 
 ---
 
 # Grundlegendes zu prädiktiven Inhalten {#understanding-predictive-content}
 
-Nachdem Sie [einen Titel für Prognoseinhalte genehmigt haben](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) bearbeiten Sie ihn hier. Auf [!UICONTROL &#x200B; Seite &#x200B;]Prädiktiver Inhalt“ werden alle Titel angezeigt, die Sie für prädiktiven Inhalt genehmigt haben.
+Nachdem Sie [einen Titel für Prognoseinhalte genehmigt haben](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) bearbeiten Sie ihn hier. Auf [!UICONTROL  Seite ]Prädiktiver Inhalt“ werden alle Titel angezeigt, die Sie für prädiktiven Inhalt genehmigt haben.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -58,7 +58,7 @@ In der Tabelle können Sie sehen, welche Quellen für prädiktive Inhalte aktivi
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-Bewegen Sie den Mauszeiger über den Balken in [!UICONTROL &#x200B; Spalte &quot;]&quot;, um die Konversionsrate, die direkte Konversion und die angeklickten Daten anzuzeigen.
+Bewegen Sie den Mauszeiger über den Balken in [!UICONTROL  Spalte &quot;]&quot;, um die Konversionsrate, die direkte Konversion und die angeklickten Daten anzuzeigen.
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719190
-description: Aktivieren der Inhaltserkennung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Inhaltserkennung aktivieren, damit prädiktiver Inhalt Inhalte von Ihrer Site automatisch erkennt und taggt. Tracking von Ansichten in PDFs, Videos und mehr für Recommendations.
 title: Aktivieren der Inhaltsentdeckung
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '172'
 ht-degree: 3%
 
 ---

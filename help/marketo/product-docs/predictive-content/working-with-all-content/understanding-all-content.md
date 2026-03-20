@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384645
-description: Grundlegendes zu allen Inhalten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Seite „Alle Inhalte“, ihre Metriken und darüber, wie Kategorien prognostizierende Ergebnisse organisieren. Filtern Sie nach Kategorie und Datum und fügen Sie Inhalte nach Bedarf hinzu, genehmigen oder entfernen Sie sie.
 title: Grundlegendes zu allen Inhalten
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '291'
 ht-degree: 2%
 
 ---

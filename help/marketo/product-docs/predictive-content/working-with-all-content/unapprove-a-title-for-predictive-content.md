@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
-description: Genehmigung eines Titels für prädiktiven Inhalt aufheben - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Genehmigung eines Titels für prädiktive Inhalte auf der Seite „Alle Inhalte“ oder im Popup „Inhalt bearbeiten“ aufheben. Entfernen Sie bei Bedarf den Titel aus der Seite für prädiktive Inhalte .
 title: Aufheben der Genehmigung eines Titels für prädiktive Inhalte
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Sie können die Genehmigung eines Titels für prädiktive Inhalte auf Ihrer [!UI
 
 ## [!UICONTROL Alle Inhalte] Seite {#all-content-page}
 
-1. Aktivieren Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Alle Inhalte“ das Kontrollkästchen neben dem Inhaltselement, um es auszuwählen.
+1. Aktivieren Sie auf [!UICONTROL  Seite ]Alle Inhalte“ das Kontrollkästchen neben dem Inhaltselement, um es auszuwählen.
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
