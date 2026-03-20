@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Verwenden des Erfolgspfad-Analyzers {#using-the-success-path-analyzer}
 
-Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl den Fluss (Betrag) als auch die Geschwindigkeit (Geschwindigkeit, in Tagen) der Personen in den Phasen Ihres [Umsatzzyklusmodells) ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl den Fluss (Betrag) als auch die Geschwindigkeit (Geschwindigkeit, in Tagen) der Personen in den Phasen Ihres [Umsatzzyklusmodells) &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >

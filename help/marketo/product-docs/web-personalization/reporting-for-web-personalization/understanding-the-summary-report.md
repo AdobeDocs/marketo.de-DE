@@ -23,7 +23,7 @@ Der [!UICONTROL Zusammenfassungsbericht] ist eine monatliche Ansicht aller Kampa
 >
 >Unterstützte Konversion: Ein Web-Besucher, der ein Formular auf der Website ausfüllt und seine E-Mail-Adresse hinterlässt und bei einem vorherigen Besuch (innerhalb der letzten 6 Monate) auf eine personalisierte Kampagne oder ein empfohlenes Inhalts-Asset geklickt hat.
 
-Navigieren [!UICONTROL  in „Web]Personalization&quot; zu **[!UICONTROL Analytics]** und **[!UICONTROL Zusammenfassungsbericht]**.
+Navigieren [!UICONTROL &#x200B; in „Web]Personalization&quot; zu **[!UICONTROL Analytics]** und **[!UICONTROL Zusammenfassungsbericht]**.
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 

@@ -95,7 +95,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der [!UICONTROL AutoTune]-Funktion erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, setzt die Konvertierungskampagnen mit den höchsten Werten fort und setzt die anderen Kampagnen aus.
+>**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der [!UICONTROL AutoTune]-Funktion erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, setzt die Konvertierungskampagnen mit den höchsten Werten fort und setzt die anderen Kampagnen aus.
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 
@@ -113,13 +113,13 @@ Siehe [Klonen einer Web-](/help/marketo/product-docs/web-personalization/working
 
 ## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
 
-Klicken Sie auf [!UICONTROL  Seite ]Web-Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie in der Vorschau anzeigen möchten
+Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Web-Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie in der Vorschau anzeigen möchten
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Löschen einer Web-Kampagne {#delete-a-web-campaign}
 
-1. Klicken Sie auf der [!UICONTROL Web]**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der [!UICONTROL Web]&#x200B;**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
 
    ![](assets/widget-campaign-delete-hand.png)
 

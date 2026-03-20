@@ -19,7 +19,7 @@ Verknüpfen Sie Ihr [!DNL Google AdWords] mit Marketo, um Offline-Konversionsdat
 >
 >Hierbei handelt es sich um eine Push-Integration von Marketo in [!DNL Google AdWords]. Konversionsdaten werden _nur_ in Ihrem [!DNL Google AdWords]-Portal angezeigt, _nicht in der Marketo-_.
 
-Google Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [](https://support.google.com/adwords/answer/2998031?hl=en). Ordnen Sie [!DNL AdWords] Offline-Konversionen einem oder mehreren Phasen in einem Umsatzmodell zu. Es gibt drei Möglichkeiten für die Zuordnung:
+Google Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en). Ordnen Sie [!DNL AdWords] Offline-Konversionen einem oder mehreren Phasen in einem Umsatzmodell zu. Es gibt drei Möglichkeiten für die Zuordnung:
 
 * [!DNL AdWords]
 * Bühnenaktion

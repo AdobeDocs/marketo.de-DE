@@ -35,4 +35,4 @@ Um bei der Web-Personalisierung zwischen Arbeitsbereichen zu wechseln, klicken S
 
 >[!NOTE]
 >
->Benutzer können nur Web-Kampagnen und Segmente sehen, die mit den Arbeitsbereichen verknüpft sind, auf die sie Zugriff haben. So [ man einem Benutzer Zugriff auf einen oder mehrere Arbeitsbereiche ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>Benutzer können nur Web-Kampagnen und Segmente sehen, die mit den Arbeitsbereichen verknüpft sind, auf die sie Zugriff haben. So [&#x200B; man einem Benutzer Zugriff auf einen oder mehrere Arbeitsbereiche &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).

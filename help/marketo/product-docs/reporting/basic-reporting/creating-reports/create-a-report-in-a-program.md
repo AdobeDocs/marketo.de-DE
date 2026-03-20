@@ -63,8 +63,8 @@ Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mail
 
    >[!NOTE]
    >
-   >Sie können schnell mit vielen Berichten enden. Denken Sie daran[ einen Bericht zu ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Sie benötigen ihn nicht mehr.
+   >Sie können schnell mit vielen Berichten enden. Denken Sie daran[&#x200B; einen Bericht zu &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Sie benötigen ihn nicht mehr.
 
    >[!MORELIKETHIS]
    >
-   >Sie können [einen Berichtszeitrahmen ändern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) [einen Basisbericht abonnieren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [einen Bericht nach Excel exportieren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) [ Personen in einem Bericht mit einer Smart-Liste ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) und vieles mehr.
+   >Sie können [einen Berichtszeitrahmen ändern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) [einen Basisbericht abonnieren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [einen Bericht nach Excel exportieren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) [&#x200B; Personen in einem Bericht mit einer Smart-Liste &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) und vieles mehr.

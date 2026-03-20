@@ -25,11 +25,11 @@ Verwenden Sie einen [!UICONTROL Opportunity Influence Analyzer] um die Rolle des
 
    Der [!UICONTROL Opportunity Influence Analyzer] ist eine visuelle Darstellung der Interaktionen und Programm- und Ereigniserfolge, die mit dieser Opportunity verbunden sind. Sehen wir uns das Diagramm an:
 
-   * ![ - ](assets/image2014-10-3-13-3a43-3a21.png) **Orange Dots** stellen interessante Momente in der Opportunity dar (geöffnete E-Mails, Besuche auf Messen, Downloads von Whitepapers usw.). Größere Punkte zeigen mehr Interaktionen an.
+   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a43-3a21.png) **Orange Dots** stellen interessante Momente in der Opportunity dar (geöffnete E-Mails, Besuche auf Messen, Downloads von Whitepapers usw.). Größere Punkte zeigen mehr Interaktionen an.
 
-   * ![ - ](assets/image2014-10-3-13-3a44-3a9.png) **Binder-Symbole** zeigen Programmerfolge an.
+   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a44-3a9.png) **Binder-Symbole** zeigen Programmerfolge an.
 
-   * ![ - ](assets/image2014-10-3-13-3a44-3a40.png) **Kalendersymbole** weisen auf erfolgreiche Ereignisse hin.
+   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a44-3a40.png) **Kalendersymbole** weisen auf erfolgreiche Ereignisse hin.
 
    * **Opportunity-Zeitraum**. Die grüne Fläche stellt die Chance selbst dar, von der Schaffung der Chance bis zum Abschluss der Chance (gewonnen oder verloren).
 
@@ -39,7 +39,7 @@ Verwenden Sie einen [!UICONTROL Opportunity Influence Analyzer] um die Rolle des
 
    * Die **Zahl in Klammern** ist die Anzahl der Interaktionen mit diesem Kontakt.
 
-   * ![ - ](assets/image2014-10-3-13-3a45-3a9.png)Der **gelbe Stern** zeigt den Hauptkontakt an.
+   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a45-3a9.png)Der **gelbe Stern** zeigt den Hauptkontakt an.
 
 1. Bewegen Sie den Mauszeiger über einen Namen, um die Stellenbezeichnung der Person und die Quelle ihrer Beteiligung an der Opportunity anzuzeigen.
 

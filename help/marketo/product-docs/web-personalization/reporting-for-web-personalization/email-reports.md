@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # E-Mail-Berichte {#email-reports}
 
-Informationen zum Anpassen des automatisierten E-Mail-Berichts, den die Benutzerin bzw. der Benutzer erhält[[!UICONTROL  finden Sie im Abschnitt ]Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Informationen zum Anpassen des automatisierten E-Mail-Berichts, den die Benutzerin bzw. der Benutzer erhält[[!UICONTROL &#x200B; finden Sie im Abschnitt &#x200B;]Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Web Personalization Email Reports {#web-personalization-email-reports}
 
@@ -67,6 +67,6 @@ Der Zusammenfassungsbericht sendet dem Benutzer eine E-Mail (monatlich oder vier
 
 >[!NOTE]
 >
->Marketo Web Personalization erfasst die E-Mail-Adresse des Web-Besuchers für jedes Formular, das auf der Website ausgefüllt wird. Personalization Dieser wird auf der Seite [!UICONTROL Web-][!UICONTROL Personen] angezeigt und ist die Person, die im Zusammenfassungsbericht verwendet wird.
+>Marketo Web Personalization erfasst die E-Mail-Adresse des Web-Besuchers für jedes Formular, das auf der Website ausgefüllt wird. Personalization Dieser wird auf der Seite [!UICONTROL Web-]&#x200B;[!UICONTROL Personen] angezeigt und ist die Person, die im Zusammenfassungsbericht verwendet wird.
 
-Informationen zum Anpassen des automatisierten E-Mail-Berichts, den der Benutzer erhält[ finden Sie im Abschnitt „Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Informationen zum Anpassen des automatisierten E-Mail-Berichts, den der Benutzer erhält[&#x200B; finden Sie im Abschnitt „Benutzereinstellungen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

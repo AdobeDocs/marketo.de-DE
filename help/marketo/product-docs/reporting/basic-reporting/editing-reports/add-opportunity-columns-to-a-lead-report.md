@@ -39,7 +39,7 @@ Um die Statistiken zu Opportunitys in Ihren Personenberichten anzuzeigen, könne
    >
    >Scrollen Sie nach rechts, um weitere Spalten anzuzeigen.
 
-1. Um Spalten [ oder aus dem Bericht zu entfernen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) klicken Sie auf eine beliebige Spaltenüberschrift und wählen Sie **[!UICONTROL Spalten]** aus.
+1. Um Spalten [&#x200B; oder aus dem Bericht zu entfernen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) klicken Sie auf eine beliebige Spaltenüberschrift und wählen Sie **[!UICONTROL Spalten]** aus.
 
    ![](assets/six.png)
 

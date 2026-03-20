@@ -76,7 +76,7 @@ Zu diesen Details gehören:
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Um ein Segment zu aktivieren oder zu deaktivieren, aktivieren Sie das Kontrollkästchen dieses Segments in der Tabelle und wählen Sie im Dropdown-Feld &quot;[!UICONTROL Aktion auswählen]&quot; unten in der Tabelle die Aktion &quot;[!UICONTROL Aktivieren]&quot; oder &quot;[!UICONTROL Deaktivieren]. Wenn ein Segment deaktiviert ist, wird unter der Spalte [!UICONTROL Status“ das Wort ] angezeigt.
+Um ein Segment zu aktivieren oder zu deaktivieren, aktivieren Sie das Kontrollkästchen dieses Segments in der Tabelle und wählen Sie im Dropdown-Feld &quot;[!UICONTROL Aktion auswählen]&quot; unten in der Tabelle die Aktion &quot;[!UICONTROL Aktivieren]&quot; oder &quot;[!UICONTROL Deaktivieren]. Wenn ein Segment deaktiviert ist, wird unter der Spalte [!UICONTROL Status“ das Wort &#x200B;] angezeigt.
 
 ## Segmente erstellen {#create-segments}
 
@@ -187,7 +187,7 @@ Wählen Sie aus einer [benannten Kontenliste](/help/marketo/product-docs/web-per
 
 >[!NOTE]
 >
->Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **ISP ausschließen**
 
@@ -258,7 +258,7 @@ Definieren Sie Ihr Segment anhand des Status eines Interessenten: bekannt oder a
 
 **[!UICONTROL Mobile OS]**
 
-Ziehen Sie per Drag-and[!UICONTROL Drop den ]Mobile OS) in den Segmenteditor
+Ziehen Sie per Drag-and[!UICONTROL Drop den &#x200B;]Mobile OS) in den Segmenteditor
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
@@ -290,7 +290,7 @@ Aufruf der Web Personalization[API (weitere Informationen dazu finden Sie hier)]
 
 >[!TIP]
 >
->**Verwenden von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einbeziehen möchten, der bzw. die etwas darin enthält, z. B. &quot;[google.com](https://google.com)&quot; oder „Suchbegriffprodukt“, nennen wir dies einen Platzhalter, und er sollte mit einem Sternchen - diesem kleinen Kerl&#42; - an jedem Ende eingegeben werden. Daher sollte alles, was von [google.com](https://google.com) kommt, als &#42; ([.com) ](https://google.com)&#42; werden
+>**Verwenden von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einbeziehen möchten, der bzw. die etwas darin enthält, z. B. &quot;[google.com](https://google.com)&quot; oder „Suchbegriffprodukt“, nennen wir dies einen Platzhalter, und er sollte mit einem Sternchen - diesem kleinen Kerl&#42; - an jedem Ende eingegeben werden. Daher sollte alles, was von [google.com](https://google.com) kommt, als &#42; ([.com) &#x200B;](https://google.com)&#42; werden
 
 ## Bearbeiten [!UICONTROL Segmente] {#edit-segments}
 

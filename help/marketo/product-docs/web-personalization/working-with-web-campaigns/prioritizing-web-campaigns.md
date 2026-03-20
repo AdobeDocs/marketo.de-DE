@@ -40,7 +40,7 @@ Priorisieren Sie Ihre Web-Kampagnen, wenn sich zwei oder mehr Web-Kampagnen übe
 
    >[!TIP]
    >
-   >Es wird empfohlen, [!UICONTROL  Kampagne „Prioritätswert] nur zu verwenden, wenn eine potenzielle Kampagnenüberschneidung vorliegt, bei der eine der Kampagnen eine höhere Bedeutung hat. Sie müssen nicht für jede Kampagne eine Priorität festlegen.
+   >Es wird empfohlen, [!UICONTROL &#x200B; Kampagne „Prioritätswert] nur zu verwenden, wenn eine potenzielle Kampagnenüberschneidung vorliegt, bei der eine der Kampagnen eine höhere Bedeutung hat. Sie müssen nicht für jede Kampagne eine Priorität festlegen.
 
 1. Speichern oder Starten der Kampagne.
 

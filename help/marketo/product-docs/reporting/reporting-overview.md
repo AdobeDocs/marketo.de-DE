@@ -20,7 +20,7 @@ Sie können [Basisberichte](/help/marketo/product-docs/reporting/basic-reporting
 
 ## E-Mail Insights {#email-insights}
 
-Verwenden Sie Analysen und Sendungen , um [leistungsstarke Einblicke“ ](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} E-Mails aus historischen Daten zu erhalten.
+Verwenden Sie Analysen und Sendungen , um [leistungsstarke Einblicke“ &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} E-Mails aus historischen Daten zu erhalten.
 
 ## Performance Insights {#performance-insights}
 

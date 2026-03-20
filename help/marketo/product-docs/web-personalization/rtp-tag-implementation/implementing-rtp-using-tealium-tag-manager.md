@@ -19,7 +19,7 @@ Um Ihr RTP-Tag zu implementieren, folgen Sie bitte den unten stehenden Installat
 
 1. Navigieren Sie zur Registerkarte [!UICONTROL Tags] und fügen Sie das [!UICONTROL Tealium Custom Container Tag] hinzu, das sich auf der Registerkarte [!UICONTROL Sonstiges] des Tags-Marktplatzes befindet.
 
-1. Geben [!UICONTROL  im Feld „Titel] **Marketo RTP ein** klicken Sie auf **[!UICONTROL Beenden]**.
+1. Geben [!UICONTROL &#x200B; im Feld „Titel] **Marketo RTP ein** klicken Sie auf **[!UICONTROL Beenden]**.
 
 1. Speichern Sie Ihre Änderungen.
 

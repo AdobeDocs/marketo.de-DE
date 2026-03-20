@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Hinzufügen von Subdomains in [!UICONTROL Kontoeinstellungen] {#add-subdomains-in-account-settings}
 
-So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären [!UICONTROL  hinzu]. Auf diese Weise können Sie Subdomains verwalten, die sich auf das spezifische RTP-JavaScript Ihrer primären Domain beziehen. Es wird empfohlen, das [!DNL Javascript]-Tag für alle hinzugefügten Subdomains bereitzustellen.
+So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären [!UICONTROL &#x200B; hinzu]. Auf diese Weise können Sie Subdomains verwalten, die sich auf das spezifische RTP-JavaScript Ihrer primären Domain beziehen. Es wird empfohlen, das [!DNL Javascript]-Tag für alle hinzugefügten Subdomains bereitzustellen.
 
 1. Navigieren Sie in Web Personalization zu **[!UICONTROL Kontoeinstellungen]**.
 

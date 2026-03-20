@@ -55,7 +55,7 @@ Rechts auf der Seite finden Sie anhand geführter Metriken relevante Treiber. Kl
 
 >[!NOTE]
 >
->Sehen Sie [!UICONTROL  oben ] „Aktualisieren“? Wenn Sie sie sehen, müssen Sie manuell darauf klicken, um das Insights-Modul zu aktualisieren. Sie wird nur angezeigt, wenn Sie Änderungen an Filtern vorgenommen haben, durch die die aktuellen Werte ungültig würden.
+>Sehen Sie [!UICONTROL &#x200B; oben &#x200B;] „Aktualisieren“? Wenn Sie sie sehen, müssen Sie manuell darauf klicken, um das Insights-Modul zu aktualisieren. Sie wird nur angezeigt, wenn Sie Änderungen an Filtern vorgenommen haben, durch die die aktuellen Werte ungültig würden.
 
 Sie können auch angeben, was angezeigt wird (von links nach rechts): Alle, Zielgruppe, Inhalte und Plattform.
 

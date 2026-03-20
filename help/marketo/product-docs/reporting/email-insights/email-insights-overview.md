@@ -31,7 +31,7 @@ Verwenden Sie [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/emai
 
 **Filter**
 
-Erweiterte [Filter) zur ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) der Ergebnisse nach Zielgruppe, Inhalt oder Plattform verwendet. Die gleichen Filter gelten sowohl für [!UICONTROL Analytics] als auch für [!UICONTROL Sendungen].
+Erweiterte [Filter) zur &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) der Ergebnisse nach Zielgruppe, Inhalt oder Plattform verwendet. Die gleichen Filter gelten sowohl für [!UICONTROL Analytics] als auch für [!UICONTROL Sendungen].
 
 ![](assets/filter.png)
 
@@ -43,7 +43,7 @@ Erweiterte [Filter) zur ](/help/marketo/product-docs/reporting/email-insights/fi
 
 ## [!UICONTROL sendet] {#sends}
 
-Untersuchen Sie auf [[!UICONTROL  Seite ]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
+Untersuchen Sie auf [[!UICONTROL &#x200B; Seite &#x200B;]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
 
 ![](assets/two.png)
 

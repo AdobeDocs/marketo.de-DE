@@ -19,11 +19,11 @@ Erstellen Sie einen [Web-Seitenaktivitätsbericht](/help/marketo/product-docs/re
 
 >[!PREREQUISITES]
 >
->Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [auf  [!DNL Munchkin]  Website) ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [auf  [!DNL Munchkin]  Website) &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den [!UICONTROL Unternehmenswebaktivität] Bericht [Berichtstyp](report-type-overview.md).
 
-1. Wählen Sie aus[ dass bekannte oder anonyme Personen ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) Bericht angezeigt werden sollen.
+1. Wählen Sie aus[&#x200B; dass bekannte oder anonyme Personen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) Bericht angezeigt werden sollen.
 
 1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
 
@@ -33,7 +33,7 @@ Erstellen Sie einen [Web-Seitenaktivitätsbericht](/help/marketo/product-docs/re
 
    >[!TIP]
    >
-   >Um die Unternehmen zu finden, die Ihre Website am häufigsten besuchen, [ Sie in der Spalte ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)Seitenansichten __ den **[!UICONTROL Bericht sortieren]**.
+   >Um die Unternehmen zu finden, die Ihre Website am häufigsten besuchen, [&#x200B; Sie in der Spalte &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)Seitenansichten __ den **[!UICONTROL Bericht sortieren]**.
 
    [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen Bericht zu Unternehmens-Web-Aktivitäten umfassen:
 

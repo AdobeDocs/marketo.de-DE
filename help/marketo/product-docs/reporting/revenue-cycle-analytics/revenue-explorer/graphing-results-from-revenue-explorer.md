@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# Ergebnisse aus dem [!UICONTROL Umsatz-Explorer“ ] {#graphing-results-from-revenue-explorer}
+# Ergebnisse aus dem [!UICONTROL Umsatz-Explorer“ &#x200B;] {#graphing-results-from-revenue-explorer}
 
 Standardmäßig werden Berichte im [!UICONTROL Umsatz-Explorer] als Tabelle angezeigt. Sie haben auch die Möglichkeit, Ergebnisse als Diagramm in verschiedenen Formaten anzuzeigen.
 

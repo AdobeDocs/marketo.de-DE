@@ -110,9 +110,9 @@ Wählen Sie die Nummer [Konversionsvariable](https://microsite.omniture.com/t2/h
 
       1. Ändern Sie die vier Eigenschaftsnamen. Dies ist der Name, der in der Report Suite angezeigt wird.
 
-   1. Wählen Sie [!UICONTROL  Feld ]Aktiviert“ aus, um **[!UICONTROL Aktiviert]**.
+   1. Wählen Sie [!UICONTROL &#x200B; Feld &#x200B;]Aktiviert“ aus, um **[!UICONTROL Aktiviert]**.
 
-   1. Wählen Sie [!UICONTROL  Feld ]Pfadberichte“ aus, um **[!UICONTROL Aktiviert]**.
+   1. Wählen Sie [!UICONTROL &#x200B; Feld &#x200B;]Pfadberichte“ aus, um **[!UICONTROL Aktiviert]**.
 
 ## In [!DNL Marketo Real-Time Personalization] eingerichtet (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
@@ -182,7 +182,7 @@ Erstellen Sie ein [neues Dashboard](https://microsite.omniture.com/t2/help/en_US
 
 1. Wählen Sie die **Dashboard-Größe** 3 x 2, 2 x 2 aus.
 
-1. Erstellen Sie das [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) und fügen Sie [Inhalt“ zum Dashboard ](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
+1. Erstellen Sie das [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) und fügen Sie [Inhalt“ zum Dashboard &#x200B;](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
 
 Hinzufügen des Branchen-Reportlets zum Dashboard
 

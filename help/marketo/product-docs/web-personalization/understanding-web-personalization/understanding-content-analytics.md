@@ -52,7 +52,7 @@ Die Analytics-Tabelle enthält die folgenden Details:
    <td colspan="1">Zeigt an, ob das Inhaltselement für Inhaltsempfehlungen <a href="#"> wurde</a>.</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL-Ansichten]</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL -Ansichten]</strong></p></td>
    <td colspan="1" rowspan="1"><p>Die Anzahl der Ansichten von Web-Besuchern über das Inhalts-Asset. Die Häufigkeit, mit der sie angezeigt, geöffnet, angesehen oder heruntergeladen wurde. Klicken Sie auf die Anzahl der Anzeigen in der Spalte, um einen Drilldown durchzuführen und zu sehen, wer den Inhalt angezeigt hat</p></td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ Zu den zusätzlichen Inhaltsanalysen gehören:
 
 * **[!UICONTROL Ansichten]**: Ansichten dieses Inhaltselements für den ausgewählten Zeitraum
 * **[!UICONTROL Direkte Konversionen]**: Web-Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben.
-* **[!UICONTROL Konversionsrate]****:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
+* **[!UICONTROL Konversionsrate]**&#x200B;**:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
 
 **[!UICONTROL Trends]**
 
@@ -96,7 +96,7 @@ Zu den zusätzlichen Inhaltsanalysen gehören:
 
 ![](assets/six.png)
 
-Klicken Sie auf der Seite [!UICONTROL 0}Content Analytics&quot; auf das Löschsymbol des Inhalts, den Sie löschen möchten. ] Es wird eine Meldung angezeigt, die bestätigt, dass Sie den Inhalt löschen möchten.
+Klicken Sie auf der Seite [!UICONTROL 0&rbrace;Content Analytics&quot; auf das Löschsymbol des Inhalts, den Sie löschen möchten. &#x200B;] Es wird eine Meldung angezeigt, die bestätigt, dass Sie den Inhalt löschen möchten.
 
 >[!MORELIKETHIS]
 >
