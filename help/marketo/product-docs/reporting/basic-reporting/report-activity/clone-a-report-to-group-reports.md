@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512105
-description: Klonen eines Berichts in Gruppenberichte - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Berichte aus Meine Berichte in Gruppenberichte klonen, um sie für alle Workspace-Benutzer sichtbar zu machen. Geben Sie Berichte mithilfe der Option „Klonen nach“ für Ihr Team frei.
 title: Klonen eines Berichts in Gruppenberichte
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 10%
+source-wordcount: '129'
+ht-degree: 9%
 
 ---
 

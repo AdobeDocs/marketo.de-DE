@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360012
-description: Bericht zu Personen nach Status - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Personen nach Status-Berichte, die zeigen, wie viele Personen in jedem monatlichen Personenstatus-Wert angezeigt werden. Verfolgen Sie den Fortschritt während Ihres gesamten Prozesses und identifizieren Sie Engpässe in Ihrer funnel.
 title: Bericht zu Personen nach Status
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 8%
+source-wordcount: '127'
+ht-degree: 7%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 8%
 
    >[!MORELIKETHIS]
    >
-   >[Verwenden Sie eine Smart-Liste, um Ihren Bericht nach &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) Personen zu filtern.
+   >[Verwenden Sie eine Smart-Liste, um Ihren Bericht nach ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) Personen zu filtern.

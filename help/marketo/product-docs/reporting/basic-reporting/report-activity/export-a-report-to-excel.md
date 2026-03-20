@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360020
-description: Exportieren eines Berichts in [!DNL Excel] - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Berichte in Excel-Dateien exportieren können, um sie in anderer Software zu analysieren. Klicken Sie auf der Registerkarte Bericht auf die Schaltfläche Exportieren , um Ihre Daten herunterzuladen.
 title: Exportieren eines Berichts nach [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 7%
+source-wordcount: '97'
+ht-degree: 6%
 
 ---
 

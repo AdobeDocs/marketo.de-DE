@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949168
-description: Verwenden von Vorlagen zum Erstellen von Web-Kampagnen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Vorlagen verwenden, um Web-Kampagnen in Marketo Engage mithilfe von Vorlagen zu erstellen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Verwenden von Vorlagen zur Erstellung von Web-Kampagnen
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 9%
+source-wordcount: '159'
+ht-degree: 8%
 
 ---
 

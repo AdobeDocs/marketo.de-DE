@@ -1,11 +1,11 @@
 ---
-description: Übersicht über die erweiterte BI-Analyse - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Advanced BI Analytics, eine flexible Berichtsschnittstelle mit umfangreichen Visualisierungen und einer schnelleren Leistung für Marketo Engage-Daten. Erstellen benutzerdefinierter Berichte mit interaktiven Dashboards und Exportoptionen.
 title: Erweiterte BI-Analyse – Überblick
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1064'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Diese Verbesserungen helfen Ihnen, Zeit zu sparen, wertvollere Einblicke zu gewi
 
 * **Hochleistungs-Abfrage-Engine**: Bietet eine 5mal schnellere Leistung bei großen Datensätzen, was eine schnellere Datenverarbeitung, ein schnelleres Laden von Berichten und ein reibungsloseres Analyseerlebnis ermöglicht.
 
-* **Umfangreiche und ansprechende Visualisierung**: Umfangreiche, erweiterte Sammlung von integrierten Visualisierungsoptionen, einschließlich Diagrammen, Karten und KPI-Indikatoren, die Dashboards aufschlussreicher und wirkungsvoller machen und das Storytelling anhand von Daten erheblich verbessern.
+* **Umfangreiche und ansprechende Visualisierung**: Umfangreiche, erweiterte Sammlung von integrierten Visualisierungsoptionen, einschließlich Diagrammen, Karten und KPI-Indikatoren, die Dashboards aufschlussreicher und wirkungsvoller machen und die Daten-storytelling erheblich verbessern.
 
 * **Erweiterte Interaktivität und Dynamische**: Wenden Sie dynamische Slicer, Kreuzfilter und voneinander abhängige Filter für visuelle Medien an. Mehrseitige Berichte unterstützen erweiterte Drill-down-, Drill-up- und Drill-Through-Vorgänge und stellen so eine mühelose Datenexploration sicher.
 
@@ -60,7 +60,7 @@ Diese Verbesserungen helfen Ihnen, Zeit zu sparen, wertvollere Einblicke zu gewi
 
 ## Exportieren eines Berichts {#export-a-report}
 
-Beim Exportieren eines vollständigen Berichts sind Ihre Exportoptionen PDF und PPT. Wenn Sie Ihre Daten in .XLS oder .CSV benötigen, können Sie dies tun, indem Sie einzelne Visualisierungen exportieren ([&#x200B; unten](#export-a-visualization)).
+Beim Exportieren eines vollständigen Berichts sind Ihre Exportoptionen PDF und PPT. Wenn Sie Ihre Daten in .XLS oder .CSV benötigen, können Sie dies tun, indem Sie einzelne Visualisierungen exportieren ([ unten](#export-a-visualization)).
 
 >[!BEGINTABS]
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360032
-description: Ändern der Ablaufzeit für URLs in Berichts-E-Mails - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie die Ablaufzeit für URLs in Berichts-E-Mails in Marketo Engage ändern, einschließlich der Änderung der Ablaufzeit. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Ändern der Ablaufzeit für URLs in Berichts-E-Mails
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 18%
+source-wordcount: '119'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Links in Ihren Berichtsabonnement-E-Mails laufen nach drei Tagen ab. Gehen Sie wie folgt vor, um die Ablaufzeit für diese Links zu ändern.
 

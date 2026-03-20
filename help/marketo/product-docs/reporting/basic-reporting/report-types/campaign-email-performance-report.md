@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360188
-description: E-Mail-Leistungsbericht für Campaign - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über E-Mail-Leistungsberichte in Campaign, die E-Mail-Statistiken nach intelligenter Kampagne gruppieren. Öffnungen, Klicks, Bounces und Abmeldungen verfolgen, um die Effektivität von Kampagnen zu messen.
 title: Leistungsbericht für Kampagnen-E-Mails
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 5%
+source-wordcount: '234'
+ht-degree: 33%
 
 ---
 
 # Leistungsbericht für Kampagnen-E-Mails {#campaign-email-performance-report}
 
-Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail-Leistungsstatistiken nach &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)Smart Campaign“ gruppiert anzuzeigen.
+Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail-Leistungsstatistiken nach ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)Smart Campaign“ gruppiert anzuzeigen.
 
-1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **[!UICONTROL Kampagnen-E-Mail-Leistung]**&#x200B;[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **[!UICONTROL Kampagnen-E-Mail-Leistung]**[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
 
@@ -27,19 +27,19 @@ Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail-Leis
    >
    >Klicken Sie auf den Namen einer E-Mail, um sie in der E-Mail-Vorschau zu öffnen.
 
-   [Spalten, die Sie für &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Kampagnen-E-Mail-Leistungsbericht auswählen können, umfassen:
+   [Spalten, die Sie für ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Kampagnen-E-Mail-Leistungsbericht auswählen können, umfassen:
 
    | Spalte | Beschreibung |
    |---|---|
-   | [!UICONTROL Hardbounce] | E-Mail wurde aufgrund einer permanenten Bedingung, z. B. einer nicht vorhandenen E-Mail-Adresse, abgelehnt. |
-   | [!UICONTROL Softbounce] | E-Mail wurde aufgrund einer temporären Bedingung abgelehnt, z. B. weil ein Server ausgefallen ist oder weil der Posteingang voll ist. |
+   | [!UICONTROL Hardbounce] | E-Mail wurde aufgrund einer permanenten Bedingung abgelehnt, z. B. einer nicht vorhandenen E-Mail-Adresse. |
+   | [!UICONTROL Softbounce] | E-Mail wurde aufgrund einer temporären Bedingung abgelehnt, z. B. weil ein Server ausgefallen oder der Posteingang voll ist. |
    | [!UICONTROL Ausstehend] | E-Mail wird noch zugestellt. |
-   | [!UICONTROL Link angeklickt] | Die Anzahl der E-Mail-Empfänger, die auf einen Link in der E-Mail geklickt haben. |
+   | [!UICONTROL Link angeklickt] | Die Anzahl aller E-Mail-Empfangenden, die auf einen Link in der E-Mail geklickt haben. |
    | [!UICONTROL Abo storniert] | Die Anzahl der E-Mail-Empfänger, die auf den **[!UICONTROL Abmelden]**-Link in der E-Mail geklickt und das Formular ausgefüllt haben. |
 
    >[!NOTE]
    >
-   >Im Allgemeinen versuchen wir, den gesunden Menschenverstand zu verwenden, um diese Statistiken aufzuzeichnen. Wenn beispielsweise jemand auf einen Link in einer E-Mail geklickt hat, hat er ihn offensichtlich zuerst geöffnet. Die spezifischen Regeln, die wir befolgen, finden Sie im [E-Mail-Leistungsbericht](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   >Im Allgemeinen wird versucht, beim Erfassen dieser Statistiken gesunden Menschenverstand einzusetzen. Wenn beispielsweise jemand auf einen Link in einer E-Mail geklickt hat, hat er ihn offensichtlich zuerst geöffnet. Die spezifischen Regeln, die wir befolgen, finden Sie im [E-Mail-Leistungsbericht](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!MORELIKETHIS]
    >

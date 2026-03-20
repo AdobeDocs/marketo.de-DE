@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360389
-description: Erstellen Sie ein Programm ohne Kostenzeitraum in Revenue Explorer und Analyzer - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Programm ohne Zeitraumkosten in Revenue Explorer und Analyzer in Marketo Engage verfügbar machen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Verfügbarmachung eines Programms ohne Kostenzeitraum in Revenue Explorer und Analyzer
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 10%
+source-wordcount: '259'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Mit Kosten für den Programmzeitraum können Sie festlegen, „wie viel Geld“ 
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Einige Programme müssen möglicherweise einbezogen werden, auch wenn sie keine Periodenkosten haben. Obwohl Sie für den Kostenzeitraum 0 eingeben können, haben wir die Einbeziehung dieser Programme vereinfacht.
 
@@ -25,7 +25,7 @@ Einige Programme müssen möglicherweise einbezogen werden, auch wenn sie keine 
 >
 >Der Programm-Analyzer erfasst den Programmerfolg nach Kostenzeitraum. Wenn keine Periodenkosten verfügbar sind, wird der Programmerfolg unabhängig vom Analyseverhalten des Programms nicht angezeigt. Wenn das Analytics-Verhalten eingerichtet ist, werden Daten für Opportunity-Metriken angezeigt (Pipeline-Opportunities, gewonnener Umsatz usw.).
 
-1. Klicken Sie [!UICONTROL &#x200B; Abschnitt &#x200B;]Admin“ auf **[!UICONTROL Tags]**.
+1. Klicken Sie [!UICONTROL  Abschnitt ]Admin“ auf **[!UICONTROL Tags]**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 

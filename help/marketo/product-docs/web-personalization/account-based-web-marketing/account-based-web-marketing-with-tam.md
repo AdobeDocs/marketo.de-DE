@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11381689
-description: Account-Based Web Marketing with TAM - Marketo Docs - Produktdokumentation
+description: Erfahren Sie mehr über Account-basiertes Web-Marketing mit TAM in Marketo Engage, einschließlich Account-basiertes Web-Marketing mit TAM. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Kontenbasiertes Web-Marketing mit TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 5%
+source-wordcount: '212'
+ht-degree: 4%
 
 ---
 
@@ -23,14 +23,14 @@ Bei Verwendung von Marketo [!UICONTROL Web Personalization] und [!UICONTROL Targ
 
    * **Hinweis**: Die Synchronisierung kann bis zu 5 Minuten dauern
 
-* In [!UICONTROL Web Personalization] können Sie [Zielgruppenkonten aus der Kontenliste) erstellen, &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) Sie in TAM erstellt haben, und Inhalte für diese Konten personalisieren
+* In [!UICONTROL Web Personalization] können Sie [Zielgruppenkonten aus der Kontenliste) erstellen, ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) Sie in TAM erstellt haben, und Inhalte für diese Konten personalisieren
 
 ## Für bestehende ABWM-Kunden {#for-existing-abwm-customers}
 
 Wenn Sie ABWM bereits verwenden:
 
 * Sie können [!UICONTROL Account-Listen] in ABWM _und_ TAM erstellen
-* Sie können ([!UICONTROL ) in TAM &#x200B;]und _in ABWM erstellen_ bearbeiten und löschen
+* Sie können ([!UICONTROL ) in TAM ]und _in ABWM erstellen_ bearbeiten und löschen
 * [!UICONTROL Kontolisten] (von ABWM und TAM) werden mit [!UICONTROL Web Personalization] zur Verwendung in der Segmentierung synchronisiert
 
    * **Hinweis**: Die Synchronisierung kann bis zu 5 Minuten dauern

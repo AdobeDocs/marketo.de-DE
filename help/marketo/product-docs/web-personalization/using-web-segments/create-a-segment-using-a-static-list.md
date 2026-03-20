@@ -1,19 +1,19 @@
 ---
 unique-page-id: 13795536
-description: Erstellen eines Segments mithilfe einer statischen Liste - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Engage ein Segment mithilfe einer statischen Liste erstellen, indem Sie ein Segment mithilfe einer statischen Liste erstellen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Erstellen eines Segments mithilfe einer statischen Liste
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 11%
+source-wordcount: '189'
+ht-degree: 10%
 
 ---
 
 # Erstellen eines Segments mithilfe einer statischen Liste {#create-a-segment-using-a-static-list}
 
-Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachdem, ob sie sich in einer Ihrer Marketo-[&#x200B; befinden oder nicht (statische Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
+Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachdem, ob sie sich in einer Ihrer Marketo-[ befinden oder nicht (statische Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
 
 1. Navigieren Sie zu **[!UICONTROL Segmente]**.
 
@@ -39,7 +39,7 @@ Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachd
 
    ![](assets/six-1.png)
 
-1. Wiederholen Sie bei mehreren Listen (oder mehreren Listen mit „ist nicht„) die Schritte, die Sie in [Schritt 5) &#x200B;](#five) haben.
+1. Wiederholen Sie bei mehreren Listen (oder mehreren Listen mit „ist nicht„) die Schritte, die Sie in [Schritt 5) ](#five) haben.
 
    ![](assets/seven-2.png)
 

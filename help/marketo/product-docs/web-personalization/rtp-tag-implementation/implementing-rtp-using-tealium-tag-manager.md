@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9437340
-description: Implementieren von RTP mit Tealium Tag Manager - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Implementierung von RTP mit dem Tagmanager Tealium in Marketo Engage, einschließlich der Implementierung von RTP mit DNL. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Implementieren von RTP mit dem Tealium Tag Manager
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 4%
+source-wordcount: '232'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ Um Ihr RTP-Tag zu implementieren, folgen Sie bitte den unten stehenden Installat
 
 1. Navigieren Sie zur Registerkarte [!UICONTROL Tags] und fügen Sie das [!UICONTROL Tealium Custom Container Tag] hinzu, das sich auf der Registerkarte [!UICONTROL Sonstiges] des Tags-Marktplatzes befindet.
 
-1. Geben [!UICONTROL &#x200B; im Feld „Titel] **Marketo RTP ein** klicken Sie auf **[!UICONTROL Beenden]**.
+1. Geben [!UICONTROL  im Feld „Titel] **Marketo RTP ein** klicken Sie auf **[!UICONTROL Beenden]**.
 
 1. Speichern Sie Ihre Änderungen.
 

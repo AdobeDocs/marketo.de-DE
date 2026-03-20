@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719336
-description: Benutzereinstellungen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Benutzereinstellungen konfigurieren, einschließlich Zeitzone, E-Mail-Berichten, Passwort, mobilen Benachrichtigungen und Einstellungen für persönliche Regionen. Anpassen des Web Personalization-Erlebnisses und der Exporteinstellungen.
 title: Benutzereinstellungen
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Einstellungen wie Zeitzone oder E-Mail-Berichte zu Web Personalization ändern.
 
 ## E-Mail-Berichte auswählen {#select-email-reports}
 
-Wählen Sie aus[[!UICONTROL &#x200B; welchen &#x200B;]](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)E-Mail-Bericht) Sie Ihrem Benutzer zuordnen möchten, und geben Sie die Häufigkeit ([!UICONTROL täglich], [!UICONTROL wöchentlich] oder [!UICONTROL vierteljährlich]) an, mit der der Bericht gesendet wird.
+Wählen Sie aus[[!UICONTROL  welchen ]](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)E-Mail-Bericht) Sie Ihrem Benutzer zuordnen möchten, und geben Sie die Häufigkeit ([!UICONTROL täglich], [!UICONTROL wöchentlich] oder [!UICONTROL vierteljährlich]) an, mit der der Bericht gesendet wird.
 
 ![](assets/three.png)
 

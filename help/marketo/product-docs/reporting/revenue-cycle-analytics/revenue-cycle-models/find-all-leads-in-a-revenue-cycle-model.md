@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360423
-description: Alle Leads in einem Umsatzzyklusmodell suchen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Engage alle Leads in einem Umsatzzyklusmodell finden, indem Sie alle Leads in einem Umsatzzyklus suchen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Suchen nach allen Leads in einem Umsatzzyklusmodell
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '200'
 ht-degree: 8%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360184
-description: Kampagnenaktivitätsbericht filtern - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Kampagnenaktivitätsbericht in Marketo Engage mithilfe eines Kampagnenaktivitätsberichts filtern. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Filtern eines Kampagnenaktivitätsberichts
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 9%
+source-wordcount: '141'
+ht-degree: 8%
 
 ---
 

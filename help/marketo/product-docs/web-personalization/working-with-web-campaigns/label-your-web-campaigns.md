@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949154
-description: Beschriften von Web-Kampagnen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ihre Web-Kampagnen in Marketo Engage mit einer Kennzeichnung Ihrer Web-Kampagnen als Ihre Web-Kampagnen kennzeichnen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Beschriften Ihrer Web-Kampagnen
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 5%
+source-wordcount: '169'
+ht-degree: 4%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718640
-description: Grundlegendes zum Bereich der Programmmitgliedschaftsanalyse - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Verständnis des Bereichs „Programmmitgliedschaftsanalyse“ in Marketo Engage, einschließlich Informationen zum Programm. Machen Sie den nächsten Schritt selbstbewusst.
 title: Grundlegendes zum Bereich für die Analyse der Programmmitgliedschaft
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 21%
+source-wordcount: '246'
+ht-degree: 20%
 
 ---
 

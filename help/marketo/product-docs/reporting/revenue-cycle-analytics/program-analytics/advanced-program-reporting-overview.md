@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953144
-description: Übersicht über die erweiterte Programmberichterstattung - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die erweiterte Programmberichterstellung in Marketo Engage, einschließlich der erweiterten Programmberichterstellung - Übersicht. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Übersicht über die erweiterten Programmberichte
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '285'
 ht-degree: 2%
 
 ---

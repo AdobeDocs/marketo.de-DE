@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360429
-description: Bericht zu Ihrem Umsatzmodell - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über den Bericht zu Ihrem Umsatzmodell in Marketo Engage, einschließlich des Berichts zu Ihrem Umsatzmodell. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Berichte zu Ihrem Umsatzmodell
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 7%
+source-wordcount: '155'
+ht-degree: 6%
 
 ---
 
@@ -43,4 +43,4 @@ Für jedes Umsatzzyklusmodell können Sie einen Bericht darüber generieren, wie
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-Warum ist das nützlich? Das Modell zeigt Ihren Verkaufs- und Marketing-Trichter. Verfolgen Sie ihre Salden im Laufe der Zeit, um Engpässe zu identifizieren, bevor sie zu einem Problem werden.
+Warum ist das nützlich? Das Modell zeigt Ihre Vertriebs- und Marketing-funnel. Verfolgen Sie ihre Salden im Laufe der Zeit, um Engpässe zu identifizieren, bevor sie zu einem Problem werden.

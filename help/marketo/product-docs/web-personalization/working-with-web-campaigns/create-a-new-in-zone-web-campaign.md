@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719400
-description: Erstellen einer neuen Zone in der Web-Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erstellen Sie In-Zone-Web-Kampagnen, die Website-Elemente basierend auf der Zone-ID durch personalisierte Inhalte oder grafische Banner ersetzen. Verwenden Sie Zonen-IDs, um bestimmte Bereiche Ihrer Website auszuwählen.
 title: Erstellen einer neuen In-Zone-Web-Kampagne
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '711'
 ht-degree: 4%
 
 ---
@@ -33,7 +33,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
    >
    >**Was ist eine Zonen-ID?**
    >
-   >Mit einer Zonen-ID möchten Sie Ihre &quot;[!UICONTROL &#x200B; Zone]-Web-Kampagne auf der Site platzieren. Um eine &quot;[!UICONTROL Zone-ID] zu finden, wählen Sie einfach auf Ihrer Website den Bereich aus, den Sie durch eine Web-Kampagne ersetzen möchten, und klicken Sie mit der rechten Maustaste darauf. In Chrome lautet die Option „Element überprüfen“, in anderen Browsern kann sie variieren.
+   >Mit einer Zonen-ID möchten Sie Ihre &quot;[!UICONTROL  Zone]-Web-Kampagne auf der Site platzieren. Um eine &quot;[!UICONTROL Zone-ID] zu finden, wählen Sie einfach auf Ihrer Website den Bereich aus, den Sie durch eine Web-Kampagne ersetzen möchten, und klicken Sie mit der rechten Maustaste darauf. In Chrome lautet die Option „Element überprüfen“, in anderen Browsern kann sie variieren.
    >
    >Anschließend möchten Sie die mit diesem Abschnitt der Website verknüpfte „ID“ suchen, die hervorgehoben ist, weil Sie dieses Element untersuchen. Wenn beispielsweise nach dem Rechtsklick in Chrome der hervorgehobene Text `<div id="featured-slider">` lautet, sollten Sie im Abschnitt „Zonenkennung“ „Vorgestellter Schieberegler“ eingeben. Normalerweise wird „div id“ verwendet, es können jedoch auch beliebige IDs verwendet werden, z. B. h1-ID, p-ID usw.
 
@@ -80,11 +80,11 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 >[!TIP]
 >
->Beschleunigen und vereinfachen Sie die Erstellung von Kampagnen mithilfe unserer [&#x200B; Vorlagen &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) durch [Speichern Ihrer vorhandenen Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
+>Beschleunigen und vereinfachen Sie die Erstellung von Kampagnen mithilfe unserer [ Vorlagen ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) durch [Speichern Ihrer vorhandenen Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der Funktion „Auto-Tune“ erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, fährt mit den höchsten Konvertierungskampagnen fort und hält die anderen an.
+>**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der Funktion „Auto-Tune“ erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, fährt mit den höchsten Konvertierungskampagnen fort und hält die anderen an.
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 

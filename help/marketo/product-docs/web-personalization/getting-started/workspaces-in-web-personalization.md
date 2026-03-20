@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727499
-description: Arbeitsbereiche in Web Personalization - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Arbeitsbereiche bei der Web-Personalisierung in Marketo Engage, einschließlich Arbeitsbereichen bei der Web-Personalisierung. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Arbeitsbereiche in Web-Personalisierung
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '123'
 ht-degree: 3%
 
 ---
@@ -35,4 +35,4 @@ Um bei der Web-Personalisierung zwischen Arbeitsbereichen zu wechseln, klicken S
 
 >[!NOTE]
 >
->Benutzer können nur Web-Kampagnen und Segmente sehen, die mit den Arbeitsbereichen verknüpft sind, auf die sie Zugriff haben. So [&#x200B; man einem Benutzer Zugriff auf einen oder mehrere Arbeitsbereiche &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>Benutzer können nur Web-Kampagnen und Segmente sehen, die mit den Arbeitsbereichen verknüpft sind, auf die sie Zugriff haben. So [ man einem Benutzer Zugriff auf einen oder mehrere Arbeitsbereiche ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).

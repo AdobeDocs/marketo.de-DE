@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097867
-description: Definieren einer Smart List für Web-Personalization-Aktivitäten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Engage mithilfe von „Smart-Liste definieren für“ eine Smart-Liste für Web-Personalisierungsaktivitäten definieren. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Definieren einer intelligenten Liste für Aktivitäten in Web-Personalisierung
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '305'
 ht-degree: 2%
 
 ---
@@ -57,7 +57,7 @@ Verwenden Sie einen Trigger, um eine E-Mail oder einen Warnhinweis zu senden ode
    >
    >Bei mehreren Triggern wechselt eine Person in den Fluss, wenn einer der Trigger aktiviert wird.
 
-   Wenn Sie die Kampagne für mehrere Personen gleichzeitig ausführen möchten, erfahren Sie hier, wie Sie [&#x200B; Smart-Liste für Smart-Kampagnen definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Wenn Sie die Kampagne für mehrere Personen gleichzeitig ausführen möchten, erfahren Sie hier, wie Sie [ Smart-Liste für Smart-Kampagnen definieren | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >

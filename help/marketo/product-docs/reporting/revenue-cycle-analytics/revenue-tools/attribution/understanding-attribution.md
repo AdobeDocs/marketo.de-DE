@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953136
-description: Erläuterung der Attribution - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Verständnis der Attribution in Marketo Engage, einschließlich dessen, was eine Attribution ist. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Grundlegendes zu Attribution
 exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '226'
 ht-degree: 2%
 
 ---

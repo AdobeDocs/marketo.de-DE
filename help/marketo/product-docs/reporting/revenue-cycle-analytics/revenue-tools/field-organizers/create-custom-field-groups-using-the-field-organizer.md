@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094404
-description: Erstellen benutzerdefinierter Feldergruppen mit dem Feld-Organisator - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benutzerdefinierte Feldergruppen mit dem Feld-Organizer in Marketo Engage mithilfe von „Benutzerdefinierte Feldergruppen erstellen“ erstellen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Erstellen benutzerdefinierter Feldergruppen mit dem Feldorganisator
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1000'
+source-wordcount: '1015'
 ht-degree: 4%
 
 ---
@@ -18,14 +18,14 @@ Wenn Sie ein Standardfeld oder ein benutzerdefiniertes Feld aus der Dropdown-Lis
 
 | Marketo-Lead-Management-Datentyp | Datentyp des Feltorganisator-Editors |
 |---|---|
-| Zeichenfolge | Zeichenfolge |
-| E-Mail | Zeichenfolge |
+| String | String |
+| E-Mail | String |
 | Ganzzahl | Ganzzahl |
 | Text | String |
 | URL | String |
 | Referenz | Nicht unterstützt |
 | Währung | Ganzzahl |
-| Datum/Uhrzeit | Datum |
+| DateTime | Datum |
 | Boolesch | Nicht unterstützt |
 | Telefon | String |
 | Datum | Datum |
@@ -72,7 +72,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
    >[!NOTE]
    >
-   >Um eine Untergruppe zu löschen, klicken Sie einfach auf das rote X neben dem Namen der Untergruppe. Wenn sich Datenwerte in der Gruppe befinden, werden die Datenwerte in die Standardgruppe &quot;[!UICONTROL &quot; &#x200B;].
+   >Um eine Untergruppe zu löschen, klicken Sie einfach auf das rote X neben dem Namen der Untergruppe. Wenn sich Datenwerte in der Gruppe befinden, werden die Datenwerte in die Standardgruppe &quot;[!UICONTROL &quot; ].
 
 1. Markieren Sie einen oder mehrere Datenwerte auf der Arbeitsfläche und ziehen Sie sie per Drag-and-Drop in die entsprechende Untergruppe.
 
@@ -178,7 +178,7 @@ In den nächsten drei Abschnitten wird beschrieben, wie Sie eine benutzerdefinie
 
    >[!NOTE]
    >
-   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder [!UICONTROL Gruppenbereich] baut auf dem vorherigen Eintrag auf. Wenn Sie für die letzte [!UICONTROL &#x200B; erstellte Untergruppe den &#x200B;] „Gruppenbereich“ leer lassen, wird kein Enddatumswert festgelegt.
+   >Sie können bis zu zehn Untergruppen hinzufügen, um die Datenwerte zu kategorisieren. Jeder [!UICONTROL Gruppenbereich] baut auf dem vorherigen Eintrag auf. Wenn Sie für die letzte [!UICONTROL  erstellte Untergruppe den ] „Gruppenbereich“ leer lassen, wird kein Enddatumswert festgelegt.
 
    Das folgende Beispiel zeigt einen Eintrag für Q1 2015 führt durch Q3.
 

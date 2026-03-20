@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094879
-description: Hinzufügen einer Ziel-URL zu einer Web-Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einer Web-Kampagne in Marketo Engage eine Ziel-URL hinzufügen, einschließlich einer Ziel-URL zu einem Web. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Hinzufügen einer Ziel-URL zu einer Web-Kampagne
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 7%
+source-wordcount: '274'
+ht-degree: 6%
 
 ---
 

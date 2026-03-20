@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095347
-description: Schützen der Administratoreinstellung für Abonnements - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Abonnement-Admin-Einstellungen sichern, damit die Anmeldung vor dem Herunterladen von Berichten erforderlich ist. Konfigurieren Sie diese Sicherheitsoption in den Admin-Anmeldeeinstellungen für die Berichteinstellungen der Smart-Liste.
 title: Sichern der Admin-Abonnementeinstellung
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 11%
+source-wordcount: '104'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 Ein Administrator kann festlegen, dass er sich anmelden muss, um einen Bericht anzuzeigen.
 

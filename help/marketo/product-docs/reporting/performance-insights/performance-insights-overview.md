@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979006
-description: Übersicht über Performance Insights - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Leistungseinblicke, die dazu beitragen, den Kanalmix zu optimieren und langfristige Trends für konsistente Gewinnstrategien aufzudecken. Analysieren Sie Beiträge, Trends und exportieren Sie Daten nach PowerPoint oder Excel.
 title: Performance Insights – Übersicht
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '254'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ Bewerten Sie den [Umsatzbeitrag](/help/marketo/product-docs/reporting/performanc
 
 ![](assets/two.png)
 
-Standardmäßig spiegeln die angezeigten Daten die Leistung nach &quot;[!UICONTROL &quot; &#x200B;]. Sie können zur Leistung wechseln, indem **[!UICONTROL Pipeline]** oder **[!UICONTROL Umsatz]** einfach durch Klicken auf eine dieser Optionen auswählen.
+Standardmäßig spiegeln die angezeigten Daten die Leistung nach &quot;[!UICONTROL &quot; ]. Sie können zur Leistung wechseln, indem **[!UICONTROL Pipeline]** oder **[!UICONTROL Umsatz]** einfach durch Klicken auf eine dieser Optionen auswählen.
 
 ![](assets/3.png)
 
@@ -49,7 +49,7 @@ Klicken Sie in den [!UICONTROL Umsatz] und [!UICONTROL Pipeline]-Dashboards auf 
 
 ## Daten exportieren {#export-data}
 
-Sie können die Daten und Diagramme entweder in [!DNL PowerPoint] oder [!DNL Excel] exportieren. Sie können sie auch als [Schnelldiagramm“ &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+Sie können die Daten und Diagramme entweder in [!DNL PowerPoint] oder [!DNL Excel] exportieren. Sie können sie auch als [Schnelldiagramm“ ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 

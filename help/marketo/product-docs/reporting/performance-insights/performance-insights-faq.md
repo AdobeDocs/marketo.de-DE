@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979858
-description: Häufig gestellte Fragen zu Performance Insights - Marketo-Dokumente - Produktdokumentation
+description: Hier finden Sie Antworten auf häufig gestellte Fragen zu Performance Insights einschließlich Attributionseinstellungen, Programm-Sichtbarkeit, Opportunity-Zuordnung und Setup-Anforderungen. Erfahren Sie, wie MPI mit Ihrem CRM und Analysen funktioniert.
 title: Häufig gestellte Fragen zu Performance Insights
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1367'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Benutzerdefinierte Felder, Opportunity-Typ und ABM-Filter sind alle Attribute, d
 
 ## Ich möchte ein benutzerdefiniertes Salesforce-Opportunity-Feld anstelle des standardmäßigen Salesforce-Opportunity-Summenfelds für die Umsatzberichterstattung verwenden. Erlaubt mir das MPI? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Der Marketo-](https://nation.marketo.com/t5/Support/ct-p/Support) kann das Feld „Opportunity-Betrag“ von Marketo einem benutzerdefinierten Salesforce-Opportunity-Feld zuordnen, solange der Feldtyp „Währung“ ist. Da MPI auf das Marketo Opportunity-Summenfeld verweist, kann MPI die Daten aus dem neu zugeordneten benutzerdefinierten Salesforce-Feld verwenden.
+Ja. [Der Marketo-](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de) kann das Feld „Opportunity-Betrag“ von Marketo einem benutzerdefinierten Salesforce-Opportunity-Feld zuordnen, solange der Feldtyp „Währung“ ist. Da MPI auf das Marketo Opportunity-Summenfeld verweist, kann MPI die Daten aus dem neu zugeordneten benutzerdefinierten Salesforce-Feld verwenden.
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ Ja. [Der Marketo-](https://nation.marketo.com/t5/Support/ct-p/Support) kann das 
 
 ## Wenn ich Opportunities nicht nutze, kann ich dann trotzdem MPI nutzen? {#if-i-don-t-use-opportunities-can-i-still-use-mpi}
 
-Mit MPI können Sie die Programmleistung von der Trichterspitze bis hin zur Umsatzauswirkung messen. Wenn Sie Opportunities nicht nutzen, können Sie trotzdem:
+Mit dem MPI können Sie die Programmleistung von der funnel-Spitze bis hin zur Auswirkung auf den Umsatz messen. Wenn Sie Opportunities nicht nutzen, können Sie trotzdem:
 
 * Zeigen Sie die Leistung Ihrer Nurture-Programme für die Interaktion mit Zielgruppen an.
 * Leistung Ihrer Lead-Akquise-Programme anzeigen.
@@ -104,7 +104,7 @@ Ja. MPI lässt sich mit [Marketo TAM](https://docs.marketo.com/display/DOCS/Acco
 
 ## Ist Attribution beim Kauf von MPI sofort verfügbar? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Die Attributionsfunktionen von Marketo stehen unseren Kunden beim Kauf von MPI zur Verfügung. Es [&#x200B; jedoch eine &#x200B;](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) Einrichtung erforderlich, um sicherzustellen, dass Opportunities und Programmdaten korrekt in das MPI fließen.
+Die Attributionsfunktionen von Marketo stehen unseren Kunden beim Kauf von MPI zur Verfügung. Es [ jedoch eine ](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) Einrichtung erforderlich, um sicherzustellen, dass Opportunities und Programmdaten korrekt in das MPI fließen.
 
 ## Was muss ich tun, um Attribution einzurichten? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Die Attributionsfunktionen von Marketo stehen unseren Kunden beim Kauf von MPI z
 
 >[!TIP]
 >
->Alle erforderlichen Einrichtungsschritte werden in [diesem Artikel) &#x200B;](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
+>Alle erforderlichen Einrichtungsschritte werden in [diesem Artikel) ](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
 
 ## Was ist der Unterschied zwischen MPI und dem Programm-Analyzer? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 

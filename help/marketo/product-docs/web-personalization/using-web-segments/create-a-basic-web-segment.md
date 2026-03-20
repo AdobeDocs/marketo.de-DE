@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719344
-description: Erstellen eines einfachen Web-Segments - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein einfaches Web-Segment in Marketo Engage erstellen, indem Sie ein einfaches Web-Segment erstellen und ein einfaches Web-Segment erstellen. Machen Sie den nächsten Schritt selbstbewusst.
 title: Erstellen eines einfachen Web-Segments
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '177'
 ht-degree: 9%
 
 ---

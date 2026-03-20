@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718656
-description: Erstellen eines neuen Umsatzmodells - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Engage ein neues Umsatzmodell erstellen, indem Sie ein neues Umsatzmodell erstellen und ein neues Umsatzmodell erstellen. Machen Sie den nächsten Schritt selbstbewusst.
 title: Erstellen eines neuen Umsatzmodells
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '132'
+ht-degree: 7%
 
 ---
 

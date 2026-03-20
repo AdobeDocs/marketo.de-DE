@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360014
-description: Personen-Leistungsbericht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Personenleistungsberichte, die das Datenbankwachstum im Zeitverlauf messen und Personen nach Attributen gruppieren. Analysieren Sie Ihre Programme und erkunden Sie detaillierte Lead-Informationen mit Drilldown-Funktionen.
 title: Personenleistungsbericht
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---

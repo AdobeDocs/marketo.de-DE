@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718651
-description: Grundlegendes zum E-Mail-Analysebereich - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über den E-Mail-Analysebereich in Marketo Engage, einschließlich Informationen zum E-Mail-Analysebereich. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Grundlegendes zum Bereich „E-Mail-Analyse“
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '375'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Der Bereich E-Mail-Analyse konzentriert sich auf E-Mail-Metriken. Dieser Artikel
 
 >[!AVAILABILITY]
 >
->Dies ist für Benutzende mit dem Add-on &quot;[&#x200B; Edition“ oder &quot;](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)&quot; verfügbar. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Dies ist für Benutzende mit dem Add-on &quot;[ Edition“ oder &quot;](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)&quot; verfügbar. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
 ## Heatgrid für E-Mail-Klick-Aktivität {#email-click-activity-heat-grid}
 

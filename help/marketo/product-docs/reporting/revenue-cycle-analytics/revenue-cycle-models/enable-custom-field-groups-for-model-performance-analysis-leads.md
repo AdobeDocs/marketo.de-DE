@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571890
-description: Aktivieren benutzerdefinierter Feldergruppen für Modellleistungsanalyse (Leads) - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie benutzerdefinierte Feldergruppen für die Modellleistungsanalyse (Leads) in Marketo Engage mithilfe von „Benutzerdefinierte Felder aktivieren“ aktivieren. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Aktivieren von benutzerdefinierten Feldergruppen für die Analyse der Modellleistung (Leads)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '357'
 ht-degree: 5%
 
 ---
@@ -60,7 +60,7 @@ Führen Sie diese Schritte aus, um eine benutzerdefinierte Feldergruppe für das
 
    >[!NOTE]
    >
-   >In diesem Beispiel wurde eine benutzerdefinierte Feldergruppe für ein Standardfeld (Status) aktiviert. Daher war nur der Bereich [!UICONTROL Modellleistungsanalyse (Leads] betroffen. Wenn eine benutzerdefinierte Feldergruppe für ein benutzerdefiniertes Personen- oder Unternehmensfeld aktiviert worden wäre, würde die aktivierte Gruppe im Abschnitt [!UICONTROL Modellleistungsanalyse (Leads)) auf &#x200B;] Registerkarte Zusammenfassung synchronisieren angezeigt und die benutzerdefinierte Felderanzahl für Lead-, Kampagnen- und Opportunity-Analyse würde um eins steigen.
+   >In diesem Beispiel wurde eine benutzerdefinierte Feldergruppe für ein Standardfeld (Status) aktiviert. Daher war nur der Bereich [!UICONTROL Modellleistungsanalyse (Leads] betroffen. Wenn eine benutzerdefinierte Feldergruppe für ein benutzerdefiniertes Personen- oder Unternehmensfeld aktiviert worden wäre, würde die aktivierte Gruppe im Abschnitt [!UICONTROL Modellleistungsanalyse (Leads)) auf ] Registerkarte Zusammenfassung synchronisieren angezeigt und die benutzerdefinierte Felderanzahl für Lead-, Kampagnen- und Opportunity-Analyse würde um eins steigen.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 

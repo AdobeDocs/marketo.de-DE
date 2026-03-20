@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951220
-description: Erstellen eines Leistungsberichts für Personen mit Spalten der mobilen Plattform - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Engage mithilfe von „Personen erstellen“ einen People -Leistungsbericht mit Spalten von Mobile Platform erstellen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Erstellen eines Personenleistungsberichts mit Spalten einer mobilen Plattform
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 6%
+source-wordcount: '306'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ Führen Sie die folgenden Schritte aus, um einen Leistungsbericht für Personen 
 
 ## Erstellen von Smart-Listen für Mobilgeräte {#create-mobile-smart-lists}
 
-1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]**.
+1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
    ![](assets/ma.png)
 

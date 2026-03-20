@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719398
-description: Erstellen eines neuen Dialogfelds Web-Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erstellen Sie Dialog-Web-Kampagnen, um Inhalte in Echtzeit mit Popup-Nachrichten auf Ihrer Website zu personalisieren. Passen Sie Dialogstile, Positionen, Animationen und Anzeigeeinstellungen an, um Besuchende einzubinden.
 title: Erstellen einer neuen Dialog-Web-Kampagne
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '765'
 ht-degree: 4%
 
 ---
@@ -128,7 +128,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 >[!TIP]
 >
->Beschleunigen und vereinfachen Sie die Erstellung von Kampagnen mithilfe unserer [&#x200B; Vorlagen &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) durch [Speichern Ihrer vorhandenen Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
+>Beschleunigen und vereinfachen Sie die Erstellung von Kampagnen mithilfe unserer [ Vorlagen ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) durch [Speichern Ihrer vorhandenen Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 
@@ -152,7 +152,7 @@ Siehe [Klonen einer Web-](/help/marketo/product-docs/web-personalization/working
 
 ## Löschen einer Web-Kampagne {#delete-a-web-campaign}
 
-1. Klicken Sie auf der **[!UICONTROL Web]**&#x200B;**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der **[!UICONTROL Web]****[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

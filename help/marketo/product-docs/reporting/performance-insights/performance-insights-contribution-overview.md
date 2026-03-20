@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979008
-description: Performance Insights-Beitragsübersicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Ansicht „Performance-Insights-Beitrag“, die den Marketing-Beitrag zum Umsatz durch Interaktions-, Pipeline- und Umsatzmetriken bewertet. Kanal- und Programmleistung mit Ring- und Balkendiagrammen anzeigen.
 title: Beitrag von Performance Insights – Übersicht
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '398'
 ht-degree: 1%
 
 ---

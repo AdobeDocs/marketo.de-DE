@@ -1,19 +1,19 @@
 ---
 unique-page-id: 3571886
-description: Verwenden des Erfolgspfad-Analyzers - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Erfolgspfad-Analyzer in Marketo Engage mit dem Erfolgspfad-Analyzer verwenden. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Verwenden des Erfolgspfad-Analyzers
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '389'
 ht-degree: 2%
 
 ---
 
 # Verwenden des Erfolgspfad-Analyzers {#using-the-success-path-analyzer}
 
-Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl den Fluss (Betrag) als auch die Geschwindigkeit (Geschwindigkeit, in Tagen) der Personen in den Phasen Ihres [Umsatzzyklusmodells) &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl den Fluss (Betrag) als auch die Geschwindigkeit (Geschwindigkeit, in Tagen) der Personen in den Phasen Ihres [Umsatzzyklusmodells) ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >

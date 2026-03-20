@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100257
-description: Häufig gestellte Fragen zu E-Mail-Einblicken - Marketo-Dokumente - Produktdokumentation
+description: Hier finden Sie Antworten auf häufig gestellte Fragen zu E-Mail-Einblicken, einschließlich Metrikberechnungen, benutzerdefinierten Dimensionen und Gerätefilterung. Unterschiede zwischen E-Mail-Einblicken und anderen Reporting-Tools
 title: Häufig gestellte Fragen zu E-Mail Insights
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '621'
 ht-degree: 1%
 
 ---

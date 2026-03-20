@@ -1,12 +1,12 @@
 ---
-description: Filtern von zusammengeführten/gelöschten Datensätzen in einem E-Mail-Bericht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie zusammengeführte/gelöschte Datensätze in einem E-Mail-Bericht in Marketo Engage filtern können, indem Sie gelöschte zusammengeführte Datensätze in filtern. Machen Sie den nächsten Schritt selbstbewusst.
 title: Filtern von zusammengeführten/gelöschten Datensätzen in einem E-Mail-Bericht
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 7%
+source-wordcount: '134'
+ht-degree: 6%
 
 ---
 

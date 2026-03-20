@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359999
-description: Berichtsspalten neu anordnen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Berichtsspalten durch Ziehen und Ablegen an neue Positionen neu anordnen können. Passen Sie die Spaltenreihenfolge auf der Registerkarte Bericht an, um die wichtigsten Daten zu priorisieren.
 title: Neuanordnen der Berichtsspalten
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 8%
+source-wordcount: '111'
+ht-degree: 7%
 
 ---
 

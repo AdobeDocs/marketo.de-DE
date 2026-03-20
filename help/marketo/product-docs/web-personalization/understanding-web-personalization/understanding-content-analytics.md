@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093159
-description: Grundlegendes zu Content Analytics - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Verständnis der Inhaltsanalyse in Marketo Engage, einschließlich des Verständnisses der Inhaltsanalyse. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Grundlegendes zur Inhaltsanalyse
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '390'
 ht-degree: 2%
 
 ---
@@ -48,11 +48,11 @@ Die Analytics-Tabelle enthält die folgenden Details:
    <td colspan="1" rowspan="1">Name des Assets mit digitalen Inhalten. Klicken Sie <strong>Titel</strong>, um die Inhalts-URL in einer neuen Registerkarte zu öffnen.</td>
   </tr>
   <tr>
-   <td colspan="1"><p><strong>Recommendation </strong><strong>icon</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1"><p><strong>Recommendation </strong><strong>icon</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
    <td colspan="1">Zeigt an, ob das Inhaltselement für Inhaltsempfehlungen <a href="#"> wurde</a>.</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL -Ansichten]</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL-Ansichten]</strong></p></td>
    <td colspan="1" rowspan="1"><p>Die Anzahl der Ansichten von Web-Besuchern über das Inhalts-Asset. Die Häufigkeit, mit der sie angezeigt, geöffnet, angesehen oder heruntergeladen wurde. Klicken Sie auf die Anzahl der Anzeigen in der Spalte, um einen Drilldown durchzuführen und zu sehen, wer den Inhalt angezeigt hat</p></td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ Zu den zusätzlichen Inhaltsanalysen gehören:
 
 * **[!UICONTROL Ansichten]**: Ansichten dieses Inhaltselements für den ausgewählten Zeitraum
 * **[!UICONTROL Direkte Konversionen]**: Web-Besucher, die den Inhalt angesehen und ein Formular während desselben Besuchs ausgefüllt haben.
-* **[!UICONTROL Konversionsrate]**&#x200B;**:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
+* **[!UICONTROL Konversionsrate]****:** Eine prozentuale Konversionsrate, berechnet durch direkte Konversionen dividiert durch Klicks
 
 **[!UICONTROL Trends]**
 
@@ -96,7 +96,7 @@ Zu den zusätzlichen Inhaltsanalysen gehören:
 
 ![](assets/six.png)
 
-Klicken Sie auf der Seite [!UICONTROL 0&rbrace;Content Analytics&quot; auf das Löschsymbol des Inhalts, den Sie löschen möchten. &#x200B;] Es wird eine Meldung angezeigt, die bestätigt, dass Sie den Inhalt löschen möchten.
+Klicken Sie auf der Seite [!UICONTROL 0}Content Analytics&quot; auf das Löschsymbol des Inhalts, den Sie löschen möchten. ] Es wird eine Meldung angezeigt, die bestätigt, dass Sie den Inhalt löschen möchten.
 
 >[!MORELIKETHIS]
 >

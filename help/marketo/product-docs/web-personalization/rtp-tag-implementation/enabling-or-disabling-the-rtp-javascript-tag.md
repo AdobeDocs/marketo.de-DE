@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097163
-description: Aktivieren oder Deaktivieren des RTP-JavaScript-Tags - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie das rtp-JavaScript-Tag in Marketo Engage aktivieren oder deaktivieren, einschließlich der Aktivierung oder Deaktivierung von rtp. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Aktivieren oder Deaktivieren des RTP-JavaScript-Tags
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 11%
+source-wordcount: '151'
+ht-degree: 9%
 
 ---
 
@@ -31,6 +31,6 @@ Das RTP-JavaScript-Tag steuert, ob Web Personalization Web-Aktivitäten nachverf
 
    Wenn [!UICONTROL Tag] auf [!UICONTROL Aus] eingestellt ist, ist der JavaScript-Code deaktiviert und [!UICONTROL Web-Personalization] verfolgt keine Web-Aktivitäten und führt keine Kampagnen oder Inhaltsempfehlungen auf Ihrer Website aus.
 
-1. Um das RTP-Tag zu aktivieren[!UICONTROL &#x200B; klicken Sie in &#x200B;]Domain[!UICONTROL &#x200B; und &#x200B;]Domain-Konfiguration unter [!UICONTROL Tag] auf den Umschalter **[!UICONTROL Ein]**.
+1. Um das RTP-Tag zu aktivieren[!UICONTROL  klicken Sie in ]Domain[!UICONTROL  und ]Domain-Konfiguration unter [!UICONTROL Tag] auf den Umschalter **[!UICONTROL Ein]**.
 
    Einfach.

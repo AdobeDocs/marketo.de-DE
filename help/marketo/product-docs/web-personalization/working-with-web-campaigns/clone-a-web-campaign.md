@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093157
-description: Klonen einer Web-Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Web-Kampagne in Marketo Engage klonen, indem Sie eine Web-Kampagne klonen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Klonen einer Web-Kampagne
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '182'
 ht-degree: 4%
 
 ---

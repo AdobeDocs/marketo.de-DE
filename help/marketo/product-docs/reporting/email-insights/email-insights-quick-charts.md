@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099415
-description: E-Mail-Einblicke - Schnelldiagramme - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Schnelldiagramme als Miniaturansichten für häufig verwendete Diagrammansichten in E-Mail-Einblicken erstellen und speichern. Speichern Sie bis zu 20 benutzerdefinierte Diagramme und greifen Sie über das Symbol Schnelldiagramme schnell darauf zu.
 title: Schnelldiagramme für E-Mail Insights
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 4%
+source-wordcount: '256'
+ht-degree: 3%
 
 ---
 

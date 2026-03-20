@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095554
-description: Einbetten eines Formulars in eine Web-Kampagne - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie ein Formular in eine Web-Kampagne in Marketo Engage einbetten, einschließlich der Einbettung eines Formulars in eine Web-Kampagne. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Einbetten eines Formulars in eine Web-Kampagne
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '348'
 ht-degree: 8%
 
 ---
@@ -85,4 +85,4 @@ So fügen Sie dem Skript CSS-Code hinzu:
 >
 >* [Bearbeiten des CSS eines Formulardesigns](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Dankesnachricht ohne nachfolgende Landingpage anzeigen](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Formulare 2.0](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Formulare 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720917
-description: Personalisiertes Remarketing in Facebook - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über personalisiertes Remarketing in Facebook in Marketo Engage, einschließlich personalisiertem Remarketing in DNL. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Personalisiertes Remarketing in Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '299'
 ht-degree: 9%
 
 ---
@@ -18,7 +18,7 @@ Personalisiertes Remarketing ermöglicht Ihnen die erneute Interaktion mit Ihren
 >[!PREREQUISITES]
 >
 >* Schließen Sie das Setup [Retargeting mit Web Personalization-Daten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) ab
->* Lesen Sie die [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerdefinierten Zielgruppen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) und Remarketing.
+>* Lesen Sie die [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerdefinierten Zielgruppen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) und Remarketing.
 
 ## Erstellen einer Zielgruppe in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -36,7 +36,7 @@ Personalisiertes Remarketing ermöglicht Ihnen die erneute Interaktion mit Ihren
 
 ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Liste „Website]Traffic“ **[!UICONTROL Benutzerdefinierte Kombination]** aus.
+1. Wählen Sie in [!UICONTROL  Liste „Website]Traffic“ **[!UICONTROL Benutzerdefinierte Kombination]** aus.
 
 ![](assets/image2015-1-19-16-3a33-3a21.png)
 

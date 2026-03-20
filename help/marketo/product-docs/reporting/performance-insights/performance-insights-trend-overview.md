@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979010
-description: Performance Insights - Trend-Übersicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Trend-Ansicht „Performance Insights“, die mit Ring- und Liniendiagrammen die Kanalleistungstrends im Zeitverlauf anzeigt. Analyse der 12-monatigen Trends, um konsistente Gewinnstrategien zu ermitteln.
 title: Trend von Performance Insights – Überblick
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Klicken Sie auf die **[!UICONTROL Trend]**, um auf diese Ansicht zuzugreifen.
 
 ![](assets/2-1.png)
 
-Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir gewonnene Opportunitys mit &quot;[[!UICONTROL -Touch“ &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir gewonnene Opportunitys mit &quot;[[!UICONTROL -Touch“ ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 

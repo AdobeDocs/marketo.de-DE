@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718636
-description: Grundlegendes zum Bereich „Programmkostenanalyse“ - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Verständnis des Bereichs „Programmkostenanalyse“ in Marketo Engage, einschließlich Informationen zu den Programmkosten. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Grundlegendes zum Bereich für die Analyse der Programmkosten
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 25%
+source-wordcount: '341'
+ht-degree: 24%
 
 ---
 

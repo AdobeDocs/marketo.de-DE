@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095084
-description: Grafische Darstellung der Ergebnisse aus dem Umsatz-Explorer - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Ergebnisse aus dem Umsatz-Explorer in Marketo Engage grafisch darstellen, einschließlich der Ergebnisse aus dem Umsatz. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Grafisches Darstellen der Ergebnisse aus dem Revenue Explorer
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '267'
 ht-degree: 1%
 
 ---
 
-# Ergebnisse aus dem [!UICONTROL Umsatz-Explorer“ &#x200B;] {#graphing-results-from-revenue-explorer}
+# Ergebnisse aus dem [!UICONTROL Umsatz-Explorer“ ] {#graphing-results-from-revenue-explorer}
 
 Standardmäßig werden Berichte im [!UICONTROL Umsatz-Explorer] als Tabelle angezeigt. Sie haben auch die Möglichkeit, Ergebnisse als Diagramm in verschiedenen Formaten anzuzeigen.
 

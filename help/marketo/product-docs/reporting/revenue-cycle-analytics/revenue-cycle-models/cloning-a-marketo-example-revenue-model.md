@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718677
-description: Klonen eines Marketo-Beispiel-Umsatzmodells - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Klonen eines Marketo-Beispiel-Umsatzmodells in Marketo Engage, einschließlich des Klonens eines Marketo-Beispiel-Umsatzes. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Klonen eines Beispiel-Umsatzmodells in Marketo
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 15%
+source-wordcount: '95'
+ht-degree: 12%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo verfügt über beispielhafte Umsatzmodellierer, die Sie inspirieren kön
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. Wählen [!UICONTROL &#x200B; in &quot;]&quot; die Option **[!UICONTROL Modell klonen]**.
+1. Wählen [!UICONTROL  in &quot;]&quot; die Option **[!UICONTROL Modell klonen]**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 

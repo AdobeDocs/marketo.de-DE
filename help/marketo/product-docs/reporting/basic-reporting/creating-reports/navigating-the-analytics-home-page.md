@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513141
-description: Navigieren auf der Analytics-Startseite - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie auf der Analytics-Startseite navigieren, um auf verschiedene Berichtstypen zuzugreifen und zur Startansicht zurückzukehren. Berichtstypen auswählen und Ihren Reporting-Arbeitsbereich verwalten.
 title: Navigieren auf der Analytics-Startseite
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 18%
+source-wordcount: '78'
+ht-degree: 14%
 
 ---
 

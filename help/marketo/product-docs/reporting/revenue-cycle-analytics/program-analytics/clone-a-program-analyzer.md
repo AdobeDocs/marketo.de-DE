@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11383877
-description: Klonen eines Programm-Analyzers - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Programmanalysator in Marketo Engage klonen, indem Sie einen Programmanalysator klonen - einen Programmanalysator klonen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Klonen eines Programm-Analyzers
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 

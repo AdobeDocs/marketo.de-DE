@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360035
-description: Drilldown in einem Personen-Leistungsbericht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Personenleistungsberichten zusätzliche Personeninformationen anzeigen können, indem Sie eine Zeile auswählen und ein Attribut auswählen. Erkunden Sie detaillierte Lead-Daten auf einer neuen Registerkarte „Bericht“.
 title: Drilldown in einem Personenleistungsbericht
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 12%
+source-wordcount: '152'
+ht-degree: 10%
 
 ---
 

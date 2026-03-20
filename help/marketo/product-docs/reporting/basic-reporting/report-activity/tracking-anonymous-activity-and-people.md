@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360181
-description: Tracking anonymer Aktivitäten und Personen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Tracking anonymer Aktivitäten und Personen in Marketo Engage, einschließlich des Trackings anonymer Aktivitäten und Kontakte. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Tracking anonymer Aktivitäten und Personen
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '235'
 ht-degree: 4%
 
 ---
@@ -28,8 +28,8 @@ Wenn jemand zum ersten Mal eine Marketo [Landingpage](/help/marketo/product-docs
    Eine anonyme Aktivität wird zu einer neuen oder vorhandenen Person zusammengeführt, wenn jemand:
 
    * Klickt auf einen [Link in einer Marketo-E-Mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Füllen Sie ein Marketo-[&#x200B; aus](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
-   * Verwendet die Marketo [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/leads) oder die [Munchkin](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking)-API (für Entwickler), um eine anonyme Aktivität mit einem bekannten Datensatz zu verknüpfen.
+   * Füllen Sie ein Marketo-[ aus](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
+   * Verwendet die Marketo [REST-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) oder die [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking)-API (für Entwickler), um eine anonyme Aktivität mit einem bekannten Datensatz zu verknüpfen.
 
    Ein Name in der Datenbank kann mit vielen Cookies verknüpft sein, da Benutzer häufig verschiedene Geräte und Browser verwenden, um Ihre Site zu besuchen.
 

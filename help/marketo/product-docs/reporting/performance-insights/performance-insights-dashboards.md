@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795534
-description: Performance Insights-Dashboards - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Performance-Insights-Dashboards einschließlich Interaktions-, Pipeline- und Umsatzansichten. Messen Sie die Interaktion mit Zielgruppen, die Akquise neuer Namen und die Kanalleistung mit First-Touch- und Multi-Touch-Metriken.
 title: Dashboards zu Performance Insights
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '504'
-ht-degree: 11%
+source-wordcount: '522'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ Erfahren Sie mehr über die verfügbaren Dashboards in MPI.
 
 ## [!UICONTROL Interaktion] {#engagement}
 
-Mit [!UICONTROL &#x200B; Dashboard &#x200B;]Interaktion“ können Sie die Effektivität Ihrer Programme zur Namenserwerbung und zur Namenserwerbung messen.
+Mit [!UICONTROL  Dashboard ]Interaktion“ können Sie die Effektivität Ihrer Programme zur Namenserwerbung und zur Namenserwerbung messen.
 
 ![](assets/two-3.png)
 

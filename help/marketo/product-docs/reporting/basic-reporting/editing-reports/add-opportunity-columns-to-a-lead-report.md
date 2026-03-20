@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360018
-description: Hinzufügen von Opportunity-Spalten zu einem Lead-Bericht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Opportunity-Spalten zu Lead-Berichten hinzufügen, um Opportunity-Statistiken und -Metriken anzuzeigen. Opportunity-Daten anzeigen, einschließlich Beträge, Konversionsraten und Verkaufszyklusinformationen.
 title: Hinzufügen von Opportunity-Spalten zu einem Lead-Bericht
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '295'
 ht-degree: 7%
 
 ---
@@ -39,7 +39,7 @@ Um die Statistiken zu Opportunitys in Ihren Personenberichten anzuzeigen, könne
    >
    >Scrollen Sie nach rechts, um weitere Spalten anzuzeigen.
 
-1. Um Spalten [&#x200B; oder aus dem Bericht zu entfernen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) klicken Sie auf eine beliebige Spaltenüberschrift und wählen Sie **[!UICONTROL Spalten]** aus.
+1. Um Spalten [ oder aus dem Bericht zu entfernen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) klicken Sie auf eine beliebige Spaltenüberschrift und wählen Sie **[!UICONTROL Spalten]** aus.
 
    ![](assets/six.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360399
-description: Erstellen eines Programm-Analyzers - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Programmanalysator in Marketo Engage mithilfe von Create a Program Analyzer erstellen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Erstellen eines Programm-Analyzers
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 2%
+source-wordcount: '304'
+ht-degree: 1%
 
 ---
 
@@ -65,7 +65,7 @@ Entdecken Sie, welche Programme und Kanäle Ihnen den größten Nutzen aus Ihrem
 
 >[!NOTE]
 >
->Viele der Metriken, die Sie im Programm-Analyzer auswählen können, sind für Berechnungen mit Erstkontakt (FT) und Multi-Touch (MT) verfügbar. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution“ zu &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Viele der Metriken, die Sie im Programm-Analyzer auswählen können, sind für Berechnungen mit Erstkontakt (FT) und Multi-Touch (MT) verfügbar. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution“ zu ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 >[!MORELIKETHIS]
 >

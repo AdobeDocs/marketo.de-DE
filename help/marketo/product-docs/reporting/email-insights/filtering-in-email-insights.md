@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099798
-description: Filtern in E-Mail-Einblicken - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie E-Mail-Insights-Daten nach Zielgruppe, Inhalt, Plattform, Gerätetyp und Datumsbereichen filtern. Wenden Sie mehrere Filter an, um in bestimmte Metriken aufzuschlüsseln und die Leistung zu vergleichen.
 title: Filterung in E-Mail Insights
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 5%
+source-wordcount: '200'
+ht-degree: 4%
 
 ---
 

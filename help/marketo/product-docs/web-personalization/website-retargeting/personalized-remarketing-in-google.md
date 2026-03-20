@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720810
-description: Personalisiertes Remarketing in Google - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über personalisiertes Remarketing in Google in Marketo Engage, einschließlich personalisiertem Remarketing in Google. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Personalisiertes Remarketing in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '297'
 ht-degree: 4%
 
 ---
@@ -18,7 +18,7 @@ Personalisiertes Remarketing ermöglicht es Ihnen, mit Ihren Benutzenden erneut 
 >[!PREREQUISITES]
 >
 >* Abschließen der Konfiguration [Retargeting mit  [!DNL Web Personalization] Data](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Google Analytics Lesen Sie [&#x200B; Dokumentation zu Remarketing mit &#x200B;](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645) Hilfe.
+>* Google Analytics Lesen Sie [ Dokumentation zu Remarketing mit ](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645) Hilfe.
 
 ## Erstellen einer Remarketing-Zielgruppe in Google {#creating-a-remarketing-audience-in-google}
 
@@ -34,7 +34,7 @@ Personalisiertes Remarketing ermöglicht es Ihnen, mit Ihren Benutzenden erneut 
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Klicken Sie in Audience Builder auf **[!UICONTROL Sequenzen]** und **[!UICONTROL Suchen der RTP-Daten]** unter [!UICONTROL Benutzerdefinierte Dimensionen], [!UICONTROL UICONTROL [ !]Benutzerdefinierte -Variablen], [!UICONTROL Ereignisse].
+1. Klicken Sie in Audience Builder auf **[!UICONTROL Sequenzen]** und **[!UICONTROL Suchen der RTP-Daten]** unter [!UICONTROL Benutzerdefinierte Dimensionen], [!UICONTROL [!]Benutzerdefinierte UICONTROL-Variablen], [!UICONTROL Ereignisse].
 
 >[!TIP]
 >

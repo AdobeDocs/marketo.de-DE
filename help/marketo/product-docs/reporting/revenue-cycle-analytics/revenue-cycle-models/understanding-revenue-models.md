@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718654
-description: Grundlegendes zu Umsatzmodellen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Verständnis von Umsatzmodellen in Marketo Engage, einschließlich des Verständnisses von Umsatzmodellen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Grundlegendes zu Umsatzmodellen
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
 
 # Grundlegendes zu Umsatzmodellen {#understanding-revenue-models}
 
-Umsatzzyklusmodelle bringen Marketing auf die nächste Stufe. Sie modellieren alle Phasen Ihres gesamten Umsatztrichters - vom ersten Kontakt mit einem Lead bis hin zum gewonnenen Kunden.
+Umsatzzyklusmodelle bringen Marketing auf die nächste Stufe. Sie modellieren alle Stadien Ihres gesamten Umsatzes in funnel - von der ersten Interaktion mit einem Lead bis hin zum erfolgreichen Kunden.
 
 ## Mentales Modell (Wie man über dieses Ding denkt) {#mental-model-how-to-think-about-this-thing}
 

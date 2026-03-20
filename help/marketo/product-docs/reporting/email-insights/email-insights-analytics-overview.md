@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099411
-description: Übersicht über Email Insights Analytics - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Email Insights Analytics, das aggregierte Zeitreihendaten für E-Mail-Versand- und Interaktionsmetriken untersucht. Verwenden Sie Diagramme und geführte Einblicke, um relevante Leistungsfaktoren zu entdecken.
 title: E-Mail Insights-Analyse – Überblick
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 3%
+source-wordcount: '279'
+ht-degree: 2%
 
 ---
 
@@ -55,7 +55,7 @@ Rechts auf der Seite finden Sie anhand geführter Metriken relevante Treiber. Kl
 
 >[!NOTE]
 >
->Sehen Sie [!UICONTROL &#x200B; oben &#x200B;] „Aktualisieren“? Wenn Sie sie sehen, müssen Sie manuell darauf klicken, um das Insights-Modul zu aktualisieren. Sie wird nur angezeigt, wenn Sie Änderungen an Filtern vorgenommen haben, durch die die aktuellen Werte ungültig würden.
+>Sehen Sie [!UICONTROL  oben ] „Aktualisieren“? Wenn Sie sie sehen, müssen Sie manuell darauf klicken, um das Insights-Modul zu aktualisieren. Sie wird nur angezeigt, wenn Sie Änderungen an Filtern vorgenommen haben, durch die die aktuellen Werte ungültig würden.
 
 Sie können auch angeben, was angezeigt wird (von links nach rechts): Alle, Zielgruppe, Inhalte und Plattform.
 

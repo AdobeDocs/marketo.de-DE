@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504218
-description: Benutzerdefinierte RTP-Berichte in Google Universal Analytics - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über benutzerdefinierte RTP-Berichte in Google Universal Analytics in Marketo Engage, einschließlich benutzerdefinierter RTP-Berichte in . Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Benutzerdefinierte RTP-Berichte in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '401'
 ht-degree: 8%
 
 ---
@@ -121,7 +121,7 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Wählen Sie [!UICONTROL &#x200B; Abschnitt &#x200B;] die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
+1. Wählen Sie [!UICONTROL  Abschnitt ] die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 

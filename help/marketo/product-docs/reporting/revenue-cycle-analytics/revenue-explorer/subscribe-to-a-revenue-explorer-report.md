@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360397
-description: Abonnieren eines Revenue Explorer-Berichts - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie einen Revenue Explorer-Bericht in Marketo Engage abonnieren, einschließlich des Abonnierens eines Revenue Explorer. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Abonnieren eines Revenue Explorer-Berichts
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 4%
+source-wordcount: '153'
+ht-degree: 3%
 
 ---
 
@@ -45,4 +45,4 @@ Um Aktualisierungen aus Ihren Revenue Cycle Explorer-Berichten zu erhalten und f
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie[&#x200B; wie Sie alle Berichtsabonnements &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.
+>Erfahren Sie[ wie Sie alle Berichtsabonnements ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.

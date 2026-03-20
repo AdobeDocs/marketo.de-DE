@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360437
-description: Erkunden von Programm- und Kanaldetails mit dem Programm-Analyzer - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Programm- und Kanaldetails mit dem Programm-Analyzer in Marketo Engage, einschließlich „Programm erkunden“. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Erkunden von Programm- und Kanaldetails mit dem Programm-Analyzer
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 4%
+source-wordcount: '209'
+ht-degree: 3%
 
 ---
 
@@ -37,7 +37,7 @@ Detaillierte Programm- und Kanalstatistiken finden Sie im [!UICONTROL Programm-A
 
    >[!NOTE]
    >
-   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, sind für Berechnungen mit Erstkontakt (FT) und Multi-Touch (MT) verfügbar. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution“ zu &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, sind für Berechnungen mit Erstkontakt (FT) und Multi-Touch (MT) verfügbar. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution“ zu ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Um alle Programme in einem Kanal zu vergleichen, klicken Sie auf den Kanalnamen im Popup-Dialogfeld.
 

@@ -1,11 +1,11 @@
 ---
-description: Reporting-Übersicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Marketo Engage-Reporting-Module einschließlich grundlegender Berichte, E-Mail-Einblicke, Leistungseinblicke und erweiterter BI-Analysen. Finden Sie heraus, welche Reporting-Lösung Ihren Anforderungen entspricht.
 title: Berichterstellung – Überblick
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Sie können [Basisberichte](/help/marketo/product-docs/reporting/basic-reporting
 
 ## E-Mail Insights {#email-insights}
 
-Verwenden Sie Analysen und Sendungen , um [leistungsstarke Einblicke“ &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} E-Mails aus historischen Daten zu erhalten.
+Verwenden Sie Analysen und Sendungen , um [leistungsstarke Einblicke“ ](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} E-Mails aus historischen Daten zu erhalten.
 
 ## Performance Insights {#performance-insights}
 
@@ -54,7 +54,7 @@ Zu den Vorteilen der erweiterten BI Analytics-Berichterstellung gehören:
 
 ## Erweiterte Journey-Analyse {#advanced-journey-analytics}
 
-Umsatzzyklusmodelle: Modellieren Sie alle Stadien Ihres gesamten Umsatztrichters und dessen Übergang zwischen diesen Stadien, von der ersten Interaktion mit einem Lead bis hin zum erfolgreichen Kunden.
+Umsatzzyklusmodelle: Modellieren Sie alle Stadien Ihres gesamten Umsatzes in funnel und wie sie zwischen diesen Stadien wechseln, von der ersten Interaktion mit einem Lead bis hin zum erfolgreichen Kunden.
 
 Success Path Analyzer: Erhalten Sie eine visuelle Darstellung der Geschwindigkeit und des Flusses durch Ihr Umsatzzyklusmodell. Für Success Path Analyzer müssen Sie Umsatzzyklusmodelle erstellen.
 

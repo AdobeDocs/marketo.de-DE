@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360394
-description: Daten von Opportunity Influence Analyzer exportieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Opportunity Influence Analyzer-Daten mit dem Export Opportunity Influence Analyzer in Marketo Engage exportieren. Machen Sie den nächsten Schritt selbstbewusst.
 title: Exportieren eines Analyzers für Opportunity-Einfluss
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 7%
+source-wordcount: '147'
+ht-degree: 6%
 
 ---
 
@@ -45,4 +45,4 @@ Um Aktualisierungen aus Ihren Revenue Cycle Explorer-Berichten zu erhalten und f
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie[&#x200B; wie Sie alle Berichtsabonnements &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.
+>Erfahren Sie[ wie Sie alle Berichtsabonnements ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.

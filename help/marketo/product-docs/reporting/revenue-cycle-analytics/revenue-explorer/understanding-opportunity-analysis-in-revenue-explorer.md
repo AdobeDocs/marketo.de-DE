@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951884
-description: Verstehen der Opportunity-Analyse im Umsatz-Explorer - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über das Verständnis der Opportunity-Analyse in Revenue Explorer in Marketo Engage, einschließlich Informationen zu . Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Grundlegendes zur Opportunity-Analyse im Revenue Explorer
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '899'
-ht-degree: 12%
+source-wordcount: '910'
+ht-degree: 11%
 
 ---
 

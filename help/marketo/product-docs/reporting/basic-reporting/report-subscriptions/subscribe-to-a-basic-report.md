@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359987
-description: Abonnieren eines Basisberichts - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie E-Mail-Adressen für Basisberichte abonnieren, um automatische Aktualisierungen zu erhalten und Berichte für Ihr Team freizugeben. Legen Sie die Abonnementhäufigkeit auf der Registerkarte Abonnements fest.
 title: Abonnieren eines Basisberichts
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 14%
+source-wordcount: '143'
+ht-degree: 12%
 
 ---
 
@@ -49,4 +49,4 @@ Um automatische Aktualisierungen eines Basisberichts zu erhalten oder sie freizu
 
    >[!MORELIKETHIS]
    >
-   >Erfahren Sie[&#x200B; wie Sie alle Berichtsabonnements &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.
+   >Erfahren Sie[ wie Sie alle Berichtsabonnements ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.

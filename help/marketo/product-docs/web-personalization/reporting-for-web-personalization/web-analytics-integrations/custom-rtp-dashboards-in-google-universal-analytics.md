@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504238
-description: Benutzerdefinierte RTP-Dashboards in Google Universal Analytics - Dokumentation zu Marketo - Produktdokumentation
+description: Erfahren Sie mehr über benutzerdefinierte RTP-Dashboards in Google Universal Analytics in Marketo Engage, einschließlich benutzerdefinierter RTP-Dashboards in . Machen Sie den nächsten Schritt selbstbewusst.
 title: Benutzerdefinierte RTP-Dashboards in Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '769'
 ht-degree: 2%
 
 ---

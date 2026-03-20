@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719410
-description: Web-Kampagne löschen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie eine Web-Kampagne in Marketo Engage mithilfe von Web-Kampagne löschen delete-a-web-campaign löschen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Löschen einer Web-Kampagne
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '88'
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 11%
    >
    >Um das Auffinden der gewünschten Web-Kampagne zu vereinfachen, verwenden Sie die [Filterfunktion](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Klicken Sie auf der [!UICONTROL Web]&#x200B;**[!UICONTROL Kampagnen]** auf die Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der [!UICONTROL Web]**[!UICONTROL Kampagnen]** auf die Kampagne, die Sie löschen möchten.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

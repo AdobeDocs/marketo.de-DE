@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093041
-description: Bearbeiten von Smart-Listen-Abonnements - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Smart-Listen-Abonnements bearbeiten, indem Sie Empfängerinnen und Empfänger, die Häufigkeit, Spalten, das Endversanddatum und das Format aktualisieren. Nehmen Sie Änderungen direkt auf der Registerkarte Abonnements vor.
 title: Bearbeiten eines Abonnements für eine intelligente Liste
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 7%
+source-wordcount: '214'
+ht-degree: 6%
 
 ---
 

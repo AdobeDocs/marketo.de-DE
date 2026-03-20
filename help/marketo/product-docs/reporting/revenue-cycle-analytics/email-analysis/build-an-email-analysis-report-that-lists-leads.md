@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360407
-description: Erstellen eines E-Mail-Analyseberichts mit einer Liste der Leads - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie mithilfe eines E-Mail-Analyseberichts einen E-Mail-Analysebericht erstellen, der Leads in Marketo Engage auflistet. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Erstellen eines E-Mail-Analyseberichts mit einer Liste der Leads
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '228'
 ht-degree: 7%
 
 ---

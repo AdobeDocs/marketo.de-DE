@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360237
-description: Erzählen Sie die Marketing-Story mit einem Opportunity Influence Analyzer - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Erzählung der Marketing-Story mit einem Opportunity Influence Analyzer in Marketo Engage, einschließlich „Tell the“. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Erzählen einer Marketing-Story mit einem Analyzer für Opportunity-Einfluss
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '355'
 ht-degree: 2%
 
 ---
@@ -25,11 +25,11 @@ Verwenden Sie einen [!UICONTROL Opportunity Influence Analyzer] um die Rolle des
 
    Der [!UICONTROL Opportunity Influence Analyzer] ist eine visuelle Darstellung der Interaktionen und Programm- und Ereigniserfolge, die mit dieser Opportunity verbunden sind. Sehen wir uns das Diagramm an:
 
-   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a43-3a21.png) **Orange Dots** stellen interessante Momente in der Opportunity dar (geöffnete E-Mails, Besuche auf Messen, Downloads von Whitepapers usw.). Größere Punkte zeigen mehr Interaktionen an.
+   * ![ - ](assets/image2014-10-3-13-3a43-3a21.png) **Orange Dots** stellen interessante Momente in der Opportunity dar (geöffnete E-Mails, Besuche auf Messen, Downloads von Whitepapers usw.). Größere Punkte zeigen mehr Interaktionen an.
 
-   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a44-3a9.png) **Binder-Symbole** zeigen Programmerfolge an.
+   * ![ - ](assets/image2014-10-3-13-3a44-3a9.png) **Binder-Symbole** zeigen Programmerfolge an.
 
-   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a44-3a40.png) **Kalendersymbole** weisen auf erfolgreiche Ereignisse hin.
+   * ![ - ](assets/image2014-10-3-13-3a44-3a40.png) **Kalendersymbole** weisen auf erfolgreiche Ereignisse hin.
 
    * **Opportunity-Zeitraum**. Die grüne Fläche stellt die Chance selbst dar, von der Schaffung der Chance bis zum Abschluss der Chance (gewonnen oder verloren).
 
@@ -39,7 +39,7 @@ Verwenden Sie einen [!UICONTROL Opportunity Influence Analyzer] um die Rolle des
 
    * Die **Zahl in Klammern** ist die Anzahl der Interaktionen mit diesem Kontakt.
 
-   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a45-3a9.png)Der **gelbe Stern** zeigt den Hauptkontakt an.
+   * ![ - ](assets/image2014-10-3-13-3a45-3a9.png)Der **gelbe Stern** zeigt den Hauptkontakt an.
 
 1. Bewegen Sie den Mauszeiger über einen Namen, um die Stellenbezeichnung der Person und die Quelle ihrer Beteiligung an der Opportunity anzuzeigen.
 

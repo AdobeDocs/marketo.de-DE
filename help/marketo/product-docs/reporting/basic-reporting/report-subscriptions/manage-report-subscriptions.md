@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359991
-description: Berichtsabonnements verwalten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie alle Berichtsabonnements über die Registerkarte Analytics-Abonnements zentral verwalten. Bearbeiten Sie Häufigkeit, Empfänger und Einstellungen oder löschen Sie Abonnements nach Bedarf.
 title: Verwalten von Berichtsabonnements
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 3%
 
 ---
 

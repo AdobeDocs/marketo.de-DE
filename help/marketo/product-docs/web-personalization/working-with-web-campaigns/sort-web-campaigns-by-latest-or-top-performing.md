@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951252
-description: Sortieren von Web-Kampagnen nach dem neuesten oder leistungsstärksten Produkt - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Web-Kampagnen in Marketo Engage mithilfe von Web-Kampagnen nach dem neuesten oder besten Ergebnis sortieren. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Sortieren von Web-Kampagnen nach den neuesten oder leistungsstärksten Kampagnen
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 17%
+source-wordcount: '106'
+ht-degree: 15%
 
 ---
 

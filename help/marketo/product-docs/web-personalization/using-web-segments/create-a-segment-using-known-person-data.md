@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504343
-description: Erstellen eines Segments mithilfe von Daten zu bekannten Personen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Marketo Engage mithilfe von Daten zu bekannten Personen ein Segment erstellen und dabei ein Segment mithilfe von bekannten Personen erstellen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Erstellen eines Segments mit Daten einer bekannten Person
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 10%
+source-wordcount: '201'
+ht-degree: 9%
 
 ---
 

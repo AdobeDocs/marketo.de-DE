@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360008
-description: Anzeigen von Personen oder anonymen Besuchern in Web-Berichten - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie in Web-Berichten in Marketo Engage Personen oder anonyme Besucher anzeigen, einschließlich „Personen anzeigen“ oder „Personen anzeigen“. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Anzeigen von Personen oder anonymen Besuchenden in Web-Berichten
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 10%
+source-wordcount: '170'
+ht-degree: 9%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 10%
 >
 >[Fügen Sie Ihrer Website Munchkin-Trackingcode hinzu](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-In den Berichten [[!UICONTROL Web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Seitenaktivität und [[!UICONTROL Unternehmens]Webaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) können Sie entweder ([&#x200B; Personen oder anonyme Besucher) sehen, &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) Ihre Site besuchen. Die anonymen Besucher haben auf Daten wie Metro Area geschlossen.  So wählen Sie aus, ob der Bericht bekannte Leads oder anonyme Besucher anzeigen soll.
+In den Berichten [[!UICONTROL Web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Seitenaktivität und [[!UICONTROL Unternehmens]Webaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) können Sie entweder ([ Personen oder anonyme Besucher) sehen, ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) Ihre Site besuchen. Die anonymen Besucher haben auf Daten wie Metro Area geschlossen.  So wählen Sie aus, ob der Bericht bekannte Leads oder anonyme Besucher anzeigen soll.
 
-1. Klicken Sie [!UICONTROL &#x200B; Bericht „Webseitenaktivität] auf **[!UICONTROL Setup]**.
+1. Klicken Sie [!UICONTROL  Bericht „Webseitenaktivität] auf **[!UICONTROL Setup]**.
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 

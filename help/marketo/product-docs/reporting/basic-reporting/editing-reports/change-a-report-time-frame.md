@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359968
-description: Ändern des Zeitrahmens für Berichte - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den von Ihrem Bericht abgedeckten Zeitraum so ändern, dass er sich auf bestimmte Aktivitätsdaten konzentriert. Legen Sie benutzerdefinierte Datumsbereiche fest oder verwenden Sie vordefinierte Zeitrahmen auf der Registerkarte „Setup“.
 title: Ändern des Berichtszeitrahmens
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 6%
+source-wordcount: '181'
+ht-degree: 5%
 
 ---
 

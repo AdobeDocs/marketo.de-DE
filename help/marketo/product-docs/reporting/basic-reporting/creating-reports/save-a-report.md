@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511980
-description: Speichern eines Berichts - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Standardberichte speichern, um sie später erneut anzuzeigen, indem Sie in den Berichtsaktionen „Speichern unter“ auswählen. Organisieren von gespeicherten Berichten in Ordnern in „Meine Berichte“ oder „Gruppenberichte“.
 title: Speichern eines Berichts
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 7%
+source-wordcount: '102'
+ht-degree: 5%
 
 ---
 

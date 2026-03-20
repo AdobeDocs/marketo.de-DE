@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719179
-description: Verwenden des Rich-Text-Editors für Web-Personalization - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie den Rich-Text-Editor für die Web-Personalisierung in Marketo Engage mithilfe der DNL-Web-Personalisierung verwenden. Machen Sie den nächsten Schritt selbstbewusst.
 title: Verwenden des Rich-Text-Editors für Web-Personalisierung
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 10%
+source-wordcount: '193'
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ Zu den wichtigen Symbolen im Rich-Text-Editor gehören:
 <table>
  <tbody>
   <tr>
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><img alt="--" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
    <td colspan="1"><strong>HTML-Quelle bearbeiten</strong></td>
    <td colspan="1">Ermöglicht die Anzeige des HTML-Quell-Codes</td>
   </tr>

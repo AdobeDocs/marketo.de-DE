@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979012
-description: Filtern in „Leistungseinblicke“ - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Performance Insights-Daten nach ABM-Kontolisten, benutzerdefinierten Attributen, Opportunity-Typ, Programm-Tags und Arbeitsbereich filtern können. Anwenden mehrerer Filter auf abfragespezifische Informationen und Aktualisieren von Diagrammen.
 title: Filtern in Performance Insights
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '331'
 ht-degree: 5%
 
 ---

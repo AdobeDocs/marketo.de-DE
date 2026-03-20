@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472328
-description: Bericht aktualisieren - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Berichte manuell aktualisieren können, um die neuesten Daten zu erhalten, auch wenn Berichte alle 24 Stunden automatisch aktualisiert werden. Verwenden Sie die Schaltfläche „Aktualisieren“ oder das Menü „Berichtsaktionen“, um die Ergebnisse zu aktualisieren.
 title: Aktualisieren eines Berichts
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 4%
 
 ---
 

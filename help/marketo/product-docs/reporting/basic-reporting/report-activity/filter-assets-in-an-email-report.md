@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360225
-description: Filtern von Assets in einem E-Mail-Bericht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Assets in einem E-Mail-Bericht in Marketo Engage mithilfe von Filtern von Assets in einem E-Mail-Bericht filtern. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Filtern von Assets in einem E-Mail-Bericht
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '189'
 ht-degree: 6%
 
 ---
 
 # Filtern von Assets in einem E-Mail-Bericht {#filter-assets-in-an-email-report}
 
-Konzentrieren Sie Ihren Bericht [E](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)Mail-Performance[&#x200B; oder E-Mail-Link-Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) auf E-Mails in Ihren Programmen („lokale Assets„), auf diejenigen in Design Studio („globale Assets„) oder auf diejenigen, die archiviert wurden.
+Konzentrieren Sie Ihren Bericht [E](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)Mail-Performance[ oder E-Mail-Link-Performance](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) auf E-Mails in Ihren Programmen („lokale Assets„), auf diejenigen in Design Studio („globale Assets„) oder auf diejenigen, die archiviert wurden.
 
 >[!NOTE]
 >

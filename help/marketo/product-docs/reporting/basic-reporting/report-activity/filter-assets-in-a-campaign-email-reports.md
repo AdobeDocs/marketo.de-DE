@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360227
-description: Filtern von Assets in E-Mail-Berichten in Campaign - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Assets in Kampagnen-E-Mail-Berichten in Marketo Engage filtern können, indem Sie Assets in einer Kampagnen-E-Mail filtern. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Filtern von Assets in E-Mail-Berichten zu Kampagnen
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 7%
 
 ---
 

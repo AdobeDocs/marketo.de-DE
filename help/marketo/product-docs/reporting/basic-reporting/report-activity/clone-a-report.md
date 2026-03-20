@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360028
-description: Klonen eines Berichts - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie Berichte klonen können, um Duplikate zur Anpassung zu erstellen, ohne das Original zu ändern. Verwenden Sie Berichtsaktionen oder klicken Sie mit der rechten Maustaste, um Ihren neuen Bericht zu klonen und zu benennen.
 title: Klonen eines Berichts
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 6%
 
 ---
 

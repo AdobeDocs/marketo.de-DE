@@ -1,11 +1,11 @@
 ---
-description: Metriken und Dimensionen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über verfügbare Metriken und Dimensionen für erweiterte BI-Analytics-Berichte einschließlich E-Mail-, Lead-, Programm- und Opportunity-Analyse. Erstellen benutzerdefinierter Berichte mithilfe dieser Datenelemente.
 title: Metriken und Dimensionen
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1058'
 ht-degree: 28%
 
 ---

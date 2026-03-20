@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359971
-description: Web-Seiten-Aktivitätsbericht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über Web-Seiten-Aktivitätsberichte, die mit detaillierten Besucherinformationen zeigen, wer Ihre Website besucht. Bekannte oder anonyme Personen anzeigen und Seitenansichten, Einstiegsseiten und Referrer verfolgen.
 title: Aktivitätsbericht zu Web-Seiten
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 6%
+source-wordcount: '344'
+ht-degree: 5%
 
 ---
 
@@ -22,7 +22,7 @@ Sie können festlegen, dass bekannte Personen oder anonyme Personen angezeigt we
 >* [Fügen Sie Ihrer Website Munchkin-Trackingcode hinzu](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
 1. [Erstellen eines Berichts](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **Webseitenaktivitätsbericht** [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
-1. Wählen Sie aus[&#x200B; dass bekannte oder anonyme Personen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"} Bericht angezeigt werden sollen.
+1. Wählen Sie aus[ dass bekannte oder anonyme Personen ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"} Bericht angezeigt werden sollen.
 
 1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} und klicken Sie auf die Registerkarte **Bericht**.
 
@@ -36,9 +36,9 @@ Sie können festlegen, dass bekannte Personen oder anonyme Personen angezeigt we
 
    >[!TIP]
    >
-   >Um herauszufinden, wer Ihre Site am häufigsten besucht, wählen [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} in der Spalte _Seitenansichten_ die Option Absteigend sortieren aus.
+   >Um herauszufinden, wer Ihre Site am häufigsten besucht, wählen [ ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} in der Spalte _Seitenansichten_ die Option Absteigend sortieren aus.
 
-   [Marketo fügt Ihrer &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} anonyme Website-Besucher hinzu, die Sie in diesem Bericht anzeigen können. Es bietet eine Fülle von Informationen, obwohl sie anonym sind.
+   [Marketo fügt Ihrer ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} anonyme Website-Besucher hinzu, die Sie in diesem Bericht anzeigen können. Es bietet eine Fülle von Informationen, obwohl sie anonym sind.
    [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} für einen Web-Seiten-Aktivitätsbericht umfassen:
 
 <table>
@@ -82,7 +82,7 @@ Sie können festlegen, dass bekannte Personen oder anonyme Personen angezeigt we
 
 >[!TIP]
 >
->Begeistern Sie Ihre Vertriebsmitarbeiter! [Filtern Sie den Bericht nach &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} Gebiet und [abonnieren Sie ihn](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
+>Begeistern Sie Ihre Vertriebsmitarbeiter! [Filtern Sie den Bericht nach ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} Gebiet und [abonnieren Sie ihn](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
 
 >[!MORELIKETHIS]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099408
-description: E-Mail-Einblicke - Übersicht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über E-Mail-Einblicke, die leistungsstarke Analysen von historischen E-Mail-Daten über die Abschnitte Analytics und Sendungen bieten. Erkunden Sie Versand- und Interaktionsmetriken mit erweiterten Filteroptionen.
 title: E-Mail Insights – Überblick
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 4%
+source-wordcount: '233'
+ht-degree: 3%
 
 ---
 
@@ -31,7 +31,7 @@ Verwenden Sie [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/emai
 
 **Filter**
 
-Erweiterte [Filter) zur &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) der Ergebnisse nach Zielgruppe, Inhalt oder Plattform verwendet. Die gleichen Filter gelten sowohl für [!UICONTROL Analytics] als auch für [!UICONTROL Sendungen].
+Erweiterte [Filter) zur ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) der Ergebnisse nach Zielgruppe, Inhalt oder Plattform verwendet. Die gleichen Filter gelten sowohl für [!UICONTROL Analytics] als auch für [!UICONTROL Sendungen].
 
 ![](assets/filter.png)
 
@@ -43,7 +43,7 @@ Erweiterte [Filter) zur &#x200B;](/help/marketo/product-docs/reporting/email-ins
 
 ## [!UICONTROL sendet] {#sends}
 
-Untersuchen Sie auf [[!UICONTROL &#x200B; Seite &#x200B;]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
+Untersuchen Sie auf [[!UICONTROL  Seite ]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
 
 ![](assets/two.png)
 

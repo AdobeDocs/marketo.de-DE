@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949158
-description: Integrieren von RTP mit Google Analytics - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie RTP mit Google Analytics in Marketo Engage integrieren, indem Sie RTP mit Google Analytics integrieren. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Integrieren von RTP mit Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '596'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >In diesem Artikel wird gezeigt, wie Sie die alte Google-Standardanalyse verwenden. Wir empfehlen jedoch, zu Universal Analytics zu wechseln.
 >
->Wenn Sie den Trackingcode „analytics.js[&#x200B; noch nicht verwenden, &#x200B;](https://developers.google.com/analytics/devguides/collection/analyticsjs/) Google dringend, Ihre Site neu zu taggen, um ihn zu verwenden. Folgende Elemente werden von Google nicht mehr unterstützt:
+>Wenn Sie den Trackingcode „analytics.js[ noch nicht verwenden, ](https://developers.google.com/analytics/devguides/collection/analyticsjs/) Google dringend, Ihre Site neu zu taggen, um ihn zu verwenden. Folgende Elemente werden von Google nicht mehr unterstützt:
 >
 >* ga.js
 >* urchin.js
@@ -84,7 +84,7 @@ Messen Sie Ihre RTP-Kampagnen und korrelieren Sie sie mit Ihrem gesamten Website
 
 >[!NOTE]
 >
->Um Segmentdaten an GA zu senden, aktivieren Sie auf der Seite [[!UICONTROL Segment bearbeiten] in &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) RTP-Plattform das Kontrollkästchen **[!UICONTROL Ereignis an Google Analytics senden bei Segment Match]**.
+>Um Segmentdaten an GA zu senden, aktivieren Sie auf der Seite [[!UICONTROL Segment bearbeiten] in ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) RTP-Plattform das Kontrollkästchen **[!UICONTROL Ereignis an Google Analytics senden bei Segment Match]**.
 
 ## Einrichten von Google Analytics-Berichten mit RTP-Daten {#setting-up-google-analytics-reports-with-rtp-data}
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720149
-description: Implementieren von RTP in WordPress - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Implementierung von RTP in WordPress in Marketo Engage, einschließlich der Implementierung von RTP in DNL WordPress. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Implementieren von RTP in WordPress
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '200'
 ht-degree: 2%
 
 ---
 
 # Implementieren von RTP in [!DNL Wordpress] {#implementing-rtp-on-wordpress}
 
-Um Ihr [!UICONTROL RTP-Tag &#x200B;] implementieren, folgen Sie den folgenden Installationsanweisungen:
+Um Ihr [!UICONTROL RTP-Tag ] implementieren, folgen Sie den folgenden Installationsanweisungen:
 
 1. Öffnen Sie die Datei **header.php** Ihres **[!DNL WordPress]Designs**.
 

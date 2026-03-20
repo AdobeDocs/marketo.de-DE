@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099413
-description: Übersicht über E-Mail-Einblicke - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Seite „E-Mail-Einblicke senden“, die die Eigenschaften aktueller E-Mail-Nachrichten untersucht. Anzeigen von Versandmetriken, Interaktionsmetriken und Interaktionswerten für Ihre gesendeten E-Mails.
 title: Sendungen mit E-Mail Insights – Überblick
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '190'
 ht-degree: 4%
 
 ---
 
 # Sendungen mit E-Mail Insights – Überblick {#email-insights-sends-overview}
 
-Untersuchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
+Untersuchen Sie auf [!UICONTROL  Seite ]Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
 
 ![](assets/one.png)
 

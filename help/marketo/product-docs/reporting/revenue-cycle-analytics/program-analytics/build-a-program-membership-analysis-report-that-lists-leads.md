@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360405
-description: Erstellen eines Berichts zur Programmmitgliedschaftsanalyse, in dem Leads aufgelistet sind - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie, wie Sie mithilfe von „Programm erstellen“ einen Bericht zur Analyse der Programmmitgliedschaft erstellen, der Leads in Marketo Engage auflistet. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Erstellen eines Berichts zur Programmmitgliedschaftsanalyse, in dem Leads aufgelistet sind
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 11%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 

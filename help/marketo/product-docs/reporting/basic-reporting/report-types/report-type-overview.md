@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359965
-description: Übersicht über Berichtstypen - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die verfügbaren Berichtstypen, einschließlich der Berichte Personenleistung, E-Mail-Leistung, Kampagnen-E-Mail-Leistung und Web-Aktivität. Wählen Sie den richtigen Berichtstyp für Ihre Analyseanforderungen.
 title: Überblick über Berichtstypen
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 21%
+source-wordcount: '235'
+ht-degree: 20%
 
 ---
 
@@ -47,7 +47,7 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Bericht zu Personen nach Umsatzphase</a></strong></td>
-   <td>Grundlegende Berichte für Ihr Umsatzmodell. Siehe <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td>
+   <td>Grundlegende Berichte für Ihr Umsatzmodell. Siehe <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Landing Page-Leistung</a>  </strong></td>
@@ -55,7 +55,7 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programmleistung</a>  </strong></td>
-   <td>Grundlegende Programmmetriken wie Mitglieder und Erfolg. Siehe <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td>
+   <td>Grundlegende Programmmetriken wie Mitglieder und Erfolg. Siehe <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Umsatzzyklusanalyse</a> für detailliertere Berichte.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Unternehmens-Webaktivität</a></strong></td>
@@ -67,11 +67,11 @@ Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Leistungsbericht für Interaktionsströme</a> </strong></td>
-   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td>
+   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Kampagnen-E-Mail-Leistung</a> </strong></td>
-   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td>
+   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td>
   </tr>
  </tbody>
 </table>

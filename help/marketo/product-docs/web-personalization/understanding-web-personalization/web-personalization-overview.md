@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571900
-description: Übersicht über Web Personalization - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die Funktionen von Web Personalization, einschließlich Web-Kampagnen, Account-basiertem Web-Marketing, Website-Retargeting und ContentAI. Erste Schritte mit personalisierten Web-Erlebnissen und Besuchereinblicken.
 title: Web-Personalisierung – Überblick
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '866'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Die **[!UICONTROL Web Personalization]**-Kachel ist Ihr Zugriffspunkt zum Erstel
 
 >[!NOTE]
 >
->Um auf [!UICONTROL Account-Based Web &#x200B;] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
+>Um auf [!UICONTROL Account-Based Web ] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
 
 ## Organisationen {#organizations}
 

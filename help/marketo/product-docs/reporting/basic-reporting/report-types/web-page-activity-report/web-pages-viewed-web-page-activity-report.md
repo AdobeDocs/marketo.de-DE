@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360052
-description: Angezeigte Web-Seiten, Web-Seiten-Aktivitätsbericht - Marketo-Dokumente - Produktdokumentation
+description: Erfahren Sie mehr über die aufgerufenen Web-Seiten, den Aktivitätsbericht für Web-Seiten in Marketo Engage, einschließlich der aufgerufenen Web-Seiten, Web-Seite. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
 title: Bericht zu angezeigten Web-Seiten und Web-Seiten-Aktivitäten
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 11%
 
 ---
 
@@ -19,7 +19,7 @@ In einem [[!UICONTROL Web-]-Bericht](/help/marketo/product-docs/reporting/basic-
 >
 >Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [auf  [!DNL Munchkin]  Website einrichten](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. Klicken Sie [&#x200B; Bericht „Webseitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) auf den Namen der Person.
+1. Klicken Sie [ Bericht „Webseitenaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) auf den Namen der Person.
 
    ![](assets/web-pages-viewed-web-page-activity-report-1.png)
 
