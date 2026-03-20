@@ -27,13 +27,13 @@ Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein 
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL  B. ], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
+1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL &#x200B; B. &#x200B;], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
    >[!NOTE]
    >
-   >Die Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie beim Erstellen [ Kategorien festgelegt ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >Die Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie beim Erstellen [&#x200B; Kategorien festgelegt &#x200B;](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
 1. Klicken Sie auf **+**, um einen weiteren Pfad hinzuzufügen.
 

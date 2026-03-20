@@ -17,7 +17,7 @@ Sie können die Genehmigung eines Titels für prädiktive Inhalte auf Ihrer [!UI
 
 ## [!UICONTROL Alle Inhalte] Seite {#all-content-page}
 
-1. Aktivieren Sie auf [!UICONTROL  Seite ]Alle Inhalte“ das Kontrollkästchen neben dem Inhaltselement, um es auszuwählen.
+1. Aktivieren Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Alle Inhalte“ das Kontrollkästchen neben dem Inhaltselement, um es auszuwählen.
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 

@@ -25,7 +25,7 @@ Klicken Sie auf der Zusammenfassungsseite auf **[!UICONTROL Analytics]**.
 
 ![](assets/one.png)
 
-[!UICONTROL Analytics] umfasst mehrere Abschnitte: [!UICONTROL Top-Inhalte nach ], [!UICONTROL Top-Inhalte nach Konversionsrate], [!UICONTROL Trending-Inhalte] [!UICONTROL Vorgeschlagene Inhalte] und [!UICONTROL Inhalte].
+[!UICONTROL Analytics] umfasst mehrere Abschnitte: [!UICONTROL Top-Inhalte nach &#x200B;], [!UICONTROL Top-Inhalte nach Konversionsrate], [!UICONTROL Trending-Inhalte] [!UICONTROL Vorgeschlagene Inhalte] und [!UICONTROL Inhalte].
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ Klicken Sie auf die Schaltfläche Exportieren , um die Ergebnisse dieses Abschni
 
 ![](assets/new-3point5.png)
 
-Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B[!UICONTROL  „ABM-]&quot;, [!UICONTROL Land] usw.).
+Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B[!UICONTROL &#x200B; „ABM-]&quot;, [!UICONTROL Land] usw.).
 
 ![](assets/pca.png)
 

@@ -17,7 +17,7 @@ So richten Sie Ihre prädiktiven Inhalte für die Empfehlungsleiste ein.
 
 >[!PREREQUISITES]
 >
->Inhalte müssen auf [ Seite „Alle Inhalte“ für ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) Inhalte genehmigt werden.
+>Inhalte müssen auf [&#x200B; Seite „Alle Inhalte“ für &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) Inhalte genehmigt werden.
 
 1. Klicken Sie auf der **[!UICONTROL Prädiktiver Inhalt]**-Seite auf einen Titel, um den Editor zu öffnen.
 

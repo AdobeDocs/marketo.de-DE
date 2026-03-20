@@ -37,10 +37,10 @@ Sie können Titel für prädiktive Inhalte auch direkt im Popup [!UICONTROL Inha
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
-Unabhängig davon, welche Methode Sie verwenden[!UICONTROL  wird das Symbol „Für prädiktiven Inhalt ]&quot; jetzt in der Zeile angezeigt.
+Unabhängig davon, welche Methode Sie verwenden[!UICONTROL &#x200B; wird das Symbol „Für prädiktiven Inhalt &#x200B;]&quot; jetzt in der Zeile angezeigt.
 
 ![](assets/five.png)
 
-Jetzt können Sie den Titel auf der Seite &quot;[!UICONTROL &quot; ] sehen.
+Jetzt können Sie den Titel auf der Seite &quot;[!UICONTROL &quot; &#x200B;] sehen.
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)
