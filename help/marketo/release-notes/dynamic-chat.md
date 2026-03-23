@@ -3,10 +3,10 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 48f78a3f071cae40f788b647c6da48df903a6057
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '3438'
-ht-degree: 99%
+source-wordcount: '3474'
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,13 @@ Die Standardseite mit den Versionshinweisen für Marketo Engage [finden Sie hier
 
 ## Version März 2026 {#march-2026-release}
 
+### Wartezeit des Besuchers {#visitor-wait-time}
+
+Legen Sie eine maximale Zeit (zwischen 10 und 500 Sekunden) fest, die ein Besucher wartet, bis er mit einem Live Agent verbunden ist, bevor der Besucher eine Ausweichnachricht erhält. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+
 ### Transkript herunterladen {#download-transcript}
 
-Sie können jetzt eine TXT-Datei Ihres Chat-Transkripts herunterladen, nachdem ein Live-Chat beendet wurde. [Weitere Infos](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Sie können jetzt eine TXT-Datei Ihres Chat-Transkripts herunterladen, nachdem ein Live-Chat beendet wurde. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version Juni 2025 {#june-2025-release}
 
@@ -110,7 +114,7 @@ Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine ge
 
 <p>
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 <table><thead>
   <tr>
@@ -136,7 +140,7 @@ _&#x200B;**Konto-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
+_**Benutzerdefiniertes Routing**_
 
 <table><thead>
   <tr>
@@ -162,7 +166,7 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Team-Routing**&#x200B;_
+_**Team-Routing**_
 
 <table><thead>
   <tr>
@@ -188,7 +192,7 @@ _&#x200B;**Team-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round-Robin-Routing**&#x200B;_
+_**Round-Robin-Routing**_
 
 <table><thead>
   <tr>

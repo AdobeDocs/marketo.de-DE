@@ -3,10 +3,10 @@ description: Erfahren Sie mehr über die Agentenverwaltung in Dynamic Chat. Agen
 title: Agentenverwaltung
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 2%
+source-wordcount: '364'
+ht-degree: 3%
 
 ---
 
@@ -77,3 +77,17 @@ Wählen Sie eine Standardnachricht (System) aus oder schreiben Sie eine benutzer
 >[!TIP]
 >
 >Beim Erstellen einer benutzerdefinierten Nachricht können Sie die Schriftart gestalten, Links verwenden oder sogar Emojis einfügen! `:)`
+
+## Einstellungen {#settings}
+
+### Limit für gleichzeitige Livechats {#concurrent-live-chat}
+
+Legen Sie die Anzahl der gleichzeitigen aktiven Chats fest, die ein Agent gleichzeitig ausführen kann. Kann zwischen 1 und 10 eingestellt werden.
+
+![](assets/agent-management-10.png)
+
+### Wartezeit des Besuchers {#visitor-wait-time}
+
+Legen Sie fest, wie lange ein Besucher maximal (in Sekunden) warten soll, bis er mit einem Live Agent verbunden wird, bevor er eine Fallback-Nachricht erhält. Einstellung zwischen 10 und 500 Sekunden.
+
+![](assets/agent-management-11.png)
