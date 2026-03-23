@@ -6,9 +6,9 @@ description: Erfahren Sie, wie Sie mit dem KI-Assistenten Text und Bilder zu E-M
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 750af291d324acc188cb0fe2693507c156d09c0d
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '876'
 ht-degree: 9%
 
 ---
@@ -24,6 +24,8 @@ Der KI-Assistent in der Marketo Engage Email Designer hilft Ihnen beim Erstellen
 ## Berechtigungen einrichten {#set-up-permissions}
 
 _Nach_ der oben genannten Voraussetzung müssen Marketo-Admins Zugriff auf bestimmte Benutzende/Rollen anwenden, bevor Benutzende die GenAI-Schaltflächen sehen.
+
++++Erfahren Sie, wie Sie Berechtigungen einrichten
 
 1. Klicken Sie in Marketo Engage auf **Admin** und wählen Sie **Benutzer und Rollen** aus.
 
@@ -45,6 +47,8 @@ _Nach_ der oben genannten Voraussetzung müssen Marketo-Admins Zugriff auf besti
 
    ![](assets/use-the-ai-assistant-0e.png)
 
++++
+
 ## Anwendungsszenarien {#use-cases}
 
 Es gibt drei primäre Anwendungsfälle für AI Assistant:
@@ -59,7 +63,7 @@ Wenn eine E-Mail mit der neuen E-Mail-Designer erstellt wird, geben Sie eine tem
 
 ![](assets/use-the-ai-assistant-1.png)
 
-Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![&#x200B; ( &#x200B;](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
+Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![ ( ](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
 
 ![](assets/use-the-ai-assistant-2.png)
 
@@ -119,19 +123,27 @@ Nachdem die E-Mail erstellt wurde, haben Sie die Möglichkeit, bestimmte Abschni
 
 ![](assets/use-the-ai-assistant-7.png)
 
-In diesem Beispiel verwenden wir eine Gesundheitsvorlage. Wenn das vorhandene Bild des Gesundheitsexperten nicht Ihren Anforderungen entspricht, können Sie den KI-Assistenten anweisen, ein eigenes Bild eines Gesundheitsexperten zu erstellen. Wählen Sie einfach den Bildinhalt aus und klicken Sie dann auf KI-Assistent.
+In diesem Beispiel verwenden wir eine Finanzvorlage. Wenn eines oder mehrere der vorhandenen Bilder Ihre Anforderungen nicht erfüllen, können Sie den KI-Assistenten anweisen, ein neues Bild basierend auf Ihrer Beschreibung zu erstellen. Wählen Sie das gewünschte Bild aus und klicken Sie auf das Symbol KI-Assistent .
 
 ![](assets/use-the-ai-assistant-8.png)
 
-Geben Sie die relevanten Details in der Eingabeaufforderung ein, z. B. „Bild für einen Gesundheitsexperten generieren“, und fügen Sie die gewünschte Anpassung hinzu. Sie können auch die Bibliothek der Eingabeaufforderung (rechts neben der Eingabeaufforderung) verwenden, wenn Sie sich nicht sicher sind, was Sie eingeben sollen.
-
-Nach dem Klicken auf **Generieren** werden mehrere Varianten erstellt, aus denen Sie wählen können.
+Geben Sie die entsprechenden Details in der Eingabeaufforderung ein, z. B. „Ein Banker sitzt mit Bargeld an seinem Schreibtisch.“ Sie können auch die Bibliothek der Eingabeaufforderung (rechts neben der Eingabeaufforderung) verwenden, wenn Sie sich nicht sicher sind, was Sie eingeben sollen. Klicken Sie **Bildeinstellungen**.
 
 ![](assets/use-the-ai-assistant-9.png)
 
-Ähnlich wie Bilder können auch Textabschnitte der E-Mail geändert werden.
+Klicken Sie auf den Umschalter, um _Bilder mit KI generieren_ zu aktivieren und dann alle gewünschten Einstellungen zu ändern, einschließlich des zu verwendenden Modells (Adobe Firefly oder Gemini 2.5 Nano Banana). Klicken Sie abschließend auf **Generieren**.
 
 ![](assets/use-the-ai-assistant-10.png)
+
+Es werden mehrere Varianten erstellt. Wählen Sie Ihren Favoriten und klicken Sie auf **Übernehmen**.
+
+![](assets/use-the-ai-assistant-11.png)
+
+>[!NOTE]
+>
+>Wenn keines der Bilder Ihren Anforderungen entspricht, klicken Sie erneut **Generieren**, um neue Versionen zu erstellen.
+
+Ähnlich wie Bilder können auch Textabschnitte der E-Mail geändert werden.
 
 ## Gesamte E-Mail aus einer ausgewählten Vorlage erstellen {#create-an-entire-email}
 
@@ -139,18 +151,18 @@ Diese Option ist nur verfügbar, wenn die E-Mail mit einer vorhandenen Vorlage e
 
 Wählen Sie eine Vorlage aus, ohne eine Komponente in der Vorlage auszuwählen, und klicken Sie in der E-Mail-Designer auf die Schaltfläche KI-Assistent .
 
-![](assets/use-the-ai-assistant-11.png)
+![](assets/use-the-ai-assistant-12.png)
 
 Geben Sie die entsprechende Eingabeaufforderung ein und wählen Sie die Texteinstellungen, Marken-Assets und alle Bildeinstellungen aus, die Sie für Ihre E-Mail benötigen.
 
-![](assets/use-the-ai-assistant-12.png)
+![](assets/use-the-ai-assistant-13.png)
 
 Wenn Sie Bilder mit Firefly generieren möchten, wählen Sie die Bildeinstellungen aus und klicken Sie auf den Umschalter für **Bilder mit KI generieren**.
 
-![](assets/use-the-ai-assistant-13.png)
+![](assets/use-the-ai-assistant-14.png)
 
 Wählen Sie den gewünschten _Inhaltstyp_, _Farbe und Ton_, _Beleuchtung_ und _Komposition_ aus, um Gen-AI-Bilder für Ihre E-Mail zu erstellen. Klicken Sie abschließend **Generieren**.
 
-![](assets/use-the-ai-assistant-14.png)
+![](assets/use-the-ai-assistant-15.png)
 
 Sehen Sie, wie eine Variante in Ihrer E-Mail aussieht, indem Sie auf **Vorschau** klicken. Wählen Sie eine Variante aus, indem Sie auf **Übernehmen** klicken.
