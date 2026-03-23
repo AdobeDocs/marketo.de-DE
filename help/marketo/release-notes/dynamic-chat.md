@@ -20,11 +20,11 @@ Die Standardseite mit den Versionshinweisen für Marketo Engage [finden Sie hier
 
 ### Wartezeit des Besuchers {#visitor-wait-time}
 
-Legen Sie eine maximale Zeit (zwischen 10 und 500 Sekunden) fest, die ein Besucher wartet, bis er mit einem Live Agent verbunden ist, bevor der Besucher eine Ausweichnachricht erhält. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Legen Sie eine maximale Zeit (zwischen 10 und 500 Sekunden) fest, die ein Besucher wartet, bis er mit einem Live Agent verbunden ist, bevor der Besucher eine Ausweichnachricht erhält. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Transkript herunterladen {#download-transcript}
 
-Sie können jetzt eine TXT-Datei Ihres Chat-Transkripts herunterladen, nachdem ein Live-Chat beendet wurde. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Sie können jetzt eine TXT-Datei Ihres Chat-Transkripts herunterladen, nachdem ein Live-Chat beendet wurde. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version Juni 2025 {#june-2025-release}
 
