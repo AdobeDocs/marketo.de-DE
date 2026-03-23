@@ -22,7 +22,7 @@ Vergewissern Sie sich, dass Sie in der Marketo Engage-Community ordnungsgemäß 
 
 * Lesen Sie mehr über die [**Community-Richtlinien für Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
 
-* Erfahren Sie, wie [**einen Support-Fall einreichen**](https://experienceleague.adobe.com/en/support#home){target="_blank"} und bestätigen Sie, dass Sie als [Support-Administrator“ eingerichtet ](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
+* Erfahren Sie, wie [**einen Support-Fall einreichen**](https://experienceleague.adobe.com/en/support#home){target="_blank"} und bestätigen Sie, dass Sie als [Support-Administrator“ eingerichtet &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
 ## Zusammenführen von Marketo Engage-Community-Profilen {#merge-your-community-profiles}
 
@@ -75,7 +75,7 @@ Benötigen Sie weitere Hilfe? Verbinden Sie sich über die unten stehenden Links
 
 * Für technische Unterstützung bei Problemen, die nicht ordnungsgemäß funktionieren, wenden Sie sich an den **[Marketo Engage-Support](https://experienceleague.adobe.com/en/support){target="_blank"}**.
 
-* Treten Sie mit anderen Marketo Engage-Benutzenden in der **[Adobe Marketo Engage-Community in Verbindung und lernen Sie von ihnen ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
+* Treten Sie mit anderen Marketo Engage-Benutzenden in der **[Adobe Marketo Engage-Community in Verbindung und lernen Sie von ihnen &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
 
 * Wenn Sie praktische Unterstützung benötigen, um Ihre Marketo Engage-Instanz optimal zu nutzen, wenden Sie sich an **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
