@@ -4,9 +4,10 @@ title: Auswahllisten-Verwaltung
 hide: true
 hidefromtoc: true
 feature: Field Management
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
+source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -43,16 +44,24 @@ Jeder Eintrag in der Auswahlliste hat einen Anzeigewert und einen gesendeten Wer
 
 ## AutoSuggest {#autosuggest}
 
+Wenn die Einstellung _Verwaltete Auswahlliste_ aktiviert ist, schlagen Filter, Flussschrittoptionen und Schritte zum Ändern von Datenwerten automatisch Werte aus Ihrer verwalteten Auswahlliste vor. Wenn diese Einstellung deaktiviert ist, werden nur nicht verwaltete Werte vorgeschlagen.
+
+![](assets/picklist-management-4.png)
+
+![](assets/picklist-management-5.png)
+
+![](assets/picklist-management-6.png)
+
 ### Wechseln zwischen verwalteten und nicht verwalteten Auswahllisten {#switching}
 
 Die meisten Marketo Engage-Abonnements enthalten Daten aus der Zeit vor der Einführung von verwalteten Auswahllisten. Um Werte in Smart-Listen oder Flussschritten aus dieser nicht verwalteten Versionsauswahlliste zu verwenden (z. B. aus dem vollständigen Satz von Werten, die in Datensätzen in Ihrer Datenbank vorhanden sind), schalten Sie die Einstellung Verwaltete Auswahlliste in Ihrer Smart-Listen- oder Kampagnenansicht um. Wenn diese Option aktiviert ist, werden nur die verwalteten Auswahllistenwerte angezeigt. Wenn diese Option deaktiviert ist, wird die nicht verwaltete Auswahlliste verwendet und Werte werden basierend auf vorhandenen Werten in der Datenbank automatisch vorgeschlagen.
 
-### Formular-Auswahllisten (Felder vom Typ auswählen) {#form-picklists}
+## Formular-Auswahllisten (Felder vom Typ auswählen) {#form-picklists}
 
 Wie bei Seed- und CRM-verwalteten Auswahllisten werden die Werte für verwaltete Auswahllisten bei Verwendung des Feldtyps Auswählen nach Forms übertragen. Wählen Sie für ein Feld mit einer verwalteten Auswahlliste dieses Feld aus und setzen Sie den Feldtyp auf _Auswählen_.
 
-![](assets/picklist-management-4.png)
+![](assets/picklist-management-7.png)
 
 Zeigt den Satz von Werten der verwalteten Auswahlliste an, die für dieses Feld definiert sind.
 
-![](assets/picklist-management-5.png)
+![](assets/picklist-management-8.png)
