@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie das Token „Warnhinweis-Info senden“ in E-
 title: Verwenden des Tokens „Warnhinweisinfo senden“
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 5%
@@ -52,7 +52,7 @@ Die folgenden Informationen sind Teil der `{{SP_Send_Alert_Info}}`:
 
    ![](assets/three-3.png)
 
-1. Suchen Sie das **[!UICONTROL {{SP_Send_Alert_Info}}]**-Token, wählen Sie es aus und klicken Sie auf **[!UICONTROL Einfügen]**.
+1. Suchen Sie das **[!UICONTROL `{{SP_Send_Alert_Info}}`]**-Token, wählen Sie es aus und klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 

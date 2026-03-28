@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über Token für benutzerdefinierte Felder von Pr
 title: Token für benutzerdefinierte Felder für Programmmitglieder
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '444'
 ht-degree: 5%
@@ -19,7 +19,7 @@ Auf der Rückseite der Funktionen für benutzerdefinierte Felder von Programmmit
 
 Die PMCF-Token werden unter der Mitglieddomäne der Token-Familie unterstützt.
 
-Mitglieder-Token werden für Felder verwendet, die in den Bereich „Programmteilnehmer“ fallen. Ab dem aktuellen Status werden Mitglieder-Token auch verwendet, um eindeutige Werte von integrierten Service-Partnern einzufügen. `{{member.webinar url}}` Token löst automatisch die eindeutige Bestätigungs-URL der Person auf, die vom Dienstleister generiert wurde. {{member.registration code}} wird zum Registrierungs-Code aufgelöst, der vom Dienstleister bereitgestellt wird.
+Mitglieder-Token werden für Felder verwendet, die in den Bereich „Programmteilnehmer“ fallen. Ab dem aktuellen Status werden Mitglieder-Token auch verwendet, um eindeutige Werte von integrierten Service-Partnern einzufügen. `{{member.webinar url}}` Token löst automatisch die eindeutige Bestätigungs-URL der Person auf, die vom Dienstleister generiert wurde. `{{member.registration code}}` wird zum Registrierungs-Code aufgelöst, der vom Dienstleister bereitgestellt wird.
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ Benutzerdefinierte Felder für Programmteilnehmer können in E-Mails, Landingpag
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Suchen Sie das gewünschte Token für das benutzerdefinierte Feld Programmteilnehmer und wählen Sie es aus. Geben Sie einen [!UICONTROL Standardwert“ ein &#x200B;] klicken Sie auf **[!UICONTROL Einfügen]**.
+1. Suchen Sie das gewünschte Token für das benutzerdefinierte Feld Programmteilnehmer und wählen Sie es aus. Geben Sie einen [!UICONTROL Standardwert“ ein ] klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 

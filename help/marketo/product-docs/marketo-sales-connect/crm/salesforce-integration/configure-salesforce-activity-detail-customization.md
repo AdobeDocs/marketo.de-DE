@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie die Anpassung von Salesforce-Aktivitätsdetai
 title: Konfigurieren der Anpassung für Salesforce-Aktivitätsdetails
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '676'
 ht-degree: 2%
 
 ---
@@ -68,33 +68,33 @@ Dynamische Aktivitätsfelder : Referenzinformationen zu Ihren Vertriebsaktivitä
   <th>Beschreibung</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>füllt den Aufgabentyp als E-Mail, Anruf, InMail oder Benutzerdefiniert aus.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>Befüllt den Betreff der Aufgabe.</p>
       <p>Bei E-Mails wird die Betreffzeile der E-Mail ausgefüllt.</p>
       <p>Bei einem -Aufruf, inMail oder einem benutzerdefinierten Aufruf wird ein Wert eingetragen, wenn im Feld Aufgabenname/Betreff eine Erinnerungsaufgabe mit einem Wert erstellt wurde.</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>Wenn die Aktivität von einer Verkaufskampagne initiiert wurde, wird der Name der Verkaufskampagne angegeben.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>Wenn die Aktivität von einer Verkaufskampagne initiiert wurde, wird die Tagesnummer der Verkaufskampagne angegeben, an der diese Aktivität stattgefunden hat.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>Wenn die Aktivität von einer Verkaufskampagne initiiert wurde, wird die Schrittnummer innerhalb der Verkaufskampagne am Tag ausgefüllt, an dem diese Aktivität stattgefunden hat.</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>Wenn es sich bei der Aktivität um einen Aufruf handelt und ein Aufrufergebnis ausgewählt wird, wird der Wert für das Aufrufergebnis ausgefüllt.</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>Wenn es sich bei der Aktivität um einen Aufruf handelt und ein Anrufgrund ausgewählt ist, wird der Wert für den Anrufgrund ausgefüllt.</td>
  </tr>
 </table>

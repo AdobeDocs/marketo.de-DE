@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie den Rich-Text-Editor für E-Mail-Inhalte verw
 title: Verwenden des Rich-Text-Editors
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 3%
@@ -39,7 +39,7 @@ Die Einstellung „Stammblockelement“ definiert, welche Tags Ihren Inhalt umsc
 
    ![](assets/four.png)
 
-   Wenn Sie in einer E-Mail-Vorlage `<div class=“mktEditable”></div>` haben, sehen Sie das folgende Verhalten von HTML Source, wenn Sie den Abschnitt öffnen und im Editor „Text geht hierhin“ eingeben:
+   Wenn Sie in einer E-Mail-Vorlage `<div class="mktEditable"></div>` haben, sehen Sie das folgende Verhalten von HTML Source, wenn Sie den Abschnitt öffnen und im Editor „Text geht hierhin“ eingeben:
 
 <table>
  <tbody>
@@ -51,7 +51,7 @@ Die Einstellung „Stammblockelement“ definiert, welche Tags Ihren Inhalt umsc
   <tr>
    <td><p>&lt;div class=„mktEditable“&gt;<br>&lt;p&gt;Text hier&lt;/p&gt;<br>&lt;/div&gt;</p></td>
    <td><p>&lt;div class=„mktEditable“&gt;<br>&lt;div&gt;Text hier&lt;/div&gt;<br>&lt;/div&gt;</p></td>
-   <td><p>&lt;div class=„mktEditable“&gt;<br>Text hier <br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class=„mktEditable“&gt;<br>Text Hier einfügen<br>&lt;/div&gt;</p></td>
   </tr>
  </tbody>
 </table>
@@ -79,7 +79,8 @@ Im Folgenden finden Sie die Funktionen, die Sie in einem RTE finden.
 | ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Fett] | **Dunkler und dicker**. |
 | ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Kursiv] | *Abgewinkelt, für Hervorhebung oder*. |
 | ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Unterstreichen] | Setzt eine Zeile unter den Text. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Ausrichtung] | Verwenden Sie dieses Dropdown-Menü, um Ihren Text und Ihre Bilder anzuordnen. Zentrieren Sie sie, wählen Sie die linke oder rechte Ausrichtung aus oder verteilen Sie sie mit der vollständigen Ausrichtung von Kante zu Kante. |  | ![—](assets/image2015-7-9-10-3a32-3a47.png) | Liste | Wählen Sie Aufzählungszeichen oder Zahlen aus dem Dropdown-Menü aus. Aufzählungszeichen eignen sich gut für Listen und Zahlen mit Schritten. |
+| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Ausrichtung] | Verwenden Sie dieses Dropdown-Menü, um Ihren Text und Ihre Bilder anzuordnen. Zentrieren Sie sie, wählen Sie die linke oder rechte Ausrichtung aus oder verteilen Sie sie mit der vollständigen Ausrichtung von Kante zu Kante. |
+| ![—](assets/image2015-7-9-10-3a32-3a47.png) | Liste | Wählen Sie Aufzählungszeichen oder Zahlen aus dem Dropdown-Menü aus. Aufzählungszeichen eignen sich gut für Listen und Zahlen mit Schritten. |
 | ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Einzug] | Wählen Sie mehr oder weniger Einzug. Verwenden Sie für Absätze oder Text, den Sie hervorheben möchten. |
 | ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Link einfügen/bearbeiten] | Fügen Sie einen Link zu einer Website oder anderen Inhalten ein. Nehmen Sie einfach Änderungen daran vor. |
 | ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Bild einfügen/bearbeiten] | Ein Bild sagt mehr als tausend Worte. Komm rein. Klicken Sie auf das Kamerasymbol, um Ihr Design Studio zu durchsuchen. Sie können Bilder nebeneinander ablegen. |
@@ -101,7 +102,7 @@ Im Folgenden finden Sie die Funktionen, die Sie in einem RTE finden.
 
 >[!TIP]
 >
->Sie bearbeiten Ihre HTML und den Text auf separaten Bildschirmen. HTML Klicken Sie auf der Registerkarte **[!UICONTROL Text]** auf **[!UICONTROL Text]** und dann auf **[!UICONTROL Speichern]**, damit der Text Ihrer HTML entspricht.
+>Sie bearbeiten Ihre HTML und den Text auf separaten Bildschirmen. Klicken Sie auf der Registerkarte **[!UICONTROL Text]** auf **[!UICONTROL Text]** und dann auf **[!UICONTROL Speichern]**, damit der Text Ihrer HTML entspricht.
 
 >[!NOTE]
 >
