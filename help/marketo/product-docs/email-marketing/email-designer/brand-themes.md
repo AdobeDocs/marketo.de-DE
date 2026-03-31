@@ -6,7 +6,7 @@ description: Erfahren Sie, wie Sie Markenrichtlinien in Marketo Engage erstellen
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 7%
@@ -73,7 +73,7 @@ Um eine Variante zu bearbeiten, klicken Sie auf ihr Stiftsymbol.
 
 >[!NOTE]
 >
->Sie können bis zu sechs Varianten erstellen.
+>Sie können bis zu vier Varianten erstellen.
 
 Es stehen mehrere Elemente zum Anpassen zur Verfügung. Varianteneinstellungen sind in die folgenden Kategorien unterteilt:
 

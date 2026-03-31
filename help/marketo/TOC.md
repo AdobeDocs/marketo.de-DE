@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9337'
 ht-degree: 99%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 99%
             + [SEO – Optimieren spezifischer Seiten mit gezielten Keywords](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
             + [SEO – Entfernen eines Keywords](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
             + [SEO – Grundlegendes zu Keywords](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO – Anzeigen von Keyword-Ergebnissen in einer Suchmaschine &#x200B;](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
+            + [SEO – Anzeigen von Keyword-Ergebnissen in einer Suchmaschine ](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Seiten {#pages}
             + [SEO – Hinzufügen von Hinweisen zu Seitenproblemen](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
             + [SEO – Hinzufügen von Seiten](product-docs/additional-apps/seo/pages/seo-add-pages.md)
@@ -220,7 +220,7 @@ ht-degree: 99%
          + [Header der Landingpage](product-docs/administration/settings/landing-page-headers.md)
          + [Produktnutzungs-Dashboards](product-docs/administration/settings/product-usage-dashboards.md)
          + [Beschränken von Marketo-Anmeldungen auf Grundlage von IP-Adressen](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
-         + [Auswählen von Sprache, Gebietsschema und Zeitzone](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+         + [Zeitzone ändern](product-docs/administration/settings/change-time-zone.md)
          + [Festlegen einer Fallback-Seite](product-docs/administration/settings/set-a-fallback-page.md)
          + [Festlegen der standardmäßigen Standorteinstellungen für ein Abonnement](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Grundlegendes zu Datenschutzeinstellungen](product-docs/administration/settings/understanding-privacy-settings.md)
@@ -237,7 +237,7 @@ ht-degree: 99%
          + [Erstellen einer Nur-API-Benutzerrolle](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-Mail-Überprüfung](product-docs/administration/users-and-roles/email-verification.md)
-         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen &#x200B;](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
+         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen ](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Verwalten von Marketo-Benutzenden](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Verwalten von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportieren von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -1308,7 +1308,7 @@ ht-degree: 99%
          + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Gewähren von Zugriff für Benutzende](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interessante Momente in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zu Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personen {#people}
@@ -1476,7 +1476,7 @@ ht-degree: 99%
          + Marketo {#marketo}
             + [Gewähren von Marketo-Zugriff für Benutzende](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interessante Momente in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar der Sales Insight Actions-Aktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
