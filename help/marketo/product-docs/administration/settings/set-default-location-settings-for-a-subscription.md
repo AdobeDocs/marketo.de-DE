@@ -4,9 +4,9 @@ description: Anzeigen und Bearbeiten der standardmäßigen Standorteinstellungen
 title: Festlegen der standardmäßigen Standorteinstellungen für ein Abonnement
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '247'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,7 @@ In diesem Artikel wird beschrieben, wie ein Administrator die standardmäßigen 
 
 ## Festlegen der standardmäßigen Standorteinstellungen für ein Abonnement {#set-default-location-settings-for-a-subscription-1}
 
-Wenn ein Administrator bzw. eine Administratorin die Standardspeicherorteinstellungen ändert, übernehmen neu erstellte Benutzer bzw. Benutzerinnen diese Einstellungen. Benutzer können jederzeit [ihre Sprache, ihr Gebietsschema und ihre Zeitzoneneinstellungen](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) in ihren jeweiligen Konten ändern.
+Wenn ein Administrator bzw. eine Administratorin die Standardspeicherorteinstellungen ändert, übernehmen neu erstellte Benutzer bzw. Benutzerinnen diese Einstellungen. Benutzer können [ihre Zeitzone ändern](/help/marketo/product-docs/administration/settings/change-time-zone.md) in ihren individuellen Konten.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -65,4 +65,4 @@ Wenn Sie das Standardgebietsschema für Ihre Benutzerinnen und Benutzer ändern,
 
 >[!MORELIKETHIS]
 >
->* [Wählen Sie Ihre Sprache, Ihr Gebietsschema und Ihre Zeitzone](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+>* [Ändern Sie Ihre Zeitzone](/help/marketo/product-docs/administration/settings/change-time-zone.md)

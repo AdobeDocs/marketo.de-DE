@@ -4,7 +4,7 @@ description: März 2014 - Marketo-Dokumentation - Produktdokumentation
 title: März 2014 - Versionshinweise
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 4%
@@ -23,7 +23,7 @@ Verwenden Sie die [Aktualisieren](/help/marketo/product-docs/email-marketing/ema
 
 ## Rückgängig machen/Wiederholen im E-Mail-Editor und im Snippet-Editor {#undo-redo-in-the-email-editor-and-snippet-editor}
 
-[Rückgängig machen oder &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md): Bis zu 50 Aktionen für die aktuelle Sitzung.
+[Rückgängig machen oder ](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md): Bis zu 50 Aktionen für die aktuelle Sitzung.
 
 ![](assets/image2014-9-22-11-3a35-3a40.png)
 
@@ -41,7 +41,7 @@ Sie können jetzt [Programme ohne Periodenkosten einbeziehen](/help/marketo/prod
 
 ## Hybride und implizite Optionen für die Lead-Konversion {#hybrid-and-implicit-options-for-lead-conversion}
 
-Sie können die Art und Weise ändern, wie Marketo Kontakte und Opportunities für die Lead-Konversionsmetriken in der Lead-Analyse verknüpft. Sie können [&#x200B; Attributionseinstellung &#x200B;](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) eine von drei Optionen ändern. Wenn Sie diese Einstellung ändern, werden keine Marketo- oder CRM-Daten geändert. Sie ändern lediglich die Ausführung Ihrer Berichte und können jederzeit rückgängig gemacht werden.
+Sie können die Art und Weise ändern, wie Marketo Kontakte und Opportunities für die Lead-Konversionsmetriken in der Lead-Analyse verknüpft. Sie können [ Attributionseinstellung ](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) eine von drei Optionen ändern. Wenn Sie diese Einstellung ändern, werden keine Marketo- oder CRM-Daten geändert. Sie ändern lediglich die Ausführung Ihrer Berichte und können jederzeit rückgängig gemacht werden.
 
 Die Einstellung Explizit behandelt nur Kontakte mit Rollen in einer Opportunity als konvertierte Leads (Standardverhalten). Implizit werden alle mit dem Konto in der Opportunity verbundenen Kontakte unabhängig von der Rolle als konvertiert behandelt. Hybrid behandelt Kontakte mit Rollen als konvertiert, falls verfügbar. Wenn nicht, behandeln wir alle Kontakte im Konto als konvertiert.
 
@@ -51,7 +51,7 @@ Zur Erinnerung: Diese Einstellung ändert auch die Programmzuordnungsmetriken.
 
 ## Zusätzliche Benutzersprache {#additional-user-language}
 
-Wählen Sie Ihre [Marketo-Anwendungssprache](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Sehen Sie sich die Marketo-Lead-Management-Oberfläche in Ihrer bevorzugten Sprache an - jetzt wird Japanisch unterstützt.
+Wählen Sie Ihre [Marketo-Anwendungssprache](/help/marketo/product-docs/administration/settings/change-time-zone.md). Sehen Sie sich die Marketo-Lead-Management-Oberfläche in Ihrer bevorzugten Sprache an - jetzt wird Japanisch unterstützt.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 

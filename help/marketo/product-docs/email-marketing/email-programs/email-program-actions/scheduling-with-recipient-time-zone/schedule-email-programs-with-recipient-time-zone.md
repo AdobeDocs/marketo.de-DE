@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie E-Mail-Programme mit der Zeitzone des Empfän
 title: Planen von E-Mail-Programmen mit Zeitzone der Empfängerin bzw. des Empfängers
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '851'
 ht-degree: 2%
@@ -36,7 +36,7 @@ Dies bietet Ihnen zwei Optionen:
 >
 >* **[!UICONTROL Versand am folgenden Tag in der Zeitzone des Empfängers]**: Wenn die E-Mail für Dienstag um 9 Uhr :00am geplant ist, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits verstrichen ist, die E-Mail am *Mittwoch* um 9 :00am.
 >
->* **[!UICONTROL Versand über die im Programm standardmäßig festgelegte Zeit]**: Wenn die E-Mail am Dienstag um 9 Uhr :00am ausgeführt werden soll, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits verstrichen ist, die E-Mail *basierend auf Ihren Einstellungen für die Zeitzone Ihres Abonnements*. Wenn Ihre [Zeitzoneneinstellungen für das Abonnement](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) also auf PDT America/Los Angeles eingestellt sind, erhalten diese Empfänger die E-Mail immer noch am Dienstag um 9:00amPDT (unabhängig von der Zeit, die in ihren eigenen Zeitzonen liegt).
+>* **[!UICONTROL Versand über die im Programm standardmäßig festgelegte Zeit]**: Wenn die E-Mail am Dienstag um 9 Uhr :00am ausgeführt werden soll, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits verstrichen ist, die E-Mail *basierend auf Ihren Einstellungen für die Zeitzone Ihres Abonnements*. Wenn Ihre [Zeitzoneneinstellungen für das Abonnement](/help/marketo/product-docs/administration/settings/change-time-zone.md) also auf PDT America/Los Angeles eingestellt sind, erhalten diese Empfänger die E-Mail immer noch am Dienstag um 9:00amPDT (unabhängig von der Zeit, die in ihren eigenen Zeitzonen liegt).
 
 >[!NOTE]
 >

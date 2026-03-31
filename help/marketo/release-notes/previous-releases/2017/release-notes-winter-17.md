@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Versionshinweise - Winter '17 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Winter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 8%
@@ -38,7 +38,7 @@ Exportieren Sie alle Web-Kampagnendetails und Analysen im CSV-Format. Anschließ
 
 ## Lokalisierung {#localization}
 
-Die Apps Web Personalization[!UICONTROL Predictive Content] und Email Insights sind jetzt auf Japanisch, Deutsch und Spanisch verfügbar. Sie [&#x200B; Ihre Sprache und Ihr Gebietsschema &#x200B;](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md), um Ihre Inhalte in diesen Sprachen anzuzeigen.
+Die Apps Web Personalization[!UICONTROL Predictive Content] und Email Insights sind jetzt auf Japanisch, Deutsch und Spanisch verfügbar. Sie [ Ihre Sprache und Ihr Gebietsschema ](/help/marketo/product-docs/administration/settings/change-time-zone.md), um Ihre Inhalte in diesen Sprachen anzuzeigen.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -56,7 +56,7 @@ Verwenden [!UICONTROL Benanntes Konto] oder [!UICONTROL Kontoliste] als Dimensio
 
 ![](assets/ei.png)
 
-## [!UICONTROL Verbesserungen bei prädiktiven &#x200B;]) {#predictive-content-enhancements}
+## [!UICONTROL Verbesserungen bei prädiktiven ]) {#predictive-content-enhancements}
 
 **[Filtern nach [!UICONTROL Source aktiviert]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 

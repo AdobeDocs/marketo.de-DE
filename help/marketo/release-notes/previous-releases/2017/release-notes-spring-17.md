@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Versionshinweise - Frühjahr 1917 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Spring '17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 3%
@@ -18,7 +18,7 @@ Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktio
 
 ## [LinkedIn-Lead-Gen-Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sind eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Lead-Generierung auf [!DNL LinkedIn] durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder einer Dienstleistung auszudrücken, sodass das Unternehmen die Daten der Person erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
+[[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sind eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Lead-Generierung auf [!DNL LinkedIn] durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder einer Dienstleistung auszudrücken, sodass das Unternehmen die Details der Person erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
 
 Die Marketo-Integration mit [!UICONTROL LinkedIn Lead Gen] Forms erfasst automatisch die Informationen, die ein Lead im Lead Gen-Formular bereitstellt. Folgeaktionen und Benachrichtigungen können dann mithilfe des neuen Triggers **Ausfüllen [!DNL LinkedIn Lead Gen] Formulars** und -filters automatisiert werden.
 
@@ -76,7 +76,7 @@ Legen Sie die Animationseffekte für Ihre Dialog-Web-Kampagne fest, um anzupasse
 
 **[Anpassung des Schließen-Dialogs](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-Passen Sie die Schaltfläche Schließen für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die im Stil des transparenten Dialogfelds ([!UICONTROL ) verwendet &#x200B;]. Wählen Sie das Symbol, die Farbe und die Positionierung für die Schaltfläche „Schließen“ aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
+Passen Sie die Schaltfläche Schließen für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die im Stil des transparenten Dialogfelds ([!UICONTROL ) verwendet ]. Wählen Sie das Symbol, die Farbe und die Positionierung für die Schaltfläche „Schließen“ aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
@@ -86,13 +86,13 @@ Das Archivieren ist ein neuer Web-Kampagnenstatus, mit dem Sie [!UICONTROL Web-K
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[Lokalisierung](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Lokalisierung](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Web Personalization ist jetzt in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
 ## Prädiktive Verbesserungen {#predictive-enhancements}
 
-**[Lokalisierung](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Lokalisierung](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Predictive Content steht jetzt in allen von Marketo unterstützten Sprachen zur Verfügung (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
