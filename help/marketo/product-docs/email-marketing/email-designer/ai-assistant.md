@@ -6,9 +6,9 @@ description: Erfahren Sie, wie Sie mit dem KI-Assistenten Text und Bilder zu E-M
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 58b052fc93a43ea6fb744f000e34ee57c0056f12
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '923'
 ht-degree: 8%
 
 ---
@@ -51,19 +51,23 @@ _Nach_ der oben genannten Voraussetzung müssen Marketo-Admins Zugriff auf besti
 
 ## Anwendungsszenarien {#use-cases}
 
-Es gibt drei primäre Anwendungsfälle für AI Assistant:
+Es gibt einige primäre Anwendungsfälle für AI Assistant:
 
-* [Erstellen einer Betreffzeile](#create-a-subject-line) für Ihre E-Mail
+* [Erstellen einer Betreffzeile und/oder eines Preheaders](#create-a-subject-line-preheader) für Ihre E-Mail
 * [Inhalt für einen bestimmten Abschnitt erstellen](#create-content-for-a-specific-section) Ihrer E-Mail
 * [Erstellen einer ganzen E-](#create-an-entire-email) aus einer ausgewählten Vorlage
 
-## Erstellen einer Betreffzeile {#create-a-subject-line}
+## Erstellen einer Betreffzeile/eines Preheaders {#create-a-subject-line-preheader}
 
-Wenn eine E-Mail mit der neuen E-Mail-Designer erstellt wird, geben Sie eine temporäre Betreffzeile ein.
+Sie können den KI-Assistenten verwenden, um eine Betreffzeile, einen Preheader oder beides zu erstellen.
 
 ![](assets/use-the-ai-assistant-1.png)
 
-Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![&#x200B; ( &#x200B;](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
+Das folgende Beispiel veranschaulicht die Betreffzeile. Bei einem Preheader können die gleichen Schritte ausgeführt werden, indem Sie auf das Kontrollkästchen _Preheader_ klicken (siehe Abbildung oben).
+
+Wenn eine E-Mail mit der neuen E-Mail-Designer erstellt wird, geben Sie eine temporäre Betreffzeile ein.
+
+Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![ ( ](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
 
 ![](assets/use-the-ai-assistant-2.png)
 
