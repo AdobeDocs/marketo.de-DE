@@ -3,7 +3,7 @@ description: Oktober 2025 - Marketo-Dokumentation - Produktdokumentation
 title: Oktober 2025 – Versionshinweise
 feature: Release Information
 exl-id: 9c668de0-14d0-4d2e-8ea6-dc7db5be3ea7
-source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 93%
@@ -44,7 +44,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer – Marken-Designs</strong>: Sie können nun Marken-Designs innerhalb von Marketo Engage definieren. Stilkonfigurationen können wiederverwendet und auf E-Mail-Vorlagen und andere E-Mail-Assets angewendet werden, um die Markenkonsistenz zu gewährleisten.</td>
    <td>Freigegeben</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Markenthemen</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">Markenthemen</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -74,7 +74,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer – E-Mail-Aktion klonen</strong>: Sie können nun eine E-Mail in einen anderen Programmordner innerhalb der Marketing-Aktivitäten klonen und vorhandene E-Mails schnell wiederverwenden.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>

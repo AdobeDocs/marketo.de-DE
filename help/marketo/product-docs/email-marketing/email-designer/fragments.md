@@ -6,7 +6,7 @@ description: Erfahren Sie, wie Sie Fragmente als wiederverwendbare E-Mail-Kompon
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '1974'
 ht-degree: 2%
@@ -133,7 +133,7 @@ Der Fragmentstatus bestimmt seine Verfügbarkeit zur Verwendung in einer E-Mail 
 
    >[!INFO]
    >
-   >Weitere Informationen zu [Design-Einstellungen](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}.
+   >Weitere Informationen zu [Design-Einstellungen](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md#settings){target="_blank"}.
 
 1. Klicken Sie **[!UICONTROL auf &quot;]**&quot;, um das Entwurfsfragment zu speichern.
 

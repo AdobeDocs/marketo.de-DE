@@ -5,7 +5,7 @@ description: Erfahren Sie mehr über E-Mail-Designer und den Drag-and-Drop-Edito
 title: Überblick
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '680'
 ht-degree: 95%
@@ -54,7 +54,7 @@ Damit Sie auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo E
 
 * [Konvertierer für Bild zu HTML](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Laden Sie eine konforme PNG-/JPEG-Bilddatei einer E-Mail hoch. Sie wird automatisch in HTML konvertiert und kann im neuen E-Mail-Designer verwendet werden.
 
-* [Marken-Designs](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}: Definieren Sie Marken-Designs in Marketo Engage. Stilkonfigurationen können wiederverwendet und auf E-Mail-Vorlagen und andere E-Mail-Assets angewendet werden, um die Markenkonsistenz zu gewährleisten.
+* [Marken-Designs](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md){target="_blank"}: Definieren Sie Marken-Designs in Marketo Engage. Stilkonfigurationen können wiederverwendet und auf E-Mail-Vorlagen und andere E-Mail-Assets angewendet werden, um die Markenkonsistenz zu gewährleisten.
 
 * [Import-Tool für Vorlagen](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}: Importieren Sie E-Mail-Vorlagen aus dem klassischen E-Mail-Editor, um Vorlagen zu erstellen, die mit dem neuen E-Mail-Designer in Design Studio kompatibel sind.
 
@@ -84,7 +84,7 @@ Die Bearbeitung von Assets über API wird derzeit im neuen E-Mail-Designer nicht
 
 **Gibt es eine Möglichkeit, Branding (Schriften, Logos und Farben) durchzusetzen?**
 
-Ja. Erstellen und verwalten Sie Ihre Markenrichtlinien mit [Marken-Designs](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md).
+Ja. Erstellen und verwalten Sie Ihre Markenrichtlinien mit [Marken-Designs](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md).
 
 **Ist die Erstellung von Modulen für Vorlagen besser anpassbar und skalierbar?**
 
