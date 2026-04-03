@@ -19,7 +19,7 @@ Sie können Ihre Keyword-Ergebnisse exportieren, um sie für Ihr Team freizugebe
 
 >[!IMPORTANT]
 >
->Am 31. März 2026 hat Marketo Engage [Suchmaschinenoptimierung) ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) ist noch für eine begrenzte Zeit verfügbar. Gehen Sie wie in den folgenden Artikeln beschrieben vor, um Daten zu exportieren.
+>Am 31. März 2026 hat Marketo Engage [Suchmaschinenoptimierung) &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) ist noch für eine begrenzte Zeit verfügbar. Gehen Sie wie in den folgenden Artikeln beschrieben vor, um Daten zu exportieren.
 >
 >* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
 >* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}

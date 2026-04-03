@@ -19,7 +19,7 @@ In diesem Bericht können Sie sehen, wie Sie und Ihre Konkurrenten im Laufe der 
 
 >[!IMPORTANT]
 >
->Am 31. März 2026 hat Marketo Engage [Suchmaschinenoptimierung) ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) ist noch für eine begrenzte Zeit verfügbar. Gehen Sie wie in den folgenden Artikeln beschrieben vor, um Daten zu exportieren.
+>Am 31. März 2026 hat Marketo Engage [Suchmaschinenoptimierung) &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) ist noch für eine begrenzte Zeit verfügbar. Gehen Sie wie in den folgenden Artikeln beschrieben vor, um Daten zu exportieren.
 >
 >* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
 >* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
@@ -46,7 +46,7 @@ Dieses Diagramm zeigt Ihnen, welcher Prozentsatz Ihrer Keywords in einem bestimm
 |---|---|
 | [!UICONTROL Schlüsselwörter] | Die Anzahl der Keywords, die Sie verfolgen. |
 | [!UICONTROL Rang-URLs] | Die Anzahl der URLs auf Ihrer Website, die in dem von Ihnen festgelegten Bereich nach Rang geordnet sind. |
-| [!UICONTROL  % im Rang] | Der Prozentsatz der Keywords für die Rangfolge in dem von Ihnen festgelegten Bereich. |
+| [!UICONTROL &#x200B; % im Rang] | Der Prozentsatz der Keywords für die Rangfolge in dem von Ihnen festgelegten Bereich. |
 | [!UICONTROL Durchschnitt Suchen] | Die durchschnittliche Anzahl der Suchen nach diesen Keywords, die während des von Ihnen festgelegten Bereichs stattgefunden haben (in den letzten 30 Tagen bei der Google US-Suche) |
 
 ## Filtern von Daten {#filtering-data}
