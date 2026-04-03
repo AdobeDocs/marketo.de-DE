@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 99%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 99%
 + Produktdokumentationen {#product-docs}
    + Zusätzliche Apps {#additional-apps}
       + SEO {#seo}
-         + Grundlegendes zu SEO {#understanding-seo}
-            + [Grundlegendes zur Suchmaschinenoptimierung](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [Grundlegendes zum SEO-Dashboard: SEO-Empfehlungen](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [Grundlegendes zum SEO-Dashboard: SEO-Momentaufnahme](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO – Hinzufügen einer Site/Löschen einer Site](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO – Hinzufügen von Mitbewerbern](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO – Verwalten von Listen](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO – Auswählen von Region/Land für Ihre Suchmaschine](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO – Festlegen Ihrer Einstellungen für E-Mail-Warnhinweise](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + Keywords {#keywords}
-            + [SEO – Hinzufügen von Keywords](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO – Hinzufügen/Entfernen von Spalten aus der Keyword-Ansicht](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO – Hinzufügen/Entfernen von Keywords aus einer Liste](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO – Exportieren von Keyword-Ergebnissen](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO – Filtern von Keyword-Ergebnissen](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO – Vorschläge für Keywords](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO – Importieren von Keywords mit einer CSV](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO – Diagramm der Keyword-Trends](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO – Optimieren spezifischer Seiten mit gezielten Keywords](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO – Entfernen eines Keywords](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO – Grundlegendes zu Keywords](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO – Anzeigen von Keyword-Ergebnissen in einer Suchmaschine &#x200B;](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Seiten {#pages}
-            + [SEO – Hinzufügen von Hinweisen zu Seitenproblemen](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO – Hinzufügen von Seiten](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO – Hinzufügen/Entfernen einer Seite aus Liste](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO – Hinzufügen/Entfernen eines Seitenproblems aus einer Liste](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO – Exportieren von Problemen in CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO – Entfernen/Löschen eines Seitenproblems](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO – Entfernen/Löschen einer Seite](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO – Grundlegendes zu Seiten](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO – Verwenden der Drill-down-Liste „Seitendetails“](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + Eingehende Links {#inbound-links}
-            + [SEO – Manuelles Hinzufügen einer URL für eingehende Links](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO – Hinzufügen/Entfernen einer URL für eingehende Links aus einer Liste](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO – Abrufen von Vorschlägen für eingehende Links](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO – Entfernen/Löschen einer URL für eingehende Links](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO – Grundlegendes zu eingehenden Links](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + Berichte {#reports}
             + [SEO – Verwenden eines Berichts zu Keyword-Trends der Konkurrenz](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO – Verwenden eines Berichts zu Keyword-Trends](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
@@ -236,7 +202,7 @@ ht-degree: 99%
          + [Erstellen einer Nur-API-Benutzerrolle](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-Mail-Überprüfung](product-docs/administration/users-and-roles/email-verification.md)
-         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen &#x200B;](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
+         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen ](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Verwalten von Marketo-Benutzenden](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Verwalten von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportieren von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -1310,7 +1276,7 @@ ht-degree: 99%
          + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Gewähren von Zugriff für Benutzende](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interessante Momente in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zu Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personen {#people}
@@ -1478,7 +1444,7 @@ ht-degree: 99%
          + Marketo {#marketo}
             + [Gewähren von Marketo-Zugriff für Benutzende](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interessante Momente in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar der Sales Insight Actions-Aktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
