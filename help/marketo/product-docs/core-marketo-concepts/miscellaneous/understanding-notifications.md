@@ -3,9 +3,9 @@ unique-page-id: 2952292
 description: Erfahren Sie mehr über Marketo Engage-Benachrichtigungen bei Kampagnenfehlern und CRM-Synchronisierung. Abonnieren Sie , um Benachrichtigungen per E-Mail zu erhalten und auf dem neuesten Stand zu bleiben.
 title: Grundlegendes zu Benachrichtigungen
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: ea341c472b6e4ac81edd60e269916f0451b94152
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '249'
 ht-degree: 3%
 
 ---
@@ -24,6 +24,10 @@ Benachrichtigungen halten Sie über Systemereignisse in Ihrem Marketo Engage-Abo
 
    ![](assets/understanding-notifications-2.png){width="800" zoomable="yes"}
 
+   >[!NOTE]
+   >
+   >Benachrichtigungen sind in Ihrem Marketo-Konto 60 Tage lang verfügbar.
+
 ## Benachrichtigungen abonnieren {#subscribe-to-notifications}
 
 Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
@@ -40,7 +44,7 @@ Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 >
 >Das Feld _[!UICONTROL Senden an]_ dient nur zur Eingabe einer E-Mail-Adresse. Es wird keine Liste der vorhandenen Abonnenten angezeigt.
 
-In einigen Fällen enthält eine Benachrichtigung einen Link „Vollständige Liste anzeigen“, über den Sie eine CSV-Datei (kommagetrennte Werte) herunterladen können, z. B. die Microsoft Dynamics-Synchronisierungsfehlerdatei. Marketo Engage bewahrt diese CSV-Dateien 30 Tage lang auf. Wenn Sie versuchen, die Datei nach 30 Tagen herunterzuladen, erhalten Sie einen 404-Fehler.
+In einigen Fällen enthält eine Benachrichtigung einen Link „Vollständige Liste anzeigen“, über den Sie eine CSV-Datei (kommagetrennte Werte) herunterladen können, z. B. die Microsoft Dynamics-Synchronisierungsfehlerdatei. Marketo Engage bewahrt diese CSV-Dateien 30 Tage lang auf. Wenn Sie versuchen, die Datei nach 30 Tagen herunterzuladen, erhalten Sie einen Fehler.
 
 >[!TIP]
 >
