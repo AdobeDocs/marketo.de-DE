@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Versionshinweise - Herbst '16 - Marketo-Dokumente - Produktdokumentation
 title: Versionshinweise - Herbst '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 1%
@@ -34,7 +34,7 @@ Mit [!DNL Facebook] Integration von Offline-Konversionen werden Konversionsdaten
 
 ![](assets/facebook.png)
 
-## [Universal-ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## Universal-ID {#universal-id}
 
 Mit einer universellen ID können Sie mit einer einzigen Anmeldung auf mehrere Marketo-Abonnements zugreifen und schnell zwischen Abonnements wechseln. Sie können für alle Ihre Abonnements ein einzelnes Community-Profil verwenden.
 

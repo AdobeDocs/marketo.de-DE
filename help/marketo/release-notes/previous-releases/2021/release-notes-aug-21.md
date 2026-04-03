@@ -2,9 +2,9 @@
 description: August 2021 - Marketo-Dokumentation - Produktdokumentation
 title: August 2021 - Versionshinweise
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '897'
 ht-degree: 1%
 
 ---
@@ -57,13 +57,13 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 >
 >E-Mail-Einschränkungen sind jetzt in Beta verfügbar. [Weitere Informationen](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
-* **Enhanced Sales Activity Insights**: Erfassen und aktivieren Sie personalisierte Interaktionen basierend auf den vorherigen Aktivitäten Ihres Sales-Teams. Neue Attribute wie „Link zur Aufzeichnung von Verkaufsanrufen“, „Name der Verkaufskampagne“ und „E-Mail-Betreff des Verkaufs“ können in Smart Lists von Marketo Engage verwendet werden.  Diese Aktivitäten können über die Marketo Engage-REST-API oder den Massenexport exportiert und gemeldet werden und stehen als zusätzliche Einschränkung für Smart Lists für Filter und Trigger zur Verfügung.
+* **Enhanced Sales Activity Insights**: Erfassen und aktivieren Sie personalisierte Interaktionen basierend auf den vorherigen Aktivitäten Ihres Vertriebsteams. Neue Attribute wie „Link zur Aufzeichnung von Verkaufsanrufen“, „Name der Verkaufskampagne“ und „E-Mail-Betreff des Verkaufs“ können in Smart Lists von Marketo Engage verwendet werden.  Diese Aktivitäten können über die Marketo Engage-REST-API oder den Massenexport exportiert und gemeldet werden und stehen als zusätzliche Einschränkung für Smart Lists für Filter und Trigger zur Verfügung.
 
 ## [!DNL Bizible] {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Integration von Lead Gen-Forms**: Marketing-Experten können jetzt Umsatzzuordnungen für Konversionen durchführen, die auftreten, wenn [!DNL LinkedIn] Formularausfüllungen über ihre Lead Gen-Forms-Werbeeinheiten erfasst. Diese Erkenntnisse können dann zur Optimierung der Formularleistung und der Investitionen in bezahlte Medien verwendet werden. [!DNL LinkedIn] Lead Gen Forms sind eines der am schnellsten wachsenden Paid-Media-Angebote von [!DNL LinkedIn] und diese neue Funktion ist Teil unserer bestehenden [!DNL LinkedIn] Ads-Integration mit [!DNL Bizible].
+* **[!DNL Bizible][!DNL LinkedIn] Integration von Lead Gen-Forms**: Marketing-Experten können jetzt Umsatzzuordnungen für Konversionen durchführen, die auftreten, wenn [!DNL LinkedIn] Formularausfüllungen über ihre Lead Gen-Forms-Werbeeinheiten erfasst. Diese Erkenntnisse können dann zur Optimierung der Formularleistung und der Investitionen in bezahlte Medien verwendet werden. [!DNL LinkedIn] Lead Gen Forms sind eines der am schnellsten wachsenden Paid-Media-Angebote von [!DNL LinkedIn] und diese neue Funktion ist Teil unserer bestehenden [!DNL LinkedIn] Ads-Integration mit [!DNL Bizible].
 
 * **Verbessertes Geschwindigkeits-Dashboard**: Wir haben eine neue Geschwindigkeitsmetrik und einen Dashboard-Filter für tiefere Einblicke hinzugefügt. Dieses Dashboard wird von Marketing-Experten verwendet, um die Lead- und Opportunity-Geschwindigkeit und die Effizienz verschiedener Formen der Marketing- und Vertriebsinteraktion Schritt für Schritt zu verstehen.
 
@@ -73,15 +73,15 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 Dieser Abschnitt enthält neue Funktionen für Bizible-Benutzer, die die Migration zum Adobe Identity Management System (IMS) abgeschlossen haben. Wenn Sie migriert wurden, sehen Sie Ihre neue Adobe ID in [!DNL Bizible] Einstellungen auf der Registerkarte Adobe ID . Alle Konten sollten bis Ende 2021 migriert werden.
 
-* **[!DNL Bizible]Integration mit Adobe Privacy Service** (verfügbar ab September 2021): Durch die Integration von [!DNL Bizible] mit Adobe Privacy Service wird die Einhaltung wichtiger Datenschutzbestimmungen (wie der DSGVO) in allen Adobe Experience Cloud-Anwendungen zentralisiert. Sie können jetzt diesen Service nutzen und alle Datenschutzanfragen zentral verwalten, sodass Änderungsanfragen, die in [!DNL Bizible] und andere Adobe-Produkte eingehen, programmübergreifend berücksichtigt werden.
+* **[!DNL Bizible]Integration mit Adobe Privacy Service** (verfügbar ab September 2021): Die Integration von [!DNL Bizible] mit Adobe Privacy Service zentralisiert die Einhaltung wichtiger Datenschutzbestimmungen (wie der DSGVO) in Adobe Experience Cloud-Anwendungen. Sie können jetzt diesen Service nutzen und alle Datenschutzanfragen zentral verwalten, sodass Änderungsanfragen, die in [!DNL Bizible] und andere Adobe-Produkte eingehen, programmübergreifend berücksichtigt werden.
 
-* **[!DNL Bizible]auf Adobe Unified Shell**: Die Einführung von Adobe Unified Shell in [!DNL Bizible] bietet Benutzenden neue Funktionen, die in der Kopfzeilenleiste der [!DNL Bizible] Anwendung angezeigt werden, und besseren Zugriff auf Support-Ressourcen und Programmwechsel. Mit Adobe Unified Shell können Sie ein konsistentes Erlebnis zwischen [!DNL Bizible] und anderen Adobe Experience Cloud-Programmen schaffen.
+* **[!DNL Bizible]auf Adobe Unified Shell**: Die Einführung von Adobe Unified Shell in [!DNL Bizible] bietet Benutzenden neue Funktionen, die in der Kopfzeilenleiste der [!DNL Bizible] Anwendung angezeigt werden und besseren Zugriff auf Support-Ressourcen und Programmwechsel beinhalten. Mit Adobe Unified Shell können Sie ein konsistentes Erlebnis zwischen [!DNL Bizible] und anderen Adobe Experience Cloud-Programmen schaffen.
 
 * **[!DNL Bizible]Domain-Eigentümerschaft und Selbstverwaltung**: [!DNL Bizible] können Adobe Admin Console nutzen, um die Domains zu verwalten, die verfolgt werden [!DNL Bizible]. Dies bringt den Self-Service in einen zuvor manuellen Prozess und bietet ein konsistentes Erlebnis bei der Verwaltung von Domain-Eigentümerschaft und -Tracking in allen Adobe Experience Cloud-Programmen.
 
 ## Ankündigungen {#announcements}
 
-* **Aktualisierung der Einstellungen für universelle Abonnement-ID**: Um die bevorstehende Integration von Marketo Engage und Adobe Identity für bestehende Benutzende zu unterstützen, werden alle Marketo Engage-Abonnements durch die Aktivierung der universellen ID-Unterstützung vereinheitlicht. Weitere Informationen [finden Sie hier](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).
+* **Aktualisierung der Einstellungen für universelle Abonnement-ID**: Um die bevorstehende Integration von Marketo Engage und Adobe Identity für bestehende Benutzende zu unterstützen, werden alle Marketo Engage-Abonnements durch die Aktivierung der universellen ID-Unterstützung vereinheitlicht.
 
 **_Webinar zur Produktversion_**
 
