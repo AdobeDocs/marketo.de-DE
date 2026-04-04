@@ -113,7 +113,7 @@ Um [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-
 <tbody>
   <tr>
     <td>Statusaktualisierungen zu Adobe Marketo</td>
-    <td><li><a href="https://status.adobe.com/cloud/experience_cloud">Adobe Marketo Engage-Statusaktualisierungen abonnieren</a>.</li></td>
+    <td><li><a href="https://status.adobe.com/de-de/cloud/experience_cloud">Adobe Marketo Engage-Statusaktualisierungen abonnieren</a>.</li></td>
   </tr>
   <tr>
     <td>Benachrichtigungen</td>
