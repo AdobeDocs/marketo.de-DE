@@ -43,7 +43,7 @@ Gehen Sie wie folgt vor, um den Zugriff für alle Rollen zu entfernen.
 
 ### Benutzerdefinierte Rolle {#custom-role}
 
-Sie haben auch die Möglichkeit, [eine neue Rolle erstellen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, _Zugriff mit KI erstellen_ zusammen mit allem anderen, was Sie möchten, hinzuzufügen und [diese Rolle &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuzuweisen.
+Sie haben auch die Möglichkeit, [eine neue Rolle erstellen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, _Zugriff mit KI erstellen_ zusammen mit allem anderen, was Sie möchten, hinzuzufügen und [diese Rolle &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuzuweisen.
 
 <!-- ## Permissions {#permissions}
 
