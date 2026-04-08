@@ -1,19 +1,19 @@
 ---
-description: Bald verfügbar.
-title: Marketo AI - Übersicht
+description: Erkunden Sie die Marketo Engage AI-Suite von Agenten, die Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr automatisieren.
+title: Marketo Engage AI - Übersicht
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
 
-# Marketo AI - Übersicht {#overview}
+# Marketo Engage AI - Übersicht {#overview}
 
-Marketo Conversational AI bietet eine Vielzahl von Agenten, die mühsame, aber wichtige Marketing-Funktionen automatisieren sollen.
+Marketo Engage AI bietet eine Vielzahl von Agenten, die mühsame, aber wichtige Marketing-Funktionen automatisieren.
 
 ## Zugriff {#access}
 
@@ -21,7 +21,7 @@ Klicken Sie auf Ihrem Bildschirm „Mein Marketo&quot; auf die Kachel **Mit KI e
 
 ![](assets/overview-1.png)
 
-Die Benutzeroberfläche der Conversational AI bietet eine Reihe von Agent-Funktionen zur Automatisierung manueller Aufgaben, um die Produktivität zu verbessern.
+Die Dialogschnittstelle bietet eine Reihe von Agent-Funktionen, die zur Automatisierung manueller Aufgaben entwickelt wurden, die die Produktivität erheblich verbessern.
 
 Klicken Sie im Eingabeaufforderungsbereich auf **Erste Schritte** (_Erste Schritte mit KI-Agenten…_ ist standardmäßig in der Eingabeaufforderung enthalten).
 
@@ -41,15 +41,15 @@ Erstellen Sie ein Dokument zur Programmeinrichtung, das andere anhand einer Kamp
 
 ### Programm erstellen (in Kürze verfügbar) {#create-program}
 
-Generieren eines gesamten Marketo Engage-Programms mithilfe einer Kampagnenübersicht mit E-Mail, Landingpage und intelligenter Kampagne.
+Generieren eines gesamten Marketo Engage-Programms mithilfe einer Kampagnenübersicht sowie einer E-Mail-, Landingpage- und Smart-Kampagne.
 
 ### Programm-QA {#program-qa}
 
-Validieren Sie Marketo Engage-Programme anhand von Best Practices und erfassen Sie Probleme vor dem Launch. [Weitere Informationen](/help/marketo/product-docs/marketo-ai/agents/program-qa.md)
+Validieren Sie Marketo Engage-Programme anhand von Best Practices und erfassen Sie Probleme vor dem Launch. [Weitere Informationen](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
 
 ### Leads importieren {#import-leads}
 
-Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzuordnung in Ihre Marketo Engage-Datenbank. [Weitere Informationen](/help/marketo/product-docs/marketo-ai/agents/import-leads.md)
+Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzuordnung in Ihre Marketo Engage-Datenbank. [Weitere Informationen](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Daten normalisieren (in Kürze verfügbar) {#normalize-data}
 

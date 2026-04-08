@@ -4,10 +4,10 @@ title: Einstellungen und Setup
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 4%
+source-wordcount: '189'
+ht-degree: 1%
 
 ---
 
@@ -15,58 +15,56 @@ ht-degree: 4%
 
 Einführungstext.
 
+## Berechtigungen {#permissions}
+
+Um auf die Marketo-KI zugreifen zu können, müssen Administratoren zunächst Rollenberechtigungen aktivieren.
+
+1. Klicken Sie in „Meine Marketo **auf &quot;**&quot; und dann **Benutzer und Rollen**.
+
+   ![](assets/settings-setup-1.png)
+
+1. Wählen Sie auf der Registerkarte _Rollen_ die gewünschte Rolle aus und klicken Sie auf **Rolle bearbeiten**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Scrollen Sie nach unten, aktivieren Sie das Kontrollkästchen **Zugriff auf Build mit**) und klicken Sie auf **Speichern**.
+
+   ![](assets/settings-setup-3.png)
+
 ## Einstellungen {#settings}
 
-Gehen Sie wie folgt vor, um NAME mit Ihrem Marketo Engage-Konto zu verbinden.
+1. Klicken Sie in Ihrem Mein Marketo auf die Kachel **Mit KI erstellen**.
 
-1. Klicken Sie in My Marketo auf die Kachel **Mit KI erstellen**.
+   ![](assets/settings-setup-4.png)
 
-SCREENSHOT
+1. Klicken Sie auf das Zahnradsymbol.
 
-1. Klicken Sie auf das Zahnradsymbol
+   ![](assets/settings-setup-5.png)
 
-INSTANZ MUSS NOCH NICHT VERBUNDEN SEIN
+### Verbindung {#connection}
 
-## Verbindung {#connection}
+Diese Registerkarte enthält keine bearbeitbaren Felder. Es werden Kontoinformationen wie Ihre Munchkin ID und Ihre IMS-Organisation angezeigt.
 
-Führen Sie auf der Registerkarte Verbindung die folgenden Schritte aus, um die Ersteinrichtung von NAME OF MARKETO MCP durchzuführen.
+![](assets/settings-setup-6.png)
 
-+++Erste Einrichtungsschritte
+### Organisationsregeln {#organizational-rules}
 
-Text
+Definieren Sie organisatorische Richtlinien und Einschränkungen, denen die Marketo-KI beim Erstellen oder Ändern von Marketo Engage-Assets folgt.
 
-SCREENSHOT
-
-Text
-
-SCREENSHOT
-
-+++
-
-## Organisationsregeln {#organizational-rules}
-
-Definieren Sie die organisatorischen Richtlinien und Einschränkungen, denen das MARKETO MCP beim Erstellen oder Ändern von Marketo-Assets folgt.
-
-Text
-
-SCREENSHOT
-
-Text
-
-SCREENSHOT
+![](assets/settings-setup-7.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
 >Regeln verwenden das Markdown-Format mit YAML-Schriftart. Globale Regeln gelten für alle Arbeitsbereiche. Workspace-Regeln überschreiben globale Einstellungen.
 
-## Integrationen {#integrations}
+### Integrationen (in Kürze verfügbar) {#integrations}
 
-Konfigurieren von Verbindungen zu externen Services und APIs (in Kürze verfügbar).
+Konfigurieren Sie Verbindungen zu externen Services und APIs.
 
 _Diese Registerkarte wird möglicherweise in der Benutzeroberfläche angezeigt, ist jedoch noch nicht verfügbar. Suchen Sie nach Updates_.
 
-## Benachrichtigungen {#notifications}
+### Benachrichtigungen (in Kürze verfügbar) {#notifications}
 
-Verwalten von Warnhinweis-Voreinstellungen und Benachrichtigungskanälen (in Kürze verfügbar).
+Verwalten von Warnhinweis-Voreinstellungen und Benachrichtigungskanälen.
 
 _Diese Registerkarte wird möglicherweise in der Benutzeroberfläche angezeigt, ist jedoch noch nicht verfügbar. Suchen Sie nach Updates_.
