@@ -1,13 +1,13 @@
 ---
-description: Bald verfügbar.
+description: Erfahren Sie, wie Sie Ihre Programme auf Best Practices für alle Komponenten überprüfen können, z. B. E-Mails, Landingpages, Kampagnen und mehr.
 title: Programm-QA
 hide: true
 hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 3%
 
 ---
 
@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails, Landingpages, Kampagnen und mehr.
 
-Es gibt zwei Möglichkeiten, auf diesen Agenten zuzugreifen.
+## Informationen zur Verwendung {#how-to-use}
 
-Klicken Sie im mittleren Fenster auf den Agenten und dann oben rechts auf das Dropdown-Menü
+1. Klicken Sie in Ihrem Mein Marketo auf die Kachel **Mit KI erstellen**.
 
-Klicken Sie auf die Schaltfläche Diesen Agenten verwenden .
+   ![](assets/program-qa-1.png)
 
-Im linken Bereich des Eingabeaufforderungsdialogfelds wird der Standardtext angezeigt.
+1. Klicken Sie auf **Programm-QA** Agent.
 
-Wählen Sie dann im rechten Bereich das Programm aus, das Sie prüfen möchten
+   ![](assets/program-qa-2.png)
 
-Eine Zusammenfassung des Programms wird im mittleren Fenster angezeigt und bietet einen Überblick über das Programm und das, was dafür erstellt wurde.
+   Sie gelangen zum Bildschirm der Konversations-KI.
 
-Oder klicken Sie auf den Agenten im Hauptbildschirm der Konversations-KI.
+1. Wählen Sie das gewünschte Programm im rechten Bereich aus.
 
-Der KI-Assistent zeigt den Standardtext an, der angibt, welcher Agent ausgeführt wird.
+   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-Wählen Sie dann auf der rechten Seite das Programm aus, das mit der Qualitätssicherung beauftragt werden soll.
+Eine Zusammenfassung des Programms wird in der Mitte angezeigt und bietet einen Überblick über das Programm.
 
-Die gleiche Zusammenfassung wird in der mittleren Konsole angezeigt
+![](assets/program-qa-4.png){width="450" zoomable="yes"}

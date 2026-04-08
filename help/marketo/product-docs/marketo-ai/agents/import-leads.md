@@ -4,9 +4,9 @@ title: Leads importieren
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzu
 
    ![](assets/import-leads-2.png)
 
-   Sie werden zur Konversations-KI weitergeleitet. Im linken Bereich veröffentlicht der Agent Anleitungen, Antworten und Optionen dazu, welche Datennormalisierungsfunktionen ausgeführt werden sollen.
+   Sie gelangen zum Bildschirm der Konversations-KI. Im linken Bereich veröffentlicht der Agent Anleitungen, Antworten und Optionen dazu, welche Datennormalisierungsfunktionen ausgeführt werden sollen.
 
    ![](assets/import-leads-3.png)
 
