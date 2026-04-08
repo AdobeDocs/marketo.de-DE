@@ -4,10 +4,10 @@ title: Leads importieren
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 1%
 
 ---
 
@@ -15,22 +15,52 @@ ht-degree: 0%
 
 Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzuordnung in Ihre Marketo Engage-Datenbank.
 
-Liste der LEADS importieren? MENSCHEN? im CSV-Format durch Anwenden von Datennormalisierungsregeln und Speichern in der Marketo-Datenbank
+## Informationen zur Verwendung {#how-to-use}
 
-Wenn Sie auf diesen Agenten klicken, gelangen Sie in die Konversations-KI. Im linken Bereich befindet sich ein KI-Assistent, der ein Fenster für den Agenten bereitstellt, um Anleitungen, Antworten und Optionen zu posten, welche Datennormalisierungsfunktionen ausgeführt werden sollen.
+1. Klicken Sie in Ihrem Mein Marketo auf die Kachel **Mit KI erstellen**.
 
-Um den Importvorgang zu starten, klicken Sie auf das Anlagensymbol, um eine Datei hochzuladen.
+   ![](assets/import-leads-1.png)
 
-Geben Sie in die Importliste ein und klicken Sie auf Senden
+1. Klicken Sie auf **Leads importieren**-Agent.
 
-Geben Sie die anzuwendende Geschäftsregel ein und klicken Sie auf Senden. Nach dem Eintritt zeigt ein Fenster in der mittleren Konsole die Ergebnisse der angewendeten Regel an.
+   ![](assets/import-leads-2.png)
 
-Geben Sie falls gewünscht eine andere Geschäftsregel ein und klicken Sie auf Senden.
+   Sie werden zur Konversations-KI weitergeleitet. Im linken Bereich veröffentlicht der Agent Anleitungen, Antworten und Optionen dazu, welche Datennormalisierungsfunktionen ausgeführt werden sollen.
 
-Um eine Liste der der Datenbank zugeordneten Listenfelder anzuzeigen, klicken Sie auf die Registerkarte Zuordnung .
+   ![](assets/import-leads-3.png)
 
-Wenn Sie die Liste in der Datenbank speichern möchten, klicken Sie auf In Marketo importieren .
+1. Um mit dem Import Ihrer Leads zu beginnen, klicken Sie auf das Anlagensymbol und laden Sie sie über eine CSV-Datei hoch.
 
-Wählen Sie den Ordner aus, um die Liste zu speichern, geben Sie einen Namen für die Lead-Liste ein, aktivieren Sie die Einverständnisfelder und klicken Sie dann auf die Schaltfläche „Genehmigen und in Marketo importieren“.
+   ![](assets/import-leads-4.png)
 
-Nach Speicherung der Liste wird eine Überprüfung mit einer Zusammenfassung der verarbeiteten, fehlgeschlagenen oder gewarnten Einträge durchgeführt.
+1. Geben Sie _Importliste_ ein und klicken Sie auf **Senden**.
+
+   ![](assets/import-leads-5.png)
+
+   Die Vorschau Ihrer Liste wird in der mittleren Konsole angezeigt.
+
+   ![](assets/import-leads-6.png)
+
+1. Geben Sie eine gewünschte Geschäftsregel ein und klicken Sie auf **Senden**.
+
+   ![](assets/import-leads-7.png)
+
+   Die Ergebnisse werden in der mittleren Konsole angezeigt.
+
+   ![](assets/import-leads-8.png)
+
+   Geben Sie bei Bedarf zusätzliche Geschäftsregeln ein.
+
+1. Um die zugeordneten Felder anzuzeigen, klicken Sie auf die Registerkarte **Zuordnungen**.
+
+1. Wenn Felder falsch zugeordnet wurden, korrigieren Sie sie hier.
+
+   ![](assets/import-leads-9.png)
+
+1. Wenn Sie bereit sind, Ihre Liste zu importieren, klicken Sie auf die Registerkarte **In Marketo importieren**.
+
+1. Wählen Sie den Zielordner aus und geben Sie einen Namen ein. Markieren Sie jedes Einverständnisfeld und klicken Sie auf **Genehmigen und in Marketo importieren**.
+
+   ![](assets/import-leads-10.png)
+
+Wenn der Import abgeschlossen ist, wird der Überprüfung eine Zusammenfassung der verarbeiteten Leads, der fehlgeschlagenen Zeilen und aller Warnungen bereitgestellt.

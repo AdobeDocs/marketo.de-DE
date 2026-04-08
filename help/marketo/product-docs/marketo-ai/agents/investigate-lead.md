@@ -3,7 +3,7 @@ description: Bald verfügbar.
 title: Lead untersuchen
 hide: true
 hidefromtoc: true
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Finden Sie heraus, warum eine Person keine E-Mail gesendet, sich für ein Programm qualifiziert oder den Lebenszyklus nicht durchlaufen hat.
 
-Um die vollständige Liste der Untersuchungsszenarien anzuzeigen, klicken Sie auf den Abwärtspfeil rechts.
+Um die vollständige Liste der Untersuchungsszenarien anzuzeigen, klicken Sie auf den Abwärtspfeil auf der rechten Seite.
 
 SCREENSHOT
 
