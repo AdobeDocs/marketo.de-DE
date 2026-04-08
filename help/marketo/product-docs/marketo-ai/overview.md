@@ -4,7 +4,7 @@ title: Marketo Engage AI - Übersicht
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 3%
@@ -31,6 +31,14 @@ In der mittleren Konsole gibt es sieben Agentenfunktionen, die Ihnen bei verschi
 
 ## Agentinnen bzw. Agenten {#agents}
 
+### Programm-QA {#program-qa}
+
+Validieren Sie Marketo Engage-Programme anhand von Best Practices und erfassen Sie Probleme vor dem Launch. [Weitere Informationen](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+
+### Leads importieren {#import-leads}
+
+Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzuordnung in Ihre Marketo Engage-Datenbank. [Weitere Informationen](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+
 ### Lead untersuchen (in Kürze verfügbar) {#investigate-lead}
 
 Finden Sie heraus, warum eine Person keine E-Mail gesendet, sich für ein Programm qualifiziert oder den Lebenszyklus nicht durchlaufen hat.
@@ -42,14 +50,6 @@ Erstellen Sie ein Dokument zur Programmeinrichtung, das andere anhand einer Kamp
 ### Programm erstellen (in Kürze verfügbar) {#create-program}
 
 Generieren eines gesamten Marketo Engage-Programms mithilfe einer Kampagnenübersicht sowie einer E-Mail-, Landingpage- und Smart-Kampagne.
-
-### Programm-QA {#program-qa}
-
-Validieren Sie Marketo Engage-Programme anhand von Best Practices und erfassen Sie Probleme vor dem Launch. [Weitere Informationen](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
-
-### Leads importieren {#import-leads}
-
-Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzuordnung in Ihre Marketo Engage-Datenbank. [Weitere Informationen](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Daten normalisieren (in Kürze verfügbar) {#normalize-data}
 

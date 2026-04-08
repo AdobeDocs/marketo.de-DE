@@ -4,10 +4,10 @@ title: Einstellungen und Setup
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 1%
+source-wordcount: '333'
+ht-degree: 0%
 
 ---
 
@@ -17,19 +17,51 @@ Erfahren Sie, wie Sie Berechtigungen aktivieren und den Bereich Einstellungen ve
 
 ## Berechtigungen {#permissions}
 
-Um auf die Marketo-KI zugreifen zu können, müssen Administratoren zunächst Rollenberechtigungen aktivieren.
+>[!IMPORTANT]
+>
+>In der Alpha-Phase der Marketo-KI _Zugriff ist standardmäßig aktiviert_ für die folgenden Rollen: Administrator, Adobe-Produktadministrator, Marketing-Benutzer, Standardbenutzer. Anstatt sie für Rollen zu aktivieren, auf die Sie Zugriff haben möchten, müssen Sie sie für Rollen deaktivieren, auf die Sie keinen Zugriff haben möchten.
+
+### Zugriff für alle {#access-for-all}
+
+Wenn Sie möchten, dass Marketo AI für alle oben aufgeführten Rollen aktiviert ist, müssen Sie nichts tun.
+
+### Zugriff für einige {#access-for-some}
+
+Gehen Sie wie folgt vor, um den Zugriff für alle Rollen zu entfernen.
 
 1. Klicken Sie in „Meine Marketo **auf &quot;**&quot; und dann **Benutzer und Rollen**.
 
    ![](assets/settings-setup-1.png)
 
-1. Wählen Sie auf der Registerkarte _Rollen_ die gewünschte Rolle aus und klicken Sie auf **Rolle bearbeiten**.
+1. Wählen Sie auf der Registerkarte _Rollen_ die gewünschte Rolle (oder Rollen) aus und klicken Sie auf **Rolle bearbeiten**.
 
    ![](assets/settings-setup-2.png)
 
-1. Scrollen Sie nach unten, aktivieren Sie das Kontrollkästchen **Zugriff auf Build mit**) und klicken Sie auf **Speichern**.
+1. Scrollen Sie nach unten und _Sie_ Kontrollkästchen **Zugriff auf Build mit**) und klicken Sie auf **Speichern**.
 
    ![](assets/settings-setup-3.png)
+
+### Benutzerdefinierte Rolle {#custom-role}
+
+Sie haben auch die Möglichkeit, [eine neue Rolle erstellen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, _Zugriff mit KI erstellen_ zusammen mit allem anderen, was Sie möchten, hinzuzufügen und [diese Rolle ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuzuweisen.
+
+<!-- ## Permissions {#permissions}
+
+In order to access Marketo AI, Admins must first enable role permissions. 
+
+1. In your My Marketo, click **Admin**, then **Users & Roles**.
+
+   ![](assets/settings-setup-1.png)
+
+1. In the _Roles_ tab, select the desired role and click **Edit Role**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Scroll down and select the **Access Build with AI** checkbox and click **Save**.
+
+   ![](assets/settings-setup-3.png)
+
+-->
 
 ## Einstellungen {#settings}
 
