@@ -4,9 +4,9 @@ title: Einstellungen und Setup
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: d5f5c11a56f21e7dba3e1e79eb6785937f165b14
+source-git-commit: dc2126b2949411a436cb48a91d187ec8b8fa21f2
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Gehen Sie wie folgt vor, um den Zugriff für alle Rollen zu entfernen.
 
    ![](assets/settings-setup-1.png)
 
-1. Wählen Sie auf der Registerkarte _Rollen_ die gewünschte Rolle (oder Rollen) aus und klicken Sie auf **Rolle bearbeiten**.
+1. Wählen Sie auf der Registerkarte _Rollen_ die gewünschte Rolle aus und klicken Sie auf **Rolle bearbeiten**.
 
    ![](assets/settings-setup-2.png)
 
@@ -41,9 +41,11 @@ Gehen Sie wie folgt vor, um den Zugriff für alle Rollen zu entfernen.
 
    ![](assets/settings-setup-3.png)
 
+Wiederholen Sie diese Schritte für alle anderen gewünschten Rollen.
+
 ### Benutzerdefinierte Rolle {#custom-role}
 
-Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, _Zugriff mit KI erstellen_ zusammen mit allem anderen, was Sie möchten, und [diese Rolle &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
+Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, _Zugriff mit KI erstellen_ zusammen mit allem anderen, was Sie möchten, und [diese Rolle ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
 
 <!-- ## Permissions {#permissions}
 
