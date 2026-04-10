@@ -54,7 +54,7 @@ Der/die Benutzende erhält dann eine E-Mail, um sich bei Marketo Engage anzumeld
 
 >[!NOTE]
 >
->Wenn der/die Benutzende über die Adobe Admin Console zu Marketo Engage hinzugefügt wird, erhält er/sie im Standardarbeitsbereich des Abonnements die Rolle „Standardbenutzer“. Wenn die Rolle des Benutzers im Arbeitsbereich angepasst werden muss, geschieht dies in Marketo Engage ([ hier beschrieben](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Wenn der/die Benutzende über die Adobe Admin Console zu Marketo Engage hinzugefügt wird, erhält er/sie im Standardarbeitsbereich des Abonnements die Rolle „Standardbenutzer“. Wenn die Rolle des Benutzers im Arbeitsbereich angepasst werden muss, geschieht dies in Marketo Engage ([&#x200B; hier beschrieben](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Benutzer entfernen {#remove-a-user}
 
