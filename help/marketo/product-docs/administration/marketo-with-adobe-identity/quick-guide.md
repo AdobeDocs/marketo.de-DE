@@ -3,7 +3,7 @@ description: Kurzanleitung mit Links zum Einrichten von Marketo Engage mit Adobe
 title: Kurzanleitung
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 81%
@@ -20,22 +20,22 @@ Erstellung von Produktprofil und Produktadmin.
 
 [Erstellen eines Produktprofils](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
 
-[Hinzufügen eines Produktadmins](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
+[Hinzufügen eines Produktadmins](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
 
 ## Benutzerverwaltung {#user-management}
 
 Hinzufügen und Entfernen von Benutzenden. Abgeschlossen vom Produktadmin (oder System-
 Admin).
 
-[Hinzufügen einer Benutzerin bzw. eines Benutzers](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}
+[Hinzufügen einer Benutzerin bzw. eines Benutzers](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
-[Entfernen einer Benutzerin bzw. eines Benutzers](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user){target="_blank"}
+[Entfernen einer Benutzerin bzw. eines Benutzers](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
 ## Nur-API-Benutzende in Marketo Engage {#api-only-user-in-marketo-engage}
 
 Nur-API-Benutzende von Marketo Engage müssen in Marketo Engage erstellt und verwaltet werden.
 
-[Hinzufügen von Nur-API-Benutzenden für Adobe IMS-fähige Abonnements](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
+[Hinzufügen von Nur-API-Benutzenden für Adobe IMS-fähige Abonnements](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}
 
 ## Hinzufügen von Benutzenden über CSV {#add-users-via-csv}
 

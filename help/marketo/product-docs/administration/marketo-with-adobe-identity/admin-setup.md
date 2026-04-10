@@ -3,7 +3,7 @@ description: Erste Einrichtungsschritte für Adobe-Systemadministratoren nach de
 title: Admin-Setup
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 5%
@@ -20,7 +20,7 @@ Nachdem Sie als Adobe-Systemadministrator zu Marketo Engage in einer Adobe-Organ
 
    ![](assets/admin-setup-1.png)
 
-1. Wenn Sie zuvor bereits auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zur Adobe Admin Console. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Wenn Sie zuvor bereits auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zur Adobe Admin Console. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
@@ -56,4 +56,4 @@ Nachdem der Systemadministrator auf die Admin Console zugegriffen hat, ist es an
 
 >[!MORELIKETHIS]
 >
->[Hinzufügen oder Entfernen eines Produktadministrators](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
+>[Hinzufügen oder Entfernen eines Produktadministrators](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md){target="_blank"}
