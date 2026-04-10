@@ -3,9 +3,9 @@ description: Aktuelle Versionshinweise – Marketo-Dokumente – Produktdokument
 title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '448'
 ht-degree: 38%
 
 ---
@@ -48,19 +48,19 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
    <td> </td>
   </tr>
+   <tr>
+   <td><strong>Email Designer - Outlook Rendering Fix</strong>: Dieses Update behebt Rendering-Probleme, insbesondere in MS Outlook. Im erweiterten HTML-Modus können Sie kleinere HTML-/CSS-Änderungen vornehmen oder Ihrer E-Mail-Vorlage Skript-Tags hinzufügen.
+   </td>
+   <td>Freigegeben</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">Bearbeiten von E-Mail-Vorlagen mit dem erweiterten HTML-Editor</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
   <tr>
    <td><strong>E-Mail Designer - Brand Quality Checker</strong>: Bewerten Sie die allgemeine Inhaltsqualität, um mögliche Probleme mit Lesbarkeit, Inhaltskohärenz und Effektivität unabhängig von Ihren Markenrichtlinien zu identifizieren.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Outlook Rendering Fix</strong>: Dieses Update behebt Rendering-Probleme, insbesondere in MS Outlook. Im „Expertenmodus“ können Sie kleinere HTML-/CSS-Änderungen vornehmen oder Skript-Tags zu Ihrer E-Mail hinzufügen. (Es empfiehlt sich, keine anderen Änderungen am HTML der E-Mail vorzunehmen, um die visuellen Elemente unverändert zu lassen.)
-   </td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -92,7 +92,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Einstellung von SEO** Funktionen: Am Dienstag, 31. März 2026, wird Marketo Engage die Suchmaschinenoptimierungsfunktion (SEO) einstellen. Wenn Sie SEO nicht aktiv verwenden, müssen Sie nichts tun. Wenn Sie SEO in letzter Zeit verwendet haben, haben Sie die Möglichkeit, Ihre Daten zu exportieren. [Weitere Informationen](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=de){target="_blank"}.
+* **Einstellung von SEO** Funktionen: Am Dienstag, 31. März 2026, wird Marketo Engage die Suchmaschinenoptimierungsfunktion (SEO) einstellen. Wenn Sie SEO nicht aktiv verwenden, müssen Sie nichts tun. Wenn Sie SEO in letzter Zeit verwendet haben, haben Sie die Möglichkeit, Ihre Daten zu exportieren. [Weitere Informationen](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Limit für REST-API-Zusammenführung Leads**: Ab dem 31. März 2026 führen Aufrufe, die mehr als 25 IDs im leadIds-Parameter eines Zusammenführungs-Leads-API-Aufrufs enthalten, zu einem 1080-Fehler-Code, und der Aufruf wird übersprungen. Aufträge, die die Zusammenführung von mehr als 25 Datensätzen in einem erfordern, sollten in mehrere Aufträge aufgeteilt werden, um den Erfolg dieser Aufrufe sicherzustellen.
 

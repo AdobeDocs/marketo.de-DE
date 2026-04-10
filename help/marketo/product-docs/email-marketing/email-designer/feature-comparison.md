@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '830'
 ht-degree: 14%
 
 ---
@@ -262,22 +262,10 @@ Bitte überprüfen Sie diese Seite (sowie die [aktuellen Versionshinweise](/help
     <td>Verfügbar</td>
   </tr>
   <tr>
-    <td>Inhaltsvalidierungs-Workflows</td>
-    <td>Möglichkeit, Validierungs-Workflows für E-Mails in Marketo Engage einzuführen.</td>
-    <td>Nicht verfügbar</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>E-Mails im CRM</td>
-    <td>Möglichkeit, Informationen zu E-Mails an Ihr CRM-System zu senden.</td>
+    <td>HTML-Editor</td>
+    <td>Möglichkeit, den HTML-Inhalt von <a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md">E-Mail-Vorlagen</a> zu ändern.</td>
     <td>Verfügbar</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Code-Editor</td>
-    <td>Möglichkeit, den HTML-Inhalt von E-Mails, E-Mail-Vorlagen und Fragmenten zu ändern.</td>
     <td>Verfügbar</td>
-    <td>TBD</td>
   </tr>
   <tr>
     <td>Unterstützung für das Verschieben, Löschen und Importieren von Programmen mit E-Mail-Assets</td>
