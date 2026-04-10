@@ -34,7 +34,7 @@ Sie können die Produktadministratorrollen Admin oder Adobe nicht löschen, aber
 
 ## Einem Benutzer Rollen zuweisen {#assign-roles-to-a-user}
 
-Einem Benutzer können Sie Rollen zuweisen, wenn Sie [Benutzer zum ersten Mal erstellen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) oder indem Sie [ vorhandenen Benutzer ](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Einem Benutzer können Sie Rollen zuweisen, wenn Sie [Benutzer zum ersten Mal erstellen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) oder indem Sie [&#x200B; vorhandenen Benutzer &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
