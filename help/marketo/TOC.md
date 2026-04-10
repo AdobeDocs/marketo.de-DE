@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '9171'
+source-wordcount: '9176'
 ht-degree: 99%
 
 ---
@@ -208,7 +208,7 @@ ht-degree: 99%
          + [Erstellen einer Nur-API-Benutzerrolle](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-Mail-Überprüfung](product-docs/administration/users-and-roles/email-verification.md)
-         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen &#x200B;](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
+         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen ](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Verwalten von Marketo-Benutzenden](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Verwalten von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportieren von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -1005,6 +1005,7 @@ ht-degree: 99%
          + [Erstellung von E-Mail-Vorlagen](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Importieren einer Vorlage](product-docs/email-marketing/email-designer/import-template.md)
          + [Konvertieren von Bildern in HTML-Vorlagen](product-docs/email-marketing/email-designer/image-to-html.md)
+         + [Erweiterter HTML-Editor für E-Mail-Vorlagen](product-docs/email-marketing/email-designer/advanced-html-mode.md)
          + [Gestalten barrierefreier Inhalte](product-docs/email-marketing/email-designer/accessible-content.md)
          + [Benutzerdefiniertes CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [Dunkler Modus](product-docs/email-marketing/email-designer/dark-mode.md)
@@ -1282,7 +1283,7 @@ ht-degree: 99%
          + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Gewähren von Zugriff für Benutzende](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interessante Momente in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zu Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personen {#people}
@@ -1450,7 +1451,7 @@ ht-degree: 99%
          + Marketo {#marketo}
             + [Gewähren von Marketo-Zugriff für Benutzende](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interessante Momente in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar der Sales Insight Actions-Aktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)

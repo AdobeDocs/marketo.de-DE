@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine Marketo E-Mail-Add-in-Lizenz für Outloo
 title: Erteilen einer Lizenz für das Marketo-E-Mail-Add-in
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: e91e69fa361bd873b6a45342e7231b65a0a785f8
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '336'
 ht-degree: 4%
 
 ---
@@ -40,9 +40,9 @@ Jeder, der das Marketo E-Mail-[!DNL Outlook]-Add-in verwenden möchte, muss zun�
 
    >[!NOTE]
    >
-   >* Um das Plug-in remote zu installieren, lassen Sie das Kontrollkästchen _Registrierungs-E-Mail senden_ deaktiviert und senden Sie Ihrem IT-Team Ihren [Unternehmensschlüssel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >* Um das Plug-in remote zu installieren, lassen Sie das Kontrollkästchen _Registrierungs-E-Mail mit Download_ deaktiviert und senden Sie Ihrem IT-Team Ihren [Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >* Wenn Ihre Vertriebsmitarbeiter Administratorzugriff auf ihre Computer haben, aktivieren Sie das Kontrollkästchen _Registrierungs-E-Mail senden_ und Sie sind fertig. Die Empfänger haben **30 Tage** um auf den Link in der E-Mail zu klicken, bevor diese abläuft.
+   >* Wenn Ihre Vertriebsmitarbeiter Administratorzugriff auf ihre Computer haben, aktivieren Sie das Kontrollkästchen _Registrierungs-E-Mail mit Download_ und Sie sind fertig. Die Empfänger haben **30 Tage** um auf den Link in der E-Mail zu klicken, bevor diese abläuft.
 
 >[!MORELIKETHIS]
 >
