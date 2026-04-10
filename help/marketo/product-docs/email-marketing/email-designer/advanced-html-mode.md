@@ -7,14 +7,14 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '366'
 ht-degree: 2%
 
 ---
 
-# Bearbeiten von E-Mail-Vorlagen mit dem erweiterten HTML-Editor {#email-template-expert-mode}
+# Bearbeiten von E-Mail-Vorlagen mit dem erweiterten HTML-Editor {#advanced-html-mode}
 
 Im erweiterten HTML-Modus können Sie den Roh-Quell-Code von E-Mail-Vorlagen direkt über die [!DNL Marketo Engage] E-Mail-Designer-Benutzeroberfläche anzeigen und bearbeiten.
 
@@ -40,13 +40,13 @@ Gehen Sie wie folgt vor, um den erweiterten HTML-Editor zu öffnen und Ihre Vorl
 
 1. Öffnen oder [Erstellen einer E-Mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)Vorlage in der E-Mail-Designer.
 
-1. Klicken Sie im Bildschirm E-Mail-Vorlage bearbeiten oben rechts auf die Schaltfläche HTML .
+1. Klicken Sie _Bildschirm „E_ Mail-Vorlage bearbeiten“ oben rechts auf die Schaltfläche HTML .
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. Beim ersten Öffnen des erweiterten HTML-Editors wird eine Warnmeldung angezeigt. Klicken Sie abschließend **[!UICONTROL OK]**.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-2.png)
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ Gehen Sie wie folgt vor, um den erweiterten HTML-Editor zu öffnen und Ihre Vorl
 
 1. Der erweiterte HTML-Editor wird angezeigt.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. Fügen Sie die gewünschten Änderungen an Ihrem E-Mail-Inhalt hinzu.
 
@@ -64,7 +64,7 @@ Gehen Sie wie folgt vor, um den erweiterten HTML-Editor zu öffnen und Ihre Vorl
 
 1. Inhaltssimulation und -speicherung sind in der erweiterten HTML-Ansicht aus Kompatibilitätsgründen nicht verfügbar. Wechseln Sie zurück zur Desktop-Ansicht, um eine Vorschau Ihres Inhalts anzuzeigen und Ihre Änderungen zu speichern.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
