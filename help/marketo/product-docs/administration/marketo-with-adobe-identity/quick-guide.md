@@ -3,10 +3,10 @@ description: Kurzanleitung mit Links zum Einrichten von Marketo Engage mit Adobe
 title: Kurzanleitung
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 82%
+source-wordcount: '124'
+ht-degree: 81%
 
 ---
 
@@ -44,7 +44,3 @@ Nur-API-Benutzende von Marketo Engage müssen in Marketo Engage erstellt und ver
 ## Benutzeranmeldung {#user-sign-in}
 
 [Benutzeranmeldung mit Adobe ID](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
-
-## Häufig gestellte Fragen {#faq}
-
-[Häufig gestellte Fragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

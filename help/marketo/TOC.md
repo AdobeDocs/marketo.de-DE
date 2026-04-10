@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '9176'
+source-wordcount: '9146'
 ht-degree: 99%
 
 ---
@@ -163,16 +163,7 @@ ht-degree: 99%
          + [Überblick über Adobe Identity Management](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Admin-Setup](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Produktadmin-Setup](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [Hinzufügen von Nur-API-Benutzenden für Adobe IMS-fähige Abonnements](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-         + [Hinzufügen oder Entfernen von Produktadmins](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-         + [Hinzufügen oder Entfernen von Benutzenden](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [Häufig gestellte Fragen](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Benutzeranmeldung mit Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + Abonnement- und Benutzermigration {#subscription-and-user-migration}
-            + [Migrieren zu Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Grundlegendes zur Marketo-Abonnement- und -Benutzermigration zur Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Migration des Marketo Engage-Supports](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-            + [Handbuch zur Fehlerbehebung](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + Einstellungen {#settings}
          + [Informationen zur Massenexport-API](product-docs/administration/settings/bulk-export-api-information.md)
          + [Kampagnenprüfung](product-docs/administration/settings/campaign-inspector.md)
@@ -205,10 +196,13 @@ ht-degree: 99%
          + [Ein-/Ausblenden eines Programmkanals](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [Verwalten von Tag-Werten](product-docs/administration/tags/managing-tag-values.md)
       + Benutzende und Rollen {#users-and-roles}
+         + [Hinzufügen oder Entfernen von Produktadmins](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+         + [Hinzufügen oder Entfernen von Benutzenden](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
          + [Erstellen einer Nur-API-Benutzerrolle](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [Erstellen von Nur-API-Benutzenden](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-Mail-Überprüfung](product-docs/administration/users-and-roles/email-verification.md)
-         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen &#x200B;](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
+         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen ](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Verwalten von Marketo-Benutzenden](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Verwalten von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportieren von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -1283,7 +1277,7 @@ ht-degree: 99%
          + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Gewähren von Zugriff für Benutzende](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interessante Momente in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zu Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personen {#people}
@@ -1451,7 +1445,7 @@ ht-degree: 99%
          + Marketo {#marketo}
             + [Gewähren von Marketo-Zugriff für Benutzende](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interessante Momente in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar der Sales Insight Actions-Aktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)

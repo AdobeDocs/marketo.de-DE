@@ -3,20 +3,16 @@ description: Überblick über Adobe Identity Management für Marketo Engage, ein
 title: Überblick über Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 11%
+source-wordcount: '350'
+ht-degree: 3%
 
 ---
 
 # Überblick über Adobe Identity Management {#adobe-identity-management-overview}
 
-Alle neuen Adobe Marketo Engage-Abonnements (31. Juli 2023 oder höher) sind mit dem Adobe Identity Management-System integriert. Bestehende Marketo Engage-Abonnements werden derzeit bei jedem Verkaufsereignis in das Adobe Identity Management-System migriert, einschließlich Verlängerungen, Vertragsverlängerungen und/oder Addendums. Migrationen außerhalb eines Verkaufsereignisses werden ab Oktober 2024 unterstützt. Marketo-Administratoren erhalten 2-4 Wochen im Voraus eine Benachrichtigung, wenn ihr Abonnement außerhalb eines Verkaufsereignisses migriert werden soll.
-
->[!NOTE]
->
->Der Marketo-Support kann keine Aktualisierungen zur Adobe IMS-Migration bereitstellen. Das Adobe Account Team wird sich in den nächsten Monaten mit dem voraussichtlichen Zeitplan in Verbindung setzen. Weitere Informationen finden Sie [diesem Artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} und in den [Häufig gestellte Fragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+Alle neuen Adobe Marketo Engage-Abonnements (31. Juli 2023 oder höher) sind mit dem Adobe Identity Management-System integriert.
 
 Für Abonnements, die in Adobe Identity integriert sind, wird die Adobe Admin Console für die Benutzerverwaltung verwendet. Identitätsbezogene Konzepte, wie Single Sign-On, werden ebenfalls in der Admin Console verwaltet.
 
@@ -25,7 +21,7 @@ Für Abonnements, die in Adobe Identity integriert sind, wird die Adobe Admin Co
 
 >[!NOTE]
 >
->Wenn Sie Single Sign-on implementieren möchten und das Onboarding Ihres Abonnements in Adobe Identity ohne Implementierung von SSO in der Adobe-Organisation abgeschlossen wurde, senden Sie ein Ticket an den [Marketo-Support](https://nation.marketo.com/){target="_blank"} und geben Sie als Thema „Marketo in der Admin Console, Implementierung von SSO“ an.
+>Wenn Sie Single Sign-On implementieren möchten und Ihr Abonnement in Adobe Identity integriert wurde, ohne dass SSO in der Adobe-Organisation implementiert ist, senden Sie ein Ticket an den [Marketo-Support](https://nation.marketo.com/){target="_blank"} und geben Sie das Thema als &quot;Marketo auf Admin Console, SSO implementieren“ an.
 
 ## Profilebenen {#profile-levels}
 
@@ -54,10 +50,6 @@ In das Adobe Identity Management-System integrierte Adobe Marketo Engage-Abonnem
   <td>Eine Person, die Zugriff auf Marketo Engage erhalten hat. Keine Administratorrechte.</td>
  </tr>
 </table>
-
-## FAQs {#faq}
-
-Häufig gestellte Fragen [finden Sie hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
