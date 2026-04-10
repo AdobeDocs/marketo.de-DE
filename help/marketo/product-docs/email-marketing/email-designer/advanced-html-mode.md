@@ -1,15 +1,15 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten
-description: Erfahren Sie, wie Sie in der E-Mail-Designer benutzerdefiniertes CSS zu E-Mail-Inhalten hinzufügen. Gestalten Sie Ihre E-Mails mit benutzerdefiniertem Code in Marketo Engage.
+title: Bearbeiten von E-Mail-Vorlagen mit dem erweiterten HTML-Editor
+description: Erfahren Sie, wie Sie den rohen HTML-Quell-Code in der Marketo Engage E-Mail-Designer anzeigen und bearbeiten, einschließlich Leitplanken, Zugriffsschritten und wichtigen Einschränkungen.
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
-source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
+source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 2%
+source-wordcount: '368'
+ht-degree: 0%
 
 ---
 

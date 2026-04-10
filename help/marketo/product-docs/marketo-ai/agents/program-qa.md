@@ -4,10 +4,10 @@ title: Programm-QA
 hide: true
 hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
+source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 3%
+source-wordcount: '121'
+ht-degree: 2%
 
 ---
 
@@ -21,16 +21,24 @@ Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails
 
    ![](assets/program-qa-1.png)
 
-1. Klicken Sie auf **Programm-QA** Agent.
+1. Wählen Sie den **Programm-QA** Agent aus.
 
    ![](assets/program-qa-2.png)
 
    Sie gelangen zum Bildschirm der Konversations-KI.
 
-1. Wählen Sie das gewünschte Programm im rechten Bereich aus.
+1. Wählen Sie im rechten Bereich das Programm aus, das Sie prüfen möchten.
 
    ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-Eine Zusammenfassung des Programms wird in der Mitte angezeigt und bietet einen Überblick über das Programm.
+   Eine Zusammenfassung des Programms wird in der Mitte angezeigt und bietet einen Überblick über das Programm.
 
-![](assets/program-qa-4.png){width="450" zoomable="yes"}
+   ![](assets/program-qa-4.png){width="450" zoomable="yes"}
+
+1. Geben Sie im Eingabeaufforderungsfenster „QA-Programm“ ein und klicken Sie auf **Senden**.
+
+   ![](assets/program-qa-5.png)
+
+Der KI-Assistent bietet eine Qualitätssicherung des ausgewählten Programms, die Ihnen zeigt, was bestanden wurde und was fehlgeschlagen ist.
+
+![](assets/program-qa-6.png)
