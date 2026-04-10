@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine Marketo E-Mail-Add-in-Lizenz für Outloo
 title: Erteilen einer Lizenz für das Marketo-E-Mail-Add-in
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: e91e69fa361bd873b6a45342e7231b65a0a785f8
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '330'
 ht-degree: 4%
 
 ---
@@ -34,19 +34,15 @@ Jeder, der das Marketo E-Mail-[!DNL Outlook]-Add-in verwenden möchte, muss zun�
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
-1. Geben Sie die E-Mail-Adressen der Vertriebsmitarbeiter ein, die zur Verwendung des Plug-ins autorisiert werden müssen, und klicken Sie auf **[!UICONTROL Lizenz erteilen]**.
+1. Geben Sie die E-Mail-Adressen der Vertriebsmitarbeiter ein, die zur Verwendung des Plug-ins autorisiert werden müssen, und klicken Sie auf **[!UICONTROL Lizenz erteilen]**. Wenn Sie mehrere E-Mail-Adressen eingeben möchten, trennen Sie sie durch ein Komma.
 
-   ![](assets/image2016-8-31-9-3a37-3a8.png)>
-
-   >[!TIP]
-   >
-   >Sie können mehrere E-Mail-Adressen eingeben, die durch ein Komma getrennt sind.
+   ![](assets/image2016-8-31-9-3a37-3a8.png)
 
    >[!NOTE]
    >
-   >Um das Plug-in remote zu installieren, lassen Sie das Kontrollkästchen deaktiviert und senden Sie Ihrem IT-Team Ihren [Unternehmensschlüssel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >* Um das Plug-in remote zu installieren, lassen Sie das Kontrollkästchen _Registrierungs-E-Mail senden_ deaktiviert und senden Sie Ihrem IT-Team Ihren [Unternehmensschlüssel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >Wenn Ihre Vertriebsmitarbeiter Administratorzugriff auf ihre Computer haben, aktivieren Sie das Kontrollkästchen, und Sie sind fertig!
+   >* Wenn Ihre Vertriebsmitarbeiter Administratorzugriff auf ihre Computer haben, aktivieren Sie das Kontrollkästchen _Registrierungs-E-Mail senden_ und Sie sind fertig. Die Empfänger haben **30 Tage** um auf den Link in der E-Mail zu klicken, bevor diese abläuft.
 
 >[!MORELIKETHIS]
 >
