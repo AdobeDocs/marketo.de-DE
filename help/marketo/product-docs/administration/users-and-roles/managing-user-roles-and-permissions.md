@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Benutzerrollen festlegen, erstellen und bearb
 title: Verwalten von Benutzerrollen und -berechtigungen
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '497'
+ht-degree: 2%
 
 ---
 
@@ -24,20 +24,17 @@ Marketing-Benutzende benötigen beispielsweise in der Regel umfassenden Zugriff 
 Marketo bietet mehrere integrierte Rollen mit unterschiedlichen Zugriffsebenen:
 
 * **Admin** - alle Teile des Programms, einschließlich des Administratorbereichs
+* **Adobe-Produktadministrator** - Alle Teile des Programms, einschließlich des Administratorbereichs
 * **Standardbenutzer** - alle Teile des Programms mit Ausnahme des Abschnitts „Admin“
 * **Marketing-Benutzer** - alle Teile des Programms, mit Ausnahme des Administratorbereichs
 * **Web Designer** - nur das Design Studio
 * **Analytics-Benutzer** - nur der Abschnitt „Analytics“
 
-Sie können die Rollen „Admin“ und „Standard-Benutzer“ nicht bearbeiten, aber die anderen. Sie können auch neue benutzerdefinierte Rollen erstellen, die den bestimmten Organisationsstrukturen in Ihrem Unternehmen entsprechen.
-
-## Marketo mit Adobe Identity {#marketo-with-adobe-identity}
-
-Wenn Sie Marketo mit Adobe Identity verwenden, finden Sie [&#x200B; Liste der Profilbeschreibungen hier](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
+Sie können die Produktadministratorrollen Admin oder Adobe nicht löschen, aber Sie können die anderen bearbeiten/löschen. Sie können auch neue benutzerdefinierte Rollen erstellen, die den bestimmten Organisationsstrukturen in Ihrem Unternehmen entsprechen.
 
 ## Einem Benutzer Rollen zuweisen {#assign-roles-to-a-user}
 
-Einem Benutzer können Sie Rollen zuweisen, wenn Sie [Benutzer zum ersten Mal erstellen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) oder indem Sie [&#x200B; vorhandenen Benutzer &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Einem Benutzer können Sie Rollen zuweisen, wenn Sie [Benutzer zum ersten Mal erstellen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) oder indem Sie [ vorhandenen Benutzer ](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
