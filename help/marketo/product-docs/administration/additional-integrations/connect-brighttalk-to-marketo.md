@@ -4,7 +4,7 @@ description: Verbinden Sie Ihren  [!DNL BrightTALK] -Kanal über LaunchPoint mit
 title: Verbindung  [!DNL BrightTALK]  Marketo herstellen
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 2%
@@ -21,8 +21,8 @@ Erfahren Sie, wie Sie Ihren [!DNL BrightTALK]-Kanal mit Ihrer Marketo-Instanz ve
 
 ## Schritte in [!DNL BrightTALK] {#steps-in-brighttalk}
 
-1. Melden Sie sich bei [business.brighttalk.com/demandcentral an &#x200B;](https://business.brighttalk.com/demandcentral/login){target="_blank"} klicken Sie auf **[!UICONTROL Jetzt verbinden]**.
-1. Klicken [!UICONTROL &#x200B; unter „Erweiterter Marketo-]&quot; auf **[!UICONTROL Verbinden]**.
+1. Melden Sie sich bei [business.brighttalk.com/demandcentral an ](https://business.brighttalk.com/demandcentral/login){target="_blank"} klicken Sie auf **[!UICONTROL Jetzt verbinden]**.
+1. Klicken [!UICONTROL  unter „Erweiterter Marketo-]&quot; auf **[!UICONTROL Verbinden]**.
 1. Sie gelangen zum Bildschirm mit den Anmeldeinformationen und fragen nach: Client-ID, Client-Geheimnis, Identity Service-URL und REST-Service-URL. Um diese Informationen zu erhalten, melden Sie sich bei Marketo an.
 
 ## Schritte in Marketo {#steps-in-marketo}
@@ -33,7 +33,7 @@ Erfahren Sie, wie Sie Ihren [!DNL BrightTALK]-Kanal mit Ihrer Marketo-Instanz ve
 
 1. Erstellen Sie eine [Benutzerrolle nur für API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
-1. [Erstellen eines API-](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} mithilfe der [!DNL BrightTALK] API-Rolle, die Sie in Schritt 4 erstellt haben.
+1. [Erstellen eines API-](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"} mithilfe der [!DNL BrightTALK] API-Rolle, die Sie in Schritt 4 erstellt haben.
 
 1. Gehen Sie zurück zum Bereich **[!UICONTROL Admin]**.
 
@@ -55,7 +55,7 @@ Erfahren Sie, wie Sie Ihren [!DNL BrightTALK]-Kanal mit Ihrer Marketo-Instanz ve
    >
    >Denken Sie daran, [!DNL BrightTALK] nicht in der Dropdown-Liste auszuwählen. Dieses Feld werden wir derzeit entfernen. Seine Auswahl könnte zu erheblichen Problemen mit Ihrer [!DNL Marketo/BrightTALK]-Integration führen.
 
-1. Geben Sie [!UICONTROL &#x200B; gewünschte &#x200B;] ein. Klicken Sie auf die **[!UICONTROL Nur API-Benutzer]** Dropdown-Liste und wählen Sie die [!DNL BrightTALK API User] aus, die Sie in Schritt 5 erstellt haben. Klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie [!UICONTROL  gewünschte ] ein. Klicken Sie auf die **[!UICONTROL Nur API-Benutzer]** Dropdown-Liste und wählen Sie die [!DNL BrightTALK API User] aus, die Sie in Schritt 5 erstellt haben. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/connect-brighttalk-to-marketo-5.png)
 
