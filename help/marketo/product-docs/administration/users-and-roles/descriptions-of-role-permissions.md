@@ -4,10 +4,10 @@ description: Referenzliste aller Rollenberechtigungen in Marketo, einschließlic
 title: Beschreibungen der Rollenberechtigungen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
 workflow-type: tm+mt
-source-wordcount: '1468'
-ht-degree: 16%
+source-wordcount: '1320'
+ht-degree: 18%
 
 ---
 
@@ -32,10 +32,10 @@ Wenn Sie [eine Rolle erstellen oder bearbeiten](/help/marketo/product-docs/admin
 Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 
 * Zugriff auf Adobe Connect : Ermöglicht Benutzenden den Zugriff auf den Adobe Connect-Bildschirm
-* Zugriff auf Adobe Experience Manager&#42; - Ermöglicht Benutzenden den Zugriff auf den Adobe Experience Manager-Bildschirm
-* Zugriff auf die Adobe-Organisationszuordnung&#42; : Ermöglicht Benutzenden Zugriff auf den Bildschirm für die Adobe-Organisationszuordnung
-* Admin-Audit-Protokoll &#42;: Ermöglicht Benutzenden Zugriff auf den Bildschirm Admin-Audit-Protokoll .
-* Zugriff auf Audit-Protokoll&#42; - Ermöglicht Benutzern Zugriff auf das Audit-Protokoll
+* Zugriff auf Adobe Experience Manager : Ermöglicht Benutzenden den Zugriff auf den Adobe Experience Manager-Bildschirm
+* Zugriff auf die Adobe-Organisationszuordnung : Ermöglicht Benutzenden den Zugriff auf den Bildschirm für die Adobe-Organisationszuordnung
+* Admin-Audit-Protokoll aufrufen : Ermöglicht Benutzenden den Zugriff auf den Bildschirm Admin-Audit-Protokoll .
+* Zugriff auf Audit-Protokoll - Ermöglicht Benutzern Zugriff auf Audit-Protokoll
 * Zugriff auf Audit-Protokoll - Ermöglicht Benutzenden Zugriff auf Asset-Audit-Protokoll und Admin-Audit-Protokoll
 * Zugriff auf CAPTCHA - Zugriff auf den CAPTCHA-Bildschirm
 * Zugriff auf Kanäle - Ermöglicht Benutzenden nur Zugriff, um das Kanal-Tag zu ändern, nicht auf andere benutzerdefinierte Tags
@@ -51,11 +51,11 @@ Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 * Zugriffsstandort : Ermöglicht Benutzenden den Zugriff auf den Standort in Admin, um Standardsprache, Gebietsschema, Zeitzone und Währung festzulegen
 * Zugriff auf Anmeldeverlauf - Ermöglicht Benutzern Zugriff auf den Anmeldeverlauf des Benutzers im Audit-Protokoll
 * Zugriff auf Anmeldeeinstellungen : Ermöglicht Benutzern Zugriff auf Anmeldeeinstellungen in Admin für Sicherheit, IP-Einschränkungen und Berichteinstellungen für Smart-Listen
-* Auf neues Erlebnis zugreifen&#42; - Ermöglicht Benutzern Zugriff auf den Bildschirm Neues Erlebnis
+* Zugriff auf ein neues Erlebnis - Ermöglicht Benutzenden den Zugriff auf den Bildschirm Neues Erlebnis .
 * Zugriff auf benutzerdefinierte Marketo-Aktivitäten - Ermöglicht Benutzenden Zugriff auf benutzerdefinierte Marketo-Aktivitäten in Admin
 * Zugriff auf benutzerdefiniertes Marketo-Objekt - Ermöglicht Benutzern Zugriff auf benutzerdefinierte Marketo-Objekte in Admin
 * [!DNL Munchkin] - Ermöglicht Benutzern Zugriff auf [!DNL Munchkin] in Admin, um Trackingcode, Personenverfolgung und die Aktivierung der API-Konfiguration festzulegen
-* Zugriff auf prädiktive &#42;: Ermöglicht Benutzern Zugriff auf den Bildschirm Prädiktive Zielgruppen .
+* Zugriff auf prädiktive Zielgruppen : Ermöglicht Benutzern Zugriff auf den Bildschirm Prädiktive Zielgruppen .
 * Zugriff auf die Analyse des Umsatzzyklus : Ermöglicht Benutzern den Zugriff auf die Analyse des Umsatzzyklus in Admin, um die Synchronisierungszusammenfassung und -zuordnung festzulegen
 * Zugriffsrollen - Ermöglicht Benutzenden Zugriff zum Verwalten und Bearbeiten von Rollen, jedoch nicht Benutzern
 * Zugriff auf Sales Insight : Ermöglicht Benutzenden die Verwaltung von Sales Insight in Admin, um Status, API-Konfiguration, Personen-Scoring und andere Einstellungen festzulegen
@@ -67,8 +67,6 @@ Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 * Auf Benutzer zugreifen : Ermöglicht Benutzern das Bearbeiten und Verwalten von Benutzern (nicht jedoch von Rollen) in der Admin Console
 * Zugriff auf Webhooks : Ermöglicht Benutzern Webhooks in Admin, um Details festzulegen und Antwortzuordnungen vorzunehmen.
 * Zugriff auf Arbeitsbereiche und Partitionen - Ermöglicht Benutzern das Erstellen, Bearbeiten und Löschen von Arbeitsbereichen und Partitionen in Admin
-
-_&#42;Um eine Unterbrechung für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist derzeit sichtbar, aber nicht zugänglich. Wir werden mitteilen, wie dies implementiert werden kann, wenn es Mitte 2024 aktiv wird._
 
 ## Auf API zugreifen  {#access-api}
 
@@ -94,7 +92,7 @@ Ermöglicht Benutzenden mit der **Nur API** **Rolle** Zugriff auf die unten aufg
 * Objekt mit Lese-/Schreibzugriff
 * Lese-/Schreib-Person
 * Benanntes Konto mit Lese-/Schreibzugriff
-* Vertriebschance mit Lese-/Schreibzugriff
+* Verkaufschance mit Lese-/Schreibzugriff
 * Vertriebsmitarbeiter mit Lese-/Schreibzugriff
 
 ## Auf Analytics zugreifen {#access-analytics}
@@ -102,11 +100,9 @@ Ermöglicht Benutzenden mit der **Nur API** **Rolle** Zugriff auf die unten aufg
 Ermöglicht Benutzenden Zugriff auf die Analytics-Registerkarten, E-Mail-Einblicke, Berichte und die drei folgenden Elemente, es sei denn, sie sind deaktiviert.
 
 * Zugriff auf den Umsatz-Explorer - Durch Deaktivieren der Option wird der Zugriff des Benutzers auf den Umsatz-Explorer entfernt
-* Bericht erstellen&#42; - Ermöglicht Benutzenden das Erstellen, Klonen, Lesen, Aktualisieren und Verschieben von Berichts-Assets in Analytics- und Marketing-Aktivitäten sowie von Modeler-Assets im Umsatzzyklus
+* Bericht erstellen - Ermöglicht Benutzenden das Erstellen, Klonen, Lesen, Aktualisieren und Verschieben von Berichts-Assets in Analytics- und Marketing-Aktivitäten sowie von Modeler-Assets im Umsatzzyklus
 * Bericht löschen - Durch Aufheben der Markierung kann der Benutzer Berichte löschen
 * Analytics-Daten exportieren - Durch Deaktivieren der Option wird die Möglichkeit des Benutzers entfernt, Analytics-Daten zu exportieren
-
-_&#42;Um eine Unterbrechung für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist derzeit sichtbar, aber nicht zugänglich. Wir werden mitteilen, wie dies implementiert werden kann, wenn es Mitte 2024 aktiv wird._
 
 ## Auf Kalenderpräsentationen zugreifen {#access-calendar-presentations}
 
@@ -178,7 +174,7 @@ Anzeigen der Datenbank sowie Anzeigen und Bearbeiten von Smart-/Static-Listen.
    * Segmentierung bearbeiten
 
 * Löschen von Person
-* Liste erstellen&#42;
+* Liste erstellen
    * Zugriff zum Erstellen einer Asset-Liste in Datenbank- und Marketing-Aktivitäten
    * Zugriff zum Erstellen von Smart-Listen-Assets in Datenbank- und Marketing-Aktivitäten
 * Liste löschen
@@ -190,8 +186,6 @@ Anzeigen der Datenbank sowie Anzeigen und Bearbeiten von Smart-/Static-Listen.
 * Einzelflussaktionen ausführen - Ermöglicht Benutzern das Ausführen **Flussschritts „Datenwert ändern** für Personen aus der Datenbank
 
 * Opportunity-Daten anzeigen - Blendet die Opportunity-Informationen auf der Personendetailseite aus.
-
-_&#42;Um eine Unterbrechung für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist derzeit sichtbar, aber nicht zugänglich. Wir werden mitteilen, wie dies implementiert werden kann, wenn es Mitte 2024 aktiv wird._
 
 ## Auf Marketingaktivitäten zugreifen {#access-marketing-activities}
 
@@ -225,8 +219,6 @@ Auf SEO zugreifen
 
 * SEO verwalten
 * SEO-Standard
-
-_&#42;Um eine Unterbrechung für bestehende Benutzer zu vermeiden, wird diese Berechtigung im passiven Modus eingeführt und ist derzeit sichtbar, aber nicht zugänglich. Wir werden mitteilen, wie dies implementiert werden kann, wenn es Mitte 2024 aktiv wird._
 
 ## Zielgruppe und Personalisierung {#targeting-and-personalization}
 
