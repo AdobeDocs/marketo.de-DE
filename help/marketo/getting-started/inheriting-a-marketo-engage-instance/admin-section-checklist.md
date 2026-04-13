@@ -3,7 +3,7 @@ description: Checkliste für geerbte Instanzen - Marketo-Dokumente - Produktdoku
 title: Checkliste für geerbte Instanzadministratoren
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '1850'
 ht-degree: 4%
@@ -22,7 +22,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
 
 >[!NOTE]
 >
->Dies gilt nur für Marketo Engage-Abonnements, die in das [Adobe Identity Management System (IMS) integriert &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Wenn Adobe IMS noch nicht in Ihr Abonnement integriert wurde, fahren Sie mit dem Erlebnis [Legacy-Benutzerrollen und -Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Admin > Benutzer und Rollen fort.
+>Dies gilt nur für Marketo Engage-Abonnements, die in das [Adobe Identity Management System (IMS) integriert ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Wenn Adobe IMS noch nicht in Ihr Abonnement integriert wurde, fahren Sie mit dem Erlebnis [Legacy-Benutzerrollen und -Berechtigungen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Admin > Benutzer und Rollen fort.
 
 <table>
  <tbody>
@@ -64,7 +64,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <td>Benutzer</td>
    <td><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Wenn Ihr Abonnement bereits über Adobe IMS erfolgt, fahren Sie mit der folgenden Benutzerverwaltungsprüfung in Adobe Admin Console fort. Gehen Sie andernfalls zu Admin &gt; Benutzer &amp; Rollen &gt; Benutzer in Marketo Engage.
    <p>
-   <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Wie viele Benutzer </a> es?</li>
+   <li>Wie viele Benutzer gibt es?</li>
 <li>Gibt es Benutzer, die entfernt <a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user" target="_blank"> sollen</a>?</li>
 <li>Hat Ihr Unternehmen Richtlinien zum Löschen von Benutzern?</li>
 <li>Wie viele Benutzer haben <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Administratorrechte</a>?</li>
@@ -281,7 +281,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
    <td>Munchkin</td>
    <td><li>Ist Ihr <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-Trackingcode</a> auf Ihrer Website (keine Marketo Engage-Landingpage)?</li>
 <li>Ist eine <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Do Not Track</a>-Browser-Anfrage aktiviert?</li>
-<li>Ist Ihre <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin-API</a> konfiguriert?
+<li>Ist Ihre <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin-API</a> konfiguriert?
 <p><img src="assets/tip-icon.png" alt="Tipp-Symbol">TIPP: Wenn Sie keine Dokumentation darüber haben, wo sich der Munchkin-Code auf Ihrer Website befindet, können Sie alle URLs anzeigen, indem Sie einen <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Web Page Activity Report</a> erstellen.</li></td>
   </tr>
   <tr>
@@ -293,7 +293,7 @@ Die folgenden Checklisten (nachfolgende Checklisten, die am Ende jedes Artikels 
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (falls anwendbar)</td>
-<td>Für die folgenden Schritte ist der Zugriff auf die <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a> erforderlich. Wenn Sie noch kein Adobe ID eingerichtet haben, finden <a href="https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html" target="_blank"> hier Informationen dazu</a>.
+<td>Für die folgenden Schritte ist der Zugriff auf die <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a> erforderlich. Wenn Sie noch kein Adobe ID eingerichtet haben, finden <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank"> hier Informationen dazu</a>.
 <br/>
 <li>Haben Sie die Einladung zum <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat-</a> angenommen? Die E-Mail wird gesendet, wenn Dynamic Chat in Ihrer Marketo Engage-Instanz aktiviert ist und Sie als Systemadministrator bestimmt werden.
 <br/>     Suchen Sie andernfalls in Ihrem Posteingang nach der Begrüßungs-E-Mail und akzeptieren Sie die Einladung zum Einrichten Ihrer Adobe ID.</li>
