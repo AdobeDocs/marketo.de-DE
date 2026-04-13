@@ -4,10 +4,10 @@ description: Schritte zum Erstellen, Löschen und Bearbeiten von Benutzerrollen,
 title: Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 7%
+source-wordcount: '283'
+ht-degree: 8%
 
 ---
 
@@ -95,10 +95,6 @@ ht-degree: 7%
    >[!NOTE]
    >
    >Die an der Rolle vorgenommenen Änderungen wirken sich auf jeden mit dieser Rolle verbundenen Benutzer aus.
-
-   >[!TIP]
-   >
-   >Möchten Sie die E-Mail-Adresse des Kontos aktualisieren? [Hier erfahren Sie mehr darüber](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Benutzerrolle ändern {#change-a-users-role}
 
