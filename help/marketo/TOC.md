@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
 workflow-type: tm+mt
-source-wordcount: '9146'
+source-wordcount: '9132'
 ht-degree: 99%
 
 ---
@@ -168,8 +168,6 @@ ht-degree: 99%
          + [Informationen zur Massenexport-API](product-docs/administration/settings/bulk-export-api-information.md)
          + [Kampagnenprüfung](product-docs/administration/settings/campaign-inspector.md)
          + [Ändern der Attributionseinstellungen für Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Ändern des Marketo-Kennworts](product-docs/administration/settings/change-your-marketo-password.md)
-         + [Ändern der Einstellungen für Kennwortsicherheit](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Erstellen einer benutzerdefinierten Registerkarte für die Seite „Personendetails“](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [Bearbeiten der Kontoeinstellungen](product-docs/administration/settings/edit-account-settings.md)
          + [Bearbeiten der Browser-Support-Einstellungen „Nicht nachverfolgen“](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
@@ -185,7 +183,7 @@ ht-degree: 99%
          + [Beschränken von Marketo-Anmeldungen auf Grundlage von IP-Adressen](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Zeitzone ändern](product-docs/administration/settings/change-time-zone.md)
          + [Festlegen einer Fallback-Seite](product-docs/administration/settings/set-a-fallback-page.md)
-         + [Festlegen der standardmäßigen Standorteinstellungen für ein Abonnement](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
+         + [Standardwährung festlegen](product-docs/administration/settings/set-default-currency.md)
          + [Grundlegendes zu Datenschutzeinstellungen](product-docs/administration/settings/understanding-privacy-settings.md)
       + Tags {#tags}
          + [Erstellen eines neuen Programms mit Tags und Tag-Werten](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
@@ -201,9 +199,8 @@ ht-degree: 99%
          + [Erstellen einer Nur-API-Benutzerrolle](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Erstellen von Nur-API-Benutzenden](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [E-Mail-Überprüfung](product-docs/administration/users-and-roles/email-verification.md)
-         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen &#x200B;](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
-         + [Verwalten von Marketo-Benutzenden](product-docs/administration/users-and-roles/managing-marketo-users.md)
+         + [Bearbeiten von Benutzer-Arbeitsbereichen](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen ](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Verwalten von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportieren von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Beschreibungen der Rollenberechtigungen](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
@@ -1277,7 +1274,7 @@ ht-degree: 99%
          + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Gewähren von Zugriff für Benutzende](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interessante Momente in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zu Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personen {#people}
@@ -1445,7 +1442,7 @@ ht-degree: 99%
          + Marketo {#marketo}
             + [Gewähren von Marketo-Zugriff für Benutzende](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interessante Momente in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar der Sales Insight Actions-Aktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
