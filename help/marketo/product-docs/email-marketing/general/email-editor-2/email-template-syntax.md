@@ -4,10 +4,10 @@ description: Informationen zur Syntax von E-Mail-Vorlagen im E-Mail-Editor 2.0. 
 title: Syntax von E-Mail-Vorlagen
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '2462'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -29,7 +29,7 @@ Die Marketo-E-Mail-Syntax funktioniert nur in Vorlagen und einzelnen E-Mails. Si
 
 Elemente sind Inhaltsbereiche, die Sie in Ihrer E-Mail-Vorlage als bearbeitbar definieren. Die Bearbeitung eines Elements ist abhängig vom Typ und bietet eine einfache Möglichkeit, mit Inhalten zu arbeiten. Die möglichen Elemente, die in eine E-Mail-Vorlage aufgenommen werden können, sind:
 
-* Rich Text
+* RTF
 * Bilder
 * Ausschnitte
 * Videos
@@ -106,7 +106,7 @@ Standardwert (optional)
 
 Beispiel:
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Option 2: Verwenden von \&lt;img\> {#option-use-an-img}
 
@@ -128,7 +128,7 @@ Beispiel:
 
 ## Ausschnitte {#snippets}
 
-Wenn Sie einen Bereich als Ausschnitt definieren, können Endbenutzende auswählen, welcher genehmigte [Ausschnitt](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) in diesen Bereich eingefügt werden soll. Rich-Text-Elemente können zwar mit dem E-Mail-Editor in Ausschnitte konvertiert werden, wenn Sie jedoch einen Bereich speziell als Ausschnitt definieren, kann er nicht in Rich-Text konvertiert werden. Sie können einen Ausschnittbereich mithilfe eines `<div>` mit „class=&quot;mktoSnippet&quot;“ angeben.
+Wenn Sie einen Bereich als Snippet definieren, können Endbenutzer auswählen, welches genehmigte [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) in diesen Bereich eingefügt werden soll. Rich-Text-Elemente können zwar mit dem E-Mail-Editor in Ausschnitte konvertiert werden, wenn Sie jedoch einen Bereich speziell als Ausschnitt definieren, kann er nicht in Rich-Text konvertiert werden. Sie können einen Ausschnittbereich mithilfe eines `<div>` mit „class=&quot;mktoSnippet&quot;“ angeben.
 
 Erforderliche Attribute
 
@@ -370,4 +370,4 @@ Erforderliche Attribute
 
 >[!CAUTION]
 >
->Container können nur Module enthalten. Wenn noch etwas vorhanden ist, wird der Container als ungültig betrachtet. Pro Vorlage ist nur ein Container zulässig.
+>Container können nur Module enthalten. Wenn noch etwas vorhanden ist, wird der Container als ungültig erachtet. Pro Vorlage ist nur ein Container zulässig.

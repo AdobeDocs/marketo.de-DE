@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '9129'
 ht-degree: 99%
@@ -199,7 +199,7 @@ ht-degree: 99%
          + [Erstellen von Nur-API-Benutzenden](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Bearbeiten von Benutzer-Arbeitsbereichen](product-docs/administration/users-and-roles/edit-user-workspaces.md)
-         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen &#x200B;](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
+         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen ](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Verwalten von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportieren von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Beschreibungen der Rollenberechtigungen](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
@@ -933,7 +933,7 @@ ht-degree: 99%
             + [Exportieren einer Liste mit personalisierten URLs](product-docs/demand-generation/landing-pages/personalizing-landing-pages/export-a-list-with-personalized-urls.md)
             + [Einbinden einer ICS-Datei für Kalenderereignisse in eine Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
             + [Umleiten eines URL-Pfads](product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
-            + [Token – Überblick](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+            + [Token – Übersicht](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [Verwenden von dynamischen Inhalten in einer Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [Verwenden des URL-Builders](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
       + Social {#social}
@@ -988,6 +988,12 @@ ht-degree: 99%
             + [Priorisieren von Stream-Inhalten](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [Entfernen von Stream-Inhalten](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + E-Mail-Designer {#email-designer}
+         + Marken {#brands}
+            + [Markenthemen](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [Marke anwenden](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Marken erstellen und verwalten](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Marken personalisieren](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + [Markenausrichtung](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
          + [Überblick](product-docs/email-marketing/email-designer/overview.md)
          + [Funktionsvergleich](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Erstellung von E-Mails](product-docs/email-marketing/email-designer/email-authoring.md)
@@ -1010,12 +1016,6 @@ ht-degree: 99%
          + [E-Mail-Zusammenarbeit](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [KI-Assistent für E-Mail Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Bericht zu E-Mail-Spam mit SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-         + Marken {#brands}
-            + [Markenthemen](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-            + [Marke anwenden](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-            + [Marken erstellen und verwalten](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [Marken personalisieren](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-            + [Markenausrichtung](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + E-Mail-Programme {#email-programs}
          + Erstellen eines E-Mail-Programms {#creating-an-email-program}
             + [Erstellen eines E-Mail-Programms](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1273,7 +1273,7 @@ ht-degree: 99%
          + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Gewähren von Zugriff für Benutzende](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interessante Momente in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zu Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personen {#people}
@@ -1441,7 +1441,7 @@ ht-degree: 99%
          + Marketo {#marketo}
             + [Gewähren von Marketo-Zugriff für Benutzende](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interessante Momente in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende ](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar der Sales Insight Actions-Aktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
