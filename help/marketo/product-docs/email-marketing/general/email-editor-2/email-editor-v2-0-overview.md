@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über Email Editor v2.0 und seine Funktionen. Ers
 title: Überblick über E-Mail-Editor v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: b27b9d4306040e3b22557d8065684c62f0a604e0
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 96%
+source-wordcount: '476'
+ht-degree: 86%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
 
 >[!IMPORTANT]
 >
->Es ist noch kein genaues Datum festgelegt, aber der klassische E-Mail-Editor wird wahrscheinlich irgendwann im Jahr 2027 eingestellt (wir werden das genaue Datum bekanntgeben, wenn es feststeht). Es wird dringend empfohlen, mit der Einführung des erweiterten [E-Mail-Designers](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} zu beginnen, da er über viele Funktionen verfügt, die im klassischen Editor nicht verfügbar sind.
+>Es gibt zwar kein genaues Datum, aber der klassische E-Mail-Editor wird letztendlich eingestellt (wir werden ein genaues Datum bekannt geben, wenn wir eines haben). Es wird dringend empfohlen, mit der Einführung der erweiterten [E-Mail-Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} zu beginnen, da sie über viele Funktionen verfügt, die im klassischen Editor nicht verfügbar sind.
 
 **Auswahl der E-Mail-Vorlagen**
 
