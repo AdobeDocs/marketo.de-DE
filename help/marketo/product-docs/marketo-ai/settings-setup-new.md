@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie Marketo-KI-Berechtigungen aktivieren, Organis
 title: Einstellungen und Setup
 hide: true
 hidefromtoc: true
-source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
+source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '491'
 ht-degree: 4%
 
 ---
@@ -16,7 +16,7 @@ Erfahren Sie, wie Sie Berechtigungen aktivieren und den Bereich Einstellungen ve
 
 ## Berechtigungen und Rollen {#permission-and-role}
 
-Es gibt einen _Build mit KI_-Berechtigung und eine _Build mit KI_-Rolle, die Admins größere Kontrolle darüber gibt, welche Benutzer auf die Funktion **Build mit KI** zugreifen können. Die Berechtigung wird auf Rollenebene zugewiesen. Die Rolle _Build mit KI_ verfügt standardmäßig über die Berechtigung _Zugriff auf Build mit_ KI) .
+Es gibt einen _Build mit KI_-Berechtigung und eine _Build mit KI-Benutzer_-Rolle, die Admins größere Kontrolle darüber gibt, welche Benutzer auf die Funktion **Build mit KI** zugreifen können. Die Berechtigung wird auf Rollenebene zugewiesen. Die Rolle _Build with AI User_ verfügt standardmäßig über die Berechtigung _Zugriff auf Build mit_-Funktion .
 
 >[!IMPORTANT]
 >
@@ -79,6 +79,10 @@ Gehen Sie wie folgt vor, um _Zugriff erstellen mit KI_ für qualifizierte Rollen
 
 Führen Sie diese Schritte aus, um der Rolle _Erstellen mit KI-Benutzer_ einen bestimmten Benutzer zuzuweisen.
 
+>[!NOTE]
+>
+>Diese Rolle **nur** enthält Berechtigungen _Zugriff auf Build mit_). Wenn Sie möchten, dass die Benutzenden Zugriff auf mehr als nur Marketo AI haben, stellen Sie sicher, dass Sie zusätzliche Berechtigungen hinzufügen.
+
 1. Klicken Sie in „Meine Marketo **auf &quot;**&quot; und dann **Benutzer und Rollen**.
 
    ![](assets/settings-setup-1.png)
@@ -93,7 +97,7 @@ Führen Sie diese Schritte aus, um der Rolle _Erstellen mit KI-Benutzer_ einen b
 
 ### Benutzerdefinierte Rolle {#custom-role}
 
-Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, _Zugriff mit KI erstellen_ zusammen mit allem anderen, was Sie möchten, und [diese Rolle &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
+Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, _Zugriff mit KI erstellen_ zusammen mit allem anderen, was Sie möchten, und [diese Rolle ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
 
 ## Einstellungen {#settings}
 
