@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über Email Editor v2.0 und seine Funktionen. Ers
 title: Überblick über E-Mail-Editor v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: b27b9d4306040e3b22557d8065684c62f0a604e0
+source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 86%
+source-wordcount: '457'
+ht-degree: 85%
 
 ---
 
@@ -102,12 +102,6 @@ Sie haben die Möglichkeit, einen [!UICONTROL Preheader] hinzuzufügen. Ein [!UI
 >[!CAUTION]
 >
 >Token funktionieren im [!UICONTROL Preheader] nicht, wenn der E-Mail-Editor verwendet wird. Um ein Token im [!UICONTROL Preheader] zu verwenden, muss es über Ihre eigene HTML in einer E-Mail-Vorlage konfiguriert werden.
-
-Es sind viele großartige neue Funktionen verfügbar. Viel Spaß.
-
->[!NOTE]
->
->Wenn Sie noch mehr erfahren möchten, sehen Sie sich dieses [Video](https://nation.marketo.com/videos/1463) an.
 
 >[!MORELIKETHIS]
 >
