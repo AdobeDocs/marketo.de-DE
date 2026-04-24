@@ -2,12 +2,10 @@
 description: Erkunden Sie die Marketo Engage AI-Suite von Agenten, die Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr automatisieren.
 title: Marketo Engage AI - Übersicht
 beta: true
-hide: true
-hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 6a46070308e79bc3799b2da92962b5a3a2f73ce9
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '284'
 ht-degree: 2%
 
 ---
@@ -28,7 +26,7 @@ Klicken Sie auf Ihrem Bildschirm „Mein Marketo&quot; auf die Kachel **Mit KI e
 
 Die Dialogschnittstelle bietet eine Reihe von Agent-Funktionen, die zur Automatisierung manueller Aufgaben entwickelt wurden, die die Produktivität erheblich verbessern.
 
-Klicken Sie im Eingabeaufforderungsbereich auf **Erste Schritte** (_Erste Schritte mit KI-Agenten…_ ist standardmäßig in der Eingabeaufforderung enthalten).
+Klicken Sie im Eingabeaufforderungsbereich auf **Erste Schritte** (“_Erste Schritte mit KI-Agenten…_&quot; ist standardmäßig in der Eingabeaufforderung).
 
 ![](assets/overview-2.png)
 
