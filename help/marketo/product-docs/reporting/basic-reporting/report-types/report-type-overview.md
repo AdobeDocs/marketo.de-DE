@@ -47,7 +47,7 @@ When you [create a report in a program](/help/marketo/product-docs/reporting/bas
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Bericht zu Personen nach Umsatzphase</a></strong></td>
-   <td>Basic reporting for your Revenue Model. See <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> for deeper reporting.</td>
+   <td>Basic reporting for your Revenue Model. See <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> for deeper reporting.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Landing Page-Leistung</a>  </strong></td>
@@ -55,7 +55,7 @@ When you [create a report in a program](/help/marketo/product-docs/reporting/bas
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programmleistung</a>  </strong></td>
-   <td>Basic program metrics like members and success. See <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> for deeper reporting.</td>
+   <td>Basic program metrics like members and success. See <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> for deeper reporting.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Unternehmens-Webaktivität</a></strong></td>
@@ -67,11 +67,11 @@ When you [create a report in a program](/help/marketo/product-docs/reporting/bas
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Leistungsbericht für Interaktionsströme</a> </strong></td>
-   <td>See how well your <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagement program</a> is working.</td>
+   <td>See how well your <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagement program</a> is working.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Kampagnen-E-Mail-Leistung</a> </strong></td>
-   <td>See how well your <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagement program</a> is working.</td>
+   <td>See how well your <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagement program</a> is working.</td>
   </tr>
  </tbody>
 </table>
