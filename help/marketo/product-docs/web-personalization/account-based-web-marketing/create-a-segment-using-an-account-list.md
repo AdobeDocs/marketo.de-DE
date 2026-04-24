@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie ein Segment mithilfe einer Kontenliste in Mar
 title: Erstellen eines Segments mithilfe einer Kontoliste
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 11%
+source-wordcount: '215'
+ht-degree: 9%
 
 ---
 
@@ -18,6 +18,10 @@ So erstellen Sie ein Segment mithilfe einer Kontoliste.
 >[!PREREQUISITES]
 >
 >[Erstellen einer neuen Kontoliste](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+
+>[!NOTE]
+>
+>Damit Kontolisten in Web Personalization angezeigt werden können, ist ein zusätzliches Modul namens „Web ABM“ erforderlich. Wenn Sie Account-Listen nicht als Option sehen, wenden Sie sich an das Adobe Account Team (Ihren Account Manager), um Hilfe zu erhalten.
 
 1. Navigieren Sie zu **[!UICONTROL Segmente]**.
 

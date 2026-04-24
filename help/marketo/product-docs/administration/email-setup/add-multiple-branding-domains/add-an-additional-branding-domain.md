@@ -4,10 +4,10 @@ description: Fügen Sie zusätzliche Branding-Domains für mehrere Marken in ein
 title: Hinzufügen einer zusätzlichen Branding-Domain
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 3%
+source-wordcount: '723'
+ht-degree: 21%
 
 ---
 
@@ -17,7 +17,7 @@ Fügen Sie eine zusätzliche Branding-Domain hinzu, wenn Sie mehrere Marken von 
 
 >[!PREREQUISITES]
 >
->Sie müssen [&#x200B; generischen Tracking-Link durch &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} Markendomäne ersetzen, bevor Sie weitere Markendomänen hinzufügen.
+>Sie müssen [ generischen Tracking-Link durch ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} Markendomäne ersetzen, bevor Sie weitere Markendomänen hinzufügen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -39,7 +39,7 @@ Fügen Sie eine zusätzliche Branding-Domain hinzu, wenn Sie mehrere Marken von 
 >
 >* _Als Primäre Domain festlegen_: Als primäre Domain festlegen, wird für alle bestehenden nicht gesendeten E-Mails der Standardwert festgelegt und für alle neu erstellten E-Mails wird standardmäßig die primäre Domain verwendet. Sie können [dies pro E-Mail überschreiben](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"}.
 >
->* _SSL-Zertifikat generieren_: Sie können bei der Erstellung der Domain ein SSL (Secure Sockets Layer) erstellen. Die erste Tracking-Domain initiiert eine einmalige Einrichtung der Infrastruktur, die einige Stunden dauern kann. Sie werden nach Abschluss benachrichtigt, und Sie können dann die erste Domain einrichten. Wenn Sie SSL zu Ihren bestehenden Domains hinzufügen möchten, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>* _SSL-Zertifikat generieren_: Sie können bei der Erstellung der Domain ein SSL (Secure Sockets Layer) erstellen. Die erste Tracking-Domain initiiert eine einmalige Einrichtung der Infrastruktur, die einige Stunden dauern kann. Sie werden nach Abschluss benachrichtigt, und Sie können dann die erste Domain einrichten. Wenn Sie SSL zu Ihren bestehenden Domains hinzufügen möchten, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
 
 ## SSLs für bestehende Domains bearbeiten
 
@@ -91,13 +91,15 @@ Führen Sie diese Schritte aus, um SSL für Ihre bestehenden Domains zu aktivier
 
 ## Zu beachtende Punkte {#things-to-note}
 
-* **DNS-Zuordnung für Domain zu Marketo Engage**: Bevor Sie Domains in der Benutzeroberfläche hinzufügen, müssen Sie [CNAMEs einer von Marketo bereitgestellten Domain zuordnen](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-Zuordnung für Domain zu Marketo Engage**: Bevor Sie Domains in der Benutzeroberfläche hinzufügen, müssen Sie [CNAMEs einer von Marketo bereitgestellten Domain zuordnen](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Benutzerdefinierte SSLs**: Wenn Sie eine benutzerdefinierte SSL benötigen, senden Sie ein [Support-Ticket](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Verwenden Sie nicht das Kontrollkästchen „Self-Service“ für die SSL-Erstellung.
 
 * **Vorhandene SSLs**: Beim Hinzufügen einer Domain sucht das System nach bereits vorhandenen SSLs, die möglicherweise zuvor manuell erstellt wurden. Wenn diese Validierung auftritt, erstellen Sie Ihre Domain, ohne die SSL-Erstellung auszuwählen, und wir werden sie für Sie verbinden. [Support kontaktieren](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} weitere Details/Optionen.
 
-* **Löschen von Domains**: Beim automatischen Löschen einer Domain **das SSL** Zertifikat nicht gelöscht. Diese Schutzmaßnahme verhindert Benutzerfehler, die dazu führen, dass eine Website ohne SSL-Zertifikate ist. Wenn Sie die SSL-Zertifikate entfernen möchten, wenden Sie sich [&#x200B; den Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
+* **Löschen von Domains**: Beim automatischen Löschen einer Domain **das SSL** Zertifikat nicht gelöscht. Diese Schutzmaßnahme verhindert Benutzerfehler, die dazu führen, dass eine Website ohne SSL-Zertifikate ist. Wenn Sie die SSL-Zertifikate entfernen möchten, wenden Sie sich [ den Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
+
+* Wenn die von Ihnen hinzugefügte Domain nicht als CNAME aufgeführt ist, wird die Möglichkeit zum Hinzufügen weiterer Marken-Tracking-Domains ausgeschlossen. Sie müssen eine vorhandene Domain bearbeiten und sicherstellen, dass es sich um einen CNAME-Eintrag und nicht etwa um einen A-Eintrag handelt. Mit der Schaltfläche Hinzufügen wird nur dynamisch nach CNAME-Einträgen und CNAME-Einträgen gesucht.
 
 >[!MORELIKETHIS]
 >
