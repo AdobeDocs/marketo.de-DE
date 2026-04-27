@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie in Marketo eine geführte Landingpage-Vorlage
 title: Erstellen einer Vorlage für geführte Landingpages
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '1135'
-ht-degree: 15%
+source-wordcount: '1127'
+ht-degree: 21%
 
 ---
 
@@ -30,10 +30,10 @@ Es gibt zwei Möglichkeiten, zu deklarieren, dass etwas auf Ihrer Seite bearbeit
 
 ## Text {#text}
 
-Wenn Sie eine Region als Rich-Text definieren, können Benutzende ihren Inhalt bearbeiten [mit dem Rich-Text-Editor von Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Wenn Sie einen Bereich als Rich Text definieren, können Benutzende seinen Inhalt [mit dem Rich-Text-Editor von Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md) bearbeiten.
 
 Erforderliche Attribute:
-**class**: „mktoText“
+**class**: &quot;mktoText&quot;.
 **id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
@@ -63,7 +63,7 @@ Beispiel:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Option 2: Verwenden von `<img>` {#option-use-a-img}
+## Option 2: Verwenden eines `<img>` {#option-use-a-img}
 
 Erforderliche Attribute:
 class: „mktoImg“
@@ -79,7 +79,7 @@ Beispiel:
 
 >[!NOTE]
 >
->Bei Verwendung der `<img>`-Version enthält die gerenderte HTML einen generierten div-Wrapper um das `<img>`-Tag. Er wird auf die Klasse eingestellt.“mktoImg.mktoGen“ und wird angezeigt:inline-block.
+>Bei Verwendung der `<img>`-Version enthält die gerenderte HTML einen generierten div-Wrapper um das `<img>`-Tag. Er wird auf class .„mktoImg.mktoGen“ gesetzt und angezeigt:inline-block.
 
 ## Formular {#form}
 
@@ -192,11 +192,11 @@ Optional:
 
 Einfaches Beispiel:
 
-`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
-
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 Beispiel mit allen Attributen:
+
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 Dieses Beispiel zeigt einen gängigen Anwendungsfall, bei dem eine boolesche Variable die Sichtbarkeit eines CSS-Elements steuert, indem sie den Wert der CSS-Anzeigeeigenschaft entweder auf „block“ oder auf „none“ festlegt, um ein Element anhand der ID mit CSS ein-/auszublenden. Der Landingpage-Editor verwendet den Anzeigenamen Einblenden/Ausblenden anstelle von AUS/EIN.
 

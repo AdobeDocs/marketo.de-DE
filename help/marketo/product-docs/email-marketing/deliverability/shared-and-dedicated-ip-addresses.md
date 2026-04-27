@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über freigegebene und dedizierte IP-Adressen und
 title: Freigegebene und dedizierte IP-Adressen
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '447'
 ht-degree: 3%
 
 ---
