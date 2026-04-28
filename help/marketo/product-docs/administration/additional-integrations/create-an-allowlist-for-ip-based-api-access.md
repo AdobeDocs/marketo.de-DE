@@ -21,7 +21,7 @@ Manchmal soll der API-Zugriff nur auf eine bestimmte IP-Adresse oder einen Adres
 
 >[!CAUTION]
 >
->Die Aktivierung dieser Funktion verhindert derzeit den Zugriff auf den [Marketo MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"}Server. Dies wird voraussichtlich in einer kommenden Version behoben.
+>Die Aktivierung dieser Funktion verhindert derzeit den Zugriff auf den [Marketo MCP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mcp-server){target="_blank"}Server. Dies wird voraussichtlich in einer kommenden Version behoben.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
