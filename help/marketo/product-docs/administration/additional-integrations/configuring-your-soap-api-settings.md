@@ -17,7 +17,7 @@ ht-degree: 16%
 
 >[!IMPORTANT]
 >
->Die SOAP-API [ am 31](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) Juli 2026 eingestellt. Es wird empfohlen, stattdessen die [REST-API](https://developer.adobe.com/marketo-apis/) zu verwenden.
+>Die SOAP-API [&#x200B; am 31](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) Juli 2026 eingestellt. Es wird empfohlen, stattdessen die [REST-API](https://developer.adobe.com/marketo-apis/) zu verwenden.
 
 >[!NOTE]
 >

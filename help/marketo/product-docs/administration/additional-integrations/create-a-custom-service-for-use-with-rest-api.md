@@ -27,7 +27,7 @@ Wenn Sie über die ReST-API eine Integration mit Marketo vornehmen möchten, ers
 
 >[!TIP]
 >
->Weitere Informationen zur (REST-API) finden [ in der Entwicklerdokumentation ](https://developer.adobe.com/marketo-apis/).
+>Weitere Informationen zur (REST-API) finden [&#x200B; in der Entwicklerdokumentation &#x200B;](https://developer.adobe.com/marketo-apis/).
 
 ## Benutzerdefinierten Service erstellen {#create-custom-service}
 
