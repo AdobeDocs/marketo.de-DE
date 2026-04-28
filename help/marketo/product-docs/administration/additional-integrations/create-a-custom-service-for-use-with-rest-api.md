@@ -4,16 +4,16 @@ description: Erstellen Sie einen benutzerdefinierten LaunchPoint-Service, der mi
 title: Erstellen eines benutzerdefinierten Service zur Verwendung mit der REST-API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 12%
+source-wordcount: '175'
+ht-degree: 15%
 
 ---
 
 # Erstellen eines benutzerdefinierten Service zur Verwendung mit der REST-API {#create-a-custom-service-for-use-with-rest-api}
 
-Wenn Sie eine Integration mit Marketo über die REST-API durchführen möchten, sollten Sie einen benutzerdefinierten Service erstellen. Und so geht das.
+Wenn Sie über die ReST-API eine Integration mit Marketo vornehmen möchten, erstellen Sie einen benutzerdefinierten Service.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Wenn Sie eine Integration mit Marketo über die REST-API durchführen möchten, 
 
 >[!TIP]
 >
->Weitere Informationen zur (REST-API) finden Sie in [&#x200B; Entwicklerdokumentation &#x200B;](https://developer.adobe.com/marketo-apis/). Wir verfügen auch über die [SOAP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/soap/soap-api)API, falls Sie sie benötigen.
+>Weitere Informationen zur (REST-API) finden [ in der Entwicklerdokumentation ](https://developer.adobe.com/marketo-apis/).
 
 ## Benutzerdefinierten Service erstellen {#create-custom-service}
 
@@ -47,15 +47,11 @@ Wenn Sie eine Integration mit Marketo über die REST-API durchführen möchten, 
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
-   >[!NOTE]
-   >
-   >Beachten Sie, dass wir bereits über native Integrationen für beliebte Webinar-Services verfügen.
-
 1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   Oh ja! Der Service ist jetzt erstellt. Rufen wir nun alle Anmeldeinformationen ab, um Zugriff zu gewähren.
+   Der Service wird jetzt erstellt. Rufen Sie die Anmeldeinformationen ab, um Zugriff zu gewähren.
 
 ## Anmeldedaten für den API-Zugriff {#credentials-for-api-access}
 
@@ -81,4 +77,4 @@ Wenn Sie eine Integration mit Marketo über die REST-API durchführen möchten, 
 
 >[!CAUTION]
 >
->Teilen Sie diese Informationen nicht; sie sind die Hintertür Ihrer Daten. Bewahren Sie es auf!
+>Geben Sie diese Informationen nicht weiter, da sie Zugriff auf Ihre Daten bieten.

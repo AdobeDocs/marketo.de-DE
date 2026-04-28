@@ -2,20 +2,22 @@
 unique-page-id: 2360352
 description: Legen Sie den SOAP-API-Verschlüsselungsschlüssel fest und rufen Sie Endpunktdetails in Admin Web Services für Entwickler ab.
 title: Konfigurieren Ihrer SOAP-API-Einstellungen
+hide: true
+hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 15%
+source-wordcount: '105'
+ht-degree: 16%
 
 ---
 
 # Konfigurieren Ihrer SOAP-API-Einstellungen {#configuring-your-soap-api-settings}
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Wir empfehlen die Verwendung der REST-API. Weitere Informationen finden Sie unter [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
+>Die SOAP-API [ am 31](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) Juli 2026 eingestellt. Es wird empfohlen, stattdessen die [REST-API](https://developer.adobe.com/marketo-apis/) zu verwenden.
 
 >[!NOTE]
 >
@@ -35,8 +37,4 @@ ht-degree: 15%
 
 >[!CAUTION]
 >
->Ihr SOAP-Endpunkt und [!UICONTROL Benutzer-ID] sind eindeutig. Senden Sie den Screenshot in diesem Artikel nicht an Ihren Entwickler.
-
->[!MORELIKETHIS]
->
->[Dokumentation zur SOAP-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/soap/soap-api)
+>Ihr SOAP-Endpunkt und [!UICONTROL Benutzer-ID] sind eindeutig. Senden Sie den Screenshot in diesem Artikel nicht an Ihren Entwickler bzw. Ihre Entwicklerin.

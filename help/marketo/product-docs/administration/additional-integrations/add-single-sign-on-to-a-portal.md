@@ -4,20 +4,20 @@ description: SAML 2.0 Single Sign-on aktivieren, damit Ihr Identitätsanbieter B
 title: Hinzufügen von Single Sign-On zu einem Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '608'
-ht-degree: 4%
+source-wordcount: '658'
+ht-degree: 5%
 
 ---
 
 # Hinzufügen von Single Sign-On zu einem Portal {#add-single-sign-on-to-a-portal}
 
-Wenn Sie über einen Verzeichnisdienst verfügen, der Benutzer authentifiziert, können Sie das einmalige Anmelden (SSO) bei Marketo zulassen. Wir unterstützen diese Funktion mit [!DNL Security Assertion Markup Language] (SAML) Version 2.0 und höher.
+Wenn Sie über einen Verzeichnisdienst verfügen, der Benutzer authentifiziert, können Sie das einmalige Anmelden (SSO) bei Marketo zulassen. Marketo unterstützt diese Funktion mit [!DNL Security Assertion Markup Language] (SAML) Version 2.0 und höher.
 
 Marketo fungiert als SAML Service Provider (SP) und ist zur Benutzerauthentifizierung auf einen externen Identitätsanbieter (External Identity Provider, ID) angewiesen.
 
-Sobald SSO aktiviert ist, kann der IdP die Anmeldeinformationen eines Benutzers überprüfen. Wenn eine Benutzerin oder ein Benutzer die Marketo-Software verwenden möchte, sendet der IdP eine signierte SAML-Nachricht an Marketo und fungiert als SP. Diese Meldung sichert Marketo zu, dass der Benutzer berechtigt ist, die Marketo-Software zu verwenden.
+Sobald SSO aktiviert ist, kann der IdP die Anmeldeinformationen eines Benutzers überprüfen. Wenn eine Benutzerin oder ein Benutzer die Marketo-Software verwenden möchte, sendet der IdP eine signierte SAML-Nachricht an Marketo und fungiert als SP. Diese Meldung bestätigt Marketo, dass der Benutzer berechtigt ist, die Marketo-Software zu verwenden.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Sobald SSO aktiviert ist, kann der IdP die Anmeldeinformationen eines Benutzers 
 
 >[!IMPORTANT]
 >
->Dies gilt **nicht** für Abonnements, die in Adobe Identity integriert wurden. Vorherige Einstellungen können angezeigt werden (aus der Zeit vor der IMS-Migration), sie gelten jedoch nicht mehr. Für Abonnements, die in Adobe Identity integriert sind, wird Single Sign-On auf Adobe-Organisationsebene in Adobe Admin Console eingerichtet. [Weitere Informationen finden Sie hier](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
+>Dies gilt **nicht** für Abonnements, die in Adobe Identity integriert wurden. Vorherige Einstellungen können angezeigt werden (aus der Zeit vor der IMS-Migration), sie gelten jedoch nicht mehr. Für Abonnements, die in Adobe Identity integriert [, wird „Single Sign-On](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"} auf Adobe-Organisationsebene in Adobe Admin Console eingerichtet.
 
 >[!NOTE]
 >
->Benutzt du [!DNL Microsoft Azure]? Sehen Sie sich das [Integrations-Tutorial](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"} an. Zu Ihrer Information: In Schritt 5c des Tutorials gibt es einen Tippfehler. Bitte den Relaisstatus auf `https://<munchkinid>.mktoweb.com` setzen, **_nicht_** `https://<munchkinid>.marketo.com`.
+>Benutzt du [!DNL Microsoft Azure]? Sehen Sie sich das [Integrations-Tutorial](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"} an. Beachten Sie, dass es in Schritt 5c des Tutorials einen Tippfehler gibt. Relaisstatus auf `https://<munchkinid>.mktoweb.com`, **_nicht_** `https://<munchkinid>.marketo.com` einstellen.
 
 ## So senden Sie die Anfrage {#how-to-send-the-request}
 
@@ -57,7 +57,7 @@ Sobald SSO aktiviert ist, kann der IdP die Anmeldeinformationen eines Benutzers 
 
 ## SAML-Einstellungen aktualisieren {#update-saml-settings}
 
-SSO ist standardmäßig deaktiviert. Führen Sie diese Schritte aus, um SAML zu aktivieren und zu konfigurieren.
+SSO ist standardmäßig deaktiviert. Follow these steps to enable SAML and configure it.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -69,7 +69,7 @@ SSO ist standardmäßig deaktiviert. Führen Sie diese Schritte aus, um SAML zu 
 
    >[!NOTE]
    >
-   >Wenn „Single Sign **[!UICONTROL unter „Admin]** nicht angezeigt wird **[!UICONTROL wenden Sie]** an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
+   >Wenn „Single Sign **[!UICONTROL nicht unter]** Admin **[!UICONTROL angezeigt wird,]** Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
 
 1. Klicken Sie **[!UICONTROL Abschnitt „SAML]** Einstellungen“ auf **[!UICONTROL Bearbeiten]**.
 
@@ -111,7 +111,7 @@ SSO ist standardmäßig deaktiviert. Führen Sie diese Schritte aus, um SAML zu 
 
    >[!NOTE]
    >
-   >Beide Seiten müssen öffentlich verfügbar sein.
+   >Both of these pages must be publicly available.
 
 >[!MORELIKETHIS]
 >

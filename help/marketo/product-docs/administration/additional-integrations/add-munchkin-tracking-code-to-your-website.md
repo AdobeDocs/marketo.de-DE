@@ -4,10 +4,10 @@ description: Fügen Sie Marketo [!DNL Munchkin] JavaScript zu Ihrer Site hinzu, 
 title: Hinzufügen  [!DNL Munchkin]  Trackingcodes zu Ihrer Website
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 1%
+source-wordcount: '685'
+ht-degree: 3%
 
 ---
 
@@ -41,13 +41,13 @@ Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens [!DNL Munchkin
    >
    >In fast allen Fällen sollten Sie den asynchronen Code verwenden. [Weitere Informationen](#types-of-munchkin-tracking-codes).
 
-1. Klicken Sie auf und kopieren Sie den JavaScript-Trackingcode, den Sie auf Ihrer Website einfügen möchten.
+1. Kopieren Sie den JavaScript-Trackingcode, der Ihrer Website hinzugefügt werden soll.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-4.png)
 
    >[!CAUTION]
    >
-   >Verwenden Sie nicht den in diesem Screenshot gezeigten Code - Sie müssen den eindeutigen Code verwenden, der in Ihrem Konto angezeigt wird!
+   >Verwenden Sie nicht den in diesem Screenshot gezeigten Code - Sie müssen den eindeutigen Code verwenden, der in Ihrem Konto angezeigt wird.
 
    >[!TIP]
    >
@@ -59,7 +59,7 @@ Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens [!DNL Munchkin
 
    >[!TIP]
    >
-   >Bei Websites mit hohem Traffic-Volumen (d. h. Hunderttausende von Besuchen pro Monat) empfehlen wir, keine anonymen Personen zu verfolgen. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >Bei Sites mit hohem Traffic-Volumen (d. h. Hunderttausende von Besuchen pro Monat) wird empfohlen, keine anonymen Personen zu verfolgen. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Hinzufügen von Trackingcode bei Verwendung mehrerer Arbeitsbereiche {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -79,19 +79,19 @@ Wenn Sie Arbeitsbereiche in Ihrem Marketo-Konto verwenden, verfügen Sie wahrsch
 
    >[!NOTE]
    >
-   >Wenn Sie den speziellen Workspace-[!DNL Munchkin]-Code nicht verwenden, werden die Personen der Standardpartition zugewiesen, die bei der Einrichtung Ihres Kontos erstellt wurde. Anfangs heißt sie &quot;[!UICONTROL Standard], aber möglicherweise haben Sie das in Ihrem eigenen Marketo-Konto geändert.
+   >Wenn Sie den speziellen Workspace-[!DNL Munchkin]-Code nicht verwenden, werden die Personen der Standardpartition zugewiesen, die bei der Einrichtung Ihres Kontos erstellt wurde. Standardmäßig heißt sie [!UICONTROL Standard], aber dieser Name wurde möglicherweise geändert.
 
 1. Wählen Sie **[!UICONTROL asynchron]** für **[!UICONTROL Trackingcode-Typ]** aus.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
-1. Klicken Sie auf und kopieren Sie den JavaScript-Trackingcode, den Sie auf Ihrer Website einfügen möchten.
+1. Kopieren Sie den JavaScript-Trackingcode, der Ihrer Website hinzugefügt werden soll.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-10.png)
 
    >[!CAUTION]
    >
-   >Verwenden Sie nicht den in diesem Screenshot gezeigten Code - Sie müssen den eindeutigen Code verwenden, der in Ihrem Konto angezeigt wird!
+   >Verwenden Sie nicht den in diesem Screenshot gezeigten Code - Sie müssen den eindeutigen Code verwenden, der in Ihrem Konto angezeigt wird.
 
 1. Platzieren Sie den Trackingcode auf Ihren Web-Seiten im `<head>`. Neue Personen, die diese Seite besuchen, werden dieser Partition zugewiesen.
 
@@ -103,7 +103,7 @@ Wenn Sie Arbeitsbereiche in Ihrem Marketo-Konto verwenden, verfügen Sie wahrsch
 
    >[!NOTE]
    >
-   >In Marketo erstellte Landingpages enthalten automatisch Trackingcode, sodass Sie diesen Code nicht auf sie anwenden müssen.
+   >In Marketo erstellte Landingpages enthalten automatisch Trackingcode. Sie müssen diesen Code nicht zu ihnen hinzufügen.
 
 ## Typen von [!DNL Munchkin]-Trackingcodes {#types-of-munchkin-tracking-codes}
 
@@ -119,26 +119,26 @@ So überprüfen Sie, ob Ihr [!DNL Munchkin]-Code nach dem Hinzufügen funktionie
 
 1. Besuchen Sie Ihre Webseite.
 
-1. Klicken Sie in Ihrem [!DNL My Marketo] auf die Kachel **[!UICONTROL Analytics]** .
+1. In your [!DNL My Marketo], click the **[!UICONTROL Analytics]** tile.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. Klicken Sie **[!UICONTROL Webseitenaktivität]**.
+1. Click **[!UICONTROL Web Page Activity]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. Klicken Sie auf **[!UICONTROL Registerkarte]** Setup“ und doppelklicken Sie auf **[!UICONTROL Activity Source]**.
+1. Click the **[!UICONTROL Setup]** tab, double-click **[!UICONTROL Activity Source]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. Ändern Sie die [!UICONTROL Activity Source] in **[!UICONTROL Anonyme Besucher (einschließlich ISPs)]** und klicken Sie auf **[!UICONTROL Anwenden]**.
+1. Change the [!UICONTROL Activity Source] to **[!UICONTROL Anonymous Visitors (including ISPs)]** and click **[!UICONTROL Apply]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“.
+1. Click the **[!UICONTROL Report]** tab.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 
    >[!NOTE]
    >
-   >Wenn keine Daten angezeigt werden, warten Sie einige Minuten und klicken Sie dann unten auf [!UICONTROL Aktualisieren]-Symbol.
+   >If you do not see any data, wait a few minutes, then click the [!UICONTROL refresh] icon at the bottom.
