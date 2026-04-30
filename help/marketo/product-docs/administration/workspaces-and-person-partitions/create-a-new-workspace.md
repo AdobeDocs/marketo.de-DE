@@ -4,9 +4,9 @@ description: Schritte zum Erstellen eines neuen Arbeitsbereichs, einschließlich
 title: Erstellen eines neuen Arbeitsbereichs
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '227'
 ht-degree: 5%
 
 ---
@@ -18,19 +18,17 @@ Arbeitsbereiche sind nützlich, um Ihr Unternehmen zu unterteilen. Gründe für 
 * Geografie: Europe Marketing Operations vs. North America Marketing Operations
 * Geschäftseinheit A im Vergleich zu Geschäftseinheit B
 
-So erstellen Sie einen neuen Arbeitsbereich.
-
 >[!NOTE]
 >
 >**Admin-Berechtigungen erforderlich**
 
 >[!NOTE]
 >
->Erstes Verständnis mit [Grundlagen zu Arbeitsbereichen und Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Weitere Informationen finden Sie unter [Grundlagen zu Arbeitsbereichen und Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 >[!TIP]
 >
->Weitere Informationen zu Best Practices für Workspace erhalten Sie von [Marketo Professional Services](https://business.adobe.com/de/products/marketo/services-support.html){target="_blank"}.
+>Weitere Informationen zu Best Practices für Workspace erhalten Sie bei [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -44,7 +42,7 @@ So erstellen Sie einen neuen Arbeitsbereich.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Geben Sie **[!UICONTROL Name]** ein und wählen Sie die **[!UICONTROL Personenpartitionen]** aus, die Sie verwenden möchten. Wählen Sie eine **[!UICONTROL Primäre Personenpartition]**. Stellen Sie sicher, [Personenpartitionen erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} falls noch nicht geschehen.
+1. Geben Sie **[!UICONTROL Name]** ein und wählen Sie die **[!UICONTROL Personenpartitionen]** aus, die Sie verwenden möchten. Wählen Sie eine **[!UICONTROL Primäre Personenpartition]**. Stellen Sie sicher[ dass ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}Personenpartitionen“ erstellt wurden, falls noch nicht geschehen.
 
    ![](assets/create-a-new-workspace-4.png)
 

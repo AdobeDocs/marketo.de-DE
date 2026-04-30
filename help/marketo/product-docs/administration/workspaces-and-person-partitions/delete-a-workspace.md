@@ -4,9 +4,9 @@ description: Schritte zum Löschen eines Arbeitsbereichs, einschließlich der Be
 title: Löschen eines Arbeitsbereichs
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '65'
 ht-degree: 13%
 
 ---
@@ -33,6 +33,6 @@ ht-degree: 13%
 
    ![](assets/delete-a-workspace-3.png)
 
-1. Bestätigen Sie die Anzahl der Assets, die Sie löschen möchten (sie wird neben &quot;[!UICONTROL Assets insgesamt“ aufgeführt], aktivieren Sie das Kontrollkästchen **[!UICONTROL Nicht rückgängig machen]** und klicken Sie dann auf **[!UICONTROL Löschen]**.
+1. Bestätigen Sie die Anzahl der zu löschenden Assets (aufgeführt neben &quot;[!UICONTROL Assets insgesamt]), aktivieren Sie das Kontrollkästchen **[!UICONTROL Nicht rückgängig machen]** und klicken Sie dann auf **[!UICONTROL Löschen]**.
 
    ![](assets/delete-a-workspace-4.png)

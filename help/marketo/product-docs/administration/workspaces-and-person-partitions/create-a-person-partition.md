@@ -4,9 +4,9 @@ description: Schritte zum Erstellen einer neuen Personenpartition, zum Benennen 
 title: Erstellen einer neuen Personen-Partition
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '83'
 ht-degree: 13%
 
 ---
@@ -21,7 +21,7 @@ Erstellen Sie eine neue Personenpartition wie folgt.
 
 >[!NOTE]
 >
->Erstes Verständnis mit [Grundlagen zu Arbeitsbereichen und Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Weitere Informationen finden Sie unter [Grundlagen zu Arbeitsbereichen und Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

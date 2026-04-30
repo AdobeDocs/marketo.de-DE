@@ -4,16 +4,16 @@ description: Schritte, um einem Benutzer Zugriff auf einen oder mehrere Arbeitsb
 title: Zulassen von Benutzerzugriff auf einen Arbeitsbereich
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 12%
+source-wordcount: '108'
+ht-degree: 13%
 
 ---
 
 # Zulassen von Benutzerzugriff auf einen Arbeitsbereich {#allow-user-access-to-a-workspace}
 
-Arbeitsbereiche können aus jedem Grund (z. B. Geschäftseinheit oder geografische Trennung) sein. Sie trennen die Assets (Smart-Listen, Programme usw.) jedes Teams. So gewähren Sie einem Benutzer Zugriff auf einen oder mehrere Arbeitsbereiche.
+Arbeitsbereiche können aus jedem Grund (z. B. Geschäftseinheit oder geografische Trennung) sein. Sie trennen die Assets (Smart-Listen, Programme usw.) von jedem Team.
 
 >[!NOTE]
 >

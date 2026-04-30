@@ -4,16 +4,16 @@ description: Schritte zum Erstellen, Löschen und Bearbeiten von Benutzerrollen,
 title: Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '281'
 ht-degree: 8%
 
 ---
 
 # Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen {#create-delete-edit-and-change-a-user-role}
 
-**Rollen** gruppieren eine Reihe von Berechtigungen. **Berechtigungen** ermöglichen es Ihnen, Dinge in Marketo zu tun. Sie weisen einem Benutzer **Rolle** zu. Leicht wie Kuchen.
+**Rollen** gruppieren einen Berechtigungssatz. **Berechtigungen** ermöglichen es Ihnen, Aktionen in Marketo durchzuführen. Sie weisen einem Benutzer **Rolle** zu.
 
 >[!NOTE]
 >

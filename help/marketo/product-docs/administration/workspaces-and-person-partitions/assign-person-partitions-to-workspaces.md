@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie bearbeiten können, welche Personenpartitione
 title: Zuweisen von Personen-Partitionen zu Arbeitsbereichen
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 11%
+source-wordcount: '142'
+ht-degree: 15%
 
 ---
 
 # Zuweisen von Personen-Partitionen zu Arbeitsbereichen {#assign-person-partitions-to-workspaces}
 
-So bearbeiten Sie die Zuweisungen für die Personenpartition/den Arbeitsbereich:
+Gehen Sie wie folgt vor, um die Personenpartition und Arbeitsbereichszuweisungen zu bearbeiten:
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ So bearbeiten Sie die Zuweisungen für die Personenpartition/den Arbeitsbereich:
    >
    >* Das Kontrollkästchen [!UICONTROL Alle Personenpartitionen] gibt an, dass dieser Arbeitsbereich Zugriff auf alle Personenpartitionen im System hat.
    >
-   >* Primäre Personenpartitionen sind die Standardpartitionen, in die alle Völker eingegeben werden. Verwenden [Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) oder [Zuweisungsregeln](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} um Personen zu verschieben.
+   >* Primäre Personenpartitionen sind die Standardpartitionen, in die alle Personen eingegeben werden. Verwenden Sie [Flussschritte](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) oder [Zuweisungsregeln](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} um Personen zwischen Partitionen zu verschieben.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
@@ -56,8 +56,6 @@ So bearbeiten Sie die Zuweisungen für die Personenpartition/den Arbeitsbereich:
 Nach dem Speichern sollten die Änderungen angezeigt werden.
 
 ![](assets/assign-person-partitions-to-workspaces-6.png)
-
-Sie haben Ihren Arbeitsbereich erfolgreich bearbeitet!
 
 >[!MORELIKETHIS]
 >

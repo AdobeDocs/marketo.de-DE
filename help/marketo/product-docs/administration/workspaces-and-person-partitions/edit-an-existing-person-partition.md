@@ -4,16 +4,16 @@ description: Schritte zum Bearbeiten des Namens einer Personenpartition und von 
 title: Bearbeiten einer vorhandenen Personen-Partition
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 12%
+source-wordcount: '96'
+ht-degree: 13%
 
 ---
 
 # Bearbeiten einer vorhandenen Personen-Partition {#edit-an-existing-person-partition}
 
-Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partition kann mit einem oder mehreren Arbeitsbereichen verbunden werden. So bearbeiten Sie die Partitionsdetails.
+Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partition kann mit einem oder mehreren Arbeitsbereichen verbunden werden.
 
 >[!NOTE]
 >
@@ -39,6 +39,6 @@ Eine Personenpartition ist wie eine zweite (oder dritte) Datenbank. Eine Partiti
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-Nachdem Sie die Änderungen gespeichert haben, sollten Sie das Update sehen!
+Nach dem Speichern der Änderungen wird die Aktualisierung angezeigt.
 
 ![](assets/edit-an-existing-person-partition-5.png)

@@ -3,9 +3,9 @@ description: Schritte zum Hinzufügen oder Entfernen von Produktadministratoren 
 title: Hinzufügen oder Entfernen von Produktadmins
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '294'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->**System** Admins werden nur auf Adobe-Organisationsebene erstellt. Wenn Sie glauben, dass Sie mehr als einen benötigen, wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/de/support).
+>**System** Admins werden nur auf Adobe-Organisationsebene erstellt. Wenn Sie mehr als einen benötigen, wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/en/support).
 
 ## Hinzufügen eines Produktadministrators {#add-a-product-admin}
 
@@ -42,7 +42,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Geben Sie die E-Mail-Adresse oder den Benutzernamen des Administrators ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie die E-Mail-Adresse oder den Benutzernamen des Admins ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -62,7 +62,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
-Der Benutzer erhält dann zwei E-Mails. Die erste E-Mail benachrichtigt sie, dass ihnen Produktadministratorrechte für Marketo Engage gewährt wurden. Die zweite E-Mail lädt sie ein, sich bei Marketo Engage anzumelden.
+Der Benutzer erhält dann zwei E-Mails. In der ersten E-Mail werden sie darüber informiert, dass ihnen Produktadministratorrechte für Marketo Engage gewährt wurden. Die zweite E-Mail lädt sie ein, sich bei Marketo Engage anzumelden.
 
 >[!NOTE]
 >

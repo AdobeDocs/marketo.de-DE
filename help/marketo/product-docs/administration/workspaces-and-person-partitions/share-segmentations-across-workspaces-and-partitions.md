@@ -4,9 +4,9 @@ description: Regeln und Schritte für die Freigabe von Segmentierungen über Arb
 title: Freigeben von Segmentierungen über Arbeitsbereiche und Partitionen hinweg
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '471'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 ## Was ist eine Segmentierung? {#whats-a-segmentation}
 
-Marketo ist hervorragend darin, genau die richtigen Personen für ein Programm oder eine intelligente Kampagne auszuwählen. Für dauerhaftere Rollen sollten Sie jedoch Segmentierungen verwenden. Sie werden benötigt, um erweiterte dynamische Inhalte in Marketo zu verwenden.
+Marketo identifiziert die richtigen Personen für ein Programm oder eine intelligente Kampagne. Für dauerhaftere Rollen sollten Sie jedoch Segmentierungen verwenden. Sie werden benötigt, um erweiterte dynamische Inhalte in Marketo zu verwenden.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Nachdem Sie diese Rollen eingerichtet haben (_und_ Arbeitsbereiche verwenden), s
 
 * Jedes Marketo-Abonnement kann bis zu 20 Segmentierungen „insgesamt“ über mehrere Arbeitsbereiche hinweg enthalten (**20 pro Arbeitsbereich**).
 * Sie können eine Segmentierung nur für Arbeitsbereiche freigeben, auf die Sie Zugriff haben.
-* Stellen Sie sicher, dass Sie einen **Standardarbeitsbereich mit Einblick in alle Partitionen“ erstellen und**.
+* Erstellen und verwenden Sie einen **Standardarbeitsbereich mit Einblick in alle Partitionen**.
 
 * Die Segmentierungsverarbeitung wird nur für die Personen im Arbeitsbereich ausgeführt, in dem die Segmentierung erstellt wurde.
 
@@ -46,7 +46,7 @@ Nachdem Sie diese Rollen eingerichtet haben (_und_ Arbeitsbereiche verwenden), s
 
 >[!NOTE]
 >
->Einige dieser Regeln sind ein wenig komplex. Der einfachste Weg, um zu beginnen, besteht darin, mit bestimmten Personen zu testen. Sie können immer neue Segmentierungen erstellen und die alten loswerden.
+>Einige dieser Regeln sind komplex. Es wird empfohlen, mit bestimmten Personen zu testen. Neue Segmentierungen können erstellt und alte nach Bedarf gelöscht werden.
 
 ## Beispielszenarien {#example-scenarios}
 
@@ -64,7 +64,7 @@ Nachdem Sie diese Rollen eingerichtet haben (_und_ Arbeitsbereiche verwenden), s
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Benennen Sie den Ordner, den Sie in allen Arbeitsbereichen freigeben möchten (Beispiel: Segmentierungen freigeben), und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Benennen Sie den Ordner, der für alle Arbeitsbereiche freigegeben werden soll (Beispiel: Segmentierungen freigeben), und klicken Sie auf **[!UICONTROL Erstellen]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 

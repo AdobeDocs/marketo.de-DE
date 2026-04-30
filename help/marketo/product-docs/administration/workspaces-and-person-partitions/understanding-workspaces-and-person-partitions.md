@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Arbeitsbereiche Marketing-Assets organisieren und
 title: Grundlegendes zu Arbeitsbereichen und Personen-Partitionen
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 97%
+source-wordcount: '551'
+ht-degree: 78%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
 
 >[!CAUTION]
 >
->Die Einrichtung von Arbeitsbereichen kann komplex sein. Wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de), um herauszufinden, ob Arbeitsbereiche für Sie geeignet sind.
+>Die Einrichtung von Arbeitsbereichen kann komplex sein. Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de)Support, um herauszufinden, ob er für Sie geeignet ist.
 
 Arbeitsbereiche sind separate Bereiche in Marketo, die Marketing-Assets wie Programme, Landingpages, E-Mails und mehr enthalten. Sie können von mehreren Personen verwendet werden. Alle Benutzenden haben Zugriff auf einen oder mehrere Arbeitsbereiche.
 
@@ -34,11 +34,11 @@ Arbeitsbereiche sind separate Bereiche in Marketo, die Marketing-Assets wie Prog
 
 >[!NOTE]
 >
->Erfahren Sie, wie Sie [einen neuen Arbeitsbereich erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Erfahren Sie, wie [einen neuen Arbeitsbereich erstellen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Freigeben über Arbeitsbereiche hinweg {#sharing-across-workspaces}
 
-Im Folgenden erfahren Sie, wie Sie Assets über Arbeitsbereiche hinweg freigeben. Die Freigabe funktioniert für alle Assets gleich. Dieses Beispiel behandelt Segmentierungen.
+In den folgenden Schritten wird erläutert, wie Assets in Arbeitsbereichen freigegeben werden. Die Freigabe funktioniert für alle Assets gleich. Dieses Beispiel behandelt Segmentierungen.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Im Folgenden erfahren Sie, wie Sie Assets über Arbeitsbereiche hinweg freigeben
 
    >[!NOTE]
    >
-   >Am Ursprungsordner wird nun ein kleiner grüner Pfeil angezeigt, der darauf hinweist, dass der Ordner freigegeben wurde. Am im Arbeitsbereich freigegebenen Ordner wird ein Vorhängeschloss angezeigt, das darauf hinweist, dass der Ordner schreibgeschützt ist.
+   >Der Ausgangsordner weist jetzt einen kleinen grünen Pfeil auf, der anzeigt, dass er freigegeben wurde. Am im Arbeitsbereich freigegebenen Ordner wird ein Vorhängeschloss angezeigt, das darauf hinweist, dass der Ordner schreibgeschützt ist.
 
 Sie können diese Elemente über Arbeitsbereiche hinweg freigeben.
 
@@ -84,7 +84,7 @@ Sie können diese Elemente über Arbeitsbereiche hinweg freigeben.
 
 ## Klonen über Arbeitsbereiche hinweg {#cloning-across-workspaces}
 
-Assets, die keine Vorlagen sind, sollten am besten als lokale Assets in einem Programm geklont werden. Über die richtige Zugriffsebene können Sie diese Assets per Drag-and-Drop in einen anderen Arbeitsbereich ziehen:
+Für Assets, die keine Vorlagen sind, wird empfohlen, sie als lokale Assets innerhalb eines Programms zu klonen. Über die richtige Zugriffsebene können Sie diese Assets per Drag-and-Drop in einen anderen Arbeitsbereich ziehen:
 
 * Programme
 * E-Mails
@@ -105,11 +105,11 @@ Um Assets in einen neuen Arbeitsbereich zu verschieben, legen Sie sie in einem O
 
 >[!NOTE]
 >
->Sie können ein Programm mit Mitgliedern nicht von einem Arbeitsbereich in einen anderen verschieben.
+>Ein Programm, das Mitglieder enthält, kann nicht von einem Arbeitsbereich in einen anderen verschoben werden.
 
 ## Personen-Partitionen {#person-partitions}
 
-Personen-Partitionen funktionieren wie separate Datenbanken. Jede Partition enthält ihre eigenen Personen, die nicht dedupliziert oder mit anderen Partitionen vermischt werden. Wenn Sie der Meinung sind, dass ein geschäftlicher Anwendungsfall vorliegt, bei dem doppelte Einträge mit derselben E-Mail-Adresse erforderlich sein können, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
+Personen-Partitionen funktionieren wie separate Datenbanken. Jede Partition enthält ihre eigenen Personen, die nicht dedupliziert oder mit anderen Partitionen vermischt werden. Wenn für Ihren geschäftlichen Anwendungsfall doppelte Einträge mit derselben E-Mail-Adresse erforderlich sind, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
 
 Sie können Personen-Partitionen [Arbeitsbereichen](create-a-new-workspace.md) in den folgenden Konfigurationen zuweisen:
 
@@ -121,7 +121,7 @@ Sie können Personen-Partitionen [Arbeitsbereichen](create-a-new-workspace.md) i
 >
 >Gründe für die Verwendung einer Personen-Partition:
 >
->* Ihre Arbeitsbereiche verfügen über verschiedene Assets und enthalten auch keine gleichen Personen
+>* Ihre Arbeitsbereiche verfügen nicht nur über verschiedene Assets, sondern geben auch keine Personen frei
 >* Duplikate werden aus anderen geschäftlichen Gründen gewünscht
 
 >[!CAUTION]

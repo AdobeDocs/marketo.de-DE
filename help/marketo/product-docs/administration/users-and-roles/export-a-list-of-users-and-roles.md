@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359912
 description: Erfahren Sie, wie Sie eine Liste von Benutzern und Rollen exportieren.
-title: 'Exportieren einer Liste der Benutzenden und der zugehörigen Rollen '
+title: Exportieren einer Liste der Benutzenden und der zugehörigen Rollen
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '75'
 ht-degree: 22%
 
 ---
 
-# Exportieren einer Liste der Benutzenden und der zugehörigen Rollen  {#export-a-list-of-users-and-roles}
+# Exportieren einer Liste der Benutzenden und der zugehörigen Rollen {#export-a-list-of-users-and-roles}
 
 >[!NOTE]
 >
 >**Admin-Berechtigungen erforderlich**
 
-Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer und Benutzerrollen zu exportieren. Und so geht das.
+Gehen Sie wie folgt vor, um eine vollständige Liste der Benutzer und Benutzerrollen zu exportieren.
 
 1. Wechseln Sie zu **[!UICONTROL Admin]**.
 
@@ -39,6 +39,6 @@ Es ist ziemlich einfach, eine vollständige Liste Ihrer Benutzer und Benutzerrol
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   Und das ist alles, Leute! Sie sollten die neue Excel-Datei herunterladen.
+   Die Excel-Datei wird heruntergeladen.
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

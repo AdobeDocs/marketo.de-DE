@@ -4,10 +4,10 @@ description: Referenzliste aller Rollenberechtigungen in Marketo, einschließlic
 title: Beschreibungen der Rollenberechtigungen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '1320'
-ht-degree: 18%
+source-wordcount: '1344'
+ht-degree: 19%
 
 ---
 
@@ -19,7 +19,7 @@ Einige zusätzliche Informationen zu Berechtigungen:
 
 * Die Zugriffsberechtigung gibt einer Rolle die Berechtigung zum Anzeigen und manchmal Bearbeiten dieses Teils der Anwendung.
 * Damit eine Rolle Zugriff auf die Unterberechtigungen („Erstellen“, „Löschen“ usw.) hat, muss sie über die Zugriffsberechtigung für diesen Teil der Anwendung verfügen. Wenn Sie beispielsweise jemandem die Berechtigung zum Bearbeiten von Kampagnen erteilen möchten, muss er über eine Gesamtberechtigung für den Zugriff auf Marketing-Aktivitäten verfügen.
-* Möglicherweise können Sie Aktionen oder Assets anzeigen, für die Sie nicht über die entsprechenden Berechtigungen verfügen. Wenn Sie jedoch versuchen, auf sie zuzugreifen, wird eine Meldung angezeigt, die Sie vor Ihrem eingeschränkten Zugriff warnt.
+* Möglicherweise können Sie Aktionen oder Assets anzeigen, für die Sie nicht über die entsprechenden Berechtigungen verfügen. Wenn Sie jedoch versuchen, auf sie zuzugreifen, wird eine Meldung angezeigt, die Sie vor dem eingeschränkten Zugriff warnt.
 
 ## Verfügbare Berechtigungen {#available-permissions}
 
@@ -54,7 +54,7 @@ Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 * Zugriff auf ein neues Erlebnis - Ermöglicht Benutzenden den Zugriff auf den Bildschirm Neues Erlebnis .
 * Zugriff auf benutzerdefinierte Marketo-Aktivitäten - Ermöglicht Benutzenden Zugriff auf benutzerdefinierte Marketo-Aktivitäten in Admin
 * Zugriff auf benutzerdefiniertes Marketo-Objekt - Ermöglicht Benutzern Zugriff auf benutzerdefinierte Marketo-Objekte in Admin
-* [!DNL Munchkin] - Ermöglicht Benutzern Zugriff auf [!DNL Munchkin] in Admin, um Trackingcode, Personenverfolgung und die Aktivierung der API-Konfiguration festzulegen
+* [!DNL Munchkin] - Ermöglicht Benutzenden Zugriff auf [!DNL Munchkin] in Admin, um Trackingcode, Personenverfolgung und API-Konfiguration festzulegen
 * Zugriff auf prädiktive Zielgruppen : Ermöglicht Benutzern Zugriff auf den Bildschirm Prädiktive Zielgruppen .
 * Zugriff auf die Analyse des Umsatzzyklus : Ermöglicht Benutzern den Zugriff auf die Analyse des Umsatzzyklus in Admin, um die Synchronisierungszusammenfassung und -zuordnung festzulegen
 * Zugriffsrollen - Ermöglicht Benutzenden Zugriff zum Verwalten und Bearbeiten von Rollen, jedoch nicht Benutzern
@@ -65,7 +65,7 @@ Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 * Zugriff auf Tags - Ermöglicht Benutzenden Zugriff auf alle benutzerdefinierten Tags mit Ausnahme des Kanal-Tags
 * Zugriff auf die Schatztruhe - Ermöglicht Benutzern Zugriff auf die experimentellen Funktionen der Schatztruhe in Admin
 * Auf Benutzer zugreifen : Ermöglicht Benutzern das Bearbeiten und Verwalten von Benutzern (nicht jedoch von Rollen) in der Admin Console
-* Zugriff auf Webhooks : Ermöglicht Benutzern Webhooks in Admin, um Details festzulegen und Antwortzuordnungen vorzunehmen.
+* Zugriff auf Webhooks : Ermöglicht Benutzern Zugriff auf Webhooks in Admin, um Details festzulegen und Antwortzuordnungen vorzunehmen
 * Zugriff auf Arbeitsbereiche und Partitionen - Ermöglicht Benutzern das Erstellen, Bearbeiten und Löschen von Arbeitsbereichen und Partitionen in Admin
 
 ## Auf API zugreifen  {#access-api}
@@ -92,7 +92,7 @@ Ermöglicht Benutzenden mit der **Nur API** **Rolle** Zugriff auf die unten aufg
 * Objekt mit Lese-/Schreibzugriff
 * Lese-/Schreib-Person
 * Benanntes Konto mit Lese-/Schreibzugriff
-* Verkaufschance mit Lese-/Schreibzugriff
+* Vertriebschance mit Lese-/Schreibzugriff
 * Vertriebsmitarbeiter mit Lese-/Schreibzugriff
 
 ## Auf Analytics zugreifen {#access-analytics}
@@ -179,7 +179,7 @@ Anzeigen der Datenbank sowie Anzeigen und Bearbeiten von Smart-/Static-Listen.
    * Zugriff zum Erstellen von Smart-Listen-Assets in Datenbank- und Marketing-Aktivitäten
 * Liste löschen
 * Person bearbeiten - Verhindert die manuelle Bearbeitung und Ausführung von Einzelflussschritten. Personen können dennoch bearbeitet werden, indem Kampagnen für sie ausgeführt werden.
-* Person exportieren - Kalkulationstabellen mit aus Ihren Datenbanklisten exportieren
+* Person exportieren - Tabellen aus Ihren Datenbanklisten exportieren
 * Benutzerdefiniertes Objekt importieren
 * Liste importieren
 * Personen zusammenführen

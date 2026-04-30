@@ -4,10 +4,10 @@ description: Wie man Zuweisungsregeln einrichtet, um Personen aus dem CRM in die
 title: Zuweisen von Personen-Partitionen mit Zuweisungsregeln
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 9%
+source-wordcount: '170'
+ht-degree: 10%
 
 ---
 
@@ -63,7 +63,7 @@ Richten Sie bei der Verwendung von Personenpartitionen Zuweisungsregeln ein, um 
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
-Und da haben Sie es! Sie haben Regeln zum Ausfüllen Ihrer Personenpartitionen mit Personen zugewiesen!
+Die Zuweisungsregeln für die Personenpartitionen wurden konfiguriert.
 
 >[!NOTE]
 >

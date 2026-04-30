@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie die Lead-Partition, die primäre Personenpart
 title: Bearbeiten eines Arbeitsbereichs
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
 # Bearbeiten eines Arbeitsbereichs {#edit-a-workspace}
 
-Manchmal müssen Sie Änderungen an einer Workspace vornehmen. Es ist ganz einfach.
+Manchmal müssen Sie Änderungen an einer Workspace vornehmen.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Manchmal müssen Sie Änderungen an einer Workspace vornehmen. Es ist ganz einfa
 
 >[!NOTE]
 >
->Aufpolieren von Arbeitsbereichen mit [Arbeitsbereiche und Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Weitere Informationen zu Arbeitsbereichen finden Sie unter [Arbeitsbereiche und Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
