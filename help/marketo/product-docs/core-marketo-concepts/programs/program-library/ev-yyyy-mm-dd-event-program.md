@@ -3,10 +3,10 @@ description: Ereignisprogrammvorlage. Verwenden Sie sie, um Webinare und Ereigni
 title: 'Ereignisprogramm: EV-JJJJ-MM-TT'
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 21%
+source-wordcount: '600'
+ht-degree: 22%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 21%
 
 Dies ist ein Beispiel für ein Veranstaltungsprogramm mit einer Registrierungsseite, drei Einladungs-E-Mails und Folge-E-Mails, die ein Marketo Engage-Veranstaltungsprogramm verwenden. Geeignet für alle Veranstaltungen, bei denen Sie sich anmelden müssen, einschließlich Roadshows, Mittagessen, Abendessen oder Präsentationen auf Messen.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -262,7 +262,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   <tr>
    <td>Text</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
+   <td>my.DankePageURL?without=http://</td>
   </tr>
   <tr>
    <td>Text</td>
@@ -330,7 +330,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne „06-Attended (Program Success)“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihr Formular live ist und E-Mails gesendet werden.
+>Aktivieren Sie die Kampagne „06-Attended (Program Success)“, um den Erfolg zu verfolgen, bevor Ihr Formular live ist und E-Mails gesendet werden.
 
 >[!IMPORTANT]
 >

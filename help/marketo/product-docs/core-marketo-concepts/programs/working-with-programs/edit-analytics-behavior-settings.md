@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Analytics-Verhaltenseinstellungen für ein Pr
 title: Bearbeiten von Einstellungen für das Analyseverhalten
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '186'
 ht-degree: 8%
 
 ---
@@ -23,7 +23,7 @@ Sie können das [Analytics-Verhalten auf Admin-Ebene für Kanäle](/help/marketo
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL &#x200B; „Analytics Behavior] auf die Arbeitsfläche.
+1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL  „Analytics Behavior] auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -47,7 +47,7 @@ Sie können das [Analytics-Verhalten auf Admin-Ebene für Kanäle](/help/marketo
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-Gut gemacht! Jetzt wissen Sie, wie Sie das Analytics-Verhalten auf Programmebene überschreiben.
+Das Analytics-Verhalten wurde auf Programmebene überschrieben.
 
 >[!NOTE]
 >

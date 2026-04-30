@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie ein Asset innerhalb eines Programms klonen. E
 title: Klonen eines Assets in einem Programm
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 14%
+source-wordcount: '130'
+ht-degree: 13%
 
 ---
 
@@ -41,7 +41,7 @@ Klonen eines Programms klont _alles_. Manchmal möchten Sie nur ein Asset klonen
    >
    >Sie können ein Asset auch in ein anderes Programm klonen. Verwenden Sie die **[!UICONTROL Programm]** Dropdown-Liste, um Ihre Auswahl zu treffen.
 
-1. Sehr gut! Sie sollten jetzt das neue geklonte Asset sehen.
+1. Das neue geklonte Asset sollte jetzt sichtbar sein.
 
    ![](assets/report.jpg)
 

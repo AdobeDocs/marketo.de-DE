@@ -3,10 +3,10 @@ description: Messe-Programmvorlage. Verwenden Sie ihn für Veranstaltungen und M
 title: 'Messeprogramm: TS-EV-JJJJ-MM-TT'
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 17%
+source-wordcount: '440'
+ht-degree: 18%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 17%
 
 Dies ist ein Beispiel für ein Messeprogramm mit Einladungen und Follow-up-E-Mails unter Verwendung eines Marketo Engage-Veranstaltungsprogramms.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -211,7 +211,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne „03 - Interagiert von Folgenachricht (Programmerfolg)“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihre E-Mails gesendet werden.
+>Aktivieren Sie die Kampagne „03 - Interagiert mit Follow-up-E-Mail (Programm-Erfolg)“, um den Erfolg vor dem Versand Ihrer E-Mails zu verfolgen.
 
 >[!IMPORTANT]
 >

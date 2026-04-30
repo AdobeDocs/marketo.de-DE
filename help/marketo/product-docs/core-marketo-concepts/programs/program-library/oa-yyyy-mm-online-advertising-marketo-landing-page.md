@@ -3,9 +3,9 @@ description: Online Advertising Marketo Landingpage-Programmvorlage. Verwenden S
 title: 'Marketo-Landingpage mit Online-Werbung: OA-JJJJ-MM'
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '508'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Dies ist ein Beispiel für ein Tracking-Programm für Online-Werbung, einschließlich einer Marketo-Landingpage mit Registrierungsformular und Verwendung eines Marketo-Standardprogramms. Der Link zum Angebot kann auf der Dankeseite angezeigt, in einer Dankesnachricht gesendet oder auf beiden Seiten angezeigt werden.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -208,7 +208,7 @@ SCREENSHOT DER KONFLIKTREGELN
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne „02 - Interagiert (Programmerfolg)“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihr Formular live ist und E-Mails gesendet werden.
+>Aktivieren Sie die Kampagne „02 - Interagiert (Programmerfolg)“, um den Erfolg zu verfolgen, bevor Ihr Formular live ist und E-Mails gesendet werden.
 
 >[!IMPORTANT]
 >

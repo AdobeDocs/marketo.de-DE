@@ -3,10 +3,10 @@ description: Vorlage für Nicht-Marketo-Landingpage-Programm für Inhalte. Verwe
 title: 'Inhalt auf einer Landingpage nicht von Marketo: CT-JJJJ-MM'
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 15%
+source-wordcount: '427'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Dies ist ein Beispiel für ein Inhaltsprogramm mit einem Marketo Engage-Formular zum Herunterladen von Inhalten auf einer nicht zu Marketo Engage gehörenden Landingpage mithilfe eines Marketo Engage-Standardprogramms. Dieses Programm ist für die Verwendung mit einem Marketo Engage-Formular vorgesehen, das auf Ihrer Website eingebettet ist. Der Link zum Angebot/Inhalt kann in einer Dankesmail versendet werden.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -171,4 +171,4 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne „02-Engaged“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihr Formular live ist und E-Mails gesendet werden.
+>Aktivieren Sie die Kampagne „02-Engaged“, um den Erfolg zu verfolgen, bevor Ihr Formular live ist und E-Mails gesendet werden.

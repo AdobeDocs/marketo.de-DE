@@ -3,10 +3,10 @@ description: Webinar-Programmvorlage. Verwenden Sie ihn für Webinare mit einer 
 title: 'Webinar-Programm: WBN-JJJJ-MM-TT'
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 20%
+source-wordcount: '621'
+ht-degree: 21%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 20%
 
 Dies ist ein Beispiel für ein Webinar-Programm mit Registrierungsverwaltung, drei Einladungs-E-Mails, Erinnerungs- und Follow-up-E-Mails unter Verwendung eines Marketo Engage-Veranstaltungsprogramms.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -255,7 +255,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
    <tr>
    <td>Text</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
+   <td>my.DankePageURL?without=http://</td>
   </tr>
   <tr>
    <td>Text</td>
@@ -310,7 +310,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
 
 ## Bewährte Methoden {#best-practices}
 
-* Wenn Sie einen integrierten Webinar-Anbieter verwenden, vergessen Sie nicht, das Marketo Engage-Programm mit Ihrem Webinar im Hosting-System zu verbinden.
+* Wenn Sie einen integrierten Webinar-Anbieter verwenden, verbinden Sie das Marketo Engage-Programm mit Ihrem Webinar im Hosting-System.
 
 * Verschieben Sie das Formular nach dem Import des Webinar-Programms von einem lokalen Asset in ein globales Asset im Design Studio.
    * Das Verringern der Anzahl von Formularen und die Verwendung von mehr globalen Assets aus dem Design Studio ermöglicht mehr Skalierbarkeit in Ihrem Programmdesign und der administrativen Governance. Außerdem bietet es Flexibilität bei regelmäßigen Compliance-Aktualisierungen für Felder, Opt-in-Sprache usw.
@@ -325,7 +325,7 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne „05 - Teilgenommen (Programm-Erfolg)“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihre E-Mails gesendet werden.
+>Aktivieren Sie die Kampagne „05 - Teilgenommen (Programmerfolg)“, um den Erfolg vor dem Versand Ihrer E-Mails zu verfolgen.
 
 >[!IMPORTANT]
 >

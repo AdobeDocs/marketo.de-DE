@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Programmmitglieder verwalten und anzeigen. Er
 title: Verwalten und Anzeigen von Mitgliedern
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '257'
 ht-degree: 3%
 
 ---
@@ -79,11 +79,9 @@ Sie können den Status Ihrer Personen im Mitgliederraster ändern.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   Dies kann einen Moment dauern. Wenn alles erledigt ist, sehen Sie die unten stehende Nachricht!
+   Dies kann einen Moment dauern. Wenn der Vorgang abgeschlossen ist, wird die folgende Meldung angezeigt.
 
    ![](assets/changestatusconfirm.png)
-
-Es gibt so viele Funktionen, aber die sind alle ziemlich unkompliziert. Viel Spaß!
 
 >[!MORELIKETHIS]
 >

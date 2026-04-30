@@ -3,10 +3,10 @@ description: September 2025 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – September 2025
 feature: Release Information
 exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
-source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 97%
+source-wordcount: '960'
+ht-degree: 85%
 
 ---
 
@@ -34,7 +34,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Speicherung von Aktivitäten zu On-Demand-Webinaren</strong>: Benutzenden interaktiver Webinare stehen Dashboard-Daten zu On-Demand-Webinaren jetzt für mehr als 30 Tage zur Verfügung (zuvor waren es nur bis zu 30 Tage ab dem Tag des Webinars).</td>
    <td>Freigegeben</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -74,7 +74,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer – Fehlerbehebung bei Umleitungen</strong>: Bei einigen Benutzenden traten Umleitungsprobleme mit URLs für E-Mails auf, die mit der neuen Designer erstellt wurden (z. B. funktionierte das direkte Einfügen der URLs oder das Hinzufügen von Lesezeichen für E-Mail-Assets nicht immer). Dieses Problem wurde behoben. Darüber hinaus werden Links zu E-Mail-Assets aus <b>E-Mail-Vorlagen</b> &gt; <b>Details</b> &gt; <b>Verwendet von</b> zum entsprechenden E-Mail-Asset umgeleitet.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -97,3 +97,5 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 * **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
+
+* **Einstellung der alten Lead-Aktivitätsdaten**: Bis Ende Juni 2026 müssen Benutzende aus dem alten Lead-Aktivitätsdaten-Stream in den neuen Adobe I/O Lead-Aktivitätsdaten-Stream (LADS) migrieren. Diese Einstellung betrifft nur eine Handvoll Benutzender, die in den Lead-Aktivitäts-Datenstrom integriert wurden, bevor er in Adobe I/O Events integriert wurde. Wenn Sie ein neuerer Benutzer von Datenströmen sind oder bereits den Lead-Aktivitäts-Datenstrom über I/O-Ereignisse verwalten, hat dies keine Auswirkungen auf Sie. Migrationsdetails finden [ in ](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} Artikel .

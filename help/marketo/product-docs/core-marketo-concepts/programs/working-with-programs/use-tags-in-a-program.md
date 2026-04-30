@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Tags in einem Programm verwenden. Tags hinzuf
 title: Verwenden von Tags in einem Programm
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 10%
+source-wordcount: '171'
+ht-degree: 9%
 
 ---
 
@@ -37,7 +37,7 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
    ![](assets/use-tags-in-a-program-4.png)
 
-1. Gleich. Sie sehen das neue Tag auf der Arbeitsfläche.
+1. Das neue Tag wird jetzt auf der Arbeitsfläche angezeigt.
 
    ![](assets/use-tags-in-a-program-5.png)
 
@@ -55,7 +55,7 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
    ![](assets/use-tags-in-a-program-8.png)
 
-1. Sehr gut! Die Bearbeitungen sollten auf der Arbeitsfläche sichtbar sein.
+1. Die Änderungen sollten jetzt auf der Arbeitsfläche angezeigt werden.
 
    ![](assets/use-tags-in-a-program-9.png)
 
@@ -69,4 +69,4 @@ Tags sind Attribute, die Ihre Programme beschreiben und zum Gruppieren von Progr
 
    ![](assets/use-tags-in-a-program-11.png)
 
-Gut gemacht! Programme mit konsistenten Tags erleichtern das Ausführen von Berichten erheblich.
+Programme mit konsistenten Tags machen das Reporting effizienter.

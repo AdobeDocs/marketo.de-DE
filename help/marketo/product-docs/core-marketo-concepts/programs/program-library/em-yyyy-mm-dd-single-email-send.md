@@ -3,10 +3,10 @@ description: Programmvorlage für einmaliges Senden von E-Mails. Verwenden Sie d
 title: 'Senden einer einzelnen E-Mail: EM-JJJJ-MM-TT'
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 18%
+source-wordcount: '309'
+ht-degree: 20%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 In diesem Beispiel wird eine einzige E-Mail mit einem Marketo Engage-E-Mail-Programm gesendet. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -144,4 +144,4 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
 
 >[!TIP]
 >
->Vergessen Sie nicht, die Kampagne „01-Engaged“ zu aktivieren, um den Erfolg zu verfolgen! Tun Sie dies _vor_ wenn Ihr Formular live ist und E-Mails gesendet werden.
+>Aktivieren Sie die Kampagne „01-Engaged“, um den Erfolg zu verfolgen, bevor Ihr Formular live ist und E-Mails gesendet werden.

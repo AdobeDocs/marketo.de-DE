@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie eine Smart-Kampagne über die Ansicht Program
 title: Erneutes Ausführen einer intelligenten Kampagne in der Ansicht „Programmplanung“
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '138'
 ht-degree: 15%
 
 ---
 
 # Erneutes Ausführen einer intelligenten Kampagne in der Ansicht „Programmplanung“ {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
-Neue Ausführungen einer vorhandenen Smart-Kampagne können einfach direkt in der Ansicht Programmplan erstellt werden.
+Neue Ausführungen einer vorhandenen Smart-Kampagne können direkt über die Ansicht Programmplan erstellt werden.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -27,7 +27,7 @@ Neue Ausführungen einer vorhandenen Smart-Kampagne können einfach direkt in de
 
    ![](assets/image2015-4-16-14-3a42-3a0.png)
 
-1. Wählen Sie im Dropdown-Menü des Eintragstyps die Smart-Kampagne aus, die Sie erneut ausführen möchten.
+1. Wählen Sie im Dropdown-Menü des Eintragstyps die Smart-Kampagne aus, die erneut ausgeführt werden soll.
 
    ![](assets/image2015-4-16-15-3a26-3a33.png)
 
@@ -35,4 +35,4 @@ Neue Ausführungen einer vorhandenen Smart-Kampagne können einfach direkt in de
    >
    >Sie können dies auch über den [Programmfokus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) tun.
 
-Bumm! So haben Sie einen weiteren Durchlauf für diese intelligente Kampagne geplant. Wenn diese intelligente Kampagne Schritte zum Senden von E-Mails enthält, werden Sie diese auch sehen!
+Die intelligente Kampagne ist jetzt für eine weitere Ausführung geplant. Wenn es Schritte zum Senden von E-Mails enthält, werden diese ebenfalls hier angezeigt.

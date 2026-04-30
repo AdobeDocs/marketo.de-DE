@@ -3,9 +3,9 @@ description: Schnellstart-Landingpage-Vorlage. Damit können Sie schnell Landing
 title: Landingpage-Vorlage für Schnellstart
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '473'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Einige der Einstiegsprogramme in der Marketo Engage-Referenzbibliothek enthalten
 >
 >Weitere Informationen zu [Geführte Landingpage-Vorlagen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Zusammenfassung der Abschnitte {#sections-summary}
 

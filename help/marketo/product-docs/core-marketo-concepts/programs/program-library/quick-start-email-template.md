@@ -3,9 +3,9 @@ description: Schnellstart-E-Mail-Vorlage. Verwenden Sie sie, um E-Mails schnell 
 title: E-Mail-Vorlage für Schnellstart
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '576'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Der E-Mail-Editor von Marketo Engage verfügt über Funktionen, mit denen Sie da
 
 * **Variablen**: Wenn ein Modul ausgewählt ist, werden Variablen auf der rechten Seite des Editors angezeigt. Diese können verwendet werden, um Attribute des Moduls anzupassen, die nicht einfach über Bild- oder Textelemente bearbeitet werden können.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Modulzusammenfassung {#modules-summary}
 

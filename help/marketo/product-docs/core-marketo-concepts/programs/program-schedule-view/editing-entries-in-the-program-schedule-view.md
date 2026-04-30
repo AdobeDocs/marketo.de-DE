@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Einträge in der Programmplanansicht bearbeit
 title: Bearbeiten von Einträgen in der Ansicht „Programmplanung“
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 11%
+source-wordcount: '146'
+ht-degree: 10%
 
 ---
 
@@ -39,7 +39,7 @@ Sie können die verschiedenen Elemente Ihres Programms in der Zeitplanansicht be
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. Sehr gut! Ihre Beschreibung wurde geändert.
+1. Die Beschreibung wurde aktualisiert.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
@@ -49,7 +49,7 @@ Sie können die verschiedenen Elemente Ihres Programms in der Zeitplanansicht be
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-Du Rock! Jetzt wurde das Datum Ihres Eintrags auf ein neues Datum verschoben.
+Das Datum Ihres Eintrags wurde aktualisiert.
 
 >[!NOTE]
 >

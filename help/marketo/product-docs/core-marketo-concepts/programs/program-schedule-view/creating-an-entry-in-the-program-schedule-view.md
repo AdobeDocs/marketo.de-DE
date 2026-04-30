@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einen Eintrag in der Ansicht „Programmzeitp
 title: Erstellen eines Eintrags in der Ansicht „Programmplanung“
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '189'
 ht-degree: 10%
 
 ---
@@ -63,7 +63,7 @@ Sie können Einträge in der Programmplanungsansicht erstellen, um ein vorhanden
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
-   Cool! Sie sollten die Änderungen sofort sehen.
+   Die Änderungen sollten sofort sichtbar sein.
 
    ![](assets/image2014-9-16-9-3a27-3a21.png)
 

@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Mitglieder aus einer Tabelle in ein Programm 
 title: Importieren von Mitgliedern aus einer Tabelle in ein Programm
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 10%
+ht-degree: 9%
 
 ---
 
@@ -59,7 +59,7 @@ Sie können eine Liste von Personen importieren, die automatisch Mitglieder eine
 
    ![](assets/image2014-9-18-15-3a44-3a37.png)
 
-   Sehr gut! Sie sollten die neuen Mitglieder sehen, die Sie importiert haben.
+   Die neuen Mitglieder sollten jetzt erscheinen.
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 
