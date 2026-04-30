@@ -42,7 +42,7 @@ Arbeitsbereiche sind nützlich, um Ihr Unternehmen zu unterteilen. Gründe für 
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Geben Sie **[!UICONTROL Name]** ein und wählen Sie die **[!UICONTROL Personenpartitionen]** aus, die Sie verwenden möchten. Wählen Sie eine **[!UICONTROL Primäre Personenpartition]**. Stellen Sie sicher[ dass ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}Personenpartitionen“ erstellt wurden, falls noch nicht geschehen.
+1. Geben Sie **[!UICONTROL Name]** ein und wählen Sie die **[!UICONTROL Personenpartitionen]** aus, die Sie verwenden möchten. Wählen Sie eine **[!UICONTROL Primäre Personenpartition]**. Stellen Sie sicher[&#x200B; dass &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}Personenpartitionen“ erstellt wurden, falls noch nicht geschehen.
 
    ![](assets/create-a-new-workspace-4.png)
 
