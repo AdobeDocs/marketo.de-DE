@@ -43,6 +43,6 @@ Um Ihren [Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/m
 
    ![](assets/4.png)
 
-   Das grüne Häkchen sollte jetzt unter &quot;[!UICONTROL &quot; ].
+   Das grüne Häkchen sollte jetzt unter &quot;[!UICONTROL &quot; &#x200B;].
 
    ![](assets/5.png)

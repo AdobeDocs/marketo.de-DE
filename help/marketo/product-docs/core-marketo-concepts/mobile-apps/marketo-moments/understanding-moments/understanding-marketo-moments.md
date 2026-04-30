@@ -21,7 +21,7 @@ Jetzt liegt die Macht von Marketo in Ihren Händen. Vorschau und Neuplanung von 
 
 >[!NOTE]
 >
->_Zugriff auf mobile_&quot; ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator[ um Ihre Rolle zu ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>_Zugriff auf mobile_&quot; ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator[&#x200B; um Ihre Rolle zu &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 

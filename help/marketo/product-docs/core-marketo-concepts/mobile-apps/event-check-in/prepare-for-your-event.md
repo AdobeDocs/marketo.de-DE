@@ -25,7 +25,7 @@ Marketo verfügt über eine spezielle Benutzerrolle für die Ereignis-Check-in-A
 
 ## Neue Tablet-Benutzer zur Veranstaltung einladen {#invite-new-tablet-users-to-the-event}
 
-[Laden Sie neue Tablet-Benutzer zum Ereignis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) und weisen Sie ihnen die neue Rolle zu.
+[Laden Sie neue Tablet-Benutzer zum Ereignis &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) und weisen Sie ihnen die neue Rolle zu.
 
 ## Erstellen eines neuen Marketo-Veranstaltungsprogramms {#create-a-new-marketo-event-program}
 

@@ -60,4 +60,4 @@ Sie werden benachrichtigt, wenn Sie Ihr tägliches Kontingent erreichen. Das Kon
 
 >[!NOTE]
 >
->Einige der Fehler-Codes, die Sie möglicherweise erhalten, sind in der [Entwicklerdokumentation“ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>Einige der Fehler-Codes, die Sie möglicherweise erhalten, sind in der [Entwicklerdokumentation“ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
