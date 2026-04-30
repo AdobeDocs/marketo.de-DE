@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie einen Moment aus der Marketo Moments-App frei
 title: Teilen eines Moments
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 5%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
 # Teilen eines Moments {#sharing-a-moment}
 
-Möchten Sie Ihrem Team ein Update geben? Sie haben zwei Möglichkeiten, die Freigabe auszuwählen.
+Es gibt zwei Möglichkeiten, einen Moment zu teilen.
 
 >[!IMPORTANT]
 >
@@ -29,11 +29,11 @@ Möchten Sie Ihrem Team ein Update geben? Sie haben zwei Möglichkeiten, die Fre
 
    ![](assets/image2015-7-14-16-3a8-3a18.png)
 
-1. Wählen Sie aus, wie Sie freigeben möchten. Los geht&#39;s mit E-Mails.
+1. Wählen Sie aus, wie Sie freigeben möchten. In diesem Beispiel ist E-Mail ausgewählt.
 
    >[!NOTE]
    >
-   >Die Freigabe hängt von den auf dem Smartphone installierten Apps ab. Wenn Sie also keine [!DNL Facebook] haben, werden Sie sie nicht in Momenten sehen.
+   >Die Freigabe hängt von den auf dem Smartphone installierten Apps ab. Wenn [!DNL Facebook] nicht installiert ist, wird es nicht in Augenblicken angezeigt.
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 

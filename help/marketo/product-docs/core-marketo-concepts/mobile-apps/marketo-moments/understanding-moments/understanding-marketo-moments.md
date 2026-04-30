@@ -4,16 +4,16 @@ description: Erfahren Sie mehr über Marketo Moments, um zu sehen, was wichtig i
 title: Grundlegendes zu Marketo Moments
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '618'
-ht-degree: 4%
+source-wordcount: '623'
+ht-degree: 2%
 
 ---
 
 # Grundlegendes zu Marketo Moments {#understanding-marketo-moments}
 
-Sie haben jetzt die leistungsstarken Funktionen von Marketo in der Hand – in jeder Hinsicht! Vorschau und Neuplanung von E-Mails direkt von Ihrem Smartphone oder iPad aus.
+Jetzt liegt die Macht von Marketo in Ihren Händen. Vorschau und Neuplanung von E-Mails direkt von Ihrem Smartphone oder iPad aus.
 
 >[!IMPORTANT]
 >
@@ -21,7 +21,7 @@ Sie haben jetzt die leistungsstarken Funktionen von Marketo in der Hand – in j
 
 >[!NOTE]
 >
->_Zugriff auf mobile_&quot; ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator[&#x200B; um Ihre Rolle zu &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>_Zugriff auf mobile_&quot; ist erforderlich. Wenden Sie sich an Ihren Marketo-Administrator[ um Ihre Rolle zu ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 
@@ -38,21 +38,21 @@ Hier sind die verschiedenen Ströme in Momenten.
 >* [!UICONTROL Später]: Alles, was später als dieser Moment stattfindet, geht hier rein.
 >* [!UICONTROL Fertig]: Alles, was ausgeführt oder als erledigt markiert wurde, ist hier aufgeführt.
 
-Okay, jetzt, da wir das aus dem Weg geräumt haben, werfen wir einen kurzen Blick auf Marketo Moments auf ein Handy!
+Hier ist ein Blick auf Marketo Moments auf einem Handy.
 
 ## Drei Arten von Karten {#three-kinds-of-cards}
 
 Marketo Moments bietet Ihnen drei verschiedene Karten, um den Fortschritt Ihrer E-Mail zu verfolgen:
 
-**[!UICONTROL On-Deck]** - Diese E-Mail ist im Begriff, zu verschicken. Es ist Ihre letzte Chance, eine Vorschau anzuzeigen, eine Probe zu senden oder sie sogar abzubrechen, wenn Sie es müssen.
+**[!UICONTROL On-Deck]** - Diese E-Mail ist im Begriff, zu verschicken. Dies ist Ihre letzte Chance, eine Vorschau anzuzeigen, eine Probe zu senden oder sie sogar abzubrechen, wenn Sie es müssen.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Heart-beat]** - Hey - Diese E-Mail wird jetzt zugestellt! Und hier sind auch Statistiken. Teilen Sie es einfach.
+**[!UICONTROL Heart-beat]** - Diese E-Mail wird jetzt zugestellt, einschließlich Statistiken. Teilen Sie es mit Ihrem Team.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Ergebnisse]** - So war die E-Mail. Nachdem die E-Mail ausgeführt wurde, zeigt die Karte Ergebnisse den Interaktionswert und andere Statistiken an.
+**[!UICONTROL Ergebnisse]** - Zeigt, wie die E-Mail ausgeführt wurde. Nachdem die E-Mail ausgeführt wurde, zeigt die Karte Ergebnisse den Interaktionswert und andere Statistiken an.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -74,7 +74,7 @@ Durch Tippen auf die drei Punkte wird ein Kartenaktionsmenü geöffnet.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Sehr gut! Jetzt können Sie etwas bewirken, indem Sie tippen:
+Tippen Sie auf einen der folgenden Punkte, um eine Aktion durchzuführen:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -82,11 +82,11 @@ Sehr gut! Jetzt können Sie etwas bewirken, indem Sie tippen:
 >
 >**Definition**
 >
->* [!UICONTROL Favorit]: Es ist einfach, auf die Dinge zu achten, die am aktuellsten und wichtigsten sind, wenn man sie zu Favoriten macht.
+>* [!UICONTROL Favorit]: Es ist einfach, auf die Elemente zu achten, die am aktuellsten und wichtigsten sind, wenn Sie sie zu Favoriten machen.
 >* [!UICONTROL Fertig]: Fertig holt es von Ihrer Marketo Moments-Ansicht (lässt es aber in Marketo, sicher und solide).
 >* [!UICONTROL Freigeben]: Senden Sie ein Bild, um Ihr Team zu motivieren oder zu beglückwünschen.
->* [!UICONTROL Beispiel senden] (nur E-Mail): Verwenden Sie diese Option, damit andere überprüfen können, wie Ihre E-Mails aussehen, bevor Sie sie versenden.
->* [!UICONTROL Vorschau der E]Mail (nur E-Mails): Es empfiehlt sich immer, die E-Mails im Voraus zu überprüfen.
+>* [!UICONTROL Beispiel senden] (nur E-Mail): Hiermit können andere das Aussehen Ihrer E-Mails überprüfen, bevor Sie sie versenden.
+>* [!UICONTROL Vorschau der E]Mail (nur E-Mails): Es ist immer empfehlenswert, Ihre E-Mails im Voraus zu überprüfen.
 
 ## Spätere Momente {#later-moments}
 
@@ -106,13 +106,13 @@ Im Abschnitt Letzter werden bevorstehende Aktivitäten angezeigt.
 
 ## E-Mail-Programmkarten {#email-program-cards}
 
-E-Mail-Programmkarten zeigen wichtige Dinge wie Zeitplan, Zielgruppe, Status und andere nützliche Dinge, auch wenn Sie mittags draußen sind.
+E-Mail-Programmkarten zeigen wichtige Details wie Zeitplan, Zielgruppe, Status und andere nützliche Informationen an, auch wenn Sie zu Mittag essen.
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
 ## Ereigniskarten {#event-cards}
 
-Bei Ereignissen sehen Sie die Gesamtzahl der Mitglieder und ihren Status.
+Bei Ereignissen zeigt die Karte die Gesamtzahl der Mitglieder und ihren Status an.
 
 ![](assets/image2015-6-29-15-3a39-3a12.png)
 
@@ -134,7 +134,7 @@ Smart-Campaign-Karten stellen eine einzelne Ausführung einer Kampagne dar. Bei 
 
 ## Bestätigen oder Abbrechen einer Aktion {#confirm-or-cancel-an-action}
 
-Bei jedem Schritt können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ihre Meinung ändern, tippen Sie einfach auf **[!UICONTROL Never Mind]**.
+Bei jedem Schritt können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie Ihre Meinung ändern, tippen Sie auf **[!UICONTROL Never Mind]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -143,9 +143,7 @@ Bei jedem Schritt können Sie eine Aktion bestätigen oder abbrechen. Wenn Sie I
 Marketo Moments unterstützt die folgenden Betriebssystemversionen:
 
 * [!DNL Apple] iOS 8.0 und höher.
-* [!DNL Android] Version 4.1 und höher (im Grunde Jellybean und höher).
-
-Sind Sie bereit für mehr?
+* [!DNL Android] Version 4.1 und höher.
 
 >[!MORELIKETHIS]
 >

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Benutzern Zugriff auf die Ereignis-Check-in-A
 title: Gewähren von Benutzerzugriff auf die App zum Einchecken
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '308'
 ht-degree: 5%
 
 ---
 
 # Gewähren von Benutzerzugriff auf die App zum Einchecken {#grant-users-access-to-the-check-in-app}
 
-Marketo Engage verfügt über eine spezielle Benutzerrolle für die Ereignis-Check-in-App. So erstellen Sie eine neue Rolle mit der Berechtigung zur Verwendung der App.
+Marketo Engage verfügt über eine spezielle Benutzerrolle für die Ereignis-Check-in-App. Gehen Sie wie folgt vor, um eine neue Rolle mit der Berechtigung zur Verwendung der App zu erstellen.
 
 >[!IMPORTANT]
 >

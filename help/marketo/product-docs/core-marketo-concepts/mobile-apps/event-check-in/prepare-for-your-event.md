@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie sich mit dem Ereignis-Check-in auf Ihr Ereign
 title: Vorbereiten des Ereignisses
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '438'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ Marketo verfügt über eine spezielle Benutzerrolle für die Ereignis-Check-in-A
 
 ## Neue Tablet-Benutzer zur Veranstaltung einladen {#invite-new-tablet-users-to-the-event}
 
-[Laden Sie neue Tablet-Benutzer zum Ereignis &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) und weisen Sie ihnen die neue Rolle zu.
+[Laden Sie neue Tablet-Benutzer zum Ereignis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) und weisen Sie ihnen die neue Rolle zu.
 
 ## Erstellen eines neuen Marketo-Veranstaltungsprogramms {#create-a-new-marketo-event-program}
 
@@ -33,7 +33,7 @@ Marketo verfügt über eine spezielle Benutzerrolle für die Ereignis-Check-in-A
 
 ## Ereignisdaten angeben {#specify-the-event-dates}
 
-Es ist ein Kinderspiel, Ihre Veranstaltungstermine festzulegen.
+Das Festlegen von Ereignisdaten ist unkompliziert.
 
 1. Klicken Sie auf das Ereignis im Zeitplan und legen Sie das Start- und Enddatum sowie die Uhrzeit fest.
 

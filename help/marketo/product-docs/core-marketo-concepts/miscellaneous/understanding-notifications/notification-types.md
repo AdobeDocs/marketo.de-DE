@@ -3,9 +3,9 @@ unique-page-id: 2953243
 description: Erfahren Sie mehr über Benachrichtigungstypen in Marketo, einschließlich Kampagnenfehler, CRM-Synchronisierung und Interaktion. Verstehen, was jeder Warnhinweis bedeutet.
 title: Benachrichtigungstypen
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '256'
 ht-degree: 6%
 
 ---
@@ -36,7 +36,7 @@ Wenn Sie [!DNL Salesforce] verwenden, sehen die Benachrichtigungen zu Synchronis
 
 ## Interaktion {#engagement}
 
-Wenn ein Stream die volle Popularität erzeugt, senden wir eine Benachrichtigung. Die Benachrichtigung enthält die Anzahl der Personen, die erschöpft wurden, und einige andere Informationen.
+Wenn Personen in einem Stream erschöpft sind, wird eine Benachrichtigung gesendet. Die Benachrichtigung enthält die Anzahl der Personen, die erschöpft wurden, und einige andere Informationen.
 
 ![](assets/image2014-10-14-10-3a57-3a9.png)
 
@@ -60,4 +60,4 @@ Sie werden benachrichtigt, wenn Sie Ihr tägliches Kontingent erreichen. Das Kon
 
 >[!NOTE]
 >
->Einige der Fehler-Codes, die Sie möglicherweise erhalten, sind in unserer [Entwicklerdokumentation“ &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/error-codes).
+>Einige der Fehler-Codes, die Sie möglicherweise erhalten, sind in der [Entwicklerdokumentation“ ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über Smart Campaign-Karten in Marketo Moments. A
 title: Grundlegendes zu Karten für intelligente Kampagnen
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Verwenden Sie Marketo Moments , um jede Ausführung Ihrer Smart-Kampagnen von Ih
 >
 >Am 2. Oktober 2023 hat Adobe die Marketo Moments-App aus allen App Stores entfernt. Wenn Sie die App bereits auf Ihrem Tablet/Mobilgerät installiert haben, können Sie sie vorerst weiter verwenden. Nachdem Ihre Marketo Engage-Instanz zur Authentifizierung von Marketo zu Adobe Identity migriert wurde, können Sie nicht mehr auf die App zugreifen. [Weitere Informationen](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt wurden, zeigt die Marketo Moments -Karte noch keine Kampagnenstatistiken an. Sie werden in einer zukünftigen Version erscheinen.
+Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt wurden, zeigt die Marketo Moments -Karte noch keine Kampagnenstatistiken an. Sie werden in einer zukünftigen Version angezeigt.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -43,7 +43,7 @@ Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt 
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. Jetzt sehen Sie den Fluss der intelligenten Kampagne. Diese Kampagne hat nur einen Flussschritt, aber es kann mehrere geben.
+1. Der Fluss der Smart-Kampagne wird hier angezeigt. Diese Kampagne hat nur einen Flussschritt, aber es kann mehrere geben.
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
@@ -55,7 +55,7 @@ Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt 
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. Sehen Sie die beiden Punkte unten? Sie geben an, dass mit dieser Smart Campaign zwei E-Mails verbunden sind. Um Ergebnisse für die andere E-Mail anzuzeigen, wischen Sie den Bildschirm nach links. Hier finden Sie die Ergebnisse der zweiten E-Mail.
+1. Die beiden Punkte unten zeigen an, dass zwei E-Mails mit dieser Smart-Kampagne verbunden sind. Um Ergebnisse für die andere E-Mail anzuzeigen, wischen Sie den Bildschirm nach links. Hier finden Sie die Ergebnisse der zweiten E-Mail.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -65,7 +65,7 @@ Für zukünftige Smart-Kampagnen, die geplant sind, aber noch nicht ausgeführt 
 
 ## Erstellen von E-Mail-Beispielen und Vorschauen {#creating-email-samples-and-previews}
 
-Es empfiehlt sich, erst einen Blick auf eine E-Mail zu werfen, bevor sie verschickt wird. Oder senden Sie eine Probe an jemand anderen, um sie einem zweiten Blickwinkel zu unterziehen.
+Es empfiehlt sich, sich eine E-Mail anzusehen, bevor sie verschickt wird. Oder senden Sie eine Probe an jemand anderen, um sie einem zweiten Blickwinkel zu unterziehen.
 
 1. Tippen Sie auf das Drei-Punkte-Aktionsmenü in einer E-Mail.
 
@@ -93,7 +93,7 @@ Karten für nicht bestätigte Smart-Kampagnen sind grau, bis Sie sie bestätigen
 
    >[!NOTE]
    >
-   >Jetzt wird Ihre Karte orange!
+   >Die Karte wird orange.
 
 ## Abbrechen der Ausführung einer intelligenten Kampagne {#canceling-a-smart-campaign-run}
 
@@ -127,8 +127,6 @@ Sie können eine bestätigte intelligente Kampagne, die noch nicht ausgeführt w
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
-   Ein Stück Kuchen!
-
 ## Andere Smart-Campaign-Aktionen {#other-smart-campaign-actions}
 
 Wie bei anderen Marketo Moments -Karten können Sie auf die drei Punkte einer beliebigen Smart Campaign-Karte oder Detailkarte tippen, um Folgendes zu tun:
@@ -145,4 +143,4 @@ Wie bei anderen Marketo Moments -Karten können Sie auf die drei Punkte einer be
 
 ## Schnelles Löschen einer Smart Campaign-Karte {#quickly-delete-a-smart-campaign-card}
 
-Wenn Sie eine Karte haben, die Sie nicht mehr benötigen, vielleicht eine, die Sie zum Testen verwendet haben, können Sie sie mit einem schnellen Wischen nach links oder rechts loswerden.
+Wenn Sie eine Karte haben, die Sie nicht mehr benötigen, vielleicht eine, die Sie zum Testen verwendet haben, kann sie mit einem schnellen Wischen nach links oder rechts entfernt werden.

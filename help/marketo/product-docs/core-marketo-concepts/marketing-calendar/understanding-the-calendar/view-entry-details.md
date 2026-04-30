@@ -4,16 +4,14 @@ description: Erfahren Sie, wie Sie Eintragsdetails im Marketing-Kalender anzeige
 title: Anzeigen von Eintragsdetails
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 
 # Anzeigen von Eintragsdetails {#view-entry-details}
-
-Wenn Sie Details zu Einträgen im Marketing-Kalender anzeigen, können Sie alle möglichen coolen Dinge über einen Eintrag sehen.
 
 1. Einen Eintrag aus dem Kalender auswählen.
 
@@ -25,4 +23,4 @@ Wenn Sie Details zu Einträgen im Marketing-Kalender anzeigen, können Sie alle 
 
 >[!TIP]
 >
->Klicken Sie mit der rechten Maustaste auf die Details auf der rechten Seite. Es werden Menüs zum Navigieren in den Editoren oder zum Aufrufen von Popups angezeigt. Schön, oder?
+>Klicken Sie mit der rechten Maustaste auf das Bedienfeld Details , um auf Navigationsmenüs zuzugreifen oder Editoren zu öffnen.

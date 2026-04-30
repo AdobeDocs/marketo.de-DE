@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Einträge direkt im Marketing-Kalender bearbe
 title: Bearbeiten von Einträgen direkt im Marketing-Kalender
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 9%
+source-wordcount: '184'
+ht-degree: 7%
 
 ---
 
 # Bearbeiten von Einträgen direkt im Marketing-Kalender {#edit-entries-directly-in-the-marketing-calendar}
 
-Sobald Sie sich im Programmfokus-Modus befinden, können Sie schnell Änderungen an Kalendereinträgen vornehmen. Und so geht das.
+Sobald Sie sich im Programmfokus-Modus befinden, können Sie schnell Änderungen an Kalendereinträgen vornehmen.
 
 ## Programmfokus aktivieren {#enable-program-focus}
 
@@ -27,7 +27,7 @@ Sobald Sie sich im Programmfokus-Modus befinden, können Sie schnell Änderungen
 
 ## Eintrag neu planen {#reschedule-entry}
 
-1. Ziehen Sie einen Eintrag einfach per Drag-and-Drop, um ihn neu zu planen.
+1. Ziehen Sie einen Eintrag per Drag-and-Drop, um ihn neu zu planen.
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -63,7 +63,7 @@ Sie können schnell auf verschiedene Bereiche Ihrer Einträge zugreifen und dies
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-Das ist alles! Wie Sie sehen, gibt es viele Dinge, die Sie direkt aus dem Marketing-Kalender tun können.
+Es gibt viele Dinge, die Sie direkt aus dem Marketing-Kalender tun können.
 
 >[!MORELIKETHIS]
 >

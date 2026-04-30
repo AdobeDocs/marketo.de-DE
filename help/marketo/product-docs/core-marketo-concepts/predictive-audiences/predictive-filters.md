@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über prädiktive Filter für die Zielgruppenbest
 title: Vorhersagefilter
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '427'
 ht-degree: 3%
 
 ---
@@ -48,7 +48,7 @@ Mit diesen beiden Filtern können Sie Ihre aktuelle Audience erweitern, indem Si
 
 Klicken Sie **[!UICONTROL Einschränkung hinzufügen]**, um Erfolgskriterien für Mitglieder des/der ausgewählten Programms/Programme auszuwählen.
 
-Klicken Sie auf das Symbol **+** , um mehrere Programme/Smart-Listen einfach zu einem Filter hinzuzufügen.
+Klicken Sie auf das Symbol **+** , um mehrere Programme/Smart-Listen zu einem Filter hinzuzufügen.
 
 ![Bild 5](assets/predictive-filters-5.png)
 
@@ -58,6 +58,6 @@ Klicken Sie auf das Symbol **+** , um mehrere Programme/Smart-Listen einfach zu 
 * Prädiktive Filter sind für Trigger-Kampagnen nicht verfügbar.
 * Das Klonen oder Verschieben von Kampagnen mit prädiktiven Filtern wird nicht unterstützt.
 * Sie können bis zu 5 prädiktive Filter in einer Smart-Liste verwenden.
-* Wenn Marketo Engage bei der Auswertung prädiktiver Filter einen Fehler auftritt, wird die Kampagnenausführung automatisch abgebrochen und Sie erhalten eine Benachrichtigung im Marketo-Benachrichtigungszentrum.
+* Wenn Marketo Engage bei der Auswertung prädiktiver Filter einen Fehler auftritt, wird die Kampagnenausführung automatisch abgebrochen und eine Benachrichtigung an das Marketo-Benachrichtigungszentrum gesendet.
 * Prädiktive Filter haben derzeit eine Eingabegrenze von 1 Million qualifizierter Personen.
 * Sie können bis zu 50 aktive Programme mit prädiktiven Filtern haben.

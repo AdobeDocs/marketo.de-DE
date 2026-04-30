@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie eine Marketing-Kalender-Präsentation erstell
 title: Erstellen einer Präsentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 7%
@@ -36,7 +36,7 @@ Erstellen Sie eine Präsentation, um die Kalenderansichten und Ziele Ihres Teams
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
-   Gute Arbeit! Jetzt können Sie Ihre Präsentation anpassen.
+   Die Präsentation kann jetzt angepasst werden.
 
 >[!MORELIKETHIS]
 >

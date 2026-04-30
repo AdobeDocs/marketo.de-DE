@@ -3,10 +3,10 @@ description: Erfahren Sie mehr über prädiktive Zielgruppen und KI-gesteuertes 
 title: Erste Schritte mit prädiktiven Zielgruppen
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Predictive Audiences (PA) nutzt KI und maschinelles Lernen, um Zielgruppen effek
 SPA umfasst die folgenden Funktionen:
 
 * Werte für die Anmeldungs- und Anwesenheitswahrscheinlichkeit für jeden Lead in einem Veranstaltungsprogramm
-* [Prädiktive Filter](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
+* [Vorhersagefilter](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
 * [Modelle und Einflussfaktoren](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
 * KI-/ML-basierte Einblicke
 * Zielverfolgung und geplante Registrierungen - (Zielverfolgung ist nur für diejenigen verfügbar, für die der moderne UX-Umschalter für Ereignisprogramme aktiviert ist.)

@@ -3,10 +3,10 @@ unique-page-id: 4720779
 description: Erfahren Sie mehr über Ordner in Programmen zum Organisieren von Smart-Kampagnen und Assets. Erstellen, Umbenennen und Löschen von Ordnern
 title: Grundlegendes zu Ordnern
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 5%
+source-wordcount: '274'
+ht-degree: 4%
 
 ---
 
@@ -28,11 +28,9 @@ Ordner in einem Programm können zum Organisieren von Smart-Kampagnen und Assets
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-Sehr gut! Jetzt verfügen Sie über einen neuen Ordner, in dem Sie Ihre lokalen Assets speichern können.
+Der neue Ordner ist jetzt für Ihre lokalen Assets bereit.
 
 ## Ordner umbenennen {#rename-a-folder}
-
-Es ist in Ordnung, seine Meinung zu ändern.
 
 1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner umbenennen]**.
 
@@ -60,7 +58,7 @@ In Marketo haben Sie die Möglichkeit, vorhandene Ordner in Archivordner zu konv
 
 Beim Archivieren eines Ordners:
 
-* Der Ordner und die Assets sind nicht mehr in den Suchergebnissen sichtbar. Wenn Sie nach einem Programm oder Ereignis suchen, das sich in einem archivierten Ordner befindet, geben die Ergebnisse eine reduzierte Ansicht des archivierten Ordners zurück
+* Der Ordner und die Assets sind nicht mehr in den Suchergebnissen sichtbar. Wenn Sie in einem archivierten Ordner nach einem Programm oder Ereignis suchen, geben die Ergebnisse eine reduzierte Ansicht des archivierten Ordners zurück
 * Die Assets im Ordner werden nicht mehr in automatisch vorgeschlagen angezeigt
 * Archivierte Vorlagen sind beim Erstellen einer E-Mail oder Landingpage in Design Studio nicht verfügbar
 * Archivierte Seiten können nicht in Testgruppen für Landingpages verwendet werden

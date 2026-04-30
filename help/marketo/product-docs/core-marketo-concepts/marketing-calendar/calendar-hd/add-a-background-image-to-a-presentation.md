@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie einer Marketing-Kalender-Präsentation ein Hi
 title: Hinzufügen eines Hintergrundbilds zu einer Präsentation
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '107'
+ht-degree: 13%
 
 ---
 
@@ -39,8 +39,7 @@ Passen Sie eine Präsentation an, indem Sie ein Hintergrundbild auswählen.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Klicken Sie auf **[!UICONTROL Vorschau]**, um es zu überprüfen.
+1. Klicken Sie auf **[!UICONTROL Vorschau]**, um eine Vorschau anzuzeigen.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
-   Und das war&#39;s!

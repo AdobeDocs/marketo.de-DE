@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953364
 description: Verstehen Sie, wie Sie mit dem Programm-Fokus mit Marketing-Kalendereinträgen interagieren können. Aktivieren des Fokus auf ein Programm zum Erstellen, Bearbeiten, Löschen oder Bestätigen von Einträgen.
-title: Verstehen/Aktivieren des Programmfokus
+title: Programmfokus verstehen und aktivieren
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 4%
+source-wordcount: '169'
+ht-degree: 0%
 
 ---
 
-# Verstehen/Aktivieren des Programmfokus {#understand-enable-program-focus}
+# Programmfokus verstehen und aktivieren {#understand-enable-program-focus}
 
 Der Marketing-Kalender bietet eine Übersicht über die Dinge, ermöglicht aber auch einige Interaktionen. Sie können [Erstellen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [Bearbeiten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [Löschen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} und [Bestätigen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}. Um mit Einträgen zu interagieren, müssen Sie sich zuerst auf ein Programm konzentrieren.
 
@@ -23,7 +23,7 @@ Der Marketing-Kalender bietet eine Übersicht über die Dinge, ermöglicht aber 
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
-1. Beachten Sie, dass wir uns jetzt auf unser Programm mit dem Namen „Pressemitteilung“ konzentrieren.
+1. Das Programm konzentriert sich nun auf die „Pressemitteilung“.
 
    ![](assets/image2014-10-20-13-3a24-3a15.png)
 
@@ -31,11 +31,11 @@ Der Marketing-Kalender bietet eine Übersicht über die Dinge, ermöglicht aber 
    >
    >Wenn Sie den Fokus auf ein Programm legen, können Sie nur mit den Einträgen interagieren, die zu diesem Programm gehören, und neue Einträge erstellen, die von ihm gespeichert werden.
 
-1. Wenn Sie fertig sind, lassen Sie den Fokus los, um mit anderen Programmen/Einträgen zu interagieren.
+1. Wenn Sie fertig sind, lassen Sie den Fokus los, um mit anderen Programmen oder Einträgen zu interagieren.
 
    ![](assets/image2014-10-20-13-3a24-3a24.png)
 
-Fantastisch! Nun können Sie sich mit Einträgen vertraut machen.
+Verwenden Sie die folgenden Links, um zu erfahren, wie Sie mit Einträgen interagieren.
 
 >[!MORELIKETHIS]
 >

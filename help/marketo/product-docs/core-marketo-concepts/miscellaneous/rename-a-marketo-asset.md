@@ -3,16 +3,16 @@ unique-page-id: 2952484
 description: Erfahren Sie, wie Sie Ordner, Programme und lokale Assets in Marketo Engage umbenennen.
 title: Umbenennen eines Marketo-Assets
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '85'
 ht-degree: 11%
 
 ---
 
 # Umbenennen eines Marketo-Assets {#rename-a-marketo-asset}
 
-Ordner, Programme und lokale Assets können einfach umbenannt werden.
+Ordner, Programme und lokale Assets können alle umbenannt werden.
 
 1. Wählen Sie ein Asset aus, das Sie umbenennen möchten, und klicken Sie auf den Namensblock des Bedienfelds auf der rechten Seite.
 

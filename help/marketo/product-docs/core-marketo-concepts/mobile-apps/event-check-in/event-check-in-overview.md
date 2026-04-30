@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über das Einchecken von Ereignissen zum Eincheck
 title: Übersicht über das Einchecken in ein Ereignis
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '314'
 ht-degree: 4%
 
 ---
@@ -21,8 +21,6 @@ Die Marketo Events App für [!DNL iPad] oder [!DNL Android] Tablet erleichtert d
 In diesem Artikel wird der vollständige Prozess beschrieben. Die Überschriften sind mit den einzelnen Artikeln verknüpft, und einige Marketo-Aktivitäten sind Links in diesem Entwurf.
 
 Einige Aktivitäten finden vor dem Ereignis statt, z. B. das Erstellen einer neuen Rolle und das Einladen von Teilnehmern. Einige passieren während des Ereignisses, z. B. das Einchecken von Teilnehmern. Nach dem Ereignis synchronisieren Sie Ihre Daten mit Marketo und aktualisieren den Status der Person.
-
-Ich wünsche euch eine tolle Veranstaltung!
 
 ## Vorbereiten des Ereignisses
 

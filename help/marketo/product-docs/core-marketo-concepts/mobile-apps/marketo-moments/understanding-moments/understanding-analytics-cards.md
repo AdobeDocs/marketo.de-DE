@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über Analytics-Karten in Marketo Moments. Anzeig
 title: Grundlegendes zu Analytics-Karten
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '311'
 ht-degree: 2%
 
 ---
@@ -33,11 +33,11 @@ Tippen Sie auf eine Analytics-Karte, um Folgendes anzuzeigen:
 * Vergleich von Monaten mit Monaten
 * Ein Balkendiagramm mit den meisten oder drei Punkten (je nach Karte)
 
-Sehen wir uns beispielsweise die Details der Analytics-Karte [!UICONTROL Erworbene Leads] an:
+Hier finden Sie beispielsweise die Details zur Analytics[!UICONTROL Karte „Erworbene Leads]:
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
-In diesem Beispiel zeigt Rot an, dass der Wert über den ausgewählten Datumsbereich (uh oh!) abgenommen hat. Grün zeigt an, dass der Wert erhöht wurde (yay!).
+In diesem Beispiel zeigt Rot an, dass der Wert im ausgewählten Datumsbereich abgenommen hat. Grün zeigt an, dass der Wert erhöht wurde.
 
 ## [!UICONTROL Erworbene Leads] {#acquired-leads}
 

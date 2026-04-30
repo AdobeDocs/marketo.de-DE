@@ -4,20 +4,20 @@ description: Erfahren Sie, wie Sie im Marketing-Kalender navigieren, einschließ
 title: Navigieren im Marketing-Kalender
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '179'
 ht-degree: 5%
 
 ---
 
 # Navigieren im Marketing-Kalender {#navigating-the-marketing-calendar}
 
-Die Navigation im Marketing-Kalender ist einfach. Und so geht das.
+Erfahren Sie, wie Sie im Marketing-Kalender navigieren.
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, dass Sie über [Marketing-Kalender-Lizenz](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} verfügen. Andernfalls wird die Marketing-Kalender-Kachel nicht in My Marketo angezeigt.
+>Vergewissern Sie sich, dass Sie über [Marketing-Kalender-Lizenz](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} verfügen. Andernfalls wird die Marketing-Kalender-Kachel nicht in „Meine Marketo&quot; angezeigt.
 
 >[!NOTE]
 >
@@ -49,13 +49,13 @@ Die Tagesansicht zeigt alle Ihre Einträge als Liste an.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Fantastisch! Dies ist eine großartige Ansicht, um alles zu sehen, was geplant ist.
+   Diese Ansicht zeigt alles, was geplant ist.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
 ## Durch die Zeit navigieren {#navigate-through-time}
 
-Ohne DeLorean! Klicken Sie einfach auf die Navigationsschaltflächen.
+Klicken Sie auf die Navigationsschaltflächen.
 
 ![](assets/image2014-9-26-10-3a31-3a25.png)
 
@@ -67,7 +67,7 @@ Sie können auch diese Tastaturbefehle verwenden.
 | Zeitvorlauf | Alt/Opt + Down |
 | Gehe zu „Heute“ | Alt/Wahl+T |
 
-Fantastisch! Das sind die Grundlagen. Sie können Ihre Ansicht auch mithilfe von Filtern anpassen.
+Das sind die Grundlagen. Sie können Ihre Ansicht auch mithilfe von Filtern anpassen.
 
 >[!MORELIKETHIS]
 >

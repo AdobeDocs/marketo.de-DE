@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie den Marketing-Kalender nach Arbeitsbereich fi
 title: Filtern des Marketing-Kalenders nach Arbeitsbereichen
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 16%
+source-wordcount: '79'
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ Der Marketing-Kalender kann nach Objekten in bestimmten Arbeitsbereichen gefilte
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
-   Sehr gut! Jetzt werden nur Objekte angezeigt, die in diesem bestimmten Arbeitsbereich erstellt wurden.
+   Es werden jetzt nur Objekte angezeigt, die in diesem Arbeitsbereich erstellt wurden.
 
    >[!NOTE]
    >

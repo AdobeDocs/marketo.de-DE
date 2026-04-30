@@ -3,10 +3,10 @@ unique-page-id: 11386358
 description: Erfahren Sie mehr über die Marketo Engage-Sandbox zum Testen vor der Produktion. Verwenden Sie eine Sandbox-Instanz, um zu testen, ohne die Produktion zu beeinträchtigen.
 title: Marketo-Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 1%
+source-wordcount: '306'
+ht-degree: 3%
 
 ---
 
@@ -29,12 +29,12 @@ Eine Marketo-Sandbox kann nicht mit Ihrem regulären CRM-System synchronisiert w
 
 >[!CAUTION]
 >
->Wir unterstützen derzeit keine Sandbox-Aktualisierung für die Marketo Dynamics _oder_ Salesforce Sync. Wenn Sie Ihre CRM-Sandbox aktualisieren müssen, ist eine neue Marketo-Sandbox erforderlich. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>Die Sandbox-Aktualisierung für Marketo Dynamics _oder_ Salesforce Sync wird derzeit nicht unterstützt. Wenn Sie Ihre CRM-Sandbox aktualisieren müssen, ist eine neue Marketo-Sandbox erforderlich. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 ## Instanzkopie {#instance-copy}
 
-Sie können einen Support-Fall senden, in dem eine einmalige Instanzkopie zum Ausfüllen Ihrer Sandbox angefordert wird. Die Instanzkopie bringt jedoch nicht _alles_. Weitere Informationen finden Sie im [Marketo](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de)Support.
+Sie können einen Support-Fall senden, in dem eine einmalige Instanzkopie zum Ausfüllen Ihrer Sandbox angefordert wird. Die Instanzkopie bringt jedoch nicht _alles_. Weitere Informationen erhalten Sie beim [Marketo](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de)Support.
 
 >[!NOTE]
 >
->Wenn Sie Ihr natives CRM ändern, ist eine neue Marketo-Instanz erforderlich und eine Instanzkopie in die neue Marketo-Instanz ist nicht möglich. Wenden Sie sich stattdessen an den Marketo-Support, um die Funktion „Programm importieren“ zu erkunden.
+>Wenn Sie Ihr natives CRM ändern, ist eine neue Marketo-Instanz erforderlich und eine Instanzkopie in die neue Marketo-Instanz ist nicht möglich. Arbeiten Sie stattdessen mit dem Marketo-Support zusammen, um die Funktionalität „Programm importieren“ zu erkunden.

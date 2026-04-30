@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie den Marketing-Kalender nach Eintragstyp, Prog
 title: Filtern des Marketing-Kalenders
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '118'
 ht-degree: 6%
 
 ---
@@ -27,7 +27,7 @@ Verwenden Sie Eintragstypen, Programm-Tags oder Arbeitsbereiche, um die im Kalen
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
-1. Wählen Sie zusätzliche Eintragstypen aus, die Sie in Ihrem Filter sehen möchten.
+1. Wählen Sie zusätzliche Eintragstypen aus, die Ihrem Filter hinzugefügt werden sollen.
 
    ![](assets/image2014-9-24-10-3a47-3a0.png)
 
@@ -43,7 +43,7 @@ Verwenden Sie Eintragstypen, Programm-Tags oder Arbeitsbereiche, um die im Kalen
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   Fantastisch! Es werden jetzt nur noch Einträge angezeigt, die für den soeben definierten Filter gelten.
+   Nur Einträge, die mit dem definierten Filter übereinstimmen, werden jetzt angezeigt.
 
    >[!NOTE]
    >

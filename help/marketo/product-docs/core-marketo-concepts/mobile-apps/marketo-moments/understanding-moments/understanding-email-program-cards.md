@@ -4,9 +4,9 @@ description: In Marketo Moments erfahren Sie mehr über E-Mail-Programmkarten. S
 title: Grundlegendes zu E-Mail-Programmkarten
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '386'
 ht-degree: 4%
 
 ---
@@ -51,7 +51,7 @@ Nach dem Versand der E-Mail zeigt die Karte weitere nützliche Informationen an,
 
    >[!NOTE]
    >
-   >Jetzt wird Ihre Karte orange!
+   >Die Karte wird orange.
 
 ## Abbrechen eines E-Mail-Kartenversands {#canceling-an-email-card-send}
 
@@ -83,7 +83,7 @@ Sie können bestätigte oder unbestätigte E-Mail-Karten neu planen.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
-   Solange Sie drahtlosen Service haben, können Sie von überall aus neu planen!
+   Bei einer drahtlosen Verbindung ist eine Neuplanung von jedem Standort aus möglich.
 
 ## Senden eines Beispiels {#sending-a-sample}
 
@@ -109,7 +109,7 @@ Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um eine Vorschau an
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   Auf diese Weise wissen Sie, dass Ihre E-Mail perfekt ist, bevor Sie den Trigger ziehen!
+   Auf diese Weise können Sie vor dem Versand überprüfen, ob die E-Mail korrekt aussieht.
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie eine Marketing-Kalenderpräsentation starten,
 title: Starten einer Präsentation
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 4%
+source-wordcount: '116'
+ht-degree: 5%
 
 ---
 
 # Starten einer Präsentation {#launch-a-presentation}
 
-Nachdem Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgelegt haben, ist es Zeit für einen Blastoff!
+Nachdem die Ansichten und die Drehfrequenz festgelegt wurden, kann die Präsentation gestartet werden.
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ Nachdem Sie die Ansichten und die Drehfrequenz für Ihre Präsentation festgeleg
 
 >[!TIP]
 >
->Stellen Sie sicher _dass Sie „Vorschau einer_&quot; vor dem Start anzeigen.
+>Vorschau der Präsentation vor dem Start
 
 1. Klicken Sie **[!UICONTROL Starten]**.
 

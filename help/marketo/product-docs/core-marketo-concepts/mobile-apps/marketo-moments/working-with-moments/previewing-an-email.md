@@ -4,16 +4,16 @@ description: In Marketo Moments erfahren Sie, wie Sie eine E-Mail in der Vorscha
 title: Anzeigen einer E-Mail in der Vorschau
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '160'
 ht-degree: 5%
 
 ---
 
 # Anzeigen einer E-Mail in der Vorschau {#previewing-an-email}
 
-Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um eine Vorschau anzuzeigen, bevor Sie den Trigger abrufen.
+Klicken Sie mit der rechten Maustaste auf eine E-Mail-Karte, um sie vor dem Senden in der Vorschau anzuzeigen.
 
 >[!IMPORTANT]
 >

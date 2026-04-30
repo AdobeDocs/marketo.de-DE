@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine Marketing-Kalender-Präsentation mit Ans
 title: Anpassen einer Präsentation
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '284'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ Präsentationen durchlaufen verschiedene [Filterdefinitionen](/help/marketo/prod
 
 ## Ziel hinzufügen {#add-a-goal}
 
-Präsentationen sind am besten geeignet, wenn sie die Ziele Ihres Teams darstellen. Ziehen Sie einfach über verschiedene [benutzerdefinierte Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} oder [Smart List-Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Sie können bis zu 10 verwenden.
+Präsentationen sind am effektivsten, wenn sie Teamziele anzeigen. Ziehen Sie über verschiedene [benutzerdefinierte Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} oder [Smart-Listen-Ziele](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. Sie können bis zu 10 verwenden.
 
 1. Ziehen Sie aus der rechten Baumstruktur die verschiedenen Ziele, die in der Präsentation angezeigt werden sollen.
 
@@ -44,7 +44,7 @@ Präsentationen sind am besten geeignet, wenn sie die Ziele Ihres Teams darstell
 
 ## Frequenz der Rotation einstellen {#set-the-frequency-of-rotation}
 
-Nachdem Sie die gewünschten Ansichten in die Präsentation eingezogen haben, legen Sie fest, mit welcher Häufigkeit sie zwischen den verschiedenen Ansichten rotiert.
+Nachdem die Ansichten eingezogen wurden, legen Sie fest, mit welcher Häufigkeit sie zwischen den verschiedenen Ansichten rotieren.
 
 1. Klicken Sie auf **[!UICONTROL 5 Minuten]** (dies ist die Standardkadenz).
 
@@ -66,11 +66,9 @@ Die Kalenderanzeige kann in eine 3-Wochen- oder Monatsansicht geändert werden.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   Fantastisch! Sind Sie bereit, Ihre Präsentation zu sehen?
-
 >[!TIP]
 >
->Legen Sie ein [Hintergrundbild](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} für Ihre Präsentation fest. Wir empfehlen Kätzchen oder Regenbögen.
+>Legen Sie ein [Hintergrundbild](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} für Ihre Präsentation fest.
 
 ## Vorschau einer Präsentation {#preview-a-presentation}
 
@@ -80,11 +78,11 @@ Nachdem die Präsentation konfiguriert wurde, kann sie in der Vorschau angezeigt
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   Ta-da! So könnte Ihre Präsentation aussehen.
+   So könnte Ihre Präsentation aussehen.
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   Gefällt dir nicht, was du siehst? Gehen Sie zurück und verwenden Sie verschiedene Filterdefinitionen, um die gewünschte Ansicht zu erstellen.
+   Verwenden Sie verschiedene Filterdefinitionen, um die Ansicht anzupassen.
 
 >[!MORELIKETHIS]
 >

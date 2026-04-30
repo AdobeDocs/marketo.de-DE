@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie eine Filterdefinition im Marketing-Kalender f
 title: Teilen einer Filterdefinition im Marketing-Kalender
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 13%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
@@ -24,7 +24,7 @@ Filter können von verschiedenen Benutzern gemeinsam genutzt werden.
 >
 > Wenn Sie Änderungen an einem gespeicherten Filter vornehmen, müssen Sie ihn erneut freigeben. Ihre Änderungen werden erst dann für andere Benutzer übernommen.
 
-1. Wählen Sie den Filter aus, den Sie freigeben möchten.
+1. Wählen Sie den Filter aus, der freigegeben werden soll.
 
    ![](assets/image2014-9-24-11-3a31-3a19.png)
 

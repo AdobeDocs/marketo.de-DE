@@ -3,9 +3,9 @@ unique-page-id: 2952292
 description: Erfahren Sie mehr über Marketo Engage-Benachrichtigungen bei Kampagnenfehlern und CRM-Synchronisierung. Abonnieren Sie , um Benachrichtigungen per E-Mail zu erhalten und auf dem neuesten Stand zu bleiben.
 title: Grundlegendes zu Benachrichtigungen
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: ea341c472b6e4ac81edd60e269916f0451b94152
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 3%
 
 ---
@@ -44,8 +44,8 @@ Sie können Benachrichtigungen abonnieren, um sie in Ihrer E-Mail zu erhalten.
 >
 >Das Feld _[!UICONTROL Senden an]_ dient nur zur Eingabe einer E-Mail-Adresse. Es wird keine Liste der vorhandenen Abonnenten angezeigt.
 
-In einigen Fällen enthält eine Benachrichtigung einen Link „Vollständige Liste anzeigen“, über den Sie eine CSV-Datei (kommagetrennte Werte) herunterladen können, z. B. die Microsoft Dynamics-Synchronisierungsfehlerdatei. Marketo Engage bewahrt diese CSV-Dateien 30 Tage lang auf. Wenn Sie versuchen, die Datei nach 30 Tagen herunterzuladen, erhalten Sie einen Fehler.
+In einigen Fällen enthält eine Benachrichtigung einen Link „Vollständige Liste anzeigen“, über den Sie eine CSV-Datei (kommagetrennte Werte) herunterladen können, z. B. die Microsoft Dynamics-Synchronisierungsfehlerdatei. Marketo Engage bewahrt diese CSV-Dateien 30 Tage lang auf. Wenn Sie versuchen, die Datei nach 30 Tagen herunterzuladen, tritt ein Fehler auf.
 
 >[!TIP]
 >
->Möchten Sie sich von Benachrichtigungs-E-Mails abmelden? Kein Problem. Klicken Sie einfach auf **[!UICONTROL Link]** Abo von Benachrichtigungen beenden“ am unteren Rand der Benachrichtigungs-E-Mail.
+>Um das Abonnement von Benachrichtigungs-E-Mails zu kündigen **[!UICONTROL klicken Sie auf den Link]** Abonnement von Benachrichtigungen kündigen“ am unteren Rand der Benachrichtigungs-E-Mail.

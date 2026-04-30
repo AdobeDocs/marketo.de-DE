@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Personen von einem Tablet aus in Ihr Ereignis
 title: Einchecken von Personen in Ihr Ereignis über Ihr Tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '880'
 ht-degree: 2%
 
 ---
 
 # Einchecken von Personen in Ihr Ereignis über Ihr Tablet {#check-people-into-your-event-from-your-tablet}
 
-Wenn Personen bei Ihrer Veranstaltung auftauchen, können Sie ihre Informationen in der App finden. Nach dem Check-in werden sie zum Status „Teilgenommen“ befördert, wenn Sie mit Marketo synchronisieren.
+Wenn Personen bei Ihrer Veranstaltung auftauchen, können Sie ihre Informationen in der App finden. Nach dem Check-in werden sie zum Status „Teilgenommen“ hochgestuft, wenn Sie mit Marketo synchronisieren.
 
 >[!IMPORTANT]
 >
@@ -81,7 +81,7 @@ Der Gast hat jetzt den Status Anwesend und erhält ein Häkchen. Der Personendat
 
 >[!TIP]
 >
->Wenn eine Person eingeladen wurde, sich jedoch nicht registriert hat, können Sie direkt unter dem Suchfeld nach dem Namen **[!UICONTROL Auf dem Server suchen]**. Der Status der Einladung ändert sich für **[!UICONTROL Veranstaltung in]** Teilgenommen“.
+>Wenn eine Person eingeladen wurde, sich jedoch nicht registriert hat, können Sie nach dem Namen suchen, indem Sie unter dem Suchfeld **[!UICONTROL Auf Server]** suchen) klicken. Der Status der Einladung ändert sich für **[!UICONTROL Veranstaltung in]** Teilgenommen“.
 
 ## Erstellen einer neuen Person auf dem Tablet {#create-a-new-person-on-the-tablet}
 
@@ -103,7 +103,7 @@ Sie können Gäste, die keine vorhandenen Personen sind, manuell in Ihrer Market
 
    >[!NOTE]
    >
-   >Sie können nur die vorhandenen Felder verwenden. Es können keine benutzerdefinierten erstellt werden.
+   >Es sind nur die vorhandenen Felder verfügbar. Benutzerdefinierte Felder können nicht erstellt werden.
 
    >[!CAUTION]
    >
@@ -113,17 +113,16 @@ Die neue Person wird als bei Ihrem Ereignis eingecheckt registriert und der Mark
 
 ## Umkehren eines Eincheckens {#reverse-a-check-in}
 
-Wenn Sie versehentlich eine Person eingecheckt haben _bevor Sie mit Marketo synchronisiert haben_ können Sie den Status &quot;[!UICONTROL &quot; &#x200B;].
+Wenn Sie versehentlich eine Person eingecheckt haben _bevor Sie mit Marketo synchronisiert haben_ können Sie den Status &quot;[!UICONTROL &quot; ].
 
 1. Tippen Sie auf den Namen in der Liste und im Personendatensatz auf **[!UICONTROL Rückgängig]**.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
-   Alles behoben!
 
 ## Bearbeiten eines Personendatensatzes beim Einchecken {#edit-a-person-record-at-check-in}
 
-Sie können Gastinformationen direkt bei der Veranstaltung hinzufügen und ändern!
+Sie können Gastinformationen bei der Veranstaltung hinzufügen und ändern.
 
 1. Tippen Sie auf den Namen in der Personenliste und dann auf **[!UICONTROL Bearbeiten]**.
 
@@ -141,11 +140,11 @@ Die Informationen werden beim Synchronisieren der App mit Marketo aktualisiert.
 
 ## App mit Marketo synchronisieren {#sync-the-app-with-marketo}
 
-Die Marketo Events-App funktioniert unabhängig, bis Sie Ihre Aktivität wieder mit der Marketo-Datenbank synchronisieren. Es ist am besten, so bald wie möglich nach dem letzten Check-in zu synchronisieren. Ihr Tablet muss mit dem Internet verbunden sein.
+Die Marketo Events-App funktioniert unabhängig, bis Sie Ihre Aktivität wieder mit der Marketo-Datenbank synchronisieren. Es ist am besten, so bald wie möglich nach dem letzten Einchecken zu synchronisieren. Ihr Tablet muss mit dem Internet verbunden sein.
 
 >[!CAUTION]
 >
->Nach der Synchronisierung können Sie einen Check-in aus der App nicht rückgängig machen.
+>Nach der Synchronisierung ist es nicht möglich, einen Check-in aus der App rückgängig zu machen.
 
 1. Öffnen Sie auf dem Tablet die App und navigieren Sie zu Ihrem Ereignis.
 
@@ -157,18 +156,18 @@ Die Marketo Events-App funktioniert unabhängig, bis Sie Ihre Aktivität wieder 
 
 ## Arbeiten mit eingeschränktem Internetzugriff {#working-with-limited-internet-access}
 
-Manche Orte haben einen schlechten Internetzugang. Sie benötigen eine gute Verbindung zu:
+Einige Veranstaltungsorte haben einen schlechten Internetzugang. Sie benötigen eine gute Verbindung zu:
 
 * Herunterladen und Installieren der App
 * Anmeldung
 * Ereignis auswählen
 * App mit Marketo synchronisieren
 
-Wenn Sie sich über den Internetzugang am Veranstaltungsort Sorgen machen, sollten Sie sich bei der Marketo Events App anmelden und Ihre Veranstaltung im Voraus an einem Ort mit starkem Internetzugang auswählen. Auf diese Weise können Sie die App weiterhin offline verwenden. Wenn Sie dann wieder eine Internetverbindung herstellen, synchronisieren Sie sofort mit der Marketo-Datenbank.
+Wenn Sie sich Sorgen über den Internetzugang am Veranstaltungsort machen, sollten Sie sich bei der Marketo Events App anmelden und Ihre Veranstaltung im Voraus an einem Ort mit starkem Internetzugang auswählen. Auf diese Weise können Sie die App weiterhin offline verwenden. Wenn Sie dann wieder eine Internetverbindung herstellen, synchronisieren Sie sofort mit der Marketo-Datenbank.
 
 >[!TIP]
 >
->Wenn Sie keine Internetverbindung haben, können Sie dennoch eine neue Person für eine Person erstellen, die sich anmeldet. Sie wird mit der vorhandenen Person abgestimmt, wenn Sie die App synchronisieren.
+>Wenn keine Internetverbindung besteht, kann dennoch eine neue Person für eine Person erstellt werden, die sich eincheckt. Sie wird mit der vorhandenen Person abgestimmt, wenn Sie die App synchronisieren.
 
 >[!NOTE]
 >

@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '229'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM-Assets zugre
 
    ![](assets/one.png)
 
-1. Sie können sich mit Adobe anmelden oder lokal anmelden. In diesem Beispiel melden wir uns lokal an.
+1. Sie können sich mit Adobe anmelden oder lokal anmelden. In diesem Beispiel wird die lokale Anmeldung verwendet.
 
    ![](assets/two.png)
 
@@ -47,7 +47,7 @@ Konfigurieren Sie Adobe Experience Manager (AEM), damit Sie auf AEM-Assets zugre
 
    ![](assets/four.png)
 
-1. Geben Sie **[!UICONTROL Textfeld „Zulässige Ursprünge (Regexp]** ein und klicken Sie auf `https://.*\.marketo\.com`Speichern **&#x200B;**.
+1. Geben Sie **[!UICONTROL Textfeld „Zulässige Ursprünge (Regexp]** ein und klicken Sie auf `https://.*\.marketo\.com`Speichern ****.
 
    ![](assets/five-psd.png)
 

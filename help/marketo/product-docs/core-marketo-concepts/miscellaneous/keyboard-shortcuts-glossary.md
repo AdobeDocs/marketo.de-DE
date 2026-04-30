@@ -1,18 +1,20 @@
 ---
 unique-page-id: 1147318
 description: Hier erhalten Sie Hilfe zu Marketo-Tastaturbefehlen für Bereichsnavigation, Kalender und mehr. Verwenden Sie Tastaturbefehle, um in Marketo Engage schneller zu navigieren.
+hide: true
+hidefromtoc: true
 title: Glossar zu Tastaturbefehlen
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 17%
 
 ---
 
 # Glossar zu Tastaturbefehlen {#keyboard-shortcuts-glossary}
 
-Sind Sie ein Mensch mit Tastaturbefehlen? Wir haben Sie im Griff!
+Verwenden Sie diese Tastaturbefehle, um schneller in Marketo zu navigieren.
 
 ## Bereichsnavigation {#area-navigation}
 
@@ -41,4 +43,4 @@ Sind Sie ein Mensch mit Tastaturbefehlen? Wir haben Sie im Griff!
 |---|---|
 | ESC | Popup schließen |
 | Rückgabe/Eingabetaste | Popup „Senden“ |
-| Strg + Alt/Opt + H | Ein Feld im Formulareditor ausblenden/einblenden |
+| Strg + Alt/Opt + H | Ein- oder Ausblenden eines Felds im Formulareditor |

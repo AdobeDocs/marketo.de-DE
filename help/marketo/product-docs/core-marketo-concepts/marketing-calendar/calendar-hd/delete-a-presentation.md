@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie eine Marketing-Kalender-Präsentation lösche
 title: Löschen einer Präsentation
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 11%
+source-wordcount: '44'
+ht-degree: 13%
 
 ---
 
 # Löschen einer Präsentation {#delete-a-presentation}
 
-Manchmal kann man zu viel des Guten haben. Löschen Sie alte Präsentationen, um Platz für neue zu schaffen!
+Löschen Sie alte Präsentationen, um Platz für neue zu schaffen.
 
 1. Präsentation auswählen.
 

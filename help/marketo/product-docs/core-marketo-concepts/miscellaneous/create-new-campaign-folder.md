@@ -3,16 +3,16 @@ unique-page-id: 2953207
 description: Erfahren Sie, wie Sie in Marketing-Aktivitäten einen neuen Kampagnenordner erstellen. Organisieren Sie Ihren Arbeitsbereich mit Kampagnenordnern für Automatisierung und Assets.
 title: Erstellen eines neuen Kampagnenordners
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 17%
+source-wordcount: '110'
+ht-degree: 20%
 
 ---
 
 # Erstellen eines neuen Kampagnenordners {#create-new-campaign-folder}
 
-Mit Campaign-Ordnern behalten Sie einen aufgeräumten Arbeitsplatz. Folgen Sie diesen einfachen Schritten und Sie sind auf dem Weg zur Automatisierungsmagie.
+Mit Campaign-Ordnern behalten Sie einen aufgeräumten Arbeitsplatz. Führen Sie diese Schritte aus, um zu beginnen.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -38,7 +38,7 @@ Mit Campaign-Ordnern behalten Sie einen aufgeräumten Arbeitsplatz. Folgen Sie d
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   Fantastisch! Sie haben gerade einen Kampagnenordner erstellt. Sieh es dir im Baum an.
+   Der Kampagnenordner wird in der Baumstruktur angezeigt.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
