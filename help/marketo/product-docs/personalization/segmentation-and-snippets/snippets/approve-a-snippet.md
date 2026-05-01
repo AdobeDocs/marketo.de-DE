@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie einen Ausschnitt genehmigen, damit er in E-Ma
 title: Genehmigen eines Ausschnitts
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 10%
+source-wordcount: '76'
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ Ein Snippet muss vor der Verwendung genehmigt werden.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-Das ist alles! Der Status Ihres Snippets ändert sich von Entwurf zu Genehmigt .
+Der Status Ihres Snippets ändert sich von Entwurf zu Genehmigt .
 
 >[!MORELIKETHIS]
 >

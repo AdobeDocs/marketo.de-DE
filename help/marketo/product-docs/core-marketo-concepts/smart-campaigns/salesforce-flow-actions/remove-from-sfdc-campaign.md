@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie mit einem Flussschritt Personen aus einer Sal
 title: Entfernen aus SFDC-Kampagne
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
@@ -29,4 +29,4 @@ So wie Sie [Zu SFDC Campaign hinzufügen](/help/marketo/product-docs/core-market
    >
    >Wenn die Person oder der Lead kein Mitglied der von Ihnen ausgewählten Kampagne ist, wird er/sie übersprungen.
 
-Das ist alles! Wenn Personen oder Leads durch fließen, werden sie aus der ausgewählten [!DNL Salesforce] entfernt.
+Wenn Personen oder Leads durch fließen, werden sie aus der ausgewählten [!DNL Salesforce] entfernt.

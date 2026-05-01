@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie benannte Konten filtern können, um Daten sch
 title: Filtern in benannten Konten
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ Filtern ist eine hervorragende Möglichkeit, Daten schnell einzugrenzen.
 
    ![](assets/four-2.png)
 
-   Und das war&#39;s! Die gefilterten Ergebnisse werden auf der linken Bildschirmseite angezeigt.
+   Die gefilterten Ergebnisse werden auf der linken Bildschirmseite angezeigt.
 
    >[!NOTE]
    >

@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Berichtsspalten durch Ziehen und Ablegen an n
 title: Neuanordnen der Berichtsspalten
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 7%
+source-wordcount: '109'
+ht-degree: 5%
 
 ---
 
@@ -27,7 +27,7 @@ Sie können die Reihenfolge der Spalten in einem Bericht ändern.
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. Das ist alles! Die Spalten werden jetzt in der neuen Reihenfolge angezeigt.
+1. Die Spalten werden jetzt in der neuen Reihenfolge angezeigt.
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 

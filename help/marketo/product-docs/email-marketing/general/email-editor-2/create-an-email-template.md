@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie im E-Mail-Editor 2.0 eine E-Mail-Vorlage erst
 title: Erstellen einer E-Mail-Vorlage
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '285'
 ht-degree: 12%
 
 ---
@@ -64,8 +64,6 @@ Wenn Sie eine E-Mail erstellt haben, die Sie als Vorlage für die zukünftige Ve
 1. Klicken Sie auf **[!UICONTROL Ordner]**, wählen Sie aus, wo die Vorlage gespeichert werden soll, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/five-1.png)
-
-   Und das war&#39;s!
 
    >[!CAUTION]
    >

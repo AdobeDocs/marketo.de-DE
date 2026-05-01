@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Marketo Sales Insight in Microsoft Dynamics 2
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 6%
+source-wordcount: '370'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >Abschließen der Marketo-Microsoft-Integration
 >
->[Laden Sie die richtige Lösung &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version [!DNL Microsoft Dynamics] CRM herunter.
+>[Laden Sie die richtige Lösung ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version [!DNL Microsoft Dynamics] CRM herunter.
 
 ## Lösung importieren {#import-solution}
 
@@ -37,9 +37,9 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >Sie sollten die Marketo[Lösung bereits installiert und &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) haben, bevor Sie fortfahren.
+   >Sie sollten die Marketo[Lösung bereits installiert und ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) haben, bevor Sie fortfahren.
 
-1. Klicken Sie **[!UICONTROL Durchsuchen]**. Wählen Sie die [!DNL Marketo Sales Insight] Lösung aus[&#x200B; die Sie heruntergeladen &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie auf **[!UICONTROL Durchsuchen]**. Wählen Sie die [!DNL Marketo Sales Insight] Lösung aus[ die Sie heruntergeladen ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -91,7 +91,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >Die folgenden Felder müssen mit Marketo Insight synchronisiert werden, damit _Lead und Kontakt_ funktioniert:
+   >Die folgenden Felder müssen mit Marketo synchronisiert werden, damit _Lead und Kontakt_ funktioniert:
    >
    >* Priorität
    >* Dringlichkeit
@@ -143,11 +143,9 @@ Richten Sie Benutzerrollen ein, um bestimmten Benutzern Zugriff auf [!DNL Sales 
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
-   Und das war&#39;s! Alle Benutzenden, die Zugriff haben, können jetzt den Abschnitt Vertriebs-insight in der Lead-/Kontaktdetailansicht sehen.
+   Alle Benutzenden, die Zugriff haben, können jetzt den Abschnitt Vertriebs-insight in der Lead-/Kontaktdetailansicht sehen.
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
-
-   Glückwunsch. Sie haben jetzt die Macht der [!DNL Marketo Sales Insight] entfesselt.
 
 >[!MORELIKETHIS]
 >

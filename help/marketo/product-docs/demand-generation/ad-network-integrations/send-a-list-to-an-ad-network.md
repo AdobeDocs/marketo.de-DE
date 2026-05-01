@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie eine statische Liste an LinkedIn, Facebook od
 title: Senden einer Liste an ein Anzeigennetzwerk
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '232'
 ht-degree: 7%
 
 ---
@@ -38,9 +38,9 @@ Erfahren Sie, wie Sie eine statische Liste an [!DNL LinkedIn], [!DNL Facebook] o
 
    >[!NOTE]
    >
-   >Wenn Sie &quot;[!UICONTROL Fortlaufende Zielgruppensynchronisierung aktivieren] auswählen, hält Marketo die Liste im ausgewählten Werbenetzwerk auf dem neuesten Stand, wenn sich die Liste in Ihrer Marketo-Instanz ändert. Wir fügen sowohl **und** Personen aus der Zielgruppe hinzu, wenn sie der statischen Liste hinzugefügt oder daraus entfernt werden.
+   >Wenn Sie &quot;[!UICONTROL Fortlaufende Zielgruppensynchronisierung aktivieren] auswählen, hält Marketo die Liste im ausgewählten Werbenetzwerk auf dem neuesten Stand, wenn sich die Liste in Ihrer Marketo-Instanz ändert. Wir fügen sowohl **und** Personen aus der Zielgruppe hinzu, wenn sie der statischen Liste hinzugefügt/daraus entfernt werden.
 
-1. Und das war&#39;s! Zum Beenden **[!UICONTROL OK]**.
+1. Zum Beenden **[!UICONTROL OK]**.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

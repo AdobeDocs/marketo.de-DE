@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie den Rich-Text-Editor für E-Mail-Inhalte verw
 title: Verwenden des Rich-Text-Editors
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 3%
 
 ---
@@ -70,35 +70,35 @@ Im Folgenden finden Sie die Funktionen, die Sie in einem RTE finden.
 
 | Symbol | Name | Funktion |
 |---|---|---|
-| ![—](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL Schriftfamilie] | Wählen Sie Ihren Stil - wir haben jede Menge! |
-| ![—](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL Schriftgröße] | Wie groß wollen Sie es? 25 Wahlmöglichkeiten, von 8 bis 90 Pixel. |
-| ![—](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL Stile] | Wählen Sie Absatz oder sechs Überschriftenstile (für Landingpages). |
-| ![—](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL Zeilenabstand] | Pick deinen Abstand zwischen den Linien. |
-| ![—](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL Textfarbe] | Schwarz, Rot oder was immer Sie wollen. |
-| ![—](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL Hintergrundfarbe] | Zur Hervorhebung markieren. |
-| ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Fett] | **Dunkler und dicker**. |
-| ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Kursiv] | *Abgewinkelt, für Hervorhebung oder*. |
-| ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Unterstreichen] | Setzt eine Zeile unter den Text. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Ausrichtung] | Verwenden Sie dieses Dropdown-Menü, um Ihren Text und Ihre Bilder anzuordnen. Zentrieren Sie sie, wählen Sie die linke oder rechte Ausrichtung aus oder verteilen Sie sie mit der vollständigen Ausrichtung von Kante zu Kante. |
-| ![—](assets/image2015-7-9-10-3a32-3a47.png) | Liste | Wählen Sie Aufzählungszeichen oder Zahlen aus dem Dropdown-Menü aus. Aufzählungszeichen eignen sich gut für Listen und Zahlen mit Schritten. |
-| ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Einzug] | Wählen Sie mehr oder weniger Einzug. Verwenden Sie für Absätze oder Text, den Sie hervorheben möchten. |
-| ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Link einfügen/bearbeiten] | Fügen Sie einen Link zu einer Website oder anderen Inhalten ein. Nehmen Sie einfach Änderungen daran vor. |
-| ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Bild einfügen/bearbeiten] | Ein Bild sagt mehr als tausend Worte. Komm rein. Klicken Sie auf das Kamerasymbol, um Ihr Design Studio zu durchsuchen. Sie können Bilder nebeneinander ablegen. |
-| ![—](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL Token einfügen] | Ein leistungsstarkes Tool, ideal für E-Mail-Personalisierung und Daten-Tracking. Stellen Sie sicher, dass Sie einen Standardwert eingeben. |
-| ![—](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL Rückgängig] | Entschuldigung! Gehen wir einen Schritt zurück und versuchen es erneut. |
-| ![—](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL Wiederholen] | Wenn es wirklich in Ordnung ist, wie es ist, kehren Sie zum Original zurück. |
-| ![—](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL Tabelle] | Eigene bauen, wie diese hier. Ein Dropdown-Menü ermöglicht die Konfiguration. |
-| ![—](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL Anker einfügen] | Anker fallen lassen! |
-| ![—](assets/image2015-7-9-10-3a45-3a48.png) | [!UICONTROL Horizontale Linie] | Viele Anwendungen - Ideal für Teilungsabschnitte. |
-| ![—](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL HTML bearbeiten] | Öffnet den HTML Source Editor, damit Sie Ihren Code anpassen können. |
-| ![—](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL Tiefgestellt] | Tief hängende Buchstaben (wie in O`<sub>2</sub>`). |
-| ![—](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL Hochgestellt] | Du hast die Macht! (2`<sup>6</sup>`) |
-| ![—](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL Durchgestrichen] | `<s>Put a line through text, like this</s>`. |
-| ![—](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL Sonderzeichen] | Möchten Sie über Euros sprechen? Mathematik? Sie haben 243 Möglichkeiten. |
-| ![—](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL Suchen und Ersetzen] | Suchen und ändern Sie Dinge viel schneller, als selbst nach jeder Instanz zu suchen. |
-| ![—](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL Formatierung löschen] | Bringen Sie die Dinge zum Standard zurück. |
-| ![—](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL Abbrechen] | Drücke den Knopf, um zu sagen: „Macht nichts.“ |
-| ![—](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL Speichern] | Drücken Sie den Knopf um zu sagen, „OK, ich mag es.“ |
+| ![--](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL Schriftfamilie] | Wählen Sie Ihren Stil - wir haben jede Menge! |
+| ![--](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL Schriftgröße] | Wie groß wollen Sie es? 25 Wahlmöglichkeiten, von 8 bis 90 Pixel. |
+| ![--](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL Stile] | Wählen Sie Absatz oder sechs Überschriftenstile (für Landingpages). |
+| ![--](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL Zeilenabstand] | Pick deinen Abstand zwischen den Linien. |
+| ![--](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL Textfarbe] | Schwarz, Rot oder was immer Sie wollen. |
+| ![--](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL Hintergrundfarbe] | Zur Hervorhebung markieren. |
+| ![--](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Fett] | **Dunkler und dicker**. |
+| ![--](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Kursiv] | *Abgewinkelt, für Hervorhebung oder*. |
+| ![--](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Unterstreichen] | Setzt eine Zeile unter den Text. |
+| ![--](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Ausrichtung] | Verwenden Sie diese Dropdown-Liste, um Ihren Text und Ihre Bilder anzuordnen. Zentrieren Sie sie, wählen Sie die linke oder rechte Ausrichtung aus oder verteilen Sie sie mit der vollständigen Ausrichtung von Kante zu Kante. |
+| ![--](assets/image2015-7-9-10-3a32-3a47.png) | Liste | Wählen Sie Aufzählungszeichen oder Zahlen aus der Dropdown-Liste. Aufzählungszeichen eignen sich gut für Listen und Zahlen mit Schritten. |
+| ![--](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Einzug] | Wählen Sie mehr oder weniger Einzug. Verwenden Sie für Absätze oder Text, den Sie hervorheben möchten. |
+| ![--](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Link einfügen/bearbeiten] | Fügen Sie einen Link zu einer Website oder anderen Inhalten ein. Nehmen Sie einfach Änderungen daran vor. |
+| ![--](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Bild einfügen/bearbeiten] | Ein Bild sagt mehr als tausend Worte. Komm rein. Klicken Sie auf das Kamerasymbol, um Ihr Design Studio zu durchsuchen. Sie können Bilder nebeneinander ablegen. |
+| ![--](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL Token einfügen] | Ein leistungsstarkes Tool, ideal für E-Mail-Personalisierung und Daten-Tracking. Stellen Sie sicher, dass Sie einen Standardwert eingeben. |
+| ![--](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL Rückgängig] | Entschuldigung! Gehen wir einen Schritt zurück und versuchen es erneut. |
+| ![--](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL Wiederholen] | Wenn es wirklich in Ordnung ist, wie es ist, kehren Sie zum Original zurück. |
+| ![--](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL Tabelle] | Eigene bauen, wie diese hier. Ein Dropdown-Menü ermöglicht die Konfiguration. |
+| ![--](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL Anker einfügen] | Anker fallen lassen! |
+| ![--](assets/image2015-7-9-10-3a45-3a48.png) | [!UICONTROL Horizontale Linie] | Viele Anwendungen - Ideal für Teilungsabschnitte. |
+| ![--](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL HTML bearbeiten] | Öffnet den HTML Source Editor, damit Sie Ihren Code anpassen können. |
+| ![--](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL Tiefgestellt] | Tief hängende Buchstaben (wie in O`<sub>2</sub>`). |
+| ![--](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL Hochgestellt] | Du hast die Macht! (2`<sup>6</sup>`). |
+| ![--](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL Durchgestrichen] | `<s>Put a line through text, like this</s>`. |
+| ![--](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL Sonderzeichen] | Möchten Sie über Euros sprechen? Mathematik? Sie haben 243 Möglichkeiten. |
+| ![--](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL Suchen und Ersetzen] | Suchen und ändern Sie Dinge viel schneller, als selbst nach jeder Instanz zu suchen. |
+| ![--](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL Formatierung löschen] | Bringen Sie die Dinge zum Standard zurück. |
+| ![--](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL Abbrechen] | Drücke den Knopf, um zu sagen: „Macht nichts.“ |
+| ![--](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL Speichern] | Drücken Sie den Knopf um zu sagen, „OK, ich mag es.“ |
 
 >[!TIP]
 >
@@ -131,5 +131,3 @@ Die Einstellung „Stammblockelement“ definiert, welche Tags Ihren Inhalt umsc
 1. Wählen Sie **[!UICONTROL Dropdown-Menü]** Landingpage-Editor“ `<p>` oder [!UICONTROL Keine] aus und klicken Sie auf **[!UICONTROL Speichern]**. `<p>` wird in diesem Beispiel verwendet.
 
    ![](assets/five.png)
-
-   Und das war&#39;s!

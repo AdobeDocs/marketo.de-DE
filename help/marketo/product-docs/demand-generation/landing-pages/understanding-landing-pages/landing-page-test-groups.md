@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über Testgruppen für Landingpages in Marketo. F
 title: Landingpage-Testgruppen
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 4%
+source-wordcount: '213'
+ht-degree: 3%
 
 ---
 
@@ -42,14 +42,14 @@ Marketo verfolgt die Anzahl der Seitenansichten und Formularausfüllungen auf je
 
    ![](assets/three-1.png)
 
-1. Klicken Sie auf **[!UICONTROL Dropdown-]** Testgruppenaktionen und wählen Sie **[!UICONTROL Testgruppe genehmigen]**.
+1. Klicken Sie auf **[!UICONTROL Testgruppenaktionen]** und wählen Sie **[!UICONTROL Testgruppe genehmigen]** aus.
 
    ![](assets/four-1.png)
 
-   Das ist alles! Jetzt können Sie die Statistiken der ausgewählten Landingpages vergleichen.
+   Jetzt können Sie die Statistiken der ausgewählten Landingpages vergleichen.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Wenn Sie die Testgruppe löschen möchten, klicken Sie einfach auf **[!UICONTROL Testgruppenaktionen]** und wählen Sie **[!UICONTROL Testgruppe löschen]**.
+   >Wenn Sie die Testgruppe löschen möchten, klicken Sie auf **[!UICONTROL Testgruppenaktionen]** und wählen Sie **[!UICONTROL Testgruppe löschen]**.

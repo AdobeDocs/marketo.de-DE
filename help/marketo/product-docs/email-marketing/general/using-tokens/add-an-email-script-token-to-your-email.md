@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Ihrer E-Mail ein E-Mail-Skript-Token hinzufü
 title: Hinzufügen eines E-Mail-Skript-Tokens zu einer E-Mail
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 16%
+source-wordcount: '171'
+ht-degree: 15%
 
 ---
 
@@ -51,4 +51,4 @@ Nachdem Sie [E-Mail-Skript erstellt](/help/marketo/product-docs/email-marketing/
 >
 >Vergiss nicht, die E[Mail zu genehmigen](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
-Das ist alles! Wenn diese E-Mail gesendet wird, wird das Skript hinter dem Token ausgeführt und mit Inhalten gefüllt.
+Wenn diese E-Mail gesendet wird, wird das Skript hinter dem Token ausgeführt und mit Inhalten gefüllt.

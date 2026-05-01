@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über Plug-in-Versionen für Microsoft Dynamics M
 title: Plug-in-Versionen für  [!DNL Microsoft Dynamics] .MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 1%
+source-wordcount: '496'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Wenn Sie zum ersten Mal eine Synchronisierung mit [!DNL Microsoft Dynamics] durchführen, laden Sie die neueste Version der Plug-ins für Marketo Sales Insight (MSI) herunter und installieren Sie sie. Marketo aktualisiert diese Plug-ins regelmäßig, damit Sie zum Download der neuen Version an denselben Ort zurückkehren können.
 
-Wenn Sie die native CRM-Synchronisierungslösung von Marketo für [!DNL Dynamics] verwenden, laden [das neueste Plug-in &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} Ihrer [!DNL Dynamics] Version herunter. Für diejenigen, die eine benutzerdefinierte Synchronisierung haben und Marketo Sales Insight erworben haben, ist das [Paket hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Wenn Sie die native CRM-Synchronisierungslösung von Marketo zum [!DNL Dynamics] verwenden, laden [das neueste Plug-in ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} Ihrer [!DNL Dynamics] Version herunter. Für diejenigen, die eine benutzerdefinierte Synchronisierung haben und Marketo Sales Insight erworben haben, ist das [Paket hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Wenn Sie die native CRM-Synchronisierungslösung von Marketo für [!DNL Dynamics
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
-Und das war&#39;s! Nach dem Upgrade wird nur noch eine einzige MSI-Lösung angezeigt.
+Nach dem Upgrade wird nur noch eine einzige MSI-Lösung angezeigt.
 
 ## Versionsaktualisierungen {#version-updates}
 
@@ -60,26 +60,26 @@ Und das war&#39;s! Nach dem Upgrade wird nur noch eine einzige MSI-Lösung angez
   </tr>
   <tr>
    <td>02/14/24</td>
-   <td>2,00,31</td>
+   <td>2.00.31</td>
    <td>Änderungen an der Paginierung bei anonymer Web-Aktivität.
    <p>
    Verschlüsseln von geheimen Schlüsselinformationen aus der Benutzeransicht. Das Kennwort muss nach dem Import des neuen Pakets geändert werden, damit die Verschlüsselung erfolgt.
    <p>
-   SOAP Bei der Aktualisierung des MSI for Dynamics-Plug-ins wird empfohlen, sowohl den API-Geheimschlüssel als auch die MSI-Anmeldeinformationen zu aktualisieren, um sicherzustellen, dass mit der Installation des neuen Pakets keine Zugriffsberechtigungen stattfinden.</td>
+   Beim Aktualisieren des MSI for Dynamics-Plug-ins wird empfohlen, sowohl den API-Geheimschlüssel als auch die MSI-Anmeldeinformationen zu aktualisieren, um sicherzustellen, dass mit der Installation des neuen Pakets keine Zugriffsberechtigungen stattfinden.</td>
   </tr>
   <tr>
    <td>10/18/23</td>
-   <td>2,00,30</td>
+   <td>2.00.30</td>
    <td>Konsolidierung des MSI-Fehlerprotokolls und Entfernen von Informationsbenachrichtigungen, die in der Marketo-Fehlerentität angezeigt werden.</td>
   </tr>
   <tr>
    <td>05/19/23</td>
-   <td>2,00,29</td>
+   <td>2.00.29</td>
    <td>Fehlerkorrektur: Es wurden Web-Aktivitäten und Paginierungsprobleme „Interessante Momente“ im globalen Dashboard behoben.</td>
   </tr>
   <tr>
    <td>03/23/23</td>
-   <td>2,00,28</td>
+   <td>2.00.28</td>
    <td>Es wurde ein <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">neues Paket</a> für MSI für nicht-native Verbindungen mit dem CRM erstellt.</td>
   </tr>
   <tr>

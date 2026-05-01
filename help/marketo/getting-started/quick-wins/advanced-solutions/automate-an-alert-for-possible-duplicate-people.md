@@ -4,10 +4,10 @@ description: Automatisieren eines Warnhinweises für möglicherweise doppelte Pe
 title: Automatisieren eines Warnhinweises für mögliche doppelte Personen
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 8%
 
 ---
 
@@ -44,7 +44,7 @@ Möchten Sie jedes Mal, wenn eine mögliche doppelte Person erstellt wird, einen
 
    ![](assets/automate-an-alert-3.png)
 
-Das ist alles! Diese Smart-Kampagne wird jedes Mal Trigger, wenn in Marketo eine neue Person mit einem vorhandenen vollständigen Namen erstellt wird.
+Diese Smart-Kampagne wird jedes Mal Trigger, wenn in Marketo eine neue Person mit einem vorhandenen vollständigen Namen erstellt wird.
 
 >[!MORELIKETHIS]
 >

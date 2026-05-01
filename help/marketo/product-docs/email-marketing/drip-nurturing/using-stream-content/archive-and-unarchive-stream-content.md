@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Stream-Inhalte archivieren oder die Archivier
 title: Archivieren und Aufheben der Archivierung von Stream-Inhalten
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 7%
+source-wordcount: '151'
+ht-degree: 6%
 
 ---
 
@@ -29,7 +29,7 @@ Wenn Sie ein Inhaltselement nicht mehr in einem Stream verwenden möchten, könn
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   Das ist alles! Denken Sie daran, Archiv, wenn Sie die Geschichte bewahren wollen.
+   Archivieren, wenn Sie den Verlauf erhalten möchten.
 
 ## Archivierung von Stream-Inhalten aufheben {#unarchive-stream-content}
 

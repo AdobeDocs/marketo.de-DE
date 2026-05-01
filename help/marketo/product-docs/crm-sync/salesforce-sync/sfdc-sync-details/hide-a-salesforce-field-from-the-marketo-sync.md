@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie zur Leistungsoptimierung ein Salesforce-Feld 
 title: Ausblenden eines Salesforce-Felds bei der Marketo-Synchronisierung
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 12%
+source-wordcount: '177'
+ht-degree: 11%
 
 ---
 
@@ -47,7 +47,7 @@ Nicht jedes Feld in Salesforce ist für das Marketing nützlich. Sie können die
    >
    >Wenn das Feld, das Sie in [!DNL Salesforce] ausblenden, bereits mit Marketo synchronisiert wurde, müssen Sie es auch in Marketo ausblenden, wenn Sie es nicht verwenden möchten.
 
-   Das ist alles! Dieses Feld wird nach Abschluss der nächsten Synchronisierung nicht mehr in Marketo angezeigt.
+   Dieses Feld wird nach Abschluss der nächsten Synchronisierung nicht mehr in Marketo angezeigt.
 
    >[!MORELIKETHIS]
    >

@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie Schnelldiagramme als Miniaturansichten für h
 title: Schnelldiagramme für E-Mail Insights
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 3%
@@ -35,7 +35,7 @@ In diesem Beispiel wählen wir die Öffnungsrate für die ersten drei Wochen im 
 
    ![](assets/four.png)
 
-1. Klicken Sie auf das erste Dropdown-Menü. Klicken Sie, um Ihre Kriterien auszuwählen (sofern noch nicht ausgewählt), und heben Sie die Auswahl unerwünschter Kriterien auf.
+1. Klicken Sie auf das erste Dropdown-Menü. Klicken Sie auf , um Ihre Kriterien auszuwählen (sofern noch nicht ausgewählt) und heben Sie die Auswahl unerwünschter Kriterien auf.
 
    ![](assets/5.png)
 
@@ -55,11 +55,9 @@ In diesem Beispiel wählen wir die Öffnungsrate für die ersten drei Wochen im 
 
    ![](assets/8.png)
 
-   Und das war&#39;s!
-
    >[!TIP]
    >
-   >Um ein Schnelldiagramm zu verschieben, klicken Sie einfach darauf und ziehen Sie es an die gewünschte Position.
+   >Um ein Schnelldiagramm zu verschieben, klicken Sie darauf und ziehen Sie es an die gewünschte Position.
 
 ## Löschen eines Schnelldiagramms {#delete-a-quick-chart}
 

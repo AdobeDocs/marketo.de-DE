@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie Inhalte von der Seite „Alle Inhalte“ lös
 title: Löschen von Inhalten
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 5%
@@ -22,5 +22,3 @@ Wenn Sie ein Stück Inhalt nicht mehr benötigen, ist es einfach, es loszuwerden
 1. Klicken Sie auf die **[!UICONTROL Inhaltsaktionen]** und wählen Sie **[!UICONTROL Inhalt löschen]** aus.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
-
-   Das war&#39;s.

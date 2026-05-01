@@ -4,14 +4,14 @@ description: Erfahren Sie, wie Sie Personen mithilfe von Flussaktionen, Smart-Ca
 title: Hinzufügen von Personen zu einem benannten Konto
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 7%
+source-wordcount: '200'
+ht-degree: 6%
 
 ---
 
-# Personen zu einem &quot;[!UICONTROL &#x200B; Konto“ &#x200B;] {#add-people-to-a-named-account}
+# Personen zu einem &quot;[!UICONTROL  Konto“ ] {#add-people-to-a-named-account}
 
 Es gibt drei verschiedene Möglichkeiten, Personen in TAM manuell zu einem benannten Konto hinzuzufügen.
 
@@ -39,7 +39,7 @@ Es gibt drei verschiedene Möglichkeiten, Personen in TAM manuell zu einem benan
 
    ![](assets/five.png)
 
-1. Geben Sie im Suchfeld &quot;[!UICONTROL Zu benanntem Konto hinzufügen“ &#x200B;].
+1. Geben Sie im Suchfeld &quot;[!UICONTROL Zu benanntem Konto hinzufügen“ ].
 
    ![](assets/six.png)
 
@@ -51,7 +51,7 @@ Es gibt drei verschiedene Möglichkeiten, Personen in TAM manuell zu einem benan
 
    ![](assets/eight.png)
 
-   Das ist alles! Als Nächstes planen (oder aktivieren) Sie einfach Ihre Smart-Kampagne, und der Flussschritt beginnt damit, dem designierten benannten Konto qualifizierte Personen hinzuzufügen.
+   Als Nächstes planen (oder aktivieren) Sie Ihre Smart-Kampagne, und im Flussschritt werden qualifizierte Personen zum vorgesehenen benannten Konto hinzugefügt.
 
 ## Listenimport {#list-import}
 

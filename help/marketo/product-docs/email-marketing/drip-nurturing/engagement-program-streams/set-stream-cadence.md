@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie eine Stream-Kadenz für Interaktionsprogramme
 title: Festlegen einer Stream-Kadenz
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 4%
+source-wordcount: '381'
+ht-degree: 3%
 
 ---
 
@@ -68,8 +68,6 @@ Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beis
    >[!NOTE]
    >
    >In diesem Beispiel wird am Donnerstag eine E-Mail gesendet. Wir überspringen dann eine Woche und senden am Dienstag, Mittwoch und Donnerstag der folgenden Woche erneut. Und dann wiederholen wir den Vorgang.
-
-Das ist alles! Lesen Sie weiter, wenn Sie eine monatliche Kadenz einrichten möchten.
 
 ## Monatlich {#monthly}
 

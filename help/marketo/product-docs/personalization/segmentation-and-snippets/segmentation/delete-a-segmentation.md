@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine nicht mehr benötigte Segmentierung lös
 title: Löschen einer Segmentierung
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '104'
 ht-degree: 5%
 
 ---
@@ -36,5 +36,3 @@ Eine Segmentierung kann gelöscht werden, indem die folgenden Schritte ausgefüh
 1. Klicken Sie nach der Aufhebung der Genehmigung **[!UICONTROL Segmentierungsaktionen]** und [!UICONTROL Löschen] der Segmentierung.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
-
-Das war&#39;s. Du kannst es nicht zurückbekommen, also stelle sicher, dass du es nicht mehr brauchst.

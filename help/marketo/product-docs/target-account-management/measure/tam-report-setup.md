@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die wöchentliche E-Mail mit dem TAM-Verkaufs
 title: Einrichten eines TAM-Berichts
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
 
    ![](assets/tam-report-setup-2.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;] Bericht“ auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL  unter &quot;] Bericht“ auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/three-3.png)
 
@@ -49,8 +49,6 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
 
    ![](assets/seven-2.png)
 
-Und das war&#39;s!
-
 ## Abmelden {#how-to-unsubscribe}
 
 Für jeden Bericht gibt es die Option zum Opt-out. Klicken Sie dazu einfach auf **[!UICONTROL Abmelden]** am Ende der E-Mail.
@@ -67,7 +65,7 @@ Für jeden Bericht gibt es die Option zum Opt-out. Klicken Sie dazu einfach auf 
 
    ![](assets/tam-report-setup-10.png)
 
-1. Klicken Sie unter [!UICONTROL Wöchentlicher Bericht] auf die als „Abgemeldet[!UICONTROL &#x200B; angegebene &#x200B;].
+1. Klicken Sie unter [!UICONTROL Wöchentlicher Bericht] auf die als „Abgemeldet[!UICONTROL  angegebene ].
 
    ![](assets/nine.png)
 

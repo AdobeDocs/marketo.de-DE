@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie ein vorhandenes benanntes Konto zu einer Kont
 title: Hinzufügen eines vorhandenen benannten Kontos zu einer Kontenliste
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 8%
@@ -30,8 +30,6 @@ Das Hinzufügen eines benannten Kontos zu einer Kontoliste ist einfach.
 1. Klicken Sie auf **[!UICONTROL Dropdown-]** „Kontoliste“, wählen Sie die gewünschte Kontoliste aus und klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![](assets/six-1.png)
-
-   Das war&#39;s!
 
 >[!MORELIKETHIS]
 >

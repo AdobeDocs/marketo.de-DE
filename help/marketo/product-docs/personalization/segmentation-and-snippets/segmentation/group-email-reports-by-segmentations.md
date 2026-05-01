@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Ihren E-Mail-Leistungsbericht nach Segmentier
 title: Gruppieren von E-Mail-Berichten nach Segmentierungen
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '128'
+ht-degree: 9%
 
 ---
 
@@ -35,7 +35,7 @@ Segmentierungen dienen nicht nur dynamischen Inhalten. Sie können Ihren E-Mail-
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Das ist alles! Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“. Wenn Sie eine Segmentierung verwenden, zeigt Ihr Bericht für jedes Segment eine Zeile an.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“. Wenn Sie eine Segmentierung verwenden, zeigt Ihr Bericht für jedes Segment eine Zeile an.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

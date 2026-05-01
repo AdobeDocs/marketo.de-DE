@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über das Speichern Ihrer Kampagne als Vorlage in
 title: Speichern Ihrer Kampagne als Vorlage
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 12%
+source-wordcount: '112'
+ht-degree: 10%
 
 ---
 
@@ -31,6 +31,6 @@ Haben Sie schon einmal Zeit mit der Erstellung der perfekten Web-Kampagne verbra
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 
-1. Das ist alles! Wenn Sie das nächste Mal eine Kampagne erstellen und eine Vorlage auswählen, aktivieren Sie [!UICONTROL Meine Vorlagen] auf der Seite Kampagnen festlegen , um die gespeicherten Vorlagen anzuzeigen.
+1. Wenn Sie das nächste Mal eine Kampagne erstellen und eine Vorlage auswählen, aktivieren Sie [!UICONTROL Meine Vorlagen] auf der Seite Kampagnen festlegen , um die gespeicherten Vorlagen anzuzeigen.
 
    ![](assets/image2014-9-17-20-3a55-3a31.png)

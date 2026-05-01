@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie E-Mail-Adressen für Basisberichte abonnieren
 title: Abonnieren eines Basisberichts
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 12%
+source-wordcount: '138'
+ht-degree: 11%
 
 ---
 
@@ -43,10 +43,8 @@ Um automatische Aktualisierungen eines Basisberichts zu erhalten oder sie freizu
    >
    >Jeder kann sich von dem Bericht in der erhaltenen E-Mail abmelden.
 
-   Das ist alles! Überprüfen Sie Ihren Posteingang!
-
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
    >[!MORELIKETHIS]
    >
-   >Erfahren Sie[&#x200B; wie Sie alle Berichtsabonnements &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.
+   >Erfahren Sie[ wie Sie alle Berichtsabonnements ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.

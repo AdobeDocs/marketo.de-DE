@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Stream-Inhalte entfernen können, wenn Sie de
 title: Entfernen von Stream-Inhalten
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 9%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 
 # Entfernen von Stream-Inhalten {#remove-stream-content}
 
-Sie können ein Inhaltselement entweder entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream[Inhalten behält &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)Archivierung) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn Sie nichts dagegen haben, den historischen Status einiger Inhalte zu verlieren und ihn entfernen möchten, hier ist, wie man es macht.
+Sie können ein Inhaltselement entweder entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream[Inhalten behält ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)Archivierung) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn Sie nichts dagegen haben, den historischen Status einiger Inhalte zu verlieren und ihn entfernen möchten, hier ist, wie man es macht.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -29,6 +29,6 @@ Sie können ein Inhaltselement entweder entfernen oder archivieren. Im Gegensatz
 
    >[!CAUTION]
    >
-   >Entfernen Sie Inhalte nur, wenn Sie sich nicht um den Verlauf kümmern. Wenn Sie die Geschichte erhalten möchten, [&#x200B; Sie sie &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
+   >Entfernen Sie Inhalte nur, wenn Sie sich nicht um den Verlauf kümmern. Wenn Sie die Geschichte erhalten möchten, [ Sie sie ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
 
-   Das ist alles! Jetzt wissen Sie, wie Sie ein Inhaltselement entfernen können.
+   Jetzt wissen Sie, wie Sie ein Inhaltselement entfernen können.

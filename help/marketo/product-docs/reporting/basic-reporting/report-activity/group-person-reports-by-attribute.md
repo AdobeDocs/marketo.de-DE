@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über die Gruppierung von Personenberichten nach 
 title: Gruppieren von Personenberichten nach Attributen
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
@@ -31,7 +31,7 @@ Sie können Ihre Personenberichte nach beliebigen Personen- oder Firmenattribute
    >
    >Sie können auch [Personenberichte nach Segment gruppieren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
-   Wählen [!UICONTROL &#x200B; Dialogfeld „Personen gruppieren nach] das Attribut für Person oder Unternehmen aus, das für die Gruppierung verwendet werden soll.
+   Wählen [!UICONTROL  Dialogfeld „Personen gruppieren nach] das Attribut für Person oder Unternehmen aus, das für die Gruppierung verwendet werden soll.
 
    ![](assets/image2017-3-28-11-3a34-3a42.png)
 
@@ -39,7 +39,7 @@ Sie können Ihre Personenberichte nach beliebigen Personen- oder Firmenattribute
    >
    >Wenn Sie ein Attribut mit einem numerischen Wert auswählen, wie _[!UICONTROL Erstellt am]_ oder _[!UICONTROL Jahresumsatz]_, wählen Sie die Metriken aus der Dropdown-Liste **[!UICONTROL Einheiten]** auf der rechten Seite aus.
 
-   Das ist alles! Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“, um den Bericht entsprechend gruppiert anzuzeigen.
+   Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“, um den Bericht entsprechend gruppiert anzuzeigen.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 

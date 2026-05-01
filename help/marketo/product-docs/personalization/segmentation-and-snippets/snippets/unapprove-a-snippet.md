@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie die Genehmigung für einen Ausschnitt aufhebe
 title: Aufheben der Genehmigung für einen Ausschnitt
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 8%
+source-wordcount: '97'
+ht-degree: 6%
 
 ---
 
@@ -29,4 +29,4 @@ Ein nicht genehmigtes Fragment kann nicht in E-Mails oder Landingpages verwendet
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
-Das ist alles! Ihr Snippet befindet sich jetzt im Entwurfsstatus , damit Sie Änderungen vornehmen oder es löschen können.
+Ihr Snippet befindet sich jetzt im Entwurfsstatus , damit Sie Änderungen vornehmen oder es löschen können.

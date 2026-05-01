@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über den Leistungsbericht für Landingpages in M
 title: Leistungsbericht für Landingpage
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 4%
+source-wordcount: '216'
+ht-degree: 3%
 
 ---
 
@@ -17,11 +17,11 @@ Ermitteln Sie, wie viele Personen die Formulare auf Ihren Landingpages ausgefül
 
 >[!NOTE]
 >
->Wenn Sie eine Diskrepanz in den Zahlen zwischen Ihrer Smart-Liste und dem Performance-Bericht der Landingpage sehen, liegt das wahrscheinlich daran, dass Smart-Listen nur Daten über Personen filtern, während die Performance-Berichte der Landingpage zusätzlich zu den Personendaten auch Social-Media-Aktivitäten (Facebook, Google-Anzeigen usw.) und anonyme Aktivitäten enthalten.
+>Wenn Sie eine Diskrepanz in den Zahlen zwischen Ihrer Smart-Liste und dem Performance-Bericht der Landingpage sehen, liegt das wahrscheinlich daran, dass Smart-Listen nur Daten über Personen filtern, während die Performance-Berichte der Landingpage Social-Media-Inhalte enthalten (Facebook, Google-Anzeigen usw.) und anonyme Aktivitäten, zusätzlich zu Personendaten.
 
 1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den [!UICONTROL Leistung der Landingpage] [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte [!UICONTROL Bericht].
-1. Das ist alles! Erkunden Sie Ihren Bericht, um zu beurteilen, wie gut Ihre Landingpages funktionieren.
+1. Erkunden Sie Ihren Bericht, um zu beurteilen, wie gut Ihre Landingpages funktionieren.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 
@@ -31,7 +31,7 @@ Ermitteln Sie, wie viele Personen die Formulare auf Ihren Landingpages ausgefül
    >
    >Finden Sie die Seiten mit dem höchsten Konversionsprozentsatz! [Bericht sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in dieser Spalte und wählen Sie Absteigend sortieren.
 
-   Das AB-Symbol im Bericht zeigt an, dass die Statistiken die Summe aller Seiten in dieser [Landingpage-Testgruppe“ &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
+   Das AB-Symbol im Bericht zeigt an, dass die Statistiken die Summe aller Seiten in dieser [Landingpage-Testgruppe“ ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
 
 1. Scrollen Sie nach rechts, um die Anzahl der Besuche anzuzeigen, die von verschiedenen Social-Media-Plattformen stammen.
 

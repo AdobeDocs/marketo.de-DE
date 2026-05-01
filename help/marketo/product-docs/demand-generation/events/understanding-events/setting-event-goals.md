@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 4%
 
 ---
@@ -46,4 +46,4 @@ Geben Sie Ihren Ereignissen spezifische Ziele und sehen Sie, wie sie funktionier
 >
 >Sie können keine Ziele für ein Ereignis festlegen, nachdem es gestartet wurde.
 
-Und das war&#39;s! Überprüfen Sie den Status Ihres Ereignisziels, indem Sie auf die Registerkarte [!UICONTROL Berichte] klicken.
+Überprüfen Sie den Status Ihres Ereignisziels, indem Sie auf die Registerkarte [!UICONTROL Berichte] klicken.

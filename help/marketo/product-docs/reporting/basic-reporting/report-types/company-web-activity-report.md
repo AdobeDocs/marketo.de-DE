@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über Webaktivitätsberichte von Unternehmen, die
 title: Bericht zur Web-Aktivität von Unternehmen
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '275'
 ht-degree: 6%
 
 ---
@@ -19,21 +19,21 @@ Erstellen Sie einen [Web-Seitenaktivitätsbericht](/help/marketo/product-docs/re
 
 >[!PREREQUISITES]
 >
->Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [auf  [!DNL Munchkin]  Website) &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [auf  [!DNL Munchkin]  Website) ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den [!UICONTROL Unternehmenswebaktivität] Bericht [Berichtstyp](report-type-overview.md).
 
-1. Wählen Sie aus[&#x200B; dass bekannte oder anonyme Personen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) Bericht angezeigt werden sollen.
+1. Wählen Sie aus[ dass bekannte oder anonyme Personen ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) Bericht angezeigt werden sollen.
 
 1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
 
-1. Das ist alles! Überprüfen Sie Ihren Bericht, um zu sehen, welche Unternehmen Ihre Site besuchen.
+1. Überprüfen Sie Ihren Bericht, um zu sehen, welche Unternehmen Ihre Site besuchen.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >Um die Unternehmen zu finden, die Ihre Website am häufigsten besuchen, [&#x200B; Sie in der Spalte &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)Seitenansichten __ den **[!UICONTROL Bericht sortieren]**.
+   >Um die Unternehmen zu finden, die Ihre Website am häufigsten besuchen, [ Sie in der Spalte _[!UICONTROL Seitenansichten]_ **[!UICONTROL den ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)Bericht sortieren]**.
 
    [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen Bericht zu Unternehmens-Web-Aktivitäten umfassen:
 
@@ -47,11 +47,11 @@ Erstellen Sie einen [Web-Seitenaktivitätsbericht](/help/marketo/product-docs/re
  <tbody>
   <tr>
    <td>Unternehmen</td>
-   <td>Die Firma der Besucher.<br> <strong>fett gedruckte Namen</strong> werden von mindestens einer Person als Firmenname bestätigt.</td>
+   <td>Die Firma der Besucher.<br> <strong>Fett gedruckte Namen</strong> werden von mindestens einer Person als Firmenname bestätigt.</td>
   </tr>
   <tr>
    <td>Abgeleitetes Unternehmen oder abgeleiteter ISP</td>
-   <td>Das Unternehmen, wie aus der IP-Adresse der Besucher abgeleitet. <br> <strong>fett gedruckte Namen</strong> geben an, dass es sich um das Unternehmen und nicht um den ISP handelt. </td>
+   <td>Das Unternehmen, wie aus der IP-Adresse der Besucher abgeleitet. <br> <strong>Fett gedruckte Namen</strong> geben an, dass es sich um das Unternehmen und nicht um den ISP handelt. </td>
   </tr>
   <tr>
    <td>Seitenansichten</td>
