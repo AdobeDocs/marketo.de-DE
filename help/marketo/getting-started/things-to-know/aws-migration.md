@@ -46,6 +46,6 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 ## Updates und Support
 
-Setzen Sie ein Lesezeichen für diese Seite, um die neuesten Aktualisierungen zu erhalten. Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/en/support).
+Setzen Sie ein Lesezeichen für diese Seite, um die neuesten Aktualisierungen zu erhalten. Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/de/support).
 
 HINZUFÜGEN: DETAILS ZU PODS/RECHENZENTREN
