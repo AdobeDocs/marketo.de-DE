@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9236'
 ht-degree: 99%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 99%
       + [Abonnieren von Systemstatusbenachrichtigungen](getting-started/things-to-know/system-status-notifications.md)
       + [KI-Assistent für Produktkenntnisse](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Absatzstaat-Gemeinschaft](getting-started/things-to-know/community.md)
+      + [AWS-Migration](getting-started/things-to-know/aws-migration.md)
    + Schnelle Erfolge {#quick-wins}
       + [Einrichten und eine Person hinzufügen](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Senden einer E-Mail](getting-started/quick-wins/send-an-email.md)
@@ -121,7 +122,7 @@ ht-degree: 99%
          + [Aktivieren von Personenbeschränkungen für intelligente Kampagnen](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Tracking der E-Mail-Öffnungen auf Kampagnenebene](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [Filtern auf E-Mail-Bot-Aktivität](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Entfernen des Abmeldetexts](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [Entfernen des Abmeldetexts](product-docs/administration/email-setup/remove-unsubscribe-text.md)
       + Feldverwaltung {#field-management}
          + [Blockieren von Feldaktualisierungen während des Listenimports aus nicht vertrauenswürdigen Quellen](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Blockieren von Aktualisierungen eines Felds](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -200,7 +201,7 @@ ht-degree: 99%
          + [Erstellen von Nur-API-Benutzenden](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Bearbeiten von Benutzer-Arbeitsbereichen](product-docs/administration/users-and-roles/edit-user-workspaces.md)
-         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen &#x200B;](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
+         + [Exportieren einer Liste der Benutzenden und der zugehörigen Rollen](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Verwalten von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Exportieren von Benutzerrollen und -berechtigungen](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Beschreibungen der Rollenberechtigungen](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
@@ -626,7 +627,7 @@ ht-degree: 99%
          + [Meeting-Liste](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat-Aktivitäten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
-         + [FAQs](product-docs/demand-generation/dynamic-chat/faq.md)
+         + [Häufig gestellte Fragen](product-docs/demand-generation/dynamic-chat/faq.md)
          + Einrichtung und Konfiguration {#setup-and-configuration}
             + [Ersteinrichtung](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Hinzufügen oder Entfernen von Chat-Benutzenden](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
@@ -934,7 +935,7 @@ ht-degree: 99%
             + [Exportieren einer Liste mit personalisierten URLs](product-docs/demand-generation/landing-pages/personalizing-landing-pages/export-a-list-with-personalized-urls.md)
             + [Einbinden einer ICS-Datei für Kalenderereignisse in eine Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
             + [Umleiten eines URL-Pfads](product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
-            + [Token – Übersicht](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+            + [Token – Überblick](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [Verwenden von dynamischen Inhalten in einer Landingpage](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [Verwenden des URL-Builders](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
       + Social {#social}
@@ -1062,7 +1063,7 @@ ht-degree: 99%
             + [Verwenden des Rich-Text-Editors](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + Neuer E-Mail-Designer – Betaversion {#beta-new-email-designer}
             + [Übersicht über den neuen E-Mail-Designer (Betaversion)](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
-            + [E-Mail-Erstellung](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
+            + [Erstellung von E-Mails](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
             + [E-Mail-Vorlagen](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
          + Erstellen einer E-Mail {#creating-an-email}
             + [Genehmigen einer E-Mail](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
@@ -1274,7 +1275,7 @@ ht-degree: 99%
          + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Gewähren von Zugriff für Benutzende](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interessante Momente in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Glossar zu Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personen {#people}
@@ -1306,22 +1307,13 @@ ht-degree: 99%
          + [Synchronisieren von Erinnerungsaufgaben mit Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Erstmaliges Synchronisieren von Sales Connect-Aufgaben mit Salesforce](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Vorlagen {#templates}
-         + [Hinzufügen automatischer Abmeldungen zu einer Vorlage](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
+         + [Verwalten von Vorlagen](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [Hinzufügen von Hyperlink-Text](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [Archivieren von Vorlagen](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [Erstellen einer neuen Kategorie](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
-         + [Erstellen einer neuen Vorlage](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-         + [Anpassen der Vorlagenansicht](product-docs/marketo-sales-connect/templates/customize-template-view.md)
-         + [Löschen einer Vorlagenkategorie](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
-         + [Löschen einer Vorlage](product-docs/marketo-sales-connect/templates/delete-a-template.md)
-         + [Bearbeiten einer Vorlagenkategorie](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [Favorisieren einer Vorlage](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
-         + [Zusammenführen und Deduplizieren von Kategorien](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [Empfohlene Vorlagen](product-docs/marketo-sales-connect/templates/recommended-templates.md)
-         + [Freigegebene Vorlagen](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Vorlageninteraktion](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [Verwenden von HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [Anzeigen der Vorlagenliste als andere Benutzerin bzw. anderer Benutzer](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
+         + [Verwalten von Vorlagenkategorien](product-docs/marketo-sales-connect/templates/manage-template-categories.md)
          + Dynamische Felder {#dynamic-fields}
             + [Erstellen benutzerdefinierter dynamischer Felder](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [Glossar zu dynamischen Feldern](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1442,7 +1434,7 @@ ht-degree: 99%
          + Marketo {#marketo}
             + [Gewähren von Marketo-Zugriff für Benutzende](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interessante Momente in Sales Insight Actions](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
-            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende &#x200B;](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+            + [Sichtbarmachen einer Kampagne für Sales Connect-Benutzende](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Auslöser und Filter für Verkaufsaktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Glossar der Sales Insight Actions-Aktivitäten](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Einrichten der Marketo-Verbindung](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
