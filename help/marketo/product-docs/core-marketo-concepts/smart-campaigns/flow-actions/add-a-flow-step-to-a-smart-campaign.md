@@ -33,7 +33,7 @@ Flussschritte teilen Marketo Engage mit, was mit einer qualifizierten Personengr
 
 >[!NOTE]
 >
->Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Ordnen Sie die Flussschritte neu ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}, um sicherzustellen, dass sie in der richtigen Reihenfolge vorliegen.
+>Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Ordnen Sie die Flussschritte neu &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}, um sicherzustellen, dass sie in der richtigen Reihenfolge vorliegen.
 
 >[!TIP]
 >

@@ -31,4 +31,4 @@ Qualifizierungsregeln steuern, wie oft jemand den Fluss in einer Smart-Kampagne 
    >
    >* Wenn Sie eine Regel für einmal täglich festlegen, konvertiert Marketo diese in Stunden. Wenn Sie die Regel beispielsweise einmal pro Tag festlegen und sich eine Person sonntags um 22 Uhr qualifiziert, kann sie bis 22 Uhr montags abends nicht mehr qualifiziert werden. Diese Logik gilt auch bei der Verwendung von Wochen oder Monaten. Ein Monat wird immer als 30 Tage gezählt.
    >
-   >* Kommunikationsbeschränkungen werden standardmäßig nicht auf Smart-Kampagnen angewendet. Erfahren Sie, wie [ Kommunikationsbeschränkungen auf eine Smart-Kampagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
+   >* Kommunikationsbeschränkungen werden standardmäßig nicht auf Smart-Kampagnen angewendet. Erfahren Sie, wie [&#x200B; Kommunikationsbeschränkungen auf eine Smart-Kampagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.

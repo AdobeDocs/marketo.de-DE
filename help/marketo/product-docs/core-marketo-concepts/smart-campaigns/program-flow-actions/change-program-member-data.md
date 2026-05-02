@@ -32,13 +32,13 @@ Sie können Marketo verwenden, um den Wert eines Felds mithilfe der Flussaktion 
 
 >[!NOTE]
 >
->Sie können Token auch in &quot;[!UICONTROL  Wert“ ].
+>Sie können Token auch in &quot;[!UICONTROL &#x200B; Wert“ &#x200B;].
 
 Ausführen der Smart-Kampagne, wenn sie bereit ist.
 
 >[!TIP]
 >
->Wenn Sie die Felder löschen möchten, anstatt sie zu aktualisieren, können Sie „NULL“ (keine Anführungszeichen, alle Begrenzungen) als [!UICONTROL Neuer Wert“ ].
+>Wenn Sie die Felder löschen möchten, anstatt sie zu aktualisieren, können Sie „NULL“ (keine Anführungszeichen, alle Begrenzungen) als [!UICONTROL Neuer Wert“ &#x200B;].
 
 >[!MORELIKETHIS]
 >

@@ -29,7 +29,7 @@ Wenn Sie eine alte intelligente Kampagne haben, die Sie nicht mehr benötigen, k
 
    >[!TIP]
    >
-   >Um die Verarbeitung einer aktiven Smart-Kampagne abzubrechen, ohne sie vollständig zu löschen, erfahren Sie hier, wie [ eine Smart-Kampagne abbrechen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >Um die Verarbeitung einer aktiven Smart-Kampagne abzubrechen, ohne sie vollständig zu löschen, erfahren Sie hier, wie [&#x200B; eine Smart-Kampagne abbrechen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
 1. Klicken Sie **[!UICONTROL Löschen]** zur Bestätigung.
 
