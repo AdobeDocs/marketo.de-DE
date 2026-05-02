@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie die standardmäßige Regellogik der Smart Lis
 title: Verwenden der standardmäßigen Regellogik für intelligente Listen
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 8%
+source-wordcount: '138'
+ht-degree: 10%
 
 ---
 
@@ -19,9 +19,9 @@ Ihnen ist möglicherweise die Option „Filter verwenden“ beim Erstellen von S
 
 >[!NOTE]
 >
->Trigger Das Ändern der Regellogik der Smart List gilt nur für Filter, _nicht für_.
+>Das Ändern der Regellogik der Smart List gilt nur für Filter, _nicht für_.
 
-Trigger werden immer als ODER ausgewertet, selbst wenn die obige Einstellung auf ALL festgelegt ist. Hier ein Beispiel:
+Trigger werden immer als ODER ausgewertet, selbst wenn die obige Einstellung auf ALL festgelegt ist. Beispiel:
 
 ![](assets/using-standard-smart-list-rule-logic-2.png)
 

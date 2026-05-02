@@ -4,9 +4,9 @@ description: Hier erhalten Sie Hilfe zu Best Practices für die Organisation Ihr
 title: 'Best Practice : Organisieren von Programmen'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '855'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Es gibt viele Möglichkeiten, den Baum in Marketing-Aktivitäten sowie den Inhal
 
 >[!TIP]
 >
->Eines Tages (wenn Sie befördert werden!) wird jemand anderes versuchen, Ihre Programme zu verstehen. Eine gute Organisation wird ihnen helfen, schnell produktiv zu sein.
+>Eines Tages könnte jemand anderes Ihre Programme verstehen müssen. Eine gute Organisation wird ihnen helfen, schnell produktiv zu sein.
 
 ## Ordner {#folders}
 
@@ -55,7 +55,7 @@ Jede der im Beispiel genannten ist ein Ordner. Beachten Sie, dass alle eindeutig
 
 >[!TIP]
 >
->Der Ordner „Archiv“ ist eine spezielle Art von Ordner, der dazu dient, Elemente aus ausgewählten Listen zu entfernen und Berichte zu erstellen. Dadurch kann Ihr System schneller ausgeführt werden. Weitere [&#x200B; zu Ordnern](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>Der Ordner „Archiv“ ist eine spezielle Art von Ordner, der dazu dient, Elemente aus ausgewählten Listen zu entfernen und Berichte zu erstellen. Dadurch kann Ihr System schneller ausgeführt werden. Weitere [ zu Ordnern](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Sie können sicherlich weitere Ordner hinzufügen, wie Sie es für richtig halten. Denken Sie daran, dass zukünftige Generationen von Marketern in Ihrem Unternehmen mit Ihren Entscheidungen über die Benennung/Organisation von Dingen leben werden.
 
@@ -97,7 +97,7 @@ Ein Event hat in der Regel viele bewegte Teile, darunter Einladungen, Landingpag
 
 ## Interaktionsprogramme {#engagement-programs}
 
-Erfahren [&#x200B; alles über Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie für jeden Stream einen Ordner und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jeden Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
+Erfahren [ alles über Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie für jeden Stream einen Ordner und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jeden Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
 
 ## Operationelle Programme {#operational-programs}
 
@@ -105,20 +105,20 @@ Diese werden zur Datenbereinigung verwendet. Legen Sie Ordner für die Daten ber
 
 ## Verschachteln von E-Mail-Programmen {#nesting-email-programs}
 
-E-Mail-Programme sind als Tool für Mail-Blasting konzipiert. Sie können sie in Veranstaltungen oder andere Programme für Werbeaktionen, Einladungen und Erinnerungen einfügen. Sie verfügen über ein cooles Dashboard und andere A/B-Testfunktionen. Darüber hinaus können sie in der Programmplanansicht einfach bearbeitet werden.
+E-Mail-Programme sind als Tool für Mail-Blasting konzipiert. Sie können sie in Veranstaltungen oder andere Programme für Werbeaktionen, Einladungen und Erinnerungen einfügen. Sie verfügen über ein Dashboard und andere Funktionen für A/B-Tests. Sie können auch in der Ansicht Programmplan verwaltet werden.
 
-Sie können auch ein E-Mail-Programm als eigenständiges Programm erstellen. E-Mail-Programme sind in anderen E-Mail-Programmen nicht zulässig. Das wäre verrückt!
+Sie können auch ein E-Mail-Programm als eigenständiges Programm erstellen. E-Mail-Programme sind in anderen E-Mail-Programmen nicht zulässig.
 
 ## Wird geklont {#cloning}
 
-Eine der coolsten Funktionen in Marketo ist die Möglichkeit, Programme zu klonen. Dies bedeutet, dass Sie eine Programm-„Vorlage“ einrichten können, die alle gewünschten intelligenten Kampagnen und E-Mails enthält. Richten Sie ihn im Voraus ein und klonen Sie ihn dann für Ihre nächste Marketing-Initiative.
+Eine der nützlichsten Funktionen in Marketo ist die Möglichkeit, Programme zu klonen. Dies bedeutet, dass Sie eine Programm-„Vorlage“ einrichten können, die alle gewünschten intelligenten Kampagnen und E-Mails enthält. Richten Sie ihn im Voraus ein und klonen Sie ihn dann für Ihre nächste Marketing-Initiative.
 
 >[!TIP]
 >
 >Beachten Sie die Ereignisvorlagen im Beispiel oben. Stellen Sie Ihre verschiedenen Arten von Ereignissen bereit, um das Klonen zu erleichtern.
 
-Einige Personen abstrahieren sogar den Großteil des Textes in E-Mails und Landingpages in Token. Auf diese Weise können Sie die Token klonen und dann bearbeiten. Rufen Sie abschließend die Ansicht Programmplan auf, passen Sie die Daten an und Sie sind fertig. Voila!
+Einige Personen abstrahieren sogar den Großteil des Textes in E-Mails und Landingpages in Token. Auf diese Weise können Sie die Token klonen und dann bearbeiten. Rufen Sie abschließend die Ansicht Programmplan auf, passen Sie die Daten an und Sie sind fertig.
 
 ## Zusammenfassung {#summary}
 
-Wie Sie sehen können, gibt es viel Macht in Marketo. Wir haben hier die Grundlagen behandelt, erwägen jedoch zusätzliche Services von [Marketo Engage-](https://business.adobe.com/de/products/marketo/services-support.html){target="_blank"}, um eine Feinabstimmung vorzunehmen und sich für den Erfolg einzurichten.
+Wie Sie sehen können, gibt es viel Macht in Marketo. Die Grundlagen werden hier behandelt. Ziehen Sie jedoch zusätzliche Services von [Marketo Engage-Experten](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} in Betracht, um eine Feinabstimmung vorzunehmen und sich für den Erfolg einzurichten.

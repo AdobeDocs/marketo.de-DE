@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einen Flussschritt aus einer Smart-Kampagne l
 title: Hinzufügen eines Flussschritts
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 >
 >Das Entfernen von Flussschritten _insbesondere Warteschritten_ aus aktiven Smart-Kampagnen kann zu unerwarteten Ergebnissen führen. Lesen Sie diesen Artikel sorgfältig.
 
-Lassen Sie uns zunächst die Grundlagen behandeln. So entfernen Sie einen unerwünschten Flussschritt aus einer Smart-Kampagne.
+So entfernen Sie einen unerwünschten Flussschritt aus einer Smart-Kampagne:
 
 1. Klicken Sie in der Smart **[!UICONTROL Fluss]** auf das **X**-Symbol, um jeden Flussschritt zu löschen.
 
@@ -39,10 +39,10 @@ Lassen Sie uns zunächst die Grundlagen behandeln. So entfernen Sie einen unerw�
 
    1. **Nie gerannt**. Nehmen Sie alle gewünschten Änderungen vor. Dies wirkt sich erst auf andere aus, wenn Sie diese Kampagne ausführen.
    1. **Ist eine wiederkehrende intelligente Kampagne**. Die Änderungen betreffen Personen in zukünftigen Ausführungen, nicht in vorherigen Ausführungen.
-   1. **Wurde bereits OHNE Warteschritte ausgeführt**. Es sind keine Personen betroffen, da die Kampagne nach der Ausführung inaktiv ist.
-   1. **Wird gerade ausgeführt**. Änderungen können je nach Zeitpunkt und Details des Löschvorgangs zu unerwartetem Verhalten führen. Es wird dringend empfohlen, keine Batch-Kampagne zu bearbeiten, die aktiv ausgeführt wird. Erfahren Sie in Notfällen, wie Sie [&#x200B; laufende intelligente Kampagne abbrechen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
+   1. **Bereits ohne Warteschritte ausgeführt**.Es sind keine Personen betroffen, da die Kampagne nach der Ausführung inaktiv ist.
+   1. **Wird gerade ausgeführt**. Änderungen können je nach Zeitpunkt und Details des Löschvorgangs zu unerwartetem Verhalten führen. Es wird dringend empfohlen, keine Batch-Kampagne zu bearbeiten, die aktiv ausgeführt wird. Erfahren Sie in Notfällen, wie Sie [ laufende intelligente Kampagne abbrechen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
-   1. **Bereits mit Warteschritten ausgeführt.** Mehrere Details zu diesem.
+   1. **Wurde bereits mit Warteschritten ausgeführt.** Einige Details zu diesem.
 Wenn eine Person in einen Warteschritt eintritt, notiert die Person die Dauer und den ZAHLENSCHRITT, zu dem sie zurückkehren soll. Siehe Beispiel unten.
 
    **Intelligente Trigger-Kampagnen**

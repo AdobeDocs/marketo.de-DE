@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie eine Smart-Batch-Kampagne in der Ansicht Prog
 title: Erneutes Planen einer intelligenten Stapel-Kampagne in der Ansicht „Programmplanung“
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 19%
+ht-degree: 18%
 
 ---
 
@@ -23,7 +23,7 @@ Möchten Sie die Ausführung einer Batch-Kampagne neu planen? Ziehen Sie sie in 
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Sehr gut! Die intelligente Kampagne wurde neu geplant. Die Uhrzeit kann auch über die Dropdown-Liste **[!UICONTROL Datum]** in den Eintragsdetails geändert werden.
+1. Die intelligente Kampagne wurde neu geplant. Die Uhrzeit kann auch über die Dropdown-Liste **[!UICONTROL Datum]** in den Eintragsdetails geändert werden.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 

@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in einem Flussschritt Auswahloptionen hinzuf�
 title: Auswahl in einem Flussschritt neu anordnen
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Da nur die erste passende Auswahl für eine Person gilt, ist die Reihenfolge wic
    >
    >Bei der Neuanordnung können Sie **[!UICONTROL Nach oben]**, **[!UICONTROL Nach unten]** oder **[!UICONTROL Verschieben nach]**.
 
-   Gute Arbeit! Jetzt wissen Sie, wie Sie eine Auswahl in Einzelschritten nach oben/unten verschieben können.
+   Sie können eine Auswahl in einzelnen Schritten nach oben oder unten verschieben.
 
    ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
@@ -35,4 +35,3 @@ Da nur die erste passende Auswahl für eine Person gilt, ist die Reihenfolge wic
 
 ![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
-So einfach können Sie die Reihenfolge Ihrer Flussschritt-Entscheidungen neu organisieren.

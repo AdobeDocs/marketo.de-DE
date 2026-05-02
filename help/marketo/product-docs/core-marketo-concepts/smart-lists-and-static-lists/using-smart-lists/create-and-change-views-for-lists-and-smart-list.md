@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Ansichten für Listen und Smart Lists erstell
 title: Erstellen und Ändern von Ansichten für Listen und intelligente Listen
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 9%
+source-wordcount: '227'
+ht-degree: 8%
 
 ---
 
 # Erstellen und Ändern von Ansichten für Listen und intelligente Listen {#create-and-change-views-for-lists-and-smart-list}
 
-Eine Smart-Liste zeigt einen Standardsatz von Spalten an. Wusstest du, dass du diese Spalten nach Herzenslust bearbeiten kannst? Und so geht das.
+Eine Smart-Liste zeigt einen Standardsatz von Spalten an. Diese Spalten können angepasst werden.
 
 ## Erstellen einer Ansicht {#create-a-view}
 

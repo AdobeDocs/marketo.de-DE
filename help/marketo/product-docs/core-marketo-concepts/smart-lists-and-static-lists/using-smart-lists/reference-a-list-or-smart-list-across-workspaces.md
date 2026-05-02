@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie über Arbeitsbereiche hinweg auf eine Liste o
 title: Verweisen auf eine Liste oder eine intelligente Liste in allen Arbeitsbereichen
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '187'
 ht-degree: 11%
 
 ---
@@ -49,7 +49,7 @@ Listen und Smart-Listen können über Arbeitsbereiche hinweg freigegeben und ref
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
-   Fantastisch! Diese Liste ist jetzt in beiden Arbeitsbereichen verfügbar.
+   Diese Liste ist jetzt in beiden Arbeitsbereichen verfügbar.
 
    >[!NOTE]
    >

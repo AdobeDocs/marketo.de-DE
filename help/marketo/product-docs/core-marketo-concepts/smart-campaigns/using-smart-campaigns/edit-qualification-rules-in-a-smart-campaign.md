@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie in einer Smart-Kampagne Qualifizierungsregeln
 title: Bearbeiten von Qualifizierungsregeln in einer intelligenten Kampagne
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 6%
+source-wordcount: '196'
+ht-degree: 7%
 
 ---
 
 # Bearbeiten von Qualifizierungsregeln in einer intelligenten Kampagne {#edit-qualification-rules-in-a-smart-campaign}
 
-Qualifizierungsregeln steuern, wie oft jemand den Fluss in einer Smart-Kampagne durchlaufen kann. Standardmäßig werden Trigger einer Smart-Kampagne, die mehrere Male gesendet werden, nur einmal durch den Fluss gesendet. So können Sie diese Einstellungen ändern.
+Qualifizierungsregeln steuern, wie oft jemand den Fluss in einer Smart-Kampagne durchlaufen kann. Standardmäßig werden Trigger einer Smart-Kampagne, die mehrere Male gesendet werden, nur einmal durch den Fluss gesendet.
 
 1. Klicken Sie in Ihrer Smart-Kampagne auf die **[!UICONTROL Zeitplan]** und dann auf **[!UICONTROL Einstellungen bearbeiten]**.
 
@@ -31,4 +31,4 @@ Qualifizierungsregeln steuern, wie oft jemand den Fluss in einer Smart-Kampagne 
    >
    >* Wenn Sie eine Regel für einmal täglich festlegen, konvertiert Marketo diese in Stunden. Wenn Sie die Regel beispielsweise einmal pro Tag festlegen und sich eine Person sonntags um 22 Uhr qualifiziert, kann sie bis 22 Uhr montags abends nicht mehr qualifiziert werden. Diese Logik gilt auch bei der Verwendung von Wochen oder Monaten. Ein Monat wird immer als 30 Tage gezählt.
    >
-   >* Kommunikationsbeschränkungen werden standardmäßig nicht auf Smart-Kampagnen angewendet. Erfahren Sie, wie [&#x200B; Kommunikationsbeschränkungen auf eine Smart-Kampagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
+   >* Kommunikationsbeschränkungen werden standardmäßig nicht auf Smart-Kampagnen angewendet. Erfahren Sie, wie [ Kommunikationsbeschränkungen auf eine Smart-Kampagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.

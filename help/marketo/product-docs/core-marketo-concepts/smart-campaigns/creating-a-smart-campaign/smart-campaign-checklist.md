@@ -4,10 +4,10 @@ description: Hilfe zur Smart-Campaign-Checkliste. Verwenden Sie diese Liste, um 
 title: Checkliste für intelligente Kampagnen
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 3%
+source-wordcount: '257'
+ht-degree: 2%
 
 ---
 
@@ -49,7 +49,7 @@ Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Fluss]**. Entfernen Sie al
 
 ## Personenbegrenzung überprüfen {#check-person-restrictions-limit}
 
-Stellen Sie auf **[!UICONTROL Registerkarte]** Zeitplan“ sicher, dass die Anzahl der qualifizierten Personen das Personenlimit nicht überschreitet.
+Bestätigen Sie **[!UICONTROL der Registerkarte]** Zeitplan“, dass die Anzahl der qualifizierten Personen das Personeneinschränkungslimit nicht überschreitet.
 
 ![](assets/smart-campaign-checklist-4.png)
 
@@ -63,4 +63,4 @@ Stellen Sie auf **[!UICONTROL Registerkarte]** Zeitplan“ sicher, dass die Anza
 >
 >Wenn Ihre intelligente Kampagne immer noch fehlschlägt, erfahren Sie, wie Sie [Benachrichtigungen verstehen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md), um herauszufinden, was schiefgelaufen ist und wie Sie es beheben können.
 
-Gut gemacht! Halten Sie diese Checkliste bereit, bevor Sie eine intelligente Kampagne ausführen.
+Halten Sie diese Checkliste bereit, bevor Sie eine intelligente Kampagne ausführen.

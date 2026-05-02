@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einen Webhook aus einem Schritt des Smart Cam
 title: Webhook aufrufen
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '98'
 ht-degree: 4%
 
 ---
@@ -23,13 +23,13 @@ Webhooks ermöglichen die Interaktion mit Diensten von Drittanbietern. Senden/Em
 
 >[!NOTE]
 >
->Erfahren Sie mehr über die vielen faszinierenden Dinge[&#x200B; die „Webhooks](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} für Sie tun können.
+>Erfahren Sie mehr über die vielen faszinierenden Dinge[ die „Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} für Sie tun können.
 
 1. Wählen Sie einen Webhook aus der Dropdownliste aus.
 
 ![](assets/call-webhook-2.png)
 
-Das ist alles! Ihr Webhook wird jetzt aufgerufen, sobald Personen in den Fluss der intelligenten Kampagne eintreten.
+Ihr Webhook wird jetzt aufgerufen, sobald Personen in den Fluss der intelligenten Kampagne eintreten.
 
 >[!MORELIKETHIS]
 >

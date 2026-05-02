@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie mit einem Flussschritt Personen zu einer Micr
 title: Personen zu Ihrer Kampagne hinzufügen oder aus  [!DNL Dynamics]  entfernen
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -28,10 +28,10 @@ Suchen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne, der Sie Ihre Mitarbeit
 >
 >Wenn eine Dynamics-Kampagne nicht in der Kampagnenliste angezeigt wird:
 >
->* Stellen Sie sicher, dass die Kampagnensynchronisierung funktioniert
+>* Überprüfen, ob die Kampagnensynchronisierung funktioniert
 >* Die Kampagne ist in [!DNL Microsoft Dynamics] nicht aktiv
 
-Das System erstellt automatisch für jede Kampagne eine statische Marketing-Liste für Leads und Kontakte, um die Person hinzuzufügen. Es handelt sich um eine einmalige Aktion und einmal für nachfolgende Synchronisationen mit der Kampagne wird dieselbe Marketing-Liste verwendet. Der für den statischen Namen der Marketing-Liste verwendete Benennungsstandard ist für Leads und `Mkto-leads-<uniqueID>` für Kontakte `Mkto-contacts-<uniqueID>`.
+Das System erstellt automatisch für jede Kampagne eine statische Marketing-Liste für Leads und Kontakte, um die Person hinzuzufügen. Es handelt sich um eine einmalige Aktion und einmal für nachfolgende Synchronisationen mit der Kampagne wird dieselbe Marketing-Liste verwendet. Der für den statischen Namen der Marketing-Liste verwendete Benennungsstandard ist für Leads und `Mkto-contacts-<uniqueID>` für Kontakte `Mkto-leads-<uniqueID>`.
 
 Die Zuordnung dieser von Marketo generierten Marketing-Listen zu anderen Kampagnen könnte zu verwirrendem Verhalten führen. Das Hinzufügen zu einer Kampagne führt beispielsweise auch zum Hinzufügen zu der zweiten Kampagne. Es wird auch nicht empfohlen, die von Marketo generierte Marketing-Liste von der Kampagne in [!DNL Dynamics] zu trennen.
 
@@ -51,5 +51,5 @@ Suchen Sie in Ihrer Smart-Kampagne die Dynamics-Kampagne, aus der Sie Ihre Perso
 >
 >Wenn in der Kampagnenliste keine [!DNL Dynamics] Kampagne angezeigt wird:
 >
->* Stellen Sie sicher, dass die Kampagnensynchronisierung funktioniert
+>* Überprüfen, ob die Kampagnensynchronisierung funktioniert
 >* Die Kampagne ist in [!DNL Microsoft Dynamics] nicht aktiv

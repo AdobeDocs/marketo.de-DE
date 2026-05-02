@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie doppelte Personen mit benutzerdefinierter Log
 title: Suchen nach doppelten Personen mit benutzerdefinierter Logik
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '149'
 ht-degree: 12%
 
 ---
 
 # Suchen nach doppelten Personen mit benutzerdefinierter Logik {#find-duplicate-people-with-custom-logic}
 
-Marketo Engage verfügt über eine System-Smart-List, mit der doppelte Personen anhand ihrer E-Mail-Adressen gefunden werden. Wenn Sie ein anderes Feld verwenden möchten, um Duplikate mit zu finden, sehen Sie folgendes.
+Marketo Engage verfügt über eine System-Smart-List, mit der doppelte Personen anhand ihrer E-Mail-Adressen gefunden werden. Wenn Sie Duplikate mit einem anderen Feld suchen möchten, führen Sie die folgenden Schritte aus.
 
 >[!PREREQUISITES]
 >
@@ -44,4 +44,4 @@ Marketo Engage verfügt über eine System-Smart-List, mit der doppelte Personen 
 
    ![](assets/four-2.png)
 
-   Fertig! Führen Sie die Smart-Liste aus, um Personen mit demselben Wert im zuvor ausgewählten Feld zu finden.
+   Führen Sie die Smart-Liste aus, um Personen mit demselben Wert im zuvor ausgewählten Feld zu finden.

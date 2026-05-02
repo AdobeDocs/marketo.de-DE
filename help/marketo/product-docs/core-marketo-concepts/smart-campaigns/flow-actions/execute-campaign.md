@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie den Schritt „Kampagnenfluss ausführen“ v
 title: Ausführen von Kampagne
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '732'
 ht-degree: 2%
 
 ---
@@ -60,7 +60,7 @@ Bei Festlegung auf „true“ werden die folgenden Token-Kontexte an die unterge
 
 **API-Interaktion**
 
-Bei Verwendung von Kampagne planen oder anfragen [in der API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) können Sie Werte für „Meine Token“ übergeben, wodurch die Werte überschrieben werden, die für diese Token in der von Ihnen aufgerufenen Kampagne festgelegt sind. Wenn diese Kampagne dann eine andere Kampagne ausführt und „Übergeordneten Kontext verwenden auf „True“ setzt, werden die über die API übergebenen Werte anstelle der in der Anwendung festgelegten Werte verwendet.
+Bei Verwendung von Zeitplan oder Kampagne anfragen [in der API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch) können Sie Werte für „Meine Token“ übergeben, wodurch die Werte überschrieben werden, die für diese Token in der von Ihnen aufgerufenen Kampagne festgelegt sind. Wenn diese Kampagne dann eine andere Kampagne ausführt und „Übergeordneten Kontext verwenden auf „True“ setzt, werden die über die API übergebenen Werte anstelle der in der Anwendung festgelegten Werte verwendet.
 
 ## Zu beachtende Punkte {#things-to-note}
 
@@ -73,7 +73,7 @@ Bei Verwendung von Kampagne planen oder anfragen [in der API](https://experience
 
 >[!CAUTION]
 >
->Lassen Sie Ihre Smart Lists für ausführbare Kampagnen niemals ungültig, da _(niemand_ sich dafür qualifiziert. Best Practice ist es, separate Smart List-Assets zu erstellen, sie vollständig zu definieren und ihre Gültigkeit sicherzustellen. Verwenden Sie dann den Filter „Mitglied der Smart-Liste“ in der ausführbaren Kampagne, damit Sie Ihre Smart-Listen-Definition austauschen können.
+>Lassen Sie Ihre Smart Lists für ausführbare Kampagnen niemals ungültig, da _(niemand_ sich dafür qualifiziert. Best Practice ist es, separate Smart List-Assets zu erstellen, sie vollständig zu definieren und ihre Gültigkeit zu bestätigen. Verwenden Sie dann den Filter „Mitglied der Smart-Liste“ in der ausführbaren Kampagne, damit Sie Ihre Smart-Listen-Definition austauschen können.
 
 ## Beispiel für Token-Vererbung {#token-inheritance-example}
 

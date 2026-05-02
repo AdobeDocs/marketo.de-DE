@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über Token für benutzerdefinierte Felder von Pr
 title: Token für benutzerdefinierte Felder für Programmmitglieder
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '445'
 ht-degree: 5%
 
 ---
@@ -51,7 +51,7 @@ Benutzerdefinierte Felder für Programmteilnehmer können in E-Mails, Landingpag
 
 >[!NOTE]
 >
->Vergessen Sie nicht, Ihre E-Mail zu genehmigen.
+>Denken Sie daran, Ihre E-Mail zu genehmigen.
 
 **Landingpages**
 
@@ -93,7 +93,7 @@ Benutzerdefinierte Felder für Programmteilnehmer können in E-Mails, Landingpag
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Suchen Sie das gewünschte Token für das benutzerdefinierte Feld Programmteilnehmer und wählen Sie es aus. Geben Sie einen [!UICONTROL Standardwert“ ein &#x200B;] klicken Sie auf **[!UICONTROL Einfügen]**.
+1. Suchen Sie das gewünschte Token für das benutzerdefinierte Feld Programmteilnehmer und wählen Sie es aus. Geben Sie einen [!UICONTROL Standardwert“ ein ] klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 

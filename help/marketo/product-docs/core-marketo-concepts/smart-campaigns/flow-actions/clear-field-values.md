@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in einem Schritt des Smart-Campaign-Flusses F
 title: Löschen von Feldwerten
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 5%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 5%
 
    >[!CAUTION]
    >
-   >Wenn Sie den neuen Wert leer lassen oder einfach ein Leerzeichen eingeben, wird das Feld nicht wirklich leer. Sie müssen NULL eingeben. Beachten Sie außerdem, dass Flussschritte nach der Ausführung nicht mehr rückgängig gemacht werden können.
+   >Wenn Sie den neuen Wert leer lassen oder ein Leerzeichen eingeben, wird das Feld nicht wirklich leer. Sie müssen NULL eingeben. Beachten Sie außerdem, dass Flussschritte nach der Ausführung nicht mehr rückgängig gemacht werden können.

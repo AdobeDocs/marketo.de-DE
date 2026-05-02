@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einen Flussschritt zu einer Smart-Kampagne hi
 title: Hinzufügen eines Flussschritts zu einer intelligenten Kampagne
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '177'
 ht-degree: 11%
 
 ---
@@ -33,13 +33,13 @@ Flussschritte teilen Marketo Engage mit, was mit einer qualifizierten Personengr
 
 >[!NOTE]
 >
->Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Ordnen Sie die Flussschritte neu &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}, um sicherzustellen, dass sie in der richtigen Reihenfolge vorliegen.
+>Flussschritte werden in der Reihenfolge ausgeführt, in der sie aufgeführt sind. [Ordnen Sie die Flussschritte neu ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}, um sicherzustellen, dass sie in der richtigen Reihenfolge vorliegen.
 
 >[!TIP]
 >
 >Im Falle eines ungültigen Eintrags erscheint eine rote schnörkelige Linie. Bewegen Sie den Mauszeiger über die Linie, um zu sehen, wie Sie sie korrigieren können.
 
-Fantastisch! Denken Sie daran[&#x200B; die Smart-Kampagne zu überprüfen und zu validieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} bevor Sie sie planen oder aktivieren.
+[Überprüfen und validieren Sie die Smart](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"}Kampagne, bevor Sie sie planen oder aktivieren.
 
 >[!MORELIKETHIS]
 >

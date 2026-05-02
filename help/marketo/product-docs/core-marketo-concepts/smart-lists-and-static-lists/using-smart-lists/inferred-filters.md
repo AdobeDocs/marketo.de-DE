@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über abgeleitete Filter in Smart Lists. Verstehe
 title: Abgeleitete Filter
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Abgeleitete Filter {#inferred-filters}
 
-Wenn jemand Ihre Website besucht, [&#x200B; &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von Informationen ab.
+Wenn jemand Ihre Website besucht, ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} [MunchkinCookies und legt sie im System ab. Das System sucht ihre IP in einer speziellen Datenbank und leitet alle Arten von Informationen ab.
 
 >[!NOTE]
 >
->Um sicherzustellen, dass die abgeleiteten Feldwerte auf dem neuesten Stand bleiben, aktualisieren wir regelmäßig die Datenbank, die für die Suche nach IP-Adressen verwendet wird. Datenbankaktualisierungen können neue abgeleitete Feldwerte einführen, die Sie ggf. den Filterdefinitionen für die Smart-Liste hinzufügen müssen.
+>Um sicherzustellen, dass die abgeleiteten Feldwerte auf dem neuesten Stand bleiben, wird die für die Suche nach IP-Adressen verwendete Datenbank regelmäßig aktualisiert. Datenbankaktualisierungen können neue abgeleitete Feldwerte einführen, die Sie ggf. den Filterdefinitionen für die Smart-Liste hinzufügen müssen.
 >
 >Datenbankaktualisierungen können während einer [Marketo Engage-Produktversion erfolgen](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Wenn eine Aktualisierung erfolgt, enthalten die [Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"}Versionshinweise eine Erläuterung aller Änderungen an abgeleiteten Feldwerten.
 

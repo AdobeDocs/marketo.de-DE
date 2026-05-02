@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Token in Flussschritten verwenden. Fügen Sie
 title: Verwenden von Token in Flussschritten
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '200'
 ht-degree: 10%
 
 ---
@@ -46,7 +46,7 @@ Ein Token ist eine Variable. Sie können ihn in E-Mails, Landingpages und intell
    >
    >Benutzerdefinierte Feld-Token für Programmteilnehmer können in folgenden Bereichen verwendet werden: Erstellen einer Aufgabe, Erstellen einer Aufgabe in Microsoft, Interessante Momente, Ändern von Datenwerten, Flussaktionen und Webhooks.
 
-   Cool! Die Daten werden aus dem Token abgerufen, wenn die Smart Campaign ausgeführt wird.
+   Die Daten werden aus dem Token abgerufen, wenn die Smart Campaign ausgeführt wird.
 
    >[!MORELIKETHIS]
    >

@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über voraussichtliche und bestätigte Termine in
 title: Grundlegendes zu voraussichtlichen/bestätigten Daten
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 4%
+source-wordcount: '211'
+ht-degree: 5%
 
 ---
 
@@ -47,8 +47,8 @@ Bestätigte Einträge werden auf jeden Fall ausgeführt. Sie verfügen über Reg
 
 ## Beendet  {#finished}
 
-Abgeschlossene Einträge wurden bereits ausgeführt. Sie können nur in der Vergangenheit sein (offensichtlich). Sobald ein Eintrag ausgeführt wurde und &quot;**[!UICONTROL &quot;]**, können Sie ihn nicht mehr verschieben oder als provisorisch festlegen. (Keine Änderung der Realität und Störung des Zeitstromkontinuums.)
+Abgeschlossene Einträge wurden bereits ausgeführt. Sie können nur der Vergangenheit angehören. Sobald ein Eintrag ausgeführt wurde und &quot;**[!UICONTROL &quot;]**, können Sie ihn nicht mehr verschieben oder als provisorisch festlegen.
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-Diese Zustände sind mächtige Werkzeuge. Wenn Sie ein Programm klonen, sind alle Daten der intelligenten Kampagne und des E-Mail-Programms provisorisch. Sie können alle direkt über die Zeitplanansicht bestätigt werden. Cool, oder?
+Diese Zustände sind mächtige Werkzeuge. Wenn Sie ein Programm klonen, sind alle Daten der intelligenten Kampagne und des E-Mail-Programms provisorisch. Sie können alle direkt über die Zeitplanansicht bestätigt werden.

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Personen aus einer Smart-Liste oder statische
 title: Löschen von Personen in einer Liste oder einer intelligenten Liste
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '294'
 ht-degree: 6%
 
 ---
 
 # Löschen von Personen in einer Liste oder einer intelligenten Liste {#delete-people-in-a-smart-list-or-list}
 
-Sie können schnell und einfach einige/alle Personen löschen, die sich in einer Liste oder einer Smart List befinden.
+Sie können einige oder alle Personen löschen, die sich in einer Liste oder einer Smart-Liste befinden.
 
 >[!PREREQUISITES]
 >
@@ -67,4 +67,4 @@ Sie können schnell und einfach einige/alle Personen löschen, die sich in einer
    >
    >Um die Ergebnisse der Massenlöschung anzuzeigen, klicken Sie **[!UICONTROL Ergebnisse anzeigen]** in der rechten oberen Ecke des Bildschirms im Popup-Feld Einzelflussaktion . Die Löschzeiten können je nach mehreren Faktoren stark variieren.
 
-   Dies ist eine großartige Funktion, seien Sie bei der Verwendung vorsichtig!
+   Verwenden Sie diese Funktion mit Vorsicht.

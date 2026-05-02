@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine Einschränkung zu einem Smart-Listen-Fil
 title: Hinzufügen einer Einschränkung zu einem Filter für intelligente Listen
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '182'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Beim Erstellen einer Smart-Liste verfügen einige Filter über erweiterte Optionen, die als „Einschränkungen“ bezeichnet werden. Dies sind zusätzliche Bedingungen, die Sie zu Filtern und Triggern hinzufügen können, um Ihre Suche weiter einzugrenzen.
 
-In diesem Beispiel fügen wir einige Einschränkungen zu einem Filter **[Datenwert geändert“ hinzu](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** um Personen zu finden, deren Status von MQL in SQL geändert wurde.
+Fügen Sie in diesem Beispiel einige Einschränkungen zu einem Filter **[Datenwert geändert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** hinzu, um Personen zu finden, deren Status von SQL in SQL geändert wurde.
 
 >[!PREREQUISITES]
 >
@@ -46,4 +46,4 @@ In diesem Beispiel fügen wir einige Einschränkungen zu einem Filter **[Datenwe
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
-1. Gut gemacht! Klicken Sie auf **[!UICONTROL Personen]**, um alle Personen anzuzeigen, deren Status in den letzten 30 Tagen von „MQL“ in „SQL“ geändert wurde.
+1. Klicken Sie auf **[!UICONTROL Personen]**, um alle Personen anzuzeigen, deren Status in den letzten 30 Tagen von „MQL“ in „SQL“ geändert wurde.

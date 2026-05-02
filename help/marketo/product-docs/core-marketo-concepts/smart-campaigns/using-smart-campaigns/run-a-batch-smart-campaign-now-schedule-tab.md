@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie jetzt eine intelligente Batch-Kampagne über 
 title: Unmittelbares Ausführen einer intelligenten Stapel-Kampagne | Registerkarte „Zeitplan“
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 14%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 
 # Unmittelbares Ausführen einer intelligenten Stapel-Kampagne | Registerkarte „Zeitplan“ {#run-a-batch-smart-campaign-now-schedule-tab}
 
-Nachdem Sie Ihre Batch-Kampagne erstellt haben, können Sie sie jetzt oder später ausführen. So führen Sie es sofort aus.
+Nachdem Sie Ihre Batch-Kampagne erstellt haben, können Sie sie jetzt oder später ausführen.
 
 1. Wählen Sie die Batch-Kampagne aus, wechseln Sie zur Registerkarte **[!UICONTROL Planung]** und klicken Sie auf **[!UICONTROL Einmal ausführen]**.
 
@@ -27,7 +27,7 @@ Nachdem Sie Ihre Batch-Kampagne erstellt haben, können Sie sie jetzt oder spät
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   Einfach, bequem! Sie können auch [Ausführungen für später planen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} wenn Sie es vorziehen.
+   Sie können auch [Ausführungen für später planen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} wenn Sie es vorziehen.
 
    >[!NOTE]
    >

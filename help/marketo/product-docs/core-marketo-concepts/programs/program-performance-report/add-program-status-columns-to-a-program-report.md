@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie einem Programmbericht Programmstatusspalten h
 title: Hinzufügen von Programmstatusspalten zu einem Programmbericht
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 13%
 
 ---
 
 # Hinzufügen von Programmstatusspalten zu einem Programmbericht {#add-program-status-columns-to-a-program-report}
 
-Fügen Sie Ihrem [Programmleistungsbericht“ Statistiken zum &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} hinzu.
+Fügen Sie Ihrem [Programmleistungsbericht“ Statistiken zum ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} hinzu.
 
 1. Navigieren Sie **[!UICONTROL Marketing-Aktivitäten]** (oder **[!UICONTROL Analytics]**).
 
@@ -39,13 +39,13 @@ Fügen Sie Ihrem [Programmleistungsbericht“ Statistiken zum &#x200B;](/help/ma
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. Du hast es geschafft! Klicken Sie auf [!UICONTROL Bericht], um Ihren Bericht mit den Spalten des Programmstatus anzuzeigen.
+1. Klicken Sie auf [!UICONTROL Bericht], um Ihren Bericht mit den Spalten des Programmstatus anzuzeigen.
 
    ![](assets/programreport.jpg)
 
 >[!NOTE]
 >
->Wenn nicht für jeden Status im Programm eine Spalte angezeigt wird, stellen Sie sicher, dass Sie [&#x200B; Bericht die anzuzeigenden &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} ausgewählt haben.
+>Wenn nicht für jeden Status im Programm eine Spalte angezeigt wird, stellen Sie sicher, dass Sie [ Bericht die anzuzeigenden ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} ausgewählt haben.
 
 >[!MORELIKETHIS]
 >

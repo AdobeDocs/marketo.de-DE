@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie in einem Flussschritt Daten an ein Feld anhä
 title: Anfügen von Daten an ein Feld
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 11%
+source-wordcount: '112'
+ht-degree: 8%
 
 ---
 
 # Anfügen von Daten an ein Feld {#append-data-to-a-field}
 
-Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. Und so geht das.
+Das Anhängen von Daten an ein Feld ist unkompliziert.
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ Es gibt eine einfache Möglichkeit, Daten an ein Feld anzuhängen. Und so geht d
 
    ![](assets/append-data-to-a-field-4.png)
 
-Das ist alles! Sie können kreativ werden und mehrere Token darin hinzufügen.
+Sie können mehrere Token im selben Feld hinzufügen.

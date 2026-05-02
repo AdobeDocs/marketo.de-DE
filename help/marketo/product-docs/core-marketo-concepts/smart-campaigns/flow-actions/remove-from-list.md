@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie mit einem Flussschritt Personen aus einer Lis
 title: Entfernen aus Liste
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '61'
 ht-degree: 9%
 
 ---
@@ -21,4 +21,3 @@ Da Sie die Möglichkeit haben, [Zu Liste hinzufügen](/help/marketo/product-docs
 
    ![](assets/remove-from-list-2.png)
 
-Das war&#39;s!

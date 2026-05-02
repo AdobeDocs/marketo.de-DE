@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über Smart Lists zum Suchen von Personengruppen 
 title: Grundlegendes zu intelligenten Listen
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '226'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
@@ -20,9 +20,9 @@ Mit Smart Lists können Sie mithilfe einfacher Filter bestimmte Personengruppen 
 
 Die wichtigsten Schritte zum Erstellen einer Smart-Liste sind:
 
-1. [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
-1. [Filter suchen und zu einer Smart-Liste hinzufügen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
-1. [Definieren von Smart-Listen-Filtern](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+1. [Erstellen einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+1. [Suchen und Hinzufügen von Filtern zu einer intelligenten Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+1. [Erstellen von Filtern für eine intelligente Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 Im Folgenden finden Sie ein Beispiel dafür, wie eine Smart-Liste aussieht.
 
@@ -34,7 +34,7 @@ Hier können Sie [den Namen der Smart-Liste bearbeiten](/help/marketo/product-do
 
 ## Registerkarte „Personen“ {#people-tab}
 
-Hier sehen Sie die Ergebnisse, d. h. alle Personen, die für die Filter qualifiziert sind, die Sie auf [&#x200B; Registerkarte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}Smart-Liste“ hinzugefügt und definiert haben.
+Hier sehen Sie die Ergebnisse, d. h. alle Personen, die für die Filter qualifiziert sind, die Sie auf [ Registerkarte ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}Smart-Liste“ hinzugefügt und definiert haben.
 
 ![](assets/understanding-smart-lists-2.png)
 
@@ -43,8 +43,6 @@ Hier sehen Sie die Ergebnisse, d. h. alle Personen, die für die Filter qualifiz
 Sie können Filter hinzufügen und definieren, um eine bestimmte Personengruppe auf der Registerkarte [!UICONTROL Personen] anzuzeigen.
 
 ![](assets/understanding-smart-lists-3.png)
-
-Ok, fangen wir an!
 
 >[!MORELIKETHIS]
 >

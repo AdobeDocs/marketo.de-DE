@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie doppelte Personen suchen und zusammenführen.
 title: Suchen und Zusammenführen doppelter Personen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '436'
 ht-degree: 3%
 
 ---
 
 # Suchen und Zusammenführen doppelter Personen {#find-and-merge-duplicate-people}
 
-Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintreten. Möglicherweise hat Ihr CRM jedoch zunächst Duplikate gesendet. So führen wir sie zusammen.
+Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintreten. Möglicherweise hat Ihr CRM jedoch zunächst Duplikate gesendet.
 
 >[!CAUTION]
 >
@@ -35,7 +35,7 @@ Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintre
 
    >[!CAUTION]
    >
-   >Das Zusammenführen von Personen in Marketo funktioniert möglicherweise nicht, wenn Sie ein [!DNL Salesforce] Personen -Konto verwenden. Bitte die Einträge nach Möglichkeit in [!DNL Salesforce] zusammenführen.
+   >Das Zusammenführen von Personen in Marketo funktioniert möglicherweise nicht, wenn Sie ein [!DNL Salesforce] Personen -Konto verwenden. Einträge nach Möglichkeit in [!DNL Salesforce] zusammenführen.
 
 1. Wählen Sie die **[!UICONTROL Mögliche Duplikate]** System Smart List aus und klicken Sie auf die Registerkarte **[!UICONTROL People]**.
 
@@ -49,7 +49,7 @@ Marketo Engage dedupliziert automatisch, wenn neue Personen in das System eintre
 
 >[!CAUTION]
 >
->Wenn Personen zusammengeführt werden und die unterliegende Person über ein benutzerdefiniertes Marketo-Objekt verfügt, wird _nicht_ wieder mit der erfolgreichsten Person verknüpft. Übernehmen Sie das benutzerdefinierte Objekt vor dem Ausführen der Zusammenführung erneut.
+>Wenn Personen zusammengeführt werden und die unterliegende Person über ein benutzerdefiniertes Marketo-Objekt verfügt, wird _nicht_ wieder mit der erfolgreichsten Person verknüpft. Übergeordnet das benutzerdefinierte Objekt vor dem Ausführen der Zusammenführung erneut.
 
 1. Wählen Sie die Duplikate aus, indem Sie die Strg-/Befehlstaste gedrückt halten und dann auf „Personen **[!UICONTROL &quot;]**.
 
@@ -80,7 +80,7 @@ Wenn Sie über eine Salesforce-Integration verfügen, gibt es einige Hinweise ü
 * Wenn Leads oder nur Kontakte zusammengeführt werden, werden sie gemäß den normalen [!DNL Salesforce] zusammengeführt.
 * Beim Zusammenführen von Leads und Kontakten werden alle Leads vor dem Zusammenführen gemäß den normalen [!DNL Salesforce] in Kontakte konvertiert.
 
-Details zum Verhalten von Salesforce beim Zusammenführen von Leads oder Kontakten finden Sie in den folgenden [!DNL Salesforce] Dokumenten:
+Einzelheiten zum Verhalten von Salesforce beim Zusammenführen von Leads oder Kontakten finden Sie in den folgenden [!DNL Salesforce]-Dokumenten:
 
 * [Zusammenführen doppelter Leads](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
 * [Doppelte Kontakte werden zusammengeführt](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Flussschritte in einer intelligenten Kampagne
 title: Neuanordnen der Flussschritte in einer intelligenten Kampagne
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 16%
+source-wordcount: '85'
+ht-degree: 18%
 
 ---
 
 # Neuanordnen der Flussschritte in einer intelligenten Kampagne {#reorder-the-flow-steps-in-a-smart-campaign}
 
-Die Flussschritte werden von oben nach unten ausgeführt. So ordnen Sie die Flussschritte Ihren Anforderungen entsprechend neu an.
+Flussschritte werden von oben nach unten ausgeführt.
 
 >[!PREREQUISITES]
 >

@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie den Programmerfolg in einem Flussschritt änd
 title: Programmerfolg ändern
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -41,4 +41,4 @@ Wenn Sie eine Gruppe von Personen haben, die fälschlicherweise mit „Programm 
    >
    >Sie können den Flussschritt zweimal verwenden, um sowohl das Erfolgs-Flag als auch das Datum festzulegen.
 
-Sehr gut! Jetzt wissen Sie, wie Sie den Erfolg rückgängig machen und erzwingen können.
+Jetzt wissen Sie, wie Sie den Erfolg rückgängig machen und erzwingen können.

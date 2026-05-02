@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Smart-List-Filter definieren. Legen Sie Filte
 title: Erstellen von Filtern für eine intelligente Liste
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 7%
+ht-degree: 6%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 7%
 >* [Erstellen einer Smart-Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [Suchen und Hinzufügen von Filtern zu Smart-Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Nachdem Sie nun [Smart-Liste“ erstellt &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} „Filter [&quot; &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} haben, definieren wir die Filter. Und so geht das.
+Nachdem Sie nun [Smart-Liste erstellt](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} und [Filter hinzugefügt](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} definiert haben, definieren Sie die Filter wie folgt.
 
-Im weiteren Beispiel definieren wir diese Filter, um alle Personen in Kalifornien mit einem Ergebnis über 50 zu finden.
+Wenn Sie dieses Beispiel fortsetzen, definieren Sie diese Filter, um alle Personen in Kalifornien mit einem Ergebnis über 50 zu finden.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 

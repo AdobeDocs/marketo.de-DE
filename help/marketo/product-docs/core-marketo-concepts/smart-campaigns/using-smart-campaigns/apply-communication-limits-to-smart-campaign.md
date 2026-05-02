@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Kommunikationsbeschränkungen auf eine Smart-
 title: Anwenden von Kommunikationsbeschränkungen auf eine intelligente Kampagne
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '148'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 8%
 >
 >[Kommunikationsbeschränkungen aktivieren](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
-Es ist keine gute Idee, jemandem mehrmals am Tag eine E-Mail zu senden, oder zu oft in der Woche, nicht wahr? Glücklicherweise hat Marketo Engage Kommunikationsbeschränkungen, die zu helfen.
+Es ist keine gute Idee, jemandem mehrmals am Tag eine E-Mail zu senden, oder zu viele Male in einer Woche, nicht wahr? Glücklicherweise hat Marketo Engage Kommunikationsbeschränkungen, die zu helfen.
 
 >[!NOTE]
 >

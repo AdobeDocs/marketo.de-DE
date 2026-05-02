@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine intelligente Kampagne verschieben. Versc
 title: Verschieben einer intelligenten Kampagne
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 7%
 
 ---
@@ -33,8 +33,8 @@ Verschieben Sie eine intelligente Kampagne zwischen verschiedenen Programmen ode
 
    >[!NOTE]
    >
-   >In diesem Beispiel verschieben wir die intelligente Kampagne in ein anderes Programm, Sie können sie jedoch auch in einen Kampagnenordner verschieben.
+   >In diesem Beispiel wird die intelligente Kampagne in ein anderes Programm verschoben, Sie können sie jedoch auch in einen Kampagnenordner verschieben.
 
-Gut gemacht! Die intelligente Kampagne wurde verschoben.
+Die intelligente Kampagne wurde verschoben.
 
 ![](assets/move-a-smart-campaign-4.png)

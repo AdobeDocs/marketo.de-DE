@@ -4,16 +4,16 @@ description: Erfahren Sie mehr über Smart Campaign zur Automatisierung in Marke
 title: Grundlegendes zu intelligenten Kampagnen
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 92%
+source-wordcount: '248'
+ht-degree: 85%
 
 ---
 
 # Grundlegendes zu intelligenten Kampagnen {#understanding-smart-campaigns}
 
-Wenn Sie sich Marketo Engage als ein Auto vorstellen, ist die Smart-Kampagne der Motor. Smart-Kampagnen bieten mehr Möglichkeiten, als Sie sich vorstellen können, und es ist ganz einfach, sie zu nutzen.
+Wenn Sie sich Marketo Engage als ein Auto vorstellen, ist die Smart-Kampagne der Motor. Intelligente Kampagnen können mehr leisten, als Sie sich vorstellen können, und es ist einfach, mit ihrer Verwendung zu beginnen.
 
 Eine intelligente Kampagne umfasst drei Hauptbereiche: die Registerkarten [Intelligente Liste](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} und [Zeitplan](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 
@@ -51,7 +51,7 @@ Der Fluss enthält die Schritte, die die intelligente Kampagne ausführen soll, 
 
 Hierdurch wird schließlich gesteuert, wann Ihre intelligente Kampagne ausgeführt wird. Sie können auch ein Intervall einrichten, damit sie nach einem sich wiederholenden Zeitplan ausgeführt wird.
 
-Mithilfe einer intelligenten Kampagne kann eine enorme Menge an Aufgaben erledigt werden. Machen Sie sich mit ihrer Verwendung vertraut und Sie werden sehen, dass alles in Marketo einfacher wird.
+Mithilfe einer intelligenten Kampagne kann eine enorme Menge an Aufgaben erledigt werden.
 
 >[!CAUTION]
 >

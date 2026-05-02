@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie Programmmitgliedsdaten in einem Flussschritt 
 title: Ändern von Programmmitgliedsdaten
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '151'
 ht-degree: 5%
 
 ---
@@ -32,13 +32,13 @@ Sie können Marketo verwenden, um den Wert eines Felds mithilfe der Flussaktion 
 
 >[!NOTE]
 >
->Sie können Token auch in &quot;[!UICONTROL &#x200B; Wert“ &#x200B;].
+>Sie können Token auch in &quot;[!UICONTROL  Wert“ ].
 
-Führen Sie jetzt einfach die Smart Campaign aus und Sie sind fertig!
+Ausführen der Smart-Kampagne, wenn sie bereit ist.
 
 >[!TIP]
 >
->Wenn Sie die Felder löschen möchten, anstatt sie zu aktualisieren, können Sie „NULL“ (keine Anführungszeichen, alle Begrenzungen) als [!UICONTROL Neuer Wert“ &#x200B;].
+>Wenn Sie die Felder löschen möchten, anstatt sie zu aktualisieren, können Sie „NULL“ (keine Anführungszeichen, alle Begrenzungen) als [!UICONTROL Neuer Wert“ ].
 
 >[!MORELIKETHIS]
 >

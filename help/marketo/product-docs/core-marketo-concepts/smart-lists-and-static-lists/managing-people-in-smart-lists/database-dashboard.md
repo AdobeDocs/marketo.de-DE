@@ -4,9 +4,9 @@ description: Informationen zum Datenbank-Dashboard in Marketo. Sehen Sie sich Sc
 title: Datenbank-Dashboard
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '183'
 ht-degree: 2%
 
 ---
@@ -31,8 +31,8 @@ Die Diagramme zeigen die Gesamtzahl der Personen, die Anzahl der vermarktbaren P
 
 >[!TIP]
 >
->Möchten Sie genauere oder zeitnahere Informationen über Ihre Mitarbeiter erhalten? Probieren Sie einen [Leistungsbericht für Personen](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"} aus.
+>Um genauere oder zeitnahe Informationen zu Ihren Mitarbeitern zu erhalten, versuchen Sie es mit einem [People Performance Report](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Personen insgesamt:** Die Anzahl der Personen, die alle Zeit für den aufgelisteten Arbeitsbereich beschäftigt sind.
 
-auf die Blockierungsliste setzen **Marketingfähige Personen:** Die Anzahl der Personen, die alle Zeit für den aufgelisteten Arbeitsbereich beschäftigt sind, _abzüglich der folgenden_: Personen ohne E-Mail-Adresse, Personen, deren E-Mail einen Hardbounce verursacht hat, Personen, die sich abgemeldet haben, Personen, die sich abgemeldet haben, Personen, die derzeit auf „Marketing ausgesetzt“ gesetzt sind.
+**Marketingfähige Personen:** Die Anzahl der Personen, die alle Zeit für den aufgelisteten Arbeitsbereich beschäftigt sind, _abzüglich der folgenden_: Personen ohne E-Mail-Adresse, Personen, deren E-Mail einen Hardbounce verursacht hat, Personen, die sich abgemeldet haben, Personen, die sich abgemeldet haben, Personen, die derzeit auf „Marketing ausgesetzt“ gesetzt sind.

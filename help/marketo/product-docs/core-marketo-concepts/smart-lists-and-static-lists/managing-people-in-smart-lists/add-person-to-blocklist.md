@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine Person zur Blockierungsliste hinzufügen
 title: Hinzufügen von Personen zur Sperrliste
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '195'
 ht-degree: 5%
 
 ---
@@ -53,7 +53,7 @@ Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, können diese Ihre Kor
 
    ![](assets/add-person-to-blocklist-8.png)
 
-1. Wählen Sie die soeben erstellte Smart-Liste aus.
+1. Wählen Sie die erstellte Smart-Liste aus.
 
    ![](assets/add-person-to-blocklist-9.png)
 
@@ -81,4 +81,4 @@ Diese Personen erhalten keine E-Mails mehr.
 
 >[!TIP]
 >
->Erstellen Sie eine [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}-Kampagne mit **Datenwert ändern** mit **Blockierungsliste ist wahr** für alle Personen in der Zukunft, die Attribut für eine Trigger auf die Blockierungsliste setzte haben.
+>Erstellen Sie eine [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}-Kampagne mit **Datenwert ändern** mit **Blockierungsliste ist wahr** für alle Personen in der Zukunft, die Attribut für eine Trigger haben.

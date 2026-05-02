@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie die erweiterte Regellogik für Smart List ver
 title: Verwenden der erweiterten Regellogik für intelligente Listen
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
 # Verwenden der erweiterten Regellogik für intelligente Listen {#using-advanced-smart-list-rule-logic}
 
-Sie können genau die Personen finden, die Sie benötigen, indem Sie die Regellogik der Smart-Liste auf mehrere Filter in einer Smart-Liste anwenden. Und so geht das.
+Sie können genau die Personen finden, die Sie benötigen, indem Sie die Regellogik der Smart-Liste auf mehrere Filter in einer Smart-Liste anwenden.
 
 >[!PREREQUISITES]
 >

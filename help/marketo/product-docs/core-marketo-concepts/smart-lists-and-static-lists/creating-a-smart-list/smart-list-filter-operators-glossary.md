@@ -4,9 +4,9 @@ description: Hier erhalten Sie Hilfe zu Smart-List-Filteroperatoren. Verstehen S
 title: Glossar der Filteroperatoren für intelligente Listen
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '614'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 Ein Operator ist Teil der Smart-Liste, mit der Sie bestimmte Funktionen festlegen können. Damit können Sie Ihren Filter oder Trigger in einfacher Sprache beschreiben. Die verfügbaren Operatoren sind für jeden Feldtyp unterschiedlich.
 
-Im Folgenden finden Sie ein Glossar, in dem die einzelnen Benutzergruppen beschrieben werden.
+In diesem Glossar werden alle Operatoren beschrieben.
 
 ## Datumsfelder {#date-fields}
 
@@ -102,7 +102,7 @@ Wenn Sie einen Operator wählen, ändert sich die rechte Seite dynamisch.
   </tr>
 </tbody></table>
 
-**&#42;** Eingabe natürlicher Sprache ist cool. Im Folgenden finden Sie einige Muster, die Sie eingeben können:
+**&#42;** Eingabe in natürlicher Sprache verwendet die folgenden Muster:
 
 * 1 Stunde
 * 82 Tage
@@ -110,7 +110,7 @@ Wenn Sie einen Operator wählen, ändert sich die rechte Seite dynamisch.
 * 14 Monate
 * 1 Jahr
 
-Geben Sie einfach die Nummer und die Einheit zusammen ein, und es funktioniert!
+Geben Sie Zahl und Einheit zusammen ein.
 
 >[!NOTE]
 >
@@ -236,4 +236,4 @@ Verwenden Sie das folgende Diagramm, um den Unterschied zwischen den Datumsopera
 </tbody>
 </table>
 
-Wie Sie sehen können, machen es diese Operatoren leicht, Marketo-Ese fließend zu sprechen!
+Wie Sie sehen können, machen es diese Operatoren leicht, Marketo-Chinesisch fließend zu sprechen.

@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie den Interaktionsprogramm-Stream in einem Flus
 title: Engagement-Programm-Stream ändern
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---
@@ -28,5 +28,3 @@ Normalerweise würden Sie dazu [Stream-](/help/marketo/product-docs/email-market
 1. Wählen Sie den Stream aus, dem Sie Ihre Personen hinzufügen möchten.
 
    ![](assets/change-engagement-program-stream-3.png)
-
-Und das war&#39;s!

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie den Schritt „Kampagnenfluss anfragen“ ver
 title: Anfordern von Kampagne
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---
 
 # Anfordern von Kampagne {#request-campaign}
 
-Sie können Personen mithilfe des Schritts „Kampagne anfragen[!UICONTROL &#x200B; in eine bestimmte Kampagne &#x200B;].
+Sie können Personen mithilfe des Schritts „Kampagne anfragen[!UICONTROL  in eine bestimmte Kampagne ].
 
 >[!NOTE]
 >
@@ -38,8 +38,6 @@ Sie können Personen mithilfe des Schritts „Kampagne anfragen[!UICONTROL &#x20
    Ihre Person befindet sich jetzt in der angeforderten Kampagne.
 
    ![](assets/request-campaign-5.png)
-
-   Tolle Arbeit!
 
 >[!TIP]
 >

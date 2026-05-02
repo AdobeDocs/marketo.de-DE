@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine Smart Campaign abbrechen. Stoppen Sie ei
 title: Abbrechen einer intelligenten Kampagne
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 >
 >Nur für den Notfall
 
-Manchmal startet man eine intelligente Kampagne und merkt sofort, dass sie ein Fehler war. So ziehen Sie die Notbremse und stoppen die Smart Campaign Mid-Run.
+Manchmal startet man eine intelligente Kampagne und merkt sofort, dass sie ein Fehler war. Gehen Sie wie folgt vor, um eine Midrun-Kampagne von Smart Campaign zu stoppen.
 
 1. Wählen Sie die gewünschte Smart-Kampagne aus und klicken Sie auf die **[!UICONTROL Zeitplan]** .
 
@@ -33,7 +33,7 @@ Manchmal startet man eine intelligente Kampagne und merkt sofort, dass sie ein F
 
    >[!NOTE]
    >
-   >Durch den Abbruch werden bereits abgeschlossene Schritte nicht rückgängig gemacht, sondern es wird lediglich verhindert, dass weitere Schritte durchgeführt werden (Beispiel: E-Mails können nicht rückgängig gemacht werden).
+   >Durch den Abbruch werden bereits abgeschlossene Schritte nicht rückgängig gemacht, sondern weitere Vorgänge verhindert (Beispiel: E-Mails können nicht rückgängig gemacht werden).
 
    ![](assets/abort-a-smart-campaign-4.png)
 

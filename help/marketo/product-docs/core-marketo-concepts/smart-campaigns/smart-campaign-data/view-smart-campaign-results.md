@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Ergebnisse von Smart Campaign anzeigen. Sehen
 title: Anzeigen der Ergebnisse einer intelligenten Kampagne
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 6%
 
 ---
 
 # Anzeigen der Ergebnisse einer intelligenten Kampagne {#view-smart-campaign-results}
 
-Möchten Sie eine Aufschlüsselung von allem, was in einer intelligenten Kampagne passiert ist? Und so geht das.
+Erfahren Sie, wie Sie die Ergebnisse Ihrer Smart-Kampagne anzeigen.
 
 >[!TIP]
 >
@@ -35,7 +35,7 @@ Möchten Sie eine Aufschlüsselung von allem, was in einer intelligenten Kampagn
    >
    >Zeigen Sie Personendetails an, indem Sie auf den Namen der Person klicken.
 
-   Sehen Sie sich die Ergebnisse an, um zu sehen, was Ihre Kampagne tatsächlich getan hat, oder [&#x200B; Sie einfach die Ergebnisse Ihrer Smart-Kampagne in Excel &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
+   Sehen Sie sich die Ergebnisse an, um zu sehen, was Ihre Kampagne tatsächlich getan hat, oder [exportieren Sie die Ergebnisse Ihrer Smart-Kampagne in Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >

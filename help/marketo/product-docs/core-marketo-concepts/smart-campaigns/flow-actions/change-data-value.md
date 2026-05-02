@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie in einem Schritt des Flusses in Smart Campaig
 title: Datenwert ändern
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '120'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ Sie können Marketo verwenden, um den Wert eines Felds zu aktualisieren. Dazu ve
 
    ![](assets/change-data-value-2.png)
 
-1. Geben Sie den gewünschten Wert ein, und Sie sind fertig!
+1. Geben Sie den gewünschten Wert ein.
 
    ![](assets/change-data-value-3.png)
 

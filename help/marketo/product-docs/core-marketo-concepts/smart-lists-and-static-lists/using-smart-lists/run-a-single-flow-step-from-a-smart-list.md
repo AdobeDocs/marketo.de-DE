@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einen einzelnen Flussschritt aus einer Smart-
 title: Ausführen eines einzelnen Flussschritts aus einer intelligenten Liste
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '239'
 ht-degree: 9%
 
 ---
@@ -39,7 +39,7 @@ Wenn Sie einen einmaligen Flussschritt ausführen möchten, können Sie in einer
    >
    >Wenn sich die Ergebnisse über mehrere Seiten erstrecken, werden durch Klicken auf **[!UICONTROL Alle auswählen]** alle Personen auf allen Seiten ausgewählt.
 
-1. Wählen **[!UICONTROL unter]** den gewünschten Flussschritt aus. In diesem Beispiel verwenden wir [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+1. Wählen **[!UICONTROL unter]** den gewünschten Flussschritt aus. In diesem Beispiel wird [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} verwendet.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
@@ -55,7 +55,7 @@ Wenn Sie einen einmaligen Flussschritt ausführen möchten, können Sie in einer
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
-Tolle Arbeit! Der Status des Schritts für den einzelnen Fluss wird oben rechts angezeigt.
+Der Status des einzelnen Flussschritts wird in der oberen rechten Ecke angezeigt.
 
 ![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 

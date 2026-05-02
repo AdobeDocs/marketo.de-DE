@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie in einem Flussschritt einen interessanten Mom
 title: Interessanter Moment
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 3%
@@ -27,7 +27,7 @@ Wenn Sie über Marketo Sales Insight verfügen, können Sie den **Interesting Mo
 
    >[!TIP]
    >
-   >_Weniger ist mehr_. Arbeiten Sie mit Ihrem Verkaufsteam zusammen, um sicherzustellen, dass interessante Momente tatsächlich interessant sind.
+   >_Weniger ist mehr_. Arbeiten Sie mit Ihrem Verkaufsteam zusammen, um zu bestätigen, dass interessante Momente tatsächlich interessant sind.
 
 Sie können auch [Token in interessanten Momenten“ verwenden](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} um wirklich nützliche dynamische Beschreibungen zu erstellen.
 

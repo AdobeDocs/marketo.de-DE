@@ -4,10 +4,10 @@ description: Hier erhalten Sie Hilfe zu Best Practices für Smart Lists. Mit die
 title: Best Practices für intelligente Listen
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '574'
-ht-degree: 1%
+source-wordcount: '592'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Smart Lists sind das leistungsfähigste Abfrage-Tool im Marketing-Universum. Sie finden die Menschen, die Sie suchen, mit magischer Geschwindigkeit und Leichtigkeit.
 
-Um die Arbeit mit ihnen zu vereinfachen und die Leistung zu optimieren, haben wir eine Liste von Best Practices erstellt. Viel Spaß!
+Um die Arbeit mit ihnen zu vereinfachen und die Leistung zu optimieren, werden folgende Best Practices bereitgestellt.
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Um die Arbeit mit ihnen zu vereinfachen und die Leistung zu optimieren, haben wi
 1. **Einschränken von verschachtelten Smart-Listen -** Beschränken Sie beim Erstellen einer neuen Smart-Liste die Anzahl der verwendeten Filter „Mitglieder der Smart-Liste“. Dies wird als Verschachteln von Smart Lists bezeichnet. Jede Smart List, auf die verwiesen wird, verlängert die Verarbeitungszeit. Verweisen Sie stattdessen entweder auf statische Listen oder verwenden Sie [Segmentierung](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}.
 1. **Positive über negative Operatoren verwenden -** Obwohl „Nicht“-Filter verfügbar sind, müssen sie den gesamten Datensatz in Ihrer Instanz durchsuchen, was extrem zeitaufwendig sein kann. Positive „is“-Filter können effektivere Suchalgorithmen nutzen.
 1. **Vermeiden Sie „contains“ -** Wenn Sie nur partielle Daten haben, liefert „starts with“-Kriterien viel schnellere Ergebnisse als „contains“. „Is“ wird sogar noch schneller ausgeführt. Vermeiden Sie die Verwendung von „contains“ mit mehreren Werten; die beiden zusammen können eine Kampagne noch weiter verlangsamen.
-1. **Zufallsprobe allein verwenden -** Zufallsprobe ist ein spezieller Filter. Nutzen Sie es für sich, um Ihre Leute in vorgefertigte Listen zu setzen. Verwenden Sie dann einfach „Member of List“, um Ihre Smart List superschnell zu machen. Die zufällige Stichprobe **NICHT** mit verschachtelten Smart Lists. Der Filter Zufällige Stichprobe funktioniert nicht, wenn es sich um die Smart-Liste handelt, auf die für den Filter „Mitglied der Smart-Liste“ verwiesen wird.
+1. **Zufallsprobe allein verwenden -** Zufallsprobe ist ein spezieller Filter. Nutzen Sie es für sich, um Ihre Leute in vorgefertigte Listen zu setzen. Verwenden Sie dann „Member of List“, um Ihre Smart List superschnell zu machen. Die zufällige Stichprobe **NICHT** mit verschachtelten Smart Lists. Der Filter Zufällige Stichprobe funktioniert nicht, wenn es sich um die Smart-Liste handelt, auf die für den Filter „Mitglied der Smart-Liste“ verwiesen wird.
 1. **Seien Sie sparsam mit Inaktivitätsfiltern -** Filter wie „Nicht ausgefülltes Formular“ können wirklich nützlich sein, erfordern aber viel mehr Rechenleistung.
 1. **Seien Sie sparsam mit dem Einfügen in mehrere Werte -** Multi-select ist zum Einfügen in Dutzende oder möglicherweise Hunderte von Werten konzipiert. Wenn man jedoch zu viele davon einbringt, wird man langsamer werden.
 1. **sparsam sein beim Hinzufügen von Einschränkungen -** Dies sind die winzigen Details einer Regel und zugehörigen Werte. Je mehr Einschränkungen Sie hinzufügen, desto langsamer wird die Verarbeitungszeit.
-1. **Vereinfachen Sie Ihre Kampagnen -** 100+ unabhängige Regeln (wir haben es gesehen!) brauchen natürlich einige Zeit, um sie zu verarbeiten. Halten Sie es einfach und Sie werden die Geschwindigkeitsgewinne bemerken - und es wird für Sie leichter zu verstehen sein.
+1. **Vereinfachen Sie Ihre Kampagnen -** mehr als 100 unabhängige Regeln benötigen natürlich einige Zeit für die Verarbeitung. Halten Sie es einfach und Sie werden die Geschwindigkeitsgewinne bemerken - und es wird für Sie leichter zu verstehen sein.
 1. **Bei Verwendung des E-Mail-Adressfilters muss vor dem Domain-Namen das @-Symbol** werden **-** Dadurch wird eine schnellere Abfrage verwendet. Beispiel: Verwenden Sie anstelle von _E-Mail enthält &#39;somedomain.com_ &quot;_enthält &#39;@somedomain.com_&quot;. Wenn Sie mehrere E-Mail-Adressen mit „contains“ verwenden, müssen ALLE mit &quot;@&quot; beginnen.
 
 >[!TIP]

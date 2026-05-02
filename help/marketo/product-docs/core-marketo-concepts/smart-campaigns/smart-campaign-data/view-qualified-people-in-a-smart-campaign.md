@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in einer Smart-Kampagne qualifizierte Persone
 title: Anzeigen der qualifizierten Personen in einer intelligenten Kampagne
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '171'
 ht-degree: 8%
 
 ---
@@ -35,7 +35,7 @@ Personen anzeigen, die sich für den Fluss qualifizieren, wenn Sie eine intellig
    >
    >Die Anzahl der qualifizierten Personen hängt auch von den Qualifizierungsregeln für Smart Campaign ab. Erfahren Sie, wie [Qualifizierungsregeln bearbeiten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
 
-Schön! Mithilfe dieser Liste können Sie überprüfen, welche Personen den Fluss durchlaufen, bevor Sie eine intelligente Kampagne ausführen.
+Verwenden Sie diese Liste, um zu überprüfen, welche Personen den Fluss durchlaufen, bevor Sie eine intelligente Kampagne ausführen.
 
 >[!MORELIKETHIS]
 >

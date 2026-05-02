@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie integrierte System- und Smart-Listen verwende
 title: Verwenden von integrierten oder systemeigenen intelligenten Listen
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 12%
+source-wordcount: '214'
+ht-degree: 9%
 
 ---
 
-# Verwenden von integrierten oder systemeigenen intelligenten Listen {#use-built-in-system-smart-lists}
+# Verwenden von integrierten Smart Lists des Systems {#use-built-in-system-smart-lists}
 
-Marketo Engage verfügt über einige sehr nützliche integrierte Smart Lists. Schauen wir sie uns an!
+Marketo Engage verfügt über integrierte Smart Lists, die für gängige Segmentierungsaufgaben nützlich sind.
 
 1. Navigieren Sie zur **[!UICONTROL Datenbank]**.
 
@@ -31,7 +31,7 @@ Marketo Engage verfügt über einige sehr nützliche integrierte Smart Lists. Sc
    >
    >Die Filter in System-Smart-Listen müssen nicht auf jede Smart-Liste/Kampagne angewendet werden. Ihre Inhalte werden automatisch erkannt.
 
-Im Folgenden finden Sie eine Zusammenfassung der Funktionen der integrierten Smart Lists:
+Im Folgenden finden Sie eine Zusammenfassung der Funktionen der integrierten Smart-Listen:
 
 <table><thead>
   <tr>

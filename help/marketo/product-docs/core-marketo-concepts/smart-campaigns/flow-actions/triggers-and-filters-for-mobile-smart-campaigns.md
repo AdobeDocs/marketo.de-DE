@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über Trigger und Filter für intelligente Mobilk
 title: Auslöser und Filter für intelligente Kampagnen für Mobilgeräte
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '849'
 ht-degree: 3%
 
 ---
@@ -75,7 +75,7 @@ Verwenden Sie diesen Filter, um alle Personen herauszufinden, die Ihre App schon
 
 >[!TIP]
 >
->Es empfiehlt sich, bei der Definition der Smart-Liste der Personen, die eine Push-Benachrichtigung erhalten sollen, anzugeben, dass die Mobile App den Wert „true“ und die Push-Benachrichtigung den Wert „true“ hat sowie den Namen der Mobile App.
+>Es empfiehlt sich, bei der Definition der intelligenten Liste der Personen, die eine Push-Benachrichtigung erhalten sollen, anzugeben, ob die Mobile App = true und ob Push-Benachrichtigung aktiviert = true ist sowie den Namen der Mobile App.
 
 Mobile App ist/war installiert
 
@@ -103,7 +103,7 @@ Mobile App ist/wurde geöffnet
 
 Hat/hatte die Aktivität „Mobile App“
 
-Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking ([&#x200B; Android) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} ([&#x200B; iOS) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking ([ Android) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} ([ iOS) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Hat Mobile-App-Aktivität - Trigger
 
@@ -136,7 +136,7 @@ Mithilfe der Aktionseinschränkungen können Sie den Trigger und die Filter verw
 >   * Es kostete 30 Dollar
 >   * Der Kauf dauerte 20 Sekunden
 
-So sieht der Filter in Marketo aus:
+Der Filter sieht in Marketo wie folgt aus:
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 

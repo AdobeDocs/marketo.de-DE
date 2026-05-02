@@ -4,18 +4,18 @@ description: Erfahren Sie, wie Sie Filter finden und zu einer Smart-Liste hinzuf
 title: Suchen und Hinzufügen von Filtern zu einer intelligenten Liste
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 13%
+source-wordcount: '137'
+ht-degree: 14%
 
 ---
 
 # Suchen und Hinzufügen von Filtern zu einer intelligenten Liste {#find-and-add-filters-to-a-smart-list}
 
-Nachdem Sie [Smart-Liste“ erstellt haben](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} müssen Sie Filter hinzufügen und [definieren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}. Im Folgenden erfahren Sie, wie Sie Filter finden und hinzufügen.
+Nachdem Sie [Smart-Liste erstellt haben](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} müssen Sie Filter hinzufügen und [definieren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}.
 
-In diesem Beispiel wollen wir alle Menschen in Kalifornien mit einem Ergebnis über 50 finden.
+In diesem Beispiel ist das Ziel, alle Personen in Kalifornien mit einem Ergebnis über 50 zu finden.
 
 >[!TIP]
 >
@@ -37,7 +37,7 @@ In diesem Beispiel wollen wir alle Menschen in Kalifornien mit einem Ergebnis ü
 
    ![](assets/find-and-add-filters-to-a-smart-list-4.png)
 
-Perfekt! Fahren wir fort und definieren Sie diese Filter.
+Definieren Sie diese Filter.
 
 >[!MORELIKETHIS]
 >

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie blockierte Personen in einer Smart-Kampagne a
 title: Anzeigen der blockierten Personen in einer intelligenten Kampagne
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 10%
 
 ---
 
 # Anzeigen der blockierten Personen in einer intelligenten Kampagne {#view-blocked-people-in-a-smart-campaign}
 
-Blockierte Personen in der Marketo Engage-Datenbank werden als auf die Blockierungsliste gesetzt, abgemeldet, für Marketing gesperrt und/oder erhalten eine ungültige oder leere E-Mail.
+Blockierte Personen in der Marketo Engage-Datenbank werden als auf die Blockierungsliste gesetzt, abgemeldet, für Marketing gesperrt oder erhalten eine ungültige oder leere E-Mail.
 
 1. Klicken Sie in Ihrer Smart-Kampagne auf **[!UICONTROL Zeitplan]**. Klicken **[!UICONTROL unter „Smart List Status]** auf den zweiten Link.
 
@@ -21,7 +21,7 @@ Blockierte Personen in der Marketo Engage-Datenbank werden als auf die Blockieru
 
    >[!NOTE]
    >
-   >Personen, die ihre Kommunikationsbeschränkungen erreicht haben, können auch daran gehindert werden, E-Mails zu erhalten. Erfahren Sie [&#x200B; Abschnitt Admin , wie &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} Kommunikationsbeschränkungen bearbeiten können.
+   >Personen, die ihre Kommunikationsbeschränkungen erreicht haben, können auch daran gehindert werden, E-Mails zu erhalten. Erfahren Sie [ Abschnitt Admin , wie ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} Kommunikationsbeschränkungen bearbeiten können.
 
    Auf **[!UICONTROL Registerkarte „Blockierte Leads]** werden Personen angezeigt, die möglicherweise keine E-Mails erhalten.
 

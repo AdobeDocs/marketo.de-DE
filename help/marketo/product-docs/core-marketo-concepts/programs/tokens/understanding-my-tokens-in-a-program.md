@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über „Meine Token“ in einem Programm. Verwen
 title: Grundlegendes zu meinen Token in einem Programm
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '441'
 ht-degree: 6%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 6%
 
 Ein Token ist eine Variable, die Sie in E-Mails, Landingpages und Smart-Kampagnen verwenden können, um Ihr Leben zu vereinfachen.
 
-Zusätzlich zu „Meine Token“ können Sie auch eines der integrierten Token in Ihren Programmen verwenden. Sehen Sie sich die [Token-Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} an.
+Zusätzlich zu „Meine Token“ können Sie auch eines der integrierten Token in Ihren Programmen verwenden. Siehe die [Token - Übersicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Meine Token  {#my-tokens}
 
-Meine Token sind benutzerdefinierte Variablen, die jeder erstellen kann. Lokal werden sie [&#x200B; Kampagnenordnern &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} Programmen erstellt.
+Meine Token sind benutzerdefinierte Variablen, die jeder erstellen kann. Lokal werden sie [ Kampagnenordnern ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} Programmen erstellt.
 
 Meine Token werden wie folgt angezeigt: `{{my.Name Of Token}}`
 
@@ -46,7 +46,7 @@ Beispiele:
   </tr>
   <tr>
    <td>E-Mail-Script <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting" title="Link folgen" rel="nofollow">Weitere Informationen</a>. </td>
+   <td>Verwenden Sie dieses Token, um ein Velocity-Skript in Ihren E-Mails auszuführen. <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Link folgen" rel="nofollow">Weitere Informationen</a>. </td>
   </tr>
   <tr>
    <td>Zahl<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>
@@ -89,7 +89,7 @@ Das Verschieben von Programmen und Ordnern wirkt sich auch auf Token aus. Stelle
 
 >[!IMPORTANT]
 >
->Verschachtelte Token werden in (Batch[Kampagnen) &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
+>Verschachtelte Token werden in (Batch[Kampagnen) ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >
