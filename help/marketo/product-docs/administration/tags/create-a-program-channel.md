@@ -4,9 +4,9 @@ description: Schritte zum Erstellen eines Programmkanals mit Status und Fortschr
 title: Erstellen eines Programmkanals
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Ein Programm ist eine spezifische Marketing-Initiative. Der Kanal ist als Bereit
 
    >[!NOTE]
    >
-   >Warum Tags? Ein Kanal ist eine Möglichkeit, ein Programm zu beschreiben, genau wie andere Tags. Der Kanal hat nur besondere Extras.
+   >Warum Tags? Ein Kanal ist eine Möglichkeit, ein Programm zu beschreiben, genau wie andere Tags. Der Kanal verfügt über besondere zusätzliche Funktionen.
 
 1. Klicken Sie auf das Pluszeichen **+** neben [!UICONTROL Kanal], um vorhandene Kanäle zu erweitern und anzuzeigen.
 
@@ -50,7 +50,7 @@ Ein Programm ist eine spezifische Marketing-Initiative. Der Kanal ist als Bereit
    >Kanal: Billboard
    >
    >* Anwenden auf: Standard
-   >* Fortschritt: Mitglied, Interagiert (im Zweifel funktionieren diese einwandfrei)
+   >* Fortschritt: Mitglied, Interagiert (dies sind geeignete Standardwerte)
    >* Erfolg: Interagiert
    >
    >Kanal: Party
@@ -59,15 +59,15 @@ Ein Programm ist eine spezifische Marketing-Initiative. Der Kanal ist als Bereit
    >* Fortschritt: Eingeladen, registriert, keine Sendung und Teilgenommen
    >* Erfolgreich: Teilgenommen
    >
-   >Sehen Sie sich die Progressionen vorhandener Kanäle an, um eine Vorstellung davon zu erhalten, wie sie verwendet werden können.
+   >Lesen Sie den Fortschritt vorhandener Kanäle , um eine Anleitung für ihre Verwendung zu erhalten.
 
-1. Nehmen wir das Beispiel des Partykanals. Benennen Sie Ihren neuen **[!UICONTROL Kanal]** und wählen Sie den Programmtyp aus, für den er gelten soll.
+1. Benennen Sie Ihren neuen Kanal **[!UICONTROL Kanal]** und wählen Sie den Programmtyp aus, für den er gelten soll.
 
    ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
-   >Auf was anwenden? Es gibt verschiedene Arten von Programmen. Passen Sie den Kanal dem richtigen Typ an. Wählen Sie im Zweifelsfall &quot;**[!UICONTROL &quot;]**.
+   >Es gibt verschiedene Arten von Programmen. Passen Sie den Kanal dem richtigen Typ an. Wenn Sie sich nicht sicher sind, wählen Sie **[!UICONTROL Standard]**.
 
    >[!NOTE]
    >
@@ -83,7 +83,7 @@ Ein Programm ist eine spezifische Marketing-Initiative. Der Kanal ist als Bereit
 
    >[!TIP]
    >
-   >Die **[!UICONTROL Schritt]**-Nummer wird zum Sortieren der Programmstatus verwendet. Denken Sie daran, dass Menschen bei diesen Fortschrittsschritten nicht rückwärts gehen können. Sie können nur den Status in einen höheren oder gleichwertigen Status ändern. Verwenden Sie die gleichen Werte, wenn Status hin- und herwechseln sollen, anstatt einer Progression.
+   >Die **[!UICONTROL Schritt]**-Nummer wird zum Sortieren der Programmstatus verwendet. Beachten Sie, dass Personen in diesen Fortschrittsschritten nicht rückwärts gehen können. Sie können nur den Status in einen höheren oder gleichwertigen Status ändern. Verwenden Sie die gleichen Werte, wenn Status hin- und herwechseln sollen, anstatt einer Progression.
 
 1. Geben Sie das letzte Programm **[!UICONTROL Status]** und **[!UICONTROL Step]** Number ein.
 
@@ -117,4 +117,4 @@ Ein Programm ist eine spezifische Marketing-Initiative. Der Kanal ist als Bereit
 
    ![](assets/create-a-program-channel-11.png)
 
-   Gut gemacht! Wenn Sie ein neues Programm dieses Typs erstellen, wird dieser neue Kanal eine der Optionen sein.
+   Wenn Sie ein neues Programm dieses Typs erstellen, wird dieser neue Kanal eine der Optionen sein.

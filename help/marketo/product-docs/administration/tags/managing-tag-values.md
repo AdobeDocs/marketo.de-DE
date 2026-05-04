@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie Tag-Werte für Programm-Tags hinzufügen, aus
 title: Verwalten von Tag-Werten
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 4%
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Verwalten von Tag-Werten {#managing-tag-values}
 
-[Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) werden zur Beschreibung von Programmen verwendet. Sie können beliebig viele davon mit jeweils eindeutigen Werten erstellen. So verwalten Sie diese Werte.
+[Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) werden zur Beschreibung von Programmen verwendet. Sie können beliebig viele davon mit jeweils eindeutigen Werten erstellen. In den folgenden Schritten wird erläutert, wie Sie diese Werte verwalten.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ ht-degree: 4%
 
    ![](assets/managing-tag-values-6.png)
 
-Sie sollten die Änderungen sofort sehen!
+Die Änderungen werden sofort angezeigt.
 
 ![](assets/managing-tag-values-7.png)
 
