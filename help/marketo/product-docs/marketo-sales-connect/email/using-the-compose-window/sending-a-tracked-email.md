@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie in Sales Connect eine verfolgte E-Mail senden
 title: Senden einer getrackten E-Mail
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 3%
@@ -40,7 +40,7 @@ Beim Senden einer E-Mail mit [!DNL Marketo Sales Connect] werden Ansichten (E-Ma
 
    >[!NOTE]
    >
-   >Wenn jemand, der CC- oder BCC-Benutzer war, die E-Mail öffnet, wird diese Öffnung als Ansicht des Datensatzes der Person im Feld &quot;**[!UICONTROL &quot;]**.
+   >Wenn jemand, der eine CC- oder BCC-Aktion ausgeführt hat, die E-Mail öffnet, wird diese Öffnung als Ansicht des Datensatzes der Person im Feld &quot;**[!UICONTROL &quot;]**.
 
 1. Fügen Sie eine Betreffzeile hinzu.
 
@@ -50,11 +50,11 @@ Beim Senden einer E-Mail mit [!DNL Marketo Sales Connect] werden Ansichten (E-Ma
    >
    >Zum Senden der E-Mail sind eine Betreffzeile und ein Empfänger erforderlich. Wir **Ihren Entwurf automatisch speichern** sobald eine Betreffzeile und ein Empfänger hinzugefügt wurden.
 
-1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken **[!UICONTROL abschließend auf]** Senden[&#x200B; oder &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)Planen).
+1. Erstellen Sie Ihre E-Mail mit dem Editor. Klicken **[!UICONTROL abschließend auf]** Senden[ oder ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)Planen).
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
    >* [E-Mail planen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
-   >* [Vorlagen](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
+   >* [Vorlagen](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md)

@@ -4,10 +4,10 @@ description: SSO für alle Benutzer verlangen, damit sie die SSO-Sicherheit übe
 title: Beschränken der Benutzeranmeldung auf SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 6%
+source-wordcount: '273'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-in
 
 >[!IMPORTANT]
 >
->Dieser Artikel gilt nicht für Marketo[Abonnements mit aktiviertem &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+>Dieser Artikel gilt nicht für Marketo[Abonnements mit aktiviertem ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-in
 
 >[!NOTE]
 >
->Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ Einladung angenommen wurde, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich“ &#x200B;].
+>Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ Einladung angenommen wurde, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich“ ].
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-in
 >
 >Wenn neue Benutzer eingeladen werden, erhalten sie Einladungs-E-Mails. Wenn jedoch **[!UICONTROL SSO erforderlich]** ausgewählt ist, erhalten diese E-Mails nicht, es sei denn, sie wurden einer Rolle zugewiesen, die auf **[!UICONTROL Single Sign-On umgehen]** festgelegt ist.
 
-Das ist alles! Jetzt sind alle Benutzer (mit Ausnahme der Benutzer mit der Berechtigung, das einmalige Anmelden zu umgehen) auf die Verwendung der SSO-Anmeldung beschränkt.
+Jetzt sind alle Benutzer (mit Ausnahme der Benutzer mit der Berechtigung, Single Sign-on zu umgehen) auf die ausschließliche Verwendung der SSO-Anmeldung beschränkt.
 
 >[!MORELIKETHIS]
 >
