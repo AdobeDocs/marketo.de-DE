@@ -4,16 +4,16 @@ description: Exportieren Sie eine Liste der Assets, die ein Feld verwenden, dami
 title: Exportieren der für ein Feld verwendeten Daten
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 15%
 
 ---
 
 # Exportieren der für ein Feld verwendeten Daten {#export-used-by-data-for-a-field}
 
-Als Administrator haben Sie die Möglichkeit, zugehörige Assets eines Felds zu exportieren, damit Sie deren Aufhebung an Ihr Team delegieren können.
+Als Administrator können Sie die zugehörigen Assets eines Felds exportieren, damit Sie deren Aufhebung an Ihr Team delegieren können.
 
 >[!NOTE]
 >

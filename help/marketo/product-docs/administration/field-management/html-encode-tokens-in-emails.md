@@ -4,16 +4,16 @@ description: Aktivieren oder deaktivieren Sie die HTML-Kodierung für Personen- 
 title: HTML-Kodier-Token in E-Mails
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 12%
+source-wordcount: '99'
+ht-degree: 13%
 
 ---
 
 # HTML-Kodier-Token in E-Mails {#html-encode-tokens-in-emails}
 
-In E-Mails verwendete Personen- und Unternehmens-Token aktivieren/deaktivieren.
+In E-Mails verwendete Personen- und Unternehmens-Token aktivieren oder deaktivieren.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ In E-Mails verwendete Personen- und Unternehmens-Token aktivieren/deaktivieren.
 
 >[!NOTE]
 >
->Bei der Kodierung werden Zeichen in ihre HTML-Code-Versionen konvertiert, um Verwirrung bei der Übertragung zu vermeiden (d. h., &quot;&amp;&quot; wird in `&amp;` geändert). Weitere Informationen erhalten Sie von Ihrem Web-Entwickler.
+>Bei der Kodierung werden Zeichen in ihre HTML-Code-Versionen konvertiert, um Verwirrung bei der Übertragung zu vermeiden (d. h., &quot;&amp;&quot; wird in `&amp;` geändert). Weitere Informationen erhalten Sie von einem Web-Entwickler.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -39,4 +39,4 @@ In E-Mails verwendete Personen- und Unternehmens-Token aktivieren/deaktivieren.
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 
-   Und das war&#39;s! Sie können dies für beliebig viele einzelne Felder tun.
+   Wiederholen Sie diesen Vorgang für weitere Felder nach Bedarf.

@@ -4,16 +4,16 @@ description: Schritte zum Erstellen eines neuen benutzerdefinierten Felds in Mar
 title: Erstellen eines benutzerdefinierten Felds in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 6%
+source-wordcount: '203'
+ht-degree: 9%
 
 ---
 
 # Erstellen eines benutzerdefinierten Felds in Marketo {#create-a-custom-field-in-marketo}
 
-Wenn Sie zum Speichern/Erfassen von Daten ein neues benutzerdefiniertes Feld in Marketo Engage benötigen, erfahren Sie, wie Sie eines erstellen.
+Erfahren Sie, wie Sie in Marketo Engage ein benutzerdefiniertes Feld erstellen, um Daten zu speichern und zu erfassen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -39,7 +39,7 @@ Wenn Sie zum Speichern/Erfassen von Daten ein neues benutzerdefiniertes Feld in 
    >
    >Sie können das Objekt &quot;_&quot; zwar nicht_ auswählen, Sie können es aber anfordern, indem Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"} wenden.
 
-1. Wählen Sie das Feld _[!UICONTROL Typ]_. Dies ändert die Darstellung in Smart Lists und Formularen in Marketo.
+1. Wählen Sie das Feld _[!UICONTROL Typ]_. Dadurch wird die Darstellung in Smart Lists und Formularen in Marketo geändert.
 
    >[!TIP]
    >
@@ -59,4 +59,4 @@ Wenn Sie zum Speichern/Erfassen von Daten ein neues benutzerdefiniertes Feld in 
 >
 >Der API-Name wird von der SOAP-API und anderen Backend-Prozessen verwendet.
 
-Sie können dieses benutzerdefinierte Feld jetzt in Formularen, Flussschritten und Smart-Listen verwenden!
+Sie können dieses benutzerdefinierte Feld jetzt in Formularen, Flussschritten und Smart-Listen verwenden.

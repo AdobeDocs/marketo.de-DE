@@ -4,7 +4,7 @@ description: Referenz für benutzerdefinierte Feldtypen in Marketo einschließli
 title: Glossar der benutzerdefinierten Feldtypen
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 3%
@@ -25,11 +25,11 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, können Sie aus eine
 
 >[!NOTE]
 >
->Die meisten Felder überschreiten nicht die maximale Anzahl an Zeichen, sondern die Anzahl an Bytes. Aus diesem Grund können wir keine endgültige Zeichenbeschränkung für jedes Feld angeben. Die Ausnahme ist **String**, der maximal 255 Zeichen lang ist.
+>Die meisten Felder erreichen den Maximalwert nicht mit der Anzahl der Zeichen, sondern mit der Anzahl der Bytes. Aus diesem Grund kann Marketo keine endgültige Zeichenbeschränkung für jedes Feld bereitstellen. Die Ausnahme ist **String**, der maximal 255 Zeichen lang ist.
 
 ## Boolesch {#boolean}
 
-**Beispielname:** Ist Kunde - Markieren Sie Ihre Mitarbeiter als Kunden
+**Beispielname:** Ist Kunde - Personen als Kunden taggen
 
 **Beispielwerte:** true (aktiviert) / false (deaktiviert)
 
@@ -61,7 +61,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, können Sie aus eine
 
 ## E-Mail {#email}
 
-**Beispielname:** Alternative E-Mail - Verwenden Sie eine alternative E-Mail-Adresse für Ihre Mitarbeiter (Sie können tatsächlich keine E-Mails an dieses Feld senden, wie das Feld Standard-E-Mail-Adresse, das speziell ist)
+**Beispielname:** Alternative E-Mail - Eine alternative E-Mail-Adresse für Personen beibehalten (kann tatsächlich keine E-Mails an dieses Feld senden wie das Feld Standard-E-Mail-Adresse )
 
 **Beispielwerte:** <name@company.com>
 
@@ -77,9 +77,9 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, können Sie aus eine
 
 ## Formel {#formula}
 
-**Beispielname:** Anrede - Verwenden Sie dieses spezielle Feld in einer [Lösung, um die richtige Anrede basierend &#x200B;](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) Geschlecht zu erhalten
+**Beispielname:** Anrede - Verwenden Sie dieses spezielle Feld in einer [Lösung, um die richtige Anrede basierend ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) Geschlecht zu erhalten
 
-**Beispielwerte:** Überprüfen der verknüpften Lösung
+**Beispielwerte:** Überprüfen Sie die verknüpfte Lösung
 
 ## Ganzzahl {#integer}
 
@@ -91,7 +91,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, können Sie aus eine
 
 ## Prozent {#percent}
 
-**Beispielname:** Kaufwahrscheinlich - Speichern eines Prozentwerts (möglicherweise auf CRM-Seite berechnet)
+**Beispielname:** Kaufwahrscheinlich - Speichern eines Prozentwerts (berechnet im CRM)
 
 **Beispielwerte:** 85%
 
@@ -99,7 +99,7 @@ Wenn Sie ein benutzerdefiniertes Feld in Marketo erstellen, können Sie aus eine
 
 ## Telefon {#phone}
 
-**Beispielname:** Alternative Telefonnummer - Speichern Sie eine zusätzliche Telefonnummer für Ihre Mitarbeiter
+**Beispielname:** Alternative Telefonnummer - Speichern Sie eine zusätzliche Telefonnummer für Personen.
 
 **Beispielwert:** 650-555-5555
 

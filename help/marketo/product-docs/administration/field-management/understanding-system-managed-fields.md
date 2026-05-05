@@ -4,9 +4,9 @@ description: Erfahren Sie auf der Seite „Personendetails“ mehr über nicht b
 title: Grundlegendes zu systemverwalteten Feldern
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '537'
 ht-degree: 17%
 
 ---
@@ -129,7 +129,7 @@ Im Folgenden finden Sie einige mögliche Werte und ihre Bedeutung.
   </tr>
   <tr>
     <td>Kontakt</td>
-    <td>Person wurde von Webhook als Kontakt synchronisiert</td>
+    <td>Person wurde von Salesforce als Kontakt synchronisiert</td>
   </tr>
   <tr>
     <td>Munchkin-API</td>

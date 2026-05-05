@@ -4,10 +4,10 @@ description: Kombinieren Sie Werte aus mehreren Feldern oder erstellen Sie bedin
 title: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 9%
+source-wordcount: '148'
+ht-degree: 10%
 
 ---
 
@@ -53,6 +53,4 @@ Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo E
 
 >[!NOTE]
 >
->Formelfelder können in Landingpages, E-Mails und Smart-Listen-Spalten verwendet werden. E-Mails mit Formelfeldern können _nicht_ mithilfe einer Batch-Kampagne gesendet werden. Verwenden Sie in [&#x200B; Szenario ein &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)E-Mail-Skript-Token“.
-
-Gute Arbeit! Jetzt haben Sie ein intelligentes Feld, das weiß, welche Anrede basierend auf dem Geschlecht enthalten sein soll. Viel Spaß damit und kreativ werden.
+>Formelfelder können in Landingpages, E-Mails und Smart-Listen-Spalten verwendet werden. E-Mails mit Formelfeldern können _nicht_ mithilfe einer Batch-Kampagne gesendet werden. Verwenden Sie in [ Szenario ein ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)E-Mail-Skript-Token“.

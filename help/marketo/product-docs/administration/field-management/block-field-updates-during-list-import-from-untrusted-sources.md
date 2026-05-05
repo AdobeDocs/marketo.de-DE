@@ -4,16 +4,16 @@ description: Blockieren Sie das Überschreiben von Schlüsselfeldern bei Listeni
 title: Blockieren von Feldaktualisierungen während des Listenimports aus nicht vertrauenswürdigen Quellen
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 11%
+source-wordcount: '205'
+ht-degree: 10%
 
 ---
 
 # Blockieren von Feldaktualisierungen während des Listenimports aus nicht vertrauenswürdigen Quellen {#block-field-updates-during-list-import-from-untrusted-sources}
 
-Sie können den Daten in einigen Listen mehr vertrauen als in anderen. Manchmal sind die Daten fragwürdig und das Feld sollte leer sein, aber nicht, wenn bereits ein Wert vorhanden ist. Sie können dies erreichen, indem Sie Feldaktualisierungen in Schlüsselfeldern blockieren.
+Sie können den Daten in einigen Listen mehr vertrauen als in anderen. Manchmal gibt es fragwürdige Daten, und Sie möchten die Daten akzeptieren, wenn das Feld leer ist, aber nicht, wenn ein Wert vorhanden ist. Sie können dies erreichen, indem Sie Feldaktualisierungen in Schlüsselfeldern blockieren.
 
 >[!NOTE]
 >
@@ -51,4 +51,4 @@ Wiederholen Sie die obigen Schritte für alle anderen Felder, die Sie vor nicht 
 
 Detaillierte Anweisungen zum Importieren von Listen finden Sie [Importieren einer Personenliste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
-Gut gemacht! Jetzt wissen Sie, wie Sie Schlüsselfelder vor nicht vertrauenswürdigen Listen schützen können.
+Schlüsselfelder sind jetzt vor nicht vertrauenswürdigen Listenimporten geschützt.

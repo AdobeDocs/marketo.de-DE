@@ -4,16 +4,16 @@ description: Erstellen und bearbeiten Sie Feldaliase, damit Listenimporte mit un
 title: Bearbeiten von Feldaliassen für den Listenimport
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 10%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
 # Bearbeiten von Feldaliassen für den Listenimport {#edit-field-aliases-for-list-import}
 
-Wenn Sie eine Liste mit unbekannten Kopfzeilen importieren, können Sie Feldaliase erstellen, um die Arbeit zu vereinfachen. Sie können diese Aliase auch in der Feldverwaltung bearbeiten. Schau es dir an.
+Wenn Sie eine Liste mit unbekannten Kopfzeilen importieren, können Sie Feldaliase erstellen, um zukünftige Importe zu vereinfachen. Sie können diese Aliase auch in der Feldverwaltung bearbeiten.
 
 >[!NOTE]
 >
@@ -43,6 +43,6 @@ Wenn Sie eine Liste mit unbekannten Kopfzeilen importieren, können Sie Feldalia
 >
 >Klicken Sie **[!UICONTROL Weitere hinzufügen]** und geben Sie bei Bedarf weitere Aliase ein.
 
-Schau dir das an! Wenn Sie jetzt eine Tabelle mit einer Spalte namens „Geburtsdatum“ importieren, erkennt Marketo sie automatisch als „Geburtsdatum“ und importiert die Daten in das richtige Feld.
+Wenn Sie jetzt eine Tabelle mit einer Spalte namens „Geburtsdatum“ importieren, erkennt Marketo sie automatisch als „Geburtsdatum“ und importiert die Daten in das richtige Feld.
 
 ![](assets/edit-field-aliases-for-list-import-6.png)

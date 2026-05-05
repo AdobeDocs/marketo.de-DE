@@ -5,10 +5,10 @@ description: Erfahren Sie mehr über E-Mail-Designer und den Drag-and-Drop-Edito
 title: Überblick
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 95%
+source-wordcount: '682'
+ht-degree: 89%
 
 ---
 
@@ -62,9 +62,9 @@ Damit Sie auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo E
 
 ## Häufig gestellte Fragen {#faq}
 
-**Funktioniert der alte E-Mail-Editor weiterhin? Wenn ja, wie lange?**
+**Wann wird der klassische E-Mail-Editor eingestellt?**
 
-Ja, der alte (klassische) E-Mail-Editor und der neue E-Mail-Designer können parallel verwendet werden. Im klassischen Editor erstellte E-Mails bleiben erhalten. Es wurde noch kein Datum für die Einstellung des klassischen Editors festgelegt, er wird 2026 weiterhin funktionieren. Wir werden Sie einige Monate vor Einstellung des alten Editors benachrichtigen.
+Während der klassische Editor schließlich als veraltet gekennzeichnet wird, gibt es derzeit kein bestimmtes Datum. Es wird jedoch _mehrere_ Monate“ vor der Einstellung der Unterstützung geben.
 
 **In welchen Programmen kann ich die im neuen E-Mail-Designer erstellten E-Mails verwenden?**
 

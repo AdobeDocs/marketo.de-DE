@@ -1,13 +1,13 @@
 ---
-description: Die Beschreibung ist hier zu finden.
+description: Erfahren Sie, wie Sie einen festen Satz von Werten für ein Feld definieren, um die Daten- und Workflow-Verwaltung zu vereinfachen.
 title: Auswahllisten-Verwaltung
 hide: true
 hidefromtoc: true
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Im Dialogfeld _Auswahlliste verwalten_ können Sie Werte hinzufügen, bearbeiten
 
 ![](assets/picklist-management-3.png)
 
-Jeder Eintrag in der Auswahlliste hat einen Anzeigewert und einen gesendeten Wert. Der Anzeigewert wird dem Benutzer beim Erstellen von Smart Lists, Smart Kampagnen oder Formularen empfohlen, während der gesendete Wert derjenige ist, der gespeichert wird. Beispielsweise kann Ihr Anwendungsfall Gebiets-Code den vollständigen Namen eines Gebiets (z. B. Alberta) vorschlagen, während der aus zwei Buchstaben bestehende Code (AB) gespeichert wird.
+Jeder Eintrag in der Auswahlliste hat einen Anzeigewert und einen gesendeten Wert. Der Anzeigewert wird dem Benutzer beim Erstellen von Smart Lists, Smart Kampagnen oder Formularen empfohlen, während der gesendete Wert derjenige ist, der gespeichert wird. Beispielsweise kann ein Anwendungsfall „Territory Code“ den vollständigen Namen eines Gebiets (z. B. Alberta) vorschlagen, während der aus zwei Buchstaben bestehende Code (AB) gespeichert wird.
 
 ## AutoSuggest {#autosuggest}
 
@@ -54,7 +54,7 @@ Wenn die Einstellung _Verwaltete Auswahlliste_ aktiviert ist, schlagen Filter, F
 
 ### Wechseln zwischen verwalteten und nicht verwalteten Auswahllisten {#switching}
 
-Die meisten Marketo Engage-Abonnements enthalten Daten aus der Zeit vor der Einführung von verwalteten Auswahllisten. Um Werte in Smart-Listen oder Flussschritten aus dieser nicht verwalteten Versionsauswahlliste zu verwenden (z. B. aus dem vollständigen Satz von Werten, die in Datensätzen in Ihrer Datenbank vorhanden sind), schalten Sie die Einstellung Verwaltete Auswahlliste in Ihrer Smart-Listen- oder Kampagnenansicht um. Wenn diese Option aktiviert ist, werden nur die verwalteten Auswahllistenwerte angezeigt. Wenn diese Option deaktiviert ist, wird die nicht verwaltete Auswahlliste verwendet und Werte werden basierend auf vorhandenen Werten in der Datenbank automatisch vorgeschlagen.
+Die meisten Marketo Engage-Abonnements enthalten Daten aus der Zeit vor der Einführung von verwalteten Auswahllisten. Um Werte in Smart-Listen oder Flussschritten aus dieser nicht verwalteten Version der Auswahlliste zu verwenden (z. B. aus dem vollständigen Satz von Werten, die in Datensätzen in Ihrer Datenbank vorhanden sind), schalten Sie die Einstellung Verwaltete Auswahlliste in Ihrer Smart-Listen- oder Kampagnenansicht um. Wenn diese Option aktiviert ist, werden nur die verwalteten Auswahllistenwerte angezeigt. Wenn diese Option deaktiviert ist, wird die nicht verwaltete Auswahlliste verwendet und Werte werden basierend auf vorhandenen Werten in der Datenbank automatisch vorgeschlagen.
 
 ## Formular-Auswahllisten (Felder vom Typ auswählen) {#form-picklists}
 

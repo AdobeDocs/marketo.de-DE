@@ -3,10 +3,10 @@ description: Exportieren Sie alle Objekte und ihre Metadaten einschließlich Lea
 title: Exportieren aller Objektmetadaten
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 25%
+source-wordcount: '85'
+ht-degree: 24%
 
 ---
 
@@ -43,7 +43,7 @@ Mit dieser Funktion können Sie alle Objekte und ihre Metadaten exportieren.
 
 >[!NOTE]
 >
->Stellen Sie sicher, dass Ihr Browser Popups in Marketo nicht blockiert.
+>Vergewissern Sie sich, dass Ihr Browser Popups in Marketo nicht blockiert.
 
 Die Daten werden als CSV exportiert.
 
