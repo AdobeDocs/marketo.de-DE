@@ -4,16 +4,16 @@ description: Erfahren Sie mehr über Szenarien, die doppelte E-Mails in Interakt
 title: Vermeiden des Versands von doppelten Inhalten
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '217'
 ht-degree: 7%
 
 ---
 
 # Vermeiden des Versands von doppelten Inhalten {#avoid-sending-duplicate-content}
 
-Haben Sie schon einmal dieselbe E-Mail zweimal erhalten? Lärmend, nicht wahr?
+Haben Sie schon einmal dieselbe E-Mail zweimal erhalten? Nervig, nicht wahr?
 
 Im Folgenden finden Sie sieben mögliche Szenarien und Ergebnisse, die zu beachten sind, um zu verhindern, dass jemand dieselbe Nachricht zweimal mit Interaktionsprogrammen sendet.
 

@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über das Interaktions-Dashboard für interaktive
 title: Interaktions-Dashboard
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1781'
 ht-degree: 1%
 
 ---
@@ -171,14 +171,14 @@ Wählen Sie im linken Bedienfeld die Option **[!UICONTROL Interaktionen]**, um a
 
 ![](assets/engagement-dashboard-9.png)
 
-Wählen Sie in der **[!UICONTROL die Registerkarte]** Umfragen“ aus, um Fragen und Antworten anzuzeigen, die zur Umfrage hinzugefügt wurden. Auf dieser Registerkarte werden die folgenden Informationen angezeigt:
+Wählen Sie in der ]**die Registerkarte**[!UICONTROL  Umfragen“ aus, um Fragen und Antworten anzuzeigen, die zur Umfrage hinzugefügt wurden. Auf dieser Registerkarte werden die folgenden Informationen angezeigt:
 
 * Wählen Sie **[!UICONTROL Bericht abfragen (CSV)]**, um den Bericht für Interaktionen im Abrufbereich herunterzuladen.
 * Frage und Typ der Abfrage.
 * Anzahl der Antworten und der Zeitraum, in dem der Pod offen und aktiv war.
 * Wählen **Alle `<number>` Antworten anzeigen**, um sie in einem Dialogfenster anzuzeigen.
 
-Wählen Sie in der **[!UICONTROL die Registerkarte]** Sonstige Interaktionen“ aus, um Interaktionen in anderen Pods anzuzeigen und deren Berichte herunterzuladen.
+Wählen Sie in der ]**die Registerkarte**[!UICONTROL  Sonstige Interaktionen“ aus, um Interaktionen in anderen Pods anzuzeigen und deren Berichte herunterzuladen.
 
 ![](assets/engagement-dashboard-10.png)
 
@@ -301,7 +301,7 @@ Verstehen Sie die Kriterien zur Klassifizierung des Interaktionsniveaus für jed
     <li>Der Teilnehmer hat mindestens eine Frage im Fragenkatalog gestellt.</li></td>
   </tr>
   <tr>
-    <td>Mittel</td>
+    <td>Medium</td>
     <td>Teilnehmer, die alle folgenden Kriterien erfüllen:
     <li>Das Interaktionsniveau des Teilnehmers wurde nicht als hoch eingestuft.</li>
     <li>Die Anwesenheitsdauer beträgt mindestens 60 % der gesamten Veranstaltungszeit.</li>

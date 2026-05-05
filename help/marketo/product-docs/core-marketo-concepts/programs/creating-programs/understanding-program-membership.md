@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die Programmmitgliedschaft und darüber, wi
 title: Grundlegendes zur Programmmitgliedschaft
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -23,14 +23,14 @@ ht-degree: 2%
 
    * Die Person hat automatisch den ersten Status in der Progression.
 
-1. Sie [&#x200B; Mitglieder aus einer CSV](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"}Datei in das Programm importieren.
+1. Sie [ Mitglieder aus einer CSV](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"}Datei in das Programm importieren.
 
    * Die Person hat automatisch den ersten Status in der Progression.
 
 1. Sie verwenden den [Programmstatus ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} Flussschritt.
-1. Eine Person registriert sich oder nimmt an einem [Webinar teil, das mit einem Veranstaltungsprogramm synchronisiert &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
+1. Eine Person registriert sich oder nimmt an einem [Webinar teil, das mit einem Veranstaltungsprogramm synchronisiert ](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
 1. Eine Person wird [mithilfe des Marketo iPad-Eincheckprogramms erstellt](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
-1. Eine Person wird zu einer SFDC-Kampagne hinzugefügt, die mit [&#x200B; Programm synchronisiert &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
+1. Eine Person wird zu einer SFDC-Kampagne hinzugefügt, die mit [ Programm synchronisiert ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ Zweck eines Programms ist es, eine sinnvolle Interaktion mit der Person oder dem
 
 >[!NOTE]
 >
->Für ein Webinar ist die Registrierung keine sinnvolle Interaktion, wenn sie sich das Webinar nicht tatsächlich ansehen. Die Teilnahme ist in diesem Fall erfolgreich.
+>Bei einem Webinar ist die Registrierung keine sinnvolle Interaktion, wenn sie sich das Webinar nicht tatsächlich ansehen. Die Teilnahme ist in diesem Fall erfolgreich.
 
 ## Akquirierungsprogramm {#acquisition-program}
 

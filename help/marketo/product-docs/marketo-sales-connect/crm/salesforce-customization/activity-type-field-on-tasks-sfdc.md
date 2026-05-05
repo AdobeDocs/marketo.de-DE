@@ -4,9 +4,9 @@ description: Grundlegendes zum Feld „Aktivitätstyp“ bei Aufgaben beim Synch
 title: Feld „Aktivitätstyp“ für Aufgaben (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 5%
 
 ---

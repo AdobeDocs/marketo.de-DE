@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie eine benutzerdefinierte Aktivität bearbeiten
 title: Bearbeiten einer benutzerdefinierten Aktivität
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 9%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 
 # Bearbeiten einer benutzerdefinierten Aktivität {#edit-a-custom-activity}
 
-Müssen Sie Änderungen an einer benutzerdefinierten Aktivität vornehmen, die Sie bereits erstellt haben? Und so geht das.
+Gehen Sie wie folgt vor, um Änderungen an einer bereits erstellten benutzerdefinierten Aktivität vorzunehmen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -31,15 +31,15 @@ Müssen Sie Änderungen an einer benutzerdefinierten Aktivität vornehmen, die S
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   Aktivitätstyp bearbeiten wird angezeigt. In diesem Beispiel bringen wir einen Tippfehler in Ordnung.
+   Aktivitätstyp bearbeiten wird angezeigt. In diesem Beispiel wird ein Tippfehler korrigiert.
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Geben Sie Ihre neuen Informationen ein und klicken Sie auf **[!UICONTROL Senden]**.
+1. Geben Sie die aktualisierten Informationen ein und klicken Sie auf **[!UICONTROL Senden]**.
 
    ![](assets/edit-a-custom-activity-6.png)
 
-   Ihre benutzerdefinierte Aktivität wurde jetzt bearbeitet!
+   Die benutzerdefinierte Aktivität wurde aktualisiert.
 
    >[!NOTE]
    >

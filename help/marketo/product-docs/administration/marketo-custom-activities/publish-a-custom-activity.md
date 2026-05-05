@@ -4,16 +4,16 @@ description: Schritte zum Veröffentlichen einer benutzerdefinierten Aktivität.
 title: Veröffentlichen einer benutzerdefinierten Aktivität
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 11%
+source-wordcount: '58'
+ht-degree: 13%
 
 ---
 
 # Veröffentlichen einer benutzerdefinierten Aktivität {#publish-a-custom-activity}
 
-Sie haben Ihre benutzerdefinierte Aktivität genau so, wie Sie sie möchten. Jetzt ist es an der Zeit, es zu veröffentlichen!
+Erfahren Sie, wie Sie Ihre benutzerdefinierte Aktivität veröffentlichen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -31,12 +31,10 @@ Sie haben Ihre benutzerdefinierte Aktivität genau so, wie Sie sie möchten. Jet
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Der Status Ihrer benutzerdefinierten Aktivität wird [!UICONTROL von &#x200B;]Entwurf[!UICONTROL &#x200B; angezeigt]…
+   Der „Status[!UICONTROL  der benutzerdefinierten Aktivität ändert ] von [!UICONTROL Entwurf]…
 
    ![](assets/publish-a-custom-activity-5.png)
 
    …zu [!UICONTROL Veröffentlicht].
 
    ![](assets/publish-a-custom-activity-6.png)
-
-   Gut gemacht!

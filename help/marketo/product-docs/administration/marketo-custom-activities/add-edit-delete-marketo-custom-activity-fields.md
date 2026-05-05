@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100275
 description: Hinzufügen, Bearbeiten oder Löschen von Feldern in einer benutzerdefinierten Aktivität
-title: Hinzufügen/Bearbeiten/Löschen von benutzerdefinierten Marketo-Aktivitätsfeldern
+title: Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen, bearbeiten oder löschen
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 6%
+source-wordcount: '288'
+ht-degree: 0%
 
 ---
 
-# Hinzufügen/Bearbeiten/Löschen von benutzerdefinierten Marketo-Aktivitätsfeldern {#add-edit-delete-marketo-custom-activity-fields}
+# Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen, bearbeiten oder löschen {#add-edit-delete-marketo-custom-activity-fields}
 
-Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen, ändern oder sogar entfernen. Und so geht das.
+Erfahren Sie, wie Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen, ändern oder entfernen können.
 
 ## Benutzerdefiniertes Aktivitätsfeld hinzufügen {#add-a-custom-activity-field}
 
@@ -37,19 +37,19 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Wählen Sie den (Datentyp[!UICONTROL &#x200B; des Felds &#x200B;].
+1. Wählen Sie den (Datentyp[!UICONTROL  des Felds ].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
    >[!TIP]
    >
-   >Nicht sicher, was ausgewählt werden soll? Wir haben Sie im Griff! Alle verfügbaren Datentypen werden in [diesem Artikel) &#x200B;](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Definitionen aller verfügbaren Datentypen finden Sie in [diesem Artikel](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Benennen Sie das Feld. Der API-Name wird automatisch ausgefüllt. Wenn Sie fertig sind, klicken Sie auf **[!UICONTROL Speichern]**.
+1. Benennen Sie das Feld. Der [!UICONTROL API-Name] wird automatisch ausgefüllt. Wenn Sie fertig sind, klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
-   Das ist alles! Das neue Feld wurde hinzugefügt.
+   Das neue Feld wurde hinzugefügt.
 
 ## Benutzerdefiniertes Aktivitätsfeld bearbeiten {#edit-a-custom-activity-field}
 
@@ -73,27 +73,27 @@ Möglicherweise müssen Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen,
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   Das **[!UICONTROL Feld bearbeiten]**-Popup wird angezeigt. In diesem Beispiel ändern wir den Namen des Felds.
+   Das **[!UICONTROL Feld bearbeiten]**-Popup wird angezeigt. In diesem Beispiel wird der Feldname geändert.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. Geben Sie den neuen Namen und den API-Namen ein und klicken Sie dann auf **[!UICONTROL Speichern]**.
+1. Geben Sie den neuen Namen und [!UICONTROL API-]) ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
-   >Der [!UICONTROL API-Name] wird beim Bearbeiten eines Felds nicht automatisch ausgefüllt. Es ist zwar nicht erforderlich, dass die Felder [!UICONTROL Name] und [!UICONTROL API-Name] übereinstimmen, wir empfehlen jedoch, dies zu tun.
+   >Der [!UICONTROL API-Name] wird beim Bearbeiten eines Felds nicht automatisch ausgefüllt. Es ist zwar nicht erforderlich, dass die Felder [!UICONTROL Name] und [!UICONTROL API-Name] übereinstimmen, Marketo empfiehlt dies jedoch.
 
    >[!CAUTION]
    >
-   >Sie können nur dann den API-Namen bearbeiten oder das Feld in &quot;Primär&quot; ändern, wenn die benutzerdefinierte Aktivität noch nie veröffentlicht wurde.
+   >Sie können den [!UICONTROL API-Namen] nur bearbeiten oder das Feld in &quot;Primär&quot; ändern, wenn die benutzerdefinierte Aktivität noch nie veröffentlicht wurde.
 
    >[!NOTE]
    >
    >Wenn Sie ändern möchten, welches Feld Primär ist, müssen Sie zunächst die Auswahl des vorhandenen Felds aufheben.
 
-Ihr Feld ist jetzt bearbeitet!
+Das Feld wurde aktualisiert.
 
 ## Benutzerdefiniertes Aktivitätsfeld löschen {#delete-a-custom-activity-field}
 
