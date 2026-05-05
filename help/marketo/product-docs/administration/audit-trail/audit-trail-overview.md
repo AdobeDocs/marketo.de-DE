@@ -66,7 +66,7 @@ Ermitteln Sie, wer sich wann bei Ihrem Abonnement angemeldet hat (einschließlic
 
 >[!TIP]
 >
->Da Sie mit dem Audit-Protokoll so viele Audits durchführen können[ kann ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) Filtern viel Zeit sparen.
+>Da Sie mit dem Audit-Protokoll so viele Audits durchführen können[&#x200B; kann &#x200B;](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) Filtern viel Zeit sparen.
 
 ## Daten werden exportiert {#exporting-data}
 
