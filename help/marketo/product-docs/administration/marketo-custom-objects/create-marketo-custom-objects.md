@@ -4,10 +4,10 @@ description: Schritte zum Erstellen benutzerdefinierter Marketo-Objekte für Ein
 title: Erstellen benutzerdefinierter Marketo-Objekte
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '711'
-ht-degree: 2%
+source-wordcount: '771'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Verwenden Sie benutzerdefinierte Objekte in Marketo, um für Ihr Unternehmen spe
 
 >[!NOTE]
 >
->Sie können benutzerdefinierte Objekte so einrichten, dass sie 1:n oder n:n funktionieren. Sie erstellen das anfängliche -Objekt auf die gleiche Weise, aber die Schritte unterscheiden sich, wenn Sie dem -Objekt Felder hinzufügen. Weitere Informationen [&#x200B; Sie unter „Grundlegendes &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) benutzerdefinierten Marketo-Objekten“.
+>Sie können benutzerdefinierte Objekte so einrichten, dass sie 1:n oder n:n funktionieren. Sie erstellen das anfängliche -Objekt auf die gleiche Weise, aber die Schritte unterscheiden sich, wenn Sie dem -Objekt Felder hinzufügen. Weitere Informationen [ Sie unter „Grundlegendes ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) benutzerdefinierten Marketo-Objekten“.
 
 >[!NOTE]
 >
@@ -49,13 +49,13 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Auto-Objekt zur Verwendung in eine
 
    >[!NOTE]
    >
-   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL &#x200B; und &#x200B;] Regler **[!UICONTROL In Lead-Detail anzeigen]** bearbeiten.
+   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL  und ] Regler **[!UICONTROL In Lead-Detail anzeigen]** bearbeiten.
 
 1. Ziehen Sie den **[!UICONTROL „In Lead-Detail anzeigen]** auf den Regler, um **[!UICONTROL Anzeigen]** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite „Datenbank“ anzeigen möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
-1. Die Informationen zum benutzerdefinierten Objekt zeigen den eingegebenen Inhalt an. Beachten Sie, dass er den Status **[!UICONTROL Entwurf]** aufweist.
+1. Die Informationen zum benutzerdefinierten Objekt zeigen den eingegebenen Inhalt an. Beachten Sie, dass es sich im Status **[!UICONTROL Entwurf]** befindet.
 
    ![](assets/create-marketo-custom-objects-6.png)
 
@@ -63,15 +63,15 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Auto-Objekt zur Verwendung in eine
 
    >[!NOTE]
    >
-   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api).
+   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Erstellen eines benutzerdefinierten Objekts für eine Viele-zu-viele-Struktur {#create-a-custom-object-for-a-many-to-many-structure}
 
-Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, das Sie zum Erstellen einer n:n-Beziehung zwischen Personen/Unternehmen und Kursen verwenden werden. Wenn Sie fertig sind, erstellen Sie ein Zwischenobjekt, um es mit Personen oder Unternehmen in Ihrer Datenbank zu verbinden.
+Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, das Sie zum Erstellen einer n:n-Beziehung zwischen Personen oder Unternehmen und Kursen verwenden werden. Wenn Sie fertig sind, erstellen Sie ein Zwischenobjekt, um es mit Personen oder Unternehmen in Ihrer Datenbank zu verbinden.
 
 >[!NOTE]
 >
->Bei einer Viele-zu-viele-Beziehung müssen Sie keine Relation im benutzerdefinierten -Objekt erstellen. Stattdessen fügen Sie zwei Links zum Zwischenobjekt hinzu (siehe unten).
+>Bei einer n:n-Beziehung müssen Sie keine Relation im benutzerdefinierten -Objekt erstellen. Stattdessen fügen Sie zwei Links zum Zwischenobjekt hinzu (siehe unten).
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -91,21 +91,21 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, das Sie zum Erstellen 
 
    >[!NOTE]
    >
-   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL &#x200B; und &#x200B;] Regler **[!UICONTROL In Lead-Detail anzeigen]** bearbeiten.
+   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL  und ] Regler **[!UICONTROL In Lead-Detail anzeigen]** bearbeiten.
 
 1. Ziehen Sie den **[!UICONTROL „In Lead-Detail anzeigen]** auf den Regler, um **[!UICONTROL Anzeigen]** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite „Datenbank“ anzeigen möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
-1. Die Informationen zum benutzerdefinierten Objekt zeigen den eingegebenen Inhalt an. Beachten Sie, dass er den Status **[!UICONTROL Entwurf]** aufweist.
+1. Die Informationen zum benutzerdefinierten Objekt zeigen den eingegebenen Inhalt an. Beachten Sie, dass es sich im Status **[!UICONTROL Entwurf]** befindet.
 
    ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
-   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api).
+   >Sie können benutzerdefinierte Marketo-Objekte nur über einen Listen-Import oder die [API) ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api).
 
-Im nächsten Schritt erstellen Sie Ihr Zwischenobjekt (siehe unten). Zuvor müssen Sie jedoch ein Feld erstellen, mit dem eine Verknüpfung hergestellt werden kann.
+Im nächsten Schritt müssen Sie Ihr Zwischenobjekt erstellen (siehe unten). Zuvor müssen Sie ein Feld erstellen, mit dem eine Verknüpfung hergestellt werden kann.
 
 ## Erstellen eines Zwischenobjekts {#create-an-intermediary-object}
 
@@ -133,15 +133,15 @@ Verwenden Sie ein Zwischenobjekt, um ein benutzerdefiniertes Objekt mit Personen
 
    >[!NOTE]
    >
-   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL &#x200B; und &#x200B;] Regler [!UICONTROL In Lead-Detail anzeigen] bearbeiten.
+   >Sie können diese Felder beim Erstellen bearbeiten, aber nach dem Speichern können Sie nur das Feld „Pluraler Name[!UICONTROL  und ] Regler [!UICONTROL In Lead-Detail anzeigen] bearbeiten.
 
-1. Ziehen Sie den **[!UICONTROL „In Lead-Detail anzeigen]** auf den Regler, um **Anzeigen** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite „Datenbank“ anzeigen möchten. Klicken Sie auf **Speichern**.
+1. Ziehen Sie den **[!UICONTROL „In Lead-Detail anzeigen]** auf den Regler, um **[!UICONTROL Anzeigen]** anzuzeigen, wenn Sie benutzerdefinierte Objektdaten auf der Seite „Datenbank“ anzeigen möchten. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 
-1. Die Informationen zum benutzerdefinierten Objekt zeigen den eingegebenen Inhalt an. Beachten Sie, dass er den Status **[!UICONTROL Entwurf]** aufweist.
+1. Die Informationen zum benutzerdefinierten Objekt zeigen den eingegebenen Inhalt an. Beachten Sie, dass es sich im Status **[!UICONTROL Entwurf]** befindet.
 
-   Der nächste Schritt besteht darin, [Verknüpfungsfelder hinzufügen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) um Ihr Zwischenobjekt mit einer Person/Firma und einem benutzerdefinierten Objekt zu verbinden.
+   Der nächste Schritt besteht darin, [Verknüpfungsfelder hinzufügen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) um Ihr Zwischenobjekt mit einer Person oder einem Unternehmen und einem benutzerdefinierten Objekt zu verbinden.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Bearbeiten oder Löschen von Feldern eines nicht genehmigten benutz
 title: Bearbeiten und Löschen von benutzerdefinierten Marketo-Objektfeldern
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 12%
 
 ---
@@ -39,17 +39,17 @@ Manchmal muss ein Feld bearbeitet werden, das noch nicht genehmigt ist.
 
 ## Löschen eines Felds {#delete-a-field}
 
-Wenn Sie ein Feld in einem benutzerdefinierten Objekt nicht mehr benötigen, können Sie es löschen.
+Wenn ein Feld in einem benutzerdefinierten Objekt nicht mehr benötigt wird, können Sie es löschen.
 
 1. Klicken Sie auf der Registerkarte Felder auf **[!UICONTROL Feldaktionen]** und **[!UICONTROL Feld löschen]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. Stellen Sie sicher, dass Sie das Feld wirklich löschen möchten, bevor Sie den Trigger abrufen! Klicken Sie auf **[!UICONTROL Löschen]**.
+1. Bestätigen Sie, dass Sie das Feld löschen möchten, bevor Sie fortfahren. Klicken Sie auf **[!UICONTROL Löschen]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-Es ist weg!
+Das Feld wird gelöscht.
 
 ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 

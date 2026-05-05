@@ -4,10 +4,10 @@ description: Verwendung benutzerdefinierter Objekte Hinzufügen oder Ändern von
 title: Auslösen von Änderungen an benutzerdefinierten Objekten
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 5%
+source-wordcount: '203'
+ht-degree: 8%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 5%
 >Diese Funktion ist nur verfügbar:
 >
 >* Zur Verwendung nur mit benutzerdefinierten Marketo-Objekten, nicht mit benutzerdefinierten Objekten, die über die native [!DNL Salesforce]- oder [!DNL Microsoft Dynamics]-Integration synchronisiert werden
+>
 >* Als Trigger, nicht als Filter
 >
 >Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de)Support, um die Trigger für benutzerdefinierte Objektänderungen zu aktivieren.
@@ -40,7 +41,7 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flussaktion mit Trigger
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Wählen Sie das Attribut [!UICONTROL Trigger &#x200B;].
+1. Wählen Sie das Attribut [!UICONTROL Trigger ].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 
@@ -48,7 +49,7 @@ In der Smart-Liste einer Smart-Kampagne können Sie eine Flussaktion mit Trigger
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. Und hier sind sie. Die Änderung wird automatisch gespeichert.
+1. Die Änderung wird automatisch gespeichert.
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 

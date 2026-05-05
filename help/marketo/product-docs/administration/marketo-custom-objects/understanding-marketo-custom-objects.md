@@ -4,9 +4,9 @@ description: Übersicht über benutzerdefinierte Objekte zur Verfolgung geschäf
 title: Grundlegendes zu benutzerdefinierten Marketo-Objekten
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '736'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Viele-zu-viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, di
 
 >[!CAUTION]
 >
->Sie können benutzerdefinierte Objekte nicht wiederherstellen. Stellen Sie daher sicher, dass Sie sie nicht mehr benötigen, bevor Sie sie löschen.
+>Benutzerdefinierte Objekte können nicht wiederhergestellt werden. Stellen Sie daher sicher, dass sie nicht mehr benötigt werden, bevor Sie sie löschen.
 
 ## Zugreifen auf benutzerdefinierte Marketo-Objekte {#accessing-marketo-custom-objects}
 
@@ -69,7 +69,7 @@ Viele-zu-viele benutzerdefinierte Objekte verwenden zwei Verknüpfungsfelder, di
 
 ## Benutzerdefinierte Objekte anzeigen, die mit einer Person verknüpft sind {#view-custom-objects-associated-to-a-person}
 
-Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden die benutzerdefinierten Objekte beim Hochladen der spezifischen benutzerdefinierten Objektdaten automatisch mit Personen in der Datenbank verknüpft, indem das Verknüpfungsfeld im benutzerdefinierten Objekt verwendet wird. Sie können Informationen auf der Registerkarte [!UICONTROL Benutzerdefinierte Objekte] auf der Seite mit den Personendetails anzeigen.
+Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden beim Hochladen der spezifischen benutzerdefinierten Objektdaten die benutzerdefinierten Objekte automatisch mit Personen in der Datenbank verknüpft, indem das Verknüpfungsfeld im benutzerdefinierten Objekt verwendet wird. Sie können Informationen auf der Registerkarte [!UICONTROL Benutzerdefinierte Objekte] auf der Seite mit den Personendetails anzeigen.
 
 1. Wechseln Sie zu **[!UICONTROL Datenbank]**.
 
@@ -93,13 +93,13 @@ Nachdem Sie die benutzerdefinierte Objektstruktur erstellt haben, werden die ben
 
 ## Verwenden benutzerdefinierter Objekte mit Firmen {#using-custom-objects-with-companies}
 
-Ein benutzerdefiniertes Objekt, das mit dem Unternehmen verknüpft ist, funktioniert am besten, wenn Sie Unternehmen aus dem CRM synchronisieren oder wenn Sie Unternehmen explizit mithilfe der API erstellen. Es wird außerdem empfohlen, die Unternehmens-ID als Verknüpfungsfeld zu verwenden.
+Ein benutzerdefiniertes Objekt, das mit dem Unternehmen verknüpft ist, funktioniert am besten, wenn Sie Unternehmen aus dem CRM synchronisieren oder wenn Sie Unternehmen explizit mithilfe der API erstellen. Marketo empfiehlt außerdem, die Unternehmens-ID als Verknüpfungsfeld zu verwenden.
 
-Wenn Sie mehrere Personen in Marketo haben, bei denen es sich um Datensätze im CRM oder um reine Marketo-Datensätze handelt, wird ein benutzerdefiniertes Objekt, das mit einer Firma verknüpft ist, nicht mit mehr als einem einzelnen Datensatz verknüpft. Dies liegt daran, dass ein Unternehmen mit mehreren Personen darunter nur unterstützt wird, wenn Unternehmen aus dem CRM synchronisiert werden oder wenn Sie eine API verwenden, um explizit Unternehmen zu erstellen.
+Wenn Sie mehrere Personen in Marketo haben, bei denen es sich um Datensätze im CRM oder nur in Marketo handelt, wird ein benutzerdefiniertes Objekt, das mit einer Firma verknüpft ist, nicht mit mehr als einem einzelnen Datensatz verknüpft. Dies liegt daran, dass ein Unternehmen mit mehreren Personen darunter nur unterstützt wird, wenn Unternehmen aus dem CRM synchronisiert werden oder wenn Sie eine API verwenden, um explizit Unternehmen zu erstellen.
 
 Benutzerdefinierte Objekte können nur direkt mit einem einzelnen Datensatz verknüpft werden. Wenn Ihr benutzerdefinierter Objekttyp also nach Unternehmensfeld verknüpft ist, sollten Sie sicherstellen, dass Ihre Personendatensätze entweder über eine Kontaktkonvertierung im CRM-System oder mithilfe des Felds externalCompanyId mit einem Unternehmen verknüpft sind, wenn Sie Unternehmen mithilfe der REST-APIs von Marketo verwalten. Bei Personendatensätzen, die nicht explizit mit Firmendatensätzen verknüpft sind, werden benutzerdefinierte Objekte, die über „Firma“ verknüpft sind, nach dem Zufallsprinzip mit einem einzelnen Datensatz verknüpft, auch wenn der Wert des Firmenfelds für viele Personen freigegeben ist.
 
-Weitere [&#x200B; finden Sie unter &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) von benutzerdefinierten Objektdaten importieren .
+Weitere [ finden Sie unter ](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) von benutzerdefinierten Objektdaten importieren .
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Schritte zum Hinzufügen von Feldern zu einem benutzerdefinierten O
 title: Hinzufügen von benutzerdefinierten Marketo-Objektfeldern
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '305'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Nachdem Sie ein benutzerdefiniertes Objekt erstellt haben, müssen Sie diesem Felder hinzufügen, um Ihre Geschäftsanforderungen zu erfüllen.
 
-Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder haben einen speziellen Auftrag zum Verbinden benutzerdefinierter Objekte und werden in einem [&#x200B; Artikel &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder dienen einem bestimmten Zweck (Verbinden benutzerdefinierter Objekte) und werden in einem [ Artikel ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -35,7 +35,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
 
    >[!NOTE]
    >
-   >Die drei oben gezeigten Felder werden automatisch von Marketo erstellt, wenn Sie ein benutzerdefiniertes Objekt erstellen. Marketo verwaltet diese Felder automatisch, und Sie können sie nicht bearbeiten oder löschen.
+   >Die drei oben gezeigten Felder werden automatisch von Marketo erstellt, wenn Sie ein benutzerdefiniertes Objekt erstellen. Marketo verwaltet diese Felder automatisch und kann nicht bearbeitet oder gelöscht werden.
 
 1. Geben Sie einen [!UICONTROL Anzeigenamen] und (optional) [!UICONTROL Beschreibung] ein.
 
@@ -45,7 +45,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
    >
    >Der [!UICONTROL API-Name] kann nur bis zu seiner Genehmigung bearbeitet werden.
 
-1. Wählen Sie nun den entsprechenden [!UICONTROL Datentyp] aus der Liste aus.
+1. Wählen Sie den entsprechenden [!UICONTROL Datentyp] aus der Liste aus.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
@@ -61,7 +61,7 @@ Felder definieren die spezifischen Informationen, die von einem benutzerdefinier
 
    >[!NOTE]
    >
-   >Wenn Sie eine Eins-zu-viele-Struktur erstellen, müssen Sie ein Verknüpfungsfeld zu Ihrem benutzerdefinierten Objekt hinzufügen. Bei einer n:n-Struktur benötigen Sie kein Verknüpfungsfeld im benutzerdefinierten Objekt, Sie müssen jedoch zwei Verknüpfungsfelder im Zwischenobjekt hinzufügen. Weitere Informationen [&#x200B; Typen benutzerdefinierter Objekte finden Sie unter „Hinzufügen benutzerdefinierter Objektverknüpfungsfelder &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) Marketo&quot;, um die Verknüpfungsfelder zu erstellen, und [Grundlegendes zu benutzerdefinierten Objekten &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) Marketo&quot;.
+   >Wenn Sie eine Eins-zu-viele-Struktur erstellen, müssen Sie ein Verknüpfungsfeld zu Ihrem benutzerdefinierten Objekt hinzufügen. Bei einer n:n-Struktur benötigen Sie kein Verknüpfungsfeld im benutzerdefinierten Objekt, Sie müssen jedoch zwei Verknüpfungsfelder im Zwischenobjekt hinzufügen. Weitere Informationen [ Typen benutzerdefinierter Objekte finden Sie unter „Hinzufügen benutzerdefinierter Objektverknüpfungsfelder ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) Marketo&quot;, um die Verknüpfungsfelder zu erstellen, und [Grundlegendes zu benutzerdefinierten Objekten ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) Marketo&quot;.
 
 >[!MORELIKETHIS]
 >

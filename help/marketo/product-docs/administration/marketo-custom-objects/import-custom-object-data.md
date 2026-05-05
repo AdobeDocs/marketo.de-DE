@@ -4,16 +4,16 @@ description: Schritte zum Importieren benutzerdefinierter Objektdaten mithilfe e
 title: Importieren von benutzerdefinierten Objektdaten
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '252'
 ht-degree: 4%
 
 ---
 
 # Importieren von benutzerdefinierten Objektdaten {#import-custom-object-data}
 
-Es ist einfach, benutzerdefinierte Objektdaten in Ihre Datenbank zu importieren. Wenn Sie benutzerdefinierte Objekte mit Unternehmen verwenden, finden Sie unter [Verwenden benutzerdefinierter Objekte mit Unternehmen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) weitere Informationen.
+Gehen Sie wie folgt vor, um benutzerdefinierte Objektdaten in Ihre Datenbank zu importieren. Wenn Sie benutzerdefinierte Objekte mit Unternehmen verwenden, finden Sie unter [Verwenden benutzerdefinierter Objekte mit Unternehmen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) weitere Informationen.
 
 1. Navigieren Sie in My Marketo zu **[!UICONTROL Datenbank]**.
 
@@ -37,7 +37,7 @@ Es ist einfach, benutzerdefinierte Objektdaten in Ihre Datenbank zu importieren.
 
    >[!NOTE]
    >
-   >Verwenden Sie Deduplizierungsfelder als eindeutige Kennungen, wenn Sie benutzerdefinierte Objektdatensätze erstellen oder aktualisieren. In diesem Beispiel wird das Feld Deduplizierung des benutzerdefinierten **car**-Objekts - VIN (Vehicle ID Number) verwendet. Wenn Sie nur benutzerdefinierte Objektdatensätze aktualisieren, können Sie die [!UICONTROL Marketo-GUID] als [!UICONTROL Deduplizierungsmodus] auswählen.
+   >Verwenden Sie ein oder mehrere Deduplizierungsfelder als eindeutige Kennungen, wenn Sie benutzerdefinierte Objektdatensätze erstellen oder aktualisieren. In diesem Beispiel wird das Feld Deduplizierung des benutzerdefinierten **car**-Objekts - VIN (Vehicle ID Number) verwendet. Wenn Sie nur benutzerdefinierte Objektdatensätze aktualisieren, können Sie die [!UICONTROL Marketo-GUID] als [!UICONTROL Deduplizierungsmodus] auswählen.
 
 1. Ordnen Sie jede Spalte einem Marketo-Feld zu, indem Sie sie aus der Dropdown-Liste auswählen.
 
@@ -45,7 +45,7 @@ Es ist einfach, benutzerdefinierte Objektdaten in Ihre Datenbank zu importieren.
 
    >[!NOTE]
    >
-   >Stellen Sie sicher, dass die Werte in Ihrer Datei mit dem Feldtyp übereinstimmen, mit dem Sie sie abgleichen (z. B. Text, Ganzzahl usw.), da die Datei sonst zurückgewiesen wird.
+   >Stellen Sie sicher, dass die Werte in Ihrer Datei mit dem Typ des Felds übereinstimmen, mit dem Sie sie abgleichen (z. B. Text, Ganzzahl usw.), da die Datei andernfalls zurückgewiesen wird.
 
 1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
@@ -61,13 +61,11 @@ Es ist einfach, benutzerdefinierte Objektdaten in Ihre Datenbank zu importieren.
 
    >[!TIP]
    >
-   >Geben Sie Ihre E-Mail **[!UICONTROL Adresse in das Feld „Warnhinweis senden an]** ein. Marketo wird Ihnen eine E-Mail senden, wenn der Import abgeschlossen ist!
+   >Geben Sie in das Feld **[!UICONTROL Warnhinweis senden an]** Ihre E-Mail-Adresse ein. Marketo wird Ihnen eine E-Mail senden, sobald der Import abgeschlossen ist.
 
 1. In der rechten oberen Ecke des Bildschirms wird eine Benachrichtigung angezeigt, während der Import ausgeführt wird, und die endgültigen Ergebnisse werden angezeigt, wenn er abgeschlossen ist.
 
    ![](assets/import-custom-object-data-9.png)
-
-   Juhu!
 
 >[!MORELIKETHIS]
 >
