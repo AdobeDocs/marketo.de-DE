@@ -4,9 +4,9 @@ description: Fügen Sie zusätzliche Branding-Domains hinzu und weisen Sie bei d
 title: Hinzufügen einer zusätzlichen Branding-Domain mit Arbeitsbereichen
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '131'
 ht-degree: 13%
 
 ---
@@ -17,9 +17,9 @@ Wenn Sie über Arbeitsbereiche verfügen, können Sie zusätzliche Branding-Doma
 
 >[!PREREQUISITES]
 >
->Sie müssen [zuerst Ihre Standard-Branding-Domain &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
+>* [Standard-Branding-Domain bearbeiten](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
 >
->Sie müssen zunächst [&#x200B; generischen Tracking-Link durch &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) Branding-Domain ersetzen, bevor Sie weitere Branding-Domains hinzufügen.
+>* [Ersetzen Sie den generischen Tracking](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)Link durch eine Branding-Domain, bevor Sie weitere Branding-Domains hinzufügen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -39,7 +39,7 @@ Wenn Sie über Arbeitsbereiche verfügen, können Sie zusätzliche Branding-Doma
 
    >[!NOTE]
    >
-   >Sie können diese Domain zu Ihrer Primären Domain für einen oder mehrere Arbeitsbereiche machen. Alle bestehenden nicht gesendeten E-Mails werden auf „Standard“ gesetzt und alle neu erstellten E-Mails werden standardmäßig auf die primäre Domain gesetzt. Sie können dies für jede E-Mail überschreiben.
+   >Sie können diese Domain zu Ihrer primären Domain für einen oder mehrere Arbeitsbereiche machen. Alle vorhandenen nicht gesendeten E-Mails, die auf „Standard“ eingestellt sind, und alle neu erstellten E-Mails werden standardmäßig auf die primäre Domain gesetzt. Sie können dies für jede E-Mail überschreiben.
 
 1. Wählen Sie die neue Branding-Domain aus und klicken Sie auf **[!UICONTROL Speichern]**.
 

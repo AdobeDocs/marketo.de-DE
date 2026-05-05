@@ -3,9 +3,9 @@ description: Filtern oder protokollieren Sie die Bot-Aktivität von E-Mails, um 
 title: Filtern auf E-Mail-Bot-Aktivität
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '496'
 ht-degree: 11%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 11%
 
 Manchmal kann die E-Mail-Bot-Aktivität fälschlicherweise die Daten Ihrer E-Mail-Öffnungen und Klicks aufblähen. Gehen Sie wie folgt vor, um dieses Problem zu beheben.
 
-Wir verwenden zwei verschiedene Methoden zum Bestätigen der Bot-Aktivität:
+Zur Bestätigung einer Bot-Aktivität werden zwei unterschiedliche Methoden verwendet:
 
 * Übereinstimmung mit der [Interactive Advertising Bureau Bot List](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Aktivitäten, die mit irgendetwas auf der IAB UA/IP (User Agent/IP Address)-Liste übereinstimmen, werden als Bots markiert.
 * Übereinstimmung mit dem Übereinstimmungsmuster: Wenn zwei oder mehr Aktivitäten gleichzeitig stattfinden (in weniger als einer Sekunde), werden sie als Bots identifiziert. Beim Vergleich werden folgende Attribute berücksichtigt:
@@ -43,7 +43,7 @@ Für die Aktivität E-Mail-Link-Klick und E-Mail-Öffnen werden neue Attribute m
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Es stehen zwei Schieberegler zur Auswahl. Sie können nur ein oder beide aktivieren. Wenn Sie &quot;**[!UICONTROL mit IAB-Liste abgleichen]** aktivieren, wählen Sie aus, ob [!UICONTROL Bot-Aktivität &#x200B;] _oder_ [!UICONTROL Bot-Aktivität filtern].
+1. Es stehen zwei Schieberegler zur Auswahl. Sie können nur ein oder beide aktivieren. Wenn Sie &quot;**[!UICONTROL mit IAB-Liste abgleichen]** aktivieren, wählen Sie aus, ob [!UICONTROL Bot-Aktivität ] _oder_ [!UICONTROL Bot-Aktivität filtern].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
@@ -53,21 +53,21 @@ Für die Aktivität E-Mail-Link-Klick und E-Mail-Öffnen werden neue Attribute m
 
 >[!NOTE]
 >
->Wenn **Dauer zwischen Aktivitäten** auf 0 Sekunden eingestellt ist, identifizieren wir E-Mail-Aktivitäten, die genau in der gleichen Sekunde stattfinden. Wenn innerhalb der angegebenen Anzahl von Sekunden mehrere E-Mail-Aktivitäten auftreten, wird sie als Bot-Aktivität identifiziert.
+>Wenn **Dauer zwischen Aktivitäten** auf 0 Sekunden eingestellt ist, werden E-Mail-Aktivitäten als in genau der gleichen Sekunde auftretend identifiziert. Wenn innerhalb der angegebenen Anzahl von Sekunden mehrere E-Mail-Aktivitäten auftreten, werden sie als Bot-Aktivität identifiziert.
 
 >[!IMPORTANT]
 >
 >* Wenn Sie [!UICONTROL Bot-Aktivität filtern] auswählen, werden möglicherweise weniger E-Mail-Öffnungen und Klicks angezeigt, da falsche Aktivitäten entfernt werden.
 
-**OPTIONALER SCHRITT**: Um eine dieser Funktionen zu deaktivieren, heben Sie einfach die Auswahl des entsprechenden Schiebereglers auf. Andernfalls werden die Daten nicht zurückgesetzt.
+**OPTIONALER SCHRITT**: Um eine dieser Funktionen zu deaktivieren, heben Sie die Auswahl des entsprechenden Schiebereglers auf. Andernfalls werden die Daten nicht zurückgesetzt.
 
 >[!TIP]
 >
->Nutzen Sie Bot-Aktivitätsdaten in Smart Lists über den booleschen Wert „Ist Bot-Aktivität“ (ja/nein) und das „Bot-Aktivitätsmuster“ in den Filtern „Klickter Link in E-Mail“ und „E-Mail öffnen“ sowie die Trigger „Klicks auf Link in E-Mail“ und „Öffnet E-Mail“.
+>Verwenden Sie Bot-Aktivitätsdaten in Smart Lists über den booleschen Wert „Ist Bot-Aktivität“ (ja/nein) und das „Bot-Aktivitätsmuster“ in den Filtern „Klicks auf Link in E-Mail“ und „E-Mail öffnen“ sowie in den Triggern „Klicks auf Link in E-Mail“ und „Öffnet E-Mail“.
 
 ## IP-Blockierungsliste {#ip-blocklist}
 
-Wir haben eine Liste von IP-Adressen zusammengestellt, die für die Generierung von Millionen von gefälschten Interaktionen verantwortlich sind, da solche Interaktionen, die von einer der folgenden IPs empfangen werden, automatisch herausgefiltert und nicht zu Ihrer Marketo Engage-Instanz hinzugefügt werden. Dies kann zu einer Verringerung der E-Mail-Öffnungen, Klicks und anderer damit verbundener Aktivitäten führen. Die nachstehende Liste kann regelmäßig aktualisiert werden.
+Marketo hat eine Liste von IP-Adressen zusammengestellt, die für die Generierung von Millionen von gefälschten Interaktionen verantwortlich sind. Daher werden alle Interaktionen, die von den folgenden IPs empfangen werden, automatisch herausgefiltert und nicht zu Ihrem Marketo Engage-Abonnement hinzugefügt. Dies kann zu einer Verringerung der E-Mail-Öffnungen, Klicks und anderer damit verbundener Aktivitäten führen. Die nachstehende Liste kann regelmäßig aktualisiert werden.
 
 * 40.94.34.52
 * 40.94.34.86
@@ -123,4 +123,4 @@ Wir haben eine Liste von IP-Adressen zusammengestellt, die für die Generierung 
 
 >[!NOTE]
 >
->Wir analysieren und prüfen jede IP-Adresse sorgfältig, bevor wir sie dieser Liste hinzufügen, um sicherzustellen, dass nur die kritischsten und schädlichsten IP-Adressen blockiert werden.
+>Jede IP-Adresse wird sorgfältig geprüft, bevor sie dieser Liste hinzugefügt wird, um sicherzustellen, dass nur die schädlichsten IPs blockiert werden.

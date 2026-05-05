@@ -4,16 +4,16 @@ description: Legen Sie die Standardwerte für „Von E-Mail“ und „Von Kennze
 title: Ändern der Standardbeschriftungen „Von E-Mail“ und „Von“
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '111'
 ht-degree: 18%
 
 ---
 
 # Ändern der Standardbeschriftungen „Von E-Mail“ und „Von“ {#change-the-default-from-email-and-from-label}
 
-Jeder Admin-Benutzer kann die Standardwerte für &quot;**[!UICONTROL -E-Mail]** und &quot;**[!UICONTROL -Label“]**, sodass beim Erstellen neuer E-Mails diese Standardwerte verwendet werden.
+Jeder Admin-Benutzer kann die Standardwerte für **[!UICONTROL Von E-Mail]** und **[!UICONTROL Von Kennzeichnung]** ändern, sodass beim Erstellen neuer E-Mails diese Standardwerte verwendet werden.
 
 >[!NOTE]
 >
@@ -35,4 +35,4 @@ Jeder Admin-Benutzer kann die Standardwerte für &quot;**[!UICONTROL -E-Mail]** 
 >
 >Die Änderung gilt nur für Sie und nicht für andere Marketo-Benutzende.
 
-Gute Arbeit! Jedes Mal, wenn Sie eine neue E-Mail erstellen, werden die von Ihnen festgelegten Standardwerte verwendet.
+Jedes Mal, wenn Sie eine neue E-Mail erstellen, werden die von Ihnen festgelegten Standardwerte verwendet.

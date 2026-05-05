@@ -4,16 +4,16 @@ description: Legen Sie für E-Mails einen Grenzwert von pro Tag und pro sieben T
 title: Aktivieren von Kommunikationsbeschränkungen
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 7%
 
 ---
 
 # Aktivieren von Kommunikationsbeschränkungen {#enable-communication-limits}
 
-Es ist sehr wichtig, mit seinen Leuten nicht zu viel zu kommunizieren. Das Festlegen von Kommunikationsbeschränkungen verhindert, dass Ihr Unternehmen zu viele E-Mails sendet.
+Es ist wichtig, nicht zu viel mit seinen Leuten zu kommunizieren. Das Festlegen von Kommunikationsbeschränkungen verhindert, dass Ihr Unternehmen zu viele E-Mails sendet.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Es ist sehr wichtig, mit seinen Leuten nicht zu viel zu kommunizieren. Das Festl
    >
    >[!UICONTROL Pro Tag] basiert auf dem Kalendertag in der Zeitzone des Abonnements (Mitternacht-Mitternacht).
 
-1. Klicken Sie auf **[!UICONTROL pro Tag]** und wählen Sie das gewünschte Limit aus. In diesem Beispiel wählen wir 1.
+1. Klicken Sie auf **[!UICONTROL pro Tag]** und wählen Sie das gewünschte Limit aus. In diesem Beispiel wird 1 verwendet.
 
    ![](assets/enable-communication-limits-4.png)
 
@@ -43,7 +43,7 @@ Es ist sehr wichtig, mit seinen Leuten nicht zu viel zu kommunizieren. Das Festl
    >
    >Sie können auch **[!UICONTROL Benutzerdefiniert]** auswählen, wenn keine der voreingestellten Optionen für Sie funktioniert.
 
-1. Klicken Sie auf **[!UICONTROL Dropdown-Liste Pro 7]** und wählen Sie das gewünschte Limit aus. In diesem Beispiel wählen wir 5.
+1. Klicken Sie auf **[!UICONTROL Dropdown-Liste Pro 7]** und wählen Sie das gewünschte Limit aus. In diesem Beispiel wird 5 verwendet.
 
    ![](assets/enable-communication-limits-5.png)
 
@@ -63,7 +63,7 @@ Es ist sehr wichtig, mit seinen Leuten nicht zu viel zu kommunizieren. Das Festl
    >
    >**Beispiel**
    >
-   >Die oben genannten Einstellungen bedeuten, dass Personen nicht mehr als **E-Mail pro Tag** oder mehr als **5 in einem Zeitraum von sieben Tagen erhalten**.
+   >Die oben genannten Einstellungen bedeuten, dass Personen nicht mehr als **1 E-Mail pro Tag** mehr als **5 in einem Zeitraum von sieben Tagen erhalten**.
 
    >[!NOTE]
    >

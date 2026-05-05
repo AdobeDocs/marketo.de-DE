@@ -4,9 +4,9 @@ title: Interaktionswerkzeuge in interaktiven Webinaren
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '1280'
+source-wordcount: '1285'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ SCREENSHOT
 
 Dateien
 
-Der Dateien-Pod wird verwendet, um herunterladbare Inhalte freizugeben. Dies kann verwendet werden, um Produkt-Whitepapers, Fallstudien, Präsentationen, Videos usw. zu teilen. mit Teilnehmern. Dateien können hinzugefügt werden, indem Sie auf die Schaltfläche mit dem Pluszeichen klicken oder Dateien per Drag-and-Drop direkt in den Pod ziehen. Weitere Informationen zum Dateien-Pod finden Sie in diesem Video .
+Der Dateien-Pod wird verwendet, um herunterladbare Inhalte freizugeben. Dies kann verwendet werden, um Produkt-Whitepapers, Fallstudien, Präsentationen, Videos usw. mit Teilnehmern zu teilen. Dateien können hinzugefügt werden, indem Sie auf die Schaltfläche mit dem Pluszeichen klicken oder Dateien per Drag-and-Drop direkt in den Pod ziehen. Weitere Informationen zum Dateien-Pod finden Sie in diesem Video .
 
 SCREENSHOT
 

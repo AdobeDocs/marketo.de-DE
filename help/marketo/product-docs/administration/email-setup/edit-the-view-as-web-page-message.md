@@ -4,16 +4,16 @@ description: Passen Sie den Link Als Web-Seite anzeigen und HTML in der Admin-E-
 title: Bearbeiten der Nachricht „Als Web-Seite anzeigen“
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 13%
+source-wordcount: '182'
+ht-degree: 24%
 
 ---
 
 # Bearbeiten der Nachricht „Als Web-Seite anzeigen“ {#edit-the-view-as-web-page-message}
 
-Wenn Sie den Text &quot;[&#x200B; als Web-Seite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) bearbeiten müssen, sehen Sie folgendes:
+Erfahren Sie, wie Sie den Text [Als Web-Seite anzeigen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) bearbeiten.
 
 >[!NOTE]
 >
@@ -35,9 +35,9 @@ Wenn Sie den Text &quot;[&#x200B; als Web-Seite anzeigen](/help/marketo/product-
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >Der zweite Teil `##MKT_TOK##` ist der [!UICONTROL -]-Keks dieser Person. Dadurch wird sichergestellt, dass sie beim Klicken auf den Link entsprechend gecoacht werden.
+   >Der zweite Teil `##MKT_TOK##` ist das [!UICONTROL Munchkin]-Cookie dieser Person. Dadurch wird sichergestellt, dass sie beim Klicken auf den Link entsprechend verfolgt werden.
 
-1. HTML Bearbeiten Sie die Versionen **[!UICONTROL Als Web-Seite anzeigen]** und **[!UICONTROL Als Web-]** anzeigen nach Ihren Wünschen und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
+1. Bearbeiten Sie die Versionen **[!UICONTROL Als Web-Seite anzeigen]** und **[!UICONTROL Als Web-]** anzeigen nach Ihren Wünschen und klicken Sie auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -48,11 +48,11 @@ Wenn Sie den Text &quot;[&#x200B; als Web-Seite anzeigen](/help/marketo/product-
 >* Hinzufügen zusätzlicher URLs zu einem der HTML-Felder
 >* Einbetten von HTML in die Textversion
 
-Da haben Sie es. Senden Sie Test-E-Mails, um die Formatierung sicherzustellen.
+Senden Sie Test-E-Mails, um die Formatierung zu überprüfen.
 
 ## Standardtext „Als Web-Seite anzeigen“ {#default-view-as-web-page-text}
 
-Wenn Sie jemals zum Standardsystem „Als Web-Seite anzeigen[!UICONTROL &#x200B; zurückkehren müssen] kopieren Sie Folgendes:
+Wenn Sie jemals zum Standardsystem „Als Web-Seite anzeigen[!UICONTROL  zurückkehren müssen] kopieren Sie Folgendes:
 
 **[!UICONTROL Als Webseite anzeigen HTML]**:
 
@@ -62,5 +62,3 @@ Wenn Sie jemals zum Standardsystem „Als Web-Seite anzeigen[!UICONTROL &#x200B;
 
 Um diese E-Mail als Web-Seite anzuzeigen, gehen Sie zu der folgenden Adresse:
 `%mkt_webview_url%?mkt_tok=##MKT_TOK##`
-
-Das war&#39;s!

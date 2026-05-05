@@ -4,10 +4,10 @@ description: Ändern des Standardtextes zum Abmelden und der Links, die an Marke
 title: Bearbeiten der Abmeldenachricht
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 10%
+source-wordcount: '140'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 >
 >**Admin-Berechtigungen erforderlich**
 
-Beim Versand von Marketing-E-Mails ([operationell](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)) werden Text und Links zur Abmeldung unten angehängt. Sie können die Standardeinstellungen ändern. Und so geht das.
+Beim Versand von Marketing-E-Mails ([operationell](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)) werden Text und Links zur Abmeldung unten angehängt. Sie können die Standardeinstellungen ändern.
 
 ## Wo die Bearbeitung vorgenommen werden soll {#where-to-make-the-edit}
 
@@ -40,18 +40,20 @@ Beim Versand von Marketing-E-Mails ([operationell](/help/marketo/product-docs/em
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
-   Da haben Sie es. _Stellen Sie sicher, zu testen!_ Sie möchten nicht, dass Ihre Marketing-E-Mails fehlerhafte Abmelde-Links enthalten.
-
 >[!TIP]
 >
->Sie können die Abmeldeposition von HTML in Ihrer E-Mail mit „Token[&#x200B; anpassen](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>* Denkt daran zu testen. Sie möchten nicht, dass Ihre Marketing-E-Mails fehlerhafte Abmelde-Links enthalten.
+>
+>* Sie können die Abmeldeposition von HTML in Ihrer E-Mail mit „Token[ anpassen](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Standardtext zur Abmeldung {#default-unsubscribe-text}
 
-Wenn Sie jemals zum Standardsystem zurückkehren müssen, um das Abonnement zu kündigen, kopieren Sie Folgendes:
+Wenn Sie jemals zur standardmäßigen Abmelde-Nachricht des Systems zurückkehren müssen, kopieren Sie Folgendes:
 
 [!UICONTROL HTML abmelden]:
-`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL Text zum Abmelden]:
+`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>`
+<br>
+[!UICONTROL Text zum Abmelden]:
 `%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 >[!MORELIKETHIS]

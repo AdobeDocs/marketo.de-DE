@@ -4,10 +4,10 @@ description: Verwenden Sie dynamische Inhalte und Segmentierung , um die Abmelde
 title: Dynamisches Gestalten Ihrer Abmeldenachricht für Sprachen
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 7%
+source-wordcount: '472'
+ht-degree: 8%
 
 ---
 
@@ -17,11 +17,11 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
 >[!NOTE]
 >
->Dieser Artikel stellt eine Best Practice dar, kann aber auch auf andere Weise erreicht werden.
+>Dieser Artikel stellt eine Best Practice dar, kann jedoch auch auf andere Weise erreicht werden.
 
 ## Daten vorbereiten {#prepare-your-data}
 
-1. [Erstellen Sie ein benutzerdefiniertes Feld &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) dem Namen „Bevorzugte Sprache“. (Richten Sie es in Ihrem CRM ein, wenn Sie dieses Feld synchronisieren möchten).
+1. [Erstellen Sie ein benutzerdefiniertes Feld ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) dem Namen „Bevorzugte Sprache“. (Richten Sie es in Ihrem CRM ein, wenn Sie dieses Feld synchronisieren möchten).
 
    >[!TIP]
    >
@@ -53,7 +53,7 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Navigieren Sie zur Registerkarte **[!UICONTROL Smart-Liste]**. Geben Sie **[!UICONTROL Bevorzugte Sprache]** in das Suchfeld ein. Ziehen Sie den Filter auf die Arbeitsfläche.
+1. Gehen Sie zur Registerkarte **[!UICONTROL Intelligente Liste]**. Geben Sie **[!UICONTROL Bevorzugte Sprache]** in das Suchfeld ein. Ziehen Sie den Filter auf die Arbeitsfläche.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -71,7 +71,7 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. Klicken Sie im Dropdown **[!UICONTROL Neu]** auf **[!UICONTROL Neues Snippet]**.
+1. Klicken Sie in der **[!UICONTROL Neu]** Dropdown-Liste auf **[!UICONTROL Neues Snippet]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
@@ -87,7 +87,7 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. Wählen **[!UICONTROL Abschnitt]** Segmentierung **[!UICONTROL die Option „Segment nach]** aus.
+1. Wählen **[!UICONTROL Abschnitt**[!UICONTROL  Segmentierung ]**die Option „Segment nach]** aus.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
@@ -95,7 +95,7 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Wählen Sie ein Segment aus der Baumstruktur aus. Klicken Sie auf Ihr Abo kündigen und dann auf das Link-Symbol.
+1. Wählen Sie ein Segment aus der Baumstruktur aus. Klicken Sie auf den Abmeldetext und dann auf das Link-Symbol.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
@@ -107,9 +107,7 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-Fantastisch. Fast da!
-
-## Snippet in einer E-Mail verwenden {#use-snippet-in-an-email}
+## Verwenden eines Ausschnitts in einer E-Mail {#use-a-snippet-in-an-email}
 
 1. Klicken Sie im E-Mail-Editor auf das bearbeitbare Element. Klicken Sie dann auf das Zahnradsymbol und wählen Sie **[!UICONTROL Ersetzen durch Snippet]** aus. Wenn Sie ein bearbeitbares Snippet-Element auswählen, klicken Sie auf das Zahnradsymbol und wählen Sie **[!UICONTROL Bearbeiten]** aus.
 
@@ -133,9 +131,9 @@ Fantastisch. Fast da!
 
    >[!TIP]
    >
-   >Natürlich können Sie auch den Rest Ihrer E-Mail für dynamische Sprachen bearbeiten. Führen Sie, während Sie dabei sind, dieselbe Technik auf der Seite zum Abmelden aus.
+   >Sie können den Rest Ihrer E-Mail auch für dynamische Sprachen bearbeiten. Verwenden Sie dieselbe Methode auf der Abmeldeseite.
 
-## Abmeldeseite mit dynamischen Inhalten anpassen {#customizing-your-unsubscribe-page-with-dynamic-content}
+## Anpassen der Abmeldeseite mit dynamischen Inhalten {#customize-your-unsubscribe-page-with-dynamic-content}
 
 Wenn Sie möchten, dass Ihre Besucher auf eine Abmeldeseite in ihrer bevorzugten Sprache kommen, können Sie dynamische Inhalte auf der Landingpage und der Bestätigungsseite verwenden.
 
@@ -159,8 +157,6 @@ Wenn Sie möchten, dass Ihre Besucher auf eine Abmeldeseite in ihrer bevorzugten
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   Bearbeiten Sie Ihre Inhalte für jede Landingpage, genehmigen Sie sie, und schon können Sie loslegen!
-
    >[!NOTE]
    >
-   >Erfahren Sie mehr über [dynamische Inhalte](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) und all die coolen Dinge, die Sie tun können.
+   >Weitere Informationen zu [dynamischen Inhalten](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md).
