@@ -31,7 +31,7 @@ Erfahren Sie, wie Sie Ihre benutzerdefinierte Aktivität veröffentlichen.
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Der „Status[!UICONTROL  der benutzerdefinierten Aktivität ändert ] von [!UICONTROL Entwurf]…
+   Der „Status[!UICONTROL &#x200B; der benutzerdefinierten Aktivität ändert &#x200B;] von [!UICONTROL Entwurf]…
 
    ![](assets/publish-a-custom-activity-5.png)
 

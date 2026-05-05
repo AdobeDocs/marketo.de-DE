@@ -29,7 +29,7 @@ Mithilfe benutzerdefinierter Aktivitäten können Sie eine Aktivität verfolgen,
 
 ## Felder {#fields}
 
-Sie können &quot;[ Felder“ hinzufügen](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) die Sie mit Ihrer Aktivität verknüpfen möchten. Wie das primäre Feld können sie als Filterkriterien in einer Smart-Liste verwendet werden.
+Sie können &quot;[&#x200B; Felder“ hinzufügen](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) die Sie mit Ihrer Aktivität verknüpfen möchten. Wie das primäre Feld können sie als Filterkriterien in einer Smart-Liste verwendet werden.
 
 ## Erste Schritte {#getting-started}
 
