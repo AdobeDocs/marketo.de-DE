@@ -3,9 +3,9 @@ description: Anpassen von HTTP-Kopfzeilen für Landingpage-Domains, einschließl
 title: Header der Landingpage
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---
@@ -37,7 +37,7 @@ Gehen Sie wie folgt vor, um einige HTTP-Kopfzeilen in den Domains Ihrer Landingp
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>Ermöglicht die Definition, ob in Marketo Engage gehostete Assets in externe Web-Seiten eingebettet werden können</td>
+  <td>Ermöglicht die Definition, ob in Marketo Engage gehostete Assets in externe Webseiten eingebettet werden können</td>
  </tr>
 </table>
 

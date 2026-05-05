@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '622'
 ht-degree: 2%
 
 ---
@@ -42,7 +42,7 @@ Aktivitätstypen umfassen sowohl die Anzahl der Aktivitäten, die erfasst werden
 
 **Welche Aktivitätstypen werden gezählt?**
 
-Es hängt davon ab, welche Aktivitäten in der Pipeline enthalten sind.
+Sie hängt davon ab, welche Aktivitäten in der Pipeline enthalten sind.
 
 **Sind sowohl bekannte als auch anonyme Personen-/Lead-Aktivitäten enthalten?**
 
@@ -54,15 +54,15 @@ Aktivitätszähler werden jeden Morgen aktualisiert.
 
 ## Aktivitätsverteilung {#activity-breakdown}
 
-Hier erhalten wir Zahlen der Aktivitäten der letzten sieben Tage basierend auf aussagekräftigen Teilen der Daten. Gruppieren Sie Aktivitäten nach den häufigsten Aktivitätstypen der letzten sieben Tage. Dies kann Kategorien wie _Datenwert ändern_, _Zu Liste hinzufügen_ oder _E-Mail senden_ umfassen. Auf diese Weise können Sie sehen, welche Aktivitäten im System am häufigsten ausgeführt werden. Die Verwendung des Aktivitätstyps ist ein wichtiger Indikator für die Bestimmung des Wachstums oder für den Fall, dass Optimierungen zur Verringerung der Nutzung erforderlich sind.
+In diesem Abschnitt finden Sie Zahlen zu den Aktivitäten der letzten sieben Tage, basierend auf aussagekräftigen Teilen der Daten. Gruppieren Sie Aktivitäten nach den häufigsten Aktivitätstypen der letzten sieben Tage. Dies kann Kategorien wie _Datenwert ändern_, _Zu Liste hinzufügen_ oder _E-Mail senden_ umfassen. Auf diese Weise können Sie sehen, welche Aktivitäten im System am häufigsten ausgeführt werden. Die Verwendung des Aktivitätstyps ist ein wichtiger Indikator für die Bestimmung des Wachstums oder für den Fall, dass Optimierungen zur Verringerung der Nutzung erforderlich sind.
 
 >[!NOTE]
 >
->* Bei allen unten aufgeführten Aufschlüsselungen handelt es sich um eine rollierende 7-Tage-Summe, bei der **nicht** den aktuellen Tag eingeschlossen ist. Stellen Sie es sich also wie „Gestern + sechs Tage davor“ vor.
+>* Bei allen unten aufgeführten Aufschlüsselungen handelt es sich um eine rollierende 7-Tage-Summe, bei der **nicht** den aktuellen Tag eingeschlossen ist. Betrachten Sie es als „gestern + sechs Tage davor“.
 >
 >* Das Dashboard zeigt nur die 20 wichtigsten Aktivitätstypen an, während die übrigen in eine Kategorie mit dem Titel „Sonstige“ sortiert sind.
 
-Die Aktivitätsnutzung zeigt an, wie viel Marketing durchgeführt wird, und hilft, das Wachstum anhand der für die vertraglich vereinbarte Produktebene identifizierten Produkte zu visualisieren. Dashboards können auch als Anleitung verwendet werden, um zu bestimmen, wie viel Optimierung durch Reduzieren der zu aktualisierenden Felder durchgeführt werden kann/sollte.
+Die Aktivitätsnutzung zeigt an, wie viel Marketing durchgeführt wird, und hilft, das Wachstum anhand der für die vertraglich vereinbarte Produktebene identifizierten Produkte zu visualisieren. Dashboards können auch als Anleitung verwendet werden, um zu bestimmen, wie viel Optimierung durch Reduzieren der zu aktualisierenden Felder durchgeführt werden kann oder sollte.
 
 ### Nach Typ {#by-type}
 
@@ -70,8 +70,8 @@ Gruppieren Sie Aktivitäten nach den häufigsten Aktivitätstypen der letzten si
 
 ### Durch Datenwertattribut ändern {#by-change-data-value-attribute}
 
-_Datenwert ändern_ ist der häufigste Aktivitätstyp. Es zeigt an, wann eine Information zu einem Personen-/Lead-Datensatz aktualisiert wird. Hier gruppieren wir nach den Feldern, die am häufigsten geändert werden, damit Sie feststellen können, welche Informationen für Ihre Marketing-Vorgänge nützlich sind, ob Möglichkeiten zur Optimierung der Plattformnutzung vorhanden sind usw.
+_Datenwert ändern_ ist der häufigste Aktivitätstyp. Es zeigt an, wann eine Information zu einem Personen-/Lead-Datensatz aktualisiert wird. Gruppieren Sie nach den Feldern, die am häufigsten geändert werden, um zu bestimmen, welche Informationen für Ihre Marketing-Vorgänge nützlich sind und ob es Möglichkeiten gibt, die Platform-Nutzung zu optimieren.
 
 ### Nach Kampagne {#by-campaign}
 
-Gruppe, nach der die Kampagnen die meisten Aktivitäten produzieren. Auf diese Weise können Sie sehen, ob besonders laute Kampagnen vorhanden sind, die mehr Aktivität als nötig erzeugen. Schnelles Erfahren Sie mehr über Kampagnen, die eingestellt werden sollten, oder über Kampagnen, die mehr Arbeit leisten als beabsichtigt.
+Gruppe, nach der die Kampagnen die meisten Aktivitäten produzieren. Auf diese Weise können Sie sehen, ob besonders laute Kampagnen vorhanden sind, die mehr Aktivität als nötig erzeugen. Erfahren Sie mehr über Kampagnen, die eingestellt werden sollten, oder über Kampagnen, die mehr Arbeit leisten als beabsichtigt.

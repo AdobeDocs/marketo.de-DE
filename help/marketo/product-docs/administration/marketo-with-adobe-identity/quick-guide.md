@@ -3,10 +3,10 @@ description: Kurzanleitung mit Links zum Einrichten von Marketo Engage mit Adobe
 title: Kurzanleitung
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 81%
+source-wordcount: '135'
+ht-degree: 69%
 
 ---
 
@@ -20,16 +20,15 @@ Erstellung von Produktprofil und Produktadmin.
 
 [Erstellen eines Produktprofils](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
 
-[Hinzufügen eines Produktadmins](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
+[Hinzufügen eines Produktadministrators](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
 
 ## Benutzerverwaltung {#user-management}
 
-Hinzufügen und Entfernen von Benutzenden. Abgeschlossen vom Produktadmin (oder System-
-Admin).
+Hinzufügen und Entfernen von Benutzern. Abgeschlossen vom Produktadmin (oder System- Admin).
 
-[Hinzufügen einer Benutzerin bzw. eines Benutzers](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}
+[Benutzer hinzufügen](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
-[Entfernen einer Benutzerin bzw. eines Benutzers](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user){target="_blank"}
+[Benutzer entfernen](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
 ## Nur-API-Benutzende in Marketo Engage {#api-only-user-in-marketo-engage}
 
@@ -39,7 +38,7 @@ Nur-API-Benutzende von Marketo Engage müssen in Marketo Engage erstellt und ver
 
 ## Hinzufügen von Benutzenden über CSV {#add-users-via-csv}
 
-[Importieren von CSV](https://helpx.adobe.com/de/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[CSV importieren](https://helpx.adobe.com/de/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Benutzeranmeldung {#user-sign-in}
 

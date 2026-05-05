@@ -4,7 +4,7 @@ description: Wie man experimentelle Treasure Chest-Funktionen ein- oder ausschal
 title: Aktivieren oder Deaktivieren von Schatzkisten-Funktionen
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 17%
@@ -13,7 +13,7 @@ ht-degree: 17%
 
 # Aktivieren oder Deaktivieren von Schatzkisten-Funktionen {#enable-or-disable-treasure-chest-features}
 
-Die Schatzkiste enthält lustige experimentelle Funktionen, die nicht vollständig unterstützt werden.
+Die Schatztruhe enthält experimentelle Funktionen, die nicht vollständig unterstützt werden.
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ Die Schatzkiste enthält lustige experimentelle Funktionen, die nicht vollständ
 
    >[!TIP]
    >
-   >Sie müssen sich möglicherweise abmelden und dann wieder bei Marketo anmelden, damit die Änderungen wirksam werden.
+   >Sie müssen sich möglicherweise ab- und wieder bei Marketo anmelden, damit die Änderungen wirksam werden.

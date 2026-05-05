@@ -3,20 +3,20 @@ description: Überprüfen der Kapazitätsauslastung der Bulk-Extract-API in den 
 title: Informationen zur Massenexport-API
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 7%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
 # Informationen zur Massenexport-API {#bulk-export-api-information}
 
-Erfahren Sie, wie Sie überprüfen können[&#x200B; wie viel Kapazität (](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-API) Ihre Marketo Engage-Instanz in den letzten sieben Tagen in Anspruch genommen hat.
+Erfahren Sie, wie Sie überprüfen können[ wie viel Kapazität (](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-API) Ihre Marketo Engage-Instanz in den letzten sieben Tagen in Anspruch genommen hat.
 
 >[!NOTE]
 >
->Wenn Sie zusätzliche Kapazität benötigen, wenden Sie sich bitte an Ihren Kundenbetreuer.
+>Wenn Sie zusätzliche Kapazität benötigen, wenden Sie sich an Ihren Kundenbetreuer.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 

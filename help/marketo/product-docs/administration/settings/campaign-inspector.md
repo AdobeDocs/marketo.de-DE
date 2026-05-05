@@ -3,16 +3,16 @@ description: Erfahren Sie, wie Sie den Kampagnen-Inspektor von aktivieren und ve
 title: Kampagnenprüfung
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 3%
+source-wordcount: '134'
+ht-degree: 2%
 
 ---
 
 # Kampagnenprüfung {#campaign-inspector}
 
-Mit dem Kampagnen-Inspektor können Sie alle Ihre Smart-Kampagnen an einem Ort anzeigen/durchsuchen.
+Mit dem Kampagnen-Inspektor können Sie alle Ihre Smart-Kampagnen an einem Ort anzeigen und durchsuchen.
 
 ## Campaign Inspector aktivieren {#enable-campaign-inspector}
 
@@ -34,7 +34,7 @@ Mit dem Kampagnen-Inspektor können Sie alle Ihre Smart-Kampagnen an einem Ort a
 
    >[!NOTE]
    >
-   >Der gewünschte Arbeitsbereich muss in der Baumstruktur ausgewählt werden, damit die Registerkarte „Campaign-Inspektor“ nach der Aktivierung angezeigt werden kann.
+   >Der gewünschte Arbeitsbereich muss in der Baumstruktur ausgewählt werden, damit die Registerkarte Campaign-Inspektor angezeigt wird, nachdem sie aktiviert wurde.
 
 ## Campaign Inspector verwenden {#using-campaign-inspector}
 

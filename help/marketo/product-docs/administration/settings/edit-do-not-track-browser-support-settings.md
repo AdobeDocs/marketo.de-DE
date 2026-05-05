@@ -4,9 +4,9 @@ description: Berücksichtigen oder Ignorieren der Browser-Anfrage „Do Not Trac
 title: Bearbeiten der Browser-Support-Einstellungen „Nicht nachverfolgen“
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '138'
 ht-degree: 12%
 
 ---
@@ -39,13 +39,13 @@ ht-degree: 12%
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
-   Nachdem Sie die Änderungen gespeichert haben, wird die Aktualisierung angezeigt.
+   Nach dem Speichern der Änderungen wird die Aktualisierung angezeigt.
 
    ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >
-   >Best Practice ist es, die Funktion „Do Not Track“ zu unterstützen. In Europa ist es das Gesetz!
+   >Best Practice ist es, die Funktion „Do Not Track“ zu unterstützen. In Europa ist es das Gesetz.
 
    >[!TIP]
    >

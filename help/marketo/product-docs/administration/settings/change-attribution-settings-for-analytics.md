@@ -4,9 +4,9 @@ description: Wie Sie in der Umsatzzyklusanalyse Optionen für Erstkontakt- und M
 title: Ändern der Attributionseinstellungen für Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '200'
 ht-degree: 5%
 
 ---
@@ -31,7 +31,7 @@ Diese Einstellungen wirken sich auf [!UICONTROL Umsatz-Explorer] Berichte in den
 
    >[!TIP]
    >
-   >Wenn Sie diese Einstellung ändern, werden keine Marketo-Daten geändert, sondern lediglich die Ausführung Ihrer Berichte. Dies kann jederzeit rückgängig gemacht werden.
+   >Durch Ändern dieser Einstellung werden keine Marketo-Daten geändert. Vielmehr ändert sich dadurch die Ausführung Ihrer Berichte. Dies kann jederzeit rückgängig gemacht werden.
 
 1. Wählen Sie eine Option aus und klicken Sie auf **[!UICONTROL Speichern]**.
 

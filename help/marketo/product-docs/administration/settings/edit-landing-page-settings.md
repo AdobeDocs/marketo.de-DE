@@ -4,16 +4,16 @@ description: Anleitung zum Bearbeiten von Domain-Namen, Fallback-Seite, vorausge
 title: Bearbeiten der Landingpage-Einstellungen
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '236'
 ht-degree: 7%
 
 ---
 
 # Bearbeiten der Landingpage-Einstellungen {#edit-landing-page-settings}
 
-Sie können Ihren Domain-Namen und die Fallback-Seite bearbeiten, das Vorbefüllen von Formularen aktivieren oder deaktivieren, einen Missbrauch Ihrer Landingpage verhindern und vieles mehr. Und so geht das.
+Sie können Ihren Domain-Namen und die Fallback-Seite bearbeiten, das Vorbefüllen von Formularen aktivieren oder deaktivieren, einen Missbrauch Ihrer Landingpage verhindern und vieles mehr. Gehen Sie wie folgt vor.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Sie können Ihren Domain-Namen und die Fallback-Seite bearbeiten, das Vorbefüll
 
    | Begriff | Definition |
    |---|---|
-   | [!UICONTROL Domain-Name für Landingpages] | Dies ist Ihr CNAME. Ein CNAME ist der erste Teil der URL, die Sie Personen für Landingpages geben. In `https://go.yourCompany.com` ist beispielsweise das Wort „go“ der CNAME. Man kann mehrere haben, aber die meisten Leute benutzen nur den einen. |
+   | [!UICONTROL Domain-Name für Landingpages] | Dies ist Ihr CNAME. Ein CNAME ist der erste Teil der URL, die Sie Personen für Landingpages geben. In `https://go.yourCompany.com` ist beispielsweise das Wort „go“ der CNAME. Man kann mehrere haben, aber die meisten Leute benutzen nur eine. |
    | [!UICONTROL Fallback-Seite] | Hier geht es, wenn die Landingpage nicht vorhanden oder ausgefallen ist. Weitere Informationen zu [Fallback-Seiten](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Startseite] | Geben Sie die URL Ihrer Unternehmens-Site ein. |
 
@@ -55,4 +55,4 @@ Sie können Ihren Domain-Namen und die Fallback-Seite bearbeiten, das Vorbefüll
 
    ![](assets/edit-landing-page-settings-6.png)
 
-   Gut gemacht! Ihre Landingpages verfügen jetzt über die richtigen Informationen und sollten sofort mit der Arbeit beginnen.
+   Ihre Landingpages verfügen jetzt über die richtigen Informationen und sollten sofort funktionieren.

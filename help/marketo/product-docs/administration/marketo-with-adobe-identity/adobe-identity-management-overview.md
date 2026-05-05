@@ -3,10 +3,10 @@ description: Überblick über Adobe Identity Management für Marketo Engage, ein
 title: Überblick über Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ Für Abonnements, die in Adobe Identity integriert sind, wird die Adobe Admin Co
 
 >[!NOTE]
 >
->Wenn Sie Single Sign-On implementieren möchten und Ihr Abonnement in Adobe Identity integriert wurde, ohne dass SSO in der Adobe-Organisation implementiert ist, senden Sie ein Ticket an den [Marketo-Support](https://nation.marketo.com/){target="_blank"} und geben Sie das Thema als &quot;Marketo auf Admin Console, SSO implementieren“ an.
+>Wenn Sie Single Sign-On implementieren möchten und Ihr Abonnement in Adobe Identity integriert wurde, ohne dass SSO in der Adobe-Organisation implementiert ist, senden Sie ein Ticket an den [Marketo-Support](https://nation.marketo.com/){target="_blank"} und geben Sie das Thema als &quot;Marketo auf Admin Console, Implementierung von SSO“ an.
 
 ## Profilebenen {#profile-levels}
 
@@ -43,7 +43,7 @@ In das Adobe Identity Management-System integrierte Adobe Marketo Engage-Abonnem
  </tr>
  <tr>
   <td><strong>Marketo Engage Admin</strong></td>
-  <td>Eine Person, die Zugriff auf Marketo Engage mit Administratorrechten erhalten hat. Zugewiesene Rolle in Marketo Engage, nicht in Adobe Admin Console (wird im Modal <b>Benutzer bearbeiten</b> nur als „Admin“ angezeigt).</td>
+  <td>Eine Person, die Zugriff auf Marketo Engage mit Administratorrechten erhalten hat. Zugewiesene Rolle in Marketo Engage, nicht in Adobe Admin Console (wird nur als „Admin“ im Modal <b>Benutzer bearbeiten</b> angezeigt).</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage-Benutzer</strong></td>

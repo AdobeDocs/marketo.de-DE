@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359900
-description: Hardware- und Softwareanforderungen für die Verwendung von Marketo Engage auf die Zulassungsliste setzen, einschließlich Betriebssystem, Anzeigeauflösung, Browser und Netzwerkverbindungsdetails.
+description: Hardware- und Softwareanforderungen für die Verwendung von Marketo Engage, einschließlich Betriebssystem, Anzeigeauflösung, Browser und Netzwerkverbindungsdetails.
 title: Systemanforderungen
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '109'
 ht-degree: 5%
 
 ---
 
 # Systemanforderungen {#minimum-system-requirements}
 
-Wenn Sie sich fragen, was Sie anmelden und Marketo Engage verwenden müssen, finden Sie hier die gewünschten Informationen.
+Wenn Sie sich fragen, was Sie anmelden und Marketo Engage verwenden müssen, hier finden Sie die gewünschten Informationen.
 
 >[!NOTE]
 >

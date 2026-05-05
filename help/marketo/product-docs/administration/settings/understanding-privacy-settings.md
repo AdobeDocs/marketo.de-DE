@@ -4,9 +4,9 @@ description: Übersicht über Datenschutz- und Tracking-Optionen, einschließlic
 title: Grundlegendes zu Datenschutzeinstellungen
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Marketo bietet Marketing-Fachleuten eine Möglichkeit, das Einverständnis der W
 
 Oder der Marketer kann Benutzer verfolgen, aber eine anonymisierte IP verwenden.
 
-Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketer jedoch _nichts_ der Konfiguration von Marketo ändert, bleibt die Marketo-Funktionalität unverändert.
+Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketer jedoch _keine_ Änderungen an der Konfiguration von Marketo vornimmt, bleibt die Marketo-Funktionalität unverändert.
 
 ## Browser-Einstellungen für „Nicht verfolgen“ {#browser-settings-for-do-not-track}
 
@@ -40,7 +40,7 @@ Dazu müssen Sie einen -Parameter zu einem Ausschluss-Link auf einer Web-Seite h
 
 ?marketo_opt_out=true
 
-Nachfolgend finden Sie Beispiele für eine Web-Seite mit einem Ausschluss-Link und einer Landingpage für , nachdem auf den Link geklickt wurde. Ihre wird variieren.
+Nachfolgend finden Sie Beispiele für eine Web-Seite mit einem Ausschluss-Link und einer Landingpage für , nachdem auf den Link geklickt wurde. Diese werden variieren.
 
 Hier ist eine Webseite mit einer Schaltfläche mit dem Parameter &quot;?marketo_opt_out=true“ im Ausschluss-Link.
 
@@ -66,9 +66,9 @@ Marketing-Experten können Benutzer aktivieren, indem sie die Funktionen von Mar
 
 ## Tracking mit anonymisierter IP {#tracking-using-an-anonymized-ip}
 
-Marketing-Experten können die Privatsphäre schützen, indem sie Benutzer mit einer anonymisierten IP-Adresse verfolgen. Fügen Sie dazu diesen Code zum RTP oder [!DNL Munchkin] JavaScript hinzu, das in die Website eingebettet ist.
+Marketing-Experten können die Privatsphäre schützen, indem sie Benutzer mit einer anonymisierten IP-Adresse verfolgen. Fügen Sie dazu den folgenden Code zum RTP oder [!DNL Munchkin] JavaScript hinzu, der in die Website eingebettet ist.
 
-* Fügen Sie [!DNL Munchkin] einfach `{"anonymizeIP",true}` zur [init-Funktion“ &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Fügen Sie [!DNL Munchkin] `{"anonymizeIP",true}` zur Funktion [ hinzu](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Fügen Sie für Web Personalization (RTP) Folgendes zum JavaScript hinzu:
 

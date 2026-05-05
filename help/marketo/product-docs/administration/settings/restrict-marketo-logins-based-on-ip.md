@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Marketo-Anmeldungen nach IP-Adresse zulassen 
 title: Beschränken von Marketo-Anmeldungen auf Grundlage von IP-Adressen
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '249'
 ht-degree: 7%
 
 ---
 
 # Beschränken von Marketo-Anmeldungen auf Grundlage von IP-Adressen {#restrict-marketo-logins-based-on-ip}
 
-Sie können den Zugriff von Benutzenden auf Marketo anhand ihrer IP-Adressen einschränken oder aktivieren. Und so geht das.
+Sie können den Zugriff von Benutzenden auf Marketo anhand ihrer IP-Adressen einschränken oder aktivieren. Gehen Sie wie folgt vor.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Sie können den Zugriff von Benutzenden auf Marketo anhand ihrer IP-Adressen ein
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC) unterstützt [IP-basierte Zugriffssteuerung](https://helpx.adobe.com/de/enterprise/using/ip-based-access.html){target="_blank"}. Um einen reibungslosen Übergang zu gewährleisten, werden bestehende IP-Beschränkungen für Marketo Engage aktiv, einschließlich Adobe ID-Benutzender bis zum 1. Quartal 2027 in Abonnements, in denen diese Funktion aktiviert ist.
+>Adobe Admin Console (AAC) unterstützt [IP-basierte Zugriffssteuerung](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Um einen reibungslosen Übergang zu gewährleisten, werden bestehende IP-Beschränkungen für Marketo Engage aktiv, einschließlich Adobe ID-Benutzender bis zum 1. Quartal 2027 in Abonnements, in denen diese Funktion aktiviert ist.
 >
 >* Sie können den AAC-IP-basierten Zugriff jederzeit konfigurieren.
 >* Einschränkungen von AAC und Marketo Engage können gleichzeitig ausgeführt werden. Verwenden Sie dieselbe IP-Zulassungsliste für Kompatibilität.
@@ -40,7 +40,7 @@ Sie können den Zugriff von Benutzenden auf Marketo anhand ihrer IP-Adressen ein
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Wählen Sie aus, ob **Adressen zugelassen** **blockiert** sollen, geben Sie die Adresse(n) ein und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Wählen Sie aus, ob **Adressen zugelassen** **blockiert** sollen, geben Sie eine oder mehrere Adressen ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    >[!NOTE]
    >
@@ -52,6 +52,6 @@ Sie können den Zugriff von Benutzenden auf Marketo anhand ihrer IP-Adressen ein
 
    >[!NOTE]
    >
-   >Sie können mehrere Einschränkungen hinzufügen, sie können jedoch nur ALLE zulässig oder ALLE blockiert sein. Zulässig und blockiert können nicht gemischt und übereinstimmen.
+   >Sie können mehrere Einschränkungen hinzufügen, sie können jedoch nur ALLE zulässig oder ALLE blockiert sein. Zulässige und blockierte Adressen können nicht kombiniert werden.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)

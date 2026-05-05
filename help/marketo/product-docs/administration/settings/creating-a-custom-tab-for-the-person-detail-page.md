@@ -4,16 +4,16 @@ description: Erstellen eines benutzerdefinierten Layouts für die Personendetail
 title: Erstellen einer benutzerdefinierten Registerkarte für die Seite „Personendetails“
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 12%
+source-wordcount: '138'
+ht-degree: 13%
 
 ---
 
 # Erstellen einer benutzerdefinierten Registerkarte für die Seite „Personendetails“ {#creating-a-custom-tab-for-the-person-detail-page}
 
-Wenn Sie immer wieder nach einem bestimmten Satz von Feldern in den Personendetails suchen, sollten Sie zur Vereinfachung ein benutzerdefiniertes Layout erstellen.
+Wenn Sie häufig auf einen bestimmten Satz von Feldern auf der Seite „Personendetails“ zugreifen müssen, sollten Sie ein benutzerdefiniertes Layout erstellen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -43,6 +43,6 @@ Wenn Sie immer wieder nach einem bestimmten Satz von Feldern in den Personendeta
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   Tolle Arbeit! Wenn Sie jetzt die Details einer Person laden, können Sie Ihr benutzerdefiniertes Layout verwenden, um auf die für Sie wichtigen Informationen zuzugreifen.
+   Wenn Sie die Details einer Person laden, können Sie Ihr benutzerdefiniertes Layout verwenden, um auf die für Sie wichtigen Informationen zuzugreifen.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)
