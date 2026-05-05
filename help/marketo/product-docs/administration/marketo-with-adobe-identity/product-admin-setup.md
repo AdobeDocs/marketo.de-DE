@@ -16,7 +16,7 @@ ht-degree: 6%
 
    ![](assets/admin-setup-7.png)
 
-1. Wenn Sie zuvor auf eine Anwendung mit einer Adobe ID zugegriffen haben, werden Sie direkt zur Adobe Admin Console weitergeleitet. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Wenn Sie zuvor auf eine Anwendung mit einer Adobe ID zugegriffen haben, werden Sie direkt zur Adobe Admin Console weitergeleitet. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-8.png)
 
