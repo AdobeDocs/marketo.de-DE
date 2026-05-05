@@ -57,7 +57,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Greifen Sie auf die Bearbeitungsfunktionen von Adobe zu, ohne Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder direkt im [!UICONTROL Design Studio“ einfach verbessern, zuschneiden und Text ].
+* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Greifen Sie auf die Bearbeitungsfunktionen von Adobe zu, ohne Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder direkt im [!UICONTROL Design Studio“ einfach verbessern, zuschneiden und Text &#x200B;].
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -76,4 +76,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 >
 >* **Aktualisierung der ITP-[!DNL Munchkin] 2.1 oder höher**: Aufgrund von Änderungen an der Cookie-Richtlinie für [!DNL Safari] wird die Möglichkeit von [!DNL Munchkin], Benutzer über Sitzungen hinweg in derselben Domain zu verfolgen, von ITP je nach Browser und Browser-Version, die der Besucher verwendet, entweder auf 1 oder 7 Tage beschränkt. Aus diesem Grund implementieren wir einen neuen Webservice, der es ermöglicht, Munchkin-Cookies mit einer Set-Cookie-Kopfzeile über die HTTP-Antwort zu setzen. Weitere Informationen zur Implementierung dieses neuen Service finden Sie [hier](https://nation.marketo.com/docs/DOC-7351).
 
-**_Webinar zur Produktversion_** [Nehmen Sie ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11 :00AM PT / 2 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
+**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11 :00AM PT / 2 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.

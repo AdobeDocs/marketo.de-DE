@@ -44,7 +44,7 @@ Beim Versand von Marketing-E-Mails ([operationell](/help/marketo/product-docs/em
 >
 >* Denkt daran zu testen. Sie möchten nicht, dass Ihre Marketing-E-Mails fehlerhafte Abmelde-Links enthalten.
 >
->* Sie können die Abmeldeposition von HTML in Ihrer E-Mail mit „Token[ anpassen](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>* Sie können die Abmeldeposition von HTML in Ihrer E-Mail mit „Token[&#x200B; anpassen](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Standardtext zur Abmeldung {#default-unsubscribe-text}
 

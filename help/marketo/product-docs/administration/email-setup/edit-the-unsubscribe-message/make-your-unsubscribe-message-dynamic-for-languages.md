@@ -21,7 +21,7 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
 ## Daten vorbereiten {#prepare-your-data}
 
-1. [Erstellen Sie ein benutzerdefiniertes Feld ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) dem Namen „Bevorzugte Sprache“. (Richten Sie es in Ihrem CRM ein, wenn Sie dieses Feld synchronisieren möchten).
+1. [Erstellen Sie ein benutzerdefiniertes Feld &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) dem Namen „Bevorzugte Sprache“. (Richten Sie es in Ihrem CRM ein, wenn Sie dieses Feld synchronisieren möchten).
 
    >[!TIP]
    >
@@ -87,7 +87,7 @@ Die standardmäßige Abmelde-Nachricht und der Link sind in englischer Sprache. 
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. Wählen **[!UICONTROL Abschnitt**[!UICONTROL  Segmentierung ]**die Option „Segment nach]** aus.
+1. Wählen **[!UICONTROL Abschnitt**&#x200B;[!UICONTROL &#x200B; Segmentierung &#x200B;]&#x200B;**die Option „Segment nach]** aus.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 

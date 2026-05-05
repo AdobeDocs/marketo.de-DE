@@ -60,7 +60,7 @@ Um Ihr RTP-Tag zu implementieren, befolgen Sie die folgenden Installationsanweis
 
 1. Klicken Sie **[!UICONTROL Skript]** Editor auf „Code speichern“ und **[!UICONTROL Regel speichern]** im Regeleditor.
 
-1. Suchen Sie im Bedienfeld Regeln die Marketo-RTP-Seitenladeregel und wählen Sie in der Dropdown **** Liste „Aktionen“ die Option **[!UICONTROL Regeln aktivieren]**.
+1. Suchen Sie im Bedienfeld Regeln die Marketo-RTP-Seitenladeregel und wählen Sie in der Dropdown **&#x200B;**&#x200B;Liste „Aktionen“ die Option **[!UICONTROL Regeln aktivieren]**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
