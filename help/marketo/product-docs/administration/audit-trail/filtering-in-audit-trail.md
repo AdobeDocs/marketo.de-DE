@@ -4,9 +4,9 @@ description: Filtern Sie das Audit-Protokoll nach Zeitrahmen, Asset-Typ, Benutze
 title: Filtern im Audit-Protokoll
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '146'
 ht-degree: 6%
 
 ---
@@ -29,7 +29,7 @@ Filtern Sie nach Zeitrahmen, Asset-Typ, Benutzern, durchgeführten Aktionen und 
 
    >[!NOTE]
    >
-   >Es gibt eine Vielzahl von möglichen Suchparameter-Kombinationen. In diesem Beispiel suchen wir: _Alle E-Mails - von jedem bearbeitet - in den letzten sieben Tagen_.
+   >Es gibt eine Vielzahl von möglichen Suchparameter-Kombinationen. In diesem Beispiel wird Folgendes gefunden: _Alle E-Mails - von jedem bearbeitet - in den letzten sieben Tagen_.
 
 1. Klicken Sie auf **[!UICONTROL Zeitraum]** und wählen Sie **[!UICONTROL Letzte 7 Tage]** aus.
 
@@ -39,7 +39,7 @@ Filtern Sie nach Zeitrahmen, Asset-Typ, Benutzern, durchgeführten Aktionen und 
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Klicken Sie auf die **Aactions** Dropdown-Liste und wählen Sie **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie auf **[!UICONTROL Aktionen]** und wählen Sie **[!UICONTROL Bearbeiten]** aus.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
@@ -51,11 +51,9 @@ Filtern Sie nach Zeitrahmen, Asset-Typ, Benutzern, durchgeführten Aktionen und 
 
    ![](assets/filtering-in-audit-trail-8.png)
 
-   Das war&#39;s!
-
    >[!NOTE]
    >
-   >Wenn Sie Arbeitsbereiche aktiviert haben, werden Überwachungsdaten für alle Arbeitsbereiche angezeigt. Wenn Sie einen Arbeitsbereichsfilter anwenden, speichert Marketo bei jeder Verwendung des Audit-Protokolls den vorherigen Arbeitsbereichswert. Workspace-Berechtigungen auf Asset-Ebene werden erzwungen.
+   >Wenn Sie Arbeitsbereiche aktiviert haben, sehen Sie Überwachungsdaten für alle Arbeitsbereiche. Wenn Sie einen Arbeitsbereichsfilter anwenden, speichert Marketo bei jeder Verwendung des Audit-Protokolls den vorherigen Arbeitsbereichswert. Workspace-Berechtigungen auf Asset-Ebene werden erzwungen.
 
    >[!MORELIKETHIS]
    >

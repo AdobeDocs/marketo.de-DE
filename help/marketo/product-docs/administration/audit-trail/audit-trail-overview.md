@@ -4,9 +4,9 @@ description: Überblick über das Audit-Protokoll und wie es einen sechsmonatige
 title: Überblick über Audit-Protokolle
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '354'
 ht-degree: 2%
 
 ---
@@ -25,15 +25,15 @@ Das Audit-Protokoll bietet Ihnen die Möglichkeit, einen vollständigen Verlauf 
 
 Das Audit-Protokoll erfasst in Echtzeit eine umfassende Liste von Aktionen und Ereignissen, die innerhalb eines Marketo-Abonnements auftreten. Es bietet eine Self-Service-Option für den Zugriff auf einen sechsmonatigen Datenverlauf, damit sich zum Beispiel folgende Fragen beantworten lassen:
 
-Was ist mit diesem Asset oder dieser Einstellung passiert und wer hat es zuletzt aktualisiert?
+„Was ist mit diesem Asset oder dieser Einstellung passiert und wer hat es zuletzt aktualisiert?“
 
-Was hat Benutzer X so gemacht?
+„Was hat Benutzer X so gemacht?“
 
-Wer meldet sich bei unserem Konto an?
+„Wer meldet sich bei unserem Konto an?“
 
 ## Was wir prüfen {#what-we-audit}
 
-Marketo prüft die [Erstellen, Bearbeiten und Löschen](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) Aktionen für:
+Marketo prüft die [Erstellen, Bearbeiten und Löschen](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) für:
 
 * Entwerfen von Studio-Assets
 * Alle Marketo-Programme
@@ -62,11 +62,11 @@ Siehe Aktivität für bestimmte Assets.
 
 **3) [Anmeldeverlauf des Benutzers](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-Sehen Sie, wer sich wann bei Ihrem Abonnement angemeldet hat. Umfasst auch fehlgeschlagene Anmeldeversuche.
+Ermitteln Sie, wer sich wann bei Ihrem Abonnement angemeldet hat (einschließlich fehlgeschlagener Anmeldeversuche).
 
 >[!TIP]
 >
->Es gibt so viel, was Sie mit dem Audit-Protokoll prüfen können, stellen Sie sicher, dass Sie [Filtern](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) verwenden.
+>Da Sie mit dem Audit-Protokoll so viele Audits durchführen können[ kann ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) Filtern viel Zeit sparen.
 
 ## Daten werden exportiert {#exporting-data}
 
@@ -78,7 +78,7 @@ Sie können nur Daten von 30 Tagen in Ihrer Instanz anzeigen. Verwenden Sie die 
 >
 >**Definition**
 >
->**Unbekannt:** In [!DNL Webhook] werden der Name und die E-Mail-Adresse von Benutzenden möglicherweise als „Unbekannt“ aufgeführt. Dies geschieht, wenn Sie die Werte Ihrer Auswahllisten in Ihrem CRM ändern. Diese Werte werden in Marketo Forms und Landingpages angezeigt. Wenn Sie diese Aktualisierung auf CRM-Seite durchführen, werden Ihre Landingpages mit Verweis auf das Formular automatisch erstellt. In [!DNL Webhook] erfassen wir, dass die Landingpage entworfen wurde, aber der Name und die E-Mail-Adresse des Benutzers werden als „Unbekannt“ angezeigt, da wir die Benutzerinformationen nicht von der CRM-Seite erfassen können.
+>**Unbekannt:** In [!DNL Webhook] werden der Name und die E-Mail-Adresse von Benutzenden möglicherweise als „Unbekannt“ aufgeführt. Dies geschieht, wenn Sie die Werte Ihrer Auswahllisten in Ihrem CRM ändern. Diese Werte werden in Marketo Forms und Landingpages angezeigt. Wenn Sie diese Aktualisierung auf CRM-Seite durchführen, werden Ihre Landingpages mit Verweis auf das Formular automatisch erstellt. In [!DNL Webhook] erfasst Marketo, dass die Landingpage entworfen wurde, aber der Name und die E-Mail-Adresse des Benutzers werden als „Unbekannt“ angezeigt, da Marketo die Benutzerinformationen nicht von der CRM-Seite erfassen kann.
 
 >[!MORELIKETHIS]
 >

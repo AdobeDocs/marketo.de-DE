@@ -4,16 +4,16 @@ description: Referenz zu den Details der Änderung, Auditprotokoll-Aufzeichnunge
 title: Ändern von Details im Audit-Protokoll
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '1906'
+source-wordcount: '1910'
 ht-degree: 15%
 
 ---
 
 # Ändern von Details im Audit-Protokoll {#change-details-in-audit-trail}
 
-Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Marketo-Abonnement tut. Im Folgenden finden Sie die Details.
+Das Audit-Protokoll bietet eine Vielzahl von Informationen dazu, wer was in Ihrem Marketo-Abonnement tut.
 
 ## Audit-Trail-Asset {#asset-audit-trail}
 
@@ -303,7 +303,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
   </tr>
   <tr>
    <td>Programmdatenstrom ändern</td>
-   <td>Inhalt hinzufügen<br>Stream-Name „Stream-Name<br>Typ „E-Mail“ oder „Programm<br>Name „E-Mail-Name“ oder „Programmname“<br>Smart-Kampagne „Smart-Kampagnenname“</td>
+   <td>Inhalt hinzufügen<br>Stream-Name „Stream Name“<br>Typ „E-Mail“ oder „Programm“<br>Name „E-Mail-Name“ oder „Programmname“<br>Smart-Kampagne „Smart-Kampagnenname“"</td>
   </tr>
   <tr>
    <td>Programmdatenstrom ändern</td>
@@ -428,7 +428,7 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
   </tr>
   <tr>
    <td colspan="1">Programmeinrichtung ändern</td>
-   <td colspan="1">Veranstaltungspartner „Partnername“ hinzugefügt</td>
+   <td colspan="1">Veranstaltungspartner 'Partnername' hinzugefügt</td>
   </tr>
   <tr>
    <td>Exportieren</td>
@@ -762,17 +762,17 @@ Das Audit-Protokoll bietet einen Überblick über insight, wer was in Ihrem Mark
   </tr>
   <tr>
    <td>Bearbeiten</td>
-   <td>Rolle von „früherer Name“ in „neuer Name“ bearbeitet (HINWEIS: Wenn Sie Details zu bearbeiteten Berechtigungen benötigen, wenden Sie sich an den Support) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an.<br></td>
+   <td>Rolle von „früherer Name“ in „neuer Name“ bearbeitet (HINWEIS: Wenn Sie Details zu bearbeiteten Berechtigungen benötigen, wenden Sie sich an den Support) - <br>zeigt eine Momentaufnahme der der Rolle zugewiesenen Berechtigungen an<br></td>
   </tr>
   <tr>
-   <td>Smartlist-Bericht</td>
+   <td>Smart List Report</td>
    <td>Bearbeiten</td>
-   <td>SmartList für Anmeldung zum Herunterladen bearbeitet: „true or false“</td>
+   <td>Smart-Liste für Anmeldung zum Herunterladen bearbeitet: „true or false“</td>
   </tr>
   <tr>
    <td rowspan="7">Benutzende<br><br><br><br></td>
    <td>Erstellen (einladen)</td>
-   <td>Eingeladener Benutzer mit: E-Mail-Adresse, Name „Vor- und Nachname“, Zugriff läuft „leer oder mit einem Datum“ ab, API-Benutzer „true oder false“ - <br>zeigt den Schnappschuss der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche an</td>
+   <td>Eingeladener Benutzer: E-Mail-Adresse, Name „Vor- und Nachname“, Zugriff läuft „leer oder mit einem Datum“ ab, API-Benutzer „true oder false“ - <br>zeigt eine Momentaufnahme der dem Benutzer zugewiesenen Rollen und Arbeitsbereiche an</td>
   </tr>
   <tr>
    <td colspan="1">Löschen</td>

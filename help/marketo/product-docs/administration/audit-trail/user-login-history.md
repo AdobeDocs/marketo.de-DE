@@ -4,9 +4,9 @@ description: Zeigt an, wer sich wann bei Ihrem Abonnement angemeldet hat, einsch
 title: Verlauf der Benutzeranmeldungen
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '191'
 ht-degree: 6%
 
 ---
@@ -49,7 +49,7 @@ So zeigen Sie den Anmeldeverlauf für Benutzer an:
 
    ![](assets/user-login-history-5.png)
 
-1. Wählen Sie alternativ aus der Dropdown-Liste aus.
+1. Oder wählen Sie aus dem Dropdown-Menü aus.
 
    ![](assets/user-login-history-6.png)
 
