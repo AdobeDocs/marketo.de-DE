@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Vererbte Instanz: Checkliste für Marketing-Aktivitäten {#inherited-instance-marketing-activities-checklist}
 
-Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere Benutzer verschiedene Programme in Ihrer Marketo Engage-Instanz finden und verwalten und sicherstellen können, dass die Personen verarbeitet werden, um vom Marketing zum Vertrieb zu gelangen. Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere Benutzer verschiedene Programme in Ihrer Marketo Engage-Instanz finden und verwalten und sicherstellen können, dass die Personen verarbeitet werden, um vom Marketing zum Vertrieb zu gelangen. Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Organisation {#organization}
 

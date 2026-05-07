@@ -27,7 +27,7 @@ Wenn Marketo-Benutzer ihren Lead-Feed nicht nur in [!DNL Salesforce], sondern au
 
    ![](assets/rss-settings-tab.png)
 
-1. Aktivieren Sie [!UICONTROL  Dialogfeld „Einstellungen bearbeiten] das Kontrollkästchen **[!UICONTROL RSS-Feed]** und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Aktivieren Sie [!UICONTROL &#x200B; Dialogfeld „Einstellungen bearbeiten] das Kontrollkästchen **[!UICONTROL RSS-Feed]** und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 

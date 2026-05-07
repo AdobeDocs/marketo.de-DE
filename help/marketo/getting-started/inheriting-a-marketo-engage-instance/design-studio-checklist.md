@@ -12,7 +12,7 @@ ht-degree: 5%
 
 # Vererbte Instanz: Checkliste für Design Studio {#inherited-instance-design-studio-checklist}
 
-Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets sowie Bilder und Dateien trägt dazu bei, Datenfehler zu minimieren und den Workflow für die Erstellung Ihres Programms zu optimieren. Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets sowie Bilder und Dateien trägt dazu bei, Datenfehler zu minimieren und den Workflow für die Erstellung Ihres Programms zu optimieren. Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Landingpages {#landing-pages}
 

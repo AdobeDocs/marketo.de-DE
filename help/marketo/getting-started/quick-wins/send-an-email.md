@@ -127,7 +127,7 @@ Es ist das Erste, was jeder tun möchte. Senden wir eine E-Mail von Marketo aus!
    >
    >Ist die Standardzeitzone nicht Ihre? [Hier](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"} erfahren Sie, wie Sie sie aktualisieren können.
 
-1. Klicken Sie **[!UICONTROL der Kachel [!UICONTROL Genehmigung]** auf Programm ] und Sie sind fertig!
+1. Klicken Sie **[!UICONTROL der Kachel [!UICONTROL Genehmigung]** auf Programm &#x200B;] und Sie sind fertig!
 
    ![](assets/send-an-email-18.png)
 

@@ -13,4 +13,4 @@ ht-degree: 12%
 
 # Warum werden keine meiner Kontakte an [!DNL Sales Connect] gepusht? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-Wenn keine Kontakte übertragen wurden, kann eine ungültige [!DNL Salesforce] vorliegen. Gehen Sie zu Ihren [[!DNL Salesforce] Einstellungen](https://toutapp.com/login) und trennen Sie dann die Verbindung erneut. Geben Sie ihm etwa 20 Minuten, um es vollständig zurückzusetzen. Wenn es danach immer noch null ist, [ Sie (einen Fall einreichen](https://nation.marketo.com/t5/Support/ct-p/Support#) dem Support.
+Wenn keine Kontakte übertragen wurden, kann eine ungültige [!DNL Salesforce] vorliegen. Gehen Sie zu Ihren [[!DNL Salesforce] Einstellungen](https://toutapp.com/login) und trennen Sie dann die Verbindung erneut. Geben Sie ihm etwa 20 Minuten, um es vollständig zurückzusetzen. Wenn es danach immer noch null ist, [&#x200B; Sie (einen Fall einreichen](https://nation.marketo.com/t5/Support/ct-p/Support#) dem Support.

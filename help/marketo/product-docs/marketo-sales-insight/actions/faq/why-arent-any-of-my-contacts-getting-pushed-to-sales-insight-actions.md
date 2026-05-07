@@ -12,4 +12,4 @@ ht-degree: 13%
 
 # Warum werden keine meiner Kontakte an [!DNL Sales Insight Actions] gepusht? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions}
 
-Wenn keine Kontakte übertragen wurden, kann eine ungültige [!DNL Salesforce] vorliegen. Gehen Sie zu Ihren [[!DNL Salesforce] Einstellungen](https://toutapp.com/login) und trennen Sie dann die Verbindung erneut. Geben Sie ihm etwa 20 Minuten, um es vollständig zurückzusetzen. Wenn es danach immer noch keine ist, senden [ einen Fall ](https://nation.marketo.com/t5/Support/ct-p/Support#) den Marketo-Support.
+Wenn keine Kontakte übertragen wurden, kann eine ungültige [!DNL Salesforce] vorliegen. Gehen Sie zu Ihren [[!DNL Salesforce] Einstellungen](https://toutapp.com/login) und trennen Sie dann die Verbindung erneut. Geben Sie ihm etwa 20 Minuten, um es vollständig zurückzusetzen. Wenn es danach immer noch keine ist, senden [&#x200B; einen Fall &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support#) den Marketo-Support.

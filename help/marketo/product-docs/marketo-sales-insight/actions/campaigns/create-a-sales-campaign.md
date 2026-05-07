@@ -46,7 +46,7 @@ Wie richtet man also eine Verkaufskampagne ein?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. Wenn Sie mit [ E-Mail fertig sind](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"} klicken Sie auf **[!UICONTROL Hinzufügen]**.
+1. Wenn Sie mit [&#x200B; E-Mail fertig sind](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"} klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![](assets/create-a-sales-campaign-6.png)
 

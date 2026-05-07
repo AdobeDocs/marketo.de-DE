@@ -59,7 +59,7 @@ Wenn sie nicht verfügbar ist, tut das System Folgendes:
 * Stattdessen gilt Folgendes:
 
    * Zeigt den Besprechungskalender des zugeordneten Agenten an (falls aktiviert),
-- oder -
+&#x200B;- oder -
    * Kehrt zu einer Standardmeldung zurück (im schlimmsten Fall).
 
 Die Routing-Regel auf Kartenebene (z. B. Team, benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agentin bzw. Agent).
@@ -75,7 +75,7 @@ Nur weil eine Person nicht reagiert, wird nicht gleich ein Round-Robin-Fallback 
 Wenn sich keine Agentin bzw. kein Agent meldet, passiert Folgendes:
 
 * Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
-- oder -
+&#x200B;- oder -
 * Es zeigt die standardmäßige Fallback-Nachricht an.
 
 ##### – Round-Robin-Routing –
@@ -105,7 +105,7 @@ Die Routing-Regel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wird au
 * Wenn keine Interaktion erfolgreich ist, wird eine Ausweichlogik angewendet:
 
    * Kalender-Fallback (falls aktiviert),
-- oder -
+&#x200B;- oder -
    * Standardnachricht.
 
 Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine geeigneten Agentinnen oder Agenten gemäß der primären Routing-Regel gefunden werden, aber nicht, wenn einzelne Agentinnen bzw. Agenten nicht reagieren.
@@ -114,7 +114,7 @@ Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine ge
 
 <p>
 
-_**Konto-Routing**_
+_&#x200B;**Konto-Routing**&#x200B;_
 
 <table><thead>
   <tr>
@@ -140,7 +140,7 @@ _**Konto-Routing**_
   </tr>
 </tbody></table>
 
-_**Benutzerdefiniertes Routing**_
+_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
 
 <table><thead>
   <tr>
@@ -166,7 +166,7 @@ _**Benutzerdefiniertes Routing**_
   </tr>
 </tbody></table>
 
-_**Team-Routing**_
+_&#x200B;**Team-Routing**&#x200B;_
 
 <table><thead>
   <tr>
@@ -192,7 +192,7 @@ _**Team-Routing**_
   </tr>
 </tbody></table>
 
-_**Round-Robin-Routing**_
+_&#x200B;**Round-Robin-Routing**&#x200B;_
 
 <table><thead>
   <tr>

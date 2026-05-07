@@ -21,11 +21,11 @@ Führen Sie diese einfachen Schritte aus, um [!DNL Sales Connect] mit [!DNL Sale
 
    ![](assets/one.png)
 
-1. Klicken Sie unter [!UICONTROL  Admin-] auf **[!UICONTROL Salesforce]**.
+1. Klicken Sie unter [!UICONTROL &#x200B; Admin-] auf **[!UICONTROL Salesforce]**.
 
    ![](assets/six.png)
 
-1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
 
    ![](assets/seven.png)
 
@@ -41,11 +41,11 @@ Führen Sie diese einfachen Schritte aus, um [!DNL Sales Connect] mit [!DNL Sale
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL Salesforce]**.
+1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
-1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbinden]**.
 
    ![](assets/three.png)
 

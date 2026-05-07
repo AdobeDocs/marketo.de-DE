@@ -18,7 +18,7 @@ ht-degree: 6%
 >* [Personalisierte URLs für Ihr Konto aktivieren](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [Aktivieren personalisierter URLs für eine Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Wählen Sie Ihre Liste oder Smart-Liste aus, klicken Sie auf die Registerkarte **[!UICONTROL Leads]**, um die Ergebnisse zu erhalten, und klicken Sie dann auf das Excel-Symbol. INLINE Stellen Sie sicher, dass **[!UICONTROL eindeutiger Marketo-Code]** und **[!UICONTROL eindeutige Marketo]** Spalten [sichtbar) ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Wählen Sie Ihre Liste oder Smart-Liste aus, klicken Sie auf die Registerkarte **[!UICONTROL Leads]**, um die Ergebnisse zu erhalten, und klicken Sie dann auf das Excel-Symbol. INLINE Stellen Sie sicher, dass **[!UICONTROL eindeutiger Marketo-Code]** und **[!UICONTROL eindeutige Marketo]** Spalten [sichtbar) &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 

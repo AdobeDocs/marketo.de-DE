@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Hinzufügen von neuen Inhalten {#add-new-content}
 
-Sie können der Seite „Alle Inhalte“ [!UICONTROL  Inhalt ] hinzufügen.
+Sie können der Seite „Alle Inhalte“ [!UICONTROL &#x200B; Inhalt &#x200B;] hinzufügen.
 
 1. Klicken Sie auf **[!UICONTROL Inhalt hinzufügen]** und wählen Sie **[!UICONTROL Inhalt hinzufügen]** aus.
 
@@ -35,4 +35,4 @@ Sie können der Seite „Alle Inhalte“ [!UICONTROL  Inhalt ] hinzufügen.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. So fügen Sie es zu „Prädiktiver [&quot; ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
+1. So fügen Sie es zu „Prädiktiver [&quot; &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).

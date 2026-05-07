@@ -90,7 +90,7 @@ Wenn Sie eine Verbindung zu [!DNL Exchange On-Premise] herstellen, erhalten Sie 
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
 
    ![](assets/two.png)
 

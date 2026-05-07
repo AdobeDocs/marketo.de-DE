@@ -75,7 +75,7 @@ Als Admin können Sie auch den delegierten Berechtigungen einer Anwendung im Nam
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
