@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: fbb3747227eca8f47eae43c8fbf02ef2ee702978
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
 source-wordcount: '9238'
 ht-degree: 99%
@@ -996,7 +996,7 @@ ht-degree: 99%
             + [Marke anwenden](product-docs/email-marketing/email-designer/brands/apply-brand.md)
             + [Marken erstellen und verwalten](product-docs/email-marketing/email-designer/brands/manage-brands.md)
             + [Marken personalisieren](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-            + [Markenausrichtung](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
+            + [Markenbewertung](product-docs/email-marketing/email-designer/brands/brand-score.md)
          + [Überblick](product-docs/email-marketing/email-designer/overview.md)
          + [Funktionsvergleich](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Erstellung von E-Mails](product-docs/email-marketing/email-designer/email-authoring.md)
