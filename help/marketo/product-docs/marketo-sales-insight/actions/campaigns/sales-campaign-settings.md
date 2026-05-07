@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie die Einstellungen für Verkaufskampagnen konf
 title: Einstellungen für Verkaufskampagnen
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '236'
 ht-degree: 5%
 
 ---
@@ -40,7 +40,7 @@ Aktivieren Sie Wochenenden überspringen , damit alle Schritte, die an einem Woc
 
 ## Bei Bounce entfernen {#remove-on-bounce}
 
-Wenn Sie eine E-Mail-Verbindung verwenden, erkennen wir Bounces anhand der Bounce-Nachricht, die an den Posteingang der Benutzer gesendet wird. Darüber hinaus können wir Personen aus Verkaufskampagnen entfernen, wenn ein Bounce erkannt wird.
+Wenn Sie die E-Mail-Verbindung verwenden, werden Bounces anhand der Bounce-Nachricht erkannt, die an den Posteingang der Benutzer gesendet wird. Darüber hinaus können wir Personen aus Verkaufskampagnen entfernen, wenn ein Bounce erkannt wird.
 
 1. Klicken Sie **[!UICONTROL Kampagnen]**.
 

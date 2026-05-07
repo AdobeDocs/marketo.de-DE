@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über Email Editor v2.0 und seine Funktionen. Ers
 title: Überblick über E-Mail-Editor v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 85%
+source-wordcount: '462'
+ht-degree: 79%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 85%
 
 **Auswahl der E-Mail-Vorlagen**
 
-Wenn Sie eine neue E-Mail erstellen, gelangen Sie zur [Auswahl von E-Mail-Vorlagen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Wenn Sie eine neue E-Mail erstellen, gelangen Sie zur [E-Mail-Vorlagenauswahl](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
@@ -45,7 +45,7 @@ Der Wechsel zwischen der HTML-Version und der Textversion Ihrer E-Mail erfolgt j
 
 **E-Mail-Header**
 
-Benötigen Sie mehr Platz zum Gestalten? Der E-Mail-Header kann ausgeblendet werden, nachdem Sie mit [dessen Bearbeitung](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md) fertig sind. Klicken Sie einfach auf dieses Symbol …
+Benötigen Sie mehr Platz zum Gestalten? Die E-Mail-Kopfzeile kann ausgeblendet werden, nachdem Sie fertig sind [sie bearbeiten](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicken Sie einfach auf dieses Symbol …
 
 ![](assets/email-editor-v2-overview-5.png)
 

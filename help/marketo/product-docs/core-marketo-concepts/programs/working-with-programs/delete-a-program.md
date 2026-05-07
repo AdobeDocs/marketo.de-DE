@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie ein Programm in Marketo löschen. Entfernen S
 title: Löschen eines Programms
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '187'
 ht-degree: 4%
 
 ---
@@ -23,7 +23,7 @@ Man kann ein Programm archivieren, aber manchmal will man es einfach dauerhaft l
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Wählen Sie das Optionsfeld „Alle löschen…“ aus. Überprüfen Sie die Auswirkungen des Löschens des Programms und klicken Sie dann zur Bestätigung **[!UICONTROL Löschen]**.
+1. Wählen Sie „Alle löschen…“ Optionsfeld. Überprüfen Sie die Auswirkungen des Löschens des Programms und klicken Sie dann zur Bestätigung **[!UICONTROL Löschen]**.
 
 >[!TIP]
 >

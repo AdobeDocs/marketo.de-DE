@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie die Kriterien für den A/B-Testsieger definie
 title: Definieren der Kriterien für den A/B-Testsieger
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 20%
+source-wordcount: '462'
+ht-degree: 23%
 
 ---
 
@@ -28,7 +28,7 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
    <table>
    <tr>
    <td><b>[!UICONTROL wird geöffnet]</b></td>
-   <td>Ein geöffnetes registriert beim Herunterladen von Bildern in eine E-Mail. Auch wenn Sie kein Bild einbeziehen, fügt Marketo standardmäßig ein einzelnes Tracking-Pixel in alle HTML-E-Mails ein.</td>
+   <td>Ein geöffnetes registriert beim Herunterladen von Bildern in eine E-Mail. Auch wenn Sie kein Bild einbeziehen, fügt Marketo in alle HTML-E-Mails standardmäßig ein einzelnes Tracking-Pixel ein.</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Klicks]</b></td>
@@ -40,7 +40,7 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=de" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihrer Inhalte.</td>
+   <td>Der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">Interaktionswert</a> hilft Ihnen bei der Bestimmung der Effektivität Ihrer Inhalte.</td>
    </tr>
    </table>
 
@@ -70,7 +70,7 @@ Beim [Hinzufügen eines A/B](/help/marketo/product-docs/email-marketing/email-pr
 
 1. Schließen Sie das neu geöffnete Fenster (oder die neu geöffnete Registerkarte). Die Smart-Liste wird automatisch gespeichert.
 
-Jetzt ist es an der Zeit zu entscheiden, wie der Gewinner bestimmt wird.
+Nun ist es an der Zeit zu entscheiden, wie der Gewinner bestimmt wird.
 
 ## Gewinner benennen {#declare-winner}
 

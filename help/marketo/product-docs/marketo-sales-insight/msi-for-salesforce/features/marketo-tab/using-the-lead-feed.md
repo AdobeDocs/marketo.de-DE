@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie den Lead-Feed auf der Registerkarte "Marketo"
 title: Verwenden des Lead-Feeds
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '351'
 ht-degree: 4%
 
 ---
 
 # Verwenden des Lead-Feeds {#using-the-lead-feed}
 
-Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Leads durchgeführt werden. Sie finden sie auf der rechten Seite, wenn Sie auf die Registerkarte Marketo klicken. Es ist wie ein RSS- oder [!DNL Twitter]-Feed - die neuesten Aktualisierungen stehen ganz oben auf der Liste. Benutze dies, um Leads anzustoßen, während du noch frisch in ihren Köpfen bist.
+Der Lead-Feed ist eine aktuelle Liste interessanter Ereignisse, die von Ihren Leads durchgeführt werden. Sie finden sie auf der rechten Seite, wenn Sie auf die Registerkarte Marketo klicken. Es ist wie ein RSS- oder [!DNL Twitter]-Feed - die neuesten Aktualisierungen befinden sich ganz oben auf der Liste. Nutzen Sie dies, um Leads anzuzeigen, während Sie noch frisch in ihren Köpfen sind.
 
 >[!NOTE]
 >

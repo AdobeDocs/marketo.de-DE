@@ -3,16 +3,16 @@ description: Erfahren Sie mehr über Adobe Experience Cloud-Integrationen mit Ma
 title: Adobe Experience Cloud-Integrationen – Übersicht
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 85%
+source-wordcount: '188'
+ht-degree: 73%
 
 ---
 
 # Adobe Experience Cloud-Integrationen – Übersicht{#adobe-experience-cloud-integrations-overview}
 
-Adobe bietet eine robuste Demand-Marketing-Lösung, die auf der nativen Zielgruppensynchronisierung über alle Adobe Experience Cloud-Produkte hinweg aufbaut. Nutzen Sie einzigartige B2B-zentrierte Daten in Adobe Audience Manager und erschließen Sie effektive Anwendungsszenarien für Demand Marketing sowie ungenutztes Potenzial für bestehende Adobe-Anwendungen.
+Adobe bietet eine robuste Demand-Marketing-Lösung, die auf der nativen Zielgruppensynchronisierung über alle Adobe Experience Cloud-Produkte hinweg aufbaut. Nutzen Sie einzigartige B2B-zentrierte Daten in Adobe Audience Manager und erschließen Sie leistungsstarke Anwendungsfälle für Demand Marketing sowie ungenutztes Potenzial für bestehende Adobe-Anwendungen.
 
 >[!NOTE]
 >

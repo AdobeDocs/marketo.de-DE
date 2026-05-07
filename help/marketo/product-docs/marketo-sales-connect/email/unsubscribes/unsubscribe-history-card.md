@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die Karte mit dem Verlauf der Abmeldung in 
 title: Verlaufskarte für Abmeldungen
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Die Karte [!UICONTROL Abmeldeverlauf] hilft Admins und Benutzern, kontextuelle I
 
 >[!NOTE]
 >
->Um hierher zu gelangen, klicken Sie auf die [!UICONTROL Personen] und wählen Sie eine Person aus. Er befindet sich am unteren Rand der Registerkarte [!UICONTROL Info] in der Ansicht „Personendetails“ (wenn das Abonnement gekündigt wurde).
+>Um hierher zu gelangen, klicken Sie auf die [!UICONTROL Personen] und wählen Sie eine Person aus. Er befindet sich am unteren Rand der [!UICONTROL Info] in der Ansicht „Personendetails“ (wenn das Abonnement gekündigt wurde).
 
 ![](assets/1-1.jpg)
 

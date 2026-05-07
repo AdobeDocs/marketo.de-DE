@@ -3,9 +3,9 @@ description: Fehlerbehebung, wenn dynamische Felder keine Vorlagen ausfüllen. �
 title: Warum werden meine dynamischen Felder nicht ausgefüllt?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '312'
 ht-degree: 4%
 
 ---
@@ -16,7 +16,7 @@ Dynamische Felder funktionieren nur, wenn Sie eine Vorlage verwenden. Einzelne e
 
 ## Was zu überprüfen ist {#what-to-check}
 
-Es gibt drei Arten von dynamischen Feldern in Sales Insight-Aktionen: „Standard“, „Benutzerdefiniert“ und &quot;Salesforce&quot;. Sowohl einfache als auch benutzerdefinierte Elemente sehen so aus, dass Informationen aus der [Web-Anwendung“ abgerufen &#x200B;](https://toutapp.com/login){target="_blank"}. Wenn die Informationen nicht in der Web-Anwendung vorhanden sind, sind die Felder leer. Salesforce-Felder rufen Informationen von [Salesforce.com](https://salesforce.com){target="_blank"} ab.
+Es gibt drei Arten von dynamischen Feldern in Sales Insight-Aktionen: „Standard“, „Benutzerdefiniert“ und &quot;Salesforce&quot;. Sowohl einfache als auch benutzerdefinierte Elemente sehen so aus, dass Informationen aus der [Web-Anwendung“ abgerufen ](https://toutapp.com/login){target="_blank"}. Wenn die Informationen nicht in der Web-Anwendung vorhanden sind, sind die Felder leer. Salesforce-Felder rufen Informationen von [Salesforce.com](https://salesforce.com){target="_blank"} ab.
 
 **Fehlerbehebung bei [!DNL Salesforce] Feldern**
 
@@ -30,7 +30,7 @@ Grundlegende Felder für Marketo Sales Insight-Aktionen: z. B. `{{company}}`
 
 Benutzerdefinierte Felder für Marketo Sales Insight-Aktionen: z. B. `{{custom_field_favorite_movie}}`
 
-* Das entsprechende Feld muss für Ihren Kontakt auf der Seite „Personen[&#x200B; gespeichert werden, &#x200B;](https://toutapp.com/next#relationships){target="_blank"} unser dynamisches Feld referenzieren zu können. Wenn Sie beispielsweise eine E-Mail an Mary senden und das Feld `{{company}}` verwenden, in ihrem Kontaktdatensatz jedoch keine Firma aufgeführt ist, können wir dies nicht ausfüllen.
+* Das entsprechende Feld muss für Ihren Kontakt auf der Seite „Personen[ gespeichert werden, ](https://toutapp.com/next#relationships){target="_blank"} unser dynamisches Feld referenzieren zu können. Wenn Sie beispielsweise eine E-Mail an Mary senden und das Feld `{{company}}` verwenden, in ihrem Kontaktdatensatz jedoch keine Firma aufgeführt ist, können wir dies nicht ausfüllen.
 
 ## Warum wurde meine E-Mail gesendet, ohne alle dynamischen Felder auszufüllen? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 

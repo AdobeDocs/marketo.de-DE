@@ -4,10 +4,10 @@ short-description: Sie beginnen gerade erst mit Adobe Marketo Engage? Erfahren S
 title: Einrichtungsschritte
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1687'
-ht-degree: 98%
+source-wordcount: '1705'
+ht-degree: 85%
 
 ---
 
@@ -41,22 +41,22 @@ Es gibt verschiedene Maßnahmen, mit denen Sie sicherstellen können, dass Ihre 
 * **Versehen Sie Ihre Tracking-Links mit Branding**. Sie können einen CNAME auswählen, um Ihre eigene Domain (anstelle der von Marketo) in den Links zu verwenden, die Sie in E-Mails von Marketo einschließen. Dies stärkt das Domain-Branding und erhöht das Vertrauen und die Zustellbarkeit bei Ihren Empfängerinnen und Empfängern.
 * **Setzen Sie Marketo auf die Zulassungsliste Ihrer Unternehmens-E-Mail**. Es ist eine gängige Best Practice, Test-E-Mails an Testkonten zu senden, bevor E-Mails an tatsächliche Personen gesendet werden. Durch das Hinzufügen von Marketo zur Zulassungsliste können Sie verhindern, dass diese Test-E-Mails blockiert oder als Spam gekennzeichnet werden.
 * **Richten Sie SPF und DKIM ein**. Diese Technologien stellen sicher, dass Ihre Marketo-E-Mails keine Spam-E-Mails sind. Führen Sie die folgenden Schritte aus, um [SPF und DKIM für die E-Mail-Zustellbarkeit einzurichten](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md) und so zu verhindern, dass die Spam-Filter von Empfängerinnen und Empfänger Ihre Marketo-E-Mails ablehnen.
-* **Richten Sie einen MX-Eintrag für Ihre Domain ein.** Ein MX-Eintrag ermöglicht es Ihnen, E-Mails über die Domain zu empfangen, von der aus Sie E-Mails senden, um Antworten und Abwesenheitsnachrichten zu verarbeiten. Wenn Sie E-Mails von Ihrer Unternehmens-Domain aus senden, haben Sie dies wahrscheinlich bereits konfiguriert. Falls nicht, können Sie dies in der Regel so einrichten, dass eine Zuordnung zum MX-Eintrag Ihrer Unternehmens-Domain erfolgt.
-* **Empfohlene Einstellungen für die Absenderadresse.** Sie müssen in allen E-Mail-Kampagnen eine gültige, vorhandene und funktionierende E-Mail-Domain in der Absenderadresse verwenden. Es kann von Vorteil sein, eine Subdomain Ihrer Unternehmens-Domain zu konfigurieren, anstatt von Ihrer Unternehmens-Domain aus zu senden. Dadurch wird sichergestellt, dass Probleme aus Ihrem Unternehmens-Mailstream sich nicht auf Ihren Marketo-Mailstream auswirken und umgekehrt. Darüber hinaus führt der Versand von E-Mails von `something@nonexistentdomain.com` dazu, dass E-Mails gefiltert oder blockiert werden. Jede Domain, die in der Absenderadresse verwendet wird, muss über ein gültiges und funktionierendes postmaster@- und abuse@-Konto verfügen.
+* **Richten Sie einen MX-Eintrag für Ihre Domain ein.** Mit einem MX-Eintrag können Sie E-Mails an die Domain empfangen, von der Sie E-Mails senden, um Antworten und automatische Antworten zu verarbeiten. Wenn Sie von Ihrer Unternehmens-Domain aus senden, haben Sie dies wahrscheinlich bereits konfiguriert. Falls nicht, können Sie dies in der Regel so einrichten, dass eine Zuordnung zum MX-Eintrag Ihrer Unternehmens-Domain erfolgt.
+* **Empfohlene Einstellungen für die Absenderadresse.** In allen E-Mail-Kampagnen müssen Sie eine gültige, vorhandene und funktionierende E-Mail-Domain in der Absenderadresse verwenden. Es kann von Vorteil sein, eine Subdomain Ihrer Unternehmens-Domain zu konfigurieren, anstatt von Ihrer Unternehmens-Domain aus zu senden. Dadurch wird sichergestellt, dass Probleme aus Ihrem Unternehmens-Mailstream sich nicht auf Ihren Marketo-Mailstream auswirken und umgekehrt. Darüber hinaus führt der Versand von E-Mails von `something@nonexistentdomain.com` dazu, dass E-Mails gefiltert oder blockiert werden. Jede Domain, die in der Absenderadresse verwendet wird, muss über ein gültiges und funktionierendes postmaster@- und abuse@-Konto verfügen.
 
-Wenn Sie Google-Apps zum Hosten Ihrer Unternehmens-E-Mail-Adresse verwenden, können Sie unter Ihrer Domain keine abuse@- oder postmaster@-E-Mails erstellen. Um dies zu umgehen, müssen Sie Gruppen mit den Namen „abuse“ und „postmaster“ erstellen. Benutzende, die Mitglieder dieser Gruppen sind, erhalten E-Mails, die an diese Adressen gesendet werden (z. B. <postmaster@domain.com>). Detaillierte Anleitungen zum Erstellen von Gruppen finden Sie [hier](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+Wenn Sie Google-Programme zum Hosten Ihrer Unternehmens-E-Mail verwenden, können Sie unter Ihrer Domain keine abuse@ oder postmaster@-E-Mails erstellen. Um dies zu umgehen, müssen Sie Gruppen mit den Namen „abuse“ und „postmaster“ erstellen. Benutzende, die Mitglieder dieser Gruppen sind, erhalten E-Mails, die an diese Adressen gesendet werden (z. B. <postmaster@domain.com>). Detaillierte Anleitungen zum Erstellen von Gruppen finden Sie [hier](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Wählen Sie einen CNAME für E-Mail-Tracking-Links aus (wählen Sie einen CNAME aus, der sich von dem in Schritt 3 ausgewählten Landingpage-CNAME _unterscheidet_). Einige Beispiele:
 
-* go2.[UnternehmensDomain].com
-* em.[UnternehmensDomain].com
-* wow.[UnternehmensDomain].com
+* go2.[CompanyDomain].com
+* em.[CompanyDomain].com
+* wow.[CompanyDomain].com
 
 Der erste Teil ist des E-Mail-Tracking-CNAME, `[EmailTrackingCNAME]`. Diesen müssen Sie der IT-Abteilung bereitstellen.
 
 >[!CAUTION]
 >
->E-Mail- und Landingpage-CNAME müssen unterschiedlich sein. Vermeiden Sie außerdem CNAMEs wie „track“ oder „link“. Diese werden oft als Spam gekennzeichnet.
+>E-Mail- und Landingpage-CNAME müssen unterschiedlich sein. Vermeiden Sie auch CNAMEs wie „track“ oder „link“. Er wird oft als Spam gekennzeichnet
 
 Um Ihren Marketo-Tracking-Link abzurufen, navigieren Sie in den Bereich **[!UICONTROL Admin]**.
 
@@ -76,7 +76,7 @@ Dies ist Ihr `[MktoTrackingLink]`. Speichern Sie diese Information. Sie müssen 
 
 Erfassen Sie Absender-Domains. Erstellen Sie eine Liste aller Absender-Domains (also `[Sender]@[FromDomain].com`), die Sie für den Versand von E-Mails aus Marketo verwenden möchten. Für die meisten gibt es nur eine.
 
-Zum Beispiel „marketo.com“, „info.marketo.com“. Dies sind `[FromDomain1]`, `[FromDomain2]` usw. Speichern Sie diese Informationen. Sie müssen sie in Schritt 5 der IT-Abteilung bereitstellen.
+Zum Beispiel „marketo.com“, „info.marketo.com“. Dies sind `[FromDomain1]`, `[FromDomain2]` usw. Speichern Sie sie. Sie müssen sie in Schritt 5 der IT-Abteilung bereitstellen.
 
 Sie verfügen jetzt über alle Informationen, die Sie benötigen, um Ihre Anfrage an die IT-Abteilung zu senden.
 
@@ -92,9 +92,9 @@ Sie verfügen jetzt über alle Informationen, die Sie benötigen, um Ihre Anfrag
 
 Wählen Sie einen CNAME für Ihre Landingpages aus. Einige Beispiele:
 
-    * **go**.[UnternehmensDomain].com
-    * **www2**.[UnternehmensDomain].com
-    * **lp**.[UnternehmensDomain].com
+    * **go**.[CompanyDomain].com
+    * **www2**.[CompanyDomain].com
+    * **lp**.[CompanyDomain].com
 
 >[!TIP]
 >
@@ -124,7 +124,7 @@ Konfigurieren Sie Ihre Domain-Einstellungen so, dass Landingpages die Domain Ihr
 >
 >Sind Sie Launch-Pack-Kundin bzw. -Kunde? Dann können Sie diesen Schritt überspringen. Ihre Beraterin bzw. Ihr Berater stellt Ihnen während Ihres Einstiegsgesprächs eine Anleitung zur Einrichtung des IT-Systems zur Verfügung.
 
-Sobald Sie alle erforderlichen Informationen gesammelt haben, können Sie eine Anfrage an die IT-Abteilung senden. Sie können den unten stehenden Text als Vorlage verwenden und den fett gedruckten Text durch Ihre eigenen Informationen ersetzen.
+Nachdem Sie alle erforderlichen Informationen erfasst haben, können Sie eine Anfrage an IT senden. Sie können den unten stehenden Text als Vorlage verwenden und den fett gedruckten Text durch Ihre eigenen Informationen ersetzen.
 
 [Fügen Sie einen Link zu diesem Artikel hinzu](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
@@ -140,9 +140,9 @@ Sehr geehrte IT-Administration,
 
 unser Marketing-Team nutzt jetzt die Marketo-Plattform zur Kommunikation mit Personen. Um eine optimale Zustellbarkeit von E-Mails zu gewährleisten, müssen wir die folgenden Änderungen vornehmen:
 
-`1)` Fügen Sie für unsere Landingpages einen DNS-Eintrag (CNAME) für **[LandingPageCNAME]**.**[UnternehmensDomain]**.com hinzu, der auf **[Munchkin-ID]**.mktoweb.com verweist.
+`1)` Fügen Sie für unsere Landingpages einen DNS-Eintrag (CNAME) für &quot;**[LandingPageCNAME]**.**[CompanyDomain]**.com“ hinzu, der auf **[Munchkin ID]**.mktoweb.com verweist.
 
-`2)` Fügen Sie für unsere Tracking-Links in E-Mails einen DNS-Eintrag (CNAME) für **[EmailTrackingCNAME]**.**[UnternehmensDomain]**.com hinzu, der auf **[MktoTrackingLink]** verweist.
+`2)` Für unsere Tracking-Links in E-Mails fügen Sie einen DNS-Eintrag (CNAME) für **[EmailTrackingCNAME]**.**[CompanyDomain]**.com hinzu, der auf **[MktoTrackingLink]** verweist.
 
 `3)` Setzen Sie Marketo auf die Zulassungsliste.
 
@@ -174,7 +174,7 @@ unser Marketing-Team nutzt jetzt die Marketo-Plattform zur Kommunikation mit Per
 
 `a.` Fügen Sie zur SPF-Einrichtung den DNS-Einträgen die folgende Zeile hinzu:
 
-IN TXT **[Absender-Domain]**: v=spf1 mx ip4:**[Unternehmens-IP(s)]**
+IN TXT **[Von Domain]**: v=spf1 mx ip4:**[Unternehmens-IP(s)]**
 <br/>include: mktomail.com ~all
 
 Wenn bereits ein SPF-Eintrag im DNS-Eintrag vorhanden ist, fügen Sie einfach Folgendes hinzu:
@@ -183,7 +183,7 @@ include:mktomail.com
 
 `[`Ersetzen Sie die **Absender-Domain** durch Ihre E-Mail-Absender-Domain (z. B.: unternehmen.com) und die **Unternehmens-IP** durch die IP-Adresse Ihres E-Mail-Servers (z. B.: 255.255.255.255).  Wenn Sie E-Mails von mehreren Domains über Marketo senden möchten, sollte Ihr IT-Team diese Zeile für jede Domain hinzufügen (in einer Zeile).`]`
 
-`b.` Erstellen Sie für DKIM DNS-Ressourceneinträge für jede Domain, die eingerichtet werden soll. Nachfolgend finden Sie die Host-Einträge und TXT-Werte für jede Domain, die signiert werden soll: 
+`b.` Erstellen Sie für DKIM DNS-Ressourceneinträge für jede Domain, die eingerichtet werden soll. Nachfolgend finden Sie die Host-Einträge und TXT-Werte für jede Domain, die signiert werden soll:
 
 **`[DKIMDomain1]`**: Der Host-Eintrag lautet **`[HostRecord1]`** und der TXT-Wert **`[TXTValue1]`**.
 
@@ -191,7 +191,7 @@ include:mktomail.com
 
 `[`Kopieren Sie den **Host-Eintrag** und den **TXT-Wert** für jede **DKIM-Domain**, die Sie eingerichtet haben, nachdem Sie die [Anweisungen hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md) befolgt haben. Vergessen Sie nicht, jede Domain unter **Administrator > E-Mail > DKIM** zu überprüfen, nachdem Ihr IT-Team diesen Schritt abgeschlossen hat.`]`
 
-`5)` Wir müssen sicherstellen, dass ein gültiger MX-Eintrag für die Absender-Domains **`[FromDomain1]`**, **`[FromDomain2]`** usw. vorhanden ist. Können Sie das bestätigen? Falls nicht, konfigurieren Sie bitte die Zuordnung zum MX-Eintrag unserer Unternehmens-Domain. Dadurch stellen wir sicher, dass Antworten/Abwesenheitsnachrichten auf unsere Marketo-E-Mails verarbeitet werden können.
+`5)` Wir müssen sicherstellen, dass es einen gültigen MX-Eintrag für unsere FROM-Domains **`[FromDomain1]`**, **`[FromDomain2]`** usw. gibt. Können Sie das bestätigen? Falls nicht, konfigurieren Sie bitte die Zuordnung zum MX-Eintrag unserer Unternehmens-Domain. Dadurch stellen wir sicher, dass Antworten/Abwesenheitsnachrichten auf unsere Marketo-E-Mails verarbeitet werden können.
 
 Teilen Sie mir mit, wenn Sie diese Schritte abgeschlossen haben, damit ich den Einrichtungsprozess mit Marketo abschließen kann.
 
@@ -243,7 +243,7 @@ Geben Sie im Feld „Domäne“ Ihre E-Mail-Tracking-Domain ein. Diese sollte di
 
 ## Integrieren des CRM {#integrate-your-crm}
 
-Dies ist wahrscheinlich der spannendste Teil der Einrichtung. Es ist an der Zeit, Marketo mit all den Leads und Kontakten zu füllen, die Sie in Ihrem CRM gespeichert haben.
+Dies ist wahrscheinlich der spannendste Teil der Einrichtung. Es ist an der Zeit, Marketo mit all den Leads und Kontakten zu füllen, die Sie in Ihrem CRM gespeichert haben!
 
 Wählen Sie je nach CRM, das Ihr Unternehmen verwendet, eine der folgenden Optionen aus.
 

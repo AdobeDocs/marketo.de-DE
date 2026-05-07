@@ -2,9 +2,9 @@
 description: Erfahren Sie mehr über die Registerkarte „Interaktionszuordnung“ und ihre Trigger-, Filter- und Flusskarten. Auf Karten klicken, um Details anzuzeigen und Kampagnenelemente zu bearbeiten.
 title: Registerkarte „Interaktionszuordnung“
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '968'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ Flussschritte: Wenn ein Flussschritt _keine Optionen enthält_ zeigt diese Karte
    * Der Kampagnen-Flussschritt gehört zu
    * Flussschritt bearbeiten
    * Liste der mit dem Flussschritt verknüpften Attribute
-   * Schaltfläche „Liste anzeigen“, mit der Sie eine Liste von Kampagnen öffnen, die die spezifische Kampagne „Anfrage/Ausführung“ verwenden
+   * Schaltfläche „Liste anzeigen“, mit der Sie eine Liste von Kampagnen öffnen, die die spezifische Anfrage verwenden oder eine Kampagne ausführen
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ Flussschritte: Wenn ein Flussschritt _keine Optionen enthält_ zeigt diese Karte
    * Kampagne, zu der die Auswahl gehört
    * Auswahl bearbeiten
    * Liste der Auswahlbedingungen, die mit dem Flussschritt verknüpft sind
-   * Liste anzeigen, mit der eine Liste der Kampagnen geöffnet wird, die die spezifische Kampagne „Anfrage/Ausführen“ verwenden
+   * Liste anzeigen, mit der eine Liste von Kampagnen geöffnet wird, die die spezifische Kampagne „Anfrage“ oder „Ausführen“ verwenden
 
   ![](assets/engagement-map-tab-10.png)
 
@@ -101,7 +101,7 @@ Sie können auf den Schritt Kampagnenfluss ausführen in „Kampagne B“ klicke
 
 Anforderungskampagnen werden parallel zur übergeordneten Kampagne ausgeführt. Personen, die sich für eine Anfragekampagne qualifizieren, führen alle Flussschritte der Kampagne aus und beenden dann die Kampagne. Gleichzeitig durchlaufen dieselben Personen die Fluss -Schritte der primären Kampagne.
 
-Im Folgenden finden Sie ein Beispiel für eine intelligente Kampagne, „Kampagne A“, die den Schritt Kampagnenanfrage - Fluss enthält. Stellen Sie sich „Kampagne A“ als primäre Kampagne vor.
+Im Folgenden finden Sie ein Beispiel für eine intelligente Kampagne, „Kampagne A“, die einen Schritt zum Anfordern eines Kampagnenflusses enthält. Stellen Sie sich „Kampagne A“ als primäre Kampagne vor.
 
 ![](assets/engagement-map-tab-14.png)
 
@@ -116,7 +116,7 @@ Sie können Ihre verschachtelten Kampagnen genauer betrachten, wenn einer der Fl
 
 ![](assets/engagement-map-tab-16.png)
 
-Im Folgenden finden Sie ein Beispiel für eine Anfragekampagne mit Auswahlmöglichkeiten.
+Nachfolgend finden Sie ein Beispiel für eine Anfragekampagne mit Auswahlmöglichkeiten.
 
 ![](assets/engagement-map-tab-17.png)
 

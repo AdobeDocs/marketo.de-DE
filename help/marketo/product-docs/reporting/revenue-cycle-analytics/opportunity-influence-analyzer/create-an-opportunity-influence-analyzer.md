@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo Engage mit der Funktion „Opportu
 title: Erstellen eines Analyzers für Opportunity-Einfluss
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '227'
 ht-degree: 5%
 
 ---
@@ -52,7 +52,7 @@ Verwenden Sie den Opportunity Influence Analyzer, um den Beitrag des Marketings 
    >
    >In den meisten Fällen ist **[!UICONTROL All Time]** die einfachste Wahl.
 
-1. Hier sind Sie richtig. Klicken Sie auf die Registerkarte Haupt , um die interessanten Momente und Erfolge anzuzeigen, die an der Opportunity beteiligt sind.
+1. Du bist da! Klicken Sie auf die Registerkarte Haupt , um die interessanten Momente und Erfolge anzuzeigen, die an der Opportunity beteiligt sind.
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

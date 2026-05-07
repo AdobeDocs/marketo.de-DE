@@ -2,9 +2,9 @@
 description: Erfahren Sie mehr über die Registerkarte Einstellungen für Qualifizierungsregeln, Ausführungen und Wiederholungen für intelligente Kampagnen. Legen Sie fest, wie oft Personen Ihren Kampagnenfluss durchlaufen.
 title: Registerkarte „Einstellungen“
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '324'
 ht-degree: 3%
 
 ---
@@ -60,7 +60,7 @@ Alle vorhandenen Berechtigungssätze gelten für die Registerkarte Einstellungen
 
 >[!NOTE]
 >
->Wenn nach dem Klicken auf das Hilfesymbol „Zusätzliche Berechtigung erforderlich“ angezeigt wird, wenden Sie sich an Ihren Marketo-Administrator.
+>Wenn nach dem Klicken auf das Hilfesymbol „Zusätzliche Berechtigung erforderlich“ angezeigt wird, wenden Sie sich an das Adobe-Account-Team (Ihren Account Manager).
 
 ![](assets/settings-tab-5.png)
 

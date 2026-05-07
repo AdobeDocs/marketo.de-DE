@@ -4,10 +4,10 @@ description: Automatische Antwort-E-Mail – Marketo-Dokumente – Produktdokume
 title: Automatische Antwort-E-Mail
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '380'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '391'
+ht-degree: 97%
 
 ---
 
@@ -108,7 +108,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Sobald die Kampagne aktiv ist, wird sie jedes Mal ausgeführt, wenn eine Person ein bestimmtes Formular ausfüllt. Die Kampagne läuft so lange, bis sie deaktiviert wird.
+>Sobald die Kampagne aktiv ist, wird sie jedes Mal ausgeführt, wenn eine Person ein bestimmtes Formular ausfüllt. Die Kampagne wird weiter ausgeführt, bis sie deaktiviert wird.
 
 ## Schritt 3: Ausfüllen des Formulars {#step-fill-out-the-form}
 

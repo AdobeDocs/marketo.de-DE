@@ -2,10 +2,10 @@
 title: Marketo-Produktdokumente
 description: In diesen Marketo-Produktdokumenten erfahren Sie, wie Sie Ihr Marketing voranbringen können. Beginnen Sie mit einem Marketo-Tutorial und lesen Sie andere beliebte Artikel.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 74%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Moderne Demand-Marketing-Strategien setzen durchgängige Interaktionen voraus, damit optimale Kundenerlebnisse möglich werden. Erfahren Sie, wie Sie dies mit Marketo Engage – Teil von Adobe Experience Cloud – erreichen, indem Sie sich unsere Dokumentation, Handbücher und Tutorials ansehen.
 
-Egal, ob Sie gerade erst anfangen und ein einführendes Marketo Engage-Tutorial wünschen oder schon erfahren sind und mehr aus Ihrem Abonnement herausholen möchten – alle Antworten, die Sie benötigen, finden Sie in den Marketo Engage-Produktdokumenten.
+Egal, ob Sie gerade erst anfangen und ein einführendes Marketo Engage-Tutorial wünschen oder ob Sie ein erfahrener Benutzer sind, der mehr aus Ihrem Abonnement herausholen möchte, Sie finden alle Antworten, die Sie benötigen, in den Produktdokumenten zu Marketo Engage.
 
 ## Erste Schritte
 

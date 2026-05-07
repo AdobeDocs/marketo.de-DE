@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über benutzerdefinierte Felder für Programmteil
 title: Benutzerdefinierte Felder für Programmmitglieder
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 4%
+source-wordcount: '436'
+ht-degree: 5%
 
 ---
 
@@ -56,7 +56,7 @@ Benutzerdefinierte Felder für Programmteilnehmer ermöglichen es Ihnen, program
 
 ## Trigger und Filter {#triggers-and-filters}
 
-Sie können diese programmspezifischen Daten in Smart Lists über [Trigger &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} und/oder [Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} nutzen.
+Sie können diese programmspezifischen Daten in Smart Lists über [Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} und/oder [Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} nutzen.
 
 ![](assets/six.png)
 
@@ -64,7 +64,7 @@ Sie können diese programmspezifischen Daten in Smart Lists über [Trigger &#x20
 
 * Benutzerdefinierte Felder für Programmteilnehmer sind nur in lokalen Assets verfügbar. Sie werden in Design Studio nicht unterstützt, da es nicht möglich ist, sie mit einem bestimmten Programm zu verknüpfen.
 * Sie können ein Formular (oder eine Landingpage mit einem Formular), das benutzerdefinierte Felder für Programmteilnehmer enthält, nicht klonen/in das Design Studio verschieben.
-* [Sie können die benutzerdefinierten Felder &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} Programmmitglieds mit den benutzerdefinierten Feldern für Kampagnenmitglieder synchronisieren.
+* [Sie können die benutzerdefinierten Felder ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} Programmmitglieds mit den benutzerdefinierten Feldern für Kampagnenmitglieder synchronisieren.
 * Das Objekt Programmteilnehmer kann bis zu 20 benutzerdefinierte Felder enthalten. Diese Felder stehen jedem Programm zur Verfügung.
 * Wenn Sie ein Mitglied eines Programms entfernen und im benutzerdefinierten Feld Programmteilnehmer Daten vorhanden sind, werden die Daten aus diesem Feld bereinigt.
 * Um die Daten anzuzeigen, klicken Sie im Programm auf die Registerkarte Mitglieder und erstellen Sie eine benutzerdefinierte Ansicht, die diese Felder enthält.

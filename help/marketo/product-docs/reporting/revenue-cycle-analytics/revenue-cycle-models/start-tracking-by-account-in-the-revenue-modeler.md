@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über das Start-Tracking nach Konto im Umsatzmode
 title: Beginnen mit dem Tracking nach Konto im Umsatz-Modeler
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 6%
+source-wordcount: '267'
+ht-degree: 5%
 
 ---
 
@@ -39,7 +39,7 @@ Mit der Umsatzstufe Modeler und dem [!UICONTROL Umsatz-Explorer] können Sie ins
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. Wählen Sie im angezeigten Dialogfeld die Option **[!UICONTROL Ja]** und klicken Sie in der Mitte auf den nach rechts zeigenden Pfeil. Dadurch werden nur die Phasen gefiltert, für die „Tracking nach Konto“ aktiviert ist. Klicken Sie **[!UICONTROL auf]**, wenn Sie fertig sind.
+1. Wählen Sie im angezeigten Dialogfeld die Option **[!UICONTROL Ja]** und klicken Sie in der Mitte auf den nach rechts zeigenden Pfeil. Dadurch werden nur die Phasen gefiltert, für die „Tracking nach Konto“ aktiviert ist. Klicken Sie **[!UICONTROL Abschluss]** OK“.
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 

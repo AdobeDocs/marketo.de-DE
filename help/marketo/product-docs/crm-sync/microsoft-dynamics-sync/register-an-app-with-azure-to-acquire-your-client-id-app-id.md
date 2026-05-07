@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine App bei Azure registrieren, um Ihre Clie
 title: Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhalten
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '360'
 ht-degree: 6%
 
 ---
@@ -28,13 +28,13 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
    >Wenn Sie noch kein Azure-Konto haben, können Sie [sich anmelden](https://azure.microsoft.com/en-us/free/){target="_blank"} um eines zu erhalten. Weitere Informationen finden Sie in der Dokumentation von Microsoft oder bei Ihrem Microsoft-Support-Mitarbeiter. Nachdem Sie ein Azure-Konto erstellt haben, können Sie eine oder mehrere Apps wie unten beschrieben registrieren.
    >
    >
-   >Wenn Sie über ein Azure-Konto verfügen, Ihr [!DNL Office 365]-Abonnement für [!DNL Microsoft Dynamics 365] jedoch nicht in Ihrem Azure-Abonnement verfügbar ist, befolgen Sie [diese Anweisungen](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} um die beiden Konten zu verknüpfen.
+   >Wenn Sie über ein Azure-Konto verfügen, Ihr [!DNL Office 365]-Abonnement mit [!DNL Microsoft Dynamics 365] jedoch nicht in Ihrem Azure-Abonnement verfügbar ist, befolgen Sie [diese Anweisungen](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} um die beiden Konten zu verknüpfen.
 
 1. Suchen Sie nach **[!UICONTROL Azure Active Directory]** im linken Navigationsbereich und klicken Sie darauf.
 
    ![](assets/two.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
 
    ![](assets/three.png)
 
@@ -56,7 +56,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/seven.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
 
    ![](assets/eight.png)
 
@@ -84,6 +84,6 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/fourteen.png)
 
-   Und du bist fertig!
+   Und Sie sind fertig!
 
    ![](assets/fifteen.png)

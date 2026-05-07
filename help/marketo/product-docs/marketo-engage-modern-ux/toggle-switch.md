@@ -5,16 +5,16 @@ exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 hide: true
 hidefromtoc: true
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 89%
+source-wordcount: '301'
+ht-degree: 86%
 
 ---
 
 # Umschalter {#toggle-switch}
 
-Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von Marketo und der modernen Benutzeroberfläche wechseln. Er ist in allen unten hervorgehobenen Bereichen verfügbar.
+Mit dem Umschalter können Sie zwischen der klassischen Benutzeroberfläche von Marketo und der modernen Benutzeroberfläche wechseln. Es ist in allen unten hervorgehobenen Bereichen verfügbar.
 
 >[!NOTE]
 >

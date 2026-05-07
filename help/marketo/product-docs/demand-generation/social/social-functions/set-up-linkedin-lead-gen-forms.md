@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie LinkedIn Lead Gen Forms mit Marketo einrichte
 title: Einrichten von Formularen für die Lead-Generierung in LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '515'
 ht-degree: 3%
 
 ---
@@ -63,7 +63,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigenkampagnen in LinkedIn auszufü
 
    >[!TIP]
    >
-   >Wenn Sie die erwarteten Geschäftskonten nicht sehen, stellen Sie sicher, dass das autorisierte LinkedIn-Konto des Benutzers über Lead-Gen-Formular-Manager-Berechtigungen für das Geschäftskonto in LinkedIn verfügt.
+   >Wenn die erwarteten Geschäftskonten nicht angezeigt werden, stellen Sie sicher, dass das autorisierte LinkedIn-Konto des Benutzers über Lead-Gen-Formular-Manager-Berechtigungen für das Geschäftskonto in LinkedIn verfügt.
 
    ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 
@@ -77,7 +77,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigenkampagnen in LinkedIn auszufü
 
    >[!NOTE]
    >
-   >Nur LinkedIn-Felder, die bereits in LinkedIn[Kampagnenmanager in einer &#x200B;](https://www.linkedin.com/help/lms/answer/79634){target="_blank"}Formularvorlage) gespeichert wurden, werden als LinkedIn-Felder angezeigt, die Marketo-Feldern zugeordnet werden können.
+   >Nur LinkedIn-Felder, die bereits in LinkedIn[Kampagnenmanager in einer ](https://www.linkedin.com/help/lms/answer/79634){target="_blank"}Formularvorlage) gespeichert wurden, werden als LinkedIn-Felder angezeigt, die Marketo-Feldern zugeordnet werden können.
 
    ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 

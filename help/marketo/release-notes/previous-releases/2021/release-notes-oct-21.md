@@ -3,9 +3,9 @@ description: Oktober 2021 - Marketo-Dokumentation - Produktdokumentation
 title: Oktober 2021 – Versionshinweise
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1116'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **[!DNL Sales Insight]für [!DNL Microsoft Dynamics 365] Sales**
 
-* **[!UICONTROL Best Bets] Verbesserungen**: Die Registerkarte [!UICONTROL Best &#x200B;] in [!DNL Sales Insight] bietet eine Echtzeitansicht der wichtigsten Kontakte und Leads, die nach Qualität und Dringlichkeit priorisiert sind. Wir haben Vertriebsmitarbeitern die Möglichkeit eröffnet, Aktionen durchzuführen, wie zum Beispiel: den Punktestand einer Person zu überprüfen, eine E-Mail zu senden oder Interessenten direkt von der [!DNL Best Bets] aus zu bestimmten Marketo Engage-Kampagnen hinzuzufügen, was die Effizienz erhöht und die Reaktionszeit beschleunigt.
+* **[!UICONTROL Best Bets] Verbesserungen**: Die Registerkarte [!UICONTROL Best ] in [!DNL Sales Insight] bietet eine Echtzeitansicht der wichtigsten Kontakte und Leads, die nach Qualität und Dringlichkeit priorisiert sind. Wir haben Vertriebsmitarbeitern die Möglichkeit eröffnet, Aktionen durchzuführen, wie zum Beispiel: den Punktestand einer Person zu überprüfen, eine E-Mail zu senden oder Interessenten direkt von der [!DNL Best Bets] aus zu bestimmten Marketo Engage-Kampagnen hinzuzufügen, was die Effizienz erhöht und die Reaktionszeit beschleunigt.
 
 * **Neue E-Mail-, Web-Aktivitäts-, anonyme Web-Aktivitäts-Dashboards**: Wir haben die neuen Vertriebs-Dashboards hinzugefügt, um Verkäufer über die neuesten E-Mail- und Web-Aktivitäten ihrer Leads und Kontakte zu informieren. Mit der neuen Filterfunktion bieten die Dashboards jetzt insight in E-Mail-Öffnungen, Klicks und Web-Seitenbesuche für die vollständige Liste der Konten oder ein bestimmtes Konto. Marketo Engage verfolgt alle Web-Aktivitäten und stellt dem Vertrieb wichtige Informationen bereit, sodass anonymer Traffic zu Leads wird. Verkäufer können Interaktionen personalisieren und Leads schneller in Verkäufe umwandeln, da sie besser über das Lead-Verhalten informiert sind und basierend auf der Relevanz aller Touchpoints handeln.
 
@@ -66,7 +66,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 * **Enhanced Sales Activity Insights**: Eine neue E-Mail-Antwortverfolgungsaktivität, Vertriebs-E-Mail geantwortet, verfolgt die Interaktionen der Empfänger mit einer E-Mail, die automatisch mit Marketo Engage synchronisiert wird. Darüber hinaus wurde das Attribut &quot;Source&quot; von „Tout“ in „Verkaufs-App“ aktualisiert. Diese Aktivität kann über die Marketo Engage-REST-API oder den Massenexport exportiert und gemeldet werden und steht für Filter und Trigger als zusätzliche Einschränkung für Smart-Listen zur Verfügung, wodurch die Personalisierungsoptionen in Smart-Kampagnen erweitert werden.
 
-* **Optimiertes Benutzererlebnis**: Dieses Update führt neue Schriftarten, Farben, Schaltflächen und Modale für [!DNL Sales Connect] ein, die auf dem Adobe Spectrum-Design-System basieren. Mit diesen Updates bieten wir ein effizienteres Erlebnis, bei dem sich Verkäufer auf das konzentrieren können, was bei Bedarf benötigt wird.
+* **Optimiertes Benutzererlebnis**: Dieses Update führt neue Schriftarten, Farben, Schaltflächen und Modale für [!DNL Sales Connect] ein, die auf dem Adobe Spectrum-Design-System basieren. Mit diesen Updates bieten wir ein effizienteres Erlebnis, bei dem sich Verkäufer auf das konzentrieren können, was erforderlich ist, wenn es benötigt wird.
 
 ## [!DNL Bizible] {#bizible}
 
@@ -78,8 +78,8 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 * **Associate Lead-Einstellung/Munchkin Beta 161-Aktualisierung**: Am 7. September 2021 begann Munchkin in Version 161 mit dem Rollout von 10 % der Abonnements mit aktiviertem Munchkin Beta, gefolgt von 50 % am 16. September und 100 % am 30. September. Diese Änderung betrifft Landingpages in Marketo Engage und die Version der Datei munchkin-beta.js, die externen Landingpages bereitgestellt wird, welche aus Abonnements geladen werden, für die die aktuelle Version ausgerollt wurde. Diese Version verwirft vollständig die [!DNL Munchkin] Associate Lead -Methode, eine Funktion, die die Übermittlung der Daten einer Person an ein Marketo Engage-Abonnement und den zugehörigen Webbrowsing-Verlauf mit einem bekannten Personendatensatz ermöglicht. Der verknüpfte Lead wird zugunsten von moderneren und sichereren Alternativen wie der Forms JS-API, der Formularübermittlungs-API und der REST-API für den verknüpften Lead entfernt. [Weitere Informationen zu dieser Einstellung finden Sie hier](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
-* **[!DNL Sales Connect]Aktualisierung**: Eine kürzlich vorgenommene Änderung der Benutzeroberfläche in [!DNL Sales Connect] hat dazu geführt, dass einige Modale in [!DNL Salesforce] abgeschnitten wurden. Um dies zu beheben, führen Sie eine [Paketaktualisierung“ &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+* **[!DNL Sales Connect]Aktualisierung**: Eine kürzlich vorgenommene Änderung der Benutzeroberfläche in [!DNL Sales Connect] hat dazu geführt, dass einige Modale in [!DNL Salesforce] abgeschnitten wurden. Um dies zu beheben, führen Sie eine [Paketaktualisierung“ ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **_Webinar zur Produktversion_**
 
-[Webinar zur Marketo Engage-Version Oktober 2021](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
+[Marketo Engage-Versions-Webinar Oktober 2021](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)

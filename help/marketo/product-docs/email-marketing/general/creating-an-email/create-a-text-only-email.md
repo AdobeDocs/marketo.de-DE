@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie in Marketo eine schreibgeschützte E-Mail ers
 title: Erstellen einer Nur-Text-E-Mail
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 9%
+source-wordcount: '203'
+ht-degree: 8%
 
 ---
 
@@ -45,7 +45,7 @@ Wenn Sie jemals nur Text-E-Mails senden möchten, finden Sie hier eine E-Mail, d
 
    >[!CAUTION]
    >
-   >Links werden nicht automatisch in Nur-Text-E-Mails nachverfolgt. Siehe „Hinzufügen [&#x200B; getrackten Links zu einer Text-E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Links werden nicht automatisch in Nur-Text-E-Mails nachverfolgt. Siehe „Hinzufügen [ getrackten Links zu einer Text-E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >

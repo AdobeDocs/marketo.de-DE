@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Schaltfläche zum Schließen einrichten u
 title: Schaltfläche „Schließen“ einrichten und Nachricht genehmigen
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Die Schaltfläche „Schließen“ bietet viele Optionen, mit denen Sie sie nach
 
 ## Pack sie ein {#wrap-it-up}
 
-Alle Ihre Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch gespeichert. Jetzt bist du bereit, die Arbeit zu beenden.
+Alle Ihre Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch gespeichert. Jetzt sind Sie bereit, die Arbeit zu beenden.
 
 1. Um eine Vorschau Ihrer In-App-Nachricht anzuzeigen, klicken Sie auf **[!UICONTROL Dropdown-]** „Nachrichtenaktionen“ und wählen Sie **[!UICONTROL Vorschau]**.
 
@@ -65,13 +65,13 @@ Alle Ihre Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch ge
    >
    >Sie können auch **[!UICONTROL Genehmigen und schließen]** direkt aus der Dropdown-Liste [!UICONTROL Nachrichtenaktionen] auswählen (siehe Schritt 1). Warum sollten Sie die Nachricht jedoch nicht zuerst in der Vorschau anzeigen, nur um sicher zu sein?
 
-1. Um den Editor ohne Genehmigung zu schließen, schließen Sie einfach die Registerkarte . Er wird automatisch gespeichert, sodass Sie ihn später zurückgeben und genehmigen können.
+1. Um den Editor ohne Genehmigung zu schließen, schließen Sie einfach die Registerkarte . Es wird automatisch gespeichert, sodass Sie es später zurückgeben und genehmigen können.
 
    ![](assets/image2016-5-9-11-3a9-3a46.png)
 
 So viele Möglichkeiten, aber jetzt haben Sie eine großartige In-App-Nachricht, bereit zu gehen!
 
-Jetzt ist es an der Zeit, [Ihre Nachricht zu &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Jetzt ist es an der Zeit[ Ihre Nachricht zu ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >

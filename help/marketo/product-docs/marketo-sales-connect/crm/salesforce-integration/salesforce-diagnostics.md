@@ -4,10 +4,10 @@ description: Informationen zu Salesforce Diagnostics for Sales Connect. Fehlerbe
 title: Salesforce-Diagnose
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1333'
-ht-degree: 1%
+source-wordcount: '1369'
+ht-degree: 2%
 
 ---
 
@@ -150,7 +150,7 @@ Ein Teil unserer [!DNL Salesforce]-Integration umfasst eine [!DNL Salesforce] Di
 **Kategorie:** Authentifizierung
 **Nachricht:** invalid_grant: IP eingeschränkt
 **Was passiert:** Wir versuchen auf Ihre [!DNL Salesforce] zuzugreifen, aber Sie haben IP-Einschränkungen, die uns davon abhalten.
-auf die Zulassungsliste setzen **Schritte zur Fehlerbehebung:** Ihr [!DNL Salesforce]-Administrator muss unsere IPs ändern. Benutzer sollten sich an den Support wenden, um die IP-Adressen zu erhalten.
+**Schritte zur Fehlerbehebung:** Ihr [!DNL Salesforce]-Administrator muss unsere IPs ändern. Benutzer sollten sich an den Support wenden, um die IP-Adressen zu erhalten.
 
 **ERROR:** INVALID_TYPE
 **category:** access/validation
@@ -166,10 +166,10 @@ auf die Zulassungsliste setzen **Schritte zur Fehlerbehebung:** Ihr [!DNL Salesf
 
 **ERROR:** REQUEST_LIMIT_EXCEEDED
 **Kategorie:** intermittierend
-**message:**
+**Nachricht:**
 1 - ConcurrentPerOrgLongTxn-Limit überschritten
-&#x200B;2. Gesamtzahl der Anfragen überschritten
-&#x200B;3. ConcurrentRequest
+2. Gesamtzahl der Anfragen überschritten
+3. ConcurrentRequest
 **Was passiert:**
 1 - Das Limit für gleichzeitige Anfragen wurde überschritten, wahrscheinlich aufgrund eines ineffizienten Trigger-Codes.
 2 - Zu viele Integrationen führen dazu, dass die Organisation das 24-Stunden-Rollierfenster hinter sich lässt.

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie SPF und DKIM in Ihrem DNS einrichten, um die 
 title: Einrichten von SPF und DKIM für die Zustellbarkeit Ihrer E-Mails
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '434'
-ht-degree: 94%
+ht-degree: 89%
 
 ---
 
 # Einrichten von SPF und DKIM für die Zustellbarkeit Ihrer E-Mails {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Eine schnelle Methode zur Verbesserung der E-Mail-Zustellraten besteht darin, **SPF** (Sender Policy Framework) und **DKIM** (Domain Keys Identified Mail) in Ihre DNS-Einstellungen einzubinden. Mit dieser Ergänzung Ihrer DNS-Einträge teilen Sie den Empfangenden mit, dass Sie Marketo autorisiert haben, E-Mails in Ihrem Namen zu senden. Ohne diese Änderung ist die Wahrscheinlichkeit höher, dass Ihre E-Mail als Spam gekennzeichnet wird, da sie von Ihrer Domain adressiert, aber von einer IP-Adresse mit einer Marketo-Domain gesendet wurde.
+Eine schnelle Methode zur Verbesserung der E-Mail-Zustellraten besteht darin, **SPF** (Sender Policy Framework) und **DKIM** (Domain Keys Identified Mail) in Ihre DNS-Einstellungen einzubinden. Mit dieser Erweiterung Ihrer DNS-Einträge teilen Sie den Empfängerinnen und Empfängern mit, dass Sie Marketo autorisiert haben, E-Mails in Ihrem Namen zu senden. Ohne diese Änderung ist die Wahrscheinlichkeit höher, dass Ihre E-Mail als Spam gekennzeichnet wird, da sie von Ihrer Domain adressiert, aber von einer IP-Adresse mit einer Marketo-Domain gesendet wurde.
 
 >[!CAUTION]
 >
@@ -23,7 +23,7 @@ Eine schnelle Methode zur Verbesserung der E-Mail-Zustellraten besteht darin, **
 
 **Wenn KEIN SPF-Eintrag in Ihrer Domain vorhanden ist**
 
-Bitten Sie Ihre bzw. Ihren Netzwerkadmin, die folgende Zeile zu Ihren DNS-Einträgen hinzuzufügen. Ersetzen Sie [Domain] durch die Haupt-Domain Ihrer Website (z. B. „unternehmen.com“) und [corpIP] mit der IP-Adresse des E-Mail-Servers Ihres Unternehmens (z. B. „255.255.255.255“). Wenn Sie E-Mails von mehreren Domains über Marketo senden, sollten Sie dies zu jeder Domain hinzufügen (in einer Zeile).
+Bitten Sie Ihre bzw. Ihren Netzwerkadmin, die folgende Zeile zu Ihren DNS-Einträgen hinzuzufügen. Ersetzen Sie [Domain] durch die Haupt-Domain Ihrer Website (z. B. „unternehmen.com“) und [corpIP] mit der IP-Adresse des E-Mail-Servers Ihres Unternehmens (z. B. &quot;255.255.255.255&quot;). Wenn Sie E-Mails von mehreren Domains über Marketo senden, sollten Sie dies zu jeder Domain hinzufügen (in einer Zeile).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 

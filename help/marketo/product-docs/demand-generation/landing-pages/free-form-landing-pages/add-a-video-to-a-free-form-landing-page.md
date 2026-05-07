@@ -6,10 +6,10 @@ exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 6%
+source-wordcount: '259'
+ht-degree: 7%
 
 ---
 
@@ -45,7 +45,7 @@ Legen Sie Videos mit Social-Sharing-Optionen auf Ihren Landingpages ab.
 >
 >Um Zeit zu sparen, können Sie die Option **[!UICONTROL Klonen von]** verwenden, um alle Einstellungen aus einer vorhandenen Videofreigabe zu kopieren.
 
-Herzlichen Glückwunsch! Sie haben Ihrer Freiform-Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage, und Ihre Videofreigabe ist live. Sie können [&#x200B; &#x200B;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) Landingpage auch auf Facebook veröffentlichen oder _die Videofreigabe auf Ihre Website_.
+Herzlichen Glückwunsch! Sie haben Ihrer Freiform-Landingpage eine Videofreigabe hinzugefügt. Genehmigen Sie die Landingpage, und Ihre Videofreigabe ist live. Sie können [ ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) Landingpage auch auf Facebook veröffentlichen oder _die Videofreigabe auf Ihre Website_.
 
 >[!MORELIKETHIS]
 >

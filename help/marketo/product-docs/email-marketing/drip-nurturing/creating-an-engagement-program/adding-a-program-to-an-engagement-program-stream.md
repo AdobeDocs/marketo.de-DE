@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über verschachtelte Programme in Interaktionsstr
 title: Hinzufügen eines Programms zu einem Interaktionsprogramm-Stream
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '477'
 ht-degree: 4%
 
 ---
@@ -28,7 +28,7 @@ Es ist einfach, eine E-Mail zu einem Stream in einem Interaktionsprogramm hinzuz
 Bei Verwendung eines verschachtelten Programms basiert die Entscheidung, eine E-Mail an eine Person zu senden, auf der Programmmitgliedschaft und der Programm-ID.
 
 * Wenn Sie kein Programmteilnehmer sind, erhalten Sie alle E-Mails, die Teil des Programms sind, einmal
-* Wenn Sie Mitglied des Programms sind, erhalten Sie die E-Mail nicht
+* Wenn Sie Programmteilnehmer sind, erhalten Sie die E-Mail nicht
 * Wenn Sie kein Mitglied mehr sind, aber die E-Mail früher über dieses Programm erhalten haben, erhalten Sie die E-Mail nicht mehr
 
 Wenn Sie ein Programm in einem Stream verwenden, spielt es keine Rolle, ob Sie diese spezifische E-Mail bereits erhalten haben. Solange die E-Mail nicht vor (in *bestimmten Programm) gesendet wurde* können Sie sie erneut erhalten.

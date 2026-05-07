@@ -4,16 +4,16 @@ description: Erfahren Sie mehr über das TAM-Haupt-Dashboard und eine Zusammenfa
 title: TAM-Haupt-Dashboard
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '137'
 ht-degree: 4%
 
 ---
 
 # TAM-Haupt-Dashboard {#tam-main-dashboard}
 
-Das Haupt-Dashboard bietet eine Zusammenfassung Ihrer [!UICONTROL Target-Kontoverwaltung]-Maßnahmen. Sie können die Zielkonten oder Account-Listen sehen, die Erfolg zeigen, sowie die Konten, die mehr Aufmerksamkeit benötigen.
+Das Haupt-Dashboard bietet eine Zusammenfassung Ihrer [!UICONTROL Target-Kontoverwaltung]-Maßnahmen. Sie können die Zielkonten oder Account-Listen sehen, die Erfolg zeigen, sowie die Konten, die mehr Aufmerksamkeit erfordern.
 
 ![](assets/one.png)
 

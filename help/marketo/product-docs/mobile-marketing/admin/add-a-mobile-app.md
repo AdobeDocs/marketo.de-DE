@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine Mobile App zu Marketo hinzufügen, um Pu
 title: Hinzufügen einer Mobile App
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '216'
 ht-degree: 4%
 
 ---
@@ -34,7 +34,7 @@ Apps beginnen normalerweise in einer Sandbox-Umgebung, in der die anfängliche E
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Geben Sie einen Namen ein. Wählen Sie in **[!UICONTROL Dropdown]** Typ“ den verwendeten Umgebungstyp aus: [!UICONTROL Sandbox] oder [!UICONTROL Produktion]. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie einen Namen ein. Wählen **[!UICONTROL in der Dropdown]** Liste „Typ“ den verwendeten Umgebungstyp aus - [!UICONTROL Sandbox] oder [!UICONTROL Produktion]. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 

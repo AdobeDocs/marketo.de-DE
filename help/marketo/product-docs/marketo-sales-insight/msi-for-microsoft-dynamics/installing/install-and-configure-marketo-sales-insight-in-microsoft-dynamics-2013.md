@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Marketo Sales Insight in Microsoft Dynamics 2
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2013
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '410'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 5%
 >
 >Abschließen der Marketo-Microsoft-Integration
 >
->[Laden Sie die richtige Lösung &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version [!DNL Microsoft Dynamics] CRM herunter.
+>[Laden Sie die richtige Lösung ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version [!DNL Microsoft Dynamics] CRM herunter.
 
 ## Lösung importieren {#import-solution}
 
@@ -69,7 +69,7 @@ OK, jetzt ist es Zeit, die [!DNL Marketo Sales Insight] Lösung in [!DNL Microso
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
-1. Fantastisch! Sie sollten die Lösung jetzt sehen. Wenn er nicht da ist, aktualisieren Sie Ihren Bildschirm.
+1. Fantastisch! Sie sollten die Lösung jetzt sehen. Wenn er nicht vorhanden ist, aktualisieren Sie Ihren Bildschirm.
 
    ![](assets/image2014-12-12-9-3a6-3a40.png)
 
@@ -99,7 +99,7 @@ Binden wir Ihre Marketo-Instanz an [!DNL Sales Insight] in [!DNL Dynamics].
 
    >[!NOTE]
    >
-   >Die folgenden Felder müssen mit Marketo Insight synchronisiert werden, damit _Lead und Kontakt_ funktioniert:
+   >Die folgenden Felder müssen mit Marketo synchronisiert werden, damit _Lead und Kontakt_ funktioniert:
    >
    >* Priorität
    >* Dringlichkeit

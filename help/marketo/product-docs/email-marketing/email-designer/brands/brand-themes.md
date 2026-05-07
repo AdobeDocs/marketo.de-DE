@@ -6,10 +6,10 @@ description: Erfahren Sie, wie Sie Markenrichtlinien in Marketo Engage erstellen
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 7%
+source-wordcount: '1113'
+ht-degree: 10%
 
 ---
 
@@ -385,7 +385,7 @@ Nachdem das Fragment veröffentlicht wurde, kann es in jeder E-Mail-/E-Mail-Vorl
 
 ## Zu beachtende Punkte {#things-to-note}
 
-* Wenn Sie eine E-Mail von Grund auf neu erstellen, können Sie mit der Erstellung Ihres Inhalts beginnen, indem Sie ein Design verwenden, um schnell einen bestimmten Stil anzuwenden, der zu Ihrer Marke und Ihrem Design passt. Wenn Sie den klassischen Modus wählen, können Sie keine Designs anwenden, es sei denn, Sie setzen Ihre E-Mail zurück.
+* Wenn Sie eine E-Mail von Grund auf neu erstellen, können Sie die Erstellung Ihres Inhalts mit einem Design beginnen, um schnell einen bestimmten Stil anzuwenden, der zu Ihrer Marke und Ihrem Design passt. Wenn Sie den klassischen Modus wählen, können Sie keine Designs anwenden, es sei denn, Sie setzen Ihre E-Mail zurück.
 
 * Fragmente sind zwischen dem Design-Modus und dem klassischen Modus nicht kreuzkompatibel. Um ein Fragment in einem Inhalt verwenden zu können, auf den ein Design angewendet wird, muss es im Design-Modus erstellt werden.
 

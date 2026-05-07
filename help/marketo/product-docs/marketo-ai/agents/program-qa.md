@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie Ihre Programme auf Best Practices für alle K
 title: Programm-QA
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails
 
 >[!NOTE]
 >
->Diese Funktion befindet sich in der offenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird, erfahren Sie, wann_ für Ihr Abonnement aktiviert wurde.
+>Diese Funktion befindet sich in der offenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird,_ Sie, wann sie für Ihr Abonnement aktiviert wurde.
 
 ## Informationen zur Verwendung {#how-to-use}
 

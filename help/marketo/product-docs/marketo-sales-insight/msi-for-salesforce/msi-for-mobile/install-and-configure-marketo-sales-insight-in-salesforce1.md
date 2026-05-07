@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Marketo Sales Insight in Salesforce Mobile (S
 title: Installieren und Konfigurieren von Marketo Sales Insight in Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '350'
 ht-degree: 3%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] in [!DNL Salesforce1] umfasst: [!DNL BBeste &#x200B;]), Lead-Feed, Interessante Momente und Zu Marketo Campaign hinzufügen.
+>[!DNL Marketo Sales Insight] in [!DNL Salesforce1] umfasst: [!DNLBBeste ]), Lead-Feed, Interessante Momente und Zu Marketo Campaign hinzufügen.
 
 ## Aktivieren der [!DNL Salesforce1] Mobile App {#enable-the-salesforce1-mobile-app}
 
@@ -131,7 +131,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >Wiederholen Sie die Schritte für jedes Seiten-Layout, das Ihr Unternehmen (Marketing, Vertrieb usw.) für Objekte des Typs Kontakt, Konto und Opportunity verwendet.
+   >Wiederholen Sie die Schritte für jedes Seiten-Layout, das Ihr Unternehmen verwendet (Marketing, Vertrieb usw.) für Kontakt-, Konto- und Opportunity-Objekte.
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
@@ -159,7 +159,7 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-Puh! Sie sind nun endlich fertig mit der Installation von [!DNL Marketo Sales Insight] für [!DNL Salesforce1]! Jetzt klopfen Sie sich mal auf die Schulter.
+Puh! Sie haben die Installation von [!DNL Marketo Sales Insight] für [!DNL Salesforce1] abgeschlossen! Jetzt klopfen Sie sich mal auf die Schulter.
 
 >[!MORELIKETHIS]
 >

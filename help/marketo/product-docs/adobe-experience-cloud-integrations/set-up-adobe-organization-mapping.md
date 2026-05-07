@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Adobe-Organisationszuordnung in Marketo E
 title: Einrichten der Adobe-Organisationszuordnung
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '247'
 ht-degree: 6%
 
 ---
@@ -36,7 +36,7 @@ Um mit Adobe-Programmen wie Audience Manager, dem B2B CDP-Marketo-Connector, [!D
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Geben Sie Ihre Adobe IMS-Organisations-ID ein (erfahren Sie hier[&#x200B; wie Sie sie finden](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=de){target="_blank"} und klicken Sie auf **[!UICONTROL OK]**.
+1. Geben Sie Ihre [Adobe IMS Org ID](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) ein und klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -50,8 +50,8 @@ Um mit Adobe-Programmen wie Audience Manager, dem B2B CDP-Marketo-Connector, [!D
 
    >[!IMPORTANT]
    >
-   >Aus Sicherheitsgründen müssen Sie ein Organisations-Admin für die Adobe-Organisation sein, der Sie zuordnen möchten. Ist dies nicht der Fall, schlägt die Aktion fehl. Darüber hinaus müssen Adobe-Benutzende und Marketo-Benutzende beim Anmelden dieselbe E-Mail-Adresse verwenden.
+   >Aus Sicherheitsgründen müssen Sie ein Organisations-Admin für die Adobe-Organisation sein, der Sie zuordnen möchten. Andernfalls schlägt die Aktion fehl. Darüber hinaus müssen Adobe-Benutzende und Marketo-Benutzende beim Anmelden dieselbe E-Mail-Adresse verwenden.
 
-1. Wenn Sie _noch nicht_ angemeldet sind, wird ein Popup-Fenster in einer neuen Registerkarte/einem neuen Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (dieser Vorgang validiert den Organisationszugriff).
+1. Wenn Sie _noch nicht_ angemeldet sind, wird ein Popup-Fenster in einer neuen Registerkarte oder einem neuen Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (dieser Vorgang validiert den Organisationszugriff).
 
-Sie können [&#x200B; Adobe Experience Cloud jetzt Zielgruppendaten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} oder [synchronisieren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}.
+Sie können [ Adobe Experience Cloud jetzt Zielgruppendaten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} oder [synchronisieren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}.

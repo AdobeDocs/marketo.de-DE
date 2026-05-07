@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie über Sales Connect Einzelpersonen oder Grupp
 title: Hinzufügen zu Marketing-Kampagne
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '333'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 2%
 
    ![](assets/eight.png)
 
-1. Ihnen werden die Kontakte angezeigt, die qualifiziert sind. Klicken Sie **[!UICONTROL Start]**, um sie hinzuzufügen.
+1. Ihnen werden die qualifizierten Kontakte angezeigt. Klicken Sie **[!UICONTROL Start]**, um sie hinzuzufügen.
 
    ![](assets/nine.png)
 
@@ -69,7 +69,7 @@ ht-degree: 2%
 
    ![](assets/one-3.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Meine &#x200B;]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
+1. Wählen [!UICONTROL  unter „Meine ]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
 
    ![](assets/eleven.png)
 
@@ -101,6 +101,6 @@ ht-degree: 2%
 
    ![](assets/eight.png)
 
-1. Ihnen werden die Kontakte angezeigt, die qualifiziert sind. Klicken Sie **[!UICONTROL Start]**, um sie hinzuzufügen.
+1. Ihnen werden die qualifizierten Kontakte angezeigt. Klicken Sie **[!UICONTROL Start]**, um sie hinzuzufügen.
 
    ![](assets/nine.png)

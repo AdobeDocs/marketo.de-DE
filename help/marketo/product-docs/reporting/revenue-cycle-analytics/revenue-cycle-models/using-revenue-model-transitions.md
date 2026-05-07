@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo Engage mithilfe von Umsatzmodellü
 title: Verwenden von Umsatzmodellübergängen
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 3%
 
 ---

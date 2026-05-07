@@ -2,9 +2,9 @@
 description: Erfahren Sie, wie Sie Marketo Sales Connect von Salesforce Classic deinstallieren. Entfernen Sie Sales Connect-Anpassungen und -Schaltflächen aus Classic.
 title: Deinstallieren von Marketo Sales Connect aus Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1196'
 ht-degree: 10%
 
 ---
@@ -55,7 +55,7 @@ So deinstallieren Sie das Marketo Sales Connect-Paket von Ihrem Salesforce-Konto
    >
    >Wenn keine der Schaltflächen ausgegraut ist, bedeutet dies, dass Sie sie nicht hinzugefügt haben. Sie können diesen Abschnitt überspringen.
 
-1. Ziehen Sie die MSC-Schaltflächen per Drag-and[!UICONTROL Drop aus dem Abschnitt „Benutzerdefinierte &#x200B;]&quot; in die Konsole.
+1. Ziehen Sie die MSC-Schaltflächen per Drag-and[!UICONTROL Drop aus dem Abschnitt „Benutzerdefinierte ]&quot; in die Konsole.
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
@@ -75,7 +75,7 @@ So deinstallieren Sie das Marketo Sales Connect-Paket von Ihrem Salesforce-Konto
 
    >[!NOTE]
    >
-   >Die Abkürzung MSE _is_ [!DNL Sales Connect]. Es ist nur der frühere Name, &quot;Marketo Sales Engage“.
+   >Die Abkürzung MSE _is_ [!DNL Sales Connect]. Es ist nur der vorherige Name, &quot;Marketo Sales Engage“.
 
 1. Klicken Sie **Speichern** wenn Sie mit der Seite Leads fertig sind.
 
@@ -139,7 +139,7 @@ Die Kontoansicht enthält nur eine Schaltfläche „E-Mail senden“ und die fol
 
 1. Klicken Sie **[!UICONTROL Meine Registerkarten anpassen]**.
 
-1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf [!UICONTROL &#x200B; Pfeil „Entfernen] und dann auf **[!UICONTROL Speichern]**.
+1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf [!UICONTROL  Pfeil „Entfernen] und dann auf **[!UICONTROL Speichern]**.
 
 ## [!DNL Sales Connect] löschen {#delete-sales-connect-package}
 
@@ -151,7 +151,7 @@ Nachdem Sie alle Objekte aus Ihrem Salesforce-Konto entfernt haben, führen Sie 
 
 1. Klicken Sie **allen** „MarketoSalesConnectionCustomization“ oder „MarketoSalesEngageCustomization“ auf der Liste auf „Löschen“.
 
-Das war’s schon!
+Sie sind bereit!
 
 Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Instanz entfernt werden müssen:
 
@@ -383,7 +383,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Lead</td>
  </tr>
  <tr>
-  <td>[!UICONTROL -Aufruf mit MSC]</td>
+  <td>[!UICONTROL-Aufruf mit MSC]</td>
   <td>Verkaufsanrufe tätigen von [!DNL Salesforce]</td>
   <td>
   <p>Kontakt

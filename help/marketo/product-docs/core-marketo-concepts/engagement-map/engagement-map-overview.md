@@ -2,9 +2,9 @@
 description: Erfahren Sie mehr über die Interaktionskarte zur Visualisierung Ihrer Smart-Kampagnen. Damit können Sie Trigger, Filter und Flussschritte in Marketo intuitiv anzeigen.
 title: Interaktionskarte – Übersicht
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
@@ -73,11 +73,11 @@ Die obere Navigationsleiste enthält die folgenden Funktionen:
 
 **Muss ich alle meine Kampagnen in der Interaktionskarte neu erstellen?**
 
-Nein. Interaktionszuordnung ist vollständig abwärtskompatibel. Mit einem Klick auf eine Schaltfläche können Sie jede Ihrer vorhandenen Kampagnen in der visuellen Interaktionskarte anzeigen.
+Nein. Interaktionszuordnung ist vollständig abwärtskompatibel. Mit einem Mausklick auf eine Schaltfläche können Sie jede Ihrer vorhandenen Kampagnen in der visuellen Interaktionskarte anzeigen.
 
 **Bedeutet Engagement Map in Marketo Engage, dass ich den Zugriff auf die Ordnerstruktur verliere und erneut lernen muss, wie man eine Smart Campaign erstellt?**
 
-Nein. Das Tolle an Engagement Map ist, dass sie das Beste aus beiden Welten bietet. Sie ergänzt die derzeitige Art und Weise, wie Kampagnen erstellt werden. Alle Anwender erhalten weiterhin die leistungsstarken Funktionen von Marketo Engage, die nun durch klare visuelle Elemente ergänzt werden.
+Nein. Interaktionskarte bietet das Beste aus beiden Welten; sie ergänzt die aktuelle Art und Weise, wie Sie Kampagnen erstellen. Alle Anwender erhalten weiterhin die leistungsstarken Funktionen von Marketo Engage, die nun durch klare visuelle Elemente ergänzt werden.
 
 **Ist Engagement Map ein kostenpflichtiges Add-on?**
 
@@ -85,7 +85,7 @@ Nein. Alle bestehenden und neuen Marketo Engage-Benutzer unter allen Abonnements
 
 **Bin ich als Marketo Engage-Administrator dafür verantwortlich, die Interaktionskarte zu aktivieren/deaktivieren?**
 
-Nein. Interaktionszuordnung steht allen Benutzern in ihren Instanzen zur Verfügung. Sie können sie für bestimmte Benutzer, Arbeitsbereiche usw. nicht aktivieren/deaktivieren.
+Nein. Interaktionszuordnung steht allen Benutzern in ihren Instanzen zur Verfügung. Sie können sie für bestimmte Benutzer, Arbeitsbereiche usw. nicht aktivieren oder deaktivieren.
 
 **Wie unterscheidet sich dies von anderen visuellen Buildern?**
 
@@ -93,7 +93,7 @@ Die Interaktionskarte zeichnet sich durch drei Schlüsselelemente aus:
 
 * Flexibilität: Einfaches Verwalten und Validieren von verbundenen oder tief verschachtelten Kampagnen mit Visualisierung.
 
-* Funktionalität: Alle Visualisierungen sind vorkonfiguriert, was die Verwendung erleichtert. Die verschachtelte Struktur ermöglicht es Ihnen, einzutauchen und das gesamte Bild zu erhalten.
+* Funktionalität: Alle Visualisierungen sind vorkonfiguriert, was die Verwendung erleichtert. Die verschachtelte Struktur ermöglicht es Ihnen, tief zu gehen und das vollständige Bild zu sehen.
 
 * Leistung: Sie behalten die gesamte Raffinesse von Marketo Engage, jetzt in einem visuellen Format.
 

@@ -3,16 +3,16 @@ description: Verstehen der Trigger und Filter von Verkaufsaktivitäten in Market
 title: Auslöser und Filter für Verkaufsaktivitäten
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '127'
 ht-degree: 7%
 
 ---
 
 # Auslöser und Filter für Verkaufsaktivitäten {#sales-activity-triggers-and-filters}
 
-Wenn Sie die Interaktion mit Ihrem Verkaufsteam besser koordinieren oder versuchen möchten, einen besseren Überblick darüber zu erhalten, wie Kunden über die Käufer-Journey interagieren, sind Einblicke in die Vertriebsaktivität in Marketo für Sie hilfreich.
+Wenn Sie die Interaktion mit Ihrem Verkaufsteam besser koordinieren oder versuchen möchten, einen besseren Überblick darüber zu erhalten, wie Kunden auf der gesamten Käufer-Journey interagieren, sind Einblicke in die Vertriebsaktivität in Marketo für Sie hilfreich.
 
 Gehen Sie wie folgt vor, um zu erfahren, wie Sie Vertriebsaktivitätsfilter und Trigger in Ihren Smart-Kampagnen verwenden.
 

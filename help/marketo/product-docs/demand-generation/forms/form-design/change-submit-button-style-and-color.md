@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie den Stil und die Farbe der Senden-Schaltfläc
 title: Ändern von Stil und Farbe der Senden-Schaltfläche
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '163'
 ht-degree: 14%
 
 ---
@@ -61,4 +61,4 @@ Wenn Sie die standardmäßige Senden-Schaltfläche als langweilig empfinden oder
 
    >[!NOTE]
    >
-   >Wie viele grafische Elemente kann die Schaltfläche je nach verwendetem Browser anders aussehen.
+   >Wie viele grafische Elemente kann die Schaltfläche je nach verwendetem Browser unterschiedlich aussehen.

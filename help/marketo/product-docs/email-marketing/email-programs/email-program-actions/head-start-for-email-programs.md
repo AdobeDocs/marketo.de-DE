@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über den „Head Start“ für E-Mail-Programme.
 title: Vorsprung für E-Mail-Programme
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '430'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, bestimmt di
    >
    >Head Start kann nicht mit A/B-Tests verwendet werden.
 
-1. Wählen Sie in [!UICONTROL &#x200B; Kachel &#x200B;]Zeitplan“ die Option E-Mail planen und dann das Feld **[!UICONTROL Direktstart]** aus.
+1. Wählen Sie in [!UICONTROL  Kachel ]Zeitplan“ die Option E-Mail planen und dann das Feld **[!UICONTROL Direktstart]** aus.
 
    ![](assets/three-1.png)
 
@@ -66,7 +66,7 @@ Wenn Sie ein Datum/eine Uhrzeit für ein E-Mail-Programm auswählen, bestimmt di
 
 Unsere bestehende Head Start-Funktion erfordert, dass das Programm mindestens 12 Stunden im Voraus geplant wird. Was bedeutet dies für die Zeitzone des Empfängers? Erinnern Sie sich daran, dass wir, wenn die Zeitzone des Empfängers aktiv ist, das E-Mail-Programm um Mitternacht in der frühesten Zeitzone ausführen (UTC +14:00). Um also **sowohl** Kopfstart- als auch Empfängerzeitzone zu aktivieren, müssen Programme geplant werden **mindestens 12 Stunden vor der frühesten Zeitzone (UTC +14:00**).
 
-Wenn Sie also in Amerika/Los Angeles sind und sowohl die Zeitzone „Head Start“ als auch die Zeitzone „Empfänger“ aktivieren möchten, müssen Sie das Programm **34 Stunden)**. Wie sind wir zu dieser Nummer gekommen?
+Wenn Sie also in Amerika/Los Angeles sind und sowohl die Zeitzone „Head Start“ als auch die Zeitzone „Empfänger“ aktivieren möchten, müssen Sie das Programm **34 Stunden** im Voraus planen. Wie sind wir zu dieser Nummer gekommen?
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 

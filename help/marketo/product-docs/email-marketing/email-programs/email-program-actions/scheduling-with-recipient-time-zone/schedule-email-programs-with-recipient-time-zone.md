@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie E-Mail-Programme mit der Zeitzone des Empfän
 title: Planen von E-Mail-Programmen mit Zeitzone der Empfängerin bzw. des Empfängers
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '854'
 ht-degree: 2%
 
 ---
@@ -73,7 +73,7 @@ In diesem zweiten Szenario genehmigen Sie ein E-Mail-Programm mit **[!UICONTROL 
 
 Sprechen wir nun darüber, wie [[!UICONTROL Kopfstart]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) mit der **[!UICONTROL Zeitzone des Empfängers“]**. Unsere bestehende Head Start-Funktion erfordert, dass das Programm mindestens 12 Stunden im Voraus geplant wird. Was bedeutet das nun für die Zeitzone des Empfängers? Denken Sie daran, dass wir bei aktivierter Zeitzone des Empfängers das E-Mail-Programm zum geplanten Zeitpunkt in der frühesten Zeitzone ausführen (UTC +14:00). Um also (**)**- und Empfängerzeitzone zu aktivieren, müssen E-Mail-Programme geplant werden **mindestens 12 Stunden vor der geplanten Zeit in UTC +14:00.**
 
-Wenn Sie also in Amerika/Los Angeles sind und sowohl die Zeitzone „Head Start“ als auch die Zeitzone „Empfänger“ aktivieren möchten, müssen Sie das Programm **34 Stunden)**. Wie sind wir zu dieser Nummer gekommen?
+Wenn Sie also in Amerika/Los Angeles sind und sowohl die Zeitzone „Head Start“ als auch die Zeitzone „Empfänger“ aktivieren möchten, müssen Sie das Programm **34 Stunden** im Voraus planen. Wie sind wir zu dieser Nummer gekommen?
 
 ![](assets/image2017-12-5-13-3a11-3a38.png)
 
@@ -87,7 +87,7 @@ Kurz gesagt: E-Mail-Programme, die mit der Zeitzone des Empfängers geplant sind
 
 >[!CAUTION]
 >
->Jeder, der sich zwischen dem Beginn des E-Mail-Versands und dem tatsächlichen Versand abmeldet, erhält weiterhin die E-Mail. Es wird empfohlen, die Abmelde-Benachrichtigung anzupassen, um zu erklären, dass die Verarbeitung von Abmeldungen 1-2 Werktage dauern kann.
+>Jeder, der sich zwischen dem Beginn des E-Mail-Versands und dem Zeitpunkt der tatsächlichen Zustellung abmeldet, erhält weiterhin die E-Mail. Es wird empfohlen, die Abmelde-Benachrichtigung anzupassen, um zu erklären, dass die Verarbeitung von Abmeldungen 1-2 Werktage dauern kann.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die Kontobewertung und wie sie dazu beiträ
 title: Kontobewertung
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '375'
 ht-degree: 2%
 
 ---
@@ -17,9 +17,9 @@ Die Kontobewertung ist ein wichtiger Bestandteil der [!UICONTROL Target-]&quot;.
 
 ## Was ist die Kontobewertung? {#what-is-account-scoring}
 
-Dieser systematische Ansatz unterstützt Vertriebs- und Marketing-Teams bei der Identifizierung und Priorisierung der Unternehmen (einschließlich Interessenten), die mit hoher Wahrscheinlichkeit einen Kauf tätigen werden.
+Hierbei handelt es sich um einen systematischen Ansatz, der Sales- und Marketing-Teams dabei unterstützt, die Unternehmen (einschließlich Interessenten) zu identifizieren und zu priorisieren, die am wahrscheinlichsten einen Kauf tätigen.
 
-In der komplexen Welt der B2B-Kaufprozesse ist es selten, dass eine einzelne Person eine Kaufentscheidung trifft. Häufig sind verschiedene Rollen mit jeweils eigenen Bedürfnissen beteiligt. Die kontobasierte Bewertung berücksichtigt dies, indem die Lead-Bewertungen aus mehreren Leads aggregiert und eine Bewertung auf Kontoebene bereitgestellt werden.
+In der komplexen Welt der B2B-Kaufprozesse trifft eine einzelne Person selten eine Kaufentscheidung. Häufig sind verschiedene Rollen mit jeweils eigenen Bedürfnissen beteiligt. Die kontobasierte Bewertung berücksichtigt dies, indem die Lead-Bewertungen aus mehreren Leads aggregiert und eine Bewertung auf Kontoebene bereitgestellt werden.
 
 ## Häufige Beispiele {#common-examples}
 
@@ -47,9 +47,7 @@ In der komplexen Welt der B2B-Kaufprozesse ist es selten, dass eine einzelne Per
 >Zur Berechnung der Kontobewertungen müssen Sie zunächst Lead-Bewertungen erstellen. Marketo TAM aggregiert Lead-Bewertungen automatisch zu Konto-Bewertungen. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Account Product Interest Score_ und _Account Web Engagement Score_).
 >
 >Erstellen Sie zunächst Lead-Bewertungsfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.
->Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:
->Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)
->Account Web Engagement Score = SUM (Lead Web Engagement Score)
+>Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:>Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)>Account Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >
@@ -65,7 +63,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
 
    ![](assets/account-score-2.png)
 
-1. Klicken [!UICONTROL &#x200B; in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL  in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/account-score-3.png)
 
@@ -73,7 +71,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
    >
    >Sie können bis zu **fünf** Felder zur Berechnung des [!UICONTROL Kontowerts] auswählen.
 
-1. Geben Sie [!UICONTROL &#x200B; Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
+1. Geben Sie [!UICONTROL  Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
 
    ![](assets/account-score-4.png)
 

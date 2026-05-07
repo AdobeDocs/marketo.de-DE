@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie den E-Mail-Leistungsbericht erstellen und ver
 title: E-Mail-Leistungsbericht
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 96%
+source-wordcount: '514'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ Erstellen Sie einen E-Mail-Leistungsbericht, um mithilfe von Statistiken zu Zust
 
 1. [Erstellen Sie einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) **[!UICONTROL E-Mail-Leistung]** aus.
 1. [Ändern Sie den Zeitrahmen des Berichts](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
-1. Hier sind Sie richtig. Überprüfen Sie nun den Bericht, um mehr über die Leistung Ihrer E-Mails zu erfahren.
+1. Du bist da! Überprüfen Sie nun den Bericht, um mehr über die Leistung Ihrer E-Mails zu erfahren.
 
    >[!NOTE]
    >

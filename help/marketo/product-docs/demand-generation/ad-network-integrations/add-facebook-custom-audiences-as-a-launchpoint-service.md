@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie benutzerdefinierte Facebook-Zielgruppen als L
 title: Hinzufügen [!DNL Facebook] benutzerdefinierter Zielgruppen als  [!DNL LaunchPoint] -Service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '320'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Nachdem Sie sich bei [!DNL Facebook] angemeldet haben, kehren Sie zu Marketo zurück. Klicken Sie **[!UICONTROL Autorisieren]**.
+1. Kehren Sie nach der Anmeldung bei [!DNL Facebook] zu Marketo zurück. Klicken Sie **[!UICONTROL Autorisieren]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
@@ -55,7 +55,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!NOTE]
    >
-   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL &#x200B; Übereinstimmung“ &#x200B;].
+   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL  Übereinstimmung“ ].
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!CAUTION]
    >
-   >Ach, bevor Sie gehen, stellen Sie sicher[&#x200B; dass Sie  [!DNL Facebook]Benutzerdefinierte Zielgruppenbedingungen“ &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) Ihrem [!DNL Facebook]-Konto akzeptieren! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
+   >Ach, bevor Sie gehen, stellen Sie sicher[ dass Sie  [!DNL Facebook]Benutzerdefinierte Zielgruppenbedingungen“ ](https://www.facebook.com/ads/manage/customaudiences/tos.php) Ihrem [!DNL Facebook]-Konto akzeptieren! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie URLs in meinen Token verwenden. Speichern und
 title: Verwenden von URLs in meinen Token
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '267'
 ht-degree: 4%
 
 ---
@@ -75,4 +75,4 @@ Gehen Sie wie folgt vor, um [!UICONTROL Meine Token] zum Einfügen von URLs in I
 
    ![](assets/twelve.png)
 
-   Und du bist fertig! Ihre URL wird nach dem Versand gefüllt und dank der Platzierung von https:// vor dem Token wird ein verfolgbarer Link erzeugt.
+   Und Sie sind fertig! Ihre URL wird nach dem Versand gefüllt und dank der Platzierung von https:// vor dem Token wird ein verfolgbarer Link erzeugt.

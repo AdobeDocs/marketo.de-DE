@@ -3,9 +3,9 @@ description: Juli 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Juli 2023 – Versionshinweise
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '664'
 ht-degree: 21%
 
 ---
@@ -24,7 +24,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 </br>
 
-* **Interaktionskarte**: Die Interaktionskarte ist ein visuelles Tool, mit dem Sie wiederverwendbare Kampagnen erstellen und organisieren können. Es ist vollständig abwärtskompatibel, sodass alle bestehenden Kampagnen in dieser neuen Struktur mit einem Klick angezeigt werden können. Karten können heruntergeladen und freigegeben werden.
+* **Interaktionskarte**: Die Interaktionskarte ist ein visuelles Tool, mit dem Sie wiederverwendbare Kampagnen erstellen und organisieren können. Es ist vollständig abwärtskompatibel, sodass alle bestehenden Kampagnen in dieser neuen Struktur mit einem Klick auf eine Schaltfläche angezeigt werden können. Karten können heruntergeladen und freigegeben werden.
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -69,7 +69,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -83,7 +83,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -120,7 +120,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
   </tbody>
 </table>
 
-* insight **Dynamische Standardfelder für Verkaufsaktionen**: Mit dynamischen Standardfeldern können Sie einen Fallback-Wert konfigurieren, den ein dynamisches Feld auflösen kann, wenn kein Wert zum Ausfüllen verfügbar ist. Dadurch wird sichergestellt, dass E-Mails mit allen ausgefüllten Personalisierungen gesendet werden.
+* **Dynamische Standardfelder für Verkaufsaktionen**: Mit dynamischen Standardfeldern können Sie einen Fallback-Wert konfigurieren, den ein dynamisches Feld auflösen kann, wenn kein Wert zum Ausfüllen verfügbar ist. Dadurch wird sichergestellt, dass E-Mails mit allen ausgefüllten Personalisierungen gesendet werden.
 
 <table>
   <tr>

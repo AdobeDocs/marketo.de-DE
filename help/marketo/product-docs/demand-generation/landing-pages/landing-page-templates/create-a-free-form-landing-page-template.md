@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie in Marketo eine Freiform-Landingpage-Vorlage 
 title: Erstellen einer Vorlage für Freiform-Landingpages
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 5%
+source-wordcount: '218'
+ht-degree: 6%
 
 ---
 
@@ -35,7 +35,7 @@ Freiform-Landingpages erfordern weniger technisches Wissen als deren geführte G
    >
    >Der Marketo-Support ist nicht für die Fehlerbehebung bei benutzerdefiniertem HTML eingerichtet. Wenn Sie Hilfe zu HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.
 
-1. Wenn Sie Ihre Änderungen vorgenommen haben, klicken Sie auf **[!UICONTROL Vorlagenaktionen]** und wählen Sie dann **[!UICONTROL Genehmigen und schließen]**.
+1. Wenn Sie Ihre Änderungen abgeschlossen haben, klicken Sie auf **[!UICONTROL Vorlagenaktionen]** und wählen Sie dann **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/five.png)
 

@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einem Umsatz-Explorer-Bericht in Marketo Enga
 title: Hinzufügen benutzerdefinierter Kennzahlen zu einem Revenue Explorer-Bericht
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '220'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ Im folgenden Beispiel erstellen Sie eine berechnete Kennzahl für Softbounces, b
 >
 >Sie benötigen mindestens eine Metrik in Ihrem Bericht, sie muss jedoch nicht zu den Kennzahlen gehören, die Sie zum Definieren Ihrer benutzerdefinierten Kennzahl verwenden.
 
-1. Überziehen Sie die Felder, die Sie für Ihren Bericht benötigen. Weitere [&#x200B; finden Sie unter „Hinzufügen von Feldern zu einem &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)&quot;.
+1. Überziehen Sie die Felder, die Sie für Ihren Bericht benötigen. Weitere [ finden Sie unter „Hinzufügen von Feldern zu einem ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)&quot;.
 
 1. Klicken Sie mit der rechten Maustaste auf eine vorhandene Metrik (blaue Zelle), klicken Sie auf **[!UICONTROL Benutzerdefinierte Kennzahl]** und wählen Sie **[!UICONTROL Berechnete Kennzahl]**.
 

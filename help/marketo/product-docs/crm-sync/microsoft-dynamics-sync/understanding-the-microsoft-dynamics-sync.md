@@ -4,16 +4,16 @@ description: Erfahren Sie, wie die Microsoft Dynamics-Synchronisierung Marketo- 
 title: Grundlegendes zur Synchronisierung mit Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '230'
 ht-degree: 20%
 
 ---
 
 # Grundlegendes zur [!DNL Microsoft Dynamics]-Synchronisierung {#understanding-the-microsoft-dynamics-sync}
 
-Marketo und [!DNL Microsoft Dynamics] gehen zusammen. Ihre Vertriebs- und Marketing-Daten bleiben synchron. 
+Marketo und [!DNL Microsoft Dynamics] gehen zusammen. Ihre Vertriebs- und Marketing-Daten bleiben synchron.
 
 >[!CAUTION]
 >
@@ -21,7 +21,7 @@ Marketo und [!DNL Microsoft Dynamics] gehen zusammen. Ihre Vertriebs- und Market
 
 ## Funktionsweise der Synchronisierung {#how-sync-works}
 
-Marketo synchronisiert Daten kontinuierlich jeden Tag mit [!DNL Microsoft Dynamics]. Dies geschieht mithilfe der Hintergrundsynchronisierung, in Stapeln, nicht in Echtzeit.
+Marketo synchronisiert Daten kontinuierlich jeden Tag mit [!DNL Microsoft Dynamics]. Dies geschieht mithilfe der Hintergrundsynchronisierung, in Batches, nicht in Echtzeit.
 
 >[!NOTE]
 >

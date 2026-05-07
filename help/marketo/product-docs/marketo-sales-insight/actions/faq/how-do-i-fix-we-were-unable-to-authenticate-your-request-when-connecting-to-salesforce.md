@@ -3,9 +3,9 @@ description: Beheben von Authentifizierungsfehlern beim Verbinden von Sales Insi
 title: Wie kann ich das Problem beheben, dass wir Ihre Anfrage beim Herstellen einer Verbindung mit Salesforce nicht authentifizieren konnten?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---

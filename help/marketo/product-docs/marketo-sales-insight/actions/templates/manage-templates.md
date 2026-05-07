@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie E-Mail-Vorlagen in Sales Insight-Aktionen ver
 title: Verwalten von Vorlagen
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '543'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 2%
 
    ![](assets/manage-templates-3.png)
 
-1. Erstellen Sie im Vorlageneditor eine Betreffzeile für Ihre E-Mail und geben Sie die gewünschte Nachricht ein. Verwenden Sie die Bearbeitungswerkzeuge (Schriftart, Textgröße usw.), um das Erscheinungsbild anzupassen. Klicken Sie **[!UICONTROL Speichern]**, um Ihre Änderungen abzuschließen.
+1. Erstellen Sie im Vorlageneditor eine Betreffzeile für Ihre E-Mail und geben Sie die gewünschte Nachricht ein. Verwenden der Bearbeitungswerkzeuge (Schriftart, Textgröße usw.) um das Erscheinungsbild anzupassen. Klicken Sie **[!UICONTROL Speichern]**, um Ihre Änderungen abzuschließen.
 
    ![](assets/manage-templates-4.png)
 
@@ -42,7 +42,7 @@ Der Bereich Vorlagendetails enthält mehrere Registerkarten.
 
 <table>
  <tr>
-  <td><strong>[!UICONTROL -Vorlage]</strong></td>
+  <td><strong>[!UICONTROL-Vorlage]</strong></td>
   <td>Prüfen und bearbeiten, Kriterien einrichten, um die Vorlage zu einer empfohlenen Vorlage zu machen, Anmerkungen hinzufügen</td>
  </tr>
  <tr>
@@ -99,7 +99,7 @@ Sie können Vorlagen aus jeder Kategorie zu Ihrer Favoritenliste hinzufügen. Da
 
    ![](assets/manage-templates-11.png)
 
-   Nach der Favoritenstellung bleibt der Stern erhalten.
+   Nachdem er favorisiert wurde, bleibt der Stern erhalten.
 
    ![](assets/manage-templates-12.png)
 

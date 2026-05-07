@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Subdomains in den Kontoeinstellungen in Marke
 title: Hinzufügen von Subdomains in den Kontoeinstellungen
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 4%
+source-wordcount: '168'
+ht-degree: 8%
 
 ---
 
 # Hinzufügen von Subdomains in [!UICONTROL Kontoeinstellungen] {#add-subdomains-in-account-settings}
 
-So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären [!UICONTROL &#x200B; hinzu]. Auf diese Weise können Sie Subdomains verwalten, die sich auf das spezifische RTP-JavaScript Ihrer primären Domain beziehen. Es wird empfohlen, das [!DNL Javascript]-Tag für alle hinzugefügten Subdomains bereitzustellen.
+So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären [!UICONTROL  hinzu]. Auf diese Weise können Sie Subdomains verwalten, die sich auf das spezifische RTP-JavaScript Ihrer primären Domain beziehen. Es wird empfohlen, das [!DNL Javascript]-Tag für alle hinzugefügten Subdomains bereitzustellen.
 
 1. Navigieren Sie in Web Personalization zu **[!UICONTROL Kontoeinstellungen]**.
 
@@ -27,7 +27,7 @@ So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären [!UICONTRO
 
    ![](assets/add.png)
 
-1. Geben Sie die Subdomain-URL ein. Klicken Sie auf **[!UICONTROL Hinzufügen]** oder **[!UICONTROL Löschen]**, um Ihre Liste der Subdomains zu verwalten, und klicken Sie dann **[!UICONTROL OK]** wenn Sie fertig sind.
+1. Geben Sie die Subdomain-URL ein. Klicken Sie auf **[!UICONTROL Hinzufügen]** oder **[!UICONTROL Löschen]**, um Ihre Liste der Subdomains zu verwalten, und klicken Sie anschließend **[!UICONTROL OK]**, wenn Sie fertig sind.
 
    ![](assets/newsubdomain.png)
 

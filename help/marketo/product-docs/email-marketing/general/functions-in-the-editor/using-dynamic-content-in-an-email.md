@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie dynamische Inhalte in einer E-Mail verwenden.
 title: Verwenden dynamischer Inhalte in einer E-Mail
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 5%
 
 ---
@@ -45,7 +45,7 @@ Verwenden Sie dynamische Inhalte in E-Mails, um Ihre Leads zielgerichtete Inform
 
    ![](assets/1.4.png)
 
-   Die Segmentierung und die zugehörigen Segmente werden auf der rechten Seite [!UICONTROL &#x200B; Registerkarte &#x200B;]Dynamisch“ angezeigt.
+   Die Segmentierung und die zugehörigen Segmente werden auf der rechten Seite [!UICONTROL  Registerkarte ]Dynamisch“ angezeigt.
 
    ![](assets/1.5.png)
 

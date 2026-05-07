@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einen Champion/Challenger-E-Mail-Test hinzuf�
 title: Hinzufügen eines E-Mail-Champions/-Challengers
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '219'
 ht-degree: 7%
 
 ---
@@ -26,7 +26,7 @@ So fängt man an.
 
 >[!CAUTION]
 >
->Champion-/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktionsprogrammströmen. Verwenden Sie für Batch-Mailings die A/B[Testfunktion &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) E-Mail-Programms.
+>Champion-/Challenger-E-Mails funktionieren nur mit Trigger-Kampagnen und Interaktionsprogrammströmen. Verwenden Sie für Batch-Mailings die A/B[Testfunktion ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) E-Mail-Programms.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 

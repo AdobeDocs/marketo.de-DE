@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die progressive Profilerstellung in einem Mar
 title: Konfigurieren der progressiven Formularprofilerstellung
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '349'
 ht-degree: 4%
 
 ---
@@ -96,4 +96,4 @@ Kurze Formulare sind gut! Wenn jemand zu einem Formular zurückkehrt, können Si
 
 Gute Arbeit! Die Arbeit, die Sie gerade getan haben, wird sich auszahlen.
 
-Experimentieren Sie mit dieser Funktion und stellen Sie sicher, dass Sie sie testen. Es ist sehr fortgeschritten, aber Sie können auf diese Weise Ihre Formulare sehr dynamisch machen.
+Experimentieren Sie mit dieser Funktion und stellen Sie sicher, dass Sie sie testen. Es ist fortgeschritten, aber Sie können Ihre Formulare auf diese Weise sehr dynamisch machen.

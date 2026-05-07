@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie die Antwortbibliothek für generative KI in D
 title: Antwortbibliothek
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '385'
 ht-degree: 3%
 
 ---
@@ -32,7 +32,7 @@ Zeigen Sie alle Ihre Fragen, deren Genehmigungsstatus und den/die ihnen zugewies
 
    ![](assets/response-library-4.png)
 
-1. Klicken Sie auf „Aktualisieren“. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL &quot; &#x200B;].
+1. Klicken Sie auf „Aktualisieren“. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL &quot; ].
 
    ![](assets/response-library-5.png)
 
@@ -85,7 +85,7 @@ Anweisungen zum Vornehmen von Massenbearbeitungen in der [heruntergeladenen Exce
 </tbody>
 </table>
 
-1. Nachdem Sie die Änderungen in Ihrer Datei vorgenommen haben, wechseln Sie zurück zur Registerkarte **[!UICONTROL Antwortbibliothek]** und klicken Sie auf **[!UICONTROL Antworten hochladen]**.
+1. Wenn Sie die Änderungen in Ihrer Datei vorgenommen haben, wechseln Sie zurück zur Registerkarte **[!UICONTROL Antwortbibliothek]** und klicken Sie auf **[!UICONTROL Antworten hochladen]**.
 
    ![](assets/response-library-9.png)
 
@@ -93,7 +93,7 @@ Anweisungen zum Vornehmen von Massenbearbeitungen in der [heruntergeladenen Exce
 
    ![](assets/response-library-10.png)
 
-1. Die Bestätigung wird angezeigt und Sie sind fertig.
+1. Die Bestätigung wird angezeigt, und Sie sind fertig.
 
    ![](assets/response-library-11.png)
 

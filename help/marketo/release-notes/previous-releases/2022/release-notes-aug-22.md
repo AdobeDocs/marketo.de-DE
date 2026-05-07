@@ -2,9 +2,9 @@
 description: August 2022 - Versionshinweise zu Marketo - Produktdokumentation
 title: August 2022 - Versionshinweise
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 7%
 
 ---
@@ -25,7 +25,7 @@ Mit den folgenden Funktionen wurde am 26. **2022 ein schrittweiser Rollout**.
 
 * **Benutzerdefinierte Avatare für[!DNL Dynamic Chat]**: Laden Sie einen benutzerdefinierten Chatbot-Avatar hoch, damit er für Ihre Marke personalisiert werden kann.
 
-* insight **Chat-Transkripte für[!DNL Dynamic Chat]**: Zeigen Sie Chat-Transkripte für jede Konversation an, um tiefere Informationen darüber zu erhalten, was jeden Web-Besucher interessiert.
+* **Chat-Transkripte für[!DNL Dynamic Chat]**: Zeigen Sie Chat-Transkripte für jede Konversation an, um tiefere Informationen darüber zu erhalten, was jeden Web-Besucher interessiert.
 
 ## Erlebnis der nächsten Generation
 
@@ -58,7 +58,7 @@ Mit den folgenden Funktionen wurde am 26. **2022 ein schrittweiser Rollout**.
 
 ## Marketing-Datenumgebung {#marketing-data-environment}
 
-* **Korrigieren Sie das Abschneiden von Feldern des benutzerdefinierten Objekts &quot;[!UICONTROL Verwendet von]&quot; in der Benutzeroberfläche**: Es ist jetzt einfacher, benutzerdefinierte Objektfelder zu identifizieren, die „in Verwendung“ sind, sodass Sie bei Bedarf Felder aus einem benutzerdefinierten Objekt löschen können.
+* **Kürzung der Benutzeroberfläche von Feldern des benutzerdefinierten Objekts &quot;[!UICONTROL Verwendet von]&quot;**: Es ist jetzt einfacher, benutzerdefinierte Objektfelder zu identifizieren, die „in Verwendung“ sind, sodass Sie bei Bedarf Felder aus einem benutzerdefinierten Objekt löschen können.
 
 ## API-Verbesserungen {#api-enhancements}
 

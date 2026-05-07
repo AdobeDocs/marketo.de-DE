@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie  [!DNL Salesforce]  Admin-Feldverwaltung anze
 title: Anzeigen von Feldzuordnungen zwischen Marketo und  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 3%
+source-wordcount: '97'
+ht-degree: 7%
 
 ---
 
 # Anzeigen von Feldzuordnungen zwischen Marketo und [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-Möglicherweise möchten Sie wissen, mit welchen [!DNL Salesforce] ein bestimmtes Marketo-Feld verknüpft ist. So können Sie das überprüfen.
+Möglicherweise möchten Sie wissen, welchen [!DNL Salesforce] ein bestimmtes Marketo-Feld zugeordnet ist. Gehen Sie wie folgt vor.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Möglicherweise möchten Sie wissen, mit welchen [!DNL Salesforce] ein bestimmte
 
 >[!NOTE]
 >
->Dadurch wird der [!DNL Salesforce] API-Name angezeigt, nicht der Bezeichnungsname.
+>Dadurch wird der Name der [!DNL Salesforce]-API angezeigt, nicht der Bezeichnungsname.
 
 >[!IMPORTANT]
 >

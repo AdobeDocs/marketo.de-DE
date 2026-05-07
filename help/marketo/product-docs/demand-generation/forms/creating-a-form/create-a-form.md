@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie ein Formular in Marketo erstellen. Fügen Sie
 title: Erstellen eines Formulars
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 8%
+source-wordcount: '138'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ Erstellen und verwenden Sie ein Formular auf einer Landingpage, um neue Namen zu
 
 >[!NOTE]
 >
->Erfahren Sie, was Marketo Engage tut, um [Ihre Formulare sicher zu &#x200B;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Erfahren Sie, was Marketo Engage tut, um [Ihre Formulare sicher zu ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 

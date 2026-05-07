@@ -3,16 +3,16 @@ description: Checkliste für geerbte Instanz-Marketing-Aktivitäten - Marketo-Do
 title: Checkliste für vererbte Marketing-Aktivitäten der Instanz
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '855'
 ht-degree: 3%
 
 ---
 
 # Vererbte Instanz: Checkliste für Marketing-Aktivitäten {#inherited-instance-marketing-activities-checklist}
 
-Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere Benutzer verschiedene Programme in Ihrer Marketo Engage-Instanz finden und verwalten und sicherstellen können, dass die Personen verarbeitet werden, um vom Marketing zum Vertrieb zu gelangen. Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere Benutzer verschiedene Programme in Ihrer Marketo Engage-Instanz finden und verwalten und sicherstellen können, dass die Personen verarbeitet werden, um vom Marketing zum Vertrieb zu gelangen. Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Organisation {#organization}
 
@@ -37,7 +37,7 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
 <li>Sind alle Programme <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">mit SFDC-Kampagnen synchronisiert</a> (falls zutreffend)?</li>
 <li>Verfügen Sie über Flussschritte, mit denen Personen ein <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">Akquiseprogramm</a> zugewiesen wird?</li>
 <li>Gibt es einen zentralen Speicherort für Programmvorlagen?
-   <br/>     Andernfalls können Sie aus mehreren vordefinierten Programmbeispielen aus der <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage-Programmbibliothek auswählen</a>.</li></td>
+   <br/> Andernfalls können Sie aus mehreren vordefinierten Programmbeispielen aus der <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage-Programmbibliothek </a>.</li></td>
   </tr>
   <tr>
    <td>Archivieren</td>
@@ -70,16 +70,16 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
   <tr>
    <td>Token</td>
    <td><li>Werden <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">Token</a> in Ihren am häufigsten verwendeten Programmtypen verwendet?
-   <br/>     Wenn nicht, sollten Sie sie zur Steigerung der Effizienz verwenden.</li>
+   <br/> Wenn nicht, sollten Sie sie zur Steigerung der Effizienz verwenden.</li>
 <li>Wenn Token implementiert sind, gibt es dann globale Ordner-Token? Wie werden sie verwendet?</li></td>
   </tr>
   <tr>
    <td>Interaktionsprogramme</td>
    <td><li>Werden Live<a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Interaktionsprogramme</a> ausgeführt?</li>
 <li>Wie viele <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank"> sind erschöpft</a>?
-<br/>     Wenn es viele erschöpfte Personen gibt, sollten Sie <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">Inhalt hinzufügen</a>.</li>
+<br/> Wenn es viele erschöpfte Personen gibt, sollten Sie <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">Inhalt hinzufügen</a>.</li>
 <li>Beteiligen <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank"> sich an den Inhalten</a>?
-<br/>     Falls nicht, sollten Sie eine Aktualisierung und/oder A/B-Tests in Erwägung ziehen.</li>
+<br/> Ist dies nicht der Fall, sollten Sie eine Aktualisierung und/oder A/B-Tests in Erwägung ziehen.</li>
 <li>Haben Sie Personen in mehreren Interaktionsprogrammen kennengelernt? Sollten sie sich in mehr als einem befinden?</li></td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
   <tr>
    <td>Datenschutz und Compliance</td>
    <td><li>Verfügen Sie über Programme, die sicherstellen, dass Sie die Datenschutzgesetze und Spam-Gesetze einhalten?
-   <br/>     Berücksichtigen Sie <a href="https://business.adobe.com/de/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">DSGVO</a>, CASL, CAN-SPAM, CCPA usw.</li>
+   <br/> berücksichtigen <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">DSGVO</a>, CASL, CAN-SPAM, CCPA usw.</li>
 <p><img src="assets/tip-icon.png" alt="Tipp-Symbol">TIPP: Vergessen Sie nicht, sich in diesen Fragen immer an Ihre Rechtsabteilung zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Compliance aufrechtzuerhalten, bevor Sie Änderungen vornehmen.</td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
   </tr>
   <tr>
    <td>Abonnement-/Präferenzzentrum</td>
-   <td><li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=de" target="_blank">Abonnement/Präferenzzentrum</a> eingerichtet? Funktioniert sie so, wie sie sollte?</li></td>
+   <td><li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Abonnement/Präferenzzentrum</a> eingerichtet? Funktioniert sie so, wie sie sollte?</li></td>
   </tr>
   <tr>
    <td>Interessante Momente (falls zutreffend)</td>

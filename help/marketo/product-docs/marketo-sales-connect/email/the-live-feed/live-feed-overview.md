@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über den Live-Feed in Sales Connect. Echtzeit-In
 title: Live-Feed – Übersicht
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '409'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Mit einer blauen Linie markierte Personen stellen die Interaktion mit E-Mails da
 
 >[!NOTE]
 >
->Insgesamt ermitteln wir Standorte so genau wie möglich auf Basis des IP-Trackings. Leider ist es keine exakte Wissenschaft. Wenn wir den Standort für einen Ihrer Empfänger falsch einschätzen, gibt es hier einige Optionen, was möglicherweise passiert ist:
+>Insgesamt ermitteln wir Standorte so genau wie möglich auf Basis des IP-Trackings. Leider handelt es sich dabei nicht um eine exakte Wissenschaft. Wenn wir den Standort für einen Ihrer Empfänger falsch einschätzen, gibt es hier einige Optionen, was möglicherweise passiert ist:
 >
 >* Wenn Ihr Empfänger beim Wireless-Netzwerk für ein Unternehmen angemeldet war, das seinen IT-Hauptsitz in einer anderen Stadt oder einem anderen Land hat, würden wir diesen Standort anstatt des aktuellen Gebietsschemas des Empfängers protokollieren.
 >* Wenn Ihre E-Mail von einer Person im Feld CC/BCC weitergeleitet oder geöffnet wurde, versuchen wir, den Standort dieser Personen genau anzuzeigen.

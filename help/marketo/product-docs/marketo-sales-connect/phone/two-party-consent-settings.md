@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über die Einstellungen der Einverständniserklä
 title: Einstellungen für Zwei-Parteien-Einverständnis
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '171'
+ht-degree: 7%
 
 ---
 
@@ -23,7 +23,7 @@ Um bei der Aufzeichnung von Anrufen die Einhaltung der US-amerikanischen Zwei-Pa
 
    ![](assets/one-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two-1.png)
 

@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie eine Verkaufskampagne mit Schritten für E-Ma
 title: Erstellen einer Verkaufskampagne
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '333'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ Wie richtet man also eine Verkaufskampagne ein?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. Wenn Sie mit [&#x200B; E-Mail fertig sind](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"} klicken Sie auf **[!UICONTROL Hinzufügen]**.
+1. Wenn Sie mit [ E-Mail fertig sind](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"} klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -62,7 +62,7 @@ Wie richtet man also eine Verkaufskampagne ein?
 
    ![](assets/create-a-sales-campaign-8.png)
 
-Jetzt ist es an der Zeit, Leute hinzuzufügen!
+Jetzt ist es an der Zeit, Menschen hinzuzufügen!
 
 >[!MORELIKETHIS]
 >

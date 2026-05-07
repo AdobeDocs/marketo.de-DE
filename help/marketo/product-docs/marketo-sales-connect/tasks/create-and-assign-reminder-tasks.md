@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie in Sales Connect Erinnerungsaufgaben erstelle
 title: Erstellen und Zuweisen von Erinnerungsaufgaben
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '155'
 ht-degree: 6%
 
 ---
@@ -34,7 +34,7 @@ Erinnerungsaufgaben sind eine hervorragende Möglichkeit, Kunden und Interessent
 
    ![](assets/create-and-assign-reminder-tasks-5.png)
 
-1. Fügen Sie die Person hinzu, der Sie folgen, mit dieser Erinnerungsaufgabe.
+1. Fügen Sie die Person, der Sie folgen, mit dieser Erinnerungsaufgabe hinzu.
 
    ![](assets/create-and-assign-reminder-tasks-6.png)
 

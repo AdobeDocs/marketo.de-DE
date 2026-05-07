@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie die Adobe PDF-Einbettungs-API für die Dokume
 title: Adobe PDF Embed-API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '160'
 ht-degree: 5%
 
 ---

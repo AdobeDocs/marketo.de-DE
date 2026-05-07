@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie die Detailanpassung von Salesforce-Aktivität
 title: Konfigurieren der Anpassung für Salesforce-Aktivitätsdetails
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 2186cfc201f9f61df4e1fe9cd5f6da1a4a8996bf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '685'
+source-wordcount: '689'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 >* Salesforce- und Sales Insight-Aktionen [müssen verbunden sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
 >* E-Mail-Aktivität über API protokollieren [muss aktiviert sein](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
-Mit der Anpassung von Aktivitätsdetails können Admins die Informationen konfigurieren, die beim Synchronisieren einer [!DNL Salesforce] Aktivität/Erinnerungsaufgabe mit [!DNL Sales Insight Actions] in das Feld „Aufgabe [!DNL Salesforce] - Betreff“ geschrieben werden.
+Mit der Anpassung von Aktivitätsdetails können Admins die Informationen konfigurieren, die beim Synchronisieren einer [!DNL Sales Insight Actions] Aktivität/Erinnerungsaufgabe mit [!DNL Salesforce] in das Feld „Aufgabe [!DNL Salesforce] - Betreff“ geschrieben werden.
 
 >[!NOTE]
 >
@@ -125,7 +125,7 @@ Berücksichtigen Sie bei der Konfiguration Ihrer Aktivitätsdetails, welche Date
 
    >[!TIP]
    >
-   >Wenn hinzugefügter Text in gerade Klammern eingeschlossen wird, ist dies zwar nicht erforderlich, doch kann es für manche Personen einfacher sein, zwischen den Daten zu unterscheiden, wenn sie in ein Betrefffeld in [!DNL Salesforce] eingefügt werden. Beispiel: `[Sales Insight Actions] - {{Activity_type}}`
+   >Wenn hinzugefügter Text in gerade Klammern eingeschlossen wird, ist dies zwar nicht erforderlich, doch kann es für manche Personen einfacher sein, zwischen den Daten zu unterscheiden, wenn sie in [!DNL Salesforce] in ein Betrefffeld eingefügt werden. Beispiel: `[Sales Insight Actions] - {{Activity_type}}`
 
 1. Fügen Sie alle gewünschten zusätzlichen dynamischen Felder hinzu, indem Sie auf die Schaltfläche **[!UICONTROL Dynamisches Feld hinzufügen]** klicken.
 

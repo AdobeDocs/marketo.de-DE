@@ -4,16 +4,16 @@ description: Informationen über anonyme Aktivitäten und Personen in Marketo. V
 title: Grundlegendes zu anonymen Aktivitäten und Personen
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 3%
 
 ---
 
 # Grundlegendes zu anonymen Aktivitäten und Personen {#understanding-anonymous-activity-and-people}
 
-Wenn jemand zum ersten Mal eine Marketo-Landingpage besucht (oder eine Seite Ihrer Website, die den [Munchkin-Trackingcode](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} aufweist), erstellt Marketo eine *anonyme Aktivität* und verwendet ein Browser-Cookie, um diese zu verfolgen. Sobald er identifiziert ist, wird er zu einer Person und der mit ihrem Browser-Cookie verknüpfte Verlauf wird zusammengeführt.
+Wenn jemand zum ersten Mal eine Marketo-Landingpage besucht (oder eine Seite Ihrer Website, die den [Munchkin-Trackingcode](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} aufweist), erstellt Marketo eine *anonyme Aktivität* und verwendet ein Browser-Cookie, um diese zu verfolgen. Sobald er identifiziert ist, wird er zu einer Person und der mit seinem Browser-Cookie verknüpfte Verlauf wird zusammengeführt.
 
 >[!IMPORTANT]
 >

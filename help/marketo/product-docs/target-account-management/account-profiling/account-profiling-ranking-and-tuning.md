@@ -4,16 +4,16 @@ description: Erfahren Sie, wie die Kontoprofilerstellung Unternehmen nach Ihrem 
 title: Ranking und Optimierung für die Kontoprofilierung
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 6%
+source-wordcount: '426'
+ht-degree: 5%
 
 ---
 
 # Ranking und Optimierung für die Kontoprofilierung {#account-profiling-ranking-and-tuning}
 
-Das Account Profiling identifiziert Ihr Ideal Customer Profile (ICP), ordnet Unternehmen in Ihrer Datenbank basierend auf dem ICP an und fügt ICP-Indikatordaten zu Konten hinzu, die als [!UICONTROL Named Accounts“ &#x200B;] werden.
+Das Account Profiling identifiziert Ihr Ideal Customer Profile (ICP), ordnet Unternehmen in Ihrer Datenbank basierend auf dem ICP an und fügt ICP-Indikatordaten zu Konten hinzu, die als [!UICONTROL Named Accounts“ ] werden.
 
 >[!IMPORTANT]
 >
@@ -162,7 +162,7 @@ Klicken Sie auf [!UICONTROL ICP-Indikator hinzufügen], um weitere Indikatoren i
 
 ![](assets/add-icp.png)
 
-Wenn Sie das Kästchen [!UICONTROL Exportieren] aktivieren, können Sie den ICP-Indikator auf der Detailseite [!UICONTROL Benanntes Konto] sowie den ausgewählten ICP-Indikator als Einschränkungen in [benannten Kontofiltern“ &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Wenn Sie das Kästchen [!UICONTROL Exportieren] aktivieren, können Sie den ICP-Indikator auf der Detailseite [!UICONTROL Benanntes Konto] sowie den ausgewählten ICP-Indikator als Einschränkungen in [benannten Kontofiltern“ ](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 

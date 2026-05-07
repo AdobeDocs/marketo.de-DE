@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Kontoprofilerstellung einrichten und Ihr 
 title: Einrichten der Kontoprofilierung
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 7%
 
 ---
@@ -28,7 +28,7 @@ Führen Sie diese Schritte aus, um mit der Verwendung der Kontoprofilerstellung 
 >* E-Mail
 >* Land
 >
->Hier erfahren Sie, wie [&#x200B; ein Feld &#x200B;](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Hier erfahren Sie, wie [ ein Feld ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
 1. Öffnen Sie in My Marketo **[!UICONTROL Target Account Management]**.
 
@@ -46,7 +46,7 @@ Führen Sie diese Schritte aus, um mit der Verwendung der Kontoprofilerstellung 
 
    ![](assets/setting-up-account-profiling-4.png)
 
-1. Ihr Modell beginnt mit seiner Erstellung. Es kann eine Weile dauern, aber keine Sorge, Sie werden benachrichtigt, wenn es erledigt ist.
+1. Ihr Modell beginnt mit seiner Erstellung. Es kann eine Weile dauern, aber keine Sorge, Sie werden benachrichtigt, wenn es abgeschlossen ist.
 
    ![](assets/five.png)
 

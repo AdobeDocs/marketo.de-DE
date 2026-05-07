@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '607'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ SCREENSHOT
 
 ## Frage einreichen {#submit-a-question}
 
-Normalerweise geht man hier für Hilfe an. Starten Sie einen Diskussions-Thread (oder suchen Sie nach einem vorhandenen), wenn Sie Feedback zu einem bestimmten Problem benötigen, oder wechseln Sie in den Thread einer anderen Person, um sie bei einem Problem zu unterstützen, über das Sie sich auskennen.
+Normalerweise geht man hier für Hilfe an. Starten Sie einen Diskussions-Thread (oder suchen Sie nach einem vorhandenen), wenn Sie Feedback zu einem bestimmten Problem suchen, oder wechseln Sie in den Thread einer anderen Person, um sie bei einem Problem zu unterstützen, über das Sie informiert sind.
 
 SCREENSHOT
 

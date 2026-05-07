@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Marketo Sales Insight in Microsoft Dynamics 2
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2015
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '418'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ Marketo Sales Insight ist ein fantastisches Tool, mit dem Sie Ihrem Vertriebstea
 >
 >Abschließen der Marketo-Microsoft-Integration
 >
->[Laden Sie die richtige Lösung &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version von [!DNL Microsoft Dynamics CRM] herunter.
+>[Laden Sie die richtige Lösung ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version von [!DNL Microsoft Dynamics CRM] herunter.
 
 ## Lösung importieren {#import-solution}
 
@@ -29,7 +29,7 @@ OK, jetzt ist es Zeit, die [!DNL Marketo Sales Insight] Lösung in [!DNL Microso
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Anpassungen]**.
+1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Anpassungen]**.
 
    ![](assets/image2015-4-29-14-3a22-3a1.png)
 
@@ -69,7 +69,7 @@ OK, jetzt ist es Zeit, die [!DNL Marketo Sales Insight] Lösung in [!DNL Microso
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
-1. Fantastisch! Sie sollten die Lösung jetzt sehen. Wenn er nicht da ist, aktualisieren Sie Ihren Bildschirm.
+1. Fantastisch! Sie sollten die Lösung jetzt sehen. Wenn er nicht vorhanden ist, aktualisieren Sie Ihren Bildschirm.
 
    ![](assets/image2014-12-12-9-3a6-3a40.png)
 

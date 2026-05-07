@@ -4,16 +4,16 @@ description: Erfahren Sie mehr über Programme in Marketo zum Organisieren von K
 title: Grundlegendes zu Programmen
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 87%
+source-wordcount: '165'
+ht-degree: 81%
 
 ---
 
 # Grundlegendes zu Programmen {#understanding-programs}
 
-Programme stellen eine einzelne Marketing-Initiative dar. Stellen Sie sich einen Container mit all den Dingen vor, die Sie für das Funktionieren des Programms benötigen. Diese werden als lokale Assets bezeichnet und umfassen **Landingpages**, **E-Mail**, **intelligente Kampagnen** und mehr. Programme erfüllen viele Funktionen, dennoch ist es einfach, loszulegen.
+Programme stellen eine einzelne Marketing-Initiative dar. Stellen Sie sich einen Container mit all den Dingen vor, die Sie für das Funktionieren des Programms benötigen. Diese werden als lokale Assets bezeichnet und umfassen **Landingpages**, **E-Mail**, **intelligente Kampagnen** und mehr. Programme tun viel, aber es ist einfach, loszulegen.
 
 Es gibt vier Programmtypen:
 
@@ -33,7 +33,7 @@ Die **[klassischen Massen-E-Mails](/help/marketo/product-docs/email-marketing/em
 
 Standardprogramme sind all jene Programme, die kein Ereignis-, Interaktions- oder E-Mail-Programm sind. Seien Sie kreativ.
 
-Los geht‘s.
+Los geht‘s!
 
 >[!MORELIKETHIS]
 >

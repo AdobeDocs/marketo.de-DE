@@ -4,10 +4,10 @@ description: Importieren einer Liste mit Personen – Marketo-Dokumente – Prod
 title: Importieren einer Liste mit Personen
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '577'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '589'
+ht-degree: 95%
 
 ---
 
@@ -113,7 +113,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellenkalkulations
 
    >[!TIP]
    >
-   >Spaltenüberschriften sollten immer genau mit dem Feld übereinstimmen (Groß-/Kleinschreibung beachten), um bei der automatischen Zuordnung optimale Ergebnisse zu erzielen. Wenn Sie benutzerdefinierte Felder verwenden und diese nicht in der Dropdown-Liste angezeigt werden, gehen Sie zurück und [erstellen Sie sie](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}, damit sie als Optionen verfügbar sind.
+   >Spaltenüberschriften sollten immer genau mit dem Feld übereinstimmen (Groß-/Kleinschreibung beachten), um bei der automatischen Zuordnung optimale Ergebnisse zu erzielen. Wenn Sie benutzerdefinierte Felder verwenden, die in der Dropdown-Liste nicht angezeigt werden, gehen Sie zurück und [erstellen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} damit sie zu Optionen werden.
 
    >[!NOTE]
    >
@@ -133,7 +133,7 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellenkalkulations
 
 >[!NOTE]
 >
->Sie können den Erfolg Ihres Programms analysieren, indem Sie die Programmmitgliedschaft verfolgen. Erfahren Sie mehr über [**Programme**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}. 
+>Sie können den Erfolg Ihres Programms analysieren, indem Sie die Programmmitgliedschaft verfolgen. Erfahren Sie mehr über [**Programme**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
 ## Aufgabe abgeschlossen {#mission-complete}
 

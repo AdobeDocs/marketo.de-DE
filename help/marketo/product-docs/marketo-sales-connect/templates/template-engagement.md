@@ -4,9 +4,9 @@ description: Vorlageninteraktion in Sales Connect verstehen. Anzeigen, welche Vo
 title: Vorlageninteraktion
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '191'
 ht-degree: 2%
 
 ---
@@ -29,4 +29,4 @@ Gehen Sie wie folgt vor, um Ihre Vorlageninteraktion anzuzeigen.
 
    **Niedrigste Interaktion** - Eine Vorlage, deren Interaktionsrate leicht angepasst werden muss (diese Vorlage kann im gesamten Team freigegeben oder nicht freigegeben werden)
 
-   Scrollen Sie von dort nach unten und sehen Sie alle Vorlagen, die in Ihrem Team auf der Grundlage ihrer Ansichtsraten innerhalb dieses ausgewählten Datumsbereichs erstellt wurden. Auf der Ebene einzelner Vorlagen können Sie sehen: wer sie erstellt hat, ob sie freigegeben wurde oder nicht, Anzahl der E-Mails, die mit ihr verwendet wurden, und Tracking-Daten (Ansichten, Klicks, Antworten).
+   Scrollen Sie von dort nach unten und sehen Sie alle Vorlagen, die in Ihrem Team auf der Grundlage ihrer Ansichtsraten innerhalb dieses ausgewählten Datumsbereichs erstellt wurden. Auf der Ebene einzelner Vorlagen können Sie sehen: wer sie erstellt hat, ob sie freigegeben wurde oder nicht, Anzahl der E-Mails, die sie verwendet hat, und Tracking-Daten (Ansichten, Klicks, Antworten).

@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie den Push-Zugriff auf iOS für Ihre Mobile App
 title: Konfigurieren des Push-Zugriffs für Mobile App – iOS
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 7%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 7%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Push-Zugriffstyp] die Option iOS aus und klicken Sie auf **[!UICONTROL Konfigurieren]**.
+1. Wählen [!UICONTROL  unter „Push-Zugriffstyp] die Option iOS aus und klicken Sie auf **[!UICONTROL Konfigurieren]**.
 
    ![](assets/image2016-6-10-11-3a37-3a9.png)
 
@@ -37,7 +37,7 @@ ht-degree: 7%
 
    ![](assets/image2015-4-22-17-3a19-3a18.png)
 
-Gute Arbeit! Stellen Sie sicher, dass Sie die App auch mit Android konfigurieren.
+Toll gemacht! Stellen Sie sicher, dass Sie die App auch mit Android konfigurieren.
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über die Highspot-Integration in Insight-Aktione
 title: Highspot-Integration
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '348'
 ht-degree: 1%
 
 ---
@@ -52,7 +52,7 @@ Greifen Sie auf Highspot zu und fügen Sie Ihren E-Mails Inhalte aus dem Fenster
 
    ![](assets/highspot-integration-7.png)
 
-1. Melden Sie sich bei Ihrem Highspot-Konto an (wenn Sie noch nicht angemeldet sind).
+1. Melden Sie sich bei Ihrem Highspot-Konto an (sofern Sie noch nicht angemeldet sind).
 
    ![](assets/highspot-integration-8.png)
 

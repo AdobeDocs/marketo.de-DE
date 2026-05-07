@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie die Anpassung von Salesforce-Aktivitätsdetai
 title: Konfigurieren der Anpassung für Salesforce-Aktivitätsdetails
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '680'
 ht-degree: 2%
 
 ---

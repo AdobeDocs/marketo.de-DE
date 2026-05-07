@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie das Tracking für bestimmte E-Mail-Links deak
 title: Deaktivieren des Trackings für einen E-Mail-Link
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 5%
 
 ---
@@ -39,7 +39,7 @@ Wenn eine E-Mail vor mehr als 365 Tagen gesendet wurde **und** niemand in den le
 
    >[!TIP]
    >
-   >Wenn Sie nur **Include mkt_tok** deaktivieren, kann der Link weiterhin verfolgt werden, aber nach der Umleitung enthält die Ziel-URL den Abfragezeichenfolgenparameter mkt_tok nicht. Dieser Parameter wird von Marketo Landingpages und Munchkin verwendet, um eine ordnungsgemäße Verfolgung von Personenaktivitäten sicherzustellen (z. B. wenn eine Person sich von einer E-Mail abmeldet). Sie sollten die Verwendung dieser Funktion vermeiden, es sei denn, Sie sehen ein seltsames Verhalten auf Ihrer Website, aufgrund des vorhandenen Parameters.
+   >Wenn Sie nur **Include mkt_tok** deaktivieren, kann der Link weiterhin verfolgt werden, aber nach der Umleitung enthält die Ziel-URL den Abfragezeichenfolgenparameter mkt_tok nicht. Dieser Parameter wird von Marketo Landingpages und Munchkin verwendet, um eine ordnungsgemäße Verfolgung von Personenaktivitäten sicherzustellen (z. B. wenn eine Person sich von einer E-Mail abmeldet). Sie sollten die Verwendung dieser Funktion vermeiden, es sei denn, Sie sehen aufgrund des vorhandenen Parameters ein merkwürdiges Verhalten auf Ihrer Website.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 

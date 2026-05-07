@@ -4,10 +4,10 @@ description: Einrichten und eine Person hinzufügen – Marketo-Dokumente – Pr
 title: Einrichten und eine Person hinzufügen
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '229'
+ht-degree: 96%
 
 ---
 
@@ -73,7 +73,7 @@ Fügen Sie sich selbst als Person in Marketo hinzu, sodass Sie zu einem spätere
 
 ## Einrichtung abgeschlossen {#set-up-complete}
 
-Sie sind bereit für Ihre erste Aufgabe!
+Sie sind bereit, Ihre erste Mission zu beginnen!
 
 <br> 
 

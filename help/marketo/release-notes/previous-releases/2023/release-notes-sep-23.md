@@ -3,9 +3,9 @@ description: September 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – September 2023
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '972'
 ht-degree: 14%
 
 ---
@@ -42,7 +42,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Verwendet von Zählspalte für Design Studio Assets</strong>: Die Spalte „Verwendet von Zählung“ für Listenansichten in Design Studio hebt die Anzahl der verwendeten Assets hervor. Dies gilt für Snippets, E-Mail-Vorlagen, Forms und Landingpage-Vorlagen.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
    <tr>
    <td> </td>
@@ -50,9 +50,9 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
    <tr>
-   <td><strong>Von Registerkarten-Verbesserungen für Design Studio Assets verwendet</strong>: Die Registerkarte „Von Verbesserungen verwendet“ bietet eine detailliertere Ansicht des Typs und Namens eines Assets sowie dessen Verwendungsort. Dies gilt für E-Mail-Details und Details zu Bildern und Dateien.</td>
+   <td><strong>Von Registerkarten-Verbesserungen für Design Studio Assets verwendet</strong>: Die Registerkarte „Von Verbesserungen verwendet“ bietet eine detailliertere Ansicht des Typs und Namens eines Assets sowie dessen Verwendungsorts. Dies gilt für E-Mail-Details und Details zu Bildern und Dateien.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -91,7 +91,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   <tr>
    <td><strong>Integration von Marketo und Workfront</strong>: Für Benutzer mit Marketo und Workfront können Sie jetzt Workfront Fusion-Vorlagen verwenden, um die beiden Produkte zu integrieren und neue Automatisierungs-Workflows zu erschließen, um die Kampagnenausführung zu optimieren.</td>
    <td>Freigegeben</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=de" target="_blank">Blueprint überprüfen und genehmigen</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Blueprint überprüfen und genehmigen</a></td>
   </tr>
  </tbody>
 </table>
@@ -249,7 +249,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
     <tr>
    <td><strong>Konversationsfluss-Asset</strong>Seite: Auf der Asset-Seite von Design Studio werden jetzt Dynamic Chat-Konversationsflüsse aufgelistet. Ermitteln Sie, welche Flüsse in Marketo Engage-Assets integriert werden können, und stellen Sie direkt einen Deeplink zu ihrem Editor bereit.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>

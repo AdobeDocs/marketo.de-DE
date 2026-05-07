@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Desktop-Integration von Facebook Lead Ads
 title: Testen von Lead-Anzeigen in Facebook für die Desktop-Integration mit Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '225'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen! So geht da
 
 >[!PREREQUISITES]
 >
->Sie müssen [die [!UICONTROL Facebook-Lead-Anzeigen]-Integration &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Sie müssen [die [!UICONTROL Facebook-Lead-Anzeigen]-Integration ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. Wählen Sie im Facebook Power Editor eine Kampagne und eine Anzeige aus und klicken Sie auf **[!UICONTROL Bearbeiten]**.
 

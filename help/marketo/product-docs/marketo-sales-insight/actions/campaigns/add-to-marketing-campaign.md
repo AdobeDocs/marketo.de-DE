@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '340'
 ht-degree: 2%
 
 ---
@@ -54,13 +54,13 @@ PICC
 
 >[!NOTE]
 >
->Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass er von Ihrem Admin über die Seite „Team-Zugriff[!UICONTROL &#x200B; von Marketo bereitgestellt &#x200B;].
+>Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass er von Ihrem Admin über die Seite „Team-Zugriff[!UICONTROL  von Marketo bereitgestellt ].
 
 1. Wählen Sie die gewünschte Kampagne aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
 PICC
 
-1. Ihnen werden die Kontakte angezeigt, die qualifiziert sind. Klicken Sie **[!UICONTROL Start]**, um sie hinzuzufügen.
+1. Ihnen werden die qualifizierten Kontakte angezeigt. Klicken Sie **[!UICONTROL Start]**, um sie hinzuzufügen.
 
 PICC
 
@@ -70,7 +70,7 @@ PICC
 
 PICC
 
-1. Wählen [!UICONTROL &#x200B; unter „Meine &#x200B;]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
+1. Wählen [!UICONTROL  unter „Meine ]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
 
 PICC
 
@@ -102,6 +102,6 @@ PICC
 
 PICC
 
-1. Ihnen werden die Kontakte angezeigt, die qualifiziert sind. Klicken Sie **[!UICONTROL Start]**, um sie hinzuzufügen.
+1. Ihnen werden die qualifizierten Kontakte angezeigt. Klicken Sie **[!UICONTROL Start]**, um sie hinzuzufügen.
 
 PICC

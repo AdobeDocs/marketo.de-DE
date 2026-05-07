@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie ein Formular in Marketo genehmigen. Genehmige
 title: Genehmigen eines Formulars
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 10%
 
 ---
@@ -31,7 +31,7 @@ So validieren Sie ein vorhandenes Formular, das einsatzbereit ist.
 
    ![](assets/approve-a-form-3.png)
 
-   Sie wurde genehmigt und kann jetzt [zu einer Landingpage hinzugefügt werden](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}.
+   Sie ist genehmigt und kann [zu einer Landingpage hinzugefügt werden](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}.
 
    >[!NOTE]
    >

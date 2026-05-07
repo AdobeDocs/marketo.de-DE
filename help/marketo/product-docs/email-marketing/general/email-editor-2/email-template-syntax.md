@@ -4,10 +4,10 @@ description: Informationen zur Syntax von E-Mail-Vorlagen im E-Mail-Editor 2.0. 
 title: Syntax von E-Mail-Vorlagen
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '2462'
-ht-degree: 97%
+source-wordcount: '2464'
+ht-degree: 83%
 
 ---
 
@@ -29,7 +29,7 @@ Die Marketo-E-Mail-Syntax funktioniert nur in Vorlagen und einzelnen E-Mails. Si
 
 Elemente sind Inhaltsbereiche, die Sie in Ihrer E-Mail-Vorlage als bearbeitbar definieren. Die Bearbeitung eines Elements ist abhängig vom Typ und bietet eine einfache Möglichkeit, mit Inhalten zu arbeiten. Die möglichen Elemente, die in eine E-Mail-Vorlage aufgenommen werden können, sind:
 
-* RTF
+* Rich Text
 * Bilder
 * Ausschnitte
 * Videos
@@ -49,7 +49,7 @@ Erforderliche Attribute
 
 Optionale Attribute
 
-* **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Standardwert
 
@@ -61,13 +61,13 @@ Beispiel:
 
 ### Option 2: mktoText {#option-mktotext}
 
-Es wird empfohlen, Rich-Text-Elemente mit der Syntax „class=&quot;mktoText&quot;“ anzugeben. Dadurch wird sichergestellt, dass immer ein geeigneter Anzeigename für das Element vorhanden ist.
+Es wird empfohlen, Rich-Text-Elemente mit der Syntax class=„motoText“ anzugeben. Dadurch wird sichergestellt, dass immer ein geeigneter Anzeigename für das Element vorhanden ist.
 
 Erforderliche Attribute
 
 * **class**: &quot;mktoText&quot;.
 * **id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
-* **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Standardwert
 
@@ -87,7 +87,7 @@ Erforderliche Attribute
 
 * **class:** &quot;mktoImg&quot;.
 * **id:** ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optionale Attribute
 
@@ -118,7 +118,7 @@ Erforderliche Attribute
 
 * **class:** &quot;mktoImg&quot;.
 * **id:** ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.  Standardwert (optional)
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.  Standardwert (optional)
 * **src:** Wird als Standardwert für das Bild verwendet. Ein Platzhalter wird verwendet, wenn dies weggelassen wird.
 * **mktoLockImgSize:** Wird zum Entsperren der Höhen- und Breiteneigenschaft des `<img>`-Elements verwendet, sodass die Endbenutzerin bzw. der Endbenutzer sie ändern kann (standardmäßig „wahr“, wenn weggelassen).
 * **mktoLockImgStyle:** Wird zum Sperren der Stileigenschaft des `<img>`-Elements verwendet (standardmäßig „falsch“).
@@ -133,7 +133,7 @@ Wenn Sie einen Bereich als Snippet definieren, können Endbenutzer auswählen, w
 Erforderliche Attribute
 
 * **id:** ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Standardwert (optional)
 
@@ -150,7 +150,7 @@ Wenn Sie einen Bereich als Video definieren, können Endbenutzende entweder eine
 Erforderliche Attribute
 
 * **id:** ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optionale Attribute
 
@@ -171,7 +171,7 @@ Wenn Sie eine Variable als Zeichenfolge definieren, kann die Endbenutzerin bzw. 
 Erforderliche Attribute
 
 * **id:** Wie Sie in Ihrer E-Mail-Vorlage auf die Variable verweisen.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optionale Attribute
 
@@ -194,12 +194,12 @@ Wenn Sie eine Variable als Liste definieren, kann die Endbenutzerin bzw. der End
 Erforderliche Attribute
 
 * **id:** Wie Sie in Ihrer E-Mail-Vorlage auf die Variable verweisen.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 * **values** Eine kommagetrennte Liste an Werten. Muss mindestens eine Zeichenfolge enthalten.
 
 Optionale Attribute
 
-* **default:** Standardwert des Dropdown-Menüs zum Auswählen. Wenn weggelassen, wird der erste Wert aus dem Attribut „values“ verwendet.
+* **default:** Standardwert der Auswahl-Dropdown-Liste. Wenn weggelassen, wird der erste Wert aus dem Attribut „values“ verwendet.
 * **mktoModuleScope:** Boolescher Wert. Steuert, ob die Variable lokal (wahr) oder global (falsch) ist, wenn sie in einem Modul verwendet wird. Ist standardmäßig „falsch“, wenn weggelassen.
 
 Beispieldeklaration:
@@ -217,14 +217,14 @@ Wenn Sie eine Variable als Zahl definieren, kann die Endbenutzerin bzw. der Endb
 Erforderliche Attribute
 
 * **id:** Wie Sie in Ihrer E-Mail-Vorlage auf die Variable verweisen.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
-* **default:** Numerischer Standardwert für die Zeichenfolge. 
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
+* **default:** Numerischer Standardwert für die Zeichenfolge.
 
 Optionale Attribute
 
 * **min:** Minimaler akzeptierter Wert.
 * **max:** Maximaler akzeptierter Wert.
-* **units:** Einheiten, die an den Zahlenwert (z. B. „px“, „pt“, „em“ usw.) angehängt werden sollen, wenn sie im E-Mail-Editor sowie im resultierenden Code angezeigt werden.
+* **units:** Einheiten, die an den Zahlenwert angehängt werden (z. B.: px, pt, em usw.) , wenn sie im E-Mail-Editor sowie im resultierenden Code angezeigt wird.
 * **step:** Um wie viele Einheiten die Zahlenvariable erhöht/verringert werden soll („0,1“, „1“, „10“ usw.). Wenn weggelassen, wird standardmäßig „1“ verwendet.
 * **mktoModuleScope:** Boolescher Wert. Steuert, ob die Variable lokal (wahr) oder global (falsch) ist, wenn sie in einem Modul verwendet wird. Ist standardmäßig „falsch“, wenn weggelassen.
 
@@ -243,7 +243,7 @@ Wenn Sie eine Variable als Farbe definieren, kann die Endbenutzerin bzw. der End
 Erforderliche Attribute
 
 * **id:** Wie Sie in Ihrer E-Mail-Vorlage auf die Variable verweisen.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optionale Attribute
 
@@ -265,7 +265,7 @@ Wenn Sie eine Variable als booleschen Wert definieren, können Endbenutzende die
 Erforderliche Attribute
 
 * **id:** Wie Sie in Ihrer E-Mail-Vorlage auf die Variable verweisen.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optionale Attribute
 
@@ -291,7 +291,7 @@ Wenn Sie eine Variable als HTML-Block definieren, kann die Endbenutzerin bzw. de
 Erforderliche Attribute
 
 * **id:** Wie Sie in Ihrer E-Mail-Vorlage auf die Variable verweisen.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optionale Attribute
 
@@ -313,11 +313,11 @@ Wenn Sie eine Variable als Bild definieren, können Endbenutzende ein Bild aus d
 Erforderliche Attribute
 
 * **id:** Wie Sie in Ihrer E-Mail-Vorlage auf die Variable verweisen.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optionale Attribute
 
-* **default:** Standardmäßige Bild-URL für das Element. 
+* **default:** Standardmäßige Bild-URL für das Element.
 * **mktoModuleScope:** Boolescher Wert. Steuert, ob die Variable lokal (wahr) oder global (falsch) ist, wenn sie in einem Modul verwendet wird. Ist standardmäßig „falsch“, wenn weggelassen.
 
 Beispieldeklaration:
@@ -347,7 +347,7 @@ Wird mithilfe von `<table>` mit „class=&quot;mktoModule&quot;“ definiert.
 Erforderliche Attribute
 
 * **id:** Wie Sie in Ihrer E-Mail-Vorlage auf das Modul verweisen.
-* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Best Practice ist die Verwendung eines beschreibenden Namens.
+* **mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im E-Mail-Editor 2.0 angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optionale Attribute
 

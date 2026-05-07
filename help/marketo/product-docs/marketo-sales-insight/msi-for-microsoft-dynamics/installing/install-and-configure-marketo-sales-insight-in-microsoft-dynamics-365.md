@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Marketo Sales Insight in Microsoft Dynamics 3
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 365
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '437'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 5%
 >
 >Abschließen der Marketo-Microsoft-Integration
 >
->[Laden Sie die richtige Lösung &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version von [!DNL Microsoft Dynamics CRM] herunter.
+>[Laden Sie die richtige Lösung ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version von [!DNL Microsoft Dynamics CRM] herunter.
 
 ## Lösung importieren {#import-solution}
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. Klicken Sie im neuen Fenster auf &quot;**[!UICONTROL &quot;]**. Wählen Sie die [Marketo Sales Insight-Lösung aus, die Sie in Schritt 1 heruntergeladen &#x200B;](#msi). Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie im neuen Fenster auf &quot;**[!UICONTROL &quot;]**. Wählen Sie die [Marketo Sales Insight-Lösung aus, die Sie in Schritt 1 heruntergeladen ](#msi). Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 
@@ -59,7 +59,7 @@ ht-degree: 5%
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
-1. Fantastisch! Sie sollten die Lösung jetzt sehen. Wenn er nicht da ist, aktualisieren Sie Ihren Bildschirm.
+1. Fantastisch! Sie sollten die Lösung jetzt sehen. Wenn er nicht vorhanden ist, aktualisieren Sie Ihren Bildschirm.
 
    ![](assets/image2015-5-13-15-3a42-3a29.png)
 
@@ -101,7 +101,7 @@ Binden wir Ihre Marketo-Instanz an [!DNL Sales Insight] in [!DNL Dynamics]. So g
    >
    >Wenn eines dieser Felder fehlt, wird in Marketo eine Fehlermeldung mit dem Namen der fehlenden Felder angezeigt. Um dies zu beheben, führen Sie [dieses Verfahren](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) aus.
 
-1. Zurück in [!DNL Microsoft Dynamics], klicken Sie auf das ![](assets/image2015-5-13-15-3a49-3a19.png)-Symbol neben [!UICONTROL Einstellungen] und wählen Sie dann **[!UICONTROL Marketo API-]** in der Dropdown-Liste.
+1. Zurück in [!DNL Microsoft Dynamics], klicken Sie auf das ![](assets/image2015-5-13-15-3a49-3a19.png)-Symbol neben [!UICONTROL Einstellungen] und wählen Sie dann **[!UICONTROL Marketo API-]** in der Dropdown-Liste aus.
 
    ![](assets/image2015-5-13-16-3a4-3a1.png)
 

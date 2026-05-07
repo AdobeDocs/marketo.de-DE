@@ -4,16 +4,16 @@ description: Senden einer E-Mail – Marketo-Dokumente – Produktdokumentation
 title: Senden einer E-Mail
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 100%
+source-wordcount: '409'
+ht-degree: 95%
 
 ---
 
 # Senden einer E-Mail {#send-an-email}
 
-Das ist das Erste, was alle tun wollen. Senden wir eine E-Mail von Marketo aus!
+Es ist das Erste, was jeder tun möchte. Senden wir eine E-Mail von Marketo aus!
 
 >[!PREREQUISITES]
 >
@@ -127,7 +127,7 @@ Das ist das Erste, was alle tun wollen. Senden wir eine E-Mail von Marketo aus!
    >
    >Ist die Standardzeitzone nicht Ihre? [Hier](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"} erfahren Sie, wie Sie sie aktualisieren können.
 
-1. Klicken Sie unter der Kachel [!UICONTROL Genehmigung] auf **[!UICONTROL Programm genehmigen]**, und schon sind Sie fertig!
+1. Klicken Sie **[!UICONTROL der Kachel [!UICONTROL Genehmigung]** auf Programm ] und Sie sind fertig!
 
    ![](assets/send-an-email-18.png)
 

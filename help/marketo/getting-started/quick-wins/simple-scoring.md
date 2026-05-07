@@ -4,10 +4,10 @@ description: Einfache Bewertung - Marketo-Dokumente - Produktdokumentation
 title: Einfache Bewertung
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 19%
+source-wordcount: '386'
+ht-degree: 18%
 
 ---
 
@@ -88,7 +88,7 @@ ht-degree: 19%
 
 >[!NOTE]
 >
->Nach der Aktivierung wird diese Kampagne jedes Mal ausgeführt, wenn eine Person das Formular ausfüllt. Die Kampagne läuft so lange, bis sie deaktiviert wird.
+>Nach der Aktivierung wird diese Kampagne jedes Mal ausgeführt, wenn eine Person das Formular ausfüllt. Die Kampagne wird weiter ausgeführt, bis sie deaktiviert wird.
 
 ## Schritt 2: Ausfüllen des Formulars {#step-fill-out-the-form}
 
@@ -96,7 +96,7 @@ ht-degree: 19%
 
    ![](assets/simple-scoring-14.png)
 
-1. Klicken Sie **[!UICONTROL Vorschau]**. Die Landingpage wird in einer neuen Registerkarte geöffnet.
+1. Klicken Sie auf **[!UICONTROL Vorschau]**. Die Landingpage wird in einer neuen Registerkarte geöffnet.
 
    ![](assets/simple-scoring-15.png)
 

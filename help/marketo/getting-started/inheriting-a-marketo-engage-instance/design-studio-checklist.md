@@ -3,16 +3,16 @@ description: Checkliste für das Design von geerbten Instanzen - Marketo-Dokumen
 title: Checkliste für das Design Studio der geerbten Instanz
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '602'
 ht-degree: 5%
 
 ---
 
 # Vererbte Instanz: Checkliste für Design Studio {#inherited-instance-design-studio-checklist}
 
-Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets sowie Bilder und Dateien trägt dazu bei, Datenfehler zu minimieren und den Workflow für die Erstellung Ihres Programms zu optimieren. Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets sowie Bilder und Dateien trägt dazu bei, Datenfehler zu minimieren und den Workflow für die Erstellung Ihres Programms zu optimieren. Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Landingpages {#landing-pages}
 
@@ -25,8 +25,8 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
   <tr>
    <td>Globale Landing Pages</td>
    <td><li>Wie viele globale <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Landingpages</a> gibt es? Werden sie von Programmen verwendet?</li>
-   <li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=de" target="_blank">Abonnementzentrum</a> eingerichtet?
-   <br/>     Wenn nicht, sollten Sie eine erstellen.</li></td>
+   <li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">Abonnementzentrum</a> eingerichtet?
+   <br/> Wenn nicht, sollten Sie eine erstellen.</li></td>
   </tr>
   <tr>
    <td>Vorlagen</td>
@@ -95,7 +95,7 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
   <tr>
    <td>Datenschutz und Compliance</td>
    <td><li>Entspricht Ihre Formularstrategie den Datenschutz- und Opt-in-Anforderungen Ihres Unternehmens?
-   <br/>     Man betrachte etwa <a href="https://business.adobe.com/de/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Datenschutz-Grundverordnung (DSGVO)</a>, das kanadische Anti-Spam-Gesetz (CASL), den Controlling the Assault of Non-Solicited Pornografy and Marketing Act von 2003 (CAN-SPAM), den California Consumer Privacy Act (CCPA) usw., um die Einhaltung der Vorschriften zu gewährleisten.</li>
+   <br/> sollten <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Datenschutz-Grundverordnung (DSGVO)</a>, das kanadische Anti-Spam-Gesetz (CASL), den Controlling the Assault of Non-Solicited Pornografy and Marketing Act von 2003 (CAN-SPAM), den California Consumer Privacy Act (CCPA) usw., um die Einhaltung der Vorschriften zu gewährleisten.</li>
 <p><img src="assets/tip-icon.png" alt="Tipp-Symbol">TIPP: Vergessen Sie nicht, sich in diesen Fragen immer an Ihre Rechtsabteilung zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Compliance aufrechtzuerhalten, bevor Sie Änderungen vornehmen.</td>
   </tr>
  </tbody>
@@ -124,7 +124,7 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
   </tr>
   <tr>
    <td>Datenschutz und Compliance</td>
-   <td><li>Haben alle E-Mails die entsprechenden Fußzeilen? Berücksichtigen Sie die DSGVO, CASL, CAN-SPAM, CCPA usw. Auswirkungen auf die Compliance.</li>
+   <td><li>Haben alle E-Mails die entsprechenden Fußzeilen? Berücksichtigen Sie die DSGVO, CASL, CAN-SPAM, CCPA usw. für Compliance-Auswirkungen.</li>
 <p><img src="assets/tip-icon.png" alt="Tipp-Symbol">TIPP: Vergessen Sie nicht, sich bezüglich dieser Compliance-Fragen immer an Ihre Rechtsabteilung zu wenden. Fragen Sie Ihr Team nach früheren Initiativen, um die Compliance aufrechtzuerhalten, bevor Sie Änderungen vornehmen.</td>
   </tr>
  </tbody>
@@ -141,7 +141,7 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
   <tr>
    <td>Ausschnitte</td>
    <td><li>Wie viele <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">Snippets</a> gibt es? Werden sie verwendet?
-   <br/>     Wenn nicht, sollten Sie sie für <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">E-Mail</a> und <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landingpage</a> Fußzeileninhalte, Logos und mehr verwenden.</li></td>
+   <br/> Wenn nicht, sollten Sie sie für <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">E-Mail</a> und <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landingpage</a> Fußzeileninhalte, Logos und mehr verwenden.</li></td>
   </tr>
  </tbody>
 </table>
@@ -157,12 +157,12 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
   <tr>
    <td>Asset-Status</td>
    <td><li>Wie viele Assets befinden sich im Status <i>Entwurf</i> und <i>Genehmigt mit Entwurf</i> (z. B. <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">E-Mails</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Landingpages</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">Formulare</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank"></a>)?
-   <br/>     Wenn viele vorhanden sind, sollten Sie sie löschen oder genehmigen.</li></td>
+   <br/> Wenn viele vorhanden sind, sollten Sie sie löschen oder genehmigen.</li></td>
   </tr>
   <tr>
    <td>Asset-Freigabe</td>
    <td><li>Welche Assets werden <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">über Arbeitsbereiche hinweg freigegeben</a>?</li>
-   <p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Es ist wichtig zu wissen, dass Aktionen, die in einer Workspace durchgeführt werden, dazu führen können, dass ein Asset in einer anderen Workspace für einen anderen Benutzer nicht zugänglich ist.</td>
+   <p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Es ist wichtig, dies zu wissen, da Aktionen, die in einer Workspace durchgeführt werden, dazu führen können, dass ein Asset in einer anderen Workspace für einen anderen Benutzer nicht zugänglich ist.</td>
   </tr>
  </tbody>
 </table>

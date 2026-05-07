@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo ein neues Veranstaltungsprogramm e
 title: Erstellen eines neuen Ereignisprogramms
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '198'
 ht-degree: 8%
 
 ---
@@ -47,11 +47,11 @@ Mit Events können Sie Online- und Offline-Events automatisieren! Erfassen Sie d
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Schieben Sie die Leiste nach **[!UICONTROL Bestätigt]** wenn Sie fertig sind.
+1. Schieben Sie den Balken nach **[!UICONTROL Bestätigt]**, wenn Sie fertig sind.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Erstellen Sie nach der Erstellung Ihres Ereignisses die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie sollten sich auch mit der Ansicht [Programmzeitplan“ &#x200B;](https://docs.marketo.com/display/docs/program+schedule+view).
+Erstellen Sie nach der Erstellung Ihres Ereignisses die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie sollten sich auch mit der Ansicht [Programmzeitplan“ ](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >

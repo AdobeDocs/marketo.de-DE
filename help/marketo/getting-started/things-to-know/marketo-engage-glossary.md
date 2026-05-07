@@ -4,10 +4,10 @@ short-description: Lernen Sie Marketo Engage-Begriffe und ihre Definitionen kenn
 title: Marketo Engage-Glossar
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '4065'
-ht-degree: 100%
+source-wordcount: '4187'
+ht-degree: 92%
 
 ---
 
@@ -25,11 +25,11 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
  <tbody>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B-Tests</a></strong></td>
-   <td colspan="1">Ermöglichen es Ihnen, Komponenten Ihrer E-Mail zu ändern (z. B. Betreffzeile, Absenderadresse usw.) und Testkriterien festzulegen, um zu ermitteln, welche Inhalte effektiver sind.</td>
+   <td colspan="1">Ermöglicht das Ändern von Komponenten Ihrer E-Mail (z. B. Betreffzeile, Absenderadresse usw.) und legen Sie Testkriterien fest, um zu bestimmen, welche Inhalte besser funktionieren.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Konto</strong></td>
-   <td colspan="1">Dieser Begriff kann unterschiedliche Bedeutungen haben:<br>– Ihre Marketo-Instanz selbst kann als Ihr Marketo-Konto bezeichnet werden.<br>– In <strong>TAM</strong> ist ein <strong>benanntes Konto</strong> ein Konto, das die Benutzerin oder der Benutzer als Zielkonto bestimmt hat, mit dem fortgefahren werden soll.<br>– In TAM ist ein CRM-Konto ein Konto, das von Ihrem verknüpften <strong>CRM</strong> (Konto in <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> oder <strong>API</strong>) zugeordnet ist.<br>– In Ihrem CRM-System sind Konten das Geschäft/Unternehmen, mit dem Leads und Kontakte verknüpft sind.</td>
+   <td colspan="1">Dieser Begriff kann unterschiedliche Bedeutungen haben:<br>-Ihre Marketo-Instanz selbst kann als Ihr Marketo-Konto bezeichnet werden.<br>-In <strong>TAM</strong>, ein <strong>Benanntes Konto</strong> ist ein Konto, das der Benutzer als Zielkonto bestimmt hat, das er verfolgen möchte.<br>-In TAM ist ein CRM-Konto ein Konto, das von Ihrem verknüpften <strong>CRM</strong> (Konto in <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> oder <strong>API</strong>) zugeordnet ist.<br>-In Ihrem CRM sind Konten das Unternehmen/Unternehmen, dem Leads und Kontakte zugeordnet sind.</td>
   </tr>
   <tr>
    <td><strong>Kontoliste</strong></td>
@@ -41,7 +41,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Kontobewertung</a></strong></td>
-   <td colspan="1">In <strong>TAM</strong> handelt es sich dabei um einen Wert, der einem Konto zugewiesen wird, damit Sie den Grad der Interaktion ermitteln können.</td>
+   <td colspan="1">Bei <strong>TAM</strong> handelt es sich um einen Wert, der einem Konto zugewiesen wird, damit Sie den Grad der Interaktion ermitteln können.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Akquisitionsdatum</strong></td>
@@ -261,7 +261,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong>Docs</strong></td>
-   <td colspan="1">Kurz für Dokumente: Dokumente sind Hilfeartikel für Kundinnen und Kunden, um das Produkt besser zu verstehen. Marketo verfügt über verschiedene Dokumenttypen: Produktdokumente (die Site, auf der Sie sich derzeit befinden), <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home" rel="nofollow">Entwickler-Dokumente</a> und <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support-Dokumente</a>.</td>
+   <td colspan="1">Kurz für Dokumente: Dokumente sind Hilfeartikel für Kundinnen und Kunden, um das Produkt besser zu verstehen. Marketo verfügt über verschiedene Dokumenttypen: Produktdokumente (die Site, auf der Sie sich derzeit befinden), <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home" rel="nofollow">Entwickler</a> Dokumente und <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a> Dokumente.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Domain-based Message Authentication, Reporting &amp; Conformance (DMARC)</strong></td>
@@ -285,7 +285,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">Dynamische Inhalte</a></strong></td>
-   <td colspan="1">Inhalte (z. B. Bilder, Ausschnitte, Text usw.), die in eine <strong>E-Mail</strong> oder <strong>Landingpage</strong> anhand der von Ihnen angegebenen Kriterien eingefügt werden, sodass Sie das Erlebnis für Leserinnen und Leser personalisieren können. </td>
+   <td colspan="1">Inhalt (z. B. Bilder, Snippets, Text usw.) wird anhand von von Ihnen angegebenen Kriterien in eine <strong>E</strong> oder <strong>Landingpage </strong>, sodass Sie das Erlebnis für den Leser personalisieren können. </td>
   </tr>
  </tbody>
 </table>
@@ -429,7 +429,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
  <tbody>
   <tr>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Interessanter Moment</strong></a></td>
-   <td><p>In <strong>Marketo Sales Insight</strong> ein Auftreten, das Sie als besonders relevant erachten (z. B. wenn jemand eine bestimmte Seite auf Ihrer Site besucht, auf einen bestimmten Link in einer E-Mail klickt usw.) und über das Ihr Vertriebs-Team informiert werden soll.</p></td>
+   <td><p>In <strong>Marketo Sales Insight</strong> ein Ereignis, das Sie als besonders relevant erachten (z. B. wenn jemand eine bestimmte Seite auf Ihrer Site besucht, auf einen bestimmten Link in einer E-Mail klickt usw.) dass Ihr Verkaufsteam davon Kenntnis haben soll.</p></td>
   </tr>
  </tbody>
 </table>
@@ -444,7 +444,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
  <tbody>
   <tr>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Bekannte Person</strong></a></td>
-   <td><p>Alle Personendaten in der Marketo-<strong>Datenbank</strong> werden als „bekannte Personendaten“ betrachtet. Es gibt verschiedene Möglichkeiten, wie jemand in Ihre Datenbank gelangen kann, darunter: CRM-Synchronisierung, Ausfüllen eines Formulars, Listen-Import/manuelle Eingabe, programmgesteuert (REST-API-/Partnerintegrationen) usw. Web-Besuchende werden zunächst über das <strong>Munchkin</strong>-Webtracking von Marketo mit <strong>Cookies</strong> versehen (wobei sie anonym bleiben) und dann dem entsprechenden Datensatz für eine bekannte Person zugeordnet, wenn sie identifizierbare Aktionen durchführen (z. B. Klicken auf einen verfolgten Link in einer Marketo-E-Mail, Ausfüllen eines Formulars mit ihrer E-Mail-Adresse oder manuelle Zuordnung über die Lead-APIs von Marketo Associate sowohl in der <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a>- als auch in der <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest-API</a>).</p></td>
+   <td><p>Alle Personendaten in der Marketo-<strong>Datenbank</strong> werden als „bekannte Personendaten“ betrachtet. Es gibt verschiedene Möglichkeiten, wie jemand in Ihre Datenbank gelangen kann, darunter: CRM-Synchronisierung, Ausfüllen eines Formulars, Listen-Import/manuelle Eingabe, programmgesteuert (REST-API-/Partnerintegrationen) usw. Web-Besuchende werden zunächst über das <strong>Munchkin</strong>-Webtracking von Marketo mit <strong>Cookies</strong> versehen (wobei sie anonym bleiben) und dann dem entsprechenden Datensatz für eine bekannte Person zugeordnet, wenn sie identifizierbare Aktionen durchführen (z. B. Klicken auf einen verfolgten Link in einer Marketo-E-Mail, Ausfüllen eines Formulars mit ihrer E-Mail-Adresse oder manuelle Zuordnung über die Lead-APIs von Marketo Associate sowohl in der <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a>- als auch in der <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest-API</a>).</p></td>
   </tr>
  </tbody>
 </table>
@@ -470,7 +470,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong>Lead</strong></td>
-   <td>In <strong>Adobe Marketo Engage</strong> ist Lead der ehemalige Begriff (ersetzt durch <strong>Person</strong>), der verwendet wird, um eine Person in Ihrer Marketo-<strong>Datenbank</strong> zu beschreiben, mit der Sie über Ihre Marketing-Kampagnen interagieren. In Ihrem <strong>CRM</strong> kann ein Lead für ein anderes Konzept stehen (d. h. eine Person, die mit einer <strong>Opportunity</strong> in Verbindung steht), unabhängig von der Funktionalität von Marketo.</td>
+   <td>In <strong>Adobe Marketo Engage</strong> ist Lead der vorherige Begriff (ersetzt durch <strong>person</strong>), der verwendet wird, um eine Person in Ihrer Marketo (<strong>) </strong> beschreiben, mit der Sie über Ihre Marketing-Kampagnen interagieren. In Ihrem <strong>CRM</strong> kann ein Lead für ein anderes Konzept stehen (d. h. eine Person, die mit einer <strong>Opportunity</strong> in Verbindung steht), unabhängig von der Funktionalität von Marketo.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Lead-Datenbank</strong></td>
@@ -481,7 +481,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
     <div>
      <p><strong> Liste</strong></p>
     </div></td>
-   <td colspan="1">Eine Ansammlung von Personen. In Marketo gibt es intelligente Listen und statische Listen. Eine <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">intelligente Liste</a> ist eine dynamische Liste von Personen, die sich ständig ändern kann, da sie auf von Ihnen definierten Filtern basiert (z. B. alle Personen in Ihrer Datenbank, die in Kalifornien leben). Wenn sich neue Personen für die Kriterien qualifizieren (oder vorhandene Personen sich nicht mehr qualifizieren), ändert sich die Liste. Eine <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statische Liste</a> ist – wie der Name sagt – statisch. Sie ändert sich nur, wenn Sie jemanden manuell hinzufügen bzw. löschen.</td>
+   <td colspan="1">Eine Ansammlung von Personen. In Marketo gibt es intelligente Listen und statische Listen. Eine <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">Smart List</a> ist eine dynamische Liste von Personen, die sich ständig ändern können, da sie auf von Ihnen definierten Filtern basiert (z. B. alle Personen in Ihrer Datenbank, die in Kalifornien leben). Wenn sich neue Personen für die Kriterien qualifizieren (oder vorhandene Personen sich nicht mehr qualifizieren), ändert sich die Liste. Eine <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statische Liste</a> ist – wie der Name sagt – statisch. Sie ändert sich nur, wenn Sie jemanden manuell hinzufügen bzw. löschen.</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokale Assets</strong></a></td>
@@ -535,7 +535,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
    <td>Auch als MSD bekannt. Eines der beiden CRM-Systeme, mit denen Marketo nativ integriert ist (siehe <a href="#c"><strong>CRM</strong></a>).</td>
   </tr>
   <tr>
-   <td><strong><a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td>
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td>
    <td>Der benutzerdefinierte JavaScript-Trackingcode von Marketo. Er verfolgt alle Personen, die Ihre Website besuchen. Dazu gehören auch anonyme Besuchende (zusammen mit ihren IP-Adressen und anderen Daten). </td>
   </tr>
   <tr>
@@ -624,7 +624,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong>Person</strong></td>
-   <td>Eine Person in Ihrer Marketo-<strong>Datenbank</strong>, mit der Sie über Marketing-Kampagnen interagieren.</td>
+   <td>Eine Person in Ihrer Marketo <strong>Datenbank</strong> mit der Sie über Marketing-Kampagnen interagieren.</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">Personen-Partition</a></strong></td>
@@ -728,7 +728,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">Segmentierung</a></strong></td>
-   <td colspan="1">Das Gruppieren von Personen in Ihrer <strong>Datenbank</strong> basiert auf einer Regel, die Sie in einer <strong>intelligenten Liste</strong> festlegen. Sie können beispielsweise eine Segmentierung namens „Branche“ nutzen, wobei die darin enthaltenen Kategorien Gesundheitswesen, Technologie, Finanzen usw. sein können. Dank Segmentierung können Sie anhand an einer ausgewählten Demografie ganze Personengruppen ansprechen.</td>
+   <td colspan="1">Das Gruppieren von Personen in Ihrer <strong>Datenbank</strong> basiert auf einer Regel, die Sie in einer <strong>intelligenten Liste</strong> festlegen. Sie können beispielsweise eine Segmentierung namens Branche verwenden, wobei die darin enthaltenen Kategorien Folgendes sein können: Gesundheitswesen, Technologie, Finanzen usw. Mit der Segmentierung können Sie basierend auf einer ausgewählten Demografie an ganze Personengruppen vermarkten.</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Sender Policy Framework</a> (SPF)</strong></td>

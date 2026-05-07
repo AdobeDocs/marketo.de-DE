@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie mit ContentAI E-Mail-Bilder prädiktiv gestal
 title: Aktivieren prädiktiver Inhalte in E-Mails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '417'
 ht-degree: 2%
 
 ---

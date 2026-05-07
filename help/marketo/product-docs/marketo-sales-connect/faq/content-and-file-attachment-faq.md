@@ -4,9 +4,9 @@ description: Erhalten Sie Antworten auf Fragen zu Inhalten und Dateianhängen in
 title: Häufig gestellte Fragen zu Inhalten und Dateianlagen
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '273'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 Ein **Dateianhang** ist wie ein Dateianhang, den Sie in Ihrem normalen E-Mail-Client verwenden würden.
 
-**Inhalt** wird verwendet, um alle Dateien (PPT, PDF, Word-Dokumente usw.) zu beschreiben, die von [!DNL Sales Connect] verfolgt werden sollen.
+**Inhalt** wird verwendet, um alle Dateien zu beschreiben (PPT, PDF, Word-Dokument usw.) dass Sie von [!DNL Sales Connect] verfolgt werden möchten.
 
 Wenn Sie auf diese Schaltfläche klicken, können Sie eine bereits hochgeladene Datei auswählen oder eine neue Datei hochladen, die verfolgt werden soll. Anschließend fügen wir einen Link in die E-Mail oder Vorlage ein, die Sie verwenden.
 

@@ -3,9 +3,9 @@ description: Erhalten Sie Antworten auf häufig gestellte Fragen zu Inhalten und
 title: Häufig gestellte Fragen zu Inhalten und Dateianlagen
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '276'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 Ein **Dateianhang** ist wie ein Dateianhang, den Sie in Ihrem normalen E-Mail-Client verwenden würden.
 
-**Inhalt** wird verwendet, um alle Dateien (PPT, PDF, Word-Dokumente usw.) zu beschreiben, die von [!DNL Sales Insight Actions] verfolgt werden sollen.
+**Inhalt** wird verwendet, um alle Dateien zu beschreiben (PPT, PDF, Word-Dokument usw.) dass Sie von [!DNL Sales Insight Actions] verfolgt werden möchten.
 
 Wenn Sie auf diese Schaltfläche klicken, können Sie eine bereits hochgeladene Datei auswählen oder eine neue Datei hochladen, die verfolgt werden soll. Anschließend fügen wir einen Link in die E-Mail oder Vorlage ein, die Sie verwenden.
 

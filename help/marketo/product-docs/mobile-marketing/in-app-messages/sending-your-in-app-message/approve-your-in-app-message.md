@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Ihre In-App-Nachricht genehmigen, um sie zu s
 title: Genehmigen Ihrer In-App-Nachricht
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Sie müssen den Versand genehmigen, bevor die In-App-Nachricht gesendet wird.
 
    >[!NOTE]
    >
-   >Wenn ein Teil des Sendevorgangs unvollständig ist, z. B. die In-App-Nachricht nicht genehmigt wurde, wird eine Warnmeldung angezeigt, die angibt, in welchem Bereich Ihre Aufmerksamkeit erforderlich ist. Beheben Sie das Problem, und Sie sollten die Meldung in Schritt 2 sehen.
+   >Wenn ein Teil des Sendevorgangs unvollständig ist, z. B. die In-App-Nachricht nicht genehmigt wurde, wird eine Warnmeldung angezeigt, die Sie darauf hinweist, in welchem Bereich Sie etwas unternehmen müssen. Beheben Sie das Problem, und Sie sollten die Meldung in Schritt 2 sehen.
 
 1. Klicken Sie auf **[!UICONTROL Genehmigen und starten]**.
 
@@ -63,7 +63,7 @@ Sie müssen den Versand genehmigen, bevor die In-App-Nachricht gesendet wird.
 
    >[!NOTE]
    >
-   >Wenn Sie ein Programm stoppen, wird es nicht mehr ausgeführt und kann nicht fortgesetzt werden. Wenn Sie sie erneut ausführen möchten, müssen Sie sie neu erstellen. Vergewissern Sie sich also, dass Sie mit einem Programm fertig sind, bevor Sie auf **[!UICONTROL Programm anhalten]** klicken.
+   >Wenn Sie ein Programm stoppen, wird es nicht mehr ausgeführt und kann nicht fortgesetzt werden. Wenn Sie sie erneut ausführen möchten, müssen Sie sie neu erstellen. Stellen Sie also sicher, dass Sie mit einem Programm fertig sind, bevor Sie auf **[!UICONTROL Programm anhalten]** klicken.
 
 ## In-App-Dashboard {#in-app-dashboard}
 

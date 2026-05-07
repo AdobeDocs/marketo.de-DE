@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Massenaktionen in Salesforce Classic mit Sale
 title: Verwenden von Massenaktionen in  [!DNL Salesforce]  Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '376'
 ht-degree: 2%
 
 ---
@@ -38,8 +38,8 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne
    a. Das Feld [!UICONTROL An] zeigt &quot;[!UICONTROL Alle Empfänger]&quot; an. Dies entspricht der Liste der Leads, die Sie in der Lead-Listenansicht ausgewählt haben
 b. Diese Liste ist im linken Bereich namens &quot;[!UICONTROL Bulk Compose] sichtbar - Sie können hier Empfänger hinzufügen/entfernen
 c. Sie können eine Vorlage auswählen oder Ihre eigene E-Mail erstellen
-d. Sie können eine Vorschau der dynamischen Felder anzeigen, die in Ihrer E-Mail ausgefüllt werden
-e. Sie können die E-Mail sofort senden oder einen Zeitplan für den Versand zu einem späteren Zeitpunkt festlegen
+d. Sie können dynamische Felder, die in Ihrer E-Mail ausgefüllt werden, in der Vorschau anzeigen
+E. Sie können die E-Mail sofort senden oder einen späteren Versand planen
 
    ![](assets/three-4.png)
 

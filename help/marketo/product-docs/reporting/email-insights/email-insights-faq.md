@@ -4,9 +4,9 @@ description: Hier finden Sie Antworten auf häufig gestellte Fragen zu E-Mail-Ei
 title: Häufig gestellte Fragen zu E-Mail Insights
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '636'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Ja und Nein. Mit der ersten Version von [!UICONTROL Email Insights] werden alle 
 
 ## Warum wird bei vielen Metriken null angezeigt, wenn ich nach Gerätetyp oder Gerätebetriebssystem filtere? {#why-do-many-metrics-show-zero-when-i-filter-by-device-type-or-device-os}
 
-Mit Ausnahme der Klicks-zum-Öffnen-Rate, Öffnungen, Klicks und Abmeldungen sind alle anderen unterstützten Metriken entweder Versandereignisse oder Verhältnisse, die von Versandereignissen abgeleitet wurden. Da Gerätetyp und Gerätebetriebssystem nur für Interaktionsmetriken gelten, verfügen wir einfach nicht über die anzuzeigenden Informationen. Beispielsweise ist es eine undefinierte Abfrage, nach der Versandrate zu fragen, wenn sie nach Gerätetyp = Mobiltelefon gefiltert wird, da Marketo keine Interaktionsmetriken für die zugrunde liegenden Versand- und Gesendetereignisse erhalten hätte. Wir untersuchen Möglichkeiten, den Gerätetyp und das Gerätebetriebssystem aus Interaktionsmetriken für Verhältnisse anzuwenden, die sowohl Interaktions- als auch Bereitstellungsmetriken umfassen.
+Mit Ausnahme der Klicks-zum-Öffnen-Rate, Öffnungen, Klicks und Abmeldungen sind alle anderen unterstützten Metriken entweder Versandereignisse oder Verhältnisse, die von Versandereignissen abgeleitet wurden. Da Gerätetyp und Gerätebetriebssystem nur für Interaktionsmetriken gelten, verfügen wir einfach nicht über die anzuzeigenden Informationen. Beispielsweise ist es eine undefinierte Abfrage, nach der Versandrate zu fragen, wenn sie nach Gerätetyp = Mobil gefiltert wird, da Marketo keine Interaktionsmetriken für die zugrunde liegenden Versand- und Gesendet-Ereignisse erhalten hätte. Wir untersuchen Möglichkeiten, den Gerätetyp und das Gerätebetriebssystem aus Interaktionsmetriken für Verhältnisse anzuwenden, die sowohl Interaktions- als auch Bereitstellungsmetriken umfassen.
 
 ## Was bewirkt [!UICONTROL Email Insights] wenn bestimmte E-Mail-Clients Bilder blockieren? {#what-does-email-insights-do-when-certain-email-clients-block-images}
 

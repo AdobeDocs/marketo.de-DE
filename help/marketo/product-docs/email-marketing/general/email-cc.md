@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über E-Mail-CC-Optionen in Marketo. Fügen Sie C
 title: E-Mail CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 1%
+source-wordcount: '572'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 E-Mail-CC : Ermöglicht den Versand bestimmter E-Mails über Marketo, um CC-Empfänger einzuschließen.
 
-Diese Funktion ist für alle Marketo-E-Mail-Assets verfügbar, unabhängig davon, wie die E-Mail gesendet wird (Batch- oder Trigger-Kampagne). Der CC-Empfänger erhält eine exakte Kopie der E-Mail, die an die ausgewählte Marketo-Person gesendet wurde. Jede Interaktionsaktivität (Öffnungen, Klicks usw.) wird daher im Aktivitätsprotokoll der Marketo-Person in der Zeile „An“ der E-Mail protokolliert. Eine Versandaktivität (gesendet, zugestellt, Hardbounce usw.) _anders als „Softbounce_ wird jedoch **nicht** registriert, da Marketo Versandereignisse für die Marketo-Person nicht von denen der CC-Empfänger unterscheiden kann. Marketo wird nur CC bis zu 100k Personen auf einmal. Wenn Ihre Smart-Liste 100.000 überschreitet und es zwingend erforderlich ist, dass jede Person auf ihr CC erhält, empfehlen wir, Ihre Liste aufzuschlüsseln.
+Diese Funktion ist für alle Marketo-E-Mail-Assets verfügbar, unabhängig davon, wie die E-Mail gesendet wird (Batch- oder Trigger-Kampagne). Der CC-Empfänger erhält eine exakte Kopie der E-Mail, die an die ausgewählte Marketo-Person gesendet wurde. Jede Interaktionsaktivität (Öffnungen, Klicks usw.) wird im Aktivitätsprotokoll der Marketo-Person in der Zeile „An“ der E-Mail protokolliert. Versandaktivität (gesendet, zugestellt, Hardbounce usw.) _anders als „Softbounce_ wird **nicht** registriert, da Marketo keine Versandereignisse für die Marketo-Person von den CC-Empfängerinnen und -Empfängern unterscheiden kann. Marketo wird nur CC bis zu 100k Personen auf einmal. Wenn Ihre Smart-Liste 100.000 überschreitet und es zwingend erforderlich ist, dass jede Person auf ihr CC erhält, empfehlen wir, Ihre Liste aufzuschlüsseln.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Diese Funktion ist für alle Marketo-E-Mail-Assets verfügbar, unabhängig davon
 
    ![](assets/six.png)
 
-1. Wählen Sie die Felder aus, die Sie zum Erstellen von CC-Personen verwenden möchten. _Pro E-Mail sind maximal fünf zulässig_. In diesem Beispiel möchten wir nur die Lead Owner-CC. Klicken Sie **Speichern** wenn Sie fertig sind.
+1. Wählen Sie die Felder aus, die Sie zum Erstellen von CC-Personen verwenden möchten. _Pro E-Mail sind maximal fünf zulässig_. In diesem Beispiel möchten wir nur die Lead Owner-CC. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/seven.png)
 

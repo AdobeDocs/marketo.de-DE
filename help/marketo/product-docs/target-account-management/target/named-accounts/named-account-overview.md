@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über Named Accounts und wie sie Personen aus Ihr
 title: '[!UICONTROL Benanntes Konto] Übersicht'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '254'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 [!UICONTROL Spezifische Konten] enthalten die Personen aus den Unternehmen, an die Sie sich wenden. Das Dashboard enthält aktuelle Daten zu den einzelnen Attributen für alle benannten Konten.
 
-## Dashboard [!UICONTROL Benannte &#x200B;]&quot; {#named-accounts-dashboard}
+## Dashboard [!UICONTROL Benannte ]&quot; {#named-accounts-dashboard}
 
 ![](assets/one.png)
 

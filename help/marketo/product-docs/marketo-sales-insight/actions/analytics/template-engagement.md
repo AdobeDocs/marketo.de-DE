@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie Vorlageninteraktionen auf der Registerkarte �
 title: Vorlageninteraktion
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '196'
 ht-degree: 2%
 
 ---
@@ -28,4 +28,4 @@ Gehen Sie wie folgt vor, um Ihre Vorlageninteraktion anzuzeigen.
 
    **Niedrigste Interaktion** - Eine Vorlage, deren Interaktionsrate leicht angepasst werden muss (diese Vorlage kann im gesamten Team freigegeben oder nicht freigegeben werden)
 
-   Scrollen Sie von dort nach unten und sehen Sie alle Vorlagen, die in Ihrem Team auf der Grundlage ihrer Ansichtsraten innerhalb dieses ausgewählten Datumsbereichs erstellt wurden. Auf der Ebene einzelner Vorlagen können Sie sehen: wer sie erstellt hat, ob sie freigegeben wurde oder nicht, Anzahl der E-Mails, die mit ihr verwendet wurden, und Tracking-Daten (Ansichten, Klicks, Antworten).
+   Scrollen Sie von dort nach unten und sehen Sie alle Vorlagen, die in Ihrem Team auf der Grundlage ihrer Ansichtsraten innerhalb dieses ausgewählten Datumsbereichs erstellt wurden. Auf der Ebene einzelner Vorlagen können Sie sehen: wer sie erstellt hat, ob sie freigegeben wurde oder nicht, Anzahl der E-Mails, die sie verwendet hat, und Tracking-Daten (Ansichten, Klicks, Antworten).

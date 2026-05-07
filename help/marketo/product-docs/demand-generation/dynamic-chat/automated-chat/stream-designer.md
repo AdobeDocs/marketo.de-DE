@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über die Stream-Designer und -Karten zum Erstell
 title: Gestalterin bzw. Gestalter des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1215'
+source-wordcount: '1220'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Es _(viele_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel,
 
 >[!PREREQUISITES]
 >
->Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie [&#x200B; in &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten.
+>Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie [ in ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten.
 
 ## Streamen von Designer-Karten {#stream-designer-cards}
 
@@ -46,7 +46,7 @@ Die Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
  </tr>
  <tr>
   <td style="width:25%"><strong>Ziel</strong></td>
-  <td>Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es ist an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des spezifischen Chats erreicht wird (z. B. wenn das Erfassen der E-Mail-Adresse des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte sofort nach der Informationserfassung im Stream).</td>
+  <td>Dies ist die einzige Karte, die die Besucher nicht sehen werden. Es liegt an Ihnen zu bestimmen, an welchem Punkt ein Ziel innerhalb des spezifischen Chats erreicht wird (z. B. wenn das Erfassen der E-Mail-Adresse des Besuchers Ihr Ziel ist, platzieren Sie die Zielkarte sofort nach der Informationserfassung im Stream).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Aktion*</strong></td>
@@ -57,7 +57,7 @@ Die Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
   <td style="width:25%"><strong>Live-Chat</strong></td>
   <td>Verwenden Sie die Live-Chat-Karte, wenn Besucher mit einem Live-Agenten chatten sollen.
   <li>Die Live-Chat-Karte muss die letzte Karte in der Filiale sein.</li>
-  <li>Besucher werden an einen Agenten weitergeleitet, sobald sie diese Karte im Stream erreichen. Daher wird empfohlen, dieser Karte eine Fragekarte voranzustellen, mit der Besucher gefragt werden, ob sie mit einem Live-Agenten chatten möchten.</li></td>
+  <li>Besucher werden an einen Agenten weitergeleitet, sobald sie diese Karte im Stream erreichen. Daher wird empfohlen, dieser Karte eine Frage voranzustellen, mit der Besucher gefragt werden, ob sie mit einem Live-Agenten chatten möchten.</li></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Erzeugte Antworten*</strong></td>
@@ -105,7 +105,7 @@ Oben rechts im Stream Designer sehen Sie eine Handvoll Symbole. Hier ist, was si
 
 Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} erstellen. In diesem Beispiel erstellen wir einen für ein Dialogfeld.
 
-1. Nachdem Sie &quot;[&#x200B; Dialogfeld“ erstellt haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} klicken Sie auf die Registerkarte **[!UICONTROL Stream-Designer]**.
+1. Nachdem Sie &quot;[ Dialogfeld“ erstellt haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} klicken Sie auf die Registerkarte **[!UICONTROL Stream-Designer]**.
 
    ![](assets/stream-designer-6.png)
 
@@ -113,7 +113,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-7.png)
 
-1. Stellen [!UICONTROL &#x200B; unter „Chatbot Response] Ihre Frage, wie Sie möchten.
+1. Stellen [!UICONTROL  unter „Chatbot Response] Ihre Frage, wie Sie möchten.
 
    ![](assets/stream-designer-8.png)
 
@@ -193,13 +193,13 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-22.png)
 
-1. Wenn Sie Ihr Dialogfeld aktivieren möchten, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
+1. Wenn Sie bereit sind, Ihr Dialogfeld zu aktivieren, klicken Sie auf **[!UICONTROL Veröffentlichen]**.
 
    ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
->Bevor Sie auf [!UICONTROL Veröffentlichen] klicken, vergewissern Sie sich, dass Sie [&#x200B; Ziel-URL(s) &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} haben.
+>Bevor Sie auf [!UICONTROL Veröffentlichen] klicken, vergewissern Sie sich, dass Sie [ Ziel-URL(s) ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} haben.
 
 >[!MORELIKETHIS]
 >

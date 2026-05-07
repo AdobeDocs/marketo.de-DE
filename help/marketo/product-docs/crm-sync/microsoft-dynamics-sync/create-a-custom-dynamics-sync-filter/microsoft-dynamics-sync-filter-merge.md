@@ -4,9 +4,9 @@ description: Verstehen, wie der Dynamics-Synchronisierungsfilter beim Zusammenf�
 title: Microsoft Dynamics-Synchronisierungsfilter - Zusammenf체hren
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Beim Zusammenf체hren von Leads in [!DNL Microsoft Dynamics] wird der Typ Zwei Op
 
 Die Lead-Datens채tze werden basierend auf den vom Administrator definierten Workflow-Regeln wahr oder falsch, um den Gewinner zu bestimmen. Der Synchronisierungsfilter f체r den erfolgreichsten Datensatz bestimmt letztendlich, ob der [!DNL MS Dynamics] Datensatz mit Marketo synchronisiert wird.
 
-Wenn eine Aufzeichnung wahr ist und die andere falsch ist, wird es schwierig.
+Wenn eine Aufzeichnung wahr und eine falsch ist, wird es schwierig.
 
 | Wenn der Synchronisierungsfilter f체r den verlorenen Datensatz wie folgt lautet: | Der Synchronisierungsfilter f체r den erfolgreichsten Datensatz lautet: | Dies ist das Ergebnis in Marketo |
 |---|---|---|

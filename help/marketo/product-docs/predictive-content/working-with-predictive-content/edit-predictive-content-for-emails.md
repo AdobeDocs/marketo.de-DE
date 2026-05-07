@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie prädiktive Inhalte für E-Mails mit Bild, Sc
 title: Bearbeiten prädiktiver Inhalte für E-Mails
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '256'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ So richten Sie Ihre prädiktiven Inhalte für E-Mails ein.
 
 >[!PREREQUISITES]
 >
->Inhalte müssen auf [&#x200B; Seite „Alle Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) [!UICONTROL &#x200B; für prädiktive Inhalte genehmigt &#x200B;].
+>Inhalte müssen auf [ Seite „Alle Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) [!UICONTROL  für prädiktive Inhalte genehmigt ].
 
 1. Klicken Sie auf der [!UICONTROL Prädiktiver Inhalt]-Seite auf einen Titel, um den Editor zu öffnen.
 
@@ -74,4 +74,4 @@ So richten Sie Ihre prädiktiven Inhalte für E-Mails ein.
 
    >[!NOTE]
    >
-   >In Marketo Email Editor v2.0 können Sie auch [Layoutvorlagen anzeigen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) die Sie verwenden, während Sie den Inhalt aktivieren.
+   >In Marketo Email Editor v2.0 können Sie auch [Layoutvorlagen anzeigen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) die Sie beim Aktivieren des Inhalts verwenden.

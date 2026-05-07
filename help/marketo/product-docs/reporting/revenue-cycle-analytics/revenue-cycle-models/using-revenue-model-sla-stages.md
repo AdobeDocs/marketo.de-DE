@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die SLA-Stadien des Umsatzmodells in Marketo 
 title: Verwenden der Umsatzmodell-SLA-Phasen
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '271'
 ht-degree: 3%
 
 ---
@@ -25,7 +25,7 @@ SLA steht für &quot;service level agreement&quot;. Diese Phasen werden verwende
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Wählen [!UICONTROL &#x200B; im Abschnitt &#x200B;] Ihr vorhandenes Modell aus oder [erstellen Sie ein neues](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Wählen [!UICONTROL  im Abschnitt ] Ihr vorhandenes Modell aus oder [erstellen Sie ein neues](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 

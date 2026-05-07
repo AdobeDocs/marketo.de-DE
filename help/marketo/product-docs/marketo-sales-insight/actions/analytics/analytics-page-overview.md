@@ -3,16 +3,16 @@ description: Erfahren Sie mehr über die Registerkarte „Analytics“ und die E
 title: Analytics-Seite – Übersicht
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '403'
 ht-degree: 1%
 
 ---
 
 # Analytics-Seite – Übersicht {#analytics-page-overview}
 
-Auf der Registerkarte Analytics sehen Sie Daten zur Interaktion Ihrer E-Mails. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte &quot;[!UICONTROL &quot; nach &#x200B;] filtern.
+Auf der Registerkarte Analytics sehen Sie Daten zur Interaktion Ihrer E-Mails. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte &quot;[!UICONTROL &quot; nach ] filtern.
 
 ## Wie oft wird es aktualisiert? {#how-often-does-it-update}
 
@@ -34,7 +34,7 @@ Auf den Registerkarten [!UICONTROL Ich] und [!UICONTROL Team] werden Information
 
 ## Registerkarte [!UICONTROL ME] {#me-tab}
 
-Die [Registerkarte &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}Ich“ ist ein hervorragender Ort, um die Interaktion Ihrer E-Mails, Vorlagen und Links zu überprüfen. Wenn Sie ein Administrator in Sales Insight Actions sind, können Sie nach beliebigen Benutzenden in Ihrem Team filtern, um deren Statistiken anzuzeigen.
+Die [Registerkarte ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}Ich“ ist ein hervorragender Ort, um die Interaktion Ihrer E-Mails, Vorlagen und Links zu überprüfen. Wenn Sie Administrator bei Sales Insight-Aktionen sind, können Sie nach beliebigen Benutzenden in Ihrem Team filtern, um deren Statistiken anzuzeigen.
 
 ## Registerkarte [!UICONTROL Team] {#team-tab}
 

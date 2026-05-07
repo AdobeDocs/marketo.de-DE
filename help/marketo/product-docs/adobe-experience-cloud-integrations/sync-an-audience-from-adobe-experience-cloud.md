@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie eine Zielgruppe aus Adobe Experience Cloud mi
 title: Synchronisieren einer Zielgruppe aus Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '294'
 ht-degree: 5%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 5%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. Für das Ziel können Sie eine vorhandene Liste auswählen oder den Namen einer neuen Liste eingeben. In diesem Beispiel erstellen wir ein neues. Klicken Sie **[!UICONTROL auf]** Synchronisieren“.
+1. Für das Ziel können Sie eine vorhandene Liste auswählen oder den Namen einer neuen Liste eingeben. In diesem Beispiel wird eine neue Liste erstellt. Klicken Sie **[!UICONTROL auf]** Synchronisieren“.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -56,7 +56,7 @@ Ein weiterer Schritt ist erforderlich, um das anonyme Benutzerprofil mit einem L
 
 **Warum unterscheidet sich die Listengröße in Marketo von der in Adobe?**
 
-Eine Person wird auch nicht synchronisiert, wenn wir eine ECID-Cookie-ID nicht an eine bekannte Person in Marketo binden können.
+Eine Person wird auch dann nicht synchronisiert, wenn eine ECID-Cookie-ID nicht mit einer bekannten Person in Marketo verknüpft werden kann.
 
 **Handelt es sich um eine einmalige Synchronisation?**
 

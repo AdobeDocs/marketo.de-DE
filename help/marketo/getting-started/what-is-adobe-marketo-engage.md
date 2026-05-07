@@ -4,10 +4,10 @@ description: Was ist Adobe Marketo Engage? – Marketo-Dokumente – Produktdoku
 title: Was ist Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 95%
 
 ---
 
@@ -43,7 +43,7 @@ Marketo Engage verfügt über eine Vielzahl großartiger Funktionen, mit denen S
 
 ## Muss ich das alles erlernen? {#do-i-need-to-learn-all-of-that}
 
-Nein. Es ist ganz leicht, in Marketo Engage anzufangen, und sich dann weiterzuentwickeln. Sie können alle Möglichkeiten erlernen, wenn Sie möchten, oder nur die Funktionen nutzen, die Ihren Bedürfnissen entsprechen.
+Nein. Es ist einfach, in Marketo Engage anzufangen, und es wird sich mit Ihnen weiterentwickeln. Sie können alle Möglichkeiten erlernen, wenn Sie möchten, oder nur die Funktionen nutzen, die Ihren Bedürfnissen entsprechen.
 
 ## Muss ich etwas einrichten? {#do-i-need-to-do-any-setup}
 

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie in Marketo eine mobile Ansicht für Ihre Frei
 title: Hinzufügen einer Mobilansicht für eine Freiform-Landingpage
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '150'
 ht-degree: 19%
 
 ---
 
 # Hinzufügen einer Mobilansicht für eine Freiform-Landingpage {#add-a-mobile-view-for-your-free-form-landing-page}
 
-Auf einem Smartphone können Sie Ihre Freiform-Landingpages ganz einfach großartig aussehen lassen.
+Auf einem Smartphone können Sie Ihre Freiform-Landingpages ganz einfach toll aussehen lassen.
 
 >[!NOTE]
 >

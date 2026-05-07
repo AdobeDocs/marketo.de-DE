@@ -3,10 +3,10 @@ description: Verstehen der Versandoptionen für die E-Mail-Schritte von Sales Ca
 title: Grundlegendes zu den Versandoptionen für E-Mail-Schritte in Verkaufskampagnen
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 4%
+source-wordcount: '758'
+ht-degree: 5%
 
 ---
 
@@ -75,5 +75,5 @@ Für alle nachfolgenden Tage/Schritte in Ihrer Verkaufskampagne haben Sie die fo
 >[!MORELIKETHIS]
 >
 >[Erstellen einer Verkaufskampagne](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->[Vertriebskampagne - Schritttypen und Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[Schritttypen und Erinnerungsaufgaben für Verkaufskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >[Einstellungen für Verkaufskampagnen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

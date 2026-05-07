@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie eine bestehende Marketo Engage-Instanz, die S
 title: Wo Sie beginnen sollten
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 04dcc90c24ea00d247af5de2d5a3a63cc821ae8a
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '593'
 ht-degree: 1%
 
 ---
@@ -18,11 +18,11 @@ Beginnen Sie einen neuen Auftrag oder übernehmen Sie eine vorhandene Instanz vo
 
 Vergewissern Sie sich, dass Sie in der Marketo Engage-Community ordnungsgemäß eingerichtet sind.
 
-* [**Richten Sie Ihr Profil ein**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=de){target="_blank"} indem Sie die erforderlichen Felder ausfüllen (Unternehmen, Lösungsspezialisierungen, Land usw.)
+* [**Richten Sie Ihr Profil ein**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} indem Sie die erforderlichen Felder ausfüllen (Unternehmen, Lösungsspezialisierungen, Land usw.)
 
-* Lesen Sie mehr über die [**Community-Richtlinien für Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=de){target="_blank"}.
+* Lesen Sie mehr über die [**Community-Richtlinien für Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
 
-* Erfahren Sie, wie [**einen Support-Fall einreichen**](https://experienceleague.adobe.com/de/support#home){target="_blank"} und bestätigen Sie, dass Sie als [Support-Administrator“ eingerichtet &#x200B;](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
+* Erfahren Sie, wie [**einen Support-Fall einreichen**](https://experienceleague.adobe.com/en/support#home){target="_blank"} und bestätigen Sie, dass Sie als [Support-Administrator“ eingerichtet ](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
 ## Zusammenführen von Marketo Engage-Community-Profilen {#merge-your-community-profiles}
 
@@ -59,24 +59,24 @@ Adobe hat unter Mitwirkung von Marketo Champions mehrere Checklisten für die Pr
 
 Sie können auch [Checklisten herunterladen](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in Tabellenform.
 
-* [Admin-Abschnitt](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
+* [Administratorbereich](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
 * [Datenbank](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Design-Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
 * [Marketing-Aktivitäten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Dokumentieren der geerbten Instanzeinrichtung](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
+* [Dokumentieren der übernommenen Instanzeinrichtung](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Möglichkeiten, Hilfe zu erhalten {#ways-to-get-help}
 
 Benötigen Sie weitere Hilfe? Verbinden Sie sich über die unten stehenden Links mit uns oder anderen Marketo Engage-Benutzern.
 
-* Für technische Unterstützung bei Problemen, die nicht ordnungsgemäß funktionieren, wenden Sie sich an den **[Marketo Engage-Support](https://experienceleague.adobe.com/de/support){target="_blank"}**.
+* Für technische Unterstützung bei Problemen, die nicht ordnungsgemäß funktionieren, wenden Sie sich an den **[Marketo Engage-Support](https://experienceleague.adobe.com/en/support){target="_blank"}**.
 
-* Treten Sie mit anderen Marketo Engage-Benutzenden in der **[Adobe Marketo Engage-Community in Verbindung und lernen Sie von ihnen &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=de){target="_blank"}**.
+* Treten Sie mit anderen Marketo Engage-Benutzenden in der **[Adobe Marketo Engage-Community in Verbindung und lernen Sie von ihnen ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
 
-* Wenn Sie praktische Unterstützung benötigen, um Ihre Marketo Engage-Instanz optimal zu nutzen, wenden Sie sich an **[Adobe Professional Services](https://business.adobe.com/de/products/marketo/services-support.html){target="_blank"}**.
+* Wenn Sie praktische Unterstützung benötigen, um Ihre Marketo Engage-Instanz optimal zu nutzen, wenden Sie sich an **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Sehen Sie **[kuratierte Anleitungsvideos](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de){target="_blank"}** zu verschiedenen Aspekten von Marketo Engage an.
+* Sehen Sie **[kuratierte Anleitungsvideos](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** zu verschiedenen Aspekten von Marketo Engage an.

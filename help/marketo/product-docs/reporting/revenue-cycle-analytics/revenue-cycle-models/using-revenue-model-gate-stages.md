@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Umsatzmodellsteuerstufen in Marketo Engage mi
 title: Verwenden der Umsatzmodell-Gate-Phasen
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '292'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Eine Torstufe dient als Qualifikationsprüfung.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Wählen Sie ein vorhandenes Modell aus oder [&#x200B; Sie ein neues &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Wählen Sie ein vorhandenes Modell aus oder [ Sie ein neues ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 

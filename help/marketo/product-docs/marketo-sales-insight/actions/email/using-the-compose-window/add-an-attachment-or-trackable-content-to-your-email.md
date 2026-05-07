@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie Verkaufs-E-Mails Anhänge oder verfolgbare In
 title: Hinzufügen eines Anhangs oder verfolgbarer Inhalte zu einer E-Mail
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '427'
 ht-degree: 4%
 
 ---
@@ -98,7 +98,7 @@ Innerhalb des Inhalts-Viewers können Leads die folgenden Dinge tun.
 
 **Nachverfolgbare Inhaltsereignisse im Live-Feed**
 
-Wenn ein Lead auf den Link unseres Dokuments klickt, wird ein Klickereignis angezeigt. Sie können auf diesen Link klicken, um den Inhalt anzuzeigen. Solange Sie in Ihrem Actions-Konto im Browser angemeldet sind, zählen wir diese Klicks nicht als Ereignisse.
+Wenn ein Lead auf den Link unseres Dokuments klickt, wird ein Klickereignis angezeigt. Sie können auf diesen Link klicken, um den Inhalt anzuzeigen. Solange Sie in Ihrem Actions-Konto im Browser eingeloggt sind, zählen wir diese Klicks nicht als Ereignisse.
 
 ![](assets/add-an-attachment-or-trackable-content-15.png)
 

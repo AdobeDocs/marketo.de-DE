@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die CSS eines Formulardesigns in Marketo bear
 title: Bearbeiten der CSS-Datei eines Formular-Designs
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '197'
 ht-degree: 11%
 
 ---

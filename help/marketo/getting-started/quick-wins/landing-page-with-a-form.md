@@ -4,9 +4,9 @@ description: Landingpage mit einem Formular - Marketo-Dokumente - Produktdokumen
 title: Landingpage mit einem Formular
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '557'
 ht-degree: 8%
 
 ---
@@ -117,7 +117,7 @@ Gut gemacht! Nachdem wir nun ein Programm erstellt haben, fahren wir fort und er
 
    >[!NOTE]
    >
-   >Sie haben vielleicht eine andere Vorlage als die in unserem Screenshot, es ist in Ordnung, wählen Sie einfach eine aus und fahren Sie fort.
+   >Sie haben möglicherweise eine andere Vorlage als die in unserem Screenshot, es ist in Ordnung, wählen Sie einfach eine aus und fahren Sie fort.
 
    ![](assets/landing-page-with-a-form-17.png)
 

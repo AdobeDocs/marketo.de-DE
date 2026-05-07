@@ -2,9 +2,9 @@
 description: Mai 2022 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2022 – Versionshinweise
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '835'
 ht-degree: 4%
 
 ---

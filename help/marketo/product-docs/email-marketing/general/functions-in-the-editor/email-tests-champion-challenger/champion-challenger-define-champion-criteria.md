@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Champion-Kriterien für E-Mail-Tests definier
 title: Champion/Challenger - Definieren Sie Champion-Kriterien
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 5%
 
 ---
@@ -49,7 +49,7 @@ Nachdem Sie Ihren Testtyp eingerichtet haben, müssen Sie die Champion-Kriterien
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo erlaubt Trigger nur für Personen, denen die E-Mail von diesem E-Mail-Programm aus gesendet wurde. Es ist nicht erforderlich, einen Filter &quot;[!UICONTROL &#x200B; gesendete E-]&quot; hinzuzufügen.
+   Marketo erlaubt Trigger nur für Personen, denen die E-Mail von diesem E-Mail-Programm aus gesendet wurde. Es ist nicht erforderlich, einen Filter &quot;[!UICONTROL  gesendete E-]&quot; hinzuzufügen.
 
 1. Klicken Sie auf **[!UICONTROL Schließen]**.
 

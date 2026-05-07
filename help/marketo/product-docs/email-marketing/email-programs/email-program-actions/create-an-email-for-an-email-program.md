@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine E-Mail für ein E-Mail-Programm erstelle
 title: Erstellen einer E-Mail für ein E-Mail-Programm
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '171'
 ht-degree: 11%
 
 ---
@@ -44,4 +44,4 @@ Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, soll
 
    ![](assets/five.png)
 
-Sehr gut! Nachdem wir nun eine E-Mail erstellt haben, die wir senden möchten, [&#x200B; wir „einen A/B-Test hinzufügen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) oder gehen direkt zum [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+Sehr gut! Nachdem wir nun eine E-Mail erstellt haben, die wir senden möchten, [ wir „einen A/B-Test hinzufügen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) oder gehen direkt zum [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).

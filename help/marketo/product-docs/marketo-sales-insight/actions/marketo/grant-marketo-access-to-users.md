@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie Benutzenden in Insight-Verkaufsaktionen Zugri
 title: Gewähren von Marketo-Zugriff für Benutzende
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '226'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ Sie müssen Benutzer zu [[!DNL Sales Insight Actions]](/help/marketo/product-doc
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **Marketo**.
+1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **Marketo**.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 

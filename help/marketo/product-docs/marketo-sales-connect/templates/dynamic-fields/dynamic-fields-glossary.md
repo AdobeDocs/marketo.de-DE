@@ -4,9 +4,9 @@ description: Informationen zu dynamischen Feldern in Sales Connect. Verwenden Si
 title: Glossar zu dynamischen Feldern
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Beim Erstellen einer Vorlage in [!DNL Sales Connect] empfehlen wir immer die Integration dynamischer Felder mithilfe der Schaltfläche **[!UICONTROL Dynamische MSE-Felder]**.
 
-Dieses Tool wird verwendet, um Ihnen `auto-personalize your email` viel Zeit zu `pulling information from the [!UICONTROL People] page` und zu sparen.
+Dieses Tool wird verwendet, um Ihnen `pulling information from the [!UICONTROL People] page` viel Zeit zu `auto-personalize your email` und zu sparen.
 
 | Dynamisches Feld | Beispiel für das, was in Ihrer E-Mail angezeigt wird |
 |---|---|
@@ -35,7 +35,7 @@ Dieses Tool wird verwendet, um Ihnen `auto-personalize your email` viel Zeit zu 
 * Wenn die Kontaktinformationen falsch eingegeben wurden oder auf der Seite Personen fehlen, werden sie nicht korrekt in Ihre Vorlage übernommen.
 * Der Unterschied zwischen `{{company}}` und `{{company_friendly}}` besteht darin, dass `{{company_friendly}}` alle formalen Titel, wie Inc., LLC. usw., aus dem Namen des Unternehmens Ihres Kontakts entfernen.
 * Wenn Sie `{{company_friendly}}` verwenden, stellen Sie sicher, dass Sie Inc. oder Co. durch ein Komma in den Kontaktdaten trennen. So weiß Sales Connect, was beim Abrufen des Werts entfernt werden soll.
-* Das System hängt die Signatur des Benutzers automatisch an jede gesendete E-Mail an. Wenn der/die Benutzende eine Vorlage mit dem dynamischen Feld `{{my_signature}}` verwendet, füllt das System die Signatur, in der das dynamische Feld `{{my_signature}}` platziert wurde. Er wird nur hinzugefügt, um Duplizierungen zu vermeiden. Das System handhabt `{{team_unsubscribe}}` auf dieselbe Weise, wenn die globale Einstellung zum Abmelden vom Append aktiviert ist.
+* Das System hängt die Signatur des Benutzers automatisch an jede gesendete E-Mail an. Wenn der/die Benutzende eine Vorlage mit dem dynamischen Feld `{{my_signature}}` verwendet, füllt das System die Signatur, in der das dynamische Feld `{{my_signature}}` platziert wurde. Sie wird nur dort hinzugefügt, um Duplizierungen zu vermeiden. Das System handhabt `{{team_unsubscribe}}` auf dieselbe Weise, wenn die globale Einstellung zum Abmelden vom Append aktiviert ist.
 
 >[!TIP]
 >

@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über den Interaktionswert (0 bis 100) und wie er
 title: Grundlegendes zur Interaktionsbewertung
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ Der Interaktionswert macht es leicht zu erkennen, wie effektiv der Inhalt in Ihr
 
 ![](assets/highestengagementwidget.jpg)
 
-Der Score basiert auf einem proprietären Algorithmus, der das eingekoppelte Verhalten ([!UICONTROL Offen], [!UICONTROL Klicken], [!UICONTROL Programmerfolg]) und das ausgekoppelte Verhalten ([!UICONTROL Abmelden]) berücksichtigt. Im Vergleich zu E-Mails, die an Tropf und Pflege erinnern, ergibt dies durchschnittlich 50. Um Personen die Möglichkeit zu geben, mit Ihren Inhalten zu interagieren, wird der Interaktionswert 72 Stunden nach jeder Besetzung berechnet. Außerdem umfasst die Bewertung nur Daten aus **Ihren letzten drei** Umwandlungen.
+Der Score basiert auf einem proprietären Algorithmus, der das eingekoppelte Verhalten ([!UICONTROL Offen], [!UICONTROL Klicken], [!UICONTROL Programmerfolg]) und das ausgekoppelte Verhalten ([!UICONTROL Abmelden]) berücksichtigt. Im Vergleich zu E-Mails im Tropf- und Nurture-Stil ergibt dies durchschnittlich 50. Um Personen die Möglichkeit zu geben, mit Ihren Inhalten zu interagieren, wird der Interaktionswert 72 Stunden nach jeder Besetzung berechnet. Außerdem umfasst die Bewertung nur Daten aus **Ihren letzten drei** Umwandlungen.
 
 >[!NOTE]
 >

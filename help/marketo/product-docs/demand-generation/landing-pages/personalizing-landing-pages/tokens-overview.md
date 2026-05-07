@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über Token zur Personalisierung von Marketo-Land
 title: Token – Überblick
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 94%
+source-wordcount: '313'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ Ein Token ist eine Variable, die in Flussschritten intelligenter Kampagnen, E-Ma
 
 ## Grundlegendes zu Standardwerten {#understanding-default-values}
 
-Wenn Sie ein Token verwenden, sollten Sie auch einen Standardwert angeben. Dies ist der Text, der anzeigt wird, wenn eine Person keinen Wert für das Feld hat, auf das Sie verweisen.
+Wenn Sie ein Token verwenden, sollten Sie auch einen Standardwert angeben. Dies ist der Text, der anzeigt, wenn eine Person keinen Wert für das Feld hat, auf das Sie verweisen.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 

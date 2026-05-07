@@ -6,9 +6,9 @@ description: Erfahren Sie, wie Sie das E-Mail-Rendering über Clients hinweg mit
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '395'
 ht-degree: 5%
 
 ---
@@ -57,7 +57,7 @@ Die folgenden Schritte gelten für Benutzer des [Litmus Enterprise Plan](https:/
    >
    >Erfahren Sie, wie [Ihre Standard-E-Mail-Client-Liste anpassen](https://help.litmus.com/article/227-change-your-default-email-clients-list).
 
-1. Wenn Sie den Test abgeschlossen haben, klicken Sie auf den Rückwärtspfeil oben links, um zum Bildschirm _Inhalt simulieren_ zurückzukehren.
+1. Wenn Sie mit dem Testen fertig sind, klicken Sie auf den Rückwärtspfeil oben links, um zum Bildschirm _Inhalt simulieren“_.
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 

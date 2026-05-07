@@ -3,10 +3,10 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '3474'
-ht-degree: 98%
+source-wordcount: '3551'
+ht-degree: 94%
 
 ---
 
@@ -20,11 +20,11 @@ Die Standardseite mit den Versionshinweisen für Marketo Engage [finden Sie hier
 
 ### Wartezeit des Besuchers {#visitor-wait-time}
 
-Legen Sie eine maximale Zeit (zwischen 10 und 500 Sekunden) fest, die ein Besucher wartet, bis er mit einem Live Agent verbunden ist, bevor der Besucher eine Ausweichnachricht erhält. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Legen Sie eine maximale Zeit (zwischen 10 und 500 Sekunden) fest, die ein Besucher wartet, bis er mit einem Live Agent verbunden ist, bevor der Besucher eine Ausweichnachricht erhält. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Transkript herunterladen {#download-transcript}
 
-Sie können jetzt eine TXT-Datei Ihres Chat-Transkripts herunterladen, nachdem ein Live-Chat beendet wurde. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Sie können jetzt eine TXT-Datei Ihres Chat-Transkripts herunterladen, nachdem ein Live-Chat beendet wurde. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version Juni 2025 {#june-2025-release}
 
@@ -58,8 +58,8 @@ Wenn sie nicht verfügbar ist, tut das System Folgendes:
 
 * Stattdessen gilt Folgendes:
 
-   * Es zeigt den Meeting-Kalender der als Agentin bzw. Agent zugeordneten Person an (falls aktiviert),
-– oder –
+   * Zeigt den Besprechungskalender des zugeordneten Agenten an (falls aktiviert),
+- oder -
    * Kehrt zu einer Standardmeldung zurück (im schlimmsten Fall).
 
 Die Routing-Regel auf Kartenebene (z. B. Team, benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agentin bzw. Agent).
@@ -74,8 +74,8 @@ Nur weil eine Person nicht reagiert, wird nicht gleich ein Round-Robin-Fallback 
 
 Wenn sich keine Agentin bzw. kein Agent meldet, passiert Folgendes:
 
-* Das System zeigt den Kalender der ersten Person an, die als Agentin bzw. Agent angefragt wurde (falls aktiviert).
-– oder –
+* Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
+- oder -
 * Es zeigt die standardmäßige Fallback-Nachricht an.
 
 ##### – Round-Robin-Routing –
@@ -105,7 +105,7 @@ Die Routing-Regel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wird au
 * Wenn keine Interaktion erfolgreich ist, wird eine Ausweichlogik angewendet:
 
    * Kalender-Fallback (falls aktiviert),
-– oder –
+- oder -
    * Standardnachricht.
 
 Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine geeigneten Agentinnen oder Agenten gemäß der primären Routing-Regel gefunden werden, aber nicht, wenn einzelne Agentinnen bzw. Agenten nicht reagieren.
@@ -114,7 +114,7 @@ Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine ge
 
 <p>
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 <table><thead>
   <tr>
@@ -140,7 +140,7 @@ _&#x200B;**Konto-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
+_**Benutzerdefiniertes Routing**_
 
 <table><thead>
   <tr>
@@ -166,7 +166,7 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Team-Routing**&#x200B;_
+_**Team-Routing**_
 
 <table><thead>
   <tr>
@@ -192,7 +192,7 @@ _&#x200B;**Team-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round-Robin-Routing**&#x200B;_
+_**Round-Robin-Routing**_
 
 <table><thead>
   <tr>
@@ -354,13 +354,13 @@ Wenn also eine Besucherin bzw. ein Besucher mit dem Cookie „abc“ auf einer S
     <td>Bekannte Person</td>
     <td>xyz</td>
     <td>Jemand anderes als die vorhandene Person</td>
-    <td>Dieses Szenario ist nicht möglich, da es sich um ein neues Cookie handelt, das standardmäßig als ein neues, anonymes Profil betrachtet wird.</td>
+    <td>Dieses Szenario ist nicht möglich, da es sich um ein neues Cookie handelt, das standardmäßig als neues anonymes Profil betrachtet wird</td>
   </tr>
 </tbody></table>
 
 ### Option zum Übernehmen der Schriftart {#option-to-inherit-font}
 
-Sie können den Chatbot jetzt so einstellen, dass er die Schriftart direkt von der Web-Seite übernimmt, auf der er gehostet wird, anstatt die Markenschriftart in Dynamic Chat zu verwalten. Wenn Sie diese Option aktivieren, übernimmt der Chatbot die Schriftart, die im Tag `<body>` der Seite definiert ist.
+Sie können jetzt den Chatbot aktivieren, um die Schriftart direkt von der Web-Seite zu erben, auf der sie gehostet wird, anstatt die Markenschriftart in Dynamic Chat zu verwalten. Wenn Sie diese Option aktivieren, übernimmt der Chatbot die Schriftart, die im Tag `<body>` der Seite definiert ist.
 
 ![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
@@ -424,7 +424,7 @@ Zuvor, wenn die Marketo Engage-Synchronisierung aktiviert wurde, synchronisierte
 
 ### Weitergeben zusätzlicher Besucherdaten an Konversationsflüsse {#pass-additional-visitor-data}
 
-Wenn Sie Besucherdaten über andere Kanäle wie Formulare oder Anmeldungen erfassen, können Sie diese Daten jetzt direkt an Dynamic Chat übermitteln.
+Wenn Sie Besucherinformationen über andere Kanäle wie Formulare oder Anmeldung erfassen, können Sie diese Informationen jetzt direkt an Dynamic Chat weitergeben.
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
@@ -534,7 +534,7 @@ Wir haben in diesem Jahr eine bedingte Verzweigung für Dialoge veröffentlicht.
 
 ### Live-Chat für Konversationsflüsse {#live-chat-for-conversational-flows}
 
-Im Jahr 2023 haben wir Live-Chat-Funktionen für Dialoge veröffentlicht. Jetzt können Sie auch Live-Chat-Interaktionen zu Ihren Konversationsflüssen hinzufügen. Wenn Sie Konversationsflüsse mit Ihren Marketo Engage-Formularen verwenden, können Sie qualifizierten Besuchenden jetzt erlauben, sofort nach der Formularübermittlung mit einer Live-Agentin oder einem Live-Agenten zu chatten!
+Im Jahr 2023 haben wir Live-Chat-Funktionen für Dialoge veröffentlicht. Jetzt können Sie auch Live-Chat-Interaktionen zu Ihren Konversationsflüssen hinzufügen. Wenn Sie Konversationsflüsse mit Ihren Marketo Engage-Formularen verwenden, können Sie jetzt qualifizierten Besuchern erlauben, sofort nach der Formularübermittlung mit einem Live-Agenten zu chatten!
 
 ### Kürzliche Marketo Engage-Aktivitäten im Agenten-Posteingang {#recent-marketo-engage-activities-in-agent-inbox}
 

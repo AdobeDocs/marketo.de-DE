@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Textversion einer E-Mail bearbeiten. Aktu
 title: Erstellen der Textversion einer E-Mail
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '249'
 ht-degree: 5%
 
 ---
@@ -31,7 +31,7 @@ Wenn Sie eine E-Mail erstellen, sollte deren Textversion möglicherweise anders 
 
    ![](assets/three-4.png)
 
-1. Nehmen Sie Ihre Änderungen vor. Schließen Sie danach einfach den Editor oder kehren Sie zur HTML-Version zurück. Die Änderungen werden automatisch gespeichert.
+1. Nehmen Sie Ihre Änderungen vor. Schließen Sie anschließend einfach den Editor oder kehren Sie zur HTML-Version zurück. Die Änderungen werden automatisch gespeichert.
 
    ![](assets/four-4.png)
 

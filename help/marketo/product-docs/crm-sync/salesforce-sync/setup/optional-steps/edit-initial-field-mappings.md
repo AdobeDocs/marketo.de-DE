@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie anfängliche Feldzuordnungen vor der ersten S
 title: Bearbeiten der anfänglichen Feldzuordnungen
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ Bei der ersten Synchronisation mit Salesforce kombiniert Marketo Engage automati
 
 ## Nicht zugeordnete Felder zuordnen {#map-unmapped-fields}
 
-Wenn ein Feld im Ordner [!UICONTROL Nicht zugeordnete Felder] angezeigt wird, bedeutet dies, dass es keinem ähnlichen Feld des Leads oder Kontakts in Salesforce zugeordnet ist. Das können Sie reparieren.
+Wenn ein Feld im Ordner [!UICONTROL Nicht zugeordnete Felder] angezeigt wird, bedeutet dies, dass es keinem ähnlichen Feld im Lead oder Kontakt in Salesforce zugeordnet ist. Das können Sie reparieren.
 
 1. Klicken Sie **[!UICONTROL Zuordnungen bearbeiten]**.
 

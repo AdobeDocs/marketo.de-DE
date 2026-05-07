@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über das Entwerfen interaktiver Webinare in Mark
 title: Entwerfen interaktiver Webinare
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -76,9 +76,9 @@ Erfahren Sie, wie Sie Ihr Webinar an Ihre Anforderungen anpassen.
 
 **Pod**: Eine Komponente in einer Vorlage, die während des Webinars eine bestimmte Aktivität ausführt. Sie können beispielsweise eine Umfrage einrichten und durchführen, um die Antworten der Teilnehmer in einer Aktivität zu erfassen, die von einem Umfrage-Pod ausgeführt werden kann. Ebenso kann es sich bei dem Chat mit den Teilnehmern zur Vermittlung einer Nachricht oder bei der beiläufigen Interaktion mit ihnen um eine Aktivität handeln, die über den Chat-Pod bereitgestellt wird. Es stehen mehrere weitere Pods zur Verfügung, z. B. Freigabe, Notizen, Video, Chat, Teilnehmerliste, Dateien, Weblinks, Umfragen und Fragen und Antworten.
 
-      **Survey Pod**: Ermöglicht Hosts, strukturierte Feedback-Formulare direkt innerhalb einer Live-Sitzung zu entwerfen und bereitzustellen. Der Umfrage-Pod erweitert die vorhandenen Umfrage-Pod-Funktionen, indem er die Möglichkeit bietet, mehrere Fragen zusammen zu stellen, und so eine optimierte und kohärentere Möglichkeit bietet, Einblicke zu sammeln. [Weitere Informationen](https://helpx.adobe.com/de/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Survey Pod**: Ermöglicht Hosts, strukturierte Feedback-Formulare direkt innerhalb einer Live-Sitzung zu entwerfen und bereitzustellen. Der Umfrage-Pod erweitert die vorhandenen Umfrage-Pod-Funktionen, indem er die Möglichkeit bietet, mehrere Fragen zusammen zu stellen, und so eine optimierte und kohärentere Möglichkeit bietet, Einblicke zu sammeln. [Weitere Informationen](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Ressourcen-Pod**: Ersetzt die vorherigen Dateien und Weblinks-Pods und bietet eine einzige, einheitliche Möglichkeit, Ressourcen während Live-Sitzungen freizugeben. [Weitere Informationen](https://helpx.adobe.com/de/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Ressourcen-Pod**: Ersetzt die vorherigen Dateien und Weblinks-Pods und bietet eine einzige, einheitliche Möglichkeit, Ressourcen während Live-Sitzungen freizugeben. [Weitere Informationen](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

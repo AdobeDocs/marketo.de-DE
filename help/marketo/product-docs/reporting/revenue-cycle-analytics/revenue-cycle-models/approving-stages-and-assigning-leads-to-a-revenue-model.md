@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die Genehmigung von Phasen und die Zuweisun
 title: Genehmigen von Phasen und Zuweisen von Leads zu einem Umsatzmodell
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '354'
 ht-degree: 5%
 
 ---
@@ -63,7 +63,7 @@ Sehr gut! Um festzulegen, wie neue Leads den Phasen zugewiesen werden, erstellen
 
 >[!NOTE]
 >
->Wenn sich Ihr Modell im Status Genehmigte Stadien befindet, werden in den Aktivitätsprotokollen der Leads keine Ereignisse vom Typ Änderungsumsatz-Stadium angezeigt. Wenn Ihr Modell vollständig genehmigt ist, wird dieser Flussschritt übersprungen, wenn Sie einen Lead in das Stadium verschieben, in dem er sich derzeit befindet.
+>Wenn sich Ihr Modell im Status Genehmigte Stadien befindet, werden in den Aktivitätsprotokollen der Leads keine Ereignisse vom Typ Änderungsumsatz-Stadium angezeigt. Wenn Ihr Modell vollständig genehmigt ist, wird dieser Flussschritt übersprungen, wenn Sie einen Lead in dieselbe Phase verschieben, in der er sich derzeit befindet.
 
 ## Neue Leads: Zuweisungsregeln erstellen  {#new-leads-create-assignment-rules}
 

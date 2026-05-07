@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über die Raumverwaltung für interaktive Webinar
 title: Raumverwaltung
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Um die Liste aller Zimmer anzuzeigen, wählen Sie **[!UICONTROL Zimmer]** aus de
 Von dieser zentralen Benutzeroberfläche aus können Sie die folgenden Aktionen ausführen:
 
 * Klicken Sie auf das Symbol Launch-Raum , um zu starten und den Raum zu betreten.
-* Verwenden Sie die Suchleiste, um das gewünschte Zimmer zu finden (durchsucht nur die von Ihnen erstellten Zimmer).
+* Verwenden Sie die Suchleiste, um den Raum zu finden, den Sie suchen (durchsucht nur die von Ihnen erstellten Räume).
 * Klicken Sie auf das Symbol Raum löschen , um den Raum zu entfernen. Dadurch werden alle Aufzeichnungen und Dateien im Zusammenhang mit dem Raum gelöscht.
 
 Wenn Sie einen Raum auswählen, können Sie den Inhalt oder die Aufzeichnungen anzeigen, die in diesem Raum verfügbar sind. Auf diesem Bildschirm sind die Informationen auf zwei Registerkarten verfügbar: der Registerkarte **Inhalt** und der Registerkarte **Aufnahmen**.

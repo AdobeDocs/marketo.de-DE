@@ -3,9 +3,9 @@ description: Oktober 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Oktober 2024 – Versionshinweise
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '575'
 ht-degree: 20%
 
 ---
@@ -45,7 +45,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <tr>
    <td><strong>Smart List „Set to Affect“ Count</strong>: Zeigt an, wie viele Personen von der Bearbeitung der Qualifizierungsregeln einer Smart-Kampagne betroffen sein werden.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -56,7 +56,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <tr>
    <td><strong>Schaltfläche „Mein Konto“ in der Navigationsleiste</strong>: Für diejenigen, die zu Adobe Identity Management System migriert haben, ermöglicht eine neue Schaltfläche „Mein Konto“ in der linken Navigationsleiste die Konfiguration Ihrer Zeitzone und den Zugriff auf Abonnementdetails.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -92,7 +92,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Aktualisierung der Massenextraktions-API**: Es wurde ein Problem in der Massenextraktions-API behoben, das die Option columnHeaderNames betraf, mit der Sie benutzerdefinierte Spaltenkopfzeilennamen in der exportierten Datei angeben können. Zuvor konnten Spaltenkopfzeilennamen, die Nicht-ASCII-Zeichen enthielten, beschädigt werden.
 
-* **Einstellung von REST-API-Zugriffs-Token**: Der Abfrageparameter „access_token“, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Einstellung von REST-API-Zugriffs-Token**: Der Abfrageparameter „access_token“, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **QR-Code veraltet**: Am 4. Oktober 2024 wird die QR-Code-Funktion, die in Push-Benachrichtigungen und In-App-Messaging-Assets verwendet wird, eingestellt. Dazu gehört die Verwendung von QR-Codes für ein neues Testgerät sowie die Erstellung neuer Assets mit QR-Codes. Wenn Funktionen mit geringerer Nutzung verworfen werden, können wir ihre Ressourcen für die Gesamtwartung von Marketo Engage neu zuweisen.
 

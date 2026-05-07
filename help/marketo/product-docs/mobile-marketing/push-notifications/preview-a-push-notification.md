@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine Vorschau einer Push-Benachrichtigung in 
 title: Anzeigen der Vorschau für eine Push-Benachrichtigung
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '266'
 ht-degree: 3%
 
 ---
@@ -45,7 +45,7 @@ Auf dem Sperrbildschirm wird er teilweise nach unten angezeigt, unter der Zeit.
 
 >[!NOTE]
 >
->In Android gibt es keine Ansicht im Benachrichtigungszentrum.
+>In Android gibt es keine Ansicht des Benachrichtigungszentrums.
 
 ## iOS-Vorschau {#ios-previews}
 
@@ -59,7 +59,7 @@ Auf dem Sperrbildschirm wird sie teilweise nach unten angezeigt.
 
 ![](assets/image2015-9-17-17-3a2-3a1.png)
 
-Auf dem Bildschirm Benachrichtigungszentrum befindet sie sich oben,
+Auf dem Bildschirm Benachrichtigungszentrum befindet er sich oben,
 
 ![](assets/image2015-9-17-17-3a3-3a15.png)
 

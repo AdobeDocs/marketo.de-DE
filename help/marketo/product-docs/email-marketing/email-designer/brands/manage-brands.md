@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 badge: Beta
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 28%
+source-wordcount: '453'
+ht-degree: 35%
 
 ---
 
@@ -64,7 +64,7 @@ Um Ihre Markenrichtlinien zu erstellen und zu verwalten, können Sie die Details
 
    ![](assets/create-and-manage-brands-7.png)
 
-1. Ihre Standards für Inhalt und visuelle Erstellung werden jetzt automatisch ausgefüllt. Durchsuchen Sie die verschiedenen Registerkarten, um die Informationen nach Bedarf anzupassen.
+1. Ihre Standards für Inhalt und visuelle Erstellung werden jetzt automatisch ausgefüllt. Gehen Sie die verschiedenen Registerkarten durch, um die Informationen nach Bedarf anzupassen.
 
 1. Im erweiterten Menü jedes Abschnitts bzw. jeder Kategorie können Sie Verweise hinzufügen, um relevante Markeninformationen automatisch zu extrahieren.
 
@@ -99,7 +99,7 @@ Um Ihre Markenrichtlinien zu erstellen und zu verwalten, können Sie die Details
 
   ![](assets/create-and-manage-brands-12.png)
 
-Ihre Markenrichtlinien sind jetzt über die Dropdown-Liste **[!UICONTROL Marke]** im Menü KI-Assistent verfügbar, sodass Inhalte und Assets generiert werden können, die mit Ihren Spezifikationen übereinstimmen.
+Ihre Markenrichtlinien sind jetzt über das Dropdown **[!UICONTROL Marke]** im Menü des KI-Assistenten verfügbar, sodass Inhalte und Assets generiert werden können, die Ihren Spezifikationen entsprechen.
 
 ### Festlegen einer Standardmarke {#default-brand}
 

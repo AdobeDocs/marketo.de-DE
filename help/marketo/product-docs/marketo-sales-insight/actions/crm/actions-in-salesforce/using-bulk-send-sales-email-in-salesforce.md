@@ -2,9 +2,9 @@
 description: Erfahren Sie, wie Sie Massen-Verkaufs-E-Mails von Salesforce senden. Wählen Sie Leads oder Kontakte in einer Listenansicht aus und verwenden Sie die Schaltfläche Verkaufs-E-Mail senden in Lightning oder Classic.
 title: Verwenden des Massenversands von Verkaufs-E-Mails in Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '618'
 ht-degree: 2%
 
 ---

@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie das Tool „Synchronisierung validieren“ au
 title: validate [!DNL Microsoft Dynamics] sync
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 0%
+source-wordcount: '268'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Ausführen von „Synchronisierung validieren“ in Marketo {#run-validate-sync-in-marketo}
 
-Es ist sehr wichtig, das Tool zur Überprüfung der Synchronisierung auszuführen, um sicherzustellen, dass die [!DNL Microsoft Dynamics]-Synchronisierung mit Marketo korrekt eingerichtet ist, bevor Sie die endgültige Verbindung zwischen ihnen herstellen. Der Prozess generiert eine Checkliste mit sieben Einrichtungsschritten, die identifizieren, wo Probleme vorliegen. Wenn Sie überprüfen, ob diese korrekt durchgeführt wurden, können Sie später viel Zeit sparen.
+Es ist sehr wichtig, das Tool Synchronisierung validieren auszuführen, um sicherzustellen, dass die [!DNL Microsoft Dynamics]-Synchronisierung mit Marketo korrekt eingerichtet ist, bevor Sie die endgültige Verbindung zwischen ihnen herstellen. Der Prozess generiert eine Checkliste mit sieben Einrichtungsschritten, die identifizieren, wo Probleme vorliegen. Wenn Sie überprüfen, ob diese korrekt durchgeführt wurden, können Sie später viel Zeit sparen.
 
 1. Klicken Sie auf **[!UICONTROL Registerkarte]** Admin“ und dann auf den Link **[!DNL Microsoft Dynamics]** im Bereich Integration .
 
@@ -41,11 +41,11 @@ Es ist sehr wichtig, das Tool zur Überprüfung der Synchronisierung auszuführe
    >
    >Wenn Sie zuvor bereits eine Synchronisierung durchgeführt haben **liest** CRM) in der linken Struktur **[!DNL Microsoft Dynamics]** und die Daten im obigen Formular können vorab ausgefüllt werden.
 
-1. Wenn alles in Ordnung ist, generiert die Überprüfungssynchronisierung eine Checkliste voller grüner Auswahlfelder ![&#x200B; - &#x200B;](assets/check.png).
+1. Wenn alles in Ordnung ist, generiert die Überprüfungssynchronisierung eine Checkliste voller grüner Auswahlfelder ![ - ](assets/check.png).
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Wenn ein ![&#x200B; angezeigt wird - &#x200B;](assets/delete.png), weist dieser Schritt ein Problem auf. Siehe [Beheben von  [!DNL Dynamics] -Überprüfungsproblemen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md), um das Problem zu identifizieren und zu beheben. Führen Sie dann die Synchronisierungsvalidierungsschritte erneut aus, bis das Ergebnis wie im Bild oben aussieht.
+1. Wenn ein ![ angezeigt wird - ](assets/delete.png), weist dieser Schritt ein Problem auf. Siehe [Beheben von  [!DNL Dynamics] -Überprüfungsproblemen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md), um das Problem zu identifizieren und zu beheben. Führen Sie dann die Synchronisierungsvalidierungsschritte erneut aus, bis das Ergebnis wie im Bild oben aussieht.
 
    >[!CAUTION]
    >

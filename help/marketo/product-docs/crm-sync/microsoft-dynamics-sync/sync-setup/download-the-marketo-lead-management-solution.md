@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Marketo-Lead-Management-Lösung für Micr
 title: Herunterladen der Marketo Lead Management-Lösung
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 15%
 
 ---
@@ -21,7 +21,7 @@ Sie müssen eine Marketo-Lösung herunterladen und in Ihrem [!DNL Microsoft Dyna
 
 >[!CAUTION]
 >
->Es ist zwingend erforderlich, dass Sie die neueste Marketo-Lösung herunterladen _bevor_ Sie ein Upgrade durchführen.
+>Laden Sie unbedingt die neueste Marketo-Lösung herunter _bevor Sie_ Upgrade durchführen.
 
 >[!NOTE]
 >

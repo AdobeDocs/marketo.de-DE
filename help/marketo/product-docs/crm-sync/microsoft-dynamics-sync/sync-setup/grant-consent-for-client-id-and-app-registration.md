@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie die Zustimmung für die Client-ID und die App
 title: Erteilen von Einverständnis für Client-ID und App-Registrierung
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '292'
 ht-degree: 5%
 
 ---
@@ -63,7 +63,7 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderlichen Einverständ
 
    >[!NOTE]
    >
-   >Wenn Sie auf einer anderen Registerkarte bereits als Administrator bei Azure angemeldet sind, müssen Sie einen anderen Browser oder Inkognito-Modus verwenden, um sich als Synchronisierungsbenutzer anzumelden.
+   >Wenn Sie bereits auf einer anderen Registerkarte als Administrator bei Azure angemeldet sind, müssen Sie einen anderen Browser oder Inkognito-Modus verwenden, um sich als Synchronisierungsbenutzer anzumelden.
 
 1. Klicken Sie **[!UICONTROL Akzeptieren]**.
 
@@ -75,7 +75,7 @@ Als Admin können Sie auch den delegierten Berechtigungen einer Anwendung im Nam
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

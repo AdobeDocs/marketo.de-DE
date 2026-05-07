@@ -4,16 +4,16 @@ description: Erfahren Sie mehr über Personen nach Status-Berichte, die zeigen, 
 title: Bericht zu Personen nach Status
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '128'
 ht-degree: 7%
 
 ---
 
 # Bericht zu Personen nach Status {#people-by-status-report}
 
-Überprüfen Sie, wie gut Sie Personen durch den Prozess führen, indem Sie jeden Monat überprüfen, wie viele von ihnen in jedem _[!UICONTROL Personenstatus]_-Wert angezeigt werden.
+Überprüfen Sie, wie gut Sie Personen durch den Prozess führen, indem Sie jeden Monat überprüfen, wie viele von ihnen in jedem _[!UICONTROL Personenstatus]_ -Wert angezeigt werden.
 
 1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **[!UICONTROL Personen nach Status]** [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
@@ -29,4 +29,4 @@ ht-degree: 7%
 
    >[!MORELIKETHIS]
    >
-   >[Verwenden Sie eine Smart-Liste, um Ihren Bericht nach &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) Personen zu filtern.
+   >[Verwenden Sie eine Smart-Liste, um Ihren Bericht nach ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) Personen zu filtern.

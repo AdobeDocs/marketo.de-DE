@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über E-Mail-Verbindungen für Outlook-Benutzer i
 title: E-Mail-Verbindung für Outlook-Benutzende
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '321'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Erfahren Sie, wie Sie Ihr [!DNL Sales Connect]-Konto mit [!DNL Outlook] verbinde
 
 >[!NOTE]
 >
->Jeder Benutzer muss über sein [!DNL Outlook]-Konto eine Verbindung zu [!DNL Sales Connect] herstellen.
+>Jeder Benutzer muss über sein [!DNL Sales Connect]-Konto eine Verbindung zu [!DNL Outlook] herstellen.
 
 ## Herstellen einer Verbindung zu [!DNL Outlook] Online {#connecting-to-outlook-online}
 
@@ -43,7 +43,7 @@ Wenn Sie eine Verbindung zu [!DNL Outlook] herstellen, erhalten Sie ein Tracking
 
    ![](assets/five-a.png)
 
-1. Wählen Sie die verwendete Version von [!DNL Outlook] aus und klicken Sie auf **[!UICONTROL Weiter]**. In diesem Beispiel wählen wir [!DNL Outlook Online].
+1. Wählen Sie die verwendete [!DNL Outlook] aus und klicken Sie auf **[!UICONTROL Weiter]**. In diesem Beispiel wählen wir [!DNL Outlook Online].
 
    ![](assets/six-a.png)
 
@@ -90,7 +90,7 @@ Wenn Sie eine Verbindung zu [!DNL Exchange On-Premise] herstellen, erhalten Sie 
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
+1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
 
    ![](assets/two.png)
 
@@ -106,7 +106,7 @@ Wenn Sie eine Verbindung zu [!DNL Exchange On-Premise] herstellen, erhalten Sie 
 
    ![](assets/five-a.png)
 
-1. Wählen Sie die verwendete Version von [!DNL Outlook] aus und klicken Sie auf **[!UICONTROL Weiter]**. In diesem Beispiel wählen wir [!DNL Exchange On-premise].
+1. Wählen Sie die verwendete [!DNL Outlook] aus und klicken Sie auf **[!UICONTROL Weiter]**. In diesem Beispiel wählen wir [!DNL Exchange On-premise].
 
    ![](assets/six-b.png)
 

@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine Marketo E-Mail-Add-in-Lizenz für Outloo
 title: Erteilen einer Lizenz für das Marketo-E-Mail-Add-in
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '344'
 ht-degree: 4%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 4%
 
 Jeder, der das Marketo E-Mail-[!DNL Outlook]-Add-in verwenden möchte, muss zunächst über eine Lizenz verfügen. Es gibt zwei Möglichkeiten, die Lizenz bereitzustellen.
 
-* **[Enterprise Key Installation](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: Verwenden Sie diese Methode, wenn die Vertriebsmitarbeiter keine Administratorrechte für ihre Unternehmens-Notebooks haben und keine Plug-ins, Software usw. installieren können. Darauf. In diesem Fall erteilt der Marketo-Administrator Lizenzen an eine Liste autorisierter Benutzer. Als Nächstes stellt das IT-Team das Plug-in mithilfe des Enterprise Key remote auf den Computern aller autorisierten Benutzer bereit. Der Plug-in-Benutzer autorisiert es dann.
-* **[Installation des Registrierungs-Codes](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**: Verwenden Sie diese Methode, wenn Vertriebsmitarbeiter Administratorrechte für ihren Unternehmens-Laptop haben und Plug-ins, Software usw. installieren können. Darauf. Für diesen Prozess stellt der Marketo-Administrator Lizenzen an eine Liste autorisierter Benutzer aus und sendet ihnen Registrierungs-E-Mails direkt mit Download-Links. Der Vertriebsmitarbeiter erhält eine E-Mail mit einem Plug-in-Download-Link und einer eindeutigen Registrierungs-URL.
+* **[Enterprise Key Installation](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: Verwenden Sie diese Methode, wenn die Vertriebsmitarbeiter keine Administratorrechte für ihre Unternehmens-Notebooks haben und keine Plug-ins, Software usw. darauf installieren können. In diesem Fall erteilt der Marketo-Administrator Lizenzen an eine Liste autorisierter Benutzer. Als Nächstes stellt das IT-Team das Plug-in mithilfe des Enterprise Key remote auf den Computern aller autorisierten Benutzer bereit. Der Plug-in-Benutzer autorisiert es dann.
+* **[Registrierungs-Code-Installation](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**: Verwenden Sie diese Methode, wenn Vertriebsmitarbeiter Administratorrechte für ihren Unternehmens-Laptop haben und Plug-ins, Software usw. darauf installieren können. Für diesen Prozess stellt der Marketo-Administrator Lizenzen an eine Liste autorisierter Benutzer aus und sendet ihnen Registrierungs-E-Mails direkt mit Download-Links. Der Vertriebsmitarbeiter erhält eine E-Mail mit einem Plug-in-Download-Link und einer eindeutigen Registrierungs-URL.
 
 >[!AVAILABILITY]
 >

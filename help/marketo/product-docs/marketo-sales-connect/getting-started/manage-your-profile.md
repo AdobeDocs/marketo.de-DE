@@ -3,10 +3,10 @@ description: Erfahren Sie, wie Sie Ihr Sales Connect-Profil verwalten. Aktualisi
 title: Verwalten Ihres Profils
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 6%
+source-wordcount: '266'
+ht-degree: 8%
 
 ---
 

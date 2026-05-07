@@ -3,9 +3,9 @@ description: Erkunden Sie die Marketo Engage AI-Suite von Agenten, die Marketing
 title: Marketo Engage AI - Übersicht
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '286'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ Marketo Engage AI bietet eine Vielzahl von Agenten, die mühsame, aber wichtige 
 
 >[!NOTE]
 >
->Diese Funktion befindet sich in der offenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird, erfahren Sie, wann_ für Ihr Abonnement aktiviert wurde.
+>Diese Funktion befindet sich in der offenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird,_ Sie, wann sie für Ihr Abonnement aktiviert wurde.
 
 ## Zugriff {#access}
 

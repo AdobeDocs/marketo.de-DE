@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie in E-Mail-Editor 2.0 Module zu Ihrer E-Mail h
 title: Hinzufügen von Modulen zu einer E-Mail
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 4%
+source-wordcount: '265'
+ht-degree: 7%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 4%
 
 Es gibt zwei Möglichkeiten, ein Modul zu verschieben.
 
-1. Identifizieren Sie das Modul, das Sie verschieben möchten. Wenn Sie sich nicht sicher sind, wie der Name lautet, halten Sie den Mauszeiger darüber, und er wird rechts hervorgehoben.
+1. Identifizieren Sie das Modul, das Sie verschieben möchten. Wenn Sie sich nicht sicher sind, wie es heißt, halten Sie den Mauszeiger darüber und es wird auf der rechten Seite hervorgehoben.
 
    ![](assets/six-2.png)
 
@@ -63,7 +63,7 @@ Es gibt zwei Möglichkeiten, ein Modul zu verschieben.
 
    ![](assets/ten-2.png)
 
-Das ist alles, was dazu gehört.
+Und das war&#39;s auch schon.
 
 >[!MORELIKETHIS]
 >

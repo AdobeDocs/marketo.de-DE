@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über freigegebene und dedizierte IP-Adressen und
 title: Freigegebene und dedizierte IP-Adressen
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '450'
 ht-degree: 3%
 
 ---
@@ -47,7 +47,7 @@ _Nachteile_
 
 _Vorteile_
 
-**Gute Mitbewohner** - Wenn die Personen, mit denen Sie Ihre IP teilen, Best Practices beim Versand befolgen, würden Sie davon profitieren.
+**Gute Mitbewohner** - Wenn die Leute, mit denen Sie Ihre IP teilen, Best Practices beim Versand befolgen, würden Sie davon profitieren.
 **Mailing-Häufigkeit** - Im Gegensatz zu dedizierten IPs ist keine Mindest-Mailing-Häufigkeit erforderlich, um sich für eine freigegebene IP zu qualifizieren.
 **Kosten** - Für den Versand von einer freigegebenen IP-Adresse fallen keine zusätzlichen Kosten an.
 

@@ -4,9 +4,9 @@ description: Versionshinweise - Frühjahr 1916 - Marketo-Dokumentation - Produkt
 title: Versionshinweise - Spring '16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '819'
 ht-degree: 1%
 
 ---
@@ -49,7 +49,7 @@ Erstellen Sie beeindruckende In-App-Nachrichten für Ihre App direkt in Marketo.
 
 ## [Keine Entwurfsausschnitte](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-Vorbei sind die Zeiten, in denen Sie jedes Mal, wenn ein Snippet aktualisiert wird, alles erneut genehmigen müssen! Mit „Kein Entwurf“ erhalten alle E-Mails und Landingpages, die einen Ausschnitt verwenden, die Ausschnitt-Aktualisierungen und behalten ihren vorherigen Status bei. Jedes Mal, wenn Sie einen Ausschnitt genehmigen, haben Sie die Wahl, „Kein Entwurf“ auszuführen und alles zu aktualisieren oder Entwürfe zu erstellen. Es liegt an dir! Kein Entwurf steht allen Kunden zur Verfügung und wird von einer neuen Berechtigung in Admin gesteuert.
+Vorbei sind die Zeiten, in denen Sie jedes Mal, wenn ein Snippet aktualisiert wird, alles erneut genehmigen müssen! Mit „Kein Entwurf“ erhalten alle E-Mails und Landingpages, die einen Ausschnitt verwenden, die Ausschnitt-Aktualisierungen und behalten ihren vorherigen Status bei. Jedes Mal, wenn Sie einen Ausschnitt genehmigen, haben Sie die Wahl, „Kein Entwurf“ auszuführen und alles zu aktualisieren oder Entwürfe zu erstellen. Das liegt an dir! Kein Entwurf steht allen Kunden zur Verfügung und wird von einer neuen Berechtigung in Admin gesteuert.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
@@ -59,7 +59,7 @@ Die Marketo-REST-APIs unterstützen jetzt die Kontrolle über Marketo-Landingpag
 
 ## [IP-Zulassungsauflistung für API-Zugriff](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Ähnlich wie bei der IP-Zulassungsauflistung für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine Zulassungsliste von IP-Adressen einrichten, die auf die Marketo SOAP- und REST-APIs zugreifen können, und so den Zugriff von nicht autorisierten IP-Adressen blockieren. Dies bietet eine zusätzliche Sicherheitsebene für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur innerhalb des Netzwerks Ihres Unternehmens erfolgen kann. Einzelheiten zum Einrichten finden Sie auf der Dokumentations-Site zu Marketo [&#128279;](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Ähnlich wie bei der IP-Zulassungsauflistung für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine Zulassungsliste von IP-Adressen einrichten, die auf die Marketo SOAP- und REST-APIs zugreifen können, und so den Zugriff von nicht autorisierten IP-Adressen blockieren. Dies bietet eine zusätzliche Sicherheitsebene für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur innerhalb des Netzwerks Ihres Unternehmens erfolgen kann. Einzelheiten zum Einrichten finden Sie auf der Dokumentations-Site zu Marketo [](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Neuer Hochgeschwindigkeits-Microsoft Dynamics-Sync-Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -75,7 +75,7 @@ Der neue, schnelle Dynamics-Connector bietet Geschwindigkeiten, die bis zu 20-ma
 
 ![](assets/sync-errors.png)
 
-**[!DNL Microsoft Dynamics]2016**: Connector ist für die [!DNL Dynamics]- und [!DNL Online]-Versionen von [!DNL On-premise] 2016 vollständig zertifiziert.
+**[!DNL Microsoft Dynamics]2016**: Connector ist für die [!DNL Online]- und [!DNL On-premise]-Versionen von [!DNL Dynamics] 2016 vollständig zertifiziert.
 
 **Plug-in-Updates sind jetzt dokumentiert:** Siehe den [Artikel zu Plug-in-Updates](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 

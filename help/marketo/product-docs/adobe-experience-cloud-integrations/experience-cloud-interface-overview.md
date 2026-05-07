@@ -3,22 +3,22 @@ description: Erfahren Sie mehr über die Adobe Experience Cloud-Benutzeroberflä
 title: Adobe Experience Cloud-Benutzeroberfläche – Übersicht
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 89%
+source-wordcount: '312'
+ht-degree: 55%
 
 ---
 
 # Adobe Experience Cloud-Benutzeroberfläche – Übersicht {#adobe-experience-cloud-interface-overview}
 
-Die Adobe Experience Cloud-Oberfläche passt sich dem „Shell”-Look-and-Feel der Adobe Experience Cloud-Anwendungen und -Dienste an. Aber sie weist mehr als nur ein neues Design auf. Es handelt sich dabei um eine Single Page Application, die das Anwendererlebnis in einer einzigen Instanz bereitstellt.
+Die Adobe Experience Cloud-Oberfläche passt sich dem „Shell”-Look-and-Feel der Adobe Experience Cloud-Anwendungen und -Dienste an. Aber es ist mehr als ein neues Design. Es handelt sich dabei um ein Einzelseiten-Programm, das das Benutzererlebnis in einer einzigen Instanz bietet.
 
 ## Benutzerfluss {#user-flow}
 
 Wenn Sie noch nicht bei einem Adobe Experience Cloud-Produkt angemeldet sind, melden Sie sich hier direkt bei [!DNL Marketo Engage] an: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-Wenn Sie bereits bei einem Adobe Experience Cloud-Produkt _angemeldet_ sind, klicken Sie einfach auf das Menüsymbol und wählen Sie **[!DNL Marketo Engage]** aus.
+Wenn _bereits_ einem Adobe Experience Cloud-Produkt angemeldet sind, klicken Sie auf das Menüsymbol und wählen Sie **[!DNL Marketo Engage]** aus.
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -28,7 +28,7 @@ Wenn Sie bereits bei einem Adobe Experience Cloud-Produkt _angemeldet_ sind, kli
 
 ## Neue Funktionen {#new-features}
 
-Neben dem aktualisierten Look-and-Feel werden Ihnen die folgenden Funktionen auffallen:
+Neben dem aktualisierten Look-and-Feel stehen die folgenden Funktionen zur Verfügung:
 
 **Integriertes Hilfezentrum**
 
@@ -56,9 +56,9 @@ Klicken Sie auf das Profilsymbol, um Ihre Sprache oder andere Einstellungen für
 
 ## FAQs {#faq}
 
-**Ich kann mich nicht über die Experience Cloud-Benutzeroberfläche bei [!DNL Marketo Engage] anmelden. Was könnte das Problem sein?**
+**Ich kann mich über die Experience Cloud-Benutzeroberfläche nicht bei [!DNL Marketo Engage] anmelden. Was könnte das Problem sein?**
 
-Wenn Sie sich bei Adobe Experience Cloud anmelden können, aber dann den Fehler „Fehler beim Laden der Seite“ sehen, könnte das Problem aufseiten von [!DNL Marketo Engage] liegen. Wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support), wenn Sie Unterstützung benötigen.
+Wenn Sie sich bei Adobe Experience Cloud anmelden können, aber dann den Fehler „Fehler beim Laden der Seite“ sehen, könnte das Problem aufseiten von [!DNL Marketo Engage] liegen. Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/support/ct-p/Support)Support, um Hilfe zu erhalten.
 
 **Wo sind der Benutzerverlauf, die globale Suche, die Marketo-Benachrichtigungen und der Task-Tray geblieben?**
 

@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie ein interaktives Webinar in Marketo bewerben.
 title: Bewerben eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '801'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Nachdem die Mitglieder hinzugefügt oder importiert wurden, können Sie im Veran
 >
 >Wenn Sie einen Co-Moderator oder Moderator als Zielgruppenmitglied zum Veranstaltungsprogramm des interaktiven Webinars hinzufügen möchten, müssen Sie eine andere E-Mail-ID für ihn verwenden, da er sonst den Fehler „Diese E-Mail ist bereits registriert“ erhält.
 
-Die E-Mail kann bestimmte Details des Programms sowie eine Landingpage-URL enthalten, die den Empfänger zu einer bestimmten Seite weiterleitet, auf der weitere Informationen zum Webinar (z. B. Inhalt, Präsentationsinformationen usw.) hinzugefügt werden können. Diese Landingpage kann im Veranstaltungsprogramm Interaktive Webinare als lokales Asset erstellt werden.
+Die E-Mail kann bestimmte Details des Programms sowie eine Landingpage-URL enthalten, die den Empfänger zu einer bestimmten Seite weiterleitet, auf der weitere Informationen zum Webinar enthalten sind (z. B. Inhalt, Präsentationsinformationen usw.) können hinzugefügt werden. Diese Landingpage kann im Veranstaltungsprogramm Interaktive Webinare als lokales Asset erstellt werden.
 
 Sie können sich für dieses Webinar registrieren, indem Sie ein Formular auf der Landingpage aktivieren und das Formular mit Klicks verknüpfen, um die Registrierung im Veranstaltungsprogramm für das interaktive Webinar zu aktivieren. Anschließend kann eine Kampagne erstellt werden, die Formularübermittlungen als Trigger verwendet und den Programmstatus von „Eingeladen“ in „Registriert“ ändert.
 
@@ -36,7 +36,7 @@ Sobald ein Mitglied den Programmstatus „registriert“ in einem Veranstaltungs
 
 Innerhalb weniger Minuten nach der Registrierung wird die Webinar-URL für das Mitglied auf der Registerkarte Mitglieder angezeigt. Wenn Sie die Spalte für die Webinar-URL nicht finden können, stellen Sie sicher, dass diese Spalte zu Ihrer Ansicht hinzugefügt wurde. Dies ist eine personalisierte URL für jedes registrierte Mitglied, um zum geplanten Zeitpunkt am Webinar teilnehmen zu können, ohne dass eine Authentifizierung erforderlich ist. Intern ausgetauschte Token übernehmen die Authentifizierung für die Mitglieder.
 
-Sie können das `{{member.webinar url}}`[&#x200B; Token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} verwenden, um die Webinar-URL einzelnen Mitgliedern in eine E-Mail-Kampagne einzuschließen, um mitzuteilen, dass sie für die Veranstaltung registriert wurden, und um die URL der Teilnahme zu verwenden, um zum geplanten Zeitpunkt in das Webinar einzutreten. Kalender-Token können in derselben E-Mail-Kampagne verwendet werden, um sicherzustellen, dass der Webinar-Zeitplan zum Kalender der Mitglieder hinzugefügt werden kann.
+Sie können das `{{member.webinar url}}`[ Token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} verwenden, um die Webinar-URL einzelnen Mitgliedern in eine E-Mail-Kampagne einzuschließen, um mitzuteilen, dass sie für die Veranstaltung registriert wurden, und um die URL der Teilnahme zu verwenden, um zum geplanten Zeitpunkt in das Webinar einzutreten. Kalender-Token können in derselben E-Mail-Kampagne verwendet werden, um sicherzustellen, dass der Webinar-Zeitplan zum Kalender der Mitglieder hinzugefügt werden kann.
 
 Links sind auf der rechten Seite der Registerkarte Übersicht in Ihrem Veranstaltungsprogramm verfügbar, um eine Landingpage sowie eine E-Mail-Kampagne zu erstellen. Der Rest der Promotions im Zusammenhang mit einer Veranstaltung bleibt gleich wie Partner-Webinare unter Verwendung der Launchpoint-Integration.
 
@@ -46,7 +46,7 @@ Mit interaktiven Webinaren können Sie sich vor, während oder nach einem Webina
 
 ## Token für interaktive Webinare {#interactive-webinars-tokens}
 
-Verwenden Sie Token, um interaktive Webinare in E-Mails zu bewerben, ohne Webinar-Details manuell hinzufügen zu müssen. Dies verbessert die Gesamteffizienz, da alle Änderungen an den Webinar-Metadaten (wie Webinar-Titel, Startdatum usw.) automatisch in Ihren Assets widergespiegelt werden.
+Verwenden Sie Token, um interaktive Webinare in E-Mails zu bewerben, ohne Webinar-Details manuell hinzufügen zu müssen. Dies verbessert die Gesamteffizienz, da alle Änderungen an den Webinar-Metadaten (wie Webinar-Titel, Startdatum usw.) spiegelt automatisch in Ihren Assets wider.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
 
