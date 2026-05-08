@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie einem Marketo-Formular eine Feldgruppe hinzuf
 title: Hinzufügen eines FieldSet zu einem Formular
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 14%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 
 # Hinzufügen eines FieldSet zu einem Formular {#add-a-fieldset-to-a-form}
 
-Feldsätze sind cool. Sie gruppieren eine Reihe von Feldern. Sie können auch einen ganzen Block auf einmal kontrollieren!
+Feldsätze gruppieren eine Reihe von Feldern zusammen. Sie können einen ganzen Block auf einmal steuern.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -35,11 +35,9 @@ Feldsätze sind cool. Sie gruppieren eine Reihe von Feldern. Sie können auch ei
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. So sollte es nach der Fertigstellung aussehen.
+1. Die folgende Abbildung zeigt, wie es abschließend aussehen sollte.
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
-
-Da hast du es!
 
 >[!TIP]
 >

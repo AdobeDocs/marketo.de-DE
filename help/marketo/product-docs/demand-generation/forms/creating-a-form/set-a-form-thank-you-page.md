@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo eine Dankeseite für ein Formular 
 title: Einrichten einer Dankeseite für ein Formular
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 6%
 
 ---
@@ -127,8 +127,6 @@ Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Persone
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
-   OK, sieht gut aus!
-
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
 1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
@@ -138,5 +136,3 @@ Sie können mehrere Optionen hinzufügen und in Optionen integrieren, um Persone
 1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
-
-Großartig gemacht!

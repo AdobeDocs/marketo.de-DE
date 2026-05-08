@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo einen Wert für ein ausgeblendetes
 title: Festlegen eines Werts für ein ausgeblendetes Formularfeld
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '313'
 ht-degree: 7%
 
 ---
@@ -37,7 +37,7 @@ Wenn Sie URL-Parameter (Abfragezeichenfolgen) von der Seite erfassen möchten, a
 
 >[!NOTE]
 >
->Parameter sind irgendwie technisch, oder? Sobald man sie aber hat, sind sie mächtig. Diese [Wikipedia-Seite über Abfragezeichenfolgen](https://en.wikipedia.org/wiki/Query_string) ist einigermaßen hilfreich.
+>Parameter sind technisch. Sobald man sie versteht, sind sie mächtig. Diese [Wikipedia-Seite über Abfragezeichenfolgen](https://en.wikipedia.org/wiki/Query_string) ist einigermaßen hilfreich.
 
 1. Wählen Sie **[!UICONTROL URL]** Parameter für **[!UICONTROL Werttyp abrufen]**.
 

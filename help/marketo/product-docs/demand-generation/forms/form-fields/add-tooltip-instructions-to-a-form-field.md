@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einem Formularfeld in Marketo QuickInfo-Anwei
 title: Hinzufügen von Kurzinfo-Anweisungen zu einem Formularfeld
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '130'
 ht-degree: 15%
 
 ---
@@ -45,8 +45,8 @@ ht-degree: 15%
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, den [&#x200B; der Formularänderungen &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Landingpage-Entwurf zu genehmigen.
+   >Denken Sie daran[ den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-Tolle Arbeit! Die QuickInfo wird angezeigt, wenn ein Besucher den Mauszeiger über das Feld bewegt.
+Die QuickInfo wird angezeigt, wenn ein Besucher den Mauszeiger über das Feld bewegt.

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie vor der Veröffentlichung eine Vorschau eines
 title: Anzeigen der Vorschau für ein Formular
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 12%
 
 ---
 
 # Anzeigen der Vorschau für ein Formular {#preview-a-form}
 
-Vor der Veröffentlichung können Sie das Formular in dieser schnellen und einfachen Formularvorschau sehen.
+Vor der Veröffentlichung können Sie das Formular in dieser Formularvorschau sehen.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 

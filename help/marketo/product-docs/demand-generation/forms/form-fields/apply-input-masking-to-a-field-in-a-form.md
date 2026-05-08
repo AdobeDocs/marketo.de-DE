@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo eine Eingabemaskierung auf ein For
 title: Anwenden von Eingabemaskierung auf ein Feld in einem Formular
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '189'
 ht-degree: 12%
 
 ---
@@ -51,12 +51,10 @@ Sie können die Eingabe Ihres Besuchers mithilfe einer Eingabemaske einschränke
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   Sieh es dir an! Jetzt bitten Sie den Besucher, Zahlen in einem bestimmten Format einzugeben.
+   Jetzt bitten Sie den Besucher, Zahlen in einem bestimmten Format einzugeben.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
    >Das Feld zeigt möglicherweise keine vordefinierten Bereiche an, wie im Bild oben dargestellt. Er kann leer erscheinen, bis der Besucher mit der Eingabe von Zahlen beginnt, die dann automatisch dem Eingabeformat entsprechen, das Sie für das Feld definiert haben.
-
-Ziemlich cool, was?

@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie die Position der Formularbeschriftung in Mark
 title: Ändern der Position des Formulartitels
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 11%
+source-wordcount: '108'
+ht-degree: 14%
 
 ---
 
@@ -51,8 +51,6 @@ Beim [Erstellen eines Formulars](/help/marketo/product-docs/demand-generation/fo
    >[!NOTE]
    >
    >Denken Sie daran, den Landingpage-Entwurf zu genehmigen, der durch die Formularänderungen erstellt wurde.
-
-Gut gemacht! Erfahren Sie, wie einfach es war, die Titelpositionen auf einem Formular zu ändern? OK, schauen wir mal, was wir tun können, um die Schriftart der Formularbeschriftungen zu ändern.
 
 >[!MORELIKETHIS]
 >

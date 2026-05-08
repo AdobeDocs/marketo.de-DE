@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie in Marketo ein Formulardesign auswählen. Wä
 title: Auswählen eines Formular-Designs
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 12%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
 # Auswählen eines Formular-Designs {#select-a-form-theme}
 
-Wir haben eine Reihe von schönen Themen für Ihre Formulare erstellt. Was magst du am liebsten?
+Für Ihre Formulare stehen verschiedene Designs zur Verfügung.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -53,8 +53,6 @@ Wir haben eine Reihe von schönen Themen für Ihre Formulare erstellt. Was magst
 1. Klicken Sie auf **[!UICONTROL Weiter]**, um andere Formularoptionen zu konfigurieren, oder klicken Sie auf **[!UICONTROL Beenden]**, wenn Sie nur das Formulardesign ändern möchten.
 
    ![](assets/select-a-form-theme-5.png)
-
-Wie einfach war das?! Sie können Ihr HTML/CSS-Buch jetzt etwas Staub sammeln lassen.
 
 >[!MORELIKETHIS]
 >

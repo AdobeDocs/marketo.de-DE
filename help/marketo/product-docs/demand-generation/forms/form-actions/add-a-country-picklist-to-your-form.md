@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Ihrem Marketo-Formular eine Länder-Auswahlli
 title: Hinzufügen einer Länder-Auswahlliste zu einem Formular
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 11%
+source-wordcount: '156'
+ht-degree: 14%
 
 ---
 
@@ -69,11 +69,9 @@ Folgen Sie diesen Anweisungen, um das Feld Land in eine Dropdown-Liste mit einer
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   Gut gemacht! Wenn nun jemand Ihr Formular ausfüllt, kann er aus der von Ihnen angegebenen Liste der Länder auswählen.
+   Wenn nun jemand Ihr Formular ausfüllt, kann er aus der von Ihnen angegebenen Liste der Länder auswählen.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
-
-Da das so einfach war, warum nicht mehr tun? Wie wäre es, das Feld „Bundesstaat“ dynamisch anzuzeigen, wenn ein Benutzer die USA als das Land in der Liste auswählt? Sehen Sie sich den entsprechenden Artikel unten an, um herauszufinden, wie es geht.
 
 >[!MORELIKETHIS]
 >

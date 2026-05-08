@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie den Stil und die Farbe der Senden-Schaltfläc
 title: Ändern von Stil und Farbe der Senden-Schaltfläche
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 14%
+source-wordcount: '150'
+ht-degree: 13%
 
 ---
 
@@ -29,7 +29,7 @@ Wenn Sie die standardmäßige Senden-Schaltfläche als langweilig empfinden oder
 
    >[!TIP]
    >
-   >Wussten Sie, dass Sie die Senden-Schaltfläche nach links oder rechts ziehen können, um ihre Position zu ändern? So einfach ist das. Probieren Sie es aus!
+   >Sie können die Senden-Schaltfläche nach links oder rechts ziehen, um ihre Position zu ändern.
 
 1. Schaltflächenstil auswählen (nach oben/unten scrollen)
 
@@ -54,8 +54,6 @@ Wenn Sie die standardmäßige Senden-Schaltfläche als langweilig empfinden oder
 1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
-
-   Los geht&#39;s!
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

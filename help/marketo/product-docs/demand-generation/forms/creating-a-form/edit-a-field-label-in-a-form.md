@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie eine Feldbezeichnung in einem Marketo-Formula
 title: Bearbeiten einer Feldbezeichnung in einem Formular
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 15%
 
 ---
@@ -45,4 +45,4 @@ Sie können die Beschriftung auf einem Formular beliebig ändern - Sie können s
 
 >[!NOTE]
 >
->Vergessen Sie nicht, den [&#x200B; der Formularänderungen erstellten Landingpage-](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} zu genehmigen.
+>Denken Sie daran[ den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} der durch die Formularänderungen erstellt wurde.

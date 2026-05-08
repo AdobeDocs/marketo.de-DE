@@ -3,16 +3,16 @@ description: Erfahren Sie, wie Sie CAPTCHA in Marketo-Formularen aktivieren. Red
 title: Aktivieren von CAPTCHA in Marketo-Formularen
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '115'
 ht-degree: 10%
 
 ---
 
 # Aktivieren von CAPTCHA in Marketo-Formularen {#enable-captcha-in-marketo-forms}
 
-Sie können [!UICONTROL CAPTCHA] für einzelne Formulare aktivieren/deaktivieren.
+Sie können [!UICONTROL CAPTCHA] auf Formularbasis aktivieren oder deaktivieren.
 
 1. Suchen Sie das gewünschte Formular und wählen Sie es aus.
 

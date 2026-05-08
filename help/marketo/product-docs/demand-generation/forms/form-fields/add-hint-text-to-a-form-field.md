@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einem Formularfeld in Marketo Hinweistext hin
 title: Hinzufügen von Hinweistext zu einem Formularfeld
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '133'
 ht-degree: 15%
 
 ---
@@ -45,8 +45,8 @@ Hinweise und [Anweisungen](/help/marketo/product-docs/demand-generation/forms/fo
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, den [&#x200B; der Formularänderungen &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Landingpage-Entwurf zu genehmigen.
+   >Denken Sie daran[ den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Sieh es dir an! Fahren wir fort und fügen wir jetzt [Anweisungen](add-tooltip-instructions-to-a-form-field.md) hinzu.
+Informationen zum Hinzufügen von QuickInfo-Anweisungen zu einem Formularfeld finden Sie unter [Hinzufügen von QuickInfo-Anweisungen zu einem Formularfeld](add-tooltip-instructions-to-a-form-field.md).

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie die URL eines hochgeladenen Bildes oder einer
 title: Suchen der URL eines hochgeladenen Bilds oder einer hochgeladenen Datei
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 21%
 
 ---
 
 # Suchen der URL eines hochgeladenen Bilds oder einer hochgeladenen Datei {#find-the-url-of-an-uploaded-image-or-file}
 
-Suchen Sie nach der Web-Adresse (URL) eines Bildes oder einer Datei, das/die Sie hochgeladen haben?
+Führen Sie diese Schritte aus, um die URL eines Bildes oder einer Datei zu finden, das/die Sie hochgeladen haben.
 
 1. Gehen Sie zum **[!UICONTROL Design Studio]**.
 

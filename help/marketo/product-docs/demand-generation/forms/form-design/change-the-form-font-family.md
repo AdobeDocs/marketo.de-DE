@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie die Formularschriftfamilie in Marketo ändern
 title: Ändern der Schriftfamilie eines Formulars
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 10%
+source-wordcount: '116'
+ht-degree: 13%
 
 ---
 
 # Ändern der Schriftfamilie eines Formulars {#change-the-form-font-family}
 
-Google Fonts sind großartig, und wir haben sie direkt in den Formulareditor integriert. Sieh es dir an!
+Google Fonts sind in den Formulareditor integriert.
 
 >[!NOTE]
 >
@@ -56,8 +56,6 @@ Google Fonts sind großartig, und wir haben sie direkt in den Formulareditor int
    >Denken Sie daran, den Landingpage-Entwurf zu genehmigen, der durch die Formularänderungen erstellt wurde.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
-
-Sehen Sie, wie einfach es war, die Schriftfamilie auf einem Formular zu ändern? Cool, jetzt, da das getan ist, lassen Sie uns lernen, wie man die Schriftgröße des Formulars ändert.
 
 >[!MORELIKETHIS]
 >

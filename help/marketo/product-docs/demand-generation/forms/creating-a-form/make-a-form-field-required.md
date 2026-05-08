@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie ein Formularfeld in Marketo als erforderlich 
 title: Festlegen eines Formularfelds als erforderlich
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 15%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
 # Festlegen eines Formularfelds als erforderlich {#make-a-form-field-required}
 
-Beim [Hinzufügen von Feldern zu einem &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen. Und so geht das.
+Beim [Hinzufügen von Feldern zu einem ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -31,7 +31,7 @@ Beim [Hinzufügen von Feldern zu einem &#x200B;](/help/marketo/product-docs/dema
 
    ![](assets/make-a-form-field-required-3.png)
 
-1. Gut gemacht! Klicken Sie auf **[!UICONTROL Fertigstellen]**.
+1. Klicken Sie auf **[!UICONTROL Fertigstellen]**.
 
    ![](assets/make-a-form-field-required-4.png)
 
@@ -41,7 +41,7 @@ Beim [Hinzufügen von Feldern zu einem &#x200B;](/help/marketo/product-docs/dema
 
 >[!NOTE]
 >
->Vergessen Sie nicht, [&#x200B; Landingpages zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} Dieses Formular wird verwendet, damit die Änderungen live geschaltet werden können.
+>Denken Sie daran[ alle Landingpages zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} Dieses Formular wird weiterverwendet, damit die Änderungen live geschaltet werden können.
 
 >[!MORELIKETHIS]
 >

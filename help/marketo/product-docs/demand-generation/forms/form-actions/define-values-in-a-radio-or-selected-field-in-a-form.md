@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Werte in einem Optionsfeld oder Dropdown-Feld
 title: Definieren von Werten in einem Optionsfeld oder einem ausgewählten Feld in einem Formular
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 14%
+source-wordcount: '196'
+ht-degree: 15%
 
 ---
 
 # Definieren von Werten in einem Optionsfeld oder einem ausgewählten Feld in einem Formular {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Nachdem Sie &quot;[&#x200B; Feldtyp“ &#x200B;](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) Optionsfeld- oder Auswahltyp festgelegt haben, sollten Sie die Werte definieren, aus denen der Benutzer auswählen kann. Und so geht das.
+Nachdem Sie &quot;[ Feldtyp“ ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) Optionsfeld- oder Auswahltyp festgelegt haben, sollten Sie die Werte definieren, aus denen der Benutzer auswählen kann. Und so geht das.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -29,7 +29,7 @@ Nachdem Sie &quot;[&#x200B; Feldtyp“ &#x200B;](/help/marketo/product-docs/admi
 
    >[!NOTE]
    >
-   >Der erste und standardmäßige Wert ist immer &quot;[!UICONTROL …]&quot; Sie können das gerne bearbeiten. Wenn Sie das Optionsfeld „Standard“ in eine andere Zeile ändern, [!UICONTROL &#x200B; Sie „Auswählen…]&quot; wird im Formular nicht als Auswahl angezeigt.
+   >Der erste und standardmäßige Wert ist immer &quot;[!UICONTROL …]&quot; Sie können das gerne bearbeiten. Wenn Sie das Optionsfeld „Standard“ in eine andere Zeile ändern, [!UICONTROL  Sie „Auswählen…]&quot; wird im Formular nicht als Auswahl angezeigt.
 
 1. Klicken, um Wert hinzuzufügen.
 
@@ -47,7 +47,7 @@ Nachdem Sie &quot;[&#x200B; Feldtyp“ &#x200B;](/help/marketo/product-docs/admi
 
    >[!NOTE]
    >
-   >Wenn Sie keinen &quot;[!UICONTROL &#x200B; Wert“ eingeben] verwendet Marketo den [!UICONTROL Wert anzeigen] und speichert diesen.
+   >Wenn Sie keinen &quot;[!UICONTROL  Wert“ eingeben] verwendet Marketo den [!UICONTROL Wert anzeigen] und speichert diesen.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
@@ -62,5 +62,3 @@ Nachdem Sie &quot;[&#x200B; Feldtyp“ &#x200B;](/help/marketo/product-docs/admi
 1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
-
-Super Arbeit! Du machst das wirklich gut.

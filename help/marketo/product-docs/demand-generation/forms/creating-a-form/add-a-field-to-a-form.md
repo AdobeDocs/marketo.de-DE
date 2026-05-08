@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie in Marketo ein Feld zu einem Formular hinzuf�
 title: Hinzufügen eines Felds zu einem Formular
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 12%
+source-wordcount: '146'
+ht-degree: 10%
 
 ---
 
 # Hinzufügen eines Felds zu einem Formular {#add-a-field-to-a-form}
 
-Nachdem Sie [Formular erstellt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} und [Design ausgewählt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"} können Sie zusätzliche Felder hinzufügen, die von Benutzern ausgefüllt werden können. Und so geht das.
+Nachdem Sie [Formular erstellt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} und [Design ausgewählt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"} können Sie zusätzliche Felder hinzufügen, die von Benutzern ausgefüllt werden können.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -49,7 +49,7 @@ Nachdem Sie [Formular erstellt](/help/marketo/product-docs/demand-generation/for
 
 >[!NOTE]
 >
->Denken Sie daran, alle Landingpage-Entwürfe zu genehmigen, die aufgrund der Formularänderungen erstellt wurden.
+>Genehmigen Sie alle Landingpage-Entwürfe, die aufgrund der Formularänderungen erstellt wurden.
 
 >[!MORELIKETHIS]
 >

@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Bilder von einer Web-Seite in Marketo aufnehm
 title: Abrufen der Bilder von einer Web-Seite
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '177'
 ht-degree: 7%
 
 ---
 
 # Abrufen der Bilder von einer Web-Seite {#grab-the-images-from-a-web-page}
 
-Um Bilder von einer Web-Seite hinzuzufügen, kopieren Sie die Web-Adresse (URL) der Seite, die die gewünschten Bilder enthält, und führen Sie dann diese einfachen Schritte aus.
+Um Bilder von einer Web-Seite hinzuzufügen, kopieren Sie die Web-Adresse (URL) der Seite, die die gewünschten Bilder enthält, und führen Sie dann die folgenden Schritte aus.
 
 1. Wechseln Sie zu **[!UICONTROL Design Studio]**.
 
@@ -42,8 +42,6 @@ Um Bilder von einer Web-Seite hinzuzufügen, kopieren Sie die Web-Adresse (URL) 
 1. Sie können alle verfügbaren Bilder in „Bilder **[!UICONTROL Dateien“]**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
-
-Gute Arbeit, Imagemaster!
 
 >[!MORELIKETHIS]
 >

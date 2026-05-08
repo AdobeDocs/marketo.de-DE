@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie ein hochgeladenes Bild oder eine hochgeladene
 title: Löschen von hochgeladenen Bildern oder Dateien
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 10%
+source-wordcount: '121'
+ht-degree: 9%
 
 ---
 
 # Löschen von hochgeladenen Bildern oder Dateien {#delete-an-uploaded-image-or-file}
 
-Das Löschen von Bildern oder Dateien ist schnell und einfach.
+Gehen Sie wie folgt vor, um ein hochgeladenes Bild oder eine hochgeladene Datei zu löschen.
 
 >[!CAUTION]
 >
