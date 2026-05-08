@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVIERT
 
-Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/marketo.en> migriert.
+Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/marketo.de-DE> migriert.
