@@ -45,7 +45,7 @@ Hinweise und [Anweisungen](/help/marketo/product-docs/demand-generation/forms/fo
 
    >[!NOTE]
    >
-   >Denken Sie daran[ den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
+   >Denken Sie daran[&#x200B; den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
