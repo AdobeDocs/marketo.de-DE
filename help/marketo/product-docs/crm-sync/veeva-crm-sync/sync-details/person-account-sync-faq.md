@@ -3,9 +3,9 @@ description: Hier erhalten Sie Hilfe zur Synchronisierung von Benutzerkonten zwi
 title: Häufig gestellte Fragen zur Synchronisierung von Personenkonten
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '488'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ Die Synchronisierung von kontaktbezogenen Feldern des Personenkontos erfolgt bid
 
 **Was passiert, wenn in beiden Systemen gleichzeitig Änderungen an den Feldern „Kontakt“ im Personenkonto vorgenommen werden?**
 
-Wir wären nett und lassen [!DNL Veeva] CRM gewinnen. Es kommt jedoch selten vor, dass solche Datenkollisionen auftreten.
+[!DNL Veeva] CRM gewinnt. Es kommt jedoch selten vor, dass diese Art von Datenkollision auftritt.
 
 **Sind Datensätze vom Typ Lead oder Kontakt mit [!DNL Veeva] CRM synchronisiert?**
 

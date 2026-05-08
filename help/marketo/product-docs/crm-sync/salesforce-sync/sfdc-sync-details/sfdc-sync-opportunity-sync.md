@@ -4,9 +4,9 @@ description: Erfahren Sie, wie die Opportunity-Synchronisierung von Salesforce n
 title: SFDC Sync - Opportunity Sync
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 11%
 
 ---
@@ -57,6 +57,6 @@ Filter:
 
 >[!TIP]
 >
->Sehen Sie sich die Einschränkungen für Filter und Trigger an. Viele coole Details da drin.
+>Weitere Informationen finden Sie unter Einschränkungen für Filter und Trigger .
 >
->Erstellen Sie einfach ein neues Feld im Opportunity-Objekt in [!DNL Salesforce] und es wird automatisch zu einer Einschränkung!
+>Erstellen Sie ein neues Feld im Opportunity-Objekt in [!DNL Salesforce] und es wird automatisch zu einer Einschränkung!

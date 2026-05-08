@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über GenAI-Funktionen in interaktiven Webinaren.
 title: GenAI-Funktionen
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,13 @@ Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete 
 
 * **Bearbeitbare Inhalte**: Ändern Sie die generierten Kapitel und Zusammenfassungen bei Bedarf mithilfe von manuellen und KI-gestützten Bearbeitungsfunktionen.
 
-* **Einfache Integration**: Fügen Sie Ihren Landingpages mühelos Kapitel und Zusammenfassungen hinzu, indem Sie den HTML-Code in den gewünschten Web-Seiten-Editor kopieren.
+* **Nahtlose Integration**: Fügen Sie Ihren Landingpages Kapitel und Zusammenfassungen hinzu, indem Sie den HTML-Code in den gewünschten Web-Seiten-Editor kopieren.
 
 ## GenAI aktivieren {#enable-genai}
 
 >[!PREREQUISITES]
 >
->Bevor Sie diese Funktionen verwenden können, müssen Sie zunächst die Adobe GenAI-Nutzungsbedingungen akzeptieren. Falls Sie dies noch nicht getan haben, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager), um weitere Informationen zu erhalten.
+>Bevor Sie diese Funktionen verwenden können, müssen Sie zunächst die Adobe GenAI-Nutzungsbedingungen akzeptieren. Wenden Sie sich andernfalls an das Adobe Account Team (Ihren Account Manager), um weitere Informationen zu erhalten.
 
 Nachdem Sie die Adobe GenAI-Nutzungsbedingungen akzeptiert haben, müssen Sie sie für einzelne Benutzer aktivieren. Gehen Sie dazu zu **[!UICONTROL Admin]** > **[!UICONTROL Interaktive Webinare]** und wählen Sie aus, welche Benutzer Zugriff auf GenAI haben sollen.
 
@@ -70,7 +70,7 @@ Nachdem Sie die Adobe GenAI-Nutzungsbedingungen akzeptiert haben, müssen Sie si
 
    >[!NOTE]
    >
-   >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![&#x200B; &#x200B;](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) &#x200B;](assets/icon-flag.png).
+   >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![ ](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) ](assets/icon-flag.png).
    >
    >* Wenn Sie mit der ursprünglichen Zusammenfassung nicht zufrieden sind, können Sie auf die Schaltfläche **[!UICONTROL Zusammenfassung neu erstellen]** klicken, und es wird eine andere Version generiert.
 

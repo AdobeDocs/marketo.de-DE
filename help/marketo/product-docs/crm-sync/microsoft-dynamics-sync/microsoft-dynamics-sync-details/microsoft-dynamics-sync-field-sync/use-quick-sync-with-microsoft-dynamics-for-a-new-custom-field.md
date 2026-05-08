@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Schnellsynchronisierung mit Microsoft Dyn
 title: Verwenden der Schnellsynchronisierung mit Microsoft Dynamics für ein neues, benutzerdefiniertes Feld
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '356'
 ht-degree: 4%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 4%
 
 Marketing oder Vertrieb möchten ein neues Feld. Oder vielleicht haben Sie einen in Ihrer ursprünglichen Feldauswahl vergessen. Oder Ihre Anforderungen haben sich geändert. In jedem Fall können Sie die Schnellsynchronisierung verwenden, um bestimmte Felder neu zu synchronisieren.
 
-Normalerweise verwenden Sie die Schnellsynchronisierung, um ein neues Feld hinzuzufügen und Werte zu aktualisieren. Es gibt jedoch Fälle, in denen Sie ein vorhandenes Feld synchronisieren möchten. Sie können die Feldsynchronisierung auf der Grundlage eines aktualisierten oder erstellten Datumsbereichs einschränken. Weitere Informationen finden [&#x200B; unter &#x200B;](#Advanced_Sync_Options) Synchronisierungsoptionen.
+Normalerweise wird die Schnellsynchronisierung verwendet, um ein neues Feld hinzuzufügen und Werte zu aktualisieren. Es gibt jedoch Fälle, in denen Sie ein vorhandenes Feld synchronisieren möchten. Sie können die Feldsynchronisierung auf der Grundlage eines aktualisierten oder erstellten Datumsbereichs einschränken. Weitere Informationen finden [ unter ](#Advanced_Sync_Options) Synchronisierungsoptionen.
 
 Die Schnellsynchronisierung kann Nullwerte synchronisieren. Wenn Sie beispielsweise die Werte A und B verwenden und einen B-Wert in [!DNL Dynamics] auf null ändern, wird der Null-Wert mit Marketo synchronisiert.
 
 ## Schnellsynchronisierung für alle Datensätze {#quick-sync-for-all-records}
-
-So synchronisieren Sie mit der Schnellsynchronisierung nach neuen Feldern neu.
 
 1. Klicken Sie in Marketo auf **[!UICONTROL Admin]**.
 
@@ -31,7 +29,7 @@ So synchronisieren Sie mit der Schnellsynchronisierung nach neuen Feldern neu.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Klicken Sie [!UICONTROL &#x200B; „Details zur &#x200B;]&quot; auf **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie [!UICONTROL  „Details zur ]&quot; auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
@@ -53,7 +51,7 @@ So synchronisieren Sie mit der Schnellsynchronisierung nach neuen Feldern neu.
 
 ## Erweiterte Synchronisierungsoptionen {#advanced-sync-options}
 
-Was passiert, wenn Sie ein vorhandenes Feld synchronisieren möchten, dies aber nur für einen begrenzten Datensatz tun? Und so geht das.
+Was passiert, wenn Sie ein vorhandenes Feld synchronisieren möchten, dies aber nur für einen begrenzten Datensatz tun?
 
 1. Deaktivieren Sie das Kontrollkästchen für ein vorhandenes Feld. Klicken Sie auf **[!UICONTROL Speichern]**.
 
@@ -75,7 +73,7 @@ Was passiert, wenn Sie ein vorhandenes Feld synchronisieren möchten, dies aber 
 
 ## Beheben von nicht synchronisierten Feldern {#fixing-out-of-sync-fields}
 
-In den seltenen Fällen, in denen ein [!DNL Dynamics]- und ein Marketo-Feld nicht synchron sind, gibt es eine schnelle und einfache Möglichkeit, sie erneut zu synchronisieren.
+In dem seltenen Fall, dass ein [!DNL Dynamics]- und ein Marketo-Feld nicht synchron sind, gibt es eine schnelle Möglichkeit, sie erneut zu synchronisieren.
 
 1. Deaktivieren Sie das Feld und klicken Sie auf **[!UICONTROL Speichern]**.
 

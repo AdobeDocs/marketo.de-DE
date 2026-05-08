@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Synchronisierung benutzerdefinierter Sale
 title: Aktivieren/Deaktivieren der benutzerdefinierten Objektsynchronisierung
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 6%
 
 ---
@@ -75,7 +75,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 
-   Ausgezeichnet! Sie können jetzt die Daten dieses benutzerdefinierten Objekts in Smart-Kampagnen und Smart-Listen verwenden.
+   Sie können jetzt die Daten dieses benutzerdefinierten Objekts in Smart-Kampagnen und Smart-Listen verwenden.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Erfahren Sie, welche Salesforce-Felder mit Marketo synchronisiert w
 title: SFDC-Synchronisierung - Feldsynchronisierung
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Das Ändern der Feldbezeichnung in SFDC wirkt sich nicht auf die Feldbezeichnung
 
 ## Was passiert, wenn ich einen Feldtyp in SFDC ändere? {#what-if-i-change-a-field-type-in-sfdc}
 
-Wenn Sie einen Feldtyp ändern, löscht Marketo die Daten in den Feldern, wenn sie nicht übereinstimmen (zeigt jedoch zuerst eine Warnung an). Um die Daten beizubehalten, exportieren Sie sie unbedingt und importieren Sie sie erneut, nachdem Sie den Feldtyp geändert haben.
+Wenn Sie einen Feldtyp ändern, löscht Marketo die Daten in den Feldern, wenn sie nicht übereinstimmen (zeigt jedoch zuerst eine Warnung an). Um die Daten beizubehalten, exportieren Sie sie und importieren Sie sie erneut, nachdem Sie den Feldtyp geändert haben.
 
 ## Was passiert, wenn ich einen API-Namen in SFDC ändere? {#what-if-i-change-an-api-name-in-sfdc}
 
@@ -57,7 +57,7 @@ Suchfelder in SFDC synchronisieren die ID, aber nicht den referenzierten Namen.
 
 ## Was ist mit SFDC-Formelfeldern? {#what-about-sfdc-formula-fields}
 
-Formelfelder werden synchronisiert. Aktualisierungen an den Verweisen in der Formel werden jedoch erst synchronisiert, wenn eine Aktualisierung für einen [Systemmodusstempel“ &#x200B;](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=en_US){target="_blank"}.
+Formelfelder werden synchronisiert. Aktualisierungen an den Verweisen in der Formel werden jedoch erst synchronisiert, wenn eine Aktualisierung für einen [Systemmodusstempel“ ](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=en_US){target="_blank"}.
 
 ## Was passiert, wenn ich ein Feld aus [!DNL Salesforce] lösche, das zuvor mit Marketo synchronisiert wurde? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 

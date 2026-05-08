@@ -3,10 +3,10 @@ description: Erfahren Sie, wie Sie mithilfe von Quell-URLs und Themen Fragen fü
 title: Generierung von Fragen
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 3%
+source-wordcount: '313'
+ht-degree: 4%
 
 ---
 
@@ -50,7 +50,7 @@ Zeigen Sie alle Ihre Aufgaben und deren relevante Details an, z. B. den Zeitpunk
 
 >[!NOTE]
 >
->Die generierten Fragen und Antworten können auch in der [Antwortbibliothek“ angezeigt &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>Die generierten Fragen und Antworten können auch in der [Antwortbibliothek“ angezeigt ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Suchen Sie die gewünschte Aufgabe und klicken Sie auf das Download-Symbol neben ihrem Namen.
 
@@ -60,7 +60,7 @@ Zeigen Sie alle Ihre Aufgaben und deren relevante Details an, z. B. den Zeitpunk
 
    ![](assets/question-generation-7.png)
 
-1. In der Excel-Datei zeigt **[!DNL Task details]** genau das, verschiedene Details über die Aufgabe, einschließlich Anweisungen zum Hinzufügen/Bearbeiten von Fragen und/oder Antworten.
+1. In der Excel-Datei zeigt **[!DNL Task details]** verschiedene Details zur Aufgabe, einschließlich Anweisungen zum Hinzufügen oder Bearbeiten von Fragen und Antworten.
 
    ![](assets/question-generation-8.png)
 
@@ -74,7 +74,7 @@ Zeigen Sie alle Ihre Aufgaben und deren relevante Details an, z. B. den Zeitpunk
 
 ## IP-Adressen für die Zulassungsliste {#ip-addresses-to-allowlist}
 
-Um die Extraktion von Inhalten aus Ihren Web-URLs während der Generierung von Fragen und Antworten zu ermöglichen, suchen Sie bitte Ihre Region unten und stellen Sie sicher, dass die damit verbundene IP-Adresse von Ihrem Web-Team auf die Zulassungsliste gesetzt wird.
+Um die Extraktion von Inhalten aus Ihren Web-URLs während der Generierung von Fragen und Antworten zu aktivieren, suchen Sie Ihre Region unten und überprüfen Sie, ob die damit verbundene IP-Adresse von Ihrem Web-Team auf die Zulassungsliste gesetzt wird.
 
 <table width="450">
 <thead>

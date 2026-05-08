@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie benutzerdefinierte Facebook-Lead-Anzeigenfeld
 title: Zuordnen benutzerdefinierter Felder zu Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '266'
 ht-degree: 7%
 
 ---
@@ -17,7 +17,7 @@ Sie möchten möglicherweise mehr als die standardmäßigen Informationen erfass
 
 **Marketo beginnt jedoch nicht automatisch mit der Erfassung dieser Daten**. Damit Marketo mit der Erfassung benutzerdefinierter Feldwerte beginnen kann, **müssen** diese benutzerdefinierten Felder einem Feld in Marketo zugeordnet werden.
 
-Gehen Sie wie folgt vor, um dies im LaunchPoint-Bereich von Admin einzurichten.
+Führen Sie die folgenden Schritte aus, um dies im Bereich LaunchPoint von Admin einzurichten.
 
 >[!NOTE]
 >
@@ -31,15 +31,15 @@ Gehen Sie wie folgt vor, um dies im LaunchPoint-Bereich von Admin einzurichten.
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. Lassen Sie das autorisierte Konto unverändert - nehmen Sie **Änderungen** vor. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Lassen Sie das autorisierte Konto unverändert und nehmen **keine** vor. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Belassen Sie die ausgewählten Seiten unverändert und nehmen Sie **Änderungen**. Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Lassen Sie die ausgewählten Seiten unverändert und nehmen Sie **Änderungen**. Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. Hier ordnen Sie das benutzerdefinierte [!DNL Facebook] Ihrem Marketo-Feld zu. Klicken Sie auf **[!UICONTROL Hinzufügen].**
+1. Ordnen Sie das benutzerdefinierte [!DNL Facebook] Ihrem Marketo-Feld zu. Klicken Sie auf **[!UICONTROL Hinzufügen].**
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 

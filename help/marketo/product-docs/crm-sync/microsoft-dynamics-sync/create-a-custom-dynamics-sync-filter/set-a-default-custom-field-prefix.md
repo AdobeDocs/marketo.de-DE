@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie das standardmäßige benutzerdefinierte Feldp
 title: Festlegen eines Standardpräfixes für benutzerdefinierte Felder
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '106'
+ht-degree: 11%
 
 ---
 
 # Festlegen eines Standardpräfixes für benutzerdefinierte Felder {#set-a-default-custom-field-prefix}
 
-Ihr standardmäßiges [!DNL Microsoft Dynamics] für benutzerdefinierte Felder muss **neu** sein, damit proprietäre Felder von Marketo ordnungsgemäß synchronisiert werden können. So ändern Sie das Standard-Präfix.
+Ihr standardmäßiges [!DNL Microsoft Dynamics] für benutzerdefinierte Felder muss **neu** sein, damit proprietäre Felder von Marketo ordnungsgemäß synchronisiert werden können.
 
 1. Navigieren Sie zu [!UICONTROL Einstellungen] und wählen Sie **[!UICONTROL Anpassungen] aus**
 

@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie einen Salesforce-Benutzer für Marketo mit En
 title: 'Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Enterprise/Unlimited)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 4%
@@ -47,7 +47,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Stellen Sie **[!UICONTROL Abschnitt]** Administratorberechtigungen“ sicher, dass die folgenden Kontrollkästchen aktiviert sind:
+1. Überprüfen Sie **[!UICONTROL Abschnitt]** Administratorberechtigungen“, ob die folgenden Kontrollkästchen aktiviert sind:
 
    * [!UICONTROL API aktiviert]
    * [!UICONTROL Bearbeiten von HTML-Vorlagen]
@@ -58,9 +58,9 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
 
    >[!TIP]
    >
-   >Stellen Sie sicher, dass Sie das Kontrollkästchen **[!UICONTROL Kennwort läuft nie ab]** aktivieren.
+   >Aktivieren Sie das **[!UICONTROL Kennwort läuft nie ab]**.
 
-1. Stellen Sie [!UICONTROL &#x200B; Abschnitt „Allgemeine Benutzerberechtigungen] sicher, dass die folgenden Kontrollkästchen aktiviert sind:
+1. Überprüfen Sie [!UICONTROL  Abschnitt „Allgemeine ]&quot;, ob die folgenden Kontrollkästchen aktiviert sind:
 
    * [!UICONTROL Leads konvertieren]
    * [!UICONTROL Ereignisse bearbeiten]
@@ -68,7 +68,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Stellen Sie im Abschnitt [!UICONTROL Standardobjektberechtigungen] sicher, dass [!UICONTROL Lesen, Erstellen, Bearbeiten und Löschen] Berechtigungen für Folgendes überprüft werden:
+1. Überprüfen Sie [!UICONTROL  Abschnitt ]Standardobjektberechtigungen“, ob die Berechtigungen [!UICONTROL Lesen, Erstellen, Bearbeiten und Löschen] für Folgendes aktiviert sind:
 
    * [!UICONTROL Konten]
    * [!UICONTROL Kampagnen]
@@ -111,7 +111,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Suchen Sie die nicht benötigten Felder und stellen Sie sicher, dass **[!UICONTROL Lesezugriff]** und **[!UICONTROL Bearbeitungszugriff]** deaktiviert sind. Klicken **[!UICONTROL abschließend]** Speichern“.
+1. Suchen Sie die nicht benötigten Felder und stellen Sie sicher **[!UICONTROL dass]** Lesezugriff“ und **[!UICONTROL Bearbeitungszugriff]** deaktiviert sind. Klicken **[!UICONTROL abschließend]** Speichern“.
 
    >[!NOTE]
    >

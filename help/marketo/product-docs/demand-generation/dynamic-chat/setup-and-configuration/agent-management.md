@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über die Agentenverwaltung in Dynamic Chat. Agen
 title: Agentenverwaltung
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Auf dieser Registerkarte werden alle Agenten in Ihrer Dynamic Chat-Instanz aufge
 
 >[!NOTE]
 >
->Erscheint kein Agent, den Sie _gerade_ hinzugefügt haben? Es kann bis zu zwei Stunden dauern, bis sie hier angezeigt werden, nachdem sie in der Adobe Admin Console hinzugefügt wurden.
+>Wenn ein kürzlich hinzugefügter Agent hier nicht angezeigt wird, kann es bis zu zwei Stunden dauern, nachdem er in der Adobe Admin Console hinzugefügt wurde.
 
 ## Teams {#teams}
 
@@ -76,7 +76,7 @@ Wählen Sie eine Standardnachricht (System) aus oder schreiben Sie eine benutzer
 
 >[!TIP]
 >
->Beim Erstellen einer benutzerdefinierten Nachricht können Sie die Schriftart gestalten, Links verwenden oder sogar Emojis einfügen! `:)`
+>Beim Erstellen einer benutzerdefinierten Nachricht können Sie die Schriftart formatieren, Links verwenden und sogar Emojis einfügen.
 
 ## Einstellungen {#settings}
 

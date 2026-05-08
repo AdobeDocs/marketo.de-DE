@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über die Stream-Designer und -Karten zum Erstell
 title: Gestalterin bzw. Gestalter des Streams
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1206'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Es _(viele_ Stream-Kombinationen möglich. Dieser Artikel enthält ein Beispiel,
 
 >[!PREREQUISITES]
 >
->Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie [&#x200B; in &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten.
+>Bevor Sie die Dokumentkarte verwenden können, müssen Sie sie [ in ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} Adobe-Konto einrichten.
 
 ## Streamen von Designer-Karten {#stream-designer-cards}
 
@@ -76,7 +76,7 @@ Die Stream-Designer enthält mehrere Karten, die Sie hinzufügen können, um die
 
 ## Designer-Symbole streamen {#stream-designer-icons}
 
-Oben rechts im Stream Designer sehen Sie eine Handvoll Symbole. Hier ist, was sie tun.
+Oben rechts im Stream Designer sehen Sie eine Handvoll Symbole. Im Folgenden werden die einzelnen Symbole beschrieben.
 
 <table>
  <tr>
@@ -103,9 +103,9 @@ Oben rechts im Stream Designer sehen Sie eine Handvoll Symbole. Hier ist, was si
 
 ## Erstellen eines Streams {#create-a-stream}
 
-Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} erstellen. In diesem Beispiel erstellen wir einen für ein Dialogfeld.
+Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} erstellen. In diesem Beispiel wird ein Stream für ein Dialogfeld erstellt.
 
-1. Nachdem Sie &quot;[&#x200B; Dialogfeld“ erstellt haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} klicken Sie auf die Registerkarte **[!UICONTROL Stream-Designer]**.
+1. Nachdem Sie &quot;[ Dialogfeld“ erstellt haben](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} klicken Sie auf die Registerkarte **[!UICONTROL Stream-Designer]**.
 
    ![](assets/stream-designer-6.png)
 
@@ -113,13 +113,13 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-7.png)
 
-1. Stellen [!UICONTROL &#x200B; unter „Chatbot Response] Ihre Frage, wie Sie möchten.
+1. Stellen [!UICONTROL  unter „Chatbot Response] Ihre Frage, wie Sie möchten.
 
    ![](assets/stream-designer-8.png)
 
    >[!TIP]
    >
-   >Sie können das Erlebnis für Chat-Besucher anpassen!
+   >Sie können das Erlebnis für Chat-Besucher anpassen.
    >
    >* Klicken Sie auf das `</>` &quot;HTML einfügen“, um Ihre eigene HTML für das gewünschte Look-and-Feel der Unterhaltung einzufügen.
    >
@@ -137,7 +137,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
    >
    >**[!UICONTROL Gespeicherte Werte bearbeiten]** ist ein optionaler Schritt für diejenigen, die einen anderen Wert in der Datenbank speichern möchten als den, der Besuchern im Chatbot für zugeordnete Attribute in der Fragekarte angezeigt wird (z. B.: Besucher sieht „Suchmaschinenoptimierung“, Sie speichern diesen Wert als „SEO„).
 
-1. Wenn Sie mit „Ja“ eine Besprechung buchen möchten, ziehen Sie unterhalb dieser Option über die Karte _Besprechungsbuchung_.
+1. Ziehen Sie für „Ja“ die Karte _Besprechungsbuchung_ unter diese Option.
 
    ![](assets/stream-designer-10.png)
 
@@ -153,7 +153,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-13.png)
 
-1. Für „Nein“ möchten wir sehen, ob sie in die Mailing-Liste aufgenommen werden. Ziehen Sie also unterhalb dieser Option eine andere [!UICONTROL Frage]-Karte.
+1. Ziehen Sie für „Nein“ eine weitere [!UICONTROL Frage]-Karte unter diese Option, um zu überprüfen, ob der Besucher in die Mailing-Liste aufgenommen werden möchte.
 
    ![](assets/stream-designer-14.png)
 
@@ -185,11 +185,11 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
    ![](assets/stream-designer-20.png)
 
-1. Denken Sie daran, eine Antwort hinzuzufügen, wenn sie „Nein“ sagen. Eine Möglichkeit besteht darin, eine Nachrichtenkarte unten zu ziehen und „Trotzdem danke“ zu sagen. In diesem Beispiel stellen wir ihnen jedoch stattdessen ein kostenloses PDF-Dokument zur Verfügung.
+1. Denken Sie daran, eine Antwort hinzuzufügen, wenn sie „Nein“ sagen. Eine Möglichkeit besteht darin, eine Nachrichtenkarte unten zu ziehen und „Trotzdem danke“ zu sagen. In diesem Beispiel wird jedoch stattdessen ein kostenloses PDF-Dokument bereitgestellt.
 
    ![](assets/stream-designer-21.png)
 
-1. In diesem Beispiel erstellen wir ein neues Dokument. Geben Sie einen Namen für das Konto ein, geben Sie die URL für das bereits gehostete PDF ein und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Erstellen Sie ein neues Dokument. Geben Sie einen Namen für das Konto ein, geben Sie die URL für das bereits gehostete PDF ein und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -199,7 +199,7 @@ Sie können Streams für Dialoge oder [Conversational Forms](/help/marketo/produ
 
 >[!NOTE]
 >
->Bevor Sie auf [!UICONTROL Veröffentlichen] klicken, vergewissern Sie sich, dass Sie [&#x200B; Ziel-URL(s) &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} haben.
+>Bevor Sie auf [!UICONTROL Veröffentlichen] klicken, vergewissern Sie sich, dass [ Ihre Ziel-URL(s) eingegeben ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -4,16 +4,16 @@ description: Erfahren Sie mehr über Facebook-Offline-Konversionen und wie sie m
 title: Grundlegendes zu Offline-Konversionen in Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '241'
 ht-degree: 2%
 
 ---
 
 # Grundlagen [!DNL Facebook] Offline-Konversionen {#understanding-facebook-offline-conversions}
 
-Facebook-Lead-Werbekampagnen generieren Leads und senden sie zur Verwendung in Marketing-Kampagnen an Marketo. Ohne Einblick in Offline-Konversionen kann der [!DNL Facebook] Advertiser jedoch nicht wissen, welche Anzeigen am effektivsten sind. Hier ein Beispiel.
+Facebook-Lead-Werbekampagnen generieren Leads und senden sie zur Verwendung in Marketing-Kampagnen an Marketo. Ohne Einblick in Offline-Konversionen kann der [!DNL Facebook] Advertiser jedoch nicht wissen, welche Anzeigen am effektivsten sind. Im Folgenden finden Sie ein Beispiel.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Facebook-Lead-Werbekampagnen generieren Leads und senden sie zur Verwendung in M
 
 Sie können [Facebook-Offline-Konversionen einrichten](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) um die Offline-Anzeigenleistung an [!DNL Facebook] zu senden.
 
-1. Stellen Sie sicher[[!DNL Facebook] [!UICONTROL &#x200B; dass Ihre &#x200B;]LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)-Integration auf dem neuesten Stand ist.
+1. Stellen Sie sicher[[!DNL Facebook] [!UICONTROL  dass Ihre ]LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)-Integration auf dem neuesten Stand ist.
 1. Ordnen Sie die Stadien in Ihrem Umsatzzyklusmodell den Offline-Konversionsstadien in [!DNL Facebook] zu.
 1. Wenn ein [!DNL Facebook] Lead aus einer [!DNL Facebook] Lead-Anzeige generiert wird und eine zugeordnete Phase erreicht, sendet Marketo Offline-Konversionsdaten über eine sichere, automatisierte API mehrmals täglich an [!DNL Facebook] zurück. Die Daten werden im Bericht &quot;[!DNL Facebook] Ads Manager“ angezeigt.
 

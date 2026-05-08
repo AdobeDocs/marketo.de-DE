@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über Dynamic Chat-Berechtigungen und -Produktpro
 title: Berechtigungen
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '737'
 ht-degree: 6%
 
 ---
@@ -20,7 +20,7 @@ Es gibt fünf Standardprofile mit vordefinierten Berechtigungen, die Sie in Dyna
 
    ![](assets/permissions-1.png)
 
-1. Wählen Sie auf **Registerkarte** das Profil aus, das Sie bearbeiten möchten. In diesem Beispiel wählen wir &quot;**&quot;**.
+1. Wählen Sie auf **Registerkarte** das Profil aus, das Sie bearbeiten möchten. In diesem Beispiel **Live Agent** ausgewählt.
 
    ![](assets/permissions-2.png)
 
@@ -28,7 +28,7 @@ Es gibt fünf Standardprofile mit vordefinierten Berechtigungen, die Sie in Dyna
 
    ![](assets/permissions-3.png)
 
-1. Wählen Sie den Bereich des Profils aus, den Sie bearbeiten möchten. In diesem Beispiel wählen wir Live-Chat. Klicken Sie auf das Stiftsymbol.
+1. Wählen Sie den Bereich des Profils aus, den Sie bearbeiten möchten. In diesem Beispiel **Live-Chat** ausgewählt. Klicken Sie auf das Stiftsymbol.
 
    ![](assets/permissions-4.png)
 
@@ -66,7 +66,7 @@ Sie können diesen Vorgang nun für beliebige andere Dynamic Chat-Bereiche wiede
 
    ![](assets/permissions-11.png)
 
-1. Führen Sie nun für jeden gewünschten Bereich die Schritte 3 [&#x200B; 6 &#x200B;](#edit-existing-permissions) oben beschriebenen Bereich aus.
+1. Führen Sie nun für jeden gewünschten Bereich die Schritte 3 [ 6 ](#edit-existing-permissions) oben beschriebenen Bereich aus.
 
 ## Liste der Berechtigungen {#list-of-permissions}
 
@@ -156,10 +156,10 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Veröffentlichen von Gesprächsflüssen</li>
     <br>
     <i>Live-Chat</i>
-    <li>k. A.</li>
+    <li>Nicht zutreffend</li>
     <br>
     <i>Meetings</i>
-    <li>k. A.</li>
+    <li>Nicht zutreffend</li>
     <br>
     <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
@@ -167,7 +167,7 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Besprechungsberichte anzeigen</li>
     <br>
     <i>Agenteneinstellungen</i>
-    <li>k. A.</li>
+    <li>Nicht zutreffend</li>
     <br>
     <i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>
@@ -186,7 +186,7 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Meine Unterhaltungen anzeigen</li>
     <br>
     <i>Meetings</i>
-    <li>k. A.</li>
+    <li>Nicht zutreffend</li>
     <br>
     <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
@@ -212,10 +212,10 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Gesprächsflüsse anzeigen</li>
     <br>
     <i>Live-Chat</i>
-    <li>k. A.</li>
+    <li>Nicht zutreffend</li>
     <br>
     <i>Meetings</i>
-    <li>k. A.</li>
+    <li>Nicht zutreffend</li>
     <br>
     <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
@@ -244,10 +244,10 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Veröffentlichen von Gesprächsflüssen</li>
     <br>
     <i>Live-Chat</i>
-    <li>k. A.</li>
+    <li>Nicht zutreffend</li>
     <br>
     <i>Meetings</i>
-    <li>k. A.</li>
+    <li>Nicht zutreffend</li>
     <br>
     <i>Analytics</i>
     <li>Globale Leistungsberichte anzeigen</li>
@@ -256,7 +256,7 @@ Im Folgenden finden Sie die fünf Standardprofile und die Berechtigungen, die st
     <li>Berichte exportieren</li>
     <br>
     <i>Agenteneinstellungen</i>
-    <li>k. A.</li>
+    <li>Nicht zutreffend</li>
     <br>
     <i>Admin-Einstellungen</i>
     <li>Round-Robin anzeigen</li>

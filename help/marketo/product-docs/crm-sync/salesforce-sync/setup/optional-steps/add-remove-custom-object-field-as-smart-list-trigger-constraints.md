@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie benutzerdefinierte Salesforce-Objektfelder al
 title: Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Einschränkung für intelligente Liste/Auslöser
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '206'
 ht-degree: 11%
 
 ---
@@ -61,7 +61,7 @@ Marketo Engage bietet eine präzise Kontrolle über die Synchronisierung benutze
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, die globale Synchronisierung erneut zu aktivieren!
+   >Denken Sie daran, die globale Synchronisierung erneut zu aktivieren.
 
 Jetzt haben Ihre Smart Lists und Smart Campaign noch mehr Leistung.
 

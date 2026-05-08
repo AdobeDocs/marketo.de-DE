@@ -3,16 +3,16 @@ description: Erfahren Sie mehr über On-Demand-Webinare in interaktiven Marketo-
 title: On-Demand-Webinare
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 0%
+source-wordcount: '490'
+ht-degree: 1%
 
 ---
 
 # On-Demand-Webinare {#on-demand-webinars}
 
-On-Demand-Webinare erfassen und verfeinern die Leads, die sich für Ihre Veranstaltung registriert haben und nicht teilgenommen haben. Sie möchten jedoch Informationen über die Veranstaltung erhalten, indem Sie sich die Aufzeichnung ansehen. Informationen wie Name, E-Mail-ID und Datum/Dauer der Beobachtung können in Marketo Engage erfasst und zum Targeting dieser nicht angezeigten Leads verwendet werden.
+On-Demand-Webinare erfassen und verfeinern die Leads, die sich für Ihre Veranstaltung registriert haben und nicht teilgenommen haben, aber Informationen über die Veranstaltung erhalten möchten, indem Sie sich die Aufzeichnung ansehen. Informationen wie Name, E-Mail-ID und Datum/Dauer der Beobachtung können in Marketo Engage erfasst und zum Targeting dieser nicht angezeigten Leads verwendet werden.
 
 Die URL für die Teilnahme am Webinar, die den Teilnehmern vor der Veranstaltung mitgeteilt wurde, kann verwendet werden, um die On-Demand-Aufzeichnung anzusehen. Wenn ein Teilnehmer, der nicht an der Live-Veranstaltung teilgenommen hat (z. B. ein Lead mit dem Programmstatus „No-Show„), auf die URL für die Teilnahme am Webinar klickt, ändert sich der Programmstatus dieses Leads von „No-Show“ in „Attended On-Demand“. Der Programmstatus der Leads, die das Ereignis live gesehen haben und den Status „Teilgenommen“ haben, wird nicht beeinflusst, wenn sie die Joining-URL aufrufen und die On-Demand-Aufzeichnung ansehen.
 
@@ -23,9 +23,9 @@ Marketo Engage stellt die Statistiken zu Armbanduhren für On-Demand-Webinare au
 * On-Demand-Zusammenfassung : Bietet eine Zusammenfassung der Besucherzahlen (No-Shows), die die Aufzeichnung nach dem Ereignis an einem bestimmten Tag (bestimmten Tagen) ansehen
 
 * On-Demand-Statistiken: Dieses Widget bietet Informationen zu folgenden Themen:
-   * Tage, an denen die On-Demand-Aufzeichnung zur Anzeige verfügbar ist - Hilft Marketing-Experten bei der Durchführung von Aktionen, z. B. der Ausführung von E-Mail-Kampagnen kurz vor dem Ende der Aufnahmeverfügbarkeitsdauer von 30 Tagen.
-   * Bisherige Gesamtbesucherzahl für On-Demand-Webinare: Die Anzahl aller Nicht-Show-Registranten, die die On-Demand-Aufzeichnung bis heute angesehen haben.
-   * Durchschnittliche Dauer der Beobachtung in Minuten für alle Besucher : Gibt Marketing-Experten einen Eindruck davon, wie viel von der Aufzeichnung angezeigt wird und welche Smart-Kampagnen verwendet werden können, um Leads oberhalb einer bestimmten Dauer der Beobachtung anzusprechen.
+   * Tage, an denen die On-Demand-Aufzeichnung angezeigt werden kann: Hilft Marketing-Experten beim Ausführen von Aktionen, z. B. dem Ausführen von E-Mail-Kampagnen kurz vor dem Ende der Aufnahmeverfügbarkeitsdauer von 30 Tagen.
+   * Bisherige Gesamtanzahl der Besucher von On-Demand-Webinaren: Die Anzahl aller No-Show-Registranten, die die On-Demand-Aufzeichnung bisher angesehen haben.
+   * Durchschnittliche Dauer der Beobachtung in Minuten für alle Besucher: Gibt Marketing-Experten ein Gefühl dafür, wie viel von der Aufzeichnung angezeigt wird und welche Smart-Kampagnen verwendet werden können, um Leads oberhalb einer bestimmten Dauer der Beobachtung anzusprechen.
 
 ![](assets/on-demand-webinars-1.png)
 

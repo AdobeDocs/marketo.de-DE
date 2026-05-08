@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einen benutzerdefinierten Dynamics-Synchronis
 title: Erstellen eines benutzerdefinierten  [!DNL Dynamics] -Filters
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
@@ -79,7 +79,7 @@ Marketo sucht während der automatischen Hintergrundsynchronisierung nach diesem
 
 ## Filter in Marketo auswählen {#select-the-filter-in-marketo}
 
-Selbst wenn Sie bereits die erste Synchronisierung durchgeführt haben, wechseln Sie zu und wählen Sie die Felder aus, die mit Marketo synchronisiert werden sollen.
+Selbst wenn die anfängliche Synchronisierung abgeschlossen ist, wechseln Sie zu und wählen Sie die Felder aus, die mit Marketo synchronisiert werden sollen.
 
 1. Wechseln Sie zu Admin und wählen Sie **[!UICONTROL Microsoft Dynamics]**.
 
@@ -93,7 +93,7 @@ Selbst wenn Sie bereits die erste Synchronisierung durchgeführt haben, wechseln
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
-Gut. Jetzt haben Sie den Synchronisierungsfilter für Marketo aktiviert.
+Nachdem Sie nun den Synchronisierungsfilter für Marketo aktiviert haben.
 
 ## Erstellen eines [!DNL Dynamics] Workflows, um Synchronisierungsfilterwerte automatisch zuzuweisen {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
@@ -135,7 +135,7 @@ Sie können den SyncToMoto-Feldern für Ihre Datensätze immer manuell einen Wer
 
 ## Filterdetails synchronisieren {#sync-filter-details}
 
-Im Folgenden finden Sie einige Implementierungsdetails, die Sie kennen sollten:
+Implementierungsdetails:
 
 * Starten eines Synchronisierungsvorgangs
 

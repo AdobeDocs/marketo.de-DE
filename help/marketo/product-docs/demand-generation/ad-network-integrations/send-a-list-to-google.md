@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie eine statische Marketo-Liste zur Kundenabstim
 title: Senden einer Liste an Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
@@ -36,7 +36,7 @@ Gehen Sie für diejenigen, die Google Customer Match verwenden, wie folgt vor, u
 
    >[!NOTE]
    >
-   >* Wenn Sie **Zielgruppenzugehörigkeit synchron halten** wird die Liste auf dem neuesten Stand gehalten, sobald sie sich in Ihrer Instanz ändert. Wir fügen Personen zur Zielgruppe hinzu bzw. entfernen sie aus ihr, wenn sie der statischen Liste hinzugefügt bzw. daraus entfernt werden.
+   >* Wenn Sie **Zielgruppenzugehörigkeit synchron halten** wird die Liste auf dem neuesten Stand gehalten, sobald sie sich in Ihrer Instanz ändert. Die Zielgruppenzugehörigkeit wird aktualisiert, wenn Personen zur statischen Liste hinzugefügt oder daraus entfernt werden.
    >
    >* Wenn Sie das Kontrollkästchen unten aktivieren, wird der Einverständnisstatus für Benutzerdaten, die zu Zwecken der Werbung und Anzeigenpersonalisierung an Google Ads gesendet werden, als ERTEILT gesendet. Wenn diese Option deaktiviert bleibt, wird der Einverständnisstatus als „NICHT ANGEGEBEN“ gesendet. Für diejenigen, die Daten für Nutzer im Europäischen Wirtschaftsraum (EWR) hochladen möchten, hat Google eine Liste mit [FAQs](https://support.google.com/google-ads/answer/14310715){target="_blank"} sowie weitere Einzelheiten zur [EU-Richtlinie zur Benutzerzustimmung](https://www.google.com/about/company/user-consent-policy/){target="_blank"} zusammengestellt.
 

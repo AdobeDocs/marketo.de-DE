@@ -3,16 +3,16 @@ description: Erfahren Sie, wie Sie Vorlagen in interaktiven Webinaren erstellen 
 title: Vorlagen für interaktive Webinare
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 2%
+source-wordcount: '333'
+ht-degree: 3%
 
 ---
 
 # Vorlagen für interaktive Webinare {#templates-for-interactive-webinars}
 
-Erstellen Sie benutzerfreundliche Vorlagen in interaktiven Webinaren, um Inhalte schneller zu erstellen und bei der Arbeit in einem Team den Markenrichtlinien zu entsprechen.
+Erstellen Sie wiederverwendbare Vorlagen in interaktiven Webinaren, um Inhalte schneller zu erstellen und bei der Arbeit in einem Team den Markenrichtlinien zu entsprechen.
 
 ## Berechtigungen erteilen {#grant-permissions}
 

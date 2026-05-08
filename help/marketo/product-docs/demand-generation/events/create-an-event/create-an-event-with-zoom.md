@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo ein Ereignis mit Zoom erstellen. R
 title: Ereignis erstellen mit [!DNL Zoom]
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,9 @@ Geben Sie die folgenden Informationen für Ihr Webinar ein. Dieses wird dann üb
 
 >[!TIP]
 >
->Es gibt zusätzliche Felder, die Sie in [!DNL Zoom] konfigurieren werden und die sich NICHT auf die Integration auswirken. Weitere Informationen zu diesen Feldern [[!DNL Zoom]  Sie im &#x200B;](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar)Webinar-Hilfezentrum“.
+>Es gibt zusätzliche Felder, die Sie in [!DNL Zoom] konfigurieren werden und die sich NICHT auf die Integration auswirken. Weitere Informationen zu [[!DNL Zoom]  Feldern finden Sie ](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) Webinar-Hilfezentrum .
 
-Lassen Sie uns jetzt zu Marketo springen!
+Fahren Sie nun mit Marketo fort.
 
 1. Ereignis auswählen. Klicken Sie auf **[!UICONTROL Ereignisaktionen]** und wählen Sie **[!UICONTROL Ereigniseinstellungen]**.
 
@@ -81,7 +81,7 @@ Lassen Sie uns jetzt zu Marketo springen!
 
    ![](assets/eventsettingssave.png)
 
-   Ausgezeichnet! Jetzt wird das Ereignis synchronisiert und von [!DNL Zoom] geplant.
+   Das Ereignis wird jetzt von [!DNL Zoom] synchronisiert und geplant.
 
    >[!NOTE]
    >
@@ -93,7 +93,7 @@ Lassen Sie uns jetzt zu Marketo springen!
    >
    >Legen Sie Ihre Bestätigungs-E **Mail auf** Betriebsbereit“ fest, um sicherzustellen, dass Personen, die sich registrieren und möglicherweise abgemeldet werden, weiterhin ihre Bestätigungsinformationen erhalten.
 
-   Personen, die sich für Ihr Webinar anmelden, werden über den Flussschritt **[!UICONTROL Programmstatus ändern]** an Ihren Webinar-Anbieter weitergeleitet, wenn [!UICONTROL Neuer Status] auf „Registriert“ gesetzt ist. Kein anderer Status überträgt die Person. Stellen Sie außerdem sicher, dass **[!UICONTROL Programmstatus ändern]** Flussschritt #1 und **[!UICONTROL E-Mail senden]** Flussschritt #2.
+   Personen, die sich für Ihr Webinar anmelden, werden über den Flussschritt **[!UICONTROL Programmstatus ändern]** an Ihren Webinar-Anbieter weitergeleitet, wenn [!UICONTROL Neuer Status] auf „Registriert“ gesetzt ist. Kein anderer Status überträgt die Person. Führen Sie außerdem **[!UICONTROL Programmstatus ändern]** Flussschritt #1 und **[!UICONTROL E-Mail senden]** Flussschritt #2.
 
    ![](assets/goto-webinar-1.png)
 

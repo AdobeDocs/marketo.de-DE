@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie ein interaktives Webinar in Marketo bewerben.
 title: Bewerben eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '800'
 ht-degree: 1%
 
 ---
@@ -34,15 +34,15 @@ Sie können sich für dieses Webinar registrieren, indem Sie ein Formular auf de
 
 Sobald ein Mitglied den Programmstatus „registriert“ in einem Veranstaltungsprogramm eines interaktiven Webinars erreicht hat, wird automatisch eine Registrierung für das in Adobe Connect erstellte Webinar durchgeführt. Registrierungsdaten wie Vorname, Nachname und E-Mail-ID werden dann an Adobe Connect übertragen. Das bedeutet, dass die Informationen dem Referenten oder Moderator während des Webinars zur Verfügung stehen, sobald der Benutzer als Teilnehmer am Webinar teilnimmt.
 
-Innerhalb weniger Minuten nach der Registrierung wird die Webinar-URL für das Mitglied auf der Registerkarte Mitglieder angezeigt. Wenn Sie die Spalte für die Webinar-URL nicht finden können, stellen Sie sicher, dass diese Spalte zu Ihrer Ansicht hinzugefügt wurde. Dies ist eine personalisierte URL für jedes registrierte Mitglied, um zum geplanten Zeitpunkt am Webinar teilnehmen zu können, ohne dass eine Authentifizierung erforderlich ist. Intern ausgetauschte Token übernehmen die Authentifizierung für die Mitglieder.
+Innerhalb weniger Minuten nach der Registrierung wird die Webinar-URL für das Mitglied auf der Registerkarte Mitglieder angezeigt. Wenn Sie die Spalte für die Webinar-URL nicht finden können, überprüfen Sie, ob die Spalte zu Ihrer Ansicht hinzugefügt wurde. Dies ist eine personalisierte URL für jedes registrierte Mitglied, um zum geplanten Zeitpunkt am Webinar teilnehmen zu können, ohne dass eine Authentifizierung erforderlich ist. Intern ausgetauschte Token übernehmen die Authentifizierung für die Mitglieder.
 
-Sie können das `{{member.webinar url}}`[&#x200B; Token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} verwenden, um die Webinar-URL einzelnen Mitgliedern in eine E-Mail-Kampagne einzuschließen, um mitzuteilen, dass sie für die Veranstaltung registriert wurden, und um die URL der Teilnahme zu verwenden, um zum geplanten Zeitpunkt in das Webinar einzutreten. Kalender-Token können in derselben E-Mail-Kampagne verwendet werden, um sicherzustellen, dass der Webinar-Zeitplan zum Kalender der Mitglieder hinzugefügt werden kann.
+Sie können das `{{member.webinar url}}`[ Token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} verwenden, um die Webinar-URL einzelnen Mitgliedern in eine E-Mail-Kampagne einzuschließen, um mitzuteilen, dass sie für die Veranstaltung registriert wurden, und um die URL der Teilnahme zu verwenden, um zum geplanten Zeitpunkt in das Webinar einzutreten. Kalender-Token können in derselben E-Mail-Kampagne verwendet werden, um sicherzustellen, dass der Webinar-Zeitplan zum Kalender der Mitglieder hinzugefügt werden kann.
 
 Links sind auf der rechten Seite der Registerkarte Übersicht in Ihrem Veranstaltungsprogramm verfügbar, um eine Landingpage sowie eine E-Mail-Kampagne zu erstellen. Der Rest der Promotions im Zusammenhang mit einer Veranstaltung bleibt gleich wie Partner-Webinare unter Verwendung der Launchpoint-Integration.
 
 ![](assets/promoting-an-interactive-webinar-2.png)
 
-Mit interaktiven Webinaren können Sie sich vor, während oder nach einem Webinar registrieren lassen. In jedem Fall müssten Sie einfach die Webinar-URL für den Lead freigeben. Wenn Sie auf den Link klicken, bevor das Webinar beginnt, werden sie zu einer Landingpage vor dem Webinar weitergeleitet. Wenn Sie während des Webinars darauf klicken, gelangen Sie zum laufenden Webinar. Wenn Sie nach dem Webinar darauf klicken, gelangen Sie zu einer Aufzeichnung des Webinars.
+Mit interaktiven Webinaren können Sie sich vor, während oder nach einem Webinar registrieren lassen. In jedem Fall müssten Sie die Webinar-URL für den Lead freigeben. Wenn Sie auf den Link klicken, bevor das Webinar beginnt, werden sie zu einer Landingpage vor dem Webinar weitergeleitet. Wenn Sie während des Webinars darauf klicken, gelangen Sie zum laufenden Webinar. Wenn Sie nach dem Webinar darauf klicken, gelangen Sie zu einer Aufzeichnung des Webinars.
 
 ## Token für interaktive Webinare {#interactive-webinars-tokens}
 

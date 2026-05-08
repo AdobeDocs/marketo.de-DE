@@ -3,7 +3,7 @@ description: Erfahren Sie, wie Sie benutzerdefinierte Veeva-Objektfelder als Sma
 title: Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Einschränkung für intelligente Liste/Auslöser
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 11%
@@ -52,7 +52,7 @@ Marketo Engage bietet spezifische Steuerung für die Synchronisierung [!DNL Veev
 
 >[!IMPORTANT]
 >
->Vergessen Sie nicht, die globale Synchronisierung erneut zu aktivieren!
+>Denken Sie daran, die globale Synchronisierung erneut zu aktivieren.
 
 Jetzt haben Ihre Smart Lists und Smart Campaign noch mehr Leistung.
 

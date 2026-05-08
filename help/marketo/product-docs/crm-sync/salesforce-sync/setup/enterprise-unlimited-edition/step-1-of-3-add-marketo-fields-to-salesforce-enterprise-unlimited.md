@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Marketo-Felder zu Salesforce Enterprise oder 
 title: Schritt 1 von 3 - Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '764'
 ht-degree: 9%
 
 ---
@@ -268,7 +268,6 @@ Ein benutzerdefiniertes Feld auf dem Lead-Objekt in [!DNL Salesforce] sollte ein
 
 1. Klicken **[!UICONTROL abschließend]** Speichern“.
 
-   Ganz einfach, oder?
 
 >[!MORELIKETHIS]
 >

@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie die Salesforce-Kampagnensynchronisierung in M
 title: Aktivieren/Deaktivieren der Kampagnensynchronisierung
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 8%
+source-wordcount: '85'
+ht-degree: 9%
 
 ---
 
@@ -31,7 +31,7 @@ Mit dieser Option kann Marketo Engage seine Programmmitgliedschaft und -status m
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-Da haben Sie es. Geben Sie der Synchronisierung einfach etwas Zeit, um die Daten aus Salesforce abzurufen, und Sie können loslegen.
+Es kann einige Zeit dauern, bis die Synchronisierung die Daten aus Salesforce abruft.
 
 >[!MORELIKETHIS]
 >

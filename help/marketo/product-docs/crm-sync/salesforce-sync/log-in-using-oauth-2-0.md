@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie Marketo und Salesforce mithilfe von OAuth 2.0
 title: Anmelden mit OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '666'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzenden von Programmen einen si
 
 >[!NOTE]
 >
->Seit September 2025 schränkt Salesforce die Verwendung von &quot;[&#x200B; Apps“ &#x200B;](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"}. Bestehende Benutzende, die eine Connected App auf Grundlage unserer Dokumentation eingerichtet haben, können entweder die Berechtigung „Deinstallierte Connected Apps genehmigen“ zum Profil des Marketo Sync-Benutzenden hinzufügen oder eine neue externe Client-App erstellen, wie unten beschrieben.
+>Seit September 2025 schränkt Salesforce die Verwendung von &quot;[ Apps“ ](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"}. Bestehende Benutzende, die eine Connected App auf Grundlage unserer Dokumentation eingerichtet haben, können entweder die Berechtigung „Deinstallierte Connected Apps genehmigen“ zum Profil des Marketo Sync-Benutzenden hinzufügen oder eine neue externe Client-App erstellen, wie unten beschrieben.
 
 1. Klicken Sie in Salesforce auf das Zahnradsymbol und wählen Sie **Setup**.
 
@@ -72,11 +72,11 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzenden von Programmen einen si
 >* Marketo Sync-Benutzer muss in Salesforce erstellt werden.
 >* Für Bestandskunden ist die Funktion „OAuth für SFDC-Synchronisierung aktivieren“ im Abonnement des Kunden aktiviert.
 >* Popup-Blocker sind deaktiviert.
->* Die verbundene App wird erstellt und wir haben den [!UICONTROL Consumer Key] und [!UICONTROL Consumer Secret] zur Verwendung.
+>* Die verbundene App wird erstellt und der [!UICONTROL Consumer Key] und [!UICONTROL Consumer Secret] können verwendet werden.
 
 >[!CAUTION]
 >
->Stellen Sie sicher, dass Sie alle nicht benötigten Felder in Marketo vor dem Synchronisierungsbenutzer ausblenden, bevor Sie auf **[!UICONTROL Felder synchronisieren]** klicken. Nachdem Sie auf Felder synchronisieren geklickt haben, werden alle Felder, die der Benutzer in SFDC sehen kann, in Marketo erstellt und können nicht gelöscht werden.
+>Blenden Sie alle Felder, die Sie in Marketo nicht benötigen, aus dem Synchronisierungsbenutzer aus, bevor Sie auf &quot;**[!UICONTROL &quot;]**. Nachdem Sie auf Felder synchronisieren geklickt haben, werden alle Felder, die der Benutzer in SFDC sehen kann, in Marketo erstellt und können nicht gelöscht werden.
 
 1. Klicken Sie im Marketo Admin-Bereich auf **[!UICONTROL CRM]** und dann auf **[!UICONTROL Mit Salesforce synchronisieren]**.
 

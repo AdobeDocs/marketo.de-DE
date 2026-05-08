@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie mit GotoWebinar in Marketo ein Ereignis erste
 title: Ereignis erstellen mit [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,9 @@ Geben Sie die folgenden Informationen für Ihr Webinar ein. Dieses wird dann üb
 
 >[!TIP]
 >
->Wenn Sie zusätzliche [!DNL GoToWebinar] benötigen, besuchen Sie bitte deren [Hilfewebsite](https://support.logmeininc.com/gotowebinar).
+>Wenn Sie zusätzliche [!DNL GoToWebinar] benötigen, besuchen Sie deren [Hilfewebsite](https://support.logmeininc.com/gotowebinar).
 
-Lassen Sie uns jetzt zu Marketo springen!
+Fahren Sie nun mit Marketo fort.
 
 1. Ereignis auswählen. Klicken Sie auf **[!UICONTROL Ereignisaktionen]** und wählen Sie **[!UICONTROL Ereigniseinstellungen]**.
 
@@ -83,7 +83,7 @@ Lassen Sie uns jetzt zu Marketo springen!
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. Ausgezeichnet! Jetzt wird das Ereignis synchronisiert und von **[!DNL GoToWebinar]** geplant.
+1. Das Ereignis wird jetzt von **[!DNL GoToWebinar]** synchronisiert und geplant.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -107,7 +107,7 @@ Lassen Sie uns jetzt zu Marketo springen!
    >
    >Es kann bis zu 48 Stunden dauern, bis die Daten in Marketo angezeigt werden. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, wählen Sie **[!UICONTROL Vom Webinar-Anbieter aktualisieren]** aus dem Menü [!UICONTROL Ereignisaktionen] auf der Registerkarte **[!UICONTROL Zusammenfassung]** Ihres Ereignisses aus.
 
-Personen, die sich für Ihr Webinar anmelden, werden über den Flussschritt [!UICONTROL Programmstatus ändern] an Ihren Webinar-Anbieter weitergeleitet, wenn [!UICONTROL Neuer Status] auf „Registriert“ gesetzt ist. Kein anderer Status überträgt die Person. Stellen Sie außerdem sicher, dass [!UICONTROL Programmstatus ändern] Flussschritt #1 und [!UICONTROL E-Mail senden] Flussschritt #2.
+Personen, die sich für Ihr Webinar anmelden, werden über den Flussschritt [!UICONTROL Programmstatus ändern] an Ihren Webinar-Anbieter weitergeleitet, wenn [!UICONTROL Neuer Status] auf „Registriert“ gesetzt ist. Kein anderer Status überträgt die Person. Führen Sie außerdem [!UICONTROL Programmstatus ändern] Flussschritt #1 und [!UICONTROL E-Mail senden] Flussschritt #2.
 
 ## Zeitplan anzeigen  {#viewing-the-schedule}
 

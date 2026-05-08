@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie abgeglichene LinkedIn-Zielgruppen als LaunchP
 title: Hinzufügen  [!DNL LinkedIn]  übereinstimmenden Zielgruppen als  [!DNL LaunchPoint] -Service
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '225'
 ht-degree: 3%
 
 ---
@@ -59,7 +59,7 @@ Verbinden Sie Ihr Marketo-Konto mit [!DNL LinkedIn] übereinstimmenden Zielgrupp
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Fantastisch! Auf der Registerkarte Installierte Services werden nun [!DNL LinkedIn] übereinstimmenden Zielgruppen als [!DNL LaunchPoint]-Service aufgeführt.
+   [!DNL LinkedIn] übereinstimmende Zielgruppen werden jetzt auf der Registerkarte Installierte Services als [!DNL LaunchPoint]-Service aufgeführt.
 
    ![](assets/bartholomew2.png)
 

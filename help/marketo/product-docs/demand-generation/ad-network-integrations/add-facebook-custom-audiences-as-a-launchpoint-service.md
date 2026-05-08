@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie benutzerdefinierte Facebook-Zielgruppen als L
 title: Hinzufügen [!DNL Facebook] benutzerdefinierter Zielgruppen als  [!DNL LaunchPoint] -Service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 1%
+source-wordcount: '314'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 >
 >**Admin-Berechtigungen erforderlich**
 
-Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lists von Marketo an [!DNL Facebook] senden, die als benutzerdefinierte Zielgruppen in [!DNL Facebook] Ad-Kampagnen verwendet werden. So richten Sie es ein.
+Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lists von Marketo an [!DNL Facebook] senden, die als benutzerdefinierte Zielgruppen in [!DNL Facebook] Ad-Kampagnen verwendet werden. Führen Sie die folgenden Schritte aus, um es einzurichten.
 
 1. Wechseln Sie zu Marketo **[!UICONTROL Admin]**.
 
@@ -55,15 +55,15 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!NOTE]
    >
-   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL &#x200B; Übereinstimmung“ &#x200B;].
+   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL  Übereinstimmung“ ].
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Gut gemacht! Sie können jetzt zu einer beliebigen statischen oder Smart-Liste in Marketo wechseln und Zielgruppendaten an [!DNL Facebook] senden.
+   Sie können jetzt zu einer beliebigen statischen oder Smart-Liste in Marketo gehen und Zielgruppendaten an [!DNL Facebook] senden.
 
    >[!CAUTION]
    >
-   >Ach, bevor Sie gehen, stellen Sie sicher[&#x200B; dass Sie  [!DNL Facebook]Benutzerdefinierte Zielgruppenbedingungen“ &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) Ihrem [!DNL Facebook]-Konto akzeptieren! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
+   >Bevor Sie Ihre Integration verwenden[ akzeptieren Sie  [!DNL Facebook] benutzerdefinierten Zielgruppenbedingungen von ](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem [!DNL Facebook]! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
 
 >[!MORELIKETHIS]
 >

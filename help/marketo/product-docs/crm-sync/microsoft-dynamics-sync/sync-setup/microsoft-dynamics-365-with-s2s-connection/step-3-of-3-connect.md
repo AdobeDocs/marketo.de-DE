@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung mit Dynamics 365 verbinde
 title: 'Schritt 3 von 3: Marketo-Lösung mit Server-zu-Server-Verbindung verbinden'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 3%
+source-wordcount: '479'
+ht-degree: 4%
 
 ---
 
 # Schritt 3 von 3: Marketo-Lösung mit Server-zu-Server-Verbindung verbinden {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
-Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
+Dies ist der letzte Schritt der Synchronisierung.
 
 >[!PREREQUISITES]
 >
@@ -26,11 +26,11 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
 >[!IMPORTANT]
 >
->Wenn Sie ein Upgrade von der einfachen Authentifizierung auf [!DNL OAuth] durchführen, müssen Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support) wenden, um Hilfe beim Aktualisieren der zusätzlichen Parameter zu erhalten. Durch Aktivierung dieser Funktion wird die Synchronisierung vorübergehend angehalten, bis neue Anmeldeinformationen eingegeben werden und die Synchronisierung erneut aktiviert wird. Die Funktion kann deaktiviert werden (bis April 2022), wenn Sie zum alten Authentifizierungsmodus zurückkehren möchten.
+>Wenn Sie ein Upgrade von der einfachen Authentifizierung auf [!DNL OAuth] durchführen, müssen Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de) wenden, um Hilfe beim Aktualisieren der zusätzlichen Parameter zu erhalten. Durch Aktivierung dieser Funktion wird die Synchronisierung vorübergehend angehalten, bis neue Anmeldeinformationen eingegeben werden und die Synchronisierung erneut aktiviert wird. Die Funktion kann deaktiviert werden (bis April 2022), wenn Sie zum alten Authentifizierungsmodus zurückkehren möchten.
 
 >[!NOTE]
 >
->Bevor Sie neue Anmeldeinformationen eingeben, können [&#x200B; sie hier &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
+>Bevor Sie neue Anmeldeinformationen eingeben, können [ sie hier ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
 ## Benutzerinformationen für [!DNL Dynamics] eingeben {#enter-dynamics-sync-user-information}
 
@@ -52,7 +52,7 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
    >[!CAUTION]
    >
-   >Stellen Sie sicher, dass Ihre Organisations-URL korrekt ist, da wir die nachfolgenden Schemaänderungen nach der Übermittlung nicht rückgängig machen können. Wenn eine falsche Org-URL verwendet wird, müssen Sie ein neues Marketo-Abonnement erwerben. Wenn Sie die URL nicht kennen, ([&#x200B; Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Überprüfen Sie, ob Ihre Organisations-URL korrekt ist. Nachfolgende Schemaänderungen können nach der Übermittlung nicht mehr rückgängig gemacht werden. Wenn eine falsche Organisations-URL verwendet wird, ist ein neues Marketo-Abonnement erforderlich. Wenn Sie die URL nicht kennen, ([ Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
 1. Geben Sie die [!DNL Dynamics] Benutzerinformationen für die Synchronisierung ein und klicken **[!UICONTROL abschließend auf]** Speichern“.
 
@@ -78,7 +78,7 @@ Dies ist der letzte Schritt der Synchronisierung. Wir sind fast da!
 
 ## Synchronisieren von Feldern für einen benutzerdefinierten Filter {#sync-fields-for-a-custom-filter}
 
-Wenn Sie einen benutzerdefinierten Filter erstellt haben, müssen Sie die neuen Felder auswählen, die mit Marketo synchronisiert werden sollen.
+Wenn Sie einen benutzerdefinierten Filter erstellt haben, wechseln Sie zu und wählen Sie die neuen Felder aus, die mit Marketo synchronisiert werden sollen.
 
 1. Wechseln Sie zu [!UICONTROL Admin] und wählen Sie **[!UICONTROL Microsoft Dynamics]**.
 

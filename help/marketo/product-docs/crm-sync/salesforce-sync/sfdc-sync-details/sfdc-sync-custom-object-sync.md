@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie die Synchronisierung benutzerdefinierter Obje
 title: SFDC-Synchronisierung - Synchronisierung benutzerdefinierter Objekte
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 2%
+source-wordcount: '311'
+ht-degree: 5%
 
 ---
 
@@ -65,7 +65,7 @@ Benutzerdefinierte Objekte, die in Ihrer [!DNL Salesforce] erstellt wurden, kön
 
    >[!NOTE]
    >
-   >Vergessen Sie nicht, die globale Synchronisierung erneut zu aktivieren!
+   >Denken Sie daran, die globale Synchronisierung erneut zu aktivieren.
 
 1. Kehren Sie zur Registerkarte **[!UICONTROL Salesforce]** zurück.
 
@@ -87,6 +87,6 @@ Benutzerdefinierte Objekte, die in Ihrer [!DNL Salesforce] erstellt wurden, kön
 
 ### Wie geht es weiter: {#whats-next}
 
-[Benutzerdefiniertes Objektfeld als Smart-Listen-/Trigger-Einschränkungen hinzufügen/entfernen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Einschränkung für intelligente Liste/Auslöser](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
-Ausgezeichnet! Sie können jetzt Daten aus diesem benutzerdefinierten Objekt in Smart-Kampagnen und Smart-Listen verwenden.
+Sie können jetzt Daten aus diesem benutzerdefinierten Objekt in Smart-Kampagnen und Smart-Listen verwenden.

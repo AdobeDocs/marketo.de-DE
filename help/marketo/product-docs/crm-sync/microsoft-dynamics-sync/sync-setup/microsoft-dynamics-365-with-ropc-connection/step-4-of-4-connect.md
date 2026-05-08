@@ -3,16 +3,16 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung mit Dynamics 365 über ei
 title: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers'
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '429'
 ht-degree: 3%
 
 ---
 
 # Schritt 4 von 4: Verbinden der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers {#step-4-of-4-connect-the-marketo-solution-ropc}
 
-Dies ist der letzte Schritt der Synchronisierung. Du bist fast da!
+Dies ist der letzte Schritt der Synchronisierung.
 
 >[!PREREQUISITES]
 >
@@ -48,11 +48,11 @@ Dies ist der letzte Schritt der Synchronisierung. Du bist fast da!
 
    >[!CAUTION]
    >
-   >Stellen Sie sicher, dass Ihre Organisations-URL korrekt ist, da wir die nachfolgenden Schemaänderungen nach der Übermittlung nicht rückgängig machen können. Wenn eine falsche Org-URL verwendet wird, müssen Sie ein neues Marketo-Abonnement erwerben. Wenn Sie die URL nicht kennen, ([&#x200B; Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Überprüfen Sie, ob Ihre Organisations-URL korrekt ist. Nachfolgende Schemaänderungen können nach der Übermittlung nicht mehr rückgängig gemacht werden. Wenn eine falsche Organisations-URL verwendet wird, ist ein neues Marketo-Abonnement erforderlich. Wenn Sie die URL nicht kennen, ([ Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >Bevor Sie neue Anmeldeinformationen eingeben, können [&#x200B; sie hier &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
+   >Bevor Sie neue Anmeldeinformationen eingeben, können [ sie hier ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
 1. Geben Sie **[!UICONTROL Benutzername]**, **[!UICONTROL Kennwort]**, [!DNL Microsoft Dynamics] **[!UICONTROL URL]**, **[!UICONTROL Client-ID]** und **[!UICONTROL Client-Geheimnis]** ein. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
@@ -78,7 +78,7 @@ Dies ist der letzte Schritt der Synchronisierung. Du bist fast da!
 
 ## Synchronisieren von Feldern für einen benutzerdefinierten Filter {#sync-fields-for-a-custom-filter}
 
-Wenn Sie einen benutzerdefinierten Filter erstellt haben, müssen Sie die neuen Felder auswählen, die mit Marketo synchronisiert werden sollen.
+Wenn Sie einen benutzerdefinierten Filter erstellt haben, wechseln Sie zu und wählen Sie die neuen Felder aus, die mit Marketo synchronisiert werden sollen.
 
 1. Wechseln Sie zu [!UICONTROL Admin] und wählen Sie **[!UICONTROL Microsoft Dynamics]**.
 

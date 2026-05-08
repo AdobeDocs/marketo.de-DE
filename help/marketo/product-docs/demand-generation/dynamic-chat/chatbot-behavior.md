@@ -3,10 +3,10 @@ description: Erfahren Sie mehr über das Verhalten von Dynamic Chat-Chatbots in 
 title: Chatbot-Verhalten
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1697'
-ht-degree: 3%
+source-wordcount: '1700'
+ht-degree: 1%
 
 ---
 
@@ -409,4 +409,4 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
 
 ## Lead-Auflösung in Echtzeit {#real-time-lead-resolution}
 
-Während einer Konversation mit einem anonymen Lead und einer angegebenen E-Mail-Adresse klären wir, ob ein bekannter Lead-Eintrag mit dieser E-Mail-Adresse vorhanden ist, und verwenden diesen Eintrag für Personalisierung in Echtzeit. Wenn wir mehrere Einträge finden, führen wir sie in Echtzeit zusammen. Dieses Verhalten ist sowohl für Dialogfelder als auch für Konversationsflüsse implementiert.
+Während einer Konversation mit einem anonymen Lead und einer E-Mail-ID löst Dynamic Chat auf, ob ein bekannter Lead-Eintrag mit dieser E-Mail-ID vorhanden ist, und verwendet diesen Datensatz für die Personalisierung in Echtzeit. Wenn mehrere Datensätze gefunden werden, werden sie in Echtzeit zusammengeführt. Dieses Verhalten ist sowohl für Dialogfelder als auch für Konversationsflüsse implementiert.

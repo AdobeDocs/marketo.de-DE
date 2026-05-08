@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie einen Veeva CRM-Benutzer für die Synchronisi
 title: 'Schritt 2 von 3: Erstellen eines Veeva CRM-Benutzers für Marketo Engage'
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '636'
 ht-degree: 6%
 
 ---
@@ -104,9 +104,9 @@ Mit diesen Schritten kann der Marketo-Synchronisierungsbenutzer die benutzerdefi
 
    >[!TIP]
    >
-   >Stellen Sie sicher, dass Sie das Kontrollkästchen [!UICONTROL Kennwort läuft nie ab] aktivieren.
+   >Aktivieren Sie das [!UICONTROL Kennwort läuft nie ab].
 
-1. Stellen Sie [!UICONTROL &#x200B; Abschnitt „Allgemeine &#x200B;]&quot; sicher[!UICONTROL &#x200B; dass „Ereignisse bearbeiten] und [!UICONTROL Aufgaben bearbeiten] ausgewählt sind.
+1. Überprüfen Sie [!UICONTROL  Abschnitt „Allgemeine ]&quot;, ob [!UICONTROL Ereignisse bearbeiten] und [!UICONTROL Aufgaben bearbeiten] ausgewählt sind.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
@@ -114,7 +114,7 @@ Mit diesen Schritten kann der Marketo-Synchronisierungsbenutzer die benutzerdefi
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Stellen Sie [!UICONTROL &#x200B; Abschnitt „Benutzerdefinierte Objektberechtigungen] sicher, dass [!UICONTROL Lese]-Berechtigungen für [!UICONTROL Aufruf], [!UICONTROL Aufrufschlüsselmeldung] und alle anderen gewünschten benutzerdefinierten Objekte überprüft werden.
+1. Stellen Sie [!UICONTROL  Abschnitt „Benutzerdefinierte Objektberechtigungen] sicher, dass [!UICONTROL Lese]-Berechtigungen für [!UICONTROL Aufruf], [!UICONTROL Aufrufschlüsselmeldung] und alle anderen gewünschten benutzerdefinierten Objekte überprüft werden.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
@@ -130,7 +130,7 @@ Mit diesen Schritten kann der Marketo-Synchronisierungsbenutzer die benutzerdefi
    >
    >Dieser Schritt verhindert, dass Felder, die Sie nicht benötigen, in Marketo angezeigt werden. Dadurch wird die Anzeige übersichtlicher und die Synchronisierung beschleunigt.
 
-1. Wechseln Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Profildetails“ zum Abschnitt **[!UICONTROL Sicherheit auf]**). Klicken Sie **[!UICONTROL Anzeigen]**, um die Barrierefreiheit für die Objekte [!UICONTROL Kontakt] und [!UICONTROL Konto] zu bearbeiten.
+1. Wechseln Sie auf [!UICONTROL  Seite ]Profildetails“ zum Abschnitt **[!UICONTROL Sicherheit auf]**). Klicken Sie **[!UICONTROL Anzeigen]**, um die Barrierefreiheit für die Objekte [!UICONTROL Kontakt] und [!UICONTROL Konto] zu bearbeiten.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-17.png)
 
@@ -181,7 +181,7 @@ Marketo benötigt Anmeldeinformationen für den Zugriff auf [!DNL Veeva] CRM. Di
 >
 >Wenn Ihr Unternehmen über keine zusätzlichen [!DNL Veeva] CRM-Lizenzen verfügt, können Sie einen vorhandenen Marketing-Benutzer mit dem Systemadministratorprofil verwenden.
 
-1. Geben Sie in der Navigationssuchleiste „Benutzer“ ein und klicken Sie unter **[!UICONTROL Benutzer verwalten]** auf [!UICONTROL Benutzer &#x200B;].
+1. Geben Sie in der Navigationssuchleiste „Benutzer“ ein und klicken Sie unter **[!UICONTROL Benutzer verwalten]** auf [!UICONTROL Benutzer ].
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-20.png)
 
@@ -195,9 +195,9 @@ Marketo benötigt Anmeldeinformationen für den Zugriff auf [!DNL Veeva] CRM. Di
 
 >[!TIP]
 >
->Stellen Sie sicher, dass die eingegebene E-Mail-Adresse gültig ist. Sie müssen sich als Synchronisierungsbenutzer anmelden, um das Kennwort zurückzusetzen.
+>Überprüfen Sie, ob die eingegebene E-Mail-Adresse gültig ist. Sie müssen sich als Synchronisierungsbenutzer anmelden, um das Kennwort zurückzusetzen.
 
-Ausgezeichnet! Jetzt verfügen Sie über ein Konto, mit dem Marketo Engage eine Verbindung zu [!DNL Veeva] CRM herstellen kann. Machen wir es.
+Jetzt verfügen Sie über ein Konto, mit dem Marketo Engage eine Verbindung zu [!DNL Veeva] CRM herstellen kann.
 
 >[!MORELIKETHIS]
 >

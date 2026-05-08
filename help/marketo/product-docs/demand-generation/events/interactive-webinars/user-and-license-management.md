@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über die Benutzer- und Lizenzverwaltung für int
 title: Benutzer- und Lizenzverwaltung
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '733'
 ht-degree: 4%
 
 ---
@@ -102,9 +102,9 @@ Interaktive Webinare bieten spezielle Lizenzen zum Erstellen von Ereignissen, di
 
 * Jedes Mal, wenn ein Ereignis erstellt wird, zählt es als „genutzt“ aus der entsprechenden Lizenz (es sei denn, es handelt sich um eine Shared Room-Lizenz). „Shared Event License“ wird bevorzugt, wenn sowohl „Shared Event License“ als auch „Shared Room License“ derselben Kapazität vorhanden sind. Wenn das Ereignis nicht zugestellt wurde und das Ereignisprogramm vor dem geplanten Zeitpunkt gelöscht wird, wird die Ereignisanzahl wieder aufgefüllt. Wenn das Ereignis nicht zugestellt wird und das Ereignisprogramm nicht vor dem geplanten Zeitpunkt gelöscht wird, wird das Ereignis nicht wieder aufgefüllt.
 
-* Der Typ „Zusätzliche Speicherlizenz“ bietet nur Speicher, daher wird der Wert in jedem Feld _außer_ Speicherkapazität einfach als &quot;-&quot; aufgeführt.
+* Der Typ „Zusätzliche Speicherlizenz“ bietet nur Speicher, daher wird der Wert in jedem Feld _außer_ Speicherkapazität als &quot;-&quot; aufgeführt.
 
-* Der Typ „Shared Room License“ verfügt über unbegrenzte Ereignisse und „Additional Storage License“ bietet nur Speicher, sodass das Feld Gesamtereignisse für diese Lizenzen einfach als &quot;-&quot; aufgeführt wird.
+* Der Typ „Shared Room License“ verfügt über unbegrenzte Ereignisse und „Additional Storage License“ bietet nur Speicher. Daher wird das Feld Gesamtereignisse für diese Lizenzen mit &quot;-&quot; aufgeführt.
 
 * Sobald eine Lizenz erschöpft ist, bleibt ihre Kachel auf dem interaktiven Webinar-Bildschirm im Admin-Bereich mit dem gleichen Wert für „Gesamte Ereignisse“ und „Genutzte Ereignisse“. Nur wenn die Lizenz abläuft, wird sie vom Bildschirm entfernt.
 

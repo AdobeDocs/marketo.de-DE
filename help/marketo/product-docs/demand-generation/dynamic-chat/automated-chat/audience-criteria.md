@@ -3,7 +3,7 @@ description: Erfahren Sie mehr über Zielgruppenkriterien für die Zielgruppe, d
 title: Zielgruppenkriterien
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '624'
 ht-degree: 1%
@@ -16,13 +16,13 @@ ht-degree: 1%
 
 ## Priorität {#priority}
 
-Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als einen qualifiziert ist. Er wird beim ersten Erstellen [&#x200B; Dialogfelds &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Sie können die Priorität für ein vorhandenes Dialogfeld ändern, indem Sie es öffnen und auf **[!UICONTROL Registerkarte Zielgruppenkriterien]** Dialogfelddetails) wechseln.
+Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als einen qualifiziert ist. Er wird beim ersten Erstellen [ Dialogfelds ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Sie können die Priorität für ein vorhandenes Dialogfeld ändern, indem Sie es öffnen und auf **[!UICONTROL Registerkarte Zielgruppenkriterien]** Dialogfelddetails) wechseln.
 
 ![](assets/audience-criteria-1.png)
 
 ## Ereignisse {#events}
 
-Mithilfe von Ereignissen können Sie Besuchende gezielt ansprechen, je nachdem, wie viel sie scrollen oder wie lange sie sich auf Ihrer Seite/Site befinden. Im folgenden Beispiel richten wir uns an Besucher, die sich seit mehr als 20 Sekunden auf einer bestimmten Seite befinden.
+Mithilfe von Ereignissen können Sie Besuchende gezielt ansprechen, je nachdem, wie viel sie scrollen oder wie lange sie sich auf Ihrer Seite oder Site befinden. Im folgenden Beispiel zielt die Konfiguration auf Besucher ab, die sich seit mehr als 20 Sekunden auf einer bestimmten Seite befinden.
 
 1. Nehmen Sie das **[!UICONTROL Zeit auf Seite]**-Ereignis und ziehen Sie es nach rechts.
 
@@ -32,7 +32,7 @@ Mithilfe von Ereignissen können Sie Besuchende gezielt ansprechen, je nachdem, 
 
    ![](assets/audience-criteria-4.png)
 
-1. Fügen Sie die URL der gewünschten Seite im Abschnitt [[!UICONTROL Target“ &#x200B;]](#target).
+1. Fügen Sie die URL der gewünschten Seite im Abschnitt [[!UICONTROL Target“ ]](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -40,7 +40,7 @@ Mithilfe von Ereignissen können Sie Besuchende gezielt ansprechen, je nachdem, 
 
 **Bekannte Personen**
 
-Es stehen _viele_ Attributkombinationen zur Auswahl. Im folgenden Beispiel richten wir uns an alle bekannten Personen in Kalifornien, die in einem Unternehmen mit mehr als 50 Mitarbeitern arbeiten.
+Es stehen _viele_ Attributkombinationen zur Auswahl. Im folgenden Beispiel richtet sich die Konfiguration an alle bekannten Personen in Kalifornien, die in einem Unternehmen mit mehr als 50 Mitarbeitern arbeiten.
 
 1. Nehmen Sie das **[!UICONTROL Personenstatus]**-Attribut und ziehen Sie es nach rechts.
 
@@ -68,7 +68,7 @@ Es stehen _viele_ Attributkombinationen zur Auswahl. Im folgenden Beispiel richt
 
 **Anonyme Personen**
 
-Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die sich noch nicht in Ihrer Datenbank befinden. In diesem Beispiel gehen wir auf alle anonymen Personen im Gebiet von New York ein.
+Im Folgenden werden Personen aufgeführt, die sich noch nicht in Ihrer Datenbank befinden. In diesem Beispiel richtet sich die Konfiguration an alle anonymen Personen im Bereich von New York.
 
 1. Nehmen Sie das **[!UICONTROL Personen-E-Mail]**-Attribut und ziehen Sie es nach rechts.
 
@@ -84,7 +84,7 @@ Es gibt eine einfache Möglichkeit, Personen gezielt anzusprechen, die sich noch
 
    >[!NOTE]
    >
-   >Wenn jemand Ihre Website besucht, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} MunchkinCookies und legt sie im System ab. Wir suchen ihre IP in einer speziellen Datenbank und leiten alle Arten von guten Informationen ab.
+   >Wenn jemand Ihre Website besucht, ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} [MunchkinCookies und legt sie im System ab. Die IP-Adresse wird in einer speziellen Datenbank nachgeschlagen, um Standortinformationen und andere Informationen abzuleiten.
 
 1. _[!UICONTROL Is]_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 

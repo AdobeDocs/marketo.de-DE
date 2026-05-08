@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über Routing-Meetings und Live-Chat in Dynamic C
 title: Routing
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 2%
 
 ---
@@ -20,11 +20,11 @@ Benutzerdefinierte Regel: Sie können bestimmte Agenten auswählen, die basieren
 
 >[!NOTE]
 >
->Das Konto-Routing hat die höchste Priorität. Wenn ein Besucher den Punkt im Gespräch erreicht, um entweder ein Meeting zu buchen oder einen Live-Chat zu initiieren[&#x200B; wird &#x200B;](#account-routing)Konto-Routing“ zuerst überprüft, bevor andere Routing-Optionen berücksichtigt werden.
+>Das Konto-Routing hat die höchste Priorität. Wenn ein Besucher den Punkt im Gespräch erreicht, um entweder ein Meeting zu buchen oder einen Live-Chat zu initiieren[ wird ](#account-routing)Konto-Routing“ zuerst überprüft, bevor andere Routing-Optionen berücksichtigt werden.
 
 ## Erstellen einer benutzerdefinierten Regel {#create-a-custom-rule}
 
-In diesem Beispiel senden wir alle Besprechungen aus den abgeleiteten Zuständen von CA, OR und WA an Agent John.
+In diesem Beispiel werden alle Besprechungen aus den abgeleiteten Zuständen von CA, OR und WA an Agent John weitergeleitet.
 
 1. Klicken Sie unter Konfiguration auf **Routing-Regeln**.
 
@@ -100,7 +100,7 @@ Identifizieren und hochladen Ihres Zielkontos und der jeweiligen Vertriebsinhabe
 
 ### Konto hinzufügen {#add-an-account}
 
-In diesem Beispiel leiten wir alle Mitarbeiter von Lego direkt zu Agent Steven weiter.
+In diesem Beispiel werden alle Mitarbeiter von Lego direkt an Agent Steven weitergeleitet.
 
 1. Klicken Sie auf der Registerkarte Konto-Routing auf **+ Konto hinzufügen**.
 

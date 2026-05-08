@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo ein Ereignis mit WebEx erstellen. 
 title: Ereignis erstellen mit [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '651'
 ht-degree: 1%
 
 ---
@@ -40,8 +40,8 @@ Sie planen Ihre Veranstaltung und wählen Ihre bevorzugten Einstellungen in [Web
 
 ![](assets/create-an-event-with-webex-2.png)
 
-* **Webinar-Passwort**: (Optional) Wenn Sie dieses Feld verwenden, stellen Sie sicher, dass Sie es in Ihre Bestätigungs-E-Mail aufnehmen.
-* **Kennwort der**: (Optional) Wenn Sie dieses Feld verwenden, stellen Sie sicher, dass Sie es in Ihre Webinar-Agenda aufnehmen.
+* **Webinar-Passwort**: (Optional) Wenn Sie dieses Feld verwenden, fügen Sie es in Ihre Bestätigungs-E-Mail ein.
+* **Kennwort der**: (Optional) Wenn Sie dieses Feld verwenden, nehmen Sie es in Ihre Webinar-Agenda auf.
 * **Konto verlangen**: Beschränkt Teilnehmer auf diejenigen, die WebEx-Konten haben.
 
 ### Audioverbindungsoptionen {#audio-connection-options}
@@ -67,7 +67,7 @@ Sie planen Ihre Veranstaltung und wählen Ihre bevorzugten Einstellungen in [Web
 
 >[!NOTE]
 >
->Die Marketo-WebEx-Integration unterstützt nicht das Senden von Bestätigungs-E-Mails aus WebEx heraus. Die Bestätigung muss über Marketo gesendet werden. Kopieren Sie nach der Planung der Veranstaltung die Ereignisinformationen in die Marketo-Bestätigungs-E-Mail und setzen Sie die E-Mail auf _Operational_.
+>Die Marketo-WebEx-Integration unterstützt nicht das Senden von Bestätigungs-E-Mails aus WebEx heraus. Die Bestätigung muss über Marketo gesendet werden. Kopieren Sie nach der Planung der Veranstaltung die Ereignisinformationen in die Marketo-Bestätigungs-E-Mail und setzen Sie die E-Mail auf _Betriebsbereit_.
 
 ## Synchronisieren Ihres Ereignisses mit Marketo Engage {#sync-your-event-with-marketo-engage}
 
@@ -95,10 +95,10 @@ Sie planen Ihre Veranstaltung und wählen Ihre bevorzugten Einstellungen in [Web
 
    ![](assets/create-an-event-with-webex-9.png)
 
-Ihr WebEx-Ereignis wird jetzt mit Ihrem Marketo-Veranstaltungsprogramm synchronisiert. Personen, die sich für Ihr Webinar anmelden, werden über den Flussschritt _Programmstatus ändern_ an Ihren Webinar-Anbieter weitergeleitet, wenn der neue Status auf „Registriert“ gesetzt ist. Kein anderer Status überträgt die Person. Stellen Sie sicher _dass Sie den Flussschritt_ Programmstatus ändern#1 und den _E-Mail senden_ #2.
+Ihr WebEx-Ereignis wird jetzt mit Ihrem Marketo-Veranstaltungsprogramm synchronisiert. Personen, die sich für Ihr Webinar anmelden, werden über den Flussschritt _Programmstatus ändern_ an Ihren Webinar-Anbieter weitergeleitet, wenn der neue Status auf „Registriert“ gesetzt ist. Kein anderer Status überträgt die Person. Nehmen Sie _Programmstatus ändern_ Flussschritt #1 und _E-Mail senden_ Flussschritt #2 vor.
 
 ## Zu beachtende Punkte {#things-to-note}
 
 * Vermeiden Sie verschachtelte E-Mail-Programme, um Ihre Bestätigungs-E-Mails zu senden. Verwenden Sie stattdessen die intelligente Kampagne Ihres Veranstaltungsprogramms.
 
-* Es kann bis zu 48 Stunden dauern, bis Daten in Marketo angezeigt werden. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, klicken Sie auf **Vom Webinar-Anbieter aktualisieren** in der Dropdown-Liste **Ereignisaktionen** auf der Registerkarte **Zusammenfassung** Ihres Veranstaltungsprogramms.
+* Es kann bis zu 48 Stunden dauern, bis Daten in Marketo angezeigt werden. Wenn Sie nach so langer Wartezeit immer noch nichts sehen, klicken Sie **Vom Webinar-Anbieter aktualisieren** in der Dropdown-Liste **Ereignisaktionen** auf der Registerkarte **Zusammenfassung** Ihres Ereignisprogramms.

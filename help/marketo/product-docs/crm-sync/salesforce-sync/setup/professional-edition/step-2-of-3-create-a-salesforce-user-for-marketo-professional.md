@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie einen Salesforce-Benutzer für Marketo mit Pr
 title: 'Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Professional)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -112,9 +112,9 @@ Marketo benötigt Anmeldeinformationen, um auf [!DNL Salesforce] zuzugreifen. Di
 
    >[!TIP]
    >
-   >Stellen Sie sicher, dass die eingegebene E-Mail-Adresse gültig ist. Sie müssen sich als Synchronisierungsbenutzer anmelden, um das Kennwort zurückzusetzen.
+   >Überprüfen Sie, ob die eingegebene E-Mail-Adresse gültig ist. Sie müssen sich als Synchronisierungsbenutzer anmelden, um das Kennwort zurückzusetzen.
 
-Ausgezeichnet! Jetzt verfügen Sie über ein Konto, mit dem Marketo eine Verbindung zu [!DNL Salesforce] herstellen kann. Lass es uns machen.
+Jetzt verfügen Sie über ein Konto, mit dem Marketo eine Verbindung zu [!DNL Salesforce] herstellen kann.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Google Customer Match als LaunchPoint-Service
 title: Hinzufügen von Google Customer Match as a [!DNL LaunchPoint] Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 3%
 
 ---
@@ -55,7 +55,7 @@ Mit dieser Integration können Sie eine Marketo-Zielgruppe an Google senden, dam
 
    ![](assets/authorizesuccess.png)
 
-   Fantastisch! Im Tab Installierte Services werden nun abgeglichene Zielgruppen von Google als [!DNL LaunchPoint]-Service aufgeführt.
+   Übereinstimmende Zielgruppen von Google werden jetzt auf der Registerkarte Installierte Services als [!DNL LaunchPoint]-Service aufgeführt.
 
 >[!NOTE]
 >

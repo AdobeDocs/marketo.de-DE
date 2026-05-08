@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie die Synchronisierung benutzerdefinierter Obje
 title: Aktivieren der Synchronisierung benutzerdefinierter Objekte in anderen Sprachen als Englisch
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 8%
+source-wordcount: '175'
+ht-degree: 9%
 
 ---
 
@@ -61,4 +61,4 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
 >[!NOTE]
 >
->Vergessen Sie nicht, das Schema ein letztes Mal zu aktualisieren, um die Objekte in Ihrer Sprache zurückzuholen.
+>Aktualisieren Sie das Schema ein letztes Mal, um die Objekte in Ihrer Sprache zurückzuholen.

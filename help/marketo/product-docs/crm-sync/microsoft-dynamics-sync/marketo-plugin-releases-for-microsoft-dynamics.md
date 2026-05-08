@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über Marketo-Plug-in-Versionen für Microsoft Dy
 title: Marketo-Plug-in-Versionen für [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 0%
+source-wordcount: '519'
+ht-degree: 14%
 
 ---
 
@@ -103,7 +103,7 @@ Beim ersten Synchronisieren mit [!DNL Microsoft Dynamics] laden Sie die neueste 
   <tr>
    <td>4.0.0.17</td>
    <td>4/8/16</td>
-   <td>Fehlerbehebung: Wenn für den Lead ein Synchronisierungsfilter auf „NEIN“ festgelegt war und die Opportunity und der Kontakt keinen Synchronisierungsfilter hatten, wurde das Erstellungsprotokoll nicht für den Kontakt und die Opportunity generiert, wenn der Lead qualifiziert wurde.</td>
+   <td>Fehlerbehebung: Wenn für den Lead ein Synchronisierungsfilter auf „NEIN“ festgelegt war und die Opportunity und der Kontakt keinen Synchronisierungsfilter hatten, wurde das Erstellungsprotokoll zum Zeitpunkt der Qualifizierung des Leads nicht für den Kontakt und die Opportunity generiert.</td>
   </tr>
   <tr>
    <td>4.0.0.16</td>
@@ -113,7 +113,7 @@ Beim ersten Synchronisieren mit [!DNL Microsoft Dynamics] laden Sie die neueste 
   <tr>
    <td>4.0.0.15</td>
    <td>3/3/16</td>
-   <td>Fehlerbehebung: Der Kunde konnte keinen Lead im CRM erstellen, da der angemeldete Benutzer keine Berechtigung zur Marketo-Konfiguration hatte.</td>
+   <td>Fehlerbehebung: Der Kunde konnte keinen Lead im CRM erstellen, da der angemeldete Benutzer nicht über die Berechtigung "Marketo Config“ verfügte.</td>
   </tr>
   <tr>
    <td colspan="1">4.0.0.14</td>

@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie in interaktiven Webinaren ein Webinar-Team hi
 title: Hinzufügen eines Webinar-Teams
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '455'
 ht-degree: 2%
 
 ---
@@ -38,7 +38,7 @@ Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erleb
 
    >[!NOTE]
    >
-   >Wenn Sie **Benutzer des internen interaktiven Webinars** auswählen, müssen Sie einfach auf das **Verfügbare Hosts** klicken und aus der Liste der Personen auswählen, die in Marketo Engage als Benutzer des interaktiven Webinars hinzugefügt wurden. Bestehende Hosts sehen sich selbst nicht in dieser Dropdown-Liste, da sie bereits Hosts sind.
+   >Wenn Sie **Benutzer des internen interaktiven Webinars** auswählen, müssen Sie auf das **Verfügbare Hosts** klicken und aus der Liste der Personen auswählen, die in Marketo Engage als Benutzer des interaktiven Webinars hinzugefügt wurden. Bestehende Hosts sehen sich selbst nicht in dieser Dropdown-Liste, da sie bereits Hosts sind.
 
 1. Geben Sie den Vornamen, Nachnamen und die E-Mail-Adresse des gewünschten Co-Hosts ein. Klicken Sie auf **Hinzufügen**.
 
@@ -50,7 +50,7 @@ Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erleb
 
 >[!NOTE]
 >
-> Mit ![&#x200B; Symbol „Co-Host-URL kopieren](assets/icon-copy-join-url.png) wird die Co-Host-Join-URL kopiert, und mit dem Symbol ![Co-Host eine Einladungs-E-Mail senden](assets/icon-send-invitation-email.png) wird dem Co-Host eine Einladungs-E-Mail gesendet.
+> Mit ![ Symbol „Co-Host-URL kopieren](assets/icon-copy-join-url.png) wird die Co-Host-Join-URL kopiert, und mit dem Symbol ![Co-Host eine Einladungs-E-Mail senden](assets/icon-send-invitation-email.png) wird dem Co-Host eine Einladungs-E-Mail gesendet.
 
 ## Moderator hinzufügen {#add-a-presenter}
 

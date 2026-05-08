@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie in Marketo Facebook-Offline-Konversionen einr
 title: Einrichten von Offline-Konversionen in Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '331'
 ht-degree: 5%
 
 ---
 
 # Einrichten [!DNL Facebook] Offline-Konvertierungen {#set-up-facebook-offline-conversions}
 
-Durch das Zurücksenden von Offline-Konversionsdaten an [!DNL Facebook] für Personen, die über Lead-Anzeigen erstellt wurden, kann Ihr Werbe-Team die Werbeausgaben besser als je zuvor optimieren. So richten Sie es ein.
+Durch das Zurücksenden von Offline-Konversionsdaten an [!DNL Facebook] für Personen, die über Lead-Anzeigen erstellt wurden, kann Ihr Werbe-Team die Werbeausgaben besser als je zuvor optimieren. Führen Sie die folgenden Schritte aus, um es einzurichten.
 
 >[!PREREQUISITES]
 >
@@ -30,7 +30,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an [!DNL Facebook] für Per
 
    >[!NOTE]
    >
-   >Wenn Sie das noch nicht getan haben, rufen Sie &quot;[&#x200B; einrichten [!UICONTROL Facebook-]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)&quot; auf und kehren Sie hierher zurück.
+   >Wenn Sie das noch nicht getan haben, rufen Sie &quot;[ einrichten [!UICONTROL Facebook-]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)&quot; auf und kehren Sie hierher zurück.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -50,7 +50,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an [!DNL Facebook] für Per
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Süß! Die Aktivierung [!DNL Facebook] Offline-Konversionen ist zur Hälfte abgeschlossen. Gehen wir nun zum Umsatzzyklus Modeler , um die Stadien zu kartieren.
+   Die Aktivierung [!DNL Facebook] Offline-Konversionen ist zur Hälfte abgeschlossen. Fahren Sie mit dem Modeler Umsatzzyklus fort, um die Stadien zuzuordnen.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -87,7 +87,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an [!DNL Facebook] für Per
 
    ![](assets/2.png)
 
-1. Genehmigen Sie Ihr Modell und Sie sind fertig!
+1. Genehmigen Sie Ihr Modell, und Sie sind fertig.
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 
@@ -95,7 +95,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an [!DNL Facebook] für Per
 
    >[!CAUTION]
    >
-   >Überprüfen Sie Ihr [!DNL Facebook] und stellen Sie sicher, dass alle [Anzeigen“ &#x200B;](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) Ereignissatz Marketo Offline-Konversionen verknüpft sind. Ist dies nicht der Fall, funktioniert die Attribution möglicherweise nicht.
+   >Überprüfen Sie Ihr [!DNL Facebook] und stellen Sie sicher, dass alle [Anzeigen“ ](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) Ereignissatz Marketo Offline-Konversionen verknüpft sind. Ist dies nicht der Fall, funktioniert die Attribution möglicherweise nicht.
 
    >[!NOTE]
    >

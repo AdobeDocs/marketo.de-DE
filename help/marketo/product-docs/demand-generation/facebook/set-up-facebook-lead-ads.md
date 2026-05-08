@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Facebook-Lead-Anzeigen mit Marketo einrichten
 title: Einrichten von Lead-Anzeigen in Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '365'
 ht-degree: 4%
 
 ---
@@ -19,11 +19,11 @@ Verwenden Sie [Facebook-Lead](https://www.facebook.com/business/ads/ad-objective
 >
 >* **Admin-Berechtigungen erforderlich**
 >
->* Achten Sie beim Erstellen von Facebook-Lead-Anzeigen-Formularen darauf, dass der Formularname nicht nur numerische Zeichen enthält. Der Formularname muss entweder alphabetisch oder alphanumerisch sein.
+>* Stellen Sie beim Erstellen von Facebook-Lead-Anzeigen-Formularen sicher, dass der Formularname nicht nur numerische Zeichen enthält. Der Formularname muss entweder alphabetisch oder alphanumerisch sein.
 
 >[!AVAILABILITY]
 >
->Um Facebook-Lead-Anzeigen zu Ihrer Instanz hinzufügen zu lassen, wenden Sie sich bitte an das Adobe Account Team (Ihren Account Manager).
+>Um Facebook-Lead-Anzeigen zu Ihrer Instanz hinzufügen zu lassen, wenden Sie sich an das Adobe Account Team (Ihren Account Manager).
 
 1. Navigieren Sie in Marketo Engage zum Bereich **Admin** .
 
@@ -65,7 +65,7 @@ Verwenden Sie [Facebook-Lead](https://www.facebook.com/business/ads/ad-objective
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. Um standardmäßige [!DNL Facebook] zu Marketo-Feldzuordnungen zu akzeptieren, klicken Sie einfach auf **[!UICONTROL Erstellen]**.
+1. Um standardmäßige [!DNL Facebook] zu Marketo-Feldzuordnungen zu akzeptieren, klicken Sie auf **[!UICONTROL Erstellen]**.
 
    >[!TIP]
    >
@@ -77,7 +77,7 @@ Verwenden Sie [Facebook-Lead](https://www.facebook.com/business/ads/ad-objective
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   Gut gemacht! Leads fließen in Marketo ein, wenn Sie [!DNL Facebook] Lead-Anzeigenkampagnen erfolgreich ausgeführt werden.
+   Leads fließen in Marketo ein, wenn Sie [!DNL Facebook] Lead-Anzeigenkampagnen erfolgreich ausgeführt werden.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

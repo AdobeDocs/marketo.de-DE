@@ -3,10 +3,10 @@ description: Hier erhalten Sie Hilfe zu Zugriff auf Dynamic Chat, Installation, 
 title: Häufig gestellte Fragen zu Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '897'
-ht-degree: 0%
+source-wordcount: '922'
+ht-degree: 1%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Im Folgenden finden Sie Antworten auf einige häufig gestellte Fragen zu Dynamic Chat.
 
-**Ich habe anscheinend keinen Zugang zu Dynamic Chat. Wie bekomme ich es?**
+**Anscheinend habe ich keinen Zugang zu Dynamic Chat. Wie bekomme ich es?**
 
-Wenden Sie sich an Ihren Marketo Engage-Administrator und stellen Sie sicher, dass er [Sie als Benutzer hinzugefügt](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} in der Adobe Admin Console hat.
+Wenden Sie sich an Ihren Marketo Engage-Administrator und überprüfen Sie, [ er Sie als Benutzer ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} der Adobe Admin Console hinzugefügt hat.
 
 **Kann ich Dynamic Chat an einer beliebigen Stelle auf meiner Unternehmens-Website installieren oder funktioniert es nur auf Marketo-Landingpages?**
 
@@ -24,15 +24,15 @@ Das Dynamic Chat JavaScript-Snippet kann auf jeder Website sowie auf Landingpage
 
 **Wie lange werden Daten für das Reporting gespeichert?**
 
-90 Tage. Eine vollständige Liste der Grenzwerte/Parameter finden Sie auf der Marketo Engage-[Produktbeschreibungsseite](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 Tage. Eine vollständige Liste der Grenzwerte/Parameter finden Sie auf der Marketo Engage [Produktbeschreibungsseite](https://helpx.adobe.com/de/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 **Unterstützt Dynamic Chat neben Englisch auch andere Sprachen?**
 
-Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Spanisch, Deutsch, Japanisch, Niederländisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Spanisch, Deutsch, Japanisch, Niederländisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Unterstützen Sie KI-/NLP-Funktionen?**
 
-KI-/NLP-Funktionen werden nicht unterstützt.
+Dynamic Chat unterstützt keine KI-/NLP-Funktionen.
 
 **Wie kann ich anonyme Personen ansprechen?**
 
@@ -52,7 +52,7 @@ Wenn Sie 90 % des Limits für interaktive Konversationen erreicht haben, erhalte
 
 **Wenn ein Besucher mit einem Dialogfeld interagiert und dann anschließend eine Verbindung zu einem Live-Agenten herstellt, zählt dies dann als eine oder zwei Interaktionen?**
 
-Für Kunden mit dem Select-Paket wird dies als zwei separate Interaktionen gezählt - eines für die Interaktion mit dem Dialog und eines für die Interaktion mit dem Live-Chat. Für Kunden mit dem Prime-Package werden Live-Chat-Interaktionen nicht separat gezählt, sodass dies nur als eine Interaktion zählt.
+Für Kunden mit dem Select-Paket wird dies als zwei separate Interaktionen gezählt: eines für die Interaktion mit dem Dialog und eines für die Interaktion mit dem Live-Chat. Für Kunden mit dem Prime-Package werden Live-Chat-Interaktionen nicht separat gezählt, sodass dies nur als eine Interaktion zählt.
 
 **Wie oft wird das Interaktionslimit zurückgesetzt?**
 
@@ -80,7 +80,7 @@ Dynamic Chat lässt sich über die Marketo Engage Salesforce-Integration mit Sal
 
 **Mein Kalender ist in Dynamic Chat verbunden und ich bin in den Routing-Regeln enthalten, warum erhalte ich also keine Meetings?**
 
-Dies weist höchstwahrscheinlich darauf hin, dass Ihre Kalenderverbindung erneut authentifiziert werden muss. Dies tritt am häufigsten auf, wenn Sie das Kennwort für Ihren Kalenderanbieter ändern und Dynamic Chat die Verbindung verliert. Sie können einfach zur Seite mit den Agenteneinstellungen in Dynamic Chat gehen und auf „Kalender erneut authentifizieren“ klicken.
+Dies weist höchstwahrscheinlich darauf hin, dass Ihre Kalenderverbindung erneut authentifiziert werden muss. Dies tritt am häufigsten auf, wenn Sie das Kennwort für Ihren Kalenderanbieter ändern und Dynamic Chat die Verbindung verliert. Gehen Sie zur Seite Agenteneinstellungen in Dynamic Chat und klicken Sie auf „Kalender erneut authentifizieren“.
 
 **Was ist der Unterschied zwischen einem Dialog und einem Konversationsfluss?**
 
@@ -94,7 +94,7 @@ Ja. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/using-dy
 
 In Dynamic Chat werden mehrere Begriffe verwendet. Definitionen für viele von ihnen finden Sie in den Hilfeartikeln der jeweiligen Bereiche.
 
-* Analytics-Begriffe wie „Personen erworben[&#x200B; (finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Analytics-Begriffe wie „Personen erworben[ (finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
 * Trigger-/Filterdefinitionen für Smart-Listen [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
 * Beschreibungen der verschiedenen Stream Designer-Karten [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 

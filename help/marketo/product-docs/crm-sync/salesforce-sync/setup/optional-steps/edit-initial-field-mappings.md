@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie anfängliche Feldzuordnungen vor der ersten S
 title: Bearbeiten der anfänglichen Feldzuordnungen
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '297'
 ht-degree: 3%
 
 ---
@@ -59,13 +59,13 @@ Wenn Sie ähnlich benannte Felder auf dem Lead und Kontaktobjekt haben, ordnet M
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   Schön! Sie sind fast fertig mit der ersten Synchronisierung.
+   Sie sind fast fertig mit der ersten Synchronisierung.
 
 ## Schema zurücksetzen {#reset-schema}
 
 1. Wenn Sie beim Bearbeiten der Zuordnungen Änderungen am Schema in Salesforce vornehmen, können Sie die Änderungen abrufen, indem Sie auf **[!UICONTROL Schema zurücksetzen]** klicken.
 
-   * Alle Zuordnungsänderungen werden zurückgesetzt!
+   * Alle Zuordnungsänderungen werden zurückgesetzt.
    * Beim Zurücksetzen des Schemas werden nur Felder hinzugefügt, nicht entfernt (auch wenn sie vor dem Synchronisierungsbenutzer ausgeblendet werden).
 
    ![](assets/image2014-12-9-13-3a32-3a8.png)

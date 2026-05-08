@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über Konversationsflüsse und wie sie sich von D
 title: Konversationsfluss – Übersicht
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '370'
 ht-degree: 3%
 
 ---
@@ -82,7 +82,7 @@ Passen Sie in der unteren Hälfte der Registerkarte „Einstellungen“ den Konv
 
 >[!TIP]
 >
->Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=de){target="_blank"} in Aktion!
+>Sehen Sie [Konversationen SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in Aktion!
 
 >[!MORELIKETHIS]
 >

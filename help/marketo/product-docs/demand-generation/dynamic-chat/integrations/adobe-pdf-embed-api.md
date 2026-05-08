@@ -3,16 +3,16 @@ description: Erfahren Sie, wie Sie die Adobe PDF-Einbettungs-API für die Dokume
 title: Adobe PDF Embed-API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '159'
 ht-degree: 5%
 
 ---
 
 # Adobe PDF Embed-API {#adobe-pdf-embed-api}
 
-Mit der Dokumentkarte können Sie PDF-Dokumente in Dialoge einbetten und die Dokumenteninteraktionsaktivität von Besuchern verfolgen. So richten Sie es ein.
+Mit der Dokumentkarte können Sie PDF-Dokumente in Dialoge einbetten und die Dokumenteninteraktionsaktivität von Besuchern verfolgen. Führen Sie die folgenden Schritte aus, um es einzurichten.
 
 1. Navigieren Sie zur [Adobe PDF Embed API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
@@ -30,7 +30,7 @@ Mit der Dokumentkarte können Sie PDF-Dokumente in Dialoge einbetten und die Dok
 
    >[!IMPORTANT]
    >
-   >Sie müssen die Domain verwenden, auf der Sie den Chatbot hosten (wenn Sie z. B. den Chatbot auf mycompany.com hosten, geben Sie dies in Schritt 4 ein).
+   >Sie müssen die Domain verwenden, auf der Sie den Chatbot hosten (wenn Sie z. B. den Chatbot auf mycompany.com hosten, geben Sie diese Domain in Schritt 4 ein).
 
 1. Klicken Sie **[!UICONTROL Kopieren]**, um Ihre Client-ID zu kopieren.
 
@@ -44,4 +44,4 @@ Mit der Dokumentkarte können Sie PDF-Dokumente in Dialoge einbetten und die Dok
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Jetzt können Sie die Dokumentkarte in Ihren Dialogfeldern verwenden [Designer streamen](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!
+Sie können jetzt die Dokumentkarte in den Dialogfeldern &quot;[ Designer&quot; ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.

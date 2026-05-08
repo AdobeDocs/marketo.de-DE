@@ -3,7 +3,7 @@ description: Erfahren Sie, wie Sie Marketo-Formulare mit Dynamic Chat Conversati
 title: Gesprächsflusseinstellungen für Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Gestalten Sie die Konversation mit Marketo Engage Forms durch Integration mit Dy
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. Es wird ein modales Fenster „Standardauswahl“ angezeigt. Wählen Sie Ihre Voreinstellung aus. In diesem Beispiel wählen wir &quot;**[!UICONTROL verwenden]**.
+1. Es wird ein modales Fenster „Standardauswahl“ angezeigt. Wählen Sie Ihre Voreinstellung aus. In diesem Beispiel ist **[!UICONTROL Gesprächsfluss verwenden]** ausgewählt.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,7 +54,7 @@ Gestalten Sie die Konversation mit Marketo Engage Forms durch Integration mit Dy
    >
    >Der Browser des Besuchers muss vor der Formularübermittlung als bekannte Person Cookies erhalten, um sich für ein Mitglied der statischen/intelligenten Liste zu qualifizieren.
 
-   **OPTIONALER SCHRITT**: Klicken Sie in jedem Schritt auf das **+**, um weitere Attribute hinzuzufügen, sodass Sie Ihre Audience eingrenzen können (die verfügbaren Attribute sind die Felder, die Sie für das Formular ausgewählt haben). In diesem Beispiel zielen wir auf technische Adobe-Autoren in Kalifornien ab.
+   **OPTIONALER SCHRITT**: Klicken Sie in jedem Schritt auf das **+**, um weitere Attribute hinzuzufügen, sodass Sie Ihre Audience eingrenzen können (die verfügbaren Attribute sind die Felder, die Sie für das Formular ausgewählt haben). In diesem Beispiel richtet sich die Konfiguration an technische Adobe-Autoren in Kalifornien.
 
    ![](assets/conversational-flow-settings-8.png)
 

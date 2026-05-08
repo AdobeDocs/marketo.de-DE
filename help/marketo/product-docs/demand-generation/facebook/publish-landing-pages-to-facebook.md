@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Marketo-Landingpages in Facebook veröffentli
 title: Veröffentlichen von Landingpages in Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ Angenommen, Sie starten ein neues Buch, Sie könnten einige Ihrer Zielgruppen pe
    >
    >Um Marketo-Landingpages zu ersetzen, die Sie zuvor in [!DNL Facebook] veröffentlicht haben, wählen Sie **[!UICONTROL Vorhandene Registerkarte]** und wählen Sie die zu ersetzende Registerkarte aus der Dropdown-Liste aus. Beachten Sie, dass dies nicht an die Stelle von Nicht-Marketo-Registerkarten tritt.
 
-1. Leads können Ihre Landingpage jetzt direkt auf Ihrer [!DNL Facebook] besuchen. Klicken Sie einfach auf den Namen der Registerkarte unter Ihrem Titelbild.
+1. Leads können Ihre Landingpage jetzt direkt auf Ihrer [!DNL Facebook] besuchen. Klicken Sie auf den Namen der Registerkarte unter Ihrem Titelbild.
 
    ![](assets/image2015-4-22-18-3a42-3a15.png)
 

@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie das Tool „Synchronisierung validieren“ au
 title: validate [!DNL Microsoft Dynamics] sync
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 2%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 >[!CAUTION]
 >
->Wenn Sie die Multi-Factor Authentication (MFA) für Ihre [!DNL Dynamics]-Synchronisierung aktiviert haben, müssen Sie sie deaktivieren, damit [!DNL Dynamics] ordnungsgemäß mit Marketo synchronisieren können. Weitere Informationen erhalten Sie vom [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
+>Wenn Sie die Multi-Factor Authentication (MFA) für Ihre [!DNL Dynamics]-Synchronisierung aktiviert haben, müssen Sie sie deaktivieren, damit [!DNL Dynamics] ordnungsgemäß mit Marketo synchronisieren können. Weitere Informationen erhalten Sie beim [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
 
 ## Ausführen von „Synchronisierung validieren“ in Marketo {#run-validate-sync-in-marketo}
 
@@ -41,11 +41,11 @@ Es ist sehr wichtig, das Tool Synchronisierung validieren auszuführen, um siche
    >
    >Wenn Sie zuvor bereits eine Synchronisierung durchgeführt haben **liest** CRM) in der linken Struktur **[!DNL Microsoft Dynamics]** und die Daten im obigen Formular können vorab ausgefüllt werden.
 
-1. Wenn alles in Ordnung ist, generiert die Überprüfungssynchronisierung eine Checkliste voller grüner Auswahlfelder ![&#x200B; - &#x200B;](assets/check.png).
+1. Wenn alles in Ordnung ist, generiert die Überprüfungssynchronisierung eine Checkliste voller grüner Auswahlfelder ![ - ](assets/check.png).
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Wenn ein ![&#x200B; angezeigt wird - &#x200B;](assets/delete.png), weist dieser Schritt ein Problem auf. Siehe [Beheben von  [!DNL Dynamics] -Überprüfungsproblemen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md), um das Problem zu identifizieren und zu beheben. Führen Sie dann die Synchronisierungsvalidierungsschritte erneut aus, bis das Ergebnis wie im Bild oben aussieht.
+1. Wenn ein ![ angezeigt wird - ](assets/delete.png), weist dieser Schritt ein Problem auf. Siehe [Beheben von  [!DNL Dynamics] -Überprüfungsproblemen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md), um das Problem zu identifizieren und zu beheben. Führen Sie dann die Synchronisierungsvalidierungsschritte erneut aus, bis das Ergebnis wie im Bild oben aussieht.
 
    >[!CAUTION]
    >

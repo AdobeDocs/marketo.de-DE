@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Facebook von Marketo aus eine benutzerdefi
 title: Erstellen einer benutzerdefinierten Zielgruppe in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 3%
 >[!PREREQUISITES]
 >
 >* [Hinzufügen [!DNL Facebook] Benutzerdefinierte Zielgruppen als LaunchPoint-](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} im Administratorbereich.
->* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in Ihrem [!DNL Facebook].
+>* [Akzeptieren [!DNL Facebook] der benutzerdefinierten Zielgruppenbedingungen von ](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in Ihrem [!DNL Facebook].
 
 >[!TIP]
 >
@@ -52,7 +52,7 @@ ht-degree: 3%
 
    >[!TIP]
    >
-   >Möchten Sie eine neue Zielgruppe durch eine vorhandene austauschen, die derzeit mit einem Anzeigensatz oder einer Gruppe verknüpft ist? Aktivieren Sie **[!UICONTROL Kontrollkästchen]** Vorhandene Zielgruppe ersetzen). Dadurch wird **ersetzte Zielgruppe** gelöscht.
+   >Um eine neue Zielgruppe durch eine vorhandene zu ersetzen, die derzeit mit einem Anzeigensatz oder einer Gruppe verknüpft ist, aktivieren Sie das Kontrollkästchen **[!UICONTROL Vorhandene Zielgruppe ersetzen]**. Dadurch wird **ersetzte Zielgruppe** gelöscht.
 
 1. Danach wird das Statusdialogfeld aktualisiert.
 

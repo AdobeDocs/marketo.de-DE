@@ -4,9 +4,9 @@ description: Erfahren Sie im letzten Schritt der Professional Edition, wie Sie M
 title: 'Schritt 3 von 3: Marketo und Salesforce verbinden (Professional)'
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ In diesem Artikel konfigurieren Sie Marketo Engage für die Synchronisierung mit
 
    >[!NOTE]
    >
-   >Stellen Sie sicher[&#x200B; dass Sie in Marketo alle nicht &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Felder vor dem Synchronisierungsbenutzer ausblenden, bevor Sie auf **[!UICONTROL Felder synchronisieren]** klicken. Nachdem Sie auf Felder synchronisieren geklickt haben, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
+   >[Blenden Sie in Marketo alle nicht ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Felder aus, bevor Sie auf „Felder **[!UICONTROL &quot;]**. Nachdem Sie auf Felder synchronisieren geklickt haben, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
 
 1. Geben Sie die in Teil 2 der Salesforce-Konfiguration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) erstellten Anmeldeinformationen für den Salesforce-Benutzer ein und klicken Sie auf **[!UICONTROL Felder synchronisieren]**.
 
@@ -100,7 +100,7 @@ Marketo stellt Statusmeldungen für die [!DNL Salesforce] im Admin-Bereich berei
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-Sie haben gerade die Konfiguration einer der leistungsfähigsten Funktionen von Marketo abgeschlossen, los geht&#39;s!
+Sie haben die Konfiguration einer der leistungsfähigsten Funktionen von Marketo abgeschlossen.
 
 >[!MORELIKETHIS]
 >

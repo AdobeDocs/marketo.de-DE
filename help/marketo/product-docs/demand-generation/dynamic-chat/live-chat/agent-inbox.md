@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über den Agenten-Posteingang, in dem Live-Chat-A
 title: Agenten-Posteingang
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '596'
 ht-degree: 1%
 
 ---
@@ -62,7 +62,7 @@ Agenten können eine Sitzung manuell beenden, indem sie einfach auf die Schaltfl
 >
 >Diese Funktion ist Teil der generativen KI, die über das Dynamic Chat Prime-Abonnement verfügbar ist. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-Shortcuts, unterstützt durch die generative AI [Response Library](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), sind eine hervorragende Möglichkeit, während des Chats mit einem Besucher schnell Hilfe zu erhalten. Geben Sie einfach einen Schrägstrich (`/`) in das Textfeld ein und wählen Sie `ask` oder `search`.
+Tastaturbefehle, unterstützt durch die generative KI [Antwortbibliothek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), sind eine effektive Möglichkeit, Hilfe beim Chat mit einem Besucher zu erhalten. Geben Sie in das Textfeld einen Schrägstrich (`/`) ein und wählen Sie `ask` oder `search` aus.
 
 ![](assets/agent-inbox-7.png)
 

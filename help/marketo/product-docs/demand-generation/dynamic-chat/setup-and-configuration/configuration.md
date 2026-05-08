@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie das Erscheinungsbild Ihres Dynamic Chat-Dialo
 title: Konfiguration
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '414'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ Klicken Sie auf die Dropdown-Liste, um jedes Mal, wenn der Chatbot in einer Sitz
 
 **Aktivieren von Poke-Nachrichten auf Mobilgeräten**
 
-Wählen Sie den Schieberegler aus, um „Poke“ zu aktivieren - was die Eröffnungsfrage neben dem Chat-Symbol anzeigt, ohne dass der Besucher darauf klicken muss, um es zu sehen - für Besucher, die von einem Mobilgerät aus chatten.
+Wählen Sie den Schieberegler aus, um „Poke“ zu aktivieren, der die Eröffnungsfrage neben dem Chat-Symbol anzeigt, ohne dass der Besucher darauf klicken muss, um es zu sehen, für Besucher, die von einem Mobilgerät aus chatten.
 
 ![](assets/configuration-6.png)
 
@@ -72,7 +72,7 @@ Klicken Sie auf **Datenschutz**, um die URL der Datenschutzrichtlinie Ihrer Site
 
 ## Registerkarte „Installation“ {#installation-tab}
 
-Damit der Chatbot auf Ihrer Website angezeigt wird, müssen Sie zunächst das Dynamic Chat JavaScript-Snippet installieren. Klicken Sie auf diese Registerkarte, um den erforderlichen Code zu suchen/kopieren. Wenn Sie mit diesem Vorgang nicht vertraut sind, wenden Sie sich bitte an Ihr Web-Team oder Ihre IT-Abteilung.
+Damit der Chatbot auf Ihrer Website angezeigt wird, müssen Sie zunächst das Dynamic Chat JavaScript-Snippet installieren. Klicken Sie auf diese Registerkarte, um den erforderlichen Code zu suchen/kopieren. Wenn Sie mit diesem Vorgang nicht vertraut sind, wenden Sie sich an Ihr Web-Team oder Ihre IT-Abteilung, um Hilfe zu erhalten.
 
 ![](assets/configuration-9.png)
 
@@ -82,4 +82,4 @@ Damit der Chatbot auf Ihrer Website angezeigt wird, müssen Sie zunächst das Dy
 
 >[!NOTE]
 >
->Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenn Sie Hilfe zu HTML benötigen, wenden Sie sich bitte an einen Web-Entwickler.
+>Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Unterstützung zu HTML erhalten Sie von einem Web-Entwickler.

@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über das Anpassen von interaktiven Webinaren in 
 title: Anpassung interaktiver Webinare
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '807'
 ht-degree: 0%
 
 ---
@@ -141,4 +141,4 @@ Wählen Sie **Übernehmen**, um die Änderungen zu speichern, oder **Auf Standar
 
 * Gastgeber können Themen während der Raumerstellung auswählen oder sie später auf der Zimmerinformationsseite aktualisieren (**Zimmeroberleiste** > **Mehr Menü** > **Zimmerinformationen anzeigen**).
 
-Weitere Informationen zu [Designs](https://helpx.adobe.com/de/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Weitere Informationen zu [Designs](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

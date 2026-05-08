@@ -3,9 +3,9 @@ description: Erfahren Sie mehr über Live-Chat für Echtzeit-Gespräche zwischen
 title: Live-Chat – Übersicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '916'
 ht-degree: 2%
 
 ---
@@ -16,17 +16,17 @@ Live-Chat ermöglicht Besuchenden der Website, mit Ihren Vertriebsmitarbeitern i
 
 >[!NOTE]
 >
->Für diejenigen, die zum Dynamic Chat Select-Paket gehören, ist der Live-Chat eine Testfunktion mit einer Lebenszeitbegrenzung von 100 Interaktionen. Wenn diese Grenze erreicht ist, werden alle Besucherinnen und Besucher, die einen Chat mit einem Live-Agenten anfordern, nicht verbunden sein und stattdessen die globale Fallback-Nachricht erhalten. Wenden Sie sich zur Erhöhung des Limits an Ihren Adobe-Kundenbetreuer, um die Paketupgradeoptionen zu besprechen.
+>Für diejenigen, die zum Dynamic Chat Select-Paket gehören, ist der Live-Chat eine Testfunktion mit einer Lebenszeitbegrenzung von 100 Interaktionen. Wenn diese Grenze erreicht ist, werden alle Besucherinnen und Besucher, die einen Chat mit einem Live-Agenten anfordern, nicht verbunden sein und stattdessen die globale Fallback-Nachricht erhalten. Wenden Sie sich zur Erhöhung des Limits an Ihren Adobe-Kundenbetreuer, um die Paket-Upgrade-Optionen zu besprechen.
 
 ## Live-Chat-Agenten hinzufügen {#add-live-chat-agents}
 
-Um mit dem Live-Chat zu beginnen, müssen Sie Ihre Live-Chat-Agenten als [Benutzer in der Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} hinzufügen und ihnen die [Live-Chat-Berechtigung](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} erteilen. Danach können Sie eine &quot;[-Chat-Karte“ &#x200B;](#using-the-live-chat-card) einem neuen oder vorhandenen Dialogfeld hinzufügen.
+Um mit dem Live-Chat zu beginnen, müssen Sie Ihre Live-Chat-Agenten als [Benutzer in der Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} hinzufügen und ihnen die [Live-Chat-Berechtigung](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} erteilen. Danach können Sie eine &quot;[-Chat-Karte“ ](#using-the-live-chat-card) einem neuen oder vorhandenen Dialogfeld hinzufügen.
 
 Wenn Besucherinnen und Besucher über Ihr Dialogfeld einen Chat mit einem Agenten anfordern, haben Agenten mehrere [Benachrichtigungsoptionen](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. Wenn er auf die Benachrichtigung klickt, gelangt er zu seinem [Agenten-Posteingang](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} wo er mit dem Besucher chatten kann.
 
 >[!NOTE]
 >
->Der Live-Agent-Avatar verwendet das Profilbild aus dem Adobe-Kontoprofil des Agenten. Gehen Sie wie folgt vor, um [&#x200B; Bild &#x200B;](https://helpx.adobe.com/de/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} aktualisieren.
+>Der Live-Agent-Avatar verwendet das Profilbild aus dem Adobe-Kontoprofil des Agenten. Gehen Sie wie folgt vor, um [ Bild ](https://helpx.adobe.com/de/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} aktualisieren.
 
 ## Verwenden der Live-Chat-Karte {#using-the-live-chat-card}
 
@@ -41,7 +41,7 @@ Verwenden Sie die Live-Chat-Karte in [Stream-Designer](/help/marketo/product-doc
 ### Bewährte Methoden {#best-practices}
 
 * Verwenden Sie vor dem Live-Chat eine Fragekarte, um den Besucher zu fragen, ob er eine Verbindung herstellen möchte.
-* Nachdem der Besucher der Verbindung zugestimmt hat, verwenden Sie die Datenerfassungskarte, um einige seiner Informationen zu erfassen, z. B. Vor-/Nachname, E-Mail-Adresse, Stellenbezeichnung usw. (es wird empfohlen, mindestens Vornamen und E-Mail-Adresse anzufordern).
+* Nachdem der Besucher der Verbindung zugestimmt hat, verwenden Sie die Datenerfassungskarte, um einige seiner Informationen zu erfassen, z. B. Vorname, Nachname, E-Mail-Adresse, Stellenbezeichnung usw. (es wird empfohlen, mindestens Vornamen und E-Mail-Adresse anzufordern).
 
 ## Live-Chat-Kartenoptionen {#live-chat-card-options}
 
@@ -94,7 +94,7 @@ Wenn Kundendienstmitarbeiter keine Browser-Benachrichtigungen erhalten, selbst n
 
 ### Wenn ein Live-Chat an einen Agenten weitergeleitet wird {#when-a-live-chat-is-routed-to-an-agent}
 
-Wenn ein Live-Chat an einen Agenten weitergeleitet wird, sehen sie ein blaues Banner am oberen Bildschirmrand, das sie auffordert, zu akzeptieren, sowie einen Benachrichtigungston, um verpasste Benachrichtigungen zu verhindern.
+Wenn ein Live-Chat an einen Agenten weitergeleitet wird, wird am oberen Bildschirmrand ein blaues Banner mit der Aufforderung zum Akzeptieren sowie ein Benachrichtigungssound angezeigt, um verpasste Benachrichtigungen zu vermeiden.
 
 ![](assets/live-chat-overview-3.png)
 
@@ -115,7 +115,7 @@ Wenn eine Aktion wie eine Besprechungsbuchung oder ein Live-Chat fehlschlägt, w
 
 * Die Kundendienstmitarbeiter müssen innerhalb von 100 Sekunden antworten, bevor die Nachricht „Chat akzeptieren“ ihre Zeit verliert. Danach erhalten Besucher die [Fallback-Nachricht](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Bei Dynamic Chat Prime-Abonnentinnen und -Abonnenten, bei denen die Routing-Option auf **Team** eingestellt ist, wird ein weiterer Agent ausprobiert, bevor die Fallback-Nachricht angezeigt wird.
 * Derzeit gibt es eine Beschränkung von 10 Live-Chats pro Agent.
-* Der Agent-Posteingang ist nur für Live-Chat-Unterhaltungen. Wenn der Chat von einem Agenten nicht akzeptiert wird, wird er nicht im Agenten-Posteingang angezeigt, da er nicht als Live-Chat gilt.
+* Der Agent-Posteingang dient ausschließlich Live-Chat-Konversationen. Wenn der Chat von einem Agenten nicht akzeptiert wird, wird er nicht im Agenten-Posteingang angezeigt, da er nicht als Live-Chat gilt.
 * Auf der Registerkarte Konversation wird die gesamte Konversation angezeigt, sowohl Live- als auch automatisierter Chat. Wenn also eine Konversation vom Agenten nicht akzeptiert wird, wird diese auf der Registerkarte Konversation aufgeführt. Auf der Registerkarte Konversation gibt es eine Verzögerung von bis zu 24 Stunden, da dies nicht in Echtzeit geschieht. Der Agent-Posteingang ist jedoch in Echtzeit.
 * Wenn nach 10 Minuten keine Chataktivität mehr stattfindet (entweder durch den Agenten oder den Besucher), wird der Chat durch eine Zeitüberschreitung unterbrochen.
 * Wenn ein Agent sein Profilbild (in account.adobe.com) _während_ eines Live-Chats ändert, wird dem Besucher immer noch das alte Bild angezeigt, bis der Chat beendet ist. Der Besucher sieht das neue Bild, wenn er sich das nächste Mal anmeldet und den Agenten erhält.

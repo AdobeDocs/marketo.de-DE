@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie den Nachnamen und Firmennamen der Standardper
 title: Festlegen des standardmäßigen Nachnamens einer Person und Firmennamens
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '149'
 ht-degree: 10%
 
 ---
@@ -31,4 +31,4 @@ ht-degree: 10%
    >
    >Marketo Engage weist nur dann einen Standardwert zu, wenn der Datensatz anfänglich mit Salesforce synchronisiert wird, und nur dann, wenn eines der erforderlichen Felder leer ist.
 
-Und das war&#39;s! Jedes Mal, wenn einer Person ein Nachname und/oder ein Firmenname fehlt, fügt Marketo den Standardwert hinzu, wenn der Datensatz synchronisiert wird.
+Jedes Mal, wenn einer Person ein Nachname oder ein Firmenname fehlt, fügt Marketo den Standardwert hinzu, wenn der Datensatz synchronisiert wird.

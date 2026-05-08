@@ -3,9 +3,9 @@ description: In Schritt 3 erfahren Sie, wie Sie Marketo On-Premise mit Dynamics 
 title: Installieren von Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premise Schritt 3 von 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '409'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 4%
 
    >[!CAUTION]
    >
-   >Stellen Sie sicher, dass Ihre Anmeldedaten korrekt sind, da wir die nachfolgenden Schemaänderungen nach der Übermittlung nicht rückgängig machen können. Wenn falsche Anmeldeinformationen gespeichert werden, müssen Sie ein neues Marketo-Abonnement erhalten.
+   >Überprüfen Sie, ob Ihre Anmeldeinformationen korrekt sind. Nachfolgende Schemaänderungen können nach der Übermittlung nicht mehr rückgängig gemacht werden. Wenn falsche Anmeldeinformationen gespeichert werden, ist ein neues Marketo-Abonnement erforderlich.
 
 1. Geben Sie **Benutzername**, **Kennwort** eine [!DNL Microsoft Dynamics] **URL** und eine **Client-ID/-** ein. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
@@ -51,7 +51,7 @@ ht-degree: 4%
    >
    >* Wenn Ihre Marketo vor Oktober 2020 bereitgestellt wurde, sind Client-ID und Geheimnis optionale Felder. Andernfalls sind sie obligatorisch. Der Erhalt dieser Informationen hängt davon ab, welche Version von MSD Sie verwenden.
    >* Der Benutzername in Marketo muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann `user@domain.com` oder DOMAIN\user lauten.
-   >* Wenn Sie die URL nicht kennen, ([&#x200B; Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >* Wenn Sie die URL nicht kennen, ([ Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!TIP]
    >
@@ -73,7 +73,7 @@ ht-degree: 4%
 
 ## Synchronisieren von Feldern für einen benutzerdefinierten Filter {#sync-fields-for-a-custom-filter}
 
-Wenn Sie einen benutzerdefinierten Filter erstellt haben, müssen Sie die neuen Felder auswählen, die mit Marketo synchronisiert werden sollen.
+Wenn Sie einen benutzerdefinierten Filter erstellt haben, wechseln Sie zu und wählen Sie die neuen Felder aus, die mit Marketo synchronisiert werden sollen.
 
 1. Gehen Sie zu Admin und wählen Sie **[!DNL Microsoft Dynamics]** aus.
 

@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo ein Ereignis für die ON24-Integra
 title: Erstellen eines Ereignisses in Marketo
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '151'
 ht-degree: 6%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 6%
 
 Ein Marketo-Event verfolgt den Fortschritt Ihrer Mitarbeiter in einem Programm. Es überträgt Registrierungsinformationen und ruft mithilfe des ON24-Adapters Anwesenheitsinformationen ab. Das Ereignis erfasst den Status Ihrer Personen, während sie es durchlaufen.
 
-So werden die Daten ausgetauscht:
+Im Folgenden wird gezeigt, wie die Daten ausgetauscht werden:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Wenn Sie das Marketo-Ereignis erstellen, wählen **als** „Webinar“ aus. Sie können diesen Kanal in Admin bearbeiten und einen neuen Kanal erstellen. Wenn Sie einen neuen Kanal erstellen, muss er vom Typ **Ereignis mit Webinar** sein, damit die Integration funktioniert. Weitere Informationen [&#x200B; Sie unter &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} eines Programmkanals .
+Wenn Sie das Marketo-Ereignis erstellen, wählen **als** „Webinar“ aus. Sie können diesen Kanal in Admin bearbeiten und einen neuen Kanal erstellen. Wenn Sie einen neuen Kanal erstellen, muss er vom Typ **Ereignis mit Webinar** sein, damit die Integration funktioniert. Weitere Informationen [ Sie unter ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} eines Programmkanals .
 
 Als Nächstes konfigurieren Sie [Ereigniseinstellungen konfigurieren und Marketo mit Ihrem Webinar synchronisieren](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
 

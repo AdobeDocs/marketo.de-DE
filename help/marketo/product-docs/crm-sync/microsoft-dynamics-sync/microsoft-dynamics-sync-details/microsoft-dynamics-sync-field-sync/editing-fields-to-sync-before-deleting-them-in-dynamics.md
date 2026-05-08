@@ -3,7 +3,7 @@ description: Erfahren Sie, wie Sie Felder bearbeiten, die in Marketo synchronisi
 title: Bearbeiten von Feldern, die vor dem Löschen in Dynamics synchronisiert werden sollen
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 4%
@@ -18,7 +18,7 @@ Manchmal empfiehlt es sich, Felder in [!DNL Dynamics] zu löschen. Marketo speic
 
    ![](assets/sync-before-deleting-them-in-dynamics-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Integration] auf **[!UICONTROL Microsoft Dynamics]**.
+1. Klicken [!UICONTROL  unter „Integration] auf **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/sync-before-deleting-them-in-dynamics-2.png)
 
@@ -44,4 +44,4 @@ Manchmal empfiehlt es sich, Felder in [!DNL Dynamics] zu löschen. Marketo speic
 >
 >Wenn die Synchronisierung nicht gestoppt wird, bevor ein Feld in [!DNL Dynamics] gelöscht wurde, kann es zu Fehlern bei der Synchronisierung kommen. Wenn dies der Fall ist, wird die Synchronisierung beendet. Vor der Wiederaufnahme muss der Marketo-Administrator &quot;[!UICONTROL Zu synchronisierende Felder auswählen]&quot; (siehe oben) überprüfen und auf **[!UICONTROL Speichern]** klicken, damit die Synchronisierung die Schemaänderungen akzeptiert.
 
-Denken Sie daran, die Synchronisierung zu aktivieren, nachdem die Änderungen gespeichert wurden!
+Denken Sie daran, die Synchronisierung nach dem Speichern der Änderungen zu aktivieren.

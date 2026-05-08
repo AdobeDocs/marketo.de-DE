@@ -4,10 +4,10 @@ description: Erfahren Sie, wie die Felder für Lead- und Kontoinhaber von Salesf
 title: SFDC-Synchronisierung - Synchronisierung von Lead/Kontoinhaber
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 14%
+source-wordcount: '218'
+ht-degree: 15%
 
 ---
 
@@ -37,7 +37,7 @@ Absolut, verwenden Sie einfach die [Besitzer ändern](/help/marketo/product-docs
 
 >[!NOTE]
 >
->Sie können die Besitzerinformationen nicht über die Seite [Verwenden der Personendetailseite“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+>Sie können die Besitzerinformationen nicht über die Seite [Verwenden der Personendetailseite“ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ## Was kann ich mit diesen Daten tun? {#what-can-i-do-with-this-data}
 
@@ -48,4 +48,3 @@ Es gibt viele Gründe, diese Daten zu verwenden, z. B.
 * Zuweisungsregeln (und Neuzuweisungsregeln) in Marketo
 * Verwenden Sie sie in den [Besitzer ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Person mit SFDC synchronisieren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} und [Aufgabe erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} Flussaktionen
 
-Marketo verfügt über eine hervorragende [!DNL Salesforce]. Niemand sonst macht es so gut!

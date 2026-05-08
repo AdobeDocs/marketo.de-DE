@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Marketo-Felder zu Salesforce Professional Edi
 title: Schritt 1 von 3 - Marketo-Felder zu Salesforce hinzufügen (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '767'
 ht-degree: 9%
 
 ---
@@ -254,7 +254,6 @@ Ein benutzerdefiniertes Feld auf dem Lead-Objekt in [!DNL Salesforce] sollte ein
 1. Wiederholen Sie die obigen Schritte für alle anderen Felder, die Sie erstellt haben.
 1. Klicken **[!UICONTROL abschließend]** Speichern“.
 
-Ganz einfach, oder?
 
 >[!MORELIKETHIS]
 >

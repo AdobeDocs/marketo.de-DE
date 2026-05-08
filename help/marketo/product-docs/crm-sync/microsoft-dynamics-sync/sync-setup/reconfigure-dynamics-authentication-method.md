@@ -3,7 +3,7 @@ description: Erfahren Sie, wie Sie die Dynamics-Authentifizierungsmethode in Mar
 title: 'Authentifizierungsmethode  [!DNL Dynamics] '
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 2%
@@ -37,7 +37,7 @@ Gehen Sie wie folgt vor, um Ihre [!DNL Dynamics] Authentifizierungsmethode zu ak
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
-1. Wählen Sie die gewünschte neue Authentifizierungsmethode aus (in diesem Beispiel wählen wir Web-API aus).
+1. Wählen Sie die gewünschte neue Authentifizierungsmethode aus (in diesem Beispiel ist Web-API ausgewählt).
 
    ![](assets/reconfigure-dynamics-authentication-method-4.png)
 
@@ -48,7 +48,7 @@ Gehen Sie wie folgt vor, um Ihre [!DNL Dynamics] Authentifizierungsmethode zu ak
    >[!NOTE]
    >
    >* Die spezifischen Felder variieren je nach ausgewählter Authentifizierungsmethode, und das Formular wird je nach vorheriger Authentifizierungsmethode automatisch aktualisiert.
-   >* Wenn Sie zuvor bereits synchronisiert haben, werden die Daten im obigen Formular möglicherweise vorab ausgefüllt. Geben Sie alle Anmeldeinformationen erneut ein, um sicherzustellen, dass die richtigen Werte verwendet werden.
+   >* Wenn Sie zuvor bereits synchronisiert haben, werden die Daten im obigen Formular möglicherweise vorab ausgefüllt. Geben Sie alle Anmeldeinformationen erneut ein, um sicherzustellen, dass die richtigen Werte vorliegen.
 
 1. Wenn alles in Ordnung ist, generiert die Option Synchronisierung überprüfen alle grünen ![](assets/green-check.png). Überprüfen Sie die Nachricht und klicken Sie auf **[!UICONTROL Umschalten]**, um die Authentifizierungsmethode zu aktualisieren.
 

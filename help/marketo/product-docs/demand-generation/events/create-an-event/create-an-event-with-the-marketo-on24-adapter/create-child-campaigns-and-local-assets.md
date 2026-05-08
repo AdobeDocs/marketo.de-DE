@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo untergeordnete Kampagnen und lokal
 title: Erstellen untergeordneter Kampagnen und lokaler Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '688'
 ht-degree: 3%
 
 ---
@@ -65,7 +65,7 @@ Beispiele für untergeordnete Kampagnen sind eine Einladungskampagne, eine Regis
 **Anmeldung/Bestätigung (Trigger Campaign)**
 
 * Intelligente Liste
-* Trigger basierend auf **Formular ausfüllen**. Denken Sie daran, die Landingpage, auf der sich das Formular befindet, mithilfe von **Einschränkung hinzufügen** einzubeziehen, insbesondere wenn dasselbe Formular auf mehreren Landingpages verwendet wird.
+* Trigger basierend auf **Formular ausfüllen**. Schließen Sie die Landingpage, auf der sich das Formular befindet, mithilfe von **Einschränkung hinzufügen** ein, insbesondere wenn dasselbe Formular auf mehreren Landingpages verwendet wird.
 
 >[!CAUTION]
 >
@@ -95,7 +95,7 @@ Der **[!UICONTROL E-Mail senden]** Flussschritt MUSS der zweite Schritt sein. Di
 >
 >Wenn der Person ein Registrierungsfehler zurückgegeben wird, erhält sie die E-Mail-Bestätigung nicht.
 
-Ihr nächster Schritt besteht darin, [Ihre ON24-Ereignisintegration zu &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
+Ihr nächster Schritt besteht darin, [Ihre ON24-Ereignisintegration zu ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über den Status der Webinar-Programme bei der In
 title: Grundlegendes zu Webinar-Programmstatus
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '426'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Im Folgenden finden Sie eine kurze Beschreibung der Programmstatus, die mit dem 
 
 **Eingeladen** - Verwenden Sie diesen Status, um Personen zur Veranstaltung hinzuzufügen.
 
-**Genehmigung ausstehend** - Verwenden Sie diesen Status, um den Versand einer Bestätigungs-E-Mail an Ihre Kontaktpersonen zu stoppen. Weitere Informationen finden Sie unter „Registranten manuell genehmigen[&#x200B; in &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}-24-Ereignisregistrierungsaktualisierungen.
+**Genehmigung ausstehend** - Verwenden Sie diesen Status, um den Versand einer Bestätigungs-E-Mail an Ihre Kontaktpersonen zu stoppen. Weitere Informationen finden Sie unter „Registranten manuell genehmigen[ in ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}-24-Ereignisregistrierungsaktualisierungen.
 
 **Warteliste** - Verwenden Sie diesen Status, damit einige Personen warten, bis weitere Lizenzen verfügbar sind.
 
@@ -51,7 +51,7 @@ Im Folgenden finden Sie eine kurze Beschreibung der Programmstatus, die mit dem 
 
 >[!NOTE]
 >
->Damit Marketo den Status „No Show“ abrufen kann, müssen die Personen (in Marketo *registriert*. Wir können keine Sendungen erfassen, die aus dem On24-Daten-Feed stammen.
+>Damit Marketo den Status „No Show“ abrufen kann, müssen die Personen (in Marketo *registriert*. Keine Anzeigen, die vom On24-Daten-Feed stammen, können nicht erfasst werden.
 
 >[!MORELIKETHIS]
 >

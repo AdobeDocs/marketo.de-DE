@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie ein interaktives Webinar testen können, bevo
 title: Testen eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '384'
 ht-degree: 2%
 
 ---
@@ -18,13 +18,13 @@ Interaktive Webinare beinhalten die Verwendung von Adobe Connect als Webinar-Pro
 
 Jedes interaktive Webinar kann als Test-Webinar verwendet werden. Der Test kann durchgeführt werden, indem nicht mehr als 10 Hosts und Moderatoren (Teilnehmer) hinzugefügt werden.
 
-Der Workflow zum Erstellen eines Test-Webinars ist im Hinblick auf das Veranstaltungsprogramm für [&#x200B; Webinare identisch mit &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) Erstellen eines anderen Webinars. Es wird empfohlen, das für die Lieferung gewählte Datum weit in der Zukunft festzulegen.
+Der Workflow zum Erstellen eines Test-Webinars ist im Hinblick auf das Veranstaltungsprogramm für [ Webinare identisch mit ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) Erstellen eines anderen Webinars. Es wird empfohlen, das für die Lieferung gewählte Datum weit in der Zukunft festzulegen.
 
 >[!CAUTION]
 >
 >Wenn Sie das Datum und die Uhrzeit für Ihr Test-Webinar zu früh festlegen und dieses Datum/diese Uhrzeit verstreichen, berücksichtigt interaktive Webinare das Webinar und zieht eine Gutschrift von Ihrer Lizenz ab.
 
-Eine Gutschrift wird für das Test-Webinar gesperrt. Sie kann jedoch genutzt werden, indem entweder das Programm für die Verwendung mit einem tatsächlichen Webinar neu geplant oder das Test-Webinar-Programm einfach gelöscht wird.
+Eine Gutschrift wird für das Test-Webinar gesperrt. Sie kann jedoch genutzt werden, indem entweder das Programm für die Verwendung mit einem tatsächlichen Webinar neu geplant oder das Test-Webinar-Programm gelöscht wird.
 
 Nach der Erstellung und Konzeption des Webinars können Moderator, Co-Moderator und/oder Moderator den Versand gemeinsam proben. Externe Einladungen können auch als Co-Hosts hinzugefügt werden, um an den Tests teilnehmen zu können. Die Tests können auf dieselbe Weise durchgeführt werden wie das Webinar, sodass die Gutachter einen Eindruck davon erhalten, wie das Webinar vor einer tatsächlichen Zielgruppe abläuft. Alle Funktionen des Live-Webinars stehen auch im Test-Webinar zur Verfügung. Dies kann bis zu 15 Minuten vor Beginn des Webinars durchgeführt werden.
 

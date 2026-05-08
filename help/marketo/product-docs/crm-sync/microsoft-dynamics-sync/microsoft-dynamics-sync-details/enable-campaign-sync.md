@@ -3,10 +3,10 @@ description: Erfahren Sie, wie Sie die Kampagnensynchronisierung zwischen Micros
 title: Aktivieren von Kampagnensynchronisierung
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 7%
+source-wordcount: '111'
+ht-degree: 8%
 
 ---
 
@@ -38,7 +38,7 @@ Mit dieser Option kann Marketo Mitglieder zu [!DNL MS Dynamics] Campaign hinzufÃ
 
    ![](assets/enable-campaign-sync-4.png)
 
-Da haben Sie es. Geben Sie der Synchronisierung einfach etwas Zeit, um die Daten aus [!DNL Microsoft Dynamics] abzurufen, und Sie kÃ¶nnen loslegen.
+Geben Sie der Synchronisierung etwas Zeit, um die Daten aus [!DNL Microsoft Dynamics] abzurufen.
 
 >[!NOTE]
 >

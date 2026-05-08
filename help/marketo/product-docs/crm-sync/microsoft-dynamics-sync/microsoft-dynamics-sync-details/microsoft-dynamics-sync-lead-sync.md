@@ -4,7 +4,7 @@ description: Erfahren Sie, wie die Lead-Synchronisierung zwischen Microsoft Dyna
 title: Microsoft Dynamics-Synchronisierung - Lead-Synchronisierung
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # [!DNL Microsoft Dynamics]: Lead-Synchronisation {#microsoft-dynamics-sync-lead-sync}
 
-Die Synchronisierung von Marketo zu [!DNL Dynamics] ist extrem leistungsstark. Im Folgenden finden Sie die Details:
+Die Synchronisierung von Marketo mit [!DNL Dynamics] ist leistungsstark. Im Folgenden finden Sie die Details:
 
 ## Wie werden die Details zwischen den beiden Systemen synchron gehalten? {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -25,7 +25,7 @@ Die Synchronisation erfolgt bidirektional. Wenn Sie Änderungen an einem Lead in
 
 ## Was passiert, wenn Änderungen am selben Feld in beiden Systemen gleichzeitig vorgenommen werden? (Datenkollision) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Obwohl dies selten ist, wird Marketo für Personen (Leads) und [!DNL Dynamics] für Kontakte gewinnen. Der Grund dafür ist, dass wir die Marketing-Abteilung für die Menschen als verbindlich betrachten, während das offizielle System der Aufzeichnung für Kontakte in der Verkaufs- (CRM)-Abteilung ist.
+Obwohl dies selten ist, wird Marketo für Personen (Leads) und [!DNL Dynamics] für Kontakte gewinnen. Der Grund dafür ist, dass die Marketing-Abteilung für die Menschen als maßgeblich gilt, während das offizielle System der Kontaktaufnahme in der Verkaufsabteilung (CRM) ist.
 
 ## Kann ich mit Marketo einen Lead in [!DNL Dynamics] erstellen? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
@@ -41,7 +41,7 @@ Nein, die automatische Hintergrundsynchronisierung ist die einzige Möglichkeit,
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
-Sie können [&#x200B; Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
+Sie können [ Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
 
 ## Wird Marketo die [!DNL Dynamics] Validierungsregeln einhalten? {#will-marketo-respect-the-dynamics-validation-rules}
 

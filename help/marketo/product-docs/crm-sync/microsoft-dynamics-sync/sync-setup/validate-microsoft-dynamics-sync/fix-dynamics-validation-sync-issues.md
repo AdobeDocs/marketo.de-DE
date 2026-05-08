@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Synchronisierungsprobleme bei der Dynamics-Va
 title: Beheben von Synchronisierungsproblemen mit der Dynamics-Validierung
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '520'
 ht-degree: 8%
 
 ---
@@ -103,7 +103,7 @@ Wenn Sie hier ein ![x](assets/delete.png) haben, stellen Sie sicher, dass keiner
 
 ## Synchronisierter Benutzer ist der Lösung von Marketo zugeordnet {#sync-user-is-assigned-to-the-marketo-solution}
 
-Wenn Sie hier ein ![x](assets/delete.png) haben, stellen Sie sicher, dass der Benutzer „Synchronisieren“ auf der Marketo-Standardseite in Microsoft Dynamics zugewiesen ist.
+Wenn Sie hier ein ![x](assets/delete.png) haben, überprüfen Sie, ob der Benutzer „Synchronisieren“ auf der Marketo-Standardseite in Microsoft Dynamics zugewiesen ist.
 
 1. Klicken Sie in Dynamics auf das Symbol Einstellungen und wählen Sie **Erweiterte Einstellungen** aus.
 
@@ -119,7 +119,7 @@ Wenn Sie hier ein ![x](assets/delete.png) haben, stellen Sie sicher, dass der Be
 
 ## Synchronisierter Benutzer stimmt mit Benutzernamen und Passwort überein {#sync-user-matches-username-and-password}
 
-Wenn Sie hier ein ![x](assets/delete.png) haben, stellen Sie sicher, dass Sie den richtigen Synchronisierungsbenutzer im Feld Marketo-Benutzer im Schritt Standardeinrichtung der Marketo-Konfiguration in Microsoft Dynamics zuweisen.
+Wenn Sie hier ein ![x](assets/delete.png) haben, weisen Sie den richtigen Synchronisierungsbenutzer im Feld Marketo-Benutzer im Schritt Standardeinrichtung der Marketo-Konfiguration in Microsoft Dynamics zu.
 
 >[!MORELIKETHIS]
 >

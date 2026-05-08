@@ -4,16 +4,16 @@ description: Lernen Sie aus einer beispielhaften ON24-Ereignisintegration mit Ma
 title: Beispiel für die ON24-Ereignisintegration
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '398'
 ht-degree: 2%
 
 ---
 
 # Beispiel für die ON24-Ereignisintegration {#example-on-event-integration}
 
-Hier ist ein Beispielereignis, einschließlich Kampagnen, für ein ON24-Webinar. Achten Sie beim Erstellen des Ereignisses darauf, Ihre Kampagnen zu testen, bevor Sie sie ausführen.
+Im Folgenden finden Sie ein Beispielereignis, einschließlich Kampagnen, für ein ON24-Webinar. Wenn Sie Ihr Ereignis erstellen, testen Sie Ihre Kampagnen, bevor Sie sie ausführen.
 
 ## Erstellen eines neuen Ereignisses in Marketing-Aktivitäten {#create-a-new-event-in-marketing-activities}
 
@@ -55,7 +55,7 @@ Hier ist ein Beispielereignis, einschließlich Kampagnen, für ein ON24-Webinar.
 
 * **Smart-Liste**
 
-   * Trigger der Kampagne basierend auf **[!UICONTROL Ausfülltes Formular]**. Denken Sie daran, die Landingpage, auf der sich das Formular befindet, mithilfe von **[!UICONTROL Einschränkung hinzufügen]** einzubeziehen, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
+   * Trigger der Kampagne basierend auf **[!UICONTROL Ausfülltes Formular]**. Schließen Sie die Landingpage, auf der sich das Formular befindet, mithilfe von **[!UICONTROL Einschränkung hinzufügen]** ein, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
 
 >[!CAUTION]
 >

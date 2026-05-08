@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie Marketo-Felder vor dem Verbinden zu Veeva CRM
 title: 'Schritt 1 von 3: Marketo-Felder zu  [!DNL Veeva]  hinzufügen'
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '526'
 ht-degree: 8%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 8%
 >
 >Ihre [!DNL Veeva] CRM-Instanz muss Zugriff auf Salesforce-APIs haben, um Daten zwischen Marketo Engage und [!DNL Veeva] CRM zu synchronisieren.
 
-Marketo Engage verwendet einen Satz von Feldern, um bestimmte Arten von Marketing-bezogenen Informationen zu erfassen. Wenn Sie diese Daten in [!DNL Veeva] CRM benötigen, befolgen Sie bitte die folgenden Anweisungen.
+Marketo Engage verwendet einen Satz von Feldern, um bestimmte Arten von Marketing-bezogenen Informationen zu erfassen. Wenn Sie diese Daten in [!DNL Veeva] CRM benötigen, befolgen Sie die folgenden Anweisungen.
 
 1. Benutzerdefiniertes Feld in [!DNL Veeva] CRM für Kontaktobjekte erstellen: Score
 1. Sie können bei Bedarf zusätzliche Felder erstellen (siehe Tabelle unten).
@@ -97,8 +97,8 @@ Dezimalstellen 0</td>
 
 1. Deaktivieren Sie das **[!UICONTROL Schreibgeschützt]** für das Profil Ihres Synchronisierungsbenutzers:
 
-* Wenn Sie einen Benutzer mit dem Profil eines Systemadministrators als Synchronisierungsbenutzer haben, deaktivieren [!UICONTROL &#x200B; das Kontrollkästchen „Schreibgeschützt] für das Systemadministratorprofil (wie unten dargestellt).
-* Wenn Sie ein benutzerdefiniertes Profil für den Synchronisierungsbenutzer erstellt haben, deaktivieren [!UICONTROL &#x200B; das Kontrollkästchen „Schreibgeschützt] für dieses benutzerdefinierte Profil.
+* Wenn Sie einen Benutzer mit dem Profil eines Systemadministrators als Synchronisierungsbenutzer haben, deaktivieren [!UICONTROL  das Kontrollkästchen „Schreibgeschützt] für das Systemadministratorprofil (wie unten dargestellt).
+* Wenn Sie ein benutzerdefiniertes Profil für den Synchronisierungsbenutzer erstellt haben, deaktivieren [!UICONTROL  das Kontrollkästchen „Schreibgeschützt] für dieses benutzerdefinierte Profil.
 
   ![](assets/step-1-of-3-add-marketo-fields-9.png)
 

@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung für Dynamics 2011 lokal 
 title: 'Schritt 1 von 3: Installieren der Marketo-Lösung (2011 On-Premise)'
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '304'
 ht-degree: 6%
 
 ---
@@ -43,7 +43,7 @@ Bevor Sie [!DNL Microsoft Dynamics] On-Premise und Marketo synchronisieren könn
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klicken Sie auf **[!UICONTROL Durchsuchen]**. Wählen Sie die Marketo-Lead-Management-Lösung aus[&#x200B; die Sie heruntergeladen &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie auf **[!UICONTROL Durchsuchen]**. Wählen Sie die Marketo-Lead-Management-Lösung aus[ die Sie heruntergeladen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -67,7 +67,7 @@ Bevor Sie [!DNL Microsoft Dynamics] On-Premise und Marketo synchronisieren könn
    >
    >Sie müssen Popups in Ihrem Browser aktivieren, um den Installationsprozess abzuschließen.
 
-1. Warten Sie nun, bis der Import abgeschlossen ist. Steh auf und mach Dehnungen.
+1. Warten Sie nun, bis der Import abgeschlossen ist.
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 

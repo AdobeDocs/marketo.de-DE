@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie die Marketo-Lead-Management-Lösung für Micr
 title: Herunterladen der Marketo Lead Management-Lösung
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '105'
 ht-degree: 15%
 
 ---
@@ -47,4 +47,4 @@ Sie müssen eine Marketo-Lösung herunterladen und in Ihrem [!DNL Microsoft Dyna
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-Fantastisch! Eine ZIP-Datei der Lösung wird jetzt auf Ihr Gerät heruntergeladen.
+Eine ZIP-Datei der Lösung wird jetzt auf Ihr Gerät heruntergeladen.

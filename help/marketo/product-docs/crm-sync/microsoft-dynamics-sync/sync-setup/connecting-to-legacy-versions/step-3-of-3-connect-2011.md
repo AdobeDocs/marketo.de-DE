@@ -4,16 +4,16 @@ description: Erfahren Sie im letzten Schritt, wie Sie Microsoft Dynamics 2011 lo
 title: Schritt 3 von 3 - Verbinden  [!DNL Microsoft Dynamics]  Marketo (2011 On-Premise)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---
 
 # Schritt 3 von 3: Verbinden von [!DNL Microsoft Dynamics] mit Marketo (2011 On-Premise) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
-In Ordnung! Wir haben die Lösung installiert und den Synchronisierungsbenutzer konfiguriert. Als Nächstes müssen wir Marketo und [!DNL Dynamics] verbinden.
+Die Lösung wird installiert und der Synchronisierungsbenutzer wird konfiguriert. Verbinden Sie als Nächstes Marketo und [!DNL Dynamics].
 
 >[!PREREQUISITES]
 >
@@ -44,7 +44,7 @@ In Ordnung! Wir haben die Lösung installiert und den Synchronisierungsbenutzer 
 
    >[!CAUTION]
    >
-   >Stellen Sie sicher, dass Ihre Anmeldedaten korrekt sind, da wir die nachfolgenden Schemaänderungen nach der Übermittlung nicht rückgängig machen können. Wenn falsche Anmeldeinformationen gespeichert werden, müssen Sie ein neues Marketo-Abonnement erhalten.
+   >Überprüfen Sie, ob Ihre Anmeldeinformationen korrekt sind. Nachfolgende Schemaänderungen können nach der Übermittlung nicht mehr rückgängig gemacht werden. Wenn falsche Anmeldeinformationen gespeichert werden, ist ein neues Marketo-Abonnement erforderlich.
 
 1. Geben Sie **[!UICONTROL Benutzername]**, **[!UICONTROL Kennwort]** und CRM-**[!UICONTROL URL ein]** klicken Sie dann auf **[!UICONTROL Speichern]**.
 
@@ -53,11 +53,11 @@ In Ordnung! Wir haben die Lösung installiert und den Synchronisierungsbenutzer 
    >[!NOTE]
    >
    >* Der [!UICONTROL Benutzername] in Marketo muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann `user@domain.com` oder DOMAIN\user lauten.
-   >* Wenn Sie die URL nicht kennen, ([&#x200B; Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >* Wenn Sie die URL nicht kennen, ([ Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 ## Felder für Synchronisierung auswählen {#select-fields-to-sync}
 
-Jetzt müssen wir die Felder auswählen, die wir synchronisieren möchten.
+Auswahl der zu synchronisierenden Felder.
 
 1. Klicken Sie **[!UICONTROL Bearbeiten]** in **[!UICONTROL Schritt 2: Auswahl der zu synchronisierenden Felder]**.
 
@@ -73,7 +73,7 @@ Jetzt müssen wir die Felder auswählen, die wir synchronisieren möchten.
 
 ## Synchronisieren von Feldern für einen benutzerdefinierten Filter {#sync-fields-for-a-custom-filter}
 
-Wenn Sie einen benutzerdefinierten Filter erstellt haben, müssen Sie die neuen Felder auswählen, die mit Marketo synchronisiert werden sollen.
+Wenn Sie einen benutzerdefinierten Filter erstellt haben, wechseln Sie zu und wählen Sie die neuen Felder aus, die mit Marketo synchronisiert werden sollen.
 
 1. Wechseln Sie zu Admin und wählen Sie **[!UICONTROL Microsoft Dynamics]**.
 

@@ -3,9 +3,9 @@ description: Hier erhalten Sie Hilfe zu Best Practices für interaktive Webinare
 title: Best Practices für interaktive Webinare
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1775'
+source-wordcount: '1759'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Bei virtuellen Events, ob für kleine oder große Zielgruppen, ist es wichtig, dass alles wie geplant verläuft. Mit verschiedenen Schritten, die zur Planung und Durchführung eines Ereignisses erforderlich sind, von der Vorbereitung, Beförderung, Bereitstellung und Nachbereitung, kann es manchmal nach viel fühlen.
 
-Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die bei der Planung, Gestaltung und Produktion erfolgreicher und ansprechender Webinare hilfreich sein können. Diese Tipps helfen Ihnen, die von Adobe Connect unterstützten interaktiven Webinare optimal zu nutzen.
+Die folgenden Best Practices können bei der Planung, Gestaltung und Produktion erfolgreicher und ansprechender Webinare hilfreich sein. Diese Tipps helfen Ihnen, die von Adobe Connect unterstützten interaktiven Webinare optimal zu nutzen.
 
 ## Vorbereitung vor einem Ereignis {#pre-event-preparation}
 
@@ -22,15 +22,15 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 >[!TIP]
 >
->Das mobile Web-Erlebnis für interaktive Webinare ist nicht responsiv. Daher empfehlen wir die Verwendung der Adobe Connect-App für ein nahtloses Webinar-Erlebnis auf Ihrem Mobilgerät. Bitte beachten Sie, dass die Adobe Connect-App derzeit nicht in App-Stores in China verfügbar ist.
+>Das mobile Web-Erlebnis für interaktive Webinare ist nicht responsiv. Daher empfehlen wir die Verwendung der Adobe Connect-App für ein nahtloses Webinar-Erlebnis auf Ihrem Mobilgerät. Die Adobe Connect-App ist derzeit nicht in App-Stores in China verfügbar.
 
 * Erstellen Sie ein Beispiel für ein interaktives Webinar (IW) und klonen Sie es jedes Mal, um zu vermeiden, dass Sie von Grund auf neu beginnen.
 
-* Wiederverwenden von Adobe Connect-Räumen, wenn dieselben Inhalte später erneut bereitgestellt werden. Navigieren Sie **Pods-** zum Pods-Menü, um den Chat-Verlauf sowie die Abfrage-/Quizergebnisse der letzten Sitzung zu löschen. Damit ist der Inhalt des Raums frei. Alle Daten aus vorherigen Sitzungen stehen weiterhin in Marketo Engage zur Verfügung.
+* Wiederverwenden von Adobe Connect-Räumen, wenn dieselben Inhalte später erneut bereitgestellt werden. Navigieren Sie **Pods-** zum Pods-Menü, um den Chat-Verlauf sowie die Abfrage-/Quizergebnisse der letzten Sitzung zu löschen. Dadurch wird der Inhalt des Raums gelöscht. Alle Daten aus vorherigen Sitzungen stehen weiterhin in Marketo Engage zur Verfügung.
 
 * Vermeiden Sie die Planung von Rückgesprächen. Achten Sie darauf, dass Sie mindestens 30 Minuten Vorbereitungszeit haben, bevor Ihr Webinar beginnt. Auf diese Weise können Sie alle Änderungen an der Präsentation in letzter Minute hochladen, Ihr Mikrofon und Ihre Kamera anpassen und neue Präsentatoren mit der Benutzeroberfläche vertraut machen.
 
-* Weisen Sie Ihren Team-Mitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Moderatoren und Moderatoren können den Raum vor den Teilnehmern betreten. Achten Sie jedoch darauf[&#x200B; Ihr interaktives Webinar zu &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}_bevor Sie_ und Moderatoren hinzufügen.
+* Weisen Sie Ihren Team-Mitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Moderatoren und Moderatoren können den Raum vor den Teilnehmern betreten. Gestalten [ Ihr interaktives Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _bevor_ indem Sie Co-Moderatoren und Moderatoren hinzufügen.
 
 ### Bewerben einer Veranstaltung {#promoting-your-event}
 
@@ -46,7 +46,7 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 * Nutzen Sie Ihre Website/Ihren Blog, Social Media, bezahlte Werbung und Partner-Werbeaktionen, um eine breitere Audience zu erreichen und Registrierungen zu fördern.
 
-* Senden Sie zwei bis drei Tage vor dem Webinar (_und_) am Veranstaltungstag Erinnerungsmails an registrierte Teilnehmer, um sicherzustellen, dass diese den Termin nicht vergessen und an der Veranstaltung teilnehmen können.
+* Senden Sie zwei bis drei Tage vor dem Webinar (_und_) eine Erinnerungs-E-Mail an registrierte Teilnehmer, um sicherzustellen, dass diese das Webinar nicht vergessen und an der Veranstaltung teilnehmen können.
 
 ### Raum gestalten {#designing-a-room}
 
@@ -85,7 +85,7 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 * **Fragen und Antworten**: Der Name des Teilnehmers, der die Frage eingereicht hat, und der Name des Gastgebers/Moderators, der geantwortet hat, können beide ausgeblendet werden. Dies erreichen Sie, indem Sie die Datenschutzoptionen im Abschnitt „Fragen und Antworten“ in den Zimmereinstellungen deaktivieren.
 
-* **Chat-Panel**: Das Chat-Panel ist ein Chat-Bereich, der nicht Teil der Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass Chats in Aufzeichnungen angezeigt werden, verwenden Sie das Chat-Panel anstelle des Chat-Pods. [Hier klicken](https://helpx.adobe.com/de/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} um mehr über die Verwendung des Chat Panels zu erfahren.
+* **Chat-Panel**: Das Chat-Panel ist ein Chat-Bereich, der nicht Teil der Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass Chats in Aufzeichnungen angezeigt werden, verwenden Sie das Chat-Panel anstelle des Chat-Pods. [Hier klicken](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} um mehr über die Verwendung des Chat Panels zu erfahren.
 
 * **Privater Chat**: Deaktivieren Sie den privaten Chat, um zu verhindern, dass Teilnehmer einen anderen Teilnehmer anpingen können. Dies kann erreicht werden, indem Sie die Option „Teilnehmern erlauben, privat zu chatten“ im Abschnitt „Chat“ in den Zimmereinstellungen deaktivieren.
 
@@ -93,7 +93,7 @@ Zu diesem Zweck haben wir eine Liste mit Best Practices zusammengestellt, die be
 
 ## Versand {#delivery}
 
-* Führen Sie einige Probeläufe durch, um Ihre Audio-/Videoeinstellungen zu testen und sich mit Adobe Connect vertraut zu machen, wenn Sie es noch nie verwendet haben. Vergessen Sie nicht, Ihre Moderatoren und Co-Moderatoren bei den Proben mit einzubeziehen.
+* Führen Sie einige Probeläufe durch, um Ihre Audio-/Videoeinstellungen zu testen und sich mit Adobe Connect vertraut zu machen, wenn Sie es noch nie verwendet haben. Schließen Sie Ihre Moderatoren und Co-Moderatoren bei den Proben mit ein.
 
 * Bitten Sie Gastgeber und Moderatoren, mindestens 30 Minuten vor der Startzeit anzureisen und sicherzustellen, dass alles ordnungsgemäß funktioniert.
    * Entscheiden Sie, wer die Fragen und Antworten und Chat-Pods moderieren soll.

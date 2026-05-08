@@ -3,20 +3,20 @@ description: Erfahren Sie mehr über interaktive Webinare in Marketo für Live- 
 title: Interaktive Webinare – Überblick
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 92%
+source-wordcount: '555'
+ht-degree: 87%
 
 ---
 
 # Interaktive Webinare – Überblick {#interactive-webinars-overview}
 
-Die Funktion „Interaktive Webinare“ ist die native Webinar-Plattform in Marketo Engage. Es sind keine zusätzlichen Tools oder Integrationen erforderlich.
+Die Funktion für interaktive Webinare ist die integrierte Webinar-Plattform in Marketo Engage. Es sind keine zusätzlichen Tools oder Integrationen erforderlich.
 
 >[!IMPORTANT]
 >
->Interaktive Webinare basierend auf Adobe Connect sind eine Funktion mit nativer Integration in Adobe Connect. Für die Verwendung interaktiver Webinare gelten zusätzliche Geschäftsbedingungen. Bitte überprüfen Sie Ihren Vertrag oder [kontaktieren Sie Adobe](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}, um weitere Informationen zu den zusätzlichen Geschäftsbedingungen zu erhalten.
+>Interaktive Webinare basierend auf Adobe Connect sind eine Funktion mit nativer Integration in Adobe Connect. Für die Verwendung interaktiver Webinare gelten zusätzliche Geschäftsbedingungen. Lesen Sie Ihren Vertrag oder [kontaktieren Sie Adobe](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"} um weitere Informationen zu den zusätzlichen Geschäftsbedingungen zu erhalten.
 
 ## Was sind interaktive Webinare? {#what-is-interactive-webinars}
 
@@ -54,7 +54,7 @@ Wenn das Feld „Vorname“ des Leads leer ist, kann sich dieser nicht für das 
 
 **Beim Präsentieren eines Webinars über die VPN-Verbindung meines Unternehmens treten Audio-/Videoprobleme auf. Was kann ich tun?**
 
-Adobe Connect, die Bereitstellungsplattform für interaktive Webinare, verwendet WebRTC für die gemeinsame Nutzung von Audio/Video/Bildschirmen. Wahrscheinlich blockiert die Netzwerk-Firewall Ihres Unternehmens die IP-Adressen/Ports, die wir für die WebRTC-basierte Kommunikation verwenden. Ihr IT-Team muss diese Ports für WebRTC zulassen. [Weitere Informationen](https://helpx.adobe.com/de/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
+Adobe Connect, die Bereitstellungsplattform für interaktive Webinare, verwendet WebRTC für die gemeinsame Nutzung von Audio/Video/Bildschirmen. Wahrscheinlich blockiert die Netzwerk-Firewall Ihres Unternehmens die IP-Adressen und Ports, die für die WebRTC-basierte Kommunikation verwendet werden. Ihr IT-Team muss diese Ports für WebRTC zulassen. [Weitere Informationen](https://helpx.adobe.com/de/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **Werden meine interaktiven Webinare automatisch aufgezeichnet?**
 

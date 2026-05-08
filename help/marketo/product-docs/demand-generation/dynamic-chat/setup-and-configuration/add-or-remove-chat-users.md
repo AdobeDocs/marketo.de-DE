@@ -3,10 +3,10 @@ description: Erfahren Sie, wie Sie Dynamic Chat-Benutzende in der Adobe Admin Co
 title: Hinzufügen oder Entfernen von Chat-Benutzenden
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 5%
+source-wordcount: '289'
+ht-degree: 9%
 
 ---
 
@@ -40,7 +40,7 @@ Gehen Sie wie folgt vor, um Chat-Benutzer hinzuzufügen oder zu entfernen.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. Geben Sie [!UICONTROL &#x200B; Namen, die Benutzergruppe oder die E]Mail-Adresse des Benutzers ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional.
+1. Geben Sie [!UICONTROL  Namen, die Benutzergruppe oder die E]Mail-Adresse des Benutzers ein, den Sie hinzufügen möchten. Vor- und Nachname sind optional.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
@@ -58,7 +58,7 @@ Gehen Sie wie folgt vor, um Chat-Benutzer hinzuzufügen oder zu entfernen.
 
 ## Dynamic Chat-Zugriff auf Marketo-Rolle hinzufügen {#add-dynamic-chat-access-to-marketo-role}
 
-Wenn die Marketo-Rolle des neu hinzugefügten Chat-Benutzers noch nicht über [!DNL Dynamic Chat] Berechtigung verfügt, erfahren Sie hier, wie Sie sie hinzufügen.
+Wenn die neu hinzugefügte Rolle „Chat-Benutzer“ noch nicht über [!DNL Dynamic Chat] Berechtigung verfügt, führen Sie die folgenden Schritte aus, um sie hinzuzufügen.
 
 1. Klicken Sie in Marketo auf **[!UICONTROL Admin]** und wählen Sie **[!UICONTROL Benutzer und Rollen]** aus.
 

@@ -4,7 +4,7 @@ description: Erfahren Sie, wie die Opportunity-Synchronisierung von Microsoft Dy
 title: Microsoft Dynamics-Synchronisierung - Opportunity-Synchronisierung
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # [!DNL Microsoft Dynamics]: Opportunity-Synchronisation {#microsoft-dynamics-sync-opportunity-sync}
 
-Die Synchronisierung von Marketo zu [!DNL Dynamics] ist extrem leistungsstark. Im Folgenden finden Sie alle Details zur Opportunity-Synchronisierung:
+Die Synchronisierung von Marketo mit [!DNL Dynamics] ist leistungsstark. Im Folgenden finden Sie alle Details zur Opportunity-Synchronisierung:
 
 ## Wie werden Opportunity-Details zwischen den beiden Systemen synchron gehalten? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -25,7 +25,7 @@ Nein, Sie müssen die Opportunity in [!DNL Dynamics] erstellen. Sie wird automat
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
-Sie können [&#x200B; Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
+Sie können [ Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
 
 ## Wie ist ein Konto/Kontakt mit einer Opportunity verbunden? {#how-is-an-account-contact-associated-with-an-opportunity}
 
@@ -37,4 +37,4 @@ Der Kontakt/das Konto kann auf zwei Arten mit Opportunity verknüpft werden:
    * Wenn der Kontowert festgelegt ist und der Kontakt leer gelassen wird, legt Marketo das Konto nur für die Opportunity auf dieses Konto fest.
    * Wenn beide Werte festgelegt sind, wählt Dynamics das Konto als Wert für die Kunden-ID aus, sodass das Verhalten dasselbe wie oben wäre.
 
-* Über Stakeholder: Dynamics verwendet Verbindungen, um über Stakeholder von der Seite „Opportunity erstellen“ aus eine Opportunity zu kontaktieren. Dazu erstellen wir für jeden neuen Stakeholder einen `opportunitycontactrole`.
+* Über Stakeholder: Dynamics verwendet Verbindungen, um über Stakeholder von der Seite „Opportunity erstellen“ aus eine Opportunity zu kontaktieren. Dazu wird für jeden neuen Stakeholder ein `opportunitycontactrole` Datensatz erstellt.

@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über den Synchronisierungsstatus von Microsoft D
 title: Synchronisierungsstatus
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '186'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ Sie können den aktuellen Durchsatz und den Rückstand des Synchronisierungsproz
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
-   Diese Tabelle zeigt den Rückstand der Einfügungen und Aktualisierungen an, die noch nicht für jedes Objekt synchronisiert wurden.
+   In dieser Tabelle wird der Rückstand der Einfügungen und Aktualisierungen angezeigt, die noch nicht für jedes Objekt synchronisiert wurden.
 
 1. Doppelklicken Sie auf eine beliebige Zeile, um Opportunity-Informationen anzuzeigen.
 

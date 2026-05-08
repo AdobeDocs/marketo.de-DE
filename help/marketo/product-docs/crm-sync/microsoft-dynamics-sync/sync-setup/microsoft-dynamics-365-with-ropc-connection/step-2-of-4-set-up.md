@@ -3,16 +3,16 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung mit einer ROPC-Verbindung
 title: 'Schritt 2 von 4: Einrichten der Marketo-Lösung mit der Kennwortsteuerungsverbindung für Ressourcenbesitzer'
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
 
 # Schritt 2 von 4: Einrichten der Marketo-Lösung mit der Kennwortsteuerungsverbindung für Ressourcenbesitzer {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
-Beginnen wir mit der Erstellung eines Benutzerkontos.
+Erstellen Sie ein Benutzerkonto.
 
 >[!PREREQUISITES]
 >
@@ -66,7 +66,7 @@ Beginnen wir mit der Erstellung eines Benutzerkontos.
 
 ## Assign Sync User Role {#assign-sync-user-role}
 
-Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchronisierungsbenutzer zu. Sie müssen sie keinem anderen Benutzer zuweisen.
+Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchronisierungsbenutzer zu. Sie muss keinem anderen Benutzer zugewiesen werden.
 
 >[!NOTE]
 >
@@ -98,7 +98,7 @@ Weisen Sie die Rolle Marketo-Synchronisierungsbenutzer nur dem Marketo-Synchroni
 
 ## Marketo-Lösung konfigurieren {#configure-marketo-solution}
 
-Fast da! Uns bleibt nur noch, die Marketo-Lösung über den neu erstellten Benutzer zu informieren.
+Ein letzter Schritt: Informieren Sie die Marketo-Lösung über den neu erstellten Benutzer.
 
 1. Gehen Sie zurück zum Abschnitt [!UICONTROL Erweiterte Einstellungen] und klicken Sie auf das ![](assets/image2015-5-13-15-3a49-3a19.png) neben [!UICONTROL Einstellungen] und wählen Sie **[!UICONTROL Marketo Config]**.
 
