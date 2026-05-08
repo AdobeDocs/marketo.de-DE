@@ -14,7 +14,7 @@ ht-degree: 7%
 
 Führen Sie die folgenden Schritte aus, um einen neuen Gesprächsfluss zu erstellen.
 
-1. Klicken [!UICONTROL  unter &quot;] Chat“ auf **[!UICONTROL Konversationsflüsse]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;] Chat“ auf **[!UICONTROL Konversationsflüsse]**.
 
    ![](assets/create-a-conversational-flow-1.png)
 
@@ -30,7 +30,7 @@ Führen Sie die folgenden Schritte aus, um einen neuen Gesprächsfluss zu erstel
    >
    >Dadurch wird nur die Sprache des Systemtextes geändert. Sie sind für die Übersetzung von Inhalten verantwortlich.
 
-1. Wie bei Dialogfeldern [ Sie einen Stream ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. Wie bei Dialogfeldern [&#x200B; Sie einen Stream &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

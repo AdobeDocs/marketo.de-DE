@@ -17,7 +17,7 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen. Führen Si
 
 >[!PREREQUISITES]
 >
->Sie müssen [die [!UICONTROL Facebook-Lead-Anzeigen]-Integration ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Sie müssen [die [!UICONTROL Facebook-Lead-Anzeigen]-Integration &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. Wählen Sie im Facebook Power Editor eine Kampagne und eine Anzeige aus und klicken Sie auf **[!UICONTROL Bearbeiten]**.
 
@@ -41,7 +41,7 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen. Führen Si
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Nachdem Sie Ihr Formular gesendet haben, [ Sie (eine Smart List in Marketo erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Datenbank, die den Formularfilter Ausgefüllte [!DNL Facebook] Lead-Anzeigen verwendet. Fügen Sie den Namen des Lead-Werbeformulars für das gesendete Formular ein.
+1. Nachdem Sie Ihr Formular gesendet haben, [&#x200B; Sie (eine Smart List in Marketo erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als Teil eines Programms oder in der Datenbank, die den Formularfilter Ausgefüllte [!DNL Facebook] Lead-Anzeigen verwendet. Fügen Sie den Namen des Lead-Werbeformulars für das gesendete Formular ein.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 

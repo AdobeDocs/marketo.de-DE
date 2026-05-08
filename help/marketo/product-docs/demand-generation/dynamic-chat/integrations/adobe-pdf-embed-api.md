@@ -44,4 +44,4 @@ Mit der Dokumentkarte können Sie PDF-Dokumente in Dialoge einbetten und die Dok
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Sie können jetzt die Dokumentkarte in den Dialogfeldern &quot;[ Designer&quot; ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
+Sie können jetzt die Dokumentkarte in den Dialogfeldern &quot;[&#x200B; Designer&quot; &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.

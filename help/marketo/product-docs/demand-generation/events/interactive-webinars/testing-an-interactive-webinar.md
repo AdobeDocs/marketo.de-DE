@@ -18,7 +18,7 @@ Interaktive Webinare beinhalten die Verwendung von Adobe Connect als Webinar-Pro
 
 Jedes interaktive Webinar kann als Test-Webinar verwendet werden. Der Test kann durchgeführt werden, indem nicht mehr als 10 Hosts und Moderatoren (Teilnehmer) hinzugefügt werden.
 
-Der Workflow zum Erstellen eines Test-Webinars ist im Hinblick auf das Veranstaltungsprogramm für [ Webinare identisch mit ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) Erstellen eines anderen Webinars. Es wird empfohlen, das für die Lieferung gewählte Datum weit in der Zukunft festzulegen.
+Der Workflow zum Erstellen eines Test-Webinars ist im Hinblick auf das Veranstaltungsprogramm für [&#x200B; Webinare identisch mit &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) Erstellen eines anderen Webinars. Es wird empfohlen, das für die Lieferung gewählte Datum weit in der Zukunft festzulegen.
 
 >[!CAUTION]
 >

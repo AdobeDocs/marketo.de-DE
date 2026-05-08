@@ -20,13 +20,13 @@ Live-Chat ermöglicht Besuchenden der Website, mit Ihren Vertriebsmitarbeitern i
 
 ## Live-Chat-Agenten hinzufügen {#add-live-chat-agents}
 
-Um mit dem Live-Chat zu beginnen, müssen Sie Ihre Live-Chat-Agenten als [Benutzer in der Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} hinzufügen und ihnen die [Live-Chat-Berechtigung](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} erteilen. Danach können Sie eine &quot;[-Chat-Karte“ ](#using-the-live-chat-card) einem neuen oder vorhandenen Dialogfeld hinzufügen.
+Um mit dem Live-Chat zu beginnen, müssen Sie Ihre Live-Chat-Agenten als [Benutzer in der Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} hinzufügen und ihnen die [Live-Chat-Berechtigung](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} erteilen. Danach können Sie eine &quot;[-Chat-Karte“ &#x200B;](#using-the-live-chat-card) einem neuen oder vorhandenen Dialogfeld hinzufügen.
 
 Wenn Besucherinnen und Besucher über Ihr Dialogfeld einen Chat mit einem Agenten anfordern, haben Agenten mehrere [Benachrichtigungsoptionen](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. Wenn er auf die Benachrichtigung klickt, gelangt er zu seinem [Agenten-Posteingang](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} wo er mit dem Besucher chatten kann.
 
 >[!NOTE]
 >
->Der Live-Agent-Avatar verwendet das Profilbild aus dem Adobe-Kontoprofil des Agenten. Gehen Sie wie folgt vor, um [ Bild ](https://helpx.adobe.com/de/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} aktualisieren.
+>Der Live-Agent-Avatar verwendet das Profilbild aus dem Adobe-Kontoprofil des Agenten. Gehen Sie wie folgt vor, um [&#x200B; Bild &#x200B;](https://helpx.adobe.com/de/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} aktualisieren.
 
 ## Verwenden der Live-Chat-Karte {#using-the-live-chat-card}
 

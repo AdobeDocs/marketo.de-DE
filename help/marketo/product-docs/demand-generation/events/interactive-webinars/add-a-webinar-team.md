@@ -50,7 +50,7 @@ Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erleb
 
 >[!NOTE]
 >
-> Mit ![ Symbol „Co-Host-URL kopieren](assets/icon-copy-join-url.png) wird die Co-Host-Join-URL kopiert, und mit dem Symbol ![Co-Host eine Einladungs-E-Mail senden](assets/icon-send-invitation-email.png) wird dem Co-Host eine Einladungs-E-Mail gesendet.
+> Mit ![&#x200B; Symbol „Co-Host-URL kopieren](assets/icon-copy-join-url.png) wird die Co-Host-Join-URL kopiert, und mit dem Symbol ![Co-Host eine Einladungs-E-Mail senden](assets/icon-send-invitation-email.png) wird dem Co-Host eine Einladungs-E-Mail gesendet.
 
 ## Moderator hinzufügen {#add-a-presenter}
 

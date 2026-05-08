@@ -48,7 +48,7 @@ In diesem Artikel konfigurieren Sie Marketo für die Synchronisierung mit Ihrer 
 
    >[!NOTE]
    >
-   >[Blenden Sie in Marketo alle nicht ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) Felder aus, bevor Sie auf „Felder **[!UICONTROL &quot;]**. Wenn Sie auf [!UICONTROL Felder synchronisieren] klicken, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
+   >[Blenden Sie in Marketo alle nicht &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) Felder aus, bevor Sie auf „Felder **[!UICONTROL &quot;]**. Wenn Sie auf [!UICONTROL Felder synchronisieren] klicken, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
 
 1. Geben Sie die [!DNL Salesforce] Benutzeranmeldeinformationen synchronisieren ein, die in Teil 2 der [!DNL Salesforce]-Konfiguration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) oder [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) erstellt wurden, und klicken Sie auf **[!UICONTROL Felder synchronisieren]** (aktivieren Sie **[!UICONTROL Sandbox]** nur, wenn Sie eine Marketo-Sandbox mit einer [!DNL Salesforce] Sandbox synchronisieren).
 

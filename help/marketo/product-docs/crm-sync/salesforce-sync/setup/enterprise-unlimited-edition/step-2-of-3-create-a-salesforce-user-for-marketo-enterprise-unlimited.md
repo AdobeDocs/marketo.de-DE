@@ -60,7 +60,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
    >
    >Aktivieren Sie das **[!UICONTROL Kennwort läuft nie ab]**.
 
-1. Überprüfen Sie [!UICONTROL  Abschnitt „Allgemeine ]&quot;, ob die folgenden Kontrollkästchen aktiviert sind:
+1. Überprüfen Sie [!UICONTROL &#x200B; Abschnitt „Allgemeine &#x200B;]&quot;, ob die folgenden Kontrollkästchen aktiviert sind:
 
    * [!UICONTROL Leads konvertieren]
    * [!UICONTROL Ereignisse bearbeiten]
@@ -68,7 +68,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Überprüfen Sie [!UICONTROL  Abschnitt ]Standardobjektberechtigungen“, ob die Berechtigungen [!UICONTROL Lesen, Erstellen, Bearbeiten und Löschen] für Folgendes aktiviert sind:
+1. Überprüfen Sie [!UICONTROL &#x200B; Abschnitt &#x200B;]Standardobjektberechtigungen“, ob die Berechtigungen [!UICONTROL Lesen, Erstellen, Bearbeiten und Löschen] für Folgendes aktiviert sind:
 
    * [!UICONTROL Konten]
    * [!UICONTROL Kampagnen]
