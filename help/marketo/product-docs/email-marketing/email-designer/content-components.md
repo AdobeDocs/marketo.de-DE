@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1308'
-ht-degree: 86%
+source-wordcount: '1320'
+ht-degree: 78%
 
 ---
 
@@ -76,11 +76,11 @@ Verwenden Sie die Komponente **[!UICONTROL Schaltfläche]**, um eine oder mehrer
 
    SCREENSHOT
 
-1. Sie können Ihre Schaltfläche weiter personalisieren, indem Sie Stilattribute wie etwa **[!UICONTROL Rahmen]**, **[!UICONTROL Größe]** und **[!UICONTROL Rand]** im Bereich **[!UICONTROL Komponenteneinstellungen]** ändern.
+1. Sie können Ihre Schaltfläche weiter personalisieren, indem Sie Stilattribute wie **[!UICONTROL Rahmen]**, **[!UICONTROL Größe]**, **[!UICONTROL Rand]** usw. im Bereich **[!UICONTROL Komponenteneinstellungen]** ändern.
 
 ## Text {#text}
 
-Verwenden Sie die Komponente **[!UICONTROL Text]**, um Text in Ihre E-Mail einzufügen und den Stil (Rahmen, Größe, Abstand usw.) über die Registerkarte **[!UICONTROL Stile]** anzupassen.
+Verwenden Sie die **[!UICONTROL Text]**-Komponente, um Text in Ihre E-Mail einzufügen und den Stil (Rahmen, Größe, Abstand usw.) mithilfe der Registerkarte **[!UICONTROL Stile]**.
 
 SCREENSHOT
 
@@ -164,7 +164,7 @@ Verwenden Sie die Komponente **[!UICONTROL Bild]**, um eine Bilddatei von Ihrem 
 
 1. Sie können auch wählen **[!UICONTROL Ähnliche Stock-Fotos suchen]**. `[Learn more](../integrations/stock.md)`
 
-1. Passen Sie auf der Registerkarte **[!UICONTROL Stile]** die anderen Stilattribute wie Rand, Rahmen usw. an oder fügen Sie einen Link hinzu, um Ihre Zielgruppe zu einem anderen Inhalt über das Bedienfeld **[!UICONTROL Komponenteneinstellungen]** umzuleiten.
+1. Passen Sie auf **[!UICONTROL Registerkarte]** Stile“ die anderen Stilattribute wie Rand, Rahmen usw. an oder fügen Sie einen Link hinzu, um Ihre Audience zu einem anderen Inhalt **[!UICONTROL Bereich Komponenteneinstellungen]**.
 
 ## Social {#social}
 
@@ -184,7 +184,7 @@ Verwenden Sie die Komponente **[!UICONTROL Social]**, um Links zu Social-Media-S
 
    SCREENSHOT
 
-1. Bei Bedarf können Sie auch die Symbole der einzelnen sozialen Medien über Ihre Assets ändern. 
+1. Bei Bedarf können Sie auch die Symbole der einzelnen sozialen Medien über Ihre Assets ändern.
 
 1. Passen Sie die anderen Stilattribute wie Stil, Rand, Rahmen usw. auf der Registerkarte **[!UICONTROL Stile]** an.
 

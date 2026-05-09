@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 0%
+source-wordcount: '206'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Willkommen in Marketo! Verwenden Sie die folgende Checkliste als visuelle Aufgab
 
 1. E-Mail-CNAME für markenspezifische Tracking-Links auswählen
 1. Bitten Sie die IT, einen DNS-Eintrag für Ihren E-Mail-CNAME einzurichten.
-1. Auf die Zulassungsliste setzen IT-Abteilung um Marketos bitten
+1. IT-Abteilung um Marketos bitten
 1. Einrichten von DKIM und SPF im Bereich [!UICONTROL Admin]
 1. Einrichten von MX für `[FromDomain1]`
 1. Wenn IT mit dem E-Mail-CNAME fertig ist, richten Sie Ihren E-Mail-CNAME in Marketo ein

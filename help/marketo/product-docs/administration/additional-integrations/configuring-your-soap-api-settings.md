@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: Legen Sie den SOAP-API-Verschlüsselungsschlüssel fest und rufen Sie Endpunktdetails in Admin Web Services für Entwickler ab.
 title: Konfigurieren Ihrer SOAP-API-Einstellungen
 hide: true
-hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 16%
@@ -17,7 +16,7 @@ ht-degree: 16%
 
 >[!IMPORTANT]
 >
->Die SOAP-API [&#x200B; am 31](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/soap/soap-api) Juli 2026 eingestellt. Es wird empfohlen, stattdessen die [REST-API](https://developer.adobe.com/marketo-apis/) zu verwenden.
+>Die SOAP-API [ am 31](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) Juli 2026 eingestellt. Es wird empfohlen, stattdessen die [REST-API](https://developer.adobe.com/marketo-apis/) zu verwenden.
 
 >[!NOTE]
 >

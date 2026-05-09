@@ -2,10 +2,9 @@
 unique-page-id: 1147318
 description: Hier erhalten Sie Hilfe zu Marketo-Tastaturbefehlen für Bereichsnavigation, Kalender und mehr. Verwenden Sie Tastaturbefehle, um in Marketo Engage schneller zu navigieren.
 hide: true
-hidefromtoc: true
 title: Glossar zu Tastaturbefehlen
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 17%
