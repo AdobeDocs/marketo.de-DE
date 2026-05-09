@@ -43,7 +43,7 @@ PICC
 
 PICC
 
-1. Wählen [!UICONTROL  unter „Admin] die Option **Marketo**.
+1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **Marketo**.
 
 PICC
 

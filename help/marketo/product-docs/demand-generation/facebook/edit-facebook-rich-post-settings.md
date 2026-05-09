@@ -26,7 +26,7 @@ Mit _(Social_ Apps) können Ihre Leads Ihre Landingpages über ihre Verbindungen
 
 Sie können die Arten von Seiteninformationen angeben, die in den [!DNL Facebook] Rich-Posts verwendet werden sollen, die durch Freigaben auf Ihrer Landingpage generiert wurden.
 
-1. Wählen Sie **[!UICONTROL Facebook-Nachricht]** im Editor für Ihr __[!DNL YouTube_]_-Video oder Ihren Social-Media-Button aus.
+1. Wählen Sie **[!UICONTROL Facebook-Nachricht]** im Editor für Ihr _&#x200B;_[!DNL YouTube_]_-Video oder Ihren Social-Media-Button aus.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

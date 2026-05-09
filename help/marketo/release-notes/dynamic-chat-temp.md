@@ -35,7 +35,7 @@ Die Routing-Logik des Live-Chats in Dynamic Chat wurde überarbeitet, um über a
 
 * **Spezifisches Verhalten für eine Routing-Regel**
 
-_**Konto-Routing**_
+_&#x200B;**Konto-Routing**&#x200B;_
 
 Wenn die E-Mail-Domain einer Besucherin oder eines Besuchers einem bekannten Konto zugeordnet ist, wird die als Agentin bzw. Agent zugeordnete Person immer priorisiert.
 
@@ -52,7 +52,7 @@ Stattdessen gilt Folgendes:
 
 Die Routing-Regel auf Kartenebene (z. B. Team, Benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agent).
 
-_**Benutzerdefiniertes/Team-Routing**_
+_&#x200B;**Benutzerdefiniertes/Team-Routing**&#x200B;_
 
 Diese Regeln können mehrere geeignete Agentinnen oder Agenten zurückgeben.
 
@@ -63,10 +63,10 @@ Nur weil eine Person nicht reagiert, wird nicht gleich ein Round-Robin-Fallback 
 Wenn sich keine Agentin bzw. kein Agent meldet, passiert Folgendes:
 
 * Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
-- oder -
+&#x200B;- oder -
 * Es zeigt die standardmäßige Fallback-Nachricht an.
 
-_**Round-Robin-Routing**_
+_&#x200B;**Round-Robin-Routing**&#x200B;_
 
 Bei Verwendung als primäre Routing-Regel führt das System Folgendes durch:
 
@@ -76,7 +76,7 @@ Bei Verwendung als primäre Routing-Regel führt das System Folgendes durch:
 
 Wenn Round Robin als Fallback verwendet wird, wird es nur aktiviert, wenn von der primären Regel keine Agentinnen oder Agenten aufgelöst werden.
 
-_**Besuchererlebnis-Fluss**_
+_&#x200B;**Besuchererlebnis-Fluss**&#x200B;_
 
 Das System prüft, ob Konto-Routing anwendbar ist.
 
@@ -93,14 +93,14 @@ Routingregel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wurden ausge
 * Wenn keine Interaktion erfolgreich ist, wird die Ausweichlogik angewendet:
 
    * Kalender-Fallback (falls aktiviert),
-- oder -
+&#x200B;- oder -
    * Standardnachricht.
 
 Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine geeigneten Agentinnen oder Agenten gemäß der primären Routing-Regel gefunden werden, aber nicht, wenn einzelne Agentinnen bzw. Agenten nicht reagieren.
 
 ##### Anwendungsszenarien {#use-cases}
 
-_**Konto-Routing**_
+_&#x200B;**Konto-Routing**&#x200B;_
 
 <table><thead>
   <tr>
@@ -126,7 +126,7 @@ _**Konto-Routing**_
   </tr>
 </tbody></table>
 
-_**Benutzerdefiniertes Routing**_
+_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
 
 <table><thead>
   <tr>
@@ -152,7 +152,7 @@ _**Benutzerdefiniertes Routing**_
   </tr>
 </tbody></table>
 
-_**Team-Routing**_
+_&#x200B;**Team-Routing**&#x200B;_
 
 <table><thead>
   <tr>
@@ -178,7 +178,7 @@ _**Team-Routing**_
   </tr>
 </tbody></table>
 
-_**Round-Robin-Routing**_
+_&#x200B;**Round-Robin-Routing**&#x200B;_
 
 <table><thead>
   <tr>
