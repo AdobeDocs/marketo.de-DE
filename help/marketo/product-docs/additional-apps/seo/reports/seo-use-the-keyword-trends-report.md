@@ -4,9 +4,8 @@ description: Im Bericht „Trends beim Keyword-Rang“ können Sie sehen, wie Ih
 title: SEO – Verwenden eines Berichts zu Keyword-Trends
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 hide: true
-hidefromtoc: true
 feature: SEO
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 5%
@@ -15,7 +14,7 @@ ht-degree: 5%
 
 # SEO – Verwenden eines Berichts zu Keyword-Trends {#seo-use-the-keyword-trends-report}
 
-See how your keywords rank over time.
+Finden Sie heraus, wie Ihre Keywords im Zeitverlauf abschneiden.
 
 >[!IMPORTANT]
 >
@@ -26,13 +25,13 @@ See how your keywords rank over time.
 >* [Export Keyword Trends](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
 >* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
-## Load Report {#load-report}
+## Bericht laden {#load-report}
 
 1. Navigieren Sie zu **[!UICONTROL Berichte]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Click **[!UICONTROL Keyword Rank Trends]**.
+1. Klicken Sie **[!UICONTROL Trends für Keyword-Rang]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 

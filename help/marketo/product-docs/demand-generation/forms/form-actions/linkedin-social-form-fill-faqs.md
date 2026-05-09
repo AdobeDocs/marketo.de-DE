@@ -3,12 +3,11 @@ unique-page-id: 10098238
 description: Hilfe zu LinkedIn Social-Formularen erhalten, die mit Marketo-Formularen ausgefüllt werden. Hier finden Sie Antworten auf häufig gestellte Fragen zur Integration von LinkedIn-Formularausfüllungen.
 title: Häufig gestellte Fragen zum Ausfüllen von LinkedIn-Social-Media-Formularen
 hide: true
-hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -63,15 +62,15 @@ Nein, Ihre Formulare, aus denen wir diese Funktion entfernt haben, sind weiterhi
 
 Nein, wir entfernen nur die Schaltfläche [!DNL LinkedIn] aus Ihrem Formular. Wenn das Ausfüllen eines Social-Media-Formulars auf ein Formular angewendet wird, wird darüber ein Container erstellt, der die Schaltflächen zum Ausfüllen des Social-Media-Formulars enthält. Vor dem 28. April 2016, als [!DNL LinkedIn] die einzige Option war, ähnelte das Aussehen des Containers diesem Bild:
 
-![—](assets/one.png)
+![--](assets/one.png)
 
 Nach dem 28. April 2016 befindet sich nun oben in jedem Formular ein leerer Container, bei dem das Ausfüllen [!DNL LinkedIn] Social-Media-Formulars entfernt wurde:
 
-![—](assets/two.png)
+![--](assets/two.png)
 
 >[!NOTE]
 >
->Die obigen Bilder sind nur zum Beispiel. Dies ist möglicherweise nicht genau die Darstellung des Schaltflächen-Containers zum Ausfüllen von Social Media. Beliebige Schriftfarbe, Stil usw. Sie haben ausgewählt, Einfluss darauf zu nehmen, wie Ihr Container aussieht.
+>Die obigen Bilder sind nur zum Beispiel. Dies ist möglicherweise nicht genau die Darstellung des Schaltflächen-Containers zum Ausfüllen von Social Media. Jede Schriftfarbe, jeder Stil usw., die Sie ausgewählt haben, beeinflussen, wie Ihr Container aussieht.
 
 ## Wenn [!DNL LinkedIn] mein einziges ausgewähltes Netzwerk war, wie kann ich dann den leeren Container über meinem Formular entfernen? {#if-linkedin-was-my-only-selected-network-how-can-i-remove-the-empty-container-above-my-form}
 

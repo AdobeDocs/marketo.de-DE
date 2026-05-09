@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '264'
 ht-degree: 85%
 
 ---
@@ -26,9 +26,9 @@ Nachfolgend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
    <th>Beschreibung</th>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/account-smart-list.png"></td>
-   <td>Konto-Smart-List</td>
+   <td>Intelligente Kontoliste</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
@@ -86,7 +86,7 @@ Nachfolgend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
    <td>Filter</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/filter-active.png"></td>
    <td>Filter – aktiv</td>
   </tr>
@@ -166,7 +166,7 @@ Nachfolgend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
    <td>Bericht</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/search.png"></td>
    <td>Suche</td>
   </tr>
@@ -178,7 +178,7 @@ Nachfolgend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
   <tr>
    <td><img src="assets/classic-smart-list.png"></td>
    <td><img src="assets/smart-list.png"></td>
-   <td>Intelligente Liste</td>
+   <td>Smart List</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td>
@@ -198,7 +198,7 @@ Nachfolgend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
    <td><img src="assets/social-button.png"></td>
-   <td>Social-Schaltfläche</td>
+   <td>Social</td>
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td>
@@ -221,7 +221,7 @@ Nachfolgend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
    <td>Auslöser – aktiv</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
    <td>Auslöser – inaktiv</td>
   </tr>
@@ -260,7 +260,7 @@ Nachfolgend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>Nie ausführen</td>
+   <td>nie ausführen</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
@@ -305,7 +305,7 @@ Nachfolgend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
    <td>Ist angefordert</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/inactive.png"></td>
    <td>Inaktiv</td>
   </tr>
@@ -396,7 +396,7 @@ Nachfolgend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
    <td>Pausiert</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
    <td>Geplant</td>
   </tr>
@@ -445,17 +445,17 @@ Nachfolgend finden Sie die Symbole für die neue Adobe Marketo Engage-Benutzerob
    <th>Beschreibung</th>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
    <td>Genehmigt – in Berechnung</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
    <td>Genehmigt – in Neuberechnung</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
    <td>Entwurf – in Berechnung</td>
   </tr>

@@ -2,10 +2,9 @@
 description: Erfahren Sie mehr über die Seitenspalten von Personen und wie Sie die Ansicht anpassen können. Spalten ein- oder ausblenden, um die benötigten Kontaktdaten anzuzeigen.
 title: Spalten der Personenseite
 hide: true
-hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 6%

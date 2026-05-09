@@ -4,10 +4,10 @@ title: Temporäres Dokument
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 4%
+ht-degree: 21%
 
 ---
 
@@ -37,7 +37,7 @@ Fügen Sie Bilder hinzu, die im Abschnitt [Bilder und Dateien](/help/marketo/pro
 
 Klicken Sie auf Bedingten Inhalt aktivieren , um dynamischen Inhalt hinzuzufügen und den Inhalt auf der Grundlage von bedingten Regeln an die Zielprofile anzupassen.
 
-Bei Bedarf können Sie Ihre E-Mail weiter personalisieren, indem Sie im erweiterten Menü auf Zum Code-Editor wechseln klicken. Auf diese Weise können Sie den E-Mail-Quell-Code bearbeiten, z. B. um Tracking- oder benutzerdefinierte HTML-Tags hinzuzufügen.
+Bei Bedarf können Sie Ihre E-Mail weiter personalisieren, indem Sie im erweiterten Menü auf Zum Code-Editor wechseln klicken. Auf diese Weise können Sie den E-Mail-Quell-Code bearbeiten, z. B. um Tracking- oder benutzerdefinierte HTML-Tags hinzuzufügen.
 
 VORSICHT
 Nach dem Wechsel zum Code-Editor können Sie für diese E-Mail nicht mehr zum visuellen Designer zurückkehren.

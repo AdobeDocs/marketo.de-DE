@@ -4,9 +4,8 @@ description: Vergleichen Sie die Keyword-Rankings Ihrer und Ihrer Konkurrenten i
 title: SEO – Verwenden eines Berichts zu Keyword-Trends der Konkurrenz
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 hide: true
-hidefromtoc: true
 feature: SEO
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 5%
@@ -46,21 +45,21 @@ Finden Sie heraus, welcher Prozentsatz Ihrer Keywords in einem bestimmten Bereic
 |---|---|
 | [!UICONTROL Schlüsselwörter] | Die Anzahl der Keywords, die Sie verfolgen. |
 | [!UICONTROL Rang-URLs] | Die Anzahl der URLs auf Ihrer Website, die in dem von Ihnen festgelegten Bereich nach Rang geordnet sind. |
-| [!UICONTROL &#x200B; % im Rang] | The percentage of keywords ranking in the range you have set. |
-| [!UICONTROL Avg. searches] | The average number of searches on those keywords that occurred during the range you set (in the last 30 days on the Google US search) |
+| [!UICONTROL &#x200B; % im Rang] | Der Prozentsatz der Schlüsselwörter für die Rangfolge in dem von Ihnen festgelegten Bereich. |
+| [!UICONTROL Durchschnitt Suchen] | Die durchschnittliche Anzahl der Suchen nach diesen Keywords, die während des von Ihnen festgelegten Bereichs stattgefunden haben (in den letzten 30 Tagen bei der Google US-Suche) |
 
-## Filtering Data {#filtering-data}
+## Filtern von Daten {#filtering-data}
 
-1. Click the drop-down and select your desired time period.
+1. Klicken Sie auf die Dropdown-Liste und wählen Sie den gewünschten Zeitraum aus.
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Click the **[!UICONTROL Rank]** drop-down to choose which rank range you want to view keywords for.
+1. Klicken Sie auf die **[!UICONTROL Rang]**-Dropdown-Liste, um den Rangbereich auszuwählen, für den Sie Schlüsselwörter anzeigen möchten.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
 ## Daten werden exportiert {#exporting-data}
 
-1. Click **[!UICONTROL Export CSV]** or **[!UICONTROL Export PDF]**.
+1. Klicken Sie **[!UICONTROL CSV exportieren]** oder **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)

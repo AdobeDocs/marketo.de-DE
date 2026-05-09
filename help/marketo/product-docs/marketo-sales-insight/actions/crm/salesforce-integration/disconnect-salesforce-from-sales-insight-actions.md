@@ -2,12 +2,11 @@
 description: Erfahren Sie, wie Sie Salesforce von Sales Insight-Aktionen trennen.
 title: Trennen von Salesforce und Sales Insight Actions
 hide: true
-hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '96'
 ht-degree: 8%
 
 ---

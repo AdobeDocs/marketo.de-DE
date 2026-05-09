@@ -2,13 +2,12 @@
 description: Erfahren Sie mehr über E-Mail-Vorlagen in der neuen E-Mail-Designer. Erstellen und Wiederverwenden von Vorlagen für eine schnellere E-Mail-Erstellung in Marketo Engage.
 title: E-Mail-Vorlagen
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1745'
-ht-degree: 6%
+source-wordcount: '1786'
+ht-degree: 8%
 
 ---
 
@@ -184,7 +183,7 @@ Im folgenden Beispiel werden Schritte zum Anpassen des Abstands und der vertikal
 
 1. Klicken Sie in der Spalten-Symbolleiste auf _[!UICONTROL Spalte auswählen]_ und wählen Sie das Tool aus, das Sie bearbeiten möchten.
 
-   Sie können sie auch aus dem Strukturbaum auswählen. Die bearbeitbaren Parameter für diese Spalte werden auf den Registerkarten _[!UICONTROL Einstellungen]_ und _[!UICONTROL Stile]_ auf der rechten Seite angezeigt.
+   Sie können sie auch im Strukturbaum auswählen. Die bearbeitbaren Parameter für diese Spalte werden auf den Registerkarten _[!UICONTROL Einstellungen]_ und _[!UICONTROL Stile]_ auf der rechten Seite angezeigt.
 
    ![](assets/layers-settings-styles-2.png)
 

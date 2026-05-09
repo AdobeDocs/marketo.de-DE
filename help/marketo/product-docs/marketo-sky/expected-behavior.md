@@ -2,11 +2,10 @@
 description: Erfahren Sie mehr über das erwartete Verhalten für Prognosezielgruppen in Marketo Sky. Machen Sie sich mit Datenschutz, Aktivierungszeitpunkt und Filterbeschränkungen vertraut.
 title: Erwartetes Verhalten
 hide: true
-hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '394'
 ht-degree: 1%
 
 ---

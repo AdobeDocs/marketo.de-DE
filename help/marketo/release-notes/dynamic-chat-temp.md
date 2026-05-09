@@ -3,12 +3,11 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 hide: true
-hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 68%
+source-wordcount: '933'
+ht-degree: 66%
 
 ---
 
@@ -63,8 +62,8 @@ Nur weil eine Person nicht reagiert, wird nicht gleich ein Round-Robin-Fallback 
 
 Wenn sich keine Agentin bzw. kein Agent meldet, passiert Folgendes:
 
-* Das System zeigt den Kalender der ersten Person an, die als Agentin bzw. Agent angefragt wurde (falls aktiviert).
-– oder –
+* Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
+&#x200B;- oder -
 * Es zeigt die standardmäßige Fallback-Nachricht an.
 
 _&#x200B;**Round-Robin-Routing**&#x200B;_
@@ -94,7 +93,7 @@ Routingregel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wurden ausge
 * Wenn keine Interaktion erfolgreich ist, wird die Ausweichlogik angewendet:
 
    * Kalender-Fallback (falls aktiviert),
-– oder –
+&#x200B;- oder -
    * Standardnachricht.
 
 Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine geeigneten Agentinnen oder Agenten gemäß der primären Routing-Regel gefunden werden, aber nicht, wenn einzelne Agentinnen bzw. Agenten nicht reagieren.

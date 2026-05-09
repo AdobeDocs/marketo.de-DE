@@ -2,10 +2,9 @@
 description: Zugriff auf Produktnutzungs-Dashboards, um die Nutzung in Bezug auf Beschränkungen, Aktivitätsmetriken und wichtige Abonnementmetriken anzuzeigen.
 title: Produktnutzungs-Dashboards
 hide: true
-hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 2%
