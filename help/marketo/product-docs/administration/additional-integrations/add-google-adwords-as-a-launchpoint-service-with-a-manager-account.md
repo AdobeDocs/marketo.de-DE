@@ -4,9 +4,9 @@ description: Integrieren mehrerer  [!DNL Google AdWords]  mit Marketo mithilfe e
 title: Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service mit einem Manager-Konto
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '309'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Verknüpfen Sie Ihr [!DNL Google AdWords] mit Marketo, um Offline-Konversionsdat
 
 Wenn Sie über mehrere [!DNL Google Adwords]-Konten verfügen, können Sie diese mit einer [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (früher als [!DNL My Client Center] bezeichnet) in Marketo integrieren.
 
-Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -29,7 +29,7 @@ Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](h
 
 >[!NOTE]
 >
->Sie können auch ein [Standalone-Konto [!DNL Google AdWords]  als  [!DNL Launchpoint] -Service &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
+>Sie können auch ein [Standalone-Konto [!DNL Google AdWords]  als  [!DNL Launchpoint] -Service ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -82,7 +82,7 @@ Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](h
 
    >[!NOTE]
    >
-   >[Automatisches Tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} muss ausgewählt sein, damit diese Funktion funktioniert. It must be activated inside [!DNL AdWords].
+   >[Automatisches Tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} muss ausgewählt sein, damit diese Funktion funktioniert. Sie muss in [!DNL AdWords] aktiviert werden.
 
 1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
@@ -93,7 +93,3 @@ Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](h
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
    Im entsprechenden Artikel unten finden Sie Informationen zum Zuordnen [!DNL AdWords] Offline-Konversionen in Ihrem Umsatzmodell.
-
-   >[!MORELIKETHIS]
-   >
-   >[Set [!DNL Google AdWords] Conversions im Umsatzmodell mit einem Manager-Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

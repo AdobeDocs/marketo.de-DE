@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie in Marketo Facebook-Offline-Konversionen einr
 title: Einrichten von Offline-Konversionen in Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '321'
 ht-degree: 5%
 
 ---
@@ -17,8 +17,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an [!DNL Facebook] für Per
 
 >[!PREREQUISITES]
 >
->* Sie müssen [Facebook-Lead-Anzeigen einrichten](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* Sie müssen über ein genehmigtes Modell in [Umsatzzyklus-Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) verfügen.
+>Sie müssen [Facebook-Lead-Anzeigen einrichten](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 ## Admin-Konfiguration {#admin-configuration}
 
@@ -30,7 +29,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an [!DNL Facebook] für Per
 
    >[!NOTE]
    >
-   >Wenn Sie das noch nicht getan haben, rufen Sie &quot;[&#x200B; einrichten [!UICONTROL Facebook-]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)&quot; auf und kehren Sie hierher zurück.
+   >Wenn Sie das noch nicht getan haben, rufen Sie &quot;[ einrichten [!UICONTROL Facebook-]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)&quot; auf und kehren Sie hierher zurück.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -95,7 +94,7 @@ Durch das Zurücksenden von Offline-Konversionsdaten an [!DNL Facebook] für Per
 
    >[!CAUTION]
    >
-   >Überprüfen Sie Ihr [!DNL Facebook] und stellen Sie sicher, dass alle [Anzeigen“ &#x200B;](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) Ereignissatz Marketo Offline-Konversionen verknüpft sind. Ist dies nicht der Fall, funktioniert die Attribution möglicherweise nicht.
+   >Überprüfen Sie Ihr [!DNL Facebook] und stellen Sie sicher, dass alle [Anzeigen“ ](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) Ereignissatz Marketo Offline-Konversionen verknüpft sind. Ist dies nicht der Fall, funktioniert die Attribution möglicherweise nicht.
 
    >[!NOTE]
    >

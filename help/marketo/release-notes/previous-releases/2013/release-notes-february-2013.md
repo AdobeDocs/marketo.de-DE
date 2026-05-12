@@ -4,7 +4,7 @@ description: Versionshinweise - Februar 2013 - Marketo-Dokumentation - Produktdo
 title: Versionshinweise Februar 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 1%
@@ -25,7 +25,7 @@ Webhooks wurden verbessert, um Token in der URL/Payload zu escapen, und können 
 
 ## Aktualisierter SOAP-API-Endpunkt {#updated-soap-api-endpoint}
 
-Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter &quot;[!UICONTROL &quot; &#x200B;] &quot;SOAP-API“ angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der [!DNL Spark SMB Edition] nicht verfügbar)
+Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter &quot;[!UICONTROL &quot; ] &quot;SOAP-API“ angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der [!DNL Spark SMB Edition] nicht verfügbar)
 
 ## Mobile-Unterstützung für [!DNL Facebook] Registerkarten {#mobile-support-for-facebook-tabs}
 
@@ -33,4 +33,4 @@ Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter &quot;[!UICON
 
 ## In Kürze verfügbar: Unterstützung für mehrere Modelle {#coming-soon-support-for-multiple-models}
 
-Wir legen den Grundstein für die Unterstützung mehrerer Umsatzzyklusmodelle, die in einer zukünftigen Version #1 Idee für RCA in der Community gewählt wurden. In dieser Version werden Sie einige Änderungen feststellen, darunter [Filter für Smart-Listen und Auswahl hinzufügen in Flussschritten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) um die Auswahl eines Modells und einer Phase zu unterstützen. Außerdem verschieben wir die Felder „Lead-Umsatzschritt“ und „Lead-Umsatzzyklusmodell“ aus der Registerkarte „Smartes Listen-Lead-Raster“.
+Wir legen den Grundstein für die Unterstützung mehrerer Umsatzzyklusmodelle, die in einer zukünftigen Version #1 Idee für RCA in der Community gewählt wurden. In dieser Version werden Sie einige Änderungen bemerken, darunter Filter für Smart-Listen und Optionen in Flussschritten hinzufügen , um die Auswahl eines Modells und einer Phase zu unterstützen. Außerdem verschieben wir die Felder „Lead-Umsatz-Phase“ und „Lead-Umsatz-Zyklusmodell“ aus der Registerkarte „Smartes Listen-Lead-Raster“.

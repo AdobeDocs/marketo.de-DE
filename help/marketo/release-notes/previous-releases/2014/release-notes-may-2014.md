@@ -4,9 +4,9 @@ description: Mai 2014 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2014 - Versionshinweise
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '466'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Jetzt können Sie [nicht verwendeten Arbeitsbereich löschen](/help/marketo/prod
 
 ## Erstbesetzung planen {#schedule-first-cast}
 
-In Interaktionsprogrammen können Sie das Datum für die (erste [) Ausführung &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Geben Sie beispielsweise die Kadenz an, die alle 2 Wochen erfolgen soll, und wählen Sie das Datum der ersten Besetzung aus.
+In Interaktionsprogrammen können Sie das Datum für die (erste [) Ausführung ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Geben Sie beispielsweise die Kadenz an, die alle 2 Wochen erfolgen soll, und wählen Sie das Datum der ersten Besetzung aus.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -33,7 +33,7 @@ Jetzt erhält jeder mehrere Programme, Streams und Kommunikationsbeschränkungen
 
 ## Linktracking in Textnachrichten {#link-tracking-in-text-emails}
 
-[Fügen Sie doppelte eckige Klammern &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) URLs in der Textversion Ihrer E-Mails hinzu, um anzugeben, wann Links in umgeleitete Marketo-Tracking-Links konvertiert werden sollen
+[Fügen Sie doppelte eckige Klammern ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) URLs in der Textversion Ihrer E-Mails hinzu, um anzugeben, wann Links in umgeleitete Marketo-Tracking-Links konvertiert werden sollen
 
 >[!NOTE]
 >
@@ -69,11 +69,11 @@ Laden Sie die neueste Version von [!UICONTROL Sales Insight] von AppExchange her
 
 ## Programmstatus und Erfolgszeitrahmen in der Analyse der Programmmitgliedschaft {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Ermitteln Sie, wie viele [Mitglieder sich in jedem Programmstatus befinden](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) und wann sie in jeden Status gewechselt haben, einschließlich des Datums, an dem sie den Programmerfolg erzielt haben.
+Anzeigen, wie viele Mitglieder sich in jedem Programmstatus befinden und wann sie zu jedem Status gewechselt haben, einschließlich des Datums, an dem sie den Programmerfolg erzielt haben.
 
 ## A/B-Test-E-Mails in [!UICONTROL E-Mail-Analyse] {#a-b-test-emails-in-email-analysis}
 
-Erstellen Sie für jede Ihrer A/B[Test-E-Mail](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)Varianten einen Bericht in [!UICONTROL E-Mail-Analyse].
+Erstellen Sie Berichte zu den einzelnen Varianten Ihrer A/B-Test-E-Mails in [!UICONTROL E-Mail-].
 
 ## Änderungen am Analytics-Paket {#analytics-packaging-changes}
 
@@ -81,4 +81,4 @@ Modeler und Success Path Analyzer sind jetzt in MA Standard Edition enthalten.
 
 ## Informationen zur mobilen Plattform {#mobile-platform-info}
 
-[Segment und Trigger &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) von Leads, die E-Mails von ihren Mobilgeräten aus öffnen und klicken.
+[Segment und Trigger ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) von Leads, die E-Mails von ihren Mobilgeräten aus öffnen und klicken.

@@ -4,20 +4,16 @@ description: Erfahren Sie, wie Sie E-Mail-Adressen für Basisberichte abonnieren
 title: Abonnieren eines Basisberichts
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 11%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
 
 # Abonnieren eines Basisberichts {#subscribe-to-a-basic-report}
 
 Um automatische Aktualisierungen eines Basisberichts zu erhalten oder sie freizugeben, können Sie eine beliebige E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
-
->[!NOTE]
->
->Informationen zu Berichtsabonnements für den Umsatzzyklus finden Sie unter [Abonnieren eines Berichts zum Umsatzzyklus-Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -47,4 +43,4 @@ Um automatische Aktualisierungen eines Basisberichts zu erhalten oder sie freizu
 
    >[!MORELIKETHIS]
    >
-   >Erfahren Sie[&#x200B; wie Sie alle Berichtsabonnements &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.
+   >Erfahren Sie[ wie Sie alle Berichtsabonnements ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.

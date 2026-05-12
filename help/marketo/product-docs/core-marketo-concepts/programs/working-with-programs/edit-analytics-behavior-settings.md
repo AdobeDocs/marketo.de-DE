@@ -4,16 +4,16 @@ description: Erfahren Sie, wie Sie Analytics-Verhaltenseinstellungen für ein Pr
 title: Bearbeiten von Einstellungen für das Analyseverhalten
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '174'
 ht-degree: 8%
 
 ---
 
 # Bearbeiten von Einstellungen für das Analyseverhalten {#edit-analytics-behavior-settings}
 
-Sie können das [Analytics-Verhalten auf Admin-Ebene für Kanäle](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"} festlegen, es kann aber auch auf Programmebene bearbeitet werden. Und so geht das.
+Erfahren Sie, wie Sie das Analytics-Verhalten auf Programmebene bearbeiten.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -23,7 +23,7 @@ Sie können das [Analytics-Verhalten auf Admin-Ebene für Kanäle](/help/marketo
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL &#x200B; „Analytics Behavior] auf die Arbeitsfläche.
+1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL  „Analytics Behavior] auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 

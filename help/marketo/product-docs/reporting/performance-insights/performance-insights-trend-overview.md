@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die Trend-Ansicht „Performance Insights�
 title: Trend von Performance Insights – Überblick
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Klicken Sie auf die **[!UICONTROL Trend]**, um auf diese Ansicht zuzugreifen.
 
 ![](assets/2-1.png)
 
-Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden wir gewonnene Opportunitys mit &quot;[[!UICONTROL -Touch“ &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten.
 
 ![](assets/3-2.png)
 

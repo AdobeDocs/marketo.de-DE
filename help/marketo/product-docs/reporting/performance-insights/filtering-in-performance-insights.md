@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Performance Insights-Daten nach ABM-Kontolist
 title: Filtern in Performance Insights
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 5%
+source-wordcount: '325'
+ht-degree: 4%
 
 ---
 
@@ -53,11 +53,7 @@ Sie können einen Filter jederzeit entfernen, indem Sie auf das X daneben klicke
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">ABM-Namenskonto</span></strong></td>
-   <td colspan="1">Wenn Sie Marketo ABM verwenden, werden alle Ihre benannten Konten mit MPI synchronisiert und über den Filter „ABM Named Account“ angezeigt. Sie können ein benanntes Konto auswählen, um die Ergebnisse nach diesen Konten zu filtern.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Erfahren Sie mehr über benannte ABM-Konten.</a></td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong><span class="uicontrol">Benutzerdefiniertes Attribut</span></strong></td>
-   <td colspan="1"><p>Diese werden von euch bestimmt. Alle Felder, <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow"> Sie für </a> Opportunity-Analyse aktivieren, können in Performance Insights gefiltert werden.</p></td>
+   <td colspan="1">Wenn Sie Marketo ABM verwenden, werden alle Ihre benannten Konten mit MPI synchronisiert und über den Filter „ABM-benanntes Konto“ angezeigt. Sie können ein benanntes Konto auswählen, um die Ergebnisse nach diesen Konten zu filtern.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Erfahren Sie mehr über benannte ABM-Konten.</a></td>
   </tr>
   <tr>
    <td colspan="1"><p><strong><span class="uicontrol">Investitionszeitraum</span></strong></p></td>
