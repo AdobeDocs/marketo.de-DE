@@ -4,9 +4,9 @@ description: Verknüpfung  [!DNL Google AdWords]  Marketo über LaunchPoint zum 
 title: ' [!DNL Google AdWords]  as a [!DNL LaunchPoint] Service'
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '284'
 ht-degree: 3%
 
 ---
@@ -91,7 +91,3 @@ Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](h
    >[Automatisches Tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} muss ausgewählt sein, damit diese Funktion funktioniert. Die Deaktivierung muss innerhalb von [!DNL AdWords] erfolgen.
 
 Im folgenden verwandten Artikel erfahren Sie, wie Sie [!DNL AdWords] Offline-Konversionen in Ihrem Umsatzmodell zuordnen.
-
->[!MORELIKETHIS]
->
->[Set [!DNL Google AdWords] Conversions im Umsatzmodell](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

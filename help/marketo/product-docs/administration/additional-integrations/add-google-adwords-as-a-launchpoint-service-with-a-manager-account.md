@@ -4,9 +4,9 @@ description: Integrieren mehrerer  [!DNL Google AdWords]  mit Marketo mithilfe e
 title: Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service mit einem Manager-Konto
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '309'
 ht-degree: 3%
 
 ---
@@ -82,7 +82,7 @@ Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](h
 
    >[!NOTE]
    >
-   >[Automatisches Tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} muss ausgewählt sein, damit diese Funktion funktioniert. It must be activated inside [!DNL AdWords].
+   >[Automatisches Tagging](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} muss ausgewählt sein, damit diese Funktion funktioniert. Sie muss in [!DNL AdWords] aktiviert werden.
 
 1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
@@ -93,7 +93,3 @@ Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](h
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
    Im entsprechenden Artikel unten finden Sie Informationen zum Zuordnen [!DNL AdWords] Offline-Konversionen in Ihrem Umsatzmodell.
-
-   >[!MORELIKETHIS]
-   >
-   >[Set [!DNL Google AdWords] Conversions im Umsatzmodell mit einem Manager-Konto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

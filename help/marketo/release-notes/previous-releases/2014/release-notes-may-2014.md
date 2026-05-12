@@ -4,9 +4,9 @@ description: Mai 2014 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2014 - Versionshinweise
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '466'
 ht-degree: 2%
 
 ---
@@ -69,11 +69,11 @@ Laden Sie die neueste Version von [!UICONTROL Sales Insight] von AppExchange her
 
 ## Programmstatus und Erfolgszeitrahmen in der Analyse der Programmmitgliedschaft {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Ermitteln Sie, wie viele [Mitglieder sich in jedem Programmstatus befinden](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) und wann sie in jeden Status gewechselt haben, einschließlich des Datums, an dem sie den Programmerfolg erzielt haben.
+Anzeigen, wie viele Mitglieder sich in jedem Programmstatus befinden und wann sie zu jedem Status gewechselt haben, einschließlich des Datums, an dem sie den Programmerfolg erzielt haben.
 
 ## A/B-Test-E-Mails in [!UICONTROL E-Mail-Analyse] {#a-b-test-emails-in-email-analysis}
 
-Erstellen Sie für jede Ihrer A/B[Test-E-Mail](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)Varianten einen Bericht in [!UICONTROL E-Mail-Analyse].
+Erstellen Sie Berichte zu den einzelnen Varianten Ihrer A/B-Test-E-Mails in [!UICONTROL E-Mail-].
 
 ## Änderungen am Analytics-Paket {#analytics-packaging-changes}
 

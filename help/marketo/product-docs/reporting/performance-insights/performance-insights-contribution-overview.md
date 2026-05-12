@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über die Ansicht „Performance-Insights-Beitrag
 title: Beitrag von Performance Insights – Übersicht
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 1%
@@ -17,13 +17,9 @@ In Marketo [!UICONTROL Performance Insights] wird standardmäßig die Beitragsan
 
 ![](assets/one-1.png)
 
-Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden die über „Multi-Touch **[!UICONTROL im Dashboard]** Umsatz _[!UICONTROL gewonnenen]_ behandelt.
+Wählen Sie die Metrik aus, nach der Sie die Leistung anzeigen möchten. In diesem Beispiel werden die über „Multi-Touch **[!UICONTROL im Dashboard _[!UICONTROL Umsatz]_ gewonnenen]** behandelt.
 
 ![](assets/2.png)
-
->[!NOTE]
->
->Erfahren Sie mehr über [[!UICONTROL Erstkontakt] und [!UICONTROL Mehrfachkontakt]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Wählen Sie aus, für welchen Zeitraum Sie Metriken anzeigen möchten. In diesem Beispiel sehen wir das aktuelle Jahr (vom aktuellen Datum bis zum aktuellen Datum).
 
@@ -31,7 +27,7 @@ Wählen Sie aus, für welchen Zeitraum Sie Metriken anzeigen möchten. In diesem
 
 >[!NOTE]
 >
->Wir haben die Auswahl „Vorjahr“ vorübergehend entfernt. Sie haben weiterhin die Möglichkeit, die gesamten Leistungsdaten des Vorjahres mithilfe der Auswahl **[!UICONTROL Benutzerdefinierter Bereich“]**.
+>Wir haben die Auswahl „Vorjahr“ vorübergehend entfernt. Sie haben weiterhin die Möglichkeit, die gesamten Leistungsdaten des Vorjahres mithilfe der Auswahl **[!UICONTROL Benutzerdefinierter Bereich]** anzuzeigen.
 
 Die Metriken werden in zwei Diagrammen angezeigt: Ringdiagramm und Balkendiagramm.
 

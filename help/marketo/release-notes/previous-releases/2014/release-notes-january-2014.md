@@ -4,10 +4,10 @@ description: Versionshinweise - Januar 2014 - Marketo-Dokumentation - Produktdok
 title: Januar 2014 - Versionshinweise
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 4%
+source-wordcount: '301'
+ht-degree: 3%
 
 ---
 
@@ -47,6 +47,6 @@ Die Zeiten, in denen HTML-Code aus Formularen auf Marketo-Landingpages entfernt 
 
 ## Zusätzliche Felder in Programmmitgliedschafts-Analyse {#additional-fields-in-program-membership-analysis}
 
-Jetzt können Sie Ihre Metriken zur [Programmmitgliedschaftsanalyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) nach Lead- und Unternehmensattributen hinzufügen und gruppieren. Sie können beispielsweise das Feld Branche hinzufügen, um die Aufteilung Ihrer Programmmitglieder und Erfolge anzuzeigen.
+Jetzt können Sie Ihre Metriken zur Programmmitgliedschaftsanalyse hinzufügen und nach Lead- und Unternehmensattributen gruppieren. Sie können beispielsweise das Feld Branche hinzufügen, um die Aufteilung Ihrer Programmmitglieder und Erfolge anzuzeigen.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

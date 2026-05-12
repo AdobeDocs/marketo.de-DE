@@ -4,9 +4,9 @@ description: März 2014 - Marketo-Dokumentation - Produktdokumentation
 title: März 2014 - Versionshinweise
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '419'
 ht-degree: 4%
 
 ---
@@ -35,7 +35,7 @@ Bei Verwendung des [Programmleistungsberichts](/help/marketo/product-docs/core-m
 
 ## Enthaltene und betriebliche Programme für Analytics {#inclusive-and-operational-programs-for-analytics}
 
-Sie können jetzt [Programme ohne Periodenkosten einbeziehen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) in [!UICONTROL Umsatz-Explorer] und Analyzer verwenden, indem Sie die Analytics-Verhaltensoption auf „Inklusiv“ setzen, wenn Sie Programmkanäle bearbeiten. Sie können operationelle Programme auch von der gesamten Berichterstattung ausschließen, indem Sie „Operativ“ wählen.
+Sie können jetzt Programme ohne Periodenkosten in [!UICONTROL Umsatz-Explorer] und Analyzer einbeziehen, indem Sie die Analytics-Verhaltensoption auf „Inklusiv“ setzen, wenn Sie Programmkanäle bearbeiten. Sie können operationelle Programme auch von der gesamten Berichterstattung ausschließen, indem Sie „Operativ“ wählen.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359965
-description: Learn about available report types including People Performance, Email Performance, Campaign Email Performance, and Web Activity reports. Choose the right report type for your analysis needs.
+description: Erfahren Sie mehr über die verfügbaren Berichtstypen, einschließlich der Berichte Personenleistung, E-Mail-Leistung, Kampagnen-E-Mail-Leistung und Web-Aktivität. Wählen Sie den richtigen Berichtstyp für Ihre Analyseanforderungen.
 title: Überblick über Berichtstypen
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: f69cd13e686da48a531d7affb7ce224cf42f1806
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 15%
+source-wordcount: '235'
+ht-degree: 17%
 
 ---
 
 # Überblick über Berichtstypen {#report-type-overview}
 
-When you [create a report in a program](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), choose what type of report you want.
+Wenn Sie [einen Bericht in einem Programm erstellen](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) wählen Sie den gewünschten Berichtstyp aus.
 
-## Most Used Reports {#most-used-reports}
+## Am häufigsten verwendete Berichte {#most-used-reports}
 
 <table>
  <thead>
@@ -27,51 +27,43 @@ When you [create a report in a program](/help/marketo/product-docs/reporting/bas
  <tbody>
   <tr>
    <td><strong><a href="people-performance-report.md">Personenleistungsbericht</a></strong></td>
-   <td>Group people by any attribute and include opportunity info. Drill down and explore.</td>
+   <td>Personen nach beliebigen Attributen gruppieren und Opportunity-Informationen einschließen. Drilldown und Erkunden.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md">E-Mail-Link-Leistung</a>  </strong></td>
-   <td>Stats on the individual links in your emails.</td>
+   <td>Statistiken zu den einzelnen Links in Ihren E-Mails.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md">E-Mail-Leistung</a>  </strong></td>
-   <td>Review interactions with your emails: delivered or bounced, opened, clicked, unsubscribed, etc.</td>
+   <td>Interaktionen mit Ihren E-Mails überprüfen: zugestellt oder zurückgeschickt, geöffnet, angeklickt, abgemeldet usw.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Sales Insight-E-Mail-Leistung</a></strong></td>
-   <td>Review interactions with your emails sent through Marketo Sales Insight in Salesforce, Microsoft Dynamics, and the Outlook and Gmail plug-in.</td>
+   <td>Überprüfen Sie die Interaktionen mit Ihren E-Mails, die über Marketo Sales Insight in Salesforce, Microsoft Dynamics und das Outlook- und Gmail-Plug-in gesendet werden.</td>
   </tr>
   <tr>
    <td><strong><a href="people-by-status-report.md">Bericht zu Personen nach Status</a></strong></td>
-   <td>Automatic reporting based on the Person Status field.</td>
-  </tr>
-  <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Bericht zu Personen nach Umsatzphase</a></strong></td>
-   <td>Basic reporting for your Revenue Model. See <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> for deeper reporting.</td>
+   <td>Automatische Berichterstellung basierend auf dem Feld Personenstatus .</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Landing Page-Leistung</a>  </strong></td>
-   <td>View visits, conversions, and other metrics for your landing pages.</td>
-  </tr>
-  <tr>
-   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programmleistung</a>  </strong></td>
-   <td>Basic program metrics like members and success. See <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Revenue Cycle Analytics</a> for deeper reporting.</td>
+   <td>Besuche, Konversionen und andere Metriken für Ihre Landingpages anzeigen.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Unternehmens-Webaktivität</a></strong></td>
-   <td>Report on web activity to your landing pages and public website, grouped by company.</td>
+   <td>Berichte über Web-Aktivitäten zu Ihren Landingpages und Ihrer öffentlichen Website, gruppiert nach Unternehmen.</td>
   </tr>
   <tr>
    <td><strong><a href="web-page-activity-report.md">Webseitenaktivität</a></strong></td>
-   <td>Report on web activity to your landing pages and public website.</td>
+   <td>Erstellen Sie Berichte über Web-Aktivitäten auf Ihren Landingpages und auf der öffentlichen Website.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Leistungsbericht für Interaktionsströme</a> </strong></td>
-   <td>See how well your <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagement program</a> is working.</td>
+   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Kampagnen-E-Mail-Leistung</a> </strong></td>
-   <td>See how well your <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">engagement program</a> is working.</td>
+   <td>Erfahren Sie, wie <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> Ihr </a> funktioniert.</td>
   </tr>
  </tbody>
 </table>

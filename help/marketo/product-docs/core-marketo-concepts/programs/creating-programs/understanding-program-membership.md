@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über die Programmmitgliedschaft und darüber, wi
 title: Grundlegendes zur Programmmitgliedschaft
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '271'
 ht-degree: 2%
 
 ---
@@ -56,7 +56,7 @@ Zweck eines Programms ist es, eine sinnvolle Interaktion mit der Person oder dem
 
 ## Akquirierungsprogramm {#acquisition-program}
 
-Wenn ein neuer Name als Programmteilnehmer in das System eintritt, setzt Marketo dieses Programm automatisch auf „Akquise“. Dadurch wird eine Gutschrift für [Erstkontakt-Attribution](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"} erstellt.
+Wenn ein neuer Name als Programmteilnehmer in das System eintritt, setzt Marketo dieses Programm automatisch auf „Akquise“.
 
 >[!MORELIKETHIS]
 >

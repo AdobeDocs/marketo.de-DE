@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 9129e60d468173fc5f17a4acf8126f04a2183711
+source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
 workflow-type: tm+mt
-source-wordcount: '9238'
-ht-degree: 97%
+source-wordcount: '8827'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,6 @@ ht-degree: 97%
       + [Best Practices für neue Instanzen: Dokumentieren Ihrer Einrichtung](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Was Sie wissen sollten {#things-to-know}
       + [Marketo Engage-Glossar](getting-started/things-to-know/marketo-engage-glossary.md)
-      + {hide-from-toc}[Neues Glossar](getting-started/things-to-know/new-glossary.md)
       + [Symbol-Glossar](getting-started/things-to-know/icon-glossary.md)
       + [Glossar mit klassischem Symbol](getting-started/things-to-know/classic-icon-glossary.md)
       + [Hilfezentrum](getting-started/things-to-know/help-center.md)
@@ -1727,81 +1726,6 @@ ht-degree: 97%
          + [Einstellungen für Performance Insights](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [Trend von Performance Insights – Überblick](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [Einrichten von Performance Insights](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-      + Revenue Cycle Analytics {#revenue-cycle-analytics}
-         + E-Mail-Analyse {#email-analysis}
-            + [Erstellen eines E-Mail-Analyseberichts mit einer Liste der Leads](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
-            + [Erstellen eines E-Mail-Analyseberichts mit Programminformationen](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)
-            + [Grundlegendes zum Bereich „E-Mail-Analyse“](product-docs/reporting/revenue-cycle-analytics/email-analysis/understanding-the-email-analysis-area.md)
-         + Analyzer für Opportunity-Einfluss {#opportunity-influence-analyzer}
-            + [Grundlegendes zum Analyzer für Opportunity-Einfluss](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/understanding-the-opportunity-influence-analyzer.md)
-            + [Konfigurieren eines Analyzers für Opportunity-Einfluss](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
-            + [Erstellen eines Analyzers für Opportunity-Einfluss](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
-            + [Exportieren eines Analyzers für Opportunity-Einfluss](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
-            + [Erzählen einer Marketing-Story mit einem Analyzer für Opportunity-Einfluss](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
-         + Programmanalyse {#program-analytics}
-            + [Übersicht über die erweiterten Programmberichte](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
-            + [Erstellen eines Berichts zur Programmmitgliedschaftsanalyse, in dem Leads aufgelistet sind](product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)
-            + [Klonen eines Programm-Analyzers](product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
-            + [Vergleichen der Kanaleffektivität mit dem Programm-Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
-            + [Vergleichen der Programmeffektivität mit dem Programm-Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
-            + [Erstellen eines Programm-Analyzers](product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
-            + [Erkunden von Programm- und Kanaldetails mit dem Programm-Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
-            + [Verfügbarmachung eines Programms ohne Kostenzeitraum in Revenue Explorer und Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)
-            + [Überschreiben von Analyseverhalten auf Programmebene](product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
-            + [Grundlegendes zum Bereich für die Analyse der Programmkosten](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-cost-analysis-area.md)
-            + [Grundlegendes zum Bereich für die Analyse der Programmmitgliedschaft](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-membership-analysis-area.md)
-            + [Grundlegendes zum Bereich für die Analyse der Programm-Opportunitys](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
-            + [Grundlegendes zum Bereich für die Analyse der Programmumsatzphasen](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
-         + Umsatzzyklusmodelle {#revenue-cycle-models}
-            + [Genehmigen/Aufheben der Genehmigung eines Umsatzmodells](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
-            + [Bearbeiten des genehmigten Modells](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
-            + [Genehmigen von Phasen und Zuweisen von Leads zu einem Umsatzmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
-            + [Ändern des Namens einer Phase](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/changing-the-name-of-a-stage.md)
-            + [Klonen eines Beispiel-Umsatzmodells in Marketo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
-            + [Erstellen eines neuen Umsatzmodells](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-            + [Erstellen eines Erfolgspfad-Analyzers](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
-            + [Aktivieren von benutzerdefinierten Feldergruppen für die Analyse der Modellleistung (Leads)](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
-            + [Suchen nach allen Leads in einem Umsatzzyklusmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
-            + [Zusammenführen von zwei Phasen im Umsatz-Modeler](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
-            + [Berichte zu Ihrem Umsatzmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-            + [Festlegen von Google AdWords-Konversionen im Umsatzmodell mit einem Manager-Konto](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-            + [Festlegen von Google AdWords-Konversionen im Umsatzmodell](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-            + [Beginnen mit dem Tracking nach Konto im Umsatz-Modeler](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
-            + [Grundlegendes zu Umsatzmodellphasen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
-            + [Grundlegendes zum Erfolgspfad eines Umsatzmodells](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
-            + [Grundlegendes zu Umsatzmodellen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
-            + [Verwenden der Umsatzmodell-Gate-Phasen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
-            + [Verwenden der Umsatzmodell-Inventarphasen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [Verwenden der Umsatzmodell-SLA-Phasen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
-            + [Verwenden von Umsatzmodellübergängen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
-            + [Verwenden des Erfolgspfad-Analyzers](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
-         + Revenue Explorer {#revenue-explorer}
-            + [Hinzufügen benutzerdefinierter Kennzahlen zu einem Revenue Explorer-Bericht](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
-            + [Hinzufügen von Feldern zu einem Revenue Explorer-Bericht](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
-            + [Erstellen eines Revenue Explorer-Berichts](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
-            + [Anpassen und Anzeigen von Wärmenetzen](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/customize-and-display-heat-grids.md)
-            + [Löschen eines Felds in einem Revenue Explorer-Bericht](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
-            + [Exportieren eines Revenue Explorer-Berichts](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/exporting-a-revenue-explorer-report.md)
-            + [Grafisches Darstellen der Ergebnisse aus dem Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/graphing-results-from-revenue-explorer.md)
-            + [Berichtstypen zum Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/revenue-explorer-report-types.md)
-            + [Speichern eines Revenue Explorer-Berichts](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
-            + [Abonnieren eines Revenue Explorer-Berichts](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-            + [Synchronisieren benutzerdefinierter Felder mit dem Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)
-            + [Grundlegendes zur Opportunity-Analyse im Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)
-            + [Verwenden von Dashboards im Revenue Explorer](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/using-dashboards-in-revenue-explorer.md)
-         + Umsatz-Tools {#revenue-tools}
-            + [Definieren der Kostenzeiträume](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
-            + [Aktivieren der Synchronisierung benutzerdefinierter Felder für die Umsatzzyklusanalyse](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
-            + [Bericht zu Personen nach Umsatzphase](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + Attribution {#attribution}
-               + [Grundlegendes zu Attribution](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
-               + [Attributionsbeispiel 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
-               + [Attributionsbeispiel 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
-               + [Attributionsbeispiel 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
-               + [Attributionsbeispiel 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-            + Feldorganisatoren {#field-organizers}
-               + [Verwenden von Feldorganisatoren](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
-               + [Erstellen benutzerdefinierter Feldergruppen mit dem Feldorganisator](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
       + Erweiterte BI-Analyse {#advanced-bi-analytics}
          + [Erweiterte BI-Analyse – Überblick](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [Metriken und Dimensionen](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)

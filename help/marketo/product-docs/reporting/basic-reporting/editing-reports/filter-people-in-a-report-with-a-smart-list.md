@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie Personen in Berichten mithilfe von Smart List
 title: Filtern von Personen in einem Bericht mit einer intelligenten Liste
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 34%
+source-wordcount: '143'
+ht-degree: 32%
 
 ---
 
@@ -19,7 +19,6 @@ Sie können Smart Lists mit den folgenden Berichtstypen verwenden:
 
 * [Leistung (Personen)](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Personen nach Status](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Personen nach Umsatzstadium](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
 * [E-Mail-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [E-Mail-Link-Leistung](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Engagement-Stream Performance](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)

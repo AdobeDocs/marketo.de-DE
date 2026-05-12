@@ -4,7 +4,7 @@ description: Versionshinweise - Februar 2014 - Marketo-Dokumentation - Produktdo
 title: Versionshinweise - Februar 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 3%
@@ -45,7 +45,7 @@ Wir haben die Interaktionsbewertung zum Bericht [[!UICONTROL Interaktionsstrom-L
 
 ## Programmdetails in der E-Mail-Analyse {#program-details-in-email-analysis}
 
-[Jetzt können Sie Ihre E-Mail-Metriken nach Programmname, Kanal und Tags gruppieren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). Der Programmname wird zum Feld E-Mail-Name hinzugefügt, wenn die E-Mail ein lokales Asset des Programms ist. Das Feld Neuer Programmname zeigt den Programmnamen der Smart-Kampagne an, die die E-Mail gesendet hat. Dies kann sich vom Programm im Feld E-Mail-Name unterscheiden, wenn die E-Mail ein lokales Asset eines anderen Programms ist.
+Jetzt können Sie Ihre E-Mail-Metriken nach Programmname, Kanal und Tags gruppieren. Der Programmname wird zum Feld E-Mail-Name hinzugefügt, wenn die E-Mail ein lokales Asset des Programms ist. Das Feld Neuer Programmname zeigt den Programmnamen der Smart-Kampagne an, die die E-Mail gesendet hat. Dies kann sich vom Programm im Feld E-Mail-Name unterscheiden, wenn die E-Mail ein lokales Asset eines anderen Programms ist.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 
