@@ -23,7 +23,7 @@ Erfahren Sie, wie Sie das Analytics-Verhalten auf Programmebene bearbeiten.
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL  „Analytics Behavior] auf die Arbeitsfläche.
+1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL &#x200B; „Analytics Behavior] auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 

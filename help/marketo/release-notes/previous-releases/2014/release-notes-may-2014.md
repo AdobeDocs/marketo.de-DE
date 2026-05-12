@@ -21,7 +21,7 @@ Jetzt können Sie [nicht verwendeten Arbeitsbereich löschen](/help/marketo/prod
 
 ## Erstbesetzung planen {#schedule-first-cast}
 
-In Interaktionsprogrammen können Sie das Datum für die (erste [) Ausführung ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Geben Sie beispielsweise die Kadenz an, die alle 2 Wochen erfolgen soll, und wählen Sie das Datum der ersten Besetzung aus.
+In Interaktionsprogrammen können Sie das Datum für die (erste [) Ausführung &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Geben Sie beispielsweise die Kadenz an, die alle 2 Wochen erfolgen soll, und wählen Sie das Datum der ersten Besetzung aus.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -33,7 +33,7 @@ Jetzt erhält jeder mehrere Programme, Streams und Kommunikationsbeschränkungen
 
 ## Linktracking in Textnachrichten {#link-tracking-in-text-emails}
 
-[Fügen Sie doppelte eckige Klammern ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) URLs in der Textversion Ihrer E-Mails hinzu, um anzugeben, wann Links in umgeleitete Marketo-Tracking-Links konvertiert werden sollen
+[Fügen Sie doppelte eckige Klammern &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) URLs in der Textversion Ihrer E-Mails hinzu, um anzugeben, wann Links in umgeleitete Marketo-Tracking-Links konvertiert werden sollen
 
 >[!NOTE]
 >
@@ -81,4 +81,4 @@ Modeler und Success Path Analyzer sind jetzt in MA Standard Edition enthalten.
 
 ## Informationen zur mobilen Plattform {#mobile-platform-info}
 
-[Segment und Trigger ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) von Leads, die E-Mails von ihren Mobilgeräten aus öffnen und klicken.
+[Segment und Trigger &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) von Leads, die E-Mails von ihren Mobilgeräten aus öffnen und klicken.

@@ -29,7 +29,7 @@ Die folgenden Funktionen sind in der Version vom Februar 2014 enthalten. Bitte �
 
 ## Personen/[!UICONTROL Leads] vom Mailing blockiert {#people-leads-blocked-from-mailing}
 
-[Klicken Sie auf die Personen/Leads, die von der ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) gesperrt sind, um anzuzeigen, wer die E-Mail nicht erhalten wird, da er sich abgemeldet hat, auf der schwarzen Liste steht, eine ungültige oder leere E-Mail-Adresse hat oder vom Marketing suspendiert wurde.
+[Klicken Sie auf die Personen/Leads, die von der &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) gesperrt sind, um anzuzeigen, wer die E-Mail nicht erhalten wird, da er sich abgemeldet hat, auf der schwarzen Liste steht, eine ungültige oder leere E-Mail-Adresse hat oder vom Marketing suspendiert wurde.
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
