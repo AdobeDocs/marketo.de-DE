@@ -3,9 +3,9 @@ description: Fragen Sie Marketo AI mithilfe von Produktkenntnissen nach Marketo 
 title: Produktkenntnisse
 beta: true
 hide: true
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: cb30495d71d5b4d4fe86d33eed0677eaee882c5e
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '413'
 ht-degree: 1%
 
 ---
@@ -24,8 +24,6 @@ Produktkenntnisse bieten Ihnen On-Demand-Zugriff auf Marketo-Know-how, ohne die 
 
 ## Anwendungsszenarien {#use-cases}
 
-Im Folgenden finden Sie einige Beispiele dafür, wofür Sie das Produktwissen von Marketo AI verwenden können.
-
 **Fehlerbehebung bei einer Smart** Kampagne: Ein Spezialist für Marketing-Ops kann nicht herausfinden, warum Personen keinen Smart-Campaign-Trigger durchlaufen. Sie fragen: „Warum sollte eine Trigger-Kampagne nicht ausgelöst werden, selbst wenn die Leute die Filterkriterien erfüllen?“ Marketo AI führt Sie durch die häufigsten Ursachen: Die Kampagne ist nicht aktiviert, das Kampagnenereignis tritt nicht auf, die Person hat die Kampagne bereits durchlaufen, und die Qualifizierungsregeln verhindern den erneuten Eintritt.
 
 **Auswahl zwischen Batch- und Trigger-Kampagnen**: Ein Demand Gen-Manager ist sich nicht sicher, welcher Kampagnentyp für einen zeitabhängigen Warnhinweis verwendet werden soll. Sie fragen: „Was ist der Unterschied zwischen einer Batch-Kampagne und einer Trigger-Kampagne, und wann sollte ich jede verwenden?“ Marketo AI erläutert die Unterscheidung und empfiehlt Trigger für ereignisgesteuerte Aktionen in Echtzeit (wie MQL-Warnhinweise) und Batch-Kampagnen für geplante Sendungen an eine definierte Liste.
@@ -34,7 +32,7 @@ Im Folgenden finden Sie einige Beispiele dafür, wofür Sie das Produktwissen vo
 
 ## Zu beachtende Punkte {#things-to-note}
 
-* **Produktkenntnisse eignen sich am besten für allgemeine Fragen zu Marketo und** Practices: Sie haben keinen Zugriff auf Ihre spezifischen Instanzdaten.
+* **Produktkenntnisse eignen sich am besten für allgemeine Fragen zu Marketo und** Practices: Sie haben keinen Zugriff auf Ihre spezifischen Abonnementdaten.
 * **Spezifische Agenten verwenden, falls verfügbar**: Bei Fragen darüber, warum sich eine Person/ein Lead oder eine Kampagne auf eine bestimmte Weise verhalten hat, verwenden Sie _Lead-_ oder _Programm-_.
 * **Das Wissen der Marketo-KI spiegelt die dokumentierten Anleitungen und Best Practices von Adobe wider**: Für die neuesten Funktionsveröffentlichungen lesen Sie direkt die Adobe Marketo Engage-Versionshinweise.
 * **Je genauer Ihre Frage, desto nützlicher die Antwort** „Wie funktioniert das Personen-/Lead-Scoring?“ erhält eine weiter gefasste Antwort als „Sollte ich einen Preis-Seitenbesuch bei 10 oder 15 Punkten erzielen?“
