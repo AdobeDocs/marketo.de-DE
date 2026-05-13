@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
+source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
 workflow-type: tm+mt
-source-wordcount: '8827'
+source-wordcount: '8829'
 ht-degree: 96%
 
 ---
@@ -64,6 +64,7 @@ ht-degree: 96%
       + [Einstellungen und Setup](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[Einstellungen und Setup](product-docs/marketo-ai/settings-setup-old.md)
       + Agentinnen bzw. Agenten {#agents}
+         + {hide-from-toc}[Produktkenntnisse](product-docs/marketo-ai/agents/product-knowledge.md)
          + [Leads importieren](product-docs/marketo-ai/agents/import-leads.md)
          + [Programm-QA](product-docs/marketo-ai/agents/program-qa.md)
    + Zusätzliche Apps {#additional-apps}
