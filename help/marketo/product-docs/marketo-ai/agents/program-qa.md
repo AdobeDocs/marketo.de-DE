@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie Ihre Programme auf Best Practices für alle K
 title: Programm-QA
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '195'
 ht-degree: 2%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 2%
 
 Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails, Landingpages, Kampagnen und mehr.
 
+>[!PREREQUISITES]
+>
+>Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+
 >[!NOTE]
 >
->Diese Funktion befindet sich in der offenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird,_ Sie, wann sie für Ihr Abonnement aktiviert wurde.
+>Diese Funktion befindet sich in der geschlossenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird,_ Sie, wann sie für Ihr Abonnement aktiviert wurde.
 
 ## Informationen zur Verwendung {#how-to-use}
 
@@ -34,7 +38,7 @@ Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails
 
    ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-   Eine Zusammenfassung des Programms wird in der Mitte angezeigt und bietet einen Überblick über das Programm.
+   Eine Zusammenfassung des ausgewählten Programms wird in der Mitte angezeigt.
 
    ![](assets/program-qa-4.png){width="450" zoomable="yes"}
 
@@ -42,7 +46,7 @@ Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails
 
    ![](assets/program-qa-5.png)
 
-   Der KI-Assistent bietet eine Qualitätssicherung des ausgewählten Programms, die Ihnen zeigt, was bestanden wurde und was fehlgeschlagen ist.
+   Der KI-Assistent stellt eine Qualitätssicherung des ausgewählten Programms bereit, die Ihnen zeigt, was bestanden wurde und was fehlgeschlagen ist.
 
    ![](assets/program-qa-6.png)
 

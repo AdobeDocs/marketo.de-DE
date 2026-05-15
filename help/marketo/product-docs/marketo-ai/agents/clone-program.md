@@ -3,9 +3,9 @@ description: Das Klonprogramm dupliziert ein vorhandenes Marketo-Programm in ein
 title: Programm klonen
 beta: true
 hide: true
-source-git-commit: 4b982139b07f4a59752fead580ca40710935ff23
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '458'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,10 @@ Der Agent „Programm klonen“ kopiert ein Arbeitsprogramm, einschließlich der
 
 >[!PREREQUISITES]
 >
+>* Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>
 >* Sie müssen über die Berechtigung zum Erstellen von Programmen im Zielordner verfügen.
+>
 >* Das Quellprogramm, das Sie klonen möchten, muss bereits in Ihrer Marketo-Umgebung vorhanden sein.
 
 ## Informationen zur Verwendung {#how-to-use}
@@ -43,8 +46,8 @@ Der Agent „Programm klonen“ kopiert ein Arbeitsprogramm, einschließlich der
 
 ## Zu beachtende Punkte {#things-to-note}
 
-* **Klonierte Programme werden in einem deaktivierten Status erstellt**: Es wird nichts live geschaltet, bis Sie die Smart-Kampagnen aktivieren.
-* **E-Mail-Assets im Klon sind Kopien, die nicht für das Original freigegeben**: Änderungen an den E-Mails des Klons wirken sich nicht auf das Quellprogramm aus.
-* **Im Quellprogramm verwendete Token werden in den Klon kopiert**: Sie müssen jedoch weiterhin mit neuen Werten (Daten, URLs, Ereignisnamen) aktualisiert werden.
-* **Smart Campaign-Filter im Klon verweisen auf dieselben Listen und Felder wie das Original**: Überprüfen und aktualisieren Sie die Audience-Zielgruppenbestimmung vor der Aktivierung.
-* **Lokale Assets, die auf andere Programme oder freigegebene Listen verweisen, werden in den Klon kopiert**: Diese Verweise sollten vor der Aktivierung überprüft werden.
+* Klone Programme werden in einem deaktivierten Zustand erstellt. Es wird nichts live geschaltet, bis Sie die Smart-Kampagnen aktivieren.
+* E-Mail-Assets im Klon sind Kopien, die nicht mit dem Original geteilt werden. Änderungen an den E-Mails des Klons wirken sich nicht auf das Quellprogramm aus.
+* Im Quellprogramm verwendete Token werden in den Klon kopiert. Sie müssen jedoch weiterhin mit neuen Werten (Daten, URLs, Ereignisnamen) aktualisiert werden.
+* Die Smart-Kampagnenfilter im Klon verweisen auf dieselben Listen und Felder wie die Original-Kampagnen. Zielgruppen-Targeting vor der Aktivierung überprüfen und aktualisieren.
+* Lokale Assets, die auf andere Programme oder freigegebene Listen verweisen, werden in den Klon kopiert. Diese Verweise sollten vor der Aktivierung überprüft werden.

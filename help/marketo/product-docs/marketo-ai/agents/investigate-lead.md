@@ -4,10 +4,10 @@ title: Lead untersuchen
 beta: true
 hide: true
 hidefromtoc: true
-source-git-commit: a2c170ced2119a86ffe1f2da1bde212afa4841f0
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 1%
+source-wordcount: '536'
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,9 @@ Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie M
 
 >[!PREREQUISITES]
 >
->Sie müssen Ansichtszugriff auf den Lead-Datensatz und das Programm oder den Meilenstein haben, das/den Sie untersuchen.
-
-## Funktionsweise
-
-Sie teilen Marketo AI mit, welchen Lead Sie untersuchen und welche Meilensteine oder Ergebnisse Sie erwartet haben. Marketo AI untersucht den Aktivitätsverlauf des Leads, den Bewertungsdatensatz, die Programmmitgliedschaft, den Verlauf der intelligenten Kampagnenqualifizierung und alle relevanten Filter oder Unterdrückungsregeln. Anschließend wird eine klare Erklärung darüber zurückgegeben, was das erwartete Ergebnis blockiert oder verzögert hat - z. B. „Der Wert dieses Leads erreichte 48, aber der MQL-Schwellenwert ist 50“ oder „Dieser Lead wurde von der Kampagne ausgeschlossen, da er sich am 3. März abgemeldet hat.“
+>* Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>
+>* Sie müssen Ansichtszugriff auf den Lead-Datensatz und das Programm oder den Meilenstein haben, das/den Sie untersuchen.
 
 ## Informationen zur Verwendung {#how-to-use}
 
@@ -29,9 +27,9 @@ Sie teilen Marketo AI mit, welchen Lead Sie untersuchen und welche Meilensteine 
 
 1. Beschreiben Sie im Eingabeaufforderungsfenster, was Sie untersuchen. Geben Sie den Lead (per E-Mail oder Name) und das an, was erwartet wurde.
 
->[!NOTE]
->
->Beispiele: „Warum haben `john.smith@example.com` MQL im letzten Monat nicht erreicht?“ oder „Warum wurde Brenda Gonzales nicht in das Webinar-Programm für das 3. Quartal aufgenommen?“
+   >[!NOTE]
+   >
+   >Beispiele: „Warum haben `john.smith@example.com` MQL im letzten Monat nicht erreicht?“ oder „Warum wurde Sato Hanako nicht zum Webinar-Programm im 3. Quartal hinzugefügt?“
 
 1. Marketo AI holt die Bilanz und relevante Historie des Leads auf.
 
@@ -39,24 +37,18 @@ Sie teilen Marketo AI mit, welchen Lead Sie untersuchen und welche Meilensteine 
 
 1. basierend auf der Feststellung Maßnahmen ergreifen: ein Datenproblem korrigieren, einen Filter anpassen, den Lead-Score aktualisieren oder akzeptieren, dass das Ergebnis korrekt war.
 
-## Beispiele
+## Anwendungsszenarien {#use-cases}
 
-**MQL-Schwellenwert nicht erreicht**
-Ein Demand Gen-Manager bemerkt einen Lead, der als interessiert gekennzeichnet ist, aber nie MQL erreicht hat. Sie fragt: „Warum erreichte david.chen@techcorp.com MQL nicht?“ Marketo AI stellt fest, dass der Verhaltenswert des Leads 42 - 8 Punkte unter dem MQL-Schwellenwert von 50 - beträgt, und listet die Scoring-Aktivitäten auf, die dazu beigetragen haben. Sie kann genau erkennen, welche Verhaltensweisen den Lead über die Schwelle treiben würden.
+**MQL-Schwellenwert nicht erreicht**: Ein Demand Gen-Manager bemerkt einen Lead, der als interessiert gekennzeichnet wurde, aber nie MQL erreicht hat. Sie fragen: „Warum haben `david.chen@techcorp.com` MQL nicht erreicht?“ Marketo AI stellt fest, dass der Verhaltenswert des Leads 42 beträgt (8 Punkte unter dem MQL-Schwellenwert von 50) und listet die Scoring-Aktivitäten auf, die dazu beigetragen haben. Sie können genau erkennen, welche Verhaltensweisen den Lead über die Schwelle bringen würden.
 
-**Kampagnenüberspringen aufgrund von Unterdrückung**
-Ein Kampagnen-Manager fragt, warum eine bestimmte Kontaktperson keine Einladungs-E-Mail erhalten hat, die an den Rest ihrer Liste gesendet wurde. Marketo AI stellt fest, dass der Kontakt auf der Liste der ausgesetzten Marketing-Kontakte steht, wodurch er automatisch von allen Kampagnensendungen ausgeschlossen wird. Der Manager kontaktiert den Kontakt direkt, um zu untersuchen, warum sie unterdrückt wurden.
+**Kampagnen aufgrund von Unterdrückung überspringen**: Ein Kampagnen-Manager fragt, warum ein bestimmter Kontakt keine Einladungs-E-Mail erhalten hat, die an den Rest der Liste gesendet wurde. Marketo AI stellt fest, dass der Kontakt auf der Liste der ausgesetzten Marketing-Kontakte steht, wodurch er automatisch von allen Kampagnensendungen ausgeschlossen wird. Der Manager kontaktiert sie direkt, um herauszufinden, warum sie unterdrückt wurden.
 
-**Fehler bei der Programmqualifizierung**
-Ein Marketing-Opportunity-Spezialist behebt Probleme, wenn ein Lead, der an einem Webinar teilgenommen hat, nicht in das Follow-up-Programm für die Zeit nach der Veranstaltung aufgenommen wurde. Die Marketo-KI verfolgt das Problem: Der Lead wurde registriert, aber im Veranstaltungsprogramm als „Nicht angezeigt“ gekennzeichnet, und der Folgekampagnenfilter erfordert den Status „Teilgenommen“. Der Status wurde in der Integration falsch festgelegt.
+**Fehler bei der**: Ein Marketing-Opportunity-Spezialist ist die Fehlerbehebung, warum ein Lead, der an einem Webinar teilgenommen hat, nicht in das Follow-up-Programm für die Zeit nach der Veranstaltung aufgenommen wurde. Die Marketo-KI verfolgt das Problem: Der Lead wurde registriert, aber im Veranstaltungsprogramm als „Nicht angezeigt“ gekennzeichnet, und der Folgekampagnenfilter erfordert den Status „Teilgenommen“. Der Status wurde in der Integration falsch festgelegt.
 
-**Blei steckt in einer Nurture fest**
-Ein Demand Gen-Manager bemerkt, dass sich ein Lead 90 Tage lang ohne Fortschritt in derselben Nurture-Phase befindet. Sie bittet Marketo AI, das zu untersuchen. Er stellt fest, dass der Interaktionswert des Leads unter den Schwellenwert gefallen ist, der erforderlich ist, um in die nächste Phase vorzustoßen, und dass der Lead seit 60 Tagen keine E-Mail geöffnet hat. Dadurch werden sie stattdessen für die Verzweigung der erneuten Interaktion qualifiziert.
+## Zu beachtende Punkte {#things-to-note}
 
-## Tipps und Einschränkungen
-
-* Die Lead-Untersuchung erklärt, was basierend auf der aufgezeichneten Aktivität und Konfiguration von Marketo passiert ist. Sie kann keine Entscheidungen außerhalb von Marketo erklären (z. B. warum ein Lead von einem Kollegen manuell entfernt wurde).
+* Lead Investigation erklärt, was basierend auf der aufgezeichneten Aktivität und Konfiguration von Marketo passiert ist. Sie kann keine Entscheidungen erklären, die außerhalb von Marketo getroffen wurden (z. B. warum ein Lead von einem Kollegen manuell entfernt wurde).
 * Wenn der Aktivitätsverlauf eines Leads sehr lang ist, konzentriert sich Marketo AI auf die neuesten und relevantesten Ereignisse im Zusammenhang mit Ihrer Frage.
-* Lead-Recherche ist schreibgeschützt. Sie erfahren, was passiert ist, nehmen jedoch keine Änderungen am Lead-Datensatz oder an der Programmmitgliedschaft vor.
+* Lead-Untersuchung ist schreibgeschützt. Sie informiert Sie zwar über die Vorfälle, ändert jedoch nichts am Lead-Datensatz oder der Programmmitgliedschaft.
 * Bei Problemen, die sich als Datenqualitätsprobleme erweisen (fehlende Feldwerte, falsche Lead-Quelle), muss die Korrektur manuell im Lead-Datensatz vorgenommen werden.
 * Wenn bei der Untersuchung ein Problem mit der Smart-Campaign-Logik auftritt, das sich auf viele Leads auswirkt, verwenden Sie die Programm-QA, um die vollständige Programmkonfiguration zu überprüfen.

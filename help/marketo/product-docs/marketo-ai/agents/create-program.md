@@ -3,9 +3,9 @@ description: Verwenden Sie Marketo AI, um ein Marketo-Programm aus einer einfach
 title: Programm erstellen
 beta: true
 hide: true
-source-git-commit: 4b982139b07f4a59752fead580ca40710935ff23
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ Beschreiben Sie eine Marketing-Kampagne im Klartext. Marketo AI erstellt die Pro
 
 >[!PREREQUISITES]
 >
->Sie müssen über die Berechtigung zum Erstellen von Programmen in Ihrem Marketo-Konto verfügen.
+>* Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>
+>* Sie müssen über die Berechtigung zum Erstellen von Programmen in Ihrem Marketo-Konto verfügen.
 
 ## Informationen zur Verwendung {#how-to-use}
 
@@ -48,8 +50,8 @@ Beschreiben Sie eine Marketing-Kampagne im Klartext. Marketo AI erstellt die Pro
 
 ## Zu beachtende Punkte {#things-to-note}
 
-* **Klare Vorstellung davon haben, was die Kampagne tun sollte** wer die Zielgruppe ist, welche Aktion sie Trigger (oder ob es sich um einen Batch-Versand handelt) und welches Ziel sie verfolgt.
-* **Im Voraus sind keine Vorlagen oder Formulare erforderlich**: Marketo AI erstellt die Struktur und Sie können Assets später verbinden (Sie sind weiterhin für das Schreiben von E-Mail-Kopien und das Einrichten von Landingpages verantwortlich).
-* **Die Marketo-KI kann nicht automatisch auf die bestehenden Zielgruppenlisten zugreifen**: Sie müssen nach der Erstellung des Programms Smart-Listenfilter mit den eigentlichen Segmenten verbinden.
-* **Komplexe mehrstufige Programme** mit erweiterter Verzweigungslogik müssen nach der Erstellung möglicherweise manuell verfeinert werden.
-* **Wenn Ihre Marketo-Umgebung Namenskonventionen oder Ordnerstrukturen verwendet**: Geben Sie diese in Ihrer Zusammenfassung an, damit das Programm an der richtigen Stelle erstellt wird.
+* Klare Vorstellung davon haben, was die Kampagne tun sollte, wer die Zielgruppe ist, welche Aktion sie Trigger (oder ob es sich um einen Batch-Versand handelt) und welches Ziel sie verfolgt.
+* Im Vorfeld sind keine Vorlagen oder Formulare erforderlich. Marketo AI erstellt die Struktur und Sie können Assets später verbinden (Sie sind weiterhin für das Schreiben von E-Mail-Kopien und das Einrichten von Landingpages verantwortlich).
+* Marketo AI kann nicht automatisch auf die bestehenden Zielgruppenlisten zugreifen. Sie müssen Smart-List-Filter mit Ihren tatsächlichen Segmenten verbinden, nachdem das Programm erstellt wurde.
+* Komplexe mehrstufige Programme mit erweiterter Verzweigungslogik müssen nach der Erstellung möglicherweise manuell verfeinert werden.
+* Wenn Ihre Marketo-Umgebung Namenskonventionen oder Ordnerstrukturen verwendet. Geben Sie sie in Ihrer Zusammenfassung an, damit das Programm an der richtigen Stelle erstellt wird.
