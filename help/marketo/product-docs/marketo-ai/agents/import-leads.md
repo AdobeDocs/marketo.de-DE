@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie mit dem Leads-Agenten importieren eine CSV ho
 title: Leads importieren
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '275'
 ht-degree: 1%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 1%
 
 Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzuordnung in Ihre Marketo Engage-Datenbank.
 
+>[!PREREQUISITES]
+>
+>Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+
 >[!NOTE]
 >
->Diese Funktion befindet sich in der offenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird,_ Sie, wann sie für Ihr Abonnement aktiviert wurde.
+>Diese Funktion befindet sich in der geschlossenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird,_ Sie, wann sie für Ihr Abonnement aktiviert wurde.
 
 ## Informationen zur Verwendung {#how-to-use}
 
@@ -28,7 +32,7 @@ Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzu
 
    ![](assets/import-leads-2.png)
 
-   Sie gelangen zum Bildschirm der Konversations-KI. Im linken Bereich veröffentlicht der Agent Anleitungen, Antworten und Optionen dazu, welche Datennormalisierungsfunktionen ausgeführt werden sollen.
+   Sie gelangen zum Bildschirm der Konversations-KI. Im linken Bereich werden Anleitungen, Antworten und verfügbare Datennormalisierungsoptionen angezeigt.
 
    ![](assets/import-leads-3.png)
 
@@ -36,7 +40,7 @@ Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzu
 
    ![](assets/import-leads-4.png)
 
-1. Geben Sie _Importliste_ ein und klicken Sie auf **Senden**.
+1. Geben Sie „Importliste“ ein und klicken Sie auf **Senden**.
 
    ![](assets/import-leads-5.png)
 
@@ -66,4 +70,4 @@ Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzu
 
    ![](assets/import-leads-10.png)
 
-Wenn der Import abgeschlossen ist, wird der Überprüfung eine Zusammenfassung der verarbeiteten Leads, der fehlgeschlagenen Zeilen und aller Warnungen bereitgestellt.
+Wenn der Import abgeschlossen ist, wird eine Überprüfungszusammenfassung mit Leads, verarbeiteten Zeilen, fehlgeschlagenen Zeilen und allen Warnungen angezeigt.

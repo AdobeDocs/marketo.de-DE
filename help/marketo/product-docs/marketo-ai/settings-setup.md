@@ -3,10 +3,10 @@ description: Erfahren Sie, wie Sie Marketo-KI-Berechtigungen aktivieren, Organis
 title: Einstellungen und Setup
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 4%
+source-wordcount: '594'
+ht-degree: 3%
 
 ---
 
@@ -14,9 +14,13 @@ ht-degree: 4%
 
 Erfahren Sie, wie Sie Berechtigungen aktivieren und den Bereich Einstellungen verwenden, um Verbindungsdetails anzuzeigen, Organisationsregeln zu definieren und Integrationen und Benachrichtigungen einzurichten.
 
+>[!PREREQUISITES]
+>
+>Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+
 >[!NOTE]
 >
->Diese Funktion befindet sich in der offenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird,_ Sie, wann sie für Ihr Abonnement aktiviert wurde.
+>Diese Funktion befindet sich in der geschlossenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird,_ Sie, wann sie für Ihr Abonnement aktiviert wurde.
 
 ## Berechtigungen und Rollen {#permission-and-role}
 

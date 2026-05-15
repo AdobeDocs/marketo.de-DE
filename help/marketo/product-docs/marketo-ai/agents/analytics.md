@@ -3,9 +3,9 @@ description: Sprechen Sie mit Marketo AI über Ihre Marketo Engage-Leistungsdate
 title: Analytics
 beta: true
 hide: true
-source-git-commit: cb30495d71d5b4d4fe86d33eed0677eaee882c5e
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '487'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,9 @@ Mit Analytics können Sie über Ihre Marketo-Leistungsdaten sprechen. Stellen Si
 
 >[!PREREQUISITES]
 >
->Sie müssen Zugriff auf die Programme und Berichte haben, die Sie anfragen.
+>* Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>
+>* Sie müssen Zugriff auf die Programme und Berichte haben, die Sie anfragen.
 
 ## Informationen zur Verwendung {#how-to-use}
 
@@ -38,8 +40,8 @@ Mit Analytics können Sie über Ihre Marketo-Leistungsdaten sprechen. Stellen Si
 
 ## Zu beachtende Punkte {#things-to-note}
 
-* **Analytics-Antworten basieren auf den in Ihrer Marketo-Instanz verfügbaren Daten**: Wenn ein Programm nicht verfolgt wird oder keine Metrik erfasst wird, kann Marketo AI keinen Bericht dazu erstellen.
-* **Sehr große Datumsbereiche oder allgemeine Fragen können allgemeine Zusammenfassungen anstelle detaillierter** zurückgeben: „Wie haben alle meine Programme in den letzten zwei Jahren funktioniert?“
-* **Die Marketo-KI kann Daten einblenden, jedoch keine Änderungen** Ihren Programmen oder Berichten vornehmen, je nachdem, was sie findet.
-* **Für ein detailliertes benutzerdefiniertes Reporting mit bestimmten Filtern und Aufschlüsselungen** die integrierten Reporting-Tools von Marketo oder eine BI-Integration möglicherweise besser geeignet.
-* **Die Attribution über Multi-Touch-Kampagnen erfordert eine ordnungsgemäße Programmeinrichtung**: Die Marketo-KI meldet, was verfolgt wird, nicht aber, was nicht konfiguriert wurde.
+* Analytics-Antworten basieren auf den Daten, die in Ihrer Marketo-Instanz verfügbar sind. Wenn ein Programm nicht verfolgt wird oder keine Metrik erfasst wird, kann Marketo AI keinen Bericht dazu erstellen.
+* Sehr große Datumsbereiche oder allgemeine Fragen geben möglicherweise allgemeine Zusammenfassungen anstelle detaillierter Details zurück. Zum Beispiel: „Wie haben alle meine Programme in den letzten zwei Jahren abgeschnitten?“
+* Marketo-KI kann Daten einblenden, aber basierend auf den gefundenen Elementen keine Änderungen an Ihren Programmen oder Berichten vornehmen.
+* Für ein detailliertes benutzerdefiniertes Reporting mit bestimmten Filtern und Aufschlüsselungen sind die integrierten Reporting-Tools von Marketo oder eine BI-Integration möglicherweise besser geeignet.
+* Die Attribution auf Multi-Touch-Kampagnen erfordert eine ordnungsgemäße Programmeinrichtung. Die Marketo-KI meldet, was verfolgt wird, und leitet keine Attribution ab, die nicht konfiguriert wurde.
