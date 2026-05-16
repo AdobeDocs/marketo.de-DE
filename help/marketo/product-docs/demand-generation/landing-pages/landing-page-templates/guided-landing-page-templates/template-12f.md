@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Vorlage 12f {#template-12f}
 
-Rechtsklick zum Herunterladen [Vorlage 12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
+Rechtsklick zum Herunterladen [Vorlage 12F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html?lang=de)
 
 ![](assets/image2015-8-4-14-3a51-3a6.png)
 
@@ -34,4 +34,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 12F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html)
+[Vorlage 12F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12f.html?lang=de)

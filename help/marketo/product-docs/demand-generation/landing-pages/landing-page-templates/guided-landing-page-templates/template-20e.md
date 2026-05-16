@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Vorlage 20e {#template-20e}
 
-Rechtsklick zum Herunterladen [Vorlage 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+Rechtsklick zum Herunterladen [Vorlage 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html?lang=de)
 
 ![](assets/template-20e.png)
 
@@ -33,4 +33,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+[Vorlage 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html?lang=de)

@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Vorlage 14e {#template-14e}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 14E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 14E herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=de)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
@@ -34,4 +34,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
+[Vorlage 14E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=de)

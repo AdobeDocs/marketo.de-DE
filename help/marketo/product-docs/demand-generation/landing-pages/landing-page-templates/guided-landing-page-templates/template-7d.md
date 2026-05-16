@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Vorlage 7d {#template-7d}
 
-Rechtsklick zum Herunterladen [Vorlage 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+Rechtsklick zum Herunterladen [Vorlage 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=de)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -34,4 +34,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+[Vorlage 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=de)
