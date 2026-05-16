@@ -4,9 +4,19 @@ description: Erfahren Sie mehr über das Dashboard „Prädiktive Inhaltszusamme
 title: Die Zusammenfassung der prädiktiven Inhalte
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/1kUlHQFJIuWiLn8wZs77aBso0pfX507bh2tjsmTJwh0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: 204
 ht-degree: 3%
 
 ---
@@ -47,4 +57,4 @@ Welche Inhaltskategorien sind am ansprechendsten? Sehen Sie es in diesem Diagram
 
 >[!NOTE]
 >
->Wenn Sie auf einen Kategorie-Link klicken (Beispiele im obigen Bild: Lead, E-Mail usw.), wird die Seite Alle Inhalte mit der Kategorie, auf die Sie geklickt haben, zum Filter hinzugefügt und die Inhaltsanalyse in dieser Kategorie angezeigt.
+>Wenn Sie auf einen Kategorie-Link klicken (Beispiele in der obigen Abbildung: LeadGen, E-Mail usw.) Die Seite Alle Inhalte mit der Kategorie, auf die Sie geklickt haben, wird zum Filter hinzugefügt und die Inhaltsanalysen in dieser Kategorie werden angezeigt.

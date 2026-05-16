@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie in Marketo zusätzliche Landingpage-CNAMEs hi
 title: Hinzufügen zusätzlicher CNAMEs zu einer Landingpage
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: 235
 ht-degree: 6%
 
 ---
@@ -23,7 +26,7 @@ Sie können CNAMEs für Landingpages hinzufügen, damit verschiedene URLs auf Ih
 >
 >**Gleiche Top-Level-Domain - Gut! Cookies werden freigegeben**.<br/> **go**.mycompany.com > **info**.mycompany.com
 >
->**Verschiedene Domains auf oberster Ebene - Schlecht! Cookies werden _nicht_ freigegeben**.<br/> los.**mycompany**.com > GO.**mynewcompany**.com
+>**Verschiedene Domains auf oberster Ebene - Schlecht! Cookies werden _nicht_ freigegeben**.<br/> go.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >

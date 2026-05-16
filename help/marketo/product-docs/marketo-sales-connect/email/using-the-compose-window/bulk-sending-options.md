@@ -4,9 +4,12 @@ description: Erfahren Sie mehr über Massenversandoptionen in Sales Connect. Wä
 title: Optionen für den Massenversand
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: 270
 ht-degree: 4%
 
 ---
@@ -37,7 +40,7 @@ Der Massenversand von E-Mails ist eine hervorragende Möglichkeit, die Interakti
   </tr>
   <tr>
    <td><p><span>Gruppen-E-Mail</span> </p></td>
-   <td><p><span>.000 </span> </p></td>
+   <td><p><span>1,000</span> </p></td>
    <td><p><span>Wählen Sie eine Gruppe aus und klicken Sie </span><span> die Schaltfläche </span><span>Gruppenaktionen“</span><span> oder geben Sie den Gruppennamen in das Feld An ein. </span> </p></td>
    <td><p><span>Ja</span> </p></td>
    <td><p><span>Nein</span> </p></td>

@@ -3,14 +3,28 @@ description: Richten Sie den Abschnitt Datenbank für Ihre neue Marketo Engage-I
 title: Best Practices für neue Instanzen - Datenbank-Checkliste
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+TQID: https://experienceleague.adobe.com/yHZP1MXkAnmnz3zeucu2Bdm6FrCVtmnX9opKWiIJTAA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 9%
+source-wordcount: 451
+ht-degree: 7%
 
 ---
 
-# Best Practices für neue Instanzen: Datenbank-Checkliste {#new-instance-best-practices-database-checklist}
+# Best Practices für neue Instanzen: Checkliste für Datenbank {#new-instance-best-practices-database-checklist}
 
 Im Abschnitt Datenbank finden Sie die wichtigsten Attribute der Personen in Ihrer Instanz. Erfahren Sie mehr über die erforderlichen Schritte zum Navigieren durch verschiedene Listen und Segmentierungen in Ihrer Datenbank sowie zum Verwalten von Personendatensätzen.
 

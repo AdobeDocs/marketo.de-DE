@@ -4,9 +4,12 @@ description: Erfahren Sie mehr über das Command Center in Sales Connect. Verwal
 title: Kommandozentrale – Überblick
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: 595
 ht-degree: 1%
 
 ---
@@ -53,7 +56,7 @@ Der Abschnitt E-Mail bietet Ihnen einen Überblick über alle Ihre E-Mails und v
   <tr>
    <td title="Hintergrundfarbe: Grau"><br></td>
    <td title="Hintergrundfarbe: Grau">[!UICONTROL -Entwurf]</td>
-   <td title="Hintergrundfarbe: Grau"><p>Als Entwurf gespeicherte E-Mails.<br><strong>Hinweis:</strong> Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden sowie Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</p></td>
+   <td title="Hintergrundfarbe: Grau"><p>E-Mails, die als Entwurf gespeichert wurden.<br><strong>Hinweis:</strong> Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden sowie Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</p></td>
   </tr>
   <tr>
    <td title="Hintergrundfarbe: Grau"><br></td>

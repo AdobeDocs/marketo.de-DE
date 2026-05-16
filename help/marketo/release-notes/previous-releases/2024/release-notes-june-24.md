@@ -3,10 +3,19 @@ description: Versionshinweise - Juni 2024 - Marketo-Dokumentation - Produktdokum
 title: Versionshinweise – Juni 2024
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/JonQci46VEbG1k4kVbWXHjaP9YEwAh05LIpOvZ9n3-I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 36%
+source-wordcount: 299
+ht-degree: 35%
 
 ---
 
@@ -45,7 +54,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
      <tr>
    <td><strong>Abgeleitete Felder in Forms</strong>: Die Datenquelle, die zum Ausfüllen abgeleiteter Felder verwendet wird, wenn eine Person ohne vorherige Web-Aktivität über ein Formular erstellt wird, wurde aktualisiert, um dieselbe Datenquelle wie andere Personenerhebungsmethoden zu verwenden. Die abgeleiteten Felddaten sind jetzt für alle Sammlungspunkte konsistent.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
  </tbody>
 </table>

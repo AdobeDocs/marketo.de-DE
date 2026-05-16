@@ -6,16 +6,29 @@ role: User
 level: Beginner, Intermediate
 keywords: E-Mail, Design, Barrierefreiheit
 exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+TQID: https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1374'
-ht-degree: 45%
+source-wordcount: 1432
+ht-degree: 54%
 
 ---
 
 # Gestalten barrierefreier Inhalte {#accessible-content}
 
-Der [Europäische Rechtsakt zur Barrierefreiheit](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882){target="_blank"} ist eine Richtlinie, mit der der Binnenmarkt für barrierefreie Produkte und Dienstleistungen durch die Beseitigung von Hindernissen, die durch unterschiedliche nationale Vorschriften in den Mitgliedstaaten verursacht werden, verbessert werden soll.
+Die [EU-Richtlinie zur Barrierefreiheit](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882){target="_blank"} soll die Beseitigung von Hindernissen, die durch unterschiedliche nationale Vorschriften in den Mitgliedstaaten verursacht werden, den Binnenmarkt für barrierefreie Produkte und Dienstleistungen verbessern.
 
 Diese Verordnung besagt, dass alle digitalen Kommunikationen, einschließlich E-Mails, Newsletter, PDFs und herunterladbare Inhalte, zugänglich sein sollten. Beim Erstellen von Inhalten für Ihre Empfängerinnen und Empfänger müssen Sie daher bestimmte Richtlinien befolgen, z. B. die Verwendung barrierefreier Schriftarten und lesbarer Formate und die Bereitstellung von Alternativtext für Bilder.
 
@@ -36,8 +49,8 @@ Befolgen Sie bei Schriftarten und Text die folgenden Richtlinien:
 **Schriftartenauswahl**
 
 * Verwenden Sie serifenlose Schriftarten wie Arial, Verdana, Tahoma, Helvetica oder Open Sans.
-* Vermeiden Sie serifenlose, kursive oder dekorative Schriftarten in Textinhalten.
-* Achten Sie auf einen eingeschränkten Schriftsatz, um Konsistenz und Fallback zu gewährleisten (z. B.: `font-family: Arial, Helvetica, sans-serif;`).
+* Vermeiden Sie in Textinhalten serifenbetonte, kursive oder dekorative Schriftarten.
+* Achten Sie auf einen beschränkten Schriftsatz, um Konsistenz und Fallback zu gewährleisten (z. B. `font-family: Arial, Helvetica, sans-serif;`).
 
 **Schriftgrad**
 
@@ -47,7 +60,7 @@ Befolgen Sie bei Schriftarten und Text die folgenden Richtlinien:
 **Farbkontrast**
 
 * Wahren Sie zwischen Text und Hintergrund ein Kontrastverhältnis von mindestens 4,5 :1.
-* Achten Sie bei großem Text (≥24 Pixel oder fett 18 Pixel) auf einen Kontrast von mindestens 3 :1.
+* Achten Sie bei großem Text (≥24 Pixel oder 18 Pixel fett) auf einen Kontrast von mindestens 3 :1.
 * Vermeiden Sie hellgrauen oder pastellfarbenen Text auf weißem Hintergrund.
 * Verlassen Sie sich nicht allein auf Farbe, um Bedeutung zu vermitteln. Verwenden von Unterstrichen, Symbolen usw.
 
@@ -80,12 +93,12 @@ Mit Marketo Engage Email Designer können Sie das Design für verschiedene Gerä
 
 ## Verwenden von Alternativtext für Bilder {#alt-text}
 
-Verwenden Sie die **[!UICONTROL Bild]**-Komponente, um alternativen Text für Bilder bereitzustellen.
+Verwenden Sie die Komponente **[!UICONTROL Bild]**, um alternativen Text für Bilder bereitzustellen.
 
 <!--![](assets/accessible-alt-text.png){width="90%"}-->
 
 * Beschreiben Sie den Zweck des Bildes kurz und kontextbezogen.
-* Vermeiden Sie redundante Ausdrücke wie „Abbildung von …“ und verwenden Sie leeren Alternativtext für dekorative Bilder.
+* Vermeiden Sie redundante Ausdrücke wie „Bild von …“ und leeren Alternativtext für dekorative Bilder verwenden.
 * Geben Sie für Symbole mit Bedeutung aussagekräftige Labels an. Nutzen Sie für komplexe Bilder einen kurzen Alternativtext und an anderer Stelle eine längere Beschreibung.
 
 ## Verwenden von lesbarem Format {#readable-format}
@@ -106,8 +119,8 @@ Um lesbar zu sein, müssen Ihre Inhalte klar, gut strukturiert und für alle ver
 
 * Halten Sie Sätze mit bis zu 20 Wörtern.
 * Bearbeiten Sie Ihre Kopie, um sie direkt und kurz zu halten.
-* Nutzen Sie eine aktive Stimme, um die Satzstruktur einfacher zu halten.
-* Vermeiden Sie Slang, Jargon oder regionale Wörter, mit denen einige Leute möglicherweise nicht vertraut sind.
+* Nutzen Sie das Aktiv, um die Satzstruktur einfacher zu halten.
+* Vermeiden Sie Slang, Fachsprache oder regionale Wörter, mit denen manche Menschen möglicherweise nicht vertraut sind.
 
 Zur Einschätzung der Lesbarkeit Ihrer E-Mails können Sie den beliebten [Flesch Reading Ease Test](https://support.microsoft.com/de-de/office/abrufen-der-lesbarkeit-und-ebenenstatistiken-ihres-dokuments-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2){target="_blank"} nutzen, der in Microsoft Word zu finden ist. Er berechnet auf einer Skala von 0–100, wie leicht Ihre Inhalte zu lesen sind.
 
@@ -115,11 +128,11 @@ Zur Einschätzung der Lesbarkeit Ihrer E-Mails können Sie den beliebten [Flesch
 
 Um die Barrierefreiheit Ihrer Inhalte zu überprüfen, können Sie die von Marketo Engage bereitgestellten Testfunktionen verwenden. Sie wurden nicht speziell dafür konzipiert zu überprüfen, ob Ihre Inhalte vollständig barrierefrei sind, können aber einen ersten Prüfungsschritt darstellen.
 
-* Vorschau Ihres Inhalts mithilfe von Testprofilen.
+* Zeigen Sie Ihren Inhalt mithilfe von Testprofilen in der Vorschau an.
 
 * Verwenden Sie die Option [E-Mail-Rendering](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}, die Litmus zur Simulation Ihrer Designs in wichtigen E-Mail-Clients (Apple Mail, Gmail, Outlook) nutzt, damit Sie sehen können, ob Text, Farben und Bilder Ihre Inhalte barrierefrei machen. <!--Litmus includes accessibility testing-->
 
-* Führen Sie Testsendungen durch, um das Rendering Ihres Inhalts zu testen, bevor Sie ihn an Ihre echte Zielgruppe senden.
+* Führen Sie Testsendungen durch, um das Rendering Ihrer Inhalte zu testen, bevor Sie sie an Ihre echte Zielgruppe senden.
 
 <!--![](assets/accessible-simulate.png){width="90%"}-->
 

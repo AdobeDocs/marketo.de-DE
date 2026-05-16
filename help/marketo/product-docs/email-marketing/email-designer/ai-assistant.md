@@ -6,16 +6,24 @@ description: Erfahren Sie, wie Sie mit dem KI-Assistenten Text und Bilder zu E-M
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
+TQID: https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 8%
+source-wordcount: 936
+ht-degree: 3%
 
 ---
 
 # KI-Assistent für E-Mail Designer {#ai-assistant-email-designer}
 
-Der KI-Assistent in der Marketo Engage Email Designer hilft Ihnen beim Erstellen zeitgemäßer, leistungsstarker und intuitiver E-Mails. Dies wird durch die Technologie für generative KI und die Prompt-Bibliothek von Adobe zusammen mit Firefly für die Bildgenerierung erreicht, die bei der Erstellung geeigneter Inhalte für eine bestimmte Persona/Käufergruppe, Marketing-Journey-Phase, Kommunikationsstrategie, einen bestimmten Tonfall usw. hilft. Bestimmte Marken-Assets können auch zum Erstellen von Inhalten verwendet werden.
+Der KI-Assistent in der Marketo Engage Email Designer hilft Ihnen beim Erstellen zeitgemäßer, leistungsstarker und intuitiver E-Mails. Dies wird durch die generative KI-Technologie und die Prompt-Bibliothek von Adobe zusammen mit Firefly für die Bildgenerierung erreicht, die bei der Erstellung geeigneter Inhalte für eine bestimmte Rolle/Einkaufsgruppe, Marketing-Journey-Phase, Kommunikationsstrategie, Ton usw. hilft. Bestimmte Marken-Assets können auch zum Erstellen von Inhalten verwendet werden.
 
 >[!PREREQUISITES]
 >
@@ -49,7 +57,7 @@ _Nach_ der oben genannten Voraussetzung müssen Marketo-Admins Zugriff auf besti
 
 +++
 
-## Anwendungsszenarien {#use-cases}
+## Anwendungsfälle {#use-cases}
 
 Es gibt einige primäre Anwendungsfälle für AI Assistant:
 

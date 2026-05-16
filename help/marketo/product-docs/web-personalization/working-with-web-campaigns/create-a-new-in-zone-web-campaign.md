@@ -4,9 +4,17 @@ description: Erstellen Sie In-Zone-Web-Kampagnen, die Website-Elemente basierend
 title: Erstellen einer neuen In-Zone-Web-Kampagne
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/zSJh1nSYnoILoZMXlFcgG7dJmgjlr3tx1H-QCPYsZ-k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: 715
 ht-degree: 4%
 
 ---
@@ -84,7 +92,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests durchgeführt werden, um optimale Ergebnisse zu &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der Funktion „Auto-Tune“ erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, fährt mit den höchsten Konvertierungskampagnen fort und hält die anderen an.
+>**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests auf optimale Ergebnisse) &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der Funktion „Auto-Tune“ erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, fährt mit den höchsten Konvertierungskampagnen fort und hält die anderen an.
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 

@@ -3,9 +3,16 @@ description: Erfahren Sie, wie Sie MSI-Ansichten in Microsoft Dynamics einrichte
 title: Einrichten von MSI-Ansichten
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: 264
 ht-degree: 4%
 
 ---
@@ -31,7 +38,7 @@ Durch die Installation des [!DNL Sales Insight]-Plug-ins in Dynamics werden die 
 1. Klicken Sie auf ein Dashboard, um es auszuwählen. Geben Sie in der Spalte rechts für jede Komponente die entsprechenden Informationen ein. Sie können alle nicht aufgelisteten Kategorien ignorieren.
 
    **Best Bets**</br>
-URL: mainviewBestbets.html</br>
+URL: mainviewBestBets.html</br>
 Symbol: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
 ID: marketo_bestbets</br>
 Titel: Best Bets

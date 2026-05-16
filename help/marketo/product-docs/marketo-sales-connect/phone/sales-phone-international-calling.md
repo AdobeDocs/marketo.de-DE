@@ -4,10 +4,13 @@ description: Erfahren Sie mehr über internationale Telefongespräche im Vertrie
 title: Sales-Telefonnummer – Ausland
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 13%
+source-wordcount: 409
+ht-degree: 29%
 
 ---
 
@@ -61,15 +64,15 @@ Sales Phone erleichtert Ihnen die internationale Kommunikation. Für Kunden, die
   </tr>
   <tr>
    <td>Griechenland </td>
-   <td>30 3021</td>
+   <td>30, 3021</td>
   </tr>
   <tr>
    <td>Ungarn</td>
-   <td>36 361</td>
+   <td>36, 361</td>
   </tr>
   <tr>
    <td colspan="1">Irland </td>
-   <td colspan="1">353 3531</td>
+   <td colspan="1">353, 3531</td>
   </tr>
   <tr>
    <td>Israel</td>
@@ -109,11 +112,11 @@ Sales Phone erleichtert Ihnen die internationale Kommunikation. Für Kunden, die
   </tr>
   <tr>
    <td colspan="1">Peru </td>
-   <td colspan="1">5 112, 5 113, 5 114, 5 115, 5 116, 5 117</td>
+   <td colspan="1">5112, 5113, 5114, 5115, 5116, 5117</td>
   </tr>
   <tr>
    <td colspan="1">Polen </td>
-   <td colspan="1">48 4 832</td>
+   <td colspan="1">48, 4832</td>
   </tr>
   <tr>
    <td colspan="1">Portugal </td>
@@ -121,7 +124,7 @@ Sales Phone erleichtert Ihnen die internationale Kommunikation. Für Kunden, die
   </tr>
   <tr>
    <td colspan="1">Singapur </td>
-   <td colspan="1">65 658 659</td>
+   <td colspan="1">65, 658, 659</td>
   </tr>
   <tr>
    <td colspan="1">Spanien </td>
@@ -137,7 +140,7 @@ Sales Phone erleichtert Ihnen die internationale Kommunikation. Für Kunden, die
   </tr>
   <tr>
    <td>Vereinigte Staaten</td>
-   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td>
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td>
   </tr>
  </tbody>
 </table>

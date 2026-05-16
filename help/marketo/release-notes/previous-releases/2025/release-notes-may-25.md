@@ -3,10 +3,20 @@ description: Mai 2025 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – Mai 2025
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/U1fwUVPzc3mpwzuxzwh-bXy7Y-0aHlzNHnoRuPsjW8g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '435'
-ht-degree: 40%
+source-wordcount: 516
+ht-degree: 38%
 
 ---
 
@@ -44,7 +54,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>In der E-Mail-Designer erstellte E-Mails klonen</strong>: Sie können jetzt eine bestehende E-Mail klonen, die mit der neuen E-Mail-Designer erstellt wurde.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +64,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Trigger-Token für beliebiges Attribut</strong>: Erweiterte Liste von Trigger-Token zur Unterstützung der Verwendung von Daten aus beliebigen Aktivitätsattributen in Smart-Kampagnenfeldern.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
  </tbody>
 </table>
@@ -68,6 +78,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 Um auf diese Funktion zugreifen zu können, müssen Sie das Add-on „Advanced BI Analytics“ erworben haben. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
-* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem Mittwoch, 31. März 2026 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.

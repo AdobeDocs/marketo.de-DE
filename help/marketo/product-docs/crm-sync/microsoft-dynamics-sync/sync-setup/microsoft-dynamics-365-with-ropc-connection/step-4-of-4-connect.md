@@ -3,9 +3,12 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung mit Dynamics 365 über ei
 title: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers'
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/FhoaEw7r-Uxwev38H-VZeJ7p0g7mIH9uR-QktMXMdDg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: 429
 ht-degree: 3%
 
 ---

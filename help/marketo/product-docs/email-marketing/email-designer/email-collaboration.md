@@ -4,9 +4,15 @@ title: E-Mail-Zusammenarbeit
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: 316
 ht-degree: 2%
 
 ---
@@ -21,7 +27,7 @@ Benutzer mit Bearbeitungsberechtigungen für ein E-Mail-Asset können Kommentare
 
 ## Kommentare hinzufügen {#add-comments}
 
-1. Wenn Sie eine E-Mail in der E-Mail-Designer erstellen oder bearbeiten, klicken Sie auf eine Struktur, Spalte oder einen Inhalt (Text, Bild, Schaltfläche usw.) über einem bearbeitbaren Abschnitt.
+1. Beim Erstellen oder Bearbeiten einer E-Mail in der E-Mail-Designer klicken Sie auf eine Struktur, eine Spalte oder einen Inhalt (Text, Bild, Schaltfläche usw.) Über einen beliebigen bearbeitbaren Abschnitt.
 
    ![](assets/email-collaboration-1.png)
 

@@ -3,9 +3,22 @@ description: Juli 2025 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – Juli 2025
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/wIsDclvCMFe7vmLbXB6gk5P1gL1hq-8IBePO5LJaddc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: 830
 ht-degree: 97%
 
 ---
@@ -64,7 +77,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer – Unterstützung für das Verschieben von Assets und das Löschen von Programmen</strong>: Verschieben Sie E-Mail-Assets schnell zwischen Programmen. Außerdem können Sie jetzt auch Programme löschen, die neue Designer-E-Mail-Assets enthalten.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -74,7 +87,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer – Firefox-Support</strong>: Der E-Mail-Designer wird jetzt in Mozilla Firefox vollständig unterstützt. Halten Sie Ihren Browser immer auf dem neuesten Stand, um ein optimales Erlebnis zu erzielen.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -84,7 +97,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer – Simulieren von Content auf der Eigenschaftsseite</strong>: Simulieren Sie Content für E-Mail-Assets über die <i>E-Mail-Eigenschaften</i>, ohne zum Bearbeitungsbildschirm zurückkehren zu müssen.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
    <tr>
    <td> </td>
@@ -94,7 +107,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer – Rollenbasierte Zugriffssteuerung für Assets</strong>: In der Mai-Version wurde die rollenbasierte Zugriffssteuerung (RBAC) für die Berechtigungen zum Bearbeiten, Genehmigen und Löschen implementiert. In dieser Version sind jetzt auch Leseberechtigungen verfügbar.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -104,7 +117,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer – Bearbeiten von E-Mail-Eigenschaften für veröffentlichte E-Mails</strong>: Nehmen Sie Änderungen in <i>E-Mail-Eigenschaften</i> auch nach der Veröffentlichung der E-Mail vor.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -114,7 +127,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer – Auswählen einer Branding-Domain und Domain-IP-Konfiguration</strong>: Sie können jetzt für jedes E-Mail-Asset eine Branding-Domain und eine Domain-IP-Konfiguration auswählen.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -124,7 +137,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Aktualisierungen der Benachrichtigungen zu REST-API-Fehler-Codes</strong>: Zwei zusätzliche Klassen von REST-API-Fehlern in In-App-Benachrichtigungen wurden hinzugefügt: 606 – Max. Ratenlimit überschritten und 607 – Tägliches Kontingent erreicht.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -134,7 +147,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Anzeige der Standardfelder für Teilnehmerinnen und Teilnehmer an Programmen in der Feldverwaltung</strong>: Sowohl Standard- als auch benutzerdefinierte Programmteilnehmerfelder in der <i>Feldverwaltung</i> sind jetzt sichtbar.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -144,7 +157,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>REST-API-Namen in der Feldverwaltung</strong>: Diese Aktualisierung ermöglicht es Admins, REST-API-Feldnamen anzuzeigen, ohne die Liste exportieren zu müssen.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -154,7 +167,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Munchkin-Cookies und -ECIDs sind sichtbar</strong>: Auf der Registerkarte _INFO_ einer <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">Personendetailseite</a> wird nun eine Liste der Munchkin-Cookie- und -ECID-Nummern (Experience Cloud Identity) angezeigt, wodurch die Abhängigkeit von API-Aufrufen zum Abrufen dieser Informationen verringert wird.</td>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
  </tbody>
 </table>
@@ -168,6 +181,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
    * _Abschaffung des Single Sign-On (SSO_: Die Unterstützung für [Marketo Identity SSO](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} endete am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Das Single Sign-On für Adobe Identity in der Adobe Admin Console muss separat konfiguriert werden. Informationen zu den Einrichtungsschritten finden Sie unter [Einrichten von Identitäten und Single Sign-On](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und wird nach dem Mittwoch, 31. März 2026 nicht mehr verfügbar sein. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.

@@ -4,9 +4,17 @@ title: Dunkler Modus
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/zGeCSfSKkyTkteiTaPmkiirkOXxEP1YVdWmHMvSWnR0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: 1236
 ht-degree: 42%
 
 ---
@@ -97,7 +105,7 @@ Erfahren Sie, wie Sie in der E-Mail-Designer auf den Dunkelmodus zugreifen und e
 
    ![](assets/dark-mode-2.png)
 
-Standardmäßig wendet die Vorschau des dunklen Modus im E-Mail-Designer das Farbschema „Vollfarbinvertierung“ auf alle Elemente außer auf Bilder und Symbole an. 
+Standardmäßig wendet die Vorschau des dunklen Modus im E-Mail-Designer das Farbschema „Vollfarbinvertierung“ auf alle Elemente außer auf Bilder und Symbole an.
 
 Das bedeutet, dass Bereiche mit hellen und dunklen Elementen erkannt und invertiert werden, sodass helle Hintergründe dunkel und dunkler Text hell werden, während dunkle Hintergründe hell und heller Text dunkel werden.
 

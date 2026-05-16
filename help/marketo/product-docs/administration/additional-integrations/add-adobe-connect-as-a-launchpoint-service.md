@@ -1,19 +1,27 @@
 ---
 unique-page-id: 7512270
-description: Add Adobe Connect as a LaunchPoint service so Marketo manages webinar registration and attendance.
-title: Add Adobe Connect as a [!DNL LaunchPoint] Service
+description: Fügen Sie Adobe Connect als LaunchPoint-Service hinzu, damit Marketo die Registrierung und Teilnahme für Webinare verwaltet.
+title: Hinzufügen von Adobe Connect as a [!DNL LaunchPoint] Service
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/5FY-AYMAy60RGDnuFas2QP1PexqhIMohWh8egyllFNY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: 204
 ht-degree: 1%
 
 ---
 
-# Add Adobe Connect as a [!DNL LaunchPoint] Service {#add-adobe-connect-as-a-launchpoint-service}
+# Hinzufügen von Adobe Connect as a [!DNL LaunchPoint] Service {#add-adobe-connect-as-a-launchpoint-service}
 
-Marketo manages your Adobe Connect webinar registration and attendance.
+Marketo verwaltet die Registrierung und Teilnahme an Adobe Connect-Webinaren.
 
 >[!NOTE]
 >
@@ -21,11 +29,11 @@ Marketo manages your Adobe Connect webinar registration and attendance.
 
 >[!NOTE]
 >
->An existing subscription to Adobe Connect and administration rights are necessary for this step. Have the following settings at hand: username, password, participant password, and meeting folder URL.
+>Für diesen Schritt sind ein bestehendes Abonnement von Adobe Connect und Administratorrechte erforderlich. Halten Sie die folgenden Einstellungen bereit: Benutzername, Kennwort, Teilnehmerkennwort und Besprechungsordner-URL.
 
 >[!NOTE]
 >
->Adobe Connect On Site is not currently supported.
+>Adobe Connect On Site wird derzeit nicht unterstützt.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -39,30 +47,30 @@ Marketo manages your Adobe Connect webinar registration and attendance.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
-1. Geben Sie einen **[!UICONTROL Anzeigenamen]** ein. Under **[!UICONTROL Service]**, select Adobe Connect.
+1. Geben Sie einen **[!UICONTROL Anzeigenamen]** ein. Wählen **[!UICONTROL unter &quot;]**&quot; die Option &quot;Adobe Connect&quot;.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
 
-1. Enter your **[!UICONTROL Username]** and **[!UICONTROL Access Code]**.
+1. Geben Sie **[!UICONTROL Benutzernamen]** und **[!UICONTROL Zugriffscode]** ein.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
 
-1. Complete the process by entering your **[!UICONTROL Meeting Folder URL]** and **[!UICONTROL Participant Password]**, then click **[!UICONTROL Create]**.
+1. Schließen Sie den Vorgang ab, indem Sie Ihre **[!UICONTROL Besprechungsordner-]** und **[!UICONTROL Teilnehmerkennwort]** eingeben und dann auf **[!UICONTROL Erstellen]** klicken.
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-6.png)
 
    >[!TIP]
    >
-   >When you create the participant password, the value you choose is included in a query string when the links are sent out for the event. It is suggested that you make it customer-friendly.
+   >Wenn Sie das Teilnehmerkennwort erstellen, wird der ausgewählte Wert in eine Abfragezeichenfolge aufgenommen, wenn die Links für das Ereignis gesendet werden. Es wird empfohlen, dass Sie es kundenfreundlich machen.
 
    >[!NOTE]
    >
-   >After you log in to your Adobe Connect account, select the **[!UICONTROL Seminars]** tab. Without drilling down into any specific seminar, copy the URL from your browser bar into the **[!UICONTROL Meeting Folder URL]** setting.
+   >Nachdem Sie sich bei Ihrem Adobe Connect-Konto angemeldet haben, wählen Sie die Registerkarte **[!UICONTROL Seminare]** aus. Kopieren Sie ohne ein Drilldown in ein bestimmtes Seminar die URL aus Ihrer Browser-Leiste in die Einstellung **[!UICONTROL Besprechungsordner-URL]**.
 
-Your Adobe Connect Service is now synced with Marketo!
+Ihr Adobe Connect-Service ist jetzt mit Marketo synchronisiert!
 
 ![](assets/add-adobe-connect-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Learn how to [create an event with Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.
+>Erfahren Sie, wie [ein Ereignis mit Adobe Connect erstellen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.

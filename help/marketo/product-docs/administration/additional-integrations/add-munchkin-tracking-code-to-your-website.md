@@ -4,9 +4,18 @@ description: Fügen Sie Marketo [!DNL Munchkin] JavaScript zu Ihrer Site hinzu, 
 title: Hinzufügen  [!DNL Munchkin]  Trackingcodes zu Ihrer Website
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '685'
+source-wordcount: 685
 ht-degree: 3%
 
 ---
@@ -119,26 +128,26 @@ So überprüfen Sie, ob Ihr [!DNL Munchkin]-Code nach dem Hinzufügen funktionie
 
 1. Besuchen Sie Ihre Webseite.
 
-1. In your [!DNL My Marketo], click the **[!UICONTROL Analytics]** tile.
+1. Klicken Sie in Ihrem [!DNL My Marketo] auf die Kachel **[!UICONTROL Analytics]** .
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. Click **[!UICONTROL Web Page Activity]**.
+1. Klicken Sie **[!UICONTROL Webseitenaktivität]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. Click the **[!UICONTROL Setup]** tab, double-click **[!UICONTROL Activity Source]**.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Setup“ und doppelklicken Sie auf **[!UICONTROL Activity Source]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. Change the [!UICONTROL Activity Source] to **[!UICONTROL Anonymous Visitors (including ISPs)]** and click **[!UICONTROL Apply]**.
+1. Ändern Sie die [!UICONTROL Activity Source] in **[!UICONTROL Anonyme Besucher (einschließlich ISPs)]** und klicken Sie auf **[!UICONTROL Anwenden]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. Click the **[!UICONTROL Report]** tab.
+1. Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 
    >[!NOTE]
    >
-   >If you do not see any data, wait a few minutes, then click the [!UICONTROL refresh] icon at the bottom.
+   >Wenn keine Daten angezeigt werden, warten Sie einige Minuten und klicken Sie dann unten auf [!UICONTROL Aktualisieren]-Symbol.

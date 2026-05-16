@@ -4,10 +4,20 @@ description: Erfahren Sie mehr über die Implementierung von RTP mithilfe von Go
 title: Implementieren von RTP mit dem Google Tag Manager
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/XesXGBf2aDsnsbS2Ro1RLdd1EVrj-mBdCiv8C0dj8NU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 3%
+source-wordcount: 173
+ht-degree: 4%
 
 ---
 
@@ -17,7 +27,7 @@ Um Ihr RTP-Tag zu implementieren, folgen Sie bitte den unten stehenden Installat
 
 1. Melden Sie sich bei Ihrem [!DNL Google Tag Manager] an.
 
-1. Fügen Sie ein neues **[!UICONTROL Tag]** > **[!UICONTROL Tag-Konfigurationen]** > **[!UICONTROL Benutzerdefiniertes HTML-Tag].** nenne es **RTP**.
+1. Fügen Sie ein neues **[!UICONTROL Tag]** > **[!UICONTROL Tag-Konfigurationen]** > **[!UICONTROL Benutzerdefiniertes HTML-Tag] hinzu.** Nennen Sie es **RTP**.
 
 1. Melden Sie sich bei Ihrem **RTP-** an.
 

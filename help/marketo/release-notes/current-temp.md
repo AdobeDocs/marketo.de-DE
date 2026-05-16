@@ -4,10 +4,23 @@ title: Aktuelle Versionshinweise
 hide: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/RZsCx9HAyJuDLO46WfshT30be-rMMDZjnygvU32NGfk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 52%
+source-wordcount: 421
+ht-degree: 28%
 
 ---
 
@@ -29,37 +42,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>TITLE</strong>: Beschreibung.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>: Beschreibung.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr>
-   <td><strong>TITLE</strong>: Beschreibung.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>TITLE</strong>: Beschreibung.</td>
+   <td><strong>E-Mail-Designer - Bedingter Inhalt für E</strong>Mail-Fragmente: <i>Parität mit dem alten E-Mail-Editor</i>. Bedingte Inhalte werden jetzt für Fragmente unterstützt.</td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
@@ -74,24 +57,24 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
   </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITLE</strong>: Beschreibung.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
-  </tr>
   </tbody>
 </table>
 <br/>
 
 ## Ankündigungen {#announcements}
 
-* NEUE SEO-NOTIZ
+* **Felder für veraltete Social-**: Im Jahr 2025 hat Marketo Engage die folgenden Social-Media-Funktionen eingestellt:
+
+   * Umfragen
+   * Social-Schaltfläche
+   * Empfehlungsangebot
+   * Videofreigabe
+   * Gewinnspiele
+
+Anfang dieses Jahres wurden die verwandten Felder, die zurückgelassen worden waren, aus Marketo entfernt. Bald darauf gaben API-Anfragen, die auf bestimmte Lead-Felder im Zusammenhang mit Social verweisen, den Fehler „Feld nicht gefunden“ zurück, was zu Unterbrechungen führte. Der Service wurde wiederhergestellt, nachdem die betroffenen Felder erneut verfügbar gemacht wurden. Um weitere Störungen zu vermeiden, hat Marketo Social-Media-Felder dauerhaft von der Einstellung der Social-Media-Funktionen entkoppelt (und ist daher in Ihrem Marketo-Konto verfügbar). Benutzerinnen und Benutzer werden ermutigt, API-Abfragen und -Integrationen zu überprüfen, die auf Marketo Social-bezogene Felder verweisen, und festzustellen, ob diese Felder für laufende Geschäftsprozesse weiterhin erforderlich sind.
 
 * **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. Juli 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Juli 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
+
+* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 geben Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ und „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, einen 1003-Fehler-Code zurück, wenn die statische Zielliste 10.000 oder mehr Leads enthält. Weitere Informationen finden Sie [&#x200B; „Migrationshandbuch](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .

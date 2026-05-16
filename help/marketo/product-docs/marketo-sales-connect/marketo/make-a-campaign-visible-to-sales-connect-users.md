@@ -1,12 +1,15 @@
 ---
 unique-page-id: 14745655
 description: Erfahren Sie, wie Sie eine Marketo-Kampagne für Sales Connect-Benutzer sichtbar machen. Teilen Sie Marketing-Kampagnen, damit Verkäufer Leads über Sales Connect hinzufügen können.
-title: 'Sichtbarmachen einer Kampagne für Sales Connect-Benutzende '
+title: Sichtbarmachen einer Kampagne für Sales Connect-Benutzende
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/WdSLwrvoXF6L4jID6HThIn2JST-aDvtPtXAoWqJO7ZI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: 124
 ht-degree: 6%
 
 ---
@@ -23,7 +26,7 @@ Kampagnen können nur freigegeben werden, wenn sie sichtbar gemacht werden. So g
 
    ![](assets/make-a-marketing-campaign-visible-msc-2.png)
 
-1. Trigger Fügen Sie den [!UICONTROL Kampagne ist angefordert] hinzu.
+1. Fügen Sie den [!UICONTROL Kampagne ist angefordert] hinzu.
 
    ![](assets/make-a-marketing-campaign-visible-msc-3.png)
 

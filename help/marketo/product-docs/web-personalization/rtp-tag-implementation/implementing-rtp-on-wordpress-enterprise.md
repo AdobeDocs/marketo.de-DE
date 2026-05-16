@@ -4,10 +4,19 @@ description: Erfahren Sie mehr über die Implementierung von RTP in WordPress En
 title: Implementieren von RTP in WordPress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/S0LvRrD1V6hkWN5L5TlnoaIqcDvXLjfm5do2-1WQTNw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 10%
+source-wordcount: 120
+ht-degree: 12%
 
 ---
 
@@ -17,7 +26,7 @@ Um Ihr [!UICONTROL RTP-Tag &#x200B;] implementieren, folgen Sie den folgenden In
 
 1. Navigieren Sie **[!UICONTROL Kontoeinstellungen]**.
 
-   a. Wenn Sie Ihr JavaScript-Tag bereits vom Support erhalten haben, fahren Sie mit Schritt 3 fort.
+   a. Wenn Sie bereits Ihr JavaScript-Tag vom Support erhalten haben, fahren Sie mit Schritt 3 fort.
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
@@ -29,7 +38,7 @@ Um Ihr [!UICONTROL RTP-Tag &#x200B;] implementieren, folgen Sie den folgenden In
 
 1. Melden Sie sich bei Ihrem [!DNL WordPress] als Admin-Benutzer an
 
-   a. Gehen Sie **[!UICONTROL Erscheinungsbild]** zu **[!UICONTROL Benutzerdefiniertes JavaScript]**.
+   a. Navigieren **[!UICONTROL unter]** zu **[!UICONTROL Benutzerdefiniertes JavaScript]**.
 b. Fügen Sie das RTP-JavaScript-Tag direkt nach dem vorhandenen Code ein.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)

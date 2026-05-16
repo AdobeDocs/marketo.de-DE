@@ -2,9 +2,14 @@
 description: Erfahren Sie mehr über das Synchronisieren von Sales Insight-Aktionsdaten mit Marketo Engage und Salesforce.
 title: Synchronisieren von Verkaufsaktionsdaten mit Marketo und Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/SEElhIJ05KyqQUi5rLjSZjwFMdHDDO5is9Hqk7JxeIE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: 1072
 ht-degree: 4%
 
 ---
@@ -71,7 +76,7 @@ Es ist nicht verfügbar, zu konfigurieren, welche Marketo Engage-Felder mit Sale
 
 ## Warum verfügt Sales Insight Actions über eine eigene Datenbank? {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions verfügt über eine eigene Web-Anwendung mit einer dedizierten Personen- und Aktivitätsdatenbank, um einen optimierten Arbeitsbereich bereitzustellen, der für Vertriebsteams entwickelt und konzipiert wurde. So haben Vertriebsleiter und Verkäufer einen Raum, um ihre Interaktionsstrategie zu entwickeln und zu verwalten   ohne Zugriff oder Berechtigungen auf den primären Marketo Engage-Arbeitsbereich zu gewähren, der für Experten für Marketing-Vorgänge optimiert ist.
+Sales Insight Actions verfügt über eine eigene Web-Anwendung mit einer dedizierten Personen- und Aktivitätsdatenbank, um einen optimierten Arbeitsbereich bereitzustellen, der für Vertriebsteams entwickelt und konzipiert wurde. Dadurch haben Vertriebsleiter und Verkäufer die Möglichkeit, ihre Interaktionsstrategie zu entwickeln und zu verwalten, ohne Zugriff oder Berechtigungen auf den primären Marketo Engage Workspace zu gewähren, der für Spezialisten für Marketing-Vorgänge optimiert ist.
 
 ## Wie werden Duplikate behandelt? {#how-are-duplicates-handled}
 
