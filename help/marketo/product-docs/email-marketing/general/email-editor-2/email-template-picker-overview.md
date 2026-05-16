@@ -4,9 +4,12 @@ description: Erfahren Sie mehr über die Auswahl von E-Mail-Vorlagen im E-Mail-E
 title: Auswahl von E-Mail-Vorlagen – Übersicht
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/-chlOS7UcjWaNgBhJyHEpfXL4SFnDnZH73tnpn-GZHs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: 290
 ht-degree: 3%
 
 ---
@@ -21,7 +24,7 @@ Wenn Sie [E-Mail erstellen](/help/marketo/product-docs/email-marketing/general/c
 
 ![](assets/two-2.png)
 
-Wenn Ihre E-Mail wichtig ist und Sie Kommunikationsbeschränkungen umgehen möchten, aktivieren [&#x200B; das Kontrollkästchen, um &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) E-Mail funktionsfähig zu machen. **[!UICONTROL Im Editor öffnen]** ist standardmäßig ausgewählt und bedeutet, dass Sie Ihre neue E-Mail sofort bearbeiten möchten. **[!UICONTROL Erstellen]** bedeutet, erstellen!
+Wenn Ihre E-Mail wichtig ist und Sie Kommunikationsbeschränkungen umgehen möchten, aktivieren [ das Kontrollkästchen, um ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) E-Mail funktionsfähig zu machen. **[!UICONTROL Im Editor öffnen]** ist standardmäßig ausgewählt und bedeutet, dass Sie Ihre neue E-Mail sofort bearbeiten möchten. **[!UICONTROL Erstellen]** bedeutet, erstellen!
 
 ![](assets/three-2.png)
 

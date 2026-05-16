@@ -4,16 +4,19 @@ description: Erfahren Sie, wie Sie eine Zielgruppe eines E-Mail-Programms mit ei
 title: Definieren einer Zielgruppe mit einer intelligenten Liste
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/sGFMl-NIr1URbKsPhRb-ze6h2c1k72W-E28f-8p--sE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: 276
 ht-degree: 8%
 
 ---
 
 # Definieren einer Zielgruppe mit einer intelligenten Liste {#define-an-audience-with-a-smart-list}
 
-Nachdem Sie [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) sollten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Sie können dies tun, indem Sie [eine Liste von Personen &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) oder eine Smart-Liste importieren. So erreichen Sie dies mit einer Smart-Liste.
+Nachdem Sie [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) sollten Sie ihm mitteilen, an wen die E-Mail gesendet werden soll. Sie können dies tun, indem Sie [eine Liste von Personen ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) oder eine Smart-Liste importieren. So erreichen Sie dies mit einer Smart-Liste.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +30,7 @@ Nachdem Sie [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketi
 
    ![](assets/login-marketing-activities.png)
 
-1. Wählen Sie Ihr E-Mail-Programm aus und klicken **[!UICONTROL dann unter der Kachel**&#x200B;[!UICONTROL &#x200B; Audience &#x200B;]&#x200B;**auf „Smart-Liste bearbeiten]**.
+1. Wählen Sie Ihr E-Mail-Programm aus und klicken **[!UICONTROL dann unter der Kachel**[!UICONTROL  Audience ]**auf „Smart-Liste bearbeiten]**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
@@ -47,7 +50,7 @@ Nachdem Sie [E-Mail-Programm erstellen](/help/marketo/product-docs/email-marketi
 
    ![](assets/myemailprogram.jpg)
 
-   Hervorragende Arbeit! Jetzt ist es an der Zeit, [eine vorhandene E-Mail auszuwählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [eine E-Mail zu &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md), um sie an diese Personen zu senden.
+   Hervorragende Arbeit! Jetzt ist es an der Zeit, [eine vorhandene E-Mail auszuwählen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) oder [eine E-Mail zu ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md), um sie an diese Personen zu senden.
 
 >[!NOTE]
 >

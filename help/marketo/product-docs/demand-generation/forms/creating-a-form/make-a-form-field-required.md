@@ -4,16 +4,19 @@ description: Erfahren Sie, wie Sie ein Formularfeld in Marketo als erforderlich 
 title: Festlegen eines Formularfelds als erforderlich
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/JbWhwOQPZU2H4NzgKgYo1N6ThKwBHeKwWF2xeO-xczs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: 114
 ht-degree: 14%
 
 ---
 
 # Festlegen eines Formularfelds als erforderlich {#make-a-form-field-required}
 
-Beim [Hinzufügen von Feldern zu einem &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen.
+Beim [Hinzufügen von Feldern zu einem ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} können Sie einige dieser Felder für die Person, die sie ausfüllt, erforderlich machen.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -41,7 +44,7 @@ Beim [Hinzufügen von Feldern zu einem &#x200B;](/help/marketo/product-docs/dema
 
 >[!NOTE]
 >
->Denken Sie daran[&#x200B; alle Landingpages zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} Dieses Formular wird weiterverwendet, damit die Änderungen live geschaltet werden können.
+>Denken Sie daran[ alle Landingpages zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} Dieses Formular wird weiterverwendet, damit die Änderungen live geschaltet werden können.
 
 >[!MORELIKETHIS]
 >

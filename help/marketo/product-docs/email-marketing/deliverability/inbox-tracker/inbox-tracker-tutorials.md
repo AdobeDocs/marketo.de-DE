@@ -3,10 +3,12 @@ description: Erfahren Sie mehr über Inbox Tracker zum Testen und Überwachen de
 title: Tutorials zur Verfolgung des Posteingangs
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 3%
+source-wordcount: 309
+ht-degree: 2%
 
 ---
 
@@ -24,7 +26,7 @@ Bird hat mehrere Schulungsvideos erstellt, die Ihnen helfen, das Beste aus diese
 
 ![](assets/inbox-tracker-tutorials-1.png)
 
-* [Einfache Navigation](https://veed.io/view/263a0e5e-3b0c-40a4-98a7-945fe28173a1){target="_blank"}
+* [Grundlegende Navigation](https://veed.io/view/263a0e5e-3b0c-40a4-98a7-945fe28173a1){target="_blank"}
 
 * [Benutzer- und Kontoeinstellungen](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
 
@@ -50,15 +52,15 @@ Bird hat mehrere Schulungsvideos erstellt, die Ihnen helfen, das Beste aus diese
 
 * [Analytics-Tracker](https://veed.io/view/b458f788-07e1-4553-b743-2d469a356ba2){target="_blank"}
 
-* [Profilmonitor](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
+* [Profil-Monitor](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
 
-* [Überwachung von Spam-Fallen](https://veed.io/view/ce488da2-1688-4584-9c26-27baa9c8ed19){target="_blank"}
+* [Überwachung auf Spam-Fallen](https://veed.io/view/ce488da2-1688-4584-9c26-27baa9c8ed19){target="_blank"}
 
 ## Inbox Tracker Markenschutz {#inbox-tracker-brand-protection}
 
 * [Dashboard](https://veed.io/view/287b425f-2ec8-470b-b993-a654b92b759d){target="_blank"}
 
-* [Domain-](https://veed.io/view/cb8a4f53-8008-483b-841a-b0878b8bf17b){target="_blank"}
+* [Domain-Details](https://veed.io/view/cb8a4f53-8008-483b-841a-b0878b8bf17b){target="_blank"}
 
 * [Policy Manager](https://veed.io/view/1036967c-0f77-4fd6-8c40-71553bceef3d){target="_blank"}
 
@@ -70,4 +72,4 @@ Bird hat mehrere Schulungsvideos erstellt, die Ihnen helfen, das Beste aus diese
 
 ![](assets/inbox-tracker-tutorials-3.png)
 
-* [Design Tracker](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
+* [Design-Tracker](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}

@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie in Marketo eine geführte Landingpage-Vorlage
 title: Erstellen einer Vorlage für geführte Landingpages
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+TQID: https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: 1127
 ht-degree: 21%
 
 ---

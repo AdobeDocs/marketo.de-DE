@@ -3,9 +3,11 @@ description: Erfahren Sie, wie Sie Benutzer und Administratoren über User Manag
 title: Einladen von Benutzenden und Admins
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/rsT7eMWq9tf9xNH2a25OJVzXQu1oPukkTx9ITDV-g3A
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: 208
 ht-degree: 6%
 
 ---
@@ -20,7 +22,7 @@ Das Hinzufügen von Benutzern oder Administratoren ist schnell und einfach!
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/invite-users-and-admins-2.png)
 
@@ -64,7 +66,7 @@ Führen Sie diese Schritte aus, um einen vorhandenen Benutzer zum Administrator 
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Benutzerverwaltung]** aus.
 
    ![](assets/invite-users-and-admins-9.png)
 

@@ -3,9 +3,13 @@ description: Erfahren Sie mehr √ºber die R√ºckruffunktionen von Dynamic Chat-Wid
 title: R√ºckruffunktionen
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/acvFxZL5oAxsxlclzffgJVJh2AQashaEmzAYxgGHKPk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: 635
 ht-degree: 8%
 
 ---
@@ -232,7 +236,7 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k√
     <td>payload.sid</td>
   </tr>
   <tr>
-    <td>Agentenname </td>
+    <td>Agentenname</td>
     <td>payload.agentName</td>
   </tr>
   <tr>
@@ -337,7 +341,7 @@ Im Folgenden finden Sie einige wichtige Metadatenwerte, auf die Sie zugreifen k√
     <td>payload.sid</td>
   </tr>
   <tr>
-    <td>Agentenname </td>
+    <td>Agentenname</td>
     <td>payload.agentName</td>
   </tr>
   <tr>

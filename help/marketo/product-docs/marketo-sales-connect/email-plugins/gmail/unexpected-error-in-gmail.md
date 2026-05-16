@@ -4,10 +4,12 @@ description: Erhalten Sie Hilfe, wenn im Plug-in Sales Connect Gmail ein unerwar
 title: Unerwarteter Fehler in Gmail
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/dJWrlEZcu0Y7WcKjxnA15QJEkv3p9IYSvhz5Wbhg-Ak
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 8%
+source-wordcount: 107
+ht-degree: 14%
 
 ---
 
@@ -21,4 +23,4 @@ Wenn Sie beim Senden einer E-Mail einen „unerwarteten Fehler“ in Gmail erhal
 
 1. Klicken Sie nach dem Trennen auf **[!UICONTROL Mit Google verbinden]**.
 
-   Sobald Sie wieder eine Verbindung hergestellt haben, gehen Sie zurück zu Gmail und aktualisieren Sie Ihre Seite und versuchen Sie erneut, Ihre E-Mail zu senden. Wenn es immer noch nicht funktioniert, [&#x200B; Sie bitte ein Ticket &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de) unserem Support-Team ab.
+   Sobald Sie wieder eine Verbindung hergestellt haben, gehen Sie zurück zu Gmail und aktualisieren Sie Ihre Seite und versuchen Sie erneut, Ihre E-Mail zu senden. Wenn es immer noch nicht funktioniert, [ Sie bitte ein Ticket ](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de) unserem Support-Team ab.

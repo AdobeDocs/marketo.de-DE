@@ -3,9 +3,11 @@ description: Erfahren Sie, wie Sie mithilfe von Quell-URLs und Themen Fragen fü
 title: Generierung von Fragen
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/aNb02vSBYXLUd-bGqvbbTB6IXSL6IY-8KCozGeZjZsI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: 313
 ht-degree: 4%
 
 ---
@@ -50,7 +52,7 @@ Zeigen Sie alle Ihre Aufgaben und deren relevante Details an, z. B. den Zeitpunk
 
 >[!NOTE]
 >
->Die generierten Fragen und Antworten können auch in der [Antwortbibliothek“ angezeigt &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>Die generierten Fragen und Antworten können auch in der [Antwortbibliothek“ angezeigt ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Suchen Sie die gewünschte Aufgabe und klicken Sie auf das Download-Symbol neben ihrem Namen.
 

@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie E-Mails oder Programme zu einem Interaktionsp
 title: Hinzufügen von Inhalten zu einem Stream
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: 188
 ht-degree: 8%
 
 ---
@@ -41,7 +44,7 @@ Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalte zu den 
 
 **+-Symbol**
 
-1. Klicken Sie auf das Symbol **+**, wählen Sie **[!UICONTROL E-Mail]** _oder_&#x200B;**[!UICONTROL Programm]** und dann die E-Mail-Adresse oder das Programm/die intelligente Kampagne aus, die Sie hinzufügen möchten.
+1. Klicken Sie auf das Symbol **+**, wählen Sie **[!UICONTROL E-Mail]** _oder_**[!UICONTROL Programm]** und dann die E-Mail-Adresse oder das Programm/die intelligente Kampagne aus, die Sie hinzufügen möchten.
 
    ![](assets/add-content-to-a-stream-5.png)
 

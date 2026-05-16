@@ -3,9 +3,12 @@ description: Erfahren Sie, wie Sie über das MSI-Bedienfeld in Salesforce eine T
 title: Senden einer Test-E-Mail
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: 170
 ht-degree: 4%
 
 ---
@@ -14,7 +17,7 @@ ht-degree: 4%
 
 Bevor Sie eine E-Mail senden, können Sie das E-Mail-Format und die Token testen, indem Sie sich selbst eine Test-E-Mail an eine beliebige E-Mail-Adresse senden.
 
-1. Navigieren Sie [!DNL Sales Insight] eines Leads oder Kontakts zum [!DNL Salesforce].
+1. Navigieren Sie [!DNL Salesforce] eines Leads oder Kontakts zum [!DNL Sales Insight].
 
 1. Klicken Sie auf **[!UICONTROL Marketo-E-Mail senden]**.
 
@@ -34,4 +37,4 @@ Sie erhalten eine E-Mail mit Token-Werten, die für die von Ihnen ausgewählten 
 
 >[!NOTE]
 >
->Keine Sorge. Sie bleiben auch nach dem Versand der Test-E-Mail auf der [!UICONTROL &#x200B; &quot;]Marketo-E-Mail senden, damit Sie die von Ihnen erstellte E-Mail nicht verlieren.
+>Keine Sorge. Sie bleiben auch nach dem Versand der Test-E-Mail auf der ] &quot;[!UICONTROL Marketo-E-Mail senden, damit Sie die von Ihnen erstellte E-Mail nicht verlieren.

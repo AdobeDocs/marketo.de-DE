@@ -4,16 +4,18 @@ description: Hier erhalten Sie Hilfe, wenn Sie sehen, dass Campaign in Sales Con
 title: Kampagne ist beendet
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/IYhkCIkfzC7fF5o-lYoH4uGMkVWUI1gGKOADFePAeUA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: 93
 ht-degree: 6%
 
 ---
 
 # Kampagne ist beendet {#campaign-has-ended}
 
-Wenn im Ordner „Fehlgeschlagener Versand[!UICONTROL &#x200B; eine E-Mail mit &#x200B;] Vermerk „Kampagne wurde beendet“ angezeigt wird, bedeutet dies, dass es sich bei dieser E-Mail um eine geplante E-Mail in Ihrer Kampagne handelt.
+Wenn im Ordner „Fehlgeschlagener Versand[!UICONTROL  eine E-Mail mit ] Vermerk „Kampagne wurde beendet“ angezeigt wird, bedeutet dies, dass es sich bei dieser E-Mail um eine geplante E-Mail in Ihrer Kampagne handelt.
 
 ## Mögliche Gründe für das Fehlschlagen {#possible-reasons-it-failed}
 

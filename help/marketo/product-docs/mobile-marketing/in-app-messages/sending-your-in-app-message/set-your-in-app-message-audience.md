@@ -4,10 +4,13 @@ description: Erfahren Sie, wie Sie Ihre Audience für In-App-Nachrichten festleg
 title: Festlegen der Zielgruppe für In-App-Nachrichten
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/hMVJupuaDx0Tw9yy8geOrIZPUosdvtx7HJwzqbQiIdA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 3%
+source-wordcount: 319
+ht-degree: 4%
 
 ---
 
@@ -33,7 +36,7 @@ Der erste Schritt besteht darin, zu entscheiden, wer Ihre In-App-Nachricht erhal
 
    >[!NOTE]
    >
-   >Der Standardcode ([!UICONTROL App Open]) und alle benutzerdefinierten Trigger, die vom Entwickler bzw. der Entwicklerin zum Trigger hinzugefügt wurden, werden automatisch im [!UICONTROL Action]Selektor angezeigt. Wenn ein benutzerdefiniertes Ereignis fehlt, wenden Sie sich an Ihren Entwickler, um sicherzustellen, dass er die benutzerdefinierten Ereignisse zur App hinzugefügt hat. Beachten Sie, dass es einige Zeit dauern kann, bis der Prozess zur benutzerdefinierten Ereigniscodierung und -validierung abgeschlossen ist. Weitere Informationen finden [&#x200B; in &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) Artikel .
+   >Der Standardcode ([!UICONTROL App Open]) und alle benutzerdefinierten Trigger, die vom Entwickler bzw. der Entwicklerin zum Trigger hinzugefügt wurden, werden automatisch im [!UICONTROL Action]Selektor angezeigt. Wenn ein benutzerdefiniertes Ereignis fehlt, wenden Sie sich an Ihren Entwickler, um sicherzustellen, dass er die benutzerdefinierten Ereignisse zur App hinzugefügt hat. Beachten Sie, dass es einige Zeit dauern kann, bis der Prozess zur benutzerdefinierten Ereigniscodierung und -validierung abgeschlossen ist. Weitere Informationen finden [ in ](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) Artikel .
 
 1. Einschränkungen sind für den Trigger **[!UICONTROL Hat Mobile-App-Aktivität]** verfügbar, falls Sie sie benötigen.
 
@@ -55,4 +58,4 @@ Der erste Schritt besteht darin, zu entscheiden, wer Ihre In-App-Nachricht erhal
 
 Gut gemacht! Sie haben Ihre Audience eingestellt. Sie haben den blauen Balken und das grüne Häkchen verdient.
 
-Zeit zum [&#x200B; (wählen Sie Ihre In-App-Nachricht aus](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+Zeit zum [ (wählen Sie Ihre In-App-Nachricht aus](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

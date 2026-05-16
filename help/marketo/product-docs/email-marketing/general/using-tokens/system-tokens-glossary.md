@@ -4,9 +4,11 @@ description: Erfahren Sie mehr über System-Token, die in Marketo-E-Mails verfü
 title: Glossar zu System-Token
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: 229
 ht-degree: 2%
 
 ---
@@ -60,7 +62,7 @@ Mit dem `{{system.unsubscribeLink}}`-Token können Sie die Platzierung des Abmel
 
 * [Hinzufügen eines System-Tokens als Link in einer E](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}Mail oder Vorlage
 
-## system.viewAsWebpageLink {#system-viewaswebpagelink}
+## system.viewAsWebPageLink {#system-viewaswebpagelink}
 
 Mit dem `{{system.viewAsWebpageLink}}`-Token können Sie die Platzierung des Links Als Web-Seite anzeigen in einer E-Mail steuern.
 

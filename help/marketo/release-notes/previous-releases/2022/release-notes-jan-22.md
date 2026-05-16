@@ -2,9 +2,14 @@
 description: Januar 2022 - Versionshinweise zu Marketo - Produktdokumentation
 title: Januar 2022 - Versionshinweise
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/sWnFMRl-gpHawYrXU3POsKo2V2OrO9DmiYKvo0oyN3g
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: 977
 ht-degree: 4%
 
 ---
@@ -50,7 +55,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## AEP Marketo Engage-Ziel-Connector - Erstellen neuer Leads {#aep-marketo-engage-destination-connector}
 
-Marketo Engage-Kunden, die auch die Adobe Experience Platform (AEP) verwenden, können ihre Datenbank optimieren, indem sie neue Personendatensätze von AEP über den AEP-Ziel-Connector per Push in Marketo Engage übertragen. Beim Senden von Zielgruppensegmenten von AEP an Marketo Engage können Personen innerhalb des Segments, die noch nicht in Ihrer Marketo Engage-[&#x200B; vorhanden sind, automatisch hinzugefügt &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
+Marketo Engage-Kunden, die auch die Adobe Experience Platform (AEP) verwenden, können ihre Datenbank optimieren, indem sie neue Personendatensätze von AEP über den AEP-Ziel-Connector per Push in Marketo Engage übertragen. Beim Senden von Zielgruppensegmenten von AEP an Marketo Engage können Personen innerhalb des Segments, die noch nicht in Ihrer Marketo Engage-[ vorhanden sind, automatisch hinzugefügt ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -58,7 +63,7 @@ Marketo Engage-Kunden, die auch die Adobe Experience Platform (AEP) verwenden, k
 
 **[!DNL Sales Insight]für [!DNL Salesforce] CRM**
 
-* **Neue Typ-Spalte für [!UICONTROL Beste Wetten]**: Verkäufer erhalten schnellere Einblicke mit einer neuen Spalte mit der Bezeichnung „Typ“, um auf der Seite „Beste [!UICONTROL &quot; zwischen Leads und Kontakten &#x200B;] unterscheiden.
+* **Neue Typ-Spalte für [!UICONTROL Beste Wetten]**: Verkäufer erhalten schnellere Einblicke mit einer neuen Spalte mit der Bezeichnung „Typ“, um auf der Seite „Beste [!UICONTROL &quot; zwischen Leads und Kontakten ] unterscheiden.
 
 * **[!DNL Salesforce]Platform-API-**: Als Reaktion auf [!DNL Salesforce] Einstellung der [!DNL Salesforce] Platform-API-Versionen 21.0 bis 30.0 wurde das [!DNL Sales Insight] mit den neuesten APIs aktualisiert.
 
@@ -74,7 +79,7 @@ Marketo Engage-Kunden, die auch die Adobe Experience Platform (AEP) verwenden, k
 
 * **Anrufergebnisse und -gründe**: Verstehen und verfolgen Sie die ausgehenden Bemühungen Ihrer Vertriebsteams detaillierter mit neuen, vollständig anpassbaren Anrufergebnis- und Anrufgrund-Optionen. Zusätzlich zu diesen neuen Feldern führen wir eine neue Governance ein, um die Auswahl der Anrufgründe und -ergebnisse zu erzwingen, während die Verkäufer Anrufe tätigen, eine neue Governance, um Anrufgründe und -ergebnisse zu aktivieren oder zu deaktivieren, und ein neues benutzerdefiniertes Feld für Anrufgrund und Anrufergebnis-[!DNL Salesforce] für die Protokollierung von Daten in [!DNL Salesforce]. [Hier klicken](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) um mehr zu erfahren.
 
-* Anpassung der **[!DNL Salesforce]-Aktivitätsdetails**: Erfassen Sie mehr Daten zu Verkaufsaktivitäten und Aufgaben in [!DNL Salesforce], indem Sie anpassen, welche Informationen zum Betrefffeld der [!DNL Salesforce] Aufgabe hinzugefügt werden, wenn eine Verkaufsaktivität von [!DNL Salesforce] an [!DNL Sales Connect] protokolliert wird. [Hier klicken](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) um mehr zu erfahren.
+* Anpassung der **[!DNL Salesforce]-Aktivitätsdetails**: Erfassen Sie mehr Daten zu Verkaufsaktivitäten und Aufgaben in [!DNL Salesforce], indem Sie anpassen, welche Informationen zum Betrefffeld der [!DNL Salesforce] Aufgabe hinzugefügt werden, wenn eine Verkaufsaktivität von [!DNL Sales Connect] an [!DNL Salesforce] protokolliert wird. [Hier klicken](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) um mehr zu erfahren.
 
 ## Ankündigungen {#announcements}
 

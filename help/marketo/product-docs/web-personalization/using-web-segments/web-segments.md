@@ -4,9 +4,14 @@ description: Erfahren Sie mehr über Web-Segmente in Marketo Engage, einschließ
 title: Web-Segmente
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: 2104
 ht-degree: 5%
 
 ---
@@ -17,7 +22,7 @@ ht-degree: 5%
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-Auf der Registerkarte Segmente werden alle benutzerdefinierten Segmente angezeigt, die Sie basierend auf verschiedenen Attributen einrichten.  **Ein Segment ist eine Sammlung von Besuchern, die die auf der Seite „Segment festlegen“ angegebenen Kriterien erfüllen.** Ein Segment kann Besucher aus einer bestimmten Branche, aus einem bestimmten Standort oder basierend auf der Onsite-Aktivität des Besuchers sein.
+Auf der Registerkarte Segmente werden alle benutzerdefinierten Segmente angezeigt, die Sie basierend auf verschiedenen Attributen einrichten.  **Ein Segment ist eine Sammlung von Besuchern, die die auf der Seite „Segment festlegen“ angegebenen Kriterien erfüllen.**  Ein Segment kann Besucher aus einer bestimmten Branche, aus einem bestimmten Standort oder basierend auf der Onsite-Aktivität des Besuchers sein.
 
 In [!DNL Web Personalizatio] kann ein Besucher mit mehr als einem Segment übereinstimmen. Wenn es beispielsweise ein Segment für US-Besucher und ein Segment für Finanzunternehmen gibt, würde ein Web-Besucher der Bank of America (**) sowohl mit** Segment für US-Besucher als auch mit dem Segment für Finanzunternehmen übereinstimmen.
 
@@ -76,7 +81,7 @@ Zu diesen Details gehören:
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Um ein Segment zu aktivieren oder zu deaktivieren, aktivieren Sie das Kontrollkästchen dieses Segments in der Tabelle und wählen Sie im Dropdown-Feld &quot;[!UICONTROL Aktion auswählen]&quot; unten in der Tabelle die Aktion &quot;[!UICONTROL Aktivieren]&quot; oder &quot;[!UICONTROL Deaktivieren]. Wenn ein Segment deaktiviert ist, wird unter der Spalte [!UICONTROL Status“ das Wort &#x200B;] angezeigt.
+Um ein Segment zu aktivieren oder zu deaktivieren, aktivieren Sie das Kontrollkästchen dieses Segments in der Tabelle und wählen Sie im Dropdown-Feld &quot;[!UICONTROL Aktion auswählen]&quot; unten in der Tabelle die Aktion &quot;[!UICONTROL Aktivieren]&quot; oder &quot;[!UICONTROL Deaktivieren]. Wenn ein Segment deaktiviert ist, wird unter der Spalte [!UICONTROL Status“ das Wort ] angezeigt.
 
 ## Segmente erstellen {#create-segments}
 
@@ -119,7 +124,7 @@ Definieren allgemeiner Parameter für Ihr Segment:
 >    * 1 und (2 oder 3)
 >    * (1 und 2) oder 3
 >
->    Für eine kompliziertere Logik sind auch verschachtelte Klammern erlaubt, z. B. 
+>    Für eine kompliziertere Logik sind auch verschachtelte Klammern erlaubt, z. B.
 >
 >    * (1 und 2) oder (3 und 4)
 >    * 1 und (2 oder (3 und 4))
@@ -149,7 +154,7 @@ Nachdem das Land hinzugefügt wurde, können Sie auch Bundesland, Stadt und Post
 
 >[!TIP]
 >
->**Welche Segmentbedingungen wähle ich? „AND“ oder „OR“?** ODER fungiert als zusätzliche Option in jedem Feld. Interessenten müssen nur ein Kriterium aus den mehreren in jedem Feld ausgewählten Kriterien erfüllen, um sich für das Segment zu qualifizieren. (Interessenten können beispielsweise entweder aus den USA oder *sein* oder aus der Rüstungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Interessenten müssen zum Beispiel sowohl aus den USA als auch aus der Rüstungsindustrie stammen). Innerhalb jedes Segmentierungsprofils kann jedes einzelne Feld je nach ausgewählter Segmentbedingung sowohl als „AND“ als auch als „OR“ funktionieren.
+>**Welche Segmentbedingungen wähle ich? „AND“ oder „OR“?** ODER fungiert als zusätzliche Option in jedem Feld. Interessenten müssen nur ein Kriterium aus den mehreren in jedem Feld ausgewählten Kriterien erfüllen, um sich für das Segment zu qualifizieren. (Interessenten können beispielsweise entweder aus den USA oder aus den USA sein. *oder* aus der Rüstungsindustrie). UND fungiert als zusätzlicher obligatorischer Parameter, der für dieses Segment erfüllt werden muss. (Interessenten müssen zum Beispiel sowohl aus den USA als auch aus der Rüstungsindustrie stammen). Innerhalb jedes Segmentierungsprofils kann jedes einzelne Feld je nach ausgewählter Segmentbedingung sowohl als „AND“ als auch als „OR“ funktionieren.
 
 **Branchen** Aktivieren Sie im Abschnitt **[!UICONTROL Profilsegmentierung]** das Kontrollkästchen neben **[!UICONTROL Branche]**.
 
@@ -177,7 +182,7 @@ Aktivieren Sie **[!UICONTROL Abschnitt]** Profilsegmentierung“ das Kontrollkä
 * **Ist von diesen Unternehmen (bestimmte Namen)**
 
    * Wählen Sie das Zielunternehmen aus der Dropdown-Liste „Hinzuzufügende Firma auswählen“ aus.
-   * Sie können den genauen Organisationsnamen eingeben, den Sie ansprechen möchten. *Es wird *immer* empfohlen, Namenskontenlisten zu verwenden, anstatt die Namen manuell einzugeben, um bessere Übereinstimmungen zu erzielen (siehe unten).
+   * Sie können den genauen Organisationsnamen eingeben, den Sie ansprechen möchten. *Es wird* immer* empfohlen, Namenskontenlisten zu verwenden, anstatt die Namen manuell einzugeben, um bessere Übereinstimmungen zu erzielen (siehe unten).
 
 **Liste benannter Konten**
 
@@ -187,7 +192,7 @@ Wählen Sie aus einer [benannten Kontenliste](/help/marketo/product-docs/web-per
 
 >[!NOTE]
 >
->Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **ISP ausschließen**
 
@@ -258,7 +263,7 @@ Definieren Sie Ihr Segment anhand des Status eines Interessenten: bekannt oder a
 
 **[!UICONTROL Mobile OS]**
 
-Ziehen Sie per Drag-and[!UICONTROL Drop den &#x200B;]Mobile OS) in den Segmenteditor
+Ziehen Sie per Drag-and[!UICONTROL Drop den ]Mobile OS) in den Segmenteditor
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
@@ -282,15 +287,15 @@ Targeting von Besucherinnen und Besuchern, die bestimmte Browser-Typen und/oder 
 
 **Datenereignisse** - Segmentieren von Besuchern, die Trigger für bestimmte benutzerdefinierte Datenereignisse sind
 
-Fügen Sie den Ereigniswert hinzu, den Sie ansprechen möchten. z. B. aus Datenquellen von Drittanbietern.
+Fügen Sie den Ereigniswert hinzu, den Sie ansprechen möchten. E.g. aus Datenquellen anderer Anbieter.
 
 **User Context-API**
 
-Aufruf der Web Personalization[API (weitere Informationen dazu finden Sie hier)](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Aufruf der Web Personalization[API (weitere Informationen dazu finden Sie hier)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Verwenden von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einbeziehen möchten, der bzw. die etwas darin enthält, z. B. &quot;[google.com](https://google.com)&quot; oder „Suchbegriffprodukt“, nennen wir dies einen Platzhalter, und er sollte mit einem Sternchen - diesem kleinen Kerl&#42; - an jedem Ende eingegeben werden. Daher sollte alles, was von [google.com](https://google.com) kommt, als &#42; ([.com) &#x200B;](https://google.com)&#42; werden
+>**Verwenden von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einbeziehen möchten, der bzw. die etwas darin enthält, z. B. &quot;[google.com](https://google.com)&quot; oder „Suchbegriffprodukt“, nennen wir dies einen Platzhalter, und er sollte mit einem Sternchen - diesem kleinen Kerl&#42; - an jedem Ende eingegeben werden. Daher sollte alles, was von [google.com](https://google.com) kommt, als &#42; ([.com) ](https://google.com)&#42; werden
 
 ## Bearbeiten [!UICONTROL Segmente] {#edit-segments}
 

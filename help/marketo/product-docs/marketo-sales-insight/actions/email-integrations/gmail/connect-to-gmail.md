@@ -2,9 +2,12 @@
 description: Erfahren Sie, wie Sie Gmail mit Sales Insight-Aktionen verbinden. Senden und verfolgen Sie Verkaufs-E-Mails von Gmail mit der Integration Aktionen .
 title: Verbinden mit Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/plEWvPm-qRn4KrTMRwvCClzzu2wxluHlGgPGh3h1a3A
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: 205
 ht-degree: 6%
 
 ---
@@ -15,7 +18,7 @@ Wenn Sie sich mit Gmail verbinden, erhalten Sie ein Tracking der Antworten, Zugr
 
 >[!CAUTION]
 >
->Wenn Sie in [&#x200B; Gmail-Konto &#x200B;](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}Filter oder Regeln verwenden, um E-Mails automatisch als gelesen zu markieren, kann dies zu Problemen mit dem Antwort-Tracking führen. Es wird empfohlen, alle Regeln zu deaktivieren, die E-Mails bei Verwendung des Antwort-Trackings mit Gmail automatisch als gelesen markieren.
+>Wenn Sie in [ Gmail-Konto ](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}Filter oder Regeln verwenden, um E-Mails automatisch als gelesen zu markieren, kann dies zu Problemen mit dem Antwort-Tracking führen. Es wird empfohlen, alle Regeln zu deaktivieren, die E-Mails bei Verwendung des Antwort-Trackings mit Gmail automatisch als gelesen markieren.
 
 1. Klicken Sie in Marketo Sales auf das Zahnradsymbol und wählen Sie **Einstellungen** aus.
 

@@ -4,9 +4,14 @@ title: E-Mail-Vorlagen
 hide: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/z-unNOgHUxTyNSc8P5r7-xbP8AQd79P3Z0qz3uZkKqw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1786'
+source-wordcount: 1786
 ht-degree: 8%
 
 ---
@@ -21,7 +26,7 @@ Für einen beschleunigten und verbesserten Design-Prozess können Sie eigenstän
 
 >[!PREREQUISITES]
 >
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn dies noch nicht geschehen ist und Sie eine Beschleunigung dieses Prozesses wünschen, wenden Sie sich bitte an das Adobe-Accountteam (Ihre Kundenbetreuung) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
+>Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn dies noch nicht geschehen ist und Sie eine Beschleunigung dieses Prozesses wünschen, wenden Sie sich bitte an das Adobe-Accountteam (Ihre Kundenbetreuung) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
 
 >[!NOTE]
 >
@@ -49,7 +54,7 @@ Für einen beschleunigten und verbesserten Design-Prozess können Sie eigenstän
 
 ## Entwerfen einer Vorlage {#design-your-template}
 
-Auf der _Vorlage entwerfen_ können Sie aus einigen Optionen auswählen. [Erstellen Sie von Grund &#x200B;](#design-from-scratch), [importieren Sie Ihre eigene HTML](#import-html) oder [wählen Sie eine vorhandene Vorlage aus](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben).
+Auf der _Vorlage entwerfen_ können Sie aus einigen Optionen auswählen. [Erstellen Sie von Grund ](#design-from-scratch), [importieren Sie Ihre eigene HTML](#import-html) oder [wählen Sie eine vorhandene Vorlage aus](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben).
 
 ![](assets/design-your-template-1.png)
 

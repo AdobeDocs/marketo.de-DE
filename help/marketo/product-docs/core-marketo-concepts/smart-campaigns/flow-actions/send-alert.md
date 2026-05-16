@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie in einem Workflow-Schritt von Smart Campaign 
 title: Senden von Alarm
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/QOWt5ZiUVTAi5mqIrniwDrbkx-3keRxXvykkb6IuyA8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: 166
 ht-degree: 2%
 
 ---
@@ -33,7 +36,7 @@ Marketo Engage kann einen E-Mail-Warnhinweis mit Personeninformationen an jeden 
    >
    >Verwenden Sie das Token &quot;[!UICONTROL Warnhinweisinfo senden] in Ihrer E-Mail.
 
-1. Wählen Sie den Warnhinweisempfänger aus. Sie können &quot;[!UICONTROL &quot; &#x200B;] &quot;[!UICONTROL &quot; &#x200B;].
+1. Wählen Sie den Warnhinweisempfänger aus. Sie können &quot;[!UICONTROL &quot; ] &quot;[!UICONTROL &quot; ].
 
    ![](assets/send-alert-4.png)
 

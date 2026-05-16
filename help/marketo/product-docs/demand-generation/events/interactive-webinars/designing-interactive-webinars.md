@@ -3,9 +3,13 @@ description: Erfahren Sie mehr über das Entwerfen interaktiver Webinare in Mark
 title: Entwerfen interaktiver Webinare
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-QrRSSkG0-w5Wfkgd-qESFfKtWdcC053-J-xzKT2Uec
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: 602
 ht-degree: 1%
 
 ---
@@ -76,9 +80,9 @@ Erfahren Sie, wie Sie Ihr Webinar an Ihre Anforderungen anpassen.
 
 **Pod**: Eine Komponente in einer Vorlage, die während des Webinars eine bestimmte Aktivität ausführt. Sie können beispielsweise eine Umfrage einrichten und durchführen, um die Antworten der Teilnehmer in einer Aktivität zu erfassen, die von einem Umfrage-Pod ausgeführt werden kann. Ebenso kann es sich bei dem Chat mit den Teilnehmern zur Vermittlung einer Nachricht oder bei der beiläufigen Interaktion mit ihnen um eine Aktivität handeln, die über den Chat-Pod bereitgestellt wird. Es stehen mehrere weitere Pods zur Verfügung, z. B. Freigabe, Notizen, Video, Chat, Teilnehmerliste, Dateien, Weblinks, Umfragen und Fragen und Antworten.
 
-      **Survey Pod**: Ermöglicht Hosts, strukturierte Feedback-Formulare direkt innerhalb einer Live-Sitzung zu entwerfen und bereitzustellen. Der Umfrage-Pod erweitert die vorhandenen Umfrage-Pod-Funktionen, indem er die Möglichkeit bietet, mehrere Fragen zusammen zu stellen, und so eine optimierte und kohärentere Möglichkeit bietet, Einblicke zu sammeln. [Weitere Informationen](https://helpx.adobe.com/de/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Survey Pod**: Ermöglicht Hosts, strukturierte Feedback-Formulare direkt innerhalb einer Live-Sitzung zu entwerfen und bereitzustellen. Der Umfrage-Pod erweitert die vorhandenen Umfrage-Pod-Funktionen, indem er die Möglichkeit bietet, mehrere Fragen zusammen zu stellen, und so eine optimierte und kohärentere Möglichkeit bietet, Einblicke zu sammeln. [Weitere Informationen](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Ressourcen-Pod**: Ersetzt die vorherigen Dateien und Weblinks-Pods und bietet eine einzige, einheitliche Möglichkeit, Ressourcen während Live-Sitzungen freizugeben. [Weitere Informationen](https://helpx.adobe.com/de/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Ressourcen-Pod**: Ersetzt die vorherigen Dateien und Weblinks-Pods und bietet eine einzige, einheitliche Möglichkeit, Ressourcen während Live-Sitzungen freizugeben. [Weitere Informationen](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

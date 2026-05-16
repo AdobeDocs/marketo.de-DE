@@ -4,9 +4,13 @@ description: Erfahren Sie mehr über Webaktivitätsberichte von Unternehmen, die
 title: Bericht zur Web-Aktivität von Unternehmen
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/U075R1PGYsqHdHOwEv5IgD-Wb6I4ejtmY4CylsXeXds
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: 275
 ht-degree: 6%
 
 ---
@@ -19,11 +23,11 @@ Erstellen Sie einen [Web-Seitenaktivitätsbericht](/help/marketo/product-docs/re
 
 >[!PREREQUISITES]
 >
->Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [auf  [!DNL Munchkin]  Website) &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Um Aktivitäten von Ihrer Website in Marketo zu erfassen, müssen Sie zunächst [auf  [!DNL Munchkin]  Website) ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den [!UICONTROL Unternehmenswebaktivität] Bericht [Berichtstyp](report-type-overview.md).
 
-1. Wählen Sie aus[&#x200B; dass bekannte oder anonyme Personen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) Bericht angezeigt werden sollen.
+1. Wählen Sie aus[ dass bekannte oder anonyme Personen ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) Bericht angezeigt werden sollen.
 
 1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
 
@@ -33,7 +37,7 @@ Erstellen Sie einen [Web-Seitenaktivitätsbericht](/help/marketo/product-docs/re
 
    >[!TIP]
    >
-   >Um die Unternehmen zu finden, die Ihre Website am häufigsten besuchen, [ Sie in der Spalte _[!UICONTROL Seitenansichten]_ **[[!UICONTROL den &#x200B;]](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)Bericht sortieren]**.
+   >Um die Unternehmen zu finden, die Ihre Website am häufigsten besuchen, [ Sie in der Spalte _[!UICONTROL Seitenansichten]_ **[!UICONTROL den ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)Bericht sortieren]**.
 
    [Spalten, die Sie auswählen können](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen Bericht zu Unternehmens-Web-Aktivitäten umfassen:
 

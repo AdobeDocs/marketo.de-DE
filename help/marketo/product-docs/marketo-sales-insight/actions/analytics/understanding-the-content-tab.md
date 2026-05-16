@@ -3,16 +3,19 @@ description: Machen Sie sich mit den Metriken auf der Registerkarte „Inhalte�
 title: Grundlegendes zur Registerkarte „Inhalte“
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/E8Ia47f-pco8X7HovNEfr6BudxALmzZYY-qBVpfSIvE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: 200
 ht-degree: 2%
 
 ---
 
 # Grundlegendes zur Registerkarte [!UICONTROL Inhalt] {#understanding-the-content-tab}
 
-Auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Inhalt“ dreht sich alles um die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage. Wir sprechen automatisch drei Metriken aus, die wir für wichtig halten.
+Auf [!UICONTROL  Registerkarte ]Inhalt“ dreht sich alles um die E-Mail-Interaktion Ihres Teams bei der Verwendung einer Vorlage. Wir sprechen automatisch drei Metriken aus, die wir für wichtig halten.
 
 ## Geheimwaffe {#secret-weapon}
 

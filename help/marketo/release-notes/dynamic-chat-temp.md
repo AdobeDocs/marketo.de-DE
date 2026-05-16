@@ -4,9 +4,11 @@ title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: 933
 ht-degree: 66%
 
 ---
@@ -35,7 +37,7 @@ Die Routing-Logik des Live-Chats in Dynamic Chat wurde überarbeitet, um über a
 
 * **Spezifisches Verhalten für eine Routing-Regel**
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 Wenn die E-Mail-Domain einer Besucherin oder eines Besuchers einem bekannten Konto zugeordnet ist, wird die als Agentin bzw. Agent zugeordnete Person immer priorisiert.
 
@@ -52,7 +54,7 @@ Stattdessen gilt Folgendes:
 
 Die Routing-Regel auf Kartenebene (z. B. Team, Benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agent).
 
-_&#x200B;**Benutzerdefiniertes/Team-Routing**&#x200B;_
+_**Benutzerdefiniertes/Team-Routing**_
 
 Diese Regeln können mehrere geeignete Agentinnen oder Agenten zurückgeben.
 
@@ -63,10 +65,10 @@ Nur weil eine Person nicht reagiert, wird nicht gleich ein Round-Robin-Fallback 
 Wenn sich keine Agentin bzw. kein Agent meldet, passiert Folgendes:
 
 * Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
-&#x200B;- oder -
+- oder -
 * Es zeigt die standardmäßige Fallback-Nachricht an.
 
-_&#x200B;**Round-Robin-Routing**&#x200B;_
+_**Round-Robin-Routing**_
 
 Bei Verwendung als primäre Routing-Regel führt das System Folgendes durch:
 
@@ -76,7 +78,7 @@ Bei Verwendung als primäre Routing-Regel führt das System Folgendes durch:
 
 Wenn Round Robin als Fallback verwendet wird, wird es nur aktiviert, wenn von der primären Regel keine Agentinnen oder Agenten aufgelöst werden.
 
-_&#x200B;**Besuchererlebnis-Fluss**&#x200B;_
+_**Besuchererlebnis-Fluss**_
 
 Das System prüft, ob Konto-Routing anwendbar ist.
 
@@ -93,14 +95,14 @@ Routingregel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wurden ausge
 * Wenn keine Interaktion erfolgreich ist, wird die Ausweichlogik angewendet:
 
    * Kalender-Fallback (falls aktiviert),
-&#x200B;- oder -
+- oder -
    * Standardnachricht.
 
 Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine geeigneten Agentinnen oder Agenten gemäß der primären Routing-Regel gefunden werden, aber nicht, wenn einzelne Agentinnen bzw. Agenten nicht reagieren.
 
 ##### Anwendungsszenarien {#use-cases}
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 <table><thead>
   <tr>
@@ -126,7 +128,7 @@ _&#x200B;**Konto-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
+_**Benutzerdefiniertes Routing**_
 
 <table><thead>
   <tr>
@@ -152,7 +154,7 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Team-Routing**&#x200B;_
+_**Team-Routing**_
 
 <table><thead>
   <tr>
@@ -178,7 +180,7 @@ _&#x200B;**Team-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round-Robin-Routing**&#x200B;_
+_**Round-Robin-Routing**_
 
 <table><thead>
   <tr>

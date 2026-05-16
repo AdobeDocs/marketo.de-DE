@@ -4,9 +4,14 @@ description: Erfahren Sie, wie Sie die Adobe-Organisationszuordnung in Marketo E
 title: Einrichten der Adobe-Organisationszuordnung
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/8Pypw9omyxldMxJqHj-KHBRzl-P5ttDhujCwcEVfLwQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: 247
 ht-degree: 6%
 
 ---
@@ -36,7 +41,7 @@ Um mit Adobe-Programmen wie Audience Manager, dem B2B CDP-Marketo-Connector, [!D
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Geben Sie Ihre [Adobe IMS Org ID](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=de){target="_blank"}) ein und klicken Sie auf **[!UICONTROL OK]**.
+1. Geben Sie Ihre [Adobe IMS Org ID](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) ein und klicken Sie auf **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -54,4 +59,4 @@ Um mit Adobe-Programmen wie Audience Manager, dem B2B CDP-Marketo-Connector, [!D
 
 1. Wenn Sie _noch nicht_ angemeldet sind, wird ein Popup-Fenster in einer neuen Registerkarte oder einem neuen Fenster angezeigt. Melden Sie sich bei Ihrer Adobe-Organisation an (dieser Vorgang validiert den Organisationszugriff).
 
-Sie können [&#x200B; Adobe Experience Cloud jetzt Zielgruppendaten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} oder [synchronisieren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}.
+Sie können [ Adobe Experience Cloud jetzt Zielgruppendaten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} oder [synchronisieren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}.

@@ -4,10 +4,15 @@ description: März 2015 - Marketo-Dokumentation - Produktdokumentation
 title: März 2015 - Versionshinweise
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/jDFXOGCewyX98kKv14q85BWxx0S3BUIsrv-q931B6Wc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 15%
+source-wordcount: 306
+ht-degree: 14%
 
 ---
 
@@ -37,13 +42,13 @@ Verknüpfen Sie Ihr [[!DNL Google AdWords] Konto mit Marketo](/help/marketo/prod
 
 ## Neue Ressourcen-REST-APIs {#new-asset-rest-apis}
 
-[Neue Ressourcen-REST-APIs](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/assets)
+[Neue Ressourcen-REST-APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 Wir bieten jetzt Unterstützung für das Erstellen und Bearbeiten von E-Mails, Vorlagen, meinen Token, Dateien und Snippets [über die API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## [!DNL Microsoft Dynamics] 2015 On-Premise {#microsoft-dynamics-on-premise}
 
-Unterstützt mit dem neuesten Installationsprogramm ([&#x200B; über die App zugänglich](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Unterstützt mit dem neuesten Installationsprogramm ([ über die App zugänglich](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
@@ -53,4 +58,4 @@ Nutzen Sie die [Lead-Datenfelder](/help/marketo/product-docs/web-personalization
 
 ## RTP: Webinhalte nach E-Mail- oder Programmkampagnenname personalisieren {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Setzen Sie das Gespräch mit Ihrem Lead über alle Kanäle von E-Mail bis Web fort. [Personalisieren eingehender Inhalte basierend auf der E-Mail-Kampagne oder dem &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md), der in den Marketing-Aktivitäten von Marketo verwendet wird.
+Setzen Sie das Gespräch mit Ihrem Lead über alle Kanäle von E-Mail bis Web fort. [Personalisieren eingehender Inhalte basierend auf der E-Mail-Kampagne oder dem ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md), der in den Marketing-Aktivitäten von Marketo verwendet wird.

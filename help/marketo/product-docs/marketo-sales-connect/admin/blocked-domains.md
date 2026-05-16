@@ -4,9 +4,11 @@ description: Erfahren Sie, wie Sie Domains in Sales Connect blockieren, um E-Mai
 title: Blockierte Domains
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/f1GMgzy-qDsQg5sEx6JkVXCpCgs1yjn5UHkdL5DZ2JU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: 103
 ht-degree: 6%
 
 ---
@@ -23,7 +25,7 @@ Helfen Sie Ihrem Verkaufsteam, erfolgreich zu sein, indem Sie verhindern, dass e
 
    ![](assets/one-3.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two-3.png)
 

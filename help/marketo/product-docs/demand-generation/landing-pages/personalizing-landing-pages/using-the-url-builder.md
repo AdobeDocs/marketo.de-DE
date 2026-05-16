@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie den URL Builder für personalisierte Marketo-
 title: Verwenden des URL-Builders
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/C7P2TIGZMWFZs81tdVuYuM9T3VYZQdMBx8eFO7e5ZHg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: 136
 ht-degree: 7%
 
 ---
@@ -29,6 +32,6 @@ Der URL Builder hilft Ihnen beim Erstellen von URLs, die in ausgeblendete Formul
 
    >[!NOTE]
    >
-   >Wenn im Builder keine Felder verfügbar sind, stellen Sie sicher, dass das Formular ausgeblendete Felder enthält und dass diese [auf „URL-Parameter akzeptieren“ eingestellt &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
+   >Wenn im Builder keine Felder verfügbar sind, stellen Sie sicher, dass das Formular ausgeblendete Felder enthält und dass diese [auf „URL-Parameter akzeptieren“ eingestellt ](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
 Tolle Arbeit! Sie können jetzt die URL kopieren, einfügen und im Web verwenden.

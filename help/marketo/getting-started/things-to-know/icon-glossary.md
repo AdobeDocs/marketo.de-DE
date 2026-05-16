@@ -3,9 +3,12 @@ description: Symbolglossar – Marketo Engage-Dokumente – Produktdokumentation
 title: Symbolglossar
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '242'
+TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+workflow-type: tm+mt
+source-wordcount: 245
 ht-degree: 100%
 
 ---
@@ -24,9 +27,9 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/account-smart-list.png"></td>
-   <td>Konto-Smart-List</td>
+   <td>Intelligente Kontoliste</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
@@ -84,7 +87,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <td>Filter</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/filter-active.png"></td>
    <td>Filter – aktiv</td>
   </tr>
@@ -164,7 +167,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <td>Bericht</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/search.png"></td>
    <td>Suche</td>
   </tr>
@@ -176,7 +179,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-smart-list.png"></td>
    <td><img src="assets/smart-list.png"></td>
-   <td>Intelligente Liste</td>
+   <td>Smart List</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td>
@@ -196,7 +199,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
    <td><img src="assets/social-button.png"></td>
-   <td>Social-Schaltfläche</td>
+   <td>Social</td>
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td>
@@ -219,7 +222,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <td>Auslöser – aktiv</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
    <td>Auslöser – inaktiv</td>
   </tr>
@@ -258,7 +261,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>Nie ausführen</td>
+   <td>nie ausführen</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
@@ -303,7 +306,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <td>Ist angefordert</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/inactive.png"></td>
    <td>Inaktiv</td>
   </tr>
@@ -394,7 +397,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <td>Pausiert</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
    <td>Geplant</td>
   </tr>
@@ -443,17 +446,17 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
    <td>Genehmigt – in Berechnung</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
    <td>Genehmigt – in Neuberechnung</td>
   </tr>
   <tr>
-   <td><strong>k. A.</strong></td>
+   <td><strong>Nicht zutreffend</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
    <td>Entwurf – in Berechnung</td>
   </tr>

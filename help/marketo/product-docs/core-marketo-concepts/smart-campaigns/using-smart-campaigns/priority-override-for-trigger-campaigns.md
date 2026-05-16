@@ -3,9 +3,13 @@ description: Erfahren Sie mehr über das Überschreiben von Prioritäten für Tr
 title: Überschreiben der Priorität für Auslöser-Kampagnen
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/XEyORsYajQEhtF-bajLFTtbOsSFg-lM9zU4gUyFcmWk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: 260
 ht-degree: 5%
 
 ---
@@ -16,7 +20,7 @@ Administratoren können die in Marketo Engage festgelegte Priorität für Trigge
 
 >[!NOTE]
 >
->Diese Funktion ist nur für Trigger-Kampagnen und für Benutzende verfügbar, denen die [&#x200B; &quot;Trigger-Kampagnenpriorität bearbeiten“ gewährt &#x200B;](#grant-priority-override-access).
+>Diese Funktion ist nur für Trigger-Kampagnen und für Benutzende verfügbar, denen die [ &quot;Trigger-Kampagnenpriorität bearbeiten“ gewährt ](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -56,6 +60,6 @@ Administratoren können die in Marketo Engage festgelegte Priorität für Trigge
 
 >[!NOTE]
 >
->* Sie können die Standardpriorität Ihrer Kampagne in der [!UICONTROL Kampagnenwarteschlange“ unter &#x200B;]Marketing[!UICONTROL Aktivitäten) &#x200B;]. Um die Ausführungsrate zu erhöhen, empfehlen wir, die Kampagnenpriorität eine Ebene höher als die Standardpriorität festzulegen.
+>* Sie können die Standardpriorität Ihrer Kampagne in der [!UICONTROL Kampagnenwarteschlange“ unter ]Marketing[!UICONTROL Aktivitäten) ]. Um die Ausführungsrate zu erhöhen, empfehlen wir, die Kampagnenpriorität eine Ebene höher als die Standardpriorität festzulegen.
 >* Die Priorität für Benutzereinstellungen gilt nur für neue Personen, die sich für die Kampagne qualifizieren. Personen, die sich bereits in der Warteschlange befinden, sind davon nicht betroffen.
 >* Prioritätsüberschreibungen werden im [Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"} erfasst.

@@ -4,9 +4,13 @@ description: Erfahren Sie, wie Sie einen Flussschritt aus einer Smart-Kampagne l
 title: Hinzufügen eines Flussschritts
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/W7vuSvjNiJ3aN5aqB8CL9lHXinhT58ul6PzGDpaHqgI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: 374
 ht-degree: 2%
 
 ---
@@ -40,7 +44,7 @@ So entfernen Sie einen unerwünschten Flussschritt aus einer Smart-Kampagne:
    1. **Nie gerannt**. Nehmen Sie alle gewünschten Änderungen vor. Dies wirkt sich erst auf andere aus, wenn Sie diese Kampagne ausführen.
    1. **Ist eine wiederkehrende intelligente Kampagne**. Die Änderungen betreffen Personen in zukünftigen Ausführungen, nicht in vorherigen Ausführungen.
    1. **Bereits ohne Warteschritte ausgeführt**.Es sind keine Personen betroffen, da die Kampagne nach der Ausführung inaktiv ist.
-   1. **Wird gerade ausgeführt**. Änderungen können je nach Zeitpunkt und Details des Löschvorgangs zu unerwartetem Verhalten führen. Es wird dringend empfohlen, keine Batch-Kampagne zu bearbeiten, die aktiv ausgeführt wird. Erfahren Sie in Notfällen, wie Sie [&#x200B; laufende intelligente Kampagne abbrechen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
+   1. **Wird gerade ausgeführt**. Änderungen können je nach Zeitpunkt und Details des Löschvorgangs zu unerwartetem Verhalten führen. Es wird dringend empfohlen, keine Batch-Kampagne zu bearbeiten, die aktiv ausgeführt wird. Erfahren Sie in Notfällen, wie Sie [ laufende intelligente Kampagne abbrechen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
    1. **Wurde bereits mit Warteschritten ausgeführt.** Einige Details zu diesem.
 Wenn eine Person in einen Warteschritt eintritt, notiert die Person die Dauer und den ZAHLENSCHRITT, zu dem sie zurückkehren soll. Siehe Beispiel unten.

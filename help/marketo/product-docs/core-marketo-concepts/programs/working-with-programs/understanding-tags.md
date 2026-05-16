@@ -4,9 +4,13 @@ description: Informationen zu Tags für das Organisieren und Filtern von Program
 title: Grundlegendes zu Tags
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/wDkD0mSwbhIYJHM-6YOxHKUIoP1T49jEPg3sobQSCf8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: 178
 ht-degree: 5%
 
 ---
@@ -23,7 +27,7 @@ Tag-Typen identifizieren die Art von Informationen, nach denen Sie sortieren mö
 
 >[!TIP]
 >
->Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie &quot;[&#x200B; Tags“ erstellen &#x200B;](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>Wenden Sie sich an Ihren Marketo-Administrator, wenn Sie &quot;[ Tags“ erstellen ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >

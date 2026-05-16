@@ -4,9 +4,11 @@ title: Antwortprotokollierung
 hide: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/Jar0L3yAreXg7V0yVY-fbX2kH-RFklO1jyVEBsindBI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: 273
 ht-degree: 4%
 
 ---
@@ -20,7 +22,7 @@ Mit Sales Insight Actions können Sie die Antworten Ihrer Interessenten automati
 * Muss E-Mails über API-Protokollierung protokollieren
 * Muss in der Lage sein, [eine Antwort zu verfolgen](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
 * Muss mit [!DNL Salesforce] verbunden sein
-* Muss [!DNL Salesforce] ([) &#x200B;](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) haben
+* Muss [!DNL Salesforce] ([) ](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) haben
 
 ## Antwortprotokollierung aktivieren {#enable-reply-logging}
 
@@ -36,7 +38,7 @@ Es ist wichtig, aussagekräftige Daten aus Ihren [!DNL Salesforce]-Berichten zu 
 
 1. Wechseln Sie **[!UICONTROL Setup]** > **[!UICONTROL Anpassen]** > **[!UICONTROL Aktivitäten]** > **[!UICONTROL Aufgabenfelder]**.
 1. Klicken Sie auf **[!UICONTROL Typ]**.
-1. Klicken [!UICONTROL &#x200B; unter „Aufgabenart Auswahllistenwerte] auf **[!UICONTROL Neu]**.
+1. Klicken [!UICONTROL  unter „Aufgabenart Auswahllistenwerte] auf **[!UICONTROL Neu]**.
 1. Geben Sie „Antwort“ in das leere Feld ein. Achten Sie darauf, das „R“ großzuschreiben und auf &quot;**[!UICONTROL &quot;]**.
 
    >[!NOTE]

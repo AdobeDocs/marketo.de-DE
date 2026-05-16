@@ -4,9 +4,11 @@ description: Erfahren Sie, wie Sie Ihren Champion-/Challenger-E-Mail-Test genehm
 title: Champion/Challenger - Genehmigen Sie Ihren E-Mail-Test
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/5UVOPS2POHH6g9n7nWU1Z4UpSr0nZnNC-RLJ1K5F4WI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: 152
 ht-degree: 7%
 
 ---
@@ -33,7 +35,7 @@ Der letzte Schritt beim Einrichten des E-Mail-Tests zur Genehmigung. Und so geht
 
    >[!NOTE]
    >
-   >Trigger Um den Test zu senden, wählen Sie im Flussschritt **E-Mail senden** Ihrer Testkampagne die E-Mail aus, der Sie den Test hinzugefügt haben. Sie haben außerdem die Möglichkeit, diese E-Mail in einen Stream eines Interaktionsprogramms einzufügen. Champion-/Challenger-E-Mails funktionieren nicht in Batch-Kampagnen.
+   >Um den Test zu senden, wählen Sie im Flussschritt **E-Mail senden** Ihrer Testkampagne die E-Mail aus, der Sie den Test hinzugefügt haben. Sie haben außerdem die Möglichkeit, diese E-Mail in einen Stream eines Interaktionsprogramms einzufügen. Champion-/Challenger-E-Mails funktionieren nicht in Batch-Kampagnen.
 
    War das nicht einfach? Sobald Sie einige Berichte erhalten haben, werden Sie einen Champion ernennen wollen.
 

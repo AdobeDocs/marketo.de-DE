@@ -4,9 +4,11 @@ description: Erfahren Sie, wie Sie die Anrufaufzeichnung in Sales Connect aktivi
 title: Aktivieren der Anrufaufzeichnung
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/KTDxGB6MI-Dmpt79zcajHuBrNSBczlKw9ascb7id-1Q
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: 120
 ht-degree: 5%
 
 ---
@@ -19,7 +21,7 @@ Als Administrator können Sie die Anrufaufzeichnung für Ihre [!DNL Sales Connec
 
    ![](assets/one.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two.png)
 

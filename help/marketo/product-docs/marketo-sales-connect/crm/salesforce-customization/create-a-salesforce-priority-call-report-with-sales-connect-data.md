@@ -4,16 +4,18 @@ description: Erfahren Sie, wie Sie mit Sales Connect-Daten einen Prioritätsanru
 title: Erstellen eines Salesforce-Prioritätsanrufberichts mit Sales Connect-Daten
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/qaJJwwTnXS5Jtqal0SPYVOJhjPPZlXngl4NzWcijbJ4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: 173
 ht-degree: 11%
 
 ---
 
 # Erstellen eines Salesforce-Prioritätsanrufberichts mit Sales Connect-Daten {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
-Erfahren Sie, wie Sie mit [!DNL Salesforce] E-Mail-Interaktionsdaten einen [!DNL Sales Connect] Bericht/eine Anrufliste erstellen, um sich auf die Personen oder Chancen mit Schwung zu konzentrieren.
+Erfahren Sie, wie Sie mit [!DNL Sales Connect] E-Mail-Interaktionsdaten einen [!DNL Salesforce] Bericht/eine Anrufliste erstellen, um sich auf die Personen oder Chancen mit Schwung zu konzentrieren.
 
 1. Wechseln Sie zur Registerkarte [!UICONTROL SFDC-Bericht].
 1. Erstellen Sie einen Bericht mit &quot;[!UICONTROL Aufgaben und Ereignisse].

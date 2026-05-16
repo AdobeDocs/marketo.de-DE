@@ -3,16 +3,20 @@ description: Dokumentieren Sie die Einrichtung Ihrer neuen Marketo Engage-Instan
 title: Best Practices für neue Instanzen - Dokumentieren der Einrichtung
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+TQID: https://experienceleague.adobe.com/pqbf84tAUt49rWUD7rONRuZNgR8v5yMmYTqwqlXqgAs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 3%
+source-wordcount: 536
+ht-degree: 4%
 
 ---
 
-# Best Practices für neue Instanzen: Dokumentieren Sie Ihre Einrichtung {#new-instance-best-practices-document-your-setup}
+# Best Practices für neue Instanzen: Dokumentieren Ihrer Einrichtung {#new-instance-best-practices-document-your-setup}
 
-Nachdem Sie nun die wichtigsten Produktbereiche kennen, die für eine neue Marketo Engage-Instanz eingerichtet werden müssen, erstellen Sie als nächsten Schritt eine Dokumentation für Ihre Instanzkonfiguration und Ihren Tech-Stack. Egal, ob Sie sie über eine Tabelle oder eine Projektmanagement-Anwendung erstellen, Ihre Dokumentation ist eine großartige Ressource, um den Fortschritt zu verfolgen und Details aufzuzeichnen sowie Ihre Instanz für zukünftige Marketing-Fachleute in Ihrem Unternehmen strukturiert und nachhaltig zu halten.
+Nachdem Sie nun die wichtigsten Produktbereiche kennen, die für eine neue Marketo Engage-Instanz eingerichtet werden müssen, müssen Sie als Nächstes eine Dokumentation für Ihre Instanzkonfiguration und Ihren Tech-Stack erstellen. Egal, ob Sie sie über eine Tabelle oder eine Projektmanagement-Anwendung erstellen, Ihre Dokumentation ist eine großartige Ressource, um den Fortschritt zu verfolgen und Details aufzuzeichnen sowie Ihre Instanz für zukünftige Marketing-Fachleute in Ihrem Unternehmen strukturiert und nachhaltig zu halten.
 
 ## Daten {#data}
 
@@ -26,8 +30,8 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen, die für eine neue Marke
 <tbody>
   <tr>
     <td>Listenimport</td>
-    <td><li>Erfassen Sie eine Liste der Datenquellen, aus denen Datensätze abgerufen werden (<a href="https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank"> in Marketo Engage importieren</a>.</li>
-    <li>Wenn Sie Daten aus mehreren Datenquellen importieren, sollten Sie Master-Listen verwenden oder <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">ein benutzerdefiniertes Feld erstellen</a> im Personendatensatz verwenden, um die Datenquelle zu kennzeichnen.</li></td>
+    <td><li>Erfassen Sie eine Liste der Datenquellen, aus denen Datensätze abgerufen (in <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank"> importiert) </a>.</li>
+    <li>Wenn Sie Daten aus mehreren Datenquellen importieren, sollten Sie Master-Listen verwenden oder <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">ein benutzerdefiniertes Feld erstellen</a> im Personendatensatz verwenden, um die Datenquelle zu kennzeichnen.</li></td>
   </tr>
   <tr>
     <td>Datenbankintegration</td>
@@ -48,12 +52,12 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen, die für eine neue Marke
 <tbody>
   <tr>
     <td>Benutzer</td>
-    <td><li>Dokumentieren Sie aus <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank"> die </a> Benutzer in Ihrer Instanz. Die folgenden Details sollten mindestens enthalten sein (und alle sind sichtbar, wenn Sie zu Admin &gt; Benutzer und Rollen gehen):</li>
+    <td><li>Dokumentieren Sie aus <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank"> die </a> Benutzer in Ihrer Instanz. Die folgenden Details sollten mindestens enthalten sein (und alle sind sichtbar, wenn Sie zu Admin &gt; Benutzer und Rollen gehen):</li>
     <ul>
     <li>Name</li>
     <li>E-Mail</li>
     <li>Anmeldung</li>
-    <li>Role</li>
+    <li>Rolle</li>
     <li>Ablaufdatum des Zugriffs</li>
     <li>Erstellungsdatum des Benutzers</li>
     <li>Datum der letzten Anmeldung</li></ul>
@@ -63,11 +67,11 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen, die für eine neue Marke
   </tr>
   <tr>
     <td>Organisation</td>
-    <td><li>Dokumentieren Sie die vereinbarte Ordnerstruktur, die standardmäßigen Benennungskonventionen für Programme, Assets usw. und die Gründe für die getroffenen Entscheidungen. <a href="https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Weitere Informationen zu den Best Practices finden Sie hier.</a></li></td>
+    <td><li>Dokumentieren Sie die vereinbarte Ordnerstruktur, die standardmäßigen Benennungskonventionen für Programme, Assets usw. und die Gründe für die getroffenen Entscheidungen. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Weitere Informationen zu den Best Practices finden Sie hier.</a></li></td>
   </tr>
   <tr>
     <td>Änderungsprotokoll</td>
-    <td><li>Erstellen Sie ein Änderungsprotokoll, in dem Sie die Änderungen in Ihrer Instanz und die Gründe für die Änderungen dokumentieren können. <a href="https://experienceleague.adobe.com/de/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Weitere Informationen zu den Best Practices finden Sie hier.</a></li></td>
+    <td><li>Erstellen Sie ein Änderungsprotokoll, in dem Sie die Änderungen in Ihrer Instanz und die Gründe für die Änderungen dokumentieren können. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Weitere Informationen zu den Best Practices finden Sie hier.</a></li></td>
   </tr>
   <tr>
     <td>Playbooks</td>
@@ -75,7 +79,7 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen, die für eine neue Marke
   </tr>
   <tr>
     <td>Gespräche mit internen Teams</td>
-    <td><li>Stimmen Sie die Erwartungen des internen Marketing-Teams an das Marketo Engage mit den Funktionen der Marketo Engage ab.</li>
+    <td><li>Abstimmung der Erwartungen des internen Marketing-Teams an Marketo Engage mit den Funktionen von Marketo Engage.</li>
     <li>Identifizieren Sie die Teams, die Ihre Stakeholder in der Marketo Engage-Instanz sein werden, und dokumentieren Sie ihre Ziele für die Verwendung von Marketo Engage als Technologie.</li></td>
   </tr>
   <tr>

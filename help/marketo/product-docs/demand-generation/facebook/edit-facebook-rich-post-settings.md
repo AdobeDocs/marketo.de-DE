@@ -5,9 +5,12 @@ title: Bearbeiten von Rich-Post-Einstellungen für Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 feature: Integrations
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/eRrJ4Lgmy5HYhtbSFCjUZmk549-1D7kgaqK-uE6-jO0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: 313
 ht-degree: 1%
 
 ---
@@ -26,7 +29,7 @@ Mit _(Social_ Apps) können Ihre Leads Ihre Landingpages über ihre Verbindungen
 
 Sie können die Arten von Seiteninformationen angeben, die in den [!DNL Facebook] Rich-Posts verwendet werden sollen, die durch Freigaben auf Ihrer Landingpage generiert wurden.
 
-1. Wählen Sie **[!UICONTROL Facebook-Nachricht]** im Editor für Ihr _&#x200B;_[!DNL YouTube_]_-Video oder Ihren Social-Media-Button aus.
+1. Wählen Sie **[!UICONTROL Facebook-Nachricht]** im Editor für Ihr __[!DNL YouTube_]_-Video oder Ihren Social-Media-Button aus.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

@@ -3,9 +3,11 @@ description: März 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: März 2023 – Versionshinweise
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/Sisp6sUlykUIMGVZjQlLgTarYQBgz-2QP5-3JW5d0t0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: 587
 ht-degree: 22%
 
 ---
@@ -35,7 +37,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -49,7 +51,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -63,7 +65,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -81,7 +83,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -103,7 +105,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -117,7 +119,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -131,12 +133,12 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
 
-* **Abgeleitete Attribute für Dynamic Chat**: Stellt sicher, dass abgeleitete IP-Daten (Stadt, Bundesland, Land usw.) für neue, von Dynamic Chat erfasste Personen in den Personendatensatz geschrieben werden.
+* **Abgeleitete Attribute für Dynamic Chat**: Stellt sicher, dass abgeleitete IP-Daten (Stadt, Bundesland usw.) wird in den Personendatensatz für neue von Dynamic Chat erworbene Personen geschrieben.
 
 <table>
   <tr>
@@ -145,7 +147,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -159,7 +161,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
@@ -173,7 +175,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td>k. A.</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>

@@ -4,9 +4,13 @@ description: Erfahren Sie mehr über die Priorisierung von Web-Kampagnen in Mark
 title: Priorisierung von Web-Kampagnen
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/MwSVFrnnG-tBShEwxhapBPm0evix-J0ZbrgvWwBZSU8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: 187
 ht-degree: 3%
 
 ---
@@ -40,7 +44,7 @@ Priorisieren Sie Ihre Web-Kampagnen, wenn sich zwei oder mehr Web-Kampagnen übe
 
    >[!TIP]
    >
-   >Es wird empfohlen, [!UICONTROL &#x200B; Kampagne „Prioritätswert] nur zu verwenden, wenn eine potenzielle Kampagnenüberschneidung vorliegt, bei der eine der Kampagnen eine höhere Bedeutung hat. Sie müssen nicht für jede Kampagne eine Priorität festlegen.
+   >Es wird empfohlen, [!UICONTROL  Kampagne „Prioritätswert] nur zu verwenden, wenn eine potenzielle Kampagnenüberschneidung vorliegt, bei der eine der Kampagnen eine höhere Bedeutung hat. Sie müssen nicht für jede Kampagne eine Priorität festlegen.
 
 1. Speichern oder Starten der Kampagne.
 

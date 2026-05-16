@@ -4,9 +4,14 @@ description: Erfahren Sie, wie Sie AEM Assets-Bilder in Marketo Engage-E-Mails v
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/kCDv70SM0B5fZjQ9-FTlVYZGkVbAbpJ1qmRm-YXOJf8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: da3860b0-d637-47df-bef0-273751180266
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: 1011
 ht-degree: 7%
 
 ---
@@ -15,15 +20,15 @@ ht-degree: 7%
 
 Mithilfe von Adobe Experience Manager Assets können Sie Marketing- und Kreativ-Workflows zusammenführen. Sie ist nativ in Marketo Engage integriert, sodass Sie einfach auf _Assets as a Cloud Service_ zugreifen können, um digitale Assets zu entdecken und zum Ausfüllen Ihrer Nachrichten zu verwenden.
 
-Adobe Experience Manager _Assets as a Cloud Service_ bietet eine benutzerfreundliche Cloud-Lösung für effizientes Digital Asset Management und Dynamic Media-Betrieb. Weitere Informationen finden Sie in der Dokumentation zu [&#128279;](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/overview)Adobe Experience Manager as a Cloud Service.
+Adobe Experience Manager _Assets as a Cloud Service_ bietet eine benutzerfreundliche Cloud-Lösung für effizientes Digital Asset Management und Dynamic Media-Betrieb. Weitere Informationen finden Sie in der Dokumentation zu [](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/overview)Adobe Experience Manager as a Cloud Service.
 
 >[!PREREQUISITES]
 >
->* Lizenzen für _Assets as a Cloud Service_ und Dynamic Media sind für die Integration erforderlich. Stellen Sie sicher[&#x200B; dass „Dynamic Media mit Open API aktiviert ist](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Je nach Vertrag und Konfiguration ist der Zugriff auf Adobe Experience Manager _Assets as a Cloud Service_ beim Entwerfen visueller Inhalte direkt über Marketo Engage möglich.
+>* Lizenzen für _Assets as a Cloud Service_ und Dynamic Media sind für die Integration erforderlich. Stellen Sie sicher[ dass „Dynamic Media mit Open API aktiviert ist](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Je nach Vertrag und Konfiguration ist der Zugriff auf Adobe Experience Manager _Assets as a Cloud Service_ beim Entwerfen visueller Inhalte direkt über Marketo Engage möglich.
 
 >[!NOTE]
 >
->Derzeit werden in Marketo Engage nur Bild-Assets von _0&rbrace;Adobe Experience Manager Assets unterstützt._&#x200B;Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Derzeit werden in Marketo Engage nur Bild-Assets von _0}Adobe Experience Manager Assets unterstützt._&#x200B;Änderungen an den Assets müssen über das zentrale Adobe Experience Manager Assets-Repository vorgenommen werden. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Link zu Ihren AEM Cloud Services {#link-to-your-aem-cloud-services}
 
@@ -51,7 +56,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie zunächst AEM Cloud Serv
    >
    >* Es werden nur Repositorys aufgelistet, die derselben IMS-Organisation zugeordnet wurden wie Ihr Marketo Engage-Abonnement.
    >
-   >* Marketo Engage unterstützt nur Repositorys aus der Bereitstellungsebene. Wenn Sie die Autorenebene verwenden und diese konvertieren möchten, wenden Sie sich an den [Adobe Experience Manager-Support](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-manager/content/overview/help-resources).
+   >* Marketo Engage unterstützt nur Repositorys aus der Bereitstellungsebene. Wenn Sie die Autorenebene verwenden und diese konvertieren möchten, wenden Sie sich an den [Adobe Experience Manager-Support](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
 1. Sie müssen ein [Dienstanmeldeinformationszertifikat“ hinzufügen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) um das Repository zu konfigurieren. Klicken Sie auf die Schaltfläche **+ Zertifikat hinzufügen**.
 
@@ -89,7 +94,7 @@ Wenn Ihre Umgebung über eine oder mehrere Asset-Repository-Verbindungen verfüg
 
 >[!IMPORTANT]
 >
->Ein Administrator muss Benutzer, die Zugriff auf Assets benötigen, zu den Produktprofilen &quot;Assets Consumer Users“ und/oder &quot;Assets Users“ hinzufügen. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Ein Administrator muss Benutzer, die Zugriff auf Assets benötigen, zu den Produktprofilen &quot;Assets Consumer Users“ und/oder &quot;Assets Users“ hinzufügen. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 Klicken Sie im visuellen Inhaltseditor auf das Symbol _Experience Manager Asset-_ in der linken Seitenleiste. Dadurch wird das Bedienfeld „Tools“ in eine Liste der verfügbaren Assets im ausgewählten Repository geändert.
 

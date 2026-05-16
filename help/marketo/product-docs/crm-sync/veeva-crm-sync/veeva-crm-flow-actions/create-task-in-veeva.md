@@ -3,9 +3,12 @@ description: Erfahren Sie, wie Sie in Veeva von Marketo aus Aufgaben erstellen, 
 title: Aufgabe erstellen in [!DNL Veeva]
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/W4zIWswN64cHyqA7oQ9iku0iMC7Q6NqIpWiAcSgvD04
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: 138
 ht-degree: 0%
 
 ---
@@ -30,4 +33,4 @@ Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
 
 >[!TIP]
 >
->Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den [!UICONTROL Betreff] und [!UICONTROL Beschreibung]. Weitere [&#x200B; finden Sie unter &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für Flussschritte .
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den [!UICONTROL Betreff] und [!UICONTROL Beschreibung]. Weitere [ finden Sie unter ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für Flussschritte .

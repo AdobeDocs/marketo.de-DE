@@ -3,9 +3,13 @@ description: Erhöhen oder verringern Sie das übergeordnete Limit für den Abru
 title: Ändern der Beschränkungen für den Abruf benutzerdefinierter Objekte in [!DNL Velocity Scripting]
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: 256
 ht-degree: 1%
 
 ---
@@ -30,12 +34,12 @@ Sie können auf übergeordnete und untergeordnete benutzerdefinierte Objekte ver
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-2.png)
 
-1. Geben Sie in [!UICONTROL &#x200B; Tabelle „Benutzerdefinierte Objektabrufbeschränkungen] ein neues „Übergeordnetes [!UICONTROL -Abruflimit“ &#x200B;] klicken Sie auf **[!UICONTROL Änderungen speichern]**.
+1. Geben Sie in [!UICONTROL  Tabelle „Benutzerdefinierte Objektabrufbeschränkungen] ein neues „Übergeordnetes [!UICONTROL -Abruflimit“ ] klicken Sie auf **[!UICONTROL Änderungen speichern]**.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-3.png)
 
 >[!NOTE]
 >
->Der Wert [!UICONTROL Übergeordnetes Abruflimit] muss im Bereich von 10-100 liegen. Das [!UICONTROL Limit für untergeordnete &#x200B;]&quot; wird automatisch festgelegt. Dies geschieht durch Division von 1000 durch das [!UICONTROL Limit für den übergeordneten Abruf]. Wenn Sie beispielsweise das übergeordnete Limit auf 50 festlegen, wird das untergeordnete Limit zu 20 (1000 ÷ 50 = 20).
+>Der Wert [!UICONTROL Übergeordnetes Abruflimit] muss im Bereich von 10-100 liegen. Das [!UICONTROL Limit für untergeordnete ]&quot; wird automatisch festgelegt. Dies geschieht durch Division von 1000 durch das [!UICONTROL Limit für den übergeordneten Abruf]. Wenn Sie beispielsweise das übergeordnete Limit auf 50 festlegen, wird das untergeordnete Limit zu 20 (1000 ÷ 50 = 20).
 
 Sie können jetzt von [!DNL Velocity script] aus auf weitere benutzerdefinierte Objekte zugreifen.

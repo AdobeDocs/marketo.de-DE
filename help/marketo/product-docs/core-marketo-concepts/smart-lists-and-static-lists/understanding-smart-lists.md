@@ -4,9 +4,13 @@ description: Erfahren Sie mehr über Smart Lists zum Suchen von Personengruppen 
 title: Grundlegendes zu intelligenten Listen
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/wXznZtdBlYA4Ma2PLQRXHdvfBuDIwUpUtH8p-IJnpZA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: 226
 ht-degree: 9%
 
 ---
@@ -34,7 +38,7 @@ Hier können Sie [den Namen der Smart-Liste bearbeiten](/help/marketo/product-do
 
 ## Registerkarte „Personen“ {#people-tab}
 
-Hier sehen Sie die Ergebnisse, d. h. alle Personen, die für die Filter qualifiziert sind, die Sie auf [&#x200B; Registerkarte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}Smart-Liste“ hinzugefügt und definiert haben.
+Hier sehen Sie die Ergebnisse, d. h. alle Personen, die für die Filter qualifiziert sind, die Sie auf [ Registerkarte ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}Smart-Liste“ hinzugefügt und definiert haben.
 
 ![](assets/understanding-smart-lists-2.png)
 

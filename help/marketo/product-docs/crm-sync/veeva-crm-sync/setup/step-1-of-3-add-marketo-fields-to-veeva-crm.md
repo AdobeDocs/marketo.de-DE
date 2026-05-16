@@ -3,9 +3,11 @@ description: Erfahren Sie, wie Sie Marketo-Felder vor dem Verbinden zu Veeva CRM
 title: 'Schritt 1 von 3: Marketo-Felder zu  [!DNL Veeva]  hinzufügen'
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/ZRKsO6ysIvvGNApNPAMd17fWAbr9M-meujmMRL51xPU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: 526
 ht-degree: 8%
 
 ---
@@ -97,8 +99,8 @@ Dezimalstellen 0</td>
 
 1. Deaktivieren Sie das **[!UICONTROL Schreibgeschützt]** für das Profil Ihres Synchronisierungsbenutzers:
 
-* Wenn Sie einen Benutzer mit dem Profil eines Systemadministrators als Synchronisierungsbenutzer haben, deaktivieren [!UICONTROL &#x200B; das Kontrollkästchen „Schreibgeschützt] für das Systemadministratorprofil (wie unten dargestellt).
-* Wenn Sie ein benutzerdefiniertes Profil für den Synchronisierungsbenutzer erstellt haben, deaktivieren [!UICONTROL &#x200B; das Kontrollkästchen „Schreibgeschützt] für dieses benutzerdefinierte Profil.
+* Wenn Sie einen Benutzer mit dem Profil eines Systemadministrators als Synchronisierungsbenutzer haben, deaktivieren [!UICONTROL  das Kontrollkästchen „Schreibgeschützt] für das Systemadministratorprofil (wie unten dargestellt).
+* Wenn Sie ein benutzerdefiniertes Profil für den Synchronisierungsbenutzer erstellt haben, deaktivieren [!UICONTROL  das Kontrollkästchen „Schreibgeschützt] für dieses benutzerdefinierte Profil.
 
   ![](assets/step-1-of-3-add-marketo-fields-9.png)
 

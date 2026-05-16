@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie eine Salesforce-Kampagne mit einem Marketo-Pr
 title: Synchronisieren einer SFDC-Kampagne mit einem Programm
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/WUVAKa2NMKLuT0t-Z-VJLqsnJBa7x7bYir8ORqUnmpU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: 178
 ht-degree: 11%
 
 ---
@@ -39,7 +42,7 @@ Marketo Engage ermöglicht es Ihnen, Ihre Programme mit [!DNL Salesforce] Kampag
 
    >[!TIP]
    >
-   >Wenn Sie eine bestehende [!DNL Salesforce] auswählen, stellen Sie sicher, dass Sie [den Programmstatus der Kampagne  [!DNL Salesforce]  das Marketo-Programm &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
+   >Wenn Sie eine bestehende [!DNL Salesforce] auswählen, stellen Sie sicher, dass Sie [den Programmstatus der Kampagne  [!DNL Salesforce]  das Marketo-Programm ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Geben Sie einen Namen für die neue Kampagne ein und klicken Sie auf **[!UICONTROL Speichern]**.
 

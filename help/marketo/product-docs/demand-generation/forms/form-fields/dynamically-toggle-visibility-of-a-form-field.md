@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie ein Formularfeld in Marketo dynamisch ein- od
 title: Dynamisches Umschalten der Sichtbarkeit eines Formularfelds
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/U3Lcsc5iBDigd3OdgrN0D7S3NBWllz9BwfztqeDBV98
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: 262
 ht-degree: 9%
 
 ---
@@ -17,7 +20,7 @@ ht-degree: 9%
 >
 >* [Fügen Sie Ihrem Formular eine Länder-Auswahlliste hinzu](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder [Feldsätze“ dynamisch &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)/anzeigen können.
+Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder [Feldsätze“ dynamisch ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)/anzeigen können.
 
 >[!NOTE]
 >
@@ -45,7 +48,7 @@ Eine wirklich coole Funktion von Marketo Forms ist, dass Sie Formularfelder oder
 
    >[!TIP]
    >
-   >Dies ist cool, weil Sie unscharfe Übereinstimmungen wie &quot;[!UICONTROL Beginnt mit“ &#x200B;] können.
+   >Dies ist cool, weil Sie unscharfe Übereinstimmungen wie &quot;[!UICONTROL Beginnt mit“ ] können.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -69,6 +72,6 @@ Wenn Personen dieses Formular ausfüllen und „USA für Land“ auswählen, wir
 
 >[!IMPORTANT]
 >
->Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte mithilfe von benutzerdefinierten Skripten (API[Funktionen) in Forms 2.0 &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}/aktualisiert werden.
+>Das Verhalten von Formularfeldern funktioniert nahtlos, wenn Feldwerte mithilfe von benutzerdefinierten Skripten (API[Funktionen) in Forms 2.0 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}/aktualisiert werden.
 >
 >Bedingte Felder funktionieren möglicherweise nicht wie erwartet, wenn Feldwerte durch andere externe Skripte als die Forms 2.0 JavaScript-API geändert werden.

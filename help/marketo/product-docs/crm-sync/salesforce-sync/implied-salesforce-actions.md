@@ -4,9 +4,11 @@ description: Erfahren Sie, welche Salesforce-Flussschritte Trigger „Person aut
 title: Implizierte Salesforce-Aktionen
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: 163
 ht-degree: 22%
 
 ---
@@ -48,6 +50,6 @@ Diese Regeln gelten, wenn sich die Person derzeit nicht in [Salesforce.com](http
  </tbody>
 </table>
 
-Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des **[!UICONTROL SFDC-Typs]** filtern, wobei der Operator auf &quot;[!UICONTROL ist nicht leer“ &#x200B;]. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
+Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des **[!UICONTROL SFDC-Typs]** filtern, wobei der Operator auf &quot;[!UICONTROL ist nicht leer“ ]. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
 
 Denken Sie daran, dass diese automatischen Aktionen nur stattfinden, wenn sich der Lead derzeit nicht in [Salesforce.com befindet](https://salesforce.com){target="_blank"}

@@ -4,9 +4,11 @@ description: Erfahren Sie, wie Sie die wöchentliche E-Mail mit dem TAM-Verkaufs
 title: Einrichten eines TAM-Berichts
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/wXMjcc5C-4pYGtgqomP56DSwTgFHvDSoyjCshMWpBG4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: 189
 ht-degree: 4%
 
 ---
@@ -25,7 +27,7 @@ Der TAM-Verkaufsbericht ist eine wöchentliche, personalisierte E-Mail, die an d
 
    ![](assets/tam-report-setup-2.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;] Bericht“ auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL  unter &quot;] Bericht“ auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/three-3.png)
 
@@ -65,7 +67,7 @@ Für jeden Bericht gibt es die Option zum Opt-out. Klicken Sie dazu einfach auf 
 
    ![](assets/tam-report-setup-10.png)
 
-1. Klicken Sie unter [!UICONTROL Wöchentlicher Bericht] auf die als „Abgemeldet[!UICONTROL &#x200B; angegebene &#x200B;].
+1. Klicken Sie unter [!UICONTROL Wöchentlicher Bericht] auf die als „Abgemeldet[!UICONTROL  angegebene ].
 
    ![](assets/nine.png)
 

@@ -3,9 +3,11 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung in Dynamics 365 mit ROPC-
 title: 'Schritt 1 von 4: Installieren der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers'
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/n6k54dW0WmIUFt7ErxsR1K6Ld-aEjhGSFLgVAZzTqL0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: 311
 ht-degree: 3%
 
 ---
@@ -43,7 +45,7 @@ Bevor Sie [!DNL Microsoft Dynamics] 365 und Marketo synchronisieren können, mü
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Klicken Sie **[!UICONTROL Datei wählen]**. Wählen Sie die Marketo-Lead-Management-Lösung aus[&#x200B; die Sie heruntergeladen &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie **[!UICONTROL Datei wählen]**. Wählen Sie die Marketo-Lead-Management-Lösung aus[ die Sie heruntergeladen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 

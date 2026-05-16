@@ -3,9 +3,11 @@ description: Erfahren Sie, wie Sie Einstellungen für Zweiparteien-Einverständn
 title: Einstellungen für Zwei-Parteien-Einverständnis
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/2KKg-cF-O7M5XAexsGVewdSbddMuCjFD3EwwSoZgfQ4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: 167
 ht-degree: 7%
 
 ---
@@ -22,7 +24,7 @@ Um bei der Aufzeichnung von Anrufen die Einhaltung der US-amerikanischen Zwei-Pa
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/two-party-consent-settings-2.png)
 

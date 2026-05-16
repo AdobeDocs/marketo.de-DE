@@ -3,9 +3,12 @@ description: Erfahren Sie, wie Sie ein interaktives Webinar testen können, bevo
 title: Testen eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/sZ2mZgzdcX3f7nD5BJ5MG9ZPPtqoC6IZ8ayyT9I7XQQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: 384
 ht-degree: 2%
 
 ---
@@ -18,7 +21,7 @@ Interaktive Webinare beinhalten die Verwendung von Adobe Connect als Webinar-Pro
 
 Jedes interaktive Webinar kann als Test-Webinar verwendet werden. Der Test kann durchgeführt werden, indem nicht mehr als 10 Hosts und Moderatoren (Teilnehmer) hinzugefügt werden.
 
-Der Workflow zum Erstellen eines Test-Webinars ist im Hinblick auf das Veranstaltungsprogramm für [&#x200B; Webinare identisch mit &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) Erstellen eines anderen Webinars. Es wird empfohlen, das für die Lieferung gewählte Datum weit in der Zukunft festzulegen.
+Der Workflow zum Erstellen eines Test-Webinars ist im Hinblick auf das Veranstaltungsprogramm für [ Webinare identisch mit ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) Erstellen eines anderen Webinars. Es wird empfohlen, das für die Lieferung gewählte Datum weit in der Zukunft festzulegen.
 
 >[!CAUTION]
 >

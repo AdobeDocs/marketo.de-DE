@@ -4,9 +4,13 @@ description: Erfahren Sie, wie Sie Marketo Sales Insight in Microsoft Dynamics 2
 title: Installieren und Konfigurieren von Marketo Sales Insight in Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/Ciiqs6Riit-3mjnqPzxzIxaBukPBFuqq0G9HSZqIObc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: 370
 ht-degree: 7%
 
 ---
@@ -19,7 +23,7 @@ ht-degree: 7%
 >
 >Abschließen der Marketo-Microsoft-Integration
 >
->[Laden Sie die richtige Lösung &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version [!DNL Microsoft Dynamics] CRM herunter.
+>[Laden Sie die richtige Lösung ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) Ihre Version [!DNL Microsoft Dynamics] CRM herunter.
 
 ## Lösung importieren {#import-solution}
 
@@ -37,9 +41,9 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >Sie sollten die Marketo[Lösung bereits installiert und &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) haben, bevor Sie fortfahren.
+   >Sie sollten die Marketo[Lösung bereits installiert und ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) haben, bevor Sie fortfahren.
 
-1. Klicken Sie auf **[!UICONTROL Durchsuchen]**. Wählen Sie die [!DNL Marketo Sales Insight] Lösung aus[&#x200B; die Sie heruntergeladen &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klicken Sie auf **[!UICONTROL Weiter]**.
+1. Klicken Sie auf **[!UICONTROL Durchsuchen]**. Wählen Sie die [!DNL Marketo Sales Insight] Lösung aus[ die Sie heruntergeladen ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 

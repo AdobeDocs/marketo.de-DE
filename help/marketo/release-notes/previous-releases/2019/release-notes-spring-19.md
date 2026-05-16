@@ -3,9 +3,14 @@ unique-page-id: 17728380
 description: Versionshinweise - Frühjahr 2019 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Frühjahr 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/o63AwYraOGknprRVOS0i6gMRhp9JfFnVSmbK4wHOjgE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bbbea26f-9621-49eb-9ab8-e06fb3bbce8cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: 466
 ht-degree: 5%
 
 ---
@@ -22,7 +27,7 @@ Die folgenden Funktionen wurden am 15. März 2019 veröffentlicht.
 
 ## Verbesserungen der Kernplattform {#core-platform-enhancements}
 
-* **Warteliste:** Neuer Programm-/Ereignisstatus für die Warteliste für ein Mitglied, wenn Sie es [&#x200B; „zurückstellen“ möchten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) bis eine freie Stelle geöffnet wird. Dies gilt für Kanäle, die mit Veranstaltungsprogrammen in Marketo Classic verknüpft sind, und sowohl für Ereignis- als auch für Ereignis-mit-Webinar-Programmen in [!DNL Marketo Sky]. Standardmäßig hat die Warteliste denselben Schrittwert wie „Registriert“.
+* **Warteliste:** Neuer Programm-/Ereignisstatus für die Warteliste für ein Mitglied, wenn Sie es [ „zurückstellen“ möchten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) bis eine freie Stelle geöffnet wird. Dies gilt für Kanäle, die mit Veranstaltungsprogrammen in Marketo Classic verknüpft sind, und sowohl für Ereignis- als auch für Ereignis-mit-Webinar-Programmen in [!DNL Marketo Sky]. Standardmäßig hat die Warteliste denselben Schrittwert wie „Registriert“.
 * **[Benutzerdefiniertes Kommunikationslimit](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Administratoren können jetzt benutzerdefinierte tägliche oder wöchentliche Kommunikationslimits festlegen.
 * **[Smart Campaign Asset-APIs](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Reichern Sie Ihre Analysen außerhalb von Marketo mit dem Abruf von intelligenten Kampagnendatensätzen nach aktualisiertem Datum und aktualisierter ID an.
 * **HTTPS-Tracking-Links für E-Mail**: Kunden, die „Sichere Domains für Tracking-Links“ erworben haben, können jetzt Marken-Tracking-Links in Ihren E-Mails als HTTPS anzeigen.
@@ -47,8 +52,8 @@ Die folgenden Funktionen werden voraussichtlich im ersten Kalenderquartal und bi
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Verbesserte Prüfung**: Neue Sichtbarkeit aller Personen, E-Mails und [Inhalte](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in einer Instanz mit zusätzlicher Möglichkeit, [&#x200B; von anderen Benutzern &#x200B;](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) Kampagnen zu beenden.
-* **[Abmeldeverwaltung](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximieren Sie die Zustellbarkeit und Einhaltung der Möglichkeit, E[Mail-Domains &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) blockieren. Marketo wird vor dem Senden einer E-Mail auch einen Querverweis auf die Lead-Datenbank für Abmeldungen durchführen.
+* **Verbesserte Prüfung**: Neue Sichtbarkeit aller Personen, E-Mails und [Inhalte](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in einer Instanz mit zusätzlicher Möglichkeit, [ von anderen Benutzern ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) Kampagnen zu beenden.
+* **[Abmeldeverwaltung](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximieren Sie die Zustellbarkeit und Einhaltung der Möglichkeit, E[Mail-Domains ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) blockieren. Marketo wird vor dem Senden einer E-Mail auch einen Querverweis auf die Lead-Datenbank für Abmeldungen durchführen.
 
 ## [!DNL Bizible] von Marketo {#bizible-by-marketo}
 

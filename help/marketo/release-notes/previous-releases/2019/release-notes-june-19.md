@@ -4,9 +4,14 @@ description: Versionshinweise - 19. Juni - Marketo-Dokumente - Produktdokumentat
 title: Versionshinweise - Juni '19
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/l-uJTEC4AHKsGj-BPUHaIVvCpZkeXHSlNW9fivL6NrI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: 639
 ht-degree: 1%
 
 ---
@@ -22,7 +27,7 @@ Die folgenden Funktionen wurden am 14. Juni 2019 veröffentlicht.
 ## Marketo Kernservices {#marketo-core-services}
 
 * **Prüfsumme für Massenextraktionsdatei**: Stellen Sie sicher, dass eine vollständige Datei abgerufen wurde, indem Sie Ihren Datei-Hash mit der Prüfsummenzeichenfolge Ihrer abgeschlossenen Extraktionsaufträge vergleichen.
-* **Automatisierte Migration von E-Mail 1.0 zu E-Mail 2.0**: E-Mail 2.0 ist vollständig mit E-Mail 1.0-E-Mails und -Vorlagen kompatibel. Profitieren Sie von neuen Funktionen, wie der Möglichkeit, Inhaltselemente (Bilder, Text usw.) in Modulen zu gruppieren und Variablen wie Zeichenfolge, Farbe, Bild usw. zu definieren. Innerhalb von Vorlagen und Nutzung vollständig responsiver Starter-Vorlagen. umfasst außerdem eine visuelle Auswahl für E-Mail-Vorlagen.
+* **Automatisierte Migration von E-Mail 1.0 zu E-Mail 2.0**: E-Mail 2.0 ist vollständig mit E-Mail 1.0-E-Mails und -Vorlagen kompatibel. Neue Funktionen, z. B. die Möglichkeit, Inhaltselemente (Bilder, Text usw.) zu gruppieren in -Modulen zu erstellen, Variablen wie Zeichenfolge, Farbe, Bild usw. in Vorlagen zu definieren und vollständig responsive Starter-Vorlagen zu nutzen. umfasst außerdem eine visuelle Auswahl für E-Mail-Vorlagen.
 
 >[!CAUTION]
 >
@@ -51,12 +56,12 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und b
 * **Widget „Community-Blogposts**: Greifen Sie auf aktuelle Beiträge aus der Community in My Marketo zu.
 * **Bald ablaufendes Widget**: Fügen Sie das Widget „Bald ablaufend“ zu Ihrem Dashboard My Marketo hinzu, um zu sehen, welche Kampagnen und Landingpages als Nächstes ablaufen werden.
 * **Weitere Smart List Cards**: Segmentieren und ansprechen Sie sie entsprechend mit zusätzlichen Smart List Cards, einschließlich des Flussschritts „Aufgabe erstellen“, CRM-Smart List-Regeln und mehr.
-* **E-Mail-Champion/Challenger-Detailseite**: Sehen Sie Daten wie Gewinnkriterien, Erstellt in usw. von Ihren E-Mail-Champion-/Challenger-Tests.
+* **E-Mail-Champion/Challenger-Detailseite**: Sehen Sie Daten wie Gewinnkriterien, Erstellt in usw. von Ihren E-Mail-Champion/Challenger-Tests.
 
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
 * **Massenaktionen bei der [!DNL Salesforce]-Anpassung**: Maximieren Sie die Produktivität, indem Sie E-Mails senden und Kontakte per [!DNL Salesforce]-Anpassung stapelweise zu Kampagnen hinzufügen.
-* **Einstellungen - [!DNL Salesforce] für Administratoren und Nicht-Administratoren**: Verwalten Sie Ihre [!DNL Sales Connect]-Instanz mit einer klaren Ansicht der mit [!DNL Salesforce] verbundenen [!DNL Sales Connect]-Instanz sowie Meine E-Mail, um Aktualisierungen zu [!DNL Salesforce]. Die erweiterten Synchronisierungseinstellungen für Admins, Nicht-Admins und Team Wide Sync werden in den kommenden Monaten veröffentlicht.
+* **Einstellungen - [!DNL Salesforce] für Administratoren und Nicht-Administratoren**: Verwalten Sie Ihre [!DNL Sales Connect]-Instanz mit einer klaren Ansicht der mit [!DNL Sales Connect] verbundenen [!DNL Salesforce]-Instanz sowie Meine E-Mail, um Aktualisierungen zu [!DNL Salesforce]. Die erweiterten Synchronisierungseinstellungen für Admins, Nicht-Admins und Team Wide Sync werden in den kommenden Monaten veröffentlicht.
 * **Einstellungen - Integrationsseite**: Eine zentrale Anlaufstelle für all Ihre Integrationen, damit Sie unser offenes Ökosystem optimal nutzen können.
 * **Einstellungen - Profilseite**: Zeigen Sie Ihre Kontodetails an, aktualisieren Sie sie, ändern Sie Ihr Passwort und überprüfen Sie den Status der Implementierung Ihrer Instanz auf dieser neuen Profilseite.
 
@@ -68,4 +73,4 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und b
 * **Drift-Integration**: Erfahren Sie, wie sich Drift-Unterhaltungen auf den Journey Ihres Kunden auswirken. [!DNL Bizible] werden auch E-Mail-Adressen aus Konversationen abrufen, um entweder einen neuen Lead zu erstellen oder den Touchpoint mit einem vorhandenen Lead zu verbinden.
 * **Lokalisierung**: [!DNL Bizible] ist jetzt in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
-_&#x200B;**Webinar zur Produktversion**&#x200B;_ Sehen Sie sich die Aufzeichnung unseres Webinars mit den Versionsinnovationen vom 19. Juni [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.
+_**Webinar zur Produktversion**_ Sehen Sie sich die Aufzeichnung unseres Webinars mit den Versionsinnovationen vom 19. Juni [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.

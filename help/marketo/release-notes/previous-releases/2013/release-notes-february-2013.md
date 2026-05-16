@@ -4,9 +4,13 @@ description: Versionshinweise - Februar 2013 - Marketo-Dokumentation - Produktdo
 title: Versionshinweise Februar 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
+TQID: https://experienceleague.adobe.com/kfCE5HGsWooeFGDlCgr6zPrl7o7tIbx2-3NwUB9fxnY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: 252
 ht-degree: 1%
 
 ---
@@ -25,7 +29,7 @@ Webhooks wurden verbessert, um Token in der URL/Payload zu escapen, und können 
 
 ## Aktualisierter SOAP-API-Endpunkt {#updated-soap-api-endpoint}
 
-Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter &quot;[!UICONTROL &quot; &#x200B;] &quot;SOAP-API“ angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der [!DNL Spark SMB Edition] nicht verfügbar)
+Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter &quot;[!UICONTROL &quot; ] &quot;SOAP-API“ angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der [!DNL Spark SMB Edition] nicht verfügbar)
 
 ## Mobile-Unterstützung für [!DNL Facebook] Registerkarten {#mobile-support-for-facebook-tabs}
 

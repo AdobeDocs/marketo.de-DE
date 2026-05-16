@@ -3,9 +3,12 @@ description: Erfahren Sie, wie Erinnerungsaufgaben mit Salesforce synchronisiert
 title: Synchronisieren von Erinnerungsaufgaben mit Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/gdFjsLxx8GJmpfRtTPWD-DBv8AHkfKPQIDuLrwpZALw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: 525
 ht-degree: 1%
 
 ---
@@ -44,8 +47,8 @@ Nachstehend finden Sie eine Liste der Erinnerungsaufgabenfelder in [!DNL Sales I
   <p>Die anderen Statuswerte in [!DNL Salesforce] werden nicht mit [!DNL Sales Insight Actions] synchronisiert.</p></td>
  </tr>
  <tr>
-  <td>[!UICONTROL -Priorität]</td>
-  <td>[!UICONTROL -Priorität]</td>
+  <td>[!UICONTROL-Priorität]</td>
+  <td>[!UICONTROL-Priorität]</td>
   <td><p>[!DNL Sales Insight Actions] Die Priorität kann entweder Normal oder Hoch sein, was den Werten mit normaler und hoher Priorität in [!DNL Salesforce] entspricht.</p>
   <p>Der Wert für die niedrige Priorität in [!DNL Salesforce] wird nicht mit [!DNL Sales Insight Actions] synchronisiert.</p></td>
  </tr>

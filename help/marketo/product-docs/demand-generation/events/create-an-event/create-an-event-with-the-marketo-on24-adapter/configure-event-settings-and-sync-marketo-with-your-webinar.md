@@ -4,9 +4,11 @@ description: Erfahren Sie, wie Sie Ereigniseinstellungen konfigurieren und Marke
 title: Konfigurieren der Ereigniseinstellungen und Synchronisieren von Marketo mit Your Webinar
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/AIHOBhsWZXdVEmNRKp8ci8j5aeqyYFjaGF4vhVFozqw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: 240
 ht-degree: 9%
 
 ---
@@ -39,7 +41,7 @@ Führen Sie diese Schritte aus, um die Marketo-Ereigniseinstellungen zu konfigur
 
 ## Zeitplan festlegen {#set-the-schedule}
 
-Wenn Sie ein Ereignis einrichten, das mit einem ON24-Webinar verknüpft ist, wird der Ereigniszeitplan mit Daten von ON24 gefüllt. Gehen Sie wie folgt vor, um auf [!UICONTROL &#x200B; Dialogfeld &#x200B;]Ereigniszeitplan“ zuzugreifen.
+Wenn Sie ein Ereignis einrichten, das mit einem ON24-Webinar verknüpft ist, wird der Ereigniszeitplan mit Daten von ON24 gefüllt. Gehen Sie wie folgt vor, um auf [!UICONTROL  Dialogfeld ]Ereigniszeitplan“ zuzugreifen.
 
 1. Wählen Sie das Ereignis aus. Klicken Sie auf **[!UICONTROL Dropdown-]** „Ereignisaktionen“ und wählen Sie **[!UICONTROL Zeitplan].**
 

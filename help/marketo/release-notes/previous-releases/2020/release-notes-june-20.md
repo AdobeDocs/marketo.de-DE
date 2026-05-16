@@ -4,9 +4,14 @@ description: Versionshinweise - 20. Juni - Marketo-Dokumente - Produktdokumentat
 title: Versionshinweise - Juni '20
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 feature: Release Information
-source-git-commit: 7595f00ac2a752afe3b471f4ff701e3206841ffd
+TQID: https://experienceleague.adobe.com/HqmRqpmJ9HipbkC2SWTM7RaxYgp04IAbz9cOiDsuGiY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: beb7a3c1-66ab-4786-b879-7621375b3c40id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: 1099
 ht-degree: 1%
 
 ---
@@ -23,7 +28,7 @@ Die folgenden Funktionen sind in der Version vom Juni 2020 enthalten. Überprüf
 
 ## Kern-Marketo-Einbindung {#core-marketo-engage}
 
-* **[Prädiktive Zielgruppen](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=de#predictive-audiences)** ![(Stern)](assets/yellow-star.png): Mit den neuen Smart List- und Smart Campaign-Filtern, die von Adobe AI unterstützt werden, können Sie KI-gestützte Zielgruppensegmente für E-Mail-, Ereignis- und Webinar-Marketing-Programme erstellen. Verwenden Sie KI, um Zielgruppen basierend auf der Lead-Wahrscheinlichkeit zu segmentieren, sich für ein Ereignis zu registrieren, an einem Ereignis teilzunehmen oder das Abonnement zu kündigen. Erstellen Sie Lookalike-Zielgruppen basierend auf früheren Programmen, um frühere Erfolge effizient zu replizieren. Erzielen Sie Konversionsziele mit prädiktivem Zieltracking und erhalten Sie Empfehlungen dazu, wie Sie Ihre Zielgruppensegmente für Ereignisprogramme verfeinern können.
+* **[Prädiktive Zielgruppen](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(Stern)](assets/yellow-star.png): Mit den neuen Smart List- und Smart Campaign-Filtern von Adobe AI können Sie KI-gestützte Zielgruppensegmente für E-Mail-, Ereignis- und Webinar-Marketing-Programme erstellen. Verwenden Sie KI, um Zielgruppen basierend auf der Lead-Wahrscheinlichkeit zu segmentieren, sich für ein Ereignis zu registrieren, an einem Ereignis teilzunehmen oder das Abonnement zu kündigen. Erstellen Sie Lookalike-Zielgruppen basierend auf früheren Programmen, um frühere Erfolge effizient zu replizieren. Erzielen Sie Konversionsziele mit prädiktivem Zieltracking und erhalten Sie Empfehlungen dazu, wie Sie Ihre Zielgruppensegmente für Ereignisprogramme verfeinern können.
 * **Batch Email Boost** ![(star)](assets/yellow-star.png): Erweiterung unserer E-Mail-Marketing-Funktion, mit der Sie bis zu 3 Millionen Batch-E-Mails pro Stunde senden können. Wir haben unsere Batch-Kampagnen und die Verarbeitung von E-Mail-Berichten überarbeitet, um die Leistung von E-Mail-Programmen und Batch-E-Mail-Kampagnen zu verbessern. Dies führt zu einer kürzeren Vorlaufzeit für den Versand sowie zu einer kürzeren Abschlusszeit. Richten Sie Ihre E-Mail-Sendungen wie gewohnt ein, es gibt keine zusätzliche Komplexität. Diese Verbesserung ist als Produkt-Add-on verfügbar und umfasst auch das Launch Pack für Versanddienste, E-Mail-Versand-Tools und mehrere dedizierte IP-Adressen.
 * **[Audience Integration with Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: Neue Integration von Adobe Experience Cloud (AEC), mit der Sie statische Listen bekannter Leads aus Marketo Engage mit mehreren AEC-Programmen synchronisieren können, um bestehende Programme zu verbessern, neue Anwendungsfälle zu erschließen und Multi-Channel-Kampagnen zu orchestrieren. Diese Integration umfasst Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager und Adobe Advertising Cloud.
 * **[Benutzerdefinierte Felder für Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**: Erfassen und verwenden Sie benutzerdefinierte Felder für ein Programmmitglied. Verwenden Sie diese neuen Felder in Ihren Marketo Engage-Formularen, zeigen Sie sie in der Mitgliederliste eines Programms an, nutzen Sie sie in Smart List-Filtern und -Triggern und nehmen Sie sie in eine neue Smart Campaign Flow Action auf, um die Automatisierung zu verbessern und eine granulare Personalisierung zu erzielen. Diese können auch über die Benutzeroberfläche und APIs importiert und exportiert werden. Verbesserung der Funktion für benutzerdefinierte Datenobjekte und Felder.
@@ -73,6 +78,6 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## Einstellungen {#deprecations}
 
-* **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Ab Version 159 von [!DNL Munchkin] JS wird in der Browser-Konsole eine Warnung vor veralteten Elementen protokolliert, wenn die Methode „Lead verknüpfen“ aufgerufen wird. Diese Warnung gibt an, dass die Funktion in einer zukünftigen Version entfernt wird.  Der vollständige Zeitplan zur Einstellung wird zu einem späteren Zeitpunkt bekannt gegeben.
+* **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Ab Version 159 von [!DNL Munchkin] JS wird in der Browser-Konsole eine Warnung vor veralteten Elementen protokolliert, wenn die Associate Lead-Methode aufgerufen wird. Diese Warnung gibt an, dass die Funktion in einer zukünftigen Version entfernt wird. Die vollständige Veraltungszeitplanung wird zu einem späteren Zeitpunkt bekannt gegeben.
 
-**_Webinar zur Produktversion_** [Sehen Sie sich die Aufzeichnung &#x200B;](https://engage.marketo.com/June-Release-2020-On-Demand.html) Webinars zu den Produktinnovationen vom 20. Juni an.
+**_Webinar zur Produktversion_** [Sehen Sie sich die Aufzeichnung ](https://engage.marketo.com/June-Release-2020-On-Demand.html) Webinars zu den Produktinnovationen vom 20. Juni an.

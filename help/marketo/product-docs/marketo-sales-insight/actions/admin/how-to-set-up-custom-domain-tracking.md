@@ -3,16 +3,18 @@ description: Erfahren Sie, wie Sie ein benutzerdefiniertes Domain-Tracking einri
 title: Einrichten der Verfolgung benutzerdefinierter Domains
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 6%
+source-wordcount: 197
+ht-degree: 7%
 
 ---
 
 # Einrichten der Verfolgung benutzerdefinierter Domains {#how-to-set-up-custom-domain-tracking}
 
-Mit dem benutzerdefinierten Domain-Tracking kann Ihr Team in allen verfolgbaren Links, die zu Ihren Verkaufs-E-Mails hinzugefügt werden, Ihren eigenen Firmennamen verwenden. Auf die Zulassungsliste setzen Sobald Sie dies eingerichtet haben, werden alle Links in Ihrer E-Mail als go.yourcompany.com angezeigt, sodass, wenn jemand den Mauszeiger über einen Link bewegt, go.yourcompany.com anstelle von go.toutapp.com angezeigt wird.
+Mit dem benutzerdefinierten Domain-Tracking kann Ihr Team in allen verfolgbaren Links, die zu Ihren Verkaufs-E-Mails hinzugefügt werden, Ihren eigenen Firmennamen verwenden. Sobald Sie dies eingerichtet haben, werden alle Links in Ihrer E-Mail als go.yourcompany.com angezeigt, sodass, wenn jemand den Mauszeiger über einen Link bewegt, go.yourcompany.com anstelle von go.toutapp.com angezeigt wird.
 
 Sie benötigen die Unterstützung Ihres IT-Teams, um einen CNAME-Eintrag für Ihre Domain einzurichten, der auf go.toutapp.com verweist. Dieser CNAME wird auf allen Tracking-Links angezeigt (z. B. go.yourcompany.com).
 
@@ -32,7 +34,7 @@ Nachdem Sie sich bei Ihrem IT-Team vergewissert haben, dass der CNAME ordnungsge
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Tracking]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Tracking]** aus.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 

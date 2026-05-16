@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie die Schnellsynchronisierung mit Microsoft Dyn
 title: Verwenden der Schnellsynchronisierung mit Microsoft Dynamics für ein neues, benutzerdefiniertes Feld
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/Foo1CpTpWKCvtPTZv7NRuSoCvD18-x5OIABM48-UF6I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: 356
 ht-degree: 4%
 
 ---
@@ -15,7 +18,7 @@ ht-degree: 4%
 
 Marketing oder Vertrieb möchten ein neues Feld. Oder vielleicht haben Sie einen in Ihrer ursprünglichen Feldauswahl vergessen. Oder Ihre Anforderungen haben sich geändert. In jedem Fall können Sie die Schnellsynchronisierung verwenden, um bestimmte Felder neu zu synchronisieren.
 
-Normalerweise wird die Schnellsynchronisierung verwendet, um ein neues Feld hinzuzufügen und Werte zu aktualisieren. Es gibt jedoch Fälle, in denen Sie ein vorhandenes Feld synchronisieren möchten. Sie können die Feldsynchronisierung auf der Grundlage eines aktualisierten oder erstellten Datumsbereichs einschränken. Weitere Informationen finden [&#x200B; unter &#x200B;](#Advanced_Sync_Options) Synchronisierungsoptionen.
+Normalerweise wird die Schnellsynchronisierung verwendet, um ein neues Feld hinzuzufügen und Werte zu aktualisieren. Es gibt jedoch Fälle, in denen Sie ein vorhandenes Feld synchronisieren möchten. Sie können die Feldsynchronisierung auf der Grundlage eines aktualisierten oder erstellten Datumsbereichs einschränken. Weitere Informationen finden [ unter ](#Advanced_Sync_Options) Synchronisierungsoptionen.
 
 Die Schnellsynchronisierung kann Nullwerte synchronisieren. Wenn Sie beispielsweise die Werte A und B verwenden und einen B-Wert in [!DNL Dynamics] auf null ändern, wird der Null-Wert mit Marketo synchronisiert.
 
@@ -29,7 +32,7 @@ Die Schnellsynchronisierung kann Nullwerte synchronisieren. Wenn Sie beispielswe
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Klicken Sie [!UICONTROL &#x200B; „Details zur &#x200B;]&quot; auf **[!UICONTROL Bearbeiten]**.
+1. Klicken Sie [!UICONTROL  „Details zur ]&quot; auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 

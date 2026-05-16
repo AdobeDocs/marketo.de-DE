@@ -4,9 +4,13 @@ description: Erfahren Sie, wie Sie ein Marketo-Formular in Ihre Website einbette
 title: Einbetten eines Formulars in Ihre Website
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/yaIgInfZtfAz2Zie2zRar9JI-KdlCRAxsk9BfYNQKy8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: 227
 ht-degree: 7%
 
 ---
@@ -47,6 +51,6 @@ Geben Sie nun einfach den Einbettungs-Code an Ihren Web-Entwickler und lassen Si
 
 >[!NOTE]
 >
->Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihm die [Forms 2.0-Entwicklerseite](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihm die [Forms 2.0-Entwicklerseite](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
 Informationen zu Lightbox-Code finden Sie unter [Verwenden eines Formulars in einer Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md).

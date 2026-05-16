@@ -3,9 +3,13 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '3551'
+source-wordcount: 3551
 ht-degree: 94%
 
 ---
@@ -20,11 +24,11 @@ Die Standardseite mit den Versionshinweisen für Marketo Engage [finden Sie hier
 
 ### Wartezeit des Besuchers {#visitor-wait-time}
 
-Legen Sie eine maximale Zeit (zwischen 10 und 500 Sekunden) fest, die ein Besucher wartet, bis er mit einem Live Agent verbunden ist, bevor der Besucher eine Ausweichnachricht erhält. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Legen Sie eine maximale Zeit (zwischen 10 und 500 Sekunden) fest, die ein Besucher wartet, bis er mit einem Live Agent verbunden ist, bevor der Besucher eine Ausweichnachricht erhält. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Transkript herunterladen {#download-transcript}
 
-Sie können jetzt eine TXT-Datei Ihres Chat-Transkripts herunterladen, nachdem ein Live-Chat beendet wurde. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Sie können jetzt eine TXT-Datei Ihres Chat-Transkripts herunterladen, nachdem ein Live-Chat beendet wurde. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Version Juni 2025 {#june-2025-release}
 
@@ -59,7 +63,7 @@ Wenn sie nicht verfügbar ist, tut das System Folgendes:
 * Stattdessen gilt Folgendes:
 
    * Zeigt den Besprechungskalender des zugeordneten Agenten an (falls aktiviert),
-&#x200B;- oder -
+- oder -
    * Kehrt zu einer Standardmeldung zurück (im schlimmsten Fall).
 
 Die Routing-Regel auf Kartenebene (z. B. Team, benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agentin bzw. Agent).
@@ -75,7 +79,7 @@ Nur weil eine Person nicht reagiert, wird nicht gleich ein Round-Robin-Fallback 
 Wenn sich keine Agentin bzw. kein Agent meldet, passiert Folgendes:
 
 * Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
-&#x200B;- oder -
+- oder -
 * Es zeigt die standardmäßige Fallback-Nachricht an.
 
 ##### – Round-Robin-Routing –
@@ -105,7 +109,7 @@ Die Routing-Regel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wird au
 * Wenn keine Interaktion erfolgreich ist, wird eine Ausweichlogik angewendet:
 
    * Kalender-Fallback (falls aktiviert),
-&#x200B;- oder -
+- oder -
    * Standardnachricht.
 
 Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine geeigneten Agentinnen oder Agenten gemäß der primären Routing-Regel gefunden werden, aber nicht, wenn einzelne Agentinnen bzw. Agenten nicht reagieren.
@@ -114,7 +118,7 @@ Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine ge
 
 <p>
 
-_&#x200B;**Konto-Routing**&#x200B;_
+_**Konto-Routing**_
 
 <table><thead>
   <tr>
@@ -140,7 +144,7 @@ _&#x200B;**Konto-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
+_**Benutzerdefiniertes Routing**_
 
 <table><thead>
   <tr>
@@ -166,7 +170,7 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Team-Routing**&#x200B;_
+_**Team-Routing**_
 
 <table><thead>
   <tr>
@@ -192,7 +196,7 @@ _&#x200B;**Team-Routing**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Round-Robin-Routing**&#x200B;_
+_**Round-Robin-Routing**_
 
 <table><thead>
   <tr>

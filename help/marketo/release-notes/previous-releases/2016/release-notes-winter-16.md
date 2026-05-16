@@ -3,9 +3,14 @@ unique-page-id: 10097199
 description: Versionshinweise - Winter '16 - Marketo-Dokumentation - Produktdokumentation
 title: Versionshinweise - Winter '16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/hdBmS6spIdKhu-rX7tiM5pkWk8GVH5QgzJ3v1-HEQFg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: 512
 ht-degree: 5%
 
 ---
@@ -16,7 +21,7 @@ Die folgenden Funktionen sind in der Version Winter &#39;16 enthalten. Bitte kli
 
 ## [Ist anonymer Filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Der Filter Ist anonym wurde für Smart-Listen entfernt. Weitere Informationen finden Sie [&#x200B; Dokument „Häufig gestellte Fragen zum Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)Tracking der nächsten Generation“. Diese Änderung wirkt sich nicht auf Web Personalization (RTP) aus, das anonyme und bekannte Web-Besucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
+Der Filter Ist anonym wurde für Smart-Listen entfernt. Weitere Informationen finden Sie [ Dokument „Häufig gestellte Fragen zum Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)Tracking der nächsten Generation“. Diese Änderung wirkt sich nicht auf Web Personalization (RTP) aus, das anonyme und bekannte Web-Besucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
 
 ## [Datenbank-Dashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -26,7 +31,7 @@ Die [!UICONTROL Lead]Datenbank verfügt über ein aktualisiertes Dashboard mit e
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Wir haben [!DNL Microsoft Edge] zur [Liste der von Marketo &#x200B;](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) Browser“ hinzugefügt.
+Wir haben [!DNL Microsoft Edge] zur [Liste der von Marketo ](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) Browser“ hinzugefügt.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 

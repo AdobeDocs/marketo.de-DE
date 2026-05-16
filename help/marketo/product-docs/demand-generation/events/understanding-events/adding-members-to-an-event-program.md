@@ -4,9 +4,11 @@ description: Erfahren Sie, wie Sie in Marketo Mitglieder zu einem Veranstaltungs
 title: Hinzufügen von Mitgliedern zu einem Ereignisprogramm
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/dazVH2bQ--OqwAYWwyT4mBM-hVd4CamYMBMGnPvqO2c
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: 188
 ht-degree: 6%
 
 ---
@@ -43,7 +45,7 @@ Dieser Artikel gilt nur für Benutzer, die Event-Begrenzungs- oder Event-Ziele v
 
    ![](assets/seven.png)
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Zeitplan **[!UICONTROL auf Einmal ausführen]**.
+1. Klicken Sie auf [!UICONTROL  Registerkarte ]Zeitplan **[!UICONTROL auf Einmal ausführen]**.
 
    ![](assets/eight.png)
 

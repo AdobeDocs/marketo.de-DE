@@ -4,9 +4,14 @@ description: Informationen zu Salesforce Diagnostics for Sales Connect. Fehlerbe
 title: Salesforce-Diagnose
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/TmZ9sSRFbkcvsAY6aHS42oBPlyFEW80iDAh-c-awbZo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+subfeature_v2: id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1369'
+source-wordcount: 1369
 ht-degree: 2%
 
 ---
@@ -168,8 +173,8 @@ Ein Teil unserer [!DNL Salesforce]-Integration umfasst eine [!DNL Salesforce] Di
 **Kategorie:** intermittierend
 **Nachricht:**
 1 - ConcurrentPerOrgLongTxn-Limit überschritten
-&#x200B;2. Gesamtzahl der Anfragen überschritten
-&#x200B;3. ConcurrentRequest
+2. Gesamtzahl der Anfragen überschritten
+3. ConcurrentRequest
 **Was passiert:**
 1 - Das Limit für gleichzeitige Anfragen wurde überschritten, wahrscheinlich aufgrund eines ineffizienten Trigger-Codes.
 2 - Zu viele Integrationen führen dazu, dass die Organisation das 24-Stunden-Rollierfenster hinter sich lässt.

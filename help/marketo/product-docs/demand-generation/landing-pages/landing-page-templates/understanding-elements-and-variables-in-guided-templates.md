@@ -4,9 +4,12 @@ description: Erfahren Sie mehr über Elemente und Variablen in den geführten La
 title: Grundlegendes zu Elementen und Variablen in geführten Vorlagen
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/WnAKFAB8moOFv7cS97E8cplgledGbhioPReda27p4uo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: 199
 ht-degree: 9%
 
 ---
@@ -23,7 +26,7 @@ Elemente sind die verschiedenen Inhaltselemente, aus denen eine Landingpage best
 
 Wenn Sie eine geführte Landingpage bearbeiten, werden Elemente angezeigt, wenn sie in der Vorlage als bearbeitbar markiert wurden. Elemente werden über die folgenden Symbole verfügen:
 
-* ![&#x200B; - &#x200B;](assets/image2015-5-20-12-3a30-3a48.png) Bild
+* ![ - ](assets/image2015-5-20-12-3a30-3a48.png) Bild
 * ![-](assets/image2015-5-20-12-3a31-3a33.png)Marketo-Formular
 * ![—](assets/image2015-5-20-12-3a41-3a21.png)Text
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)video

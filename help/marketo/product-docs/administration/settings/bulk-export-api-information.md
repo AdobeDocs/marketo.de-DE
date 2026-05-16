@@ -3,16 +3,21 @@ description: Überprüfen der Kapazitätsauslastung der Bulk-Extract-API in den 
 title: Informationen zur Massenexport-API
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+TQID: https://experienceleague.adobe.com/IWx84F--IJBlHjReI6TnHNpoA4AqGsuqIFkRhGFIWpE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: e5d29014-8a81-4c0c-845b-2adc7a5d6258
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: 116
 ht-degree: 6%
 
 ---
 
 # Informationen zur Massenexport-API {#bulk-export-api-information}
 
-Erfahren Sie, wie Sie überprüfen können[&#x200B; wie viel Kapazität (](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-API) Ihre Marketo Engage-Instanz in den letzten sieben Tagen in Anspruch genommen hat.
+Erfahren Sie, wie Sie überprüfen können[ wie viel Kapazität (](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-API) Ihre Marketo Engage-Instanz in den letzten sieben Tagen in Anspruch genommen hat.
 
 >[!NOTE]
 >

@@ -4,10 +4,12 @@ description: Erfahren Sie, wie Sie auf einer Freiform-Landingpage in Marketo ein
 title: Hinzufügen eines Links zu einem Bild in einer Freiform-Landingpage
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 20%
+source-wordcount: 127
+ht-degree: 21%
 
 ---
 

@@ -3,9 +3,11 @@ description: Erfahren Sie, wie Sie Benutzern von Marketo Zugriff auf Sales Conne
 title: Gewähren von Zugriff für Benutzende
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/gV1fv8YXDoAZujgAfYTW54J69clrjN-p2CAKWOxsPNA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: 205
 ht-degree: 3%
 
 ---
@@ -14,7 +16,7 @@ ht-degree: 3%
 
 Gehen Sie wie in diesem Artikel beschrieben vor, um Ihren [!DNL Sales Connect] Zugriff auf die Marketo-Verbindung zu gewähren. Dadurch werden Funktionen wie „Interessante Momente“ im Live-Feed und der Zugriff auf Marketing-Kampagnen freigeschaltet.
 
-Sie müssen Benutzer zu [!DNL Sales Connect] (hier[&#x200B; einladen](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) bevor sie auf der Seite Marketo > [!UICONTROL Team-Zugriff] (in [!DNL Sales Connect]) angezeigt werden, wo der Zugriff auf die Marketo-Verbindung gewährt wird.
+Sie müssen Benutzer zu [!DNL Sales Connect] (hier[ einladen](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) bevor sie auf der Seite Marketo > [!UICONTROL Team-Zugriff] (in [!DNL Sales Connect]) angezeigt werden, wo der Zugriff auf die Marketo-Verbindung gewährt wird.
 
 >[!CAUTION]
 >

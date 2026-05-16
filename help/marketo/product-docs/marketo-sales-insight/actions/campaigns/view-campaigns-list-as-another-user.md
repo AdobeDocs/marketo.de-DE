@@ -3,9 +3,11 @@ description: Erfahren Sie, wie Sie Kampagnen als einen anderen Benutzer anzeigen
 title: Anzeigen der Kampagnenliste als andere Benutzerin bzw. anderer Benutzer
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/5QyodCKCmgH4o5-5yG9QPZ8N-m3tTozTjKEp7poGaUI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: 100
 ht-degree: 15%
 
 ---
@@ -32,4 +34,4 @@ Als Administrator können Sie Kampagnen als beliebige Benutzende anzeigen.
 
    >[!NOTE]
    >
-   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL &#x200B; anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.
+   >Sie können auch Filter oder die Suchfunktion zusammen mit &quot;[!UICONTROL  anzeigen als] verwenden, um anzuzeigen, was für Sie am relevantesten ist.

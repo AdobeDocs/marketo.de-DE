@@ -4,9 +4,13 @@ description: Erfahren Sie, wie Sie benutzerdefinierte Facebook-Zielgruppen als L
 title: Hinzufügen [!DNL Facebook] benutzerdefinierter Zielgruppen als  [!DNL LaunchPoint] -Service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/oqtZ6Dbnnj8FgpPOLwZbLrmTmmex5spooX0VuJeugT0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: 314
 ht-degree: 0%
 
 ---
@@ -55,7 +59,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!NOTE]
    >
-   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL &#x200B; Übereinstimmung“ &#x200B;].
+   >**[!UICONTROL Einfache Zuordnung]** verwendet nur E-Mail-Adressen. **[!UICONTROL Erweiterter Abgleich]** verwendet sieben zusätzliche Felder, was die Übereinstimmungsrate erhöht, um eine höhere Konversionsrate zu erzielen. Wenn die Datenschutzrichtlinie Ihres Unternehmens jedoch die Freigabe zusätzlicher Felder nicht zulässt oder Ihre Daten diese nicht enthalten, wählen Sie &quot;[!UICONTROL  Übereinstimmung“ ].
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +67,7 @@ Mit dieser Integration können Sie Zielgruppendaten aus statischen und Smart Lis
 
    >[!CAUTION]
    >
-   >Bevor Sie Ihre Integration verwenden[&#x200B; akzeptieren Sie  [!DNL Facebook] benutzerdefinierten Zielgruppenbedingungen von &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem [!DNL Facebook]! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
+   >Bevor Sie Ihre Integration verwenden[ akzeptieren Sie  [!DNL Facebook] benutzerdefinierten Zielgruppenbedingungen von ](https://www.facebook.com/ads/manage/customaudiences/tos.php) in Ihrem [!DNL Facebook]! Andernfalls schlagen die Aktualisierungen der Zielgruppe fehl.
 
 >[!MORELIKETHIS]
 >

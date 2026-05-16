@@ -4,9 +4,11 @@ description: Erfahren Sie mehr über die Aktualisierungen der ON24-Ereignisregis
 title: Aktualisierungen zur ON24-Ereignisregistrierung
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/2G9BHBIeyQS6ID6nT8rjDbRfx1re3z4tUslY4QEki7Y
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: 299
 ht-degree: 2%
 
 ---
@@ -31,7 +33,7 @@ Sie können die Registrierenden manuell genehmigen, bevor Sie ihnen eine Bestät
 
 Wenn eine Person am Ende nicht registriert wird, sondern auf den Status [!UICONTROL Registrierungsfehler] gesetzt wird, ist es nicht zu spät, sie wiederherzustellen.
 
-1. Filtern Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Mitglieder“ die Liste der Personen mit dem Status **[!UICONTROL Registrierungsfehler]**.
+1. Filtern Sie auf [!UICONTROL  Registerkarte ]Mitglieder“ die Liste der Personen mit dem Status **[!UICONTROL Registrierungsfehler]**.
 1. Bevor Sie fortfahren, stellen Sie sicher, dass Sie das Problem mit der -Integration ermittelt und behoben haben (stellen Sie sicher, dass unter **[!UICONTROL Ereignispartner]** in Admin keine Fehler auftreten).
 1. Nachdem das Problem behoben wurde, wählen Sie alle Personen mit dem Status [!UICONTROL Registrierungsfehler] aus und ändern Sie ihren Status in **[!UICONTROL Registriert]**. Dadurch wird versucht, sie erneut bei ON24 zu registrieren.
 

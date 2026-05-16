@@ -3,9 +3,11 @@ description: Erfahren Sie mehr über GenAI-Funktionen in interaktiven Webinaren.
 title: GenAI-Funktionen
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: 694
 ht-degree: 0%
 
 ---
@@ -70,7 +72,7 @@ Nachdem Sie die Adobe GenAI-Nutzungsbedingungen akzeptiert haben, müssen Sie si
 
    >[!NOTE]
    >
-   >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![&#x200B; &#x200B;](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) &#x200B;](assets/icon-flag.png).
+   >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![ ](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) ](assets/icon-flag.png).
    >
    >* Wenn Sie mit der ursprünglichen Zusammenfassung nicht zufrieden sind, können Sie auf die Schaltfläche **[!UICONTROL Zusammenfassung neu erstellen]** klicken, und es wird eine andere Version generiert.
 

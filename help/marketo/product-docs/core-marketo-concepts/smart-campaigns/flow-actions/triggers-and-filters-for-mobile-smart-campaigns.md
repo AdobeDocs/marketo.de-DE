@@ -4,9 +4,12 @@ description: Erfahren Sie mehr über Trigger und Filter für intelligente Mobilk
 title: Auslöser und Filter für intelligente Kampagnen für Mobilgeräte
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/pXdA6gnA9-7dWa3A9f2rXnnSV5Vk0WqLBMRD7u0l9PE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: 849
 ht-degree: 3%
 
 ---
@@ -103,7 +106,7 @@ Mobile App ist/wurde geöffnet
 
 Hat/hatte die Aktivität „Mobile App“
 
-Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking ([&#x200B; Android) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} ([&#x200B; iOS) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Diese bieten eine leistungsstarke Möglichkeit, benutzerdefinierte mobile Aktivitäten zu verfolgen. Sie müssen mit Ihrem Entwickler zusammenarbeiten, um das Tracking ([ Android) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} ([ iOS) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Hat Mobile-App-Aktivität - Trigger
 

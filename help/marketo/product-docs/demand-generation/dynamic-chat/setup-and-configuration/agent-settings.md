@@ -3,9 +3,12 @@ description: Erfahren Sie, wie Sie den Agentenkalender und die Verfügbarkeit vo
 title: Agenteneinstellungen
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/ahFQ2s-DqjnDhtCLIJwOG7Z6vlH5fQVGLBS9FibW7I8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: 634
 ht-degree: 3%
 
 ---
@@ -16,7 +19,7 @@ Konfigurieren Sie Ihren Kalender und legen Sie die Verfügbarkeit von Meetings/L
 
 >[!PREREQUISITES]
 >
->Stellen Sie sicher, dass Ihren Agenten die entsprechenden [Berechtigungen“ &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} wurden.
+>Stellen Sie sicher, dass Ihren Agenten die entsprechenden [Berechtigungen“ ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} wurden.
 
 ![](assets/agent-settings-1.png)
 

@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie die Synchronisierung für eine benutzerdefini
 title: Aktivieren der Synchronisierung für eine benutzerdefinierte Entität
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/kSLFdQA9OTHLoBTQ2qBrRFucLaDJLNSNAxGqjjMHCxs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: 329
 ht-degree: 3%
 
 ---
@@ -40,7 +43,7 @@ Wenn benutzerdefinierte Entitätsdaten aus [!DNL Dynamics] in Marketo Engage ver
    >
    >Sie müssen die globale Synchronisierung vorübergehend deaktivieren, um eine benutzerdefinierte Entität zu aktivieren oder zu deaktivieren.
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf den Link **[!UICONTROL Synchronisierung von Dynamics]** Entitäten.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf den Link **[!UICONTROL Synchronisierung von Dynamics]** Entitäten.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 

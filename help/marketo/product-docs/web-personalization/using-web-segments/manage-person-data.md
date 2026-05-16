@@ -4,9 +4,14 @@ description: Erfahren Sie mehr über die Verwaltung von Personendaten in Marketo
 title: Verwalten von Personendaten
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/rIiC-JXLkaMByk7GizVOcCEcUHN8AL-8Hy66-U2GZhs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: 213
 ht-degree: 24%
 
 ---
@@ -64,17 +69,17 @@ Nutzen Sie Personendaten für die [!DNL Web Personalization], indem Sie die in I
   <tr>
    <td><p>Titel</p></td>
    <td><p>Titel</p></td>
-   <td><p>Jobtitel</p></td>
+   <td><p>Job-Titel</p></td>
   </tr>
   <tr>
    <td><p>Bewertung</p></td>
-   <td><p>Rating</p></td>
-   <td><p>Rating</p></td>
+   <td><p>Bewertung</p></td>
+   <td><p>Bewertung</p></td>
   </tr>
   <tr>
    <td><p>LeadScore</p></td>
    <td><p>LeadScore</p></td>
-   <td><p>Ergebnis</p></td>
+   <td><p>Bewertung</p></td>
   </tr>
   <tr>
    <td><p>leadStatus</p></td>
@@ -93,7 +98,7 @@ Nutzen Sie Personendaten für die [!DNL Web Personalization], indem Sie die in I
   </tr>
   <tr>
    <td><p>Abgemeldet</p></td>
-   <td><p>Abbestellt</p></td>
+   <td><p>Hat sich abgemeldet</p></td>
    <td><p>Abbestellt</p></td>
   </tr>
  </tbody>

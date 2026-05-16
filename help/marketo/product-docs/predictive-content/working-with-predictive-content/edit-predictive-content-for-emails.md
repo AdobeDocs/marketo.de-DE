@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie prädiktive Inhalte für E-Mails mit Bild, Sc
 title: Bearbeiten prädiktiver Inhalte für E-Mails
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/e2NGmNJB2E1M1cUZy8bcLA5lLb-9a-j55LWYyfpow-o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: 256
 ht-degree: 4%
 
 ---
@@ -17,7 +20,7 @@ So richten Sie Ihre prädiktiven Inhalte für E-Mails ein.
 
 >[!PREREQUISITES]
 >
->Inhalte müssen auf [&#x200B; Seite „Alle Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) [!UICONTROL &#x200B; für prädiktive Inhalte genehmigt &#x200B;].
+>Inhalte müssen auf [ Seite „Alle Inhalte](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) [!UICONTROL  für prädiktive Inhalte genehmigt ].
 
 1. Klicken Sie auf der [!UICONTROL Prädiktiver Inhalt]-Seite auf einen Titel, um den Editor zu öffnen.
 

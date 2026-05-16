@@ -3,9 +3,13 @@ description: Advanced Nurture-Programmvorlage. Verwenden Sie es für die Multi-S
 title: 'Erweitertes Nurturing: NUR-JJJJ-MM'
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/hdywHZ1nm-guYiDHprc3a7l9u2iab-kCGvkIxd-oLoo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: 508
 ht-degree: 16%
 
 ---
@@ -14,7 +18,7 @@ ht-degree: 16%
 
 Dies ist ein Beispiel für erweiterte Nurture-Programme, die das Marketo Engage Engagement Program verwenden. Verschachtelte E-Mail-Programme verhindern, dass Personen Inhalte erhalten, die sie bereits konsumiert haben, oder steuern den Typ des Inhalts, den sie in jedem Stream konsumieren sollen. Attributionsberichte können für jedes einzelne verschachtelte E-Mail-Programm ausgeführt werden. Kanäle: „Pflegen“ und ein dedizierter Kanal „Pflege-E-Mail“ für die verschachtelten E-Mail-Programme senden eine Newsletter-E-Mail mit einem Marketo Engage-E-Mail-Programm. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 

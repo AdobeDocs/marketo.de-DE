@@ -2,9 +2,12 @@
 description: Erfahren Sie, wie Sie benutzerdefinierte Aktivitätsfelder für Sales Insight-Aktionen in Salesforce hinzufügen. Erstellen Sie in Setup benutzerdefinierte Aktivitätsfelder, um Aufrufergebnisse, Gründe und mehr zu protokollieren.
 title: Protokollieren der Attribute von Verkaufsaktivitäten in Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/eHt6JXey7ZwZ8RjqTsGxqcFjun73vh3s4zk3cCqAiq8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: 320
 ht-degree: 11%
 
 ---

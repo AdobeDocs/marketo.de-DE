@@ -4,9 +4,13 @@ description: Erfahren Sie, wie Sie Analytics-Verhaltenseinstellungen für ein Pr
 title: Bearbeiten von Einstellungen für das Analyseverhalten
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
+TQID: https://experienceleague.adobe.com/JIuA-360aXyDm3tzOmpIoxV5YL4N64vYF6wi-6wKo9M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: 174
 ht-degree: 8%
 
 ---
@@ -23,7 +27,7 @@ Erfahren Sie, wie Sie das Analytics-Verhalten auf Programmebene bearbeiten.
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL &#x200B; „Analytics Behavior] auf die Arbeitsfläche.
+1. Ziehen Sie auf **[!UICONTROL Registerkarte]** Setup[!UICONTROL  „Analytics Behavior] auf die Arbeitsfläche.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 

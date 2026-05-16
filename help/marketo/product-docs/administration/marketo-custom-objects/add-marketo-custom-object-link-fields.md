@@ -4,9 +4,13 @@ description: Hinzufügen von Verknüpfungsfeldern zum Verbinden benutzerdefinier
 title: Hinzufügen von benutzerdefinierten Marketo-Objektverknüpfungsfeldern
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
+TQID: https://experienceleague.adobe.com/3hHHOXlSyskmUQHHdcknbK8ayhl43mY6rCnhptqWi2I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: 735
 ht-degree: 2%
 
 ---
@@ -42,13 +46,13 @@ Gehen Sie wie folgt vor, um ein Verknüpfungsfeld in einem benutzerdefinierten O
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Benennen Sie das Verknüpfungsfeld und fügen Sie eine optionale [!UICONTROL Beschreibung) &#x200B;]. Wählen Sie [!UICONTROL &#x200B; Datentyp &#x200B;]Link“ aus.
+1. Benennen Sie das Verknüpfungsfeld und fügen Sie eine optionale [!UICONTROL Beschreibung) ]. Wählen Sie [!UICONTROL  Datentyp ]Link“ aus.
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >Es ist nicht möglich, zurückzugehen und ein (Link-) oder [!UICONTROL Deduplizierungsfeld] zu erstellen, zu bearbeiten oder zu [!UICONTROL , &#x200B;] das benutzerdefinierte Objekt genehmigt wurde.
+   >Es ist nicht möglich, zurückzugehen und ein (Link-) oder [!UICONTROL Deduplizierungsfeld] zu erstellen, zu bearbeiten oder zu [!UICONTROL , ] das benutzerdefinierte Objekt genehmigt wurde.
 
 1. Wählen Sie aus, ob [!UICONTROL Verknüpfungsobjekt] für einen [!UICONTROL Lead] (Person) oder ein [!UICONTROL Unternehmen] ist.
 
@@ -66,7 +70,7 @@ Gehen Sie wie folgt vor, um ein Verknüpfungsfeld in einem benutzerdefinierten O
 
    >[!NOTE]
    >
-   >Im (Link-Feld) werden nur [!UICONTROL &#x200B; Feldtypen vom Typ „Zeichenfolge] unterstützt.
+   >Im (Link-Feld) werden nur [!UICONTROL  Feldtypen vom Typ „Zeichenfolge] unterstützt.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
@@ -96,13 +100,13 @@ Gehen Sie wie folgt vor, um ein Verknüpfungsfeld in einem Zwischenobjekt zur Ve
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. Erstellen Sie jeweils zwei Verknüpfungsfelder. Benennen Sie zunächst das Feld für die Mitglieder Ihrer Datenbankliste (z. B. leadID ). Fügen Sie eine optionale [!UICONTROL Beschreibung) &#x200B;]. Wählen Sie [!UICONTROL link] [!UICONTROL Datentyp] aus.
+1. Erstellen Sie jeweils zwei Verknüpfungsfelder. Benennen Sie zunächst das Feld für die Mitglieder Ihrer Datenbankliste (z. B. leadID ). Fügen Sie eine optionale [!UICONTROL Beschreibung) ]. Wählen Sie [!UICONTROL link] [!UICONTROL Datentyp] aus.
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >Es ist nicht möglich, zurückzugehen und ein (Link-) oder [!UICONTROL Deduplizierungsfeld] zu erstellen, zu bearbeiten oder zu [!UICONTROL , &#x200B;] das benutzerdefinierte Objekt genehmigt wurde.
+   >Es ist nicht möglich, zurückzugehen und ein (Link-) oder [!UICONTROL Deduplizierungsfeld] zu erstellen, zu bearbeiten oder zu [!UICONTROL , ] das benutzerdefinierte Objekt genehmigt wurde.
 
 1. Wählen Sie das [!UICONTROL Verknüpfungsobjekt] aus Ihrer Datenbank aus. In diesem Fall [!UICONTROL Lead].
 
@@ -114,7 +118,7 @@ Gehen Sie wie folgt vor, um ein Verknüpfungsfeld in einem Zwischenobjekt zur Ve
 
    >[!NOTE]
    >
-   >Im (Link-Feld) werden nur [!UICONTROL &#x200B; Feldtypen vom Typ „Zeichenfolge] unterstützt.
+   >Im (Link-Feld) werden nur [!UICONTROL  Feldtypen vom Typ „Zeichenfolge] unterstützt.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 

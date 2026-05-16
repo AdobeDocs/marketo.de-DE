@@ -3,9 +3,13 @@ description: Schnellstart-Landingpage-Vorlage. Damit können Sie schnell Landing
 title: Landingpage-Vorlage für Schnellstart
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/-ZusvKIP4bJ7fMeaO-ZMqcHekpWWUHPp6LZAy0j2saQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: 473
 ht-degree: 2%
 
 ---
@@ -18,7 +22,7 @@ Einige der Einstiegsprogramme in der Marketo Engage-Referenzbibliothek enthalten
 >
 >Weitere Informationen zu [Geführte Landingpage-Vorlagen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}.
+Wenden Sie sich für weitere Strategieunterstützung oder Hilfe bei der Anpassung eines Programms an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Zusammenfassung der Abschnitte {#sections-summary}
 

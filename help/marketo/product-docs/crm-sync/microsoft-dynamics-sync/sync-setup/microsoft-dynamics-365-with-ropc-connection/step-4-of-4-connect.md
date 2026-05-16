@@ -3,9 +3,11 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung mit Dynamics 365 über ei
 title: 'Schritt 4 von 4: Verbinden der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers'
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/FhoaEw7r-Uxwev38H-VZeJ7p0g7mIH9uR-QktMXMdDg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: 429
 ht-degree: 3%
 
 ---
@@ -48,11 +50,11 @@ Dies ist der letzte Schritt der Synchronisierung.
 
    >[!CAUTION]
    >
-   >Überprüfen Sie, ob Ihre Organisations-URL korrekt ist. Nachfolgende Schemaänderungen können nach der Übermittlung nicht mehr rückgängig gemacht werden. Wenn eine falsche Organisations-URL verwendet wird, ist ein neues Marketo-Abonnement erforderlich. Wenn Sie die URL nicht kennen, ([&#x200B; Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Überprüfen Sie, ob Ihre Organisations-URL korrekt ist. Nachfolgende Schemaänderungen können nach der Übermittlung nicht mehr rückgängig gemacht werden. Wenn eine falsche Organisations-URL verwendet wird, ist ein neues Marketo-Abonnement erforderlich. Wenn Sie die URL nicht kennen, ([ Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >Bevor Sie neue Anmeldeinformationen eingeben, können [&#x200B; sie hier &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
+   >Bevor Sie neue Anmeldeinformationen eingeben, können [ sie hier ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
 1. Geben Sie **[!UICONTROL Benutzername]**, **[!UICONTROL Kennwort]**, [!DNL Microsoft Dynamics] **[!UICONTROL URL]**, **[!UICONTROL Client-ID]** und **[!UICONTROL Client-Geheimnis]** ein. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

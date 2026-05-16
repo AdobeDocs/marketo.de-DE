@@ -4,10 +4,12 @@ description: Umleiten einer Landingpage - Marketo-Dokumente - Produktdokumentati
 title: Umleiten von Landingpage
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/JV2hJuE-7GE8mup6R3c8xVo6p9QkDqKkiWkWsLSJTOE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 11%
+source-wordcount: 144
+ht-degree: 13%
 
 ---
 
@@ -17,7 +19,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->**Administratorberechtigungen erforderlich**
+>**Admin-Berechtigungen erforderlich**
 
 >[!PREREQUISITES]
 >
@@ -46,7 +48,7 @@ ht-degree: 11%
 
    >[!NOTE]
    >
-   >Denken Sie daran, dass Sie nur Landingpages umleiten können, die mit Ihrem Marketo ([) &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}.
+   >Denken Sie daran, dass Sie nur Landingpages umleiten können, die mit Ihrem Marketo ([) ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"}.
 
 1. Klicken Sie auf die zweite **[!UICONTROL Original-URL]** Dropdown-Liste und wählen Sie die Landingpage aus, die Sie umleiten möchten.
 

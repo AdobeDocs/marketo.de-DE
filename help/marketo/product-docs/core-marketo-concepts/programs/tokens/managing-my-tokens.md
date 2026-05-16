@@ -4,9 +4,12 @@ description: Erfahren Sie, wie Sie „Meine Token“ in einem Programm verwalten
 title: Verwalten meiner Token
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/-DdWyWBFeKkrsZMgLvxhhzaqMcAXXjSYY6euh-vMXOY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: 226
 ht-degree: 7%
 
 ---
@@ -17,7 +20,7 @@ Die Verwendung von Token kann Ihre Arbeit in Marketo Engage vereinfachen. Sie k�
 
 >[!TIP]
 >
->Weitere Informationen dazu, welche Token bereits verfügbar sind, finden Sie unter [&#x200B; von Token &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+>Weitere Informationen dazu, welche Token bereits verfügbar sind, finden Sie unter [ von Token ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Erstellen eines lokalen oder globalen My Token {#create-a-my-token}
 

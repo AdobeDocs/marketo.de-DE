@@ -4,9 +4,15 @@ title: Erstellung von E-Mails
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/T4P378JxWQuCWzPMUsgXoQvnPhaRxdAnZUxVzpZuqWo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: ffdd6159-0e10-4a57-8021-94e93bab8183
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1819'
+source-wordcount: 1819
 ht-degree: 6%
 
 ---
@@ -17,7 +23,7 @@ Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage E-Mail-Designer erstel
 
 >[!PREREQUISITES]
 >
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Wenn dies noch nicht geschehen ist und Sie eine Beschleunigung dieses Prozesses wünschen, wenden Sie sich bitte an das Adobe-Accountteam (Ihre Kundenbetreuung) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
+>Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Wenn dies noch nicht geschehen ist und Sie eine Beschleunigung dieses Prozesses wünschen, wenden Sie sich bitte an das Adobe-Accountteam (Ihre Kundenbetreuung) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
 
 ## Erstellen einer E-Mail {#create-an-email}
 
@@ -79,7 +85,7 @@ Jetzt ist es an der Zeit, Ihre E-Mail zu entwerfen.
 
 * [Erstellen von neuen Inhalten](#design-from-scratch) mithilfe des visuellen E-Mail-Editors
 
-* [Importieren Sie Ihre eigene HTML &#x200B;](#import-html) eine HTML- oder ZIP-Datei
+* [Importieren Sie Ihre eigene HTML ](#import-html) eine HTML- oder ZIP-Datei
 
 * [Vorhandene Vorlage auswählen](#choose-a-template) (eines unserer Beispiele oder eines, das Sie bereits gespeichert haben)
 
@@ -360,9 +366,9 @@ Um eine Vorschau Ihres E-Mail-Inhalts anzuzeigen, klicken Sie **Inhalt simuliere
 
 E-Mail-Designer-E-Mails sind in allen E-Mail-, Interaktions-, Standard- und Veranstaltungsprogrammen verfügbar (mit Ausnahme von interaktiven Webinar-Programmen). Wenn Sie Ihre E-Mail im Design Studio erstellt haben, kann sie von Smart-Kampagnen und/oder Smart-Listen wie jede andere E-Mail referenziert werden.
 
-* Verweisen Sie in einer Smart List darauf, indem [&#x200B; die üblichen Schritte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
+* Verweisen Sie in einer Smart List darauf, indem [ die üblichen Schritte ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
-* Verweisen Sie in einer Smart Campaign darauf, [&#x200B; Sie die üblichen Schritte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+* Verweisen Sie in einer Smart Campaign darauf, [ Sie die üblichen Schritte ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
 >[!NOTE]
 >

@@ -4,16 +4,18 @@ description: Manuelles Hinzufügen neuer Inhalte zur Seite „Alle Inhalte“ im
 title: Hinzufügen von neuen Inhalten
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/V-Q0zHrqrDtaZg9bbnLzWOonlbfPcjlliCIRSKmieSs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: 104
 ht-degree: 7%
 
 ---
 
 # Hinzufügen von neuen Inhalten {#add-new-content}
 
-Sie können der Seite „Alle Inhalte“ [!UICONTROL &#x200B; Inhalt &#x200B;] hinzufügen.
+Sie können der Seite „Alle Inhalte“ [!UICONTROL  Inhalt ] hinzufügen.
 
 1. Klicken Sie auf **[!UICONTROL Inhalt hinzufügen]** und wählen Sie **[!UICONTROL Inhalt hinzufügen]** aus.
 
@@ -35,4 +37,4 @@ Sie können der Seite „Alle Inhalte“ [!UICONTROL &#x200B; Inhalt &#x200B;] h
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. So fügen Sie es zu „Prädiktiver [&quot; &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
+1. So fügen Sie es zu „Prädiktiver [&quot; ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).

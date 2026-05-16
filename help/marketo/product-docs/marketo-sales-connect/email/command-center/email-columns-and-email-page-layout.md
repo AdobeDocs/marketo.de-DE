@@ -4,16 +4,19 @@ description: Erfahren Sie mehr über E-Mail-Spalten und das Layout von E-Mail-Se
 title: Layout von E-Mail-Spalten und E-Mail-Seiten
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: 533
 ht-degree: 2%
 
 ---
 
 # Layout von E-Mail-Spalten und E-Mail-Seiten {#email-columns-and-email-page-layout}
 
-Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-Abschnitt des [!UICONTROL Command Center“ angezeigt &#x200B;]. Ihre Konfigurationseinstellungen werden für jeden E-Mail-Unterordner gespeichert (z. B. [!UICONTROL Zugestellt], , [!UICONTROL Geplant] usw.).
+Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-Abschnitt des [!UICONTROL Command Center“ angezeigt ]. Ihre Konfigurationseinstellungen werden für jeden E-Mail-Unterordner gespeichert (z. B. [!UICONTROL Zugestellt], , [!UICONTROL Geplant] usw.).
 
 ## E-Mail-Spalten {#email-columns}
 
@@ -36,7 +39,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-A
    <td>Name der Person in [!DNL Sales Connect].</td>
   </tr>
   <tr>
-   <td>[!UICONTROL -Adresse]</td>
+   <td>[!UICONTROL-Adresse]</td>
    <td>Primäre E-Mail-Adresse der [!DNL Sales Connect] Person.</td>
   </tr>
   <tr>
@@ -44,7 +47,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-A
    <td>Wenn die E-Mail im Rahmen einer Kampagne gesendet wurde, wird der Name der Kampagne angezeigt. Wenn Sie auf dieses Feld klicken, gelangen Sie zur Einrichtungsseite dieser Kampagne.</td>
   </tr>
   <tr>
-   <td>[!UICONTROL -Vorlage]</td>
+   <td>[!UICONTROL-Vorlage]</td>
    <td>Zeigt den Namen der Vorlage an (wenn die E-Mail mit einer Vorlage gesendet wurde).</td>
   </tr>
   <tr>
@@ -88,7 +91,7 @@ Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-A
    <td>Das Datum, an dem die E-Mail gesendet wurde.</td>
   </tr>
   <tr>
-   <td>[!UICONTROL -Folgeaktionen]</td>
+   <td>[!UICONTROL-Folgeaktionen]</td>
    <td>Schnelle Aktionsschaltflächen, die für die Nachverfolgung per E-Mail, Telefon, E-Mail oder Aufgabe verwendet werden können.</td>
   </tr>
   <tr>

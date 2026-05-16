@@ -4,9 +4,13 @@ description: Erfahren Sie, wie Sie ein Ereignis mit einer Web-Besprechung der St
 title: Ereignis erstellen mit [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/FDopt-Q5j-hEC4HocyJRgn96DGgTPtDPUC4L-Q3acUk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: 179
 ht-degree: 1%
 
 ---
@@ -31,15 +35,15 @@ Erstellen Sie zunächst Ihr Webinar in [!DNL Level 3]. Wenn Sie Hilfe benötigen
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Web-Meeting Stufe 3]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Web-Meeting Stufe 3]** aus.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; Ihre [!DNL Level 3] Anmeldung aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; Ihre [!DNL Level 3] Anmeldung aus.
 
    ![](assets/image2016-3-24-15-3a43-3a43.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &#x200B;] das [!DNL Level 3] Ereignis aus, das Sie verwenden möchten.
+1. Wählen [!UICONTROL  unter ] das [!DNL Level 3] Ereignis aus, das Sie verwenden möchten.
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 

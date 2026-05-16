@@ -4,9 +4,11 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung lokal in Dynamics 2013 in
 title: 'Schritt 1 von 3: Installieren der Marketo-Lösung in Dynamics (2013 On-Premise)'
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/4WajWj-c4TYpq3cU3QRu1C-TbsYwCo2lDuvsrGLOwGo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: 308
 ht-degree: 0%
 
 ---
@@ -31,7 +33,7 @@ Bevor Sie [!DNL Microsoft Dynamics] On-Premise und Marketo synchronisieren könn
 >
 >Sie benötigen CRM-Administratorrechte, um diese Synchronisierung durchzuführen.
 
-1. Anmelden bei **[!DNL Dynamics]**. Klicken Sie auf das Dropdown-**&#x200B;** Microsoft Dynamics CRM und wählen Sie **[!UICONTROL Einstellungen]**.
+1. Anmelden bei **[!DNL Dynamics]**. Klicken Sie auf das Dropdown-]****[!UICONTROL  Microsoft Dynamics CRM und wählen Sie **[!UICONTROL Einstellungen]**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 

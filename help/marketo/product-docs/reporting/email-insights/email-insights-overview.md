@@ -4,9 +4,13 @@ description: Erfahren Sie mehr über E-Mail-Einblicke, die leistungsstarke Analy
 title: E-Mail Insights – Überblick
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/VCFrxk6ZCaCLI-LkwupsSvndL-fooleRLbYm2oNLwSQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: 234
 ht-degree: 3%
 
 ---
@@ -31,7 +35,7 @@ Verwenden Sie [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/emai
 
 **Filter**
 
-Erweiterte [Filter) zur &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) der Ergebnisse nach Zielgruppe, Inhalt oder Plattform verwendet. Die gleichen Filter gelten sowohl für [!UICONTROL Analytics] als auch für [!UICONTROL Sendungen].
+Erweiterte [Filter) zur ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) der Ergebnisse nach Zielgruppe, Inhalt oder Plattform verwendet. Die gleichen Filter gelten sowohl für [!UICONTROL Analytics] als auch für [!UICONTROL Sendungen].
 
 ![](assets/filter.png)
 
@@ -43,7 +47,7 @@ Erweiterte [Filter) zur &#x200B;](/help/marketo/product-docs/reporting/email-ins
 
 ## [!UICONTROL sendet] {#sends}
 
-Untersuchen Sie auf [[!UICONTROL &#x200B; Seite &#x200B;]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
+Untersuchen Sie auf [[!UICONTROL  Seite ]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)Sendungen“ die Eigenschaften der letzten E-Mail-Kommunikation.
 
 ![](assets/two.png)
 
