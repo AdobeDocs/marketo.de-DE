@@ -4,8 +4,11 @@ title: Erstellen eines Konversationsflusses
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
 TQID: https://experienceleague.adobe.com/yA-mKEwDE9H1VIxR7RGXsYxS8YRHgkjXlYXUwLxOqYk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 102
@@ -17,7 +20,7 @@ ht-degree: 7%
 
 Führen Sie die folgenden Schritte aus, um einen neuen Gesprächsfluss zu erstellen.
 
-1. Klicken [!UICONTROL  unter &quot;] Chat“ auf **[!UICONTROL Konversationsflüsse]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;] Chat“ auf **[!UICONTROL Konversationsflüsse]**.
 
    ![](assets/create-a-conversational-flow-1.png)
 
@@ -33,7 +36,7 @@ Führen Sie die folgenden Schritte aus, um einen neuen Gesprächsfluss zu erstel
    >
    >Dadurch wird nur die Sprache des Systemtextes geändert. Sie sind für die Übersetzung von Inhalten verantwortlich.
 
-1. Wie bei Dialogfeldern [ Sie einen Stream ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. Wie bei Dialogfeldern [&#x200B; Sie einen Stream &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

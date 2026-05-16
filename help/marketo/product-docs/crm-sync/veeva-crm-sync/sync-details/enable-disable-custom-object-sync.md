@@ -4,9 +4,12 @@ title: Aktivieren/Deaktivieren der benutzerdefinierten Objektsynchronisierung
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/nsmRk-zf-I5r0hfLxsOnGsTf66X-bYZ7OAUXHrPc-t0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 230
@@ -74,7 +77,7 @@ Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf **[!UICONTRO
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Sie können jetzt die Daten dieses benutzerdefinierten Objekts in „Smart[!UICONTROL Kampagnen“ ] „Smart[!UICONTROL Listen“ ].
+Sie können jetzt die Daten dieses benutzerdefinierten Objekts in „Smart[!UICONTROL Kampagnen“ &#x200B;] „Smart[!UICONTROL Listen“ &#x200B;].
 
 >[!MORELIKETHIS]
 >

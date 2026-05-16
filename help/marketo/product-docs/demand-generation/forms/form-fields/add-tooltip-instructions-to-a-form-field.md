@@ -5,8 +5,10 @@ title: Hinzufügen von Kurzinfo-Anweisungen zu einem Formularfeld
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
 TQID: https://experienceleague.adobe.com/BGEh9t-FT3gp8eJ704dQQlOV7nbJophGPLh2TTRw4H0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 130
@@ -48,7 +50,7 @@ ht-degree: 15%
 
    >[!NOTE]
    >
-   >Denken Sie daran[ den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
+   >Denken Sie daran[&#x200B; den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 

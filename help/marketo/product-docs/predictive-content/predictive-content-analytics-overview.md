@@ -5,8 +5,10 @@ title: Prädiktive Inhaltsanalyse – Überblick
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 380
@@ -28,7 +30,7 @@ Klicken Sie auf der Zusammenfassungsseite auf **[!UICONTROL Analytics]**.
 
 ![](assets/one.png)
 
-[!UICONTROL Analytics] umfasst mehrere Abschnitte: [!UICONTROL Top-Inhalte nach ], [!UICONTROL Top-Inhalte nach Konversionsrate], [!UICONTROL Trending-Inhalte] [!UICONTROL Vorgeschlagene Inhalte] und [!UICONTROL Inhalte].
+[!UICONTROL Analytics] umfasst mehrere Abschnitte: [!UICONTROL Top-Inhalte nach &#x200B;], [!UICONTROL Top-Inhalte nach Konversionsrate], [!UICONTROL Trending-Inhalte] [!UICONTROL Vorgeschlagene Inhalte] und [!UICONTROL Inhalte].
 
 ![](assets/new-2.png)
 
@@ -40,7 +42,7 @@ Klicken Sie auf die Schaltfläche Exportieren , um die Ergebnisse dieses Abschni
 
 ![](assets/new-3point5.png)
 
-Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B[!UICONTROL  „ABM-]&quot;, [!UICONTROL Land] usw.).
+Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B[!UICONTROL &#x200B; „ABM-]&quot;, [!UICONTROL Land] usw.).
 
 ![](assets/pca.png)
 

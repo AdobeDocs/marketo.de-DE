@@ -5,9 +5,15 @@ title: Mai 2014 - Versionshinweise
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
 TQID: https://experienceleague.adobe.com/1SUYULNnD8J6FOlO8DJoXbPhU-HdY-rdI-UTAH8xIr0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 466
@@ -25,7 +31,7 @@ Jetzt können Sie [nicht verwendeten Arbeitsbereich löschen](/help/marketo/prod
 
 ## Erstbesetzung planen {#schedule-first-cast}
 
-In Interaktionsprogrammen können Sie das Datum für die (erste [) Ausführung ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Geben Sie beispielsweise die Kadenz an, die alle 2 Wochen erfolgen soll, und wählen Sie das Datum der ersten Besetzung aus.
+In Interaktionsprogrammen können Sie das Datum für die (erste [) Ausführung &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Geben Sie beispielsweise die Kadenz an, die alle 2 Wochen erfolgen soll, und wählen Sie das Datum der ersten Besetzung aus.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -37,7 +43,7 @@ Jetzt erhält jeder mehrere Programme, Streams und Kommunikationsbeschränkungen
 
 ## Linktracking in Textnachrichten {#link-tracking-in-text-emails}
 
-[Fügen Sie doppelte eckige Klammern ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) URLs in der Textversion Ihrer E-Mails hinzu, um anzugeben, wann Links in umgeleitete Marketo-Tracking-Links konvertiert werden sollen
+[Fügen Sie doppelte eckige Klammern &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) URLs in der Textversion Ihrer E-Mails hinzu, um anzugeben, wann Links in umgeleitete Marketo-Tracking-Links konvertiert werden sollen
 
 >[!NOTE]
 >
@@ -85,4 +91,4 @@ Modeler und Success Path Analyzer sind jetzt in MA Standard Edition enthalten.
 
 ## Informationen zur mobilen Plattform {#mobile-platform-info}
 
-[Segment und Trigger ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) von Leads, die E-Mails von ihren Mobilgeräten aus öffnen und klicken.
+[Segment und Trigger &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) von Leads, die E-Mails von ihren Mobilgeräten aus öffnen und klicken.

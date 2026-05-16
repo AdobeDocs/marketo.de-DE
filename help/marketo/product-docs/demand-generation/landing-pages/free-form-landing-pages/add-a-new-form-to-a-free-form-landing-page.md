@@ -5,8 +5,10 @@ title: Hinzufügen eines neuen Formulars zu einer Freiform-Landingpage
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/FTZtA2OAveQS9d9MLetBmTb99aSH0xIWwO6LsT2T7Ic
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 161
@@ -57,4 +59,4 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 
    Gut gemacht!
 
-Schließen Sie einfach den Landingpage-Editor und [ Sie den Landingpage-Entwurf ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie einfach den Landingpage-Editor und [&#x200B; Sie den Landingpage-Entwurf &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

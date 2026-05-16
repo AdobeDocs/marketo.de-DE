@@ -5,7 +5,8 @@ title: E-Mail Zustellbarkeit Power Pack - So importieren Sie eine Testadressenli
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 346
@@ -19,7 +20,7 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten bei mehreren Postfachanbietern,
 
 >[!IMPORTANT]
 >
->Dieser Artikel richtet sich an Personen mit einem aktiven Everest-Abonnement zu diesem Zeitpunkt. Wenn Sie Inbox Tracker by Bird (früher MessageBird) verwenden, [ Sie Ihre Tutorials (hier](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>Dieser Artikel richtet sich an Personen mit einem aktiven Everest-Abonnement zu diesem Zeitpunkt. Wenn Sie Inbox Tracker by Bird (früher MessageBird) verwenden, [&#x200B; Sie Ihre Tutorials (hier](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Importieren einer Testadressenliste {#import-a-seed-list}
 
@@ -43,7 +44,7 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten bei mehreren Postfachanbietern,
    >
    >Verwenden Sie den Seed-Listen-Optimizer (oben auf der Seite), wenn [!DNL Everest] Ihre Liste für Sie optimieren möchten.
 
-1. Nach dem Export wird die Liste als TXT-Datei im Downloads-Ordner Ihres Browsers angezeigt. Rufen Sie sie ab [ importieren Sie ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) statische Liste in Ihre Marketo-Instanz.
+1. Nach dem Export wird die Liste als TXT-Datei im Downloads-Ordner Ihres Browsers angezeigt. Rufen Sie sie ab [&#x200B; importieren Sie &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) statische Liste in Ihre Marketo-Instanz.
 
    ![](assets/email-deliverability-power-pack-5.png)
 

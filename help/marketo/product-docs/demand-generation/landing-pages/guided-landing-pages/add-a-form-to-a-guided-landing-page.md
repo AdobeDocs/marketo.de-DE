@@ -5,7 +5,8 @@ title: Hinzufügen eines Formulars zu einer geführten Landingpage
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 187
@@ -59,4 +60,4 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Schließen Sie nun einfach den Landingpage-Editor und [ Sie den Landingpage-Entwurf ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie nun einfach den Landingpage-Editor und [&#x200B; Sie den Landingpage-Entwurf &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

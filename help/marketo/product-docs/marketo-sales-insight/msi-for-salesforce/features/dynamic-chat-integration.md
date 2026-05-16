@@ -4,9 +4,12 @@ title: Integration von Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/6KP-StSNikG472sbPnquQqChyiIxPA1c-m1d-xyC7lo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 401
@@ -22,9 +25,9 @@ Erfahren Sie mehr über die Integration von Dynamic Chat mit Sales Insight.
 >
 >* Ihr Sales Insight SFDC-Paket muss Version [2.4.0 oder höher sein](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* Die [Dynamic Chat-Integration muss ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} sein
+>* Die [Dynamic Chat-Integration muss &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} sein
 >
->* Stellen Sie sicher, dass in Ihrer Sales [Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}Betriebseinstellungen) das Feld „API-Geheimschlüssel“ ausgefüllt ist. Wenn nicht, erfahren Sie hier, wie Sie [ abrufen ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
+>* Stellen Sie sicher, dass in Ihrer Sales [Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}Betriebseinstellungen) das Feld „API-Geheimschlüssel“ ausgefüllt ist. Wenn nicht, erfahren Sie hier, wie Sie [&#x200B; abrufen &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Registerkarte &quot;[!DNL Marketo Sales Insight]&quot; {#marketo-sales-insight-configuration-tab}
 
@@ -32,7 +35,7 @@ Gehen Sie wie folgt vor, um die [!DNL Dynamic Chat]-Integration zu aktivieren.
 
 1. Melden Sie sich bei Ihrem [!DNL Salesforce] Konto an, klicken Sie auf das + -Symbol am Ende der Registerkartenleiste und klicken Sie auf **[!DNL Marketo Sales Insight Config]**.
 
-1. Klicken Sie, um das &quot;[!UICONTROL VisualForce-Bedienfeld“ ].
+1. Klicken Sie, um das &quot;[!UICONTROL VisualForce-Bedienfeld“ &#x200B;].
 
    ![](assets/dynamic-chat-integration-1.png)
 
@@ -86,7 +89,7 @@ Gleichermaßen enthalten die Konto- und Opportunity-Bedienfelder [!UICONTROL Nam
 
 ![](assets/dynamic-chat-integration-6.png)
 
-Die Registerkarte Chat ist auch in Ihrer Registerkarte Global Marketo enthalten. Es umfasst drei Aktivitätstypen ([!UICONTROL Interaktives ], [!UICONTROL Geplanter Termin], [!UICONTROL Ziel erreicht]) sowie die folgenden Spalten:
+Die Registerkarte Chat ist auch in Ihrer Registerkarte Global Marketo enthalten. Es umfasst drei Aktivitätstypen ([!UICONTROL Interaktives &#x200B;], [!UICONTROL Geplanter Termin], [!UICONTROL Ziel erreicht]) sowie die folgenden Spalten:
 
 * [!UICONTROL Person]
 * [!UICONTROL Konto]

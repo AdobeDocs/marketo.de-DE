@@ -5,8 +5,10 @@ title: Versionshinweise - Dezember 2013
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
 TQID: https://experienceleague.adobe.com/6Tx70TqqeIqPCZGmyThIr56sTtWQkO62kf39-sFQGzY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 311
@@ -40,7 +42,7 @@ Führen Sie im neuen E-Mail-Programm einen [A/B-Test](/help/marketo/product-docs
 
 ## Lead-Details in [!UICONTROL E-Mail-] {#lead-details-in-email-analysis}
 
-Wir haben in „E-Mail-Analyse[!UICONTROL  zusätzliche Lead- und ] eingeführt. Sie können jetzt Ihre E-Mail-Statistiken gruppiert nach neuen Attributen wie [!UICONTROL Branche] und [!UICONTROL Lead Source] anzeigen.
+Wir haben in „E-Mail-Analyse[!UICONTROL &#x200B; zusätzliche Lead- und &#x200B;] eingeführt. Sie können jetzt Ihre E-Mail-Statistiken gruppiert nach neuen Attributen wie [!UICONTROL Branche] und [!UICONTROL Lead Source] anzeigen.
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 

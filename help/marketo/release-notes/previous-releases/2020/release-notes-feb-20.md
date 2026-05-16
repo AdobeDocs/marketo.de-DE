@@ -5,10 +5,16 @@ title: Versionshinweise - Feb '20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
 TQID: https://experienceleague.adobe.com/wl-pYQcDIIDTeepjPdWbmZyEhyjvw51ojMGmFQsB63o
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: d1956f52-ecfd-4e01-8941-47af238acb0d
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 652
@@ -64,4 +70,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **Asset-API „_method“-Parameter**: Nach September 2020 akzeptieren Asset-API-Endpunkte keine „_method“ mehr zum Übergeben von Abfrageparametern in einem POST-Text, um URI-Längenbeschränkungen zu umgehen. Um Anfragen zu berücksichtigen, die diesen Parameter erfordern, wird die URI-Beschränkung für Asset-APIs von 6 KB auf 65 KB erhöht, sodass lange Anfrage-URIs gesendet werden können.
 * **Einstellung der Internet Explorer-**: Ab unserer Version vom 31. Juli 2020 wird die Marketo Engage-Benutzeroberfläche in Internet Explorer nicht mehr unterstützt.
 
-**_Webinar zur Produktversion_** [Nehmen Sie ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11 :00AM PT / 2 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
+**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11 :00AM PT / 2 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.

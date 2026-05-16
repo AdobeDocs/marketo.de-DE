@@ -4,9 +4,12 @@ title: Durchführen eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
 TQID: https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1198
@@ -88,7 +91,7 @@ Die Teilnehmer können an dem Webinar teilnehmen, indem sie auf den personalisie
 
 Der „Host- und Präsentationsbereich“ (auch als „Backstage“ bezeichnet) ist ein privater Bereich auf der rechten Seite eines Meetingraums, den nur Moderatoren und Moderatoren sehen können. Sie kann zur Zusammenarbeit vor, während und nach einem Ereignis verwendet werden. Verwenden Sie Chat, Notizen und andere Pods als Rückkanäle im Bereich „Host &amp; Presenter“.
 
-Um darauf zuzugreifen, wählen Sie **Bereich „Host und Moderator** aus dem Dropdown-Menü Raum aus. Weitere Informationen zu diesem Bereich finden Sie im [ Video](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}.
+Um darauf zuzugreifen, wählen Sie **Bereich „Host und Moderator** aus dem Dropdown-Menü Raum aus. Weitere Informationen zu diesem Bereich finden Sie im [&#x200B; Video](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}.
 
 ### Broadcast-Steuerung {#broadcast-controls}
 
@@ -96,7 +99,7 @@ Die Broadcast-Steuerung fügt Ihrer interaktiven Webinar-Sitzung einen virtuelle
 
 Die Broadcast-Steuerung kann so eingestellt werden, dass die Aufnahme automatisch gestartet wird, nachdem der grüne Raum verlassen wurde. Dadurch wird sichergestellt, dass Hosts nicht daran denken müssen, die Aufzeichnung manuell zu starten und zu beenden. Durch das Anhalten oder Stoppen der Übertragung wird auch die Aufzeichnung angehalten oder gestoppt. Alles ist automatisch.
 
-Weitere Informationen zu Broadcast-Steuerelementen finden [ in diesem Video](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
+Weitere Informationen zu Broadcast-Steuerelementen finden [&#x200B; in diesem Video](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
 
 ### Chats in Aufzeichnungen {#chats-in-recordings}
 

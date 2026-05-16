@@ -5,9 +5,13 @@ title: Ein- und Ausblenden eines Felds
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
 TQID: https://experienceleague.adobe.com/eqaWiLR0hUwkqJbayqZEzw8o5oI4ejP6NKJnrPiCq6I
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 176
@@ -61,7 +65,7 @@ Wenn Sie ein Feld in Marketo Engage nicht mehr benötigen, können Sie es in der
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Suchen Sie das Feld und wählen Sie es aus. Klicken Sie in [!UICONTROL  Dropdown]Liste Feldaktionen“ auf **[!UICONTROL Feld einblenden]**.
+1. Suchen Sie das Feld und wählen Sie es aus. Klicken Sie in [!UICONTROL &#x200B; Dropdown]Liste Feldaktionen“ auf **[!UICONTROL Feld einblenden]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

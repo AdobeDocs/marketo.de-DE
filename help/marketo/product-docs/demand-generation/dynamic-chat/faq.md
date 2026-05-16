@@ -4,9 +4,13 @@ title: Häufig gestellte Fragen zu Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
 TQID: https://experienceleague.adobe.com/IpAD0KUETdl3o4UTUS-PBWhtCTY1N7k83qeyGkKnan8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 922
@@ -20,7 +24,7 @@ Im Folgenden finden Sie Antworten auf einige häufig gestellte Fragen zu Dynamic
 
 **Anscheinend habe ich keinen Zugang zu Dynamic Chat. Wie bekomme ich es?**
 
-Wenden Sie sich an Ihren Marketo Engage-Administrator und überprüfen Sie, [ er Sie als Benutzer ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} der Adobe Admin Console hinzugefügt hat.
+Wenden Sie sich an Ihren Marketo Engage-Administrator und überprüfen Sie, [&#x200B; er Sie als Benutzer &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} der Adobe Admin Console hinzugefügt hat.
 
 **Kann ich Dynamic Chat an einer beliebigen Stelle auf meiner Unternehmens-Website installieren oder funktioniert es nur auf Marketo-Landingpages?**
 
@@ -32,7 +36,7 @@ Das Dynamic Chat JavaScript-Snippet kann auf jeder Website sowie auf Landingpage
 
 **Unterstützt Dynamic Chat neben Englisch auch andere Sprachen?**
 
-Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Spanisch, Deutsch, Japanisch, Niederländisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Ja. Dynamic Chat unterstützt die folgenden Sprachen: Französisch, Spanisch, Deutsch, Japanisch, Niederländisch, Italienisch, Portugiesisch (Brasilien), Koreanisch, Chinesisch (vereinfacht) und Chinesisch (traditionell). Weitere Informationen finden Sie unter [Ändern der &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Unterstützen Sie KI-/NLP-Funktionen?**
 
@@ -98,7 +102,7 @@ Ja. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/using-dy
 
 In Dynamic Chat werden mehrere Begriffe verwendet. Definitionen für viele von ihnen finden Sie in den Hilfeartikeln der jeweiligen Bereiche.
 
-* Analytics-Begriffe wie „Personen erworben[ (finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Analytics-Begriffe wie „Personen erworben[&#x200B; (finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
 * Trigger-/Filterdefinitionen für Smart-Listen [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
 * Beschreibungen der verschiedenen Stream Designer-Karten [finden Sie hier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 

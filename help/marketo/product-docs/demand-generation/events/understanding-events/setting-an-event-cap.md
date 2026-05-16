@@ -5,7 +5,8 @@ hide: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
 TQID: https://experienceleague.adobe.com/8vtaffm-YDrTB2m33b55Oqcxe02WGW5Dqu2oD7CXXYA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 213
@@ -40,7 +41,7 @@ Begrenzen Sie die Anzahl der Personen, die sich mit einer Event-Obergrenze für 
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Klicken Sie auf [!UICONTROL  Dropdown-Liste ]Registrierungsseite(n)“ und wählen Sie die Landingpage aus, die als Registrierungsseite dienen soll.
+1. Klicken Sie auf [!UICONTROL &#x200B; Dropdown-Liste &#x200B;]Registrierungsseite(n)“ und wählen Sie die Landingpage aus, die als Registrierungsseite dienen soll.
 
    ![](assets/setting-an-event-cap-4.png)
 

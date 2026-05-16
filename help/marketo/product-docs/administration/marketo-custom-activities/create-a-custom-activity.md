@@ -5,9 +5,12 @@ title: Erstellen einer benutzerdefinierten Aktivität
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
 TQID: https://experienceleague.adobe.com/SMvwkJEZWaMbQHUSKrpeJvrnw-JGl6eY8mmj9ZzMqGk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 123
@@ -43,7 +46,7 @@ Führen Sie die folgenden Schritte aus, um eine neue benutzerdefinierte Aktivit�
    >
    >Wenn Sie sich entscheiden, den [!UICONTROL API-Namen] zu ändern, stellen Sie sicher, dass der Name nicht mit Feldern in anderen benutzerdefinierten Aktivitäten kollidiert.
 
-1. Definieren Sie [!UICONTROL Filter] und [!UICONTROL Trigger ] und klicken Sie auf **[!UICONTROL Weiter]**.
+1. Definieren Sie [!UICONTROL Filter] und [!UICONTROL Trigger &#x200B;] und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/create-a-custom-activity-5.png)
 

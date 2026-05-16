@@ -4,7 +4,8 @@ title: Prüfen Ihrer E-Mail
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/gnaq-fRUM78yr5TheemvKA2um7Pb7yMaqec3Zjeaaag
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 124
@@ -20,7 +21,7 @@ Wenn Sie eine nicht verifizierte E-Mail-Identität haben, führen Sie die folgen
 
    ![](assets/verify-your-email-1.png)
 
-1. Klicken [!UICONTROL  unter „Mein ]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
+1. Klicken [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/verify-your-email-2.png)
 

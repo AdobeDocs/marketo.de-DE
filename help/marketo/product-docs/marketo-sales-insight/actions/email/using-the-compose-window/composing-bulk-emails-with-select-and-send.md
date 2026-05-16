@@ -5,8 +5,10 @@ hide: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/-j4w8QfiiQ813G95QHr8MnrBzRRbgOa9K04I2HBaX58
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 420
@@ -36,7 +38,7 @@ So senden/bearbeiten Sie E-Mails mit den Optionen [!UICONTROL Auswählen] und [!
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
-1. Geben Sie eine Betreffzeile ein, wählen Sie eine Vorlage aus (oder erstellen Sie die E-Mail von Grund auf neu) und senden/[ Sie ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) E-Mail.
+1. Geben Sie eine Betreffzeile ein, wählen Sie eine Vorlage aus (oder erstellen Sie die E-Mail von Grund auf neu) und senden/[&#x200B; Sie &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) E-Mail.
 
    ![](assets/composing-bulk-emails-with-select-and-send-4.png)
 

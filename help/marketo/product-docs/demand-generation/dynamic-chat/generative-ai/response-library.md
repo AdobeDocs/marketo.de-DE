@@ -4,7 +4,8 @@ title: Antwortbibliothek
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
 TQID: https://experienceleague.adobe.com/huqmL3JA7BaWaekIcKm2HjeqYCW6pALsp7fNyhTO1XU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 385
@@ -34,7 +35,7 @@ Zeigen Sie alle Ihre Fragen, deren Genehmigungsstatus und den/die ihnen zugewies
 
    ![](assets/response-library-4.png)
 
-1. Klicken Sie auf „Aktualisieren“. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL &quot; ].
+1. Klicken Sie auf „Aktualisieren“. Ihre neue Frage wird oben mit dem Status &quot;[!UICONTROL &quot; &#x200B;].
 
    ![](assets/response-library-5.png)
 

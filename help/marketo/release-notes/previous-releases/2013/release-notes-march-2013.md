@@ -5,7 +5,8 @@ title: Versionshinweise – März 2013
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
 TQID: https://experienceleague.adobe.com/u4SHg7YFveX9aXItkVZek9w2juhS0-vUxrwvkNWLqFI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 230
@@ -37,7 +38,7 @@ Ein Gewinnspiel gibt Ihren Leads die Chance, einen Preis zu gewinnen und ihre Fr
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Zusätzliche [!UICONTROL  (Fehlermeldung] Sprachen {#additional-form-error-message-languages}
+## Zusätzliche [!UICONTROL &#x200B; (Fehlermeldung] Sprachen {#additional-form-error-message-languages}
 
 Mehr als ein Dutzend Sprachen wurden zu den Formularfehlermeldungen hinzugefügt!
 

@@ -5,7 +5,8 @@ title: SFDC-Synchronisierung - Synchronisierung von Lead/Kontoinhaber
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 218
@@ -39,7 +40,7 @@ Absolut, verwenden Sie einfach die [Besitzer ändern](/help/marketo/product-docs
 
 >[!NOTE]
 >
->Sie können die Besitzerinformationen nicht über die Seite [Verwenden der Personendetailseite“ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+>Sie können die Besitzerinformationen nicht über die Seite [Verwenden der Personendetailseite“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ## Was kann ich mit diesen Daten tun? {#what-can-i-do-with-this-data}
 

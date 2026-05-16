@@ -5,9 +5,14 @@ title: Web-Personalisierung – Überblick
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/0TGyNY9LlCREr21ZmORSvg5fxFH-6-KdnhcaKYd--LM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 884
@@ -50,7 +55,7 @@ Die **[!UICONTROL Web Personalization]**-Kachel ist Ihr Zugriffspunkt zum Erstel
 
 >[!NOTE]
 >
->Um auf [!UICONTROL Account-Based Web ] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
+>Um auf [!UICONTROL Account-Based Web &#x200B;] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
 
 ## Organisationen {#organizations}
 

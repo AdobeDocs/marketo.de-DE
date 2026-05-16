@@ -5,9 +5,12 @@ title: Genehmigen eines benutzerdefinierten Objekts
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
 TQID: https://experienceleague.adobe.com/CH2VbeVfaADWe4rVfRwgM3nrKXw85eMYbgCa99gTPFY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 303
@@ -51,7 +54,7 @@ Ein neues benutzerdefiniertes Objekt wurde erstellt. Gehen Sie wie folgt vor, um
    >
    >Ein benutzerdefiniertes Objekt, das als _Zwischenobjekt_ verwendet wird, erfordert ein Verknüpfungsfeld, einen verknüpften Objektnamen und einen verknüpften Feldnamen, **jedoch** Deduplizierungsfeld.
    >
-   >Weitere Informationen [ Sie unter „Grundlegendes ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) benutzerdefinierten Marketo-Objekten“.
+   >Weitere Informationen [&#x200B; Sie unter „Grundlegendes &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) benutzerdefinierten Marketo-Objekten“.
 
 Jetzt können Sie Ihr benutzerdefiniertes Objekt in den Einschränkungen Ihrer Filter und Trigger auswählen, die in Ihren Kampagnen verwendet werden sollen.
 

@@ -5,8 +5,10 @@ title: Versionshinweise - August '19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/9khB0o-UG6J245lAy9I1-Sw2wRtHsC1ekdotB7DqEh8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 349
@@ -53,4 +55,4 @@ Die folgenden Funktionen befinden sich in einem nicht-vierteljährlichen Zyklus 
 >
 >**Um Ihren Marketo Engage-Zugriff beizubehalten, stellen Sie sicher, dass alle Client-Systeme vor dem 13. Dezember 2019 TLS 1.2-kompatibel**. Weitere Informationen finden Sie [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinar zur Produktversion_** [Nehmen Sie ](https://engage.marketo.com/August_19_Release_Webinar.html) 28. August um 1:00PM PT / 4 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die Funktionen dieser Version.
+**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/August_19_Release_Webinar.html) 28. August um 1:00PM PT / 4 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die Funktionen dieser Version.

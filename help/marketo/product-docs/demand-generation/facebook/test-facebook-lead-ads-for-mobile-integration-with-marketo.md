@@ -5,8 +5,11 @@ title: Testen von Lead-Anzeigen in Facebook für die Mobile-Integration mit Mark
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
 TQID: https://experienceleague.adobe.com/VrGVY61VlAmqLgSm6r2lCFHed5Cqn88mojgKZpP9-Lg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 221
@@ -20,7 +23,7 @@ Nachdem Sie Ihre Lead-Anzeige erstellt haben, sollten Sie sie testen.
 
 >[!PREREQUISITES]
 >
->Sie müssen [die [!UICONTROL Facebook-Lead-Anzeigen]-Integration ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Sie müssen [die [!UICONTROL Facebook-Lead-Anzeigen]-Integration &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. Wählen Sie [!UICONTROL Facebook-]) eine Kampagne und eine Anzeige aus und klicken Sie auf **[!UICONTROL Bearbeiten]**.
 

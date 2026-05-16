@@ -5,9 +5,13 @@ title: Erstellen eines benutzerdefinierten Service zur Verwendung mit der REST-A
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
 TQID: https://experienceleague.adobe.com/7RYZTS-1WiaU0A8ThqHvk01S7GLIIP65xyKI3SIuPyo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 175
@@ -31,7 +35,7 @@ Wenn Sie über die ReST-API eine Integration mit Marketo vornehmen möchten, ers
 
 >[!TIP]
 >
->Weitere Informationen zur (REST-API) finden [ in der Entwicklerdokumentation ](https://developer.adobe.com/marketo-apis/).
+>Weitere Informationen zur (REST-API) finden [&#x200B; in der Entwicklerdokumentation &#x200B;](https://developer.adobe.com/marketo-apis/).
 
 ## Benutzerdefinierten Service erstellen {#create-custom-service}
 

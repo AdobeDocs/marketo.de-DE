@@ -5,7 +5,8 @@ title: Januar 2013 - Versionshinweise
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 TQID: https://experienceleague.adobe.com/4dqPX50pI47J0nrL9Zf4SX-6b29MIDohELj6CtXvgIo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 311
@@ -61,6 +62,6 @@ Anzeigenamen in Feldern können Text in verschiedenen Sprachen anzeigen (z. B. w
 
 ## Programmdaten ändern {#change-program-data}
 
-Mit [!UICONTROL  Schritt &quot;] ändern“ können Sie den [!UICONTROL Erfolgsstatus] und das [!UICONTROL Erfolgsdatum] eines Programmmitglieds manuell über eine Kampagne ändern. Sie können diesen Flussschritt verwenden, um einen Fehler zu korrigieren oder ein Mitglied, das möglicherweise nicht wie vorgesehen am Programm teilgenommen hat, manuell zu ändern.
+Mit [!UICONTROL &#x200B; Schritt &quot;] ändern“ können Sie den [!UICONTROL Erfolgsstatus] und das [!UICONTROL Erfolgsdatum] eines Programmmitglieds manuell über eine Kampagne ändern. Sie können diesen Flussschritt verwenden, um einen Fehler zu korrigieren oder ein Mitglied, das möglicherweise nicht wie vorgesehen am Programm teilgenommen hat, manuell zu ändern.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)

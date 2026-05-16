@@ -5,8 +5,10 @@ title: Marketing-Kalender-Lizenz erteilen oder widerrufen
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
 TQID: https://experienceleague.adobe.com/WwC2W-yq8duBfy1l7lfyWEqcKxqy62OJea1tdcrxPvU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 108
@@ -46,6 +48,6 @@ Um Ihren [Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/m
 
    ![](assets/4.png)
 
-   Das grüne Häkchen sollte jetzt unter &quot;[!UICONTROL &quot; ].
+   Das grüne Häkchen sollte jetzt unter &quot;[!UICONTROL &quot; &#x200B;].
 
    ![](assets/5.png)

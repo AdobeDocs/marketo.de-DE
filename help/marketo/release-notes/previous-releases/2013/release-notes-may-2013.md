@@ -5,7 +5,8 @@ title: Mai 2013 - Versionshinweise
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
 TQID: https://experienceleague.adobe.com/zuIpkGIQ1hNuCzacgAOnMWJ0HVZ5HGpEuoj6MWdYg8s
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 136
@@ -37,6 +38,6 @@ Mit der neu organisierten Fluss-Aktionsstruktur finden Sie Fluss-Aktionen schnel
 
 ## Umbenannte Fluss-Aktionen {#renamed-flow-actions}
 
-Der Status für das Ändern des Verlaufs [!UICONTROL  jetzt „Programmstatus ändern]. Programmdaten ändern heißt jetzt [!UICONTROL Programm erfolgreich ].
+Der Status für das Ändern des Verlaufs [!UICONTROL &#x200B; jetzt „Programmstatus ändern]. Programmdaten ändern heißt jetzt [!UICONTROL Programm erfolgreich &#x200B;].
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)

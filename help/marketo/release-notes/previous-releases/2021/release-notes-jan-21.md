@@ -4,10 +4,29 @@ title: Versionshinweise - Januar 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
 TQID: https://experienceleague.adobe.com/0Mwxsvl6m0uIK7-L0GkX0mYKMnNXDuNjTmR-MBfLDXM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: fc9b09fe-b844-4544-887b-e420c3b82065
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1303
@@ -68,7 +87,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **[Einblicke in den E-Mail-Status ([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: Benutzern wird eine Warnmeldung angezeigt, wenn sie versuchen, vor dem Senden einer E-Mail eine E-Mail an eine ungültige E-Mail-ID oder eine abgemeldete E-Mail-Adresse zu senden. Der Status der E-Mail-Sendungen kann auf der Registerkarte „E-Mail“ von [!DNL Sales Insight] überprüft werden.
 * **Massen-E-Mails über [Konto](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) und [Opportunity](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout)-Bedienfelder ([!DNL Salesforce] CRM) senden**: Verbessern Sie die Effizienz des Workflows des Verkäufers und interagieren Sie mit einer ganzen Konto- oder Opportunity-Kontaktliste durch die Verwendung neuer Massenaktionsfunktionen. Senden Sie E-Mails oder fügen Sie Kontakte zu Marketo Engage-Kampagnen hinzu, indem Sie die neue Dropdown-Option auf den Registerkarten Konto oder Opportunity verwenden, anstatt mit einzelnen Kontakten zu arbeiten. Fügen Sie Account-Kontakte zu einer Watchlist hinzu, um benachrichtigt zu werden, wenn Leads heiß werden.
 * **[[!DNL Sales Insight] Für Nicht-Native- [!DNL Salesforce] -CRM-Integrationen](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**: GA-Abonnements mit benutzerdefinierten Salesforce CRM-Integrationen können das [!DNL Sales Insight] installieren und Vertriebsteams dabei helfen, Prioritäten zu setzen und mit den viel versprechendsten Leads und Chancen zu interagieren.
-* **[Best-Bets-Verbesserungen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Kontaktieren Sie schnell die besten Leads auf der Registerkarte Best-Bets , indem Sie sie per E-Mail versenden oder zu einer Marketo Engage-Kampagne hinzufügen. Zeigen Sie einen Lead in Marketo Engage an oder fügen Sie ihn Ihrer Watchlist hinzu. Massenaktionen und Sortieroptionen auf der Registerkarte [!UICONTROL Best ]&quot; sparen Zeit und verbessern die Effizienz des Vertriebsteams.
+* **[Best-Bets-Verbesserungen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Kontaktieren Sie schnell die besten Leads auf der Registerkarte Best-Bets , indem Sie sie per E-Mail versenden oder zu einer Marketo Engage-Kampagne hinzufügen. Zeigen Sie einen Lead in Marketo Engage an oder fügen Sie ihn Ihrer Watchlist hinzu. Massenaktionen und Sortieroptionen auf der Registerkarte [!UICONTROL Best &#x200B;]&quot; sparen Zeit und verbessern die Effizienz des Vertriebsteams.
 
 ## [!DNL Sales Connect] {#sales-connect}
 
@@ -88,4 +107,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **_Webinar zur Produktversion_**
 
-Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Melden Sie [ jetzt an](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) um am 21. Januar um 13 :00 PT / 16 :00 ET an einem Live-Webinar mit unserem Produkt-Team teilzunehmen, um einen tieferen Einblick in diese Innovationen zu erhalten.
+Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Melden Sie [&#x200B; jetzt an](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) um am 21. Januar um 13 :00 PT / 16 :00 ET an einem Live-Webinar mit unserem Produkt-Team teilzunehmen, um einen tieferen Einblick in diese Innovationen zu erhalten.

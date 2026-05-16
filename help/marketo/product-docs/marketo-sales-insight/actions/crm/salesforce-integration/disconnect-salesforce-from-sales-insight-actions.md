@@ -5,7 +5,8 @@ hide: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/zMPouZTq9-cmwJsDKuHgA5qo0TPVU88cp79VZfkj9aU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 96
@@ -23,11 +24,11 @@ Manchmal müssen Sie Ihr [!DNL Salesforce]-Konto von Ihrem [!DNL Sales Insight A
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
-1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbindung trennen]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbindung trennen]**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
@@ -37,10 +38,10 @@ Manchmal müssen Sie Ihr [!DNL Salesforce]-Konto von Ihrem [!DNL Sales Insight A
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
-1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL Salesforce]**.
+1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL Salesforce]**.
 
 PICC
 
-1. Klicken Sie auf [!UICONTROL  Registerkarte ]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbindung trennen]**.
+1. Klicken Sie auf [!UICONTROL &#x200B; Registerkarte &#x200B;]Verbindungen und Anpassungen“ auf **[!UICONTROL Verbindung trennen]**.
 
 PICC

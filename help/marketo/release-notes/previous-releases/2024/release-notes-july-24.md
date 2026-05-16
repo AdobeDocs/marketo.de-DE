@@ -4,9 +4,13 @@ title: Versionshinweise – Juli 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
 TQID: https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 589
@@ -93,4 +97,4 @@ Benutzende können keine dieser Social-Media-Funktionen mehr in Marketo Engage e
 
 * **Veraltete Zugriffstoken in Abfrageparametern**: Die Unterstützung für die Authentifizierung mithilfe von Zugriffstoken in einem Abfrageparameter eines Marketo Engage-REST-API-Aufrufs wird in einer zukünftigen Version entfernt (spezifisches Datum wird noch bekannt gegeben). Vorhandene Integrationen sollten zur Verwendung der Autorisierungs-Kopfzeile migriert werden [hier beschrieben](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. Für neue Entwicklungen sollte nur der Autorisierungs-Header für die Authentifizierung mit Marketo Engage verwendet werden.
 
-* **Erneute Authentifizierung für LinkedIn erforderlich**: LinkedIn aktualisiert seine Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern zwischen dem 26. Juli und dem 15. Dezember 2024 eine erneute Authentifizierung aller LinkedIn LaunchPoint-Services in Ihrem **Admin** > **LaunchPoint**-Menü, um eine Unterbrechung des Services zu vermeiden. Anweisungen dazu finden Sie (hier [ Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} und [hier für übereinstimmende Zielgruppen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Der Formular-Service der Lead-Generation hat den Typ „LinkedIn-Lead-Gen“ und der Dienst für abgeglichene Zielgruppe hat den Typ „LinkedIn-abgeglichene Zielgruppen“. Weitere Informationen finden Sie unter [Häufig gestellte Fragen zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **Erneute Authentifizierung für LinkedIn erforderlich**: LinkedIn aktualisiert seine Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern zwischen dem 26. Juli und dem 15. Dezember 2024 eine erneute Authentifizierung aller LinkedIn LaunchPoint-Services in Ihrem **Admin** > **LaunchPoint**-Menü, um eine Unterbrechung des Services zu vermeiden. Anweisungen dazu finden Sie (hier [&#x200B; Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} und [hier für übereinstimmende Zielgruppen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Der Formular-Service der Lead-Generation hat den Typ „LinkedIn-Lead-Gen“ und der Dienst für abgeglichene Zielgruppe hat den Typ „LinkedIn-abgeglichene Zielgruppen“. Weitere Informationen finden Sie unter [Häufig gestellte Fragen zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.

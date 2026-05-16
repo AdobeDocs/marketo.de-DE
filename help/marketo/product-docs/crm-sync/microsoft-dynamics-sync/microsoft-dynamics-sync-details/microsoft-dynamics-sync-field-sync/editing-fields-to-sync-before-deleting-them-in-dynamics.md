@@ -4,7 +4,8 @@ title: Bearbeiten von Feldern, die vor dem Löschen in Dynamics synchronisiert w
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 214
@@ -20,7 +21,7 @@ Manchmal empfiehlt es sich, Felder in [!DNL Dynamics] zu löschen. Marketo speic
 
    ![](assets/sync-before-deleting-them-in-dynamics-1.png)
 
-1. Klicken [!UICONTROL  unter „Integration] auf **[!UICONTROL Microsoft Dynamics]**.
+1. Klicken [!UICONTROL &#x200B; unter „Integration] auf **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/sync-before-deleting-them-in-dynamics-2.png)
 

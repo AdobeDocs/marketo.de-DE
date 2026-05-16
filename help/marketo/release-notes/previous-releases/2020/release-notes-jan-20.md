@@ -5,9 +5,16 @@ title: Versionshinweise - Januar 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
 TQID: https://experienceleague.adobe.com/Gz2-EI02s3DLfFiaEISb0U8Dkl-MzdmlSY6Zc7OK2Pc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 844
@@ -61,7 +68,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Greifen Sie auf die Bearbeitungsfunktionen von Adobe zu, ohne Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder direkt im [!UICONTROL Design Studio“ einfach verbessern, zuschneiden und Text ].
+* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Greifen Sie auf die Bearbeitungsfunktionen von Adobe zu, ohne Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder direkt im [!UICONTROL Design Studio“ einfach verbessern, zuschneiden und Text &#x200B;].
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -80,4 +87,4 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 >
 >* **Aktualisierung der ITP-[!DNL Munchkin] 2.1 oder höher**: Aufgrund von Änderungen an der Cookie-Richtlinie für [!DNL Safari] wird die Möglichkeit von [!DNL Munchkin], Benutzer über Sitzungen hinweg in derselben Domain zu verfolgen, von ITP je nach Browser und Browser-Version, die der Besucher verwendet, entweder auf 1 oder 7 Tage beschränkt. Aus diesem Grund implementieren wir einen neuen Webservice, der es ermöglicht, Munchkin-Cookies mit einer Set-Cookie-Kopfzeile über die HTTP-Antwort zu setzen. Weitere Informationen zur Implementierung dieses neuen Service finden Sie [hier](https://nation.marketo.com/docs/DOC-7351).
 
-**_Webinar zur Produktversion_** [Nehmen Sie ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11 :00AM PT / 2 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
+**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11 :00AM PT / 2 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.

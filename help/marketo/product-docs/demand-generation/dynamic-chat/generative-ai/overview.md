@@ -4,9 +4,13 @@ title: Generative KI in Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
 TQID: https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 472
@@ -50,13 +54,13 @@ Um den vollständigen Kontext eines Besuchergesprächs zu erhalten, müssen Sie 
 
 ## Antwortbibliothek {#response-library}
 
-[Erstellen Sie eine maßgeschneiderte Sammlung ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, alle vorab von Ihnen genehmigt, zur Verwendung innerhalb von Generative AI-Chat-Kampagnen.
+[Erstellen Sie eine maßgeschneiderte Sammlung &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, alle vorab von Ihnen genehmigt, zur Verwendung innerhalb von Generative AI-Chat-Kampagnen.
 
 ![](assets/generative-ai-overview-6.png)
 
 ## Aktivitätsprotokoll {#activity-log}
 
-[Anzeige einer Liste aller ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und der zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie wann bearbeitet hat.
+[Anzeige einer Liste aller &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und der zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie wann bearbeitet hat.
 
 ![](assets/generative-ai-overview-7.png)
 

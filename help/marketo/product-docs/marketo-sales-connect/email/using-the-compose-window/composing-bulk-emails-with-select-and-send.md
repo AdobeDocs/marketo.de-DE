@@ -5,8 +5,10 @@ title: Erstellen von Massen-E-Mails mit Auswählen und Senden
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/NJX0blPhAaSvofC9LTI8tf1Qtt0BMF0NnfO-SHgFFX8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 417
@@ -36,7 +38,7 @@ So senden/bearbeiten Sie E-Mails mit der Option Auswählen und Senden .
 
    ![](assets/three-2.png)
 
-1. Geben Sie eine Betreffzeile ein, wählen Sie eine Vorlage aus (oder erstellen Sie die E-Mail von Grund auf neu) und senden/[ Sie ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) E-Mail.
+1. Geben Sie eine Betreffzeile ein, wählen Sie eine Vorlage aus (oder erstellen Sie die E-Mail von Grund auf neu) und senden/[&#x200B; Sie &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) E-Mail.
 
    ![](assets/four-2.png)
 

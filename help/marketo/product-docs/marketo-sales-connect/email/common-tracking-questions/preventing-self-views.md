@@ -5,9 +5,13 @@ title: Verhindern von Selbstansichten
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/UF-7Po7qajqMUjhP0LXWSxDqgqQyauDMLqDACzyWHVc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 313
@@ -49,11 +53,11 @@ Ansichten werden nachverfolgt, indem ein kleines unsichtbares Bildpixel in Ihren
 
    ![](assets/win-4.png)
 
-1. Klicken Sie [!UICONTROL  Menü links auf ]Automatischer Download“ und aktivieren Sie das Kontrollkästchen **[!UICONTROL Bilder nicht automatisch in E-Mail- oder RSS-]** von HTML herunterladen.
+1. Klicken Sie [!UICONTROL &#x200B; Menü links auf &#x200B;]Automatischer Download“ und aktivieren Sie das Kontrollkästchen **[!UICONTROL Bilder nicht automatisch in E-Mail- oder RSS-]** von HTML herunterladen.
 
    ![](assets/win-5.png)
 
-1. Klicken Sie **[!UICONTROL Dialogfeld]** Trust Center[!UICONTROL  auf ]OK“.
+1. Klicken Sie **[!UICONTROL Dialogfeld]** Trust Center[!UICONTROL &#x200B; auf &#x200B;]OK“.
 
    ![](assets/win-6.png)
 
@@ -69,10 +73,10 @@ Ansichten werden nachverfolgt, indem ein kleines unsichtbares Bildpixel in Ihren
 
    ![](assets/mac-1.png)
 
-1. Wählen [!UICONTROL  unter „E]Mail“ die Option **[!UICONTROL Lesen]**.
+1. Wählen [!UICONTROL &#x200B; unter „E]Mail“ die Option **[!UICONTROL Lesen]**.
 
    ![](assets/mac-2.png)
 
-1. Klicken [!UICONTROL  unter ] auf das Optionsfeld **[!UICONTROL Nie]**.
+1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf das Optionsfeld **[!UICONTROL Nie]**.
 
    ![](assets/mac-3.png)

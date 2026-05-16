@@ -5,10 +5,17 @@ title: Benutzer-Setup-Checkliste
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 TQID: https://experienceleague.adobe.com/LAFZ0QGdWLREK-wGSy-YMgmEMXP7dQSsaGI9MV5hTic
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-subfeature_v2: id: b83de148-8847-43b0-9656-84c65c2bf6e1id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2:
+  - id: b83de148-8847-43b0-9656-84c65c2bf6e1
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1138
@@ -18,15 +25,15 @@ ht-degree: 6%
 
 # Benutzer-Setup-Checkliste {#user-setup-checklist}
 
-Nachdem Sie nun alle &quot;[ Einrichtungsschritte“ abgeschlossen haben](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} ist es an der Zeit, einige grundlegende Elemente einzurichten, um eine reibungslose fortlaufende Verwendung sicherzustellen. Dadurch wird die Grundlage für Ihre Journey mit Marketo Engage gelegt und Sie können die Funktionen von nutzen. Los geht‘s!
+Nachdem Sie nun alle &quot;[&#x200B; Einrichtungsschritte“ abgeschlossen haben](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} ist es an der Zeit, einige grundlegende Elemente einzurichten, um eine reibungslose fortlaufende Verwendung sicherzustellen. Dadurch wird die Grundlage für Ihre Journey mit Marketo Engage gelegt und Sie können die Funktionen von nutzen. Los geht‘s!
 
 >[!NOTE]
 >
->Sie können diese Checkliste ([ einer Liste mit Best ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)) für Ihre neue Instanz auch herunterladen und die Schritte sofort abhaken.
+>Sie können diese Checkliste ([&#x200B; einer Liste mit Best &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)) für Ihre neue Instanz auch herunterladen und die Schritte sofort abhaken.
 
 ## Marketo Engage auf Adobe Identity Management {#marketo-engage-on-adobe-identity-management}
 
-Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management System (IMS) ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html). Fahren Sie mit der folgenden Überprüfung der Benutzerverwaltung in Adobe Admin Console fort.
+Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management System (IMS) &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html). Fahren Sie mit der folgenden Überprüfung der Benutzerverwaltung in Adobe Admin Console fort.
 
 <table>
 <thead>
@@ -74,7 +81,7 @@ Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management S
 
 ## Einrichten von Dynamic Chat in Adobe Identity Management {#dynamic-chat-on-adobe-identity-management}
 
-Um [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), den nativen Kanal zur Konversationsautomatisierung in Marketo Engage, zu verwenden, fahren Sie mit der Einrichtung der Benutzerberechtigungen fort, indem Sie die folgenden Schritte in der [Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
+Um [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), den nativen Kanal zur Konversationsautomatisierung in Marketo Engage, zu verwenden, fahren Sie mit der Einrichtung der Benutzerberechtigungen fort, indem Sie die folgenden Schritte in der [Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>

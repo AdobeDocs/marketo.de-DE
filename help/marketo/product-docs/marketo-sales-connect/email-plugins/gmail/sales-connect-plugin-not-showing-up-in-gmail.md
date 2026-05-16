@@ -5,7 +5,8 @@ title: Sales Connect-Plug-in wird in Gmail nicht angezeigt
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 169
@@ -29,4 +30,4 @@ Aus unserer Erfahrung können Sie folgende Dinge ausprobieren, wenn Ihre Symboll
 
 - Versuchen Sie, die Verbindung zu trennen und dann die [!DNL Sales Connect] Browser-Erweiterung erneut zu verbinden.
 
-Wenn keiner der oben genannten Tipps geholfen hat, [ Sie bitte einen Fall ](https://nation.marketo.com/community/support_solutions) den Support.
+Wenn keiner der oben genannten Tipps geholfen hat, [&#x200B; Sie bitte einen Fall &#x200B;](https://nation.marketo.com/community/support_solutions) den Support.

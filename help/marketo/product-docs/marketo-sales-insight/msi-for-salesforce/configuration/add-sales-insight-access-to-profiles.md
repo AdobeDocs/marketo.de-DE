@@ -4,9 +4,12 @@ title: Hinzufügen des Zugriffs auf Sales Insight für Profile
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/n3IZiKAL8DonU5nAkNs-Y8AbGszSIn3J8LQM2LjvDEw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 405
@@ -16,7 +19,7 @@ ht-degree: 5%
 
 # [!DNL Sales Insight] Zugriff auf Profile hinzufügen {#add-sales-insight-access-to-profiles}
 
-Im Folgenden wird beschrieben, wie Sie ein Profil mit Zugriff auf [!DNL Sales Insight] erstellen und dabei den Zugriff für Ihre anderen Profile entfernen. Dies ist für Benutzende gedacht, die das [[!DNL Sales Insight] AppExchange-Paket bereits installiert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Im Folgenden wird beschrieben, wie Sie ein Profil mit Zugriff auf [!DNL Sales Insight] erstellen und dabei den Zugriff für Ihre anderen Profile entfernen. Dies ist für Benutzende gedacht, die das [[!DNL Sales Insight] AppExchange-Paket bereits installiert &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
@@ -72,7 +75,7 @@ Wenn Sie über ein dediziertes Profil für Ihre [!DNL Sales Insight] Benutzer ve
 
 1. Wählen Sie **[!UICONTROL Zuweisung bearbeiten]** aus.
 
-1. Wählen Sie Ihr [!DNL Sales Insight] aus der Liste und dann Ihr [!DNL Sales insight] Layout aus der Dropdown-Liste [!UICONTROL Auswählen ]Seitenlayouts“ aus.
+1. Wählen Sie Ihr [!DNL Sales Insight] aus der Liste und dann Ihr [!DNL Sales insight] Layout aus der Dropdown-Liste [!UICONTROL Auswählen &#x200B;]Seitenlayouts“ aus.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

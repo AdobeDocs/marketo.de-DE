@@ -4,7 +4,8 @@ title: Erstellen einer In-App-Nachricht
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/ayEZLuHoATSPe6vXQN8iEjzNYHWWUIqlfDFVZZEx5Mw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 141
@@ -38,4 +39,4 @@ Nachdem Sie Ihre In-App-Nachricht erstellt haben, gehen Sie [hier](/help/marketo
 >
 >Der Programmname wird automatisch in der Dropdown-Liste angezeigt, Sie können jedoch einen anderen auswählen.
 
-Wählen [ als Nächstes ein Layout ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) Ihre In-App-Nachricht aus.
+Wählen [&#x200B; als Nächstes ein Layout &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) Ihre In-App-Nachricht aus.

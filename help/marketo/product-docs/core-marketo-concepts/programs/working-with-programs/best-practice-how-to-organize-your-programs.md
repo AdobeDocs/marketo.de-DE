@@ -5,9 +5,19 @@ title: 'Best Practice : Organisieren von Programmen'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 TQID: https://experienceleague.adobe.com/umVs0Y7YO6uYe0VsltT287eYBiViR8mFvxCC3WvIkaw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 855
@@ -59,7 +69,7 @@ Jede der im Beispiel genannten ist ein Ordner. Beachten Sie, dass alle eindeutig
 
 >[!TIP]
 >
->Der Ordner „Archiv“ ist eine spezielle Art von Ordner, der dazu dient, Elemente aus ausgewählten Listen zu entfernen und Berichte zu erstellen. Dadurch kann Ihr System schneller ausgeführt werden. Weitere [ zu Ordnern](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>Der Ordner „Archiv“ ist eine spezielle Art von Ordner, der dazu dient, Elemente aus ausgewählten Listen zu entfernen und Berichte zu erstellen. Dadurch kann Ihr System schneller ausgeführt werden. Weitere [&#x200B; zu Ordnern](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Sie können sicherlich weitere Ordner hinzufügen, wie Sie es für richtig halten. Denken Sie daran, dass zukünftige Generationen von Marketern in Ihrem Unternehmen mit Ihren Entscheidungen über die Benennung/Organisation von Dingen leben werden.
 
@@ -101,7 +111,7 @@ Ein Event hat in der Regel viele bewegte Teile, darunter Einladungen, Landingpag
 
 ## Interaktionsprogramme {#engagement-programs}
 
-Erfahren [ alles über Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie für jeden Stream einen Ordner und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jeden Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
+Erfahren [&#x200B; alles über Interaktionsprogramme](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. Die beste Möglichkeit, Ihr Interaktionsprogramm zu organisieren, besteht in Ordnern. Erstellen Sie für jeden Stream einen Ordner und legen Sie dann die E-Mails oder Programme in diesem Ordner ab. Fügen Sie in jeden Stream einen Archivordner ein, wenn der Inhalt veraltet ist und Sie ihn entfernen möchten.
 
 ## Operationelle Programme {#operational-programs}
 

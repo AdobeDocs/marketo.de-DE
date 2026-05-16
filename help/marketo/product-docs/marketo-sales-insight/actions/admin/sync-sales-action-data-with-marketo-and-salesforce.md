@@ -3,8 +3,10 @@ description: Erfahren Sie mehr über das Synchronisieren von Sales Insight-Aktio
 title: Synchronisieren von Verkaufsaktionsdaten mit Marketo und Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 TQID: https://experienceleague.adobe.com/SEElhIJ05KyqQUi5rLjSZjwFMdHDDO5is9Hqk7JxeIE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1072
@@ -115,7 +117,7 @@ Mit Sales Insight-Aktionen können Administratoren konfigurieren, welche Verkauf
 
 ![](assets/actions-data-sync-faq-6.png)
 
-Das obige Diagramm zeigt, welche Informationen in Salesforce protokolliert werden. Aktivitäten wie E-Mails und Anrufe werden in Salesforce in einer [ (unidirektionalen Synchronisation) ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [Abmeldungen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) und [Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) werden mit einer bidirektionalen Synchronisation auf dem neuesten Stand gehalten. Jede dieser Datensynchronisationen kann über die Web-App-Oberfläche der Sales Insight Actions konfiguriert werden.
+Das obige Diagramm zeigt, welche Informationen in Salesforce protokolliert werden. Aktivitäten wie E-Mails und Anrufe werden in Salesforce in einer [&#x200B; (unidirektionalen Synchronisation) &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [Abmeldungen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) und [Erinnerungsaufgaben](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) werden mit einer bidirektionalen Synchronisation auf dem neuesten Stand gehalten. Jede dieser Datensynchronisationen kann über die Web-App-Oberfläche der Sales Insight Actions konfiguriert werden.
 
 >[!MORELIKETHIS]
 >
