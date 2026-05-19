@@ -1,11 +1,11 @@
 ---
 description: Sprechen Sie mit Marketo AI über Ihre Marketo Engage-Leistungsdaten. Stellen Sie Fragen in einfacher Sprache und erhalten Sie Antworten, die in Ihrer Marketo-Umgebung basieren.
 title: Analytics
-beta: true
+badge: Beta
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '530'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,10 @@ Mit Analytics können Sie über Ihre Marketo-Leistungsdaten sprechen. Stellen Si
 >* Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 >
 >* Sie müssen Zugriff auf die Programme und Berichte haben, die Sie anfragen.
+
+>[!AVAILABILITY]
+>
+>Diese Funktion befindet sich in der geschlossenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird, erfahren Sie_ wann sie für Ihr Abonnement aktiviert wurde.
 
 ## Informationen zur Verwendung {#how-to-use}
 
