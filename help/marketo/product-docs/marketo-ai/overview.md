@@ -3,7 +3,7 @@ description: Erkunden Sie die Marketo Engage AI-Suite von Agenten, die Marketing
 title: Marketo Engage AI - Übersicht
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 2%
@@ -18,7 +18,7 @@ Marketo Engage AI bietet Agenten, die zeitaufwendige, aber wichtige Marketing-Fu
 >
 >Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
 >Diese Funktion befindet sich in der geschlossenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird, erfahren Sie_ wann sie für Ihr Abonnement aktiviert wurde.
 
