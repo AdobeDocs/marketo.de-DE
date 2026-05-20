@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 126
-ht-degree: 9%
+ht-degree: 7%
 
 ---
 
 # Bearbeiten der Verfügbarkeit von Stream-Inhalten {#edit-availability-of-stream-content}
 
-Sie können einen Zeitrahmen festlegen, in dem der Inhalt in Ihrem Stream aktiv sein soll. Und so geht das.
+Sie können einen Zeitrahmen festlegen, in dem der Inhalt in Ihrem Stream aktiv sein soll. So geht&#39;s.
 
 1. Wählen Sie Ihr Interaktionsprogramm aus und wechseln Sie zur Registerkarte **[!UICONTROL Streams]** .
 
@@ -36,6 +36,6 @@ Sie können einen Zeitrahmen festlegen, in dem der Inhalt in Ihrem Stream aktiv 
    >
    >Sie können **[!UICONTROL Aktiv durch]** leer lassen, um Inhalte für immer verfügbar zu machen.
 
-   Perfekt! Neben dem geplanten Inhalt wird das Uhrensymbol angezeigt. Er wird gemäß dem von Ihnen festgelegten Zeitplan aktiv und inaktiv.
+   Neben dem geplanten Inhalt wird das Uhrensymbol angezeigt. Er wird gemäß dem von Ihnen festgelegten Zeitplan aktiv und inaktiv.
 
    ![](assets/image2014-9-15-17-3a36-3a4.png)

@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 238
 ht-degree: 4%
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Grundlegendes zur Abmeldung {#understanding-unsubscribe}
 
-Es gibt mehrere verschiedene Arten von integrierten Abmeldungen in Marketo. Sie werden alle durch Felder auf dem Objekt Person dargestellt, genau wie der Vorname.
+Es gibt verschiedene Arten von integrierten Abmeldungen in Marketo. Sie werden alle durch Felder auf dem Objekt Person dargestellt, genau wie der Vorname.
 
 Alle diese Felder sind in Ihrem Marketo-Abonnement integriert. Sie sind alle boolesch (Kontrollkästchen). Sie können in Forms- oder [Datenwert ändern](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)-Flussschritten verwendet werden.
 
@@ -36,10 +36,10 @@ Dieser Status blockiert eine Person für 24 Stunden nach einem Hardbounce am Ver
 
 >[!NOTE]
 >
->Ausgesetzte E-Mails bleiben auch nach Ablauf des 24-Stunden-Zeitraums aktiviert, sodass Sie sich auf Personen beziehen können, die zuvor als solche gekennzeichnet wurden. Um festzustellen, ob die Person per E-Mail erreichbar ist, berechnen Sie einfach 24 Stunden nach dem Zeitpunkt der E-Mail-Aussetzung.
+>Ausgesetzte E-Mails bleiben auch nach Ablauf des 24-Stunden-Zeitraums aktiviert, sodass Sie sich auf Personen beziehen können, die zuvor als solche gekennzeichnet wurden. Um festzustellen, ob die Person per E-Mail erreichbar ist, berechnen Sie 24 Stunden nach dem Zeitpunkt der E-Mail-Aussetzung.
 
 ## Auf der Sperrliste {#blocklisted}
 
-[Nutzen Sie dies für Leute wie Konkurrenten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Jeder, den Sie **keine** E-Mails erhalten möchten - betrieblich, Marketing usw. Sie bekommen nichts!
+[Nutzen Sie dies für Leute wie Konkurrenten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Jeder, den Sie **keine** E-Mails erhalten möchten - betrieblich, Marketing usw. Sie erhalten keine E-Mails.
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

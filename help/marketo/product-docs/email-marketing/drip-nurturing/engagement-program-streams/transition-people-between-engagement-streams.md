@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 251
+source-wordcount: 243
 ht-degree: 6%
 
 ---
 
 # Transferieren von Personen zwischen Interaktionsströmen {#transition-people-between-engagement-streams}
 
-Interaktionsprogramme können mehr als einen Stream haben. Wenn Sie [einen Stream hinzufügen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), sollten Sie eine Möglichkeit definieren, wie Personen von einem Stream zum anderen wechseln können. Diese werden **Übergangsregeln“**
+Interaktionsprogramme können mehr als einen Stream haben. Wenn Sie [einen Stream hinzufügen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) definieren Sie eine Möglichkeit für Personen, von einem Stream zum anderen zu wechseln. Diese werden **Übergangsregeln“**
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -36,23 +36,23 @@ Interaktionsprogramme können mehr als einen Stream haben. Wenn Sie [einen Strea
    >
    >Übergangsregeln rufen einen Stream ab. Definieren Sie immer die Regeln für den Stream, in den Sie wechseln möchten.
 
-   Sobald sich das Fenster für die Übergangsregel öffnet, suchen Sie den gewünschten Trigger und ziehen Sie ihn in den entsprechenden Bereich. In diesem Fall möchten wir Personen in das [!UICONTROL Mid-Stadium“ &#x200B;], wenn es zu einer Opportunity hinzugefügt wird.
+   Sobald sich das Fenster für die Übergangsregel öffnet, suchen Sie den gewünschten Trigger und ziehen Sie ihn in den entsprechenden Bereich. In diesem Beispiel werden Personen in das [!UICONTROL Mid-Stadium] verschoben, wenn sie zu einer Opportunity hinzugefügt werden.
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Stellen wir den Operator auf &quot;**[!UICONTROL &quot; ein]** damit die Benutzer für jede zusätzliche Möglichkeit zu ihm wechseln.
+1. Stellen Sie den Operator auf **[!UICONTROL ist beliebig]** ein, damit die Personen für jede zusätzliche Gelegenheit zu ihm wechseln.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
-   >Sie können einer Übergangsregel mehrere Trigger und Filter hinzufügen, aber die Übergangsregel verwendet alle Filter (die einzige Option ist die Verwendung aller Filter). Wenn Sie ODER in einer Übergangsregel verwenden müssen, empfehlen wir, stattdessen eine externe intelligente Kampagne einzurichten.
+   >Sie können einer Übergangsregel mehrere Trigger und Filter hinzufügen, aber die Übergangsregel verwendet alle Filter (die einzige Option ist die Verwendung aller Filter). Wenn Sie ODER in einer Übergangsregel verwenden müssen, wird empfohlen, stattdessen eine externe intelligente Kampagne einzurichten.
 
 1. Klicken Sie auf **[!UICONTROL Schließen]**.
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   Sehr gut! Jetzt wird jede Person in Ihrem Interaktionsprogramm, die zu einer Opportunity hinzugefügt wird, in den [!UICONTROL Mid-Stage]-Stream verschoben.
+   Jetzt wird jede Person in Ihrem Interaktionsprogramm, die zu einer Opportunity hinzugefügt wird, in den [!UICONTROL Mid-Stage]-Stream verschoben.
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 

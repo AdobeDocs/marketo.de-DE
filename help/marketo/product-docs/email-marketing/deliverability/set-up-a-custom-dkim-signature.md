@@ -9,22 +9,22 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 447
+source-wordcount: 434
 ht-degree: 4%
 
 ---
 
 # Einrichten einer benutzerdefinierten DKIM-Signatur {#set-up-a-custom-dkim-signature}
 
-Um eine erstklassige Zustellbarkeit zu gewährleisten, signieren wir automatisch alle ausgehenden E-Mails mit einer freigegebenen Marketo DKIM-Signatur.
+Um eine optimale Zustellbarkeit zu gewährleisten, signiert Marketo automatisch alle ausgehenden E-Mails mit einer freigegebenen DKIM-Signatur.
 
 >[!NOTE]
 >
 >Möglicherweise benötigen Sie die Hilfe Ihres IT-Teams, um einige der Schritte in diesem Artikel auszuführen.
 
-Sie können die DKIM-Signatur personalisieren, um die Domain(s) Ihrer Wahl widerzuspiegeln. Und so geht das.
+Sie können die DKIM-Signatur personalisieren, um die Domain(s) Ihrer Wahl widerzuspiegeln.
 
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Admin]**.
 
@@ -32,7 +32,7 @@ Sie können die DKIM-Signatur personalisieren, um die Domain(s) Ihrer Wahl wider
 
    >[!NOTE]
    >
-   >Wenn Sie eine benutzerdefinierte DKIM-Signatur auf altmodische Weise einrichten, funktioniert sie weiterhin und sollte hier angezeigt werden.
+   >Wenn Sie eine benutzerdefinierte DKIM-Signatur mit der Legacy-Methode einrichten, funktioniert sie weiterhin und sollte hier angezeigt werden.
 
 1. Klicken Sie auf **E-Mail**.
 
@@ -62,20 +62,20 @@ Sie können die DKIM-Signatur personalisieren, um die Domain(s) Ihrer Wahl wider
 
    >[!TIP]
    >
-   >* Wir empfehlen eine Schlüsselgröße von 2048.
-   >* Wenn Sie in Ihrer Absenderadresse eine andere Domain verwenden, verwenden wir die von Marketo freigegebene DKIM-Signatur.
+   >* Eine Schlüsselgröße von 2048 wird empfohlen.
+   >* Wenn Sie eine andere Domain in Ihrer Absenderadresse verwenden, verwendet Marketo die freigegebene DKIM-Signatur.
 
    >[!IMPORTANT]
    >
    >Wenn Sie entweder den DKIM-Selektor oder die DKIM-Verschlüsselungsgröße für Ihre Domain aktualisieren müssen, müssen Sie den vorhandenen Eintrag löschen und den neu generierten Eintrag mit den neuen Werten erneut veröffentlichen.
    >
-   >Beachten Sie dabei, dass DKIM erst dann für Ihre Domain signiert wird, wenn Ihr neuer Eintrag veröffentlicht und von unserem System validiert wurde. Planen Sie Ihre Änderung entsprechend, da es 24 bis 48 Stunden dauern kann, bis der neue DKIM-Eintrag vollständig über das Internet verbreitet wird.
+   >Dabei wird DKIM erst dann für Ihre Domain signiert, wenn Ihr neuer Eintrag veröffentlicht und von unserem System validiert wurde. Planen Sie Ihre Änderung entsprechend, da es 24 bis 48 Stunden dauern kann, bis der neue DKIM-Eintrag vollständig über das Internet verbreitet wird.
 
-1. Senden Sie den **[!UICONTROL Hosteintrag]** und den **[!UICONTROL TXT-Wert]** an Ihre IT. Bitten Sie sie, den Eintrag für Sie zu erstellen, und stellen Sie sicher, dass er an alle Nameserver weitergegeben wird, die mit der Formular-Domain verknüpft sind. Die DKIM-Überprüfung von Marketo erfordert, dass der DKIM-Schlüssel an alle Nameserver weitergegeben wird, die mit der Domain verknüpft sind, die DKIM-signiert wird.
+1. Senden Sie den **[!UICONTROL Hosteintrag]** und den **[!UICONTROL TXT-Wert]** an Ihre IT. Bitten Sie sie, den Datensatz für Sie zu erstellen und sicherzustellen, dass er sich an alle Nameserver weitergibt, die mit der Formular-Domain verknüpft sind. Die DKIM-Überprüfung von Marketo erfordert, dass der DKIM-Schlüssel an alle Nameserver weitergegeben wird, die mit der Domain verknüpft sind, die DKIM-signiert wird.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. Sobald sie bestätigen, dass sie den Eintrag erstellt haben, kehren sie zu Marketo zurück, wählen Ihre Domain aus und klicken auf **[!UICONTROL DNS überprüfen]**.
+1. Nachdem der Benutzer bestätigt hat, dass er den Eintrag erstellt hat, kehren Sie zu Marketo zurück, wählen Sie Ihre Domain aus und klicken Sie auf **[!UICONTROL DNS überprüfen]**.
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 
@@ -85,6 +85,6 @@ Sie können die DKIM-Signatur personalisieren, um die Domain(s) Ihrer Wahl wider
 
    >[!CAUTION]
    >
-   >Das Ändern/Entfernen des entsprechenden DNS-Eintrags beeinträchtigt die Zustellbarkeit. Stellen Sie sicher, dass Sie den Eintrag in Marketo löschen, bevor Sie DNS-Änderungen vornehmen.
+   >Das Ändern/Entfernen des entsprechenden DNS-Eintrags beeinträchtigt die Zustellbarkeit. Löschen Sie den Eintrag in Marketo, bevor Sie DNS-Änderungen vornehmen.
 
-   Dies wird absolut bei der Zustellbarkeit Ihrer E-Mails helfen. Sie sollten überprüfen lassen, ob der Datensatz vorhanden und korrekt ist.
+   Dies verbessert die Zustellbarkeit Ihrer E-Mails. Sie sollten überprüfen lassen, ob der Datensatz vorhanden und korrekt ist.

@@ -1,17 +1,17 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITEL
+title: Anwenden von Designs auf Ihren E-Mail-Inhalt
 description: Erfahren Sie, wie Sie Markendesigns auf E-Mails anwenden, um ein konsistentes Design zu gewährleisten. Verwenden Sie wiederverwendbare Designs und Module in der E-Mail-Designer.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 74%
+source-wordcount: '746'
+ht-degree: 73%
 
 ---
 
@@ -128,9 +128,9 @@ Gehen Sie wie folgt vor, um standardmäßige oder benutzerdefinierte Stil-Design
 
      >[!CAUTION]
      >
-     >Wenn Sie den Modus _Manuelle Formatierung_ wählen, können Sie keine Designs anwenden, es sei denn, Sie setzen Ihre E-Mail zurück.
+     >* Wenn Sie den Modus _Manuelle Formatierung_ wählen, können Sie keine Designs anwenden, es sei denn, Sie setzen Ihre E-Mail zurück.
      >
-     >Um ein [Fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) im Modus _Verwenden von Designs_ zu verwenden, muss dieses Fragment selbst im Modus _Verwenden von Designs_ erstellt worden sein.
+     >* Um ein [Fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) im Modus _Verwenden von Designs_ zu verwenden, muss dieses Fragment selbst im Modus _Verwenden von Designs_ erstellt worden sein.
 
 1. Klicken Sie im E-Mail-Designer in der rechten Leiste auf die Schaltfläche **[!UICONTROL Designs]**. Es wird das Standard-Design oder das Design der Vorlage angezeigt. Sie können zwischen den beiden Farbvarianten für dieses Design wechseln.
 

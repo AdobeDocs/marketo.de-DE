@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 207
+source-wordcount: 205
 ht-degree: 9%
 
 ---
 
 # Planen von Interaktionsprogrammen mit der Zeitzone der Empfängerin bzw. des Empfängers {#schedule-engagement-programs-with-recipient-time-zone}
 
-Wenn Sie einen Interaktionsprogramm-Stream planen und die Zeitzone des Empfängers aktiv ist, beginnt die Programmumwandlung um Mitternacht in der ersten Zeitzone (UTC +14) :00. Wir verlangen, dass Sie die erste Besetzung **mindestens 25 Stunden** in der Zukunft planen, da es möglicherweise Personen gibt, die sich für die Besetzung in jeder Zeitzone auf der ganzen Welt qualifizieren. Der Beginn der Verarbeitung zu diesem Zeitpunkt in der ersten Zeitzone garantiert, dass wir die E-Mail zum geplanten Datum und zur geplanten Uhrzeit für jede Empfängerin und jeden Empfänger versenden.
+Wenn Sie einen Interaktionsprogramm-Stream planen und die Zeitzone des Empfängers aktiv ist, beginnt die Programmumwandlung um Mitternacht in der ersten Zeitzone (UTC +14) :00. Die erste Besetzung muss **geplant werden (mindestens 25**), da es möglicherweise Personen gibt, die sich für die Besetzung in jeder Zeitzone auf der ganzen Welt qualifizieren. Durch den Beginn der Verarbeitung zu diesem Zeitpunkt in der ersten Zeitzone wird sichergestellt, dass die E-Mail zum geplanten Zeitpunkt für jeden Empfänger zugestellt wird.
 
 1. Navigieren Sie in Ihrem Interaktionsprogramm zur Registerkarte **[!UICONTROL Streams]** und klicken Sie auf den Kadenzzeitplan eines Streams, um ihn zu bearbeiten.
 

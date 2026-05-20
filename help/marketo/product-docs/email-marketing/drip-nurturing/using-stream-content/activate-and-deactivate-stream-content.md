@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: 124
 ht-degree: 11%
 
 ---
@@ -34,15 +34,13 @@ Stream-Inhalte sind standardmäßig deaktiviert. Aktivieren Sie Inhalte, um sie 
 
    >[!NOTE]
    >
-   >E-Mails müssen genehmigt werden, damit sie aktiviert werden können.
+   >E-Mails müssen zur Aktivierung genehmigt werden.
 
    ![](assets/image2014-9-15-16-3a33-3a42.png)
 
    >[!TIP]
    >
    >Sie können auch alle Inhalte in einem Stream aktivieren, indem Sie auf das Zahnradsymbol auf der obersten Ebene und dann auf &quot;**[!UICONTROL Inhalt aktivieren“]**.
-
-   Gut gemacht! Jetzt wissen Sie, wie Sie Inhalte in Ihren Streams aktivieren können.
 
 ## Stream-Inhalt deaktivieren {#deactivate-stream-content}
 

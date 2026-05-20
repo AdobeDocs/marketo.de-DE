@@ -7,9 +7,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '902'
 ht-degree: 84%
 
 ---
@@ -167,7 +167,7 @@ So personalisieren Sie Ihren **[!UICONTROL Schreibstil]**:
 
 1. Wählen Sie bei Bedarf eine Richtlinie oder einen Ausschluss zum Aktualisieren oder Löschen aus.
 
-1. Klicken Sie auf „Bearbeiten“, um Ihr Beispiel zu bearbeiten, oder auf das Symbol „Löschen“, um es zu löschen.
+1. Klicken Sie auf **[!UICONTROL Bearbeiten]**-Symbol, um Ihren Eintrag zu bearbeiten, oder auf das **[!UICONTROL Löschen]**-Symbol, um ihn zu löschen.
 
    SCREENSHOT
 

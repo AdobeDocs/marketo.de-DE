@@ -7,9 +7,9 @@ feature: Deliverability
 TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 346
+source-wordcount: 339
 ht-degree: 2%
 
 ---
@@ -58,6 +58,6 @@ Eine Seed-Liste ist eine Liste von E-Mail-Konten bei mehreren Postfachanbietern,
 
 ## Erfassen neuer Testadressenlisten {#acquiring-new-seedlists}
 
-Ihre Testadressenliste kann sich so oft wie jeden Monat ändern. Es ist wichtig, sich regelmäßig beim E-Mail Zustellbarkeits-Power Pack anzumelden und den Status Ihrer Testadressenliste zu überprüfen. Wenn neue Adressen hinzugefügt werden oder ein Update erforderlich ist, werden Sie über das Benachrichtigungssymbol unten links im Programm benachrichtigt.
+Ihre Testadressenliste kann sich so oft wie jeden Monat ändern. Es ist wichtig, sich regelmäßig beim E-Mail-Zustellbarkeits-Power Pack anzumelden und den Status Ihrer Testadressenliste zu überprüfen. Wenn neue Adressen hinzugefügt werden oder ein Update erforderlich ist, werden Sie über das Benachrichtigungssymbol unten links im Programm benachrichtigt.
 
 Nachdem Sie Ihre statische Liste in Marketo erstellt haben, können Sie damit beginnen, sie zu senden, um die Platzierung Ihrer E-Mail im Posteingang zu testen.

@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 304
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Dauerhafte Abmeldung {#durable-unsubscribe}
 
-Marketo hat das Verhalten der Abmeldefunktion verbessert, sodass sie „dauerhaft“ ist. Wir haben einen Master-E-Mail-Status hinzugefügt, der getrennt von der Abmelde-Markierung ist, die im Personendetaildatensatz sichtbar ist.
+Marketo hat das Verhalten der Abmeldefunktion verbessert, sodass sie „dauerhaft“ ist. Es wurde ein E-Mail-Master-Status hinzugefügt, der getrennt von der Abmelde-Markierung ist, die im Personendetaildatensatz sichtbar ist.
 
 Wenn für das Abmelde-Flag „false“ die Einstellung „true“ festgelegt ist, wird der Master-E-Mail-Status aktualisiert und die Änderung wird an andere Personen mit derselben E-Mail-Adresse weitergegeben. Wenn eine Person entfernt und neu erstellt wird oder wenn ein neuer Datensatz mit derselben E-Mail-Adresse erstellt wird, wird das Abmelde-Flag **nicht** überschrieben.
 
@@ -38,13 +38,13 @@ Deaktivieren Sie in Marketo das Feld Abgemeldet auf der Registerkarte Info des D
 
 ![Löschen des Abmeldefelds in einem Personendatensatz](assets/durable-unsubscribe-2.png)
 
-Führen Sie einen _Datenwert ändern_-Flussschritt wie unten gezeigt auf einem oder mehreren Personen aus.
+Führen Sie einen **[!UICONTROL Datenwert ändern]**-Flussschritt wie unten gezeigt auf einem oder mehreren Personen aus.
 
 ![Schritt „Datenwert-Fluss ändern“](assets/durable-unsubscribe-3.png)
 
 ## Erstellen einer neuen Person {#creating-a-new-person}
 
-Wenn eine neue Person erstellt wird, vergleicht Marketo sie mit der übergeordneten E-Mail-Statustabelle. Wenn die Person sich zuvor abgemeldet hat, aktualisieren wir den Eintrag, der abgemeldet werden soll.
+Wenn eine neue Person erstellt wird, vergleicht Marketo sie mit der übergeordneten E-Mail-Statustabelle. Wenn die Person sich zuvor abgemeldet hat, wird der Datensatz auf „Abgemeldet“ aktualisiert.
 
 ## E-Mail-Adresse ändern {#changing-an-email-address}
 
@@ -52,7 +52,7 @@ Wenn Sie die E-Mail-Adresse einer Person in eine abgemeldete E-Mail-Adresse änd
 
 ## Erneute Anmeldung {#re-subscribing}
 
-Genau wie eine Abmeldung dazu führen würde, dass alle Personen mit derselben E-Mail-Adresse ihr Abonnement kündigen, würde eine Rückabmeldung tatsächlich jede Person mit derselben E-Mail-Adresse erneut abonnieren.
+Genau wie eine Abmeldung dazu führen würde, dass alle Personen mit derselben E-Mail-Adresse das Abonnement kündigen, wird eine Abmeldung auch jede Person mit derselben E-Mail-Adresse erneut abonnieren.
 
 >[!MORELIKETHIS]
 >

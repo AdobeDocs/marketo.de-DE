@@ -24,20 +24,16 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1819
-ht-degree: 6%
+source-wordcount: 1746
+ht-degree: 4%
 
 ---
 
 # Erstellung von E-Mails {#email-authoring}
 
-Erfahren Sie, wie Sie E-Mails in der neuen Marketo Engage E-Mail-Designer erstellen, personalisieren und in der Vorschau anzeigen.
-
->[!PREREQUISITES]
->
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Wenn dies noch nicht geschehen ist und Sie eine Beschleunigung dieses Prozesses wünschen, wenden Sie sich bitte an das Adobe-Accountteam (Ihre Kundenbetreuung) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
+Erfahren Sie, wie Sie E-Mails in der E-Mail-Designer erstellen, personalisieren und in der Vorschau anzeigen.
 
 ## Erstellen einer E-Mail {#create-an-email}
 
@@ -73,7 +69,7 @@ E-Mails aus Email Designer können derzeit nur im Design Studio erstellt und in 
 
    ![](assets/create-an-email-5.png)
 
-1. Sie haben zwei Möglichkeiten, eine neue E-Mail zu erstellen. Klicken Sie mit der rechten Maustaste auf den Namen Ihres E-Mail-Programms und wählen Sie **Neues lokales Asset**, oder klicken Sie auf die Schaltfläche **+Neue E-Mail** im Feld E-Mail im Dashboard. In diesem Beispiel werden wir ersteres tun.
+1. Sie haben zwei Möglichkeiten, eine neue E-Mail zu erstellen. Klicken Sie mit der rechten Maustaste auf den Namen Ihres E-Mail-Programms und wählen Sie **Neues lokales Asset**, oder klicken Sie auf die Schaltfläche **+Neue E-Mail** im Feld E-Mail im Dashboard. In diesem Beispiel wird die erste Option verwendet.
 
    ![](assets/create-an-email-6.png)
 

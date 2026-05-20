@@ -10,9 +10,9 @@ product_v2:
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 177
+source-wordcount: 175
 ht-degree: 6%
 
 ---
@@ -43,7 +43,7 @@ Nachdem Sie alle Ihre Inhalte zu einem Stream hinzugefügt haben, können Sie si
 
    >[!TIP]
    >
-   >Wenn der gesuchte Test nicht vorhanden ist, verwenden Sie die Option **[!UICONTROL Person erstellen]**, um direkt einen zu erstellen.
+   >Wenn der gesuchte Test nicht vorhanden ist, verwenden Sie die Option **[!UICONTROL Person erstellen]**, um im laufenden Betrieb einen zu erstellen.
 
    Klicken Sie auf **[!UICONTROL Anfänglicher Stream]**, wählen Sie den zu testenden Stream aus und klicken Sie auf **[!UICONTROL Umwandlung ausführen]**.
    ![](assets/five-rubiks.png)
@@ -55,8 +55,6 @@ Nachdem Sie alle Ihre Inhalte zu einem Stream hinzugefügt haben, können Sie si
 1. Der neue Stream wird angezeigt und zeigt einen erfolgreichen Test an.
 
    ![](assets/seven-rubiks.png)
-
-   Gute Arbeit!
 
    >[!NOTE]
    >

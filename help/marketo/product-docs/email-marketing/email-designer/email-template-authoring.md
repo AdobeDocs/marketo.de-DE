@@ -20,10 +20,10 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1891
-ht-degree: 7%
+source-wordcount: 1806
+ht-degree: 5%
 
 ---
 
@@ -31,13 +31,9 @@ ht-degree: 7%
 
 Für einen beschleunigten und verbesserten Design-Prozess können Sie eigenständige E-Mail-Vorlagen erstellen, um benutzerdefinierte Inhalte einfach wiederzuverwenden.
 
->[!PREREQUISITES]
->
->Um auf den neuen E-Mail-Designer zugreifen zu können, muss Ihr Marketo Engage-Abonnement auf das [Adobe Identity Management System (IMS) migriert &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Wenn dies noch nicht geschehen ist und Sie eine Beschleunigung dieses Prozesses wünschen, wenden Sie sich bitte an das Adobe-Accountteam (Ihre Kundenbetreuung) oder an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de).
-
 >[!NOTE]
 >
->E-Mail-Vorlagen im neuen E-Mail-Designer können nur zum Erstellen von E-Mails im neuen E-Mail-Designer verwendet werden. Sie können im alten E-Mail-Editor nicht referenziert werden.
+>E-Mail-Vorlagen in der E-Mail-Designer können nur zum Erstellen von E-Mails in der E-Mail-Designer verwendet werden. Sie können im klassischen E-Mail-Editor nicht referenziert werden.
 
 ## E-Mail-Vorlage erstellen {#create-an-email-template}
 
@@ -185,7 +181,7 @@ Fügen Sie Bilder hinzu, die im Abschnitt [Bilder und Dateien](/help/marketo/pro
 
 >[!NOTE]
 >
->Bilder können nur im neuen Designer hinzugefügt werden, andere Dateitypen sind derzeit nicht möglich.
+>Es können derzeit nur Bilder in der E-Mail-Designer hinzugefügt werden, keine anderen Dateitypen.
 
 1. Um auf Ihre Bilder zuzugreifen, klicken Sie auf das Symbol Asset-Wähler .
 
@@ -236,7 +232,7 @@ Im folgenden Beispiel werden Schritte zum Anpassen des Abstands und der vertikal
 
 ### Personalisieren von Inhalten {#personalize-content}
 
-Token funktionieren im neuen Editor genauso wie im alten, aber das Symbol sieht anders aus. Im folgenden Beispiel wird das Hinzufügen eines Vornamen-Tokens mit Fallback-Text beschrieben.
+Token funktionieren in der E-Mail-Designer auf die gleiche Weise wie im klassischen Editor, aber das Symbol sieht anders aus. Im folgenden Beispiel wird das Hinzufügen eines Vornamen-Tokens mit Fallback-Text beschrieben.
 
 1. Wählen Sie die Textkomponente aus. Platzieren Sie den Cursor an der gewünschten Stelle, und klicken Sie auf das Symbol **Personalisierung hinzufügen**.
 
@@ -252,7 +248,7 @@ Token funktionieren im neuen Editor genauso wie im alten, aber das Symbol sieht 
 
    >[!NOTE]
    >
-   >„Fallback-Text“ ist der neue Editor-Begriff für den Standardwert. Beispiel: ``{{lead.First Name:default=Friend}}``. Dies wird empfohlen, wenn in dem von Ihnen ausgewählten Feld kein Wert für die Person vorhanden ist.
+   >„Fallback-Text“ ist der E-Mail-Designer-Begriff für den Standardwert. Beispiel: ``{{lead.First Name:default=Friend}}``. Dies wird empfohlen, wenn in dem von Ihnen ausgewählten Feld kein Wert für die Person vorhanden ist.
 
 1. Legen Sie Ihren Fallback-Text fest und klicken Sie auf **Hinzufügen**.
 
@@ -384,4 +380,4 @@ Wählen Sie auf der _E_ Mail-Vorlagen“-Listenseite mehrere Vorlagen aus, indem
 
 >[!MORELIKETHIS]
 >
->[E-Mail-Authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Erfahren Sie, wie Sie eine E-Mail im neuen Designer erstellen, gestalten und referenzieren.
+>[E-Mail-Authoring](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}

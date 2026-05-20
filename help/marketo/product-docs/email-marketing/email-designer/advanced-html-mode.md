@@ -6,9 +6,9 @@ description: Erfahren Sie, wie Sie den rohen HTML-Quell-Code in der Marketo Enga
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
-source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Gehen Sie wie folgt vor, um den erweiterten HTML-Editor zu öffnen und Ihre Vorl
 
    >[!WARNING]
    >
-   >Achten Sie darauf, den richtigen HTML- und CSS-Code einzugeben, da es keinen Syntaxvalidierungsprozess gibt und der Adobe-Support HTML-Bearbeitungen nicht unterstützen kann.
+   >Stellen Sie sicher, dass Sie den richtigen HTML- und CSS-Code eingeben, da es keinen Syntaxvalidierungsprozess gibt und der Adobe-Support bei HTML-Bearbeitungen nicht behilflich sein kann.
 
 1. Inhaltssimulation und -speicherung sind in der erweiterten HTML-Ansicht aus Kompatibilitätsgründen nicht verfügbar. Wechseln Sie zurück zur Desktop-Ansicht, um eine Vorschau Ihres Inhalts anzuzeigen und Ihre Änderungen zu speichern.
 

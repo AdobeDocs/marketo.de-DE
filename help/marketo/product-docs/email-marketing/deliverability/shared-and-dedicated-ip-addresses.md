@@ -11,9 +11,9 @@ feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 450
+source-wordcount: 445
 ht-degree: 3%
 
 ---
@@ -54,18 +54,18 @@ _Nachteile_
 
 _Vorteile_
 
-**Gute Mitbewohner** - Wenn die Leute, mit denen Sie Ihre IP teilen, Best Practices beim Versand befolgen, würden Sie davon profitieren.
+**Gute Mitbewohner** - Wenn die Absender, die Ihre IP teilen, Best Practices für den Versand befolgen, würden Sie profitieren.
 **Mailing-Häufigkeit** - Im Gegensatz zu dedizierten IPs ist keine Mindest-Mailing-Häufigkeit erforderlich, um sich für eine freigegebene IP zu qualifizieren.
 **Kosten** - Für den Versand von einer freigegebenen IP-Adresse fallen keine zusätzlichen Kosten an.
 
 _Nachteile_
 
-**Schlechte Mitbewohner** - Wenn die Personen, mit denen Sie Ihre IP teilen, schlechte Versandpraktiken anwenden, können Ihre E-Mail-Kampagnen beeinträchtigt sein.
+**Schlechte Mitbewohner** - Wenn die Absender, die Ihre IP teilen, schlechte Versandpraktiken anwenden, können Ihre E-Mail-Kampagnen beeinträchtigt werden.
 **Kontrolle** - Sie haben viel weniger Kontrolle über Ihre Absender-Reputation.
 **Problembehebung** - Es kann häufig schwieriger sein, ein Problem beim Senden von über freigegebene IPs zu beheben.
 
 >[!NOTE]
 >
->Bei einer Entscheidung muss ein weiterer wichtiger Faktor berücksichtigt werden: das Versandvolumen. Wenn Sie weniger als 100.000 E-Mails pro Monat oder weniger als zwei Mailings pro Monat versenden möchten, profitieren Sie wahrscheinlich nicht von einer dedizierten IP-Adresse. Solche Zahlen werden als niedrig eingestuft, und es wäre schwierig, Ihre dedizierte IP so „warm“ zu halten, dass sie von den wichtigsten ISPs als sicher angesehen wird. Wenn Sie nicht häufig genug E-Mails senden, sehen die ISPs im Grunde einen E-Mail-Versand als einen plötzlichen Aktivitätsschub und blockieren ihn möglicherweise als verdächtigen Spam.
+>Bei einer Entscheidung ist ein weiterer wichtiger Faktor zu berücksichtigen: das Versandvolumen. Wenn Sie weniger als 100.000 E-Mails pro Monat oder weniger als zwei Mailings pro Monat versenden möchten, profitieren Sie wahrscheinlich nicht von einer dedizierten IP-Adresse. Solche Zahlen werden als niedrig eingestuft, und es wäre schwierig, Ihre dedizierte IP so „warm“ zu halten, dass sie von den wichtigsten ISPs als sicher angesehen wird. Wenn Sie nicht häufig genug E-Mails senden, sehen die ISPs einen E-Mail-Versand als einen plötzlichen Aktivitätsschub und blockieren ihn möglicherweise als verdächtigen Spam.
 
-Wenden Sie sich bei Fragen oder Interesse an der Einrichtung einer dedizierten IP-Adresse an Ihren Marketo-Vertriebsmitarbeiter.
+Wenden Sie sich bei Fragen oder Interesse an der Einrichtung einer dedizierten IP-Adresse an Ihren Marketo-Kundenbetreuer.

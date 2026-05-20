@@ -17,9 +17,9 @@ subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 477
+source-wordcount: 479
 ht-degree: 4%
 
 ---
@@ -42,7 +42,7 @@ Bei Verwendung eines verschachtelten Programms basiert die Entscheidung, eine E-
 
 * Wenn Sie kein Programmteilnehmer sind, erhalten Sie alle E-Mails, die Teil des Programms sind, einmal
 * Wenn Sie Programmteilnehmer sind, erhalten Sie die E-Mail nicht
-* Wenn Sie kein Mitglied mehr sind, aber die E-Mail früher über dieses Programm erhalten haben, erhalten Sie die E-Mail nicht mehr
+* Wenn Sie kein Mitglied mehr sind, aber die E-Mail früher über dieses Programm erhalten haben, erhalten Sie die E-Mail nicht
 
 Wenn Sie ein Programm in einem Stream verwenden, spielt es keine Rolle, ob Sie diese spezifische E-Mail bereits erhalten haben. Solange die E-Mail nicht vor (in *bestimmten Programm) gesendet wurde* können Sie sie erneut erhalten.
 
@@ -50,9 +50,9 @@ Es kann schwierig sein, E-Mails und Programme in einem Interaktionsprogramm zu m
 
 >[!TIP]
 >
->Denken Sie daran, in Ihrer Smart-Liste einen Filter **[!UICONTROL Programm]** Mitglied der Interaktion“ zu verwenden.
+>Verwenden Sie **[!UICONTROL Filter „Mitglied des]**&quot; in Ihrer Smart-Liste.
 
-## Was passiert mit Leuten, die die Kriterien der Smart List nicht erfüllen? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
+## Was passiert mit Personen, die die Kriterien der Smart List nicht erfüllen? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
 Für den Fall, dass jemand aus der Smart-Liste der Smart-Kampagne eines verschachtelten Programms herausgefiltert wird, geht er während der aktuellen Besetzung nicht zum nächsten Inhaltselement über. Sie gehen zum nächsten Inhaltselement im Stream für die *folgende* Besetzung über.
 

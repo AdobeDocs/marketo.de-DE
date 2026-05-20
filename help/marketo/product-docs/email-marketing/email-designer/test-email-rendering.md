@@ -16,9 +16,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 395
+source-wordcount: 394
 ht-degree: 5%
 
 ---
@@ -71,7 +71,7 @@ Die folgenden Schritte gelten für Benutzer des [Litmus Enterprise Plan](https:/
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**OPTIONALER SCHRITT**: Wenn Sie Änderungen an Ihrer E-Mail vornehmen möchten, klicken Sie nach dem Klicken auf **E-Mail rendern**, um sie anzuzeigen, stellen Sie sicher, dass Sie auch auf die Schaltfläche **Erneut testen** oben rechts im Bildschirm Litmus _E-Mail-Vorschau_ klicken.
+**OPTIONALER SCHRITT**: Wenn Sie Änderungen an Ihrer E-Mail vornehmen möchten, klicken Sie nach dem Klicken auf **E-Mail rendern**, um sie anzuzeigen, denken Sie daran, auch auf die Schaltfläche **Erneut testen** oben rechts im Bildschirm Litmus _E-Mail-Vorschau_ zu klicken.
 
 ![](assets/test-email-rendering-with-litmus-7.png)
 

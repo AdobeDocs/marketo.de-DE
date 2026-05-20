@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 188
+source-wordcount: 157
 ht-degree: 8%
 
 ---
 
 # Hinzufügen von Inhalten zu einem Stream {#add-content-to-a-stream}
 
-Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalte zu den Streams hinzufügen. Sie können E-Mails oder Programme zu einem Stream hinzufügen.
+Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie dem Stream Inhalte hinzufügen. Sie können E-Mails oder Programme zu einem Stream hinzufügen.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -53,8 +53,6 @@ Nachdem Sie Ihr Interaktionsprogramm erstellt haben, müssen Sie Inhalte zu den 
    >[!NOTE]
    >
    >Eine intelligente Kampagne muss den Filter **[!UICONTROL Mitglied des Interaktionsprogramms]** enthalten, damit sie ordnungsgemäß funktioniert.
-
-Gut gemacht! Sie wissen jetzt, wie Sie Ihren Programm-Streams Inhalte hinzufügen. Fügen Sie so viel hinzu, wie Sie für Ihre Pflege benötigen. Weitere Informationen finden Sie im entsprechenden Artikel weiter unten.
 
 >[!MORELIKETHIS]
 >

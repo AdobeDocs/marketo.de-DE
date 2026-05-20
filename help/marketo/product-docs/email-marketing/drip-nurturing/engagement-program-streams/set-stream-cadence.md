@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 381
+source-wordcount: 375
 ht-degree: 3%
 
 ---
@@ -46,11 +46,11 @@ Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beis
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. Wählen Sie jetzt aus, ob die Kadenz jede Woche oder in größeren Abständen erfolgen soll. Wählen wir alle 2 Wochen.
+1. Wählen Sie jetzt aus, ob die Kadenz jede Woche oder in größeren Abständen erfolgen soll. Alle 2 Wochen auswählen.
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. Entscheide, an welchen Wochentagen. In diesem Fall machen wir Dienstag, Mittwoch und Donnerstag.
+1. Entscheide, an welchen Wochentagen. Wählen Sie in diesem Fall Dienstag, Mittwoch und Donnerstag aus.
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
@@ -66,13 +66,13 @@ Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beis
    >
    >Der Inhalt wird an dem Datum ausgegeben, das Sie für die erste Besetzung ausgewählt haben. Stellen Sie daher sicher, dass er mit dem Wochentag übereinstimmt, den Sie auswählen. Andernfalls wird der Inhalt in der ersten Woche zweimal angezeigt.
 
-1. Bewegen Sie den Mauszeiger über die Kadenz. Du wirst sehen, an welchen Tagen zukünftige Castings ausgehen werden.
+1. Bewegen Sie den Mauszeiger über die Kadenz. Die Tage der zukünftigen Besetzungen werden erscheinen.
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >In diesem Beispiel wird am Donnerstag eine E-Mail gesendet. Wir überspringen dann eine Woche und senden am Dienstag, Mittwoch und Donnerstag der folgenden Woche erneut. Und dann wiederholen wir den Vorgang.
+   >In diesem Beispiel wird am Donnerstag eine E-Mail gesendet. Die folgende Woche wird übersprungen und die E-Mail wird am Dienstag, Mittwoch und Donnerstag der Woche danach erneut gesendet. Der Zyklus wiederholt sich dann.
 
 ## Monatlich {#monthly}
 
@@ -84,7 +84,7 @@ Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beis
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. Wählen Sie aus, ob sie jeden Monat oder in größeren Abständen angezeigt werden soll… Lasst uns alle vier Monate auswählen.
+1. Wählen Sie aus, ob sie jeden Monat oder in größeren Abständen erfolgen soll. Jeden vierten Monat auswählen.
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
@@ -100,7 +100,7 @@ Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beis
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. Bewegen Sie den Mauszeiger über die Kadenz. Du wirst sehen, an welchen Tagen zukünftige Castings ausgehen werden.
+1. Bewegen Sie den Mauszeiger über die Kadenz. Die Tage der zukünftigen Besetzungen werden erscheinen.
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
@@ -108,7 +108,7 @@ Sie können Interaktionsinhalte in jedem gewünschten Intervall senden. Zum Beis
    >
    >Wenn Sie sich entscheiden, Ihre Interaktions-Stream-Kadenz später zu ändern, stellen Sie sicher, dass die erste Besetzung auf ein Datum in der Zukunft festgelegt ist.
 
-Jetzt wissen Sie, wie Sie eine Stream-Kadenz einrichten!
+Jetzt wissen Sie, wie Sie eine Stream-Kadenz einrichten.
 
 >[!MORELIKETHIS]
 >

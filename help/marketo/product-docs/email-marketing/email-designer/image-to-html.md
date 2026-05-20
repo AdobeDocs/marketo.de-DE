@@ -25,9 +25,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1342
+source-wordcount: 1341
 ht-degree: 40%
 
 ---
@@ -65,7 +65,7 @@ Gehen Sie wie folgt vor, um ein Bild in eine vollständig anpassbare HTML-E-Mail
 
    ![](assets/image-to-html-3.png)
 
-1. Scrollen Sie nach unten und aktivieren Sie _Kontrollkästchen Die Upload-Datei enthält nicht…_. Klicken Sie **Konvertieren**.
+1. Scrollen Sie nach unten und aktivieren Sie _Kontrollkästchen Hochgeladene Datei enthält nicht…_ . Klicken Sie **Konvertieren**.
 
    ![](assets/image-to-html-4.png)
 

@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 125
 ht-degree: 8%
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # Entfernen von Stream-Inhalten {#remove-stream-content}
 
-Sie können ein Inhaltselement entweder entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream[Inhalten behält &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)Archivierung) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn Sie nichts dagegen haben, den historischen Status einiger Inhalte zu verlieren und ihn entfernen möchten, hier ist, wie man es macht.
+Sie können ein Inhaltselement entweder entfernen oder archivieren. Im Gegensatz zum Entfernen von Stream[Inhalten behält &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)Archivierung) den gesamten mit dem Inhalt verknüpften Verlauf bei. Wenn Sie nichts dagegen haben, den historischen Status einiger Inhalte zu verlieren und ihn entfernen möchten, finden Sie hier eine Anleitung.
 
 1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -34,6 +34,6 @@ Sie können ein Inhaltselement entweder entfernen oder archivieren. Im Gegensatz
 
    >[!CAUTION]
    >
-   >Entfernen Sie Inhalte nur, wenn Sie sich nicht um den Verlauf kümmern. Wenn Sie die Geschichte erhalten möchten, [&#x200B; Sie sie &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
+   >Entfernen Sie Inhalte nur, wenn Ihnen der Verlauf egal ist. Wenn Sie die Geschichte erhalten möchten, [&#x200B; Sie sie &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
 
    Jetzt wissen Sie, wie Sie ein Inhaltselement entfernen können.
