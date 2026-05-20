@@ -5,18 +5,15 @@ title: Hinzufügen eines Formulars zu einer geführten Landingpage
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 187
-ht-degree: 12%
+source-wordcount: 174
+ht-degree: 13%
 
 ---
 
 # Hinzufügen eines Formulars zu einer geführten Landingpage {#add-a-form-to-a-guided-landing-page}
-
-Formular, Landingpage treffen. Landingpage, Formular treffen.
 
 >[!PREREQUISITES]
 >
@@ -52,12 +49,10 @@ Formular, Landingpage treffen. Landingpage, Formular treffen.
    >
    >Die Folgeseite ist die Seite, die die Personen sehen, nachdem sie das Formular gesendet haben.
 
-1. In diesem Beispiel verwenden wir [!UICONTROL Formular definiert]. Klicken Sie auf **[!UICONTROL Einfügen]**.
+1. Wählen Sie in diesem Beispiel [!UICONTROL Formular definiert] aus. Klicken Sie auf **[!UICONTROL Einfügen]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   Gut gemacht!
-
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Schließen Sie nun einfach den Landingpage-Editor und [&#x200B; Sie den Landingpage-Entwurf &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Schließen Sie den Landingpage-Editor und [ Sie den Landingpage-Entwurf ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

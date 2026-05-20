@@ -5,13 +5,11 @@ title: Erstellen einer Vorlage für geführte Landingpages
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 1127
+source-wordcount: 1132
 ht-degree: 21%
 
 ---
@@ -22,7 +20,7 @@ Geführte Landingpage-Vorlagen haben eine spezielle Syntax. Verwenden Sie diese 
 
 >[!TIP]
 >
->Wenn Sie gute Benennungskonventionen verwenden, wird sich Ihr Marketing-Team in Sie verlieben.
+>Die Verwendung klarer Benennungskonventionen erleichtert Ihrem Marketing-Team die Arbeit mit der Vorlage.
 
 Es gibt zwei Möglichkeiten, zu deklarieren, dass etwas auf Ihrer Seite bearbeitbar sein sollte:
 
@@ -38,16 +36,16 @@ Es gibt zwei Möglichkeiten, zu deklarieren, dass etwas auf Ihrer Seite bearbeit
 Wenn Sie einen Bereich als Rich Text definieren, können Benutzende seinen Inhalt [mit dem Rich-Text-Editor von Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md) bearbeiten.
 
 Erforderliche Attribute:
+
 **class**: &quot;mktoText&quot;.
 **id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
+
 Der Inhalt eines Elements mit der Klasse „motoText“ (falls angegeben) wird als Standardwert für den bearbeitbaren Bereich verwendet.
 
-Beispiel:
-
-`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div>`
+Beispiel: `<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div>`
 
 ## Bild {#image}
 
@@ -64,58 +62,55 @@ motoName : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor ang
 Optional:
 mktoImgClass: Zeichenfolge. Der Wert hier wird zum Klassenattribut des `<img>`-Elements im „div“ hinzugefügt.
 
-Beispiel:
-
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
+Beispiel: `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
 ## Option 2: Verwenden eines `<img>` {#option-use-a-img}
 
 Erforderliche Attribute:
+
 class: „mktoImg“
 id: ID-String. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 motoName : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
+
 src: String-URL. Dies wird als Standardwert für das Bild verwendet.
 
-Beispiel:
-
-`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
+Beispiel: `<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 >[!NOTE]
 >
->Bei Verwendung der `<img>`-Version enthält die gerenderte HTML einen generierten div-Wrapper um das `<img>`-Tag. Er wird auf class .„mktoImg.mktoGen“ gesetzt und angezeigt:inline-block.
+>Bei Verwendung der `<img>`-Version enthält die gerenderte HTML einen generierten div-Wrapper um das `<img>`-Tag. Sie wird auf die Klasse „mktoImg mktoGen“ eingestellt und angezeigt:inline-block.
 
 ## Formular {#form}
 
-Beispiel:Required Attribute:
+Erforderliche Attribute:
+
 **class**: „mktoForm“
 **id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
-**mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
+**mktoName:** Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
-`<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
+Beispiel: `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## Ausschnitt {#snippet}
 
 Erforderliche Attribute:
+
 **class**: „mktoSnippet“
 **id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
-Beispiel:
-
-`<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
+Beispiel: `<div class="mktoSnippet" id="exampleSnippet" mktoName="Example Snippet"></div>`
 
 ## Schaltfläche Freigeben {#share-button}
 
 Erforderliche Attribute:
+
 **class**: „mktoShareButton“
 **id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
-Beispiel:
-
-`<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
+Beispiel: `<div class="mktoShareButton" id="exampleShareButton" mktoName="Example Share Button"></div>`
 
 ## Video {#video}
 
@@ -124,21 +119,18 @@ Beispiel:
 >Wenn Sie das Videoelement in einer Landingpage verwenden, unterstützt Marketo nur Videos aus YouTube. Wenn Sie einen anderen Service verwenden, empfehlen wir die Verwendung eines Rich-Text-Felds und das Einfügen in den Einbettungs-Code des Videos.
 
 Erforderliche Attribute:
+
 **class**: „mktoVideo“
 **id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
-Beispiel:
-
-`<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
+Beispiel: `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
 
 ## Bearbeitbare Variablen {#editable-variables}
 
 Alle Variablentypen werden verwendet, indem auf den Wert ihres ID-Attributs verwiesen wird, das in eine ${ }-Zeichensequenz eingeschlossen ist. Sie können überall im Dokument verwendet werden, mit Ausnahme von innerhalb anderer Variablendeklarationen.
 
-Beispiel:
-
-`${var1}`
+Beispiel: `${var1}`
 
 **Deklaration:**
 
@@ -147,63 +139,57 @@ Variablen werden als Meta-Tags im `<head>` der Vorlage deklariert. Es gibt drei 
 ## String {#string}
 
 Erforderliche Attribute:
+
 **class** : „mktoString“,
 **id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
+
 **default**: Zeichenfolgenwert für das Attribut. Leer, wenn keine angegeben.
 **allowHTML**: „true“ oder „false“. Steuert, ob der Wert gedruckt wird, ohne dass HTML maskiert wird. Die Standardeinstellung ist „false“, wenn nicht festgelegt.
 
-Einfaches Beispiel:
+Einfaches Beispiel: `<meta class="mktoString" id="var1" mktoName="My Variable">`
 
-`<meta class="mktoString" id="var1" mktoName="My Variable">`
-
-Beispiel mit allen Attributen:
-
-`<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
+Beispiel mit allen Attributen: `<meta class="mktoString" id="var1" mktoName="My Variable" default="This is my default value" allowHtml="true">`
 
 ## Farbe {#color}
 
 Erforderliche Attribute:
+
 **class** : „mktoColor“,
 **id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
+
 **Standard**: Ein 7-stelliger HEX-Zeichenfarbcode. Beispiel: &quot;#336699“
 
-Einfaches Beispiel:
+Einfaches Beispiel: `<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
 
-`<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
-
-Beispiel mit allen Attributen:
-
-`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
+Beispiel mit allen Attributen: `<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 ## Boolesch {#boolean}
 
 Erforderliche Attribute:
+
 **class** : „mktoBoolean“,
 **id**: ID-Zeichenfolge. Enthält nur Buchstaben, Zahlen, Bindestrich „-“ und Unterstrich „_“. Leerzeichen sind nicht zulässig. Muss eindeutig sein.
 **mktoName** : Zeichenfolge. Dies ist der Anzeigename, der im Landingpage-Editor angezeigt wird. Es empfiehlt sich, einen beschreibenden Namen zu verwenden.
 
 Optional:
+
 **default**: Boolesche Zeichenfolge. „true“ oder „false“ steuert, ob der Wert in der ON- oder OFF-Position beginnt. „false“, wenn nicht angegeben.
 **false_value**: Zeichenfolge. Der Wert, der für die Variable eingefügt werden soll, wenn sie sich in der OFF-Position befindet. „false“, wenn nicht angegeben.
 **true_value**: Zeichenfolge. Der Wert, der für die Variable eingefügt werden soll, wenn sie sich an der Position „EIN“ befindet. „true“, wenn nicht angegeben.
 **false_value_name**: Zeichenfolge. Der Anzeigename, der im Landingpage-Editor angezeigt werden soll, wenn sich der Wert in der OFF-Position befindet. „OFF“, wenn nicht angegeben.
 **true_value_name**: Zeichenfolge. Der Anzeigename, der im Landingpage-Editor angezeigt werden soll, wenn der Wert auf „EIN“ steht. „EIN“, wenn nicht angegeben.
 
-Einfaches Beispiel:
+Einfaches Beispiel: `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
-`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
+Beispiel mit allen Attributen: `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="false" true_value="block" false_value="none" true_value_name="Show" false_value_name="Hide">`
 
-Beispiel mit allen Attributen:
-
-`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
-
-Dieses Beispiel zeigt einen gängigen Anwendungsfall, bei dem eine boolesche Variable die Sichtbarkeit eines CSS-Elements steuert, indem sie den Wert der CSS-Anzeigeeigenschaft entweder auf „block“ oder auf „none“ festlegt, um ein Element anhand der ID mit CSS ein-/auszublenden. Der Landingpage-Editor verwendet den Anzeigenamen Einblenden/Ausblenden anstelle von AUS/EIN.
+Das folgende Beispiel zeigt einen gängigen Anwendungsfall, bei dem eine boolesche Variable die Sichtbarkeit eines CSS-Elements steuert, indem die CSS-Anzeigeeigenschaft auf „block“ oder „none“ festgelegt wird, um ein Element anhand der ID mit CSS ein- oder auszublenden. Der Landingpage-Editor verwendet den Anzeigenamen Einblenden/Ausblenden anstelle von AUS/EIN.
 
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 

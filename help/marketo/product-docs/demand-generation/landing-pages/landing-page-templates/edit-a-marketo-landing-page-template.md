@@ -5,15 +5,12 @@ title: Bearbeiten einer Vorlage für Marketo-Landingpages
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/wC9hlqZXCOkpBfdi99jUtnbwmVSCPLKjmyx40wUH3h4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 105
-ht-degree: 12%
+source-wordcount: 102
+ht-degree: 11%
 
 ---
 
@@ -33,7 +30,7 @@ Sie können in Marketo jede Landingpage-Vorlage bearbeiten.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
-   Fertig! Jetzt können Sie das CSS der Vorlage bearbeiten und volle Kontrolle über ihr Erscheinungsbild und Layout haben.
+   Sie können jetzt das CSS der Vorlage bearbeiten und haben vollständige Kontrolle über ihr Erscheinungsbild und Layout.
 
    >[!NOTE]
    >

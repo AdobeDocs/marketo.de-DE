@@ -6,12 +6,11 @@ exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/siTy0QNBBmitEfs7pg8xxW5Kdul2GF2NYRVTzTzQZPU
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 265
-ht-degree: 7%
+source-wordcount: 240
+ht-degree: 8%
 
 ---
 
@@ -35,7 +34,7 @@ Eine soziale Schaltfläche ermutigt Personen, Ihre Inhalte mit ihren Freunden zu
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Sobald Ihre Landingpage aktiv ist, sehen Sie sich die Aktivität an, die von Ihrer _Social-Schaltfläche (mit Analytics) im Social-Media-Dashboard generiert_.
+   Sobald Ihre Landingpage aktiv ist, können Sie die von Ihrer Social-Media-Schaltfläche generierte Aktivität (mit Analytics) im Social-Media-Dashboard anzeigen.
 
    Wenn Sie stattdessen eine Schaltfläche [!UICONTROL Gefällt mir/Empfohlen (Lite] hinzufügen, finden Sie weitere Informationen unter Anzahl der Shares im [Landingpage-Leistungsbericht](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
@@ -53,10 +52,6 @@ Eine soziale Schaltfläche ermutigt Personen, Ihre Inhalte mit ihren Freunden zu
    >
    >Um Zeit zu sparen, können Sie die Option **[!UICONTROL Klonen von]** verwenden, um alle Einstellungen aus einer vorhandenen Social-Media-Schaltfläche zu kopieren.
 
-   [Veröffentlichen Sie die Landingpage auf Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _verwenden Sie die Schaltfläche Social auf Ihrer Website_
+1. Veröffentlichen Sie die Landingpage [auf Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) und fügen Sie den Social Button auf Ihrer Website ein.
 
-Herzlichen Glückwunsch! Sie haben Ihrer Landingpage eine Social-Media-Schaltfläche hinzugefügt. Stellen Sie sicher, dass Sie die Landingpage genehmigen.
-
->[!MORELIKETHIS]
->
->Sie sind fertig, können jedoch bei Bedarf die Einstellungen Ihrer Social-Media-Schaltfläche ändern. Beginnen Sie mit _Anpassen des Schaltflächenstils_ oder _Bearbeiten der_.
+Sie haben Ihrer Landingpage eine Social-Media-Schaltfläche hinzugefügt. Genehmigen Sie die Landingpage, wenn Sie bereit sind.

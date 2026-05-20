@@ -5,18 +5,17 @@ title: Hinzufügen eines Rechtecks zu einer Freiform-Landingpage
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/jKfwONyZaf3HXfYg2i1bl0ncsuXp5ALCh6HuCw-Vf5M
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: 135
 ht-degree: 13%
 
 ---
 
 # Hinzufügen eines Rechtecks zu einer Freiform-Landingpage {#adding-a-rectangle-to-a-free-form-landing-page}
 
-Rechtecke auf Landingpages eignen sich hervorragend zum Hervorheben eines Textbereichs.
+Rechtecke auf Landingpages können verwendet werden, um Inhaltsabschnitte hervorzuheben oder visuell zu trennen.
 
 1. Wählen Sie eine Freiform-Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf]**.
 
@@ -38,4 +37,4 @@ Rechtecke auf Landingpages eignen sich hervorragend zum Hervorheben eines Textbe
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-Herzlichen Glückwunsch! Jetzt können Sie auf Ihren Freiform-Landingpages Rechtecke erstellen.
+Sie können Ihren Freiform-Landingpages jetzt Rechtecke hinzufügen.

@@ -5,14 +5,10 @@ title: Liste der Vorlagen für geführte Landingpages
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 357
 ht-degree: 61%
@@ -31,10 +27,10 @@ So importieren Sie eine Vorlage in Marketo:
 
 1. Klicken Sie auf den Namen der Vorlage, um die Ansicht zu vergrößern.
 1. Herunterladen der ausgewählten Vorlage.
-1. Navigieren Sie in Marketo zu **[!UICONTROL Design Studio].**
-1. Klicken Sie **[!UICONTROL der linken]** auf „Landingpages“ und wählen Sie dann **[!UICONTROL Vorlagen].**
+1. Navigieren Sie in Marketo zu **[!UICONTROL Design Studio]**.
+1. Klicken Sie **[!UICONTROL der linken Struktur]** Landingpages“ und wählen Sie dann **[!UICONTROL Vorlagen]**.
 
-1. Klicken Sie in der Menüleiste auf **[!UICONTROL Vorlage importieren].**
+1. Klicken Sie in der Menüleiste auf **[!UICONTROL Vorlage]**.
 1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie auf **[!UICONTROL Importieren]** (stellen Sie sicher, dass Sie einen beschreibenden Namen auswählen und angeben, dass der Bearbeitungsmodus &quot;**[!UICONTROL &quot;]**.
 
 <table>

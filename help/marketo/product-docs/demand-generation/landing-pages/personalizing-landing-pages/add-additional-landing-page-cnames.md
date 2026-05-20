@@ -5,11 +5,10 @@ title: Hinzufügen zusätzlicher CNAMEs zu einer Landingpage
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 235
+source-wordcount: 232
 ht-degree: 6%
 
 ---
@@ -64,7 +63,7 @@ Sie können CNAMEs für Landingpages hinzufügen, damit verschiedene URLs auf Ih
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Geben Sie Ihren **[!UICONTROL Domain-Alias] ein.** Die **[!UICONTROL Standardseite]** wird angezeigt, wenn der Besucher keine URL eingibt. Geben Sie an, wohin sie in diesem Fall gehen sollen.
+1. Geben Sie Ihren **[!UICONTROL Domain-Alias]** ein. Die **[!UICONTROL Standardseite]** wird angezeigt, wenn der Besucher keine URL eingibt. Geben Sie an, wohin sie in diesem Fall gehen sollen.
 
    >[!NOTE]
    >
@@ -76,4 +75,4 @@ Sie können CNAMEs für Landingpages hinzufügen, damit verschiedene URLs auf Ih
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-Schön! Jetzt wissen Sie, was zu tun ist, wenn Sie jemals einen CNAME hinzufügen möchten.
+Sie wissen jetzt, wie Sie Ihren Landingpages einen CNAME hinzufügen.

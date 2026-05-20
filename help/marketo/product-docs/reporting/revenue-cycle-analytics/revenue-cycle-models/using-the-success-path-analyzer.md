@@ -1,0 +1,84 @@
+---
+unique-page-id: 3571886
+description: Erfahren Sie, wie Sie den Erfolgspfad-Analyzer in Marketo Engage mit dem Erfolgspfad-Analyzer verwenden. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
+title: Verwenden des Erfolgspfad-Analyzers
+exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+workflow-type: tm+mt
+source-wordcount: '390'
+ht-degree: 2%
+
+---
+
+# Verwenden des Erfolgspfad-Analyzers {#using-the-success-path-analyzer}
+
+Verwenden Sie einen Erfolgspfad-Analyzer, um die spezifischen Details zu untersuchen, die sowohl den Fluss (Betrag) als auch die Geschwindigkeit (Geschwindigkeit, in Tagen) der Personen in den Phasen Ihres [Umsatzzyklusmodells) ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+
+>[!PREREQUISITES]
+>
+>[Erstellen eines Erfolgspfad-Analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+
+1. Navigieren Sie zu **[!UICONTROL Analytics]** und wählen Sie Ihren **Success Path Analyzer** aus.
+
+   ![](assets/image2015-6-12-17-3a23-3a53.png)
+
+   Das Diagramm auf der rechten Seite spiegelt die Daten der ausgewählten Schaltfläche auf der linken Seite wider. Standardmäßig ist dies &quot;**[!UICONTROL &quot;]**.
+
+1. Klicken Sie **[!UICONTROL In Fluss]**, um ein Diagramm anzuzeigen, wie viele Personen im ausgewählten Zeitraum die Bühne betreten haben.
+
+   ![](assets/image2015-6-12-17-3a30-3a52.png)
+
+   * Klicken Sie auf **[!UICONTROL Abfluss]**, um ein Diagramm anzuzeigen, wie viele Personen die Bühne verlassen haben.
+   * Klicken Sie auf **[!UICONTROL Konv. %]**, um die Konversionsrate von diesem zum nächsten Schritt zu grafisch darzustellen.
+   * Klicken Sie auf **[!UICONTROL Durchschn. Zeit]**, um zu sehen, wie lange die Personen in diesem Schritt verbracht haben, bevor Sie zum nächsten Schritt wechseln.
+
+1. Klicken Sie **[!UICONTROL Diagrammaktionen]** > **[!UICONTROL Zeitraum vergleichen]**, um die Daten mit einem anderen, gleich langen Zeitrahmen zu vergleichen.
+
+   ![](assets/image2015-6-12-17-3a39-3a15.png)
+
+1. Wählen Sie das **[!UICONTROL Von]** für den Vergleichszeitraum aus.
+
+   ![](assets/image2015-6-12-17-3a43-3a49.png)
+
+   Das **[!UICONTROL Bis]**-Datum wird automatisch auf die Länge Ihres ursprünglichen Zeitraums festgelegt.
+
+1. Klicken Sie **[!UICONTROL Vergleichen]**.
+
+   ![](assets/image2015-6-12-17-3a44-3a8.png)
+
+1. Das Diagramm wird mit sich überschneidenden Daten für den Vergleichszeitraum in grün aktualisiert.
+
+   ![](assets/image2015-6-12-17-3a46-3a16.png)
+
+1. Um die Zeitskala des Diagramms zu ändern, klicken Sie auf eine der Schaltflächen **[!UICONTROL Diagramm nach]**: täglich (Standard), wöchentlich und monatlich
+
+   ![](assets/image2015-6-12-17-3a46-3a55.png)
+
+1. Klicken Sie bei Phasen mit SLAs (Service Level Agreements) auf **[!UICONTROL Diagrammaktionen]** > **[!UICONTROL SLA-Fälligkeitsdatum anzeigen]** um alle Personen anzuzeigen, die eine SLA-Zielgruppe innerhalb des angegebenen Zeitraums verpasst haben.
+
+   ![](assets/image2015-6-12-17-3a49-3a23.png)
+
+1. Das Diagramm wird in orange aktualisiert, um anzugeben, wie viele SLAs für jeden Knoten fällig waren.
+
+   ![](assets/image2015-6-12-17-3a50-3a16.png)
+
+   Die in Orange dargestellten Personen *sich möglicherweise noch* der SLA-Phase.
+
+1. Klicken Sie auf **[!UICONTROL Diagrammaktionen]** > **[!UICONTROL Überfällig für SLA anzeigen]**, um alle Personen mit abgelaufenen SLA-Zielen anzuzeigen, die sich am Ende des angegebenen Zeitraums noch im SLA-Stadium befinden.
+
+   ![](assets/image2015-6-12-17-3a51-3a39.png)
+
+1. Das Diagramm wird orange aktualisiert, um anzugeben, wie viele SLAs auf jedem Knoten überfällig waren.
+
+   ![](assets/image2015-6-12-17-3a52-3a17.png)
+
+1. Um die spezifischen Details eines Datenpunkts auf einem bestimmten Knoten (Datum) zu lesen, bewegen Sie den Mauszeiger über die Blase.
+
+   ![](assets/image2015-6-12-17-3a52-3a49.png)
+
+1. Klicken Sie zum Drucken des Diagramms auf **[!UICONTROL Diagrammaktionen]** > **[!UICONTROL Diagramm drucken]**.
+
+   ![](assets/image2015-6-12-17-3a53-3a34.png)
+
+Der Analysator soll Ihnen dabei helfen, die Bewegung durch Ihr Modell zu verstehen. Je weiter Sie fortgeschritten sind, desto wichtiger wird dies für die Strategie Ihrer Marketing-Maßnahmen.

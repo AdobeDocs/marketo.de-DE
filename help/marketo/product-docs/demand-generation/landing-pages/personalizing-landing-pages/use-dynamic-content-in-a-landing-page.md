@@ -5,19 +5,13 @@ title: Verwenden von dynamischen Inhalten in einer Landingpage
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/RuwAISV2vhWpTHsJoE5ny6KRSJf8QA3J-JVrA-gF7oo
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 206
+source-wordcount: 209
 ht-degree: 8%
 
 ---
@@ -86,7 +80,7 @@ Die Verwendung dynamischer Inhalte in Landingpages bindet Personen mit zielgeric
    >
    >Erstellen Sie eine standardmäßige Landingpage, bevor Sie den Inhalt für die verschiedenen Segmente ändern.
 
-Voila! Sie können jetzt zielgerichtete Inhalte senden.
+Sie können jetzt zielgerichtete Inhalte an Ihre Segmente senden.
 
 >[!MORELIKETHIS]
 >

@@ -5,18 +5,17 @@ title: Aktivieren personalisierter URLs für eine Landingpage
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/62RoGtAhtBHDi9sxFFXeL4oAKjC25cuRHC6y3m5mO-I
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 92
-ht-degree: 16%
+source-wordcount: 90
+ht-degree: 15%
 
 ---
 
 # Aktivieren personalisierter URLs für eine Landingpage {#enable-personalized-urls-for-a-landing-page}
 
-Personalisierte URLs eignen sich hervorragend für Print-E-Mail-Kampagnen.
+Personalisierte URLs eignen sich gut für Print-E-Mail-Kampagnen.
 
 >[!PREREQUISITES]
 >
@@ -30,4 +29,4 @@ Personalisierte URLs eignen sich hervorragend für Print-E-Mail-Kampagnen.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-Sehr gut! Jetzt haben Sie personalisierte URLs für Ihre Landingpage aktiviert. Besucherinnen und Besucher, die diese URL verwenden, werden erkannt, und Token funktionieren ordnungsgemäß.
+Sie haben personalisierte URLs für Ihre Landingpage aktiviert. Besucherinnen und Besucher, die diese URL verwenden, werden erkannt, und Token funktionieren ordnungsgemäß.

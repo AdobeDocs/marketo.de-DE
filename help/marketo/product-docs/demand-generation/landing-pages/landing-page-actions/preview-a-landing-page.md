@@ -5,18 +5,17 @@ title: Anzeigen einer Vorschau für eine Landingpage
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 153
-ht-degree: 9%
+source-wordcount: 149
+ht-degree: 8%
 
 ---
 
 # Anzeigen einer Vorschau für eine Landingpage {#preview-a-landing-page}
 
-Sie möchten wahrscheinlich sehen, wie Ihre Landingpage aussieht, bevor Sie sie live schalten.
+Zeigen Sie eine Vorschau Ihrer Landingpage an, um zu sehen, wie sie aussieht, bevor Sie sie live schalten.
 
 ## Anzeigen einer Vorschau für eine Landingpage {#preview-a-landing-page-1}
 
@@ -52,4 +51,4 @@ Sie möchten wahrscheinlich sehen, wie Ihre Landingpage aussieht, bevor Sie sie 
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-Gut gemacht! Jetzt wissen Sie, wie Sie eine Vorschau von Landingpages anzeigen.
+Sie wissen jetzt, wie Sie eine Vorschau von Landingpages anzeigen können.

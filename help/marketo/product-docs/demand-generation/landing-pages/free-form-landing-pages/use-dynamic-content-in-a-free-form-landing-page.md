@@ -5,26 +5,20 @@ title: Verwenden dynamischer Inhalte in einer Freiform-Landingpage
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/O80z2EtTU2E-1yf6ng-5n6FOWNXzVG2-Oq8xbXapvhI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: 220
 ht-degree: 10%
 
 ---
 
 # Verwenden dynamischer Inhalte in einer Freiform-Landingpage {#use-dynamic-content-in-a-free-form-landing-page}
 
-Die Verwendung von dynamischen Inhalten auf Landingpages bindet Ihre Zielgruppe mit zielgerichteten Informationen ein.
+Die Verwendung dynamischer Inhalte auf Landingpages bindet Ihre Zielgruppe mit zielgerichteten Informationen ein.
 
 >[!PREREQUISITES]
 >
@@ -50,7 +44,7 @@ Die Verwendung von dynamischen Inhalten auf Landingpages bindet Ihre Zielgruppe 
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-1. Die Segmentierung und die zugehörigen Segmente werden [!UICONTROL &#x200B; rechts unter &#x200B;] angezeigt.
+1. Die Segmentierung und die zugehörigen Segmente werden [!UICONTROL  rechts unter ] angezeigt.
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 
@@ -86,7 +80,7 @@ Die Verwendung von dynamischen Inhalten auf Landingpages bindet Ihre Zielgruppe 
 >
 >Erstellen Sie eine standardmäßige Landingpage, bevor Sie den Inhalt für die verschiedenen Segmente ändern.
 
-Voila! Sie können jetzt zielgerichtete Inhalte senden.
+Sie können jetzt zielgerichtete Inhalte an Ihre Segmente senden.
 
 >[!MORELIKETHIS]
 >

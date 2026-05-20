@@ -5,15 +5,12 @@ title: Anpassen der Mobilansicht für eine Freiform-Landingpage
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/RJiOHLIXxHZdZBJk2XtIqk6TtJ7UVjcExmkxyVFp3yQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 389
-ht-degree: 5%
+source-wordcount: 378
+ht-degree: 4%
 
 ---
 
@@ -23,7 +20,7 @@ ht-degree: 5%
 >
 >[Mobilansicht für Ihre Freiform-Landingpage hinzufügen](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-Die mobile Ansicht Ihrer Freiform-Landingpage ist größtenteils automatisch, Sie können sie jedoch anpassen. Und so geht das.
+Die mobile Ansicht Ihrer Freiform-Landingpage ist größtenteils automatisch, Sie können sie jedoch anpassen.
 
 1. Wählen Sie Ihre Freiform-Landingpage aus.
 
@@ -51,7 +48,7 @@ Standardmäßig wird alles, was sich auf der Desktop-Ansicht befindet, auf der m
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Wichtige Informationen: {#important-things-to-know}
+## Wichtige Informationen {#important-things-to-know}
 
 * Bilder werden auf die Breite des Mobilgeräts erweitert. Wenn Sie kleinere Bilder möchten, ziehen Sie das Rich-Text-Element hinzu und fügen Sie Ihr Bild von dort hinzu.
 * Verwenden Sie nur Forms 2.0-Formulare. Sie sind responsiv und passen sich automatisch an.
@@ -63,13 +60,13 @@ Standardmäßig wird alles, was sich auf der Desktop-Ansicht befindet, auf der m
 
 >[!TIP]
 >
->Weniger ist mehr auf Mobilgeräten. Verwenden Sie weniger Wörter für zufriedene Kunden.
+>Weniger ist mehr auf Mobilgeräten.
 
 1. Um ein Element auszublenden, aktivieren Sie das entsprechende Kontrollkästchen unter der Spalte „Mobile“.
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. Perfekt! Dieses Element ist in Ihrer Mobilansicht nicht mehr sichtbar.
+1. Dieses Element ist in Ihrer Mobilansicht nicht mehr sichtbar.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
@@ -77,7 +74,7 @@ Standardmäßig wird alles, was sich auf der Desktop-Ansicht befindet, auf der m
 
 >[!TIP]
 >
->Erstellen Sie spezielle (kürzere) Inhalte nur für die mobile Ansicht.
+>Erstellen Sie kürzere Inhalte für die Mobile-Ansicht.
 
 1. Um ein Element hinzuzufügen, ziehen Sie es per Drag-and-Drop auf die Freiform-Landingpage.
 
@@ -97,15 +94,15 @@ Standardmäßig wird alles, was sich auf der Desktop-Ansicht befindet, auf der m
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Wollen Sie etwas Cooles sehen? Wählen Sie **[!UICONTROL nebeneinander]** aus.
+1. Wählen Sie **[!UICONTROL Nebeneinander]** aus, um die Desktop- und Mobilversion gleichzeitig zu vergleichen.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
-1. Sie können jetzt die Desktop- und Mobile-Versionen Ihrer Landingpages gleichzeitig anzeigen!
+1. Sie können jetzt die Desktop- und Mobile-Versionen Ihrer Landingpages gleichzeitig anzeigen.
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Wenn Sie es lieben, klicken Sie auf **[!UICONTROL Genehmigen und schließen]**.
+1. Klicken Sie **[!UICONTROL Genehmigen und schließen]**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -113,7 +110,6 @@ Standardmäßig wird alles, was sich auf der Desktop-Ansicht befindet, auf der m
    >
    >Die Vorschau ist nicht interaktiv. Jedes Smartphone zeigt die Dinge etwas anders. Es wird empfohlen, Ihre Landingpage auf einigen Geräten in der Vorschau anzuzeigen, um genau zu sehen, wie sich die Landingpage verhält.
 
-Viel Spaß.
 
 >[!MORELIKETHIS]
 >

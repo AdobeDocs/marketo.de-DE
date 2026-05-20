@@ -5,9 +5,8 @@ title: Hinzufügen von Text und Token zu einer Landingpage
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/-WO74fBXUqqawkC75M5bH2pFdWk3jcVhZghU2o5vEmk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 202
 ht-degree: 8%
@@ -38,7 +37,7 @@ ht-degree: 8%
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
-Nachdem Sie nun wissen, wie Sie Text zu einer Landingpage hinzufügen, arbeiten wir am Hinzufügen eines Tokens.
+Nachdem Sie nun wissen, wie Sie einer Landingpage Text hinzufügen, wird im nächsten Abschnitt das Hinzufügen eines Tokens behandelt.
 
 ## Hinzufügen eines Tokens zu Ihrer Landingpage {#add-a-token-to-your-landing-page}
 
@@ -46,7 +45,7 @@ Token sind dynamische Textteile, mit denen Sie Ihre Landingpage personalisieren 
 
 >[!TIP]
 >
->Dinge wie Vorname stammen aus dem Personendatensatz. Andere Token werden von der Registerkarte Meine Token im Programm bereitgestellt.
+>Werte wie Vorname stammen aus dem Personendatensatz. Andere Token werden von der Registerkarte Meine Token im Programm bereitgestellt.
 
 1. Wählen Sie Ihre Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
@@ -76,4 +75,4 @@ Token sind dynamische Textteile, mit denen Sie Ihre Landingpage personalisieren 
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Mission abgeschlossen! Sie haben jetzt ein Token auf Ihrer Landingpage.
+   Sie haben jetzt ein Token auf Ihrer Landingpage.

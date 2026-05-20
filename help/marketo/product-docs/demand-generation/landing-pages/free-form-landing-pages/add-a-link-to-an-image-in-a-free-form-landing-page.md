@@ -5,18 +5,17 @@ title: Hinzufügen eines Links zu einem Bild in einer Freiform-Landingpage
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 127
-ht-degree: 21%
+source-wordcount: 125
+ht-degree: 19%
 
 ---
 
 # Hinzufügen eines Links zu einem Bild in einer Freiform-Landingpage {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-Möchten Sie ein Bild auf Ihrer Landingpage als Link zu einer anderen Seite/Site einrichten? Und so geht das.
+Gehen Sie wie folgt vor, um ein Bild auf Ihrer Landingpage zu einem anklickbaren Link zu machen.
 
 >[!PREREQUISITES]
 >
@@ -34,8 +33,8 @@ Möchten Sie ein Bild auf Ihrer Landingpage als Link zu einer anderen Seite/Site
 
    ![](assets/add-link.png)
 
-   Herzlichen Glückwunsch! Sie haben nun auf Ihrer Landingpage erfolgreich einen Link zu einem Bild hinzugefügt. Sie können jetzt [Vorschau der Seite](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) anzeigen, um sie in Aktion zu sehen.
+   Sie haben auf Ihrer Landingpage erfolgreich einen Link zu einem Bild hinzugefügt. Sie können jetzt [Vorschau der Seite](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) anzeigen, um sie in Aktion zu sehen.
 
 >[!TIP]
 >
->Testen Sie Ihre Seiten immer!
+>Testen Sie Ihre Seiten immer.
