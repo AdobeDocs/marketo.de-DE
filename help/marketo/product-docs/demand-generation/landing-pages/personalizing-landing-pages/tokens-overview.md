@@ -9,10 +9,10 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 313
-ht-degree: 88%
+source-wordcount: 314
+ht-degree: 79%
 
 ---
 
@@ -115,7 +115,7 @@ In diesem Beispiel lautet der Text der E-Mail „Hallo, (Vorname)“ oder „Hal
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* Benutzerdefinierte Unternehmensfelder funktionieren auch, wenn Sie ihren Anzeigenamen verwenden, z. B. `{{Company.Custom Field Name}}`
+* Benutzerdefinierte Unternehmensfelder funktionieren auch, wenn Sie ihren Anzeigenamen verwenden, z. B. `{{Company.Custom Field Name}}`
 
 ## Kampagnen-Token {#campaign-tokens}
 
@@ -168,7 +168,7 @@ In diesem Beispiel lautet der Text der E-Mail „Hallo, (Vorname)“ oder „Hal
 
 ## Mitglieder-Token {#member-token}
 
-Mitglieder-Token werden verwendet, um eindeutige Werte von integrierten Dienstpartnern einzufügen. Mitglieder-Token werden häufig für eindeutige URLs für Webinar-Teilnehmende verwendet. Jeder Person wird eine eindeutige URL für den Zugriff auf das Webinar zugeteilt, die mithilfe eines `{{member.webinar url}}`-Tokens eingefügt werden kann. Das `{{member.webinar url}}`-Token löst die eindeutige, vom Dienstleister generierte Bestätigungs-URL der Person automatisch auf.
+Mitglieder-Token werden verwendet, um eindeutige Werte von integrierten Dienstpartnern einzufügen. Mitglieder-Token werden häufig für eindeutige URLs für Webinar-Teilnehmende verwendet. Jeder Person wird eine eindeutige URL für den Zugriff auf das Webinar zugeteilt, die mithilfe eines `{{member.webinar url}}`-Tokens eingefügt werden kann. Das `{{member.webinar url}}`-Token löst automatisch die eindeutige Bestätigungs-URL der Person auf, die vom Dienstleister generiert wurde.
 
 * `{{member.webinar url}}`
 

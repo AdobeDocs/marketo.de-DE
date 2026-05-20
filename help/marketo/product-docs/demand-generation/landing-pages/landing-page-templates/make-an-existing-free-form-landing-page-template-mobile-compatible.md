@@ -10,14 +10,14 @@ product_v2:
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 263
-ht-degree: 3%
+source-wordcount: 259
+ht-degree: 7%
 
 ---
 
-# Erstellen einer vorhandenen Freiform-Landingpage-Vorlage [!UICONTROL Mobile-kompatibel] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Kompatibel machen einer bestehenden Vorlage für Freiform-Landingpages auf Mobilgeräten {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 Dies kann an zwei Stellen geschehen, im Vorlagen-Editor und im Landingpage-Editor.
 
@@ -57,9 +57,15 @@ Dies kann an zwei Stellen geschehen, im Vorlagen-Editor und im Landingpage-Edito
 
 ## Was macht eine Vorlage [!UICONTROL Mobile kompatibel]? {#what-makes-a-template-mobile-compatible}
 
-Gute Fragen! Ihre Vorlage muss über die folgenden Tags verfügen:
+Ihre Vorlage muss die folgenden Tags enthalten:
 
-`Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>`
+```
+Must have <!DOCTYPE HTML> 
+Must have a <HEAD> element 
+Must have a <TITLE> in the <HEAD> element 
+Must have <META CHARSET="UTF-8"> within the <HEAD> element 
+Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>
+```
 
 Wenn alles gut aussieht, wirst du diese Nachricht sehen.
 
@@ -69,7 +75,7 @@ Wenn ein Fehler auftritt, wird eine Fehlermeldung angezeigt. Klicken Sie auf „
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-Wenn Sie Änderungen an der Vorlage vornehmen, klicken Sie auf [!UICONTROL Vorlagenaktionen] und wählen Sie [!UICONTROL Kompatibilität mit Mobilgeräten überprüfen].
+Wenn Sie Änderungen an der Vorlage vornehmen, klicken Sie auf **[!UICONTROL Vorlagenaktionen]** und wählen Sie **[!UICONTROL Kompatibilität mit Mobilgeräten überprüfen]**.
 
 ## Aktualisieren einer Vorlage im Freiform-Landingpage-Editor {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
@@ -87,4 +93,4 @@ Wenn Sie eine Landingpage bearbeiten und auf die Registerkarte Mobile klicken, w
    >
    >Durch die Aktivierung der mobilen Version einer Vorlage werden Entwürfe für alle Landingpages erstellt, die diese verwenden.
 
-Fantastisch! Sie können jetzt [die mobile Ansicht](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) aller Landingpages anpassen, die diese Vorlage verwenden.
+Sie können jetzt [die mobile Ansicht](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) aller Landingpages anpassen, die diese Vorlage verwenden.

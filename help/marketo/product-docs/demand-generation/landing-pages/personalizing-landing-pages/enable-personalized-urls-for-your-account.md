@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/As1NwttcwB-zbe-UNOF1tuYcot34gZcb3UH-lnQcRAM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 114
-ht-degree: 17%
+source-wordcount: 111
+ht-degree: 16%
 
 ---
 
 # Aktivieren personalisierter URLs für Ihr Konto {#enable-personalized-urls-for-your-account}
 
-Personalisierte URLs eignen sich hervorragend für Print-E-Mail-Kampagnen.
+Personalisierte URLs eignen sich gut für Print-E-Mail-Kampagnen.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Personalisierte URLs eignen sich hervorragend für Print-E-Mail-Kampagnen.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-Gut gemacht! Nachdem Sie nun PURLs für Ihr Konto aktiviert haben, können Sie es für einzelne Landingpages aktivieren.
+Sie haben PURLs für Ihr Konto aktiviert. Sie können sie jetzt für einzelne Landingpages aktivieren.
 
 >[!NOTE]
 >

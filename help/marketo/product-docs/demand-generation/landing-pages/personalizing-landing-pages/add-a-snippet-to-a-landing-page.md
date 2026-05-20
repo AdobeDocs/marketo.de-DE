@@ -15,16 +15,16 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: 114
 ht-degree: 12%
 
 ---
 
 # Hinzufügen eines Ausschnitts zu einer Landingpage {#add-a-snippet-to-a-landing-page}
 
-Snippets sind kleine Teile von HTML, die Regeln folgen und personalisierte Inhalte enthalten können.
+Snippets sind wiederverwendbare Blöcke von HTML, die Regeln folgen und personalisierte Inhalte enthalten können.
 
 >[!PREREQUISITES]
 >
@@ -50,4 +50,4 @@ Snippets sind kleine Teile von HTML, die Regeln folgen und personalisierte Inhal
    >
    >Wenn Sie ein Snippet zu einer geführten Landingpage hinzufügen möchten, lesen Sie [diesen Artikel](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
-Tolle Arbeit! Jetzt wissen Sie, wie Sie Ihren Landingpages Snippets hinzufügen.
+Sie wissen jetzt, wie Sie Ihren Landingpages Snippets hinzufügen.

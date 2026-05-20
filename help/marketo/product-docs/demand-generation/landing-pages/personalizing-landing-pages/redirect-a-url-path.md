@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/tLOxmCH9CqI7FkYXOxTe9FPs5h77fQRt-H9B-J-i2p0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 155
-ht-degree: 9%
+source-wordcount: 153
+ht-degree: 7%
 
 ---
 
 # Umleiten eines URL-Pfads {#redirect-a-url-path}
 
-Marketo erleichtert die Umleitung eines URL-Pfads zu einer beliebigen Seite. Und so geht das.
+Marketo erleichtert die Umleitung eines URL-Pfads zu einer beliebigen Seite.
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ Marketo erleichtert die Umleitung eines URL-Pfads zu einer beliebigen Seite. Und
 
    Sie können [Marketo-Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) auch als Ziel verwenden.
 
-Herzlichen Glückwunsch! Sie haben Ihren URL-Pfad erfolgreich umgeleitet.
+Ihr URL-Pfad wurde erfolgreich umgeleitet.
 
 >[!MORELIKETHIS]
 >

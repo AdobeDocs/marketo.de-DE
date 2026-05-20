@@ -15,16 +15,16 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: 220
 ht-degree: 10%
 
 ---
 
 # Verwenden dynamischer Inhalte in einer Freiform-Landingpage {#use-dynamic-content-in-a-free-form-landing-page}
 
-Die Verwendung von dynamischen Inhalten auf Landingpages bindet Ihre Zielgruppe mit zielgerichteten Informationen ein.
+Die Verwendung dynamischer Inhalte auf Landingpages bindet Ihre Zielgruppe mit zielgerichteten Informationen ein.
 
 >[!PREREQUISITES]
 >
@@ -86,7 +86,7 @@ Die Verwendung von dynamischen Inhalten auf Landingpages bindet Ihre Zielgruppe 
 >
 >Erstellen Sie eine standardmäßige Landingpage, bevor Sie den Inhalt für die verschiedenen Segmente ändern.
 
-Voila! Sie können jetzt zielgerichtete Inhalte senden.
+Sie können jetzt zielgerichtete Inhalte an Ihre Segmente senden.
 
 >[!MORELIKETHIS]
 >

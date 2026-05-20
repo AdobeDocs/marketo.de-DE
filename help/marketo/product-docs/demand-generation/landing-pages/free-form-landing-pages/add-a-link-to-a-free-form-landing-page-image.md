@@ -7,10 +7,10 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/oWeDNJi60IIzN30h98YEwJQix8W5pJP7BvAY-1rgobI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 98
-ht-degree: 22%
+source-wordcount: 96
+ht-degree: 20%
 
 ---
 
@@ -24,14 +24,14 @@ ht-degree: 22%
 >
 >Dies gilt nur für Freiform-Landingpages.
 
-1. Wählen Sie das Bild aus, das Sie Ihrer Landingpage hinzugefügt haben, und erweitern Sie das **[!UICONTROL Eigenschaftenblatt].**
+1. Wählen Sie das Bild aus, das Sie Ihrer Landingpage hinzugefügt haben, und erweitern Sie das **[!UICONTROL Eigenschaftenblatt]**.
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Geben Sie Ihren mailto-Link in das Feld **[!UICONTROL linkUrl] ein.**
+1. Geben Sie Ihren mailto-Link in „linkUrl **&#x200B;**.
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
-   Tolle Arbeit! Sie haben jetzt ein Bild als Mailto-Link auf Ihrer Marketo-Landingpage.
+   Sie haben jetzt ein Bild als Mailto-Link auf Ihrer Marketo-Landingpage.
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)

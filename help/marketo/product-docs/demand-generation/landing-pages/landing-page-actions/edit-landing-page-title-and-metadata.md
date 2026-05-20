@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 147
 ht-degree: 9%
@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # Bearbeiten des Titels und der Metadaten einer Landingpage {#edit-landing-page-title-and-metadata}
 
-Mit Marketo können Sie Ihre Landingpage ([-Tags für SEO](https://www.w3schools.com/tags/tag_meta.asp)Zwecke) bearbeiten und den `<head>` Teil der HTML anpassen.
+Mit Marketo können Sie die [Meta-Tags Ihrer Landingpage für SEO-Zwecke &#x200B;](https://www.w3schools.com/tags/tag_meta.asp) und den `<head>` Teil der HTML anpassen.
 
 1. Wählen Sie eine Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 

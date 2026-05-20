@@ -10,9 +10,9 @@ product_v2:
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: 219
 ht-degree: 7%
 
 ---
@@ -51,7 +51,7 @@ Geführte Landingpages können als lokale Assets eines Programms oder im [!UICON
 
    >[!NOTE]
    >
-   >Geführte Landingpage-Vorlagen haben neben ihnen das Symbol ![&#x200B; - &#x200B;](assets/image2015-5-26-9-3a26-3a51.png) . Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
+   >Bei geführten Landingpage-Vorlagen wird neben ihnen das Symbol ![](assets/image2015-5-26-9-3a26-3a51.png) angezeigt. Geführte Vorlagen sind so strukturiert, dass sie vollständig responsiv bleiben können.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 

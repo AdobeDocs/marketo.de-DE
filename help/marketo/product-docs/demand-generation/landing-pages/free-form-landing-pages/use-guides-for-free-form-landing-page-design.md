@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: 129
 ht-degree: 12%
 
 ---
 
 # Verwenden von Handbüchern für das Design von Freiform-Landingpages {#use-guides-for-free-form-landing-page-design}
 
-Beim Entwerfen einer Freiform-Landingpage können Sie Handbücher verwenden, die Ihnen beim Ausrichten der Komponenten helfen.
+Beim Entwerfen einer Freiform-Landingpage können Sie Handbücher verwenden, um Elemente auf der Seite auszurichten.
 
 >[!NOTE]
 >
@@ -38,4 +38,4 @@ Beim Entwerfen einer Freiform-Landingpage können Sie Handbücher verwenden, die
 
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
-   Ausrichtte Objekte sind leicht auf den Augen!
+   Richtig ausgerichtete Elemente sorgen für ein übersichtlicheres, professionelleres Layout.

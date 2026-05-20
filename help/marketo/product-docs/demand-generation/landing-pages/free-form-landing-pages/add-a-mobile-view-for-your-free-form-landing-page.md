@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 150
+source-wordcount: 147
 ht-degree: 19%
 
 ---
 
 # Hinzufügen einer Mobilansicht für eine Freiform-Landingpage {#add-a-mobile-view-for-your-free-form-landing-page}
 
-Auf einem Smartphone können Sie Ihre Freiform-Landingpages ganz einfach toll aussehen lassen.
+Sie können Ihre Freiform-Landingpages so optimieren, dass sie auf Smartphones ordnungsgemäß angezeigt werden.
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ Auf einem Smartphone können Sie Ihre Freiform-Landingpages ganz einfach toll au
    >
    >Die Freiformvorlage muss möglicherweise aktualisiert werden. Wenn Sie diese Nachricht sehen, lesen Sie schnell, wie Sie [eine vorhandene Freiform-Landingpage-Vorlage für Mobilgeräte kompatibel machen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Sehr gut! Sie haben jetzt die mobile Version Ihrer Landingpage aktiviert. Klicken Sie auf **[!UICONTROL Schließen]**.
+1. Sie haben jetzt die mobile Version Ihrer Landingpage aktiviert. Klicken Sie auf **[!UICONTROL Schließen]**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

@@ -11,9 +11,9 @@ feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 515
+source-wordcount: 512
 ht-degree: 3%
 
 ---
@@ -38,7 +38,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigenkampagnen in LinkedIn auszufü
 
    ![](assets/set-up-linkedin-lead-gen-forms-2.png)
 
-1. Geben Sie _Anzeigenamen_ für Ihren Dienst ein, wählen Sie den **[!UICONTROL LinkedIn Lead Gen]**-Dienst aus der Dropdownliste aus und klicken Sie auf **[!UICONTROL Weiter]**.
+1. Geben Sie **[!UICONTROL Anzeigenamen]** für Ihren Dienst ein, wählen Sie den **[!UICONTROL LinkedIn Lead Gen]**-Dienst aus der Dropdownliste aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-3.png)
 
@@ -64,7 +64,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigenkampagnen in LinkedIn auszufü
 
    >[!CAUTION]
    >
-   >Der Dienst läuft automatisch ein Jahr nach der Autorisierung ab. Um den Zugriff wiederherzustellen, klicken Sie einfach **[!UICONTROL Erneut autorisieren]**. Abhängig von Ihren Browsereinstellungen müssen Sie Ihr LinkedIn-Passwort möglicherweise erneut eingeben.
+   >Der Dienst läuft automatisch ein Jahr nach der Autorisierung ab. Um den Zugriff wiederzuerlangen, klicken Sie **[!UICONTROL Erneut autorisieren]**. Abhängig von Ihren Browsereinstellungen müssen Sie Ihr LinkedIn-Passwort möglicherweise erneut eingeben.
 
 1. Wählen Sie die Konten aus, über die LinkedIn Lead Gen-Leads in Marketo eingehen sollen, und klicken Sie auf **[!UICONTROL Weiter]**.
 
@@ -74,7 +74,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigenkampagnen in LinkedIn auszufü
 
    ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 
-1. Um standardmäßige Feldzuordnungen von LinkedIn zu Marketo zu akzeptieren, klicken Sie einfach auf **[!UICONTROL Erstellen]**. Wenn Sie die standardmäßige Feldzuordnung ändern, eine Feldzuordnung entfernen oder eine neue Feldzuordnung hinzufügen möchten, können Sie dies für jedes Feld über das unten stehende Modal tun.
+1. Um standardmäßige Feldzuordnungen von LinkedIn zu Marketo zu akzeptieren, klicken Sie auf **[!UICONTROL Erstellen]**. Wenn Sie die standardmäßige Feldzuordnung ändern, eine Feldzuordnung entfernen oder eine neue Feldzuordnung hinzufügen möchten, können Sie dies für jedes Feld über das unten stehende Modal tun.
 
    >[!CAUTION]
    >
@@ -88,7 +88,7 @@ Verwenden Sie LinkedIn Lead Gen Forms, um Anzeigenkampagnen in LinkedIn auszufü
 
    ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 
-Gut gemacht! Personen, die LinkedIn-Lead-Gen-Formulare senden, gelangen während erfolgreicher Kampagnen auf LinkedIn in Marketo.
+Personen, die LinkedIn-Lead-Gen-Formulare senden, gelangen während erfolgreicher Kampagnen auf LinkedIn in Marketo.
 
 >[!NOTE]
 >
