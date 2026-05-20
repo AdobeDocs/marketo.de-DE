@@ -45,4 +45,4 @@ Um Aktualisierungen aus Ihren Revenue Cycle Explorer-Berichten zu erhalten und f
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie[ wie Sie alle Berichtsabonnements ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.
+>Erfahren Sie[&#x200B; wie Sie alle Berichtsabonnements &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.

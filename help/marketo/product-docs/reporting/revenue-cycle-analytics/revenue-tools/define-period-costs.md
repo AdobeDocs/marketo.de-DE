@@ -51,7 +51,7 @@ Verfolgen und verknüpfen Sie Lead-Pflege- und Lead-Akquise-Kosten für ein Prog
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
-## [!UICONTROL  bearbeiten (Periodenkosten] {#edit-a-period-cost}
+## [!UICONTROL &#x200B; bearbeiten (Periodenkosten] {#edit-a-period-cost}
 
 1. Klicken Sie mit der rechten Maustaste auf [!UICONTROL Periodenkosten] und wählen Sie **[!UICONTROL Bearbeiten]** aus dem Popup-Menü aus, um das Dialogfeld **[!UICONTROL Kosten bearbeiten]** zu öffnen.
 
