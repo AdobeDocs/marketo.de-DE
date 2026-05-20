@@ -5,8 +5,10 @@ title: Planen von Interaktionsprogrammen mit der Zeitzone der Empfängerin bzw. 
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 205
@@ -22,7 +24,7 @@ Wenn Sie einen Interaktionsprogramm-Stream planen und die Zeitzone des Empfänge
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Legen Sie Ihre Kadenzeinstellungen ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) wie gewohnt fest und aktivieren Sie dann das Kontrollkästchen **[!UICONTROL Zeitzone des Empfängers]**. Denke daran, dass dein erster Cast mindestens 25 Stunden in der Zukunft liegen muss. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. [Legen Sie Ihre Kadenzeinstellungen &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) wie gewohnt fest und aktivieren Sie dann das Kontrollkästchen **[!UICONTROL Zeitzone des Empfängers]**. Denke daran, dass dein erster Cast mindestens 25 Stunden in der Zukunft liegen muss. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
