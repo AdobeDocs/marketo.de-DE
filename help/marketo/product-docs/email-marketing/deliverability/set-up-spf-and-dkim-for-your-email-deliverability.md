@@ -5,22 +5,21 @@ title: Einrichten von SPF und DKIM für die Zustellbarkeit Ihrer E-Mails
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 89%
+source-wordcount: 432
+ht-degree: 71%
 
 ---
 
 # Einrichten von SPF und DKIM für die Zustellbarkeit Ihrer E-Mails {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Eine schnelle Methode zur Verbesserung der E-Mail-Zustellraten besteht darin, **SPF** (Sender Policy Framework) und **DKIM** (Domain Keys Identified Mail) in Ihre DNS-Einstellungen einzubinden. Mit dieser Erweiterung Ihrer DNS-Einträge teilen Sie den Empfängerinnen und Empfängern mit, dass Sie Marketo autorisiert haben, E-Mails in Ihrem Namen zu senden. Ohne diese Änderung ist die Wahrscheinlichkeit höher, dass Ihre E-Mail als Spam gekennzeichnet wird, da sie von Ihrer Domain adressiert, aber von einer IP-Adresse mit einer Marketo-Domain gesendet wurde.
+Eine schnelle Methode zur Verbesserung der E-Mail-Zustellraten besteht darin, **SPF** (Sender Policy Framework) und **DKIM** (Domain Keys Identified Mail) in Ihre DNS-Einstellungen einzubinden. Mit dieser Ergänzung Ihrer DNS-Einträge teilen Sie den Empfängern mit, dass Sie Marketo autorisiert haben, E-Mails in Ihrem Namen zu senden. Ohne diese Änderung ist die Wahrscheinlichkeit höher, dass Ihre E-Mail als Spam gekennzeichnet wird, da sie von Ihrer Domain adressiert, aber von einer IP-Adresse mit einer Marketo-Domain gesendet wurde.
 
 >[!CAUTION]
 >
->Ihre bzw. Ihr Netzwerkadmin muss diese Änderung an Ihrem DNS-Eintrag vornehmen.
+>Ihr Netzwerkadministrator muss diese Änderung in Ihrem DNS-Eintrag vornehmen.
 
 ## Einrichten von SPF {#set-up-spf}
 
@@ -44,16 +43,16 @@ DKIM ist ein Authentifizierungsprotokoll, mit dem E-Mail-Empfangende bestimmen, 
 
 **Wie funktioniert DKIM?**
 
-Nachdem Sie den öffentlichen Schlüssel in Ihrem DNS-Eintrag eingerichtet und die Versand-Domain im Bereich „Administrator“ (A) aktiviert haben, wird die benutzerdefinierte DKIM-Signatur für Ihre ausgehenden Nachrichten aktiviert. Diese enthält eine verschlüsselte digitale Signatur mit jeder E-Mail, die für Sie versendet wird (B). Die Empfangenden können die digitale Signatur entschlüsseln, indem sie den „öffentlichen Schlüssel“ im DNS Ihrer Versand-Domain (C) nachschlagen. Wenn der Schlüssel in der E-Mail mit dem Schlüssel in Ihrem DNS-Eintrag übereinstimmt, akzeptiert der empfangende E-Mail-Server mit höherer Wahrscheinlichkeit die E-Mail, die Marketo in Ihrem Namen gesendet hat.
+Nachdem Sie den öffentlichen Schlüssel in Ihrem DNS-Eintrag eingerichtet und die Versand-Domain im Administratorbereich (A) aktiviert haben, aktiviert Marketo die benutzerdefinierte DKIM-Signatur für Ihre ausgehenden Nachrichten, die eine verschlüsselte digitale Signatur mit jeder in Ihrem Namen gesendeten E-Mail enthält (B). Die Empfangenden können die digitale Signatur entschlüsseln, indem sie den „öffentlichen Schlüssel“ im DNS Ihrer Versand-Domain (C) nachschlagen. Wenn der Schlüssel in der E-Mail mit dem Schlüssel in Ihrem DNS-Eintrag übereinstimmt, akzeptiert der empfangende E-Mail-Server mit höherer Wahrscheinlichkeit die E-Mail, die Marketo in Ihrem Namen gesendet hat.
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
 **Wie richte ich DKIM ein?**
 
-Informationen dazu finden Sie unter [Einrichten einer benutzerdefinierten DKIM-Signatur](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+Siehe [Einrichten einer benutzerdefinierten DKIM-Signatur](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* Weitere Informationen über SPF und wie es funktioniert`: http://www.open-spf.org/Introduction/`
+>* Erfahren Sie mehr über SPF und seine Funktionsweise: `http://www.open-spf.org/Introduction/`
 >* Ist mein SPF korrekt eingerichtet?: `https://www.kitterman.com/spf/validate.html`
 >* Habe ich die richtige Syntax verwendet?: `http://www.open-spf.org/SPF_Record_Syntax/`

@@ -5,13 +5,11 @@ title: Hard- und Softbounces in E-Mails
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/qr4rAdOWWg5dazZVztnoTUv6WJQE8Xpm2WKttjQaOOg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: 310
 ht-degree: 14%
 
 ---
@@ -22,7 +20,7 @@ Ein Hardbounce kann die E-Mail-Adresse einer Person ungültig machen, wenn ein M
 
 ## Bounce-Klassifizierung {#bounce-classification}
 
-Es gibt 5 Personen-Zeichenfolgen in Marketo, die mit einem problematischen E-Mail-Versand zusammenhängen.
+In Marketo gibt es fünf Personenfelder im Zusammenhang mit einem problematischen E-Mail-Versand.
 
 1. **E-Mail ausgesetzt** - Auf „True“ gesetzt, wenn ein bestimmter Hardbounce auftritt.
 1. **Grund für ausgesetztes E-Mail** - Es kann viele Gründe geben. Dieses Feld versucht, die Ursache zu erklären.
@@ -34,7 +32,7 @@ Es gibt 5 Personen-Zeichenfolgen in Marketo, die mit einem problematischen E-Mai
 >
 >Nachdem eine Person den Status **E-Mail ausgesetzt** erreicht hat, gibt es keine Möglichkeit, das Kontrollkästchen „E-Mail ausgesetzt“ zu deaktivieren. Die Person wird jedoch 24 Stunden nach der ersten Aussetzung noch per E-Mail erreichbar sein.
 >
->Wenn eine Person als **E-Mail ungültig** markiert wird, kann sie nur manuell zurückgesetzt werden (was wir nur empfehlen, wenn Sie wissen, dass ihre E-Mail-Adresse mit Sicherheit gültig ist), indem Sie das Kontrollkästchen „E-Mail ungültig“ auf der Registerkarte Personeninformationen ihres Datensatzes deaktivieren.
+>Wenn eine Person als **E-Mail ungültig** markiert wird, kann sie nur manuell zurückgesetzt werden (was nur empfohlen wird, wenn Sie bestätigt haben, dass die E-Mail-Adresse gültig ist), indem Sie das Kontrollkästchen „E-Mail ungültig“ auf der Registerkarte Personeninformationen ihres Datensatzes deaktivieren.
 
 >[!PREREQUISITES]
 >

@@ -1,30 +1,30 @@
 ---
-description: Erkunden Sie die Marketo Engage AI-Suite von Agenten, die Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr automatisieren.
-title: Marketo Engage AI - Übersicht
+description: Erkunden Sie die Marketo AI-Suite von Agenten, die Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr automatisieren.
+title: Marketo AI - Übersicht
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
 
-# Marketo Engage AI - Übersicht {#overview}
+# Marketo AI - Übersicht {#overview}
 
-Marketo Engage AI bietet Agenten, die zeitaufwendige, aber wichtige Marketing-Funktionen automatisieren.
-
->[!PREREQUISITES]
->
->Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+Marketo AI bietet Agenten, die zeitaufwendige, aber wichtige Marketing-Funktionen automatisieren.
 
 >[!AVAILABILITY]
 >
->Diese Funktion befindet sich in der geschlossenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird, erfahren Sie_ wann sie für Ihr Abonnement aktiviert wurde.
+>Diese Funktion ist nur eingeschränkt verfügbar. Um den Zugriff auf Ihr Abonnement anzufordern, wenden Sie sich an das Adobe Account Team (Ihren Account Manager).
+
+>[!PREREQUISITES]
+>
+>Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie von Ihrem Account Manager.
 
 >[!IMPORTANT]
 >
->Nachdem diese Funktion für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte“ ausführen](/help/marketo/product-docs/marketo-ai/settings-setup.md) um sicherzustellen, dass die gewünschten Benutzer Zugriff haben.
+>Nachdem diese Funktion für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte“ ausführen](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} um sicherzustellen, dass die gewünschten Benutzer Zugriff haben.
 
 ## Zugriff {#access}
 

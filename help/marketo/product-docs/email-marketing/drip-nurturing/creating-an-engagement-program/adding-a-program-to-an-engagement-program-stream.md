@@ -5,21 +5,13 @@ title: Hinzufügen eines Programms zu einem Interaktionsprogramm-Stream
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/kI2v6drF78DnJhhEbgeVSi4TYbF5rExY2wgR0aAK-bI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 477
+source-wordcount: 479
 ht-degree: 4%
 
 ---
@@ -42,7 +34,7 @@ Bei Verwendung eines verschachtelten Programms basiert die Entscheidung, eine E-
 
 * Wenn Sie kein Programmteilnehmer sind, erhalten Sie alle E-Mails, die Teil des Programms sind, einmal
 * Wenn Sie Programmteilnehmer sind, erhalten Sie die E-Mail nicht
-* Wenn Sie kein Mitglied mehr sind, aber die E-Mail früher über dieses Programm erhalten haben, erhalten Sie die E-Mail nicht mehr
+* Wenn Sie kein Mitglied mehr sind, aber die E-Mail früher über dieses Programm erhalten haben, erhalten Sie die E-Mail nicht
 
 Wenn Sie ein Programm in einem Stream verwenden, spielt es keine Rolle, ob Sie diese spezifische E-Mail bereits erhalten haben. Solange die E-Mail nicht vor (in *bestimmten Programm) gesendet wurde* können Sie sie erneut erhalten.
 
@@ -50,9 +42,9 @@ Es kann schwierig sein, E-Mails und Programme in einem Interaktionsprogramm zu m
 
 >[!TIP]
 >
->Denken Sie daran, in Ihrer Smart-Liste einen Filter **[!UICONTROL Programm]** Mitglied der Interaktion“ zu verwenden.
+>Verwenden Sie **[!UICONTROL Filter „Mitglied des]**&quot; in Ihrer Smart-Liste.
 
-## Was passiert mit Leuten, die die Kriterien der Smart List nicht erfüllen? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
+## Was passiert mit Personen, die die Kriterien der Smart List nicht erfüllen? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
 Für den Fall, dass jemand aus der Smart-Liste der Smart-Kampagne eines verschachtelten Programms herausgefiltert wird, geht er während der aktuellen Besetzung nicht zum nächsten Inhaltselement über. Sie gehen zum nächsten Inhaltselement im Stream für die *folgende* Besetzung über.
 

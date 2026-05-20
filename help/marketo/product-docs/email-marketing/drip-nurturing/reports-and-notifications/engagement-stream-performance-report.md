@@ -5,16 +5,12 @@ title: Leistungsbericht für Interaktionsströme
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
 TQID: https://experienceleague.adobe.com/63c8ll4a9f8PleyGPDFDIKmXW9b9TsJ3pmqnorwKU2g
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: 166
 ht-degree: 6%
 
 ---
@@ -44,7 +40,7 @@ Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den 
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
-   In Ordnung! Sehen wir uns nun die Einstellungen an.
+   Konfigurieren Sie nun die Einstellungen.
 
 ## Einstellungen bearbeiten {#edit-settings}
 
@@ -62,7 +58,7 @@ Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den 
 
 ## Bericht ausführen {#run-report}
 
-1. Um den Bericht auszuführen, klicken Sie einfach auf die Registerkarte **[!UICONTROL Bericht]**.
+1. Um den Bericht auszuführen, klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
@@ -70,4 +66,4 @@ Möchten Sie wissen, wie Ihre Interaktionsinhalte funktionieren? Testen Sie den 
    >
    >Obwohl nicht dargestellt, ist der Interaktionswert eine Spalte in diesem Bericht. Unter [Verstehen des Interaktionswerts](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) finden Sie Details dazu, was er ist.
 
-   Gut gemacht! Beachten Sie, dass der Bericht nach Interaktionsprogramm gruppiert ist.
+   Beachten Sie, dass der Bericht nach Interaktionsprogramm gruppiert ist.

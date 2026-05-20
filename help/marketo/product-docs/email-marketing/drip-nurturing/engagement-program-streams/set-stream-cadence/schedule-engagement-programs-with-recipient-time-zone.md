@@ -5,26 +5,24 @@ title: Planen von Interaktionsprogrammen mit der Zeitzone der Empfängerin bzw. 
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 207
+source-wordcount: 205
 ht-degree: 9%
 
 ---
 
 # Planen von Interaktionsprogrammen mit der Zeitzone der Empfängerin bzw. des Empfängers {#schedule-engagement-programs-with-recipient-time-zone}
 
-Wenn Sie einen Interaktionsprogramm-Stream planen und die Zeitzone des Empfängers aktiv ist, beginnt die Programmumwandlung um Mitternacht in der ersten Zeitzone (UTC +14) :00. Wir verlangen, dass Sie die erste Besetzung **mindestens 25 Stunden** in der Zukunft planen, da es möglicherweise Personen gibt, die sich für die Besetzung in jeder Zeitzone auf der ganzen Welt qualifizieren. Der Beginn der Verarbeitung zu diesem Zeitpunkt in der ersten Zeitzone garantiert, dass wir die E-Mail zum geplanten Datum und zur geplanten Uhrzeit für jede Empfängerin und jeden Empfänger versenden.
+Wenn Sie einen Interaktionsprogramm-Stream planen und die Zeitzone des Empfängers aktiv ist, beginnt die Programmumwandlung um Mitternacht in der ersten Zeitzone (UTC +14) :00. Die erste Besetzung muss **geplant werden (mindestens 25**), da es möglicherweise Personen gibt, die sich für die Besetzung in jeder Zeitzone auf der ganzen Welt qualifizieren. Durch den Beginn der Verarbeitung zu diesem Zeitpunkt in der ersten Zeitzone wird sichergestellt, dass die E-Mail zum geplanten Zeitpunkt für jeden Empfänger zugestellt wird.
 
 1. Navigieren Sie in Ihrem Interaktionsprogramm zur Registerkarte **[!UICONTROL Streams]** und klicken Sie auf den Kadenzzeitplan eines Streams, um ihn zu bearbeiten.
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Legen Sie Ihre Kadenzeinstellungen &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) wie gewohnt fest und aktivieren Sie dann das Kontrollkästchen **[!UICONTROL Zeitzone des Empfängers]**. Denke daran, dass dein erster Cast mindestens 25 Stunden in der Zukunft liegen muss. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. [Legen Sie Ihre Kadenzeinstellungen ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) wie gewohnt fest und aktivieren Sie dann das Kontrollkästchen **[!UICONTROL Zeitzone des Empfängers]**. Denke daran, dass dein erster Cast mindestens 25 Stunden in der Zukunft liegen muss. Klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 

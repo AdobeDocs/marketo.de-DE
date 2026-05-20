@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1320'
-ht-degree: 78%
+source-wordcount: '1317'
+ht-degree: 75%
 
 ---
 
@@ -135,7 +135,7 @@ Verwenden Sie die **[!UICONTROL HTML]**-Komponente, um die unterschiedlichen Tei
 
 >[!NOTE]
 >
->Um die Kompatibilität von externem Inhalt mit dem E-Mail-Designer zu gewährleisten, empfiehlt Adobe, eine neue Nachricht zu erstellen und den Inhalt aus der existierenden E-Mail in Komponenten einzufügen.
+>Um die Kompatibilität von externem Inhalt mit E-Mail-Designer sicherzustellen, empfiehlt Adobe, eine Nachricht von Grund auf neu zu erstellen und den Inhalt aus der bestehenden E-Mail in Komponenten zu kopieren.
 
 ## Bild {#image}
 
@@ -198,7 +198,7 @@ Verwenden Sie die Komponente **[!UICONTROL Angebotsentscheidung]**, um Angebote 
 
    SCREENSHOT
 
-1. Wählen Sie aus der Dropdown-Liste Ihre **[!UICONTROL Platzierungen]** aus.  Wählen Sie anschließend die **[!UICONTROL Angebotsentscheidung]** aus, zu der Sie Inhalte hinzufügen möchten, und klicken Sie auf **[!UICONTROL Hinzufügen]**.
+1. Wählen Sie aus der Dropdown-Liste Ihre **[!UICONTROL Platzierungen]** aus. Wählen Sie anschließend die **[!UICONTROL Angebotsentscheidung]**, die Sie zu Ihrem Inhalt hinzufügen möchten, und klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
    SCREENSHOT
 
