@@ -2,9 +2,29 @@
 title: 2016
 description: 2016 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
 workflow-type: tm+mt
 source-wordcount: 2768
@@ -20,7 +40,7 @@ Die folgenden Funktionen sind in der Version Winter &#39;16 enthalten. Bitte kli
 
 ## [Ist anonymer Filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Der Filter Ist anonym wurde für Smart-Listen entfernt. Weitere Informationen finden Sie [ Dokument „Häufig gestellte Fragen zum Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)Tracking der nächsten Generation“. Diese Änderung wirkt sich nicht auf Web Personalization (RTP) aus, das anonyme und bekannte Web-Besucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
+Der Filter Ist anonym wurde für Smart-Listen entfernt. Weitere Informationen finden Sie [&#x200B; Dokument „Häufig gestellte Fragen zum Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)Tracking der nächsten Generation“. Diese Änderung wirkt sich nicht auf Web Personalization (RTP) aus, das anonyme und bekannte Web-Besucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
 
 ## [Datenbank-Dashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -30,7 +50,7 @@ Die [!UICONTROL Lead]Datenbank verfügt über ein aktualisiertes Dashboard mit e
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Wir haben [!DNL Microsoft Edge] zur [Liste der von Marketo ](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) Browser“ hinzugefügt.
+Wir haben [!DNL Microsoft Edge] zur [Liste der von Marketo &#x200B;](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) Browser“ hinzugefügt.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
@@ -138,7 +158,7 @@ Die Marketo-REST-APIs unterstützen jetzt die Kontrolle über Marketo-Landingpag
 
 ## [IP-Zulassungsauflistung für API-Zugriff](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Ähnlich wie bei der IP-Zulassungsauflistung für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine Zulassungsliste von IP-Adressen einrichten, die auf die Marketo SOAP- und REST-APIs zugreifen können, und so den Zugriff von nicht autorisierten IP-Adressen blockieren. Dies bietet eine zusätzliche Sicherheitsebene für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur innerhalb des Netzwerks Ihres Unternehmens erfolgen kann. Einzelheiten zum Einrichten finden Sie auf der Dokumentations-Site zu Marketo [](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Ähnlich wie bei der IP-Zulassungsauflistung für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine Zulassungsliste von IP-Adressen einrichten, die auf die Marketo SOAP- und REST-APIs zugreifen können, und so den Zugriff von nicht autorisierten IP-Adressen blockieren. Dies bietet eine zusätzliche Sicherheitsebene für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur innerhalb des Netzwerks Ihres Unternehmens erfolgen kann. Einzelheiten zum Einrichten finden Sie auf der Dokumentations-Site zu Marketo [&#128279;](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Neuer Hochgeschwindigkeits-Microsoft Dynamics-Sync-Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
