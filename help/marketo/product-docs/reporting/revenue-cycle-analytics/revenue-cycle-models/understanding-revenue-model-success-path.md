@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über den Erfolgspfad des Umsatzmodells in Market
 title: Grundlegendes zum Erfolgspfad eines Umsatzmodells
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+source-git-commit: d2f1f0d664576a1ac8f5640dc20ebf50bec58501
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 Im Modell ist der grüne Pfad, auch **Erfolgspfad** der optimale Pfad, wie ein Lead linear zu einem geschlossenen/gewonnenen Unternehmen übergeht.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![Flussdiagramm](assets/image2015-6-12-17-3a12-3a18.png)
 
 Beispielphasen auf einem Erfolgspfad:
 
