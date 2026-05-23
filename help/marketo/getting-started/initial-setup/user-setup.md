@@ -59,9 +59,9 @@ Ihre neuen Marketo Engage-Abonnements wurden in das [Adobe Identity Management S
   </tr>
   <tr>
     <td>Benutzer</td>
-    <td><li>Erstellen Sie eine Richtlinie zum Zeitpunkt der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">Erstellung eines Benutzers</a>.</li> <li>Erstellen Sie eine Richtlinie zum Zeitpunkt der Benutzerentfernung.</li>
+    <td><li>Erstellen Sie eine Richtlinie zum Zeitpunkt der <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html?lang=de">Erstellung eines Benutzers</a>.</li> <li>Erstellen Sie eine Richtlinie zum Zeitpunkt der Benutzerentfernung.</li>
     <p><img src="assets/note-icon.png" alt="Notizensymbol"> HINWEIS: Sie müssen Systemadministrator sein, um Benutzer entfernen zu können.
-    <li>Legen Sie fest, wer über <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=de">Adobe-Systemadministrator- und Marketo Engage-Produktadministrator-Berechtigungen verfügen soll.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Benutzer hinzufügen</a> zum gewünschten Produktprofil hinzufügen.</li>
+    <li>Legen Sie fest, wer über <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=de">Adobe-Systemadministrator- und Marketo Engage-Produktadministrator-Berechtigungen verfügen soll.</a> <li><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Benutzer hinzufügen</a> zum gewünschten Produktprofil hinzufügen.</li>
     <li>Erstellen Sie für jeden API-Anwendungsfall einen API-Benutzer.</li></td>
   </tr>
   <tr>

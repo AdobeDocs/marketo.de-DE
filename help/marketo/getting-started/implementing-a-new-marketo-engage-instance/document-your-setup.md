@@ -59,7 +59,7 @@ Nachdem Sie nun die wichtigsten Produktbereiche kennen, die für eine neue Marke
 <tbody>
   <tr>
     <td>Benutzer</td>
-    <td><li>Dokumentieren Sie aus <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank"> die </a> Benutzer in Ihrer Instanz. Die folgenden Details sollten mindestens enthalten sein (und alle sind sichtbar, wenn Sie zu Admin &gt; Benutzer und Rollen gehen):</li>
+    <td><li>Dokumentieren Sie aus <a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank"> die </a> Benutzer in Ihrer Instanz. Die folgenden Details sollten mindestens enthalten sein (und alle sind sichtbar, wenn Sie zu Admin &gt; Benutzer und Rollen gehen):</li>
     <ul>
     <li>Name</li>
     <li>E-Mail</li>
