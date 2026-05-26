@@ -48,7 +48,7 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugefügt. Schauen Sie also hier vorbei, um mehr darüber zu erfahren.
 
-Bevor Sie sich die nachstehende Tabelle ansehen[ erfahren Sie, ](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) sich Ihr Abonnement im Rechenzentrum und Pod/Server befindet.
+Bevor Sie sich die nachstehende Tabelle ansehen[&#x200B; erfahren Sie, &#x200B;](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) sich Ihr Abonnement im Rechenzentrum und Pod/Server befindet.
 
 <table>
  <tbody>
@@ -70,7 +70,7 @@ Bevor Sie sich die nachstehende Tabelle ansehen[ erfahren Sie, ](/help/marketo/g
    <td>AB70<br>
    AB43</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Updates und Support
