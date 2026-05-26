@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie mit dem Leads-Agenten importieren eine CSV ho
 title: Leads importieren
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '261'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzu
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist nur eingeschränkt verfügbar. Um den Zugriff auf Ihr Abonnement anzufordern, wenden Sie sich an das Adobe Account Team (Ihren Account Manager).
+>Diese Funktion ist nur eingeschränkt verfügbar. Um den Zugriff anzufordern, füllen Sie [dieses Formular](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"} aus. Stellen Sie sicher, dass Sie die Munchkin ID Ihres Abonnements bereit haben.
 
 >[!PREREQUISITES]
 >
