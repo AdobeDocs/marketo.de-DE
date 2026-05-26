@@ -4,21 +4,13 @@ title: Aktuelle Versionshinweise
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
 workflow-type: tm+mt
-source-wordcount: 541
+source-wordcount: 543
 ht-degree: 23%
 
 ---
@@ -43,8 +35,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Marketo-KI</strong>: Nutzen Sie eine Suite von Agenten, die zur Automatisierung zeitaufwendiger, aber wichtiger Marketing-Funktionen entwickelt wurden (zwei Agenten sind jetzt verfügbar, weitere in Kürze verfügbar).
 </td>
-   <td>Eingeschränkte Verfügbarkeit (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">Zugriff hier anfordern</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/marketo-ai/overview">Übersicht über Marketo AI</a></td>
+   <td>Eingeschränkte Verfügbarkeit (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&amp;origin=QRCode">Zugriff hier anfordern</a>)</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview">Übersicht über Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -57,8 +49,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>Marketo MCP-Server</strong>: Der Marketo MCP-Server fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage. Es stellt mehr als 100 Vorgänge in Formularen, Programmen, intelligenten Kampagnen, Personen/Leads, E-Mails, Snippets, Listen und Ordnern bereit.</td>
-   <td>Eingeschränkte Verfügbarkeit (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">Zugriff hier anfordern</a>)</td>
+   <td><strong>Marketo Engage MCP-Server</strong>: Der Marketo Engage MCP-Server fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage. Es stellt mehr als 100 Vorgänge in Formularen, Programmen, intelligenten Kampagnen, Personen/Leads, E-Mails, Snippets, Listen und Ordnern bereit.</td>
+   <td>Eingeschränkte Verfügbarkeit (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&amp;origin=QRCode">Zugriff hier anfordern</a>)</td>
    <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP-Server</a></td>
   </tr>
   <tr>
@@ -107,4 +99,4 @@ Anfang dieses Jahres wurden die verwandten Felder, die zurückgelassen worden wa
 
 * **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Juli 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
 
-* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 geben Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ und „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, einen 1003-Fehler-Code zurück, wenn die statische Zielliste 10.000 oder mehr Leads enthält. Weitere Informationen finden Sie [&#x200B; „Migrationshandbuch](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
+* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 geben Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ und „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, einen 1003-Fehler-Code zurück, wenn die statische Zielliste 10.000 oder mehr Leads enthält. Weitere Informationen finden Sie [ „Migrationshandbuch](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
