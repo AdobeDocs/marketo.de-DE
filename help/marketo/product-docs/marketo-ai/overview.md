@@ -3,9 +3,9 @@ description: Erkunden Sie die Marketo AI-Suite von Agenten, die Marketing-Aufgab
 title: Marketo AI - Übersicht
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Marketo AI bietet Agenten, die zeitaufwendige, aber wichtige Marketing-Funktione
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist nur eingeschränkt verfügbar. Um den Zugriff auf Ihr Abonnement anzufordern, wenden Sie sich an das Adobe Account Team (Ihren Account Manager).
+>Diese Funktion ist nur eingeschränkt verfügbar. Um den Zugriff anzufordern, füllen Sie [dieses Formular](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"} aus. Stellen Sie sicher, dass Sie die Munchkin ID Ihres Abonnements bereit haben.
 
 >[!PREREQUISITES]
 >

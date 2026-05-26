@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: 421
-ht-degree: 28%
+source-wordcount: 541
+ht-degree: 23%
 
 ---
 
@@ -35,6 +35,37 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 <table style="table-layout:auto">
  <tbody>
+ <tr>
+   <th style="width:65%">Funktion</th>
+   <th style="width:10%">Status</th>
+   <th style="width:25%">Dokumentation</th>
+  </tr>
+  <tr>
+   <td><strong>Marketo-KI</strong>: Nutzen Sie eine Suite von Agenten, die zur Automatisierung zeitaufwendiger, aber wichtiger Marketing-Funktionen entwickelt wurden (zwei Agenten sind jetzt verfügbar, weitere in Kürze verfügbar).
+</td>
+   <td>Eingeschränkte Verfügbarkeit (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">Zugriff hier anfordern</a>)</td>
+   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/marketo-ai/overview">Übersicht über Marketo AI</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <th style="width:65%">Funktion</th>
+   <th style="width:10%">Status</th>
+   <th style="width:25%">Dokumentation</th>
+  </tr>
+  <tr>
+   <td><strong>Marketo MCP-Server</strong>: Der Marketo MCP-Server fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage. Es stellt mehr als 100 Vorgänge in Formularen, Programmen, intelligenten Kampagnen, Personen/Leads, E-Mails, Snippets, Listen und Ordnern bereit.</td>
+   <td>Eingeschränkte Verfügbarkeit (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">Zugriff hier anfordern</a>)</td>
+   <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP-Server</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
  <tr>
    <th style="width:65%">Funktion</th>
    <th style="width:10%">Status</th>
