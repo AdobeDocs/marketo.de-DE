@@ -5,15 +5,9 @@ title: Grundlegendes zu benutzerdefinierten Marketo-Objekten
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
 TQID: https://experienceleague.adobe.com/XYlpKUB0bDiuVIYU3-Cjw97zQU3ZBD5myE13beaYNrs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 736
@@ -109,7 +103,7 @@ Wenn Sie mehrere Personen in Marketo haben, bei denen es sich um Datensätze im 
 
 Benutzerdefinierte Objekte können nur direkt mit einem einzelnen Datensatz verknüpft werden. Wenn Ihr benutzerdefinierter Objekttyp also nach Unternehmensfeld verknüpft ist, sollten Sie sicherstellen, dass Ihre Personendatensätze entweder über eine Kontaktkonvertierung im CRM-System oder mithilfe des Felds externalCompanyId mit einem Unternehmen verknüpft sind, wenn Sie Unternehmen mithilfe der REST-APIs von Marketo verwalten. Bei Personendatensätzen, die nicht explizit mit Firmendatensätzen verknüpft sind, werden benutzerdefinierte Objekte, die über „Firma“ verknüpft sind, nach dem Zufallsprinzip mit einem einzelnen Datensatz verknüpft, auch wenn der Wert des Firmenfelds für viele Personen freigegeben ist.
 
-Weitere [&#x200B; finden Sie unter &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) von benutzerdefinierten Objektdaten importieren .
+Weitere [ finden Sie unter ](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) von benutzerdefinierten Objektdaten importieren .
 
 >[!MORELIKETHIS]
 >

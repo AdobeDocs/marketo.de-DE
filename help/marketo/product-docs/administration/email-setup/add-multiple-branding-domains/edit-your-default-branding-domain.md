@@ -5,12 +5,9 @@ title: Bearbeiten Ihrer standardmäßigen Branding-Domain
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
 TQID: https://experienceleague.adobe.com/rZOnzDTwai-e-1p2dRD6m5kGxonJwL7621--8-y-K54
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 138
@@ -24,7 +21,7 @@ Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, [&#x200B; Sie einen CNAME in Ihrem DNS eingerichtet haben](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} bevor Sie Ihre Branding-Domains in Marketo hinzufügen.
+>Vergewissern Sie sich, [ Sie einen CNAME in Ihrem DNS eingerichtet haben](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} bevor Sie Ihre Branding-Domains in Marketo hinzufügen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -34,7 +31,7 @@ Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie zur Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie zur Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
