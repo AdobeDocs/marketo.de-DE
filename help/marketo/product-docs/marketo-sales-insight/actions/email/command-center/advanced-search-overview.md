@@ -4,8 +4,7 @@ title: Erweiterte Suche – Überblick
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 445
@@ -70,7 +69,7 @@ Filtern Sie nach E-Mail-Empfänger/Absender im Abschnitt [!UICONTROL Wer].
 
 **When**
 
-Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status ([!UICONTROL Gesendet], [!UICONTROL Nicht &#x200B;], [!UICONTROL Ausstehend]).
+Wählen Sie „Nach Erstellungsdatum“, „Zustellungsdatum“, „Fehlgeschlagen“ oder „Geplant“ aus. Die verfügbaren Optionen ändern sich je nach ausgewähltem E-Mail-Status ([!UICONTROL Gesendet], [!UICONTROL Nicht ], [!UICONTROL Ausstehend]).
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -86,13 +85,13 @@ Es gibt drei E-Mail-Status zur Auswahl. Die Typ-/Aktivitätsoptionen ändern sic
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Status: gesendet**&#x200B;_
+_**Status: gesendet**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtert nach der Aktivität „Gesendete E-Mails“. Sie können [!UICONTROL Ansichten]/[!UICONTROL keine Ansichten], [!UICONTROL Klicks]/[!UICONTROL keine Klicks] und/oder [!UICONTROL Antworten]/[!UICONTROL keine Antworten].
 
-_&#x200B;**Status: Ausstehend**&#x200B;_
+_**Status: Ausstehend**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -117,7 +116,7 @@ Filtert nach allen ausstehenden E-Mails.
  </tr>
 </table>
 
-_&#x200B;**Status: Nicht zugestellt**&#x200B;_
+_**Status: Nicht zugestellt**_
 
 ![](assets/advanced-search-overview-12.png)
 
