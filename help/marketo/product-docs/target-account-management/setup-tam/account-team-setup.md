@@ -5,8 +5,7 @@ title: Einrichtung des Konten-Teams
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/UyREfPyH-7ICes5S0VhIcu-3MsS5TlNG40TcZ9z5w94
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 199
@@ -40,7 +39,7 @@ Ein Account-Team ist eine Gruppe von Stakeholdern, die gemeinsam an einem benann
 
    >[!NOTE]
    >
-   >Sie können keinen [!UICONTROL Kontoinhaber“ &#x200B;]. Sie wird standardmäßig auf der Kontoebene in Ihrem CRM-System ausgewählt.
+   >Sie können keinen [!UICONTROL Kontoinhaber“ ]. Sie wird standardmäßig auf der Kontoebene in Ihrem CRM-System ausgewählt.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

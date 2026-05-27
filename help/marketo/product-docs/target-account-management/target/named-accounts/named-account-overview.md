@@ -5,8 +5,7 @@ title: '[!UICONTROL Benanntes Konto] Übersicht'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/HXLDqMzv9yi6NfjC2nJq7Fh2Hy95UAX3UMx2S5rg7vA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 254
@@ -18,7 +17,7 @@ ht-degree: 10%
 
 [!UICONTROL Spezifische Konten] enthalten die Personen aus den Unternehmen, an die Sie sich wenden. Das Dashboard enthält aktuelle Daten zu den einzelnen Attributen für alle benannten Konten.
 
-## Dashboard [!UICONTROL Benannte &#x200B;]&quot; {#named-accounts-dashboard}
+## Dashboard [!UICONTROL Benannte ]&quot; {#named-accounts-dashboard}
 
 ![](assets/one.png)
 

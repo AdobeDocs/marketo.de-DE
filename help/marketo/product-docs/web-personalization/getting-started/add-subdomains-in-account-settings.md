@@ -5,13 +5,9 @@ title: Hinzufügen von Subdomains in den Kontoeinstellungen
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/QP1rCY6aYKb-CH7cg-SEY39SwPyeDptXoGMx6Y-IvSY
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 168
@@ -21,7 +17,7 @@ ht-degree: 8%
 
 # Hinzufügen von Subdomains in [!UICONTROL Kontoeinstellungen] {#add-subdomains-in-account-settings}
 
-So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären [!UICONTROL &#x200B; hinzu]. Auf diese Weise können Sie Subdomains verwalten, die sich auf das spezifische RTP-JavaScript Ihrer primären Domain beziehen. Es wird empfohlen, das [!DNL Javascript]-Tag für alle hinzugefügten Subdomains bereitzustellen.
+So fügen Sie in den Kontoeinstellungen Subdomains zu Ihren primären [!UICONTROL  hinzu]. Auf diese Weise können Sie Subdomains verwalten, die sich auf das spezifische RTP-JavaScript Ihrer primären Domain beziehen. Es wird empfohlen, das [!DNL Javascript]-Tag für alle hinzugefügten Subdomains bereitzustellen.
 
 1. Navigieren Sie in Web Personalization zu **[!UICONTROL Kontoeinstellungen]**.
 
