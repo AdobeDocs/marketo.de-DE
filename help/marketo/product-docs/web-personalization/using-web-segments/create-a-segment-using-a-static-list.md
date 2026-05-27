@@ -5,9 +5,12 @@ title: Erstellen eines Segments mithilfe einer statischen Liste
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/XiW8i6vn-Io7S19hxtaQ1om1Yt6BJTsHffB6QvKyxE4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 191
@@ -17,7 +20,7 @@ ht-degree: 10%
 
 # Erstellen eines Segments mithilfe einer statischen Liste {#create-a-segment-using-a-static-list}
 
-Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachdem, ob sie sich in einer Ihrer Marketo-[ befinden oder nicht (statische Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
+Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachdem, ob sie sich in einer Ihrer Marketo-[&#x200B; befinden oder nicht (statische Listen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
 
 1. Navigieren Sie zu **[!UICONTROL Segmente]**.
 
@@ -43,7 +46,7 @@ Segmentieren Sie bekannte Web-Besucher, wenn sie Ihre Website besuchen, je nachd
 
    ![](assets/six-1.png)
 
-1. Wiederholen Sie bei mehreren Listen (oder mehreren Listen mit „ist nicht„) die Schritte, die Sie in [Schritt 5) ](#five) haben.
+1. Wiederholen Sie bei mehreren Listen (oder mehreren Listen mit „ist nicht„) die Schritte, die Sie in [Schritt 5) &#x200B;](#five) haben.
 
    ![](assets/seven-2.png)
 
