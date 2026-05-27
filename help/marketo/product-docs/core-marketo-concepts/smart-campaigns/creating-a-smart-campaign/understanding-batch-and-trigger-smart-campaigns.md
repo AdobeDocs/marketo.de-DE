@@ -5,11 +5,8 @@ title: Grundlegendes zu intelligenten Stapel- und Auslöser-Kampagnen
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/48wdmRPcrjaIavo4EQG3nkQNcUMH33tuISSqU2VouTM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 275
@@ -40,7 +37,7 @@ Durch Klicken auf **[!UICONTROL Zeitplan]** wird bestätigt, dass die Smart-Kamp
 **Batch-Smart-Kampagnen**
 
 * Kann für Wiederholungen geplant werden, z. B. täglich, wöchentlich und monatlich. Sie können sie auch nur einmal ausführen lassen.
-* Sind in der Ansicht [Programmzeitplan“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Alles nach einem „Warten“-Schritt in der Smart-Kampagne wird nicht in die Ansicht aufgenommen.
+* Sind in der Ansicht [Programmzeitplan“ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Alles nach einem „Warten“-Schritt in der Smart-Kampagne wird nicht in die Ansicht aufgenommen.
 
 <br> 
 
