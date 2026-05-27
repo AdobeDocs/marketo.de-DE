@@ -5,9 +5,13 @@ title: Genehmigen, Aufheben der Genehmigung oder Löschen einer Landingpage
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/ZkdN49ElH-F1AGiGJGkevgGzzGKVvA-MSR5Ma0S9AZo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ce
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 269
@@ -67,7 +71,7 @@ Sie können auch im linken Navigationsbereich mit der rechten Maustaste auf Ihre
 
 ## Löschen mehrerer Landingpages {#delete-multiple-landing-pages}
 
-1. Klicken Sie im [!UICONTROL  „Design ]&quot; auf **[!UICONTROL Landingpages]**.
+1. Klicken Sie im [!UICONTROL &#x200B; „Design &#x200B;]&quot; auf **[!UICONTROL Landingpages]**.
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 
