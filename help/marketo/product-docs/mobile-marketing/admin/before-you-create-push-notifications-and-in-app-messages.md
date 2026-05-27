@@ -5,9 +5,13 @@ title: Vor dem Erstellen von Push-Benachrichtigungen und In-App-Nachrichten
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/YNAyIX3spLETvHChasi9xpP9K96ksYdkr-MSdGp2qog
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 417
@@ -27,7 +31,7 @@ Das Erstellen von Push-Benachrichtigungen und In-App-Nachrichten ist nicht schwi
 
 1. Standardmäßig werden In-App-Nachrichten beim Öffnen der App ausgelöst. Wenn Sie Nachrichten für andere Trigger erstellen möchten, z. B. wenn eine bestimmte Seite aufgerufen oder eine bestimmte Schaltfläche gedrückt wird, muss der Entwickler dem Code benutzerdefinierte Ereignisse hinzufügen (siehe [Benutzerspezifische Ereignisse für In-App-Nachrichten](#CustomEvents) unten).
 
-1. Der Entwickler [generiert den Server-API-Schlüssel und die Projektnummer für ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) oder [die Zertifizierung und das Kennwort für iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) und sendet sie an den Marketo-Administrator.
+1. Der Entwickler [generiert den Server-API-Schlüssel und die Projektnummer für &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) oder [die Zertifizierung und das Kennwort für iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) und sendet sie an den Marketo-Administrator.
 
 1. Der Marketo-Administrator konfiguriert den Zugriff auf Push[Benachrichtigungen (mit dem Server-API-Schlüssel (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) oder [mit dem Zertifikat (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 
