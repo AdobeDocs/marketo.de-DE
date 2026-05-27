@@ -5,10 +5,8 @@ title: Erstellen eines neuen E-Mail-Programms in der Zeitplanansicht
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
 TQID: https://experienceleague.adobe.com/YOcP85xZ-fSMEEZMCTnjyamN0gH1VfFMW9KMr7uO0Cg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 125
@@ -40,8 +38,8 @@ Sie können ein E-Mail-Programm in der Ansicht Programmplan erstellen. Und so ge
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Richten Sie Ihr E-Mail-Programm &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} und klicken Sie auf **[!UICONTROL Programm genehmigen]**.
+1. [Richten Sie Ihr E-Mail-Programm ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} und klicken Sie auf **[!UICONTROL Programm genehmigen]**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Neben dem detaillierten Dashboard bietet die Verwendung eines [E-Mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}Programms anstelle einer intelligenten Kampagne die Möglichkeit, einfach einen A/B[Test zu &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Viel Spaß!
+   Neben dem detaillierten Dashboard bietet die Verwendung eines [E-Mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}Programms anstelle einer intelligenten Kampagne die Möglichkeit, einfach einen A/B[Test zu ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Viel Spaß!
