@@ -5,13 +5,9 @@ title: Performance Insights – Übersicht
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
 TQID: https://experienceleague.adobe.com/FAsjOuq5ZH1WEmEZm2Z9TpQB6W7A9wgHIouafiX1nsM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 263
@@ -39,7 +35,7 @@ Bewerten Sie den [Umsatzbeitrag](/help/marketo/product-docs/reporting/performanc
 
 ![](assets/two.png)
 
-Standardmäßig spiegeln die angezeigten Daten die Leistung nach &quot;[!UICONTROL &quot; &#x200B;]. Sie können zur Leistung wechseln, indem **[!UICONTROL Pipeline]** oder **[!UICONTROL Umsatz]** einfach durch Klicken auf eine dieser Optionen auswählen.
+Standardmäßig spiegeln die angezeigten Daten die Leistung nach &quot;[!UICONTROL &quot; ]. Sie können zur Leistung wechseln, indem **[!UICONTROL Pipeline]** oder **[!UICONTROL Umsatz]** einfach durch Klicken auf eine dieser Optionen auswählen.
 
 ![](assets/3.png)
 
@@ -57,7 +53,7 @@ Klicken Sie in den [!UICONTROL Umsatz] und [!UICONTROL Pipeline]-Dashboards auf 
 
 ## Daten exportieren {#export-data}
 
-Sie können die Daten und Diagramme entweder in [!DNL PowerPoint] oder [!DNL Excel] exportieren. Sie können sie auch als [Schnelldiagramm“ &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+Sie können die Daten und Diagramme entweder in [!DNL PowerPoint] oder [!DNL Excel] exportieren. Sie können sie auch als [Schnelldiagramm“ ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 
