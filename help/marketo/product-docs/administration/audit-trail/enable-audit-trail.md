@@ -5,9 +5,12 @@ title: Aktivieren des Audit-Protokolls
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
 TQID: https://experienceleague.adobe.com/-JXuS64rGSiaTMaiwUfzQWBAekwzj-53w8A2q1oLQWg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 244
@@ -77,7 +80,7 @@ Das Audit-Protokoll steht allen Kunden zur Verfügung und wird von zwei Administ
 
    >[!CAUTION]
    >
-   >Wenn Arbeitsbereiche aktiviert sind, aktivieren Sie das Kontrollkästchen der Rolle, wodurch alle Arbeitsbereiche ausgewählt werden. Wenn Sie die Auswahl eines einzelnen Arbeitsbereichs aufheben, wird das Audit-Protokoll ausgeblendet. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern“ ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >Wenn Arbeitsbereiche aktiviert sind, aktivieren Sie das Kontrollkästchen der Rolle, wodurch alle Arbeitsbereiche ausgewählt werden. Wenn Sie die Auswahl eines einzelnen Arbeitsbereichs aufheben, wird das Audit-Protokoll ausgeblendet. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern“ &#x200B;](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
