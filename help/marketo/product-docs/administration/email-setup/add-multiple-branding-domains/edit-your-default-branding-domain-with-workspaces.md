@@ -5,9 +5,12 @@ title: Bearbeiten Ihrer standardmäßigen Branding-Domain mit Arbeitsbereichen
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
 TQID: https://experienceleague.adobe.com/qp5T6tEkxvsIfdrZaPkpWJHmqfxfZFKbbcKORa8psDU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 147
@@ -25,7 +28,7 @@ ht-degree: 12%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die aktuelle generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie in die Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL &#x200B; Tabelle „Branding]Domains“ die aktuelle generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie in die Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 
