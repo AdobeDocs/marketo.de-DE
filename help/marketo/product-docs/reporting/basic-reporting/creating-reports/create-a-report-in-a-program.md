@@ -5,9 +5,13 @@ title: Erstellen eines Berichts in einem Programm
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
 TQID: https://experienceleague.adobe.com/tTw3chi2S-KxPbdn3yc-bXAyZQqoc-R1-LDa7uSAhg0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 207
@@ -67,8 +71,8 @@ Führen Sie einen Bericht aus, um Personen, Ihre Programme, Landingpages, E-Mail
 
    >[!NOTE]
    >
-   >Sie können schnell mit vielen Berichten enden. Denken Sie daran[ einen Bericht zu ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Sie benötigen ihn nicht mehr.
+   >Sie können schnell mit vielen Berichten enden. Denken Sie daran[&#x200B; einen Bericht zu &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Sie benötigen ihn nicht mehr.
 
    >[!MORELIKETHIS]
    >
-   >Sie können [einen Berichtszeitrahmen ändern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) [einen Basisbericht abonnieren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [einen Bericht nach Excel exportieren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) [ Personen in einem Bericht mit einer Smart-Liste ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) und vieles mehr.
+   >Sie können [einen Berichtszeitrahmen ändern](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) [einen Basisbericht abonnieren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [einen Bericht nach Excel exportieren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) [&#x200B; Personen in einem Bericht mit einer Smart-Liste &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) und vieles mehr.
