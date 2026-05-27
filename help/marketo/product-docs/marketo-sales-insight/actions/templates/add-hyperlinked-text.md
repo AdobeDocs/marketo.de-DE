@@ -4,10 +4,8 @@ title: Hinzufügen von Hyperlink-Text
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/AG9YYnDYtvwKIRym4Rc5vyK0O3UQBz-er4ongNk-dCE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 135
@@ -19,7 +17,7 @@ ht-degree: 8%
 
 Gehen Sie wie folgt vor, um zu erfahren, wie Sie Ihren E-Mail-Vorlagen Hyperlinks hinzufügen.
 
-1. Wählen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Vorlagen“ die gewünschte Vorlage aus (oder erstellen Sie eine neue).
+1. Wählen Sie auf [!UICONTROL  Seite ]Vorlagen“ die gewünschte Vorlage aus (oder erstellen Sie eine neue).
 
    ![](assets/add-hyperlinked-text-1.png)
 
@@ -31,7 +29,7 @@ Gehen Sie wie folgt vor, um zu erfahren, wie Sie Ihren E-Mail-Vorlagen Hyperlink
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Geben Sie die URL ein, mit der sie verknüpft werden soll (d. h. `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de`). Wählen Sie aus, ob die URL im selben oder einem neuen Fenster geöffnet werden soll, und klicken Sie auf **[!UICONTROL Speichern]**.
+1. Geben Sie die URL ein, mit der sie verknüpft werden soll (d. h. `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Wählen Sie aus, ob die URL im selben oder einem neuen Fenster geöffnet werden soll, und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 
