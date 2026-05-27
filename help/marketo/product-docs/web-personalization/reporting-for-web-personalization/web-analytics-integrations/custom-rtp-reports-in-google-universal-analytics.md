@@ -5,15 +5,9 @@ title: Benutzerdefinierte RTP-Berichte in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/U9cVw13-FV-0UmUDm6uSUdbvobSwLdqsklql5TaE28M
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 404
@@ -131,7 +125,7 @@ In diesem Artikel wird erläutert, wie Sie benutzerdefinierte RTP-Berichte für 
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Wählen Sie [!UICONTROL &#x200B; Abschnitt &#x200B;] die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
+1. Wählen Sie [!UICONTROL  Abschnitt ] die Metriken aus, die für Ihr Unternehmen relevant sind. Im Folgenden finden Sie eine Empfehlung:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
