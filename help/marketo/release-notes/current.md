@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: 543
-ht-degree: 23%
+source-wordcount: 700
+ht-degree: 19%
 
 ---
 
@@ -86,6 +86,50 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    </td>
    <td><i>Demnächst verfügbar</i></td>
    <td><i>Demnächst verfügbar</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Wird eingegeben</strong>: Sowohl der Besucher als auch der Agent sehen jetzt ein „Wird eingegeben…“ Benachrichtigung, während die andere Partei tippt, sodass die eine die andere nicht unterbrechen kann.
+   </td>
+   <td>Freigegeben</td>
+   <td>Nicht zutreffend</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Marketo-Auswahlliste/Dropdown-Felder</strong>: Marketo-Auswahllisten/Dropdown-Personenfelder (einschließlich von Salesforce synchronisierter Werte) sind jetzt als Dropdown-Werte im Chat-Profil-Editor verfügbar.
+   </td>
+   <td>Freigegeben</td>
+   <td>Nicht zutreffend</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Status des verpassten Chats</strong>: Wenn ein Agent jetzt einen Chat nicht akzeptiert, wird ein neuer Status „Verpasster Chat“ in den Aktivitätsdetails der Person angezeigt, die in den Chat-Vorgang eingeschlossen hat.
+   </td>
+   <td>Freigegeben</td>
+   <td>Nicht zutreffend</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Neues Verhalten bei der Attributsynchronisierung</strong>: Zuvor wurden Änderungen an neuen Attributen in der Umgebung bis zu 24 Stunden lang blockiert, während die Synchronisierung abgeschlossen war, wodurch die Bearbeitung und Veröffentlichung von Dialogfeldern verhindert wurde. Obwohl das Hinzufügen eines neuen Attributs weiterhin eine vollständige Datensynchronisation erfordert (was bis zu 24 Stunden dauern kann), ist die Umgebung während dieses Prozesses nicht mehr blockiert.
+   </td>
+   <td>Freigegeben</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tbody>
 </table>
