@@ -5,13 +5,9 @@ title: '[!DNL Sales Connect] für CRM'
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/rBfS1XRSdxIS5lQtn7wuPbW8ZqpKKqwAl7z5OnH0wmA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 692
@@ -29,7 +25,7 @@ Die folgenden Felder und Schaltflächen werden von der Metadaten-API in Salesfor
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Salesforce]**.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
@@ -57,7 +53,7 @@ Die Aktualisierungen des Pakets zur [!DNL Salesforce] enthalten Verbesserungen u
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
+1. Klicken [!UICONTROL  unter „Admin-]&quot; auf **[!UICONTROL Salesforce]**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
