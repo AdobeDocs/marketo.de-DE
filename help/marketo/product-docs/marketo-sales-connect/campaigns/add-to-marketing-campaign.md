@@ -5,7 +5,8 @@ title: Hinzufügen zu Marketing-Kampagne
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/jQ4j-SNPZo1rEQhFXNX-7Y8Uu2moL8v9O0g-dbtiyGM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 333
@@ -71,7 +72,7 @@ ht-degree: 2%
 
    ![](assets/one-3.png)
 
-1. Wählen [!UICONTROL  unter „Meine ]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
+1. Wählen [!UICONTROL &#x200B; unter „Meine &#x200B;]&quot; die Gruppe aus, die Sie einer Kampagne hinzufügen möchten.
 
    ![](assets/eleven.png)
 
