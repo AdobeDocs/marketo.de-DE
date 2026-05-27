@@ -5,8 +5,7 @@ title: E-Mail-Verbindung für Outlook-Benutzende
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/xS268qisPGnUKV--cpLyVKNjjCRsehNptKj9qhf93ss
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 321
@@ -93,7 +92,7 @@ Wenn Sie eine Verbindung zu [!DNL Exchange On-Premise] herstellen, erhalten Sie 
 
    ![](assets/one.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
+1. Wählen [!UICONTROL  unter „Mein ]&quot; die Option **[!UICONTROL E-Mail-Einstellungen]** aus.
 
    ![](assets/two.png)
 
