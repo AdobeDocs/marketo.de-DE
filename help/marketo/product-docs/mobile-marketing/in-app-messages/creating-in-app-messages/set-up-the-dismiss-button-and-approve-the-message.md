@@ -5,8 +5,7 @@ title: Schaltfläche „Schließen“ einrichten und Nachricht genehmigen
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/YtWX8jXyDaZYPrWg-K-NEwKmX7EGAeJbrrIjrEyaJRA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 377
@@ -74,7 +73,7 @@ Alle Ihre Auswahlen für Grafiken, Text und Schaltflächen wurden automatisch ge
 
 So viele Möglichkeiten, aber jetzt haben Sie eine großartige In-App-Nachricht, bereit zu gehen!
 
-Jetzt ist es an der Zeit[&#x200B; Ihre Nachricht zu &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Jetzt ist es an der Zeit[ Ihre Nachricht zu ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >

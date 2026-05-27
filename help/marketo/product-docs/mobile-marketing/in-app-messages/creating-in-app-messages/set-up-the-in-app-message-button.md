@@ -5,8 +5,7 @@ title: Einrichten der In-App-Nachrichtenschaltfläche
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/IWEak1rsLUCoSnX6pwQfknDeUN6stmdsrHAloqwtTXs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 283
@@ -72,9 +71,9 @@ Sie können das standardmäßige Schaltflächendesign verwenden, es ändern oder
 
    >[!NOTE]
    >
-   >Die Schaltfläche verfügt immer über eine Tipp-Aktion, sodass das Kontrollkästchen Tipp-Aktion automatisch mit der Standardmeldung „Nachricht [!UICONTROL &quot; &#x200B;] ist.
+   >Die Schaltfläche verfügt immer über eine Tipp-Aktion, sodass das Kontrollkästchen Tipp-Aktion automatisch mit der Standardmeldung „Nachricht [!UICONTROL &quot; ] ist.
 
-Fast da. Der letzte Schritt besteht darin[&#x200B; „In-App-Nachrichtenhintergrund konfigurieren und Schaltfläche schließen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Fast da. Der letzte Schritt besteht darin[ „In-App-Nachrichtenhintergrund konfigurieren und Schaltfläche schließen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >

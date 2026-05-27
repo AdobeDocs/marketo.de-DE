@@ -5,8 +5,7 @@ title: Anzeigen des Dashboards für Push-Benachrichtigungen
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/KXMLSV-xX5YhIwocSxAtnz534ecP1ahOH0nk0N-i2SA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 143
@@ -30,7 +29,7 @@ Es ist einfach zu sehen, wie Ihre Push-Benachrichtigungen funktionieren.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Sie können die Diagramme [!UICONTROL Insgesamt gesendet] und [!UICONTROL Total Taps] für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um [!UICONTROL Tippen Sie auf &#x200B;] in Balkendiagrammen zu sehen.
+1. Sie können die Diagramme [!UICONTROL Insgesamt gesendet] und [!UICONTROL Total Taps] für iOS und Android in Kreisdiagrammen anzeigen. Scrollen Sie nach unten, um [!UICONTROL Tippen Sie auf ] in Balkendiagrammen zu sehen.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

@@ -5,10 +5,8 @@ title: Authentifizieren der Mobile-Zugriffssicherheit
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/nIByv18mX6lQ8NR0aVRMhsOAn-g8BtwZY747ySyovco
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 158
@@ -34,7 +32,7 @@ Um die IDs zu aktivieren, müssen Sie die Codes abrufen und sie Ihrer IT-Abteilu
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Scrollen Sie nach unten und klicken Sie [!UICONTROL &#x200B; Abschnitt &#x200B;] auf **[!UICONTROL Bearbeiten]**.
+1. Scrollen Sie nach unten und klicken Sie [!UICONTROL  Abschnitt ] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
