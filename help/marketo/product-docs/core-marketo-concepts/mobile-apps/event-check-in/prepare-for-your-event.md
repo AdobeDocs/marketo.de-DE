@@ -5,8 +5,11 @@ title: Vorbereiten des Ereignisses
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/bqaLAyN4ltIiO-S6DcBmmhiC09N1ZRPDOgSPYMnMjjM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 438
@@ -28,7 +31,7 @@ Marketo verfügt über eine spezielle Benutzerrolle für die Ereignis-Check-in-A
 
 ## Neue Tablet-Benutzer zur Veranstaltung einladen {#invite-new-tablet-users-to-the-event}
 
-[Laden Sie neue Tablet-Benutzer zum Ereignis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) und weisen Sie ihnen die neue Rolle zu.
+[Laden Sie neue Tablet-Benutzer zum Ereignis &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) und weisen Sie ihnen die neue Rolle zu.
 
 ## Erstellen eines neuen Marketo-Veranstaltungsprogramms {#create-a-new-marketo-event-program}
 
