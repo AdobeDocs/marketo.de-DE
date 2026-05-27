@@ -5,8 +5,7 @@ title: Kontofilter
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/KOr4iyPEQZ5o35-iVAPWaYIbcqipcQX-NfiuoTB8zMI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 205
@@ -70,4 +69,4 @@ Legen Sie &quot;[!UICONTROL Untergeordnete Elemente einschließen] auf **[!UICON
 
 >[!MORELIKETHIS]
 >
->[Account-Trigger &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
+>[Account-Trigger ](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
