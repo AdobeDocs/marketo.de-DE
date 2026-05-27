@@ -4,12 +4,9 @@ title: Übersicht über die Programm-Importbibliothek
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
 TQID: https://experienceleague.adobe.com/SuIhhuChNu1WGVfWj-16vLXt0EewPyYBJTR9L848OD0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-topic_v2:
-  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 191
@@ -21,7 +18,7 @@ ht-degree: 49%
 
 Die Marketo Engage-Referenzbibliothek enthält mehrere Startprogramme, die Sie direkt in Ihre Marketo-Instanz importieren können, um die Erstellung von Programmen zu beschleunigen, die Ihr Team unterstützen.
 
-Die Bibliothek enthält Programme wie E-Mail, Interaktion, Ereignis, Bewertung, Zustellbarkeit und operative Programme. Alle Programme wurden vom Adobe Product Team entwickelt und von unserem [Global Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}-Team im Hinblick auf die Maximierung von Qualität und Effektivität geprüft.
+Die Bibliothek enthält Programme wie E-Mail, Interaktion, Ereignis, Bewertung, Zustellbarkeit und operative Programme. Alle Programme wurden vom Adobe Product Team entwickelt und von unserem [Global Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}-Team im Hinblick auf die Maximierung von Qualität und Effektivität geprüft.
 
 ## Verfügbare Programmbeispiele {#available-program-examples}
 

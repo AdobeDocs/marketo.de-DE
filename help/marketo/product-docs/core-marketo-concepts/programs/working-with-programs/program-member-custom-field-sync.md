@@ -4,10 +4,8 @@ title: Synchronisieren benutzerdefinierter Felder für Programmmitglieder
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
 TQID: https://experienceleague.adobe.com/rR7HHgLCt3VxiUuLvC7XgJXH0PYiO71PDqXq3FGogk8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 362
@@ -19,7 +17,7 @@ ht-degree: 11%
 
 >[!PREREQUISITES]
 >
->* Erstellung [&#x200B; benutzerdefinierten Felder für Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* Erstellung [ benutzerdefinierten Felder für Programmteilnehmer](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
 >* [Synchronisieren einer  [!DNL Salesforce]  mit einem Programm](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
@@ -64,7 +62,7 @@ ht-degree: 11%
 
    >[!NOTE]
    >
-   >Wenn Sie den Datentyp eines Felds in [!DNL Salesforce] umbenennen oder ändern, werden alle Zuordnungen dieses Felds zum benutzerdefinierten Feld [!UICONTROL Programmteilnehmer“ &#x200B;]. Sie können sie jedoch nach der Überprüfung dem neuen Feld zuordnen.
+   >Wenn Sie den Datentyp eines Felds in [!DNL Salesforce] umbenennen oder ändern, werden alle Zuordnungen dieses Felds zum benutzerdefinierten Feld [!UICONTROL Programmteilnehmer“ ]. Sie können sie jedoch nach der Überprüfung dem neuen Feld zuordnen.
 
 ## Zuordnung von Salesforce-Feldern zu benutzerdefinierten Programmteilnehmerfeldern aufheben {#unmap-salesforce-fields-from-program-member-custom-fields}
 
