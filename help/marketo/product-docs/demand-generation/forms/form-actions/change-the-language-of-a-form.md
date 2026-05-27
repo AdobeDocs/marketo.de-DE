@@ -5,13 +5,9 @@ title: Ändern der Sprache eines Formulars
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
 TQID: https://experienceleague.adobe.com/4feFJiI2jW2Z3UQEGK0WNioYTplvK2RK7W0YmkliHnQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 148
@@ -25,7 +21,7 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern.
 
 >[!IMPORTANT]
 >
->Durch die Schritte in diesem Artikel werden die Sprache von Marketo-Standardfeldern sowie der Wortlaut geändert, der in der Beschriftung der Senden-Schaltfläche verwendet wird. Es werden keine ([&#x200B; Felder) &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
+>Durch die Schritte in diesem Artikel werden die Sprache von Marketo-Standardfeldern sowie der Wortlaut geändert, der in der Beschriftung der Senden-Schaltfläche verwendet wird. Es werden keine ([ Felder) ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
 
 1. Navigieren Sie zu **Marketing-Aktivitäten**.
 
@@ -61,7 +57,7 @@ Erfahren Sie, wie Sie die Sprache Ihres Formulars ändern.
 
    >[!TIP]
    >
-   >Denken Sie daran[&#x200B; den von den Formularänderungen &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Entwurf der Landingpage zu genehmigen.
+   >Denken Sie daran[ den von den Formularänderungen ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) Entwurf der Landingpage zu genehmigen.
 
 Im Formular wird nun die von Ihnen ausgewählte Sprache angezeigt.
 
