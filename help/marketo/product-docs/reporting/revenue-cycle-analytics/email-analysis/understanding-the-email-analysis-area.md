@@ -17,7 +17,7 @@ Der Bereich E-Mail-Analyse konzentriert sich auf E-Mail-Metriken. Dieser Artikel
 
 >[!AVAILABILITY]
 >
->Dies ist für Benutzende mit dem Add-on &quot;[ Edition“ oder &quot;](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)&quot; verfügbar. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
+>Dies ist für Benutzende mit dem Add-on &quot;[&#x200B; Edition“ oder &quot;](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)&quot; verfügbar. Detaillierte Informationen erhalten Sie vom zuständigen Vertriebsmitarbeiter.
 
 ## Heatgrid für E-Mail-Klick-Aktivität {#email-click-activity-heat-grid}
 

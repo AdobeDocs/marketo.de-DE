@@ -88,7 +88,7 @@ Sie können alle Modellphasen mit Ihrer [!DNL AdWords]-Konversion an einem Ort v
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 
-1. Wählen Sie für jeden Schritt **den Sie nachverfolgen möchten, das gewünschte**[!DNL AdWords] und **gewünschte**[!DNL AdWords] Conversion aus.
+1. Wählen Sie für jeden Schritt **den Sie nachverfolgen möchten, das gewünschte**&#x200B;[!DNL AdWords] und **gewünschte**&#x200B;[!DNL AdWords] Conversion aus.
 
    ![](assets/image2015-3-27-17-3a30-3a15.png)
 
