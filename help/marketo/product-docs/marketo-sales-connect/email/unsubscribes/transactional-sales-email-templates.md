@@ -4,7 +4,7 @@ title: E-Mail-Vorlagen für Transaktionsverkäufe
 feature: Marketo Sales Connect
 source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '191'
 ht-degree: 5%
 
 ---

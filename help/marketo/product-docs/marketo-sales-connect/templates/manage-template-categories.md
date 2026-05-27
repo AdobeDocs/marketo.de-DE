@@ -2,7 +2,8 @@
 description: Erfahren Sie, wie Sie Vorlagenkategorien für Marketo Sales Connect erstellen, bearbeiten, Duplikate zusammenführen und löschen können, um Ihre E-Mail-Vorlagen zu organisieren und leicht zu finden.
 title: Verwalten von Vorlagenkategorien
 feature: Marketo Sales Connect
-source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
+exl-id: 60836705-1e9a-422b-86c5-e8be1d58380a
+source-git-commit: 2b48226095a13f2e8323db4b13217f733cc7ea7f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 9%
