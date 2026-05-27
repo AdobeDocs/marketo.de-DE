@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Vorlage 1d {#template-1d}
 
-Rechtsklick zum Herunterladen [Vorlage 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+Rechtsklick zum Herunterladen [Vorlage 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=de)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -33,4 +33,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[template1 1d.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+[template1 1d.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=de)

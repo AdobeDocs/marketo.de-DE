@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Vorlage 17b {#template-17b}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 17B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 17B herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=de)
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
@@ -33,4 +33,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
+[Vorlage 17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=de)
