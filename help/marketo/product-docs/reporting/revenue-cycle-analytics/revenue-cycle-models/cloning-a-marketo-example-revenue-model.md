@@ -27,7 +27,7 @@ Marketo verfügt über beispielhafte Umsatzmodellierer, die Sie inspirieren kön
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. Wählen [!UICONTROL  in &quot;]&quot; die Option **[!UICONTROL Modell klonen]**.
+1. Wählen [!UICONTROL &#x200B; in &quot;]&quot; die Option **[!UICONTROL Modell klonen]**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
