@@ -4,16 +4,10 @@ title: Zielgruppenkriterien
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
 TQID: https://experienceleague.adobe.com/1h0-iXYpK53V4jUIZVM-T3TJkxhbaWvmZrb4er1vW18
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 624
@@ -27,7 +21,7 @@ ht-degree: 1%
 
 ## Priorität {#priority}
 
-Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als einen qualifiziert ist. Er wird beim ersten Erstellen [&#x200B; Dialogfelds &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Sie können die Priorität für ein vorhandenes Dialogfeld ändern, indem Sie es öffnen und auf **[!UICONTROL Registerkarte Zielgruppenkriterien]** Dialogfelddetails) wechseln.
+Die Priorität bestimmt, welches Dialogfeld ein Lead erhält, falls er für mehr als einen qualifiziert ist. Er wird beim ersten Erstellen [ Dialogfelds ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Sie können die Priorität für ein vorhandenes Dialogfeld ändern, indem Sie es öffnen und auf **[!UICONTROL Registerkarte Zielgruppenkriterien]** Dialogfelddetails) wechseln.
 
 ![](assets/audience-criteria-1.png)
 
@@ -43,7 +37,7 @@ Mithilfe von Ereignissen können Sie Besuchende gezielt ansprechen, je nachdem, 
 
    ![](assets/audience-criteria-4.png)
 
-1. Fügen Sie die URL der gewünschten Seite im Abschnitt [[!UICONTROL Target“ &#x200B;]](#target).
+1. Fügen Sie die URL der gewünschten Seite im Abschnitt [[!UICONTROL Target“ ]](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -95,7 +89,7 @@ Im Folgenden werden Personen aufgeführt, die sich noch nicht in Ihrer Datenbank
 
    >[!NOTE]
    >
-   >Wenn jemand Ihre Website besucht, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} MunchkinCookies und legt sie im System ab. Die IP-Adresse wird in einer speziellen Datenbank nachgeschlagen, um Standortinformationen und andere Informationen abzuleiten.
+   >Wenn jemand Ihre Website besucht, ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} [MunchkinCookies und legt sie im System ab. Die IP-Adresse wird in einer speziellen Datenbank nachgeschlagen, um Standortinformationen und andere Informationen abzuleiten.
 
 1. _[!UICONTROL Is]_ ist standardmäßig festgelegt. Geben Sie im Feld Werte auswählen NY ein (Sie können auch auf die Dropdown-Liste klicken und aus der Liste auswählen).
 

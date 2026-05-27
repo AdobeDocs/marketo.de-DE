@@ -4,12 +4,9 @@ title: Hinzufügen eines Webinar-Teams
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
 TQID: https://experienceleague.adobe.com/7BngiRMzOdPMZSQkgDOY07ggRv-3zLzOKYJDlMjGAg0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-subfeature_v2:
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: ffdd6159-0e10-4a57-8021-94e93bab8183
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 455
@@ -57,7 +54,7 @@ Der Referent ist eine externe Rolle, die an der Bereitstellung des Webinar-Erleb
 
 >[!NOTE]
 >
-> Mit ![&#x200B; Symbol „Co-Host-URL kopieren](assets/icon-copy-join-url.png) wird die Co-Host-Join-URL kopiert, und mit dem Symbol ![Co-Host eine Einladungs-E-Mail senden](assets/icon-send-invitation-email.png) wird dem Co-Host eine Einladungs-E-Mail gesendet.
+> Mit ![ Symbol „Co-Host-URL kopieren](assets/icon-copy-join-url.png) wird die Co-Host-Join-URL kopiert, und mit dem Symbol ![Co-Host eine Einladungs-E-Mail senden](assets/icon-send-invitation-email.png) wird dem Co-Host eine Einladungs-E-Mail gesendet.
 
 ## Moderator hinzufügen {#add-a-presenter}
 
