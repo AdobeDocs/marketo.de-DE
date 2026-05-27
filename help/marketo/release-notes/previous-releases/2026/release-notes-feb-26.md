@@ -55,7 +55,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer - KI-Assistenten für die </strong>: Jetzt können Sie zusätzlich zu Firefly auch Nano-Bananenmodelle verwenden, um mit dem KI-Assistenten Bilder für E-Mail-Inhalte zu generieren.</td>
    <td>Freigegeben</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">Erstellen von Inhalten für einen bestimmten Abschnitt Ihrer E-Mail</a></td>
+   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">Erstellen von Inhalten für einen bestimmten Abschnitt Ihrer E-Mail</a></td>
   </tr>
   </tbody>
 </table>
@@ -63,7 +63,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Einstellung von SEO** Funktionen: Am Dienstag, 31. März 2026, wird Marketo Engage die Suchmaschinenoptimierungsfunktion (SEO) einstellen. Wenn Sie SEO nicht aktiv verwenden, müssen Sie nichts tun. Wenn Sie SEO in letzter Zeit verwendet haben, haben Sie die Möglichkeit, Ihre Daten zu exportieren. [Weitere Informationen](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
+* **Einstellung von SEO** Funktionen: Am Dienstag, 31. März 2026, wird Marketo Engage die Suchmaschinenoptimierungsfunktion (SEO) einstellen. Wenn Sie SEO nicht aktiv verwenden, müssen Sie nichts tun. Wenn Sie SEO in letzter Zeit verwendet haben, haben Sie die Möglichkeit, Ihre Daten zu exportieren. [Weitere Informationen](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=de){target="_blank"}.
 
 * **Limit für REST-API-Zusammenführung Leads**: Ab dem 31. März 2026 führen Aufrufe, die mehr als 25 IDs im leadIds-Parameter eines Zusammenführungs-Leads-API-Aufrufs enthalten, zu einem 1080-Fehler-Code, und der Aufruf wird übersprungen. Aufträge, die die Zusammenführung von mehr als 25 Datensätzen in einem erfordern, sollten in mehrere Aufträge aufgeteilt werden, um den Erfolg dieser Aufrufe sicherzustellen.
 
