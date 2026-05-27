@@ -4,9 +4,13 @@ title: Best Practices für interaktive Webinare
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
 TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-topic_v2: id: e9001ce2-5245-4a8e-8601-dd958009072fid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1759
@@ -34,7 +38,7 @@ Die folgenden Best Practices können bei der Planung, Gestaltung und Produktion 
 
 * Vermeiden Sie die Planung von Rückgesprächen. Achten Sie darauf, dass Sie mindestens 30 Minuten Vorbereitungszeit haben, bevor Ihr Webinar beginnt. Auf diese Weise können Sie alle Änderungen an der Präsentation in letzter Minute hochladen, Ihr Mikrofon und Ihre Kamera anpassen und neue Präsentatoren mit der Benutzeroberfläche vertraut machen.
 
-* Weisen Sie Ihren Team-Mitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Moderatoren und Moderatoren können den Raum vor den Teilnehmern betreten. Gestalten [ Ihr interaktives Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _bevor_ indem Sie Co-Moderatoren und Moderatoren hinzufügen.
+* Weisen Sie Ihren Team-Mitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Moderatoren und Moderatoren können den Raum vor den Teilnehmern betreten. Gestalten [&#x200B; Ihr interaktives Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _bevor_ indem Sie Co-Moderatoren und Moderatoren hinzufügen.
 
 ### Bewerben einer Veranstaltung {#promoting-your-event}
 

@@ -4,8 +4,11 @@ title: 'Schritt 2 von 3: Erstellen eines Veeva CRM-Benutzers für Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 636
@@ -109,7 +112,7 @@ Mit diesen Schritten kann der Marketo-Synchronisierungsbenutzer die benutzerdefi
    >
    >Aktivieren Sie das [!UICONTROL Kennwort läuft nie ab].
 
-1. Überprüfen Sie [!UICONTROL  Abschnitt „Allgemeine ]&quot;, ob [!UICONTROL Ereignisse bearbeiten] und [!UICONTROL Aufgaben bearbeiten] ausgewählt sind.
+1. Überprüfen Sie [!UICONTROL &#x200B; Abschnitt „Allgemeine &#x200B;]&quot;, ob [!UICONTROL Ereignisse bearbeiten] und [!UICONTROL Aufgaben bearbeiten] ausgewählt sind.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
@@ -117,7 +120,7 @@ Mit diesen Schritten kann der Marketo-Synchronisierungsbenutzer die benutzerdefi
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Stellen Sie [!UICONTROL  Abschnitt „Benutzerdefinierte Objektberechtigungen] sicher, dass [!UICONTROL Lese]-Berechtigungen für [!UICONTROL Aufruf], [!UICONTROL Aufrufschlüsselmeldung] und alle anderen gewünschten benutzerdefinierten Objekte überprüft werden.
+1. Stellen Sie [!UICONTROL &#x200B; Abschnitt „Benutzerdefinierte Objektberechtigungen] sicher, dass [!UICONTROL Lese]-Berechtigungen für [!UICONTROL Aufruf], [!UICONTROL Aufrufschlüsselmeldung] und alle anderen gewünschten benutzerdefinierten Objekte überprüft werden.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
@@ -133,7 +136,7 @@ Mit diesen Schritten kann der Marketo-Synchronisierungsbenutzer die benutzerdefi
    >
    >Dieser Schritt verhindert, dass Felder, die Sie nicht benötigen, in Marketo angezeigt werden. Dadurch wird die Anzeige übersichtlicher und die Synchronisierung beschleunigt.
 
-1. Wechseln Sie auf [!UICONTROL  Seite ]Profildetails“ zum Abschnitt **[!UICONTROL Sicherheit auf]**). Klicken Sie **[!UICONTROL Anzeigen]**, um die Barrierefreiheit für die Objekte [!UICONTROL Kontakt] und [!UICONTROL Konto] zu bearbeiten.
+1. Wechseln Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Profildetails“ zum Abschnitt **[!UICONTROL Sicherheit auf]**). Klicken Sie **[!UICONTROL Anzeigen]**, um die Barrierefreiheit für die Objekte [!UICONTROL Kontakt] und [!UICONTROL Konto] zu bearbeiten.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-17.png)
 
@@ -184,7 +187,7 @@ Marketo benötigt Anmeldeinformationen für den Zugriff auf [!DNL Veeva] CRM. Di
 >
 >Wenn Ihr Unternehmen über keine zusätzlichen [!DNL Veeva] CRM-Lizenzen verfügt, können Sie einen vorhandenen Marketing-Benutzer mit dem Systemadministratorprofil verwenden.
 
-1. Geben Sie in der Navigationssuchleiste „Benutzer“ ein und klicken Sie unter **[!UICONTROL Benutzer verwalten]** auf [!UICONTROL Benutzer ].
+1. Geben Sie in der Navigationssuchleiste „Benutzer“ ein und klicken Sie unter **[!UICONTROL Benutzer verwalten]** auf [!UICONTROL Benutzer &#x200B;].
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-20.png)
 
