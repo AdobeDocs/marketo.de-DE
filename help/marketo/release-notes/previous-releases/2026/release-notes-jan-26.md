@@ -5,8 +5,8 @@ feature: Release Information
 exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
 source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 32%
+source-wordcount: '566'
+ht-degree: 24%
 
 ---
 
@@ -96,6 +96,6 @@ Besuchen Sie [diese Seite](https://helpx.adobe.com/de/adobe-connect/release-note
 
 * **Marketo Community-Migration abgeschlossen**: Die neue Adobe Experience League-Community ist jetzt live! [Es wurden &#x200B;](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=de){target="_blank"} Verbesserungen vorgenommen, um Ihr Marketo-Community-Erlebnis noch besser zu gestalten. [Schau dir das an](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=de){target="_blank"}.
 
-* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem Samstag, 31. Juli 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. Juli 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am Samstag, 31. Juli 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
+* **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Juli 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
