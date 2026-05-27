@@ -5,7 +5,8 @@ title: Erstellen von Inhaltsmustern
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 406
@@ -29,13 +30,13 @@ Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein 
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL  B. ], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
+1. Fügen Sie die URL-Erweiterung der Domain hinzu, in der sich die Webseite befindet. Wählen Sie die Kategorie aus (z[!UICONTROL &#x200B; B. &#x200B;], [!UICONTROL Artikel], [!UICONTROL Datenblatt], [!UICONTROL Pressemitteilung]).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
    >[!NOTE]
    >
-   >Die Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie beim Erstellen [ Kategorien festgelegt ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >Die Elemente in der Dropdown-Liste auf der rechten Seite spiegeln die Kategorien wider, die Sie beim Erstellen [&#x200B; Kategorien festgelegt &#x200B;](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
 1. Klicken Sie auf **+**, um einen weiteren Pfad hinzuzufügen.
 
