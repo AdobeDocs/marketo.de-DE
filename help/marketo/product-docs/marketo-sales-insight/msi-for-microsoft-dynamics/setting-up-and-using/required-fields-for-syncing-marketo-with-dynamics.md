@@ -5,10 +5,8 @@ title: Erforderliche Felder zum Synchronisieren von Marketo mit Dynamics
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/2MpYFkohrwAJ20pKL9zISg2b0jTqougMaRLYJFYHbQs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 181
@@ -18,7 +16,7 @@ ht-degree: 7%
 
 # Erforderliche Felder zum Synchronisieren von Marketo mit [!DNL Dynamics] {#required-fields-for-syncing-marketo-with-dynamics}
 
-Diese Felder *müssen* mit Marketo synchronisiert werden, [!UICONTROL &#x200B; sowohl Lead] als auch [!UICONTROL Kontakt] funktionieren [!DNL Sales Insight]:
+Diese Felder *müssen* mit Marketo synchronisiert werden, [!UICONTROL  sowohl Lead] als auch [!UICONTROL Kontakt] funktionieren [!DNL Sales Insight]:
 
 * Priorität
 * Dringlichkeit
@@ -36,7 +34,7 @@ So können Sie Synchronisierungsfelder überprüfen und hinzufügen.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Aktivieren [!UICONTROL &#x200B; unter &#x200B;] das Kontrollkästchen [!UICONTROL Priorität].
+1. Aktivieren [!UICONTROL  unter ] das Kontrollkästchen [!UICONTROL Priorität].
 
    ![](assets/image2016-6-8-13-3a33-3a50.png)
 
