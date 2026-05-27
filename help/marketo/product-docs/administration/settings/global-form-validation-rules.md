@@ -4,13 +4,9 @@ title: Globale Formularvalidierungsregeln
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
 TQID: https://experienceleague.adobe.com/uGwgB0vL3we5uWah5BxAa1YxcXbshilehIGoocbIEpg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 303
@@ -70,7 +66,7 @@ Bevor Sie diese Funktion verwenden können, müssen Sie ihre Berechtigung für d
 
    >[!NOTE]
    >
-   >In [!UICONTROL &#x200B; Dropdown-Liste Formularvalidierungsregelaktionen &#x200B;] Sie vorhandene Regeln löschen oder bearbeiten.
+   >In [!UICONTROL  Dropdown-Liste Formularvalidierungsregelaktionen ] Sie vorhandene Regeln löschen oder bearbeiten.
 
 1. Benennen Sie Ihre Regel, geben Sie ihr eine optionale Beschreibung und geben Sie die Fehlermeldung ein, die den Besuchern des Formulars angezeigt werden soll. Geben Sie eine oder mehrere Domains, die Sie blockieren möchten, in das Feld Regeln ein, wählen Sie **[!UICONTROL Regel aktivieren]** und klicken Sie auf **[!UICONTROL Erstellen]**.
 

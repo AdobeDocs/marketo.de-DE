@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Vererbte Instanz: Checkliste für Marketing-Aktivitäten {#inherited-instance-marketing-activities-checklist}
 
-Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere Benutzer verschiedene Programme in Ihrer Marketo Engage-Instanz finden und verwalten und sicherstellen können, dass die Personen verarbeitet werden, um vom Marketing zum Vertrieb zu gelangen. Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere Benutzer verschiedene Programme in Ihrer Marketo Engage-Instanz finden und verwalten und sicherstellen können, dass die Personen verarbeitet werden, um vom Marketing zum Vertrieb zu gelangen. Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Organisation {#organization}
 
@@ -157,7 +157,7 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
   </tr>
   <tr>
    <td>Abonnement-/Präferenzzentrum</td>
-   <td><li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=de" target="_blank">Abonnement/Präferenzzentrum</a> eingerichtet? Funktioniert sie so, wie sie sollte?</li></td>
+   <td><li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Abonnement/Präferenzzentrum</a> eingerichtet? Funktioniert sie so, wie sie sollte?</li></td>
   </tr>
   <tr>
    <td>Interessante Momente (falls zutreffend)</td>
