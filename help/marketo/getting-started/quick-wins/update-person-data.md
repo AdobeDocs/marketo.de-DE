@@ -5,9 +5,13 @@ title: Aktualisieren von Personendaten
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/-8fM9lrZT-YHWzC08KAsM917s-QfP-j-NisIydqSG0o
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 182
@@ -46,7 +50,7 @@ Stellen wir uns vor, dass Ihnen auf Ihrer letzten Messe eine Person zusätzliche
 
    >[!TIP]
    >
-   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Importieren einer Personenliste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} und [Ändern des ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}&quot;.
+   >Es gibt viele Möglichkeiten, Personendaten in Marketo zu aktualisieren. Siehe [Importieren einer Personenliste](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} und [Ändern des &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}&quot;.
 
 ## Aktualisieren der Personendaten {#update-the-person-data}
 
