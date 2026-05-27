@@ -5,10 +5,8 @@ title: Erstellen untergeordneter Kampagnen und lokaler Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
 TQID: https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 688
@@ -100,7 +98,7 @@ Der **[!UICONTROL E-Mail senden]** Flussschritt MUSS der zweite Schritt sein. Di
 >
 >Wenn der Person ein Registrierungsfehler zurückgegeben wird, erhält sie die E-Mail-Bestätigung nicht.
 
-Ihr nächster Schritt besteht darin, [Ihre ON24-Ereignisintegration zu &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
+Ihr nächster Schritt besteht darin, [Ihre ON24-Ereignisintegration zu ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

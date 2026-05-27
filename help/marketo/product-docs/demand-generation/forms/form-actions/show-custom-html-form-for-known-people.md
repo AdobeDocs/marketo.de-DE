@@ -5,10 +5,8 @@ title: Anzeigen eines benutzerdefinierten HTML-Formulars für bekannte Personen
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
 TQID: https://experienceleague.adobe.com/9Fmdx0EAvYOgdUHr-cKKuoCDSbdv-dmuxB9P3vxqjVk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 263
@@ -71,7 +69,7 @@ Wenn ein Besucher in der Vergangenheit seinen vollständigen Namen und seine E-M
 
    >[!NOTE]
    >
-   >Denken Sie daran[&#x200B; den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
+   >Denken Sie daran[ den Landingpage-Entwurf zu genehmigen](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) der durch die Formularänderungen erstellt wurde.
 
    Im Folgenden wird gezeigt, was eine Person sehen würde, wenn sie zum selben Formular zurückkehren würde:
 
