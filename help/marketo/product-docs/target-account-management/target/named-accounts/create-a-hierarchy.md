@@ -5,7 +5,8 @@ title: Erstellen einer Hierarchie
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/kjE-3RzO0RBub-PJeySgJzc3mW6QAJ9PmGqMtL6hdjc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 171
@@ -17,7 +18,7 @@ ht-degree: 3%
 
 Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, führen Sie diese Schritte aus, um eine Hierarchie manuell zu erstellen.
 
-1. Aktivieren [!UICONTROL  unter „Benannte ]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
+1. Aktivieren [!UICONTROL &#x200B; unter „Benannte &#x200B;]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
 
    ![](assets/create-a-hierarchy-1.png)
 

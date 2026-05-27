@@ -5,7 +5,8 @@ title: Kontobewertung
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/l---8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 375
@@ -65,7 +66,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
 
    ![](assets/account-score-2.png)
 
-1. Klicken [!UICONTROL  in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL &#x200B; in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/account-score-3.png)
 
@@ -73,7 +74,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
    >
    >Sie können bis zu **fünf** Felder zur Berechnung des [!UICONTROL Kontowerts] auswählen.
 
-1. Geben Sie [!UICONTROL  Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
+1. Geben Sie [!UICONTROL &#x200B; Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
 
    ![](assets/account-score-4.png)
 
