@@ -5,8 +5,10 @@ title: Anpassen von Sternen und Flammen
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/UioVGSyJiAODYHHjcIpqJqZkO-psgtxKHyeIr-6-Sy4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 186
@@ -26,7 +28,7 @@ ht-degree: 6%
 >
 >**Admin-Berechtigungen erforderlich**
 
-1. Klicken [!UICONTROL  unter ] auf **[!UICONTROL Sales Insight]**.
+1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf **[!UICONTROL Sales Insight]**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
@@ -40,7 +42,7 @@ ht-degree: 6%
    >
    >**Definition**
    >
-   >**[!UICONTROL Dynamisch]** - Ist ein Prozentwert, der von (relativen [) ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
+   >**[!UICONTROL Dynamisch]** - Ist ein Prozentwert, der von (relativen [) &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) abgeleitet wird. Tolle Sachen. Diese Methode wird empfohlen.
    >
    >**[!UICONTROL Static]** - Ermöglicht die Definition exakter Score-Zahlen - keine weiteren Prozentsätze, keine geheimen Sauces mehr.
 
