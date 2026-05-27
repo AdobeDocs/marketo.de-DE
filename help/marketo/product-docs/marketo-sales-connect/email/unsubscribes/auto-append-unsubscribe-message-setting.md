@@ -4,10 +4,8 @@ title: Einstellung für automatisches Anhängen einer Abbestellungsnachricht
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
 TQID: https://experienceleague.adobe.com/vF4DuUUB10XpQoMJYGquk8yptjT-5lFcMqYJB9QF7A0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 212
@@ -41,4 +39,4 @@ Stellen Sie sicher, dass jede gesendete E-Mail eine Abmelde-Nachricht enthält, 
 
 >[!TIP]
 >
->Wenn Sie die Einstellung „Nachricht anhängen - Abmelden“ deaktivieren, empfehlen wir, eine Fußzeile zum Abmelden zu Ihren Vorlagen hinzuzufügen, um sicherzustellen, dass Ihre Kommunikation über eine Opt-out-Option verfügt. Dazu können Sie jeder Vorlage Ihre eigene Nachricht hinzufügen oder das Feld `{{team_unsubscribe}}`Dynamisch[&#x200B; &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.
+>Wenn Sie die Einstellung „Nachricht anhängen - Abmelden“ deaktivieren, empfehlen wir, eine Fußzeile zum Abmelden zu Ihren Vorlagen hinzuzufügen, um sicherzustellen, dass Ihre Kommunikation über eine Opt-out-Option verfügt. Dazu können Sie jeder Vorlage Ihre eigene Nachricht hinzufügen oder das Feld `{{team_unsubscribe}}`Dynamisch[ ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.

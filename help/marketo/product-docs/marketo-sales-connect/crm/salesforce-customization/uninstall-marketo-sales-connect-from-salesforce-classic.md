@@ -3,10 +3,8 @@ description: Erfahren Sie, wie Sie Marketo Sales Connect von Salesforce Classic 
 title: Deinstallieren von Marketo Sales Connect aus Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
 TQID: https://experienceleague.adobe.com/OTscQY7SrY7I-ne-us6gPdcSgT41-6VqWvRT0KDqUys
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1196
@@ -60,7 +58,7 @@ So deinstallieren Sie das Marketo Sales Connect-Paket von Ihrem Salesforce-Konto
    >
    >Wenn keine der Schaltflächen ausgegraut ist, bedeutet dies, dass Sie sie nicht hinzugefügt haben. Sie können diesen Abschnitt überspringen.
 
-1. Ziehen Sie die MSC-Schaltflächen per Drag-and[!UICONTROL Drop aus dem Abschnitt „Benutzerdefinierte &#x200B;]&quot; in die Konsole.
+1. Ziehen Sie die MSC-Schaltflächen per Drag-and[!UICONTROL Drop aus dem Abschnitt „Benutzerdefinierte ]&quot; in die Konsole.
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
@@ -144,7 +142,7 @@ Die Kontoansicht enthält nur eine Schaltfläche „E-Mail senden“ und die fol
 
 1. Klicken Sie **[!UICONTROL Meine Registerkarten anpassen]**.
 
-1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf [!UICONTROL &#x200B; Pfeil „Entfernen] und dann auf **[!UICONTROL Speichern]**.
+1. Wählen Sie rechts die Option Marketo Sales Outbox aus. Klicken Sie auf [!UICONTROL  Pfeil „Entfernen] und dann auf **[!UICONTROL Speichern]**.
 
 ## [!DNL Sales Connect] löschen {#delete-sales-connect-package}
 
@@ -388,7 +386,7 @@ Im Folgenden finden Sie eine Liste aller Objekte, die aus Ihrer Salesforce-Insta
   <p>Lead</td>
  </tr>
  <tr>
-  <td>[!UICONTROL -Aufruf mit MSC]</td>
+  <td>[!UICONTROL-Aufruf mit MSC]</td>
   <td>Verkaufsanrufe tätigen von [!DNL Salesforce]</td>
   <td>
   <p>Kontakt

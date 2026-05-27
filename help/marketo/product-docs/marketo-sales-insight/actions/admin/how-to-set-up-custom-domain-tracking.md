@@ -4,8 +4,7 @@ title: Einrichten der Verfolgung benutzerdefinierter Domains
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 197
@@ -35,7 +34,7 @@ Nachdem Sie sich bei Ihrem IT-Team vergewissert haben, dass der CNAME ordnungsge
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Tracking]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Tracking]** aus.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
