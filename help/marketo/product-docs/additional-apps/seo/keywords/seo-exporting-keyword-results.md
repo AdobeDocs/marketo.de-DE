@@ -6,10 +6,8 @@ exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 hide: true
 feature: SEO
 TQID: https://experienceleague.adobe.com/V8HVfCGhMhXFAMkW5ruLIs0JAdN-JRK54uQnxXCrfmo
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 176
@@ -23,12 +21,12 @@ Erfahren Sie, wie Sie Keyword-Ergebnisse exportieren, um sie für Ihr Team freiz
 
 >[!IMPORTANT]
 >
->Am 31. März 2026 hat Marketo Engage [Suchmaschinenoptimierung) &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) ist noch für eine begrenzte Zeit verfügbar. Gehen Sie wie in den folgenden Artikeln beschrieben vor, um Daten zu exportieren.
+>Am 31. März 2026 hat Marketo Engage [Suchmaschinenoptimierung) ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) ist noch für eine begrenzte Zeit verfügbar. Gehen Sie wie in den folgenden Artikeln beschrieben vor, um Daten zu exportieren.
 >
->* [Exportprobleme](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Export Keyword Trends](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Navigieren Sie zum Abschnitt **[!UICONTROL Keywords]**.
 
