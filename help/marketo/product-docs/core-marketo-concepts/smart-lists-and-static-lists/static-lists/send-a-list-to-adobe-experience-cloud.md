@@ -5,9 +5,14 @@ title: Senden einer Liste an Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
 TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 847
@@ -42,7 +47,7 @@ Eine statische Liste ist statisch. In Adobe Experience Cloud werden keine Änder
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Klicken Sie auf die Dropdown-]****[!UICONTROL  Audience Manager-Ordner und wählen Sie den gewünschten Zielordner in der Experience Cloud aus.
+1. Klicken Sie auf die Dropdown-**&#x200B;** Audience Manager-Ordner und wählen Sie den gewünschten Zielordner in der Experience Cloud aus.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
@@ -98,7 +103,7 @@ Sie können die Synchronisierung Ihrer Liste jederzeit beenden.
 
 ### Für Adobe Analytics freigeben {#sharing-to-adobe-analytics}
 
-* Für Benutzende, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, ermöglicht diese Integration die Freigabe von Zielgruppen aus Marketo für Ihre Adobe Analytics Report Suites. Es müssen jedoch einige zusätzliche Konfigurationsschritte in Adobe Audience Manager vorgenommen werden, um dies zu aktivieren. Weitere Informationen zum Einrichten finden Sie in ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} Dokumentation zu [Adobe Audience Manager.
+* Für Benutzende, die sowohl Adobe Audience Manager als auch Adobe Analytics besitzen, ermöglicht diese Integration die Freigabe von Zielgruppen aus Marketo für Ihre Adobe Analytics Report Suites. Es müssen jedoch einige zusätzliche Konfigurationsschritte in Adobe Audience Manager vorgenommen werden, um dies zu aktivieren. Weitere Informationen zum Einrichten finden Sie in [&#128279;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} Dokumentation zu Adobe Audience Manager.
 
 * Nachdem eine Liste von Marketo in Adobe Audience Manager hochgeladen wurde, kann sie auch von Adobe Target aufgerufen werden. Diese Konfiguration [muss in Adobe Target aktiviert sein](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
@@ -122,7 +127,7 @@ Im Hintergrund funktioniert die Zielgruppenintegration durch die Synchronisierun
 
 Wenn die Cookie-Synchronisierung für Ihr Marketo-Abonnement aktiviert ist, versucht munchkin.js von Marketo, Adobe-ECIDs für die Adobe IMS-Organisation zu erfassen und zu speichern, die Sie während der Einrichtung der Integration angegeben haben, und diese ECIDs mit der entsprechenden Marketo-Cookie-Kennung abzugleichen. Dadurch können anonyme Benutzerprofile von Marketo mit Adobe-ECIDs angereichert werden.
 
-Ein weiterer Schritt ist erforderlich, um das anonyme Benutzerprofil mit einem Personenprofil zu verknüpfen, das mithilfe einer Nur-Text-E-Mail identifiziert wird. Wie das genau funktioniert, [ hier beschrieben](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+Ein weiterer Schritt ist erforderlich, um das anonyme Benutzerprofil mit einem Personenprofil zu verknüpfen, das mithilfe einer Nur-Text-E-Mail identifiziert wird. Wie das genau funktioniert, [&#x200B; hier beschrieben](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Welche Informationen werden freigegeben?**
 
