@@ -5,13 +5,9 @@ title: Erstellen eines Programmleistungsberichts
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
 TQID: https://experienceleague.adobe.com/eOHrVpWotDldpL6formixLacARlCaQlWwekPLxzHSmw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 136
@@ -23,7 +19,7 @@ ht-degree: 13%
 
 Dieser Bericht bietet großartige Statistiken zu Ihren Programmen.
 
-1. [Erstellen Sie einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} und wählen Sie den **[!UICONTROL Programm-]**&#x200B;[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Erstellen Sie einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} und wählen Sie den **[!UICONTROL Programm-]**[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Klicken Sie auf **[!UICONTROL Registerkarte]** Bericht“.
 1. Du bist da! Erkunden Sie Ihren Bericht, um zu sehen, wie Ihre Programme funktionieren.
 
@@ -31,7 +27,7 @@ Dieser Bericht bietet großartige Statistiken zu Ihren Programmen.
 
 >[!TIP]
 >
->Um beispielsweise die Programme mit den niedrigsten *Kosten pro Erfolg* zu finden, [&#x200B; Sie Ihren Bericht &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} dieser Spalte und wählen Sie **[!UICONTROL Aufsteigend sortieren]**.
+>Um beispielsweise die Programme mit den niedrigsten *Kosten pro Erfolg* zu finden, [ Sie Ihren Bericht ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} dieser Spalte und wählen Sie **[!UICONTROL Aufsteigend sortieren]**.
 
 Zu den Spalten in einem Programmleistungsbericht gehören:
 
