@@ -14,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->**System** Admins werden nur auf Adobe-Organisationsebene erstellt. Wenn Sie mehr als einen benötigen, wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/en/support).
+>**System** Admins werden nur auf Adobe-Organisationsebene erstellt. Wenn Sie mehr als einen benötigen, wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/de/support).
 
 ## Hinzufügen eines Produktadministrators {#add-a-product-admin}
 
