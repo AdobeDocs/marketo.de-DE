@@ -5,15 +5,9 @@ title: Sales Insight-Seite für Marketo-Admins
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/FTOgWRDvY14tovIUclyWrED5DBXcHXH8APcprG-DlK4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 416
@@ -48,7 +42,7 @@ Standardmäßig verwendet [!DNL Marketo Sales Insight] das Feld Lead-Bewertung z
 
    ![](assets/four.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Lead]Bewertungseinstellungen“ auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL  unter „Lead]Bewertungseinstellungen“ auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/five.png)
 
@@ -78,7 +72,7 @@ Standardmäßig verwendet [!DNL Marketo Sales Insight] das Feld Lead-Bewertung z
 
 **Abmeldeeinstellungen:**
 
-Sie können aus den folgenden Abmeldeeinstellungen für „Keine Vorlage, &quot;[!UICONTROL Standard-E-Mails] und [!UICONTROL Operative E-Mails“ &#x200B;]
+Sie können aus den folgenden Abmeldeeinstellungen für „Keine Vorlage, &quot;[!UICONTROL Standard-E-Mails] und [!UICONTROL Operative E-Mails“ ]
 
 * [!UICONTROL Respektieren Sie die Abmeldeeinstellung]
 * [!UICONTROL Respektieren Sie die Abmeldeeinstellungen, wenn mehr als 1 Empfänger vorhanden ist]
