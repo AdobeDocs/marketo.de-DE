@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Vorlage 6b {#template-6b}
 
-Rechtsklick zum Herunterladen [Vorlage 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
+Rechtsklick zum Herunterladen [Vorlage 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=de)
 
 ![](assets/image2015-7-29-11-3a33-3a2.png)
 
@@ -33,4 +33,4 @@ Diese Vorlage enthält den folgenden Inhalt:
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 6B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
+[Vorlage 6B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=de)
