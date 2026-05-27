@@ -5,13 +5,9 @@ title: Einbetten eines Formulars in eine Web-Kampagne
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/W-ZPPhOBxBKHlB8cobIZG7-qOnrz92uMaZ-JpnSxptI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 372
@@ -93,4 +89,4 @@ So fügen Sie dem Skript CSS-Code hinzu:
 >
 >* [Bearbeiten des CSS eines Formulardesigns](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Dankesnachricht ohne nachfolgende Landingpage anzeigen](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Formulare 2.0](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Formulare 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
