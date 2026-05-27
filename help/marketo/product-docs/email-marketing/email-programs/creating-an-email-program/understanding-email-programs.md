@@ -5,13 +5,9 @@ title: Grundlegendes zu E-Mail-Programmen
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
 TQID: https://experienceleague.adobe.com/XGvX0752QGmkdQ2qTq6dt27HJNCvso-e2xFXY99Y63E
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 332
@@ -46,7 +42,7 @@ Erfahren Sie mehr über die folgenden A/B-Tests:
 
 >[!CAUTION]
 >
->Um präzise Berichte zu erstellen, vermeiden Sie _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Dadurch werden alle Daten in jedem Reporting-Dashboard aggregiert, das an diese E-Mail angehängt ist. Wenn Sie eine E-Mail wiederverwenden müssen, [&#x200B; Sie sie stattdessen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, da diese die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt.
+>Um präzise Berichte zu erstellen, vermeiden Sie _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Dadurch werden alle Daten in jedem Reporting-Dashboard aggregiert, das an diese E-Mail angehängt ist. Wenn Sie eine E-Mail wiederverwenden müssen, [ Sie sie stattdessen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, da diese die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt.
 
 Genieße die Früchte deiner Arbeit. Dashboards zeigen die Leistung von E-Mail-Programmen und A/B-Tests auf einen Blick.
 
@@ -76,7 +72,7 @@ Verwenden Sie ein E-Mail-Programm innerhalb eines Standardprogramms, um die Ding
 
 >[!NOTE]
 >
->E-Mail-Programme können nicht in [Interaktionsprogrammen“ verschachtelt &#x200B;](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Sie können auch nicht erneut gesendet werden und nur jeweils einen Test ausführen.
+>E-Mail-Programme können nicht in [Interaktionsprogrammen“ verschachtelt ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Sie können auch nicht erneut gesendet werden und nur jeweils einen Test ausführen.
 
 ## Zeitplaneinstellungen {#schedule-settings}
 
