@@ -4,7 +4,8 @@ title: Automatische Anmeldung über Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/q6r5vG5dwpOpfUAaJ98MGhf5PW8ppw3bYv-Yv52A5DY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 99
@@ -18,7 +19,7 @@ Die automatische Anmeldung ermöglicht es [!DNL Sales Insight Actions] Benutzern
 
 So verwenden Sie die automatische Anmeldung:
 
-* [Einstellungen für die Anmeldeverwaltung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) muss auf &quot;[!UICONTROL Nur Salesforce&quot; ].
+* [Einstellungen für die Anmeldeverwaltung](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) muss auf &quot;[!UICONTROL Nur Salesforce&quot; &#x200B;].
 
 * Der Benutzer muss eingeladen worden sein, [!DNL Sales Insight Actions] zu verwenden
 

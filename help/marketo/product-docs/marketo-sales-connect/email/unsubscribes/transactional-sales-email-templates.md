@@ -17,7 +17,7 @@ Wenn Ihr Team Transaktions- oder nicht-kommerzielle E-Mails versendet, können S
 
 * Nicht-kommerzielle E-Mails umgehen die Abmeldungen von Verkäufen und die [Marketo Engage-Abmeldeprüfung](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, aber sie umgehen nicht [blockierte Domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
 
-* Abmelde-Nachrichten werden nicht automatisch an nicht-kommerzielle E-Mails angehängt, auch wenn die [Admin zum Abmelden von Nachrichten anhängen](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} aktiviert ist. Das Feld `{{team_unsubscribe}}`Dynamisch[ füllt jedoch weiterhin ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} Nachricht zur Abmeldung Ihres Teams auf.
+* Abmelde-Nachrichten werden nicht automatisch an nicht-kommerzielle E-Mails angehängt, auch wenn die [Admin zum Abmelden von Nachrichten anhängen](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} aktiviert ist. Das Feld `{{team_unsubscribe}}`Dynamisch[&#x200B; füllt jedoch weiterhin &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} Nachricht zur Abmeldung Ihres Teams auf.
 
 ## Konfigurieren einer E-Mail-Vorlage für die nicht-kommerzielle Verwendung {#configure-an-email-template-for-non-commercial-use}
 
