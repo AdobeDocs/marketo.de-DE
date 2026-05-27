@@ -4,8 +4,10 @@ title: Analytics-Seite – Übersicht
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/vOLcxsTdvayDUx4kCRQmXZ-V-Kir-lR6ECPKeuiplJ0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 403
@@ -15,7 +17,7 @@ ht-degree: 1%
 
 # Analytics-Seite – Übersicht {#analytics-page-overview}
 
-Auf der Registerkarte Analytics sehen Sie Daten zur Interaktion Ihrer E-Mails. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte &quot;[!UICONTROL &quot; nach ] filtern.
+Auf der Registerkarte Analytics sehen Sie Daten zur Interaktion Ihrer E-Mails. Es werden sowohl Einzel- als auch Team-Daten angezeigt. Administratoren können auch auf der Registerkarte &quot;[!UICONTROL &quot; nach &#x200B;] filtern.
 
 ## Wie oft wird es aktualisiert? {#how-often-does-it-update}
 
@@ -37,7 +39,7 @@ Auf den Registerkarten [!UICONTROL Ich] und [!UICONTROL Team] werden Information
 
 ## Registerkarte [!UICONTROL ME] {#me-tab}
 
-Die [Registerkarte ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}Ich“ ist ein hervorragender Ort, um die Interaktion Ihrer E-Mails, Vorlagen und Links zu überprüfen. Wenn Sie Administrator bei Sales Insight-Aktionen sind, können Sie nach beliebigen Benutzenden in Ihrem Team filtern, um deren Statistiken anzuzeigen.
+Die [Registerkarte &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}Ich“ ist ein hervorragender Ort, um die Interaktion Ihrer E-Mails, Vorlagen und Links zu überprüfen. Wenn Sie Administrator bei Sales Insight-Aktionen sind, können Sie nach beliebigen Benutzenden in Ihrem Team filtern, um deren Statistiken anzuzeigen.
 
 ## Registerkarte [!UICONTROL Team] {#team-tab}
 
