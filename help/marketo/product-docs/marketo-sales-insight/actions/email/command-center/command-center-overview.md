@@ -4,7 +4,8 @@ title: Kommandozentrale – Überblick
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/Qyv0jDwHTbvZV3dG2ywoaFkEOunuhJN2yBbWRbdp1HI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 523
@@ -45,7 +46,7 @@ Der Abschnitt E-Mail bietet Ihnen einen Überblick über alle Ihre E-Mails und v
   <td>E-Mails, die derzeit für den Versand geplant sind. Sobald eine E-Mail gesendet wurde, wird sie in den Ordner für zugestellte Nachrichten verschoben.</td>
  </tr>
  <tr>
-  <td>[!UICONTROL-Entwurf]</td>
+  <td>[!UICONTROL -Entwurf]</td>
   <td>Als Entwurf gespeicherte E-Mails.<br/>
   <strong>Hinweis</strong>: Nur einzelne E-Mails können als Entwürfe gespeichert werden. Massen-E-Mails (E-Mails auswählen und senden sowie Gruppen-E-Mails) werden nicht als Entwürfe gespeichert.</td>
  </tr>
