@@ -4,17 +4,10 @@ title: Versionshinweise – September 2025
 feature: Release Information
 exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
 TQID: https://experienceleague.adobe.com/WfcIv3NWuYLgVCvHGcGmKbE6pDLOJ6FBk0OAX5uNJDE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 960
@@ -46,7 +39,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Speicherung von Aktivitäten zu On-Demand-Webinaren</strong>: Benutzenden interaktiver Webinare stehen Dashboard-Daten zu On-Demand-Webinaren jetzt für mehr als 30 Tage zur Verfügung (zuvor waren es nur bis zu 30 Tage ab dem Tag des Webinars).</td>
    <td>Freigegeben</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -110,4 +103,4 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
 
-* **Einstellung der alten Lead-Aktivitätsdaten**: Bis Ende Juni 2026 müssen Benutzende aus dem alten Lead-Aktivitätsdaten-Stream in den neuen Adobe I/O Lead-Aktivitätsdaten-Stream (LADS) migrieren. Diese Einstellung betrifft nur eine Handvoll Benutzender, die in den Lead-Aktivitäts-Datenstrom integriert wurden, bevor er in Adobe I/O Events integriert wurde. Wenn Sie ein neuerer Benutzer von Datenströmen sind oder bereits den Lead-Aktivitäts-Datenstrom über I/O-Ereignisse verwalten, hat dies keine Auswirkungen auf Sie. Migrationsdetails finden [&#x200B; in &#x200B;](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} Artikel .
+* **Einstellung der alten Lead-Aktivitätsdaten**: Bis Ende Juni 2026 müssen Benutzende aus dem alten Lead-Aktivitätsdaten-Stream in den neuen Adobe I/O Lead-Aktivitätsdaten-Stream (LADS) migrieren. Diese Einstellung betrifft nur eine Handvoll Benutzender, die in den Lead-Aktivitäts-Datenstrom integriert wurden, bevor er in Adobe I/O Events integriert wurde. Wenn Sie ein neuerer Benutzer von Datenströmen sind oder bereits den Lead-Aktivitäts-Datenstrom über I/O-Ereignisse verwalten, hat dies keine Auswirkungen auf Sie. Migrationsdetails finden [ in ](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} Artikel .
