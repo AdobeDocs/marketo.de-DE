@@ -5,9 +5,15 @@ title: Anzeigen von Personen oder anonymen Besuchenden in Web-Berichten
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
 TQID: https://experienceleague.adobe.com/fWV7YgBF2itmFnlpSIGjyJDP-K3scJMj8wyVKyYQTdk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 170
@@ -21,9 +27,9 @@ ht-degree: 9%
 >
 >[Fügen Sie Ihrer Website Munchkin-Trackingcode hinzu](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-In den Berichten [[!UICONTROL Web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Seitenaktivität und [[!UICONTROL Unternehmens]Webaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) können Sie entweder ([ Personen oder anonyme Besucher) sehen, ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) Ihre Site besuchen. Die anonymen Besucher haben auf Daten wie Metro Area geschlossen.  So wählen Sie aus, ob der Bericht bekannte Leads oder anonyme Besucher anzeigen soll.
+In den Berichten [[!UICONTROL Web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Seitenaktivität und [[!UICONTROL Unternehmens]Webaktivität](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) können Sie entweder ([&#x200B; Personen oder anonyme Besucher) sehen, &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) Ihre Site besuchen. Die anonymen Besucher haben auf Daten wie Metro Area geschlossen.  So wählen Sie aus, ob der Bericht bekannte Leads oder anonyme Besucher anzeigen soll.
 
-1. Klicken Sie [!UICONTROL  Bericht „Webseitenaktivität] auf **[!UICONTROL Setup]**.
+1. Klicken Sie [!UICONTROL &#x200B; Bericht „Webseitenaktivität] auf **[!UICONTROL Setup]**.
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 
@@ -31,7 +37,7 @@ In den Berichten [[!UICONTROL Web]](/help/marketo/product-docs/reporting/basic-r
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
-1. Wählen Sie im Popup **[!UICONTROL Dropdown-** „Bekannte Leads ]**(Personen) oder** Anonyme Besucher aus.
+1. Wählen Sie im Popup **[!UICONTROL Dropdown-** „Bekannte Leads &#x200B;]&#x200B;**(Personen) oder** Anonyme Besucher aus.
 
    ![](assets/image2016-2-2-14-3a7-3a8.png)
 
