@@ -4,7 +4,8 @@ title: Verwalten von Gruppen
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 349
@@ -49,7 +50,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Erstellen einer Gruppe {#create-a-group}
 
-1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das **+** neben [!UICONTROL Gruppen].
+1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das **+** neben [!UICONTROL Gruppen].
 
    ![](assets/manage-groups-1.png)
 
@@ -81,7 +82,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Freigeben einer Gruppe {#share-a-group}
 
-1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie freigeben möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie freigeben möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-8.png)
 
@@ -97,7 +98,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Freigabe einer Gruppe aufheben {#unshare-a-group}
 
-1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, deren Freigabe Sie aufheben möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, deren Freigabe Sie aufheben möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-11.png)
 
@@ -113,7 +114,7 @@ Erfahren Sie, wie Sie Ihre Gruppen in [!DNL Sales Insight Actions] verwalten.
 
 ## Eine Gruppe umbenennen {#rename-a-group}
 
-1. Suchen Sie auf [!UICONTROL  Seite ]Personen“ die Gruppe, die Sie umbenennen möchten, und wählen Sie sie aus.
+1. Suchen Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ die Gruppe, die Sie umbenennen möchten, und wählen Sie sie aus.
 
    ![](assets/manage-groups-14.png)
 
