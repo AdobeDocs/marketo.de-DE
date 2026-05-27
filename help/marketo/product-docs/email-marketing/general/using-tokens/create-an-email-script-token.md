@@ -5,10 +5,8 @@ title: Erstellen eines E-Mail-Skript-Tokens
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
 TQID: https://experienceleague.adobe.com/3FbkNKaOjEX--zXCOC1EHLEVr5ChimEOJTROMY0bHmc
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 258
@@ -54,7 +52,7 @@ Für fortgeschrittene Entwickler können Sie [Velocity-Skripte](https://velocity
 
 1. Schreiben Sie Ihr Skript in Velocity. Im Folgenden finden Sie einige nützliche Ressourcen:
 
-   * [Dokumentation zu E-Mail-Skripten für Marketo-Entwickler](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting)
+   * [Dokumentation zu E-Mail-Skripten für Marketo-Entwickler](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity-Benutzerhandbuch](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Velocity-Referenzhandbuch](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools-Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
