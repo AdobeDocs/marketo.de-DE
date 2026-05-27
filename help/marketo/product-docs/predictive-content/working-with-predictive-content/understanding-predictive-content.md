@@ -5,8 +5,7 @@ title: Grundlegendes zu prädiktiven Inhalten
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 323
@@ -16,7 +15,7 @@ ht-degree: 2%
 
 # Grundlegendes zu prädiktiven Inhalten {#understanding-predictive-content}
 
-Nachdem Sie [einen Titel für Prognoseinhalte genehmigt haben](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) bearbeiten Sie ihn hier. Auf [!UICONTROL &#x200B; Seite &#x200B;]Prädiktiver Inhalt“ werden alle Titel angezeigt, die Sie für prädiktiven Inhalt genehmigt haben.
+Nachdem Sie [einen Titel für Prognoseinhalte genehmigt haben](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) bearbeiten Sie ihn hier. Auf [!UICONTROL  Seite ]Prädiktiver Inhalt“ werden alle Titel angezeigt, die Sie für prädiktiven Inhalt genehmigt haben.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -61,7 +60,7 @@ In der Tabelle können Sie sehen, welche Quellen für prädiktive Inhalte aktivi
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-Bewegen Sie den Mauszeiger über den Balken in [!UICONTROL &#x200B; Spalte &quot;]&quot;, um die Konversionsrate, die direkte Konversion und die angeklickten Daten anzuzeigen.
+Bewegen Sie den Mauszeiger über den Balken in [!UICONTROL  Spalte &quot;]&quot;, um die Konversionsrate, die direkte Konversion und die angeklickten Daten anzuzeigen.
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 
