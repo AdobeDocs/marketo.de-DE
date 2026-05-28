@@ -5,7 +5,8 @@ title: SFDC-Synchronisierung - Aktivitätssynchronisierung
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/N-pw1q0NXaJGKW1J1R4iqhgXhA42sX5nP0OWPXCuaBc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 175
@@ -27,7 +28,7 @@ Die Synchronisierung erfolgt in eine Richtung, von [!DNL Salesforce] zu Marketo.
 
 ## Kann ich eine Aufgabe mit Marketo erstellen? {#can-i-create-a-task-using-marketo}
 
-Ja, Sie können die Aktion [Aufgabenfluss erstellen“ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
+Ja, Sie können die Aktion [Aufgabenfluss erstellen“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}.
 
 ## Welche Trigger/Filter beziehen sich auf eine Aktivität? {#what-are-the-triggers-filters-related-to-activity}
 

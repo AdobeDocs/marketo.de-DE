@@ -5,9 +5,13 @@ title: 'Schritt 2 von 3: Erstellen eines Salesforce-Benutzers für Marketo (Ente
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/QFFzCkj2oeYkcK36qKjLXDhit4XhWrSX4iMJDQOnor0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 433
@@ -64,7 +68,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
    >
    >Aktivieren Sie das **[!UICONTROL Kennwort läuft nie ab]**.
 
-1. Überprüfen Sie [!UICONTROL  Abschnitt „Allgemeine ]&quot;, ob die folgenden Kontrollkästchen aktiviert sind:
+1. Überprüfen Sie [!UICONTROL &#x200B; Abschnitt „Allgemeine &#x200B;]&quot;, ob die folgenden Kontrollkästchen aktiviert sind:
 
    * [!UICONTROL Leads konvertieren]
    * [!UICONTROL Ereignisse bearbeiten]
@@ -72,7 +76,7 @@ In diesem Artikel richten Sie Benutzerberechtigungen in [!DNL Salesforce] Profil
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Überprüfen Sie [!UICONTROL  Abschnitt ]Standardobjektberechtigungen“, ob die Berechtigungen [!UICONTROL Lesen, Erstellen, Bearbeiten und Löschen] für Folgendes aktiviert sind:
+1. Überprüfen Sie [!UICONTROL &#x200B; Abschnitt &#x200B;]Standardobjektberechtigungen“, ob die Berechtigungen [!UICONTROL Lesen, Erstellen, Bearbeiten und Löschen] für Folgendes aktiviert sind:
 
    * [!UICONTROL Konten]
    * [!UICONTROL Kampagnen]
