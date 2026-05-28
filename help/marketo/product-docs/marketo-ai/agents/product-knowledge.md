@@ -3,9 +3,9 @@ description: Fragen Sie Marketo AI mithilfe von Produktkenntnissen nach Marketo 
 title: Produktkenntnisse
 badge: Beta
 hide: true
-source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Produktkenntnisse bieten Ihnen On-Demand-Zugriff auf Marketo-Know-how, ohne die 
 
 >[!AVAILABILITY]
 >
->Diese Funktion befindet sich in der geschlossenen Beta-Phase und wird in den nächsten Monaten schrittweise eingeführt. Wenn die Kachel „Mit KI erstellen“ auf dem Bildschirm &quot;_Marketo&quot; angezeigt wird, erfahren Sie_ wann sie für Ihr Abonnement aktiviert wurde.
+>Diese Funktion befindet sich derzeit in der geschlossenen Beta-Phase. Bitte verbreiten Sie diese Dokumentation nicht.
 
 ## Informationen zur Verwendung {#how-to-use}
 
