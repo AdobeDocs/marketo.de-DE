@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
+source-git-commit: 37f7aeb9a3ee5618ae57d5b76e90e0be254caacd
 workflow-type: tm+mt
 source-wordcount: '8896'
 ht-degree: 96%
@@ -59,18 +59,6 @@ ht-degree: 96%
       + [Vererbte Instanz: Dokumentieren Ihrer Einrichtung](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Überprüfen der Kernkompetenzen](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Produktdokumentationen {#product-docs}
-   + MARKETO AI {#marketo-ai}
-      + [Überblick](product-docs/marketo-ai/overview.md)
-      + [Einstellungen und Setup](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[Einstellungen und Setup](product-docs/marketo-ai/settings-setup-old.md)
-      + Agentinnen bzw. Agenten {#agents}
-         + {hide-from-toc}[Produktkenntnisse](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[Analytics](product-docs/marketo-ai/agents/analytics.md)
-         + {hide-from-toc}[Programm erstellen](product-docs/marketo-ai/agents/create-program.md)
-         + {hide-from-toc}[Programm klonen](product-docs/marketo-ai/agents/clone-program.md)
-         + {hide-from-toc}[Lead untersuchen](product-docs/marketo-ai/agents/investigate-lead.md)
-         + [Leads importieren](product-docs/marketo-ai/agents/import-leads.md)
-         + [Programm-QA](product-docs/marketo-ai/agents/program-qa.md)
    + Zusätzliche Apps {#additional-apps}
       + SEO {#seo}
          + Keywords {#keywords}
@@ -1119,6 +1107,18 @@ ht-degree: 96%
             + [Verwenden des Tokens „Warnhinweisinfo senden“](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Verwenden von URLs in meinen Token](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [E-Mail CC](product-docs/email-marketing/general/email-cc.md)
+   + MARKETO AI {#marketo-ai}
+      + [Überblick](product-docs/marketo-ai/overview.md)
+      + [Einstellungen und Setup](product-docs/marketo-ai/settings-setup.md)
+      + {hide-from-toc}[Einstellungen und Setup](product-docs/marketo-ai/settings-setup-old.md)
+      + Agentinnen bzw. Agenten {#agents}
+         + {hide-from-toc}[Produktkenntnisse](product-docs/marketo-ai/agents/product-knowledge.md)
+         + {hide-from-toc}[Analytics](product-docs/marketo-ai/agents/analytics.md)
+         + {hide-from-toc}[Programm erstellen](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[Programm klonen](product-docs/marketo-ai/agents/clone-program.md)
+         + {hide-from-toc}[Lead untersuchen](product-docs/marketo-ai/agents/investigate-lead.md)
+         + [Leads importieren](product-docs/marketo-ai/agents/import-leads.md)
+         + [Programm-QA](product-docs/marketo-ai/agents/program-qa.md)
    + Moderne Benutzeroberfläche von Marketo Engage {#marketo-engage-modern-ux}
       + [Überblick](product-docs/marketo-engage-modern-ux/overview.md)
       + [Verwenden der globalen Suche](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
@@ -1921,7 +1921,7 @@ ht-degree: 96%
    + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
    + [Frühere Versionen](release-notes/previous-releases.md)
-   + {hide-from-toc}Frühere Versionen  {#previous-releases}
+   + Frühere Versionen {hide-from-toc} {#previous-releases}
       + 2026 {#2026}
          + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
