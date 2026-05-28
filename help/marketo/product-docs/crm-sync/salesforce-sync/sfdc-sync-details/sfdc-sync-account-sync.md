@@ -5,8 +5,7 @@ title: SFDC-Synchronisierung - Kontosynchronisierung
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/vwdN66F4u7itA91F89GCxPfg0T7VUkchpKb69XDBReA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 240
@@ -32,7 +31,7 @@ Nein. Ein Konto kann viele Kontakte haben, ein Kontakt kann nur ein Konto haben.
 
 ## Kann ich über Marketo Konten erstellen? {#can-i-create-accounts-from-marketo}
 
-Meistens nicht. Wenn Sie jedoch den Flussschritt [Person &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}) für eine Person verwenden, wird ein neuer Kontakt, ein neues Konto und eine neue Opportunity erstellt.
+Meistens nicht. Wenn Sie jedoch den Flussschritt [Person ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}) für eine Person verwenden, wird ein neuer Kontakt, ein neues Konto und eine neue Opportunity erstellt.
 
 >[!CAUTION]
 >
