@@ -3,7 +3,7 @@ description: Erkunden Sie die Marketo AI-Suite von Agenten, die Marketing-Aufgab
 title: Marketo AI - Übersicht
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: d905e4b850d63e3ccf2517c0d2573314b7b8938b
+source-git-commit: 4f19245d55403bd99002de35e4ee226055b96c4d
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 2%
@@ -40,9 +40,9 @@ Klicken Sie im Eingabeaufforderungsfeld auf **Erste Schritte** (oder geben Sie I
 
 Die Center-Konsole verfügt über eine wachsende Anzahl von Agenten, die Ihnen bei verschiedenen Aufgaben helfen. Jeder Agent ist ein speziell entwickelter KI-Assistent, mit dem Sie durch natürliche Sprache interagieren, um eine bestimmte Aufgabe zu erledigen.
 
-### Programm-QA {#program-qa}
+### Programme validieren {#validate-programs}
 
-Die Programm-QA vergleicht Ihre Einrichtung vor dem Launch automatisch mit den Best Practices für Marketo und deckt Probleme auf. Erfahren Sie mehr über den [Programmagenten validieren](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
+„Programme validieren“ vergleicht Ihre Einrichtung vor dem Launch automatisch mit den Best Practices für Marketo und zeigt Probleme an. Erfahren Sie mehr über den [Programmagenten validieren](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
 
 ### Leads importieren {#import-leads}
 
@@ -58,4 +58,4 @@ Weitere Agenten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben en
 
 >[!MORELIKETHIS]
 >
->Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
+>Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
