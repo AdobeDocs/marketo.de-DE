@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
-source-wordcount: 698
-ht-degree: 18%
+source-wordcount: 655
+ht-degree: 19%
 
 ---
 
@@ -74,8 +74,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Auswahllisten-Verwaltung</strong>: Sie können jetzt die Werte angeben, die in Feldern in Marketo Engage verwendet werden können.
    </td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Freigegeben</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">Auswahllisten-Verwaltung</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -83,7 +83,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Wird eingegeben</strong>: Sowohl der Besucher als auch der Agent sehen jetzt ein „Wird eingegeben…“ Benachrichtigung, während die andere Partei tippt, sodass die eine die andere nicht unterbrechen kann.
+   <td><strong>Dynamic Chat - Wird getippt</strong>: Sowohl der Besucher als auch der Agent sehen jetzt eine Benachrichtigung „Wird getippt…“, während der andere Partei tippt, was verhindert, dass der eine die andere unterbricht.
    </td>
    <td>Freigegeben</td>
    <td>Nicht zutreffend</td>
