@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -1114,7 +1114,7 @@ ht-degree: 96%
       + Agentinnen bzw. Agenten {#agents}
          + {hide-from-toc}[Produktkenntnisse](product-docs/marketo-ai/agents/product-knowledge.md)
          + {hide-from-toc}[Surface-Einblicke](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[Erstellen von Programmen](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[Erstellen von Programmen](product-docs/marketo-ai/agents/build-programs.md)
          + {hide-from-toc}[Programm klonen](product-docs/marketo-ai/agents/clone-program.md)
          + {hide-from-toc}[Prüfen von Leads](product-docs/marketo-ai/agents/investigate-leads.md)
          + [Leads importieren](product-docs/marketo-ai/agents/import-leads.md)
@@ -1921,7 +1921,7 @@ ht-degree: 96%
    + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
    + [Frühere Versionen](release-notes/previous-releases.md)
-   + {hide-from-toc}Frühere Versionen  {#previous-releases}
+   + Frühere Versionen {hide-from-toc} {#previous-releases}
       + 2026 {#2026}
          + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
