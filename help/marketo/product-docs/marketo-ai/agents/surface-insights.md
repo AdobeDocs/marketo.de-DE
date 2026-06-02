@@ -3,9 +3,9 @@ description: Sprechen Sie mit Marketo AI über Ihre Marketo Engage-Leistungsdate
 title: Surface-Einblicke
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 5b459e82e0a3bc9a335483b66ca975d39121d025
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -48,4 +48,4 @@ Mit Surface Insights können Sie über Ihre Marketo-Leistungsdaten sprechen. Ste
 * Sehr große Datumsbereiche oder allgemeine Fragen geben möglicherweise allgemeine Zusammenfassungen anstelle detaillierter Details zurück. Zum Beispiel: „Wie haben alle meine Programme in den letzten zwei Jahren abgeschnitten?“
 * Marketo-KI kann Daten einblenden, aber basierend auf den gefundenen Elementen keine Änderungen an Ihren Programmen oder Berichten vornehmen.
 * Für ein detailliertes benutzerdefiniertes Reporting mit bestimmten Filtern und Aufschlüsselungen sind die integrierten Reporting-Tools von Marketo oder eine BI-Integration möglicherweise besser geeignet.
-* Die Attribution auf Multi-Touch-Kampagnen erfordert eine ordnungsgemäße Programmeinrichtung. Die Marketo-KI meldet, was verfolgt wird, und leitet keine Attribution ab, die nicht konfiguriert wurde.
+* Die Attribution auf Multi-Touch-Kampagnen erfordert eine ordnungsgemäße Programmeinrichtung. Marketo-KI berichtet darüber, was verfolgt wird, und leitet keine Attribution ab, die nicht konfiguriert wurde.
