@@ -4,7 +4,7 @@ title: AWS-Migration
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 4a123d365c78c6c03858656c6ef954b55df4338f
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 1%
@@ -48,7 +48,7 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugefügt. Schauen Sie also hier vorbei, um mehr darüber zu erfahren.
 
-Bevor Sie sich die nachstehende Tabelle ansehen[&#x200B; erfahren Sie, &#x200B;](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) sich Ihr Abonnement im Rechenzentrum und Pod/Server befindet.
+Bevor Sie sich die nachstehende Tabelle ansehen[ erfahren Sie, ](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) sich Ihr Abonnement im Rechenzentrum und Pod/Server befindet.
 
 <table>
  <tbody>
@@ -58,7 +58,7 @@ Bevor Sie sich die nachstehende Tabelle ansehen[&#x200B; erfahren Sie, &#x200B;]
    <th style="width:30%">Uhrzeit</th>
   </tr>
   <tr>
-   <td>5. Juni 2026</td>
+   <td>19. Juni 2026</td>
    <td>AB46</td>
    <td>17.00 Uhr PST</td>
   </tr>
@@ -76,9 +76,9 @@ Bevor Sie sich die nachstehende Tabelle ansehen[&#x200B; erfahren Sie, &#x200B;]
    <td>17.00 Uhr PST<br>
    18.00 Uhr PST</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## Updates und Support
 
-Setzen Sie ein Lesezeichen für diese Seite, um die neuesten Aktualisierungen zu erhalten. Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/de/support).
+Setzen Sie ein Lesezeichen für diese Seite, um die neuesten Aktualisierungen zu erhalten. Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/en/support).
