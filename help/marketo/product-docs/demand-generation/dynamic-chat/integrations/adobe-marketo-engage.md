@@ -15,9 +15,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: 338
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Nachdem Sie die [Ersteinrichtung“ abgeschlossen haben](/help/marketo/product-d
 
    >[!NOTE]
    >
-   >Wenn die Kachel nicht angezeigt wird, wenden Sie sich an Ihren Marketo-Administrator.
+   >Wenn die Dynamic Chat-Kachel nicht in Ihrem Bildschirm „Mein Marketo&quot; angezeigt wird, rufen Sie Dynamic Chat über das App-Menü auf experience.adobe.com auf und stellen Sie eine Verbindung zu Marketo über **Konfiguration** > **Integrationen** her. Nach dem Verbinden wird die Kachel angezeigt.
 
 1. Wenn Sie zuvor bereits auf eine Anwendung mit einer Adobe ID zugegriffen haben, gelangen Sie direkt zu Dynamic Chat. Wenn nicht, [richten Sie Ihre Adobe ID ein](https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
