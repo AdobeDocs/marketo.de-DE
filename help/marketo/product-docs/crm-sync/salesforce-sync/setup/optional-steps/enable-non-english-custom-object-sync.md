@@ -7,9 +7,9 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/kPzDEdjDnDAvuJmCtPj0I2Lfl63Lset00t-LwB8DDhI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 67c57a9162946c4b9c424ab3fd445b70e90b530a
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: 195
 ht-degree: 9%
 
 ---
@@ -18,17 +18,15 @@ ht-degree: 9%
 
 Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch eingestellt ist, kann beim Versuch, eine benutzerdefinierte Objektsynchronisierung zu aktivieren, ein Fehler auftreten.
 
-## Der Fehler {#the-error}
-
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## Um ihn herumzukommen {#getting-around-it}
+## Fehlerbehebung {#how-to-fix}
 
 1. Melden Sie sich mit dem Marketo Sync-Benutzer bei [!DNL Salesforce] an.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Wechseln Sie unter dem Benutzernamen zu **[!UICONTROL Setup]**.
+1. Klicken Sie auf die Dropdown-Liste Benutzername und wählen Sie **[!UICONTROL Setup]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
@@ -48,19 +46,23 @@ Wenn Ihr Marketo-Synchronisierungsbenutzer auf eine andere Sprache als Englisch 
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Zurück in Marketo, klicken **[!UICONTROL unter]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objekte]** auf **[!UICONTROL Schema aktualisieren]**.
+1. Scrollen Sie in Ihrem [Adobe](https://account.adobe.com/profile){target="_blank"}Kontoprofil nach unten zu **[!UICONTROL Bevorzugte Sprachen]** und stellen Sie sicher, dass Ihre erste Sprache auf Englisch eingestellt ist.
+
+   ![](assets/enable-non-english-custom-object-sync-step-6.5.png)
+
+1. Navigieren Sie in Marketo Engage zu **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objekte]**. Klicken Sie **[!UICONTROL Schema aktualisieren]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Dadurch wird die Objektliste in englischer Sprache angezeigt. Wählen Sie nun das gewünschte Objekt aus und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
+1. Dadurch wird die Objektliste in englischer Sprache abgerufen. Wählen Sie das gewünschte Objekt aus und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. Beachten Sie, dass Ihr benutzerdefiniertes Objekt jetzt aktiviert ist und synchronisiert wird.
+1. Das benutzerdefinierte Objekt ist jetzt aktiviert und wird synchronisiert.
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. Gehen Sie nun zurück zu [!DNL Salesforce] und ändern Sie mithilfe der oben genannten Schritte den Synchronisierungsbenutzer wieder in Ihre bevorzugte Sprache.
+1. Kehren Sie zu [!DNL Salesforce] zurück und ändern Sie mithilfe der oben genannten Schritte den Synchronisierungsbenutzer wieder in Ihre bevorzugte Sprache.
 
 >[!NOTE]
 >
