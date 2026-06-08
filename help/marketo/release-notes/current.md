@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: f5b235bda9063b8f54321fd62f2c9d5f4442c783
+source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
 workflow-type: tm+mt
-source-wordcount: 655
-ht-degree: 19%
+source-wordcount: 654
+ht-degree: 18%
 
 ---
 
@@ -63,8 +63,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>E-Mail-Designer - Bedingter Inhalt für E</strong>Mail-Fragmente: <i>Parität mit dem alten E-Mail-Editor</i>. Bedingte Inhalte werden jetzt für Fragmente unterstützt.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td>Freigegeben</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
