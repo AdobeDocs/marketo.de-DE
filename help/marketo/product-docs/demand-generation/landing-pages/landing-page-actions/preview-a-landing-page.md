@@ -7,10 +7,10 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+source-git-commit: c4c2273fffb84f37c682e730f4fc27009ebca26d
 workflow-type: tm+mt
-source-wordcount: 149
-ht-degree: 8%
+source-wordcount: 179
+ht-degree: 4%
 
 ---
 
@@ -18,38 +18,38 @@ ht-degree: 8%
 
 Zeigen Sie eine Vorschau Ihrer Landingpage an, um zu sehen, wie sie aussieht, bevor Sie sie live schalten.
 
-## Anzeigen einer Vorschau für eine Landingpage {#preview-a-landing-page-1}
+>[!IMPORTANT]
+>
+>Einige benutzerdefinierte Meta-Tags werden im Vorschaumodus nicht unterstützt (z. B. die `<meta http-equiv="refresh" ...>`-Umleitung), da sie die Content Security-Richtlinie verletzen können, die zur Gewährleistung der Sicherheit in Marketo Engage eingerichtet wurde. Landingpages mit diesen Tags können in der Vorschau angezeigt werden, indem die Vorschau-URL (**Vorschauaktionen** > **Vorschau-URL generieren**) generiert und in ein neues Browser-Fenster eingefügt wird.
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf **[!UICONTROL Vorschau der Seite]**.
+## Anzeigen einer Vorschau für genehmigte Seiten {#preview-approved-page}
 
-   ![](assets/image2014-9-16-16-3a21-3a10.png)
+1. Wählen Sie die gewünschte Landingpage aus und klicken Sie auf **[!UICONTROL Vorschau]**.
 
-   >[!NOTE]
-   >
-   >Der Entwurf ist die Version, an der Sie arbeiten, nicht die Live-Version, die Kundinnen und Kunden sehen.
+   ![](assets/preview-a-landing-page-1.png)
 
-1. Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und **[!UICONTROL Vorschau]** auswählen.
+Sie können auch mit der rechten Maustaste auf Ihre Landingpage klicken und **[!UICONTROL Vorschau]** auswählen.
 
-   ![](assets/image2014-9-17-10-3a9-3a49.png)
+## Vorschau eines Entwurfs {#preview-a-draft}
 
-## Vorschau eines Landingpage-Entwurfs {#preview-a-landing-page-draft}
+1. Wählen Sie die gewünschte Landingpage aus und klicken Sie auf **[!UICONTROL Vorschau des Entwurfs]**.
 
-1. Klicken Sie mit der rechten Maustaste auf eine genehmigte Landingpage mit einer Entwurfsversion und klicken Sie auf **[!UICONTROL Vorschau des Entwurfs]**.
+   ![](assets/preview-a-landing-page-2.png)
 
-   ![](assets/image2014-9-17-10-3a9-3a56.png)
+>[!NOTE]
+>
+>Der Entwurf ist die Version, an der Sie arbeiten, nicht die Live-Version, die Kundinnen und Kunden sehen.
 
-## Vorschau eines Landingpage-Entwurfs beim Bearbeiten {#preview-a-landing-page-draft-while-editing}
+## Vorschau eines Landingpage-Entwurfs beim Bearbeiten {#preview-a-draft-while-editing}
 
-1. Wählen Sie eine Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
+1. Wählen Sie die gewünschte Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 
-   ![](assets/image2014-9-17-10-3a10-3a4.png)
+   ![](assets/preview-a-landing-page-3.png)
 
-1. Sie können während Ihrer Arbeit im Landingpage-Editor jederzeit auf „Entwurf **[!UICONTROL &quot;]**.
+1. Klicken Sie im Landingpage-Editor auf **[!UICONTROL Entwurf in der Vorschau]**.
 
-   ![](assets/image2015-5-21-15-3a48-3a59.png)
+   ![](assets/preview-a-landing-page-4.png)
 
-1. Sie können schnell zur Bearbeitung zurückkehren, indem Sie auf **[!UICONTROL Entwurf bearbeiten]** klicken.
+1. Kehren Sie zur Bearbeitung zurück, indem Sie auf **[!UICONTROL Entwurf bearbeiten]** klicken.
 
-   ![](assets/image2014-9-17-10-3a10-3a20.png)
-
-Sie wissen jetzt, wie Sie eine Vorschau von Landingpages anzeigen können.
+   ![](assets/preview-a-landing-page-5.png)
