@@ -38,7 +38,7 @@ Eine Zielgruppen-CSV kann hochgeladen werden. (Laden Sie eine Beispiel-Zielgrupp
 Eine klare Vorstellung Ihres Kampagnenziels - z. B. „abgelaufene Kunden zurückgewinnen“, „Benutzer zu Testsendungen zu einem Webinar einladen“.
 
 Tipp: Wenn Sie mit dem Schreiben von Eingabeaufforderungen für Marketing-Kampagnen noch nicht vertraut sind, sollten Sie sich zwei Minuten Zeit lassen, um den Eingabeaufforderungshalo zu überfliegen - Best Practices, bevor Sie beginnen. Es schärft alles, was folgt.
-[FÜR KEITH: Wir müssen dieses zusätzliche Dokument erstellen, das auf einer Kombination aus folgenden Elementen basiert:
+&lbrack;FÜR KEITH: Wir müssen dieses zusätzliche Dokument erstellen, das auf einer Kombination aus folgenden Elementen basiert:
 
 1. AJO Content Gen / Prompting Practices (anwendbare Abschnitte:
 
@@ -50,7 +50,7 @@ Schreiben effektiver Ziele
 
 Lassen Sie die Inhaltsspezifikationen weg.)
 
-2. Journey Agent (anwendbare Abschnitte: In den Abschnitten „Umfang“ und „Nicht im Umfang“ müssen wir etwas wie das folgende hinzufügen)
+&#x200B;2. Journey Agent (anwendbare Abschnitte: In den Abschnitten „Umfang“ und „Nicht im Umfang“ müssen wir etwas wie das folgende hinzufügen)
 
 Form
 
@@ -104,10 +104,10 @@ Form
 
 Schritt 4: Kurze Beschreibung und Referenzmaterial hinzufügen
 
-[FÜR KEITH: Erläutern Sie, wie Sie eine Zusammenfassung, Referenzdokumente für die Marke oder einen anderen Kontext anhängen. Abdeckung: - Unterstützte Dateitypen. - Wie Halo diese Informationen nutzt (extrahiert in den Eingabeaufforderungskontext, angewendet auf die Inhaltserstellung usw.). - Dateigrößenbeschränkungen, falls vorhanden
+&lbrack;FÜR KEITH: Erläutern Sie, wie Sie eine Zusammenfassung, Referenzdokumente für die Marke oder einen anderen Kontext anhängen. Abdeckung: - Unterstützte Dateitypen. - Wie Halo diese Informationen nutzt (extrahiert in den Eingabeaufforderungskontext, angewendet auf die Inhaltserstellung usw.). - Dateigrößenbeschränkungen, falls vorhanden
 
 Hier ist ein tiefer Einblick in meine Sitzung auf dem Summit, wo ich dies hier durchgehe: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Einschränkungen - Ich kann Sie mit der Engg verbinden - Neha Pullabhotla, die uns hier bei bestimmten Themen helfen kann. ]
+Einschränkungen - Ich kann Sie mit der Engg verbinden - Neha Pullabhotla, die uns hier bei bestimmten Themen helfen kann. &rbrack;
 
 [SCREENSHOT: Brief-/Referenzanhang-Benutzeroberfläche]
 
@@ -181,14 +181,14 @@ Form
 
 Häufige Fragen
 
-[FÜR KEITH: 4-6 FAQs basierend auf frühzeitigem Benutzerfeedback. Vorgeschlagene Einsteiger - mit unserem Engg-Team besprechen:
+&lbrack;FÜR KEITH: 4-6 FAQs basierend auf frühzeitigem Benutzerfeedback. Vorgeschlagene Einsteiger - mit unserem Engg-Team besprechen:
 - „Warum dauert die erste Antwort so lange?
 - „Was ist, wenn Halo&#39;s Output nicht ganz richtig ist?“
 - „Kann ich E-Mails direkt oder nur per Chat bearbeiten?“
 - „Wie kann ich eine Kampagne speichern, ohne sie zu starten?“
 - „Was passiert, wenn meine Zielgruppen-CSV Fehler aufweist?“
 - „Kann ich eine Kampagne duplizieren oder neu mischen?“
-- „Wie kann ich einen Kampagnenentwurf mit einem Teamkollegen zur Überprüfung freigeben?“]
+- „Wie kann ich einen Kampagnenentwurf mit einem Teamkollegen zur Überprüfung freigeben?“&rbrack;
 
 Form
 
