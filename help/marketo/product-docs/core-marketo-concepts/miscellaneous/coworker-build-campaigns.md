@@ -1,9 +1,9 @@
 ---
-description: TBD.
+description: Eine schrittweise Anleitung zum Erstellen einer E-Mail-Kampagne in CX Enterprise Coworker, von der Eingabe von Eingabeaufforderungen bis zur Überprüfung und zum Export Ihrer Kampagne.
 title: Erstellen und Generieren von E-Mail-Kampagnen
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1179'
 ht-degree: 0%
 
 ---
@@ -73,10 +73,10 @@ Beispiel:
 
 ## Schritt 4: Kurze Beschreibung und Referenzmaterial hinzufügen
 
-&lbrack;FÜR KEITH: Erläutern Sie, wie Sie eine Zusammenfassung, Referenzdokumente für die Marke oder einen anderen Kontext anhängen. Abdeckung: - Unterstützte Dateitypen. - Verwendung dieser Informationen durch CX Enterprise Coworker (in den Eingabeaufforderungskontext extrahiert, auf die Inhaltserstellung angewendet usw.) - Dateigrößenbeschränkungen, falls vorhanden
+[FÜR KEITH: Erläutern Sie, wie Sie eine Zusammenfassung, Referenzdokumente für die Marke oder einen anderen Kontext anhängen. Abdeckung: - Unterstützte Dateitypen. - Verwendung dieser Informationen durch CX Enterprise Coworker (in den Eingabeaufforderungskontext extrahiert, auf die Inhaltserstellung angewendet usw.) - Dateigrößenbeschränkungen, falls vorhanden
 
-Hier ist ein tiefer Einblick in meine Sitzung auf dem Summit, wo ich dies hier durchgehe: https://business.adobe.com/de/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Einschränkungen - Ich kann Sie mit der Engg verbinden - Neha Pullabhotla, die uns hier bei bestimmten Themen helfen kann. &rbrack;
+Hier ist ein tiefer Einblick in meine Sitzung auf dem Summit, wo ich dies hier durchgehe: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Einschränkungen - Ich kann Sie mit der Engg verbinden - Neha Pullabhotla, die uns hier bei bestimmten Themen helfen kann. ]
 
 [SCREENSHOT: Brief-/Referenzanhang-Benutzeroberfläche]
 
@@ -133,11 +133,11 @@ Wenn Sie mit der Kampagne zufrieden sind, haben Sie einige Optionen:
 
 ## Häufige Fragen
 
-&lbrack;FÜR KEITH: 4-6 FAQs basierend auf frühzeitigem Benutzerfeedback. Vorgeschlagene Einsteiger - mit unserem Eng-Team besprechen:
+[FÜR KEITH: 4-6 FAQs basierend auf frühzeitigem Benutzerfeedback. Vorgeschlagene Einsteiger - mit unserem Eng-Team besprechen:
 * „Warum dauert die erste Antwort so lange?
 * „Was ist, wenn die Leistung von CX Enterprise Coworker nicht stimmt?“
 * „Kann ich E-Mails direkt oder nur per Chat bearbeiten?“
 * „Wie kann ich eine Kampagne speichern, ohne sie zu starten?“
 * „Was passiert, wenn meine Zielgruppen-CSV Fehler aufweist?“
 * „Kann ich eine Kampagne duplizieren oder neu mischen?“
-* „Wie kann ich einen Kampagnenentwurf mit einem Teamkollegen zur Überprüfung freigeben?“&rbrack;
+* „Wie kann ich einen Kampagnenentwurf mit einem Teamkollegen zur Überprüfung freigeben?“]
