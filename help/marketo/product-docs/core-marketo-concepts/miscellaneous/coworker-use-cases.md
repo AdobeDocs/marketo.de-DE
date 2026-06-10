@@ -1,16 +1,16 @@
 ---
 description: Durchsuchen Sie echte Eingabeaufforderungsmuster für CX Enterprise Coworker, sortiert nach Anwendungsfällen für Akquise, Interaktion, Ereignisse, Konversion und Aufbewahrungskampagnen.
 title: Anwendungsszenarien
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '525'
 ht-degree: 1%
 
 ---
 
 # Anwendungsszenarien {#use-cases}
 
-Im Folgenden finden Sie echte Eingabeaufforderungsmuster, die Marketing-Experten für Lebenszyklus und Wachstum heute in CX Enterprise Coworker verwenden. Jeder wird kopiert, mit Ihrer eigenen Audience und Ihren Markendetails ausgetauscht und in der Konversation verfeinert.
+Im Folgenden finden Sie echte Eingabeaufforderungsmuster, die von Marketing-Experten für Lebenszyklus und Wachstum in CX Enterprise Coworker verwendet werden. Jeder wird kopiert, mit Ihrer eigenen Audience und Ihren Markendetails ausgetauscht und in der Konversation verfeinert.
 
 ## Informationen zur Verwendung
 
