@@ -75,7 +75,7 @@ Beispiel:
 
 &lbrack;FÜR KEITH: Erläutern Sie, wie Sie eine Zusammenfassung, Referenzdokumente für die Marke oder einen anderen Kontext anhängen. Abdeckung: - Unterstützte Dateitypen. - Verwendung dieser Informationen durch CX Enterprise Coworker (in den Eingabeaufforderungskontext extrahiert, auf die Inhaltserstellung angewendet usw.) - Dateigrößenbeschränkungen, falls vorhanden
 
-Hier ist ein tiefer Einblick in meine Sitzung auf dem Summit, wo ich dies hier durchgehe: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Hier ist ein tiefer Einblick in meine Sitzung auf dem Summit, wo ich dies hier durchgehe: https://business.adobe.com/de/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
 Einschränkungen - Ich kann Sie mit der Engg verbinden - Neha Pullabhotla, die uns hier bei bestimmten Themen helfen kann. &rbrack;
 
 [SCREENSHOT: Brief-/Referenzanhang-Benutzeroberfläche]
