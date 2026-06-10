@@ -1,9 +1,9 @@
 ---
-description: TBD.
+description: Eine schrittweise Anleitung zum Erstellen einer E-Mail-Kampagne in CX Enterprise Coworker, von der Eingabe von Eingabeaufforderungen bis zur Überprüfung und zum Export Ihrer Kampagne.
 title: Erstellen und Generieren von E-Mail-Kampagnen
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1179'
 ht-degree: 0%
 
 ---
