@@ -1,9 +1,9 @@
 ---
 description: Eine schrittweise Anleitung zum Erstellen einer E-Mail-Kampagne in CX Enterprise Coworker, von der Eingabe von Eingabeaufforderungen bis zur Überprüfung und zum Export Ihrer Kampagne.
 title: Erstellen und Generieren von E-Mail-Kampagnen
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '1181'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Erfahren Sie, wie Sie in Minuten vollständige E-Mail-Kampagnen erstellen und ü
 
 Vergewissern Sie sich, dass Sie Folgendes haben:
 
-* Ein gültiges CX Enterprise-Coworker-Konto ([hier anmelden](https://coworker-essentials.experience.adobe.com/) falls noch nicht geschehen).
+* Ein gültiges CX Enterprise-Coworker-Konto ([hier anmelden](https://coworker-essentials.experience.adobe.com/){target="_blank"} falls noch nicht geschehen).
 
 * Ihre Marke wird unter **Ihre**&quot; > **Marken** eingerichtet.
 
@@ -24,27 +24,29 @@ Vergewissern Sie sich, dass Sie Folgendes haben:
 
 * Eine Zielgruppen-CSV kann hochgeladen werden.
 
-* Eine klare Vorstellung von Ihrem Kampagnenziel (z. B. „abgelaufene Kunden zurückgewinnen“, „Benutzer zu einer Testversion einladen„).
-
->[!TIP]
->
->Wenn Sie mit dem Schreiben von Eingabeaufforderungen für Marketing-Kampagnen noch nicht vertraut sind, sollten Sie sich zwei Minuten Zeit nehmen, um _Prompting CX Enterprise Coworker: Best Practices_ zu überspringen.
+* Eine klare Vorstellung von Ihrem Kampagnenziel (z. B. „abgelaufene Kunden zurückgewinnen“ oder „Testbenutzer zu einem Webinar einladen„).
 
 ## Schritt 1: Neuen Chat starten
 
 Von der -Startseite aus haben Sie drei Möglichkeiten, um zu beginnen:
 
-* Geben Sie eine Eingabeaufforderung in die zentrale Eingabeaufforderungsleiste ein.
-* Wählen Sie eine vorgefertigte Kampagnenvorlage aus dem Bereich Vorlagen unter der Eingabeaufforderungsleiste.
-* Verwenden Sie eine Option „help me prompt“ aus dem Dropdown-Menü in der Eingabeaufforderungsleiste, damit CX Enterprise Coworker Sie durch die Erstellung Ihrer Eingabeaufforderung führt.
+**Option 1**: Geben Sie eine Eingabeaufforderung in die zentrale Eingabeaufforderungsleiste ein.
+
+_Verwendung: Wenn Sie genau wissen, was Sie möchten._
+
+Option zwei: Wählen Sie eine vorgefertigte Vorlage aus dem Abschnitt **Kampagnenvorlagen** unter der Eingabeaufforderungsleiste.
+
+_Verwendung: Wenn Sie nicht sicher sind, wo Sie anfangen sollen._
+
+Option 3: Verwenden Sie eine Option „Help me prompt“ aus der Dropdown-Liste in der Eingabeaufforderungsleiste, damit CX Enterprise Coworker Sie durch die Erstellung Ihrer Eingabeaufforderung führt.
+
+_Verwendung: Wenn Sie vielleicht eine Idee haben, was Sie wollen, aber gerne ein wenig Hilfe._
 
 [SCREENSHOT: Startseite mit hervorgehobener Eingabeaufforderungsleiste, Vorlagenzeile und hervorgehobener Option „help me prompt“]
 
 ![](assets/generate-email-campaigns-.png)
 
-[FOR KEITH: Kurze Beschreibung jeder Option und wann welche zu verwenden ist. Empfehlen Sie Vorlagen für Erstanbieter, Freiform-Eingabeaufforderungen für Marketing-Fachleute, die wissen, was sie möchten, und „Helfen Sie mir bei der Eingabeaufforderung“ für alle dazwischen liegenden Personen.]
-
-## Schritt 2: Eingabeaufforderung schreiben
+## Schritt 2: Eingabeaufforderung erstellen
 
 Eine starke CX Enterprise Coworker-Eingabeaufforderung umfasst:
 
@@ -55,11 +57,13 @@ Eine starke CX Enterprise Coworker-Eingabeaufforderung umfasst:
 
 Beispiel:
 
-```
-"Create a win-back email series for customers who bought last year but haven't returned. Use the CSV I uploaded. Include 2–3 emails that feel seasonal and remind them to shop again."
-```
+<pre style="white-space: pre-wrap;">
+„Erstellen Sie eine Win-Back-E-Mail-Serie für Kunden, die im letzten Jahr gekauft, aber nicht zurückgekehrt sind. Verwenden Sie die von mir hochgeladene CSV-Datei. Fügen Sie 2-3 E-Mails hinzu, die sich saisonal anfühlen, und erinnern Sie sie daran, erneut einzukaufen.“
+</pre>
 
-[FOR KEITH: Kann zwei bis drei weitere Prompt-Beispiele aus B2B und B2C hinzufügen, um Abwechslung zu schaffen. Rufen Sie aus Konsistenzgründen Anwendungsfälle aus unserem Sammlungsdokument ab.]
+>[!TIP]
+>
+>Weitere Beispiele finden Sie im Artikel _Anwendungsfälle_ .
 
 [SCREENSHOT: Eingabeaufforderungsleiste mit eingegebenem Beispiel-Eingabeaufforderung]
 
@@ -116,7 +120,7 @@ Die Gesprächsoberfläche macht die Verfeinerung einfach. Wenn Sie Änderungen v
 
 [FÜR KEITH: Hier erfahren Sie, wie Sie Änderungen sowohl im Chat als auch über die direkte Bearbeitung vornehmen können. Erläuterung der Aktualisierung von Artefakten im Kontext. Es gibt derzeit weder die Möglichkeit, dem Workflow über den Editor weitere Knoten hinzuzufügen, noch eine Versionierung. Um die bestmöglichen Ergebnisse zu erzielen, empfehlen wir ihnen auch, Änderungen für ihren gesamten Workflow ganz am Anfang der Erstellung ihres Plans anzufordern]
 
-[SCREENSHOT: Konversationelle Verfeinerung in Aktion - Zeigt ein Vor- und Nachher einer E-Mail nach einer Chat-Anfrage an]
+[SCREENSHOT: Konversationsverfeinerung in Aktion - zeigt ein Vor- und Nachher einer E-Mail nach einer Chat-Anfrage]
 
 ![](assets/generate-email-campaigns-.png)
 
