@@ -1,9 +1,9 @@
 ---
 description: Erfahren Sie mehr über CX Enterprise Coworker, eine KI-native Marketing-Anwendung, die eine einzelne Eingabeaufforderung in eine überprüfungsbereite Kampagne verwandelt.
 title: CX Enterprise-Mitarbeiter - Übersicht
-source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
+source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
 workflow-type: tm+mt
-source-wordcount: '856'
+source-wordcount: '836'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ CX Enterprise Coworker ist eine KI-native Marketing-Anwendung, mit der Sie inner
 
 1. (Optional) Laden Sie eine HTML-E-Mail-Vorlage unter **E-Mail-Vorlagen** hoch, damit CX Enterprise Coworker Ihr Design beim Generieren von Inhalten anwenden kann.
 
-[SCREENSHOT: Anmelde-/Begrüßungsbildschirm für die Testversion von CX Enterprise Coworker]
+   ![Willkommensbildschirm für die Testversion von CX Enterprise Coworker](assets/overview-1.png)
 
 Sie können jetzt Ihre erste Kampagne erstellen.
 
@@ -40,7 +40,7 @@ Sie können jetzt Ihre erste Kampagne erstellen.
 
 Die Benutzeroberfläche von CX Enterprise Coworker ist um eine Navigation auf der linken Seite organisiert.
 
-[SCREENSHOT: KOMMENTIERTER STARTBILDSCHIRM mit dem linken Navigationsbereich (Neuer Chat, Startseite, Chats, Kampagnen, Ihre Inhalte, Anpassen) und dem zentralen Eingabebereich]
+![Startbildschirm](assets/overview-2.gif)
 
 | Abschnitt | Zweck |
 |---|---|
