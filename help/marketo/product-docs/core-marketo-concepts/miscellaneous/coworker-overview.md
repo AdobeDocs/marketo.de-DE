@@ -1,9 +1,9 @@
 ---
 description: Erfahren Sie mehr über CX Enterprise Coworker, eine KI-native Marketing-Anwendung, die eine einzelne Eingabeaufforderung in eine überprüfungsbereite Kampagne verwandelt.
 title: CX Enterprise-Mitarbeiter - Übersicht
-source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
+source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ CX Enterprise Coworker ist eine KI-native Marketing-Anwendung, die Sie von einer
 
 ## Zugriff
 
->[!AVAILABILITY]
+>[!NOTE]
 >
->CX Enterprise Coworker ist bis zum 30. September 2026 kostenlos zu testen.
+>CX Enterprise Coworker ist bis zum 30. September 2026 kostenlos zu testen. Während der Testphase sind alle Assets und Aktivitäten benutzerspezifisch.
 
 1. Navigieren Sie zu coworker-essentials.experience.adobe.com.
 
