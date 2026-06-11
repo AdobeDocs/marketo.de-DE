@@ -111,7 +111,7 @@ Es gibt zwei Möglichkeiten, Ihre Inhalte zu aktualisieren.
 
 * Nehmen Sie die gewünschten Änderungen manuell vor, indem Sie verschiedene Abschnitte in der E-Mail auswählen (z. B. Betreffzeile ersetzen, Bild aktualisieren usw.).
 
-- oder -
+&#x200B;- oder -
 
 * Verwenden Sie die Konversationsoberfläche, um Änderungen vorzunehmen, indem Sie direkt mit CX Enterprise Coworker sprechen. Einige Beispiele:
 
