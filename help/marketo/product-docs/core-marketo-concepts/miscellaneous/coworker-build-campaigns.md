@@ -1,9 +1,9 @@
 ---
 description: Eine schrittweise Anleitung zum Erstellen einer E-Mail-Kampagne in CX Enterprise Coworker, von der Eingabe von Eingabeaufforderungen bis zur Überprüfung und zum Export Ihrer Kampagne.
 title: Erstellen und Generieren von E-Mail-Kampagnen
-source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
+source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
 workflow-type: tm+mt
-source-wordcount: '1179'
+source-wordcount: '1181'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,8 @@ Von der -Startseite aus haben Sie drei Möglichkeiten, um zu beginnen:
 
 [SCREENSHOT: Startseite mit hervorgehobener Eingabeaufforderungsleiste, Vorlagenzeile und hervorgehobener Option „help me prompt“]
 
+![](assets/generate-email-campaigns-.png)
+
 [FOR KEITH: Kurze Beschreibung jeder Option und wann welche zu verwenden ist. Empfehlen Sie Vorlagen für Erstanbieter, Freiform-Eingabeaufforderungen für Marketing-Fachleute, die wissen, was sie möchten, und „Helfen Sie mir bei der Eingabeaufforderung“ für alle dazwischen liegenden Personen.]
 
 ## Schritt 2: Eingabeaufforderung schreiben
@@ -61,11 +63,15 @@ Beispiel:
 
 [SCREENSHOT: Eingabeaufforderungsleiste mit eingegebenem Beispiel-Eingabeaufforderung]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Schritt 3: Zielgruppe hochladen
 
 [FÜR KEITH: Anleitung zum CSV-Upload. Abdeckung: - Wo sich die Upload-Schaltfläche in der Benutzeroberfläche befindet. - Erforderliche Spalten und Formaterwartungen. - Personalisierungsfelder, die CX Enterprise-Mitarbeiter verwenden können (Vorname, Nachbestellungsdatum, Produktkategorie usw.). - Link zur Beispiel-CSV. - Was passiert, wenn Daten unübersichtlich sind oder Felder fehlen.]
 
 [SCREENSHOT: CSV-Upload-Fluss]
+
+![](assets/generate-email-campaigns-.png)
 
 >[!TIP]
 >
@@ -73,12 +79,14 @@ Beispiel:
 
 ## Schritt 4: Kurze Beschreibung und Referenzmaterial hinzufügen
 
-&lbrack;FÜR KEITH: Erläutern Sie, wie Sie eine Zusammenfassung, Referenzdokumente für die Marke oder einen anderen Kontext anhängen. Abdeckung: - Unterstützte Dateitypen. - Verwendung dieser Informationen durch CX Enterprise Coworker (in den Eingabeaufforderungskontext extrahiert, auf die Inhaltserstellung angewendet usw.) - Dateigrößenbeschränkungen, falls vorhanden
+[FÜR KEITH: Erläutern Sie, wie Sie eine Zusammenfassung, Referenzdokumente für die Marke oder einen anderen Kontext anhängen. Abdeckung: - Unterstützte Dateitypen. - Verwendung dieser Informationen durch CX Enterprise Coworker (in den Eingabeaufforderungskontext extrahiert, auf die Inhaltserstellung angewendet usw.) - Dateigrößenbeschränkungen, falls vorhanden
 
-Hier ist ein tiefer Einblick in meine Sitzung auf dem Summit, wo ich dies hier durchgehe: https://business.adobe.com/de/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Einschränkungen - Ich kann Sie mit der Engg verbinden - Neha Pullabhotla, die uns hier bei bestimmten Themen helfen kann. &rbrack;
+Hier ist ein tiefer Einblick in meine Sitzung auf dem Summit, wo ich dies hier durchgehe: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Einschränkungen - Ich kann Sie mit der Engg verbinden - Neha Pullabhotla, die uns hier bei bestimmten Themen helfen kann. ]
 
 [SCREENSHOT: Brief-/Referenzanhang-Benutzeroberfläche]
+
+![](assets/generate-email-campaigns-.png)
 
 ## Schritt 5: Generieren der Kampagne
 
@@ -94,6 +102,8 @@ Klicken Sie **Kampagne erstellen**. CX Enterprise-Mitarbeiter:
 
 [SCREENSHOT: Generiertes Kampagnenboard mit Plan, Journey und sichtbarem Inhalt]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Schritt 6: Überprüfen und verfeinern
 
 Die Gesprächsoberfläche macht die Verfeinerung einfach. Wenn Sie Änderungen vornehmen möchten, wenden Sie sich an den CX Enterprise-Mitarbeiter:
@@ -108,6 +118,8 @@ Die Gesprächsoberfläche macht die Verfeinerung einfach. Wenn Sie Änderungen v
 
 [SCREENSHOT: Konversationelle Verfeinerung in Aktion - Zeigt ein Vor- und Nachher einer E-Mail nach einer Chat-Anfrage an]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Schritt 7: Durchführen eines E-Mail-Testversands
 
 Senden Sie vor dem Start die Kampagne an sich selbst oder ein Mitglied Ihres Teams, um sie in einem echten Posteingang zu überprüfen.
@@ -116,12 +128,15 @@ Senden Sie vor dem Start die Kampagne an sich selbst oder ein Mitglied Ihres Tea
 
 [SCREENSHOT: Testversand-Fluss]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Schritt 8: Starten oder Exportieren
 
 Wenn Sie mit der Kampagne zufrieden sind, haben Sie einige Optionen:
 
->[!NOTE]
->Launch ist derzeit nicht verfügbar, wird aber innerhalb von zwei Wochen nach der ersten Veröffentlichung aktiviert, vorbehaltlich der rechtlichen Genehmigung.
+>[!AVAILABILITY]
+>
+>Launch ist bei der ersten Version nicht verfügbar, soll aber Ende Juni aktiviert werden. Sehen Sie hier nach, um Updates zu erhalten.
 
 * Starten Sie die Kampagne.
 * Exportieren Sie einzelne E-Mails als HTML.
@@ -131,13 +146,15 @@ Wenn Sie mit der Kampagne zufrieden sind, haben Sie einige Optionen:
 
 [SCREENSHOT: Start-/Exportoptionen]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Häufige Fragen
 
-&lbrack;FÜR KEITH: 4-6 FAQs basierend auf frühzeitigem Benutzerfeedback. Vorgeschlagene Einsteiger - mit unserem Eng-Team besprechen:
+[FÜR KEITH: 4-6 FAQs basierend auf frühzeitigem Benutzerfeedback. Vorgeschlagene Einsteiger - mit unserem Eng-Team besprechen:
 * „Warum dauert die erste Antwort so lange?
 * „Was ist, wenn die Leistung von CX Enterprise Coworker nicht stimmt?“
 * „Kann ich E-Mails direkt oder nur per Chat bearbeiten?“
 * „Wie kann ich eine Kampagne speichern, ohne sie zu starten?“
 * „Was passiert, wenn meine Zielgruppen-CSV Fehler aufweist?“
 * „Kann ich eine Kampagne duplizieren oder neu mischen?“
-* „Wie kann ich einen Kampagnenentwurf mit einem Teamkollegen zur Überprüfung freigeben?“&rbrack;
+* „Wie kann ich einen Kampagnenentwurf mit einem Teamkollegen zur Überprüfung freigeben?“]
