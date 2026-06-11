@@ -1,16 +1,16 @@
 ---
 description: Erfahren Sie mehr über CX Enterprise Coworker, eine KI-native Marketing-Anwendung, die eine einzelne Eingabeaufforderung in eine überprüfungsbereite Kampagne verwandelt.
 title: CX Enterprise-Mitarbeiter - Übersicht
-source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
 
 # CX Enterprise-Mitarbeiter - Übersicht {#overview}
 
-CX Enterprise Coworker ist eine KI-native Marketing-Anwendung, mit der Sie innerhalb von Minuten von einer einzigen Eingabeaufforderung zu einer Kampagne für die Überprüfung bereit sind.
+CX Enterprise Coworker ist eine KI-native Marketing-Anwendung, die Sie von einer einzigen Eingabeaufforderung bis hin zu einer vollständigen Kampagne zur Überprüfung bereit führt.
 
 ## Zugriff
 
