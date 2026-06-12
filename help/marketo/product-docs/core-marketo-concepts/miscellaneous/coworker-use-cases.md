@@ -1,20 +1,20 @@
 ---
-description: Durchsuchen Sie echte Eingabeaufforderungsmuster für CX Enterprise Coworker, sortiert nach Anwendungsfällen für Akquise, Interaktion, Ereignisse, Konversion und Aufbewahrungskampagnen.
+description: Durchsuchen Sie echte Eingabeaufforderungsmuster für Adobe CX Enterprise Coworker-Kampagnen, sortiert nach Anwendungsfällen für Akquise, Interaktion, Veranstaltungen, Konversion und Aufbewahrungskampagnen.
 title: Anwendungsfälle
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
 
 # Anwendungsfälle {#use-cases}
 
-Im Folgenden finden Sie echte Eingabeaufforderungsmuster, die von Marketing-Experten für Lebenszyklus und Wachstum in CX Enterprise Coworker verwendet werden. Jeder wird kopiert, mit Ihrer eigenen Audience und Ihren Markendetails ausgetauscht und in der Konversation verfeinert.
+Im Folgenden finden Sie echte Eingabeaufforderungsmuster, die Marketing-Experten für Lebenszyklus und Wachstum in Adobe CX Enterprise Coworker-Kampagnen verwenden. Jeder wird kopiert, mit Ihrer eigenen Audience und Ihren Markendetails ausgetauscht und in der Konversation verfeinert.
 
 ## Informationen zur Verwendung
 
-Wählen Sie einen Anwendungsfall aus, der zu Ihrem Ziel passt, kopieren Sie die Beispielaufforderung und fügen Sie sie in CX Enterprise Coworker ein, ersetzen Sie die Platzhalter durch Ihre spezifischen Angaben und verfeinern Sie die Ausgabe über den Chat. Eine ausführliche Anleitung zum Erstellen und Generieren von Kampagnen finden Sie unter Erstellen .
+Wählen Sie einen Anwendungsfall aus, der zu Ihrem Ziel passt, kopieren Sie die Beispiel-Eingabeaufforderung und fügen Sie sie in Co-Worker-Kampagnen ein, ersetzen Sie die Platzhalter durch Ihre spezifischen Angaben und verfeinern Sie die Ausgabe über den Chat. Eine ausführliche Anleitung zum Erstellen und Generieren von Kampagnen finden Sie unter Erstellen .
 
 ## Akquise und Onboarding
 
@@ -24,7 +24,7 @@ Begrüßen Sie neue Kunden, Mitglieder oder Konten und richten Sie sie für eine
 
 Am besten geeignet für: Aktivierung von Enterprise-Konten, neue SaaS-Anmeldungen, Übergaben nach dem Verkauf.
 
-`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I will upload and personalize by first name and company name."`
 
 ### Onboarding für neue Mitglieder, B2C
 
@@ -52,7 +52,7 @@ Halten Sie Ihre Zielgruppe zwischen wichtigen Momenten auf dem Laufenden, bilden
 
 Am besten geeignet für: Kundenbindung, Produktbewusstsein, Vordenkerrolle.
 
-`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
+`"Create a monthly newsletter for our customers. Use the CSV I will upload. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### Monatlicher Newsletter, B2C
 
@@ -142,7 +142,7 @@ Ruhende Zielgruppen, die verschoben wurden, zurückgewinnen und inaktive Segment
 
 Optimiert für: abgelaufene Kundinnen und Kunden, inaktive Käuferinnen und Käufer, saisonale Reaktivierung.
 
-`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I will upload. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### Erneute Interaktion mit abgelaufenen Fans, B2C (Sport und Unterhaltung)
 
@@ -158,4 +158,4 @@ Am besten geeignet für: Jede Zielgruppe, die ruhig geworden ist.
 
 ## Bereit zum Bau?
 
-Wählen Sie oben einen Anwendungsfall aus _besuchen Sie „Kampagnen erstellen_ generieren“, um die vollständige Anleitung Schritt für Schritt anzuzeigen und sie auszuprobieren.
+Wählen Sie oben einen Anwendungsfall aus _besuchen Sie „E-Mail_ Kampagne erstellen“, um die vollständige Anleitung zu erhalten, und probieren Sie sie aus.

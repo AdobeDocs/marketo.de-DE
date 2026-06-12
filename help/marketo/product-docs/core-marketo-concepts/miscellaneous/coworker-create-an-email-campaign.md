@@ -1,28 +1,28 @@
 ---
-description: Eine schrittweise Anleitung zum Erstellen einer E-Mail-Kampagne in CX Enterprise Coworker, von der Eingabe von Eingabeaufforderungen bis zur Überprüfung und zum Export Ihrer Kampagne.
+description: Eine schrittweise Anleitung zum Generieren einer E-Mail-Kampagne in Adobe CX Enterprise Coworker Campaign, vom Schreiben von Eingabeaufforderungen bis zum Überprüfen und Exportieren Ihrer Kampagne.
 title: Erstellen einer E-Mail-Kampagne
-source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
 
 # Erstellen einer E-Mail-Kampagne {#create-an-email-campaign}
 
-Erfahren Sie, wie Sie in Minuten vollständige E-Mail-Kampagnen erstellen und überprüfen können.
+Erfahren Sie, wie Sie in Minuten vollständige E-Mail-Kampagnen generieren und überprüfen können.
 
 >[!IMPORTANT]
 >
->Derzeit können Sie nur Kampagnen erstellen und nicht senden (starten). Die Launch-Funktion wird in Kürze verfügbar sein.
+>Derzeit können Sie nur Kampagnen generieren. Sie können sie noch nicht senden (starten). Die Launch-Funktion wird in Kürze verfügbar sein.
 
 ## Vorbereitung
 
 Vergewissern Sie sich, dass Sie Folgendes haben:
 
-* Ein gültiges CX Enterprise-Coworker-Konto ([hier anmelden](https://coworker-essentials.experience.adobe.com/){target="_blank"} falls noch nicht geschehen).
+* Ein gültiges Adobe CX Enterprise Coworker Campaign-Konto ([hier anmelden](https://coworker-essentials.experience.adobe.com/){target="_blank"} falls noch nicht geschehen).
 
-* Ihre Marke wird unter **Ihre**&quot; > **Marken** eingerichtet.
+* Ihre Marke wurde unter **Ihre**&quot; > **Marken** hinzugefügt.
 
 * (Optional, aber empfohlen) Eine HTML-E-Mail-Vorlage, die unter **Ihr**&quot; > „E **Mail-Vorlagen“** wurde.
 
@@ -42,7 +42,7 @@ _Verwendung: Wenn Sie genau wissen, was Sie möchten._
 
 _Verwendung: Wenn Sie nicht sicher sind, was Sie möchten._
 
-**Option 3**: Verwenden Sie eine Option „Help me prompt“ aus der Dropdown-Liste in der Eingabeaufforderungsleiste, damit CX Enterprise Coworker Sie durch das Schreiben Ihrer Eingabeaufforderung führen.
+**Option 3**: Verwenden Sie eine Option „Help me prompt“ aus der Dropdown-Liste in der Eingabeaufforderungsleiste, damit Coworker Campaign Sie durch die Erstellung Ihrer Eingabeaufforderung führt.
 
 _Verwendung: Wenn Sie eine Ahnung haben, was Sie möchten, aber gerne ein wenig Hilfe hätten (oder „Surprise Me“ verwenden, um überrascht zu werden)._
 
@@ -50,7 +50,7 @@ _Verwendung: Wenn Sie eine Ahnung haben, was Sie möchten, aber gerne ein wenig 
 
 ## Schritt 2: Eingabeaufforderung erstellen
 
-Eine starke CX Enterprise Coworker-Eingabeaufforderung umfasst:
+Eine Eingabeaufforderung für starke Coworker-Kampagnen umfasst:
 
 * Das Kampagnenziel (was Sie erreichen möchten).
 * Die Zielgruppe (für wen sie bestimmt ist oder woher die Zielgruppendaten stammen).
@@ -67,11 +67,11 @@ Beispiel:
 
 >[!NOTE]
 >
->Wenn Sie bereits über eine Kampagnenbeschreibung verfügen, laden Sie diese zusammen mit Ihrer Eingabeaufforderung als zusätzlichen Kontext für den für Sie erstellten Plan hoch.
+>Wenn Sie bereits über einen Campaign Brief verfügen, laden Sie ihn zusammen mit Ihrer Eingabeaufforderung als zusätzlichen Kontext für den Plan hoch, den er für Sie generiert.
 
 ![Eingeben in die eigene Eingabeaufforderung](assets/create-an-email-campaign-2.png)
 
-Wenn Sie Ihre Eingabeaufforderung fertig haben, klicken Sie auf **Kampagne erstellen**. CX Enterprise-Mitarbeiter:
+Wenn Sie Ihre Eingabeaufforderung fertig haben, klicken Sie auf **Kampagne erstellen**. Coworker-Kampagnen werden dann:
 
 * Erstellen Sie einen strukturierten Kampagnenplan.
 * Fragen Sie nach Ihrer Zielgruppe, die auch für die Personalisierung von Inhalten verwendet wird.
@@ -81,7 +81,7 @@ Wenn Sie Ihre Eingabeaufforderung fertig haben, klicken Sie auf **Kampagne erste
 
 ## Schritt 3: Zielgruppe hochladen
 
-Zielgruppen werden über CSV hochgeladen. Alle Audiences sind für ihre jeweiligen Kampagnen spezifisch.
+Zielgruppen werden über CSV hochgeladen. Alle Audiences sind spezifisch für ihre jeweiligen Kampagnen (sie werden derzeit nirgendwo anders in Ihrer Umgebung gespeichert).
 
 1. Überprüfen Sie nach dem Einreichen der Eingabeaufforderung die Aufgaben, die von einem Kollegen ausgeführt werden, und klicken Sie auf **Erstellen**.
 
@@ -91,15 +91,13 @@ Zielgruppen werden über CSV hochgeladen. Alle Audiences sind für ihre jeweilig
 
    >[!NOTE]
    >
-   >* E-Mail-Adresse ist ein Pflichtfeld. Es werden Vorname und andere Felder empfohlen, die für die Personalisierung verwendet werden können.
-   >
-   >* Personalisierungsfelder, die CX Enterprise Coworker verwenden kann: Vorname, Nachbestellungsdatum, Produktkategorie.
+   >* E-Mail-Adresse ist ein Pflichtfeld. Es werden Vorname, Datum des letzten Kaufs und alle anderen Felder empfohlen, die für die Personalisierung verwendet werden können.
 
 1. CSV-Datei importieren.
 
-   >[!TIP]
+   >[!IMPORTANT]
    >
-   >Schließen Sie alle Kontakte aus, die Sie nicht per E-Mail versenden möchten (abgemeldete Benutzer, interne Adressen, Testkonten), bevor Sie den Upload durchführen. Während wir die Funktion schrittweise aktivieren, um bestimmte Benutzer während der Testphase „auszuschließen“ oder „Attribute hinzuzufügen“, ist sie nicht sofort ab dem Launch-Datum verfügbar.
+   >Schließen Sie alle Kontakte aus, die Sie nicht per E-Mail versenden möchten (abgemeldete Benutzer, interne Adressen, Testkonten), bevor Sie den Upload durchführen. Während wir die Funktion schrittweise aktivieren werden, um bestimmte Benutzer auszuschließen oder im Laufe der Testphase Attribute hinzuzufügen, ist sie nicht sofort ab dem Launch-Datum verfügbar.
 
 ## Schritt 4: Campaign Assets überprüfen und verfeinern
 
@@ -111,14 +109,13 @@ Es gibt zwei Möglichkeiten, Ihre Inhalte zu aktualisieren.
 
 * Nehmen Sie die gewünschten Änderungen manuell vor, indem Sie verschiedene Abschnitte in der E-Mail auswählen (z. B. Betreffzeile ersetzen, Bild aktualisieren usw.).
 
-&#x200B;- oder -
+- oder -
 
-* Verwenden Sie die Konversationsoberfläche, um Änderungen vorzunehmen, indem Sie direkt mit CX Enterprise Coworker sprechen. Einige Beispiele:
+* Verwenden Sie die Benutzeroberfläche „Konversation“, um Änderungen vorzunehmen, indem Sie direkt mit Kollegen-Kampagnen sprechen. Einige Beispiele:
 
    * „Machen Sie die Betreffzeile dringlicher.“
    * „Kürzen Sie den Textkörper.“
    * „Macht die call to action stärker.“
-   * „Ändern Sie die Wartezeit von 3 Tagen in 5 Tage.“
 
 Sie können auch die KI-Schaltflächen verwenden, um den Betreff oder den Preheader zu verfeinern.
 
@@ -142,11 +139,11 @@ Die Launch-Funktion (Senden Ihrer E-Mail-Kampagne) wird in Kürze verfügbar sei
 
 **Warum dauert die erste Antwort so lange?**
 
-Es wird eine gesamte Kampagne für Sie erzeugt, einschließlich der Strategie, der gewünschten Audience, des Workflows usw. (Aufzeichnung 1:15ish-Markierung)
+Es wird eine gesamte Kampagne für Sie generiert, einschließlich der Strategie, der gewünschten Audience, des Workflows usw. Die durchschnittliche Zeit für die erste Antwort mit Ihrem generierten Inhalt beträgt in der Regel etwa eine Minute.
 
-**Was kann ich tun, wenn die Ausgabe des CX Enterprise Coworker nicht richtig ist?**
+**Was kann ich tun, wenn die Ausgabe der Coworker-Kampagnen nicht richtig ist?**
 
-Verwenden Sie die Feedback-Schaltfläche oben rechts und teilen Sie uns dies mit, damit wir die Plattform verbessern können.
+Klicken Sie auf das Feedback-Symbol in der Kopfzeile und teilen Sie uns dies mit, damit wir die Plattform verbessern können.
 
 **Kann ich E-Mails direkt oder nur per Chat bearbeiten?**
 
