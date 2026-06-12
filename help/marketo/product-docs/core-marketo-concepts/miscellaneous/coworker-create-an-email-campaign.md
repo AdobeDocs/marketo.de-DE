@@ -110,7 +110,7 @@ Es gibt zwei Möglichkeiten, Ihre Inhalte zu aktualisieren.
 
 * Nehmen Sie die gewünschten Änderungen manuell vor, indem Sie verschiedene Abschnitte in der E-Mail auswählen (z. B. Betreffzeile ersetzen, Bild aktualisieren usw.).
 
-- oder -
+&#x200B;- oder -
 
 * Verwenden Sie die Benutzeroberfläche „Konversation“, um Änderungen vorzunehmen, indem Sie direkt mit Kollegen-Kampagnen sprechen. Einige Beispiele:
 
