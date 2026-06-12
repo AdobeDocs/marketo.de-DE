@@ -4,10 +4,10 @@ title: AWS-Migration
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 4a123d365c78c6c03858656c6ef954b55df4338f
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 3%
 
 ---
 
@@ -31,11 +31,7 @@ Während des Migrationsfensters sind nicht alle Marketo Engage-Services verfügb
 
 * **IP-Zulassungslisten überprüfen und aktualisieren** für Anmeldung, API-Zugriff, E-Mail-Versand, Webtracking und Integrationen.
 
-* **Fügen Sie die folgenden IP-** hinzu und behalten Sie Ihre aktuellen IPs unverändert bei:
-
-   * 54.160.246.246
-   * 54.237.141.197
-   * 52.20.211.99
+* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([&#x200B; Tabelle unten) hinzugefügt werden &#x200B;](#ip-addresses).
 
 ## Erwartete Service-Auswirkungen
 
@@ -44,17 +40,19 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 * **CRM-Integrationen und LaunchPoint** Services werden deaktiviert, sollten aber danach automatisch fortgesetzt werden.
 * **Landingpages, Formulare und Datenerfassung** sind nicht verfügbar und stattdessen wird eine Wartungsmeldung angezeigt.
 
+## Identifizieren des Rechenzentrums/Pods {#identify}
+
+Bevor Sie sich die folgenden Tabellen ansehen, [&#x200B; Sie (Erfahren Sie, wie Sie &#x200B;](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify), in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
+
 ## Zeitplan {#schedule}
 
 Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugefügt. Schauen Sie also hier vorbei, um mehr darüber zu erfahren.
-
-Bevor Sie sich die nachstehende Tabelle ansehen[&#x200B; erfahren Sie, &#x200B;](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) sich Ihr Abonnement im Rechenzentrum und Pod/Server befindet.
 
 <table>
  <tbody>
   <tr>
    <th style="width:50%">Datum</th>
-   <th style="width:20%">Pod</th>
+   <th style="width:20%">Rechenzentrum/Pod</th>
    <th style="width:30%">Uhrzeit</th>
   </tr>
   <tr>
@@ -75,6 +73,31 @@ Bevor Sie sich die nachstehende Tabelle ansehen[&#x200B; erfahren Sie, &#x200B;]
    AB43</td>
    <td>17.00 Uhr PST<br>
    18.00 Uhr PST</td>
+  </tr>
+  &lt;/body>
+  </table>
+
+## Hinzuzufügende IP-Adressen {#ip-addresses}
+
+Arbeiten Sie je nach Rechenzentrum mit Ihrer IT-Abteilung zusammen, um die entsprechenden IP-Adressen hinzuzufügen.
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Rechenzentrum</th>
+   <th style="width:75%">IP-Adressen</th>
+  </tr>
+  <tr>
+   <td>AB</td>
+   <td>54.160.246.246<br>
+   54.237.141.197<br>
+   52.20.211.99</td>
+  </tr>
+  <tr>
+   <td>NLD</td>
+   <td>34.247.24.245<br>
+18.200.201.81<br>
+54.220.138.65</td>
   </tr>
   &lt;/body>
   </table>
