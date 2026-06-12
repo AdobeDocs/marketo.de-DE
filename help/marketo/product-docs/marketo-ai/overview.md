@@ -3,9 +3,9 @@ description: Erkunden Sie die Marketo AI-Suite von Agenten, die Marketing-Aufgab
 title: Marketo AI - Übersicht
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 4f19245d55403bd99002de35e4ee226055b96c4d
+source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -28,11 +28,11 @@ Marketo AI bietet Agenten, die zeitaufwendige, aber wichtige Marketing-Funktione
 
 ## Zugriff {#access}
 
-Klicken Sie auf Ihrem Bildschirm „Mein Marketo&quot; auf die Kachel **Mit KI erstellen**.
+Klicken Sie auf Ihrem Bildschirm „Mein Marketo&quot; auf die Kachel **Marketo AI**.
 
 ![](assets/overview-1.png)
 
-Klicken Sie im Eingabeaufforderungsfeld auf **Erste Schritte** (oder geben Sie Ihre eigene Abfrage ein).
+Geben Sie Ihre Anfrage in das Feld Eingabeaufforderung ein oder wählen Sie einen der unten aufgeführten Agenten aus.
 
 ![](assets/overview-2.png)
 
@@ -58,4 +58,4 @@ Weitere Agenten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben en
 
 >[!MORELIKETHIS]
 >
->Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
+>Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.

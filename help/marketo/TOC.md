@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
+source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
 workflow-type: tm+mt
-source-wordcount: '8907'
+source-wordcount: '8909'
 ht-degree: 96%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 96%
       + {hide-from-toc}[KI-Assistent für Produktkenntnisse](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[Marketing-Community](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWS-Migration](getting-started/things-to-know/aws-migration.md)
+      + {hide-from-toc}[Neue Benutzeroberfläche](getting-started/things-to-know/new-ui.md)
    + Schnelle Erfolge {#quick-wins}
       + [Einrichten und eine Person hinzufügen](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Senden einer E-Mail](getting-started/quick-wins/send-an-email.md)
@@ -1924,7 +1925,7 @@ ht-degree: 96%
    + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
    + [Frühere Versionen](release-notes/previous-releases.md)
-   + {hide-from-toc}Frühere Versionen  {#previous-releases}
+   + Frühere Versionen {hide-from-toc} {#previous-releases}
       + 2026 {#2026}
          + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
