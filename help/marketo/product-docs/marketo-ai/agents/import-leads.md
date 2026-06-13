@@ -1,11 +1,10 @@
 ---
 description: Erfahren Sie, wie Sie mit dem Leads-Agenten importieren eine CSV hochladen, Geschäftsregeln anwenden, Felder zuordnen und Leads direkt in Ihre Marketo Engage-Datenbank importieren können.
 title: Leads importieren
-badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '260'
 ht-degree: 1%
 
 ---
