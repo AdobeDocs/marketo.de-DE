@@ -3,7 +3,7 @@ description: Neue Benutzeroberfläche von Marketo Engage - Marketo Engage-Dokume
 title: Neue Benutzeroberfläche von Marketo Engage
 feature: Getting Started
 hide: true
-source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 1%
@@ -44,7 +44,7 @@ SCREENSHOT
 
 ## Neue und klassische Benutzeroberfläche {#new-and-classic}
 
-Um zur neuen Benutzeroberfläche zu wechseln, klicken Sie auf das Design-Dropdown-Menü oben rechts und wählen Sie **Neu (Beta)**.
+Um zur neuen Benutzeroberfläche zu wechseln, klicken Sie auf die Dropdown-Liste Design in der oberen rechten Ecke und wählen Sie **Neu (Beta)**.
 
 SCREENSHOT
 
