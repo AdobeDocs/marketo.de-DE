@@ -3,9 +3,9 @@ description: Neue Benutzeroberfläche von Marketo Engage - Marketo Engage-Dokume
 title: Neue Benutzeroberfläche von Marketo Engage
 feature: Getting Started
 hide: true
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: ee378219a9b294ae0c64620d0c0b306f73665f0d
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '235'
 ht-degree: 1%
 
 ---
@@ -28,11 +28,11 @@ Admins können _Zugriff auf neue_) einer oder mehreren Benutzerrollen gewähren.
 
 1. Wählen Sie im Bereich **Admin** die Option **Benutzer und Rollen** aus.
 
-SCREENSHOT
+   ![](assets/new-ui-1.png)
 
 1. Klicken Sie auf die **Rollen**. Wählen Sie die gewünschte Rolle aus und klicken Sie auf **Rolle bearbeiten**.
 
-SCREENSHOT
+   ![](assets/new-ui-2.png)
 
 >[!NOTE]
 >
@@ -40,13 +40,13 @@ SCREENSHOT
 
 1. Aktivieren Sie das **Zugriff auf neues Design** und klicken Sie auf **Speichern**.
 
-SCREENSHOT
+   ![](assets/new-ui-3.png)
 
 ## Neue und klassische Benutzeroberfläche {#new-and-classic}
 
-Um zur neuen Benutzeroberfläche zu wechseln, klicken Sie auf die Dropdown-Liste Design in der oberen rechten Ecke und wählen Sie **Neu (Beta)**.
+Um zur neuen Benutzeroberfläche zu wechseln, klicken Sie auf das Dropdown-Menü in der oberen rechten Ecke und wählen Sie **Neu (Beta)**.
 
-SCREENSHOT
+![](assets/new-ui-4.png)
 
 Wenn Sie aus irgendeinem Grund zurückkehren müssen, klicken Sie erneut auf die Dropdown-Liste Design und wählen Sie **Classic**.
 
@@ -54,4 +54,4 @@ Wenn Sie aus irgendeinem Grund zurückkehren müssen, klicken Sie erneut auf die
 
 Wir freuen uns über Ihr Feedback. Wenn beim Kennenlernen der neuen Benutzeroberfläche Probleme beim Zugriff auf oder bei der Verwendung der Funktion auftreten oder Sie Vorschläge oder Bedenken haben, klicken Sie oben rechts auf die Schaltfläche Beta-Feedback für die Benutzeroberfläche .
 
-SCREENSHOT
+![](assets/new-ui-5.png)
