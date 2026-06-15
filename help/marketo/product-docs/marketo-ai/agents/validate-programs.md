@@ -2,9 +2,9 @@
 description: Erfahren Sie, wie Sie Ihre Programme auf Best Practices für alle Komponenten überprüfen können, z. B. E-Mails, Landingpages, Kampagnen und mehr.
 title: Programme validieren
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
@@ -23,22 +23,22 @@ Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails
 
 ## Informationen zur Verwendung {#how-to-use}
 
-1. Klicken Sie in Ihrem Mein Marketo auf die Kachel **Mit KI erstellen**.
+1. Klicken Sie in „Meine Marketo&quot; auf die Kachel **Marketo AI** .
 
-   ![](assets/program-qa-1.png)
+   ![](assets/validate-programs-1.png)
 
 1. Wählen Sie den **Programme validieren** aus.
 
 1. Wählen Sie das Programm, das Sie validieren möchten, im rechten Bereich aus.
 
-   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
+   ![](assets/validate-programs-3.png){width="800" zoomable="yes"}
 
    Eine Zusammenfassung des ausgewählten Programms wird in der Mitte angezeigt.
 
-   ![](assets/program-qa-4.png){width="450" zoomable="yes"}
+   ![](assets/validate-programs-4.png){width="450" zoomable="yes"}
 
 1. Geben Sie im Eingabeaufforderungsfenster „Programm validieren“ ein und klicken Sie auf **Senden**.
 
    Der KI-Assistent stellt eine Qualitätssicherung des ausgewählten Programms bereit, die Ihnen zeigt, was bestanden wurde und was fehlgeschlagen ist.
 
-   ![](assets/program-qa-6.png)
+   ![](assets/validate-programs-6.png)

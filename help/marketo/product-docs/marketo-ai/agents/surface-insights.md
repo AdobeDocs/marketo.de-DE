@@ -3,9 +3,9 @@ description: Sprechen Sie mit Marketo AI über Ihre Marketo Engage-Leistungsdate
 title: Surface-Einblicke
 badge: Beta
 hide: true
-source-git-commit: 5b459e82e0a3bc9a335483b66ca975d39121d025
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Mit Surface Insights können Sie über Ihre Marketo-Leistungsdaten sprechen. Ste
 
 ## Informationen zur Verwendung {#how-to-use}
 
-1. Klicken Sie in Ihrem Mein Marketo auf die Kachel **Mit KI erstellen**.
+1. Klicken Sie in „Meine Marketo&quot; auf die Kachel **Marketo AI** .
 
 1. Stellen Sie im Eingabeaufforderungsfenster eine Frage zur Leistung. Geben Sie den Zeitrahmen oder das Programm genau an, wenn Sie dies im Sinn haben.
 
