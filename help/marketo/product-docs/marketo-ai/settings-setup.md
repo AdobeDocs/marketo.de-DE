@@ -2,9 +2,9 @@
 description: Erfahren Sie, wie Sie Marketo-KI-Berechtigungen aktivieren, Organisationsregeln konfigurieren und Einstellungen wie Integrationen und Benachrichtigungen verwalten.
 title: Einstellungen und Setup
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '562'
 ht-degree: 3%
 
 ---
@@ -23,11 +23,11 @@ Erfahren Sie, wie Sie Berechtigungen aktivieren und den Bereich Einstellungen ve
 
 ## Berechtigungen und Rollen {#permission-and-role}
 
-Es gibt einen _Build mit KI_-Berechtigung und eine _Build mit KI-Benutzer_-Rolle, die Admins größere Kontrolle darüber gibt, welche Benutzer auf die Funktion **Build mit KI** zugreifen können. Die Berechtigung wird auf Rollenebene zugewiesen. Die Rolle _Build with AI User_ verfügt standardmäßig über die Berechtigung _Zugriff auf Build mit_-Funktion .
+Es gibt eine Berechtigung _Zugriff auf Marketo AI_ und eine _Marketo AI-_, die Admins eine größere Kontrolle darüber gibt, welche Benutzenden auf die **Marketo AI**-Funktion zugreifen können. Die Berechtigung wird auf Rollenebene zugewiesen. Für die Rolle _Marketo AI-_ ist die _Zugriff auf Marketo AI_ standardmäßig aktiviert.
 
 >[!IMPORTANT]
 >
->Die _Zugriff Build mit KI_-Berechtigung ist nicht standardmäßig für alle Rollen aktiviert. Weitere Informationen finden Sie in der folgenden Tabelle.
+>Die _Zugriff auf Marketo AI_-Berechtigung ist nicht standardmäßig für alle Rollen aktiviert. Weitere Informationen finden Sie in der folgenden Tabelle.
 
 | Rolle | Standardstatus |
 | --- | --- |
@@ -35,12 +35,12 @@ Es gibt einen _Build mit KI_-Berechtigung und eine _Build mit KI-Benutzer_-Rolle
 | Adobe-Produktadministrator | Aktiviert |
 | Marketingbenutzer | Deaktiviert |
 | Standardbenutzer | Nicht verfügbar |
-| Erstellen mit KI-Benutzenden | Aktiviert |
+| Marketo AI-Benutzer | Aktiviert |
 | Benutzerdefinierte Rollen | Deaktiviert |
 
-### Zugriff auf Build mit KI-Berechtigung {#access-build-with-ai-permission}
+### Zugriff auf Marketo AI {#access-marketo-ai-permission}
 
-Gehen Sie wie folgt vor, um _Zugriff erstellen mit KI_ für qualifizierte Rollen zu aktivieren, für die er noch nicht aktiviert ist.
+Gehen Sie wie folgt vor, um _Zugriff auf die Marketo-KI_ für qualifizierte Rollen zu aktivieren, für die sie noch nicht aktiviert ist.
 
 1. Klicken Sie in „Meine Marketo **auf &quot;**&quot; und dann **Benutzer und Rollen**.
 
@@ -50,59 +50,59 @@ Gehen Sie wie folgt vor, um _Zugriff erstellen mit KI_ für qualifizierte Rollen
 
    ![](assets/settings-setup-2.png)
 
-1. Scrollen Sie nach unten, aktivieren Sie das Kontrollkästchen _Zugriff auf Build mit_) und klicken Sie auf **Speichern**.
+1. Scrollen Sie nach unten, aktivieren Sie das Kontrollkästchen _Zugriff auf Marketo AI_ und klicken Sie auf **Speichern**.
 
    ![](assets/settings-setup-3.png)
 
    >[!NOTE]
    >
-   >Sie können die gleichen Schritte zum Entfernen der Berechtigung ausführen, indem Sie **Kontrollkästchen** Zugriff _KI_ deaktivieren.
+   >Sie können die gleichen Schritte zum Entfernen der Berechtigung ausführen, indem Sie **Kontrollkästchen** Zugriff auf _Marketo AI_ deaktivieren.
 
-### Mit KI-Benutzerrolle erstellen {#build-with-ai-user-role}
+### Marketo AI-Benutzerrolle {#marketo-ai-user-role}
 
-Führen Sie diese Schritte aus, um der Rolle _Erstellen mit KI-Benutzer_ einen bestimmten Benutzer zuzuweisen.
+Führen Sie diese Schritte aus, um der Rolle _Marketo AI User_ einen bestimmten Benutzer zuzuweisen.
 
 >[!NOTE]
 >
->Diese Rolle **nur** enthält die Berechtigung _Zugriff auf Build mit KI_.
+>Diese Rolle **nur** enthält die Berechtigung _Zugriff auf Marketo AI_.
 
 1. Klicken Sie in „Meine Marketo **auf &quot;**&quot; und dann **Benutzer und Rollen**.
 
-   ![](assets/settings-setup-1.png)
+   ![](assets/settings-setup-4.png)
 
 1. Wählen Sie den gewünschten Benutzer aus und klicken Sie auf **Benutzer bearbeiten**.
 
-   ![](assets/settings-setup-5b.png)
+   ![](assets/settings-setup-5.png)
 
-1. Aktivieren _in „Rollen_ Arbeitsbereiche“ das Kontrollkästchen _Mit KI-Benutzer erstellen_. Wenn Sie über mehr als einen Arbeitsbereich verfügen, können Sie in der Dropdown-Liste **+** festlegen, welche Arbeitsbereiche Zugriff erhalten sollen. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Aktivieren _unter „Rollen und_&quot; das Kontrollkästchen _Marketo AI-_. Wenn Sie über mehr als einen Arbeitsbereich verfügen, können Sie in der Dropdown-Liste **+** festlegen, welche Arbeitsbereiche Zugriff erhalten sollen. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
-   ![](assets/settings-setup-6b.png)
+   ![](assets/settings-setup-6.png)
 
 ### Benutzerdefinierte Rolle {#custom-role}
 
-Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, _Zugriff mit KI erstellen_ zusammen mit allem anderen, was Sie möchten, und [diese Rolle &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
+Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, indem Sie _Zugriff auf Marketo AI_ und alles andere hinzufügen, was Sie möchten, und [diese Rolle &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
 
 ## Einstellungen {#settings}
 
-1. Klicken Sie in Ihrem Mein Marketo auf die Kachel **Mit KI erstellen**.
+1. Klicken Sie in „Meine Marketo&quot; auf die Kachel **Marketo AI** .
 
-   ![](assets/settings-setup-4.png)
+   ![](assets/settings-setup-7.png)
 
 1. Klicken Sie auf das Zahnradsymbol.
 
-   ![](assets/settings-setup-5.png)
+   ![](assets/settings-setup-8.png)
 
 ### Verbindung {#connection}
 
 Diese Registerkarte enthält keine bearbeitbaren Felder. Es werden Kontoinformationen wie Ihre Munchkin ID und Ihre IMS-Organisation angezeigt.
 
-![](assets/settings-setup-6.png)
+![](assets/settings-setup-9.png)
 
 ### Organisationsregeln {#organizational-rules}
 
 Definieren Sie organisatorische Richtlinien und Einschränkungen, denen die Marketo-KI beim Erstellen oder Ändern von Marketo Engage-Assets folgt.
 
-![](assets/settings-setup-7.png){width="800" zoomable="yes"}
+![](assets/settings-setup-10.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
