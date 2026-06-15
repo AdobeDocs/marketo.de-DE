@@ -3,9 +3,9 @@ description: Verwenden Sie Marketo AI, um ein Marketo-Programm aus einer einfach
 title: Erstellen von Programmen
 badge: Beta
 hide: true
-source-git-commit: e055590a07ef9aa7cf6ebde42f6ea9f7420d7599
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '572'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Beschreiben Sie eine Marketing-Kampagne im Klartext. Marketo AI erstellt die Pro
 
 ## Informationen zur Verwendung {#how-to-use}
 
-1. Klicken Sie in Ihrem Mein Marketo auf die Kachel **Mit KI erstellen**.
+1. Klicken Sie in „Meine Marketo&quot; auf die Kachel **Marketo AI** .
 
 1. Geben Sie im Eingabeaufforderungsfenster eine Beschreibung der Kampagne ein, die Sie erstellen möchten. So spezifisch oder so allgemein wie gewünscht sein (Sie können jederzeit verfeinern).
 

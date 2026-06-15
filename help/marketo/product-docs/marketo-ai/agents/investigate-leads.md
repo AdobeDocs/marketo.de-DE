@@ -4,9 +4,9 @@ title: Leads untersuchen
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '550'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie M
 
 ## Informationen zur Verwendung {#how-to-use}
 
-1. Klicken Sie in Ihrem Mein Marketo auf die Kachel **Mit KI erstellen**.
+1. Klicken Sie in „Meine Marketo&quot; auf die Kachel **Marketo AI** .
 
 1. Beschreiben Sie im Eingabeaufforderungsfenster, was Sie untersuchen. Geben Sie den Lead (per E-Mail oder Name) und das an, was erwartet wurde.
 

@@ -3,9 +3,9 @@ description: Fragen Sie Marketo AI mithilfe von Produktkenntnissen nach Marketo 
 title: Produktkenntnisse
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '462'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Produktkenntnisse bieten Ihnen On-Demand-Zugriff auf Marketo-Know-how, ohne die 
 
 ## Informationen zur Verwendung {#how-to-use}
 
-1. Klicken Sie in Ihrem Mein Marketo auf die Kachel **Mit KI erstellen**.
+1. Klicken Sie in „Meine Marketo&quot; auf die Kachel **Marketo AI** .
 
 1. Geben Sie im Eingabeaufforderungsfenster Ihre Frage in natürlicher Sprache ein; es ist keine spezielle Syntax erforderlich.
 
