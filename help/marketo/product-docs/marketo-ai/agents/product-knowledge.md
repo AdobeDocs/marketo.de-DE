@@ -1,11 +1,9 @@
 ---
 description: Fragen Sie Marketo AI mithilfe von Produktkenntnissen nach Marketo Engage-Funktionen, Best Practices und Anleitungen. Die Antworten basieren auf den offiziellen Adobe-Dokumenten.
 title: Produktkenntnisse
-badge: Beta
-hide: true
-source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
+source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '461'
 ht-degree: 1%
 
 ---
