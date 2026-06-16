@@ -80,7 +80,7 @@ Führen Sie diese Schritte aus, um der Rolle _Marketo AI User_ einen bestimmten 
 
 ### Benutzerdefinierte Rolle {#custom-role}
 
-Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, indem Sie _Zugriff auf Marketo AI_ und alles andere hinzufügen, was Sie möchten, und [diese Rolle ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
+Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, indem Sie _Zugriff auf Marketo AI_ und alles andere hinzufügen, was Sie möchten, und [diese Rolle &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
 
 ## Einstellungen {#settings}
 
