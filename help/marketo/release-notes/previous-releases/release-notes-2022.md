@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4282
 ht-degree: 6%
@@ -46,7 +46,7 @@ Die folgenden Funktionen sind in der Version vom Januar 2022 enthalten. Überpr�
 
 Die folgenden Funktionen werden ab dem 21. **2022 veröffentlicht** wobei in den folgenden Wochen für jede Funktion ein schrittweiser Rollout erfolgt (sofern nicht anders angegeben).
 
-## Erlebnis der nächsten Generation {#modern-ux}
+## Erlebnis der nächsten Generation
 
 * **Aktualisierter Screens im Erlebnis der nächsten Generation**: Wir bieten zusätzliche, aktualisierte Bildschirme im Erlebnis der nächsten Generation, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, die über einen Umschalter zugänglich sind:
 
@@ -133,7 +133,7 @@ Die folgenden Funktionen werden ab dem 11. **2022 veröffentlicht** wobei in den
 
 * **Verbesserung der Filterung von E-Mail** Bot-Aktivitäten: Als Erweiterung der zuvor veröffentlichten Funktion [Filterung von E-Mail-Bot-Aktivitäten](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} können Sie sich jetzt für die Protokollierung von Aktivitäten anmelden, die als Bots identifiziert werden. Anschließend können Sie Aktionen filtern und mit Triggern versehen, die auf Aktivitäten basieren, die als von Bots ausgeführt identifiziert wurden.
 
-## Erlebnis der nächsten Generation {#modern-ux}
+## Erlebnis der nächsten Generation
 
 * **Aktualisierter Screens im Erlebnis der nächsten Generation**: Wir bieten zusätzliche, aktualisierte Bildschirme im Erlebnis der nächsten Generation, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, die über einen Umschalter zugänglich sind:
 
@@ -215,7 +215,7 @@ Die folgenden Funktionen werden ab dem 6. **2022 veröffentlicht** wobei die ver
 
 **[STS-Header für E-Mail-Tracking-Links](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: Erfüllen Sie die Best Practices für die Sicherheit mit der Möglichkeit, Secure Transport Security-Header anzuwenden, um sicherzustellen, dass der Traffic zu verfolgten Links immer sicher ist.
 
-## Erlebnis der nächsten Generation {#modern-ux}
+## Erlebnis der nächsten Generation
 
 **Standardeinstellung für den Umschalter ist das Erlebnis der nächsten Generation**: Der Umschalter wird auf allen Bildschirmen, auf denen er verfügbar ist, standardmäßig auf das neue Erlebnis umgeschaltet, sodass Benutzende die aktualisierten Designs und Verbesserungen der Benutzerfreundlichkeit leichter entdecken können.
 
@@ -336,7 +336,7 @@ Mit den folgenden Funktionen wurde am 26. **2022 ein schrittweiser Rollout**.
 
 ## Erlebnis der nächsten Generation
 
-* **Adobe-Branding**: Aktualisiertes Erscheinungsbild für Editoren und Personendetailseiten mit neuem Adobe Experience Cloud-Branding.
+* **Adobe-Branding**: Aktualisiertes Erscheinungsbild für Bearbeiter und Personendetailseite mit neuem Adobe Experience Cloud-Branding.
 
 * **Ordnerhierarchie des Zielordners im Dialogfeld „Verschieben“ anzeigen**: Die Anzeige der Ordnerhierarchie für jeden Ordner erleichtert das Verschieben von Assets und verringert die Wahrscheinlichkeit, dass sie sich in einem falschen Ordner befinden.
 
@@ -427,7 +427,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tbody>
 </table>
 
-### Erlebnis der nächsten Generation {#modern-ux}
+### Erlebnis der nächsten Generation
 
 </br>
 
@@ -565,3 +565,4 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
 * **Forms 1.0**: Die Einstellung von Forms 1.0 wird mit der Oktober-Version abgeschlossen. Forms 1.0-Assets können keine Daten mehr an Marketo Engage senden und geben Fehler zurück, wenn versucht wird.
 
 * **No-Script Forms**: Forms funktioniert nicht mehr, wenn JavaScript im Browser deaktiviert ist. Für die Formularübermittlung muss JavaScript aktiviert sein.
+
