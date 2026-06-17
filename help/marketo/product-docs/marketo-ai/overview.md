@@ -1,10 +1,11 @@
 ---
 description: Erkunden Sie die Marketo AI-Suite von Agenten, die Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr automatisieren.
 title: Marketo AI - Übersicht
+badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '353'
 ht-degree: 1%
 
 ---
@@ -15,15 +16,11 @@ Marketo AI bietet Agenten, die zeitaufwendige, aber wichtige Marketing-Funktione
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist nur eingeschränkt verfügbar. Um den Zugriff anzufordern, füllen Sie [dieses Formular](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"} aus. Achten Sie darauf, dass Sie die Munchkin ID Ihres Abonnements zur Hand haben.
-
->[!PREREQUISITES]
->
->Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie von Ihrem Account Manager.
+>Diese Funktion befindet sich derzeit in der offenen Beta-Phase. Wenden Sie sich an Ihren Account Manager, um Zugriff anzufordern. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
 
 >[!IMPORTANT]
 >
->Nachdem diese Funktion für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte“ ausführen](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} um sicherzustellen, dass die gewünschten Benutzer Zugriff haben.
+>Nachdem die Marketo-KI für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte“ ausführen](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} um sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
 
 ## Zugriff {#access}
 
@@ -35,17 +32,25 @@ Geben Sie Ihre Anfrage in das Feld Eingabeaufforderung ein oder wählen Sie eine
 
 ![](assets/overview-2.png)
 
-## Agentinnen bzw. Agenten {#agents}
+## Kenntnisse {#skills}
 
-Die Center-Konsole verfügt über eine wachsende Anzahl von Agenten, die Ihnen bei verschiedenen Aufgaben helfen. Jeder Agent ist ein speziell entwickelter KI-Assistent, mit dem Sie durch natürliche Sprache interagieren, um eine bestimmte Aufgabe zu erledigen.
+Die Center Console verfügt über eine wachsende Anzahl von Agentenkenntnissen, die Ihnen bei verschiedenen Aufgaben helfen. Jede Fähigkeit ist ein speziell entwickelter KI-Assistent, mit dem Sie durch natürliche Sprache interagieren, um eine bestimmte Aufgabe zu erfüllen.
+
+### Leads untersuchen {#investigate-leads}
+
+Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads ](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}.
+
+### Produktkenntnisse {#product-knowledge}
+
+Produktkenntnisse bieten Ihnen On-Demand-Zugriff auf Marketo-Know-how, ohne die Plattform verlassen zu müssen. Stellen Sie eine Frage in einfacher Sprache, und Marketo AI nutzt die offizielle Adobe-Dokumentation, um sie zu beantworten. Erfahren Sie mehr über die [Produktkenntnisse](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}.
 
 ### Programme validieren {#validate-programs}
 
-„Programme validieren“ vergleicht Ihre Einrichtung vor dem Launch automatisch mit den Best Practices für Marketo und zeigt Probleme an. Erfahren Sie mehr über den [Programmagenten validieren](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
+„Programme validieren“ vergleicht Ihre Einrichtung vor dem Launch automatisch mit den Best Practices für Marketo und zeigt Probleme an. Erfahren Sie mehr über die [Kenntnisse „Programme validieren](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}.
 
 ### Leads importieren {#import-leads}
 
-Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzuordnung in Ihre Marketo Engage-Datenbank. Weitere Informationen über den [Lead-Agenten importieren](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}.
+Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzuordnung in Ihre Marketo Engage-Datenbank. Erfahren Sie mehr über die [Lead-Kenntnisse importieren](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}.
 
 ## Demnächst {#coming-soon}
 
@@ -57,4 +62,4 @@ Weitere Agenten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben en
 
 >[!MORELIKETHIS]
 >
->Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
+>Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
