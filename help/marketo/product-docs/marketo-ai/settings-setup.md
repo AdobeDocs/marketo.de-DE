@@ -1,11 +1,12 @@
 ---
 description: Erfahren Sie, wie Sie Marketo-KI-Berechtigungen aktivieren, Organisationsregeln konfigurieren und Einstellungen wie Integrationen und Benachrichtigungen verwalten.
 title: Einstellungen und Setup
+badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 3%
+source-wordcount: '537'
+ht-degree: 4%
 
 ---
 
@@ -15,11 +16,7 @@ Erfahren Sie, wie Sie Berechtigungen aktivieren und den Bereich Einstellungen ve
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist nur eingeschränkt verfügbar. Um den Zugriff anzufordern, füllen Sie [dieses Formular](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"} aus. Stellen Sie sicher, dass Sie die Munchkin ID Ihres Abonnements bereit haben.
-
->[!PREREQUISITES]
->
->Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie von Ihrem Account Manager.
+>Diese Funktion befindet sich derzeit in der offenen Beta-Phase. Wenden Sie sich an Ihren Account Manager, um Zugriff anzufordern. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
 
 ## Berechtigungen und Rollen {#permission-and-role}
 

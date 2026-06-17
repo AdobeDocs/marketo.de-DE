@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: 654
-ht-degree: 18%
+source-wordcount: 628
+ht-degree: 19%
 
 ---
 
@@ -43,8 +43,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Marketo-KI</strong>: Nutzen Sie eine Suite von Agenten, die zur Automatisierung zeitaufwendiger, aber wichtiger Marketing-Funktionen entwickelt wurden (zwei Agenten sind jetzt verfügbar, weitere in Kürze verfügbar).
 </td>
-   <td>Eingeschränkte Verfügbarkeit (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">Zugriff hier anfordern</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/marketo-ai/overview">Übersicht über Marketo AI</a></td>
+   <td>Offene Betaversion</td>
+   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Übersicht über Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -53,8 +53,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Marketo Engage MCP-Server</strong>: Der Marketo Engage MCP-Server fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage. Es stellt mehr als 100 Vorgänge in Formularen, Programmen, intelligenten Kampagnen, Personen/Leads, E-Mails, Snippets, Listen und Ordnern bereit.</td>
-   <td>Eingeschränkte Verfügbarkeit (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">Zugriff hier anfordern</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de">Marketo MCP-Server</a></td>
+   <td>Offene Betaversion</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de" target="_blank">Marketo MCP-Server</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -75,7 +75,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><strong>Auswahllisten-Verwaltung</strong>: Sie können jetzt die Werte angeben, die in Feldern in Marketo Engage verwendet werden können.
    </td>
    <td>Freigegeben</td>
-   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">Auswahllisten-Verwaltung</a></td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md" target="_blank">Auswahllisten-Verwaltung</a></td>
   </tr>
   <tr>
    <td> </td>

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: b6cd3c664558bba94330221dc6280e50df22888b
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '8909'
+source-wordcount: '8899'
 ht-degree: 96%
 
 ---
@@ -468,9 +468,6 @@ ht-degree: 96%
                + [Senden eines Beispiels](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Teilen eines Moments](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + Sonstiges {#miscellaneous}
-         + {hide-from-toc}[Übersicht über Mitarbeiter](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-         + {hide-from-toc}[Mitarbeiter erstellen eine E-Mail-Kampagne](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
-         + {hide-from-toc}[Anwendungsfälle für Mitarbeiter](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[Konfigurieren der Adobe Experience Manager-Integration](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [Erstellen eines neuen Kampagnenordners](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[Glossar zu Tastaturbefehlen](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
@@ -1115,14 +1112,14 @@ ht-degree: 96%
       + [Überblick](product-docs/marketo-ai/overview.md)
       + [Einstellungen und Setup](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[Einstellungen und Setup](product-docs/marketo-ai/settings-setup-old.md)
-      + Agentinnen bzw. Agenten {#agents}
-         + [Produktkenntnisse](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[Surface-Einblicke](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[Erstellen von Programmen](product-docs/marketo-ai/agents/build-programs.md)
-         + {hide-from-toc}[Programm klonen](product-docs/marketo-ai/agents/clone-program.md)
-         + [Leads untersuchen](product-docs/marketo-ai/agents/investigate-leads.md)
-         + [Leads importieren](product-docs/marketo-ai/agents/import-leads.md)
-         + [Programme validieren](product-docs/marketo-ai/agents/validate-programs.md)
+      + Kenntnisse {#skills}
+         + [Produktkenntnisse](product-docs/marketo-ai/skills/product-knowledge.md)
+         + {hide-from-toc}[Surface-Einblicke](product-docs/marketo-ai/skills/surface-insights.md)
+         + {hide-from-toc}[Erstellen von Programmen](product-docs/marketo-ai/skills/build-programs.md)
+         + {hide-from-toc}[Programm klonen](product-docs/marketo-ai/skills/clone-program.md)
+         + [Leads untersuchen](product-docs/marketo-ai/skills/investigate-leads.md)
+         + [Leads importieren](product-docs/marketo-ai/skills/import-leads.md)
+         + [Programme validieren](product-docs/marketo-ai/skills/validate-programs.md)
    + Moderne Benutzeroberfläche von Marketo Engage {#marketo-engage-modern-ux}
       + [Überblick](product-docs/marketo-engage-modern-ux/overview.md)
       + [Verwenden der globalen Suche](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
