@@ -2,9 +2,9 @@
 description: Erfahren Sie, wie Sie Marketo-KI-Berechtigungen aktivieren, Organisationsregeln konfigurieren und Einstellungen wie Integrationen und Benachrichtigungen verwalten.
 title: Einstellungen und Setup
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 9cc4e828948622b8862f207865dac0f4de6c52a8
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 3%
 
 ---
@@ -80,7 +80,7 @@ Führen Sie diese Schritte aus, um der Rolle _Marketo AI User_ einen bestimmten 
 
 ### Benutzerdefinierte Rolle {#custom-role}
 
-Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, indem Sie _Zugriff auf Marketo AI_ und alles andere hinzufügen, was Sie möchten, und [diese Rolle &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
+Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, indem Sie _Zugriff auf Marketo AI_ und alles andere hinzufügen, was Sie möchten, und [diese Rolle ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
 
 ## Einstellungen {#settings}
 
@@ -118,4 +118,4 @@ _Diese Registerkarte wird möglicherweise in der Benutzeroberfläche angezeigt, 
 
 Verwalten von Warnhinweis-Voreinstellungen und Benachrichtigungskanälen.
 
-_Diese Registerkarte wird möglicherweise in der Benutzeroberfläche angezeigt, ist jedoch noch nicht verfügbar. Suchen Sie nach Updates_.
+_Diese Registerkarte wird möglicherweise in der Benutzeroberfläche angezeigt, ist jedoch noch nicht verfügbar. Bitte lesen Sie diesen Artikel für Updates_.
