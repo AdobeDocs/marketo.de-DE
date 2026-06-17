@@ -2,7 +2,7 @@
 description: Der leitende Mitarbeiter von Investigate beantwortet die Fragen, die Marketing-Experten am häufigsten stellen. Es ist schneller und zuverlässiger als das manuelle Durchsuchen von Aktivitätsprotokollen, intelligentem Kampagnenverlauf und Bewertungsdatensätzen.
 title: Leads untersuchen
 badge: Beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 1%
@@ -54,3 +54,4 @@ Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie M
 * Lead-Untersuchung ist schreibgeschützt. Sie informiert Sie zwar über die Vorfälle, ändert jedoch nichts am Lead-Datensatz oder der Programmmitgliedschaft.
 * Bei Problemen, die sich als Datenqualitätsprobleme erweisen (fehlende Feldwerte, falsche Lead-Quelle), muss die Korrektur manuell im Lead-Datensatz vorgenommen werden.
 * Wenn bei der Untersuchung ein Problem mit der Smart-Campaign-Logik auftritt, das sich auf viele Leads auswirkt, verwenden Sie die Programm-QA, um die vollständige Programmkonfiguration zu überprüfen.
+
