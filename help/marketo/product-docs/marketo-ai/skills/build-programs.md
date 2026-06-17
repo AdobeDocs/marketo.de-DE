@@ -3,7 +3,7 @@ description: Verwenden Sie Marketo AI, um ein Marketo-Programm aus einer einfach
 title: Erstellen von Programmen
 badge: Beta
 hide: true
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 1%
@@ -59,3 +59,4 @@ Beschreiben Sie eine Marketing-Kampagne im Klartext. Marketo AI erstellt die Pro
 * Marketo AI kann nicht automatisch auf die bestehenden Zielgruppenlisten zugreifen. Sie müssen Smart-List-Filter mit Ihren tatsächlichen Segmenten verbinden, nachdem das Programm erstellt wurde.
 * Komplexe mehrstufige Programme mit erweiterter Verzweigungslogik müssen nach der Erstellung möglicherweise manuell verfeinert werden.
 * Wenn Ihre Marketo-Umgebung Namenskonventionen oder Ordnerstrukturen verwendet, geben Sie diese in Ihrer Zusammenfassung an, damit das Programm an der richtigen Stelle erstellt wird.
+

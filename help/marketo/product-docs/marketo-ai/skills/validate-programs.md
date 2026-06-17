@@ -3,7 +3,7 @@ description: Erfahren Sie, wie Sie Ihre Programme auf Best Practices für alle K
 title: Programme validieren
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 2%
@@ -43,3 +43,4 @@ Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails
    Der KI-Assistent stellt eine Qualitätssicherung des ausgewählten Programms bereit, die Ihnen zeigt, was bestanden wurde und was fehlgeschlagen ist.
 
    ![](assets/validate-programs-6.png)
+
