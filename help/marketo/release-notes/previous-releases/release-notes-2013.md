@@ -14,7 +14,7 @@ subfeature_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 2516
 ht-degree: 4%
@@ -429,3 +429,4 @@ Wir haben in „E-Mail-Analyse[!UICONTROL &#x200B; zusätzliche Lead- und &#x200
 ## Erweiterter [!DNL BrightTALK] Ereignisadapter {#enhanced-brighttalk-event-adapter}
 
 Jetzt können Sie aus Ihrem [!DNL BrightTALK] Kanal und Ihrer Veranstaltung Teilnehmer in Marketo abrufen. Sie können diese Informationen verwenden, um andere Marketing-Kampagnen zu informieren!
+

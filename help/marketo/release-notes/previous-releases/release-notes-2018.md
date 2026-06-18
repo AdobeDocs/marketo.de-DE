@@ -28,7 +28,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 1871
 ht-degree: 4%
@@ -105,7 +105,7 @@ Marketo fügt eine zusätzliche japanische Datenquelle für Web Personalization 
 
 Web Personalization kann jetzt Inhalte für einen bekannten Web-Besucher personalisieren, der Teil einer in Marketing-Aktivitäten (MLM) definierten statischen Liste ist. Mit dieser Verbesserung können Sie jetzt kanalübergreifend statische Listen vermarkten und Personen auf diesen Listen mit personalisierten Inhalten auf Ihrer Website ansprechen.
 
-## ContentAI {#contentai}
+## ContentAI
 
 **Verbesserung des prädiktiven Algorithmus**
 
@@ -189,7 +189,7 @@ Teilen Sie Ihre Schnelldiagramme einfach mit anderen [!UICONTROL Performance Ins
 
 Optimierte Navigation und verbesserte Workflows geben Ihnen einen Überblick über die Erfolgskriterien des Programms und bieten Zugriff auf Programmdetails.
 
-## ContentAI {#contentai}
+## ContentAI
 
 [Zielsetzung](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
@@ -217,7 +217,7 @@ Die folgenden Funktionen sind in der Version vom Herbst 18 enthalten. Überprüf
 
 Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen, falls verfügbar.
 
-## Verbesserungen der Kernplattform {#core-platform-enhancements}
+## Verbesserungen der Kernplattform
 
 **[Web-Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -305,3 +305,4 @@ Marketo unterstützt jetzt die Verwendung von E-Mail-Dispositionsfeldern über d
 >[!NOTE]
 >
 >Marketo aktualisiert auch Bibliotheken im Zusammenhang mit Identität und Authentifizierung. Während des Upgrades werden Sie möglicherweise gelegentlich Fehler feststellen, wenn eine aktive Sitzung geöffnet ist. Wenn Probleme auftreten, melden Sie sich ab und wieder bei Ihrem Abonnement an.
+
