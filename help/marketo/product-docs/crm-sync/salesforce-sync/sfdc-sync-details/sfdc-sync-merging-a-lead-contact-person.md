@@ -33,7 +33,7 @@ Manchmal ist es am besten, nur die Regeln aufzulisten. Los geht&#39;s:
 
 >[!NOTE]
 >
->Das Verhalten von booleschen Feldern bei einer API-Zusammenführung hat sich in der Version vom 26. März geändert. Jetzt wird ein Wert „False“ korrekt als Wert für dieses Feld behandelt. Nur ein Nullwert wird bei der Auswertung widersprüchlicher Felder als „leer“ behandelt. Siehe [diesen Community-Beitrag](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} für weitere Details.
+>Das Verhalten von booleschen Feldern bei einer API-Zusammenführung hat sich in der Version vom 26. März geändert. Jetzt wird ein Wert „False“ korrekt als Wert für dieses Feld behandelt. Nur ein Nullwert wird bei der Auswertung widersprüchlicher Felder als „leer“ behandelt. Siehe [diesen Community-Beitrag](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=de){target="_blank"} für weitere Details.
 
 >[!MORELIKETHIS]
 >
