@@ -4,7 +4,7 @@ title: AWS-Migration
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -31,7 +31,7 @@ Während des Migrationsfensters sind nicht alle Marketo Engage-Services verfügb
 
 * **IP-Zulassungslisten überprüfen und aktualisieren** für Anmeldung, API-Zugriff, E-Mail-Versand, Webtracking und Integrationen.
 
-* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([&#x200B; Tabelle unten) hinzugefügt werden &#x200B;](#ip-addresses).
+* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([ Tabelle unten) hinzugefügt werden ](#ip-addresses).
 
 ## Erwartete Service-Auswirkungen
 
@@ -42,7 +42,7 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 ## Identifizieren des Rechenzentrums/Pods {#identify}
 
-Bevor Sie sich die folgenden Tabellen ansehen, [&#x200B; Sie (Erfahren Sie, wie Sie &#x200B;](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify), in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
+Bevor Sie sich die folgenden Tabellen ansehen, [ Sie (Erfahren Sie, wie Sie ](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify), in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
 
 ## Zeitplan {#schedule}
 
@@ -74,34 +74,34 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
    <td>17.00 Uhr PST<br>
    18.00 Uhr PST</td>
   </tr>
-  &lt;/body>
-  </table>
+  </body>
+</table>
 
 ## Hinzuzufügende IP-Adressen {#ip-addresses}
 
 Arbeiten Sie je nach Rechenzentrum mit Ihrer IT-Abteilung zusammen, um die entsprechenden IP-Adressen hinzuzufügen.
 
 <table>
- <tbody>
-  <tr>
-   <th style="width:25%">Rechenzentrum</th>
-   <th style="width:75%">IP-Adressen</th>
-  </tr>
-  <tr>
-   <td>AB</td>
-   <td>54.160.246.246<br>
-   54.237.141.197<br>
-   52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>NLD</td>
-   <td>34.247.24.245<br>
+<tbody>
+<tr>
+  <th style="width:25%">Rechenzentrum</th>
+  <th style="width:75%">IP-Adressen</th>
+</tr>
+<tr>
+  <td>AB</td>
+  <td>54.160.246.246<br>
+  54.237.141.197<br>
+  52.20.211.99</td>
+</tr>
+<tr>
+  <td>NLD</td>
+  <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
-  </tr>
-  &lt;/body>
-  </table>
+</tr>
+</body>
+</table>
 
 ## Updates und Support
 
-Setzen Sie ein Lesezeichen für diese Seite, um die neuesten Aktualisierungen zu erhalten. Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/de/support){target="_blank"}.
+Setzen Sie ein Lesezeichen für diese Seite, um die neuesten Aktualisierungen zu erhalten. Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/en/support){target="_blank"}.

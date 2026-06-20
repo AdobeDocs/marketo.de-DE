@@ -2,28 +2,10 @@
 title: 2014
 description: 2014 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
-  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: 3323
 ht-degree: 4%
@@ -91,7 +73,7 @@ Die folgenden Funktionen sind in der Version vom Februar 2014 enthalten. Bitte �
 
 ## Personen/[!UICONTROL Leads] vom Mailing blockiert {#people-leads-blocked-from-mailing}
 
-[Klicken Sie auf die Personen/Leads, die von der &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) gesperrt sind, um anzuzeigen, wer die E-Mail nicht erhalten wird, da er sich abgemeldet hat, auf der schwarzen Liste steht, eine ungültige oder leere E-Mail-Adresse hat oder vom Marketing suspendiert wurde.
+[Klicken Sie auf die Personen/Leads, die von der ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) gesperrt sind, um anzuzeigen, wer die E-Mail nicht erhalten wird, da er sich abgemeldet hat, auf der schwarzen Liste steht, eine ungültige oder leere E-Mail-Adresse hat oder vom Marketing suspendiert wurde.
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
@@ -139,7 +121,7 @@ Verwenden Sie die [Aktualisieren](/help/marketo/product-docs/email-marketing/ema
 
 ## Rückgängig machen/Wiederholen im E-Mail-Editor und im Snippet-Editor {#undo-redo-in-the-email-editor-and-snippet-editor}
 
-[Rückgängig machen oder &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md): Bis zu 50 Aktionen für die aktuelle Sitzung.
+[Rückgängig machen oder ](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md): Bis zu 50 Aktionen für die aktuelle Sitzung.
 
 ![](assets/image2014-9-22-11-3a35-3a40.png)
 
@@ -157,7 +139,7 @@ Sie können jetzt Programme ohne Periodenkosten in [!UICONTROL Umsatz-Explorer] 
 
 ## Hybride und implizite Optionen für die Lead-Konversion {#hybrid-and-implicit-options-for-lead-conversion}
 
-Sie können die Art und Weise ändern, wie Marketo Kontakte und Opportunities für die Lead-Konversionsmetriken in der Lead-Analyse verknüpft. Sie können [&#x200B; Attributionseinstellung &#x200B;](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) eine von drei Optionen ändern. Wenn Sie diese Einstellung ändern, werden keine Marketo- oder CRM-Daten geändert. Sie ändern lediglich die Ausführung Ihrer Berichte und können jederzeit rückgängig gemacht werden.
+Sie können die Art und Weise ändern, wie Marketo Kontakte und Opportunities für die Lead-Konversionsmetriken in der Lead-Analyse verknüpft. Sie können [ Attributionseinstellung ](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) eine von drei Optionen ändern. Wenn Sie diese Einstellung ändern, werden keine Marketo- oder CRM-Daten geändert. Sie ändern lediglich die Ausführung Ihrer Berichte und können jederzeit rückgängig gemacht werden.
 
 Die Einstellung Explizit behandelt nur Kontakte mit Rollen in einer Opportunity als konvertierte Leads (Standardverhalten). Implizit werden alle mit dem Konto in der Opportunity verbundenen Kontakte unabhängig von der Rolle als konvertiert behandelt. Hybrid behandelt Kontakte mit Rollen als konvertiert, falls verfügbar. Wenn nicht, behandeln wir alle Kontakte im Konto als konvertiert.
 
@@ -187,7 +169,7 @@ Jetzt können Sie [nicht verwendeten Arbeitsbereich löschen](/help/marketo/prod
 
 ## Erstbesetzung planen {#schedule-first-cast}
 
-In Interaktionsprogrammen können Sie das Datum für die (erste [) Ausführung &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Geben Sie beispielsweise die Kadenz an, die alle 2 Wochen erfolgen soll, und wählen Sie das Datum der ersten Besetzung aus.
+In Interaktionsprogrammen können Sie das Datum für die (erste [) Ausführung ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Geben Sie beispielsweise die Kadenz an, die alle 2 Wochen erfolgen soll, und wählen Sie das Datum der ersten Besetzung aus.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -199,7 +181,7 @@ Jetzt erhält jeder mehrere Programme, Streams und Kommunikationsbeschränkungen
 
 ## Linktracking in Textnachrichten {#link-tracking-in-text-emails}
 
-[Fügen Sie doppelte eckige Klammern &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) URLs in der Textversion Ihrer E-Mails hinzu, um anzugeben, wann Links in umgeleitete Marketo-Tracking-Links konvertiert werden sollen
+[Fügen Sie doppelte eckige Klammern ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) URLs in der Textversion Ihrer E-Mails hinzu, um anzugeben, wann Links in umgeleitete Marketo-Tracking-Links konvertiert werden sollen
 
 >[!NOTE]
 >
@@ -247,7 +229,7 @@ Modeler und Success Path Analyzer sind jetzt in MA Standard Edition enthalten.
 
 ## Informationen zur mobilen Plattform {#mobile-platform-info}
 
-[Segment und Trigger &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) von Leads, die E-Mails von ihren Mobilgeräten aus öffnen und klicken.
+[Segment und Trigger ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) von Leads, die E-Mails von ihren Mobilgeräten aus öffnen und klicken.
 
 ## Juni 2014 {#june}
 
@@ -267,7 +249,7 @@ Wenn Sie eine Test-E-Mail von [!DNL Sales Insight] senden, werden die Token in d
 
 ## Prozentsätze für Sterne und Flammen anpassen {#customize-percentages-for-stars-and-flames}
 
-[Legen Sie den Prozentsatz &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) Leads fest, die 1, 2 oder 3 Sterne und Flammen erhalten.
+[Legen Sie den Prozentsatz ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) Leads fest, die 1, 2 oder 3 Sterne und Flammen erhalten.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
@@ -277,7 +259,7 @@ Erstellen, lesen und aktualisieren Sie Leads programmatisch mithilfe unserer neu
 
 ## Real-Time Personalization (RTP, Echtzeit-Personalisierung) – Aktualisierung der Kampagnenseite {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagnenleistung. Darüber hinaus können Sie [&#x200B; Kampagnen nach Datum &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) Spitzenleistung organisieren.
+RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagnenleistung. Darüber hinaus können Sie [ Kampagnen nach Datum ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) Spitzenleistung organisieren.
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -309,7 +291,7 @@ Die Dokumentation zum Marketing-Kalender wird zum Zeitpunkt der Veröffentlichun
 
 ## Datumsoperatoren {#date-operators}
 
-[Erweiterte Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) für &quot;[!UICONTROL in der Vergangenheit]&quot;, &quot;[!UICONTROL in der &#x200B;]&quot; und &quot;[!UICONTROL in der Zukunft danach]&quot;. Suchen Sie beispielsweise nach Leads, die in den nächsten 3 Monaten ein Geburtsdatum haben, oder nach einem Vertrag, der nach 6 Monaten abläuft.
+[Erweiterte Filter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) für &quot;[!UICONTROL in der Vergangenheit]&quot;, &quot;[!UICONTROL in der ]&quot; und &quot;[!UICONTROL in der Zukunft danach]&quot;. Suchen Sie beispielsweise nach Leads, die in den nächsten 3 Monaten ein Geburtsdatum haben, oder nach einem Vertrag, der nach 6 Monaten abläuft.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -325,7 +307,7 @@ Zusätzlich zum Marketing-Kalender können Sie Ihre Ereignisse und Standardprogr
 
 ## Listenvorgänge in der REST-API {#list-operations-in-the-rest-api}
 
-Wir haben die folgenden Aufrufe im Zusammenhang mit Listenvorgängen in ReST hinzugefügt. Die vollständige Dokumentation finden Sie [&#128279;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api) https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api.
+Wir haben die folgenden Aufrufe im Zusammenhang mit Listenvorgängen in ReST hinzugefügt. Die vollständige Dokumentation finden Sie ](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api) [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api.
 
 * Liste nach ID abrufen
 * Abrufen mehrerer Listen
@@ -348,7 +330,7 @@ Der Rollout wird ab Mitte Juli geplant und in den nächsten Monaten fortgesetzt.
 
 ## RTP: Echtzeit-Personalization-Kampagnenvorlagen {#rtp-real-time-personalization-campaign-templates}
 
-Die Seite RTP-Set-[&#x200B; (enthält jetzt vorgefertigte Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Wählen Sie aus einer Vielzahl von Stilen, einschließlich Webinaren, Fallstudien und eBooks.
+Die Seite RTP-Set-[ (enthält jetzt vorgefertigte Vorlagen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Wählen Sie aus einer Vielzahl von Stilen, einschließlich Webinaren, Fallstudien und eBooks.
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
@@ -356,7 +338,7 @@ Die Seite RTP-Set-[&#x200B; (enthält jetzt vorgefertigte Vorlagen](/help/market
 
 ## RTP: JavaScript API-Verbesserungen {#rtp-javascript-api-enhancements}
 
-Neuer RTP-API-Aufruf, um Echtzeit-Besucherdaten wie Organisation, Branche, Standort und Segment-Code abzugleichen. Darüber hinaus wird beim Bewegen des Mauszeigers über einen Segmentnamen auf der Seite Segmente eine QuickInfo mit dem Segment-Code angezeigt. Die vollständige Dokumentation finden [&#x200B; auf unserer &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)-Website.
+Neuer RTP-API-Aufruf, um Echtzeit-Besucherdaten wie Organisation, Branche, Standort und Segment-Code abzugleichen. Darüber hinaus wird beim Bewegen des Mauszeigers über einen Segmentnamen auf der Seite Segmente eine QuickInfo mit dem Segment-Code angezeigt. Die vollständige Dokumentation finden [ auf unserer ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)-Website.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
@@ -370,7 +352,7 @@ Die folgenden Funktionen sind in der Version vom August 2014 enthalten. Überpr�
 
 ## Marketing-Kalender-Lizenzen {#marketing-calendar-licenses}
 
-Nach dem 5. September 2014 haben nur noch 5 Benutzer freien Zugang zum Marketing-Kalender. Stellen Sie sicher[&#x200B; dass Sie den Benutzern Ihrer Wahl zuvor eine Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)Lizenz erteilen/widerrufen, um einen unterbrechungsfreien Zugriff zu erhalten.
+Nach dem 5. September 2014 haben nur noch 5 Benutzer freien Zugang zum Marketing-Kalender. Stellen Sie sicher[ dass Sie den Benutzern Ihrer Wahl zuvor eine Marketing-Kalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)Lizenz erteilen/widerrufen, um einen unterbrechungsfreien Zugriff zu erhalten.
 
 ![--](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -469,7 +451,7 @@ Verwenden Sie die -API, um neue Aktivitäten oder Änderungen an Leads abzurufen
 * Aktivitätstypen abrufen
 * Paging-Token abrufen
 
-Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api) verfügbar sein.
+Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api) verfügbar sein.
 
 ## MSI - Marketo-E-Mail senden für [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -499,7 +481,7 @@ Das Dashboard wurde nun erweitert, sodass es mehr Daten auf einen Blick enthält
 
 ## RTP - Neue Mobile-Vorlagen für Kampagnen {#rtp-new-mobile-templates-for-campaigns}
 
-Mit [&#x200B; neuen Vorlagen können Sie schnell und einfach &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) Mobile-Kampagnen erstellen.
+Mit [ neuen Vorlagen können Sie schnell und einfach ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) Mobile-Kampagnen erstellen.
 
 ## RTP - User Context API {#rtp-user-context-api}
 
@@ -509,7 +491,7 @@ Verwenden Sie einen neuen Aufruf, der den Verlauf der letzten Besuche eines Besu
 * Interessierte Produkte
 * Welche RTP-Kampagnen sie gesehen haben
 
-Ausführliche Informationen finden Sie [&#128279;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation.
+Ausführliche Informationen finden Sie ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation.
 
 ## Dezember 2014 {#december}
 
@@ -565,7 +547,7 @@ Drei neue Aufrufe für die Lead &amp; Activity REST-API:
 
 ・ Lead zusammenführen
 
-Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
+Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
 
 ## [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 

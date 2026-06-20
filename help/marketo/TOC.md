@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: b0f4d348a51b5f3c0f0ec79d3467810c83aa4231
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
-source-wordcount: '8896'
+source-wordcount: '8893'
 ht-degree: 96%
 
 ---
@@ -1110,7 +1110,6 @@ ht-degree: 96%
    + MARKETO AI {#marketo-ai}
       + [Überblick](product-docs/marketo-ai/overview.md)
       + [Einstellungen und Setup](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[Einstellungen und Setup](product-docs/marketo-ai/settings-setup-old.md)
       + Kenntnisse {#skills}
          + [Produktkenntnisse](product-docs/marketo-ai/skills/product-knowledge.md)
          + {hide-from-toc}[Surface-Einblicke](product-docs/marketo-ai/skills/surface-insights.md)
@@ -1921,7 +1920,7 @@ ht-degree: 96%
    + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
    + [Frühere Versionen](release-notes/previous-releases.md)
-   + {hide-from-toc}Frühere Versionen  {#previous-releases}
+   + Frühere Versionen {hide-from-toc} {#previous-releases}
       + 2026 {#2026}
          + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
