@@ -1,5 +1,5 @@
 ---
-title: 2015
+title: "2015"
 description: 2015 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
 feature_v2:
@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
-source-wordcount: 2816
+source-wordcount: 2871
 ht-degree: 6%
 
 ---
@@ -281,8 +281,7 @@ Sie sind zum Mittagessen unterwegs und müssen eine E-Mail neu planen? Mit der [
 
 ## Rich-Text-Editor aktualisieren {#rich-text-editor-update}
 
-Aktualisierter Texteditor mit modernem Look-and-Feel, einschließlich optimierter Textformatierung, Bildbearbeitung, Link-Einfügen und HTML-Bearbeitung. Der HTML-Editor verfügt jetzt über eine minimale Validierung, was eine weniger restriktive Code-Bearbeitung ermöglicht.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Dieses Update wird automatisch innerhalb weniger Tage nach der Juli-Version eingeführt. Danach können Sie zwischen der neuen und der alten Version des Editors wechseln: **[!UICONTROL Admin] > [!UICONTROL Email] > [!UICONTROL Editor-Einstellungen bearbeiten]**.
+Aktualisierter Texteditor mit modernem Look-and-Feel, einschließlich optimierter Textformatierung, Bildbearbeitung, Link-Einfügen und HTML-Bearbeitung. Der HTML-Editor verfügt jetzt über eine minimale Validierung, was eine weniger restriktive Code-Bearbeitung ermöglicht.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Dieses Update wird automatisch innerhalb weniger Tage nach der Juli-Version eingeführt. Danach können Sie zwischen der neuen und der alten Version des Editors wechseln: **[!UICONTROL Admin] > [!UICONTROL Email] > [!UICONTROL Editor-Einstellungen bearbeiten]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 

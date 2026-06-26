@@ -3,9 +3,9 @@ description: Erfahren Sie, wie Sie Ihre Programme auf Best Practices für alle K
 title: Programme validieren
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: ef5d8b15ea606262a8cd57003e7d2b56fa79a155
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '144'
 ht-degree: 2%
 
 ---
@@ -16,11 +16,7 @@ Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails
 
 >[!AVAILABILITY]
 >
->Diese Funktion ist nur eingeschränkt verfügbar. Um den Zugriff anzufordern, füllen Sie [dieses Formular](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"} aus. Stellen Sie sicher, dass Sie die Munchkin ID Ihres Abonnements bereit haben.
-
->[!PREREQUISITES]
->
->Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie von Ihrem Account Manager.
+>Diese Funktion befindet sich derzeit in der offenen Beta-Phase. Wenden Sie sich an Ihren Account Manager, um Zugriff anzufordern. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
 
 ## Informationen zur Verwendung {#how-to-use}
 
@@ -28,7 +24,7 @@ Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails
 
    ![](assets/validate-programs-1.png)
 
-1. Wählen Sie den **Programme validieren** aus.
+1. Wählen Sie die **Programme validieren** aus.
 
 1. Wählen Sie das Programm, das Sie validieren möchten, im rechten Bereich aus.
 
@@ -36,11 +32,8 @@ Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails
 
    Eine Zusammenfassung des ausgewählten Programms wird in der Mitte angezeigt.
 
-   ![](assets/validate-programs-4.png){width="450" zoomable="yes"}
-
 1. Geben Sie im Eingabeaufforderungsfenster „Programm validieren“ ein und klicken Sie auf **Senden**.
 
    Der KI-Assistent stellt eine Qualitätssicherung des ausgewählten Programms bereit, die Ihnen zeigt, was bestanden wurde und was fehlgeschlagen ist.
 
    ![](assets/validate-programs-6.png)
-

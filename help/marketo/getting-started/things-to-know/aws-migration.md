@@ -4,10 +4,10 @@ title: AWS-Migration
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
+source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 3%
+source-wordcount: '392'
+ht-degree: 2%
 
 ---
 
@@ -56,51 +56,70 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
    <th style="width:30%">Uhrzeit</th>
   </tr>
   <tr>
-   <td>19. Juni 2026</td>
-   <td>AB46</td>
-   <td>17.00 Uhr PST</td>
-  </tr>
-  <tr>
    <td>8. Juli 2026</td>
    <td>AB69<br>
    AB64</td>
-   <td>17.00 Uhr PST<br>
-   18.00 Uhr PST</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
   </tr>
   <tr>
    <td>9. Juli 2026</td>
    <td>AB70<br>
    AB43</td>
-   <td>17.00 Uhr PST<br>
-   18.00 Uhr PST</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+  </tr>
+  <tr>
+   <td>11. Juli 2026</td>
+   <td>AB46</td>
+   <td>10 h PDT</td>
+  </tr>
+  <tr>
+   <td>13. Juli 2026</td>
+   <td>NLD101</td>
+   <td>10 h PDT</td>
+  </tr>
+  <tr>
+   <td>15. Juli 2026</td>
+   <td>NLD102<br>
+   NLD104</td>
+   <td>10 h PDT<br>
+   11 h PDT</td>
+  </tr>
+  <tr>
+   <td>17. Juli 2026</td>
+   <td>NLD103<br>
+   NLD105</td>
+   <td>10 h PDT<br>
+   11 h PDT</td>
   </tr>
   &lt;/body>
-  </table>
+</table>
 
 ## Hinzuzufügende IP-Adressen {#ip-addresses}
 
 Arbeiten Sie je nach Rechenzentrum mit Ihrer IT-Abteilung zusammen, um die entsprechenden IP-Adressen hinzuzufügen.
 
 <table>
- <tbody>
-  <tr>
-   <th style="width:25%">Rechenzentrum</th>
-   <th style="width:75%">IP-Adressen</th>
-  </tr>
-  <tr>
-   <td>AB</td>
-   <td>54.160.246.246<br>
-   54.237.141.197<br>
-   52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>NLD</td>
-   <td>34.247.24.245<br>
+<tbody>
+<tr>
+  <th style="width:25%">Rechenzentrum</th>
+  <th style="width:75%">IP-Adressen</th>
+</tr>
+<tr>
+  <td>AB</td>
+  <td>54.160.246.246<br>
+  54.237.141.197<br>
+  52.20.211.99</td>
+</tr>
+<tr>
+  <td>NLD</td>
+  <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
-  </tr>
-  &lt;/body>
-  </table>
+</tr>
+&lt;/body>
+</table>
 
 ## Updates und Support
 

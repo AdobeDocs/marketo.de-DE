@@ -3,7 +3,7 @@ description: Das Klonprogramm dupliziert ein vorhandenes Marketo-Programm in ein
 title: Programm klonen
 badge: Beta
 hide: true
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 1%
@@ -33,7 +33,7 @@ Der Agent „Programm klonen“ kopiert ein Arbeitsprogramm, einschließlich der
 1. Marketo AI bestätigt das Quellprogramm, den Zielordner und den neuen Namen. Überprüfen und bestätigen.
 1. Der Klon wird erstellt. Marketo AI bestätigt, wann dies geschehen ist, und teilt Ihnen mit, wo Sie es finden können.
 1. Öffnen Sie das neue Programm in Marketo und aktualisieren Sie, was anders ist: E-Mail-Inhalt, Daten, Zielgruppenfilter, Token usw.
-1. Führen Sie [Programm-QA](/help/marketo/product-docs/marketo-ai/skills/program-qa.md)-Agent vor der Aktivierung aus.
+1. Führen Sie [Programm-QA](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md)-Agent vor der Aktivierung aus.
 
 ## Anwendungsszenarien {#use-cases}
 

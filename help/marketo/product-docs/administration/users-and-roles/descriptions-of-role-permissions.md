@@ -28,10 +28,10 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
-ht-degree: 19%
+source-wordcount: 1338
+ht-degree: 18%
 
 ---
 
@@ -68,7 +68,7 @@ Einstellungen im Abschnitt Mein Konto von Admin anzeigen und ändern.
 * `Data.com` - Ermöglicht Benutzern Zugriff auf die Flussaktion Data.com
 * Zugriff auf E-Mail-Admin : Ermöglicht Benutzenden den Zugriff auf E-Mail-Admin, um Standardeinstellungen wie Abmelde- und Branding-Domains zu ändern
 * Zugriff auf Event-Partner : Ermöglicht Benutzern Zugriff auf LaunchPoint in Admin
-* Zugriff auf Experience Cloud-Zielgruppenfreigabe : Ermöglicht Benutzenden den Zugriff zum Synchronisieren einer Zielgruppe von Adobe Experience Cloud mit Marketo Engage
+* Zugriff auf Experience Cloud Audience Sharing : Ermöglicht Benutzenden den Zugriff zum Synchronisieren einer Audience von Adobe Experience Cloud mit Marketo Engage
 * Verwaltung von Zugriffsfeldern : Ermöglicht Benutzern Zugriff auf die Verwaltung von Feldern in Admin
 * Zugriff auf den Datei-Upload : Ermöglicht Benutzern das Hochladen von Bildern und Dateien in Design Studio
 * Zugriff auf Landingpages : Ermöglicht Benutzern Zugriff auf Landingpages in Admin
@@ -234,15 +234,10 @@ Zeigen Sie die Registerkarte Marketing-Aktivitäten, Kampagnen und Kampagnenordn
 * Marketing-Asset löschen
 * Kampagnen-Einschränkungen bearbeiten
 * Marketing-Asset bearbeiten
-* Kampagnenaktivität exportieren&#42;
+* Kampagnenaktivität exportieren
 * Programm importieren
 * Listenimport
 * Stapel-Kampagne planen
-
-Auf SEO zugreifen
-
-* SEO verwalten
-* SEO-Standard
 
 ## Zielgruppe und Personalisierung {#targeting-and-personalization}
 
