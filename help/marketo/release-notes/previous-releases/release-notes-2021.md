@@ -2,39 +2,9 @@
 title: 2021
 description: 2021 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-  - id: fc9b09fe-b844-4544-887b-e420c3b82065
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: fc9b09fe-b844-4544-887b-e420c3b82065id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: 4744
@@ -97,7 +67,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **[Einblicke in den E-Mail-Status ([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: Benutzende sehen eine Warnmeldung, wenn sie versuchen, eine E-Mail an eine ungültige E-Mail-ID oder eine abgemeldete E-Mail-Adresse zu senden, bevor sie eine E-Mail senden.  Der Status des E-Mail-Versands kann auf der Registerkarte E-Mail von [!DNL Sales Insight] eingesehen werden.
 * **Massen-E-Mails über [Konto](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) und [Opportunity](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout)-Bedienfelder ([!DNL Salesforce] CRM) senden**: Verbessern Sie die Effizienz des Workflows des Verkäufers und interagieren Sie mit einer ganzen Konto- oder Opportunity-Kontaktliste durch die Verwendung neuer Massenaktionsfunktionen. Senden Sie E-Mails oder fügen Sie Kontakte zu Marketo Engage-Kampagnen hinzu, indem Sie die neue Dropdown-Option auf den Registerkarten Konto oder Opportunity verwenden, anstatt mit einzelnen Kontakten zu arbeiten. Fügen Sie Account-Kontakte zu einer Watchlist hinzu, um benachrichtigt zu werden, wenn Leads heiß werden.
 * **[[!DNL Sales Insight] Für Nicht-Native- [!DNL Salesforce] -CRM-Integrationen](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**: GA-Abonnements mit benutzerdefinierten Salesforce CRM-Integrationen können das [!DNL Sales Insight] installieren und Vertriebsteams dabei helfen, Prioritäten zu setzen und mit den viel versprechendsten Leads und Chancen zu interagieren.
-* **[Best-Bets-Verbesserungen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Kontaktieren Sie schnell die besten Leads auf der Registerkarte Best-Bets , indem Sie sie per E-Mail versenden oder zu einer Marketo Engage-Kampagne hinzufügen. Zeigen Sie einen Lead in Marketo Engage an oder fügen Sie ihn Ihrer Watchlist hinzu. Massenaktionen und Sortieroptionen auf der Registerkarte [!UICONTROL Best &#x200B;]&quot; sparen Zeit und verbessern die Effizienz des Vertriebsteams.
+* **[Best-Bets-Verbesserungen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Kontaktieren Sie schnell die besten Leads auf der Registerkarte Best-Bets , indem Sie sie per E-Mail versenden oder zu einer Marketo Engage-Kampagne hinzufügen. Zeigen Sie einen Lead in Marketo Engage an oder fügen Sie ihn Ihrer Watchlist hinzu. Massenaktionen und Sortieroptionen auf der Registerkarte [!UICONTROL Best ]&quot; sparen Zeit und verbessern die Effizienz des Vertriebsteams.
 
 ## [!DNL Sales Connect]
 
@@ -117,7 +87,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **_Webinar zur Produktversion_**
 
-Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Melden Sie [&#x200B; jetzt an](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) um am 21. Januar um 13 :00 PT / 16 :00 ET an einem Live-Webinar mit unserem Produkt-Team teilzunehmen, um einen tieferen Einblick in diese Innovationen zu erhalten.
+Möchten Sie mehr über diese Funktionen und Verbesserungen erfahren? Melden Sie [ jetzt an](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) um am 21. Januar um 13 :00 PT / 16 :00 ET an einem Live-Webinar mit unserem Produkt-Team teilzunehmen, um einen tieferen Einblick in diese Innovationen zu erhalten.
 
 ## Mai 2021 {#may}
 
@@ -251,7 +221,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Integration von Lead Gen-Forms**: Marketing-Experten können jetzt Umsatzzuordnungen für Konversionen durchführen, die auftreten, wenn [!DNL LinkedIn] Formularausfüllungen über ihre Lead Gen-Forms-Werbeeinheiten erfasst. Diese Erkenntnisse können dann zur Optimierung der Formularleistung und der Investitionen in bezahlte Medien verwendet werden. [!DNL LinkedIn] Lead Gen Forms ist eines der am schnellsten wachsenden Paid-Media-Angebote von [!DNL LinkedIn] und diese neue Funktion ist Teil unserer bestehenden [!DNL LinkedIn] Ads-Integration mit [!DNL Bizible].
+* **[!DNL Bizible][!DNL LinkedIn] Integration von Lead Gen-Forms**: Marketing-Experten können jetzt Umsatzzuordnungen für Konversionen durchführen, die auftreten, wenn [!DNL LinkedIn] Formularausfüllungen über ihre Lead Gen-Forms-Werbeeinheiten erfasst. Diese Erkenntnisse können dann zur Optimierung der Formularleistung und der Investitionen in bezahlte Medien verwendet werden. [!DNL LinkedIn] Lead Gen Forms ist eines der am schnellsten wachsenden Paid-Media-Angebote von [!DNL LinkedIn] und diese neue Funktion ist Teil unserer bestehenden [!DNL LinkedIn] Ads-Integration mit [!DNL Bizible].
 
 * **Verbessertes Geschwindigkeits-Dashboard**: Wir haben eine neue Geschwindigkeitsmetrik und einen Dashboard-Filter für tiefere Einblicke hinzugefügt. Dieses Dashboard wird von Marketing-Experten verwendet, um die Lead- und Opportunity-Geschwindigkeit und die Effizienz verschiedener Formen der Marketing- und Vertriebsinteraktion Schritt für Schritt zu verstehen.
 
@@ -317,7 +287,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 **[!DNL Sales Insight]für [!DNL Microsoft Dynamics 365] Sales**
 
-* **[!UICONTROL Best Bets] Verbesserungen**: Die Registerkarte [!UICONTROL Best &#x200B;] in [!DNL Sales Insight] bietet eine Echtzeitansicht der wichtigsten Kontakte und Leads, die nach Qualität und Dringlichkeit priorisiert sind. Wir haben Vertriebsmitarbeitern die Möglichkeit hinzugefügt, Aktionen durchzuführen, wie etwa die Überprüfung des Punktwerts einer Person, das Senden einer E-Mail oder das Hinzufügen von Interessenten zu bestimmten Marketo Engage-Kampagnen direkt von der [!DNL Best Bets] Seite aus, wodurch die Effizienz erhöht und die Reaktionszeit beschleunigt werden.
+* **[!UICONTROL Best Bets] Verbesserungen**: Die Registerkarte [!UICONTROL Best ] in [!DNL Sales Insight] bietet eine Echtzeitansicht der wichtigsten Kontakte und Leads, die nach Qualität und Dringlichkeit priorisiert sind. Wir haben Vertriebsmitarbeitern die Möglichkeit hinzugefügt, Aktionen durchzuführen, wie etwa die Überprüfung des Punktwerts einer Person, das Senden einer E-Mail oder das Hinzufügen von Interessenten zu bestimmten Marketo Engage-Kampagnen direkt von der [!DNL Best Bets] Seite aus, wodurch die Effizienz erhöht und die Reaktionszeit beschleunigt werden.
 
 * **Neue E-Mail-, Web-Aktivitäts-, anonyme Web-Aktivitäts-Dashboards**: Wir haben die neuen Vertriebs-Dashboards hinzugefügt, um Verkäufer über die neuesten E-Mail- und Web-Aktivitäten ihrer Leads und Kontakte zu informieren. Mit der neuen Filterfunktion bieten die Dashboards jetzt insight in E-Mail-Öffnungen, Klicks und Web-Seitenbesuche für die vollständige Liste der Konten oder ein bestimmtes Konto. Marketo Engage verfolgt alle Web-Aktivitäten und stellt dem Vertrieb wichtige Informationen bereit, sodass anonymer Traffic zu Leads wird. Verkäufer können Interaktionen personalisieren und Leads schneller in Verkäufe umwandeln, da sie besser über das Lead-Verhalten informiert sind und basierend auf der Relevanz aller Touchpoints handeln.
 
@@ -343,7 +313,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 * **Associate Lead-Einstellung/Munchkin Beta 161-Aktualisierung**: Am 7. September 2021 begann Munchkin in Version 161 mit dem Rollout von 10 % der Abonnements mit aktiviertem Munchkin Beta, gefolgt von 50 % am 16. September und 100 % am 30. September. Diese Änderung betrifft Landingpages in Marketo Engage und die Version der Datei munchkin-beta.js, die externen Landingpages bereitgestellt wird, welche aus Abonnements geladen werden, für die die aktuelle Version ausgerollt wurde. Diese Version verwirft vollständig die [!DNL Munchkin] Associate Lead -Methode, eine Funktion, die die Übermittlung der Daten einer Person an ein Marketo Engage-Abonnement und den zugehörigen Webbrowsing-Verlauf mit einem bekannten Personendatensatz ermöglicht. Der verknüpfte Lead wird zugunsten von moderneren und sichereren Alternativen wie der Forms JS-API, der Formularübermittlungs-API und der REST-API für den verknüpften Lead entfernt. [Weitere Informationen zu dieser Einstellung finden Sie hier](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
-* **[!DNL Sales Connect]Aktualisierung**: Eine kürzlich vorgenommene Änderung der Benutzeroberfläche in [!DNL Sales Connect] hat dazu geführt, dass einige Modale in [!DNL Salesforce] abgeschnitten wurden. Um dies zu beheben, führen Sie eine [Paketaktualisierung“ &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+* **[!DNL Sales Connect]Aktualisierung**: Eine kürzlich vorgenommene Änderung der Benutzeroberfläche in [!DNL Sales Connect] hat dazu geführt, dass einige Modale in [!DNL Salesforce] abgeschnitten wurden. Um dies zu beheben, führen Sie eine [Paketaktualisierung“ ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **_Webinar zur Produktversion_**
 
