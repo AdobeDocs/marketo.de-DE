@@ -2,9 +2,9 @@
 description: Überprüfen Sie den Datenumfang von Marketo AI, die Governance-Kontrollen und PII-Überlegungen in wichtigen Workflows wie Lead-Import, Programm-QA und Datennormalisierung.
 title: Marketo AI-Datenblatt
 badge: Beta
-source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
+source-git-commit: 5c127a9b84033f2baa3c6bce727472d4b58f5842
 workflow-type: tm+mt
-source-wordcount: '1479'
+source-wordcount: '1417'
 ht-degree: 0%
 
 ---
@@ -121,11 +121,11 @@ In diesem Abschnitt werden die Umgebungen zusammengefasst, in denen die Marketo-
 
 **Kein separater benutzerübergreifender Speicher:** Der Service führt keine separate Benutzer-zu-Benutzer-Datenfreigabe- oder Speicherschicht ein.
 
-## Überlegungen zu personenbezogenen Daten und Datenschutz: Datenumfang nach Workflow-Typ
+## Datenbereich nach Workflow-Typ
 
 Die von Marketo AI verarbeiteten Daten werden durch das Nutzungsmuster des Benutzers und den aufgerufenen spezifischen Workflow bestimmt. Nicht alle Workflows erfordern die Verarbeitung von Daten auf Lead-Ebene.
 
-### Workflows, die nur Kampagnenmetadaten verarbeiten (keine Lead-PII)
+### Workflows, die nur Kampagnen-Metadaten nutzen (keine Lead-Informationen)
 
 * Programmerstellung aus einer Zusammenfassung - generiert Programmstrukturen, intelligente Kampagnen, Flussschritte und Platzhalter für Inhalte aus Anweisungen in natürlicher Sprache
 * E-Mail-Klonen und -Übersetzung - Dupliziert und übersetzt E-Mail-Inhalte, Betreffzeilen und Marketing-Kopien in HTML-Sprachvarianten
@@ -134,9 +134,9 @@ Die von Marketo AI verarbeiteten Daten werden durch das Nutzungsmuster des Benut
 * Prüfung der Abonnement-Center- und Programmarchitektur — analysiert die Kampagnenlogik und die Programmstruktur
 * Produkt-Know-how und Best-Practice-Anleitungen - Bietet Marketo-Anleitungen aus einer gemeinsamen Wissensschicht
 
-### Workflows, die Datensätze auf Lead-Ebene verarbeiten (standardmäßige B2B-Kontaktfelder)
+### Workflows, die Datensätze auf Lead-Ebene nutzen (standardmäßige B2B-Kontaktfelder)
 
-* Lead-Untersuchung und Fehlerbehebung - Untersucht die Werte einzelner Lead-Felder, den Aktivitätsverlauf und den Lebenszyklusverlauf, um festzustellen, warum ein Lead MQL erreicht oder nicht erreicht hat oder sich für eine Marketing-Kampagne qualifiziert hat
+* Lead-Untersuchung und Fehlerbehebung - Untersucht vom Benutzer bereitgestellte Werte für einzelne Lead-Felder, den Aktivitätsverlauf und den Lebenszyklusverlauf, um festzustellen, warum ein Lead den MQL-Status erreicht oder nicht erreicht hat oder sich für eine Marketing-Kampagne qualifiziert hat
 * Lead-Import und -Normalisierung - Verarbeitet vom Benutzer bereitgestellte Lead-Daten wie Namen, E-Mail-Adressen, Telefonnummern und Unternehmensfelder für die Zuordnung, Bereinigung und Deduplizierung
 * Lead-Klassifizierung und -Anreicherung - Wertet Lead-Datensätze anhand benutzerdefinierter Scoring- oder Klassifizierungslogik aus (z. B. Gültige vs. Spam-Leads für den Zustand der Datenbank, Personalisierungspersonen, Business Leads mit Unternehmens-E-Mail-Leads vs. Verbraucher-Leads)
 * Datenqualitäts- und Zustellbarkeitsprüfungen - Analysiert Interaktionsdaten auf Lead-Ebene, Bounce-Muster und doppelte Datensätze, um Probleme mit der Datenbankintegrität zu identifizieren
@@ -145,8 +145,7 @@ Die von Marketo AI verarbeiteten Daten werden durch das Nutzungsmuster des Benut
 ### Datenminimierung durch Design
 
 * In allen Fällen sind die an das KI-Modell gesendeten Daten auf das beschränkt, was zur Erfüllung der spezifischen Benutzeranfrage innerhalb dieses Workflows erforderlich ist
-* Die KI übernimmt die bestehenden Marketo Engage-Berechtigungen des anfragenden Benutzers. Sie kann nicht auf Lead-Datensätze, Felder oder Programme zugreifen, die über das hinausgehen, was der Benutzer bereits über die Produkt-Benutzeroberfläche anzeigen kann
-* Für Ermittlungs- und Datenvorgänge sind notwendigerweise Daten auf Lead-Ebene erforderlich, da der Benutzer die KI explizit auffordert, diese Datensätze zu analysieren, zu klassifizieren oder darauf zu reagieren
+* Marketo AI folgt den bestehenden Marketo Engage-Berechtigungen des Benutzers - es bietet keinen Zugriff auf Lead-Datensätze, Felder oder Programme, die über die Berechtigung des Benutzers zum Anzeigen über die Produkt-Benutzeroberfläche hinausgehen
 * Benutzer, die die Lead-Daten-Verarbeitung einschränken möchten, können den Zugriff auf die Untersuchungs-Workflows des Tools durch bestehende Rollen- und Berechtigungskontrollen von Marketo Engage einschränken und gleichzeitig den vollständigen Zugriff auf strukturelle und administrative KI-Funktionen behalten
 
 ### Keine inkrementelle Datenexposition
