@@ -3,9 +3,9 @@ description: Erkunden Sie die Marketo AI-Suite von Agenten, die Marketing-Aufgab
 title: Marketo AI - Übersicht
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '368'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,9 @@ Marketo AI bietet Agenten, die zeitaufwendige, aber wichtige Marketing-Funktione
 
 >[!IMPORTANT]
 >
->Nachdem die Marketo-KI für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte“ ausführen](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} um sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
+>* Nachdem die Marketo-KI für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte“ ausführen](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} um sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
+>
+>* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die Überlegungen zu personenbezogenen Daten im Marketo AI [Dateninformationsblatt](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"}.
 
 ## Zugriff {#access}
 
@@ -38,7 +40,7 @@ Die Center Console verfügt über eine wachsende Anzahl von Agentenkenntnissen, 
 
 ### Leads untersuchen {#investigate-leads}
 
-Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads &#x200B;](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}.
+Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads ](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}.
 
 ### Produktkenntnisse {#product-knowledge}
 
@@ -62,4 +64,4 @@ Weitere Agenten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben en
 
 >[!MORELIKETHIS]
 >
->Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
+>Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
