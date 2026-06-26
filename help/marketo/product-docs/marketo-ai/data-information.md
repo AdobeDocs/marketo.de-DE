@@ -2,9 +2,9 @@
 description: Überprüfen Sie den Datenumfang von Marketo AI, die Governance-Kontrollen und PII-Überlegungen in wichtigen Workflows wie Lead-Import, Programm-QA und Datennormalisierung.
 title: Marketo AI-Datenblatt
 badge: Beta
-source-git-commit: 5c127a9b84033f2baa3c6bce727472d4b58f5842
+source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
 workflow-type: tm+mt
-source-wordcount: '1417'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
@@ -127,25 +127,25 @@ Die von Marketo AI verarbeiteten Daten werden durch das Nutzungsmuster des Benut
 
 ### Workflows, die nur Kampagnen-Metadaten nutzen (keine Lead-Informationen)
 
-* Programmerstellung aus einer Zusammenfassung - generiert Programmstrukturen, intelligente Kampagnen, Flussschritte und Platzhalter für Inhalte aus Anweisungen in natürlicher Sprache
-* E-Mail-Klonen und -Übersetzung - Dupliziert und übersetzt E-Mail-Inhalte, Betreffzeilen und Marketing-Kopien in HTML-Sprachvarianten
-* Kampagnen-Auditing - Prüft intelligente Kampagnenkonfigurationen, Trigger-/Filterdefinitionen, Flusslogik und Benennungskonventionen
-* Validierung der Programm-QA - bewertet Programme anhand benutzerdefinierter Regeln auf Kompatibilität, Genehmigungsstatus und strukturelle Vollständigkeit
-* Prüfung der Abonnement-Center- und Programmarchitektur — analysiert die Kampagnenlogik und die Programmstruktur
-* Produkt-Know-how und Best-Practice-Anleitungen - Bietet Marketo-Anleitungen aus einer gemeinsamen Wissensschicht
+* Programmerstellung aus einer Zusammenfassung: Generiert Programmstrukturen, intelligente Kampagnen, Flussschritte und Platzhalter für Inhalte aus Anweisungen in natürlicher Sprache
+* E-Mail-Klonen und -Übersetzung: Dupliziert und übersetzt E-Mail-Inhalte, Betreffzeilen und Marketing-Kopien in HTML-Sprachvarianten
+* Kampagnenprüfung: Überprüfung der Smart-Kampagnenkonfigurationen, Trigger-/Filterdefinitionen, Flusslogik und Benennungskonventionen
+* Validierung der Programm-QA: Bewertet Programme anhand benutzerdefinierter Regeln auf Kompatibilität, Genehmigungsstatus und strukturelle Vollständigkeit
+* Prüfung der Abonnement-Center- und Programmarchitektur: Analysiert die Kampagnenlogik und die Programmstruktur
+* Produkterkenntnisse und Best Practice-Anleitungen: Bietet Marketo Anleitungsantworten aus einer gemeinsamen Wissensschicht
 
 ### Workflows, die Datensätze auf Lead-Ebene nutzen (standardmäßige B2B-Kontaktfelder)
 
-* Lead-Untersuchung und Fehlerbehebung - Untersucht vom Benutzer bereitgestellte Werte für einzelne Lead-Felder, den Aktivitätsverlauf und den Lebenszyklusverlauf, um festzustellen, warum ein Lead den MQL-Status erreicht oder nicht erreicht hat oder sich für eine Marketing-Kampagne qualifiziert hat
-* Lead-Import und -Normalisierung - Verarbeitet vom Benutzer bereitgestellte Lead-Daten wie Namen, E-Mail-Adressen, Telefonnummern und Unternehmensfelder für die Zuordnung, Bereinigung und Deduplizierung
-* Lead-Klassifizierung und -Anreicherung - Wertet Lead-Datensätze anhand benutzerdefinierter Scoring- oder Klassifizierungslogik aus (z. B. Gültige vs. Spam-Leads für den Zustand der Datenbank, Personalisierungspersonen, Business Leads mit Unternehmens-E-Mail-Leads vs. Verbraucher-Leads)
-* Datenqualitäts- und Zustellbarkeitsprüfungen - Analysiert Interaktionsdaten auf Lead-Ebene, Bounce-Muster und doppelte Datensätze, um Probleme mit der Datenbankintegrität zu identifizieren
-* Leistungsanalysen in Campaign - Oberflächen mit Lead-Interaktionsmustern, Konversionsdaten und Zielgruppenkomposition zur Unterstützung der Leistungsanalyse
+* Lead-Untersuchung und Fehlerbehebung: Untersucht die vom Benutzer bereitgestellten Werte der einzelnen Lead-Felder, den Aktivitätsverlauf und den Lebenszyklusverlauf, um festzustellen, warum ein Lead den MQL-Status erreicht oder nicht erreicht hat oder sich für eine Marketing-Kampagne qualifiziert hat
+* Lead-Import und -Normalisierung: Verarbeitet vom Benutzer bereitgestellte Lead-Daten wie Namen, E-Mail-Adressen, Telefonnummern und Unternehmensfelder für die Zuordnung, Bereinigung und Deduplizierung
+* Lead-Klassifizierung und -Anreicherung: Wertet Lead-Datensätze anhand benutzerdefinierter Scoring- oder Klassifizierungslogik aus (z. B. Gültige vs. Spam-Leads für den Zustand der Datenbank, Personalisierungspersonen, Business Leads mit Unternehmens-E-Mail-Leads vs. Verbraucher-Leads).
+* Datenqualitäts- und Zustellbarkeitsprüfungen: Analysiert Interaktionsdaten auf Lead-Ebene, Bounce-Muster und doppelte Datensätze, um Probleme mit der Datenbankintegrität zu identifizieren
+* Leistungsanalysen in Campaign: Oberflächen mit Lead-Interaktionsmustern, Konversionsdaten und Audience-Komposition zur Unterstützung der Leistungsanalyse
 
 ### Datenminimierung durch Design
 
 * In allen Fällen sind die an das KI-Modell gesendeten Daten auf das beschränkt, was zur Erfüllung der spezifischen Benutzeranfrage innerhalb dieses Workflows erforderlich ist
-* Marketo AI folgt den bestehenden Marketo Engage-Berechtigungen des Benutzers - es bietet keinen Zugriff auf Lead-Datensätze, Felder oder Programme, die über die Berechtigung des Benutzers zum Anzeigen über die Produkt-Benutzeroberfläche hinausgehen
+* Marketo AI folgt den bestehenden Marketo Engage-Berechtigungen des Benutzers. Es bietet keinen Zugriff auf Lead-Datensätze, Felder oder Programme, die über die Berechtigung des Benutzers zum Anzeigen über die Produkt-Benutzeroberfläche hinausgehen
 * Benutzer, die die Lead-Daten-Verarbeitung einschränken möchten, können den Zugriff auf die Untersuchungs-Workflows des Tools durch bestehende Rollen- und Berechtigungskontrollen von Marketo Engage einschränken und gleichzeitig den vollständigen Zugriff auf strukturelle und administrative KI-Funktionen behalten
 
 ### Keine inkrementelle Datenexposition
