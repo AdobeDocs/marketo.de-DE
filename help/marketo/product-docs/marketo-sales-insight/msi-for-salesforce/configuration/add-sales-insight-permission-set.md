@@ -4,16 +4,13 @@ title: Hinzufügen eines Sales Insight-Berechtigungssatzes
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 362
-ht-degree: 4%
+source-wordcount: 393
+ht-degree: 3%
 
 ---
 
@@ -27,7 +24,9 @@ Führen Sie die folgenden Schritte aus, um Zugriff auf [!DNL Sales Insight] Funk
 
 >[!IMPORTANT]
 >
->Wenn Sie zuvor [!DNL Sales Insight] Zugriff auf alle Profile gewährt und/oder [!DNL Sales Insight] für alle Ihre Benutzer implementiert haben, müssen Sie [Zugriff auf Profilebene entfernen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} um diesen Berechtigungssatz zu verwenden.
+>* Wenn Sie zuvor allen Ihren Benutzern Zugriff auf [!DNL Sales Insight] Profile erteilt und/oder [!DNL Sales Insight] implementiert haben, müssen Sie [Zugriff auf Profilebene entfernen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} um diesen Berechtigungssatz verwenden zu können.
+>
+>* Die Salesforce-Standardlizenz ist erforderlich, um die volle Funktionalität von MSI nutzen zu können. Benutzende mit der Salesforce Platform-Lizenz (einer eingeschränkten Lizenzklasse) sehen möglicherweise Fehler beim Ausführen bestimmter Aktionen oder beim Zugriff auf einige Registerkarten.
 
 ## Überblick {#overview}
 
