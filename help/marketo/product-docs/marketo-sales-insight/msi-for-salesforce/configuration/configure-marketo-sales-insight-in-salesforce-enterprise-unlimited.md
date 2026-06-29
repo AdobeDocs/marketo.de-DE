@@ -12,9 +12,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 946
+source-wordcount: 977
 ht-degree: 5%
 
 ---
@@ -104,6 +104,10 @@ Konfigurieren Sie Marketo Sales Insight in Salesforce Enterprise/Unlimited Editi
    >_Sie_ wählen Ihren **[!UICONTROL Remote-Standortnamen]** (`MarketoAPI` wird hier verwendet). Die **[!UICONTROL Remote-Site-URL]** finden Sie im Feld &quot;Marketo-Host“ im Dialogfeld „API-Konfiguration bearbeiten“ in Schritt 3 im Abschnitt „Konfigurieren von Sales Insight in Marketo&quot;.
 
 ## Gewähren des Profilzugriffs für Sales Insight-Benutzer auf standardmäßige Salesforce-Objekte {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>Die Salesforce-Standardlizenz ist erforderlich, um die volle Funktionalität von MSI nutzen zu können. Benutzende mit der Salesforce Platform-Lizenz (einer eingeschränkten Lizenzklasse) sehen möglicherweise Fehler beim Ausführen bestimmter Aktionen oder beim Zugriff auf einige Registerkarten.
 
 Aufgrund der Salesforce-Sicherheitsverbesserungen können AppExchange-Pakete keine Berechtigungen mehr für Standardobjekte erteilen, und der Zugriff auf die entsprechenden Salesforce-Objekte muss über das Benutzerprofil von Salesforce gewährt werden. Gehen Sie wie folgt vor, um die erforderlichen Berechtigungen zu gewähren.
 

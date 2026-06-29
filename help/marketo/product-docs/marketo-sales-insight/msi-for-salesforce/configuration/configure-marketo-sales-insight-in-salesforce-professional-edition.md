@@ -12,9 +12,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 779
+source-wordcount: 810
 ht-degree: 1%
 
 ---
@@ -86,6 +86,10 @@ Konfigurieren Sie Marketo Sales Insight in Salesforce Professional Edition, inde
 1. Geben Sie den Namen der Remote-Site ein (dies kann z. B. „MarketoRestAPI“ sein). Geben Sie die Remote-Site-URL ein, d. h. Ihre API-URL aus dem Bedienfeld „REST-API-Konfiguration“ in Marketo. Klicken Sie auf **[!UICONTROL Speichern]**. Sie haben jetzt Remote-Site-Einstellungen für die Rest-API erstellt.
 
 ## Gewähren des Profilzugriffs für Sales Insight-Benutzer auf standardmäßige Salesforce-Objekte {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>Die Salesforce-Standardlizenz ist erforderlich, um die volle Funktionalität von MSI nutzen zu können. Benutzende mit der Salesforce Platform-Lizenz (einer eingeschränkten Lizenzklasse) sehen möglicherweise Fehler beim Ausführen bestimmter Aktionen oder beim Zugriff auf einige Registerkarten.
 
 Aufgrund der Salesforce-Sicherheitsverbesserungen können AppExchange-Pakete keine Berechtigungen mehr für Standardobjekte erteilen, und der Zugriff auf die entsprechenden Salesforce-Objekte muss über das Benutzerprofil von Salesforce gewährt werden. Gewähren Sie die erforderlichen Berechtigungen, indem Sie die folgenden Schritte ausführen.
 
