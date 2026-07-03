@@ -17,22 +17,22 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
+source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
 workflow-type: tm+mt
-source-wordcount: 421
-ht-degree: 28%
+source-wordcount: 483
+ht-degree: 22%
 
 ---
 
-# Mai 2026 - Versionshinweise {#release-notes-may-26}
+# Versionshinweise: Juli 2026, #1 vom 2. {#release-notes-july-26-one}
 
-Im Folgenden finden Sie alle Funktionen, die in der Version vom Mai 2026 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
+Nachstehend finden Sie alle Funktionen, die in der ersten Version vom Juli 2026 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 22. **2026 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise eingeführt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 10. **2026 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -42,9 +42,9 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>E-Mail-Designer - Bedingter Inhalt für E</strong>Mail-Fragmente: <i>Parität mit dem alten E-Mail-Editor</i>. Bedingte Inhalte werden jetzt für Fragmente unterstützt.</td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td><strong>Marketo-KI-Kenntnisse - Produktwissen</strong>: Produktkenntnisse bieten Ihnen On-Demand-Zugriff auf Marketo-Know-how, ohne die Plattform verlassen zu müssen. Stellen Sie eine Frage in einfacher Sprache, und Marketo AI nutzt die offizielle Adobe-Dokumentation, um sie zu beantworten.</td>
+   <td>Offene Betaversion</td>
+   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Übersicht über Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -52,10 +52,21 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Auswahllisten-Verwaltung</strong>: Sie können jetzt die Werte angeben, die in Feldern in Marketo Engage verwendet werden können.
-   </td>
-   <td><i>Demnächst verfügbar</i></td>
-   <td><i>Demnächst verfügbar</i></td>
+   <td><strong>Marketo-KI-Kenntnisse - Leads untersuchen</strong>: Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist.
+</td>
+   <td>Offene Betaversion</td>
+   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Übersicht über Marketo AI</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-Mail-Designer - KI-Assistent Kontextmenü</strong>: Die Funktionen des KI-Assistenten der E-Mail-Designer können jetzt über das Kontextmenü (den schwarzen Balken) aufgerufen werden. Wenn Sie beispielsweise Textinhalte auswählen, wird im Kontextmenü das Symbol KI-Assistent angezeigt, über das Sie Schnellaktionen ausführen können.</td>
+   <td><i>Demnächst</i></td>
+   <td><i>Demnächst</i></td>
+  </tr>
   </tr>
   </tbody>
 </table>
@@ -63,17 +74,9 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Felder für veraltete Social-**: Im Jahr 2025 hat Marketo Engage die folgenden Social-Media-Funktionen eingestellt:
-
-   * Umfragen
-   * Social-Schaltfläche
-   * Empfehlungsangebot
-   * Videofreigabe
-   * Gewinnspiele
-
-Anfang dieses Jahres wurden die verwandten Felder, die zurückgelassen worden waren, aus Marketo entfernt. Bald darauf gaben API-Anfragen, die auf bestimmte Lead-Felder im Zusammenhang mit Social verweisen, den Fehler „Feld nicht gefunden“ zurück, was zu Unterbrechungen führte. Der Service wurde wiederhergestellt, nachdem die betroffenen Felder erneut verfügbar gemacht wurden. Um weitere Störungen zu vermeiden, hat Marketo Social-Media-Felder dauerhaft von der Einstellung der Social-Media-Funktionen entkoppelt (und ist daher in Ihrem Marketo-Konto verfügbar). Benutzerinnen und Benutzer werden ermutigt, API-Abfragen und -Integrationen zu überprüfen, die auf Marketo Social-bezogene Felder verweisen, und festzustellen, ob diese Felder für laufende Geschäftsprozesse weiterhin erforderlich sind.
-
 * **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. Juli 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **Limit für REST-API-Zusammenführung von Leads**: Ab dem 31. Juli 2026 führen Aufrufe, die mehr als 25 IDs im leadIds-Parameter eines Zusammenführungs-Leads-API-Aufrufs enthalten, zu einem 1080-Fehler-Code, und der Aufruf wird übersprungen. Aufträge, die die Zusammenführung von mehr als 25 Datensätzen in einem erfordern, sollten in mehrere Aufträge aufgeteilt werden, um den Erfolg dieser Aufrufe sicherzustellen.
 
 * **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Juli 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
 
