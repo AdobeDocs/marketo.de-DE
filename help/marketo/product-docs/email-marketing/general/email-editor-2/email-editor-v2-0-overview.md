@@ -9,10 +9,10 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
 workflow-type: tm+mt
-source-wordcount: 462
-ht-degree: 79%
+source-wordcount: 479
+ht-degree: 72%
 
 ---
 
@@ -24,31 +24,31 @@ ht-degree: 79%
 >
 >Es gibt zwar kein genaues Datum, aber der klassische E-Mail-Editor wird letztendlich eingestellt (wir werden ein genaues Datum bekannt geben, wenn wir eines haben). Es wird dringend empfohlen, mit der Einführung der erweiterten [E-Mail-Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} zu beginnen, da sie über viele Funktionen verfügt, die im klassischen Editor nicht verfügbar sind.
 
-**Auswahl der E-Mail-Vorlagen**
+## E-Mail-Vorlagenauswahl {#email-template-picker}
 
 Wenn Sie eine neue E-Mail erstellen, gelangen Sie zur [E-Mail-Vorlagenauswahl](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**E-Mail-Editor**
+## E-Mail-Editor {#email-editor}
 
 Wenn Sie mit der Bearbeitung Ihrer E-Mail beginnen, werden Sie feststellen, dass der Editor ein völlig neues Erscheinungsbild aufweist.
 
 ![](assets/email-editor-v2-overview-2.png)
 
-**Module**
+### Module {#modules}
 
 Diese Elemente auf der rechten Seite des Editors werden Module genannt. Erfahren Sie, wie Sie [Module zu Ihrer E-Mail hinzufügen](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/email-editor-v2-overview-3.png)
 
-**Textversion**
+### Textversion {#text-version}
 
 Der Wechsel zwischen der HTML-Version und der Textversion Ihrer E-Mail erfolgt jetzt unten über eine praktische Registerkarte. Erfahren Sie, wie Sie [die Textversion einer E-Mail bearbeiten](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**E-Mail-Header**
+### E-Mail-Kopfzeile {#email-header}
 
 Benötigen Sie mehr Platz zum Gestalten? Die E-Mail-Kopfzeile kann ausgeblendet werden, nachdem Sie fertig sind [sie bearbeiten](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klicken Sie einfach auf dieses Symbol …
 
@@ -58,7 +58,7 @@ Benötigen Sie mehr Platz zum Gestalten? Die E-Mail-Kopfzeile kann ausgeblendet 
 
 ![](assets/email-editor-v2-overview-6.png)
 
-**Vorschau Ihrer E-Mail**
+### Vorschau der E-Mail {#preview-your-email}
 
 Standardmäßig wird angezeigt, wie die E-Mail auf einem Desktop aussehen würde. Darauf weist das hervorgehobene blaue Symbol hin. Wenn Sie auf das Symbol rechts daneben klicken …
 
@@ -80,7 +80,7 @@ Standardmäßig wird dort die Desktop-Ansicht angezeigt …
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**[!UICONTROL E-Mail-Aktionen]**
+## E-Mail-Aktionen {#email-actions}
 
 Unter **[!UICONTROL E-Mail-Aktionen]** werden Ihnen einige neue Funktionen auffallen. **[!UICONTROL Bild oder Datei hochladen]** und **[!UICONTROL Bilder aus dem Web abrufen]**. Sie können auch die E-Mail selbst als neue E-Mail-Vorlage speichern. Sie müssen ihr nur einen Namen und ein Ziel geben.
 
@@ -94,11 +94,17 @@ Unter **[!UICONTROL E-Mail-Aktionen]** werden Ihnen einige neue Funktionen auffa
 >
 >Die Option **[[!UICONTROL Bilder aus dem Web abrufen]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funktioniert genauso wie im [!UICONTROL Design-Studio].
 
-Mit der Option **[!UICONTROL Offenes Tracking deaktivieren]** unter **[!UICONTROL Einstellungen bearbeiten]** können Sie bei Bedarf das Öffnungs-Tracking deaktivieren.
+## E-Mail-Einstellungen {#email-settings}
+
+Wählen Sie aus einer Vielzahl zusätzlicher Einstellungen, mit denen Sie die E-Mail anpassen können.
+
+### Öffnungs-Tracking deaktivieren
+
+Unter **[!UICONTROL Einstellungen bearbeiten]** können Sie bei Bedarf das Öffnungs-Tracking deaktivieren.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**[!UICONTROL Bearbeiten von Einstellungen]**
+### Preheader hinzufügen {#add-a-preheader}
 
 Sie haben die Möglichkeit, einen [!UICONTROL Preheader] hinzuzufügen. Ein [!UICONTROL Preheader] ist der kurze Zusammenfassungstext nach der Betreffzeile, der für E-Mails in Ihrem Posteingang angezeigt wird.
 
