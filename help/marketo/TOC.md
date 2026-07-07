@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: f5f3d0cf1068c09308388dd1455666d5ac3555b6
 workflow-type: tm+mt
-source-wordcount: '8902'
+source-wordcount: '8906'
 ht-degree: 96%
 
 ---
@@ -1011,6 +1011,7 @@ ht-degree: 96%
          + [E-Mail-Zusammenarbeit](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [KI-Assistent für E-Mail Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Bericht zu E-Mail-Spam mit SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
+         + {hide-from-toc}[CNIL Open Tracking Guidance](product-docs/email-marketing/email-designer/cnil-guidance.md)
       + E-Mail-Programme {#email-programs}
          + Erstellen eines E-Mail-Programms {#creating-an-email-program}
             + [Erstellen eines E-Mail-Programms](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1921,7 +1922,7 @@ ht-degree: 96%
    + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
    + [Frühere Versionen](release-notes/previous-releases.md)
-   + {hide-from-toc}Frühere Versionen  {#previous-releases}
+   + Frühere Versionen {hide-from-toc} {#previous-releases}
       + 2026 {#2026}
          + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
