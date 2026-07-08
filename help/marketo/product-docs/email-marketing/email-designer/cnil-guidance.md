@@ -1,19 +1,18 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: CNIL Guidance Compliance - Conditional Email Open Tracking
+title: CNIL Guidance - Conditional Email Open Tracking
 description: Erfahren Sie, wie Sie Marketo Engage für die CNIL-Konformität mithilfe eines benutzerdefinierten booleschen Felds konfigurieren können, um das Öffnungs-Tracking von E-Mails basierend auf dem Einverständnisstatus jeder Person weiterzuleiten.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+source-git-commit: de1e3b715de3a7978f851a336ca63b5da2aa86f3
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
-# CNIL Guidance Compliance: Bedingtes Öffnungs-Tracking von E-Mails {#cnil}
+# CNIL-Anleitung: Bedingtes E-Mail-Öffnungs-Tracking {#cnil}
 
 Erfahren Sie, wie Sie Marketo Engage in Übereinstimmung mit den CNIL-Richtlinien (COMMUNITY LINK) so konfigurieren, dass das Endbenutzer-Einverständnis für das Tracking der E-Mail-Öffnungen (Pixel) berücksichtigt wird. Der Ansatz verwendet ein benutzerdefiniertes boolesches Feld, um zu bestimmen, welche E-Mail-Variante eine Person erhält, entweder mit aktiviertem oder mit deaktiviertem Öffnungs-Tracking.
 
@@ -29,7 +28,7 @@ Erfahren Sie, wie Sie Marketo Engage in Übereinstimmung mit den CNIL-Richtlinie
 
 ## Schritt 2: Füllen Sie das Feld Zustimmung aus {#populate}
 
-1. Legen Sie den Feldwert für die E-Mail-Pixel-Verfolgung für jede Person über den Datenimport (API-Synchronisierung oder [CSV-Upload](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}) fest.
+1. Legen Sie den Feldwert für die E-Mail-Pixel-Verfolgung für jede Person über den Datenimport (API-Synchronisierung oder [CSV-Upload](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}) fest.
 
    ![](assets/cnil-3.png)
 
@@ -63,7 +62,7 @@ In der E-Mail **Designer befindet sich das Kontrollkästchen**&#x200B;Öffnungs-
 
 ## Schritt 4: Konfigurieren der intelligenten Kampagne {#smart-campaign}
 
-[Erstellen einer Smart-Kampagne](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} um zu bestimmen, welche E-Mail jede Person erhält.
+[Erstellen einer Smart-Kampagne](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} um zu bestimmen, welche E-Mail jede Person erhält.
 
 1. Fügen Sie auf der _Fluss_ der Smart-Kampagne den Schritt **E-Mail senden** ein.
 
