@@ -5,16 +5,16 @@ title: CNIL Guidance - Conditional Email Open Tracking
 description: Erfahren Sie, wie Sie Marketo Engage für die CNIL-Konformität mithilfe eines benutzerdefinierten booleschen Felds konfigurieren können, um das Öffnungs-Tracking von E-Mails basierend auf dem Einverständnisstatus jeder Person weiterzuleiten.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: de1e3b715de3a7978f851a336ca63b5da2aa86f3
+source-git-commit: b8d1872fc697e42a82675a2b45ce01f21bb83edd
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
 
 # CNIL-Anleitung: Bedingtes E-Mail-Öffnungs-Tracking {#cnil}
 
-Erfahren Sie, wie Sie Marketo Engage in Übereinstimmung mit den CNIL-Richtlinien (COMMUNITY LINK) so konfigurieren, dass das Endbenutzer-Einverständnis für das Tracking der E-Mail-Öffnungen (Pixel) berücksichtigt wird. Der Ansatz verwendet ein benutzerdefiniertes boolesches Feld, um zu bestimmen, welche E-Mail-Variante eine Person erhält, entweder mit aktiviertem oder mit deaktiviertem Öffnungs-Tracking.
+Erfahren Sie, wie Sie Marketo Engage so konfigurieren, dass das Einverständnis der Endbenutzer zum Tracking des E-Mail-Öffnens (in Pixel) berücksichtigt wird, in Übereinstimmung mit [CNIL-Richtlinien](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=de){target="_blank"}. Der Ansatz verwendet ein benutzerdefiniertes boolesches Feld, um zu bestimmen, welche E-Mail-Variante eine Person erhält, entweder mit aktiviertem oder mit deaktiviertem Öffnungs-Tracking.
 
 ## Schritt 1: Erstellen eines benutzerdefinierten booleschen Felds {#custom-field}
 
