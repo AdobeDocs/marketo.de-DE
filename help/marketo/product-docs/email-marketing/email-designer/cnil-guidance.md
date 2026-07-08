@@ -6,9 +6,9 @@ description: Erfahren Sie, wie Sie Marketo Engage für die CNIL-Konformität mit
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
+source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ In der E-Mail **Designer befindet sich das Kontrollkästchen**&#x200B;Öffnungs-
 
    ![](assets/cnil-8.png){width="800" zoomable="yes"}
 
-1. Klicken Sie im Flussschritt auf **Auswahl hinzufügen**. Legen Sie in Auswahl 1 **Wenn** auf _EmailPixelTracking_ fest, legen Sie den Operator auf _is_ fest und setzen Sie den Wert auf _false_. Wählen Sie für **E** Mail _die Option „E-Mail 2_ aus.
+1. Klicken Sie im Flussschritt auf **Auswahl hinzufügen**. Legen Sie in Auswahl 1 **Wenn** auf _E-Mail-Pixelverfolgung_, den Operator auf _Is_ und den Wert auf _false_ fest. Wählen Sie für **E** Mail _die Option „E-Mail 2_ aus.
 
 1. Legen Sie in der Standardauswahl für „E **Mail** „E _Mail One“_.
 
