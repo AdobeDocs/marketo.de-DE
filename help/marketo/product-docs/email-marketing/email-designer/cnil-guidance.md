@@ -6,9 +6,9 @@ description: Erfahren Sie, wie Sie Marketo Engage für die CNIL-Konformität mit
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
+source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Erfahren Sie, wie Sie Marketo Engage in Übereinstimmung mit den CNIL-Richtlinie
 
 ## Schritt 2: Füllen Sie das Feld Zustimmung aus {#populate}
 
-1. Legen Sie den Feldwert für die E-Mail-Pixel-Verfolgung für jede Person über den Datenimport (API-Synchronisierung oder [CSV-Upload](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}) fest.
+1. Legen Sie den Feldwert für die E-Mail-Pixel-Verfolgung für jede Person über den Datenimport (API-Synchronisierung oder [CSV-Upload](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}) fest.
 
    ![](assets/cnil-3.png)
 
@@ -63,13 +63,13 @@ In der E-Mail **Designer befindet sich das Kontrollkästchen**&#x200B;Öffnungs-
 
 ## Schritt 4: Konfigurieren der intelligenten Kampagne {#smart-campaign}
 
-[Erstellen einer Smart-Kampagne](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} um zu bestimmen, welche E-Mail jede Person erhält.
+[Erstellen einer Smart-Kampagne](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} um zu bestimmen, welche E-Mail jede Person erhält.
 
 1. Fügen Sie auf der _Fluss_ der Smart-Kampagne den Schritt **E-Mail senden** ein.
 
    ![](assets/cnil-8.png){width="800" zoomable="yes"}
 
-1. Klicken Sie im Flussschritt auf **Auswahl hinzufügen**. Legen Sie in Auswahl 1 **Wenn** auf _EmailPixelTracking_ fest, legen Sie den Operator auf _is_ fest und setzen Sie den Wert auf _false_. Wählen Sie für **E** Mail _die Option „E-Mail 2_ aus.
+1. Klicken Sie im Flussschritt auf **Auswahl hinzufügen**. Legen Sie in Auswahl 1 **Wenn** auf _E-Mail-Pixelverfolgung_, den Operator auf _Is_ und den Wert auf _false_ fest. Wählen Sie für **E** Mail _die Option „E-Mail 2_ aus.
 
 1. Legen Sie in der Standardauswahl für „E **Mail** „E _Mail One“_.
 
