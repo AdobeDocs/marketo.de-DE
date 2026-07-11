@@ -16,16 +16,16 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 14cdc585c2c5b972dd3743c5eb3e253a8a91f608
+source-git-commit: d0cf66fe0c72af8e9d1db09792f73fd6db10abbb
 workflow-type: tm+mt
-source-wordcount: 481
+source-wordcount: 477
 ht-degree: 22%
 
 ---
 
-# Versionshinweise: Juli 2026, #1 vom 2. {#release-notes-july-26-one}
+# Versionshinweise: Juli 2026 {#release-notes-july-26}
 
-Nachstehend finden Sie alle Funktionen, die in der ersten Version vom Juli 2026 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
+Unten finden Sie alle Funktionen, die in der Version vom 26. Juli enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 

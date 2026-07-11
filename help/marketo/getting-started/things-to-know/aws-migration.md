@@ -4,9 +4,9 @@ title: AWS-Migration
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 959b1599d48d5e496f012b515a9d8f9a528431e0
+source-git-commit: 3073a443b5dee8033e88dc474989c44552851e52
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -102,6 +102,11 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
    <td>23. Juli 2026</td>
    <td>AB48</td>
    <td>17:00 PDT</td>
+  </tr>
+  <tr>
+   <td>31. Juli 2026</td>
+   <td>AB43</td>
+   <td>15:00 PDT</td>
   </tr>
   <tr>
    <td>12. August 2026</td>
