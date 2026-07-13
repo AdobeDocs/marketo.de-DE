@@ -3,20 +3,20 @@ description: Erkunden Sie die Marketo AI-Suite von Agenten, die Marketing-Aufgab
 title: Marketo AI - Übersicht
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
+source-git-commit: f500c305c3e5c1331e9bb34c01cfec5974cf329e
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '379'
 ht-degree: 1%
 
 ---
 
 # Marketo AI - Übersicht {#overview}
 
-Marketo AI bietet Agenten, die zeitaufwendige, aber wichtige Marketing-Funktionen automatisieren.
+Marketo AI bietet Agentenfähigkeiten zur Automatisierung zeitaufwendiger, aber wichtiger Marketing-Funktionen.
 
 >[!AVAILABILITY]
 >
->Diese Funktion befindet sich derzeit in der offenen Beta-Phase. Wenden Sie sich an Ihren Account Manager, um Zugriff anzufordern. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
+>Diese Funktion befindet sich derzeit in der offenen Beta-Phase. Wenden Sie sich an Ihren Account Manager, um Zugriff anzufordern. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Marketo AI ist derzeit nur für Englisch optimiert.
 
 >[!IMPORTANT]
 >
