@@ -40,7 +40,7 @@ Die Center Console verfügt über eine wachsende Anzahl von Agentenkenntnissen, 
 
 ### Leads untersuchen {#investigate-leads}
 
-Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads ](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}.
+Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads &#x200B;](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}.
 
 ### Produktkenntnisse {#product-knowledge}
 
