@@ -4,12 +4,11 @@ description: Erfahren Sie mehr über die Kontobewertung und wie sie dazu beiträ
 title: Kontobewertung
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/l---8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+TQID: https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
 workflow-type: tm+mt
-source-wordcount: 375
+source-wordcount: 376
 ht-degree: 2%
 
 ---
@@ -49,8 +48,7 @@ In der komplexen Welt der B2B-Kaufprozesse trifft eine einzelne Person selten ei
 >
 >Zur Berechnung der Kontobewertungen müssen Sie zunächst Lead-Bewertungen erstellen. Marketo TAM aggregiert Lead-Bewertungen automatisch zu Konto-Bewertungen. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Account Product Interest Score_ und _Account Web Engagement Score_).
 >
->Erstellen Sie zunächst Lead-Bewertungsfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.
->Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:>Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)>Account Web Engagement Score = SUM (Lead Web Engagement Score)
+>Erstellen Sie zunächst Lead-Bewertungsfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)Account Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >
@@ -66,7 +64,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
 
    ![](assets/account-score-2.png)
 
-1. Klicken [!UICONTROL &#x200B; in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
+1. Klicken [!UICONTROL  in „Bewertungsfelder] auf **[!UICONTROL Bearbeiten]**.
 
    ![](assets/account-score-3.png)
 
@@ -74,7 +72,7 @@ Nachdem Sie die Lead-Bewertung konfiguriert haben, fahren Sie mit den folgenden 
    >
    >Sie können bis zu **fünf** Felder zur Berechnung des [!UICONTROL Kontowerts] auswählen.
 
-1. Geben Sie [!UICONTROL &#x200B; Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
+1. Geben Sie [!UICONTROL  Namen „Kontobewertung] ein, klicken Sie auf die **[!UICONTROL Personenbewertung auswählen]** und wählen Sie den entsprechenden Wert aus.
 
    ![](assets/account-score-4.png)
 
