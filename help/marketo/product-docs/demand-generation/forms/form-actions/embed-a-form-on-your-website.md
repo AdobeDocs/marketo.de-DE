@@ -53,4 +53,4 @@ Greifen Sie auf den Einbettungs-Code eines Formulars zu, um es auf Ihrer eigenen
 
    >[!TIP]
    >
-   >Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihm die [Forms 2.0-Entwicklerseite](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+   >Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihm die [Forms 2.0-Entwicklerseite](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
