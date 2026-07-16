@@ -1,30 +1,13 @@
 ---
-title: "2017"
+title: 2017
 description: 2017 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2364
+source-wordcount: 2440
 ht-degree: 4%
 
 ---
@@ -41,17 +24,23 @@ Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktio
 >
 >Wenn ein Thema mehrere Unterüberschriften hat, werden die Links dort platziert.
 
-## [Erweiterte Abgleichung für benutzerdefinierte Facebook-Zielgruppen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## Erweiterter Abgleich für benutzerdefinierte Facebook-Zielgruppen {#advanced-matching-for-facebook-custom-audiences}
+
+[Erweiterter Abgleich für benutzerdefinierte Facebook-Zielgruppen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
 
 Bei der einfachen Zuordnung werden nur E-Mail-Adressen verwendet, bei der neuen erweiterten Zuordnung werden jedoch sieben zusätzliche Felder verwendet, was die Übereinstimmungsrate für mehr Konversionen erhöht.
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API für den Import benutzerdefinierter Objekte](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## API zum Import benutzerdefinierter Objekte {#custom-object-import-api}
+
+[API zum Import benutzerdefinierter Objekte](https://developers.marketo.com/rest-api/lead-database/custom-objects/)
 
 Diese API bietet eine schnellere Schnittstelle zum Synchronisieren benutzerdefinierter Objekte in Marketo. Sie können CSV-, TSV- oder SSV-Tabellendateien als benutzerdefinierte Objekte in Marketo importieren.
 
-## [Export von Web Personalization-Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## Web Personalization-Kampagnenexport {#web-personalization-campaigns-export}
+
+[Web Personalization-Kampagnenexport](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md)
 
 Exportieren Sie alle Web-Kampagnendetails und Analysen im CSV-Format. Anschließend können Sie Ihre Daten in einem praktischen Layout anzeigen.
 
@@ -59,7 +48,7 @@ Exportieren Sie alle Web-Kampagnendetails und Analysen im CSV-Format. Anschließ
 
 ## Lokalisierung {#localization}
 
-Die Apps Web Personalization[!UICONTROL Predictive Content] und Email Insights sind jetzt auf Japanisch, Deutsch und Spanisch verfügbar. Sie [&#x200B; Ihre Sprache und Ihr Gebietsschema &#x200B;](/help/marketo/product-docs/administration/settings/change-time-zone.md), um Ihre Inhalte in diesen Sprachen anzuzeigen.
+Die Apps Web Personalization[!UICONTROL Predictive Content] und Email Insights sind jetzt auf Japanisch, Deutsch und Spanisch verfügbar. Sie [ Ihre Sprache und Ihr Gebietsschema ](/help/marketo/product-docs/administration/settings/change-time-zone.md), um Ihre Inhalte in diesen Sprachen anzuzeigen.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -77,7 +66,7 @@ Verwenden [!UICONTROL Benanntes Konto] oder [!UICONTROL Kontoliste] als Dimensio
 
 ![](assets/ei.png)
 
-## [!UICONTROL Verbesserungen bei prädiktiven &#x200B;]) {#predictive-content-enhancements}
+## [!UICONTROL Verbesserungen bei prädiktiven ]) {#predictive-content-enhancements}
 
 **[Filtern nach [!UICONTROL Source aktiviert]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
@@ -101,7 +90,9 @@ Die Inhaltsvorbereitung wird durch ein verbessertes Bearbeitungserlebnis und Lay
 
 Bild-URL und Metadaten werden jetzt im Prozess zur automatischen Erkennung von Inhalten verwendet.
 
-## [SDK-Verbesserungen](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## SDK-Verbesserungen {#sdk-enhancements}
+
+[SDK-Verbesserungen](https://developers.marketo.com/mobile/)
 
 Entwickler haben jetzt zusätzliche Kontrolle über den Versand von Push-Benachrichtigungen, indem sie einen neuen SDK-API-Aufruf hinzufügen, mit dem Entwickler Push-Token entfernen können.
 
@@ -109,11 +100,15 @@ Entwickler haben jetzt zusätzliche Kontrolle über den Versand von Push-Benachr
 
 Verbessern Sie Ihr Targeting mit der neuen Filteroption „Mitglied der Vibes-Liste“.
 
-## [Veralteter Rich-Text-Editor und Formular-Editor 1.0 eingestellt](https://nation.marketo.com/docs/DOC-4315)
+## Veralteter Rich-Text-Editor und Formular-Editor 1.0 Einstellung
+
+[Veralteter Rich-Text-Editor und Formular-Editor 1.0 Einstellung](https://nation.marketo.com/docs/DOC-4315)
 
 Ab dem 1. August 2017 werden Kunden, die noch den alten Rich-Text-Editor und Formular-Editor 1.0 verwenden, automatisch auf das neue Erlebnis umgestellt.
 
-## [Marketo-Aktivitäts-APIs](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## Marketo Activity APIs {#marketo-activity-apis}
+
+[Marketo Activity APIs](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/)
 
 Bei den Aktivitäten-APIs von Marketo gibt es eine wichtige Änderung. Seid ihr vorbereitet?
 
@@ -123,7 +118,9 @@ Die folgenden Funktionen sind in der Version vom Frühjahr 1917 enthalten. Über
 
 Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen. **Hinweis**: Wenn ein Thema mehrere Unterüberschriften hat, werden die Links dort platziert.
 
-## [LinkedIn-Lead-Gen-Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## LinkedIn Lead Gen Forms {#linkedin-lead-gen-forms}
+
+[LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
 
 [[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) sind eine direktere Möglichkeit für ein Unternehmen, Kampagnen zur Lead-Generierung auf [!DNL LinkedIn] durchzuführen. Personen können Formulare ausfüllen, um ihr Interesse an einem Produkt oder einer Dienstleistung auszudrücken, sodass das Unternehmen die Details der Person erfassen und mit Marketo synchronisieren kann, wo automatisierte Folgeprozesse und Lead-Routing-Aktivitäten stattfinden können.
 
@@ -131,7 +128,9 @@ Die Marketo-Integration mit [!UICONTROL LinkedIn Lead Gen] Forms erfasst automat
 
 ![](assets/release-notes-image.png)
 
-## [MSI-Vorlage abgelaufen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
+## MSI-Vorlage ablaufen lassen {#expire-msi-template}
+
+[MSI-Vorlage ablaufen lassen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
 
 Die Zeiten, in denen veraltete Vorlagen in [!DNL Sales Insight] bereinigt wurden, sind vorbei. Legen Sie ein Ablaufdatum fest, wenn Sie Ihre E-Mail veröffentlichen, und wir werden uns darum kümmern, die Veröffentlichung für Sie rückgängig zu machen, wenn das Ablaufdatum sich wiederholt.
 
@@ -141,7 +140,9 @@ Die Zeiten, in denen veraltete Vorlagen in [!DNL Sales Insight] bereinigt wurden
 
 ![](assets/four-281-29.png)
 
-## [Massenextraktions-APIs für Personen und Aktivitäten](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## Massenextraktions-APIs für Personen und Aktivitäten {#bulk-extract-apis-for-people-and-activities}
+
+[Massenextraktions-APIs für Personen und Aktivitäten](https://developers.marketo.com/rest-api/bulk-extract/)
 
 Übertragen Sie auf einfache Weise große Mengen an Personen- und Aktivitätsdaten von Marketo auf Ihre externen Systeme.
 
@@ -183,7 +184,7 @@ Legen Sie die Animationseffekte für Ihre Dialog-Web-Kampagne fest, um anzupasse
 
 **[Anpassung des Schließen-Dialogs](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-Passen Sie die Schaltfläche Schließen für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die im Stil des transparenten Dialogfelds ([!UICONTROL ) verwendet &#x200B;]. Wählen Sie das Symbol, die Farbe und die Positionierung für die Schaltfläche „Schließen“ aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
+Passen Sie die Schaltfläche Schließen für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die im Stil des transparenten Dialogfelds ([!UICONTROL ) verwendet ]. Wählen Sie das Symbol, die Farbe und die Positionierung für die Schaltfläche „Schließen“ aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
@@ -203,7 +204,9 @@ Web Personalization ist jetzt in allen von Marketo unterstützten Sprachen verf�
 
 Predictive Content steht jetzt in allen von Marketo unterstützten Sprachen zur Verfügung (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
-## [Veralteter Rich-Text-Editor und Formular-Editor 1.0 eingestellt](https://nation.marketo.com/docs/DOC-4315)
+## Veralteter Rich-Text-Editor und Formular-Editor 1.0 Einstellung
+
+[Veralteter Rich-Text-Editor und Formular-Editor 1.0 Einstellung](https://nation.marketo.com/docs/DOC-4315)
 
 Ab dem 1. August 2017 werden Kunden, die noch den alten Rich-Text-Editor und Formular-Editor 1.0 verwenden, automatisch auf das neue Erlebnis umgestellt.
 
@@ -213,13 +216,17 @@ Die folgenden Funktionen sind in der Version vom Sommer 17 enthalten. Überprüf
 
 Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen. Hinweis: Einige der in dieser Version enthaltenen Funktionen verfügen nicht über zugehörige Artikel. Wenn ein Thema mehrere Unterüberschriften hat, werden die Links dort platziert.
 
-## [Zusätzliche Facebook-Offline-Konversionsstadien](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## Zusätzliche Facebook-Offline-Konversionsstadien {#additional-facebook-offline-conversion-stages}
+
+[Zusätzliche Facebook-Offline-Konversionsstadien](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
 
 Wählen Sie bis zu 7 zusätzliche Offline-Konvertierungsphasen aus, die Sie Ihren Marketo-Lebenszyklusphasen zuordnen können (über die derzeit verfügbaren drei hinaus). Optimieren Sie Ihre [!DNL Facebook] Anzeigenausgaben basierend auf Konversionen auf Ihrem Kunden-Journey, um einen besseren ROI zu erzielen.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [Vorlage für Sales Insight sperren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## Verkaufsvorlage für Insight sperren {#lock-sales-insight-template}
+
+[Verkaufsvorlage für Insight sperren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
 
 Gewährleisten Sie die Konsistenz von Nachricht und Inhalt, indem Sie Änderungen an Ihren Verkaufsvorlagen verhindern. Dies hilft, Vorlagen zu standardisieren und professionelle Kommunikation zu pflegen.
 
@@ -283,7 +290,9 @@ Nutzen Sie die Vorteile einer umfassenderen und schnelleren Synchronisierung zwi
 
 Jüngste Infrastrukturverbesserungen bieten eine höhere Verfügbarkeit und Stabilität innerhalb der Reporting- und Analyse-Tools von Marketo, sodass Sie Ad-hoc-Berichte schneller erstellen können.
 
-## [Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
+## Zeitzone des Empfängers {#recipient-time-zone}
+
+[Zeitzone des Empfängers](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
 Mit dieser neuen Funktion können Sie jetzt E-Mails entsprechend den lokalen Zeitzonen speichern und versenden. E-Mail- und Interaktionsprogramme können so konfiguriert werden, dass sie in den Zeitzonen der Empfängerinnen und Empfänger bereitgestellt werden, sodass nicht mehrere Programme erstellt werden müssen - einmal senden und Marketo speichert die E-Mail automatisch bis zur korrekten Ortszeit. Erhöhen Sie E-Mail-Metriken, beachten Sie lokale Best Practices und sparen Sie Zeit, indem Sie global ein einziges Programm verwenden.
 
@@ -293,11 +302,15 @@ Mit dieser neuen Funktion können Sie jetzt E-Mails entsprechend den lokalen Zei
 >
 >Wenn Sie die Zeitzone der Empfänger in Ihren E-Mail- und Interaktionsprogrammen noch nicht aktivieren können, geraten Sie nicht in Panik! Diese Funktion wird für alle Kunden schrittweise aktiviert.
 
-## [Beispiel-E-Mails nach Segment überprüfen](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## Beispiel-E-Mails nach Segment überprüfen {#review-sample-emails-by-segment}
+
+[Beispiel-E-Mails nach Segment überprüfen](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
 
 Marketo bietet eine neue Option, beim Senden von Beispiel-E-Mails zur Überprüfung ein Segment auszuwählen. Sie müssen nicht mehr manuell ermitteln, zu welchem Segment ein Lead gehört, was das Senden von E-Mails mit dynamischen Inhalten an verschiedene Segmente erleichtert.
 
-## [Benutzerdefinierte Fragen zu LinkedIn-Lead-Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## Benutzerdefinierte Fragen zur LinkedIn-Lead-Generation {#linkedin-lead-gen-custom-questions}
+
+[Benutzerdefinierte Fragen zur LinkedIn-Lead-Generation](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
 
 Passen Sie Ihre [!UICONTROL LinkedIn Lead Gen]-Formulare an, um benutzerdefinierte Lead-Attribute zu erfassen. Sie können jetzt bis zu drei benutzerdefinierte Fragen pro Formular stellen, aus einzeiligen Texteingaben oder Multiple-Choice-Fragen auswählen und diese wieder den Marketo-Lead-Feldern zuordnen.
 
@@ -340,11 +353,11 @@ Sparen Sie Zeit durch die Wiederverwendung von Kreativ-Assets und -Bildern auf m
 
 ## Integration  {#integration}
 
-**[Email Preview API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting)**
+**[Email Preview API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Sie können jetzt eine Remote-Vorschau von E-Mails außerhalb von Marketo anzeigen, wodurch der Prozess der Lokalisierung von E-Mail-Inhalten vereinfacht und Fehler reduziert werden.
 
-**[HTML-API ersetzen](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting)**
+**[HTML-API ersetzen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Entwicklerinnen und Entwickler können HTML-Inhalte von E-Mail-Assets remote aktualisieren, sodass sie in einem einzigen System arbeiten können, um Assets zu verwalten.
 
@@ -382,7 +395,9 @@ Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktio
 
 ![](assets/image003.png)
 
-## [Dynamische Kontolisten](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
+## Dynamische Kontolisten {#dynamic-account-lists}
+
+[Dynamische Kontolisten](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 Wir fügen eine neue Möglichkeit hinzu, Kontolisten in ABM zu erstellen. Zusätzlich zu vorhandenen Kontolisten können Sie jetzt dynamische Kontolisten erstellen, die aus öffentlichen CRM-Kontoansichten generiert werden. Eine CRM-Kontoansicht ist ein Regelsatz, der beim Anzeigen von Konten als Filter dient. Sie können damit beispielsweise Konten suchen, bei denen die Branche das Gesundheitswesen ist _und der_ über 100 Millionen US-Dollar beträgt.
 

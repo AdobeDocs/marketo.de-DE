@@ -1,34 +1,14 @@
 ---
-title: "2016"
+title: 2016
 description: 2016 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2768
-ht-degree: 2%
+source-wordcount: 2906
+ht-degree: 1%
 
 ---
 
@@ -38,25 +18,35 @@ ht-degree: 2%
 
 Die folgenden Funktionen sind in der Version Winter &#39;16 enthalten. Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen.
 
-## [Ist anonymer Filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
+## Ist anonymer Filter {#is-anonymous-filter}
 
-Der Filter Ist anonym wurde für Smart-Listen entfernt. Weitere Informationen finden Sie [&#x200B; Dokument „Häufig gestellte Fragen zum Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)Tracking der nächsten Generation“. Diese Änderung wirkt sich nicht auf Web Personalization (RTP) aus, das anonyme und bekannte Web-Besucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
+[Ist anonymer Filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
 
-## [Datenbank-Dashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
+Der Filter Ist anonym wurde für Smart-Listen entfernt. Weitere Informationen finden Sie [ Dokument „Häufig gestellte Fragen zum Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)Tracking der nächsten Generation“. Diese Änderung wirkt sich nicht auf Web Personalization (RTP) aus, das anonyme und bekannte Web-Besucher weiterhin identifiziert und Inhalte für diese Besucher in Echtzeit personalisiert.
+
+## Datenbank-Dashboard {#database-dashboard}
+
+[Datenbank-Dashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)
 
 Die [!UICONTROL Lead]Datenbank verfügt über ein aktualisiertes Dashboard mit einer Zusammenfassung, die die Gesamtgröße der Personendatenbank, die Anzahl der vermarktbaren Leads und eine Aufschlüsselung der Leads nach den fünf wichtigsten Quellen enthält.
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## Microsoft Edge-Browser {#microsoft-edge-browser}
 
-Wir haben [!DNL Microsoft Edge] zur [Liste der von Marketo &#x200B;](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) Browser“ hinzugefügt.
+[Microsoft Edge-Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md)
 
-## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
+Wir haben [!DNL Microsoft Edge] zur [Liste der von Marketo ](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) Browser“ hinzugefügt.
+
+## Microsoft Outlook 2016 {#microsoft-outlook}
+
+[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
 
 [[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) wird jetzt unterstützt.
 
-## [E-Mail-Programm Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
+## E-Mail-Programm - HEAD START {#email-program-head-start}
+
+[E-Mail-Programm - HEAD START](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 
 Verwenden Sie [!UICONTROL Kopfstart] um anzugeben, dass die Verarbeitung für Ihren Versand im Voraus erfolgen soll. Anstatt Leads zu qualifizieren und E-Mails zum geplanten Zeitpunkt des Programms vorzubereiten, stellt [!UICONTROL Head Start] sicher, dass diese Aufgaben im Voraus erledigt werden. Auf diese Weise erhält Ihre Audience zum geplanten Zeitpunkt E-Mails.
 
@@ -70,7 +60,9 @@ Um diese Funktion verwenden zu können, muss das E-Mail-Programm mindestens 12 S
 >
 >Diese Funktion wird nach der Veröffentlichung der Winterversion 16 schrittweise für eine Woche eingeführt. Sie ist nicht für die Verwendung mit Smart-Kampagnen oder der API verfügbar.
 
-## [Mobile-Marketing-Erweiterungen](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
+## Verbesserungen beim Mobile Marketing {#mobile-marketing-enhancements}
+
+[Verbesserungen beim Mobile Marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md)
 
 **[!DNL PhoneGap]Support:** Wir bieten jetzt [!DNL PhoneGap] Support für Ihre Mobile App. [Weitere Informationen](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
@@ -78,11 +70,15 @@ Um diese Funktion verwenden zu können, muss das E-Mail-Programm mindestens 12 S
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Programm-API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## Programm-API {#program-api}
+
+[Programm-API](https://developers.marketo.com/documentation/programs/)
 
 Erstellen, Aktualisieren und Klonen von Programmen über die REST-API. Dies umfasst nicht die Erstellung oder Aktualisierung von Smart-Listen und Smart-Kampagnen innerhalb eines Programms.
 
-## [Erweiterung von Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## Microsoft Dynamics-Verbesserungen {#microsoft-dynamics-enhancements}
+
+[Microsoft Dynamics-Verbesserungen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
 
 **[[!UICONTROL Synchronisierungsstatus]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Überwachen Sie den aktuellen Durchsatz und den Rückstand des Synchronisierungsprozesses. Schlüsseln Sie sie nach der Anzahl der Einfügungen und Aktualisierungen nach Objekt auf.
 
@@ -92,19 +88,25 @@ Erstellen, Aktualisieren und Klonen von Programmen über die REST-API. Dies umfa
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
-## [Erweiterung der benutzerdefinierten Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md) {#custom-objects-enhancements}
+## Verbesserungen bei benutzerdefinierten Objekten {#custom-objects-enhancements}
+
+[Verbesserungen bei benutzerdefinierten Objekten](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
 
 Sie können jetzt Viele-zu-viele-Beziehungen zwischen Leads/Konten und einem benutzerdefinierten Objekt erstellen, indem Sie ein Zwischenobjekt mit mehreren Verknüpfungsfeldern verwenden.
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Facebook-Lead-Anzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## Facebook-Lead-Anzeigen {#facebook-lead-ads}
+
+[Facebook-Lead-Anzeigen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
 [[!UICONTROL Facebook-Lead]](https://www.facebook.com/business/a/lead-ads)Anzeigen sind eine direktere Möglichkeit für ein Unternehmen, Lead-Generierungskampagnen auf [!DNL Facebook] durchzuführen. Personen füllen ein Formular aus, um ihr Interesse an einem Produkt oder einer Dienstleistung auszudrücken, damit das Unternehmen mit ihnen Kontakt aufnehmen kann. Die Marketo-Integration mit [!UICONTROL Facebook-Lead]Anzeigen erfasst automatisch die Informationen, die ein Lead im Lead-Formular bereitstellt. Folgeaktionen und Benachrichtigungen können dann mithilfe des neuen Triggers [!UICONTROL Ausfüllen von Facebook-Lead-Anzeigen] automatisiert werden.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
-## [Web-Kampagnenplanung (Echtzeit-Personalization)](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
+## Web-Kampagnenplanung (Echtzeit-Personalization) {#web-real-time-personalization-campaign-scheduler}
+
+[Web-Kampagnenplanung (Echtzeit-Personalization)](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md)
 
 Planen Sie Ihre Kampagne im Voraus. Richten Sie ein Start- und Enddatum für personalisierte Webinhalte ein und wiederholen Sie Kampagnen an bestimmten Tagen und zu bestimmten Zeiten. Personalisieren Sie den Zeitplan, um die Kampagne entsprechend der Zeit des Web-Besuchers oder einer ausgewählten Zeitzone anzuzeigen.
 
@@ -114,7 +116,9 @@ Planen Sie Ihre Kampagne im Voraus. Richten Sie ein Start- und Enddatum für per
 
 Die folgenden Funktionen sind in der Version vom Frühjahr 1916 enthalten. Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen.
 
-## [E-Mail-Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
+## E-Mail Insights {#email-insights}
+
+[E-Mail Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md)
 
 E-Mail-Einblicke ist ein brandneues, historisches, aggregiertes Daten-E-Mail-Analyseerlebnis, das von Anfang bis Ende neu gestaltet wurde, um eine blitzschnelle Leistung zu erzielen. Es verfügt über ein völlig neues Design der Benutzeroberfläche, das an die Anforderungen und den Workflow von E-Mail-Marketing-Experten angepasst ist.
 
@@ -124,7 +128,9 @@ E-Mail-Einblicke ist ein brandneues, historisches, aggregiertes Daten-E-Mail-Ana
 
 ![](assets/two.png)
 
-## [Auswahl der E-Mail-Vorlagen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## E-Mail-Vorlagenauswahl {#email-template-picker}
+
+[E-Mail-Vorlagenauswahl](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
 
 Erstellen Sie schöne E-Mails mit unseren neuen Starter-Vorlagen! Suchen Sie Ihre Vorlagen auch schnell anhand der Live-Miniaturansichten.
 
@@ -134,33 +140,45 @@ Erstellen Sie schöne E-Mails mit unseren neuen Starter-Vorlagen! Suchen Sie Ihr
 
 ![](assets/5-29-home-starter-templates.png)
 
-## [E-Mail-Bearbeitung - neu erfunden](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
+## E-Mail-Bearbeitung - neu erfunden {#email-editing-re-imagined}
+
+[E-Mail-Bearbeitung - neu erfunden](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 
 Genau, ein brandneuer E-Mail-Editor! Verwenden Sie die einfache Drag-and-Drop-Funktion, um Inhalte hinzuzufügen und neu anzuordnen. Neue Elemente, einschließlich Bilder, Videos, Variablen und Module, verbessern mit Sicherheit das Bearbeitungserlebnis. Sehen Sie sich auch den aktualisierten Code-Editor sowie die Unterstützung für Vorschau und Preheader an.
 
 ![](assets/17a-29-modules-next.png)
 
-## [Mobile In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md) {#mobile-in-app-messages}
+## Mobile In-App-Nachrichten {#mobile-in-app-messages}
+
+[Mobile In-App-Nachrichten](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 Erstellen Sie beeindruckende In-App-Nachrichten für Ihre App direkt in Marketo. Definieren Sie mit dem In-App-Nachrichtenprogramm genau, wer es wann sehen soll. Überwachen Sie die Leistung einfach mit dem Programm-Dashboard.
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [Keine Entwurfsausschnitte](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## Keine Entwurfsausschnitte {#no-draft-snippets}
+
+[Keine Entwurfsausschnitte](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
 
 Vorbei sind die Zeiten, in denen Sie jedes Mal, wenn ein Snippet aktualisiert wird, alles erneut genehmigen müssen! Mit „Kein Entwurf“ erhalten alle E-Mails und Landingpages, die einen Ausschnitt verwenden, die Ausschnitt-Aktualisierungen und behalten ihren vorherigen Status bei. Jedes Mal, wenn Sie einen Ausschnitt genehmigen, haben Sie die Wahl, „Kein Entwurf“ auszuführen und alles zu aktualisieren oder Entwürfe zu erstellen. Das liegt an dir! Kein Entwurf steht allen Kunden zur Verfügung und wird von einer neuen Berechtigung in Admin gesteuert.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [Landingpage, Landingpage-Vorlage und Formular-APIs](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## Landingpage, Landingpage-Vorlage und Formular-APIs {#landing-page-landing-page-template-and-form-apis}
+
+[Landingpage, Landingpage-Vorlage und Formular-APIs](https://developers.marketo.com/blog/spring-2016-updates/)
 
 Die Marketo-REST-APIs unterstützen jetzt die Kontrolle über Marketo-Landingpages, Landingpage-Vorlagen und Formulare. Benutzer können jetzt Inhalte direkt über die Marketo-REST-API erstellen, aktualisieren, genehmigen und löschen.
 
-## [IP-Zulassungsauflistung für API-Zugriff](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## IP-Zulassungsauflistung für API-Zugriff {#ip-allowlisting-for-api-access}
 
-Ähnlich wie bei der IP-Zulassungsauflistung für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine Zulassungsliste von IP-Adressen einrichten, die auf die Marketo SOAP- und REST-APIs zugreifen können, und so den Zugriff von nicht autorisierten IP-Adressen blockieren. Dies bietet eine zusätzliche Sicherheitsebene für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur innerhalb des Netzwerks Ihres Unternehmens erfolgen kann. Einzelheiten zum Einrichten finden Sie auf der Dokumentations-Site zu Marketo [&#128279;](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+[IP-Zulassungsauflistung für API-Zugriff](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
 
-## [Neuer Hochgeschwindigkeits-Microsoft Dynamics-Sync-Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+Ähnlich wie bei der IP-Zulassungsauflistung für Marketo-Benutzeranmeldungen können Marketo-Administratoren jetzt eine Zulassungsliste von IP-Adressen einrichten, die auf die Marketo SOAP- und REST-APIs zugreifen können, und so den Zugriff von nicht autorisierten IP-Adressen blockieren. Dies bietet eine zusätzliche Sicherheitsebene für Ihre Marketo-Instanz und stellt sicher, dass der API-Zugriff nur innerhalb des Netzwerks Ihres Unternehmens erfolgen kann. Einzelheiten zum Einrichten finden Sie auf der Dokumentations-Site zu Marketo [](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+
+## Neuer Hochgeschwindigkeits-Microsoft Dynamics-Synchronisierungs-Connector {#new-high-speed-microsoft-dynamics-sync-connector}
+
+[Neuer Hochgeschwindigkeits-Microsoft Dynamics-Synchronisierungs-Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
 
 Der neue, schnelle Dynamics-Connector bietet Geschwindigkeiten, die bis zu 20-mal höher für die Erstsynchronisierung und bis zu 5-mal höher für die inkrementelle Synchronisierung sind. Alle neuen Kunden werden diesen Connector am Veröffentlichungsdatum integrieren und wir werden ihn im Laufe der Sommerveröffentlichung schrittweise für Bestandskunden bereitstellen.
 
@@ -178,7 +196,9 @@ Der neue, schnelle Dynamics-Connector bietet Geschwindigkeiten, die bis zu 20-ma
 
 **Plug-in-Updates sind jetzt dokumentiert:** Siehe den [Artikel zu Plug-in-Updates](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
-## [Anzeigename der Instanz](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
+## Anzeigename der Instanz {#friendly-instance-name}
+
+[Anzeigename der Instanz](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md)
 
 Heute ist es schwierig, zwischen Marketo-Instanzen wie Sandbox- und Produktionsinstanzen zu unterscheiden. Mit dieser Funktion erfahren Sie, an welchen Instanzen Sie derzeit arbeiten.
 
@@ -190,7 +210,9 @@ Heute werden Benutzende auf unbestimmte Zeit zum Marketo-Abonnement eingeladen. 
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
-## [Raster für benutzerdefinierte Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) {#custom-objects-grid}
+## Raster für benutzerdefinierte Objekte {#custom-objects-grid}
+
+[Raster für benutzerdefinierte Objekte](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 Jetzt können Sie die Anzahl der Datensätze und Felder für alle veröffentlichten benutzerdefinierten Objekte anzeigen.
 
@@ -204,7 +226,9 @@ Marketo-Administratoren können jetzt ihre benutzerdefinierten Aktivitätstypen 
 
 Die folgenden Funktionen sind in der Version vom Sommer 1916 enthalten. Überprüfen Sie Ihre Marketo Edition auf die Verfügbarkeit der Funktionen. Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktion anzuzeigen.
 
-## [Account-based Marketing](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## Account-Based-Marketing {#account-based-marketing}
+
+[Account-Based-Marketing](https://docs.marketo.com/display/docs/account+based+marketing)
 
 Account-Based-Marketing von Marketo bietet alle Grundlagen in einer zentralen Plattform:
 
@@ -218,7 +242,9 @@ Account-Based-Marketing von Marketo bietet alle Grundlagen in einer zentralen Pl
 >
 >ABM ist als Add-on zu Ihrem Marketo-Abonnement verfügbar. Wenden Sie sich daher zur Implementierung an Ihren Vertriebsmitarbeiter.
 
-## [Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## Audit-Protokoll {#audit-trail}
+
+[Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
 
 Das Audit-Protokoll enthält einen umfassenden Verlauf der Änderungen, die in Ihrem Marketo-Abonnement vorgenommen wurden. Sie schafft Rechenschaftspflicht zwischen Benutzern und Administratoren, hilft bei der Identifizierung der Ursache von unerwartetem Verhalten und bietet die Sicherheit zu wissen, wer was und wann tut. Diese Informationen stehen zu jedem Zeitpunkt zur Verfügung und können zur Beantwortung von Fragen verwendet werden, wie z. B.:
 
@@ -238,7 +264,9 @@ Einfaches Erstellen von SMS-Nachrichten direkt in Marketo. Personalisieren und T
 
 ![](assets/vibes-sms2.png)
 
-## [Verbesserungen in Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
+## Verbesserungen bei E-Mail 2.0 {#email-enhancements}
+
+[Verbesserungen bei E-Mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 
 **Variablen auf Modulebene**
 
@@ -267,37 +295,51 @@ Vorbei sind die Zeiten, in denen E-Mail-Tracking-Links nur mit einer Branding-Do
 
 ![](assets/multiple-branding-domains.png)
 
-## [Programm-Token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
+## Programm-Token {#program-tokens}
+
+[Programm-Token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
 
 Wir haben einen neuen Token-Typ für Programme erstellt. Sie können jetzt Programmname, Beschreibung und ID in den Schritten Assets und Smart-Campaign-Fluss rendern.
 
 ![](assets/program-tokens.png)
 
-## [Konzernschlüssel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
+## Enterprise-Schlüssel {#enterprise-key}
+
+[Enterprise-Schlüssel](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)
 
 Es kann mühsam sein, von jeder Person in Ihrem Vertriebsteam zu verlangen, unser [!DNL Sales Insight]-Plug-in für [!DNL Outlook] zu installieren. Wir haben eine neue Möglichkeit eingeführt, das Plug-in für [!DNL Outlook] remote mit einem Unternehmensschlüssel zu installieren. Senden Sie Ihrem IT-Team den eindeutigen Schlüssel, der im Abschnitt &quot;Marketo-[!DNL Sales Insight]&quot; von [!UICONTROL Admin] zu finden ist, und überlassen Sie ihm den Rest.
 
 ![](assets/enterprise-key.png)
 
-## [Kampagnen zur Web-Personalisierung](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
+## Web Personalization-Kampagnen {#web-personalization-campaigns}
+
+[Web Personalization-Kampagnen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
 Geben Sie eine Zeitverzögerung an, damit Web-Kampagnen auf Ihrer Website reagieren.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Export von Content Analytics und Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## Export von Content Analytics und Recommendations {#content-analytics-and-recommendations-export}
+
+[Export von Content Analytics und Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
 
 Anzeigen von Inhaltsanalysen und Recommendations-Daten offline.
 
-## [API-Support für Email Editor 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## API-Unterstützung für E-Mail-Editor 2.0 {#api-support-for-email-editor}
+
+[API-Unterstützung für E-Mail-Editor 2.0](https://developers.marketo.com/documentation/asset-api/)
 
 Vorhandene Asset-APIs, die zuvor nur mit E-Mails und Vorlagen der Version 1.0 kompatibel waren, sind jetzt für E-Mail-Assets der Version 2.0 aktiviert.
 
-## [Marketo Developers-Website](https://developers.marketo.com/) {#marketo-developers-site}
+## Marketo Developers-Website {#marketo-developers-site}
+
+[Marketo Developers-Website](https://developers.marketo.com/)
 
 Neu und noch besser!
 
-## [Datenschutzeinstellungen](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
+## Datenschutzeinstellungen {#privacy-settings}
+
+[Datenschutzeinstellungen](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md)
 
 Marketing-Experten können anhand von Datenschutzeinstellungen entscheiden, ob Besucher mithilfe von [!DNL Munchkin]- und Web Personalization-Funktionen verfolgt werden sollen oder nicht. Die Tracking-Stufe wird mithilfe der Einstellung „Nicht verfolgen“ des Browsers, eines Opt-out-Cookies oder einer unspezifischen IP-Adresse gesteuert. Diese Methoden können sich auf den Wert und die Funktionalität von Marketo in bestimmten Bereichen auswirken. Wenn der Marketer jedoch nichts ändert, bleibt die Marketo-Funktionalität unverändert.
 
@@ -321,7 +363,9 @@ Sie können Ihrer E-Mail jetzt prädiktive Inhalte hinzufügen. Wenn die E-Mail 
 
 ![](assets/predictive.png)
 
-## [Facebook Offline-Conversions](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## Facebook-Offline-Konversionen {#facebook-offline-conversions}
+
+[Facebook-Offline-Konversionen](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
 
 Mit [!DNL Facebook] Integration von Offline-Konversionen werden Konversionsdaten in Marketo (für Lead-Anzeigen-Leads) automatisch an [!DNL Facebook] zurückgesendet, damit Ihr Werbe-Team seine Werbeausgaben besser optimieren kann. In diesem [!DNL Facebook] Ad Manager-Bericht sind die Offline-Konversionen hervorgehoben.
 
@@ -347,7 +391,9 @@ Jetzt können Sie Account-Teams benannten Accounts in Account Based Marketing (A
 
 Mit dieser Version können Sie auch benannte Kontoattribute und Kontobewertungen in ABM mithilfe der Marketo REST-API verwalten. Weitere Informationen zu den API-Vorgängen finden Sie auf der [Marketo Developers-Website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
-## [Verbesserungen am Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## Verbesserungen am Audit-Protokoll {#audit-trail-enhancements}
+
+[Verbesserungen am Audit-Protokoll](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
 
 Das Audit-Protokoll enthält einen umfassenden Verlauf der Änderungen, die in Ihrem Marketo-Abonnement vorgenommen wurden. Wir haben zusätzliche Tracking-Funktionen für Programme hinzugefügt und wichtige Änderungsdetails für intelligente Kampagnen, intelligente Listen und Änderungen an Benutzern und Rollen angezeigt.
 
@@ -361,7 +407,9 @@ Vorbei sind die Zeiten, in denen Sie sich Sorgen darüber machen mussten, dass B
 
 Warum sollte [Kampagnenbeschränkungen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) festgelegt werden, wenn sie nicht durchgesetzt werden können? Wenn Sie Einstellungen für Kampagnenbeschränkungen festlegen, um die Anzahl der Personen in Ihrer Datenbank zu begrenzen, die mit einer einzelnen Kampagne angesprochen werden können, können Sie jetzt einschränken, welche Benutzer diese Einstellungen bei der Planung einer Kampagne überschreiben können.
 
-## [Sound für mobile Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## Ton für mobile Push-Benachrichtigungen {#sound-for-mobile-push-notifications}
+
+[Ton für mobile Push-Benachrichtigungen](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
 Verleihen Sie Ihrer iOS-Push-Benachrichtigung zusätzliche Reichweite, indem Sie Sound aktivieren. Mit dieser neuen Funktion können Sie einen Ton in den Trigger stellen, wenn Ihre Push-Benachrichtigung auf dem Mobilgerät angezeigt wird.
 
@@ -372,19 +420,27 @@ Verleihen Sie Ihrer iOS-Push-Benachrichtigung zusätzliche Reichweite, indem Sie
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Sales Insight kompatibel mit Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## Sales Insight mit Salesforce Encryption kompatibel {#sales-insight-compatible-with-salesforce-encryption}
+
+[Sales Insight mit Salesforce Encryption kompatibel](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 Market [!DNL Sales Insight] ist jetzt mit [!DNL Salesforce] Shield Encryption kompatibel. Alle [!DNL Sales Insight]-Kunden sollten ein Upgrade auf dieses neueste verwaltete Paket (Version 1.4359.2) durchführen, das [auf dem verfügbar [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [APIs für benannte Konten](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## APIs für benannte Konten {#named-accounts-apis}
+
+[APIs für benannte Konten](https://developers.marketo.com/rest-api/lead-database/named-accounts/)
 
 Mit dieser Version können Marketo ABM-Benutzende benannte Konten über die API für benannte Konten verwalten. Benutzer können benannte Konten erstellen, aktualisieren und löschen sowie ABM-spezifische Kontobewertungen lesen und aktualisieren.
 
-## [API-Unterstützung für Email Editor v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## API-Unterstützung für Email Editor v2.0 {#email-editor-v-api-support}
+
+[API-Unterstützung für Email Editor v2.0](https://developers.marketo.com/rest-api/assets/emails/)
 
 Verwalten von Variablen und Modulen für E-Mails im Format v2.0 mithilfe der Marketo REST-API.
 
-## [Änderungen an Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## Änderungen an Marketo Salesforce Sync {#changes-to-marketo-salesforce-sync}
+
+[Änderungen an Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840)
 
 Die [!DNL Salesforce] Integration von Marketo entwickelt sich weiter, um die Art und Weise zu verbessern, wie Marketo-Felder mit [!DNL Salesforce] synchronisiert werden. Jetzt können Sie, anstatt eine große Gruppe von Feldern synchronisieren zu müssen, die Sie möglicherweise benötigen oder nicht, auswählen, welche Felder Sie einbeziehen möchten. Weitere Informationen finden Sie in unserer Dokumentation: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
 
