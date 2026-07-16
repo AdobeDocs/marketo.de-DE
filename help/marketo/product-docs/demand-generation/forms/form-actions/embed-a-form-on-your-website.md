@@ -12,49 +12,45 @@ feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: 227
-ht-degree: 7%
+source-wordcount: 212
+ht-degree: 5%
 
 ---
 
 # Einbetten eines Formulars in Ihre Website {#embed-a-form-on-your-website}
 
-Mit Marketo können Sie unsere Formulare auf Ihrer eigenen Website einbetten. So erhalten Sie Zugriff auf den Einbettungs-Code.
+Greifen Sie auf den Einbettungs-Code eines Formulars zu, um es auf Ihrer eigenen Website zu hosten.
 
-1. Navigieren Sie zu **[!UICONTROL Marketing-Aktivitäten]**.
+>[!PREREQUISITES]
+>
+>Das Formular muss genehmigt sein, damit der Einbettungs-Code verfügbar ist.
 
-   ![](assets/login-marketing-activities-4.png)
+1. Suchen und wählen Sie das gewünschte Formular aus.
 
-1. Suchen und wählen Sie Ihr Formular aus.
+   ![](assets/embed-a-form-on-your-website-1.png)
 
-   ![](assets/image2014-9-15-12-3a12-3a14.png)
+1. Klicken Sie auf der rechten Seite des Bildschirms mit den Formulardetails auf **[!UICONTROL Code einbetten]**.
 
-1. Klicken **[!UICONTROL unter „Formularaktionen]** auf **[!UICONTROL Code einbetten]**.
-
-   >[!NOTE]
-   >
-   >Das Formular muss genehmigt sein, damit das **[!UICONTROL Einbettungs-Code]**-Element sichtbar/verwendbar ist.
-
-   ![](assets/image2014-9-15-12-3a12-3a20.png)
+   ![](assets/embed-a-form-on-your-website-2.png)
 
    >[!CAUTION]
    >
    >**[Formularvorbefüllung](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** funktioniert nicht, wenn Sie den Formular-Einbettungs-Code auf Ihren eigenen Seiten _oder_ einer Marketo-Landingpage verwenden. Das Vorausfüllen von Formularen funktioniert nur, wenn das Formular in einer Marketo-Landingpage über die Option Element einfügen verwendet wird.
 
-1. Wählen/kopieren Sie den Einbettungs-Code und klicken Sie dann auf **[!UICONTROL Schließen]**.
+1. Klicken Sie auf _Registerkarte_ Standard **[!UICONTROL auf Text]**. Klicken Sie abschließend **[!UICONTROL Schließen]**.
 
-   ![](assets/image2014-9-15-12-3a12-3a31.png)
+   ![](assets/embed-a-form-on-your-website-3.png)
 
->[!TIP]
->
->Sobald der Code auf Ihrer Website eingebettet ist, werden alle Änderungen am Formular in Marketo nach der Genehmigung des Formulars an Ihre Site übertragen. Sie müssen keine weiteren Änderungen am Code vornehmen.
+   >[!NOTE]
+   >
+   >Informationen zu Lightbox-Code finden Sie unter [Verwenden eines Formulars in einer Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md).
 
-Geben Sie nun einfach den Einbettungs-Code an Ihren Web-Entwickler und lassen Sie ihn zu Ihrer Site hinzufügen.
+1. Geben Sie den Einbettungs-Code an Ihren Web-Entwickler.
 
->[!NOTE]
->
->Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihm die [Forms 2.0-Entwicklerseite](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+   Nachdem der Code auf Ihrer Website eingebettet wurde, werden alle Änderungen am Formular in Marketo Engage nach der Genehmigung des Formulars an Ihre Site übertragen. Sie müssen keine Änderungen am Code vornehmen.
 
-Informationen zu Lightbox-Code finden Sie unter [Verwenden eines Formulars in einer Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md).
+   >[!TIP]
+   >
+   >Wenn Ihr Entwickler das Erscheinungsbild anpassen oder auf erweiterte API-Funktionen zugreifen möchte, zeigen Sie ihm die [Forms 2.0-Entwicklerseite](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).

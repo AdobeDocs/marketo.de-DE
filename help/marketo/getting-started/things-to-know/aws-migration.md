@@ -4,10 +4,10 @@ title: AWS-Migration
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 7f91d1423f25ba0e1572673cbd55099b0000cb03
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 2%
+source-wordcount: '459'
+ht-degree: 6%
 
 ---
 
@@ -51,9 +51,10 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
 <table>
  <tbody>
   <tr>
-   <th style="width:50%">Datum</th>
-   <th style="width:20%">Rechenzentrum/Pod</th>
-   <th style="width:30%">Uhrzeit</th>
+   <th style="width:25%">Datum</th>
+   <th style="width:25%">Rechenzentrum/Pod</th>
+   <th style="width:25%">Uhrzeit</th>
+   <th style="width:25%">Status</th>
   </tr>
   <tr>
    <td>8. Juli 2026</td>
@@ -61,21 +62,26 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
    AB64</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
+   <td>Abgeschlossen<br>
+   Abgeschlossen</td>
   </tr>
   <tr>
    <td>9. Juli 2026</td>
    <td>AB70</td>
    <td>17:00 PDT</td>
+   <td>Abgeschlossen</td>
   </tr>
   <tr>
    <td>11. Juli 2026</td>
    <td>AB46</td>
    <td>10 h PDT</td>
+   <td>Abgeschlossen</td>
   </tr>
   <tr>
    <td>13. Juli 2026</td>
    <td>NLD101</td>
    <td>10 h PDT</td>
+   <td>Abgeschlossen</td>
   </tr>
   <tr>
    <td>15. Juli 2026</td>
@@ -83,6 +89,8 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
    NLD104</td>
    <td>10 h PDT<br>
    11 h PDT</td>
+   <td>Planmäßig<br>
+   Planmäßig</td>
   </tr>
   <tr>
    <td>17. Juli 2026</td>
@@ -90,6 +98,8 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
    NLD105</td>
    <td>10 h PDT<br>
    11 h PDT</td>
+   <td>Planmäßig<br>
+   Planmäßig</td>
   </tr>
   <tr>
    <td>21. Juli 2026</td>
@@ -97,16 +107,20 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
    AB56</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
+   <td>Planmäßig<br>
+   Planmäßig</td>
   </tr>
   <tr>
    <td>23. Juli 2026</td>
    <td>AB48</td>
    <td>17:00 PDT</td>
+   <td>Planmäßig</td>
   </tr>
   <tr>
    <td>31. Juli 2026</td>
    <td>AB43</td>
    <td>15:00 PDT</td>
+   <td>Planmäßig</td>
   </tr>
   <tr>
    <td>12. August 2026</td>
@@ -114,10 +128,13 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
    AB17</td>
    <td>15:00 PDT<br>
    16:00 PDT</td>
+   <td>Planmäßig<br>
+   Planmäßig</td>
   </tr>
   <td>13. August 2026</td>
    <td>AB68</td>
    <td>16:00 PDT</td>
+   <td>Planmäßig</td>
   </tr>
   </body>
 </table>
