@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2871
+source-wordcount: 2874
 ht-degree: 6%
 
 ---
@@ -267,7 +267,9 @@ Verwenden Sie die Algorithmen für maschinelles Lernen und prädiktive Analysen 
 
 Die folgenden Funktionen sind in der Version vom Juni 2015 enthalten. Bitte überprüfen Sie Ihre Marketo Edition auf Funktionsverfügbarkeit. Nach der Veröffentlichung sollten Sie unbedingt zurückkommen, um Links zu detaillierten Artikeln für jede Funktion zu finden!
 
-## [Attribution Email-Bericht](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## Attribution Email-Bericht {#attribution-email-report}
+
+[Attribution Email-Bericht](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 Erfahren Sie, welchen Wert Personalisierung und empfohlene Inhalte für Ihre Marketing-Aktivitäten haben. [Bericht „E-Mail-](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) zur Attribution“ zeigt die direkten und unterstützten Leads an, die von den Personalisierungs- und empfohlenen Inhaltskampagnen von RTP zugewiesen wurden. Fügen Sie im RTP-Bericht, in den Benutzereinstellungen und im E-Mail-Bericht den E-Mail-Bericht zur Attribution hinzu, um monatliche oder vierteljährliche E-Mails zu erhalten.
 
@@ -281,7 +283,8 @@ Sie sind zum Mittagessen unterwegs und müssen eine E-Mail neu planen? Mit der [
 
 ## Rich-Text-Editor aktualisieren {#rich-text-editor-update}
 
-Aktualisierter Texteditor mit modernem Look-and-Feel, einschließlich optimierter Textformatierung, Bildbearbeitung, Link-Einfügen und HTML-Bearbeitung. Der HTML-Editor verfügt jetzt über eine minimale Validierung, was eine weniger restriktive Code-Bearbeitung ermöglicht.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Dieses Update wird automatisch innerhalb weniger Tage nach der Juli-Version eingeführt. Danach können Sie zwischen der neuen und der alten Version des Editors wechseln: **[!UICONTROL Admin] > [!UICONTROL Email] > [!UICONTROL Editor-Einstellungen bearbeiten]**.
+Aktualisierter Texteditor mit modernem Look-and-Feel, einschließlich optimierter Textformatierung, Bildbearbeitung, Link-Einfügen und HTML-Bearbeitung. Der HTML-Editor verfügt jetzt über eine minimale Validierung, was eine weniger restriktive Code-Bearbeitung ermöglicht.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Dieses Update wird automatisch innerhalb weniger Tage nach der Juli-Version eingeführt. Danach können Sie zwischen der neuen und der alten Version des Editors wechseln: **[!UICONTROL Admin] > [!UICONTROL Email] > [!UICONTROL Editor-Einstellungen bearbeiten]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
