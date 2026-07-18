@@ -4,9 +4,9 @@ title: AWS-Migration
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 55a3bfe19da19ebfdf3f565ac4a4dbe2ca6041a2
+source-git-commit: cd0b1dece6129df76deb7eb9c8953711d4d29e45
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '486'
 ht-degree: 5%
 
 ---
@@ -102,8 +102,8 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
    NLD105</td>
    <td>10 h PDT<br>
    11 h PDT</td>
-   <td>Planmäßig<br>
-   Planmäßig</td>
+   <td>Abgeschlossen<br>
+   Abgeschlossen</td>
   </tr>
   <tr>
    <td>21. Juli 2026</td>
