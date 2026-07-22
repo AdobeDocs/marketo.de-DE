@@ -3,7 +3,7 @@ description: Erfahren Sie, wie Sie Marketo-KI-Berechtigungen aktivieren, Organis
 title: Einstellungen und Setup
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
 workflow-type: tm+mt
 source-wordcount: '537'
 ht-degree: 4%
@@ -81,7 +81,7 @@ Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experien
 
 ## Einstellungen {#settings}
 
-1. Klicken Sie in „Meine Marketo&quot; auf die Kachel **Marketo AI** .
+1. Klicken Sie in „Meine Marketo&quot; auf die Kachel **[!UICONTROL Marketo AI]** .
 
    ![](assets/settings-setup-7.png)
 
