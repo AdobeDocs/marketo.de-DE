@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
 source-wordcount: '8901'
 ht-degree: 96%
@@ -1119,10 +1119,7 @@ ht-degree: 96%
       + [Leads untersuchen](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Leads importieren](product-docs/marketo-ai/skills/import-leads.md)
       + [Programme validieren](product-docs/marketo-ai/skills/validate-programs.md)
-  + Modernes Benutzererlebnis von Marketo Engage {#marketo-engage-modern-ux}
-    + [Überblick](product-docs/marketo-engage-modern-ux/overview.md)
-    + [Verwenden der globalen Suche](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-    + {hide-from-toc}[Umschalter](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo-Benachrichtigungen {#marketo-notifications}
     + {hide-from-toc}[Benachrichtigung: WebSocket-Verbindung](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1921,7 +1918,7 @@ ht-degree: 96%
   + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
   + [Frühere Versionen](release-notes/previous-releases.md)
-  + {hide-from-toc}Frühere Versionen  {#previous-releases}
+  + Frühere Versionen {hide-from-toc} {#previous-releases}
     + 2026 {#2026}
       + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
