@@ -14,10 +14,10 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 656
-ht-degree: 21%
+source-wordcount: 663
+ht-degree: 22%
 
 ---
 
@@ -27,7 +27,7 @@ Im Folgenden finden Sie alle Funktionen, die in der Version vom Januar 2023 enth
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Kontakt, um mehr zu erfahren.
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
@@ -39,8 +39,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Aktualisierter Screens in Modern UX**: In Modern UX (früher als „Erlebnis der nächsten Generation“ bezeichnet) stellen wir zusätzliche, aktualisierte Bildschirme bereit, die aktualisierte Design- und Benutzerfreundlichkeitsverbesserungen bieten, die über einen Umschalter zugänglich sind:
 
-   * Listenansicht für Ausschnitte
-   * Liste der Landingpage-Vorlagen
+  * Listenansicht für Ausschnitte
+  * Liste der Landingpage-Vorlagen
 
   <table>
   <tr>
@@ -49,7 +49,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Umschalter</a></td>
+   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/home">Umschalter</a></td>
   </tr>
   </tbody>
 
