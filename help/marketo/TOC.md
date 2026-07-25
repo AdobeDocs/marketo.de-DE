@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '8901'
+source-wordcount: '8906'
 ht-degree: 96%
 
 ---
@@ -1662,6 +1662,7 @@ ht-degree: 96%
       + [Bearbeiten von prädiktiven Inhalten für die Empfehlungsleiste](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
   + Berichterstellung {#reporting}
     + [Berichterstellung – Überblick](product-docs/reporting/reporting-overview.md)
+    + {hide-from-toc}[Richtlinie zur Datenaufbewahrung bei Marketo-Aktivitäten](product-docs/reporting/data-retention.md)
     + Grundlegende Berichterstattung {#basic-reporting}
       + Erstellen von Berichten {#creating-reports}
         + [Erstellen eines Berichts in einem Programm](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)

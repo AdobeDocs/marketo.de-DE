@@ -2,10 +2,10 @@
 title: Frühere Versionen
 description: Versionshinweise für alle vorherigen Versionen von Marketo Engage, sortiert nach Jahr.
 feature: Release Information
-source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 31%
+source-wordcount: '104'
+ht-degree: 36%
 
 ---
 
@@ -14,13 +14,14 @@ ht-degree: 31%
 
 >[!NOTE]
 >
->Die aktuelle Version finden Sie unter [Aktuelle Versionshinweise](current.md). Den Dynamic Chat-Versionsverlauf finden Sie unter [Versionshinweise zu Dynamic Chat](dynamic-chat.md).
+>Die aktuelle Version finden Sie in den [Versionshinweisen](current.md). Versionsinformationen zu Dynamic Chat finden Sie unter [Versionshinweise zu Dynamic Chat](dynamic-chat.md).
 
 ## 2026
 
 * [Januar 2026](previous-releases/2026/release-notes-jan-26.md)
 * [Februar 2026](previous-releases/2026/release-notes-feb-26.md)
 * [März 2026](previous-releases/2026/release-notes-mar-26.md)
+* [Mai 2026](previous-releases/2026/release-notes-may-26.md)
 
 ## 2025
 
@@ -64,5 +65,5 @@ ht-degree: 31%
 * [2014](previous-releases/release-notes-2014.md)
 * [2013](previous-releases/release-notes-2013.md)
 * [2012](previous-releases/release-notes-2012.md)
-* [2010-2011](previous-releases/2010-2011.md)
-* [2007-2009](previous-releases/2007-2009.md)
+* [2010–2011](previous-releases/2010-2011.md)
+* [2007–2009](previous-releases/2007-2009.md)
