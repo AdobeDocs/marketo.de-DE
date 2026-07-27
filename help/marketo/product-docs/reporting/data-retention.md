@@ -93,7 +93,7 @@ Aktivitätsdaten, die älter als das Aufbewahrungsfenster sind, können von viel
 
 ## Exportieren der Daten
 
-Marketo bietet die [Bulk Extract REST-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), mit der Sie Personenaktivitäten exportieren und lokal speichern können. Sobald die Daten über die API extrahiert wurden, können Sie sie speichern und sortieren, wie Sie dies für Ihren Anwendungsfall benötigen.
+Marketo bietet die [Bulk Extract REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), mit der Sie Personenaktivitäten exportieren und lokal speichern können. Sobald die Daten über die API extrahiert wurden, können Sie sie speichern und sortieren, wie Sie dies für Ihren Anwendungsfall benötigen.
 
 >[!TIP]
 >
