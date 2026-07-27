@@ -2,7 +2,7 @@
 description: Erfahren Sie, wie sich die Richtlinien zur Datenaufbewahrung von 25 Monaten und 90 Tagen von Marketo auf Analytics-Berichte auswirken, mit einer Aufschlüsselung pro Bericht und Tipps zur längeren Aufbewahrung von Daten.
 title: Datenaufbewahrung
 feature: Reporting
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
@@ -25,7 +25,7 @@ In der folgenden Tabelle ist zusammengefasst, wie sich jeder Bericht verhält, e
 
 | Berichtstyp | Szenario filtern | Beeinflusst durch die Aufbewahrungsrichtlinie? |
 |---|---|---|
-| **Revenue Cycle Explorer-Berichte** | Keine Filter verfügbar | Nein - Benutzende von Revenue Cycle Explorer und Advanced Analytics sind vollständig von diesen Aufbewahrungsbeschränkungen befreit. RCE-Daten werden über Nacht an einen separaten Datenbank-Server gesendet, der RCE-Berichte verwaltet. Da die Berichte separat und nicht in persönlichen Aktivitätsprotokollen gespeichert werden, sind diese Berichte von dieser Richtlinie nicht betroffen. Der Umsatzzyklus-Explorer ruft Daten nicht direkt aus der Personendatenbank ab, sodass keine Filter verfügbar sind. |
+| **Revenue Cycle Explorer-Berichte** | Keine Filter verfügbar | Nein: Benutzende von Revenue Cycle Explorer und Advanced Analytics sind vollständig von diesen Aufbewahrungsbeschränkungen befreit. RCE-Daten werden über Nacht an einen separaten Datenbank-Server gesendet, der RCE-Berichte verwaltet. Da die Berichte separat und nicht in persönlichen Aktivitätsprotokollen gespeichert werden, sind diese Berichte von dieser Richtlinie nicht betroffen. Der Umsatzzyklus-Explorer ruft Daten nicht direkt aus der Personendatenbank ab, sodass keine Filter verfügbar sind. |
 | **Leistungsbericht für Personen** | Keine Filter für Smart-Listen | Nein |
 | | Filter für Personenattribute (z. B.: Vorname) | Nein |
 | | Filter der Aktivitäten von Personen in den letzten 25 Monaten | Nein |
@@ -38,7 +38,7 @@ In der folgenden Tabelle ist zusammengefasst, wie sich jeder Bericht verhält, e
 | | Filter für Personenattribute (z. B.: Vorname) | Nein |
 | | Filter der Aktivitäten von Personen in den letzten 25 Monaten | Nein |
 | | Filter für Personenaktivitäten ohne Datumsbeschränkung | Ja |
-| **Success Path Analyzer** | Enthält keine Smart-Listen | n.z |
+| **Success Path Analyzer** | Enthält keine Smart-Listen | N. z. |
 | **Bericht zum sozialen Einfluss** | Keine Filter für Smart-Listen | Ja |
 | | Filter für Personenattribute (z. B.: Vorname) | Ja |
 | | Filter der Aktivitäten von Personen in den letzten 25 Monaten | Ja |
@@ -57,11 +57,11 @@ In der folgenden Tabelle ist zusammengefasst, wie sich jeder Bericht verhält, e
 | | Filter für Personenattribute (z. B.: Vorname) | Nein |
 | | Filter der Aktivitäten von Personen in den letzten 25 Monaten | Nein |
 | | Filter für Personenaktivitäten ohne Datumsbeschränkung | Ja |
-| **Leistung der Landingpage** | Keine Filter für Smart-Listen | Nein - Landingpage-Leistungsdaten werden auf unbestimmte Zeit aufbewahrt und unterliegen nicht der Aufbewahrungsrichtlinie. |
+| **Leistung der Landingpage** | Keine Filter für Smart-Listen | Nein: Die Leistungsdaten der Landingpage werden auf unbestimmte Zeit aufbewahrt und unterliegen nicht der Aufbewahrungsrichtlinie. |
 | | Filter für Personenattribute (z. B.: Vorname) | Nein |
 | | Filter der Aktivitäten von Personen in den letzten 25 Monaten | Nein |
 | | Filter für Personenaktivitäten ohne Datumsbeschränkung | Nein |
-| **Web-Seitenaktivität** | Keine Filter für Smart-Listen | Ja — vorbehaltlich der standardmäßigen Aufbewahrungsfrist von 90 Tagen (je Benutzer anpassbar) |
+| **Web-Seitenaktivität** | Keine Filter für Smart-Listen | Ja: Abhängig von der standardmäßigen Aufbewahrungsfrist von 90 Tagen (je Benutzer anpassbar) |
 | | Filter für Personenattribute (z. B.: Vorname) | Ja |
 | | Filter der Aktivitäten von Personen in den letzten 25 Monaten | Ja |
 | | Filter für Personenaktivitäten ohne Datumsbeschränkung | Ja |
@@ -93,7 +93,7 @@ Aktivitätsdaten, die älter als das Aufbewahrungsfenster sind, können von viel
 
 ## Exportieren der Daten
 
-Marketo bietet die [Bulk Extract REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), mit der Sie Personenaktivitäten exportieren und lokal speichern können. Sobald die Daten über die API extrahiert wurden, können Sie sie speichern und sortieren, wie Sie dies für Ihren Anwendungsfall benötigen.
+Marketo bietet die [Bulk Extract REST-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), mit der Sie Personenaktivitäten exportieren und lokal speichern können. Sobald die Daten über die API extrahiert wurden, können Sie sie speichern und sortieren, wie Sie dies für Ihren Anwendungsfall benötigen.
 
 >[!TIP]
 >
