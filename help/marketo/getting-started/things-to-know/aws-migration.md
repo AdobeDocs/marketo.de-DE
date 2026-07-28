@@ -4,10 +4,10 @@ title: AWS-Migration
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 5%
+source-wordcount: '531'
+ht-degree: 6%
 
 ---
 
@@ -50,7 +50,7 @@ Bevor Sie sich die folgenden Tabellen ansehen, [&#x200B; Sie (Erfahren Sie, wie 
 
 ## Zeitplan {#schedule}
 
-Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugefügt. Schauen Sie also hier vorbei, um mehr darüber zu erfahren.
+Es werden regelmäßig neue Daten und Daten zum Rechenzentrum/Pod hinzugefügt oder geändert. Überwachen Sie daher diesen Zeitplan für Aktualisierungen.
 
 <table>
  <tbody>
@@ -150,6 +150,24 @@ Regelmäßig werden neue Daten und Informationen zu Rechenzentren/Pods hinzugef�
    AB44</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
+   <td>Planmäßig<br>
+   Planmäßig</td>
+  </tr>
+  <tr>
+   <td>26. August 2026</td>
+   <td>AB40<br>
+   AB50</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Planmäßig<br>
+   Planmäßig</td>
+  </tr>
+  <tr>
+   <td>28. August 2026</td>
+   <td>AB53<br>
+   AB56</td>
+   <td>15:00 PDT<br>
+   16:00 PDT</td>
    <td>Planmäßig<br>
    Planmäßig</td>
   </tr>
