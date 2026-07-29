@@ -11,9 +11,9 @@ feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
 workflow-type: tm+mt
-source-wordcount: 439
+source-wordcount: 443
 ht-degree: 1%
 
 ---
@@ -24,11 +24,11 @@ Interessante Momente sind der Schlüssel zur Kommunikation mit Ihrem Vertriebste
 
 >[!AVAILABILITY]
 >
->Diese sind nur für [!DNL Marketo Sales Insight] und [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) Kunden verfügbar.
+>Um interessante Momente nutzen zu können, muss man [!DNL Marketo Sales Insight] oder [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) sein.
 
 ## Was ist ein interessanter Moment? {#what-is-an-interesting-moment}
 
-Das liegt an dir! Sie entscheiden, welche Informationen für Ihr Vertriebsteam relevant sind. Ihr Vertriebsteam möchte möglicherweise wissen, wann ein Lead:
+Das liegt an dir. Sie entscheiden, welche Informationen für Ihr Vertriebsteam relevant sind. Ihr Vertriebsteam möchte möglicherweise wissen, wann ein Lead:
 
 * Besucht die Preisseite auf Ihrer Website
 * Klickt auf einen Link in einer E-Mail zur Produktankündigung
