@@ -3,8 +3,8 @@ audience: end-user
 user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
-nudge: toc
-source-git-commit: 6fc98c8f6a47c184831964e5613aa9bd05e9b737
+nudge: toc-retry
+source-git-commit: 17404d2a3a89cec66785ca395564d422837b860a
 workflow-type: tm+mt
 source-wordcount: '8911'
 ht-degree: 96%
@@ -1113,7 +1113,7 @@ ht-degree: 96%
     + [Überblick](product-docs/marketo-ai/overview.md)
     + [Einstellungen und Setup](product-docs/marketo-ai/settings-setup.md)
     + [Marketo AI-Datenblatt](product-docs/marketo-ai/data-information.md)
-    + Kenntnisse {#skills}
+    + Skills {#skills}
       + [Produktkenntnisse](product-docs/marketo-ai/skills/product-knowledge.md)
       + {hide-from-toc}[Surface-Einblicke](product-docs/marketo-ai/skills/surface-insights.md)
       + {hide-from-toc}[Erstellen von Programmen](product-docs/marketo-ai/skills/build-programs.md)
@@ -1121,7 +1121,7 @@ ht-degree: 96%
       + [Leads untersuchen](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Leads importieren](product-docs/marketo-ai/skills/import-leads.md)
       + [Programme validieren](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo-Benachrichtigungen {#marketo-notifications}
     + {hide-from-toc}[Benachrichtigung: WebSocket-Verbindung](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1921,7 +1921,7 @@ ht-degree: 96%
   + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
   + [Frühere Versionen](release-notes/previous-releases.md)
-  + {hide-from-toc}Frühere Versionen  {#previous-releases}
+  + Frühere Versionen {hide-from-toc} {#previous-releases}
     + 2026 {#2026}
       + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
