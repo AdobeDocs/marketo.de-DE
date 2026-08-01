@@ -1,10 +1,9 @@
 ---
 description: Fragen Sie Marketo AI mithilfe von Produktkenntnissen nach Marketo Engage-Funktionen, Best Practices und Anleitungen. Die Antworten basieren auf den offiziellen Adobe-Dokumenten.
 title: Produktkenntnisse
-badge: Beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '412'
 ht-degree: 1%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 1%
 # Produktkenntnisse {#product-knowledge}
 
 Produktkenntnisse bieten Ihnen On-Demand-Zugriff auf Marketo-Know-how, ohne die Plattform verlassen zu müssen. Stellen Sie eine Frage in einfacher Sprache, und Marketo AI nutzt die offizielle Adobe-Dokumentation, um sie zu beantworten.
-
->[!AVAILABILITY]
->
->Diese Funktion befindet sich derzeit in der offenen Beta-Phase. Wenden Sie sich an Ihren Account Manager, um Zugriff anzufordern. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
 
 ## Informationen zur Verwendung {#how-to-use}
 

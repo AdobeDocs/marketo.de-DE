@@ -2,10 +2,9 @@
 description: Erfahren Sie, wie Sie mit dem Leads-Agenten importieren eine CSV hochladen, Geschäftsregeln anwenden, Felder zuordnen und Leads direkt in Ihre Marketo Engage-Datenbank importieren können.
 title: Leads importieren
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-badge: Beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '195'
 ht-degree: 1%
 
 ---
@@ -13,10 +12,6 @@ ht-degree: 1%
 # Leads importieren {#import-leads}
 
 Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzuordnung in Ihre Marketo Engage-Datenbank.
-
->[!AVAILABILITY]
->
->Diese Funktion befindet sich derzeit in der offenen Beta-Phase. Wenden Sie sich an Ihren Account Manager, um Zugriff anzufordern. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
 
 ## Informationen zur Verwendung {#how-to-use}
 

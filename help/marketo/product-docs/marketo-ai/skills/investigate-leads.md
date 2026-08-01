@@ -1,11 +1,10 @@
 ---
 description: Der leitende Mitarbeiter von Investigate beantwortet die Fragen, die Marketing-Experten am häufigsten stellen. Es ist schneller und zuverlässiger als das manuelle Durchsuchen von Aktivitätsprotokollen, intelligentem Kampagnenverlauf und Bewertungsdatensätzen.
 title: Leads untersuchen
-badge: Beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 1%
+source-wordcount: '502'
+ht-degree: 0%
 
 ---
 
@@ -13,15 +12,9 @@ ht-degree: 1%
 
 Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist.
 
->[!AVAILABILITY]
+>[!PREREQUISITES]
 >
->Diese Funktion befindet sich derzeit in der offenen Beta-Phase. Wenden Sie sich an Ihren Account Manager, um Zugriff anzufordern. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
->
->* Sie müssen Ansichtszugriff auf den Personen-/Lead-Datensatz und das Programm oder den Meilenstein haben, das/den Sie untersuchen.
-
->[!AVAILABILITY]
->
->Diese Funktion befindet sich derzeit in der offenen Beta-Phase. Wenden Sie sich für den Zugriff an Ihren Account Manager.
+>Sie müssen Ansichtszugriff auf den Personen-/Lead-Datensatz und das Programm oder den Meilenstein haben, das/den Sie untersuchen.
 
 ## Informationen zur Verwendung {#how-to-use}
 

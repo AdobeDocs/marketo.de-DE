@@ -1,11 +1,10 @@
 ---
 description: Erfahren Sie, wie Sie Ihre Programme auf Best Practices für alle Komponenten überprüfen können, z. B. E-Mails, Landingpages, Kampagnen und mehr.
 title: Programme validieren
-badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: ef5d8b15ea606262a8cd57003e7d2b56fa79a155
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '107'
 ht-degree: 2%
 
 ---
@@ -13,10 +12,6 @@ ht-degree: 2%
 # Programme validieren {#validate-programs}
 
 Prüfen Sie Ihre Programme auf Best Practices für alle Komponenten, wie E-Mails, Landingpages, Kampagnen und mehr.
-
->[!AVAILABILITY]
->
->Diese Funktion befindet sich derzeit in der offenen Beta-Phase. Wenden Sie sich an Ihren Account Manager, um Zugriff anzufordern. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
 
 ## Informationen zur Verwendung {#how-to-use}
 
