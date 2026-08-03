@@ -66,7 +66,7 @@ Neben den aufgeführten Aktivitäten sollten Sie auch die Verwendung von Marketo
 
 ## Verfügbarkeit und Rollout-Status
 
-**Berechtigung:** Bereitstellung ist auf Marketo Engage-Benutzende beschränkt, die den [Core Gen-AI-Bedingungen und den zusätzlichen Bedingungen“ zugestimmt ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+**Berechtigung:** Bereitstellung ist auf Marketo Engage-Benutzende beschränkt, die den [Core Gen-AI-Bedingungen und den zusätzlichen Bedingungen“ zugestimmt &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 **Rollout-Modell** Die Bereitstellung von erfolgt über Alpha und Private Beta, bevor die Beta-Erweiterung für die Öffentlichkeit erweitert wird, und letztendlich allgemein verfügbar.
 
