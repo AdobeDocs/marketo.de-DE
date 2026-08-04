@@ -18,7 +18,7 @@ Während Marketo Engage-Marketing-Benutzende und -Admins in Adobe Admin Console 
 >
 >Nur API-Benutzer, die in der Marketo Engage-Benutzeroberfläche erstellt wurden, werden nicht auf Ihre Benutzerzuteilung angerechnet.
 
-In den folgenden Schritten wird beschrieben, wie Sie einen „Nur API-Benutzer“ in Marketo Engage hinzufügen. Bevor Sie dies tun, müssen Sie [eine „Nur API-Rolle“ eingerichtet ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+In den folgenden Schritten wird beschrieben, wie Sie einen „Nur API-Benutzer“ in Marketo Engage hinzufügen. Bevor Sie dies tun, müssen Sie [eine „Nur API-Rolle“ eingerichtet &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
 
 1. Klicken Sie in Marketo auf **[!UICONTROL Admin]** und wählen Sie **[!UICONTROL Benutzer und Rollen]** aus.
 
