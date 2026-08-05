@@ -3,16 +3,20 @@ description: Erstellen und Verwalten von Benutzenden, die nur die API verwenden,
 title: Hinzufügen von Nur-API-Benutzenden für Adobe IMS-fähige Abonnements
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: cfbc8488d05cb25263fc71501def2ba74f945c0e
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 11%
+source-wordcount: '172'
+ht-degree: 10%
 
 ---
 
 # Hinzufügen von Nur-API-Benutzenden für Adobe IMS-fähige Abonnements {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
 
 Während Marketo Engage-Marketing-Benutzende und -Admins in Adobe Admin Console verwaltet werden, müssen Marketo Engage-API-Benutzende nur in Marketo Engage erstellt und verwaltet werden.
+
+>[!NOTE]
+>
+>Nur API-Benutzer, die in der Marketo Engage-Benutzeroberfläche erstellt wurden, werden nicht auf Ihre Benutzerzuteilung angerechnet.
 
 In den folgenden Schritten wird beschrieben, wie Sie einen „Nur API-Benutzer“ in Marketo Engage hinzufügen. Bevor Sie dies tun, müssen Sie [eine „Nur API-Rolle“ eingerichtet &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
 
