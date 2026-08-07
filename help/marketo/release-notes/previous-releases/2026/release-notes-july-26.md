@@ -2,7 +2,7 @@
 description: Juli 2026 - Versionshinweise zu Marketo - Produktdokumentation
 title: Juli 2026 - Versionshinweise
 feature: Release Information
-source-git-commit: ebd911b99e1c4c8f8a76db3a14235ee0d4ee0485
+source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 20%
@@ -30,7 +30,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><strong>Marketo-KI-Kenntnisse - Produktwissen</strong>: Produktkenntnisse bieten Ihnen On-Demand-Zugriff auf Marketo-Know-how, ohne die Plattform verlassen zu müssen. Stellen Sie eine Frage in einfacher Sprache, und die Marketo-KI greift auf die offizielle Adobe-Dokumentation zurück, um eine Antwort zu geben.
 </td>
    <td>Offene Betaversion</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Produktkenntnisse</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Produktkenntnisse</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -41,7 +41,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><strong>Marketo-KI-Kenntnisse - Leads untersuchen</strong>: Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist.
 </td>
    <td>Offene Betaversion</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Leads untersuchen</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Leads untersuchen</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -49,7 +49,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-Mail-Designer - KI-Assistent Kontextmenü</strong>: Die Funktionen des KI-Assistenten der E-Mail-Designer können jetzt über das Kontextmenü (den schwarzen Balken) aufgerufen werden. Wenn Sie beispielsweise Textinhalte auswählen, wird im Kontextmenü das Symbol KI-Assistent angezeigt, über das Sie Schnellaktionen ausführen können.</td>
+   <td><strong>E-Mail-Designer - Kontextmenü für Inhalte generieren</strong>: Die Funktionen zum Generieren von Inhalten in der E-Mail-Designer können jetzt über das Kontextmenü (den schwarzen Balken) aufgerufen werden. Wenn Sie beispielsweise Textinhalte auswählen, wird im Kontextmenü das Symbol Inhalt generieren angezeigt, über das Sie Schnellaktionen ausführen können.</td>
    <td><i>Demnächst</i></td>
    <td><i>Demnächst</i></td>
   </tr>
@@ -63,4 +63,4 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 * **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. August 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 * **Limit für REST-API-Zusammenführung von Leads**: Ab dem 31. Juli 2026 führen Aufrufe, die mehr als 25 IDs im leadIds-Parameter eines Zusammenführungs-Leads-API-Aufrufs enthalten, zu einem 1080-Fehler-Code, und der Aufruf wird übersprungen. Aufträge, die die Zusammenführung von mehr als 25 Datensätzen in einem erfordern, sollten in mehrere Aufträge aufgeteilt werden, um den Erfolg dieser Aufrufe sicherzustellen.
 * **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Juli 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
-* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 geben Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ und „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, einen 1003-Fehler-Code zurück, wenn die statische Zielliste 10.000 oder mehr Leads enthält. Weitere Informationen finden Sie [&#x200B; „Migrationshandbuch](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
+* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 geben Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ und „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, einen 1003-Fehler-Code zurück, wenn die statische Zielliste 10.000 oder mehr Leads enthält. Weitere Informationen finden Sie [ „Migrationshandbuch](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .

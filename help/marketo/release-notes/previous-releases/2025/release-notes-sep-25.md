@@ -4,18 +4,11 @@ title: Versionshinweise – September 2025
 feature: Release Information
 exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
 TQID: https://experienceleague.adobe.com/WfcIv3NWuYLgVCvHGcGmKbE6pDLOJ6FBk0OAX5uNJDE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
 source-wordcount: 960
 ht-degree: 85%
@@ -24,15 +17,15 @@ ht-degree: 85%
 
 # Versionshinweise – September 2025 {#release-notes-sep-25}
 
-Unten finden Sie alle Funktionen, die in der Version von September 2025 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
+Unten finden Sie alle Funktionen, die in der Version von September 2025 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Kontakt, um mehr zu erfahren.
 
-## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen im Standard-Veröffentlichungszyklus {#standard-release-cycle-features}
 
 Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 19. September 2025** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
@@ -46,7 +39,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Speicherung von Aktivitäten zu On-Demand-Webinaren</strong>: Benutzenden interaktiver Webinare stehen Dashboard-Daten zu On-Demand-Webinaren jetzt für mehr als 30 Tage zur Verfügung (zuvor waren es nur bis zu 30 Tage ab dem Tag des Webinars).</td>
    <td>Freigegeben</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -56,7 +49,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer – Berechtigungen für den KI-Assistenten</strong>: Marketo-Admins können bestimmten Benutzenden Zugriff auf GenAI-Funktionen gewähren.</td>
    <td>Freigegeben</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Berechtigungen einrichten</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/generate-content.md#set-up-permissions">Berechtigungen einrichten</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -74,7 +67,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-Mail-Designer – Workflow für Content-Zusammenarbeit</strong>: Sie können jetzt mit anderen Marketo-Benutzenden an E-Mail-Assets zusammenarbeiten und Kommentare abgeben. Taggen Sie Team-Mitglieder (Marketo-Benutzende mit entsprechenden Asset-Berechtigungen), sodass sie eine E-Mail- oder Push-Benachrichtigung erhalten.</td>
+   <td><strong>E-Mail-Designer – Workflow für Content-Zusammenarbeit</strong>: Sie können jetzt mit anderen Marketo-Benutzenden an E-Mail-Assets zusammenarbeiten und Kommentare abgeben. Taggen Sie Team-Mitglieder (Marketo-Benutzer mit entsprechenden Asset-Berechtigungen), sodass sie eine E-Mail- oder Pulse-Benachrichtigung erhalten.</td>
    <td>Freigegeben</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">E-Mail-Zusammenarbeit</a></td>
   </tr>
@@ -96,18 +89,18 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Einstellung der REST-API mit doppelten Schrägstrichen**: Am 16. September 2025 hat Adobe auf eine modernere Hosting-Infrastruktur für REST-API-URLs umgestellt, die neuere Technologien nutzt und so Sicherheit und Skalierbarkeit bietet. Wenn Ihr Abonnement APIs mit einem doppelten Schrägstrich (//) in der URL verwendet hat, finden Sie in [diesem Post von Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} Informationen zu den nächsten Schritten.
 
-* **Zurück zur Geschwindigkeits-Skripterstellung im neuen E-Mail-Designer**: Adobe Marketo Engage hat im vergangenen Juni für den neuen E-Mail-Designer eine Funktion namens _Bedingter Inhalt_ veröffentlicht. Die Funktion basierte auf Handlebar-Skripterstellung anstelle von Geschwindigkeits-Skripterstellung. Das war ein Bemühen, Ihren dynamischen Inhalten etwas mehr Flexibilität zu verleihen. Als wir jedoch erkannten, dass dadurch manche Token falsch aufgelöst werden, entschieden wir, die Funktion vorübergehend zu deaktivieren. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
+* **Zurück zur Geschwindigkeits-Skripterstellung im neuen E-Mail-Designer**: Adobe Marketo Engage hat im vergangenen Juni für den neuen E-Mail-Designer eine Funktion namens _Bedingter Inhalt_ veröffentlicht. Die Funktion basierte auf Handlebar-Skripterstellung anstelle von Velocity-Skripterstellung, um Ihren dynamischen Inhalten etwas mehr Flexibilität zu verleihen. Als wir jedoch erkannten, dass dadurch manche Token falsch aufgelöst werden, entschieden wir, die Funktion vorübergehend zu deaktivieren. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Abschaffung der Marketo Engage Identity**: Im August 2025 beginnt Adobe mit der schrittweisen Einstellung der Unterstützung für Marketo Engage Identity (Anmeldung über `login.marketo.com`). Um eine Unterbrechung des Zugriffs auf Marketo Engage zu verhindern, müssen Sie bis spätestens 30. September 2025 zu [Adobe Identity](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} wechseln.
 
-   * _Abschaffung von IP-Einschränkungen_: Die Unterstützung für das [Einschränken von Marketo-Anmeldungen auf Grundlage der IP](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} endete am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Eine neue standortbasierte Zugriffssteuerungsfunktion für Adobe Identity in der Adobe Admin Console ist demnächst verfügbar.
+  * _Abschaffung von IP-Einschränkungen_: Die Unterstützung für das [Einschränken von Marketo-Anmeldungen auf Grundlage der IP](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} endete am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Eine neue standortbasierte Zugriffssteuerungsfunktion für Adobe Identity in der Adobe Admin Console ist demnächst verfügbar.
 
-   * _Abschaffung von Single Sign-on (SSO)_: Die Unterstützung für [Marketo Identity SSO](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} endete am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Das Single Sign-On für Adobe Identity in der Adobe Admin Console muss separat konfiguriert werden. Informationen zu den Einrichtungsschritten finden Sie unter [Einrichten von Identitäten und Single Sign-On](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
+  * _Abschaffung von Single Sign-on (SSO)_: Die Unterstützung für [Marketo Identity SSO](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} endete am 30. Juli 2025. Die Funktion bleibt funktionsfähig, bis die Umstellung auf Adobe Identity abgeschlossen ist. Das Single Sign-On für Adobe Identity in der Adobe Admin Console muss separat konfiguriert werden. Informationen zu den Einrichtungsschritten finden Sie unter [Einrichten von Identitäten und Single Sign-On](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html){target="_blank"}.
 
 * **Einstellung der Funktion _An Freund/Freundin weiterleiten_**: Am 29. September 2025 wird die Funktion _An Freund/Freundin weiterleiten_ in E-Mails in Marketo Engage 2.0 (dem alten E-Mail-Editor) für alle Abonnements vollständig eingestellt. Dies betrifft das Token „An Freund/Freundin weiterleiten“ und die Links „An Freund/Freundin weiterleiten“ in E-Mails, die bereits mit dem Token gesendet wurden oder gesendet werden. [Weitere Informationen](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Abschaffung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird abgeschafft und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
 
-* **Einstellung der alten Lead-Aktivitätsdaten**: Bis Ende Juni 2026 müssen Benutzende aus dem alten Lead-Aktivitätsdaten-Stream in den neuen Adobe I/O Lead-Aktivitätsdaten-Stream (LADS) migrieren. Diese Einstellung betrifft nur eine Handvoll Benutzender, die in den Lead-Aktivitäts-Datenstrom integriert wurden, bevor er in Adobe I/O Events integriert wurde. Wenn Sie ein neuerer Benutzer von Datenströmen sind oder bereits den Lead-Aktivitäts-Datenstrom über I/O-Ereignisse verwalten, hat dies keine Auswirkungen auf Sie. Migrationsdetails finden [&#x200B; in &#x200B;](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} Artikel .
+* **Einstellung der alten Lead-Aktivitätsdaten**: Bis Ende Juni 2026 müssen Benutzende aus dem alten Lead-Aktivitätsdaten-Stream in den neuen Adobe I/O Lead-Aktivitätsdaten-Stream (LADS) migrieren. Diese Einstellung betrifft nur eine Handvoll Benutzender, die in den Lead-Aktivitäts-Datenstrom integriert wurden, bevor er in Adobe I/O Events integriert wurde. Wenn Sie ein neuerer Benutzer von Datenströmen sind oder bereits den Lead-Aktivitäts-Datenstrom über I/O-Ereignisse verwalten, hat dies keine Auswirkungen auf Sie. Migrationsdetails finden [ in ](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} Artikel .

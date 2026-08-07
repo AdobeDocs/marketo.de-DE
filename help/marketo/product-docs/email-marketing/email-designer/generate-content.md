@@ -1,0 +1,174 @@
+---
+solution: Marketo Engage
+product: marketo
+title: Generieren von Inhalten in der E-Mail-Designer
+description: Erfahren Sie, wie Sie Inhalte generieren, um E-Mails Text und Bilder hinzuzufügen. Verwenden Sie die generative KI von Adobe in der E-Mail-Designer für Inhaltsideen.
+level: Beginner, Intermediate
+feature: Email Designer
+exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
+TQID: https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
+workflow-type: tm+mt
+source-wordcount: 914
+ht-degree: 1%
+
+---
+
+# Generieren von Inhalten in der E-Mail-Designer {#generate-content}
+
+Durch das Generieren von Inhalten in der Marketo Engage Email Designer können Sie zeitgemäße, leistungsstarke und intuitive E-Mails erstellen. Dies wird durch die generative KI-Technologie und die Prompt-Bibliothek von Adobe zusammen mit Firefly für die Bildgenerierung erreicht, die bei der Erstellung geeigneter Inhalte für eine bestimmte Rolle/Einkaufsgruppe, Marketing-Journey-Phase, Kommunikationsstrategie, Ton usw. hilft. Bestimmte Marken-Assets können auch zum Erstellen von Inhalten verwendet werden.
+
+>[!PREREQUISITES]
+>
+>Diese Funktion ist standardmäßig nicht aktiviert. Sie müssen zunächst den [Core Gen-AI-Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen, um die Gen-AI-Funktion in E-Mail-Designer nutzen zu können. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+
+## Berechtigungen einrichten {#set-up-permissions}
+
+_Nach_ der oben genannten Voraussetzung müssen Marketo-Admins Zugriff auf bestimmte Benutzende/Rollen anwenden, bevor Benutzende die GenAI-Schaltflächen sehen.
+
++++Erfahren Sie, wie Sie Berechtigungen einrichten
+
+1. Klicken Sie in Marketo Engage auf **Admin** und wählen Sie **Benutzer und Rollen** aus.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. Doppelklicken Sie auf **Registerkarte** Rollen“ auf die gewünschte Rolle.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. Aktivieren _unter „Access Design_&quot; das Kontrollkästchen **Access AI Assistant** und klicken Sie auf **Speichern**.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. Klicken Sie auf die Registerkarte Benutzer und wählen Sie den Benutzer aus, dem Sie Zugriff gewähren möchten.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. Wählen Sie die in Schritt 3 ausgewählte Rolle und ggf. den gewünschten Arbeitsbereich aus. Klicken Sie auf **Speichern**.
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
++++
+
+## Anwendungsszenarien {#use-cases}
+
+* [Erstellen einer Betreffzeile und/oder eines Preheaders](#create-a-subject-line-preheader) für Ihre E-Mail
+* [Inhalt für einen bestimmten Abschnitt erstellen](#create-content-for-a-specific-section) Ihrer E-Mail
+* [Erstellen einer ganzen E-](#create-an-entire-email) aus einer ausgewählten Vorlage
+
+## Erstellen einer Betreffzeile/eines Preheaders {#create-a-subject-line-preheader}
+
+Erstellen Sie eine Betreffzeile, einen Preheader oder beides.
+
+![](assets/use-the-ai-assistant-1.png)
+
+Das folgende Beispiel veranschaulicht die Betreffzeile. Bei einem Preheader können die gleichen Schritte ausgeführt werden, indem Sie auf das Kontrollkästchen _Preheader_ klicken (siehe Abbildung oben).
+
+Wenn eine E-Mail mit der neuen E-Mail-Designer erstellt wird, geben Sie eine temporäre Betreffzeile ein.
+
+Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche Inhalt generieren ![Filtersymbol](assets/icon-ai-assistant.png) ) daneben, um Hilfe beim Erstellen einer neuen Betreffzeile mit der Gen-KI-Funktion zu erhalten.
+
+![](assets/use-the-ai-assistant-2.png)
+
+Aktivieren Sie die Option **Referenzinhalt verwenden**, um neue Inhalte basierend auf dem ausgewählten Inhalt zu personalisieren.
+
+Geben Sie die Eingabeaufforderung ein, um die Betreffzeile anzupassen. Geben Sie relevante Texteinstellungen ein und laden Sie alle Marken-Assets hoch, die Sie als Referenz zum Erstellen einer entsprechenden Betreffzeile verwenden möchten.
+
+![](assets/use-the-ai-assistant-3.png)
+
+Zu den Texteinstellungen gehören:
+
+<table><tbody>
+  <tr>
+    <td style="width:25%"><b>Käufergruppe</b></td>
+    <td>Spezifische Einkaufsgruppe, an die Sie sich wenden (z. B. Anwender, Influencer, Entscheidungsträger).</td>
+  </tr>
+  <tr>
+    <td style="width:25%"><b>Marketing-Journey-Schritt</b></td>
+    <td>Empfängerinnen und Empfänger in einer bestimmten Marketing-Journey-Phase (z. B. Entdecken, Auswerten, Bestätigen).</td>
+  </tr>
+  <tr>
+    <td style="width:25%"><b>Kommunikationsstrategie</b></td>
+    <td>Das Ziel der Mitteilung (z. B. Dringlichkeit, sozialer Beweis, informativ).</td>
+  </tr>
+  <tr>
+    <td style="width:25%"><b>Sprache</b></td>
+    <td>Sprache, in der die Betreffzeile generiert werden soll.</td>
+  </tr>
+  <tr>
+    <td style="width:25%"><b>Ton</b></td>
+    <td>Ton, in dem der Inhalt generiert werden soll (z. B. inspirierend, aufregend, humorvoll).</td>
+  </tr>
+  <tr>
+    <td style="width:25%"><b>Emojis</b></td>
+    <td>Ermöglicht das Einfügen von Emojis in den generierten Inhalt.</td>
+  </tr>
+</tbody>
+</table>
+
+Wenn Sie auf **Generieren** klicken, werden Beispiele angezeigt, aus denen Sie auswählen können:
+
+![](assets/use-the-ai-assistant-4.png)
+
+Sie können auch ein Marken-Asset hochladen, um Inhalte innerhalb des Assets als Referenz zum Erstellen der Betreffzeile zu verwenden.
+
+![](assets/use-the-ai-assistant-5.png)
+
+Um eine Variante auszuwählen, aktivieren Sie das entsprechende Kontrollkästchen und klicken Sie auf **Auswählen**. Sie können sie auch anpassen, indem Sie auf &quot;**&quot;**. Zusätzlich können Sie Feedback geben, indem Sie auf die Daumen nach oben oder die Daumen nach unten klicken, damit die Gen-AI-Technologie Ihre Präferenzen erfährt.
+
+Nachdem Sie Ihre Auswahl getroffen haben, wird die Betreffzeile in Ihren E-Mail-Details ausgefüllt.
+
+![](assets/use-the-ai-assistant-6.png)
+
+## Erstellen von Inhalten für einen bestimmten Abschnitt Ihrer E-Mail {#create-content-for-a-specific-section}
+
+Nachdem die E-Mail erstellt wurde, haben Sie die Möglichkeit, bestimmte Abschnitte, Bilder oder Texte zu ändern.
+
+![](assets/use-the-ai-assistant-7.png)
+
+In diesem Beispiel verwenden wir eine Finanzvorlage. Wenn eines oder mehrere der vorhandenen Bilder Ihre Anforderungen nicht erfüllen, können Sie basierend auf Ihrer Beschreibung ein neues Bild erstellen. Wählen Sie das gewünschte Bild aus und klicken Sie auf das Symbol Inhalt generieren .
+
+![](assets/use-the-ai-assistant-8.png)
+
+Geben Sie die entsprechenden Details in der Eingabeaufforderung ein, z. B. „Ein Banker sitzt mit Bargeld an seinem Schreibtisch.“ Sie können auch die Bibliothek der Eingabeaufforderung (rechts neben der Eingabeaufforderung) verwenden, wenn Sie sich nicht sicher sind, was Sie eingeben sollen. Klicken Sie **Bildeinstellungen**.
+
+![](assets/use-the-ai-assistant-9.png)
+
+Klicken Sie auf den Umschalter, um _Bilder mit KI generieren_ zu aktivieren und dann alle gewünschten Einstellungen zu ändern, einschließlich des zu verwendenden Modells (Adobe Firefly oder Gemini 2.5 Nano Banana). Klicken Sie abschließend auf **Generieren**.
+
+![](assets/use-the-ai-assistant-10.png)
+
+Es werden mehrere Varianten erstellt. Wählen Sie Ihren Favoriten und klicken Sie auf **Übernehmen**.
+
+![](assets/use-the-ai-assistant-11.png)
+
+>[!NOTE]
+>
+>Wenn keines der Bilder Ihren Anforderungen entspricht, klicken Sie erneut **Generieren**, um neue Versionen zu erstellen.
+
+Ähnlich wie Bilder können auch Textabschnitte der E-Mail geändert werden.
+
+## Gesamte E-Mail aus einer ausgewählten Vorlage erstellen {#create-an-entire-email}
+
+Diese Option ist nur verfügbar, wenn die E-Mail mit einer vorhandenen Vorlage erstellt wurde. Dabei kann es sich um eine Standardvorlage handeln, die von der E-Mail-Designer bereitgestellt wird, um eine bereits erstellte gespeicherte Vorlage oder um eine importierte Vorlage mit der Option &quot;HTML importieren“. Diese Option ist nicht verfügbar, wenn Sie für Ihre E[Mail „Von Grund auf gestalten](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) auswählen.
+
+Wählen Sie eine Vorlage aus, ohne eine Komponente in der Vorlage auszuwählen, und klicken Sie in der E-Mail-Designer auf die Schaltfläche Inhalt generieren .
+
+![](assets/use-the-ai-assistant-12.png)
+
+Geben Sie die entsprechende Eingabeaufforderung ein und wählen Sie die Texteinstellungen, Marken-Assets und alle Bildeinstellungen aus, die Sie für Ihre E-Mail benötigen.
+
+![](assets/use-the-ai-assistant-13.png)
+
+Wenn Sie Bilder mit Firefly generieren möchten, wählen Sie die Bildeinstellungen aus und klicken Sie auf den Umschalter für **Bilder mit KI generieren**.
+
+![](assets/use-the-ai-assistant-14.png)
+
+Wählen Sie den gewünschten _Inhaltstyp_, _Farbe und Ton_, _Beleuchtung_ und _Komposition_ aus, um Gen-AI-Bilder für Ihre E-Mail zu erstellen. Klicken Sie abschließend **Generieren**.
+
+![](assets/use-the-ai-assistant-15.png)
+
+Sehen Sie, wie eine Variante in Ihrer E-Mail aussieht, indem Sie auf **Vorschau** klicken. Wählen Sie eine Variante aus, indem Sie auf **Übernehmen** klicken.
