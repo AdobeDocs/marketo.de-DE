@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Verwenden des KI-Assistenten
-description: Erfahren Sie, wie Sie mit dem KI-Assistenten Text und Bilder zu E-Mails hinzufügen. Verwenden Sie die generative KI von Adobe in der E-Mail-Designer für Inhaltsideen.
+title: Generieren von Inhalten in der E-Mail-Designer
+description: Erfahren Sie, wie Sie Inhalte generieren, um E-Mails Text und Bilder hinzuzufügen. Verwenden Sie die generative KI von Adobe in der E-Mail-Designer für Inhaltsideen.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
@@ -14,20 +14,20 @@ feature_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
-source-wordcount: 936
-ht-degree: 3%
+source-wordcount: 914
+ht-degree: 1%
 
 ---
 
-# KI-Assistent für E-Mail Designer {#ai-assistant-email-designer}
+# Generieren von Inhalten in der E-Mail-Designer {#generate-content}
 
-Der KI-Assistent in der Marketo Engage Email Designer hilft Ihnen beim Erstellen zeitgemäßer, leistungsstarker und intuitiver E-Mails. Dies wird durch die generative KI-Technologie und die Prompt-Bibliothek von Adobe zusammen mit Firefly für die Bildgenerierung erreicht, die bei der Erstellung geeigneter Inhalte für eine bestimmte Rolle/Einkaufsgruppe, Marketing-Journey-Phase, Kommunikationsstrategie, Ton usw. hilft. Bestimmte Marken-Assets können auch zum Erstellen von Inhalten verwendet werden.
+Durch das Generieren von Inhalten in der Marketo Engage Email Designer können Sie zeitgemäße, leistungsstarke und intuitive E-Mails erstellen. Dies wird durch die generative KI-Technologie und die Prompt-Bibliothek von Adobe zusammen mit Firefly für die Bildgenerierung erreicht, die bei der Erstellung geeigneter Inhalte für eine bestimmte Rolle/Einkaufsgruppe, Marketing-Journey-Phase, Kommunikationsstrategie, Ton usw. hilft. Bestimmte Marken-Assets können auch zum Erstellen von Inhalten verwendet werden.
 
 >[!PREREQUISITES]
 >
->Der KI-Assistent ist nicht standardmäßig aktiviert. Sie müssen zunächst den [Core Gen-AI-Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen, um die Gen-AI-Funktion in E-Mail-Designer nutzen zu können. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
+>Diese Funktion ist standardmäßig nicht aktiviert. Sie müssen zunächst den [Core Gen-AI-Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen, um die Gen-AI-Funktion in E-Mail-Designer nutzen zu können. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 
 ## Berechtigungen einrichten {#set-up-permissions}
 
@@ -57,9 +57,7 @@ _Nach_ der oben genannten Voraussetzung müssen Marketo-Admins Zugriff auf besti
 
 +++
 
-## Anwendungsfälle {#use-cases}
-
-Es gibt einige primäre Anwendungsfälle für AI Assistant:
+## Anwendungsszenarien {#use-cases}
 
 * [Erstellen einer Betreffzeile und/oder eines Preheaders](#create-a-subject-line-preheader) für Ihre E-Mail
 * [Inhalt für einen bestimmten Abschnitt erstellen](#create-content-for-a-specific-section) Ihrer E-Mail
@@ -67,7 +65,7 @@ Es gibt einige primäre Anwendungsfälle für AI Assistant:
 
 ## Erstellen einer Betreffzeile/eines Preheaders {#create-a-subject-line-preheader}
 
-Sie können den KI-Assistenten verwenden, um eine Betreffzeile, einen Preheader oder beides zu erstellen.
+Erstellen Sie eine Betreffzeile, einen Preheader oder beides.
 
 ![](assets/use-the-ai-assistant-1.png)
 
@@ -75,11 +73,11 @@ Das folgende Beispiel veranschaulicht die Betreffzeile. Bei einem Preheader kön
 
 Wenn eine E-Mail mit der neuen E-Mail-Designer erstellt wird, geben Sie eine temporäre Betreffzeile ein.
 
-Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche „KI-Assistent![&#x200B; ( &#x200B;](assets/icon-ai-assistant.png)Filtersymbol) daneben, um Hilfe bei der Erstellung einer neuen Betreffzeile mit der Funktion „KI generieren“ zu erhalten.
+Nachdem die E-Mail erstellt wurde, befindet sich die Betreffzeile in der Spalte _Details_ auf der rechten Seite. Klicken Sie auf die Schaltfläche Inhalt generieren ![Filtersymbol](assets/icon-ai-assistant.png) ) daneben, um Hilfe beim Erstellen einer neuen Betreffzeile mit der Gen-KI-Funktion zu erhalten.
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Aktivieren Sie die Option **Referenzinhalt verwenden** für den KI-Assistenten, um neue Inhalte basierend auf dem ausgewählten Inhalt zu personalisieren.
+Aktivieren Sie die Option **Referenzinhalt verwenden**, um neue Inhalte basierend auf dem ausgewählten Inhalt zu personalisieren.
 
 Geben Sie die Eingabeaufforderung ein, um die Betreffzeile anzupassen. Geben Sie relevante Texteinstellungen ein und laden Sie alle Marken-Assets hoch, die Sie als Referenz zum Erstellen einer entsprechenden Betreffzeile verwenden möchten.
 
@@ -135,7 +133,7 @@ Nachdem die E-Mail erstellt wurde, haben Sie die Möglichkeit, bestimmte Abschni
 
 ![](assets/use-the-ai-assistant-7.png)
 
-In diesem Beispiel verwenden wir eine Finanzvorlage. Wenn eines oder mehrere der vorhandenen Bilder Ihre Anforderungen nicht erfüllen, können Sie den KI-Assistenten anweisen, ein neues Bild basierend auf Ihrer Beschreibung zu erstellen. Wählen Sie das gewünschte Bild aus und klicken Sie auf das Symbol KI-Assistent .
+In diesem Beispiel verwenden wir eine Finanzvorlage. Wenn eines oder mehrere der vorhandenen Bilder Ihre Anforderungen nicht erfüllen, können Sie basierend auf Ihrer Beschreibung ein neues Bild erstellen. Wählen Sie das gewünschte Bild aus und klicken Sie auf das Symbol Inhalt generieren .
 
 ![](assets/use-the-ai-assistant-8.png)
 
@@ -161,7 +159,7 @@ Es werden mehrere Varianten erstellt. Wählen Sie Ihren Favoriten und klicken Si
 
 Diese Option ist nur verfügbar, wenn die E-Mail mit einer vorhandenen Vorlage erstellt wurde. Dabei kann es sich um eine Standardvorlage handeln, die von der E-Mail-Designer bereitgestellt wird, um eine bereits erstellte gespeicherte Vorlage oder um eine importierte Vorlage mit der Option &quot;HTML importieren“. Diese Option ist nicht verfügbar, wenn Sie für Ihre E[Mail „Von Grund auf gestalten](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) auswählen.
 
-Wählen Sie eine Vorlage aus, ohne eine Komponente in der Vorlage auszuwählen, und klicken Sie in der E-Mail-Designer auf die Schaltfläche KI-Assistent .
+Wählen Sie eine Vorlage aus, ohne eine Komponente in der Vorlage auszuwählen, und klicken Sie in der E-Mail-Designer auf die Schaltfläche Inhalt generieren .
 
 ![](assets/use-the-ai-assistant-12.png)
 
