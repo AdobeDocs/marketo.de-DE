@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 46d547255d27dfe7d176694cf68de0ec99a5773e
+source-git-commit: 618fe38fae7621ecf72aab8ec09fc345aba23358
 workflow-type: tm+mt
-source-wordcount: 406
-ht-degree: 28%
+source-wordcount: 434
+ht-degree: 21%
 
 ---
 
@@ -76,8 +76,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. August 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **REST-API-Kampagnenausführungs-ID**: Die Unterstützung für die Marketo SOAP-API endet am 31. Juli 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
+* **REST API-Kampagnenausführungs-ID**: Unter bestimmten Umständen wurde der Wert der Kampagnenausführungs-ID einer Aktivität manchmal mit falscher Formatierung zwischen zwei Paaren von Anführungszeichen (z. B. `"campaignRunId": ""102938""`) zurückgegeben.<br/>Ab der August-Version wird dieser Wert immer im richtigen numerischen Format (`"campaignRunId": 102938`) zurückgegeben
 
-* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Unter bestimmten Umständen wurde der Wert der Kampagnenausführungs-ID einer Aktivität manchmal mit falscher Formatierung zwischen zwei Paaren von Anführungszeichen (z. B. `"campaignRunId": ""102938""`) zurückgegeben.<br/>Ab der August-Version wird dieser Wert immer mit dem richtigen numerischen Format (`"campaignRunId": 102938`) zurückgegeben
+* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 schlagen Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ oder „Lead-Änderungen abrufen“, die den `listId` enthalten, fehl, wenn die Ziellisten 10.000 oder mehr Leads enthalten, mit einem Fehler-Code 1003, der angibt, dass die statische Zielliste zu viele Datensätze enthält. Weitere Informationen finden Sie [Migrationshandbuch](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
 
 * **Limit für REST-API-Zusammenführung von Leads**: Seit dem 31. Juli 2026 führen Aufrufe, die mehr als 25 IDs im leadIds-Parameter eines Zusammenführungs-Leads-API-Aufrufs enthalten, zu einem 1080-Fehler-Code, und der Aufruf wird übersprungen. Aufträge, die die Zusammenführung von mehr als 25 Datensätzen in einem erfordern, sollten in mehrere Aufträge aufgeteilt werden, um den Erfolg dieser Aufrufe sicherzustellen.
