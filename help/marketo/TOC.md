@@ -4,7 +4,7 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
+source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
 workflow-type: tm+mt
 source-wordcount: '8918'
 ht-degree: 96%
@@ -993,7 +993,7 @@ ht-degree: 96%
       + [Überblick](product-docs/email-marketing/email-designer/overview.md)
       + [Funktionsvergleich](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Erstellung von E-Mails](product-docs/email-marketing/email-designer/email-authoring.md)
-      + {hide-from-toc}[Verwenden von Modulen in der E-Mail-Designer](product-docs/email-marketing/email-designer/email-modules.md)
+      + [Verwenden von Modulen in der E-Mail-Designer](product-docs/email-marketing/email-designer/email-modules.md)
       + [Bedingte Inhalte](product-docs/email-marketing/email-designer/conditional-content.md)
       + [Erstellung von E-Mail-Vorlagen](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [Importieren einer Vorlage](product-docs/email-marketing/email-designer/import-template.md)
@@ -1122,7 +1122,7 @@ ht-degree: 96%
       + [Leads untersuchen](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Leads importieren](product-docs/marketo-ai/skills/import-leads.md)
       + [Programme validieren](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo-Benachrichtigungen {#marketo-notifications}
     + {hide-from-toc}[Benachrichtigung: WebSocket-Verbindung](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1922,7 +1922,7 @@ ht-degree: 96%
   + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
   + [Frühere Versionen](release-notes/previous-releases.md)
-  + {hide-from-toc}Frühere Versionen  {#previous-releases}
+  + Frühere Versionen {hide-from-toc} {#previous-releases}
     + 2026 {#2026}
       + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)

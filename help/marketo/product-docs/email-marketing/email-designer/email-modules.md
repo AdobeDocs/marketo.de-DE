@@ -6,8 +6,7 @@ description: Erfahren Sie, wie Sie in E-Mail-Designer auf vorgefertigte Module z
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-hide: true
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -22,7 +21,7 @@ Im Gegensatz [Inhaltskomponenten](/help/marketo/product-docs/email-marketing/ema
 
 >[!NOTE]
 >
->Module sind keine Fragmente. Sie sind in der von Ihnen entworfenen E-Mail enthalten. Nachdem Sie ein Modul jedoch an Ihre Anforderungen angepasst haben, können Sie es als &quot;[&#x200B; Fragment“ speichern](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#visual-fragments) um es dann für andere E-Mails und Nachrichten wiederzuverwenden.
+>Module sind keine Fragmente. Sie sind in der von Ihnen entworfenen E-Mail enthalten. Nachdem Sie ein Modul jedoch an Ihre Anforderungen angepasst haben, können Sie es als &quot;[ Fragment“ speichern](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#visual-fragments) um es dann für andere E-Mails und Nachrichten wiederzuverwenden.
 
 ## Zugreifen auf und Einfügen von Modulen {#access-modules}
 
