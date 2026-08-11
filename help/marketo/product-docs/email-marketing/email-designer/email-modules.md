@@ -21,7 +21,7 @@ Im Gegensatz [Inhaltskomponenten](/help/marketo/product-docs/email-marketing/ema
 
 >[!NOTE]
 >
->Module sind keine Fragmente. Sie sind in der von Ihnen entworfenen E-Mail enthalten. Nachdem Sie ein Modul jedoch an Ihre Anforderungen angepasst haben, können Sie es als &quot;[ Fragment“ speichern](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#visual-fragments) um es dann für andere E-Mails und Nachrichten wiederzuverwenden.
+>Module sind keine Fragmente. Sie sind in der von Ihnen entworfenen E-Mail enthalten. Nachdem Sie ein Modul jedoch an Ihre Anforderungen angepasst haben, können Sie es als &quot;[&#x200B; Fragment“ speichern](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#visual-fragments) um es dann für andere E-Mails und Nachrichten wiederzuverwenden.
 
 ## Zugreifen auf und Einfügen von Modulen {#access-modules}
 
