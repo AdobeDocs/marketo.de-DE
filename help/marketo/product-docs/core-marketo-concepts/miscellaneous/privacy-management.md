@@ -30,7 +30,7 @@ Marketo Engage bietet eine Reihe von Tools, mit denen Sie die Datenschutzbestimm
 
 ## Verordnungen zur Datenschutzverwaltung {#regulations-on-privacy-management}
 
-Mit den Funktionen von Marketo Engage können Sie verschiedene Datenschutzbestimmungen einhalten. Eine Liste der unterstützten Vorschriften finden Sie unter [Übersicht über Datenschutzbestimmungen](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/overview){target="_blank"}.
+Mit den Funktionen von Marketo Engage können Sie verschiedene Datenschutzbestimmungen einhalten. Eine Liste der unterstützten Vorschriften finden Sie unter [Übersicht über Datenschutzbestimmungen](https://experienceleague.adobe.com/de/docs/experience-platform/privacy/regulations/overview){target="_blank"}.
 
 ## Recht auf Zugang und Recht auf Vergessenwerden {#right-to-access-and-right-to-be-forgotten}
 
