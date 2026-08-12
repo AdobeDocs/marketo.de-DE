@@ -2,11 +2,10 @@
 description: AWS-Migration - Marketo Engage-Dokumente - Produktdokumentation
 title: AWS-Migration
 feature: Getting Started
-hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 99b7a65fe436f40d474a708fb54d2f2f1a45c5db
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '835'
 ht-degree: 5%
 
 ---
@@ -42,7 +41,7 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 >[!NOTE]
 >
->Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und Daten während der Migration beibehalten möchten, wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/de/support){target="_blank"} und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
+>Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich [&#128279;](https://experienceleague.adobe.com/de/support){target="_blank"} Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
 
 ## Identifizieren des Rechenzentrums/Pods {#identify}
 

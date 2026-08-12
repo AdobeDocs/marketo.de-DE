@@ -6,8 +6,7 @@ description: Erfahren Sie, wie Sie in E-Mail-Designer auf vorgefertigte Module z
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-hide: true
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -16,7 +15,7 @@ ht-degree: 0%
 
 # Verwenden von Modulen in der E-Mail-Designer {#email-modules}
 
-E-Mail-Designer enthält eine Bibliothek mit _Modulen_: einsatzbereite, vollständig strukturierte Inhaltsbausteine, die die E-Mail-Erstellung beschleunigen und die Konsistenz des Designs in Ihrer gesamten Kommunikation fördern.
+E-Mail-Designer enthält eine Bibliothek mit Modulen: einsatzbereite, vollständig strukturierte Inhaltsbausteine, die die E-Mail-Erstellung beschleunigen und die Konsistenz des Designs in Ihrer gesamten Kommunikation fördern.
 
 Im Gegensatz [Inhaltskomponenten](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content), bei denen es sich um leere Platzhalter handelt, die Sie von Grund auf neu konfigurieren, sind Module vorgefertigte Abschnitte (z. B. Kopfzeilen- oder Produktkartenraster oder Fußzeilen mit Opt-out-Links), die Sie direkt auf Ihrer Arbeitsfläche ablegen und dort anpassen können.
 
