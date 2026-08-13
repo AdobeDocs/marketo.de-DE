@@ -3,9 +3,9 @@ description: AWS-Migration - Marketo Engage-Dokumente - Produktdokumentation
 title: AWS-Migration
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78940c808e61be8a702b50df253071182d176942
+source-git-commit: e7ad638f664fe8dca4b9e9896a8fdd6e155437d4
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '828'
 ht-degree: 5%
 
 ---
@@ -30,7 +30,7 @@ Während des Migrationsfensters sind nicht alle Marketo Engage-Services verfügb
 
 * **IP-Zulassungslisten überprüfen und aktualisieren** für Anmeldung, API-Zugriff, E-Mail-Versand, Webtracking und Integrationen.
 
-* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([&#x200B; Tabelle unten) hinzugefügt werden &#x200B;](#ip-addresses).
+* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([ Tabelle unten) hinzugefügt werden ](#ip-addresses).
 
 ## Erwartete Service-Auswirkungen {#impacts}
 
@@ -41,11 +41,11 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 >[!NOTE]
 >
->Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich [&#128279;](https://experienceleague.adobe.com/de/support){target="_blank"} Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
+>Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich ](https://experienceleague.adobe.com/en/support){target="_blank"} [Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
 
 ## Identifizieren des Rechenzentrums/Pods {#identify}
 
-Bevor Sie sich die folgenden Tabellen ansehen, [&#x200B; Sie (Erfahren Sie, wie Sie &#x200B;](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify), in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
+Bevor Sie sich die folgenden Tabellen ansehen, [ Sie (Erfahren Sie, wie Sie ](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify), in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
 
 ## Zeitplan {#schedule}
 
@@ -195,12 +195,9 @@ Es werden regelmäßig neue Daten und Daten zum Rechenzentrum/Pod hinzugefügt o
   </tr>
   <tr>
    <td>10. September 2026</td>
-   <td>AB03<br>
-   AB04</td>
-   <td>17:00 PDT<br>
-   18:00 PDT</td>
-   <td>Planmäßig<br>
-   Planmäßig</td>
+   <td>AB03</td>
+   <td>17:00 PDT</td>
+   <td>Planmäßig</td>
   </tr>
   <tr>
    <td>15. September 2026</td>
@@ -250,7 +247,7 @@ Arbeiten Sie je nach Rechenzentrum mit Ihrer IT-Abteilung zusammen, um die entsp
 
 ## Updates und Support {#support}
 
-Setzen Sie ein Lesezeichen für diese Seite, um die neuesten Aktualisierungen zu erhalten. Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/de/support){target="_blank"}.
+Setzen Sie ein Lesezeichen für diese Seite, um die neuesten Aktualisierungen zu erhalten. Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Häufig gestellte Fragen {#faq}
 
