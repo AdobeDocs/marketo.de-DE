@@ -8,9 +8,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b85314d3e3117a0a4ddd45fa6ebf15963566e716
 workflow-type: tm+mt
-source-wordcount: 299
+source-wordcount: 324
 ht-degree: 0%
 
 ---
@@ -65,7 +65,9 @@ Gestalten Sie die Konversation mit Marketo Engage Forms durch Integration mit Dy
 
    >[!NOTE]
    >
-   >Auf „alle“ gesetzte Kriterienlogik bedeutet, dass jedes Attribut erfüllt sein muss, um qualifiziert zu werden. Mit „any“ festgelegte Kriterienlogik bedeutet, dass eines der Attribute ausreicht.
+   >* Auf „alle“ gesetzte Kriterienlogik bedeutet, dass jedes Attribut erfüllt sein muss, um qualifiziert zu werden. Mit „any“ festgelegte Kriterienlogik bedeutet, dass eines der Attribute ausreicht.
+   >
+   >* Bei „Mitgliedern von Smart-Listen“ stellen die Werte in der Dropdown-Liste alle Smart-Listen dar, die Teil eines Programms sind. Sie werden als `<program name>.<smart list name>` angezeigt.
 
    **OPTIONALER SCHRITT**: Wenn Sie zwei oder mehr Auswahlmöglichkeiten hinzufügen, können Sie diese durch Klicken auf die Pfeile nach oben/unten neu anordnen.
 

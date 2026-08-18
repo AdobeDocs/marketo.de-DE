@@ -2,7 +2,7 @@
 description: Juli 2026 - Versionshinweise zu Marketo - Produktdokumentation
 title: Juli 2026 - Versionshinweise
 feature: Release Information
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 19%
@@ -68,8 +68,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tbody>
 </table>
 <br/>
-
-
 
 ## Ankündigungen {#announcements}
 
