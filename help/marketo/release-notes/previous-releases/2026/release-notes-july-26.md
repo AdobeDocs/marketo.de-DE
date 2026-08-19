@@ -2,9 +2,9 @@
 description: Juli 2026 - Versionshinweise zu Marketo - Produktdokumentation
 title: Juli 2026 - Versionshinweise
 feature: Release Information
-source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
+source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '503'
 ht-degree: 19%
 
 ---
@@ -60,7 +60,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-Mail-Designer - Kontextmenü für Inhalte generieren</strong>: Die Funktionen zum Generieren von Inhalten in der E-Mail-Designer können jetzt über das Kontextmenü (den schwarzen Balken) aufgerufen werden. Wenn Sie beispielsweise Textinhalte auswählen, wird im Kontextmenü das Symbol Inhalt generieren angezeigt, über das Sie Schnellaktionen ausführen können.</td>
+   <td><strong>E-Mail-Designer - Kontextmenü für Inhalte generieren</strong>: Die Funktionen zum Generieren von Inhalten in der E-Mail-Designer können jetzt über das Kontextmenü (den schwarzen Balken) aufgerufen werden. Wenn Sie beispielsweise Textinhalte auswählen, wird im Kontextmenü das Symbol Inhalt generieren angezeigt, über das Sie Schnellaktionen durchführen können.</td>
    <td><i>Demnächst</i></td>
 <td><i>Demnächst</i></td>
   </tr>
