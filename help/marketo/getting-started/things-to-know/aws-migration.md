@@ -3,9 +3,9 @@ description: AWS-Migration - Marketo Engage-Dokumente - Produktdokumentation
 title: AWS-Migration
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: d5768261c9bb659ef96b73c46a9e078f953d8ed6
+source-git-commit: 3b6dbef83c5ac1f764d573f96d88dd0dfb388acc
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '825'
 ht-degree: 4%
 
 ---
@@ -152,19 +152,13 @@ Es werden regelmäßig neue Daten und Daten zum Rechenzentrum/Pod hinzugefügt o
    <td>Abgeschlossen</td>
   </tr>
   <tr>
-  <td>18. August 2026</td>
-   <td><i>AB39</i></td>
-   <td><i>17:00 PDT</i></td>
-   <td><i>Zurückgestellt (Datum wird noch bekannt gegeben)</i></td>
-  </tr>
-  <tr>
    <td>20. August 2026</td>
    <td>AB42<br>
-   AB44</td>
+   <i>AB44</i></td>
    <td>17:00 PDT<br>
-   18:00 PDT</td>
+   <i>18:00 PDT</i></td>
    <td>Planmäßig<br>
-   Planmäßig</td>
+   <i>Zurückgestellt (Datum wird noch bekannt gegeben)</i></td>
   </tr>
   <tr>
    <td>26. August 2026</td>
