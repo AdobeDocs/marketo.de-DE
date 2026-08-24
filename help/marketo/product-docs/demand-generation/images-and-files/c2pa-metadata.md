@@ -3,9 +3,9 @@ description: Erfahren Sie, wie C2PA-Metadaten automatisch an KI-generierte Bilde
 title: C2PA-Metadaten in Marketo Engage
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
+source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '698'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ In der folgenden Tabelle wird basierend auf der Bildaktion, die bei der Bildgene
 
 | Aktion | Beschreibung | C2PA-Metadaten angehängt? | Anwendungsbeispiel |
 |---|---|---|---|
-| **Bild erstellen** | Erstellen Sie ein neues Bild aus einer Textaufforderung, aus einem Referenzbild oder generieren Sie ein ähnliches Bild. | Immer. Das Bild wird durch generative KI generiert, sodass es immer neue C2PA-Metadaten enthält. | Aus einer Textaufforderung, die das gewünschte visuelle Element beschreibt, wird ein Bannerbild für eine E-Mail-Kampagne generiert. |
+| **Verwenden des Tools „Bild generieren“** | Erstellen Sie ein neues Bild aus einer Textaufforderung, aus einem Referenzbild oder generieren Sie ein ähnliches Bild. | Immer. Das Bild wird durch generative KI generiert, sodass es immer neue C2PA-Metadaten enthält. | Aus einer Textaufforderung, die das gewünschte visuelle Element beschreibt, wird ein Bannerbild für eine E-Mail-Kampagne generiert. |
 | **Beschneiden eines Bildes** | Passen Sie ein Bild an die gewünschten Abmessungen an. | Nur wenn das Quellbild bereits C2PA-Metadaten enthielt. Beim Zuschneiden werden die Pixel des Bildes neu erstellt, die normalerweise diese C2PA-Metadaten löschen würden. Daher liest Marketo Engage sie vor dem Zuschneiden aus dem Quellbild, erstellt sie dann neu und fügt sie erneut an das zugeschnittene Ergebnis an. Beim Zuschneiden selbst wird keine neue generative KI-Aktion hinzugefügt, sondern die vorhandene beibehalten. | Ein generiertes Bannerbild wird zugeschnitten, damit es in eine Web-Seite passt: Die C2PA-Metadaten werden durch den Zuschnitt beibehalten. Ein hochgeladenes Stockfoto, das als Hintergrund für eine Push-Benachrichtigung verwendet wird, wird dem Bildschirm zugeordnet: Da das Stockfoto keine generative KI-Aktion aufweist, werden keine C2PA-Metadaten erstellt. |
 | **Hinzufügen einer Textüberlagerung** | Generierten Text über einem Hintergrundbild rendern | Nur wenn das Hintergrundbild bereits C2PA-Metadaten enthielt. Beim Rendern der Überlagerung wird ein neues Bild aus dem Hintergrund plus Text erstellt, der diese C2PA-Metadaten normalerweise löscht. Daher liest Marketo Engage es zuvor aus dem Hintergrundbild, erstellt es dann neu und fügt es erneut an das Ergebnis an. Der Überlagerungsschritt fügt keine neue generative KI-Aktion hinzu. | Eine Werbe-Überschrift wird als Textüberlagerung auf einem generierten Hintergrundbild für eine Landingpage gerendert: Die C2PA-Metadaten aus dem Hintergrundbild werden beibehalten. |
 
@@ -47,4 +47,4 @@ Marketo Engage behält C2PA-Metadaten bei, die mit unterstützten Bild-Assets ve
 ## Zusätzliche Ressourcen
 
 * [Benutzerrichtlinien für die generative KI von Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [Leitlinien und Einschränkungen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [Leitlinien und Einschränkungen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
