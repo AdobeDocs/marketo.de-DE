@@ -2,7 +2,7 @@
 description: Erkunden Sie die Marketo AI-Suite von Agenten, die Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr automatisieren.
 title: Marketo AI - Übersicht
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 13a4d86a8f99417431a834bcddf52bbdd42b303f
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Klicken Sie auf Ihrem Bildschirm „Mein Marketo&quot; auf die Kachel **Marketo 
 
 ![](assets/overview-1.png)
 
-Geben Sie Ihre Anfrage in das Feld Eingabeaufforderung ein oder wählen Sie einen der unten aufgeführten Agenten aus.
+Geben Sie Ihre Anfrage in das Feld Eingabeaufforderung ein oder wählen Sie eine der unten aufgeführten Fähigkeiten.
 
 ![](assets/overview-2.png)
 
