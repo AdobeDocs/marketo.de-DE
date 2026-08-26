@@ -4,7 +4,7 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 9976bffe8ac2fac804cc1e1e5a95088622334bdf
+source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
 workflow-type: tm+mt
 source-wordcount: '8927'
 ht-degree: 96%
@@ -765,7 +765,7 @@ ht-degree: 96%
       + {hide-from-toc}[Neues Dokument zum Hinzufügen von Bildern](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [Hinzufügen von Bildern und Dateien zu Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
       + {hide-from-toc}[Bearbeiten von Assets mit Adobe Express](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
-      + {hide-from-toc}[C2PA-Metadaten in Marketo Engage](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
+      + [C2PA-Metadaten in Marketo Engage](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
       + [Löschen von hochgeladenen Bildern oder Dateien](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [Suchen der URL eines hochgeladenen Bilds oder einer hochgeladenen Datei](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [Abrufen der Bilder von einer Web-Seite](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
@@ -1123,7 +1123,7 @@ ht-degree: 96%
       + [Leads untersuchen](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Leads importieren](product-docs/marketo-ai/skills/import-leads.md)
       + [Programme validieren](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo-Benachrichtigungen {#marketo-notifications}
     + {hide-from-toc}[Benachrichtigung: WebSocket-Verbindung](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1923,7 +1923,7 @@ ht-degree: 96%
   + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
   + [Frühere Versionen](release-notes/previous-releases.md)
-  + {hide-from-toc}Frühere Versionen  {#previous-releases}
+  + Frühere Versionen {hide-from-toc} {#previous-releases}
     + 2026 {#2026}
       + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
