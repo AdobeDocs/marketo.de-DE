@@ -2,10 +2,10 @@
 description: Mai 2026 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2026 - Versionshinweise
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
@@ -27,10 +27,10 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>Marketo-KI</strong>: Nutzen Sie eine Suite von Agenten, die zur Automatisierung zeitaufwendiger, aber wichtiger Marketing-Funktionen entwickelt wurden (zwei Agenten sind jetzt verfügbar, weitere in Kürze verfügbar).
+   <td><strong>Marketo-KI</strong>: Nutzen Sie eine Reihe von Agentenkompetenzen, die zur Automatisierung zeitaufwendiger, aber wichtiger Marketing-Funktionen entwickelt wurden (zwei Agentenkompetenzen sind jetzt verfügbar, weitere in Kürze verfügbar).
 </td>
    <td>Offene Betaversion</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Übersicht über Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Übersicht über Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -40,7 +40,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Marketo Engage MCP-Server</strong>: Der Marketo Engage MCP-Server fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage. Es stellt mehr als 100 Vorgänge in Formularen, Programmen, intelligenten Kampagnen, Personen/Leads, E-Mails, Snippets, Listen und Ordnern bereit.</td>
    <td>Offene Betaversion</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de" target="_blank">Marketo MCP-Server</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP-Server</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Wird getippt</strong>: Sowohl der Besucher als auch der Agent sehen jetzt eine Benachrichtigung „Wird getippt…“, während der andere Partei tippt, was verhindert, dass der eine die andere unterbricht.
+   <td><strong>Dynamic Chat - Wird eingegeben</strong>: Sowohl der Besucher als auch der Agent sehen jetzt ein „Wird eingegeben…“ Benachrichtigung, während die andere Partei tippt, sodass die eine die andere nicht unterbrechen kann.
    </td>
    <td>Freigegeben</td>
    <td>Nicht zutreffend</td>
@@ -123,7 +123,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 Anfang dieses Jahres wurden die verwandten Felder, die zurückgelassen worden waren, aus Marketo entfernt. Bald darauf gaben API-Anfragen, die auf bestimmte Lead-Felder im Zusammenhang mit Social verweisen, den Fehler „Feld nicht gefunden“ zurück, was zu Unterbrechungen führte. Der Service wurde wiederhergestellt, nachdem die betroffenen Felder erneut verfügbar gemacht wurden. Um weitere Störungen zu vermeiden, hat Marketo Social-Media-Felder dauerhaft von der Einstellung der Social-Media-Funktionen entkoppelt (und ist daher in Ihrem Marketo-Konto verfügbar). Benutzerinnen und Benutzer werden ermutigt, API-Abfragen und -Integrationen zu überprüfen, die auf Marketo Social-bezogene Felder verweisen, und festzustellen, ob diese Felder für laufende Geschäftsprozesse weiterhin erforderlich sind.
 
-* **API-Zusammenführungsfunktion für boolesche Felder**: Das Verhalten von booleschen Feldern bei einer API-Zusammenführung hat sich in der Version vom 26. März geändert. Jetzt wird ein Wert „False“ korrekt als Wert für dieses Feld behandelt. Nur ein Nullwert wird bei der Auswertung widersprüchlicher Felder als „leer“ behandelt. Siehe [diesen Community-Beitrag](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=de){target="_blank"} für weitere Details.
+* **API-Zusammenführungsfunktion für boolesche Felder**: Das Verhalten von booleschen Feldern bei einer API-Zusammenführung hat sich in der Version vom 26. März geändert. Jetzt wird ein Wert „False“ korrekt als Wert für dieses Feld behandelt. Nur ein Nullwert wird bei der Auswertung widersprüchlicher Felder als „leer“ behandelt. Siehe [diesen Community-Beitrag](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} für weitere Details.
 
 * **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. August 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
@@ -131,4 +131,4 @@ Anfang dieses Jahres wurden die verwandten Felder, die zurückgelassen worden wa
 
 * **Einstellung der SOAP-**: Die Unterstützung für die Marketo SOAP-API endet am 31. Juli 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
 
-* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 geben Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ und „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, einen 1003-Fehler-Code zurück, wenn die statische Zielliste 10.000 oder mehr Leads enthält. Weitere Informationen finden Sie [&#x200B; „Migrationshandbuch](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
+* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 geben Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ und „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, einen 1003-Fehler-Code zurück, wenn die statische Zielliste 10.000 oder mehr Leads enthält. Weitere Informationen finden Sie [ „Migrationshandbuch](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
