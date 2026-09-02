@@ -1,16 +1,16 @@
 ---
 description: Erfahren Sie mehr über die Coworker for Marketo Engage-Suite von Agenten, die Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr automatisieren können.
 title: Übersicht über die Zusammenarbeit für Marketo Engage
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 1%
 
 ---
 
 # Übersicht über die Zusammenarbeit für Marketo Engage {#overview}
 
-Coworker for Marketo Engage bietet Agentenfähigkeiten, mit denen zeitaufwendige, aber wichtige Marketing-Funktionen automatisiert werden können.
+Coworker for Marketo Engage (früher Marketo AI) bietet Agentenfähigkeiten, mit denen zeitaufwendige, aber wichtige Marketing-Funktionen automatisiert werden können.
 
 >[!AVAILABILITY]
 >
@@ -18,9 +18,9 @@ Coworker for Marketo Engage bietet Agentenfähigkeiten, mit denen zeitaufwendige
 
 >[!IMPORTANT]
 >
->* Nachdem Coworker for Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, &#x200B;](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
+>* Nachdem Coworker for Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, ](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
 >
->* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die Überlegungen zu personenbezogenen Daten im [&#x200B; für Marketo Engage &#x200B;](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
+>* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die Überlegungen zu personenbezogenen Daten im [ für Marketo Engage ](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
 ## Zugriff {#access}
 
@@ -38,7 +38,7 @@ Die Center Console verfügt über eine wachsende Anzahl von Agentenkenntnissen, 
 
 ### Leads untersuchen {#investigate-leads}
 
-Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
+Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads ](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
 
 ### Produktkenntnisse {#product-knowledge}
 
@@ -62,4 +62,4 @@ Weitere Agenten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben en
 
 >[!MORELIKETHIS]
 >
->Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
+>Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
