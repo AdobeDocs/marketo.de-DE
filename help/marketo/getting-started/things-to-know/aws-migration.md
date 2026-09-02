@@ -3,7 +3,7 @@ description: AWS-Migration - Marketo Engage-Dokumente - Produktdokumentation
 title: AWS-Migration
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b045a92925884a5124727f0a51dc8f09a3942aec
+source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 5%
@@ -128,6 +128,8 @@ Es werden regelmäßig neue Daten und Daten zum Rechenzentrum/Pod hinzugefügt o
 
 +++
 
++++Augustplan
+
 <table>
  <tbody>
   <tr>
@@ -153,12 +155,9 @@ Es werden regelmäßig neue Daten und Daten zum Rechenzentrum/Pod hinzugefügt o
   </tr>
   <tr>
    <td>20. August 2026</td>
-   <td>AB42<br>
-   <i>AB44</i></td>
-   <td>17:00 PDT<br>
-   <i>18:00 PDT</i></td>
-   <td>Abgeschlossen<br>
-   <i>Zurückgestellt (Datum wird noch bekannt gegeben)</i></td>
+   <td>AB42</td>
+   <td>17:00 PDT</td>
+   <td>Abgeschlossen</td>
   </tr>
   <tr>
    <td>26. August 2026</td>
@@ -176,7 +175,20 @@ Es werden regelmäßig neue Daten und Daten zum Rechenzentrum/Pod hinzugefügt o
    <td><i>15:00 PDT</i><br>
    16:00 PDT</td>
    <td><i>Zurückgestellt (Datum wird noch bekannt gegeben)</i><br>
-   Planmäßig</td>
+   Abgeschlossen</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Datum</th>
+   <th style="width:25%">Rechenzentrum/Pod</th>
+   <th style="width:25%">Uhrzeit</th>
+   <th style="width:25%">Status</th>
   </tr>
   <tr>
    <td>8. September 2026</td>

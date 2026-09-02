@@ -4,10 +4,10 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
+source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
 workflow-type: tm+mt
-source-wordcount: '8927'
-ht-degree: 96%
+source-wordcount: '8968'
+ht-degree: 95%
 
 ---
 
@@ -486,6 +486,19 @@ ht-degree: 96%
       + [Erste Schritte mit prädiktiven Zielgruppen](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [Modelle und Erkenntnisse](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [Vorhersagefilter](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+  + Mitarbeiter für Marketo Engage {#coworker-for-marketo}
+    + {hide-from-toc}[Übersicht](product-docs/coworker-for-marketo/overview.md)
+    + {hide-from-toc}[Einstellungen und Setup](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc}[Datenblatt für Coworker for Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
+    + Skills {#skills}
+      + {hide-from-toc}[Produktkenntnisse](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[Surface-Einblicke](product-docs/coworker-for-marketo/skills/surface-insights.md)
+      + {hide-from-toc}[Erstellen von Programmen](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[Programm klonen](product-docs/coworker-for-marketo/skills/clone-program.md)
+      + {hide-from-toc}[Prüfen von Leads](product-docs/coworker-for-marketo/skills/investigate-leads.md)
+      + {hide-from-toc}[Leads importieren](product-docs/coworker-for-marketo/skills/import-leads.md)
+      + {hide-from-toc}[Programme validieren](product-docs/coworker-for-marketo/skills/validate-programs.md)
+    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mcp-server)
   + CRM-Synchronisierung {#crm-sync}
     + Microsoft Dynamics-Synchronisierung {#microsoft-dynamics}
       + [Grundlegendes zur Synchronisierung mit Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
