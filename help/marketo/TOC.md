@@ -4,9 +4,9 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 714e57ba66fb5bab0a871f70950b88e474d1b818
+source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
 workflow-type: tm+mt
-source-wordcount: '8957'
+source-wordcount: '8931'
 ht-degree: 96%
 
 ---
@@ -498,7 +498,7 @@ ht-degree: 96%
       + [Leads untersuchen](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Leads importieren](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Programme validieren](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM-Synchronisierung {#crm-sync}
     + Microsoft Dynamics-Synchronisierung {#microsoft-dynamics}
       + [Grundlegendes zur Synchronisierung mit Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1124,18 +1124,6 @@ ht-degree: 96%
         + [Verwenden des Tokens „Alarminfo senden“](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
         + [Verwenden von URLs in „Meine Token“](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [E-Mail CC](product-docs/email-marketing/general/email-cc.md)
-  + Marketo AI {#marketo-ai}
-    + {hide-from-toc}[Übersicht](product-docs/marketo-ai/overview.md)
-    + {hide-from-toc}[Einstellungen und Setup](product-docs/marketo-ai/settings-setup.md)
-    + {hide-from-toc}[Marketo AI-Datenblatt](product-docs/marketo-ai/data-information.md)
-    + Skills {#skills}
-      + {hide-from-toc}[Produktkenntnisse](product-docs/marketo-ai/skills/product-knowledge.md)
-      + {hide-from-toc}[Surface-Einblicke](product-docs/marketo-ai/skills/surface-insights.md)
-      + {hide-from-toc}[Erstellen von Programmen](product-docs/marketo-ai/skills/build-programs.md)
-      + {hide-from-toc}[Programm klonen](product-docs/marketo-ai/skills/clone-program.md)
-      + {hide-from-toc}[Prüfen von Leads](product-docs/marketo-ai/skills/investigate-leads.md)
-      + {hide-from-toc}[Leads importieren](product-docs/marketo-ai/skills/import-leads.md)
-      + {hide-from-toc}[Programme validieren](product-docs/marketo-ai/skills/validate-programs.md)
   + Marketo-Benachrichtigungen {#marketo-notifications}
     + {hide-from-toc}[Benachrichtigung: WebSocket-Verbindung](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1935,7 +1923,7 @@ ht-degree: 96%
   + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
   + [Frühere Versionen](release-notes/previous-releases.md)
-  + {hide-from-toc}Frühere Versionen  {#previous-releases}
+  + Frühere Versionen {hide-from-toc} {#previous-releases}
     + 2026 {#2026}
       + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
