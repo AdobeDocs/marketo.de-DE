@@ -2,10 +2,10 @@
 description: Mai 2026 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2026 - Versionshinweise
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
@@ -27,10 +27,10 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>Marketo-KI</strong>: Nutzen Sie eine Suite von Agenten, die zur Automatisierung zeitaufwendiger, aber wichtiger Marketing-Funktionen entwickelt wurden (zwei Agenten sind jetzt verfügbar, weitere in Kürze verfügbar).
+   <td><strong>Marketo-KI</strong>: Nutzen Sie eine Reihe von Agentenkompetenzen, die zur Automatisierung zeitaufwendiger, aber wichtiger Marketing-Funktionen entwickelt wurden (zwei Agentenkompetenzen sind jetzt verfügbar, weitere in Kürze verfügbar).
 </td>
    <td>Offene Betaversion</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Übersicht über Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Übersicht über Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Wird getippt</strong>: Sowohl der Besucher als auch der Agent sehen jetzt eine Benachrichtigung „Wird getippt…“, während der andere Partei tippt, was verhindert, dass der eine die andere unterbricht.
+   <td><strong>Dynamic Chat - Wird eingegeben</strong>: Sowohl der Besucher als auch der Agent sehen jetzt ein „Wird eingegeben…“ Benachrichtigung, während die andere Partei tippt, sodass die eine die andere nicht unterbrechen kann.
    </td>
    <td>Freigegeben</td>
    <td>Nicht zutreffend</td>

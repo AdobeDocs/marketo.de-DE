@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 618fe38fae7621ecf72aab8ec09fc345aba23358
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 21%
+source-wordcount: 477
+ht-degree: 19%
 
 ---
 
@@ -52,18 +52,18 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Script Builder</strong>: Script Builder ist ein KI-basierter Assistent, der Ihnen hilft, Personalisierungsskripte schneller zu erstellen.
-</td>
-   <td><i>Demnächst</i></td>
-   <td><i>Demnächst</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
    <td><strong>Kampagnen im Archiv deaktivieren</strong>: Durch die Archivierung eines Ordners werden jetzt alle Kampagnen in diesem Ordnerbaum deaktiviert und gekündigt, sodass archivierte Smart-Kampagnen nicht unerwartet ausgeführt werden.
+</td>
+   <td>Freigegeben</td>
+   <td>Nicht zutreffend</td>
+  </tr>
+    <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Script Builder</strong>: Script Builder ist ein KI-basierter Assistent, der Ihnen hilft, Personalisierungsskripte schneller zu erstellen.
 </td>
    <td><i>Demnächst</i></td>
    <td><i>Demnächst</i></td>
@@ -73,6 +73,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 <br/>
 
 ## Ankündigungen {#announcements}
+
+* **Marketo AI ist jetzt ein Mitarbeiter für Marketo Engage**: Ein Mitarbeiter für Marketo Engage bietet Agentenfähigkeiten, die darauf ausgelegt sind, zeitaufwendige Marketing-Funktionen zu automatisieren. Neuer Name, gleiche Funktionen, für alle Benutzer verfügbar. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. August 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
