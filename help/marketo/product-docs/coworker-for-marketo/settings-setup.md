@@ -1,9 +1,9 @@
 ---
 description: Erfahren Sie, wie Sie Berechtigungen für Coworker for Marketo Engage aktivieren, Organisationsregeln konfigurieren und Einstellungen wie Integrationen und Benachrichtigungen verwalten.
 title: Einstellungen und Setup
-source-git-commit: 73a09b315526dda5bd4d53646a17141a16943218
+source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '585'
 ht-degree: 3%
 
 ---
@@ -16,17 +16,13 @@ Erfahren Sie, wie Sie Berechtigungen aktivieren und den Bereich Einstellungen ve
 >
 >Diese Funktion steht allen Abonnements zur Verfügung. Wenn die Kachel „Mitarbeiter für Marketo Engage&quot; auf Ihrem Bildschirm „Mein Marketo&quot; nicht angezeigt wird, wenden Sie sich an Ihren Kundenbetreuer. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
 
->[!IMPORTANT]
->
->Diese Funktion wurde früher als Marketo AI bezeichnet. Die Namen der Berechtigungen und Benutzerrollen wurden noch nicht aktualisiert und werden in einer zukünftigen Version geändert. Bis dahin wird der vorherige Name weiterhin im Abschnitt Admin angezeigt.
-
 ## Berechtigungen und Rollen {#permission-and-role}
 
-Es gibt eine Berechtigung _Zugriff auf Marketo AI_ und eine _Marketo AI-_, die Admins eine größere Kontrolle darüber gibt, welche Benutzenden auf die **Marketo AI**-Funktion zugreifen können. Die Berechtigung wird auf Rollenebene zugewiesen. Für die Rolle _Marketo AI-_ ist die _Zugriff auf Marketo AI_ standardmäßig aktiviert.
+Es gibt eine Berechtigung _Zugriffskollege für Marketo Engage_ und eine Rolle _Mitarbeiter für Marketo Engage-Benutzer_, die Admins größere Kontrolle darüber gibt, welche Benutzenden auf die Funktion **Mitarbeiter für Marketo Engage** zugreifen können. Die Berechtigung wird auf Rollenebene zugewiesen. Die Rolle _Mitarbeiter für Marketo Engage-Benutzer_ verfügt standardmäßig über die Berechtigung _Zugriff auf Mitarbeiter für Marketo Engage_ .
 
 >[!NOTE]
 >
->Die _Zugriff auf Marketo AI_-Berechtigung ist nicht standardmäßig für alle Rollen aktiviert. Weitere Informationen finden Sie in der folgenden Tabelle.
+>Die Berechtigung _Zugriff auf Mitarbeiter für Marketo Engage_ ist nicht standardmäßig für alle Rollen aktiviert. Weitere Informationen finden Sie in der folgenden Tabelle.
 
 | Rolle | Standardstatus |
 | --- | --- |
@@ -34,12 +30,12 @@ Es gibt eine Berechtigung _Zugriff auf Marketo AI_ und eine _Marketo AI-_, die A
 | Adobe-Produktadministrator | Aktiviert |
 | Marketingbenutzer | Deaktiviert |
 | Standardbenutzer | Nicht verfügbar |
-| Marketo AI-Benutzer | Aktiviert |
+| Mitarbeiter für Marketo Engage-Benutzer | Aktiviert |
 | Benutzerdefinierte Rollen | Deaktiviert |
 
-### Zugriff auf Marketo AI {#access-marketo-ai-permission}
+### Berechtigung „Zugriff auf Mitarbeiter für Marketo Engage&quot; {#access-coworker-marketo-permission}
 
-Gehen Sie wie folgt vor, um _Zugriff auf Marketo AI_ für qualifizierte Rollen zu aktivieren, für die er noch nicht aktiviert ist.
+Gehen Sie wie folgt vor, um _Access Coworker for Marketo Engage_ für qualifizierte Rollen zu aktivieren, für die er noch nicht aktiviert ist.
 
 1. Klicken Sie in „Meine Marketo **auf &quot;**&quot; und dann **Benutzer und Rollen**.
 
@@ -49,21 +45,21 @@ Gehen Sie wie folgt vor, um _Zugriff auf Marketo AI_ für qualifizierte Rollen z
 
    ![](assets/settings-setup-2.png)
 
-1. Scrollen Sie nach unten, aktivieren Sie das Kontrollkästchen _Zugriff auf Marketo AI_ und klicken Sie auf **Speichern**.
+1. Scrollen Sie nach unten, aktivieren Sie das Kontrollkästchen _Access Coworker for Marketo Engage_ und klicken Sie auf **Speichern**.
 
    ![](assets/settings-setup-3.png)
 
    >[!NOTE]
    >
-   >Sie können die gleichen Schritte zum Entfernen der Berechtigung ausführen, indem Sie **Kontrollkästchen** Zugriff auf _Marketo AI_ deaktivieren.
+   >Sie können mit denselben Schritten die Berechtigung entfernen, indem Sie **Kontrollkästchen** Zugriff auf _für Marketo Engage_ deaktivieren.
 
-### Marketo AI-Benutzerrolle {#marketo-ai-user-role}
+### Mitarbeiter für Marketo Engage-Benutzerrolle {#coworker-marketo-user-role}
 
-Führen Sie diese Schritte aus, um der Rolle _Marketo AI User_ einen bestimmten Benutzer zuzuweisen.
+Führen Sie diese Schritte aus, um der Rolle _Mitarbeiter für Marketo Engage-Benutzer“ einen bestimmten_ zuzuweisen.
 
 >[!NOTE]
 >
->Diese Rolle **nur** enthält die Berechtigung _Zugriff auf Marketo AI_.
+>Diese Rolle **nur** enthält die Berechtigung _Zugriff auf Mitarbeiter für Marketo Engage_.
 
 1. Klicken Sie in „Meine Marketo **auf &quot;**&quot; und dann **Benutzer und Rollen**.
 
@@ -73,13 +69,13 @@ Führen Sie diese Schritte aus, um der Rolle _Marketo AI User_ einen bestimmten 
 
    ![](assets/settings-setup-5.png)
 
-1. Aktivieren _unter „Rollen und_&quot; das Kontrollkästchen _Marketo AI-_. Wenn Sie über mehr als einen Arbeitsbereich verfügen, können Sie in der Dropdown-Liste **+** festlegen, welche Arbeitsbereiche Zugriff erhalten sollen. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
+1. Aktivieren _in „Rollen_ Arbeitsbereiche“ das Kontrollkästchen _Mitarbeiter für Marketo Engage-_&quot;. Wenn Sie über mehr als einen Arbeitsbereich verfügen, können Sie in der Dropdown-Liste **+** festlegen, welche Arbeitsbereiche Zugriff erhalten sollen. Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
    ![](assets/settings-setup-6.png)
 
 ### Benutzerdefinierte Rolle {#custom-role}
 
-Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, indem Sie _Zugriff auf Marketo AI_ und alles andere hinzufügen, was Sie möchten, und [diese Rolle &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
+Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} ihre Berechtigungen anzupassen, indem Sie _Access Coworker for Marketo Engage_ und alles andere hinzufügen, was Sie möchten, und [diese Rolle ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} bestimmten Benutzern zuweisen.
 
 ## Einstellungen {#settings}
 
@@ -93,7 +89,7 @@ Sie haben auch die Möglichkeit, [eine neue Rolle zu erstellen](https://experien
 
 ### Verbindung {#connection}
 
-Diese Registerkarte enthält keine bearbeitbaren Felder. Es werden Kontoinformationen wie Ihre Munchkin ID und Ihre IMS-Organisation angezeigt.
+Diese Registerkarte enthält keine bearbeitbaren Felder. Es werden Kontoinformationen wie Ihre Munchkin ID und IMS-Organisation angezeigt.
 
 ![](assets/settings-setup-9.png)
 
