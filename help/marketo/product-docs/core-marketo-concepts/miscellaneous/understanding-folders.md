@@ -4,16 +4,11 @@ description: Erfahren Sie mehr über Ordner in Programmen zum Organisieren von S
 title: Grundlegendes zu Ordnern
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 TQID: https://experienceleague.adobe.com/wAE129LK3Pk-CB5SSQqqSV50ng085soYsm4JHfh0CuI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: 7c035bd266b25d19ab7406ca989e8fc9f13126b9
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 428
+source-wordcount: 427
 ht-degree: 1%
 
 ---
@@ -30,11 +25,11 @@ Ordner in einem Programm können zum Organisieren von Smart-Kampagnen und Assets
 
 1. Klicken Sie mit der rechten Maustaste auf ein Programm und wählen Sie **[!UICONTROL Neuer Ordner]**.
 
-   ![](assets/image2015-4-20-18-3a45-3a14.png)
+   ![](assets/image2015-4-20-18-3a45-3a14.png){width="600" zoomable="yes"}
 
 1. Benennen Sie den neuen Ordner und drücken Sie die **[!UICONTROL Eingabetaste]**.
 
-   ![](assets/image2015-4-20-18-3a46-3a57.png)
+   ![](assets/image2015-4-20-18-3a46-3a57.png){width="600" zoomable="yes"}
 
 Der neue Ordner ist jetzt für Ihre lokalen Assets bereit.
 
@@ -42,11 +37,11 @@ Der neue Ordner ist jetzt für Ihre lokalen Assets bereit.
 
 1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner umbenennen]**.
 
-   ![](assets/image2015-4-20-18-3a49-3a10.png)
+   ![](assets/image2015-4-20-18-3a49-3a10.png){width="600" zoomable="yes"}
 
 1. Geben Sie einen neuen Namen ein und drücken Sie die **[!UICONTROL Eingabetaste]**.
 
-   ![](assets/image2015-4-20-18-3a52-3a30.png)
+   ![](assets/image2015-4-20-18-3a52-3a30.png){width="600" zoomable="yes"}
 
 ## Löschen eines Ordners {#delete-a-folder}
 
@@ -56,13 +51,13 @@ Der neue Ordner ist jetzt für Ihre lokalen Assets bereit.
 
 1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner löschen]**.
 
-   ![](assets/image2015-4-20-18-3a55-3a51.png)
+   ![](assets/image2015-4-20-18-3a55-3a51.png){width="600" zoomable="yes"}
 
 ## Ordner archivieren {#archive-a-folder}
 
 In Marketo haben Sie die Möglichkeit, vorhandene Ordner in Archivordner zu konvertieren. Archivordner sind in [!UICONTROL Marketing-Aktivitäten], [!UICONTROL Datenbank] und [!UICONTROL Design Studio] vorhanden.
 
-![](assets/image2015-4-20-19-3a3-3a46.png)
+![](assets/image2015-4-20-19-3a3-3a46.png){width="600" zoomable="yes"}
 
 Beim Archivieren eines Ordners:
 
@@ -76,7 +71,7 @@ Funktionalität, die sich bei **Archivierung** ändert:
 * Die globale Suche findet weiterhin Ergebnisse in archivierten Ordnern
 * Sie können einen Filter verwenden, um archivierte Assets zur Verwendung in Berichten auszuwählen
 
-### Smart Campaign bei Archivierung deaktiviert {#disable-smart-campaigns-archive}
+### Deaktivieren von Kampagnen im Archiv {#disable-campaigns-archive}
 
 Wenn ein Ordner oder ein Programm archiviert wird oder eine aktive Smart-Kampagne in einen bereits archivierten Ordner verschoben wird, verhindert Marketo Engage die Ausführung der betroffenen Kampagnen:
 
