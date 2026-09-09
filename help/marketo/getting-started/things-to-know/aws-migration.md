@@ -43,7 +43,7 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 >[!IMPORTANT]
 >
->Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich [&#128279;](https://experienceleague.adobe.com/en/support){target="_blank"} Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
+>Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich [&#128279;](https://experienceleague.adobe.com/de/support){target="_blank"} Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
 
 ## Identifizieren des Rechenzentrums/Pods {#identify}
 
@@ -308,9 +308,9 @@ Arbeiten Sie je nach Rechenzentrum mit Ihrer IT-Abteilung zusammen, um die entsp
 
 ## Updates und Support {#support}
 
-Die neuesten Informationen finden Sie auf dieser Seite als Lesezeichen. Um Statusaktualisierungen zu Beginn und nach Abschluss der Migration zu erhalten, aber [Sie müssen abonnieren](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} um sie zu erhalten. Besuchen Sie auch https://status.adobe.com/.
+Die neuesten Informationen finden Sie auf dieser Seite als Lesezeichen. Um Statusaktualisierungen zu Beginn und nach Abschluss der Migration zu erhalten, aber [Sie müssen abonnieren](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} um sie zu erhalten. Besuchen Sie auch https://status.adobe.com/de-de/.
 
-Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/en/support){target="_blank"}.
+Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/de/support){target="_blank"}.
 
 ## Häufig gestellte Fragen {#faq}
 
