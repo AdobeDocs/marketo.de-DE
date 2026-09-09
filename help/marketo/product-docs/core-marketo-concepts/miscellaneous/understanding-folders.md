@@ -11,10 +11,10 @@ feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 274
-ht-degree: 4%
+source-wordcount: 427
+ht-degree: 1%
 
 ---
 
@@ -30,23 +30,23 @@ Ordner in einem Programm können zum Organisieren von Smart-Kampagnen und Assets
 
 1. Klicken Sie mit der rechten Maustaste auf ein Programm und wählen Sie **[!UICONTROL Neuer Ordner]**.
 
-   ![](assets/image2015-4-20-18-3a45-3a14.png)
+   ![](assets/image2015-4-20-18-3a45-3a14.png){width="600" zoomable="yes"}
 
 1. Benennen Sie den neuen Ordner und drücken Sie die **[!UICONTROL Eingabetaste]**.
 
-   ![](assets/image2015-4-20-18-3a46-3a57.png)
+   ![](assets/image2015-4-20-18-3a46-3a57.png){width="600" zoomable="yes"}
 
 Der neue Ordner ist jetzt für Ihre lokalen Assets bereit.
 
-## Ordner umbenennen {#rename-a-folder}
+## Umbenennen eines Ordners {#rename-a-folder}
 
 1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner umbenennen]**.
 
-   ![](assets/image2015-4-20-18-3a49-3a10.png)
+   ![](assets/image2015-4-20-18-3a49-3a10.png){width="600" zoomable="yes"}
 
 1. Geben Sie einen neuen Namen ein und drücken Sie die **[!UICONTROL Eingabetaste]**.
 
-   ![](assets/image2015-4-20-18-3a52-3a30.png)
+   ![](assets/image2015-4-20-18-3a52-3a30.png){width="600" zoomable="yes"}
 
 ## Löschen eines Ordners {#delete-a-folder}
 
@@ -56,13 +56,13 @@ Der neue Ordner ist jetzt für Ihre lokalen Assets bereit.
 
 1. Klicken Sie mit der rechten Maustaste auf den Ordner und wählen Sie **[!UICONTROL Ordner löschen]**.
 
-   ![](assets/image2015-4-20-18-3a55-3a51.png)
+   ![](assets/image2015-4-20-18-3a55-3a51.png){width="600" zoomable="yes"}
 
-## Archivieren von Ordnern {#archive-a-folder}
+## Ordner archivieren {#archive-a-folder}
 
 In Marketo haben Sie die Möglichkeit, vorhandene Ordner in Archivordner zu konvertieren. Archivordner sind in [!UICONTROL Marketing-Aktivitäten], [!UICONTROL Datenbank] und [!UICONTROL Design Studio] vorhanden.
 
-![](assets/image2015-4-20-19-3a3-3a46.png)
+![](assets/image2015-4-20-19-3a3-3a46.png){width="600" zoomable="yes"}
 
 Beim Archivieren eines Ordners:
 
@@ -74,6 +74,28 @@ Beim Archivieren eines Ordners:
 Funktionalität, die sich bei **Archivierung** ändert:
 
 * Die globale Suche findet weiterhin Ergebnisse in archivierten Ordnern
-* Ein Asset, das verwendet wird, funktioniert auch nach der Archivierung weiter
 * Sie können einen Filter verwenden, um archivierte Assets zur Verwendung in Berichten auszuwählen
-* Archivierte Assets werden nicht deaktiviert. Sie müssen auch deaktiviert werden, wenn sie nicht mehr ausgeführt werden sollen
+
+### Deaktivieren von Kampagnen im Archiv {#disable-campaigns-archive}
+
+Wenn ein Ordner oder ein Programm archiviert wird oder eine aktive Smart-Kampagne in einen bereits archivierten Ordner verschoben wird, verhindert Marketo Engage die Ausführung der betroffenen Kampagnen:
+
+* **Ausgelöste Kampagnen** sind deaktiviert.
+* **Batch-Kampagnen** deren ausstehende Ausführungen abgebrochen wurden.
+* **Ausführbare Kampagnen** haben keinen Ausführungsstatus, sodass keine Aktion durchgeführt wird.
+
+**Unterstützte Aktionen**
+
+Die folgenden Aktionen deaktivieren Kampagnen:
+
+* Ziehen eines Ordners **Ordner** mit aktiven Kampagnen in einen archivierten Ordner
+* Ziehen eines (**)** Typs mit aktiven Kampagnen per Drag-and-Drop in einen archivierten Ordner
+* Ziehen einer (einzelnen **intelligenten Kampagne** in einen archivierten Ordner
+* Rechtsklick auf **Verschieben** auf einer einzelnen Smart-Kampagne in einen archivierten Ordner
+* Rechtsklick auf **Ordner verschieben** auf einen Ordner mit aktiven Kampagnen in einen archivierten Ordner
+* Rechtsklick auf **Verschieben** eines Programms mit aktiven Kampagnen in einen archivierten Ordner
+* Rechtsklick auf **Ordner** In archivierten Ordner konvertieren), um ihn an einem Ort zu archivieren, ohne ihn zu verschieben
+
+>[!NOTE]
+>
+>Wenn eine Smart-Kampagne im archivierten Ordner oder Programm an einer anderen Stelle referenziert wird (z. B. über den Flussschritt „Kampagne anfragen„), wird die Archivierung blockiert, um zu verhindern, dass die andere Kampagne beschädigt wird.
