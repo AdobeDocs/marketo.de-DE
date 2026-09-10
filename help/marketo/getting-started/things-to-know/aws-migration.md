@@ -3,9 +3,9 @@ description: AWS-Migration - Marketo Engage-Dokumente - Produktdokumentation
 title: AWS-Migration
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b631ea9780168beb763bc912f3e2f9f98d4e7fbe
+source-git-commit: 7fbd9f13355b45b03b4e1295e6c006dbfc4113e6
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '994'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 In den nächsten Monaten werden alle Marketo Engage-Abonnements von einem privaten Rechenzentrum in die öffentliche Cloud von AWS migriert, um Zuverlässigkeit, Skalierbarkeit und Geschwindigkeit zu verbessern.
 
-Etwa 30 Tage vor der Migration erhalten Sie eine E-Mail [&#x200B; eine In-App-Benachrichtigung](#identify). Verwenden Sie dieses Handbuch zur Vorbereitung.
+Etwa 30 Tage vor der Migration erhalten Sie eine E-Mail [ eine In-App-Benachrichtigung](#identify). Verwenden Sie dieses Handbuch zur Vorbereitung.
 
 ## Empfohlene Aktionen {#actions}
 
@@ -30,7 +30,7 @@ Während des Migrationsfensters sind nicht alle Marketo Engage-Services verfügb
 
 * **IP-Zulassungslisten überprüfen und aktualisieren** für Anmeldung, API-Zugriff, E-Mail-Versand, Webtracking und Integrationen.
 
-* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([&#x200B; Tabelle unten) hinzugefügt werden &#x200B;](#ip-addresses).
+* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([ Tabelle unten) hinzugefügt werden ](#ip-addresses).
 
 ## Erwartete Service-Auswirkungen {#impacts}
 
@@ -43,11 +43,11 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 >[!IMPORTANT]
 >
->Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich [&#128279;](https://experienceleague.adobe.com/de/support){target="_blank"} Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
+>Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich ](https://experienceleague.adobe.com/en/support){target="_blank"} [Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
 
 ## Identifizieren des Rechenzentrums/Pods {#identify}
 
-Bevor Sie sich den unten stehenden Zeitplan ansehen, [&#x200B; Sie (erfahren Sie, wie Sie &#x200B;](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify), in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
+Bevor Sie sich den unten stehenden Zeitplan ansehen, [ Sie (erfahren Sie, wie Sie ](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify), in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
 
 ## Zeitplan {#schedule}
 
@@ -308,9 +308,11 @@ Arbeiten Sie je nach Rechenzentrum mit Ihrer IT-Abteilung zusammen, um die entsp
 
 ## Updates und Support {#support}
 
-Die neuesten Informationen finden Sie auf dieser Seite als Lesezeichen. Um Statusaktualisierungen zu Beginn und nach Abschluss der Migration zu erhalten, [&#x200B; Sie &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}. Sie können während Ihres Migrationsfensters auch https://status.adobe.com/de-de/ besuchen.
+Die neuesten Informationen finden Sie auf dieser Seite als Lesezeichen.
 
-Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/de/support){target="_blank"}.
+Für Statusaktualisierungen können Sie [Abonnieren, um sie zu erhalten](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} zu Beginn und nach Abschluss der Migration zugreifen. Sie können [https://status.adobe.com/](https://status.adobe.com/de){target="_blank"} während Ihres Migrationsfensters auch aufrufen.
+
+Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Häufig gestellte Fragen {#faq}
 
