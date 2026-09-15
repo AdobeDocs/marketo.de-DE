@@ -1,15 +1,11 @@
 ---
 description: Verwenden Sie Coworker for Marketo Engage, um ein Marketo-Programm aus einer einfachen Sprachbeschreibung zu erstellen. Holen Sie sich intelligente Kampagnen, Zeitpläne und Asset-Platzhalter, die bereit zur Überprüfung und Verfeinerung sind.
 title: Erstellen von Programmen
-badge: Beta
-hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: f812c2f442c39883e028735ce51efe607968142b
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 1%
-
+source-wordcount: '582'
+ht-degree: 0%
 ---
-
 # Erstellen von Programmen {#build-programs}
 
 Beschreiben Sie eine Marketing-Kampagne in verständlicher Sprache. Die Programmstruktur wird von Coworker for Marketo Engage erstellt, einschließlich Asset-Platzhaltern und Zeitplan.
@@ -19,10 +15,6 @@ Beschreiben Sie eine Marketing-Kampagne in verständlicher Sprache. Die Programm
 >* Um diese Funktion nutzen zu können, müssen Sie zunächst den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
 >
 >* Sie müssen über die Berechtigung zum Erstellen von Programmen in Ihrem Marketo-Konto verfügen.
-
->[!AVAILABILITY]
->
->Diese Funktion befindet sich derzeit in der geschlossenen Beta-Phase. Bitte verbreiten Sie diese Dokumentation nicht.
 
 ## Informationen zur Verwendung {#how-to-use}
 

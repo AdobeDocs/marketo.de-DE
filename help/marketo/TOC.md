@@ -4,7 +4,7 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: f812c2f442c39883e028735ce51efe607968142b
 workflow-type: tm+mt
 source-wordcount: '8930'
 ht-degree: 96%
@@ -491,12 +491,12 @@ ht-degree: 96%
     + Skills {#skills}
       + [Produktkenntnisse](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[Surface-Einblicke](product-docs/coworker-for-marketo/skills/surface-insights.md)
-      + {hide-from-toc}[Erstellen von Programmen](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + [Erstellen von Programmen](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[Programm klonen](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [Leads untersuchen](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Leads importieren](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Programme validieren](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM-Synchronisierung {#crm-sync}
     + Microsoft Dynamics-Synchronisierung {#microsoft-dynamics}
       + [Grundlegendes zur Synchronisierung mit Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1921,7 +1921,7 @@ ht-degree: 96%
   + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
   + [Frühere Versionen](release-notes/previous-releases.md)
-  + {hide-from-toc}Frühere Versionen  {#previous-releases}
+  + Frühere Versionen {hide-from-toc} {#previous-releases}
     + 2026 {#2026}
       + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
