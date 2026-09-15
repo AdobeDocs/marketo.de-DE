@@ -4,9 +4,9 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
 workflow-type: tm+mt
-source-wordcount: '8930'
+source-wordcount: '8932'
 ht-degree: 96%
 ---
 
@@ -487,6 +487,7 @@ ht-degree: 96%
   + Mitarbeiter für Marketo Engage {#coworker-for-marketo}
     + [Übersicht](product-docs/coworker-for-marketo/overview.md)
     + [Einstellungen und Setup](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc}[Organisationsregeln](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Datenblatt für Mitarbeiter für Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Skills {#skills}
       + [Produktkenntnisse](product-docs/coworker-for-marketo/skills/product-knowledge.md)
@@ -496,7 +497,7 @@ ht-degree: 96%
       + [Leads untersuchen](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Leads importieren](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Programme validieren](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM-Synchronisierung {#crm-sync}
     + Microsoft Dynamics-Synchronisierung {#microsoft-dynamics}
       + [Grundlegendes zur Synchronisierung mit Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1921,7 +1922,7 @@ ht-degree: 96%
   + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
   + [Frühere Versionen](release-notes/previous-releases.md)
-  + {hide-from-toc}Frühere Versionen  {#previous-releases}
+  + Frühere Versionen {hide-from-toc} {#previous-releases}
     + 2026 {#2026}
       + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
