@@ -3,13 +3,11 @@ description: AWS-Migration - Marketo Engage-Dokumente - Produktdokumentation
 title: AWS-Migration
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: ae8999e3dbf4f95f470c36f675c9a4b5798b8d07
+source-git-commit: 577eb59d80224137833c30979dda2c183c04af70
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '993'
 ht-degree: 5%
-
 ---
-
 # AWS-Migration {#aws-migration}
 
 In den nächsten Monaten werden alle Marketo Engage-Abonnements von einem privaten Rechenzentrum in die öffentliche Cloud von AWS migriert, um Zuverlässigkeit, Skalierbarkeit und Geschwindigkeit zu verbessern.
@@ -215,11 +213,11 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
   <tr>
    <td>15. September 2026</td>
    <td>AB05<br>
-   AB06</td>
+   <i>AB06</i></td>
    <td>17:00 PDT<br>
-   18:00 PDT</td>
+   <i>18:00 PDT</i></td>
    <td>Planmäßig<br>
-   Planmäßig</td>
+   <i>Zurückgestellt (Datum wird noch bekannt gegeben)</i></td>
   </tr>
   <tr>
    <td>17. September 2026</td>

@@ -2,13 +2,11 @@
 description: Juli 2026 - Versionshinweise zu Marketo - Produktdokumentation
 title: Juli 2026 - Versionshinweise
 feature: Release Information
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 19%
-
+source-wordcount: '454'
+ht-degree: 22%
 ---
-
 # Versionshinweise: Juli 2026 {#release-notes-july-26}
 
 Unten finden Sie alle Funktionen, die in der Version vom 26. Juli enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
@@ -51,18 +49,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>E-Mail-Designer - </strong>: Sie haben jetzt Zugriff auf einsatzbereite, vollständig strukturierte Inhaltsbausteine, die die E-Mail-Assembly beschleunigen.</td>
    <td>Freigegeben</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Verwenden von Modulen in der E-Mail-Designer</a></td>
-  </tr>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-Mail-Designer - Kontextmenü für Inhalte generieren</strong>: Die Funktionen zum Generieren von Inhalten in der E-Mail-Designer können jetzt über das Kontextmenü (den schwarzen Balken) aufgerufen werden. Wenn Sie beispielsweise Textinhalte auswählen, wird im Kontextmenü das Symbol Inhalt generieren angezeigt, über das Sie Schnellaktionen durchführen können.</td>
-   <td><i>Demnächst</i></td>
-<td><i>Demnächst</i></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Verwenden von Modulen im E-Mail-Designer</a></td>
   </tr>
   </tr>
   </tbody>
