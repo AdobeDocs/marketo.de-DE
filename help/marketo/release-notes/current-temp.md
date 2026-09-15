@@ -7,32 +7,38 @@ exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
 TQID: https://experienceleague.adobe.com/RZsCx9HAyJuDLO46WfshT30be-rMMDZjnygvU32NGfk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ebd911b99e1c4c8f8a76db3a14235ee0d4ee0485
+    internal-label: Administration
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: 408
-ht-degree: 28%
-
+source-wordcount: '521'
+ht-degree: 18%
 ---
+# Versionshinweise: September 2026 {#release-notes-sep-26}
 
-# Versionshinweise: August 2026 {#release-notes-aug-26}
-
-Unten finden Sie alle Funktionen, die in der Version vom 26. August enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
+Im Folgenden finden Sie alle Funktionen, die in der Version vom September 2026 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
-Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 14. **2026 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Funktionen und Veröffentlichungstermine können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
+Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem 25. **2026 veröffentlicht** wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Funktionen und Veröffentlichungstermine können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
 <table style="table-layout:auto">
  <tbody>
@@ -42,9 +48,9 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:25%">Dokumentation</th>
   </tr>
   <tr>
-   <td><strong>Neue Benutzeroberfläche von Marketo Engage</strong>: Die Benutzeroberfläche von Marketo Engage hat ein aktualisiertes Design, einschließlich aktualisierter Menüs, Symbole und Layouts, für ein saubereres, moderneres Erlebnis. Dies ist nur eine visuelle Aktualisierung, es sind keine vorhandenen Funktionen oder Workflows betroffen.
+   <td><strong>Neue Benutzeroberfläche von Marketo Engage</strong>: Die Benutzeroberfläche von Marketo Engage hat ein aktualisiertes Design, einschließlich aktualisierter Menüs, Symbole und Layouts, für ein saubereres, moderneres Erlebnis. Dies ist nur eine visuelle Aktualisierung. Vorhandene Funktionen oder Workflows sind davon nicht betroffen. <i>Die Möglichkeit, die klassische Benutzeroberfläche auszuwählen, wird über die Version vom Januar 2027 verfügbar sein</i>.
 </td>
-   <td>Schrittweiser Rollout im Verlauf des Monats August</td>
+   <td>Allgemeine Verfügbarkeit bis Ende September</td>
    <td><i>Nicht zutreffend</i></td>
   </tr>
   <tr>
@@ -53,8 +59,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Script Builder</strong>: Script Builder ist ein KI-basierter Assistent, der Ihnen hilft, Personalisierungsskripte schneller zu erstellen.
-</td>
+   <td><strong>Partition beim Importieren auswählen</strong>: Sie können jetzt beim Importieren von Personendatensätzen in Umgebungen, in denen Arbeitsbereiche und Partitionen aktiviert sind, aus der Liste der Partitionen des lokalen Arbeitsbereichs auswählen.</td>
    <td><i>Demnächst</i></td>
    <td><i>Demnächst</i></td>
   </tr>
@@ -64,8 +69,17 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Kampagnen im Archiv deaktivieren</strong>: Durch die Archivierung eines Ordners werden jetzt alle Kampagnen in diesem Ordnerbaum deaktiviert und gekündigt, sodass archivierte Smart-Kampagnen nicht unerwartet ausgeführt werden.
-</td>
+   <td><strong>Sofortiger Warnhinweis bei CRM-Synchronisierung</strong>: Benutzer, die CRM-Benachrichtigungen abonniert haben, erhalten eine sofortige Benachrichtigung, wenn sich der aktivierte Status ihrer nativen CRM-Synchronisierung ändert, was Admins eine größere Sichtbarkeit ihres CRM-Synchronisierungsstatus gibt.</td>
+   <td><i>Demnächst</i></td>
+   <td><i>Demnächst</i></td>
+  </tr>
+   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Self-Service-Flussschritte - Erhöhtes Callback-Timeout</strong>: Der Zeitraum für das Callback-Timeout für Self-Service-Flussschritte wird von einer Stunde auf vier Stunden erhöht. Auf Ihrer Seite ist keine Aktion erforderlich.</td>
    <td><i>Demnächst</i></td>
    <td><i>Demnächst</i></td>
   </tr>
@@ -75,10 +89,12 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. August 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **API-Namensbeschränkungen für benutzerdefinierte Aktivitätsattribute**: API-Namen für benutzerdefinierte Aktivitätsattribute, die über die API oder die Benutzeroberfläche erstellt wurden, dürfen jetzt nur alphanumerische Zeichen und Unterstriche enthalten und müssen mit einem alphanumerischen Zeichen beginnen.
 
-* **REST-API-Kampagnenausführungs-ID**: Die Unterstützung für die Marketo SOAP-API endet am 31. Juli 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
-* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Unter bestimmten Umständen wurde der Wert der Kampagnenausführungs-ID einer Aktivität manchmal mit falscher Formatierung zwischen zwei Paaren von Anführungszeichen (z. B. `"campaignRunId": ""102938""`) zurückgegeben.<br/>
-Ab der August-Version wird dieser Wert immer im richtigen numerischen Format zurückgegeben (`"campaignRunId": 102938`)
+* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 schlagen Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ oder „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, mit einem 1003-Fehler-Code fehl (was anzeigt, dass die statische Zielliste zu viele Datensätze enthält), wenn die Ziellisten 10.000 oder mehr Leads enthalten. Weitere Informationen finden Sie [Migrationshandbuch](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
 
-* **Limit für REST-API-Zusammenführung von Leads**: Seit dem 31. Juli 2026 führen Aufrufe, die mehr als 25 IDs im leadIds-Parameter eines Zusammenführungs-Leads-API-Aufrufs enthalten, zu einem 1080-Fehler-Code, und der Aufruf wird übersprungen. Aufträge, die die Zusammenführung von mehr als 25 Datensätzen in einem erfordern, sollten in mehrere Aufträge aufgeteilt werden, um den Erfolg dieser Aufrufe sicherzustellen.
+* **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird seit dem 31. August 2026 nicht mehr unterstützt. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **REST-API Kampagnenausführungs-ID**: Unter bestimmten Umständen wurde der Wert der Kampagnenausführungs-ID einer Aktivität manchmal mit falscher Formatierung zwischen zwei Paaren von Anführungszeichen zurückgegeben (z. B. `"campaignRunId": ""102938""`).<br/>Ab der August-Version wird dieser Wert immer im richtigen numerischen Format (`"campaignRunId": 102938`) zurückgegeben.
+
+* **Einstellung der Erfassung von Bildern aus dem Web**: Um den modernen Best Practices für Sicherheit und Datenschutz zu entsprechen, wird die Funktion [Abrufen von Bildern aus ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}Web) ab der Oktober-Version eingestellt.

@@ -4,13 +4,11 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '8931'
+source-wordcount: '8930'
 ht-degree: 96%
-
 ---
-
 
 # Marketo-Handbuch {#using}
 
@@ -487,7 +485,7 @@ ht-degree: 96%
       + [Modelle und Erkenntnisse](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [Vorhersagefilter](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
   + Mitarbeiter für Marketo Engage {#coworker-for-marketo}
-    + [Überblick](product-docs/coworker-for-marketo/overview.md)
+    + [Übersicht](product-docs/coworker-for-marketo/overview.md)
     + [Einstellungen und Setup](product-docs/coworker-for-marketo/settings-setup.md)
     + [Datenblatt für Mitarbeiter für Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Skills {#skills}
@@ -498,7 +496,7 @@ ht-degree: 96%
       + [Leads untersuchen](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Leads importieren](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Programme validieren](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM-Synchronisierung {#crm-sync}
     + Microsoft Dynamics-Synchronisierung {#microsoft-dynamics}
       + [Grundlegendes zur Synchronisierung mit Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1007,7 +1005,7 @@ ht-degree: 96%
       + [Überblick](product-docs/email-marketing/email-designer/overview.md)
       + [Funktionsvergleich](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Erstellung von E-Mails](product-docs/email-marketing/email-designer/email-authoring.md)
-      + [Verwenden von Modulen in der E-Mail-Designer](product-docs/email-marketing/email-designer/email-modules.md)
+      + [Verwenden von Modulen im E-Mail-Designer](product-docs/email-marketing/email-designer/email-modules.md)
       + [Bedingte Inhalte](product-docs/email-marketing/email-designer/conditional-content.md)
       + [Erstellung von E-Mail-Vorlagen](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [Importieren einer Vorlage](product-docs/email-marketing/email-designer/import-template.md)
@@ -1027,7 +1025,7 @@ ht-degree: 96%
       + [E-Mail-Zusammenarbeit](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [Generieren von Inhalten in der E-Mail-Designer](product-docs/email-marketing/email-designer/generate-content.md)
       + [Bericht zu E-Mail-Spam mit SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-      + [CNIL Open Tracking Guidance](product-docs/email-marketing/email-designer/cnil-guidance.md)
+      + [Bedingte Öffnungsverfolgung](product-docs/email-marketing/email-designer/conditional-open-tracking.md)
     + E-Mail-Programme {#email-programs}
       + Erstellen eines E-Mail-Programms {#creating-an-email-program}
         + [Erstellen eines E-Mail-Programms](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1923,7 +1921,7 @@ ht-degree: 96%
   + [Dynamic Chat-Version](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat-VERSIONSTEMPERATUR](release-notes/dynamic-chat-temp.md)
   + [Frühere Versionen](release-notes/previous-releases.md)
-  + {hide-from-toc}Frühere Versionen  {#previous-releases}
+  + Frühere Versionen {hide-from-toc} {#previous-releases}
     + 2026 {#2026}
       + [Versionshinweise: Januar &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [Versionshinweise: Februar &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
