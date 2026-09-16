@@ -1,0 +1,185 @@
+---
+description: Erfahren Sie, wie Organisationsregeln Governance-Standards definieren und Coworker für Marketo Engage bei der Programmerstellung, Kampagnenplanung und -validierung anleiten.
+title: Organisationsregeln
+source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+workflow-type: tm+mt
+source-wordcount: '828'
+ht-degree: 0%
+---
+# Organisationsregeln {#organizational-rules}
+
+Organisationsregeln definieren Ihre Marketing-Betriebsstandards und Governance-Anforderungen in einem einzigen Dokument, das Coworker for Marketo Engage bei der Programmerstellung, Kampagnenplanung und Validierungs-Workflows anleitet.
+
+## Was sind Organisationsregeln? {#what-are-organizational-rules}
+
+Organisationsregeln sind ein Markdown-basiertes Konfigurationsdokument, das die Kampagnenstandards Ihres Unternehmens erfasst:
+
+* Benennungskonventionen für Programme, E-Mails und intelligente Kampagnen
+* Erforderliche Assets und Struktur (Ordner, Token, Berichte)
+* Compliance-Anforderungen (Abmelde-Links, UTM-Parameter, Ausschlussfilter)
+* Best Practices (E-Mail-Design, Smart-Listen-Konfiguration)
+
+Jede Marketo-Instanz enthält standardmäßige Organisationsregeln. Sie können sie an die spezifischen Governance-Anforderungen Ihres Unternehmens anpassen.
+
+## Wo Organisationsregeln verwendet werden {#where-organizational-rules-are-used}
+
+Organisationsregeln führen Coworker for Marketo Engage in drei Qualifikationen an:
+
+| Skill | So werden Regeln angewendet |
+| --- | --- |
+| Erstellen von Programmen | Regeln dienen zur Erstellung der Programmstruktur, Benennung und Ersteinrichtung. Coworker for Marketo Engage kennzeichnet alle Compliance-Probleme in Ihrer Übersicht, bevor Sie das Programm erstellen. |
+| Kampagnen planen | Die Regeln bestimmen, wie Coworker for Marketo Engage Smart-Kampagnen, Filter und Flussschritte basierend auf Ihren Standards strukturiert. |
+| Programme validieren | Regeln definieren, was Coworker for Marketo Engage bei der Validierung von Programmen vor der Aktivierung überprüft. |
+
+## Zugriff auf und Anpassung von Organisationsregeln {#how-to-access-and-customize-organizational-rules}
+
+1. Klicken Sie in My Marketo auf die Kachel **Mitarbeiter für Marketo Engage**.
+1. Klicken Sie auf das Zahnradsymbol.
+1. Wählen Sie die **Organisationsregeln** aus.
+1. Überprüfen Sie die Standardregeln (diese enthalten bereits Best Practices für Marketing-Vorgänge).
+1. Bearbeiten Sie die Regeln so, dass sie den Ihrer Organisation entsprechen:
+
+   * Benennungskonventionen (Programme, E-Mails, Kampagnen)
+   * Erforderliche Ordnerstruktur
+   * Erforderliche Token und Felder
+   * Konformitäts- und Ausschlussstandards
+
+1. Versionsnummer bei Änderungen aktualisieren
+1. Speichern Sie Ihre Änderungen. Alle Mitarbeiter für Marketo Engage-Kenntnisse verwenden Ihre benutzerdefinierten Regeln sofort.
+
+## Struktur der Organisationsregeln {#organizational-rules-structure}
+
+Organisationsregeln werden in Markdown mit YAML-Schriftart formatiert:
+
+```markdown
+---
+name: Your Organization Name - Marketo Campaign Governance
+version: 1.0
+enabled: true
+customized: true
+---
+
+# Naming Conventions
+
+## Programs
+- Pattern: {{REGION}}_FY{{YEAR}}_{{QUARTER}}_{{TYPE}}_{{DATE}}_{{NAME}}
+- Example: AMER_FY25_Q2_WBR_250315_Product_Launch_Webinar
+- Region codes: AMER, EMEA, APAC, GLOBAL
+
+## Emails
+- Pattern: {{PROGRAM_NAME}}_{{SEQUENCE}}_{{PURPOSE}}
+- Example: Product_Launch_01_Invitation
+
+# Program Structure
+
+## Required Local Folders
+- 01 Emails
+- 02 Smart Campaigns
+- 03 Reports
+
+## Required Tokens
+- {{my.eventDate}}
+- {{my.replyToEmail}}
+
+# Email Compliance
+
+## Required Elements
+- Unsubscribe link in footer
+- Company name and physical address
+- All external links include UTM parameters
+
+## Recommended Elements
+- Alt text on all images
+- Mobile-responsive design (600px max-width)
+```
+
+## Best Practices für Organisationsregeln {#best-practices-for-organizational-rules}
+
+* **Mit Standardwerten beginnen**: Überprüfen Sie die Standardregeln, bevor Sie sie anpassen. Sie spiegeln branchenspezifische Best Practices für Marketing-Vorgänge wider.
+* **Regeln fokussieren**: Schließen Sie nur Anforderungen ein, die für Ihr Unternehmen wichtig sind. Unnötige Regeln verursachen Lärm und verringern unnötige Compliance-Bewertungen.
+* **Verwenden Sie sowohl automatisierte als auch manuelle Prüfungen**:
+
+  * Automatisierte Prüfungen: Namenskonventionen, erforderliche Ordner, Token-Nutzung (Coworker for Marketo Engage kann diese überprüfen)
+  * Manuelle Prüfungen: Visuelles E-Mail-Design, Markenkonformität, Kampagnenlogik (Coworker for Marketo Engage kennzeichnet diese als manuelle Überprüfungsschritte)
+
+* **Schärfe mit Flexibilität in Einklang bringen**: Zu strenge Regeln können die Programmerstellung verlangsamen. Zu lockere Regeln lösen keine wichtigen Compliance-Probleme aus.
+* **Ihre Regeln versionieren**: Aktualisieren Sie die Versionsnummer, wenn Sie wichtige Änderungen vornehmen, damit Ihr Team weiß, dass die Governance-Standards aktualisiert wurden.
+* **Änderungen mitteilen**: Wenn Sie Organisationsregeln aktualisieren, informieren Sie Ihr Marketing-Opportunity-Team darüber, was sich geändert hat und warum.
+
+## Was Coworker for Marketo Engage validieren kann und was nicht {#what-coworker-can-and-cannot-validate}
+
+Coworker for Marketo Engage CAN validate (automatisierte Prüfungen):
+
+* Benennungskonventionen entsprechen Ihren Mustern
+* Erforderliche Ordnerstruktur vorhanden
+* Erforderliche Token sind vorhanden
+* E-Mail enthält einen Abmelde-Link und die erforderlichen Fußzeilenelemente
+* Externe Links enthalten UTM-Parameter
+* Smart Campaign-Namen folgen Konventionen
+
+Mitarbeiter für Marketo Engage KANN NICHT validieren (manuelle Überprüfung erforderlich):
+
+* Logik des Smart List-Filters (API-Einschränkung: Filter müssen manuell konfiguriert werden)
+* Schrittlogik des Smart-Campaign-Flusses (API-Einschränkung: Flüsse müssen manuell konfiguriert werden)
+* Visuelles Rendering und Reaktionsfähigkeit von E-Mails (erfordert visuelle Überprüfung)
+* Markenkonformität und Aussagekraft (erfordert menschliches Urteilsvermögen)
+* Segmentierungsregeln für dynamische Inhalte (API-Einschränkung)
+
+Wenn ein Mitarbeiter für Marketo Engage auf etwas stößt, das nicht validiert werden kann, wird es als manueller Überprüfungsschritt im Workflow gekennzeichnet.
+
+## Compliance Scoring {#compliance-scoring}
+
+Wenn Sie „Programme validieren“ verwenden, berechnet Coworker for Marketo Engage einen Kompatibilitätswert anhand folgender Faktoren:
+
+* **Prüfungen bestanden**: Mitarbeiter für Marketo Engage hat die Einhaltung der Vorgaben überprüft und keine Probleme gefunden
+* **Fehlgeschlagene Prüfungen**: Mitarbeiter für Marketo Engage hat Verstöße gegen Ihre Organisationsregeln gefunden
+* **Manuelle Überprüfungsschritte**: Elemente, für die eine menschliche Überprüfung erforderlich ist (diese werden NICHT gegen Ihre Bewertung gezählt)
+
+Ein Programm kann zu 100 % konform sein und erfordert weiterhin manuelle Überprüfungsschritte; sie werden aus der Score-Berechnung ausgeschlossen.
+
+## Beispiele für die Anpassung von Organisationsregeln {#examples-of-organizational-rules-customization}
+
+**Beispiel 1: Strenge Namenskonvention**
+
+```markdown
+## Programs
+Pattern: {{COUNTRY}}-{{BUSINESS_UNIT}}-{{CAMPAIGN_TYPE}}-FY{{YEAR}}-{{QUARTER}}-{{DATE}}
+```
+
+Verwenden Sie dies, wenn Ihr Unternehmen eine strikte Governance für alle Regionen und Geschäftsbereiche erfordert.
+
+**Beispiel 2: Flexible Benennung mit erforderlichem Präfix**
+
+```markdown
+## Programs
+Pattern: {{PREFIX}}_* (where PREFIX = EMEA, AMER, APAC, GLOBAL)
+Example: AMER_Q2_Product_Launch_Webinar_2025
+```
+
+Verwenden Sie diese Option, wenn Sie Konsistenz bei Regions-Codes, aber Flexibilität bei den übrigen Codes wünschen.
+
+**Beispiel 3: Minimale Regeln (Fokus auf Compliance)**
+
+```markdown
+# Email Compliance - REQUIRED
+
+- Unsubscribe link present
+- CAN-SPAM physical address in footer
+- Reply-to email configured
+```
+
+Verwenden Sie diese Option, wenn Ihr Unternehmen der Compliance Vorrang vor der Benennung/Strukturkonsistenz einräumt.
+
+## Fehlerbehebung {#troubleshooting}
+
+**F: Ich habe die Organisationsregeln aktualisiert, aber Coworker for Marketo Engage verwendet weiterhin die alten Regeln.**
+
+A.: Änderungen treten bei neuen Programmen und Validierungen sofort in Kraft. Wenn Sie an einem vorhandenen Programm arbeiten, aktualisieren Sie Ihren Browser oder starten Sie einen neuen Workflow „Mitarbeiter für Marketo Engage&quot;, um die aktualisierten Regeln anzuzeigen.
+
+**F: Kann ich zu Standardregeln zurückkehren?**
+
+A: Ja. Wechseln Sie zu **Einstellungen** > **Organisationsregeln** und klicken Sie auf **Auf Standard zurücksetzen**. Die benutzerdefinierten Regeln werden durch die Standardregeln ersetzt.
+
+**F: Meine Compliance-Bewertung ist niedrig, obwohl das Programm gut aussieht.**
+
+A: Überprüfen Sie, welche Prüfungen fehlschlagen. Überprüfen Sie Ihre Organisationsregeln, um festzustellen, ob sie für Ihre aktuellen Workflows zu streng sind oder ob Sie das Programm an Ihre Standards anpassen müssen.

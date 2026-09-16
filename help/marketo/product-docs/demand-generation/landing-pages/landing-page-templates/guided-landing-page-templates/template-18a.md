@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/r2vvLBaJ-n5TkCniG4IJqBIW6FQGN4yr0U7vHK-JCtg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 77
+source-wordcount: '77'
 ht-degree: 5%
-
 ---
-
 # Vorlage 18a {#template-18a}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 18A herunterzuladen](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=de)
+Klicken Sie mit der rechten Maustaste, um [Vorlage 18A herunterzuladen](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-18a.html)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
@@ -27,11 +27,11 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Eine Kopfzeile (optional)
 * Ein primärer Abschnitt
 
-   * Enthält Hero-Text und zwei Schaltflächen
+  * Enthält Hero-Text und zwei Schaltflächen
 
 * Fünf Hauptteilabschnitte (optional)
 * Fußzeile (optional)
 
 **Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
 
-[Vorlage 18a.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=de)
+[Vorlage 18a.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-18a.html)
