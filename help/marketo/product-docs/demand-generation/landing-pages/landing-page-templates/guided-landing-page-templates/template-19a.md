@@ -11,14 +11,18 @@ product_v2:
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
-source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
+source-git-commit: 043d09315fec24d58897c362e9e28008df7d4aa9
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 6%
+source-wordcount: '97'
+ht-degree: 5%
 ---
 # Vorlage 19a {#template-19a}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 19A herunterzuladen](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-19a.html)
+Klicken Sie mit der rechten Maustaste [Vorlage 19A herunterladen](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-19a.html) und wählen Sie **Link speichern unter…**
+
+>[!NOTE]
+>
+>Die Schritte zum Herunterladen und Importieren einer Vorlage [finden Sie hier](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 
@@ -31,6 +35,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Fünf Hauptteilabschnitte (optional)
 * Fußzeile
 
-**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten (und wählen Sie _Link speichern unter…_) So laden Sie diese Vorlage herunter:**
 
 [Vorlage 19A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-19a.html)

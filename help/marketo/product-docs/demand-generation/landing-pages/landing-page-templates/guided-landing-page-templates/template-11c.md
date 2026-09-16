@@ -11,14 +11,18 @@ product_v2:
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
-source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
+source-git-commit: 043d09315fec24d58897c362e9e28008df7d4aa9
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 4%
+source-wordcount: '105'
+ht-degree: 3%
 ---
 # Vorlage 11c {#template-11c}
 
-Klicken Sie mit der rechten Maustaste, um [Vorlage 11C herunterzuladen](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-11c.html)
+Klicken Sie mit der rechten Maustaste [Vorlage 11C herunterladen](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-11c.html) und wählen Sie **Link speichern unter…**
+
+>[!NOTE]
+>
+>Die Schritte zum Herunterladen und Importieren einer Vorlage [finden Sie hier](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -29,6 +33,6 @@ Diese Vorlage enthält den folgenden Inhalt:
 * Vier Karosserieabschnitte (optional)
 * Eine Fußzeile mit Formular (optional)
 
-**Klicken Sie unten mit der rechten Maustaste, um diese Vorlage herunterzuladen:**
+**Klicken Sie mit der rechten Maustaste unten (und wählen Sie _Link speichern unter…_) So laden Sie diese Vorlage herunter:**
 
 [Vorlage 11C.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-11c.html)
