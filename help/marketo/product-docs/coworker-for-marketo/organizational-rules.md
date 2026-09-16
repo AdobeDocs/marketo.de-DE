@@ -1,9 +1,9 @@
 ---
 description: Erfahren Sie, wie Organisationsregeln Governance-Standards definieren und Coworker für Marketo Engage bei der Programmerstellung, Kampagnenplanung und -validierung anleiten.
 title: Organisationsregeln
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 0%
 ---
 # Organisationsregeln {#organizational-rules}
@@ -19,7 +19,7 @@ Organisationsregeln sind ein Markdown-basiertes Konfigurationsdokument, das die 
 * Compliance-Anforderungen (Abmelde-Links, UTM-Parameter, Ausschlussfilter)
 * Best Practices (E-Mail-Design, Smart-Listen-Konfiguration)
 
-Jede Marketo-Instanz enthält standardmäßige Organisationsregeln. Sie können sie an die spezifischen Governance-Anforderungen Ihres Unternehmens anpassen.
+Jede Marketo Engage-Umgebung enthält standardmäßige Organisationsregeln. Sie können sie an die spezifischen Governance-Anforderungen Ihres Unternehmens anpassen.
 
 ## Wo Organisationsregeln verwendet werden {#where-organizational-rules-are-used}
 
