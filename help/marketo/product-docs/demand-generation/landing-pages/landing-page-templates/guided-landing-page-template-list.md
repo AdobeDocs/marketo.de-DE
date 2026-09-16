@@ -7,18 +7,20 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Troubleshooting
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: 357
-ht-degree: 61%
-
+source-wordcount: '411'
+ht-degree: 53%
 ---
-
 # Liste der Vorlagen für geführte Landingpages {#guided-landing-page-template-list}
 
 Durchsuchen Sie unsere Sammlung von Beispielvorlagen zur Verwendung mit dem [Geführte Landingpage-Editor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Jede Vorlage reagiert vollständig und basiert auf dem Bootstrap-Framework.
@@ -27,15 +29,35 @@ Durchsuchen Sie unsere Sammlung von Beispielvorlagen zur Verwendung mit dem [Gef
 >
 >Der Marketo-Support ist nicht für die Fehlerbehebung bei HTML eingerichtet. Wenn Sie Hilfe beim Ändern einer dieser Vorlagen benötigen, wenden Sie sich bitte an einen Web-Entwickler.
 
-So importieren Sie eine Vorlage in Marketo:
+## Importieren einer Vorlage in Marketo Engage{#how-to-import}
 
-1. Klicken Sie auf den Namen der Vorlage, um die Ansicht zu vergrößern.
-1. Herunterladen der ausgewählten Vorlage.
-1. Navigieren Sie in Marketo zu **[!UICONTROL Design Studio]**.
-1. Klicken Sie **[!UICONTROL der linken Struktur]** Landingpages“ und wählen Sie dann **[!UICONTROL Vorlagen]**.
+1. Klicken Sie auf den Namen der gewünschten [Vorlage unten](#all-templates), um zur zugehörigen Seite zu gelangen.
 
-1. Klicken Sie in der Menüleiste auf **[!UICONTROL Vorlage]**.
-1. Wählen Sie die heruntergeladene Datei aus, geben Sie einen Vorlagennamen ein und klicken Sie auf **[!UICONTROL Importieren]** (stellen Sie sicher, dass Sie einen beschreibenden Namen auswählen und angeben, dass der Bearbeitungsmodus &quot;**[!UICONTROL &quot;]**.
+1. Klicken Sie mit der rechten Maustaste auf „Vorlage herunterladen“ und wählen Sie **Link speichern unter…**. Speichern Sie die Datei an dem gewünschten Speicherort auf Ihrem Computer.
+
+1. Navigieren Sie in Marketo Engage zu **[!UICONTROL Design Studio]**.
+
+1. Wählen Sie **[!UICONTROL Landingpage-Vorlagen]** aus.
+
+   ![](assets/guided-landing-page-template-list-3.png)
+
+1. Wählen Sie in **[!UICONTROL Dropdown-Liste „Aktionen für Landingpage]** die Option **[!UICONTROL Neue Landingpage-Vorlage]**.
+
+   ![](assets/guided-landing-page-template-list-4.png)
+
+1. Benennen Sie Ihre Vorlage. Wählen Sie in der Dropdown-Liste Bearbeitungsmodus die Option **[!UICONTROL Geführt]**. Aktivieren Sie das **[!UICONTROL Vorlage importieren]**.
+
+   ![](assets/guided-landing-page-template-list-5.png)
+
+1. Wählen Sie die heruntergeladene Vorlagendatei aus und klicken Sie auf **[!UICONTROL Erstellen]** (die Auswahl **Vorhandene Vorlage durch diesen Namen ersetzen** ist optional).
+
+   ![](assets/guided-landing-page-template-list-6.png)
+
+1. Ihre Vorlage wurde importiert und kann jetzt bearbeitet werden.
+
+## Alle verfügbaren Vorlagen {#all-templates}
+
+Durchsuchen Sie die kostenlose Vorlagenbibliothek.
 
 <table>
 <tr>
