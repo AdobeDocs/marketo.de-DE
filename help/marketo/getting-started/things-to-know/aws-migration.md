@@ -3,9 +3,9 @@ description: AWS-Migration - Marketo Engage-Dokumente - Produktdokumentation
 title: AWS-Migration
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 577eb59d80224137833c30979dda2c183c04af70
+source-git-commit: f162e96cb2706942d51f10be6d85f700ee4b9d49
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '997'
 ht-degree: 5%
 ---
 # AWS-Migration {#aws-migration}
@@ -216,17 +216,17 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
    <i>AB06</i></td>
    <td>17:00 PDT<br>
    <i>18:00 PDT</i></td>
-   <td>Planmäßig<br>
+   <td>Abgeschlossen<br>
    <i>Zurückgestellt (Datum wird noch bekannt gegeben)</i></td>
   </tr>
   <tr>
    <td>17. September 2026</td>
    <td>AB07<br>
-   AB08</td>
+   <i>AB08</i></td>
    <td>17:00 PDT<br>
-   18:00 PDT</td>
+   <i>18:00 PDT</i></td>
    <td>Planmäßig<br>
-   Planmäßig</td>
+   <i>Zurückgestellt (Datum wird noch bekannt gegeben)</i></td>
   </tr>
   <tr>
    <td>22. September 2026</td>
@@ -262,12 +262,6 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
    Planmäßig</td>
   </tr>
   <tr>
-   <td>6. Oktober 2026</td>
-   <td>AB18</td>
-   <td>17:00 PDT</td>
-   <td>Planmäßig</td>
-  </tr>
-  <tr>
    <td>9. Oktober 2026</td>
    <td>AB19<br>
    AB22</td>
@@ -275,6 +269,13 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
    17:00 PDT</td>
    <td>Planmäßig<br>
    Planmäßig</td>
+  </tr>
+   <tr>
+   <td>30. Oktober 2026<br> 
+   (ab 6. Oktober neu geplant)</td>
+   <td>AB18</td>
+   <td>17:00 PDT</td>
+   <td>Planmäßig</td>
   </tr>
   </body>
 </table>
