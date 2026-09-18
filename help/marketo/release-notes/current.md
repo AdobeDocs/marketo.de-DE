@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3a4c5d6f8aa299111ff8c09836246e9e0c7f93b1
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '524'
 ht-degree: 17%
 ---
 # Versionshinweise: August 2026 {#release-notes-aug-26}
@@ -62,18 +62,6 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 </td>
    <td>Freigegeben</td>
    <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Deaktivieren von Kampagnen im Archiv</a></td>
-  </tr>
-    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Script Builder</strong>: Script Builder ist ein KI-basierter Assistent, der Ihnen hilft, Personalisierungsskripte schneller zu erstellen.
-</td>
-   <td><i>Demnächst</i></td>
-   <td><i>Demnächst</i></td>
-  </tr>
   </tr>
     <tr>
    <td> </td>

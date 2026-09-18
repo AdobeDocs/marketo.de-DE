@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '552'
 ht-degree: 18%
 ---
 # Versionshinweise: September 2026 {#release-notes-sep-26}
@@ -80,6 +80,16 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Self-Service-Flussschritte - Erhöhtes Callback-Timeout</strong>: Der Zeitraum für das Callback-Timeout für Self-Service-Flussschritte wird von einer Stunde auf vier Stunden erhöht. Auf Ihrer Seite ist keine Aktion erforderlich.</td>
+   <td><i>Demnächst</i></td>
+   <td><i>Demnächst</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-Mail Designer - </strong>: Sie können jetzt den Inhaltstyp „Tabelle“ per Drag-and-Drop in Ihre E-Mail ziehen, wobei die Anzahl der Spalten und Zeilen festgelegt werden kann.</td>
    <td><i>Demnächst</i></td>
    <td><i>Demnächst</i></td>
   </tr>
