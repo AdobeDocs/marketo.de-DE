@@ -1,14 +1,16 @@
 ---
 description: Verwenden Sie Coworker for Marketo Engage, um ein Marketo-Programm zu erstellen, indem Sie eine vorhandene Vorlage anpassen. Holen Sie sich intelligente Kampagnen, Zeitpläne und Asset-Platzhalter, die bereit zur Überprüfung und Verfeinerung sind.
 title: Erstellen von Programmen
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '804'
 ht-degree: 0%
 ---
 # Erstellen von Programmen {#build-programs}
 
 Beschreiben Sie eine Marketing-Kampagne in einfacher Sprache, und Coworker for Marketo Engage passt eine vorhandene Programmvorlage an Ihre Anforderungen an, aktualisiert E-Mail-Inhalte automatisch und erstellt zusätzliche Assets, indem Sie Ihre Vorlagenstruktur duplizieren.
+
+Die Organisationsregeln Ihres Unternehmens [, wie ](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} für Marketo Engage das Programm während der Erstellung strukturiert und validiert. Diese Regeln stellen sicher, dass das neue Programm mit Ihren Namenskonventionen, erforderlichen Token, Ordnerstruktur und Compliance-Standards übereinstimmt.
 
 >[!PREREQUISITES]
 >

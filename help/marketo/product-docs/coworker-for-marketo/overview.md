@@ -1,9 +1,9 @@
 ---
 description: Erfahren Sie mehr über die Coworker for Marketo Engage-Suite von Agenten, die Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr automatisieren können.
 title: Übersicht über die Zusammenarbeit für Marketo Engage
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '439'
 ht-degree: 1%
 ---
 # Übersicht über die Zusammenarbeit für Marketo Engage {#overview}
@@ -16,9 +16,9 @@ Coworker for Marketo Engage (früher Marketo AI) bietet Agentenfähigkeiten, mit
 
 >[!IMPORTANT]
 >
->* Nachdem Coworker for Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, &#x200B;](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
+>* Nachdem Coworker for Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, ](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
 >
->* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die Überlegungen zu personenbezogenen Daten im [&#x200B; für Marketo Engage &#x200B;](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
+>* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die Überlegungen zu personenbezogenen Daten im [ für Marketo Engage ](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
 ## Zugriff {#access}
 
@@ -34,17 +34,13 @@ Geben Sie Ihre Anfrage in das Feld Eingabeaufforderung ein, wählen Sie eine der
 
 Die Center Console verfügt über eine wachsende Anzahl von Agentenkenntnissen, die Ihnen bei verschiedenen Aufgaben helfen. Jede Fähigkeit ist ein speziell entwickelter KI-Assistent, mit dem Sie durch natürliche Sprache interagieren, um eine bestimmte Aufgabe zu erfüllen.
 
-<!--
+### Erstellen von Programmen {#build-programs}
 
-### Build programs {#build-programs}
-
-Describe a marketing campaign in plain language and Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
-
--->
+Beschreiben Sie eine Marketing-Kampagne in verständlicher Sprache. Die Programmstruktur wird von Coworker for Marketo Engage erstellt, einschließlich Asset-Platzhaltern und Zeitplan. Erfahren Sie mehr über die [Kenntnisse zu Programmen erstellen](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
 
 ### Leads untersuchen {#investigate-leads}
 
-Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
+Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads ](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
 
 ### Produktkenntnisse {#product-knowledge}
 
@@ -68,4 +64,4 @@ Weitere Agenten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben en
 
 >[!MORELIKETHIS]
 >
->Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
+>Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
