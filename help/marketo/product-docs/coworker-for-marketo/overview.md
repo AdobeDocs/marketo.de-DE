@@ -16,9 +16,9 @@ Coworker for Marketo Engage (früher Marketo AI) bietet Agentenfähigkeiten, mit
 
 >[!IMPORTANT]
 >
->* Nachdem Coworker for Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, ](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
+>* Nachdem Coworker for Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, &#x200B;](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
 >
->* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die Überlegungen zu personenbezogenen Daten im [ für Marketo Engage ](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
+>* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die Überlegungen zu personenbezogenen Daten im [&#x200B; für Marketo Engage &#x200B;](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
 ## Zugriff {#access}
 
@@ -40,7 +40,7 @@ Beschreiben Sie eine Marketing-Kampagne in verständlicher Sprache. Die Programm
 
 ### Leads untersuchen {#investigate-leads}
 
-Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads ](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
+Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
 
 ### Produktkenntnisse {#product-knowledge}
 

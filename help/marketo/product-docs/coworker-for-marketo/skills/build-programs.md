@@ -10,7 +10,7 @@ ht-degree: 0%
 
 Beschreiben Sie eine Marketing-Kampagne in einfacher Sprache, und Coworker for Marketo Engage passt eine vorhandene Programmvorlage an Ihre Anforderungen an, aktualisiert E-Mail-Inhalte automatisch und erstellt zusätzliche Assets, indem Sie Ihre Vorlagenstruktur duplizieren.
 
-Die Organisationsregeln Ihres Unternehmens [, wie ](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} für Marketo Engage das Programm während der Erstellung strukturiert und validiert. Diese Regeln stellen sicher, dass das neue Programm mit Ihren Namenskonventionen, erforderlichen Token, Ordnerstruktur und Compliance-Standards übereinstimmt.
+Die Organisationsregeln Ihres Unternehmens [, wie &#x200B;](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} für Marketo Engage das Programm während der Erstellung strukturiert und validiert. Diese Regeln stellen sicher, dass das neue Programm mit Ihren Namenskonventionen, erforderlichen Token, Ordnerstruktur und Compliance-Standards übereinstimmt.
 
 >[!PREREQUISITES]
 >
