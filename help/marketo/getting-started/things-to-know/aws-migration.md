@@ -3,9 +3,9 @@ description: AWS-Migration - Marketo Engage-Dokumente - Produktdokumentation
 title: AWS-Migration
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 017397e135eb33252f9c66e835c9b6e931e3a276
+source-git-commit: 662073adfb4fedc2a8f122cb60ae7c5a35672926
 workflow-type: tm+mt
-source-wordcount: '1008'
+source-wordcount: '1007'
 ht-degree: 5%
 ---
 # AWS-Migration {#aws-migration}
@@ -228,7 +228,7 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
    <i>AB12</i></td>
    <td>17:00 PDT<br>
    <i>18:00 PDT</i></td>
-   <td>Planmäßig<br>
+   <td>Abgeschlossen<br>
    <i>Zurückgestellt (Datum wird noch bekannt gegeben)</i></td>
   </tr>
   <tr>
