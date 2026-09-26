@@ -66,7 +66,7 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
    <td>Abgeschlossen</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">August '26</a></td>
+  <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">August '26</a></td>
    <td>14. August 2026</td>
    <td>Abgeschlossen</td>
   </tr>
