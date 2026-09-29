@@ -6,15 +6,15 @@ feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 4%
-
 ---
-
 # Senden einer Test-E-Mail {#send-a-test-email}
 
 Bevor Sie eine E-Mail senden, können Sie das E-Mail-Format und die Token testen, indem Sie sich selbst eine Test-E-Mail an eine beliebige E-Mail-Adresse senden.
@@ -39,4 +39,4 @@ Sie erhalten eine E-Mail mit Token-Werten, die für die von Ihnen ausgewählten 
 
 >[!NOTE]
 >
->Keine Sorge. Sie bleiben auch nach dem Versand der Test-E-Mail auf der  &quot;Marketo-E-Mail senden, damit Sie die von Ihnen erstellte E-Mail nicht verlieren.
+>Keine Sorge. Sie bleiben auch nach dem Versand der Test-E-Mail auf der ] &quot;[!UICONTROL Marketo-E-Mail senden, damit Sie die von Ihnen erstellte E-Mail nicht verlieren.

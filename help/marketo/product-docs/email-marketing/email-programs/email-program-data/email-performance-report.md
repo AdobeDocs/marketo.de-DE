@@ -7,43 +7,45 @@ feature: Email Programs
 TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 514
+source-wordcount: '514'
 ht-degree: 95%
-
 ---
-
 # E-Mail-Leistungsbericht {#email-performance-report}
 
 Erstellen Sie einen E-Mail-Leistungsbericht, um mithilfe von Statistiken zu Zustellungs-, Öffnungs-, Klickraten usw. mehr über die Leistung Ihrer E-Mails zu erfahren.
 
 1. [Erstellen Sie einen Bericht in einem Programm](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den [Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) **[!UICONTROL E-Mail-Leistung]** aus.
 1. [Ändern Sie den Zeitrahmen des Berichts](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
-1. Du bist da! Überprüfen Sie nun den Bericht, um mehr über die Leistung Ihrer E-Mails zu erfahren.
+1. Du bist da! Erkunden Sie nun den Bericht, um zu sehen, wie Ihre E-Mails abgeschnitten haben.
 
-   >[!NOTE]
-   >
-   >Der Filter „Versendedatum“ basiert auf dem ersten Datum, an dem die E-Mail gesendet wurde.
+>[!NOTE]
+>
+>Der Filter „Sendedatum“ basiert auf dem ersten Datum, an dem die E-Mail gesendet wurde.
 
-   ![](assets/email-performance-report.png)
+![](assets/email-performance-report.png)
 
-   >[!TIP]
-   >
-   >Klicken Sie auf den Namen einer E-Mail, um sie in der E-Mail-Vorschau zu öffnen.
+>[!TIP]
+>
+>Klicken Sie auf den Namen einer E-Mail, um sie in der E-Mail-Vorschau zu öffnen.
 
-   >[!NOTE]
-   >
-   >Ein E-Mail-Leistungsbericht enthält Aktivitäten für alle Personen, einschließlich der Personen, die seit dem Versand der E-Mail gelöscht wurden. Manchmal kann es sein, dass nur die Aktivitäten für aktive Personen von Interesse sind. In diesem Fall müssen Sie gelöschte Personen aus Ihrem Bericht filtern. Verwenden Sie die Registerkarte **[!UICONTROL Intelligente Liste]**, um [eine intelligente Liste für den Bericht zu erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md). Wenn Sie nach keinem bestimmten Feld filtern, legen Sie für den Filter „E-Mail-Adresse“ Folgendes fest: **[!UICONTROL ist nicht leer]**.
+>[!NOTE]
+>
+>Ein E-Mail-Leistungsbericht enthält Aktivitäten für alle Personen, einschließlich der Personen, die seit dem Versand der E-Mail gelöscht wurden. Manchmal kann es sein, dass nur die Aktivitäten für aktive Personen von Interesse sind. In diesem Fall müssen Sie gelöschte Personen aus Ihrem Bericht filtern. Verwenden Sie die Registerkarte **[!UICONTROL Intelligente Liste]**, um [eine intelligente Liste für den Bericht zu erstellen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md). Wenn Sie nach keinem bestimmten Feld filtern, legen Sie für den Filter „E-Mail-Adresse“ Folgendes fest: **[!UICONTROL ist nicht leer]**.
 
-   [Ausgewählte Berichtsspalten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen E-Mail-Leistungsbericht enthalten Folgendes:
+[Ausgewählte Berichtsspalten](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) für einen E-Mail-Leistungsbericht enthalten Folgendes:
 
-   <table><thead>
+<table><thead>
 
 <tr>
     <th>Spalte</th>
@@ -68,7 +70,7 @@ Erstellen Sie einen E-Mail-Leistungsbericht, um mithilfe von Statistiken zu Zust
   </tr>
   <tr>
     <td>Abbestellt</td>
-    <td>Die Anzahl der E-Mail-Empfangenden, die auf den Abmelde-Link in der E-Mail geklickt und das Formular ausgefüllt haben.</td>
+    <td>Anzahl der E-Mail-Empfangenden, die auf den Abmelde-Link in der E-Mail geklickt und das Formular ausgefüllt haben.</td>
   </tr>
   <tr>
     <td>Abgebrochen</td>
@@ -78,9 +80,9 @@ Erstellen Sie einen E-Mail-Leistungsbericht, um mithilfe von Statistiken zu Zust
 
 >[!NOTE]
 >
->In einer E-Mail angeklickte Abmelde-Links und E-Mail-Adressen werden nicht unter „Angeklickter Link“ im Bericht erfasst.
+>In einer E-Mail angeklickte Abmelde-Links und E-Mail-Adressen werden im Bericht nicht unter „Angeklickte Links“ erfasst.
 
-Im Allgemeinen wird versucht, beim Erfassen dieser Statistiken gesunden Menschenverstand einzusetzen. Wenn beispielsweise eine Person auf einen Link in einer E-Mail geklickt hat, hat sie offensichtlich davor die E-Mail geöffnet. Für den E-Mail-Leistungsbericht werden diese konkreten Regeln befolgt:
+Im Allgemeinen versuchen wir, beim Erfassen dieser Statistiken den gesunden Menschenverstand walten zu lassen. Wenn beispielsweise eine Person auf einen Link in einer E-Mail geklickt hat, hat sie offensichtlich davor die E-Mail geöffnet. Für den E-Mail-Leistungsbericht werden diese konkreten Regeln befolgt:
 
 * **Regel 1**: Jeder Eintrag zu einer E-Mail-Aktivität wird nur einem einzigen der folgenden Werte zugeordnet: _Übermittelt_, _Hard Bounce-Ereignis aufgetreten_, _Soft Bounce-Ereignis aufgetreten_ oder _Ausstehend_.
 

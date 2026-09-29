@@ -7,15 +7,15 @@ feature: Smart Lists
 TQID: https://experienceleague.adobe.com/wB-xUIHId0Hio0JwB1-yQK-nv52I3oH6NbvZX2FTZ6s
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: '195'
 ht-degree: 5%
-
 ---
-
 # Hinzufügen von Personen zur Sperrliste {#add-person-to-blocklist}
 
 Wenn Sie Personen zu Ihrer Blockierungsliste hinzufügen, können diese Ihre Korrespondenz nicht erhalten.
@@ -86,4 +86,4 @@ Diese Personen erhalten keine E-Mails mehr.
 
 >[!TIP]
 >
->Erstellen Sie eine [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}-Kampagne mit **Datenwert ändern** mit **Blockierungsliste ist wahr** für alle Personen in der Zukunft, die Attribut für eine Trigger haben.
+>Erstellen Sie eine [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}-Kampagne mit **Datenwert ändern** mit **Blockierungsliste ist wahr** für alle Personen in der Zukunft, die Attribut für eine Trigger haben.

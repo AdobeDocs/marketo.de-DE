@@ -7,13 +7,12 @@ feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/3AyKPoZ-rxPE-6cpQQ4flbL23aILwkVpmnMQAUjQLmI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 4%
-
 ---
-
 # Einrichten eines benutzerdefinierten Versandkanals {#setting-up-a-custom-delivery-channel}
 
 [!DNL Marketo Sales Connect] ermöglicht die Integration mit einem benutzerdefinierten SMTP-Server für den Versand Ihrer E-Mails. Dies ist eine großartige Option für diejenigen, die keine Massen-E-Mails aus ihrem Gmail- oder [!DNL Exchange]-Versandkanal senden möchten.
@@ -32,7 +31,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene Verwendu
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter „Mein &#x200B;]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
+1. Klicken [!UICONTROL  unter „Mein ]&quot; auf **[!UICONTROL E-Mail-Einstellungen]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
@@ -56,7 +55,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene Verwendu
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Karte &#x200B;]Zustellbarkeit **[!UICONTROL auf]**.
+1. Klicken Sie auf [!UICONTROL  Karte ]Zustellbarkeit **[!UICONTROL auf]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
@@ -78,7 +77,7 @@ Benutzer können einen benutzerdefinierten SMTP-Server für ihre eigene Verwendu
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 

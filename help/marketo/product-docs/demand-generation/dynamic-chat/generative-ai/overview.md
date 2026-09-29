@@ -6,18 +6,20 @@ exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
 TQID: https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 472
+source-wordcount: '472'
 ht-degree: 5%
-
 ---
-
 # Generative KI in Dynamic Chat {#generative-ai-overview}
 
 Die Generative AI-gestützten Funktionen in Adobe Dynamic Chat ermöglichen es Ihnen, die Produktivität Ihrer Vertriebsmitarbeiter zu optimieren, Einblicke in die Besucherabsichten Ihrer Website zu erhalten und Besucherfragen sicher zu beantworten.
@@ -54,13 +56,13 @@ Um den vollständigen Kontext eines Besuchergesprächs zu erhalten, müssen Sie 
 
 ## Antwortbibliothek {#response-library}
 
-[Erstellen Sie eine maßgeschneiderte Sammlung &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, alle vorab von Ihnen genehmigt, zur Verwendung innerhalb von Generative AI-Chat-Kampagnen.
+[Erstellen Sie eine maßgeschneiderte Sammlung ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) Fragen und Antworten, alle vorab von Ihnen genehmigt, zur Verwendung innerhalb von Generative AI-Chat-Kampagnen.
 
 ![](assets/generative-ai-overview-6.png)
 
 ## Aktivitätsprotokoll {#activity-log}
 
-[Anzeige einer Liste aller &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und der zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie wann bearbeitet hat.
+[Anzeige einer Liste aller ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) und der zugehörigen Details, einschließlich Name, Eigentümer, Typ und wer sie wann bearbeitet hat.
 
 ![](assets/generative-ai-overview-7.png)
 
@@ -78,7 +80,7 @@ Erörterte Themen sind in Smart List-Triggern und -Filtern als Einschränkung ve
 
 >[!IMPORTANT]
 >
->Bei der Verwendung der generativen KI müssen Sie die [Benutzerrichtlinien für die generative KI von Adobe Experience Cloud befolgen](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) um sicherzustellen, dass Adobe Experience Cloud-Funktionen, die die generative KI integrieren, auf sichere und verantwortungsvolle Weise verwendet werden.
+>Bei der Verwendung der generativen KI müssen Sie die [Adobe Experience Cloud-Benutzerrichtlinien für die generative KI](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) einhalten, um sicherzustellen, dass Adobe Experience Cloud-Funktionen, die die generative KI integrieren, auf sichere und verantwortungsvolle Weise verwendet werden.
 
 ## FAQs {#faq}
 

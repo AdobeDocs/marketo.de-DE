@@ -7,13 +7,12 @@ feature: Target Account Management
 TQID: https://experienceleague.adobe.com/aLuxfKOeRsPYXa5i5l86wj-ACPyKcJ4-f3ecmIZq8s0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 505
+source-wordcount: '505'
 ht-degree: 0%
-
 ---
-
 # Importieren [!UICONTROL benannte Konten] {#import-named-accounts}
 
 Haben Sie bereits eine CSV voller potenzieller Zielkonten? Importieren Sie sie direkt in TAM!
@@ -106,6 +105,6 @@ Szenarien bei der Deduplizierung [!UICONTROL nach Domain-Name]:
 
 >[!NOTE]
 >
->Wenn Marketo ein benanntes Konto anhängt, aktualisieren wir eine Regel (hinter den Kulissen), mit der wir Personen identifizieren können, die Teil des [!UICONTROL benannten Kontos“ sein &#x200B;]. Beispiel: Wenn Sie &quot;IBM&quot; in &quot;IBM, USA“ aktualisieren, werden Personen mit einem der Firmennamen mit dem &quot;[!UICONTROL &#x200B; Konto“ &#x200B;].
+>Wenn Marketo ein benanntes Konto anhängt, aktualisieren wir eine Regel (hinter den Kulissen), mit der wir Personen identifizieren können, die Teil des [!UICONTROL benannten Kontos“ sein ]. Beispiel: Wenn Sie &quot;IBM&quot; in &quot;IBM, USA“ aktualisieren, werden Personen mit einem der Firmennamen mit dem &quot;[!UICONTROL  Konto“ ].
 
 Wenn Marketo Datensätze findet, die wir als Duplikate sehen, wird nur der erste verarbeitet.

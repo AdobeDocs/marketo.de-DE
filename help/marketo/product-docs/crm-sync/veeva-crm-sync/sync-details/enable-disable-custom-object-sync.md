@@ -6,20 +6,21 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/nsmRk-zf-I5r0hfLxsOnGsTf66X-bYZ7OAUXHrPc-t0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Lists
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 230
+source-wordcount: '230'
 ht-degree: 4%
-
 ---
-
 # Aktivieren/Deaktivieren der benutzerdefinierten Objektsynchronisierung {#enable-disable-custom-object-sync}
 
-Benutzerdefinierte Objekte, die in Ihrer [!DNL Veeva] CRM-Instanz erstellt wurden, können auch Teil von Marketo Engage sein. Gehen Sie wie folgt vor, um sie einzurichten.
+Benutzerdefinierte Objekte, die in Ihrer [!DNL Veeva] CRM-Instanz erstellt wurden, können auch Teil von Marketo Engage sein. So richten Sie es ein.
 
 ## Aktivieren oder Deaktivieren der Synchronisierung benutzerdefinierter Objekte {#enable-or-disable-the-custom-object-sync}
 
@@ -47,13 +48,13 @@ Benutzerdefinierte Objekte, die in Ihrer [!DNL Veeva] CRM-Instanz erstellt wurde
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
+   Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf **[!UICONTROL Synchronisierung aktivieren]**.
 
-![](assets/enable-disable-custom-object-sync-5.png)
+   ![](assets/enable-disable-custom-object-sync-5.png)
 
->[!TIP]
->
->Marketo kann ein benutzerdefiniertes Objekt nur synchronisieren, wenn es eine direkte Beziehung mit dem Kontakt- oder Kontoobjekt in [!DNL Veeva] CRM hat.
+   >[!TIP]
+   >
+   >Marketo kann ein benutzerdefiniertes Objekt nur synchronisieren, wenn es eine direkte Beziehung mit dem Kontakt- oder Kontoobjekt in [!DNL Veeva] CRM hat.
 
 1. Klicken Sie erneut **[!UICONTROL Synchronisierung aktivieren]**.
 
@@ -77,7 +78,7 @@ Wählen Sie das zu synchronisierende Objekt aus und klicken Sie auf **[!UICONTRO
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Sie können jetzt die Daten dieses benutzerdefinierten Objekts in „Smart[!UICONTROL Kampagnen“ &#x200B;] „Smart[!UICONTROL Listen“ &#x200B;].
+Sie können jetzt die Daten dieses benutzerdefinierten Objekts in [!UICONTROL Smart-Kampagnen] und [!UICONTROL Smart-Listen] verwenden.
 
 >[!MORELIKETHIS]
 >
