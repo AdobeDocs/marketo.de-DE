@@ -6,18 +6,18 @@ exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+source-git-commit: dc8457cac3da6d128b39590ff6d54958f1622ee8
 workflow-type: tm+mt
-source-wordcount: 245
+source-wordcount: '231'
 ht-degree: 100%
-
 ---
-
 # Marketo Engage-Symbolglossar {#icon-glossary}
 
-Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzeroberfläche. Wenn Sie auf die Marketo Classic-Symbole verweisen möchten, finden Sie diese [hier](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutzeroberfläche.
 
 ## Allgemeine Symbole {#general-icons}
 
@@ -29,19 +29,19 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
-   <td><strong>Nicht zutreffend</strong></td>
+   <td><strong>k. A.</strong></td>
    <td><img src="assets/account-smart-list.png"></td>
-   <td>Intelligente Kontoliste</td>
+   <td>Konto-Smart-List</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
    <td><img src="assets/batch-active.png"></td>
-   <td>Stapel-Kampagne – aktiv</td>
+   <td>Batch-Kampagne – aktiv</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td>
    <td><img src="assets/batch-inactive.png"></td>
-   <td>Stapel-Kampagne – inaktiv</td>
+   <td>Batch-Kampagne – inaktiv</td>
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td>
@@ -89,7 +89,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <td>Filter</td>
   </tr>
   <tr>
-   <td><strong>Nicht zutreffend</strong></td>
+   <td><strong>k. A.</strong></td>
    <td><img src="assets/filter-active.png"></td>
    <td>Filter – aktiv</td>
   </tr>
@@ -169,7 +169,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <td>Bericht</td>
   </tr>
   <tr>
-   <td><strong>Nicht zutreffend</strong></td>
+   <td><strong>k. A.</strong></td>
    <td><img src="assets/search.png"></td>
    <td>Suche</td>
   </tr>
@@ -181,7 +181,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-smart-list.png"></td>
    <td><img src="assets/smart-list.png"></td>
-   <td>Smart List</td>
+   <td>Intelligente Liste</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td>
@@ -201,7 +201,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
    <td><img src="assets/social-button.png"></td>
-   <td>Social</td>
+   <td>Social-Schaltfläche</td>
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td>
@@ -224,7 +224,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <td>Auslöser – aktiv</td>
   </tr>
   <tr>
-   <td><strong>Nicht zutreffend</strong></td>
+   <td><strong>k. A.</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
    <td>Auslöser – inaktiv</td>
   </tr>
@@ -263,7 +263,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>nie ausführen</td>
+   <td>Nie ausführen</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
@@ -308,7 +308,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <td>Ist angefordert</td>
   </tr>
   <tr>
-   <td><strong>Nicht zutreffend</strong></td>
+   <td><strong>k. A.</strong></td>
    <td><img src="assets/inactive.png"></td>
    <td>Inaktiv</td>
   </tr>
@@ -399,7 +399,7 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <td>Pausiert</td>
   </tr>
   <tr>
-   <td><strong>Nicht zutreffend</strong></td>
+   <td><strong>k. A.</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
    <td>Geplant</td>
   </tr>
@@ -448,17 +448,17 @@ Nachfolgend finden Sie die Symbole für die aktuelle Adobe Marketo Engage-Benutz
    <th style="width:50%">Beschreibung</th>
   </tr>
   <tr>
-   <td><strong>Nicht zutreffend</strong></td>
+   <td><strong>k. A.</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
    <td>Genehmigt – in Berechnung</td>
   </tr>
   <tr>
-   <td><strong>Nicht zutreffend</strong></td>
+   <td><strong>k. A.</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
    <td>Genehmigt – in Neuberechnung</td>
   </tr>
   <tr>
-   <td><strong>Nicht zutreffend</strong></td>
+   <td><strong>k. A.</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
    <td>Entwurf – in Berechnung</td>
   </tr>

@@ -4,7 +4,7 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
+source-git-commit: b6799a351d9256e96a6db644c840f061a88198b4
 workflow-type: tm+mt
 source-wordcount: '8936'
 ht-degree: 96%
@@ -30,7 +30,7 @@ ht-degree: 96%
   + Was Sie wissen sollten {#things-to-know}
     + [Marketo Engage-Glossar](getting-started/things-to-know/marketo-engage-glossary.md)
     + [Symbol-Glossar](getting-started/things-to-know/icon-glossary.md)
-    + [Glossar mit klassischem Symbol](getting-started/things-to-know/classic-icon-glossary.md)
+    + {hide-from-toc}[Glossar mit dem klassischen Symbol](getting-started/things-to-know/classic-icon-glossary.md)
     + [Hilfezentrum](getting-started/things-to-know/help-center.md)
     + [Abonnieren von Systemstatusbenachrichtigungen](getting-started/things-to-know/system-status-notifications.md)
     + [AWS-Migration](getting-started/things-to-know/aws-migration.md)
