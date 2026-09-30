@@ -8,7 +8,7 @@ TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 9%
@@ -98,15 +98,15 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
    </tbody>
    </table>
 
-   >[!NOTE]
-   >
-   >[!DNL Salesforce] hängt __c an Feldnamen an, wenn es sie zum Erstellen von API-Namen verwendet.
+>[!NOTE]
+>
+>[!DNL Salesforce] hängt __c an Feldnamen an, wenn es sie zum Erstellen von API-Namen verwendet.
 
-   ![](assets/image2016-5-26-14-3a55-3a33.png)
+![](assets/image2016-5-26-14-3a55-3a33.png)
 
-   >[!NOTE]
-   >
-   >Text- und Zahlenfelder erfordern eine Länge, Datums-/Uhrzeitfelder jedoch nicht. Eine Beschreibung ist optional.
+>[!NOTE]
+>
+>Text- und Zahlenfelder erfordern eine Länge, Datums-/Uhrzeitfelder jedoch nicht. Eine Beschreibung ist optional.
 
 1. Klicken Sie auf **[!UICONTROL Weiter]**.
 

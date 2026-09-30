@@ -7,13 +7,12 @@ feature: Target Account Management
 TQID: https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
 workflow-type: tm+mt
-source-wordcount: 376
+source-wordcount: '376'
 ht-degree: 2%
-
 ---
-
 # [!UICONTROL Kontobewertung] {#account-score}
 
 Die Kontobewertung ist ein wichtiger Bestandteil der [!UICONTROL Target-]&quot;. Damit können Sie den Grad der Interaktion mit Ihren Konten ermitteln.
@@ -49,7 +48,10 @@ In der komplexen Welt der B2B-Kaufprozesse trifft eine einzelne Person selten ei
 >
 >Zur Berechnung der Kontobewertungen müssen Sie zunächst Lead-Bewertungen erstellen. Marketo TAM aggregiert Lead-Bewertungen automatisch zu Konto-Bewertungen. Als Beispiel nehmen wir zwei der oben genannten Beispiele (_Account Product Interest Score_ und _Account Web Engagement Score_).
 >
->Erstellen Sie zunächst Lead-Bewertungsfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)Account Web Engagement Score = SUM (Lead Web Engagement Score)
+>Erstellen Sie zunächst Lead-Bewertungsfelder, die relevante Details aus jedem Lead eines Zielkontos erfassen.
+>Weisen Sie dann diese Lead-Bewertungen ihren jeweiligen Account-Bewertungen zu:
+>Kontobewertung für Produktzinsen = SUM (Bewertung für Lead-Produktzinsen)
+>Account Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >

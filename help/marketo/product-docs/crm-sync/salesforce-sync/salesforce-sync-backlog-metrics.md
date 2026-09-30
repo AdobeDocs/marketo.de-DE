@@ -17,9 +17,9 @@ feature_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: '1155'
+source-wordcount: '1153'
 ht-degree: 1%
 ---
 # Backlog-Metriken bei der Salesforce-Synchronisierung  {#salesforce-sync-backlog-metrics}
@@ -103,7 +103,7 @@ Wenn viele Aktualisierungen vorgenommen werden (z. B. durch Ändern eines Feldwe
 
 ## Best Practices für die Verwaltung von Synchronisierungsrückständen {#best-practices}
 
-**Für Synchronisierungsbenutzer sichtbare Felder**: Stellen Sie sicher, dass nur die für die Synchronisierung sichtbaren Felder synchronisiert werden müssen und für Marketing-Maßnahmen nützlich sind. Bei jeder Aktualisierung eines Datensatzes in Salesforce, der den zuletzt geänderten Zeitstempel aktualisiert, wird ein Datensatz in den Synchronisierungsrückstand eingereiht. Unnötige Felder zum Synchronisieren können bei der Synchronisierung wichtigere Felder verlangsamen. Wenn die unnötigen Felder für den Synchronisierungsbenutzer ausgeblendet werden, führen Aktualisierungen an diesen Feldern zu einem Überspringvorgang, der viel schneller ist als eine Aktualisierung. Wenden Sie sich an Ihren Salesforce-Administrator, um die Best Practices [hier](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} zu überprüfen und zu aktualisieren, welche Felder für den Marketo-Synchronisierungsbenutzer sichtbar sind.
+**Für Synchronisierungsbenutzer sichtbare Felder**: Stellen Sie sicher, dass nur die für die Synchronisierung sichtbaren Felder synchronisiert werden müssen und für Marketing-Maßnahmen nützlich sind. Bei jeder Aktualisierung eines Datensatzes in Salesforce, der den zuletzt geänderten Zeitstempel aktualisiert, wird ein Datensatz in den Synchronisierungsrückstand eingereiht. Unnötige Felder zum Synchronisieren können bei der Synchronisierung wichtigere Felder verlangsamen. Wenn die unnötigen Felder für den Synchronisierungsbenutzer ausgeblendet werden, führen Aktualisierungen an diesen Feldern zu einem Überspringvorgang, der viel schneller ist als eine Aktualisierung. Wenden Sie sich an Ihren Salesforce-Administrator, um [Best Practices zu überprüfen](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/best-practices-for-determining-which-fields-to-sync-with-marketo-161224?profile.language=de){target="_blank"} und zu aktualisieren, welche Felder für den Marketo Sync-Benutzer sichtbar sind.
 
 **Unnötige Datensätze ausblenden oder filtern**: Wenn ein Datensatz nicht marktfähig ist, kann es eine Verschwendung von Synchronisierungsressourcen sein. Wenn der Synchronisierungsbenutzer sie nicht sehen kann, verschwendet er keine Ressourcen, um sie zu synchronisieren. Der [Marketo Engage-Support](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} kann beim Einrichten eines Synchronisierungsfilters helfen, um das Synchronisieren von Datensätzen basierend auf zusätzlichen Kriterien zu verhindern. Weitere Informationen zum Einrichten eines benutzerdefinierten Synchronisierungsfilters [finden Sie hier](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Es wird dringend empfohlen, Indexfelder in Salesforce zu verwenden (kontaktieren Sie Salesforce für weitere Informationen).
 
