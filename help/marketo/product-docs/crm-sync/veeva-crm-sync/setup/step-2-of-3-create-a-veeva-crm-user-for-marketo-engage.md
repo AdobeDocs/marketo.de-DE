@@ -6,16 +6,17 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 636
+source-wordcount: '636'
 ht-degree: 6%
-
 ---
-
 # Schritt 2 von 3: Erstellen eines [!DNL Veeva] CRM-Benutzers für Marketo Engage {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
 >[!NOTE]
@@ -60,7 +61,7 @@ Mit diesen Schritten kann der Marketo-Synchronisierungsbenutzer die benutzerdefi
    * Abgeleitetes Unternehmen
    * Abgeleitetes Land
    * Abgeleiteter Stadtbereich
-   * Abgeleitete Vorwahl
+   * Abgeleitete Telefonvorwahl
    * Abgeleitete Postleitzahl
    * Abgeleitetes Bundesland/abgeleitete Region
 
@@ -148,13 +149,13 @@ Mit diesen Schritten kann der Marketo-Synchronisierungsbenutzer die benutzerdefi
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-Suchen Sie die unnötigen Felder und stellen Sie sicher, dass [!UICONTROL Lesezugriff] und [!UICONTROL Bearbeitungszugriff] **deaktiviert**. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
+   Suchen Sie die unnötigen Felder und stellen Sie sicher, dass [!UICONTROL Lesezugriff] und [!UICONTROL Bearbeitungszugriff] **deaktiviert**. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 
-![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
+   ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->Bearbeiten Sie nur die Barrierefreiheit für die benutzerdefinierten Felder.
+   >[!NOTE]
+   >
+   >Bearbeiten Sie nur die Barrierefreiheit für die benutzerdefinierten Felder.
 
 1. Nachdem Sie alle unnötigen Felder deaktiviert haben, überprüfen Sie [!UICONTROL Lesezugriff] und [!UICONTROL Bearbeitungszugriff] für die folgenden Objektfelder. Klicken Sie auf **[!UICONTROL Speichern]**, wenn Sie fertig sind.
 

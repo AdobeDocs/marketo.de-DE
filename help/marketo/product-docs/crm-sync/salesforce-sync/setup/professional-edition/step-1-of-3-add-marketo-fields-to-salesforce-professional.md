@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 767
+source-wordcount: '767'
 ht-degree: 9%
-
 ---
-
 # Schritt 1 von 3: Marketo-Felder zu [!DNL Salesforce] hinzufügen (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
@@ -56,58 +55,58 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
 1. Geben Sie [!UICONTROL Feldbezeichnung], [!UICONTROL Länge] und [!UICONTROL Feldname] für das Feld ein, wie in der folgenden Tabelle dargestellt.
 
-<table>
- <thead>
-  <tr>
-   <th>
-    <div>
-      Feldbezeichnung
-    </div></th>
-   <th>
-    <div>
-      Feldname
-    </div></th>
-   <th>
-    <div>
-      Datentyp
-    </div></th>
-   <th>
-    <div>
-      Feldattribute
-    </div></th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>Ergebnis</td>
-   <td>mkto71_lead_score</td>
-   <td>Zahl</td>
-   <td>Länge 10<br>Dezimalstellen 0 </td>
-  </tr>
-  <tr>
-   <td>Akquisitionsdatum</td>
-   <td>mkto71_Acquisition_Date</td>
-   <td>Datum/Uhrzeit</td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td>Akquirierungsprogramm</td>
-   <td>mkto71_Acquisition_Program</td>
-   <td>Text</td>
-   <td>Länge 255</td>
-  </tr>
- </tbody>
-</table>
+   <table>
+   <thead>
+   <tr>
+      <th>
+      <div>
+         Feldbezeichnung
+      </div></th>
+      <th>
+      <div>
+         Feldname
+      </div></th>
+      <th>
+      <div>
+         Datentyp
+      </div></th>
+      <th>
+      <div>
+         Feldattribute
+      </div></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td>Ergebnis</td>
+      <td>mkto71_lead_score</td>
+      <td>Zahl</td>
+      <td>Länge 10<br>Dezimalstellen 0 </td>
+   </tr>
+   <tr>
+      <td>Akquisitionsdatum</td>
+      <td>mkto71_Acquisition_Date</td>
+      <td>Datum/Uhrzeit</td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td>Akquirierungsprogramm</td>
+      <td>mkto71_Acquisition_Program</td>
+      <td>Text</td>
+      <td>Länge 255</td>
+   </tr>
+   </tbody>
+   </table>
 
->[!NOTE]
->
->[!DNL Salesforce] hängt __c an Feldnamen an, wenn es sie zum Erstellen von API-Namen verwendet.
+   >[!NOTE]
+   >
+   >[!DNL Salesforce] hängt __c an Feldnamen an, wenn es sie zum Erstellen von API-Namen verwendet.
 
-![](assets/image2016-5-26-14-3a55-3a33.png)
+   ![](assets/image2016-5-26-14-3a55-3a33.png)
 
->[!NOTE]
->
->Text- und Zahlenfelder erfordern eine Länge, Datums-/Uhrzeitfelder jedoch nicht. Eine Beschreibung ist optional.
+   >[!NOTE]
+   >
+   >Text- und Zahlenfelder erfordern eine Länge, Datums-/Uhrzeitfelder jedoch nicht. Eine Beschreibung ist optional.
 
 1. Klicken Sie auf **[!UICONTROL Weiter]**.
 
@@ -119,9 +118,9 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
 
    * Deaktivieren Sie das **[!UICONTROL Schreibgeschützt]** für das Profil Ihres Synchronisierungsbenutzers:
 
-      * Wenn Sie als Synchronisierungsbenutzer das Profil eines _Systemadministrators_ verwenden, deaktivieren Sie das Kontrollkästchen **[!UICONTROL Schreibgeschützt]** für das Systemadministratorprofil (wie unten dargestellt)
+     * Wenn Sie als Synchronisierungsbenutzer das Profil eines _Systemadministrators_ verwenden, deaktivieren Sie das Kontrollkästchen **[!UICONTROL Schreibgeschützt]** für das Systemadministratorprofil (wie unten dargestellt)
 
-      * Wenn Sie ein _benutzerdefiniertes Profil_ für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das **[!UICONTROL Schreibgeschützt]**-Kontrollkästchen für dieses benutzerdefinierte Profil
+     * Wenn Sie ein _benutzerdefiniertes Profil_ für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das **[!UICONTROL Schreibgeschützt]**-Kontrollkästchen für dieses benutzerdefinierte Profil
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 

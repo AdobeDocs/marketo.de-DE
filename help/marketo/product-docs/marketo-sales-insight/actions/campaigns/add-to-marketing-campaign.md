@@ -7,14 +7,13 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/wL4DvH6WwopQbqXlYcvSQJLPYyJbnmDENqvb7qCJo8w
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 340
+source-wordcount: '340'
 ht-degree: 2%
-
 ---
-
-# Hinzufügen zu Marketing-Kampagne {#add-to-marketing-campaign}
+# Hinzufügen zu einer Marketing-Kampagne {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
 >
@@ -52,11 +51,11 @@ PICC
 
 1. Klicken Sie auf das Dropdown-Menü Arbeitsbereiche und wählen Sie den Arbeitsbereich aus, der die Kampagne enthält, der die Gruppe hinzugefügt werden soll.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass er von Ihrem Admin über die Seite „Team-Zugriff[!UICONTROL &#x200B; von Marketo bereitgestellt &#x200B;].
+   >[!NOTE]
+   >
+   >Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass er von Ihrem Admin über die Seite „Team-Zugriff[!UICONTROL &#x200B; von Marketo bereitgestellt &#x200B;].
 
 1. Wählen Sie die gewünschte Kampagne aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
@@ -86,19 +85,19 @@ PICC
 
 1. Wählen Sie **[!UICONTROL Marketing-Kampagne]** aus.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Um eine Person über [!DNL Sales Connect] zu einer Marketo-Kampagne hinzufügen zu können, muss [!DNL Sales Connect] über die Marketo-Lead-ID der Person verfügen.
+   >[!NOTE]
+   >
+   >Um eine Person über [!DNL Sales Connect] zu einer Marketo-Kampagne hinzufügen zu können, muss [!DNL Sales Connect] über die Marketo-Lead-ID der Person verfügen.
 
 1. Klicken Sie auf das Dropdown-Menü Arbeitsbereiche und wählen Sie den Arbeitsbereich aus, der die Kampagne enthält, der die Gruppe hinzugefügt werden soll.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass er von Ihrem Admin über die Zugriffsseite Ihres Marketo-Teams bereitgestellt wird.
+   >[!NOTE]
+   >
+   >Wenn der gewünschte Arbeitsbereich nicht angezeigt wird, stellen Sie sicher, dass er von Ihrem Admin über die Zugriffsseite Ihres Marketo-Teams bereitgestellt wird.
 
 1. Wählen Sie die gewünschte Kampagne aus und klicken Sie auf **[!UICONTROL Weiter]**.
 

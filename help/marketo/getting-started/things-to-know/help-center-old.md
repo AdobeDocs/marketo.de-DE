@@ -3,14 +3,12 @@ description: Hilfezentrum – Marketo Engage-Dokumente – Produktdokumentation
 title: Hilfezentrum
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: yes
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 85%
-
 ---
-
 # Hilfezentrum {#help-center}
 
 Das Hilfezentrum in Adobe Marketo Engage dient als zentraler Ort, um Unterstützung zu erhalten. Zusätzlich zu Verknüpfungen zu verschiedenen Ressourcen (z. B. [Produktdokumentation](/help/marketo/home.md){target="_blank"}, [Versionsinformationen](/help/marketo/release-notes/current.md){target="_blank"}, [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) können Sie auf nützliche produktinterne Anleitungen zugreifen, die nach Erfahrungsgrad angeordnet sind.
@@ -23,11 +21,11 @@ Klicken Sie nach der Anmeldung bei Marketo Engage auf das Hilfesymbol.
 
 ### Handbücher {#guides}
 
-Handbücher dienen als schnelle Anleitungen für beliebte Funktionen.
+Leitfäden dienen als schnelle Übersichten über beliebte Funktionen.
 
 ![](assets/help-center-2.png)
 
-1. Klicken Sie auf das gewünschte Handbuch, um es anzuzeigen.
+1. Klicken Sie auf den gewünschten Leitfaden, um ihn anzuzeigen.
 
    ![](assets/help-center-3.png)
 

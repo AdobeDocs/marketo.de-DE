@@ -1,5 +1,5 @@
 ---
-description: Einrichtungsschritte – Marketo-Dokumente – Produktdokumentation
+description: Setup Steps – Marketo-Dokumente – Produktdokumentation
 short-description: Sie beginnen gerade erst mit Adobe Marketo Engage? Erfahren Sie, welche Schritte Sie durchführen müssen, bevor Sie loslegen können.
 title: Einrichtungsschritte
 feature: Getting Started
@@ -7,20 +7,23 @@ exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 TQID: https://experienceleague.adobe.com/RkW-U6fZa-sLIdAWdbLET8S2f8yEFYaELRktRXCrCho
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 3b41a127ca8ff73849ccf27b1fe903169f464a02
 workflow-type: tm+mt
-source-wordcount: 1705
-ht-degree: 85%
-
+source-wordcount: '1703'
+ht-degree: 84%
 ---
-
 # Einrichtungsschritte {#setup-steps}
 
 **Willkommen bei Adobe Marketo Engage.**
@@ -44,7 +47,7 @@ Einige Schritte erfordern Unterstützung von Ihrem IT-Team.
 
 >[!NOTE]
 >
->Sind Sie Launch-Pack-Kundin bzw. -Kunde? Dann können Sie diesen Schritt überspringen. Ihre Beraterin bzw. Ihr Berater stellt Ihnen während Ihres Einstiegsgesprächs eine Anleitung zur Einrichtung des IT-Systems zur Verfügung.
+>Sind Sie Launch-Pack-Kundin bzw. -Kunde? Dann können Sie diesen Schritt überspringen. Ihre Beraterin bzw. Ihr Berater stellt Ihnen während Ihres Kick-off-Calls ein Dokument mit Anweisungen für das IT-Setup zur Verfügung.
 
 Es gibt verschiedene Maßnahmen, mit denen Sie sicherstellen können, dass Ihre E-Mails so viele Personen wie möglich erreichen.
 
@@ -94,7 +97,7 @@ Sie verfügen jetzt über alle Informationen, die Sie benötigen, um Ihre Anfrag
 
 >[!NOTE]
 >
->Sind Sie Launch-Pack-Kundin bzw. -Kunde? Dann können Sie diesen Schritt überspringen. Ihre Beraterin bzw. Ihr Berater stellt Ihnen während Ihres Einstiegsgesprächs eine Anleitung zur Einrichtung des IT-Systems zur Verfügung.
+>Sind Sie Launch-Pack-Kundin bzw. -Kunde? Dann können Sie diesen Schritt überspringen. Ihre Beraterin bzw. Ihr Berater stellt Ihnen während Ihres Kick-off-Calls ein IT-Setup-Dokument mit Anweisungen zur Verfügung.
 
 >[!NOTE]
 >
@@ -102,9 +105,9 @@ Sie verfügen jetzt über alle Informationen, die Sie benötigen, um Ihre Anfrag
 
 Wählen Sie einen CNAME für Ihre Landingpages aus. Einige Beispiele:
 
-    * **go**.[CompanyDomain].com
-    * **www2**.[CompanyDomain].com
-    * **lp**.[CompanyDomain].com
+* **go**.[CompanyDomain].com
+* **www2**.[CompanyDomain].com
+* **lp**.[CompanyDomain].com
 
 >[!TIP]
 >
@@ -148,7 +151,7 @@ Fügen Sie diesen Text in die E-Mail ein und ersetzen Sie die fett gedruckten Pl
 
 Sehr geehrte IT-Administration,
 
-unser Marketing-Team nutzt jetzt die Marketo-Plattform zur Kommunikation mit Personen. Um eine optimale Zustellbarkeit von E-Mails zu gewährleisten, müssen wir die folgenden Änderungen vornehmen:
+Unser Marketing-Team nutzt jetzt die Marketo-Plattform zur Kommunikation mit Personen. Um eine optimale Zustellbarkeit von E-Mails zu gewährleisten, müssen wir die folgenden Änderungen vornehmen:
 
 `1)` Fügen Sie für unsere Landingpages einen DNS-Eintrag (CNAME) für &quot;**[LandingPageCNAME]**.**[CompanyDomain]**.com“ hinzu, der auf **[Munchkin ID]**.mktoweb.com verweist.
 
@@ -156,26 +159,26 @@ unser Marketing-Team nutzt jetzt die Marketo-Plattform zur Kommunikation mit Per
 
 `3)` Setzen Sie Marketo auf die Zulassungsliste.
 
-    * Wenn wir IP-Adressen in unserer E-Mail-Zulassungsliste verwenden, fügen Sie die unten aufgeführten IP-Adressen hinzu:
-    199.15.212.0/22
-    
-    192.28.144.0/20
-    
-    192.28.160.0/19
-    
-    185.28.196.0/22
-    
-    130.248.172.0/24
-    
-    130.248.173.0/24
-    
-    94.236.119.0/26
+* Wenn wir IP-Adressen in unserer E-Mail-Zulassungsliste verwenden, fügen Sie die unten aufgeführten IPs hinzu:
+199.15.212.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+185.28.196.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+94.236.119.0/26
 
 >[!NOTE]
 >
 >Wenden Sie sich an den Adobe-Support , wenn Sie eine gekürzte Liste von IPs zu einer für Ihre Umgebung spezifischen Zulassungsliste benötigen.
 
-    * Wenn unser Anti-Spam-System Absender-Domains verwendet, fügen Sie diese hinzu:
+* Wenn unser Anti-Spam-System Von Domains verwendet, fügen Sie diese hinzu:
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
@@ -193,7 +196,7 @@ include:mktomail.com
 
 `[`Ersetzen Sie die **Absender-Domain** durch Ihre E-Mail-Absender-Domain (z. B.: unternehmen.com) und die **Unternehmens-IP** durch die IP-Adresse Ihres E-Mail-Servers (z. B.: 255.255.255.255).  Wenn Sie E-Mails von mehreren Domains über Marketo senden möchten, sollte Ihr IT-Team diese Zeile für jede Domain hinzufügen (in einer Zeile).`]`
 
-`b.` Erstellen Sie für DKIM DNS-Ressourceneinträge für jede Domain, die eingerichtet werden soll. Nachfolgend finden Sie die Host-Einträge und TXT-Werte für jede Domain, die signiert werden soll:
+`b.` Erstellen Sie für DKIM DNS-Ressourceneinträge für jede Domain, die eingerichtet werden soll. Nachfolgend finden Sie die Host-Records und TXT-Werte für jede Domain, die signiert werden soll:
 
 **`[DKIMDomain1]`**: Der Host-Eintrag lautet **`[HostRecord1]`** und der TXT-Wert **`[TXTValue1]`**.
 
@@ -215,7 +218,7 @@ Mit freundlichen Grüßen
 
 Senden Sie die E-Mail an die IT-Abteilung. Uns ist bewusst, dass es einige Zeit dauern kann, bis die IT-Abteilung diese Aufgaben abgeschlossen hat. Sie können mit dem nächsten Schritt fortfahren. Denken Sie jedoch daran, dass Sie zu diesem Schritt zurückkehren müssen, um Ihre Marketo Engage-Einrichtung abzuschließen.
 
-## Abschließen der Marketo-Einrichtung nach Fertigstellen durch die IT-Abteilung {#complete-your-marketo-setup-after-it-finishes}
+## Marketo-Einrichtung abschließen, nachdem die IT-Abteilung fertig ist {#complete-your-marketo-setup-after-it-finishes}
 
 Nachdem die IT-Abteilung ihre Aufgaben abgeschlossen hat, führen Sie die folgenden Schritte aus, um Ihre Landingpage und E-Mail-CNAMEs hinzuzufügen und das Signieren mit DKIM zu aktivieren.
 
@@ -233,7 +236,7 @@ Geben Sie den neuen Domain-Namen in das Feld **[!UICONTROL Domänenname für Lan
 
 ![](assets/setup-steps-9.png)
 
-Geben Sie im Feld **[!UICONTROL Fallback-Seite]** die URL ein, zu der Personen weitergeleitet werden sollen, wenn eine Landingpage nicht verfügbar ist. Wenn Sie über keine Fallback-Seite verfügen, können Sie die Startseite Ihres Unternehmens verwenden. Geben Sie im Feld **[!UICONTROL Startseite]** Ihre Unternehmens-Website ein.
+Geben Sie im Feld **[!UICONTROL Fallback-Seite]** die URL ein, zu der Personen weitergeleitet werden sollen, wenn eine Landingpage nicht verfügbar ist. Wenn Sie über keine Fallback-Seite verfügen, können Sie die Startseite Ihrer Firma verwenden. Geben Sie im Feld **[!UICONTROL Startseite]** Ihre Unternehmens-Website ein.
 
 ![](assets/setup-steps-10.png)
 
@@ -245,7 +248,7 @@ Scrollen Sie nach unten zu [!UICONTROL Branding-Domains]. Wählen Sie Ihre Domai
 
 ![](assets/setup-steps-12.png)
 
-Geben Sie im Feld „Domäne“ Ihre E-Mail-Tracking-Domain ein. Diese sollte die folgende Struktur aufweisen:
+Geben Sie im Feld „Domain“ Ihre E-Mail-Tracking-Domain ein. Diese sollte die folgende Struktur aufweisen:
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. Klicken Sie auf **[!UICONTROL Speichern]**.
 
@@ -262,7 +265,7 @@ Wählen Sie je nach CRM, das Ihr Unternehmen verwendet, eine der folgenden Optio
 
   >[!NOTE]
   >
-  >Sie benötigen die Unterstützung der CRM-Administration Ihres Unternehmens, um diese Schritte abzuschließen.
+  >Sie benötigen die Unterstützung des CRM-Administrators Ihrer Firma, um diese Schritte abzuschließen.
 
 ## Hinzufügen von Trackingcode zu Ihrer Website {#add-tracking-code-to-your-website}
 

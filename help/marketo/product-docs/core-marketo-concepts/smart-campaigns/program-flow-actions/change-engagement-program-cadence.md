@@ -7,15 +7,15 @@ feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/nNhVJUelrVSsKcH2oxw2lzWTJINM5JBj1X36KxAoyWI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: '113'
 ht-degree: 7%
-
 ---
-
 # Engagement-Programm-Kadenz ändern {#change-engagement-program-cadence}
 
 Sobald eine Person durch ein Interaktionsprogramm gepflegt wird, können Sie die Pflege für sie mithilfe dieses Flussschritts vorübergehend aussetzen.
@@ -34,4 +34,4 @@ Sobald eine Person durch ein Interaktionsprogramm gepflegt wird, können Sie die
 
    ![](assets/change-engagement-program-cadence-3.png)
 
-Sie können die Person auf &quot;**[!UICONTROL &quot; zurücksetzen]** wenn Sie möchten, dass sie wieder Inhalte erhält.
+   Sie können die Person auf &quot;**[!UICONTROL &quot; zurücksetzen]** wenn Sie möchten, dass sie wieder Inhalte erhält.

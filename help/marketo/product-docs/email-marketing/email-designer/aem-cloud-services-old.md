@@ -4,14 +4,12 @@ description: Erfahren Sie, wie Sie AEM Cloud Services mit Marketo Engage verbind
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: yes
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 8%
-
 ---
-
 # Adobe Experience Manager Cloud Services verbinden {#connect-adobe-experience-manager-cloud-services}
 
 Erfahren Sie, wie Sie Ihr AEM Assets Cloud Services-Konto mit Ihrer Adobe Marketo Engage-Instanz verbinden, um Ihr AEM Asset-Repository in der Marketo Engage E-Mail-Designer nutzen zu können.

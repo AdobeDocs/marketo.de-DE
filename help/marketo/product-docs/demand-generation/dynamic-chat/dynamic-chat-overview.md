@@ -6,23 +6,27 @@ exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 TQID: https://experienceleague.adobe.com/5qqiLY7-0rQiixzz0cgP7rjp8wqwHePgr4vOakFA6Ew
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Dynamic Chat
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 627
+source-wordcount: '627'
 ht-degree: 74%
-
 ---
-
 # Überblick über [!DNL Dynamic Chat] {#dynamic-chat-overview}
 
-Mit Dynamic Chat können Sie eine intuitive Benutzeroberfläche nutzen, um sowohl Personen als auch Konten anzusprechen, die Ihre Website besuchen. Sammeln Sie relevante Inhalte wie Namen, Kontaktinformationen und Freitext. Besuchende der Site können auch mit einem Live-Agent chatten und sogar Meetings mit Ihrem Vertriebs-Team buchen. Aktivitäts- und Interaktionsdaten von Dynamic Chat können verwendet werden, um Mitglieder zu Marketo-Programmen hinzuzufügen und Cross-Channel-Aktivitäten auszulösen.
+Mit Dynamic Chat können Sie eine intuitive Benutzeroberfläche nutzen, um sowohl Personen als auch Konten anzusprechen, die Ihre Website besuchen. Sammeln Sie relevanten Content wie Namen, Kontaktinformationen und Freitext. Site-Besuchende können auch mit einem Live-Agent chatten und sogar Meetings mit Ihrem Vertriebs-Team buchen. Aktivitäts- und Interaktionsdaten von Dynamic Chat können verwendet werden, um Mitglieder zu Marketo-Programmen hinzuzufügen und Cross-Channel-Aktivitäten auszulösen.
 
 >[!TIP]
 >
@@ -40,7 +44,7 @@ Folgendes wird synchronisiert:
 
 ## Dialoge {#dialogues}
 
-Dialoge stellen eine einzelne Chat-Interaktion dar. Stellen Sie sich einen Container mit all den Dingen vor, die Sie für einen ansprechenden Chat-Dialog mit den Besuchenden Ihrer Website benötigen. Sie können in jedem Dialog angeben, auf welchen Seiten der Dialog angezeigt werden soll, wem er angezeigt werden soll sowie Inhalt und Fluss des Dialogs selbst. Darüber hinaus können Sie Metriken anzeigen, die Auskunft darüber geben, wie gut Ihr Dialog funktioniert. [Erfahren Sie mehr zu Dialogen](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}.
+Dialoge stellen eine einzelne Chat-Interaktion dar. Stellen Sie sich einen Container mit all den Dingen vor, die Sie für einen ansprechenden Chat-Dialog mit den Besuchenden Ihrer Website benötigen. Sie können in jedem Dialog angeben, auf welchen Seiten der Dialog angezeigt werden soll, wem er angezeigt werden soll sowie Content und Fluss des Dialogs selbst. Darüber hinaus können Sie Metriken anzeigen, die Auskunft darüber geben, wie gut Ihr Dialog funktioniert. [Erfahren Sie mehr zu Dialogen](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}.
 
 ## Konfiguration {#configuration}
 

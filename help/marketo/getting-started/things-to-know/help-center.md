@@ -6,29 +6,34 @@ exl-id: 3dd7c005-a416-4808-9418-9114df76d963
 TQID: https://experienceleague.adobe.com/DVB94vkw55tMkQ9LKvASESXHdcjiuKHYHbQCM2UDIFM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
   - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+    internal-label: Help center
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 100%
-
 ---
-
 # Hilfezentrum {#help-center}
 
 Das Hilfezentrum in Adobe Marketo Engage dient als zentraler Ort, um Unterstützung zu erhalten. Zusätzlich zu Verknüpfungen zu verschiedenen Ressourcen (z. B. [Produktdokumentation](/help/marketo/home.md){target="_blank"}, [Versionsinformationen](/help/marketo/release-notes/current.md){target="_blank"}, [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}) können Sie auf nützliche produktinterne Anleitungen zugreifen, die nach Erfahrungsgrad angeordnet sind.
 
 ## So greifen Sie darauf zu {#how-to-access}
 
-Es gibt zwei verschiedene Erlebnisse, je nachdem, ob Ihr Abonnement bereits in das Adobe Identitäts-Management-System (IMS) migriert wurde.
+Es gibt zwei verschiedene Erlebnisse, abhängig davon, ob Ihr Abonnement bereits in das Identitäts-Management-System (IMS) von Adobe migriert wurde.
 
 ### Vor der Migration zu Adobe IMS {#pre-adobe-ims-integration}
 
@@ -40,11 +45,11 @@ Diese Schritte richten sich an Marketo Engage-Benutzende, die _noch nicht_ zu [A
 
 #### Handbücher {#guides}
 
-Handbücher dienen als schnelle Anleitungen für beliebte Funktionen.
+Leitfäden dienen als schnelle Übersichten über beliebte Funktionen.
 
 ![](assets/help-center-2.png)
 
-1. Klicken Sie auf das gewünschte Handbuch, um es anzuzeigen.
+1. Klicken Sie auf den gewünschten Leitfaden, um ihn anzuzeigen.
 
    ![](assets/help-center-3.png)
 
@@ -96,7 +101,7 @@ Handbücher (ehemals Teil des Hilfezentrums vor der Migration zu Adobe IMS) befi
 
 ![](assets/help-center-11.png)
 
-Das Guide Center verfügt über zwei Registerkarten: „Handbücher“ und „Neue Funktionen“. Handbücher dienen als schnelle Anleitungen für beliebte Funktionen in Marketo Engage. Klicken Sie auf das gewünschte Handbuch oder suchen Sie nach einem bestimmten Handbuch.
+Das Guide Center verfügt über zwei Registerkarten: „Handbücher“ und „Neue Funktionen“. Handbücher dienen als schnelle Anleitungen für beliebte Funktionen in Marketo Engage. Klicken Sie auf den gewünschten Leitfaden oder suchen Sie nach einem bestimmten Leitfaden.
 
 ![](assets/help-center-12.png)
 

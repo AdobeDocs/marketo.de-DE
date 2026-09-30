@@ -6,21 +6,24 @@ exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
 TQID: https://experienceleague.adobe.com/wpXQpXx-Og5t9TJtlZnuXS2sgGkdDPYv7n5ehPSPHC4
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 420
+source-wordcount: '420'
 ht-degree: 7%
-
 ---
-
-# Verwenden von SMS-Optionen in einer intelligenten Kampagne {#using-sms-options-in-a-smart-campaign}
+# Verwenden von SMS-Optionen in einer intelligenten Kampagne&#x200B; {#using-sms-options-in-a-smart-campaign}
 
 Nachdem Sie [eine SMS-Nachricht erstellen](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} sollten Sie die Trigger und Filter der Smart-Liste innerhalb einer Smart-Kampagne verwenden, um von den Vorteilen zu profitieren.
 
@@ -84,7 +87,7 @@ Es gibt drei SMS-Flussschritte zur Auswahl.
     <td>Diese Flussaktion initiiert den SMS-Abonnementprozess über eine vom Benutzer ausgewählte Vibes-Akquise-Kampagne. Vibes sendet dann eine Bestätigungsnachricht, und der Empfänger muss innerhalb von 24 Stunden mit „Y“ antworten, um die Anmeldung zu bestätigen. Nachdem sich der Benutzer angemeldet hat, wird er Mitglied der zugehörigen Vibes-Abonnement-Liste.</td>
   </tr>
   <tr>
-    <td style="width:20%"><b>Abbestelltes Abonnement der Vibes-Liste</b></td>
+    <td style="width:20%"><b>Abmelden von Vibes-Liste</b></td>
     <td>Mit dieser Flussaktion wird jede Person von einer Abonnement-Liste für angemeldete Benutzer abgemeldet. Wenn ein(e) Benutzende(r) „STOP“ zu Ihrem Code per SMS sendet, wird sein/ihr Personendatensatz aktualisiert, um anzugeben, dass er/sie nicht mehr zur Vibes-Abonnement-Liste gehört.</td>
   </tr>
   </tbody>
