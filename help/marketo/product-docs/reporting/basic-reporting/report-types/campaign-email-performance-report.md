@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-source-git-commit: a3bd8b47cc9c49d4b0c164219347d003441971c0
+source-git-commit: fd61a23992a0698425987c9c1c307c148c51041e
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 30%
+source-wordcount: '253'
+ht-degree: 26%
 ---
 # Leistungsbericht für Kampagnen-E-Mails {#campaign-email-performance-report}
 
@@ -29,33 +29,39 @@ Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail](/he
 >
 >Ein E-Mail-Leistungsbericht für Campaign kann nur als lokales Asset in einem Marketing-Aktivitätsprogramm erstellt werden. Sie ist nicht im Abschnitt „Analytics“ verfügbar.
 
-1. [Erstellen Sie einen Bericht](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) und wählen Sie den **[!UICONTROL Kampagnen-E-Mail-Leistung]**&#x200B;[Berichtstyp](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Klicken Sie in Ihrem Programm auf **Neu** und wählen Sie **Neues lokales Asset**.
 
-1. [Legen Sie den Zeitrahmen Ihres Berichts fest](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) und klicken Sie auf die Registerkarte **[!UICONTROL Bericht]**.
+   ![](assets/campaign-email-performance-report-1.png)
 
-1. Erkunden Sie nun den Bericht, um zu sehen, wie die einzelnen E-Mails in Ihren Kampagnen abgeschnitten haben.
+1. Wählen Sie **Bericht** aus.
 
-   ![](assets/image2014-9-16-16-3a19-3a59.png)
+   ![](assets/campaign-email-performance-report-2.png)
 
-   >[!TIP]
-   >
-   >Klicken Sie auf den Namen einer E-Mail, um sie in der E-Mail-Vorschau zu öffnen.
+1. Wählen Sie in _Dropdown_ Typ“ die Option **Kampagnen-E-Mail-Leistung**. Geben Sie Ihrem Bericht einen Namen und klicken Sie auf **Erstellen**.
 
-   [Spalten, die Sie für &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Kampagnen-E-Mail-Leistungsbericht auswählen können, umfassen:
+   ![](assets/campaign-email-performance-report-3.png)
 
-   | Spalte | Beschreibung |
-   |---|---|
-   | [!UICONTROL Hardbounce] | E-Mail wurde aufgrund einer permanenten Bedingung abgelehnt, z. B. einer nicht vorhandenen E-Mail-Adresse. |
-   | [!UICONTROL Softbounce] | E-Mail wurde aufgrund einer temporären Bedingung abgelehnt, z. B. weil ein Server ausgefallen oder der Posteingang voll ist. |
-   | [!UICONTROL Ausstehend] | E-Mail wird noch zugestellt. |
-   | [!UICONTROL Link angeklickt] | Anzahl der E-Mail-Empfangenden, die auf einen Link in der E-Mail geklickt haben. |
-   | [!UICONTROL Abo storniert] | Die Anzahl der E-Mail-Empfänger, die auf den **[!UICONTROL Abmelden]**-Link in der E-Mail geklickt und das Formular ausgefüllt haben. |
+1. Definieren Sie die Parameter Ihres Berichts.
 
-   >[!NOTE]
-   >
-   >Im Allgemeinen wird versucht, beim Erfassen dieser Statistiken gesunden Menschenverstand einzusetzen. Wenn beispielsweise jemand auf einen Link in einer E-Mail geklickt hat, hat er ihn offensichtlich zuerst geöffnet. Die spezifischen Regeln, die wir befolgen, finden Sie im [E-Mail-Leistungsbericht](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   ![](assets/campaign-email-performance-report-4.png)
 
-   >[!MORELIKETHIS]
-   >
-   >* [Filtern von Assets in einem Campaign-E-Mail-Bericht](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >* [E-Mail-Leistungsbericht](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+1. Wenn Sie fertig sind, klicken Sie auf die **Bericht**, um Ihren Bericht anzuzeigen.
+
+[Sie können für ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Campaign-E-Mail-Leistungsbericht Spalten auswählen:
+
+| Spalte | Beschreibung |
+|---|---|
+| [!UICONTROL Hardbounce] | E-Mail wurde aufgrund einer permanenten Bedingung abgelehnt, z. B. einer nicht vorhandenen E-Mail-Adresse. |
+| [!UICONTROL Softbounce] | E-Mail wurde aufgrund einer temporären Bedingung abgelehnt, z. B. weil ein Server ausgefallen oder der Posteingang voll ist. |
+| [!UICONTROL Ausstehend] | E-Mail wird noch zugestellt. |
+| [!UICONTROL Link angeklickt] | Anzahl der E-Mail-Empfangenden, die auf einen Link in der E-Mail geklickt haben. |
+| [!UICONTROL Abo storniert] | Die Anzahl der E-Mail-Empfänger, die auf den **[!UICONTROL Abmelden]**-Link in der E-Mail geklickt und das Formular ausgefüllt haben. |
+
+>[!NOTE]
+>
+>Im Allgemeinen wird versucht, beim Erfassen dieser Statistiken gesunden Menschenverstand einzusetzen. Wenn beispielsweise jemand auf einen Link in einer E-Mail geklickt hat, hat er ihn offensichtlich zuerst geöffnet. Die spezifischen Regeln, die wir befolgen, finden Sie im [E-Mail-Leistungsbericht](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+
+>[!MORELIKETHIS]
+>
+>* [Filtern von Assets in einem Campaign-E-Mail-Bericht](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [E-Mail-Leistungsbericht](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
