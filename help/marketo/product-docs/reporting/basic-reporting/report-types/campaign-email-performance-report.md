@@ -47,7 +47,7 @@ Führen Sie einen E-Mail-Leistungsbericht für Campaign aus, um Ihre E[Mail](/he
 
 1. Wenn Sie fertig sind, klicken Sie auf die **Bericht**, um Ihren Bericht anzuzeigen.
 
-[Sie können für ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Campaign-E-Mail-Leistungsbericht Spalten auswählen:
+[Sie können für &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) Campaign-E-Mail-Leistungsbericht Spalten auswählen:
 
 | Spalte | Beschreibung |
 |---|---|
