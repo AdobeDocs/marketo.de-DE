@@ -3,13 +3,11 @@ description: Das Klonprogramm dupliziert ein vorhandenes Marketo-Programm in ein
 title: Programm klonen
 badge: Beta
 hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '487'
 ht-degree: 1%
-
 ---
-
 # Programm klonen {#clone-program}
 
 Der Agent „Programm klonen“ kopiert ein Arbeitsprogramm, einschließlich der intelligenten Kampagnen, Flussschritte, E-Mail-Assets und der Konfiguration, an einen neuen Speicherort in Ihrer Marketo-Umgebung.
@@ -28,16 +26,16 @@ Der Agent „Programm klonen“ kopiert ein Arbeitsprogramm, einschließlich der
 
 ## Informationen zur Verwendung {#how-to-use}
 
-1. Klicken Sie in My Marketo auf die Kachel **Mitarbeiter für Marketo Engage**.
+1. Klicken Sie in „Mein Marketo&quot; auf die Kachel **CX Enterprise Coworker für Marketo Engage** .
 1. Geben Sie im Eingabeaufforderungsfenster Ihre Anweisungen ein. Beispiel: „Klonen Sie mein Webinar-Programm für das zweite Quartal in den Ordner für Q3-Kampagnen und nennen Sie es „Produktdemo-Webinar für das dritte Quartal“.
-1. Ein Mitarbeiter für Marketo Engage bestätigt das Quellprogramm, den Zielordner und den neuen Namen. Überprüfen und bestätigen.
-1. Der Klon wird erstellt. Coworker for Marketo Engage bestätigt, wann dies erledigt ist, und teilt Ihnen mit, wo Sie es finden können.
+1. CX Enterprise Coworker für Marketo Engage bestätigt Quellprogramm, Zielordner und neuen Namen. Überprüfen und bestätigen.
+1. Der Klon wird erstellt. CX Enterprise Coworker für Marketo Engage bestätigt, wann dies abgeschlossen ist, und gibt an, wo Sie es finden können.
 1. Öffnen Sie das neue Programm in Marketo und aktualisieren Sie, was anders ist: E-Mail-Inhalt, Daten, Zielgruppenfilter, Token usw.
 1. Führen Sie [Programm-QA](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md)-Agent vor der Aktivierung aus.
 
 ## Anwendungsszenarien {#use-cases}
 
-**Vierteljährliche Kampagnenwiederverwendung**: Ein Kampagnen-Manager führt jedes Quartal dieselbe Webinar-Reihe durch. Sie bitten Coworker for Marketo Engage, das Webinar-Programm des letzten Quartals mit einem aktualisierten Namen in den Ordner des neuen Quartals zu klonen. Anschließend aktualisieren sie die E-Mail-Kopie, Webinar-Datumstoken und den Anmelde-Link, wodurch die Einrichtungszeit um mehrere Stunden verkürzt wird.
+**Vierteljährliche Kampagnenwiederverwendung**: Ein Kampagnen-Manager führt jedes Quartal dieselbe Webinar-Reihe durch. CX Enterprise Coworker wird gebeten, das Webinar-Programm des letzten Quartals mit einem aktualisierten Namen in den Ordner des neuen Quartals zu klonen. Anschließend aktualisieren sie die E-Mail-Kopie, Webinar-Datumstoken und den Anmelde-Link, wodurch die Einrichtungszeit um mehrere Stunden verkürzt wird.
 
 **Erstellen einer Vorlage aus einem bewährten Programm**: Ein Marketing-Opportunity-Spezialist klont ein leistungsstarkes Produkt-Launch-Programm in einen „Vorlagen“-Ordner, der als Ausgangspunkt für zukünftige Launches dient. Der Klon bleibt deaktiviert und wird als Referenzkopie verwendet.
 

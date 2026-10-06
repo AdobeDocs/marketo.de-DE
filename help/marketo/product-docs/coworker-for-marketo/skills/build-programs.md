@@ -1,16 +1,16 @@
 ---
-description: Verwenden Sie Coworker for Marketo Engage, um ein Marketo-Programm zu erstellen, indem Sie eine vorhandene Vorlage anpassen. Holen Sie sich intelligente Kampagnen, Zeitpläne und Asset-Platzhalter, die bereit zur Überprüfung und Verfeinerung sind.
+description: Verwenden Sie CX Enterprise Coworker für Marketo Engage, um ein Marketo-Programm zu erstellen, indem Sie eine vorhandene Vorlage anpassen. Holen Sie sich intelligente Kampagnen, Zeitpläne und Asset-Platzhalter, die bereit zur Überprüfung und Verfeinerung sind.
 title: Erstellen von Programmen
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '828'
 ht-degree: 0%
 ---
 # Erstellen von Programmen {#build-programs}
 
-Beschreiben Sie eine Marketing-Kampagne in einfacher Sprache, und Coworker for Marketo Engage passt eine vorhandene Programmvorlage an Ihre Anforderungen an, aktualisiert E-Mail-Inhalte automatisch und erstellt zusätzliche Assets, indem Sie Ihre Vorlagenstruktur duplizieren.
+Beschreiben Sie eine Marketing-Kampagne in einfacher Sprache, und CX Enterprise Coworker for Marketo Engage passt eine vorhandene Programmvorlage an Ihre Anforderungen an. Dabei werden E-Mail-Inhalte automatisch aktualisiert und zusätzliche Assets erstellt, indem Ihre Vorlagenstruktur dupliziert wird.
 
-Die Organisationsregeln Ihres Unternehmens [, wie &#x200B;](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} für Marketo Engage das Programm während der Erstellung strukturiert und validiert. Diese Regeln stellen sicher, dass das neue Programm mit Ihren Namenskonventionen, erforderlichen Token, Ordnerstruktur und Compliance-Standards übereinstimmt.
+Die Organisationsregeln Ihres Unternehmens [, wie ](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} CX Enterprise Coworker for Marketo Engage das Programm während der Erstellung strukturiert und validiert. Diese Regeln stellen sicher, dass das neue Programm mit Ihren Namenskonventionen, erforderlichen Token, Ordnerstruktur und Compliance-Standards übereinstimmt.
 
 >[!PREREQUISITES]
 >
@@ -20,15 +20,15 @@ Die Organisationsregeln Ihres Unternehmens [, wie &#x200B;](/help/marketo/produc
 
 ## Informationen zur Verwendung {#how-to-use}
 
-1. Klicken Sie in My Marketo auf die Kachel **Mitarbeiter für Marketo Engage**.
+1. Klicken Sie in „Mein Marketo&quot; auf die Kachel **CX Enterprise Coworker für Marketo Engage** .
 
 1. Ein Vorlagenprogramm auswählen. Wählen Sie ein vorhandenes Programm aus, das Ihrem Kampagnentyp entspricht (z. B. E-Mail, Webinar, Pflege).
 
 1. Geben Sie im Eingabeaufforderungsfenster eine Beschreibung der Kampagne ein, die Sie erstellen möchten. So spezifisch oder so allgemein wie gewünscht sein (Sie können jederzeit verfeinern).
 
-1. Coworker for Marketo Engage bestätigt seine Interpretation Ihres Briefs und listet auf, was er erstellen möchte. Überprüfen Sie dies, bevor es erstellt wird.
+1. CX Enterprise Coworker für Marketo Engage bestätigt seine Interpretation Ihres Briefs und listet auf, was er erstellen möchte. Überprüfen Sie dies, bevor es erstellt wird.
 
-1. Bestätigen Sie, und Coworker for Marketo Engage erstellt das Programm in Ihrer Umgebung.
+1. Bestätigen Sie, und CX Enterprise Coworker für Marketo Engage erstellt das Programm in Ihrer Umgebung.
 
 1. Öffnen Sie das neu erstellte Programm in Marketo und überprüfen Sie die Struktur.
 
@@ -40,13 +40,13 @@ Die Organisationsregeln Ihres Unternehmens [, wie &#x200B;](/help/marketo/produc
 
 ## Anwendungsfälle {#use-cases}
 
-**Webinar-Registrierungsprogramm**: Ein Kampagnen-Manager gibt „Erstellen Sie ein Webinar-Registrierungsprogramm für unsere August-Produktdemo. Senden Sie eine Einladungs-E-Mail, eine Erinnerung am Vortag und eine Folgenachricht mit dem Link zur Aufzeichnung danach.“ Coworker for Marketo Engage erstellt ein Programm mit drei Smart-Kampagnen (Einladung, Erinnerung, Follow-up), jeweils Platzhalter-E-Mails und einer Planung basierend auf dem Ereignisdatum.
+**Webinar-Registrierungsprogramm**: Ein Kampagnen-Manager gibt „Erstellen Sie ein Webinar-Registrierungsprogramm für unsere August-Produktdemo. Senden Sie eine Einladungs-E-Mail, eine Erinnerung am Vortag und eine Folgenachricht mit dem Link zur Aufzeichnung danach.“ CX Enterprise Coworker für Marketo Engage erstellt ein Programm mit drei Smart-Kampagnen (Einladung, Erinnerung, Follow-up), jeweils Platzhalter-E-Mails und einer Planung basierend auf dem Ereignisdatum.
 
-**Trigger zur Lead-Bewertung**: Ein Marketing-Opportunity-Spezialist gibt folgende Informationen ein: „Erstellen Sie ein Programm, das Trigger erstellt, wenn ein Lead den Score 50 erreicht, und sendet sie an eine Smart List von MQL.“ Coworker for Marketo Engage erstellt das Programm mit einer Trigger-Kampagne, die auf die Score-Änderung wartet, und einem Flussschritt, der den Lead zur MQL-Liste hinzufügt.
+**Trigger zur Lead-Bewertung**: Ein Marketing-Opportunity-Spezialist gibt folgende Informationen ein: „Erstellen Sie ein Programm, das Trigger erstellt, wenn ein Lead den Score 50 erreicht, und sendet sie an eine Smart List von MQL.“ CX Enterprise Coworker für Marketo Engage erstellt das Programm mit einer Trigger-Kampagne, die auf die Score-Änderung wartet, und einem Flussschritt, der den Lead zur MQL-Liste hinzufügt.
 
-**Erneute Interaktion fördern**: Ein Manager von Demand Gen bittet um eine 3-E-Mail-Serie zur erneuten Interaktion mit Leads, die sich seit 90 Tagen nicht mehr engagiert haben. Worker für Marketo Engage erstellt die Batch-Kampagne mit dem Inaktivitätsfilter, drei E-Mail-Sendeschritten mit entsprechenden Warteschritten zwischen ihnen und einem Flussschritt zur Aktualisierung des Lead-Status, wenn sich jemand erneut anmeldet.
+**Erneute Interaktion fördern**: Ein Manager von Demand Gen bittet um eine 3-E-Mail-Serie zur erneuten Interaktion mit Leads, die sich seit 90 Tagen nicht mehr engagiert haben. CX Enterprise Coworker für Marketo Engage erstellt die Batch-Kampagne mit dem Inaktivitätsfilter, drei E-Mail-Sendeschritten mit entsprechenden Warteschritten zwischen ihnen und einem Flussschritt zur Aktualisierung des Lead-Status, wenn sich jemand erneut anmeldet.
 
-**Veranstaltungsprogramm**: Nach einer Messe bittet ein Vorgesetzter einen Mitarbeiter von Marketo Engage, ein Nachbereitungsprogramm für die Veranstaltung zu erstellen, das eine Dankesnachricht an die Teilnehmer und eine E-Mail zu den verpassten Teilnehmern an die Teilnehmer sendet, die nicht angezeigt wurden. Coworker for Marketo Engage erstellt zwei Smart-Kampagnen, eine für jedes Segment, mit den richtigen Filtern und E-Mail-Platzhaltern.
+**Veranstaltungsnachbereitung**: Nach einer Handelsmesse bittet ein Vorgesetzter CX Enterprise Coworker, für Marketo Engage ein Nachbereitungsprogramm zu erstellen, das Teilnehmern eine Dankesnachricht und Registrierungs-E-Mails an nicht angezeigte Teilnehmer sendet. CX Enterprise Coworker für Marketo Engage erstellt zwei Smart-Kampagnen, eine für jedes Segment, mit den richtigen Filtern und E-Mail-Platzhaltern.
 
 >[!NOTE]
 >
@@ -58,6 +58,6 @@ Die Organisationsregeln Ihres Unternehmens [, wie &#x200B;](/help/marketo/produc
 * Vorlagenauswahl ist erforderlich. Wählen Sie eine Vorlage mit mindestens einer E-Mail und einer Smart-Kampagne aus. Das Tool kann nicht mit leeren Vorlagen arbeiten.
 * Der E-Mail-Inhalt wird automatisch generiert, aber die Filter und Flussschritte von Smart Campaign bleiben manuell. Sie müssen die Logik nach der Erstellung so konfigurieren, dass sie dem beabsichtigten Verhalten Ihrer Kampagne entspricht.
 * Zusätzliche Assets werden durch Duplizierung erstellt. Wenn Ihre Zusammenfassung vier E-Mails erfordert, Ihre Vorlage jedoch eine enthält, erstellt das Tool drei Duplikate. Überprüfen Sie alle Elemente auf Konsistenz und übernehmen Sie das Design und die Struktur der Vorlage.
-* Coworker for Marketo Engage kann nicht automatisch auf Ihre bestehenden Zielgruppenlisten zugreifen. Sie müssen die Filter der Smart-Liste manuell konfigurieren, um Ihre tatsächlichen Segmente anzusprechen, nachdem das Programm erstellt wurde.
+* CX Enterprise Coworker für Marketo Engage kann nicht automatisch auf Ihre bestehenden Zielgruppenlisten zugreifen. Sie müssen die Filter der Smart-Liste manuell konfigurieren, um Ihre tatsächlichen Segmente anzusprechen, nachdem das Programm erstellt wurde.
 * Komplexe mehrstufige Programme mit erweiterter Verzweigungslogik müssen nach der Erstellung möglicherweise manuell verfeinert werden.
 * Wenn Ihre Marketo-Umgebung Namenskonventionen oder Ordnerstrukturen verwendet, geben Sie diese in Ihrer Zusammenfassung an, damit das Programm an der richtigen Stelle erstellt wird.
