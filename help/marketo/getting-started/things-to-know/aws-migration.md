@@ -3,16 +3,16 @@ description: AWS-Migration - Marketo Engage-Dokumente - Produktdokumentation
 title: AWS-Migration
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78cbf2bc22a769e1b1013ddf7293e1a49ccd77e4
+source-git-commit: a02e4782a1c320ec1baa8c304d50c7e1807ab445
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 5%
+source-wordcount: '1227'
+ht-degree: 4%
 ---
 # AWS-Migration {#aws-migration}
 
 In den nächsten Monaten werden alle Marketo Engage-Abonnements von einem privaten Rechenzentrum in die öffentliche Cloud von AWS migriert, um Zuverlässigkeit, Skalierbarkeit und Geschwindigkeit zu verbessern.
 
-Etwa 30 Tage vor der Migration erhalten Sie eine E-Mail [&#x200B; eine In-App-Benachrichtigung](#identify). Verwenden Sie dieses Handbuch zur Vorbereitung.
+Etwa 30 Tage vor der Migration erhalten Sie eine E-Mail [ eine In-App-Benachrichtigung](#identify). Verwenden Sie dieses Handbuch zur Vorbereitung.
 
 ## Empfohlene Aktionen {#actions}
 
@@ -20,7 +20,7 @@ Während des Migrationsfensters sind nicht alle Marketo Engage-Services verfügb
 
 * **Vermeiden Sie das Erstellen oder Aktualisieren von Leads/Personen** das Ausführen von Prozessen, die Personendatensätze ändern.
 
-* **Keine Trigger-Folgeprozesse** da geplante Kampagnen angehalten werden.
+* **Keine Trigger-Folgeprozesse** da alle geplanten Kampagnen angehalten werden.
 
 * **Deaktivieren Sie vorübergehend alle Integrationen** die Daten an oder von Marketo Engage senden oder empfangen.
 
@@ -28,7 +28,7 @@ Während des Migrationsfensters sind nicht alle Marketo Engage-Services verfügb
 
 * **IP-Zulassungslisten überprüfen und aktualisieren** für Anmeldung, API-Zugriff, E-Mail-Versand, Webtracking und Integrationen.
 
-* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([&#x200B; Tabelle unten) hinzugefügt werden &#x200B;](#ip-addresses).
+* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([ Tabelle unten) hinzugefügt werden ](#ip-addresses).
 
 ## Erwartete Service-Auswirkungen {#impacts}
 
@@ -41,11 +41,11 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 >[!IMPORTANT]
 >
->Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich [&#128279;](https://experienceleague.adobe.com/de/support){target="_blank"} Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
+>Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich ](https://experienceleague.adobe.com/en/support){target="_blank"} [Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
 
 ## Identifizieren des Rechenzentrums/Pods {#identify}
 
-Bevor Sie sich den unten stehenden Zeitplan ansehen, [&#x200B; Sie (erfahren Sie, wie Sie &#x200B;](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify), in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
+Bevor Sie sich den unten stehenden Zeitplan ansehen, [ Sie (erfahren Sie, wie Sie ](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"}, in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
 
 ## Zeitplan {#schedule}
 
@@ -341,9 +341,9 @@ Arbeiten Sie je nach Rechenzentrum mit Ihrer IT-Abteilung zusammen, um die entsp
 
 Die neuesten Informationen finden Sie auf dieser Seite als Lesezeichen.
 
-Für Statusaktualisierungen können Sie [Abonnieren, um sie zu erhalten](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} zu Beginn und nach Abschluss der Migration zugreifen. Sie können auch [status.adobe.com](https://status.adobe.com/de){target="_blank"} während Ihres Migrationsfensters besuchen.
+Für Statusaktualisierungen können Sie [Abonnieren, um sie zu erhalten](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} zu Beginn und nach Abschluss der Migration zugreifen. Sie können auch [status.adobe.com](https://status.adobe.com/de){target="_blank"} während Ihres Migrationsfensters besuchen.
 
-Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/de/support){target="_blank"}.
+Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Häufig gestellte Fragen {#faq}
 
@@ -362,3 +362,13 @@ Marketo verwendet Amazon Aurora, eine Cloud-native relationale Datenbank-Engine,
 Aurora führt auch kontinuierliche, automatische Backups in Echtzeit auf Amazon S3 durch, sodass Point-in-Time Recovery (PITR) zu jeder Sekunde innerhalb des konfigurierten Aufbewahrungsfensters möglich ist.
 
 Derzeit erfolgt die Aurora-Bereitstellung von Marketo innerhalb einer einzigen AWS-Region, ohne dass eine regionenübergreifende Replikation erforderlich ist. Die Produktionsdaten verbleiben innerhalb der ausgewiesenen regionalen Infrastruktur, und die Notfallwiederherstellung erfolgt durch Auroras Multi-AZ-Speicherredundanz und kontinuierliche Backups anstatt durch ein geografisches Failover auf eine sekundäre Region. Dieser Wert kann im Zuge der Weiterentwicklung der AWS-Infrastruktur von Marketo weiter ausgewertet werden.
+
+**Wie werden Abmeldungen während der Ausfallzeit gehandhabt?**
+Standard- und Listen-Abmeldungen (von E-Mail-Clients) werden weiterhin empfangen und werden kurz nach der Migration verarbeitet.
+
+**Gibt es Alternativen zum Anhalten von Kampagnen?**
+Ja. Wenn Sie verhindern möchten, dass Personen voranschreiten, aber eingehende Daten nicht verlieren möchten, sollten Sie die folgenden Optionen in Betracht ziehen:
+
+* Auswahl-Schritt hinzufügen: Anstatt die Kampagne zu deaktivieren, lassen Sie sie aktiv, fügen Sie jedoch [Fluss-Schritt warten](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} oder einen sofortigen „Nichts tun“-Schritt ganz oben im Fluss hinzu. Legen Sie eine [Auswahlregel](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} fest, die Ihre Benutzer in diesen angehaltenen Zustand versetzt, und aktualisieren Sie dann die Auswahlregeln, wenn Sie bereit sind.
+* Aus Fluss entfernen: Wenn Personen bereits in die Kampagne eingetreten sind, ihr Fortschritt jedoch angehalten werden muss, verwenden Sie die Aktion [Aus Fluss entfernen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"}, um sie abzurufen, ohne den Trigger der Kampagne dauerhaft zu deaktivieren.
+* Batch-Alternative: Konvertieren Sie Trigger-Kampagnen in Batch-Kampagnen, wenn Sie kein sofortiges Routing oder keine Antworten benötigen und die Personen nur über Nacht oder in terminierten Intervallen verarbeiten möchten.
