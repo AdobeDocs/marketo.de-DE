@@ -41,7 +41,7 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 >[!IMPORTANT]
 >
->Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich [&#128279;](https://experienceleague.adobe.com/en/support){target="_blank"} Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
+>Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich [&#128279;](https://experienceleague.adobe.com/de/support){target="_blank"} Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
 
 ## Identifizieren des Rechenzentrums/Pods {#identify}
 
@@ -341,9 +341,9 @@ Arbeiten Sie je nach Rechenzentrum mit Ihrer IT-Abteilung zusammen, um die entsp
 
 Die neuesten Informationen finden Sie auf dieser Seite als Lesezeichen.
 
-Für Statusaktualisierungen können Sie [Abonnieren, um sie zu erhalten](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} zu Beginn und nach Abschluss der Migration zugreifen. Sie können auch [status.adobe.com](https://status.adobe.com/de){target="_blank"} während Ihres Migrationsfensters besuchen.
+Für Statusaktualisierungen können Sie [Abonnieren, um sie zu erhalten](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} zu Beginn und nach Abschluss der Migration zugreifen. Sie können auch [status.adobe.com](https://status.adobe.com/de){target="_blank"} während Ihres Migrationsfensters besuchen.
 
-Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/en/support){target="_blank"}.
+Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/de/support){target="_blank"}.
 
 ## Häufig gestellte Fragen {#faq}
 
@@ -369,6 +369,6 @@ Standard- und Listen-Abmeldungen (von E-Mail-Clients) werden weiterhin empfangen
 **Gibt es Alternativen zum Anhalten von Kampagnen?**
 Ja. Wenn Sie verhindern möchten, dass Personen voranschreiten, aber eingehende Daten nicht verlieren möchten, sollten Sie die folgenden Optionen in Betracht ziehen:
 
-* Auswahl-Schritt hinzufügen: Anstatt die Kampagne zu deaktivieren, lassen Sie sie aktiv, fügen Sie jedoch [Fluss-Schritt warten](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} oder einen sofortigen „Nichts tun“-Schritt ganz oben im Fluss hinzu. Legen Sie eine [Auswahlregel](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} fest, die Ihre Benutzer in diesen angehaltenen Zustand versetzt, und aktualisieren Sie dann die Auswahlregeln, wenn Sie bereit sind.
-* Aus Fluss entfernen: Wenn Personen bereits in die Kampagne eingetreten sind, ihr Fortschritt jedoch angehalten werden muss, verwenden Sie die Aktion [Aus Fluss entfernen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"}, um sie abzurufen, ohne den Trigger der Kampagne dauerhaft zu deaktivieren.
+* Auswahl-Schritt hinzufügen: Anstatt die Kampagne zu deaktivieren, lassen Sie sie aktiv, fügen Sie jedoch [Fluss-Schritt warten](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} oder einen sofortigen „Nichts tun“-Schritt ganz oben im Fluss hinzu. Legen Sie eine [Auswahlregel](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} fest, die Ihre Benutzer in diesen angehaltenen Zustand versetzt, und aktualisieren Sie dann die Auswahlregeln, wenn Sie bereit sind.
+* Aus Fluss entfernen: Wenn Personen bereits in die Kampagne eingetreten sind, ihr Fortschritt jedoch angehalten werden muss, verwenden Sie die Aktion [Aus Fluss entfernen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"}, um sie abzurufen, ohne den Trigger der Kampagne dauerhaft zu deaktivieren.
 * Batch-Alternative: Konvertieren Sie Trigger-Kampagnen in Batch-Kampagnen, wenn Sie kein sofortiges Routing oder keine Antworten benötigen und die Personen nur über Nacht oder in terminierten Intervallen verarbeiten möchten.
