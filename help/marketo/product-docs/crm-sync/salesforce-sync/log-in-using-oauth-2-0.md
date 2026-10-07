@@ -85,7 +85,7 @@ Salesforce verwendet das OAuth-Protokoll, um Benutzenden von Programmen einen si
 >* Marketo Sync-Benutzer muss in Salesforce erstellt werden.
 >* Popup-Blocker sind deaktiviert.
 >* Die verbundene App wird erstellt und der [!UICONTROL Consumer Key] und [!UICONTROL Consumer Secret] können verwendet werden.
->* Wenden Sie sich an den [Marketo](https://experienceleague.adobe.com/en/support)Support, um die folgenden Funktionen aktivieren zu lassen: OAuth für SFDC-Synchronisierung aktivieren, Geheimnis für Aktualisierungstoken-Fluss anfordern und Korrekturabzugsschlüssel für Code Exchange (PKCE).
+>* Wenden Sie sich an den [Marketo](https://experienceleague.adobe.com/de/support)Support, um die folgenden Funktionen aktivieren zu lassen: OAuth für SFDC-Synchronisierung aktivieren, Geheimnis für Aktualisierungstoken-Fluss anfordern und Korrekturabzugsschlüssel für Code Exchange (PKCE).
 
 >[!CAUTION]
 >
