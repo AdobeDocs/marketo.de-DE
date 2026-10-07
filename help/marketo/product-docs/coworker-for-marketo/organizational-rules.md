@@ -1,14 +1,14 @@
 ---
-description: Erfahren Sie, wie Organisationsregeln Governance-Standards definieren und Coworker für Marketo Engage bei der Programmerstellung, Kampagnenplanung und -validierung anleiten.
+description: Erfahren Sie, wie Organisationsregeln Governance-Standards definieren und CX Enterprise Coworker für Marketo Engage bei der Programmerstellung, Kampagnenplanung und -validierung unterstützen.
 title: Organisationsregeln
-source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '867'
 ht-degree: 0%
 ---
 # Organisationsregeln {#organizational-rules}
 
-Organisationsregeln definieren Ihre Marketing-Betriebsstandards und Governance-Anforderungen in einem einzigen Dokument, das Coworker for Marketo Engage bei der Programmerstellung, Kampagnenplanung und Validierungs-Workflows anleitet.
+Organisationsregeln definieren Ihre Marketing-Betriebsstandards und Governance-Anforderungen in einem einzigen Dokument, das CX Enterprise Coworker für Marketo Engage bei der Programmerstellung, Kampagnenplanung und Validierungs-Workflows unterstützt.
 
 ## Was sind Organisationsregeln? {#what-are-organizational-rules}
 
@@ -23,17 +23,17 @@ Jede Marketo Engage-Umgebung enthält standardmäßige Organisationsregeln. Sie 
 
 ## Wo Organisationsregeln verwendet werden {#where-organizational-rules-are-used}
 
-Organisationsregeln führen Coworker for Marketo Engage in drei Qualifikationen an:
+Organisationsregeln führen CX Enterprise Coworker für Marketo Engage in drei Bereichen an:
 
 | Skill | So werden Regeln angewendet |
 | --- | --- |
-| Erstellen von Programmen | Regeln dienen zur Erstellung der Programmstruktur, Benennung und Ersteinrichtung. Coworker for Marketo Engage kennzeichnet alle Compliance-Probleme in Ihrer Übersicht, bevor Sie das Programm erstellen. |
-| Kampagnen planen | Die Regeln bestimmen, wie Coworker for Marketo Engage Smart-Kampagnen, Filter und Flussschritte basierend auf Ihren Standards strukturiert. |
-| Programme validieren | Regeln definieren, was Coworker for Marketo Engage bei der Validierung von Programmen vor der Aktivierung überprüft. |
+| Erstellen von Programmen | Regeln dienen zur Erstellung der Programmstruktur, Benennung und Ersteinrichtung. CX Enterprise Coworker für Marketo Engage kennzeichnet alle Compliance-Probleme in Ihrer Zusammenfassung, bevor Sie das Programm erstellen. |
+| Kampagnen planen | Die Regeln bestimmen, wie CX Enterprise Coworker for Marketo Engage Smart-Kampagnen, Filter und Flussschritte basierend auf Ihren Standards strukturiert. |
+| Programme validieren | Regeln definieren, was CX Enterprise Coworker for Marketo Engage bei der Programmvalidierung vor der Aktivierung überprüft. |
 
 ## Zugriff auf und Anpassung von Organisationsregeln {#how-to-access-and-customize-organizational-rules}
 
-1. Klicken Sie in My Marketo auf die Kachel **Mitarbeiter für Marketo Engage**.
+1. Klicken Sie in „Mein Marketo&quot; auf die Kachel **CX Enterprise Coworker für Marketo Engage** .
 1. Klicken Sie auf das Zahnradsymbol.
 1. Wählen Sie die **Organisationsregeln** aus.
 1. Überprüfen Sie die Standardregeln (diese enthalten bereits Best Practices für Marketing-Vorgänge).
@@ -45,7 +45,7 @@ Organisationsregeln führen Coworker for Marketo Engage in drei Qualifikationen 
    * Konformitäts- und Ausschlussstandards
 
 1. Versionsnummer bei Änderungen aktualisieren
-1. Speichern Sie Ihre Änderungen. Alle Mitarbeiter für Marketo Engage-Kenntnisse verwenden Ihre benutzerdefinierten Regeln sofort.
+1. Speichern Sie Ihre Änderungen. Alle CX Enterprise Coworker for Marketo Engage-Kenntnisse verwenden sofort Ihre benutzerdefinierten Regeln.
 
 ## Struktur der Organisationsregeln {#organizational-rules-structure}
 
@@ -99,16 +99,16 @@ customized: true
 * **Regeln fokussieren**: Schließen Sie nur Anforderungen ein, die für Ihr Unternehmen wichtig sind. Unnötige Regeln verursachen Lärm und verringern unnötige Compliance-Bewertungen.
 * **Verwenden Sie sowohl automatisierte als auch manuelle Prüfungen**:
 
-  * Automatisierte Prüfungen: Namenskonventionen, erforderliche Ordner, Token-Nutzung (Coworker for Marketo Engage kann diese überprüfen)
-  * Manuelle Prüfungen: Visuelles E-Mail-Design, Markenkonformität, Kampagnenlogik (Coworker for Marketo Engage kennzeichnet diese als manuelle Überprüfungsschritte)
+  * Automatisierte Prüfungen: Namenskonventionen, erforderliche Ordner, Token-Nutzung (CX Enterprise Coworker for Marketo Engage kann diese überprüfen)
+  * Manuelle Prüfungen: Visuelles E-Mail-Design, Markenkonformität, Kampagnenlogik (CX Enterprise Coworker für Marketo Engage kennzeichnet diese als manuelle Überprüfungsschritte)
 
 * **Schärfe mit Flexibilität in Einklang bringen**: Zu strenge Regeln können die Programmerstellung verlangsamen. Zu lockere Regeln lösen keine wichtigen Compliance-Probleme aus.
 * **Ihre Regeln versionieren**: Aktualisieren Sie die Versionsnummer, wenn Sie wichtige Änderungen vornehmen, damit Ihr Team weiß, dass die Governance-Standards aktualisiert wurden.
 * **Änderungen mitteilen**: Wenn Sie Organisationsregeln aktualisieren, informieren Sie Ihr Marketing-Opportunity-Team darüber, was sich geändert hat und warum.
 
-## Was Coworker for Marketo Engage validieren kann und was nicht {#what-coworker-can-and-cannot-validate}
+## Was CX Enterprise Coworker für Marketo Engage validieren kann und was nicht {#what-coworker-can-and-cannot-validate}
 
-Coworker for Marketo Engage CAN validate (automatisierte Prüfungen):
+CX Enterprise Coworker für Marketo Engage CAN-Validierung (automatisierte Prüfungen):
 
 * Benennungskonventionen entsprechen Ihren Mustern
 * Erforderliche Ordnerstruktur vorhanden
@@ -117,7 +117,7 @@ Coworker for Marketo Engage CAN validate (automatisierte Prüfungen):
 * Externe Links enthalten UTM-Parameter
 * Smart Campaign-Namen folgen Konventionen
 
-Mitarbeiter für Marketo Engage KANN NICHT validieren (manuelle Überprüfung erforderlich):
+CX Enterprise Coworker für Marketo Engage KANN NICHT validiert werden (manuelle Überprüfung erforderlich):
 
 * Logik des Smart List-Filters (API-Einschränkung: Filter müssen manuell konfiguriert werden)
 * Schrittlogik des Smart-Campaign-Flusses (API-Einschränkung: Flüsse müssen manuell konfiguriert werden)
@@ -125,14 +125,14 @@ Mitarbeiter für Marketo Engage KANN NICHT validieren (manuelle Überprüfung er
 * Markenkonformität und Aussagekraft (erfordert menschliches Urteilsvermögen)
 * Segmentierungsregeln für dynamische Inhalte (API-Einschränkung)
 
-Wenn ein Mitarbeiter für Marketo Engage auf etwas stößt, das nicht validiert werden kann, wird es als manueller Überprüfungsschritt im Workflow gekennzeichnet.
+Wenn CX Enterprise Coworker für Marketo Engage auf etwas stößt, das nicht validiert werden kann, wird es als manueller Überprüfungsschritt im Workflow gekennzeichnet.
 
 ## Compliance Scoring {#compliance-scoring}
 
-Wenn Sie „Programme validieren“ verwenden, berechnet Coworker for Marketo Engage einen Kompatibilitätswert anhand folgender Faktoren:
+Wenn Sie „Programme validieren“ verwenden, berechnet CX Enterprise Coworker für Marketo Engage einen Kompatibilitätswert anhand folgender Faktoren:
 
-* **Prüfungen bestanden**: Mitarbeiter für Marketo Engage hat die Einhaltung der Vorgaben überprüft und keine Probleme gefunden
-* **Fehlgeschlagene Prüfungen**: Mitarbeiter für Marketo Engage hat Verstöße gegen Ihre Organisationsregeln gefunden
+* **Prüfungen bestanden**: CX Enterprise Coworker für Marketo Engage hat die Konformität überprüft und keine Probleme gefunden
+* **Fehlgeschlagene Prüfungen**: CX Enterprise Coworker für Marketo Engage hat Verstöße gegen Ihre Organisationsregeln gefunden
 * **Manuelle Überprüfungsschritte**: Elemente, für die eine menschliche Überprüfung erforderlich ist (diese werden NICHT gegen Ihre Bewertung gezählt)
 
 Ein Programm kann zu 100 % konform sein und erfordert weiterhin manuelle Überprüfungsschritte; sie werden aus der Score-Berechnung ausgeschlossen.
@@ -172,9 +172,9 @@ Verwenden Sie diese Option, wenn Ihr Unternehmen der Compliance Vorrang vor der 
 
 ## Fehlerbehebung {#troubleshooting}
 
-**F: Ich habe die Organisationsregeln aktualisiert, aber Coworker for Marketo Engage verwendet weiterhin die alten Regeln.**
+**F: Ich habe die Organisationsregeln aktualisiert, aber CX Enterprise Coworker für Marketo Engage verwendet noch immer die alten Regeln.**
 
-A.: Änderungen treten bei neuen Programmen und Validierungen sofort in Kraft. Wenn Sie an einem vorhandenen Programm arbeiten, aktualisieren Sie Ihren Browser oder starten Sie einen neuen Workflow „Mitarbeiter für Marketo Engage&quot;, um die aktualisierten Regeln anzuzeigen.
+A.: Änderungen treten bei neuen Programmen und Validierungen sofort in Kraft. Wenn Sie an einem vorhandenen Programm arbeiten, aktualisieren Sie den Browser oder starten Sie einen neuen CX Enterprise Coworker for Marketo Engage-Workflow, um die aktualisierten Regeln anzuzeigen.
 
 **F: Kann ich zu Standardregeln zurückkehren?**
 

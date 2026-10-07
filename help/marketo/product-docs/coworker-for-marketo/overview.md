@@ -1,34 +1,34 @@
 ---
-description: Erfahren Sie mehr über die Coworker for Marketo Engage-Suite von Agenten, die Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr automatisieren können.
-title: Übersicht über die Zusammenarbeit für Marketo Engage
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+description: Erfahren Sie mehr über die CX Enterprise Coworker for Marketo Engage-Suite mit Agenten, die zur Automatisierung von Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr entwickelt wurden.
+title: Übersicht über CX Enterprise Coworker für Marketo Engage
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '454'
 ht-degree: 1%
 ---
-# Übersicht über die Zusammenarbeit für Marketo Engage {#overview}
+# Übersicht über CX Enterprise Coworker für Marketo Engage {#overview}
 
-Coworker for Marketo Engage (früher Marketo AI) bietet Agentenfähigkeiten, mit denen zeitaufwendige, aber wichtige Marketing-Funktionen automatisiert werden können.
+CX Enterprise Coworker für Marketo Engage bietet Agentenfähigkeiten zur Automatisierung zeitaufwendiger, aber wichtiger Marketing-Funktionen.
 
 >[!AVAILABILITY]
 >
->Diese Funktion steht allen Abonnements zur Verfügung. Wenn die Kachel „Mitarbeiter für Marketo Engage&quot; auf Ihrem Bildschirm „Mein Marketo&quot; nicht angezeigt wird, wenden Sie sich an Ihren Kundenbetreuer. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
+>Diese Funktion steht allen Abonnements zur Verfügung. Wenn die Kachel &quot;CX Enterprise Coworker for Marketo Engage&quot; auf Ihrem Bildschirm „Mein Marketo&quot; nicht angezeigt wird, wenden Sie sich an Ihren Account Manager. Sie müssen auch den [Core Gen-AI Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen.
 
 >[!IMPORTANT]
 >
->* Nachdem Coworker for Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, &#x200B;](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
+>* Nachdem CX Enterprise Coworker für Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, &#x200B;](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
 >
->* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die Überlegungen zu personenbezogenen Daten im [&#x200B; für Marketo Engage &#x200B;](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
+>* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die PII-Überlegungen im Datenblatt [CX Enterprise Coworker for Marketo Engage](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
 ## Zugriff {#access}
 
-Klicken Sie auf dem Bildschirm „Mein Marketo&quot; auf die Kachel **Mitarbeiter für Marketo Engage**.
+Klicken Sie auf Ihrem Bildschirm „Mein Marketo&quot; auf die Kachel **CX Enterprise Coworker für Marketo Engage**.
 
-![](assets/overview-1.png)
+![](assets/cx-overview-1.png)
 
 Geben Sie Ihre Anfrage in das Feld Eingabeaufforderung ein, wählen Sie eine der Agentenfähigkeiten aus oder versuchen Sie es mit einer der Beispielaufforderungen.
 
-![](assets/overview-2.png)
+![](assets/cx-overview-2.png)
 
 ## Skills {#skills}
 
@@ -36,7 +36,7 @@ Die Center Console verfügt über eine wachsende Anzahl von Agentenkenntnissen, 
 
 ### Erstellen von Programmen {#build-programs}
 
-Beschreiben Sie eine Marketing-Kampagne in verständlicher Sprache. Die Programmstruktur wird von Coworker for Marketo Engage erstellt, einschließlich Asset-Platzhaltern und Zeitplan. Erfahren Sie mehr über die [Kenntnisse zu Programmen erstellen](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
+Beschreiben Sie eine Marketing-Kampagne im Klartext. CX Enterprise Coworker für Marketo Engage erstellt die Programmstruktur mit Asset-Platzhaltern und Zeitplan. Erfahren Sie mehr über die [Kenntnisse zu Programmen erstellen](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
 
 ### Leads untersuchen {#investigate-leads}
 
@@ -44,7 +44,7 @@ Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie M
 
 ### Produktkenntnisse {#product-knowledge}
 
-Produktkenntnisse bieten Ihnen On-Demand-Zugriff auf Marketo-Know-how, ohne die Plattform verlassen zu müssen. Stellen Sie eine Frage in einfacher Sprache, und Coworker for Marketo Engage greift auf die offizielle Adobe-Dokumentation zurück, um sie zu beantworten. Erfahren Sie mehr über die [Produktkenntnisse](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
+Produktkenntnisse bieten Ihnen On-Demand-Zugriff auf Marketo-Know-how, ohne die Plattform verlassen zu müssen. Stellen Sie eine Frage in einfacher Sprache, und CX Enterprise Coworker für Marketo Engage nutzt die offizielle Adobe-Dokumentation, um sie zu beantworten. Erfahren Sie mehr über die [Produktkenntnisse](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
 
 ### Programme validieren {#validate-programs}
 
