@@ -4,7 +4,7 @@ description: Erfahren Sie, wie Sie das Dashboard des E-Mail-Programms anzeigen. 
 title: Anzeigen des Dashboards für E-Mail-Programme
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/XFLGP-fP49QTNHdurvS6vs-ZFJu8SUIw3oFyC46ojcc
+TQID: 'https://experienceleague.adobe.com/XFLGP-fP49QTNHdurvS6vs-ZFJu8SUIw3oFyC46ojcc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,10 +13,15 @@ feature_v2:
     internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 6%
@@ -27,7 +32,7 @@ Sehen Sie sich an, wie Ihr E-Mail-Programm (mit oder ohne A/B-Test) mit diesem D
 
 >[!CAUTION]
 >
->Um präzise Berichte zu erstellen, vermeiden Sie _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Dadurch werden alle Daten in jedem Reporting-Dashboard aggregiert, das an diese E-Mail angehängt ist. Wenn Sie eine E-Mail wiederverwenden müssen, [&#x200B; Sie sie stattdessen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, da diese die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt.
+>Um präzise Berichte zu erstellen, vermeiden Sie _Wiederverwendung_ einer E-Mail aus einem E-Mail-Programm, indem Sie entweder in einer Smart-Kampagne darauf verweisen oder das Asset aus dem gestarteten E-Mail-Programm in ein neues verschieben. Dadurch werden alle Daten in jedem Reporting-Dashboard aggregiert, das an diese E-Mail angehängt ist. Wenn Sie eine E-Mail wiederverwenden müssen, [ Sie sie stattdessen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, da diese die E-Mail kopiert, aber eine neue mit einer neuen E-Mail-ID erstellt.
 
 ## E-Mail-Programm auswählen {#select-your-email-program}
 

@@ -5,14 +5,28 @@ title: Bedingtes E-Mail-Öffnungs-Tracking
 description: Erfahren Sie, wie Sie das Öffnungs-Tracking bedingter E-Mails mithilfe eines benutzerdefinierten booleschen Felds konfigurieren können, um das Öffnungs-Tracking von E-Mails basierend auf dem Einverständnisstatus jeder Person zu routen.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 0%
 ---
 # Bedingtes E-Mail-Öffnungs-Tracking {#conditional-open-tracking}
 
-Erfahren Sie, wie Sie Marketo Engage so konfigurieren, dass das Einverständnis der Endbenutzer zum Tracking des E-Mail-Öffnens (in Pixel) berücksichtigt wird, in Übereinstimmung mit [verschiedenen Richtlinien](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=de){target="_blank"}. Der Ansatz verwendet ein benutzerdefiniertes boolesches Feld, um zu bestimmen, welche E-Mail-Variante eine Person erhält, entweder mit aktiviertem oder mit deaktiviertem Öffnungs-Tracking.
+Erfahren Sie, wie Sie Marketo Engage so konfigurieren, dass das Einverständnis der Endbenutzer zum Tracking des E-Mail-Öffnens (in Pixel) berücksichtigt wird, in Übereinstimmung mit [verschiedenen Richtlinien](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632){target="_blank"}. Der Ansatz verwendet ein benutzerdefiniertes boolesches Feld, um zu bestimmen, welche E-Mail-Variante eine Person erhält, entweder mit aktiviertem oder mit deaktiviertem Öffnungs-Tracking.
 
 ## Schritt 1: Erstellen eines benutzerdefinierten booleschen Felds {#custom-field}
 
@@ -26,7 +40,7 @@ Erfahren Sie, wie Sie Marketo Engage so konfigurieren, dass das Einverständnis 
 
 ## Schritt 2: Füllen Sie das Feld Zustimmung aus {#populate}
 
-1. Legen Sie den Feldwert für die E-Mail-Pixel-Verfolgung für jede Person über den Datenimport (API-Synchronisierung oder [CSV-Upload](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}) fest.
+1. Legen Sie den Feldwert für die E-Mail-Pixel-Verfolgung für jede Person über den Datenimport (API-Synchronisierung oder [CSV-Upload](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}) fest.
 
    ![](assets/open-tracking-3.png)
 
@@ -60,7 +74,7 @@ In der E-Mail **Designer befindet sich das Kontrollkästchen**&#x200B;Öffnungs-
 
 ## Schritt 4: Konfigurieren der intelligenten Kampagne {#smart-campaign}
 
-[Erstellen einer Smart-Kampagne](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} um zu bestimmen, welche E-Mail jede Person erhält.
+[Erstellen einer Smart-Kampagne](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} um zu bestimmen, welche E-Mail jede Person erhält.
 
 1. Fügen Sie auf der _Fluss_ der Smart-Kampagne den Schritt **E-Mail senden** ein.
 

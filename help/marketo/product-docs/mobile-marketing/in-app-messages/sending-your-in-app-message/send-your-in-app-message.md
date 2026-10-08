@@ -3,16 +3,18 @@ description: Erfahren Sie, wie Sie Ihre In-App-Nachricht senden. Erstellen Sie e
 title: Absenden Ihrer In-App-Nachricht
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/0dcl-alZ3vFV-by2GFlm6DZ3sL3zYDUkttFoO8k2lDw
+TQID: 'https://experienceleague.adobe.com/0dcl-alZ3vFV-by2GFlm6DZ3sL3zYDUkttFoO8k2lDw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 7%
-
 ---
-
 # Absenden Ihrer In-App-Nachricht {#send-your-in-app-message}
 
 Nachdem Sie Ihre In-App-Nachricht erstellt haben, ist es an der Zeit, sie zu senden. Im Folgenden werden die Schritte beschrieben:
@@ -21,7 +23,7 @@ Nachdem Sie Ihre In-App-Nachricht erstellt haben, ist es an der Zeit, sie zu sen
 >
 >Wenn Sie eine In-App-Nachricht testen, die von [!UICONTROL App Open] ausgelöst wird, laden Sie die App auf das Smartphone herunter, öffnen Sie sie und schließen Sie sie. Dadurch wird der SDK-Code initialisiert. Beim nächsten Öffnen der App wird die In-App-Nachricht angezeigt. Trigger bei benutzerspezifischen Ereignissen beim ersten Öffnen der App.
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf den Ordner, in dem das Programm gespeichert werden soll, und wählen Sie **[!UICONTROL Neues Programm]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf den Ordner, in dem das Programm gespeichert werden soll, und wählen Sie **[!UICONTROL Neues Programm]**.
 
    ![Bild eins](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
 

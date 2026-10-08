@@ -4,13 +4,17 @@ description: Aktualisieren der Zeitzone in Ihrem Marketo Engage-Abonnement
 title: Zeitzone ändern
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
-
 ---
-
 # Zeitzone ändern {#change-time-zone}
 
 Erfahren Sie, wie Sie die Zeitzone in Ihrem Marketo Engage-Abonnement ändern.
@@ -33,6 +37,6 @@ Erfahren Sie, wie Sie die Zeitzone in Ihrem Marketo Engage-Abonnement ändern.
 
    >[!NOTE]
    >
-   >_Sprache_ und _Gebietsschema_ sind ausgegraut, da diese Einstellungen in Ihrem [Adobe-Kontoprofil aufgerufen werden &#x200B;](https://account.adobe.com/profile){target="_blank"}.
+   >_Sprache_ und _Gebietsschema_ sind ausgegraut, da diese Einstellungen in Ihrem [Adobe-Kontoprofil aufgerufen werden ](https://account.adobe.com/profile){target="_blank"}.
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.

@@ -3,18 +3,21 @@ description: Erfahren Sie, wie Sie ein interaktives Webinar in Marketo bewerben.
 title: Bewerben eines interaktiven Webinars
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-TQID: https://experienceleague.adobe.com/QBHZR8wjeXBanHL-K3L8yldblimtKfcY4akfwVu78EI
+TQID: 'https://experienceleague.adobe.com/QBHZR8wjeXBanHL-K3L8yldblimtKfcY4akfwVu78EI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Metadata
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 800
+source-wordcount: '800'
 ht-degree: 1%
-
 ---
-
 # Bewerben eines interaktiven Webinars {#promoting-an-interactive-webinar}
 
 Die Förderung eines interaktiven Webinars ähnelt der Förderung eines Partner-Webinars über Launchpoint. Beim Erstellen eines Veranstaltungsprogramms für ein interaktives Webinar können Sie Mitglieder hinzufügen, indem Sie entweder eine Kampagne ausführen oder Mitglieder in das Programm importieren. Um die Mitglieder zu überprüfen, die zum Veranstaltungsprogramm der interaktiven Webinare hinzugefügt wurden, klicken Sie auf die Registerkarte **[!UICONTROL Mitglieder]**.
@@ -41,7 +44,7 @@ Sobald ein Mitglied den Programmstatus „registriert“ in einem Veranstaltungs
 
 Innerhalb weniger Minuten nach der Registrierung wird die Webinar-URL für das Mitglied auf der Registerkarte Mitglieder angezeigt. Wenn Sie die Spalte für die Webinar-URL nicht finden können, überprüfen Sie, ob die Spalte zu Ihrer Ansicht hinzugefügt wurde. Dies ist eine personalisierte URL für jedes registrierte Mitglied, um zum geplanten Zeitpunkt am Webinar teilnehmen zu können, ohne dass eine Authentifizierung erforderlich ist. Intern ausgetauschte Token übernehmen die Authentifizierung für die Mitglieder.
 
-Sie können das `{{member.webinar url}}`[&#x200B; Token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} verwenden, um die Webinar-URL einzelnen Mitgliedern in eine E-Mail-Kampagne einzuschließen, um mitzuteilen, dass sie für die Veranstaltung registriert wurden, und um die URL der Teilnahme zu verwenden, um zum geplanten Zeitpunkt in das Webinar einzutreten. Kalender-Token können in derselben E-Mail-Kampagne verwendet werden, um sicherzustellen, dass der Webinar-Zeitplan zum Kalender der Mitglieder hinzugefügt werden kann.
+Sie können das `{{member.webinar url}}`[ Token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} verwenden, um die Webinar-URL einzelnen Mitgliedern in eine E-Mail-Kampagne einzuschließen, um mitzuteilen, dass sie für die Veranstaltung registriert wurden, und um die URL der Teilnahme zu verwenden, um zum geplanten Zeitpunkt in das Webinar einzutreten. Kalender-Token können in derselben E-Mail-Kampagne verwendet werden, um sicherzustellen, dass der Webinar-Zeitplan zum Kalender der Mitglieder hinzugefügt werden kann.
 
 Links sind auf der rechten Seite der Registerkarte Übersicht in Ihrem Veranstaltungsprogramm verfügbar, um eine Landingpage sowie eine E-Mail-Kampagne zu erstellen. Der Rest der Promotions im Zusammenhang mit einer Veranstaltung bleibt gleich wie Partner-Webinare unter Verwendung der Launchpoint-Integration.
 

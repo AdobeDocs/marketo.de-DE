@@ -3,16 +3,20 @@ description: Checkliste für das Design von geerbten Instanzen - Marketo-Dokumen
 title: Checkliste für das Design Studio der geerbten Instanz
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '656'
 ht-degree: 5%
-
 ---
-
 # Vererbte Instanz: Checkliste für Design Studio {#inherited-instance-design-studio-checklist}
 
-Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets sowie Bilder und Dateien trägt dazu bei, Datenfehler zu minimieren und den Workflow für die Erstellung Ihres Programms zu optimieren. Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
+Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets sowie Bilder und Dateien trägt dazu bei, Datenfehler zu minimieren und den Workflow für die Erstellung Ihres Programms zu optimieren. Denken Sie daran[ die Checklisten herunterzuladen ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
 
 ## Landingpages {#landing-pages}
 
@@ -25,7 +29,7 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
   <tr>
    <td>Globale Landing Pages</td>
    <td><li>Wie viele globale <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Landingpages</a> gibt es? Werden sie von Programmen verwendet?</li>
-   <li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=de" target="_blank">Abonnementzentrum</a> eingerichtet?
+   <li>Haben Sie ein <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">Abonnementzentrum</a> eingerichtet?
    <br/> Wenn nicht, sollten Sie eine erstellen.</li></td>
   </tr>
   <tr>
@@ -52,7 +56,7 @@ Das Strukturieren von Vorlagen und das Erstellen globaler Formulare, Snippets so
    <th>Review Focus</th>
   </tr>
   <tr>
-   <td>Benennungskonventionen</td>
+   <td>Namenskonventionen</td>
    <td><li>Haben <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">Bilder und Dateien</a> konsistente Benennungskonventionen?</li></td>
   </tr>
   <tr>

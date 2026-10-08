@@ -4,20 +4,23 @@ description: Erfahren Sie, wie Sie SSO über SAML 2.0 in Sales Connect einrichte
 title: Einrichten von SSO über SAML 2.0 in [!DNL Sales Connect]
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/FLGacQUvOJFtKJ5O1PzWRmpk3Zm1KH1D-W3ATHSVRSA
+TQID: 'https://experienceleague.adobe.com/FLGacQUvOJFtKJ5O1PzWRmpk3Zm1KH1D-W3ATHSVRSA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Metadata
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 270
+source-wordcount: '270'
 ht-degree: 0%
-
 ---
-
 # Einrichten von SSO über SAML 2.0 in [!DNL Sales Connect] {#setting-up-sso-through-saml-in-sales-connect}
 
 Wir unterstützen SSO durch die SAML 2.0-Spezifikation. Wir verfügen derzeit jedoch über keine direkten Integrationen mit Anbietern. Wir müssen einige Informationen von Ihrem SSO-Provider erfassen, um diese Einrichtung zu erhalten.
@@ -38,6 +41,6 @@ Die Datei „metadata.xml“ der SSO-Instanz Ihres Teams sollte die Aussteller-U
 
 Wir benötigen außerdem den SSO-Speicherort für das SSO-Konto Ihres Unternehmens, um eine eindeutige Domain zu sein. Wir benötigen beispielsweise eine eindeutige Subdomain wie `toutapp.pingidentity.com` oder Ähnliches. Ohne diesen Typ der eindeutigen Kennung können wir SAML nicht über das Dashboard einrichten.
 
-One Login und Okta stellen beim Zuweisen einer URL nicht immer eindeutige Kennungen bereit. Wenn Sie Okta oder One Login verwenden, bedeutet dies, dass wir nicht in der Lage sein werden, eine Anmeldung über die Dashboard-Schaltfläche einzurichten. Wir können sie weiterhin über die Single Sign-On-Schaltfläche in der [Web-Anwendung) &#x200B;](https://toutapp.com/login).
+One Login und Okta stellen beim Zuweisen einer URL nicht immer eindeutige Kennungen bereit. Wenn Sie Okta oder One Login verwenden, bedeutet dies, dass wir nicht in der Lage sein werden, eine Anmeldung über die Dashboard-Schaltfläche einzurichten. Wir können sie weiterhin über die Single Sign-On-Schaltfläche in der [Web-Anwendung) ](https://toutapp.com/login).
 
 Sobald wir diese Informationen haben, werden wir mit unserem Engineering-Team zusammenarbeiten, um diese für Ihr Abonnement einzurichten.

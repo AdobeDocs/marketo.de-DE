@@ -3,17 +3,22 @@ description: Erfahren Sie mehr über die standardmäßige Microsoft Dynamics-Fel
 title: Standardfeldzuordnung in Dynamics
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0
+TQID: 'https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1052
-ht-degree: 3%
-
+source-wordcount: '1052'
+ht-degree: 4%
 ---
-
-# Standardfeldzuordnung in Dynamics {#default-dynamics-field-mapping}
+# Standardmäßige Dynamics-Feldzuordnung {#default-dynamics-field-mapping}
 
 Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, führt Marketo diese Verknüpfungen zwischen Ihren integrierten Dynamics- und Marketo-Feldern automatisch durch.  Marketo synchronisiert auch Ihre benutzerdefinierten Felder für Leads, Konten, Chancen und Kontakte.
 
@@ -82,7 +87,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>Fax</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Adresse]</td>
+      <td>[!UICONTROL-Adresse]</td>
       <td>[!UICONTROL Straße 1]</td>
       <td>address1_line1</td>
     </tr>
@@ -92,7 +97,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Status]</td>
+      <td>[!UICONTROL-Status]</td>
       <td>[!UICONTROL Bundesland/Provinz]</td>
       <td>address1_stateorProvince</td>
     </tr>
@@ -179,7 +184,7 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
     <tr>
       <td>[!UICONTROL Microsoft-Thema]</td>
       <td>[!UICONTROL Topic]</td>
-      <td>Subjekt</td>
+      <td>subject</td>
     </tr>
     <tr>
       <td>[!UICONTROL Datum des letzten interessanten Moments]</td>
@@ -212,19 +217,19 @@ Wenn Sie Ihr Marketo Engage-Konto zum ersten Mal mit Microsoft synchronisieren, 
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Priorität]</td>
-      <td>[!UICONTROL -Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
       <td>[!UICONTROL Relative Dringlichkeit]</td>
-      <td>[!UICONTROL -Dringlichkeit]</td>
+      <td>[!UICONTROL-Dringlichkeit]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
       <td>[!UICONTROL Betreff]</td>
       <td>[!UICONTROL Topic]</td>
-      <td>Subjekt</td>
+      <td>subject</td>
     </tr>
     <tr>
       <td>[!UICONTROL Jahresumsatz]</td>
@@ -317,7 +322,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>Mobiltelefon</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Adresse]</td>
+      <td>[!UICONTROL-Adresse]</td>
       <td>[!UICONTROL Adresse 1: Straße 1]</td>
       <td>address1_line1</td>
     </tr>
@@ -327,7 +332,7 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Status]</td>
+      <td>[!UICONTROL-Status]</td>
       <td>[!UICONTROL Adresse 1: Bundesland/Region]</td>
       <td>address1_stateorProvince</td>
     </tr>
@@ -417,13 +422,13 @@ Die folgenden Lead-Felder werden für die interne Verwendung synchronisiert.
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Priorität]</td>
-      <td>[!UICONTROL -Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
+      <td>[!UICONTROL-Priorität]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
       <td>[!UICONTROL Relative Dringlichkeit]</td>
-      <td>[!UICONTROL -Dringlichkeit]</td>
+      <td>[!UICONTROL-Dringlichkeit]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
@@ -491,8 +496,8 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
       <th>MS Dynamics API-Name</th>
     </tr>
     <tr>
-      <td>[!UICONTROL -Konto (a)]</td>
-      <td>[!UICONTROL -Konto]</td>
+      <td>[!UICONTROL-Konto (a)]</td>
+      <td>[!UICONTROL-Konto]</td>
       <td>accountid</td>
     </tr>
     <tr>
@@ -566,8 +571,8 @@ Die folgenden Kontaktfelder werden für die interne Verwendung synchronisiert.
       <td>sic</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Website]</td>
-      <td>[!UICONTROL -Website]</td>
+      <td>[!UICONTROL-Website]</td>
+      <td>[!UICONTROL-Website]</td>
       <td>Website</td>
     </tr>
     <tr>
@@ -632,11 +637,11 @@ Die folgenden Kontofelder werden für die interne Verwendung synchronisiert.
     </tr>
     <tr>
       <td>[!UICONTROL Abschlusswahrscheinlichkeit]</td>
-      <td>[!UICONTROL -Wahrscheinlichkeit]</td>
+      <td>[!UICONTROL-Wahrscheinlichkeit]</td>
       <td>Nahwahrscheinlichkeit</td>
     </tr>
     <tr>
-      <td>[!UICONTROL -Phase]</td>
+      <td>[!UICONTROL-Phase]</td>
       <td>[!UICONTROL Status]</td>
       <td>Zustandscode</td>
     </tr>

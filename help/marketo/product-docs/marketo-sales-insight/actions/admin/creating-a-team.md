@@ -3,18 +3,20 @@ description: Erfahren Sie, wie Sie in Sales Insight-Aktionen ein Team erstellen,
 title: Erstellen eines Teams
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/y6f35evMs8HMMubGKhJs-oeMgtGWujkQSFydWp7t0aU
+TQID: 'https://experienceleague.adobe.com/y6f35evMs8HMMubGKhJs-oeMgtGWujkQSFydWp7t0aU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 4%
-
 ---
-
 # Erstellen eines Teams {#creating-a-team}
 
 Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen, für die Inhalte freigegeben und nach denen Berichte gefiltert werden können.
@@ -25,7 +27,7 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
    ![](assets/creating-a-team-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
+1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
 
    ![](assets/creating-a-team-2.png)
 
@@ -43,7 +45,7 @@ Durch die Erstellung eines Teams können Sie eine Benutzergruppe zusammenstellen
 
 ## Personen zu einem Team hinzufügen {#add-people-to-a-team}
 
-1. Wählen Sie noch [!UICONTROL &#x200B; &quot;]&quot; die Option **[!UICONTROL Alle Mitglieder]** aus.
+1. Wählen Sie noch [!UICONTROL  &quot;]&quot; die Option **[!UICONTROL Alle Mitglieder]** aus.
 
    ![](assets/creating-a-team-5.png)
 

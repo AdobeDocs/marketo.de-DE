@@ -4,21 +4,26 @@ description: Erfahren Sie mehr über Interaktionsprogramme, Streams, Inhalte, Da
 title: Grundlegendes zu Interaktionsprogrammen
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE
+TQID: 'https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 296
+source-wordcount: '296'
 ht-degree: 88%
-
 ---
-
 # Grundlegendes zu Interaktionsprogrammen {#understanding-engagement-programs}
 
-Interaktionsprogramme sind so konzipiert, dass sie neue Personen ansprechen, indem sie ihnen Inhalte systematisch präsentieren.
+Interaktionsprogramme sind so konzipiert, dass sie neue Personen ansprechen, indem sie ihnen Content systematisch präsentieren.
 
 >[!NOTE]
 >
@@ -69,7 +74,7 @@ Eine **Umwandlung** ist das Ereignis des Versands von E-Mails über ein Interakt
 
 ## Stream-Kadenz {#stream-cadence}
 
-Sie entscheiden, wann eine Umwandlung geschieht, indem Sie eine **Stream-Kadenz** einrichten. Auf diese Weise planen Sie die Ausgabe von Inhalten in regelmäßigen Abständen.
+Sie entscheiden, wann eine Umwandlung geschieht, indem Sie eine **Stream-Kadenz** einrichten. Auf diese Weise planen Sie die Bereitstellung von Content in regelmäßigen Abständen.
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -95,7 +100,7 @@ Sobald eine Person alle Inhalte in einem Stream erhalten hat, wird die Person al
 
 ## Grad der Inhaltsinteraktion {#content-engagement-level}
 
-Der Grad der Inhaltsinteraktion ist eine Punktzahl von 0 bis 100, die Marketo Ihrem Inhalt zuweist. Diese Zahl wird mittels einer komplexen Formel bestimmt, die Öffnungsvorgänge, Klicks, Abbestellungen, Programmerfolg und andere Faktoren einbezieht.
+Der Content-Interaktions-Level ist eine Punktzahl von 0 bis 100, die Marketo Ihrem Content zuweist. Diese Zahl wird mittels einer komplexen Formel bestimmt, die Öffnungsvorgänge, Klicks, Abmeldungen, Programmerfolg und andere Faktoren einrechnet.
 
 >[!MORELIKETHIS]
 >

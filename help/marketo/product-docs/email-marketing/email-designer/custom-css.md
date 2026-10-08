@@ -1,29 +1,38 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten
+title: Hinzufügen von benutzerdefiniertem CSS zu Ihrem E-Mail-Content
 description: Erfahren Sie, wie Sie in der E-Mail-Designer benutzerdefiniertes CSS zu E-Mail-Inhalten hinzufügen. Gestalten Sie Ihre E-Mails mit benutzerdefiniertem Code in Marketo Engage.
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-TQID: https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k
+TQID: 'https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 625
+source-wordcount: '625'
 ht-degree: 38%
-
 ---
-
 # Hinzufügen von benutzerdefinierten CSS zu E-Mail-Inhalten {#custom-css}
 
 Fügen Sie Ihr eigenes benutzerdefiniertes CSS direkt in der Marketo Engage E-Mail-Designer hinzu, um erweiterte, spezifische Stile zu erhalten.
@@ -44,7 +53,7 @@ Fügen Sie Ihr eigenes benutzerdefiniertes CSS direkt in der Marketo Engage E-Ma
 
    >[!NOTE]
    >
-   >Die Schaltfläche **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** ist nur verfügbar, wenn **[!UICONTROL Hauptteil]** ausgewählt ist. Sie können jedoch benutzerdefinierte CSS-Stile auf alle Komponenten in Ihrem Inhalt anwenden.
+   >Die Schaltfläche **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** ist nur verfügbar, wenn **[!UICONTROL Hauptteil]** ausgewählt ist. Sie können jedoch benutzerdefinierte CSS-Stile auf alle Komponenten in Ihrem Content anwenden.
 
 1. Geben Sie Ihren CSS-Code in den entsprechenden Textbereich ein, der angezeigt wird. Stellen Sie sicher, dass das benutzerdefinierte CSS [gültig ist und der richtigen Syntax folgt](#use-valid-css). Klicken Sie auf **Speichern**, wenn Sie fertig sind.
 
@@ -60,11 +69,11 @@ Fügen Sie Ihr eigenes benutzerdefiniertes CSS direkt in der Marketo Engage E-Ma
 
    >[!NOTE]
    >
-   >Wenn Sie den gesamten Inhalt entfernen, wird der Abschnitt ausgeblendet und das zuvor definierte benutzerdefinierte CSS wird nicht mehr angewendet. Fügen Sie Inhalte wieder hinzu, damit der Abschnitt **[!UICONTROL CSS-Stile]** wieder angezeigt wird. Das benutzerdefinierte CSS wird erneut angewendet.
+   >Wenn Sie den gesamten Content entfernen, wird der Abschnitt ausgeblendet und das zuvor definierte benutzerdefinierte CSS wird nicht mehr angewendet. Fügen Sie Inhalte wieder hinzu, damit der Abschnitt **[!UICONTROL CSS-Stile]** wieder angezeigt wird. Das benutzerdefinierte CSS wird erneut angewendet.
 
 ## Verwenden von gültigem CSS {#using-valid-css}
 
-Sie können eine beliebige gültige CSS-Zeichenfolge im Textbereich **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** eingeben. Richtig formatiertes CSS wird sofort auf den Inhalt angewendet.
+Sie können eine beliebige gültige CSS-Zeichenfolge im Textbereich **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** eingeben. Richtig formatiertes CSS wird sofort auf den Content angewendet.
 
 >[!CAUTION]
 >
@@ -213,9 +222,9 @@ Ihr benutzerdefiniertes CSS wird am Ende des Abschnitts `<head>` als Teil eines 
 
 Das benutzerdefinierte CSS wird nicht vom Bereich **[!UICONTROL Einstellungen]** des E-Mail-Designers interpretiert oder überprüft. Es ist vollkommen unabhängig und kann nur über die Option **[!UICONTROL Benutzerdefiniertes CSS hinzufügen]** geändert werden.
 
-### Schutzmechanismen – Importierte Inhalte {#guardrails}
+### Schutzmechanismen – Importierter Content {#guardrails}
 
-Wenn Sie benutzerdefiniertes CSS mit Inhalten verwenden möchten, die in den E-Mail-Designer importiert wurden, sollten Sie Folgendes beachten:
+Wenn Sie benutzerdefiniertes CSS mit Content verwenden möchten, der in den E-Mail-Designer importiert wurde, sollten Sie Folgendes beachten:
 
 * Wenn [externe HTML-](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) einschließlich CSS importieren, befindet sich dieser Inhalt, sofern Sie ihn nicht konvertieren, im **[!UICONTROL Kompatibilitätsmodus]**, wobei der Abschnitt **[!UICONTROL CSS-]**&quot; nicht verfügbar ist.
 
@@ -241,19 +250,19 @@ Wenn Ihr benutzerdefiniertes CSS nicht angewendet wird, versuchen Sie es mit den
 
 * Stellen Sie sicher, dass Ihr CSS nicht durch andere CSS-Regeln überschrieben wird.
 
-   * Verwenden Sie Ihre Browser-Entwickler-Tools, um den Inhalt zu überprüfen und zu überprüfen, ob Ihr CSS auf die richtigen Selektoren abzielt.
+  * Verwenden Sie Ihre Browser-Entwickler-Tools, um den Inhalt zu überprüfen und zu überprüfen, ob Ihr CSS auf die richtigen Selektoren abzielt.
 
-   * Erwägen Sie, Ihren Deklarationen `!important` hinzuzufügen, um sicherzustellen, dass sie Vorrang haben.
+  * Erwägen Sie, Ihren Deklarationen `!important` hinzuzufügen, um sicherzustellen, dass sie Vorrang haben.
 
-     +++ Beispiel:
+    +++ Beispiel:
 
-     ```css
-     .acr-Form {
-       background: red !important;
-     }
-     ```
+    ```css
+    .acr-Form {
+      background: red !important;
+    }
+    ```
 
-     +++
+    +++
 
 >[!NOTE]
 >

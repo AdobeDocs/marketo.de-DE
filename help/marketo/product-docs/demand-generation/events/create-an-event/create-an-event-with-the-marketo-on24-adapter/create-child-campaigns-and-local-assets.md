@@ -4,18 +4,20 @@ description: Erfahren Sie, wie Sie in Marketo untergeordnete Kampagnen und lokal
 title: Erstellen untergeordneter Kampagnen und lokaler Assets
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-TQID: https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA
+TQID: 'https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 688
+source-wordcount: '688'
 ht-degree: 3%
-
 ---
-
 # Erstellen untergeordneter Kampagnen und lokaler Assets {#create-child-campaigns-and-local-assets}
 
 Erstellen Sie Ihre untergeordneten Kampagnen und lokalen Assets mit dem Design Studio.
@@ -100,7 +102,7 @@ Der **[!UICONTROL E-Mail senden]** Flussschritt MUSS der zweite Schritt sein. Di
 >
 >Wenn der Person ein Registrierungsfehler zurückgegeben wird, erhält sie die E-Mail-Bestätigung nicht.
 
-Ihr nächster Schritt besteht darin, [Ihre ON24-Ereignisintegration zu &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
+Ihr nächster Schritt besteht darin, [Ihre ON24-Ereignisintegration zu ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

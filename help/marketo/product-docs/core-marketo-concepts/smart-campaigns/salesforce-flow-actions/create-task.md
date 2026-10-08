@@ -4,18 +4,23 @@ description: Erfahren Sie, wie Sie in einem Flussschritt eine Salesforce-Aufgabe
 title: Erstellen von Aufgaben
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-TQID: https://experienceleague.adobe.com/RJ5nZrVvURtgXEWWZwL2xXzlYOhWjKGSbX-MFTWCwzg
+TQID: 'https://experienceleague.adobe.com/RJ5nZrVvURtgXEWWZwL2xXzlYOhWjKGSbX-MFTWCwzg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: '130'
 ht-degree: 3%
-
 ---
-
 # Erstellen von Aufgaben {#create-task}
 
 Als Marketing-Experte verfügen Sie über Informationen, die den Vertrieb beim Abschluss von Abschlüssen unterstützen können. Sie können Aufgaben erstellen, um ihnen mitzuteilen, was und wann sie tun sollten.
@@ -36,4 +41,4 @@ Passen Sie alle Felder an, um die Aufgabe wie gewünscht zu erstellen.
 
 >[!TIP]
 >
->Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den **[!UICONTROL Betreff]** und **[!UICONTROL Beschreibung]**. Weitere [&#x200B; finden Sie unter &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für Flussschritte .
+>Sie können `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` und `{{system.tokens}}` in den **[!UICONTROL Betreff]** und **[!UICONTROL Beschreibung]**. Weitere [ finden Sie unter ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} für Flussschritte .

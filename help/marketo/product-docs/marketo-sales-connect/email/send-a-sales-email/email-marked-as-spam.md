@@ -4,21 +4,25 @@ description: Erhalten Sie Hilfe, wenn Ihre Sales Connect-E-Mail als Spam gekennz
 title: E-Mail wurde als Spam markiert
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Ubj-3HXG3DKCMlyrNBcVEL3-mbXmbcR8fSZNMpCDNjw
+TQID: 'https://experienceleague.adobe.com/Ubj-3HXG3DKCMlyrNBcVEL3-mbXmbcR8fSZNMpCDNjw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 249
+source-wordcount: '249'
 ht-degree: 3%
-
 ---
-
 # E-Mail wurde als Spam markiert {#email-marked-as-spam}
 
 Als Unternehmen arbeiten wir hart daran, dass unsere Zustellbarkeitsraten hoch bleiben. Es gibt jedoch bestimmte Benutzerverhaltensweisen und Einstellungen, die dazu führen können, dass Trigger in Ihren gesendeten E-Mails an den Spam-Ordner weitergeleitet werden.

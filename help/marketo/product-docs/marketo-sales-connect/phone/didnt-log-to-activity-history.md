@@ -1,20 +1,22 @@
 ---
 unique-page-id: 14352489
 description: Hier erhalten Sie Hilfe, wenn sich die Sales Connect-Aktivität nicht im Salesforce-Aktivitätsverlauf angemeldet hat. Fehlerbehebung bei fehlenden Aufrufen oder E-Mails im Aktivitätsverlauf.
-title: Hat sich nicht im Aktivitätsverlauf angemeldet
+title: Nicht im Aktivitätsverlauf protokolliert
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QqpAt-XEbi8Oa0tme6UF5uNHpVwFzcQgj-0MHwna5BA
+TQID: 'https://experienceleague.adobe.com/QqpAt-XEbi8Oa0tme6UF5uNHpVwFzcQgj-0MHwna5BA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '96'
 ht-degree: 10%
-
 ---
-
-# Hat sich nicht im Aktivitätsverlauf angemeldet {#didnt-log-to-activity-history}
+# Nicht im Aktivitätsverlauf protokolliert {#didnt-log-to-activity-history}
 
 Wenn Sie Ihre Anrufprotokolle für [!DNL Salesforce] nicht sehen, liegt das möglicherweise daran, dass wir in [!DNL Salesforce] keinen Lead/Kontakt finden können.
 

@@ -3,19 +3,21 @@ description: Erfahren Sie mehr über die Drosselung von E-Mail-Verbindungen in S
 title: Drosselung der E-Mail-Verbindung
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM
+TQID: 'https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: '409'
 ht-degree: 2%
-
 ---
-
 # Drosselung der E-Mail-Verbindung {#email-connection-throttling}
 
-Die Integration Ihres [!DNL Sales Connect]-Kontos zum Versand über [!DNL Exchange]- oder Gmail-E-Mail-Anbieter bietet eine optimierte Einrichtung und optimiert die E-Mail-Zustellbarkeit für 1:1-Verkaufskommunikation. Um jedoch die Systemintegrität und die Sicherheit der Konten zu gewährleisten, erzwingen Gmail und Exchange Grenzwerte für den E-Mail-Versand. Diese Obergrenzen können nach Ermessen des Anbieters erhöht oder gesenkt werden.
+Die Integration Ihres [!DNL Sales Connect]-Kontos zum Versand über [!DNL Exchange]- oder Gmail-E-Mail-Anbieter bietet eine optimierte Einrichtung und optimiert die E-Mail-Zustellbarkeit für die 1:1-Verkaufskommunikation. Um jedoch die Systemintegrität und die Sicherheit der Konten zu gewährleisten, erzwingen Gmail und Exchange Grenzwerte für den E-Mail-Versand. Diese Obergrenzen können nach Ermessen des Anbieters erhöht oder gesenkt werden.
 
 ## Überblick {#overview}
 

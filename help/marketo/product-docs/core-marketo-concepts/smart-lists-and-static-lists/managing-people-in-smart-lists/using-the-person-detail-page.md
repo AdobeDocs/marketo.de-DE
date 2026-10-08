@@ -4,21 +4,28 @@ description: Erfahren Sie, wie Sie die Seite „Personendetails“ verwenden. Ze
 title: Verwenden der Seite „Personendetails“
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk
+TQID: 'https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 552
+source-wordcount: '552'
 ht-degree: 33%
-
 ---
-
 # Verwenden der Seite „Personendetails“ {#using-the-person-detail-page}
 
 Die Seite „Personendetails“ enthält alle Informationen, die Marketo über eine Person kennt. Daten können direkt von dieser Seite aus bearbeitet werden.
@@ -68,7 +75,7 @@ Personeninformationen werden in die folgenden Registerkarten kategorisiert:
 
 >[!NOTE]
 >
->Sie können auch Opportunity-[&#x200B; (über API eingefügt) für &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/opportunities) sehen, die nicht mit einem CRM synchronisiert wurden.
+>Sie können auch Opportunity-[ (über API eingefügt) für ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) sehen, die nicht mit einem CRM synchronisiert wurden.
 
 ## Bearbeiten eines Felds {#editing-a-field}
 
@@ -86,7 +93,7 @@ Viele Felder können bearbeitet werden. Um die Informationen einer Person zu akt
 | Nicht aufrufen – Grund | Nicht aufrufen – Ursache | E-Mail-Adresse | E-Mail-Adresse ungültig | Grund für ungültige E-Mail |
 | Externe Unternehmens-ID | Externe Vertriebsmitarbeiter-ID | Faxnummer | Vorname | Vollständiger Name |
 | Branche | Abgeleiteter Ort | Abgeleitetes Unternehmen | Abgeleitetes Land | Abgeleiteter Stadtbereich |
-| Abgeleitete Vorwahl | Abgeleitete Postleitzahl | Abgeleitetes Bundesland/abgeleitete Region | Ist anonym | Ist Kunde |
+| Abgeleitete Telefonvorwahl | Abgeleitete Postleitzahl | Abgeleitetes Bundesland/abgeleitete Region | Ist anonym | Ist Kunde |
 | Ist Partner | Jobtitel | Nachname | Rating | Ergebnis |
 | Person – Quelle | Status | Haupttelefonnummer | Anzeigename des Marketo Social-[!DNL Facebook] | Marketo Social [!DNL Facebook] ID |
 | Foto-URL für Marketo Social [!DNL Facebook] | Profil-URL von Marketo Social [!DNL Facebook] | Marketo Social [!DNL Facebook] Reach | An Marketo Social [!DNL Facebook] weitergeleitete Registrierungen | Verwiesene Besuche bei Marketo Social [!DNL Facebook] |

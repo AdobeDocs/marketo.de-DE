@@ -4,7 +4,7 @@ description: Erstellen Sie Dialog-Web-Kampagnen, um Inhalte in Echtzeit mit Popu
 title: Erstellen einer neuen Dialogfeld-Web-Kampagne
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/mZDrkTIuAbmAVulUumQZpjgWSzV837oipro2vaKtGLE
+TQID: 'https://experienceleague.adobe.com/mZDrkTIuAbmAVulUumQZpjgWSzV837oipro2vaKtGLE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,10 +13,12 @@ feature_v2:
     internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '768'
 ht-degree: 4%
@@ -138,7 +140,7 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 >[!TIP]
 >
->Beschleunigen und vereinfachen Sie die Erstellung von Kampagnen mithilfe unserer [&#x200B; Vorlagen &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) durch [Speichern Ihrer vorhandenen Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
+>Beschleunigen und vereinfachen Sie die Erstellung von Kampagnen mithilfe unserer [ Vorlagen ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) durch [Speichern Ihrer vorhandenen Kampagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als Vorlage zur Wiederverwendung.
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 
@@ -162,7 +164,7 @@ Siehe [Klonen einer Web-](/help/marketo/product-docs/web-personalization/working
 
 ## Löschen einer Web-Kampagne {#delete-a-web-campaign}
 
-1. Klicken Sie auf der **[!UICONTROL Web]**&#x200B;**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der **[!UICONTROL Web]****[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

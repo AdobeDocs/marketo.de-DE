@@ -6,26 +6,36 @@ role: User
 level: Beginner, Intermediate
 keywords: E-Mail, Design, Barrierefreiheit
 exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
-TQID: https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI
+TQID: 'https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1432
+source-wordcount: '1434'
 ht-degree: 54%
-
 ---
-
 # Gestalten barrierefreier Inhalte {#accessible-content}
 
 Die [EU-Richtlinie zur Barrierefreiheit](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882){target="_blank"} soll die Beseitigung von Hindernissen, die durch unterschiedliche nationale Vorschriften in den Mitgliedstaaten verursacht werden, den Binnenmarkt für barrierefreie Produkte und Dienstleistungen verbessern.
@@ -49,7 +59,7 @@ Befolgen Sie bei Schriftarten und Text die folgenden Richtlinien:
 **Schriftartenauswahl**
 
 * Verwenden Sie serifenlose Schriftarten wie Arial, Verdana, Tahoma, Helvetica oder Open Sans.
-* Vermeiden Sie in Textinhalten serifenbetonte, kursive oder dekorative Schriftarten.
+* Vermeiden Sie in Text-Content serifenbetonte, kursive oder dekorative Schriftarten.
 * Achten Sie auf einen beschränkten Schriftsatz, um Konsistenz und Fallback zu gewährleisten (z. B. `font-family: Arial, Helvetica, sans-serif;`).
 
 **Schriftgrad**
@@ -59,8 +69,8 @@ Befolgen Sie bei Schriftarten und Text die folgenden Richtlinien:
 
 **Farbkontrast**
 
-* Wahren Sie zwischen Text und Hintergrund ein Kontrastverhältnis von mindestens 4,5 :1.
-* Achten Sie bei großem Text (≥24 Pixel oder 18 Pixel fett) auf einen Kontrast von mindestens 3 :1.
+* Wahren Sie zwischen Text und Hintergrund ein Kontrastverhältnis von mindestens 4,5:1.
+* Achten Sie bei großem Text (≥24 Pixel oder 18 Pixel fett) auf einen Kontrast von mindestens 3:1.
 * Vermeiden Sie hellgrauen oder pastellfarbenen Text auf weißem Hintergrund.
 * Verlassen Sie sich nicht allein auf Farbe, um Bedeutung zu vermitteln. Verwenden von Unterstrichen, Symbolen usw.
 
@@ -97,7 +107,7 @@ Verwenden Sie die Komponente **[!UICONTROL Bild]**, um alternativen Text für Bi
 
 <!--![](assets/accessible-alt-text.png){width="90%"}-->
 
-* Beschreiben Sie den Zweck des Bildes kurz und kontextbezogen.
+* Beschreiben Sie den Zweck des Bildes kurz und kontextuell.
 * Vermeiden Sie redundante Ausdrücke wie „Bild von …“ und leeren Alternativtext für dekorative Bilder verwenden.
 * Geben Sie für Symbole mit Bedeutung aussagekräftige Labels an. Nutzen Sie für komplexe Bilder einen kurzen Alternativtext und an anderer Stelle eine längere Beschreibung.
 
@@ -107,7 +117,7 @@ Verwenden Sie die für E-Mail-Designer relevanten Struktur- und Inhaltskomponent
 
 <!--![](assets/accessible-components.png){width="100%"}-->
 
-* Nutzen Sie strukturierte, semantische HTML mit passenden Überschriften, Absätzen, Listen und Tabellen.
+* Verwenden Sie strukturiertes, semantisches HTML mit passenden Überschriften, Absätzen, Listen und Tabellen.
 * Stellen Sie sicher, dass der Inhalt einem logischen Fluss von links nach rechts, von oben nach unten folgt.
 * Verwenden Sie klare, knappe Formulierungen.
 * Stellen Sie alternative Formate für PDF-Dateien und Infografiken bereit.
@@ -224,7 +234,7 @@ Fügen Sie Layout-Tabellen `role="presentation"` (oder `role="none"`) hinzu, um 
 ```
 
 Die Bildschirmlesehilfen lesen:
-„Hallo Welt. Willkommen zu unserem Newsletter.“ _(Zeilen, Spalten oder Tabellen werden nicht erwähnt)_
+„Hallo Welt. „Willkommen zu unserem Newsletter.“ _(Zeilen, Spalten oder Tabellen werden nicht erwähnt)_
 
 +++
 

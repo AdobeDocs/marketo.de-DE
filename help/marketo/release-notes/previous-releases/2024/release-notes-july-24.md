@@ -3,21 +3,27 @@ description: Juli 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – Juli 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-TQID: https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA
+TQID: 'https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 589
+source-wordcount: '589'
 ht-degree: 20%
-
 ---
-
 # Versionshinweise – Juli 2024 {#release-notes-july-24}
 
 Unten finden Sie alle Funktionen, die in der Version vom 24. Juli enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
@@ -26,7 +32,7 @@ Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/ma
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Kontakt, um mehr zu erfahren.
 
 ## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
 
@@ -87,14 +93,14 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Einstellung von Social-**: Am Mittwoch, 31. Juli 2024, beginnt Marketo Engage mit der Einstellung der folgenden Social-Media-Funktionen im Produkt:
 
-   * Umfragen
-   * Social-Schaltfläche
-   * Empfehlungsangebot
-   * Videofreigabe
-   * Gewinnspiele
+  * Umfragen
+  * Social-Schaltfläche
+  * Empfehlungsangebot
+  * Videofreigabe
+  * Gewinnspiele
 
 Benutzende können keine dieser Social-Media-Funktionen mehr in Marketo Engage erstellen, klonen oder einbetten. Vorhandene soziale Assets funktionieren bis zum 31. Januar 2025 weiterhin. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Veraltete Zugriffstoken in Abfrageparametern**: Die Unterstützung für die Authentifizierung mithilfe von Zugriffstoken in einem Abfrageparameter eines Marketo Engage-REST-API-Aufrufs wird in einer zukünftigen Version entfernt (spezifisches Datum wird noch bekannt gegeben). Vorhandene Integrationen sollten zur Verwendung der Autorisierungs-Kopfzeile migriert werden [hier beschrieben](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. Für neue Entwicklungen sollte nur der Autorisierungs-Header für die Authentifizierung mit Marketo Engage verwendet werden.
 
-* **Erneute Authentifizierung für LinkedIn erforderlich**: LinkedIn aktualisiert seine Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern zwischen dem 26. Juli und dem 15. Dezember 2024 eine erneute Authentifizierung aller LinkedIn LaunchPoint-Services in Ihrem **Admin** > **LaunchPoint**-Menü, um eine Unterbrechung des Services zu vermeiden. Anweisungen dazu finden Sie (hier [&#x200B; Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} und [hier für übereinstimmende Zielgruppen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Der Formular-Service der Lead-Generation hat den Typ „LinkedIn-Lead-Gen“ und der Dienst für abgeglichene Zielgruppe hat den Typ „LinkedIn-abgeglichene Zielgruppen“. Weitere Informationen finden Sie unter [Häufig gestellte Fragen zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **Erneute Authentifizierung für LinkedIn erforderlich**: LinkedIn aktualisiert seine Marketing-APIs, die von Marketo Engage LinkedIn-Integrationen verwendet werden. Diese Änderungen erfordern zwischen dem 26. Juli und dem 15. Dezember 2024 eine erneute Authentifizierung aller LinkedIn LaunchPoint-Services in Ihrem **Admin** > **LaunchPoint**-Menü, um eine Unterbrechung des Services zu vermeiden. Anweisungen dazu finden Sie (hier [ Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} und [hier für übereinstimmende Zielgruppen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Der Formular-Service der Lead-Generation hat den Typ „LinkedIn-Lead-Gen“ und der Dienst für abgeglichene Zielgruppe hat den Typ „LinkedIn-abgeglichene Zielgruppen“. Weitere Informationen finden Sie unter [Häufig gestellte Fragen zur Migration](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.

@@ -6,21 +6,28 @@ description: Erfahren Sie, wie Sie Inhalte generieren, um E-Mails Text und Bilde
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-TQID: https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE
+TQID: 'https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
+    internal-label: Beginner
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 914
+source-wordcount: '914'
 ht-degree: 1%
-
 ---
-
 # Generieren von Inhalten in der E-Mail-Designer {#generate-content}
 
 Durch das Generieren von Inhalten in der Marketo Engage Email Designer können Sie zeitgemäße, leistungsstarke und intuitive E-Mails erstellen. Dies wird durch die generative KI-Technologie und die Prompt-Bibliothek von Adobe zusammen mit Firefly für die Bildgenerierung erreicht, die bei der Erstellung geeigneter Inhalte für eine bestimmte Rolle/Einkaufsgruppe, Marketing-Journey-Phase, Kommunikationsstrategie, Ton usw. hilft. Bestimmte Marken-Assets können auch zum Erstellen von Inhalten verwendet werden.
@@ -57,7 +64,7 @@ _Nach_ der oben genannten Voraussetzung müssen Marketo-Admins Zugriff auf besti
 
 +++
 
-## Anwendungsszenarien {#use-cases}
+## Anwendungsfälle {#use-cases}
 
 * [Erstellen einer Betreffzeile und/oder eines Preheaders](#create-a-subject-line-preheader) für Ihre E-Mail
 * [Inhalt für einen bestimmten Abschnitt erstellen](#create-content-for-a-specific-section) Ihrer E-Mail

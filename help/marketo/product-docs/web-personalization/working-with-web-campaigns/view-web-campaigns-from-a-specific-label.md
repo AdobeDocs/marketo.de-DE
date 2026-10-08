@@ -1,24 +1,27 @@
 ---
 unique-page-id: 4720075
 description: Erfahren Sie, wie Sie Web-Kampagnen über eine bestimmte Kennzeichnung in Marketo Engage anzeigen, einschließlich der Anzeige von Web-Kampagnen über eine bestimmte Quelle. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
-title: Anzeigen von Web-Kampagnen über ein bestimmtes Label
+title: Anzeigen von Web-Kampagnen mit einem bestimmten Label
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/1DafoRMYVvnubXV1akPsqze9bQWvOPHRXiuWAI-lGXk
+TQID: 'https://experienceleague.adobe.com/1DafoRMYVvnubXV1akPsqze9bQWvOPHRXiuWAI-lGXk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 99
+source-wordcount: '99'
 ht-degree: 14%
-
 ---
-
-# Anzeigen von Web-Kampagnen über ein bestimmtes Label {#view-web-campaigns-from-a-specific-label}
+# Anzeigen von Web-Kampagnen mit einem bestimmten Label {#view-web-campaigns-from-a-specific-label}
 
 Sie möchten Ihre Kampagnen nach einer bestimmten Kennzeichnung anzeigen und filtern?
 

@@ -4,16 +4,21 @@ description: Erfahren Sie, wie die Lead-Synchronisierung zwischen Microsoft Dyna
 title: Microsoft Dynamics-Synchronisierung - Lead-Synchronisierung
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/BB-28aHosrt72difKAr7vgYqdI8a9ts0aOSnbWJzbw8
+TQID: 'https://experienceleague.adobe.com/BB-28aHosrt72difKAr7vgYqdI8a9ts0aOSnbWJzbw8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
+source-wordcount: '309'
 ht-degree: 0%
-
 ---
-
 # [!DNL Microsoft Dynamics]: Lead-Synchronisation {#microsoft-dynamics-sync-lead-sync}
 
 Die Synchronisierung von Marketo mit [!DNL Dynamics] ist leistungsstark. Im Folgenden finden Sie die Details:
@@ -44,7 +49,7 @@ Nein, die automatische Hintergrundsynchronisierung ist die einzige Möglichkeit,
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
-Sie können [&#x200B; Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
+Sie können [ Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
 
 ## Wird Marketo die [!DNL Dynamics] Validierungsregeln einhalten? {#will-marketo-respect-the-dynamics-validation-rules}
 

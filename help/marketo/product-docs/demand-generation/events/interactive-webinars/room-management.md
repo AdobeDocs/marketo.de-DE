@@ -3,21 +3,25 @@ description: Erfahren Sie mehr über die Raumverwaltung für interaktive Webinar
 title: Raumverwaltung
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-TQID: https://experienceleague.adobe.com/pBehrFodQtNyG3QuXVWPlcZghrpxdsYd2b9O5jixDRk
+TQID: 'https://experienceleague.adobe.com/pBehrFodQtNyG3QuXVWPlcZghrpxdsYd2b9O5jixDRk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 804
+source-wordcount: '804'
 ht-degree: 0%
-
 ---
-
 # Raumverwaltung {#room-management}
 
 Interaktive Webinar-Räume auf Basis von Adobe Connect ermöglichen ansprechende und kooperative Online-Events. In diesen Webinaren werden Inhalte und Aufzeichnungen gespeichert, die während des Webinars erstellt und verwendet wurden. Als Mitglied mit dem Recht, einen Raum zu erstellen, können Sie von einem zentralen Ort aus darauf zugreifen und sie verwalten.

@@ -1,20 +1,22 @@
 ---
 unique-page-id: 7512457
 description: Erfahren Sie, wie Sie eine mobile Push-Benachrichtigung senden. Verwenden Sie eine intelligente Kampagne mit Smart List und Flow, um den Push an Ihre Audience zu planen.
-title: Senden einer Push-Benachrichtigung für Mobilgeräte
+title: Mobile Push-Benachrichtigung senden
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/ktMtQUJT2YaXM2BzF4yTIBLfXoR0Wrm5aQLb3WalZoc
+TQID: 'https://experienceleague.adobe.com/ktMtQUJT2YaXM2BzF4yTIBLfXoR0Wrm5aQLb3WalZoc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 114
+source-wordcount: '114'
 ht-degree: 24%
-
 ---
-
-# Senden einer Push-Benachrichtigung für Mobilgeräte {#send-a-mobile-push-notification}
+# Mobile Push-Benachrichtigung senden {#send-a-mobile-push-notification}
 
 Senden Sie eine Push-Benachrichtigung an Personen, die Ihre Mobile App verwenden.
 

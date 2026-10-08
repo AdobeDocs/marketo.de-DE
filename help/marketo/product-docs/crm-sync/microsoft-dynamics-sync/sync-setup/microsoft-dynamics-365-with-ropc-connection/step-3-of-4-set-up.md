@@ -3,16 +3,21 @@ description: Erfahren Sie, wie Sie die Client-App auf Microsoft Dynamics für di
 title: 'Schritt 3 von 4: Einrichten der Client-App auf MS [!DNL Dynamics]'
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/-zVs1Dq2fO4u055kIx9i77YLTyhplheh6153JYZnmp4
+TQID: 'https://experienceleague.adobe.com/-zVs1Dq2fO4u055kIx9i77YLTyhplheh6153JYZnmp4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 380
+source-wordcount: '380'
 ht-degree: 0%
-
 ---
-
 # Schritt 3 von 4: Einrichten der Client-App auf MS [!DNL Dynamics] {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
 
 >[!PREREQUISITES]
@@ -26,7 +31,7 @@ ht-degree: 0%
 
 1. Notieren Sie sich die Anwendungs-ID (ClientId). Geben Sie sie später in Marketo ein.
 
-1. Erteilen Sie die Zustimmung des Administrators, indem Sie die Schritte in [diesem Artikel) &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
+1. Erteilen Sie die Zustimmung des Administrators, indem Sie die Schritte in [diesem Artikel) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
 1. Generieren Sie ein Client-Geheimnis im Admin Center, indem Sie auf **[!UICONTROL Zertifikate und Geheimnisse]** klicken.
 
@@ -54,7 +59,7 @@ Weitere Referenzen [finden Sie hier](https://docs.microsoft.com/en-us/azure/acti
 
 ## Bevor Sie mit Schritt 4 fortfahren {#before-proceeding-to-step-4}
 
-* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [&#x200B; jetzt einen benutzerdefinierten Synchronisierungsfilter &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
+* Wenn Sie die Anzahl der zu synchronisierenden Datensätze einschränken möchten, richten [ jetzt einen benutzerdefinierten Synchronisierungsfilter ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
 * Führen Sie den Prozess [validate [!DNL Microsoft Dynamics] sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) aus. Es stellt sicher, dass die anfänglichen Setups korrekt ausgeführt wurden.
 * Melden Sie sich beim Marketo Sync User in [!DNL Microsoft Dynamics] CRM an.
 

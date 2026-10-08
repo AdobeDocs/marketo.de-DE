@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2360418
 description: Erfahren Sie mehr über den Bericht „Personen nach Umsatz“ in Marketo Engage, einschließlich des Berichts „Personen nach Umsatz“. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
-title: Bericht zu Personen nach Umsatzphase
+title: Bericht zu Personen nach Umsatzschritt
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 6%
-
 ---
-
-# Bericht zu Personen nach Umsatzphase {#people-by-revenue-stage-report}
+# Bericht zu Personen nach Umsatzschritt {#people-by-revenue-stage-report}
 
 Sie können einen Bericht erstellen, der anzeigt, in welchem Stadium Ihres Umsatzzyklusmodells sich Ihre Mitarbeiter befinden. Der Bericht enthält alle Phasen des angegebenen Modells, solange ein Personensaldo für den angegebenen Datumsbereich des Berichts vorhanden ist.
 

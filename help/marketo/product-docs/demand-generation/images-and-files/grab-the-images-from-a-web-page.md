@@ -1,22 +1,27 @@
 ---
 unique-page-id: 2359866
 description: Erfahren Sie, wie Sie Bilder von einer Web-Seite in Marketo aufnehmen. Importieren Sie Bilder von einer URL in Ihr Design Studio.
-title: Abrufen der Bilder von einer Web-Seite
+title: Abrufen von Bildern von einer Web-Seite
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-TQID: https://experienceleague.adobe.com/7QJj1DvaBOQ-ZC5JrpFZ3lchV1t2t-2GpRX4uEmC-s0
+TQID: 'https://experienceleague.adobe.com/7QJj1DvaBOQ-ZC5JrpFZ3lchV1t2t-2GpRX4uEmC-s0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: ecf3b0de-0d29-4cb7-bed7-bf29ea2e2f77
+    internal-label: Image editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 177
+source-wordcount: '177'
 ht-degree: 7%
-
 ---
-
-# Abrufen der Bilder von einer Web-Seite {#grab-the-images-from-a-web-page}
+# Abrufen von Bildern von einer Web-Seite {#grab-the-images-from-a-web-page}
 
 Um Bilder von einer Web-Seite hinzuzufügen, kopieren Sie die Web-Adresse (URL) der Seite, die die gewünschten Bilder enthält, und führen Sie dann die folgenden Schritte aus.
 

@@ -4,16 +4,18 @@ description: Richten Sie Kategorien im prädiktiven Inhalt ein, um Ihre prädikt
 title: Einrichten von Kategorien
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/cb3IokK14sZ9aRjm6FcQFPrSk3X9y3l-M0v4130EcQo
+TQID: 'https://experienceleague.adobe.com/cb3IokK14sZ9aRjm6FcQFPrSk3X9y3l-M0v4130EcQo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 172
+source-wordcount: '172'
 ht-degree: 3%
-
 ---
-
 # Einrichten von Kategorien {#set-up-categories}
 
 Erstellen Sie Kategorien in prädiktiven Inhalten, um Ihre prädiktiven Ergebnisse im Web oder in E-Mails zu gruppieren. Sie können beispielsweise nur mit Blogs oder mit Inhalten in einer bestimmten Sprache arbeiten. Außerdem können Sie damit Ihre Seitenansicht durchsuchen und filtern.  Kategorien werden auf den Seiten [!UICONTROL Alle Inhalte] und [!UICONTROL Prädiktiver Inhalt] angezeigt.

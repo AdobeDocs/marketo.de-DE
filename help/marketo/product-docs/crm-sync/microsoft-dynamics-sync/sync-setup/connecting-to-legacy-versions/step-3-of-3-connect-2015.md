@@ -4,16 +4,21 @@ description: Erfahren Sie im letzten Schritt, wie Sie Marketo On-Premise mit Dyn
 title: Installieren von Marketo für Microsoft Dynamics 2015 On-Premise - Schritt 3 von 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/yOVhPjsnivOpFEkXYcVLy97Upm3yrBipP6NkSjsAw2Q
+TQID: 'https://experienceleague.adobe.com/yOVhPjsnivOpFEkXYcVLy97Upm3yrBipP6NkSjsAw2Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 4%
-
 ---
-
 # Schritt 3 von 3: Marketo [!DNL Dynamics] verbinden (2015 On-Premise) {#step-of-connect-marketo-dynamics-on-premises-2015}
 
 >[!PREREQUISITES]
@@ -55,13 +60,13 @@ ht-degree: 4%
    >
    >* Wenn Ihre Marketo vor Oktober 2020 bereitgestellt wurde, sind Client-ID und Geheimnis optionale Felder. Andernfalls sind sie obligatorisch. Der Erhalt dieser Informationen hängt davon ab, welche Version von MSD Sie verwenden.
    >* Der Benutzername in Marketo muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann `user@domain.com` oder DOMAIN\user lauten.
-   >* Wenn Sie die URL nicht kennen, ([&#x200B; Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >* Wenn Sie die URL nicht kennen, ([ Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!TIP]
    >
    >Kennst du die URL nicht? Wir zeigen Ihnen hier, wie Sie Ihre [Dynamics-Organisationsdienst-URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"} finden.
 
-## Felder für Synchronisierung auswählen {#select-fields-to-sync}
+## Felder für die Synchronisierung auswählen {#select-fields-to-sync}
 
 1. Klicken Sie **[!UICONTROL Bearbeiten]** in **[!UICONTROL Schritt 2: Auswahl der zu synchronisierenden Felder]**.
 

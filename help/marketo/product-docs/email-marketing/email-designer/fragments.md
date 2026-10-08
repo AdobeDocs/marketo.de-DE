@@ -6,28 +6,39 @@ description: Erfahren Sie, wie Sie Fragmente als wiederverwendbare E-Mail-Kompon
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-TQID: https://experienceleague.adobe.com/sGWGa3VQda--5A2JtkUjFmqIUD2CG3RhrhoJtcRvAMs
+TQID: 'https://experienceleague.adobe.com/sGWGa3VQda--5A2JtkUjFmqIUD2CG3RhrhoJtcRvAMs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1975
+source-wordcount: '1976'
 ht-degree: 2%
-
 ---
-
 # Fragmente
 
 Ein Fragment ist eine wiederverwendbare Komponente, die in einer oder mehreren E-Mails und E-Mail-Vorlagen referenziert werden kann. Normalerweise handelt es sich dabei um einen Inhaltsblock (Text, Bild oder beides), der schnell in Ihr Projekt eingefügt werden kann. Mit dieser Funktion können Sie mehrere benutzerdefinierte Inhaltsbausteine vorab erstellen, um E-Mail-Inhalte für einen verbesserten Design-Prozess zusammenzustellen. Häufige Anwendungsfälle sind u. a. Kopf-/Fußzeilen-Inhaltsbausteine für E-Mails, Einladungsbanner für Veranstaltungen, saisonale Nachrichten und mehr.
@@ -45,7 +56,7 @@ So verwenden Sie Fragmente in Ihren Workflows optimal:
 
 Visuelle Fragmente sind vordefinierte visuelle Blöcke, die (mit dem Visual Content Editor) erstellt wurden und die in mehreren E-Mail- oder E-Mail-Vorlagen wiederverwendet werden können.
 
-## Zugreifen auf und Verwalten von Fragmenten {#access-and-manage-fragments}
+## Aufrufen und Verwalten von Fragmenten {#access-and-manage-fragments}
 
 Um auf visuelle Fragmente zuzugreifen, navigieren Sie zu **Design Studio** in Marketo Engage. Klicken Sie in der Baumstruktur links auf **[!UICONTROL Fragmente (Neu)]**.
 
@@ -314,7 +325,7 @@ Der Inhalt des Fragments wird innerhalb der Struktur dynamisch aktualisiert, um 
 
 >[!TIP]
 >
->Wenn das Fragment das gesamte horizontale Layout in der E-Mail einnehmen soll, fügen Sie eine [!UICONTROL 1:1Spalten]-Struktur hinzu und ziehen Sie das Fragment dann per Drag-and-Drop hinein.
+>Wenn Sie möchten, dass das Fragment das gesamte horizontale Layout in der E-Mail einnimmt, fügen Sie eine [!UICONTROL 1:1-] hinzu und ziehen Sie das Fragment dann per Drag-and-Drop hinein.
 
 Nachdem die E-Mail-/E-Mail-Vorlage gespeichert wurde, wird sie auf der Seite mit den Fragmentdetails angezeigt, wenn die Registerkarte _[!UICONTROL Verwendet von]_ ausgewählt ist. Hinzugefügte Fragmente können innerhalb der E-Mail oder Vorlage nicht bearbeitet werden. Das veröffentlichte Quellfragment definiert den Inhalt.
 

@@ -1,20 +1,22 @@
 ---
 unique-page-id: 7512434
 description: Erfahren Sie, wie Sie den Push-Zugriff auf iOS für Ihre Mobile App konfigurieren. Fügen Sie das Zertifikat und das Passwort von Ihrem Entwickler in der Admin-Liste hinzu.
-title: Konfigurieren des Push-Zugriffs für Mobile App – iOS
+title: Konfigurieren des iOS-Push-Zugriffs für die App
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/XbOc8sgi0wseVh3u5HecT555AZOj1e7PLHvJ4C7-fD0
+TQID: 'https://experienceleague.adobe.com/XbOc8sgi0wseVh3u5HecT555AZOj1e7PLHvJ4C7-fD0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 152
+source-wordcount: '152'
 ht-degree: 9%
-
 ---
-
-# Konfigurieren des Push-Zugriffs für Mobile App – iOS {#configure-mobile-app-ios-push-access}
+# Konfigurieren des iOS-Push-Zugriffs für die App {#configure-mobile-app-ios-push-access}
 
 1. Klicken Sie auf **[!UICONTROL Admin]**.
 
@@ -28,7 +30,7 @@ ht-degree: 9%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Push-Zugriffstyp] die Option iOS aus und klicken Sie auf **[!UICONTROL Konfigurieren]**.
+1. Wählen [!UICONTROL  unter „Push-Zugriffstyp] die Option iOS aus und klicken Sie auf **[!UICONTROL Konfigurieren]**.
 
    ![](assets/image2016-6-10-11-3a37-3a9.png)
 

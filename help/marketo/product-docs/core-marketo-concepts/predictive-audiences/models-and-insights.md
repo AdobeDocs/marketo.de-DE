@@ -3,19 +3,23 @@ description: Erfahren Sie mehr über prädiktive Zielgruppenmodelle und Einfluss
 title: Modelle und Erkenntnisse
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-TQID: https://experienceleague.adobe.com/ikS8VQJfQ9ndHrtDY5K8GYbNYwJjk1nYkuqxnwfcWPY
+TQID: 'https://experienceleague.adobe.com/ikS8VQJfQ9ndHrtDY5K8GYbNYwJjk1nYkuqxnwfcWPY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 60e4be0b-b3ea-5f4e-8b8c-da0f5a08dacd
+    internal-label: Predictive Audiences
 topic_v2:
   - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+    internal-label: Data quality
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 234
+source-wordcount: '234'
 ht-degree: 5%
-
 ---
-
 # Modelle und Erkenntnisse {#models-and-insights}
 
 Die Leistung Ihrer Modelle hängt von der Qualität und Vollständigkeit der Eingabedaten ab. Sehen Sie sich den wichtigsten Einflussfaktor für jedes Ihrer Likelihood-KI-Modelle an. Sehen Sie sich auch die wichtigsten Faktoren an, die zu einer höheren/niedrigeren Veranstaltungsregistrierung, Veranstaltungsteilnahme oder Abmeldungen führen.

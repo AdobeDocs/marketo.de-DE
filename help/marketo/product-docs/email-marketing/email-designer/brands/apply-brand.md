@@ -8,22 +8,37 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 73%
-
 ---
-
 # Anwenden von Designs auf Ihren E-Mail-Inhalt {#apply-email-themes}
 
 >[!AVAILABILITY]
 >
->Diese Funktion befindet sich derzeit in der Beta-Version und steht nur der Beta-Kundschaft zur Verfügung. Wenden Sie sich an den Adobe-Support, um am Beta-Programm teilzunehmen.
+>Diese Funktion befindet sich derzeit in der Beta-Version und steht nur der Beta-Kundschaft zur Verfügung. Wenden Sie sich an Ihren Adobe-Kontakt, um am Beta-Programm teilzunehmen.
 
 Mit Designs können technisch nicht versierte Benutzende wiederverwendbare Inhalte erstellen, die zu einer bestimmten Marke und Designsprache passen, indem sie zusätzlich zu den Standardvorlagen benutzerdefinierte Stile hinzufügen<!-- to achieve brand specific results-->.
 
-Diese Funktion ermöglicht es Marketing-Fachleuten, visuell ansprechende, markenkonsistente E-Mails schneller und mit weniger Aufwand zu nutzen und gleichzeitig erweiterte Anpassungsoptionen für individuelle Design-Anforderungen bereitzustellen.
+Diese Funktion ermöglicht es Marketing-Fachleuten, visuell ansprechende, markenkonforme E-Mails schneller und mit weniger Aufwand zu nutzen und gleichzeitig erweiterte Anpassungsoptionen für einzigartige Design-Anforderungen bereitzustellen.
 
 <!--
 What is the Enhanced Email Authoring Experience?
@@ -44,7 +59,7 @@ Key Benefits:
 
 ## Leitlinien und Einschränkungen {#themes-guardrails}
 
-* Wenn Sie eine E-Mail von Grund auf neu erstellen, können Sie die Erstellung Ihres Inhalts mit einem Design beginnen, um schnell einen bestimmten Stil anzuwenden, der zu Ihrer Marke und Ihrem Design passt.
+* Wenn Sie eine E-Mail von Grund auf neu erstellen, können Sie Ihren Content mit einem Thema aufbauen, um schnell einen bestimmten Stil anzuwenden, der zu Ihrer Marke und Ihrem Design passt.
 
   Wenn Sie den Modus _Manuelle Formatierung_ wählen, können Sie keine Designs anwenden, es sei denn, Sie setzen Ihre E-Mail zurück.
 
@@ -64,7 +79,7 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
 
 ## Erstellen eines Designs {#create-and-edit-themes}
 
-Gehen Sie wie folgt vor, um ein Design zu definieren, das Sie in künftigen E-Mail-Inhalten nutzen können.
+Gehen Sie wie folgt vor, um ein Design zu definieren, das Sie in künftigem E-Mail-Content nutzen können.
 
 1. Erstellen Sie zunächst eine neue [E-Mail-Vorlage](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
@@ -112,9 +127,9 @@ Gehen Sie wie folgt vor, um ein Design zu definieren, das Sie in künftigen E-Ma
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**, um dieses Design für die zukünftige Verwendung zu speichern.
 
-## Anwenden von Designs auf eine E-Mail {#apply-themes}
+## Anwenden von Themen auf eine E-Mail {#apply-themes}
 
-Gehen Sie wie folgt vor, um standardmäßige oder benutzerdefinierte Stil-Designs auf eine E-Mail anzuwenden.
+Um Standard- oder benutzerdefinierte Styling-Themen auf eine E-Mail anzuwenden, gehen Sie wie folgt vor.
 
 1. `In [!DNL Marketo Engage], [add an email](create-email.md) action to a journey or campaign, and [edit your email body](get-started-email-design.md#key-steps).`
 
@@ -150,7 +165,7 @@ Gehen Sie wie folgt vor, um standardmäßige oder benutzerdefinierte Stil-Design
 
    `![](assets/theme-unlock-style.png)`
 
-Sie können jederzeit zwischen Designs wechseln. Der E-Mail-Inhalt bleibt unverändert, aber die Stile werden aktualisiert, um das neue Design widerzuspiegeln.
+Sie können jederzeit zwischen Themen wechseln. Der E-Mail-Inhalt bleibt unverändert, aber die Stile werden aktualisiert, um das neue Design widerzuspiegeln.
 
 <!--
 >[!NOTE]

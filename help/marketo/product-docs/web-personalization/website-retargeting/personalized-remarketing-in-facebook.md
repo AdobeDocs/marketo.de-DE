@@ -4,20 +4,23 @@ description: Erfahren Sie mehr über personalisiertes Remarketing in Facebook in
 title: Personalisiertes Remarketing in Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo
+TQID: 'https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 343
+source-wordcount: '343'
 ht-degree: 8%
-
 ---
-
 # Personalisiertes Remarketing in [!DNL Facebook] {#personalized-remarketing-in-facebook}
 
 Personalisiertes Remarketing ermöglicht Ihnen die erneute Interaktion mit Ihren Benutzern mithilfe von RTP-Daten und der Leistungsfähigkeit von Facebook-Remarketing.
@@ -25,7 +28,7 @@ Personalisiertes Remarketing ermöglicht Ihnen die erneute Interaktion mit Ihren
 >[!PREREQUISITES]
 >
 >* Schließen Sie das Setup [Retargeting mit Web Personalization-Daten](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) ab
->* Lesen Sie die [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerdefinierten Zielgruppen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) und Remarketing.
+>* Lesen Sie die [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-Dokumentation zu benutzerdefinierten Zielgruppen](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) und Remarketing.
 
 ## Erstellen einer Zielgruppe in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -43,7 +46,7 @@ Personalisiertes Remarketing ermöglicht Ihnen die erneute Interaktion mit Ihren
 
 ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Liste „Website]Traffic“ **[!UICONTROL Benutzerdefinierte Kombination]** aus.
+1. Wählen Sie in [!UICONTROL  Liste „Website]Traffic“ **[!UICONTROL Benutzerdefinierte Kombination]** aus.
 
 ![](assets/image2015-1-19-16-3a33-3a21.png)
 

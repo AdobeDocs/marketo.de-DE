@@ -4,13 +4,19 @@ description: Erfahren Sie, wie Sie einen Programmanalysator in Marketo Engage kl
 title: Klonen eines Programm-Analyzers
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 6%
-
 ---
-
 # Klonen eines Programm-Analyzers {#clone-a-program-analyzer}
 
 Nachdem Sie einen Analyzer gespeichert haben, können Sie ihn einfach klonen, um einen neuen zu erstellen. Gehen Sie dann in und bearbeiten Sie die neue , falls Änderungen erforderlich sind.

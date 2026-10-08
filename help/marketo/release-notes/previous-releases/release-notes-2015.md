@@ -1,42 +1,72 @@
 ---
-title: "2015"
+title: '2015'
 description: 2015 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c18d9e03-ac7d-4811-9c92-3e92ddc70ade
+    internal-label: Mobile experience
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+    internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2874
+source-wordcount: '2874'
 ht-degree: 6%
-
 ---
-
 
 # 2015
 
@@ -48,7 +78,7 @@ Die folgenden Funktionen sind in der Version vom Januar 2015 enthalten. Bitte ü
 
 **Handy-freundliche Landingpages**
 
-Sie können [im Landingpage-Editor &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) mobile Ansichten für Landingpages erstellen). Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und steigern Sie die Interaktion, indem Sie Ihre Inhalte für den einfachen Gebrauch unterwegs anpassen. Diese Funktion wird in der Woche nach der Veröffentlichung schrittweise eingeführt.
+Sie können [im Landingpage-Editor ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) mobile Ansichten für Landingpages erstellen). Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und steigern Sie die Interaktion, indem Sie Ihre Inhalte für den einfachen Gebrauch unterwegs anpassen. Diese Funktion wird in der Woche nach der Veröffentlichung schrittweise eingeführt.
 
 [Video mit schrittweisen Anleitungen für -Landingpages](https://youtu.be/aPQHlG2X6c0)
 
@@ -60,7 +90,7 @@ Drei neue Aufrufe für die Lead &amp; Activity REST-API:
 * Leads nach Programm-ID abrufen
 * Gelöschte Leads abrufen
 
-Außerdem gibt es eine neue Option für Lead synchronisieren , um die Lead-Änderung für einen schnelleren API-Aufruf asynchron zu schreiben. Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
+Außerdem gibt es eine neue Option für Lead synchronisieren , um die Lead-Änderung für einen schnelleren API-Aufruf asynchron zu schreiben. Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
 
 **E-Mail-Skriptfunktionen: Support für benutzerdefinierte Objekte**
 
@@ -91,7 +121,7 @@ Die RTP-Tag-Optionen unter „Kontoeinstellungen“ wurden aktualisiert, um Folg
 1. Asynchrones Tag ohne CDN
 1. Synchrones Tag ohne CDN
 
-Um eine optimale Leistung zu erzielen, wird empfohlen, das -Tag nach dem `<head>` oben in der Kopfzeile Ihrer Web-Seite zu platzieren. Alle Tags ermöglichen die Verwendung der [RTP-](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Informationen zur Bereitstellung des RTP-Tags finden Sie unter [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Um eine optimale Leistung zu erzielen, wird empfohlen, das -Tag nach dem `<head>` oben in der Kopfzeile Ihrer Web-Seite zu platzieren. Alle Tags ermöglichen die Verwendung der [RTP-](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Informationen zur Bereitstellung des RTP-Tags finden Sie unter [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -159,15 +189,15 @@ Verknüpfen Sie Ihr [[!DNL Google AdWords] Konto mit Marketo](/help/marketo/prod
 
 [!UICONTROL Revenue Explorer] hat ein brandneues Look-and-Feel sowie den neuen Sunburst-Diagrammtyp! Die Einführung ist für die ersten zwei Aprilwochen geplant.
 
-## Neue Ressourcen-REST-APIs {#new-asset-rest-apis}
+## Neue Asset-REST-APIs {#new-asset-rest-apis}
 
-[Neue Ressourcen-REST-APIs](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/assets)
+[Neue Asset-REST-APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 Wir bieten jetzt Unterstützung für das Erstellen und Bearbeiten von E-Mails, Vorlagen, meinen Token, Dateien und Snippets [über die API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## [!DNL Microsoft Dynamics] 2015 On-Premise {#microsoft-dynamics-on-premise}
 
-Unterstützt mit dem neuesten Installationsprogramm ([&#x200B; über die App zugänglich](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Unterstützt mit dem neuesten Installationsprogramm ([ über die App zugänglich](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
@@ -177,7 +207,7 @@ Nutzen Sie die [Lead-Datenfelder](/help/marketo/product-docs/web-personalization
 
 ## RTP: Webinhalte nach E-Mail- oder Programmkampagnenname personalisieren {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Setzen Sie das Gespräch mit Ihrem Lead über alle Kanäle von E-Mail bis Web fort. [Personalisieren eingehender Inhalte basierend auf der E-Mail-Kampagne oder dem &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md), der in den Marketing-Aktivitäten von Marketo verwendet wird.
+Setzen Sie das Gespräch mit Ihrem Lead über alle Kanäle von E-Mail bis Web fort. [Personalisieren eingehender Inhalte basierend auf der E-Mail-Kampagne oder dem ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md), der in den Marketing-Aktivitäten von Marketo verwendet wird.
 
 ## April 2015 {#april}
 
@@ -219,7 +249,7 @@ Ihre [!DNL Sales Insight] Funktionen - Lead-Feed, Best Bets, Interessante Moment
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
-## RTP: Kontobasierte Marketinganalysen {#rtp-account-based-marketing-analytics}
+## RTP - Account-Based Marketing-Analyse {#rtp-account-based-marketing-analytics}
 
 **RTP: Kontobasierte Marketinganalysen**
 
@@ -247,17 +277,17 @@ Haben Sie „Senden“ gedrückt, bevor ein E-Mail-Programm bereit war, auszugeh
 
 Marketo führt nun wöchentlich automatisierte [!DNL SPF]- und [!DNL DKIM] für die hinzugefügten Domains durch. Bleiben Sie auf dem Laufenden, indem Sie Ihre Benachrichtigungen überprüfen.
 
-## Verhaltensänderung E-Mail-Vorlage {#email-template-behavior-change}
+## Verhaltensänderung bei E-Mail-Vorlagen {#email-template-behavior-change}
 
 Ab dieser Version sind gültige HTML-Kommentare jetzt zulässig und werden beim Erstellen neuer E-Mails nicht entfernt.
 
-## RTP: Drag-and-drop-Segment-Editor {#rtp-drag-and-drop-segment-editor}
+## RTP: Drag-and-drop Segment Editor {#rtp-drag-and-drop-segment-editor}
 
 RTP: [Drag-and-Drop Segment Editor](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Ziehen Sie Ihre Kriterien per Drag-and-Drop in den Segment Builder, definieren Sie den Wert und Sie sind auf dem besten Weg, ein Echtzeit-Segment zu erstellen.
 
-## RTP. Predictive Content-Empfehlungen {#rtp-predictive-content-recommendations}
+## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
 
 [Predictive Content Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
@@ -298,7 +328,7 @@ Schalten Sie die Texteditorversion um.
 
 ![](assets/image2015-7-10-9-3a43-3a32.png)
 
-## Single-Sign-On für die E-Mail-Zustellbarkeit {#email-deliverability-single-sign-on}
+## E-Mail-Zustellbarkeit Single Sign-On {#email-deliverability-single-sign-on}
 
 Wenn Sie auf die Kachel E-Mail-Zustellbarkeit klicken, müssen Sie Ihre Anmeldedaten nicht mehr angeben.
 

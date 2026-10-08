@@ -4,19 +4,26 @@ title: E-Mail-Zusammenarbeit
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-TQID: https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s
+TQID: 'https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Beginner
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 316
+source-wordcount: '316'
 ht-degree: 2%
-
 ---
-
 # E-Mail-Zusammenarbeit {#email-collaboration}
 
 E-Mail-Kollaboration und -Kommentare ermöglichen es Marketing-Teams, E-Mail-Assets in der Adobe Marketo Engage E-Mail-Designer nahtlos zu überprüfen, zu besprechen und abzuschließen. Anstatt Entwürfe über externe Tools (wie Chat, E-Mail-Threads, Tabellen usw.) freizugeben, können Sie Kommentare abgeben, Änderungen vorschlagen und Feedback in Echtzeit auflösen. Dies optimiert den Workflow, verringert Fehler und stellt sicher, dass Stakeholder vor dem Versand einer E-Mail-Kampagne aufeinander abgestimmt sind.

@@ -1,7 +1,10 @@
 ---
 description: Erfahren Sie mehr über die CX Enterprise Coworker for Marketo Engage-Suite mit Agenten, die zur Automatisierung von Marketing-Aufgaben wie Programm-QA, Lead-Import, Datennormalisierung und mehr entwickelt wurden.
 title: Übersicht über CX Enterprise Coworker für Marketo Engage
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 1%
@@ -16,7 +19,7 @@ CX Enterprise Coworker für Marketo Engage bietet Agentenfähigkeiten zur Automa
 
 >[!IMPORTANT]
 >
->* Nachdem CX Enterprise Coworker für Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, &#x200B;](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
+>* Nachdem CX Enterprise Coworker für Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, ](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
 >
 >* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die PII-Überlegungen im Datenblatt [CX Enterprise Coworker for Marketo Engage](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
@@ -40,7 +43,7 @@ Beschreiben Sie eine Marketing-Kampagne im Klartext. CX Enterprise Coworker für
 
 ### Leads untersuchen {#investigate-leads}
 
-Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
+Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads ](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
 
 ### Produktkenntnisse {#product-knowledge}
 
@@ -64,4 +67,4 @@ Weitere Agenten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben en
 
 >[!MORELIKETHIS]
 >
->Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
+>Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.

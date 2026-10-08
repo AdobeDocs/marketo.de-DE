@@ -4,23 +4,28 @@ description: Erfahren Sie mehr über Web-Segmente in Marketo Engage, einschließ
 title: Web-Segmente
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+TQID: 'https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2104
+source-wordcount: '2104'
 ht-degree: 5%
-
 ---
-
 # Web-Segmente {#web-segments}
 
 ## Segment anzeigen {#view-segment}
@@ -86,7 +91,7 @@ Zu diesen Details gehören:
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Um ein Segment zu aktivieren oder zu deaktivieren, aktivieren Sie das Kontrollkästchen dieses Segments in der Tabelle und wählen Sie im Dropdown-Feld &quot;[!UICONTROL Aktion auswählen]&quot; unten in der Tabelle die Aktion &quot;[!UICONTROL Aktivieren]&quot; oder &quot;[!UICONTROL Deaktivieren]. Wenn ein Segment deaktiviert ist, wird unter der Spalte [!UICONTROL Status“ das Wort &#x200B;] angezeigt.
+Um ein Segment zu aktivieren oder zu deaktivieren, aktivieren Sie das Kontrollkästchen dieses Segments in der Tabelle und wählen Sie im Dropdown-Feld &quot;[!UICONTROL Aktion auswählen]&quot; unten in der Tabelle die Aktion &quot;[!UICONTROL Aktivieren]&quot; oder &quot;[!UICONTROL Deaktivieren]. Wenn ein Segment deaktiviert ist, wird unter der Spalte [!UICONTROL Status“ das Wort ] angezeigt.
 
 ## Segmente erstellen {#create-segments}
 
@@ -106,8 +111,8 @@ Definieren allgemeiner Parameter für Ihr Segment:
 * **Segmentregellogik:** Sie eine UND/ODER-Logik aus, um jedes Segmentierungsattribut zu erstellen.
 * **Zeit:** Definieren Sie den Grad der Besucherinteraktion, den Sie in Ihrer Kampagne verwenden möchten
 
-   * **Bei Eintritt**: Interagieren des Besuchers, der auf die Website kommt
-   * **Nach dem 1. bis 9. Klick**: Interagieren Sie den Besucher nach einer bestimmten Anzahl von Klicks auf die Website
+  * **Bei Eintritt**: Interagieren des Besuchers, der auf die Website kommt
+  * **Nach dem 1. bis 9. Klick**: Interagieren Sie den Besucher nach einer bestimmten Anzahl von Klicks auf die Website
 
 >[!TIP]
 >
@@ -148,8 +153,8 @@ Ziehen Sie &quot;**[!UICONTROL &quot; per Drag-]** in den Segmenteditor.
 
 * Wählen Sie aus den folgenden Parametern:
 
-   * **[!UICONTROL Einschließen]** - Wählen Sie aus, ob die Kampagne einen Standort ein- oder ausschließen soll.
-   * **[!UICONTROL Land zum Hinzufügen auswählen]** - Wählen Sie aus der Dropdown-Liste das Land aus, das Sie in das Segment aufnehmen möchten. Der Name des Landes wird rechts angezeigt. Sie können mehrere Länder auswählen.
+  * **[!UICONTROL Einschließen]** - Wählen Sie aus, ob die Kampagne einen Standort ein- oder ausschließen soll.
+  * **[!UICONTROL Land zum Hinzufügen auswählen]** - Wählen Sie aus der Dropdown-Liste das Land aus, das Sie in das Segment aufnehmen möchten. Der Name des Landes wird rechts angezeigt. Sie können mehrere Länder auswählen.
 
 Nachdem das Land hinzugefügt wurde, können Sie auch Bundesland, Stadt und Postleitzahl des Segments angeben.
 
@@ -165,8 +170,8 @@ Nachdem das Land hinzugefügt wurde, können Sie auch Bundesland, Stadt und Post
 
 * Wählen Sie aus den folgenden Parametern:
 
-   * **[!UICONTROL Einschlüsse]** - Wählen Sie aus, ob das Segment eine Branche ein- oder ausschließen soll.
-   * **[!UICONTROL Hinzuzufügende Branchen auswählen]** - Wählen Sie die Branche aus, die Sie in das Segment aufnehmen möchten. Die Branche wird unter dem Dropdown-Feld angezeigt. Sie können mehrere Branchen auswählen.
+  * **[!UICONTROL Einschlüsse]** - Wählen Sie aus, ob das Segment eine Branche ein- oder ausschließen soll.
+  * **[!UICONTROL Hinzuzufügende Branchen auswählen]** - Wählen Sie die Branche aus, die Sie in das Segment aufnehmen möchten. Die Branche wird unter dem Dropdown-Feld angezeigt. Sie können mehrere Branchen auswählen.
 
 **Organisationsgruppe**
 
@@ -174,11 +179,11 @@ Aktivieren Sie **[!UICONTROL Abschnitt]** Profilsegmentierung“ das Kontrollkä
 
 * Wählen Sie aus der Dropdown-Liste eine der folgenden Optionen aus:
 
-   * Fortune 500 - Enthält nur Fortune 500-Unternehmen in diesem Segment
-   * Fortune 1000 - Enthält nur Fortune 1000-Unternehmen in diesem Segment
-   * Global 2000 - Enthält die Global 2000-Unternehmen in diesem Segment
-   * Unternehmen - Umfasst Unternehmen mit mehr als 1.000 Mitarbeitern und einem Umsatz von mehr als 250 Millionen US-Dollar
-   * SMB - Nur kleine und mittlere Unternehmen in diesem Segment
+  * Fortune 500 - Enthält nur Fortune 500-Unternehmen in diesem Segment
+  * Fortune 1000 - Enthält nur Fortune 1000-Unternehmen in diesem Segment
+  * Global 2000 - Enthält die Global 2000-Unternehmen in diesem Segment
+  * Unternehmen - Umfasst Unternehmen mit mehr als 1.000 Mitarbeitern und einem Umsatz von mehr als 250 Millionen US-Dollar
+  * SMB - Nur kleine und mittlere Unternehmen in diesem Segment
 
 **Konten-**
 
@@ -186,8 +191,8 @@ Aktivieren Sie **[!UICONTROL Abschnitt]** Profilsegmentierung“ das Kontrollkä
 
 * **Ist von diesen Unternehmen (bestimmte Namen)**
 
-   * Wählen Sie das Zielunternehmen aus der Dropdown-Liste „Hinzuzufügende Firma auswählen“ aus.
-   * Sie können den genauen Organisationsnamen eingeben, den Sie ansprechen möchten. *Es wird* immer* empfohlen, Namenskontenlisten zu verwenden, anstatt die Namen manuell einzugeben, um bessere Übereinstimmungen zu erzielen (siehe unten).
+  * Wählen Sie das Zielunternehmen aus der Dropdown-Liste „Hinzuzufügende Firma auswählen“ aus.
+  * Sie können den genauen Organisationsnamen eingeben, den Sie ansprechen möchten. *Es wird* immer* empfohlen, Namenskontenlisten zu verwenden, anstatt die Namen manuell einzugeben, um bessere Übereinstimmungen zu erzielen (siehe unten).
 
 **Liste benannter Konten**
 
@@ -197,7 +202,7 @@ Wählen Sie aus einer [benannten Kontenliste](/help/marketo/product-docs/web-per
 
 >[!NOTE]
 >
->Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Die Zahl in den Klammern neben dem Namen der Liste benannter Konten wird als Indexreferenz für die Liste für Web Personalization ([-API) ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **ISP ausschließen**
 
@@ -240,11 +245,11 @@ Definieren Sie Ihr Segment anhand des Status eines Interessenten: bekannt oder a
 
 * Anzahl der Besuche - Wählen Sie diese Option aus der Dropdown-Liste, um die Anzahl der Besuche für Interessenten auf der Website anzugeben.
 
-   * Wählen Sie aus der Dropdown-Liste gleich, gleich oder größer oder gleich oder kleiner als aus.
+  * Wählen Sie aus der Dropdown-Liste gleich, gleich oder größer oder gleich oder kleiner als aus.
 
 * Spezifische Besuche : Wählen Sie diese Option aus der Dropdown-Liste, um einen bestimmten Besucher anzugeben.
 
-   * Geben Sie im Textfeld rechts die Besuchernummer ein, die Sie verfolgen möchten. Die eindeutige [!DNL Web Personalization]-Besucheridentifikationsnummer finden Sie, wenn Sie auf einen Besucher klicken (auf der Besucherseite) und im rechten Seitenbereich auf Kampagne festlegen klicken. Die Besucher-ID befindet sich im Abschnitt Erweiterte Einstellungen . Die Besucher-ID finden Sie auch in der URL (z. B. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+  * Geben Sie im Textfeld rechts die Besuchernummer ein, die Sie verfolgen möchten. Die eindeutige [!DNL Web Personalization]-Besucheridentifikationsnummer finden Sie, wenn Sie auf einen Besucher klicken (auf der Besucherseite) und im rechten Seitenbereich auf Kampagne festlegen klicken. Die Besucher-ID befindet sich im Abschnitt Erweiterte Einstellungen . Die Besucher-ID finden Sie auch in der URL (z. B. VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Suchbegriffe** - Definieren Sie ein Segment anhand der Suchbegriffe eines Interessenten.
 
@@ -268,16 +273,16 @@ Definieren Sie Ihr Segment anhand des Status eines Interessenten: bekannt oder a
 
 **[!UICONTROL Mobile OS]**
 
-Ziehen Sie per Drag-and[!UICONTROL Drop den &#x200B;]Mobile OS) in den Segmenteditor
+Ziehen Sie per Drag-and[!UICONTROL Drop den ]Mobile OS) in den Segmenteditor
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Besuchertyp**<br />
   **[!UICONTROL Betriebssystem für Mobilgeräte]**: Wählen Sie in der Dropdown-Liste ein oder mehrere Betriebssysteme für Mobilgeräte aus. Das ausgewählte mobile Betriebssystem wird unten angezeigt.
 
-   * Der Besucher verwendet ein beliebiges Mobilgerät
-   * Der Besucher verwendet dieses spezifische Gerät/Betriebssystem
-   * Der Besucher verwendet kein Mobilgerät
+  * Der Besucher verwendet ein beliebiges Mobilgerät
+  * Der Besucher verwendet dieses spezifische Gerät/Betriebssystem
+  * Der Besucher verwendet kein Mobilgerät
 
 * **[!UICONTROL Gerät]** - Wählen Sie aus der Dropdown-Liste ein oder mehrere Geräte aus (Apple, Samsung, LG, HTC, Nexus, Blackberry usw.). Die ausgewählten Geräte werden unten angezeigt.
 
@@ -296,11 +301,11 @@ Fügen Sie den Ereigniswert hinzu, den Sie ansprechen möchten. E.g. aus Datenqu
 
 **User Context-API**
 
-Aufruf der Web Personalization[API (weitere Informationen dazu finden Sie hier)](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Aufruf der Web Personalization[API (weitere Informationen dazu finden Sie hier)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Verwenden von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einbeziehen möchten, der bzw. die etwas darin enthält, z. B. &quot;[google.com](https://google.com)&quot; oder „Suchbegriffprodukt“, nennen wir dies einen Platzhalter, und er sollte mit einem Sternchen - diesem kleinen Kerl&#42; - an jedem Ende eingegeben werden. Daher sollte alles, was von [google.com](https://google.com) kommt, als &#42; ([.com) &#x200B;](https://google.com)&#42; werden
+>**Verwenden von Platzhaltern -** Wenn Sie einen Suchbegriff oder eine URL einbeziehen möchten, der bzw. die etwas darin enthält, z. B. &quot;[google.com](https://google.com)&quot; oder „Suchbegriffprodukt“, nennen wir dies einen Platzhalter, und er sollte mit einem Sternchen - diesem kleinen Kerl&#42; - an jedem Ende eingegeben werden. Daher sollte alles, was von [google.com](https://google.com) kommt, als &#42; ([.com) ](https://google.com)&#42; werden
 
 ## Bearbeiten [!UICONTROL Segmente] {#edit-segments}
 

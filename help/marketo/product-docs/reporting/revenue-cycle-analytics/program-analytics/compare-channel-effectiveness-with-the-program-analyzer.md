@@ -4,13 +4,19 @@ description: Erfahren Sie mehr über den Vergleich der Kanaleffektivität mit de
 title: Vergleichen der Kanaleffektivität mit dem Programm-Analyzer
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 1%
-
 ---
-
 # Vergleich der Kanaleffektivität mit dem [!UICONTROL Programm-Analyzer] {#compare-channel-effectiveness-with-the-program-analyzer}
 
 Verwenden Sie den [!UICONTROL Programm]Analyzer, um Kanalkosten, Mitgliederakquise, Pipeline, Umsatz und mehr zu vergleichen und Ihre wichtigsten und am wenigsten effektiven Kanäle zu ermitteln.
@@ -41,7 +47,7 @@ Verwenden Sie den [!UICONTROL Programm]Analyzer, um Kanalkosten, Mitgliederakqui
 
    >[!NOTE]
    >
-   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, sind für Berechnungen mit Erstkontakt (FT) und Multi-Touch (MT) verfügbar. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution“ zu &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, sind für Berechnungen mit Erstkontakt (FT) und Multi-Touch (MT) verfügbar. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution“ zu ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Verwenden Sie die **[!UICONTROL Y-Achse]** Dropdown-Liste, um **[!UICONTROL (MT) Pipeline Erstellt auszuwählen]**.
 
@@ -79,7 +85,7 @@ In unserem Beispiel sehen wir, dass der Kanal der Fachmesse sowohl der teuerste 
 
 >[!TIP]
 >
->Die Beispiele in diesen Schritten messen die Effektivität basierend auf der erstellten Pipeline. Verwenden Sie die [!UICONTROL Y-Achse] Dropdown-Liste, um andere Möglichkeiten zur Messung der Kanaleffektivität auszuwählen, z. B[!UICONTROL &#x200B; „Neue &#x200B;]&quot;, [!UICONTROL Mitglieder], [!UICONTROL Kosten pro Erfolg] usw.
+>Die Beispiele in diesen Schritten messen die Effektivität basierend auf der erstellten Pipeline. Verwenden Sie die [!UICONTROL Y-Achse] Dropdown-Liste, um andere Möglichkeiten zur Messung der Kanaleffektivität auszuwählen, z. B[!UICONTROL  „Neue ]&quot;, [!UICONTROL Mitglieder], [!UICONTROL Kosten pro Erfolg] usw.
 
 >[!MORELIKETHIS]
 >

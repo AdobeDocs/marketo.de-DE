@@ -1,26 +1,29 @@
 ---
 unique-page-id: 1146999
 description: Erfahren Sie mehr über Trigger-Token für interessante Momente in Marketo. Konfigurieren Sie, welche Aktivitäten interessante Momente im MSI-Bedienfeld erzeugen.
-title: Auslöser-Token für interessante Momente
+title: Trigger-Token für interessante Momente
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/4N7eK5miPjqckjCkMddlqBOm-LZZMMKdk8SnTgSvgFc
+TQID: 'https://experienceleague.adobe.com/4N7eK5miPjqckjCkMddlqBOm-LZZMMKdk8SnTgSvgFc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 557
+source-wordcount: '557'
 ht-degree: 67%
-
 ---
-
-# Auslöser-Token für interessante Momente {#trigger-tokens-for-interesting-moments}
+# Trigger-Token für interessante Momente {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->Erfahren Sie, wie Sie den Schritt &quot;[&#x200B; Momentfluss“ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Erfahren Sie, wie Sie den Schritt &quot;[ Momentfluss“ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Verfügbare Token {#available-tokens}
 
@@ -72,7 +75,7 @@ Je nach in einer Smart-Kampagne verwendetem Trigger werden zusätzliche Trigger-
    <th><code>{{trigger.Browser}}</code></th>
   </tr>
   <tr>
-   <td>Klickt auf Link in E-Mail</td>
+   <td>Klickt auf Link in E-Mail​</td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><img src="assets/check.png" alt="check"></td>
@@ -157,7 +160,7 @@ Je nach in einer Smart-Kampagne verwendetem Trigger werden zusätzliche Trigger-
    <td><br></td>
   </tr>
     <tr>
-   <td>Weiterleitung an E-Mail-Adresse eines Freundes wurde empfangen</td>
+   <td>Hat E-Mail „An einen Freund weiterleiten“ erhalten</td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
@@ -174,7 +177,7 @@ Je nach in einer Smart-Kampagne verwendetem Trigger werden zusätzliche Trigger-
    <td><br></td>
   </tr>
     <tr>
-   <td>Weiterleitung an E-Mail-Adresse eines Freundes wurde gesendet</td>
+   <td>Hat E-Mail „An einen Freund weiterleiten“ gesendet</td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
@@ -789,7 +792,7 @@ Je nach in einer Smart-Kampagne verwendetem Trigger werden zusätzliche Trigger-
     <td><img src="assets/check.png" alt="check"></td>
   </tr>
   <tr>
-    <td>Hatte eine Interaktion mit einem Support-Mitarbeitenden per Dialog</td>
+    <td>Hatte eine Interaktion mit einem Agent per Dialog</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -811,7 +814,7 @@ Je nach in einer Smart-Kampagne verwendetem Trigger werden zusätzliche Trigger-
     <td></td>
   </tr>
   <tr>
-    <td>Hatte eine Interaktion mit einem Support-Mitarbeitenden per Konversationsformular</td>
+    <td>Hatte eine Interaktion mit einem Agent per Konversationsformular</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -833,7 +836,7 @@ Je nach in einer Smart-Kampagne verwendetem Trigger werden zusätzliche Trigger-
     <td></td>
   </tr>
   <tr>
-    <td>Arrangierte ein Meeting in Dialog</td>
+    <td>Hat ein Meeting per Dialog geplant</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -855,7 +858,7 @@ Je nach in einer Smart-Kampagne verwendetem Trigger werden zusätzliche Trigger-
     <td></td>
   </tr>
   <tr>
-    <td>Arrangierte ein Meeting in Konversationsformular</td>
+    <td>Hat ein Meeting per Konversationsformular geplant</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -943,7 +946,7 @@ Je nach in einer Smart-Kampagne verwendetem Trigger werden zusätzliche Trigger-
     <td></td>
   </tr>
   <tr>
-    <td>Hatte eine Interaktion mit Dokument in Konversationsformular</td>
+    <td>Hat per Konversationsformular mit Dokument interagiert</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1039,7 +1042,7 @@ Je nach in einer Smart-Kampagne verwendetem Trigger werden zusätzliche Trigger-
    <td><br></td>
   </tr>
   <tr>
-   <td>Klickt Link auf Webseite an</td>
+   <td>Klickt auf Link auf Web-Seite</td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>

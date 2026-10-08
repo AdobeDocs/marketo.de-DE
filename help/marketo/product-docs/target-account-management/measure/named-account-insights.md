@@ -4,24 +4,32 @@ description: Erfahren Sie mehr über das Dashboard für benannte Konten und sein
 title: Einblicke in benannte Konten
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/AFf4miCMLQKRhYC-gIn-q8KinQD8NZ8-8FxsxC1hxMg
+TQID: 'https://experienceleague.adobe.com/AFf4miCMLQKRhYC-gIn-q8KinQD8NZ8-8FxsxC1hxMg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 444
+source-wordcount: '444'
 ht-degree: 2%
-
 ---
-
 # Einblicke in benannte Konten {#named-account-insights}
 
 Das Dashboard für benannte Konten bietet eine 360-Grad-Ansicht eines Zielkontos.
@@ -30,7 +38,7 @@ Das Dashboard für benannte Konten bietet eine 360-Grad-Ansicht eines Zielkontos
 
 ## Dashboard {#dashboard}
 
-Das Dashboard aggregiert wichtige Einblicke auf Kontoebene von allen Personen in einem benannten Konto, sodass nicht jede Person aufgerufen werden muss, um ihren Fortschritt zu bewerten. Sie können mit „E-Mail-Einblicke“ einen tieferen Einblick in [&#x200B; E-Mail-Aktivität &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+Das Dashboard aggregiert wichtige Einblicke auf Kontoebene von allen Personen in einem benannten Konto, sodass nicht jede Person aufgerufen werden muss, um ihren Fortschritt zu bewerten. Sie können mit „E-Mail-Einblicke“ einen tieferen Einblick in [ E-Mail-Aktivität ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -123,6 +131,6 @@ Auf dieser Registerkarte können Sie Mitglieder des Account-Teams anzeigen, Mitg
 
 ## [!UICONTROL ICP-Indikatoren] {#icp-indicators}
 
-Sehen Sie sich die [!UICONTROL ICP-Indikatoren] an, die Sie beim „Anpassen [&#x200B; Modells“ für den Export &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) haben.
+Sehen Sie sich die [!UICONTROL ICP-Indikatoren] an, die Sie beim „Anpassen [ Modells“ für den Export ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) haben.
 
 ![](assets/eight.png)

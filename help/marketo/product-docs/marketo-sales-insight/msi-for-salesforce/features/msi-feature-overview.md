@@ -4,20 +4,23 @@ description: Erfahren Sie mehr über die Funktionen von Marketo Sales Insight in
 title: MSI-Funktionsübersicht
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g
+TQID: 'https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 946
+source-wordcount: '946'
 ht-degree: 13%
-
 ---
-
 # MSI-Funktionsübersicht {#msi-feature-overview}
 
 MSI verfügt in [!DNL Salesforce] Lightning und Classic über folgende Funktionen.
@@ -32,17 +35,17 @@ Das MSI VisualForce-Bedienfeld bietet die folgenden Funktionen:
 
 * Registerkarten
 
-   * [Insights-Dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Interessante Momente
-   * Webaktivität
-   * E-Mail
-   * Ergebnis
+  * [Insights-Dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+  * Interessante Momente
+  * Webaktivität
+  * E-Mail
+  * Ergebnis
 
 * Aktionen
 
-   * Zu Marketo-Kampagne hinzufügen
-   * Marketo-E-Mail senden
-   * Hinzufügen/Entfernen aus der Überwachungsliste
+  * Zu Marketo-Kampagne hinzufügen
+  * Marketo-E-Mail senden
+  * Hinzufügen/Entfernen aus der Überwachungsliste
 
 * Sterne und Flammen
 
@@ -151,37 +154,37 @@ Die folgenden Funktionen sind **nicht verfügbar** auf der Seite „Opportunity-
 
 * [!DNL Best Bets]
 
-   * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten. Möglichkeit, Best Bets je nach Konfiguration der Option „Standard ausblenden“ auf der Seite &quot;Marketo-Konfiguration“ auszublenden
-   * Spalten - Name, Konto, letzter interessanter Moment, Status-Header, Interaktion (Sterne und Flammen), Ausblenden
+  * Umfasst die Möglichkeit, Ansichten zu erstellen und zu bearbeiten. Möglichkeit, Best Bets je nach Konfiguration der Option „Standard ausblenden“ auf der Seite &quot;Marketo-Konfiguration“ auszublenden
+  * Spalten - Name, Konto, letzter interessanter Moment, Status-Header, Interaktion (Sterne und Flammen), Ausblenden
 
 * Meine Merkliste
 
-   * Beinhaltet die Möglichkeit, Ansichten zu erstellen und zu bearbeiten
-   * Spalten - Name, Konto, letzter interessanter Moment, Status-Header, Interaktion (Sterne und Flammen), entfernen
+  * Beinhaltet die Möglichkeit, Ansichten zu erstellen und zu bearbeiten
+  * Spalten - Name, Konto, letzter interessanter Moment, Status-Header, Interaktion (Sterne und Flammen), entfernen
 
 * Webaktivität
 
-   * Beinhaltet die Möglichkeit, Ansichten zu erstellen und zu bearbeiten sowie die Zeitrahmen-Filterfunktion
-   * Spalte - Seitenansicht, Name, Konto, letzter Besuch
+  * Beinhaltet die Möglichkeit, Ansichten zu erstellen und zu bearbeiten sowie die Zeitrahmen-Filterfunktion
+  * Spalte - Seitenansicht, Name, Konto, letzter Besuch
 
 * Anonyme Web-Aktivität
 
-   * Beinhaltet die Möglichkeit, Ansichten zu erstellen und zu bearbeiten sowie die Zeitrahmen-Filterfunktion
-   * Spalten - Seitenansicht, Firma, Letzter Besuch, Recherche (öffnet die LinkedIn-Seite des Unternehmens)
+  * Beinhaltet die Möglichkeit, Ansichten zu erstellen und zu bearbeiten sowie die Zeitrahmen-Filterfunktion
+  * Spalten - Seitenansicht, Firma, Letzter Besuch, Recherche (öffnet die LinkedIn-Seite des Unternehmens)
 
 * Mein E-Mail
 
-   * Beinhaltet die Möglichkeit, Ansichten zu erstellen und zu bearbeiten
-   * Spalten - Name, Konto, Betreff, Datum, Öffnen, Klicken
+  * Beinhaltet die Möglichkeit, Ansichten zu erstellen und zu bearbeiten
+  * Spalten - Name, Konto, Betreff, Datum, Öffnen, Klicken
 
 * Lead-Feed - Umfasst die Möglichkeit, interessante Momente zu abonnieren. RSS-Feed auf der Konfigurationsseite muss aktiviert sein, um diese Funktion verwenden zu können.
 
-   * Lead/Kontakt, der diesen interessanten Moment hatte
-   * Interessanter Moment-Typ (Web, E-Mail oder Meilenstein) und Beschreibung
-   * Kontoname
-   * Zeit, zu der dieser interessante Moment eintrat
-   * Abonnementoption zum Empfang einer E-Mail-Benachrichtigung für diesen Ereignistyp
-   * Symbol mit hoher Priorität, das anzeigt, dass diese Person eine Beste Wahl ist
+  * Lead/Kontakt, der diesen interessanten Moment hatte
+  * Interessanter Moment-Typ (Web, E-Mail oder Meilenstein) und Beschreibung
+  * Kontoname
+  * Zeit, zu der dieser interessante Moment eintrat
+  * Abonnementoption zum Empfang einer E-Mail-Benachrichtigung für diesen Ereignistyp
+  * Symbol mit hoher Priorität, das anzeigt, dass diese Person eine Beste Wahl ist
 
 ## Registerkarte &quot;[!DNL Marketo Sales Insight]&quot; {#marketo-sales-insight-configuration-tab}
 

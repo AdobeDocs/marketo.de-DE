@@ -1,20 +1,25 @@
 ---
 unique-page-id: 557337
 description: Erfahren Sie, wie Sie Ansichten für Listen und Smart Lists erstellen und ändern. Passen Sie an, welche Spalten auf der Registerkarte Personen angezeigt werden.
-title: Erstellen und Ändern von Ansichten für Listen und intelligente Listen
+title: Erstellen und Ändern von Ansichten für Listen und Smart Lists
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/2MeSAe-8Or9R-MpHcCuUhTVARl-xkweRcyqowWAlQEM
+TQID: 'https://experienceleague.adobe.com/2MeSAe-8Or9R-MpHcCuUhTVARl-xkweRcyqowWAlQEM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 227
+source-wordcount: '227'
 ht-degree: 8%
-
 ---
-
-# Erstellen und Ändern von Ansichten für Listen und intelligente Listen {#create-and-change-views-for-lists-and-smart-list}
+# Erstellen und Ändern von Ansichten für Listen und Smart Lists {#create-and-change-views-for-lists-and-smart-list}
 
 Eine Smart-Liste zeigt einen Standardsatz von Spalten an. Diese Spalten können angepasst werden.
 

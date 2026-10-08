@@ -1,22 +1,27 @@
 ---
 unique-page-id: 2359828
 description: Erfahren Sie, wie Sie Ihren Marketo-Landingpages SSL hinzufügen. Aktivieren Sie HTTPS für sichere Landingpage-URLs.
-title: Hinzufügen von SSL zu einer Landingpage
+title: Hinzufügen von SSL zu Landingpages
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o
+TQID: 'https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Configuration
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 875
+source-wordcount: '875'
 ht-degree: 14%
-
 ---
-
-# Hinzufügen von SSL zu einer Landingpage {#add-ssl-to-your-landing-pages}
+# Hinzufügen von SSL zu Landingpages {#add-ssl-to-your-landing-pages}
 
 Mit der SSL-Verschlüsselung (Secure Socket Layer) können Sie alle Landingpages für eine Marketo Engage-Instanz sicher machen.
 
@@ -98,7 +103,7 @@ Unten finden Sie Fehlermeldungen, die Sie möglicherweise zusammen mit ihren Def
 <tbody>
 <tr>
     <td><i>Domäne existiert bereits.</i></td>
-    <td>Eine Domain mit demselben Namen ist bereits vorhanden.</td>
+    <td>Eine Domain mit dem gleichen Namen ist bereits vorhanden.</td>
   </tr>
   <tr>
     <td><i>Domain ist nicht der Standard-Domain zugeordnet.</i></td>
@@ -124,10 +129,10 @@ Unten finden Sie Fehlermeldungen, die Sie möglicherweise zusammen mit ihren Def
 
 ## Zu beachtende Punkte {#things-to-note}
 
-* **DNS-Zuordnung für Domain zu Marketo Engage**: Bevor Sie Domains in der Benutzeroberfläche hinzufügen, müssen Sie [CNAMEs einer von Marketo bereitgestellten Domain zuordnen](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS-Zuordnung für Domain zu Marketo Engage**: Bevor Sie Domains in der Benutzeroberfläche hinzufügen, müssen Sie [CNAMEs einer von Marketo bereitgestellten Domain zuordnen](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **Benutzerdefinierte SSLs**: Wenn Sie eine benutzerdefinierte SSL benötigen, senden Sie ein [Support-Ticket](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}. Verwenden Sie nicht das Kontrollkästchen „Self-Service“ für die SSL-Erstellung.
 
 * **Vorhandene SSLs**: Beim Hinzufügen einer Domain sucht das System nach bereits vorhandenen SSLs, die möglicherweise zuvor manuell erstellt wurden. Wenn diese Validierung auftritt, erstellen Sie Ihre Domain, ohne die SSL-Erstellung auszuwählen, und wir werden sie für Sie verbinden. [Kontaktieren Sie den Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"} um weitere Informationen oder Optionen zu erhalten.
 
-* **Löschen von Domains**: Beim automatischen Löschen einer Domain **das SSL** Zertifikat nicht gelöscht. Diese Schutzmaßnahme verhindert Benutzerfehler, die dazu führen, dass eine Website ohne SSL-Zertifikate ist. Wenn Sie die SSL-Zertifikate entfernen möchten, wenden Sie sich [&#x200B; den Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.
+* **Löschen von Domains**: Beim automatischen Löschen einer Domain **das SSL** Zertifikat nicht gelöscht. Diese Schutzmechanismen verhindern Benutzerfehler, die dazu führen, dass eine Website über keine SSL-Zertifikate verfügt. Wenn Sie die SSL-Zertifikate entfernen möchten, wenden Sie sich [ den Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}.

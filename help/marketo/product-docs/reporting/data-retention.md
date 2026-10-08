@@ -2,13 +2,17 @@
 description: Erfahren Sie, wie sich die Richtlinien zur Datenaufbewahrung von 25 Monaten und 90 Tagen von Marketo auf Analytics-Berichte auswirken, mit einer Aufschlüsselung pro Bericht und Tipps zur längeren Aufbewahrung von Daten.
 title: Datenaufbewahrung
 feature: Reporting
-source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
-
 ---
-
 # Richtlinie zur Datenaufbewahrung in Marketo-Aktivitäten - Auswirkungen auf das Reporting
 
 Marketo speichert Marketing-Aktivitätsdaten fortlaufend. Aktivitäts- und Kampagnenmitgliedschaftsdaten werden für rollierende 25 Monate nach dem Aktivitätsdatum gespeichert, und Aktivitätsdaten mit hohem Volumen werden standardmäßig für einen rollierenden Zeitraum von 90 Tagen nach dem Aktivitätsdatum gespeichert, der pro Benutzer angepasst werden kann. Nach Ablauf dieser Aufbewahrungsfristen sind die Daten nicht mehr über die Marketo-Benutzeroberfläche verfügbar.
@@ -38,7 +42,7 @@ In der folgenden Tabelle ist zusammengefasst, wie sich jeder Bericht verhält, e
 | | Filter für Personenattribute (z. B.: Vorname) | Nein |
 | | Filter der Aktivitäten von Personen in den letzten 25 Monaten | Nein |
 | | Filter für Personenaktivitäten ohne Datumsbeschränkung | Ja |
-| **Success Path Analyzer** | Enthält keine Smart-Listen | N. z. |
+| **Success Path Analyzer** | Enthält keine Smart-Listen | Nicht zutreffend |
 | **Bericht zum sozialen Einfluss** | Keine Filter für Smart-Listen | Ja |
 | | Filter für Personenattribute (z. B.: Vorname) | Ja |
 | | Filter der Aktivitäten von Personen in den letzten 25 Monaten | Ja |
@@ -93,7 +97,7 @@ Aktivitätsdaten, die älter als das Aufbewahrungsfenster sind, können von viel
 
 ## Exportieren der Daten
 
-Marketo bietet die [Bulk Extract REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), mit der Sie Personenaktivitäten exportieren und lokal speichern können. Sobald die Daten über die API extrahiert wurden, können Sie sie speichern und sortieren, wie Sie dies für Ihren Anwendungsfall benötigen.
+Marketo bietet die [Bulk Extract REST-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), mit der Sie Personenaktivitäten exportieren und lokal speichern können. Sobald die Daten über die API extrahiert wurden, können Sie sie speichern und sortieren, wie Sie dies für Ihren Anwendungsfall benötigen.
 
 >[!TIP]
 >

@@ -1,20 +1,25 @@
 ---
 unique-page-id: 1900554
 description: Erfahren Sie, wie Sie die HTML einer E-Mail direkt bearbeiten können. Greifen Sie auf die HTML-Ansicht zu, um erweiterte Änderungen an Ihrem E-Mail-Code vorzunehmen.
-title: Bearbeiten der HTML einer E-Mail
+title: Bearbeiten des HTML-Codes einer E-Mail
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM
+TQID: 'https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 363
+source-wordcount: '363'
 ht-degree: 4%
-
 ---
-
-# Bearbeiten der HTML einer E-Mail {#edit-an-emails-html}
+# Bearbeiten des HTML-Codes einer E-Mail {#edit-an-emails-html}
 
 Manchmal muss der zugrunde liegende HTML einer E-Mail geändert werden. Manchmal können Sie ein externes System verwenden, um den Code Ihrer E-Mail zu entwerfen und zu erstellen. In beiden Fällen können Sie Code einfach aus dem E-Mail-Editor importieren und/oder bearbeiten.
 

@@ -1,30 +1,36 @@
 ---
 unique-page-id: 11377392
 description: Ersetzen Sie in der Admin-E-Mail-Adresse die generische Tracking-Domain durch Ihre Unternehmens-Domain (CNAME erforderlich).
-title: Bearbeiten Ihrer standardmäßigen Branding-Domain
+title: Bearbeiten Ihrer standardmäßigen Marken-Domain
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/rZOnzDTwai-e-1p2dRD6m5kGxonJwL7621--8-y-K54
+TQID: 'https://experienceleague.adobe.com/rZOnzDTwai-e-1p2dRD6m5kGxonJwL7621--8-y-K54'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: '138'
 ht-degree: 13%
-
 ---
-
-# Bearbeiten Ihrer standardmäßigen Branding-Domain {#edit-your-default-branding-domain}
+# Bearbeiten Ihrer standardmäßigen Marken-Domain {#edit-your-default-branding-domain}
 
 Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit mit Branding-Domains.
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, [&#x200B; Sie einen CNAME in Ihrem DNS eingerichtet haben](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} bevor Sie Ihre Branding-Domains in Marketo hinzufügen.
+>Vergewissern Sie sich, [ Sie einen CNAME in Ihrem DNS eingerichtet haben](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} bevor Sie Ihre Branding-Domains in Marketo hinzufügen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
 
@@ -34,7 +40,7 @@ Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie zur Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie zur Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 

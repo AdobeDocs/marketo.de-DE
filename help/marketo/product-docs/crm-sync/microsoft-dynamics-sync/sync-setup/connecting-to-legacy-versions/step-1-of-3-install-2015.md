@@ -4,16 +4,21 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung für Dynamics 2015 lokal 
 title: Installieren von Marketo für Microsoft Dynamics 2015 On-Premise - Schritt 1 von 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/i6ILYEtzZ2vJnyELO-Zb8T-hRh0b2yVzbHaOzIEkF-k
+TQID: 'https://experienceleague.adobe.com/i6ILYEtzZ2vJnyELO-Zb8T-hRh0b2yVzbHaOzIEkF-k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 313
+source-wordcount: '313'
 ht-degree: 0%
-
 ---
-
 # Schritt 1 von 3: Synchronisierungsbenutzer für Marketo konfigurieren (2015 On-Premise) {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 
 Bevor Sie [!DNL Microsoft Dynamics] 2015 On-Premise mit Marketo synchronisieren können, müssen Sie zunächst die Marketo-Lösung in [!DNL Dynamics] installieren.
@@ -34,7 +39,7 @@ Bevor Sie [!DNL Microsoft Dynamics] 2015 On-Premise mit Marketo synchronisieren 
 >
 >Sie benötigen CRM-Administratorrechte, um diese Synchronisierung durchzuführen.
 
-1. Melden Sie sich bei **[!DNL Dynamics].** an Klicken Sie auf das Dropdown-**&#x200B;** Microsoft Dynamics CRM und wählen Sie **[!UICONTROL Einstellungen]**.
+1. Melden Sie sich bei **[!DNL Dynamics].** an Klicken Sie auf das Dropdown-]****[!UICONTROL  Microsoft Dynamics CRM und wählen Sie **[!UICONTROL Einstellungen]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 

@@ -4,23 +4,25 @@ description: Erfahren Sie mehr über die Seitenspalten von Personen in Sales Con
 title: Spalten der Personenseite
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dFBARNGsQ7x-3gilAkQY-vVfQZ-spiRIAGgvzcqiDvk
+TQID: 'https://experienceleague.adobe.com/dFBARNGsQ7x-3gilAkQY-vVfQZ-spiRIAGgvzcqiDvk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '308'
 ht-degree: 6%
-
 ---
-
 # Spalten der Personenseite {#people-page-columns}
 
 Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, indem Sie auswählen, welche Spalten angezeigt werden sollen.
 
 ## So wählen Sie Spalten aus {#how-to-select-columns}
 
-1. Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Personen“ auf das Symbol Listeneinstellungen .
+1. Klicken Sie auf [!UICONTROL  Seite ]Personen“ auf das Symbol Listeneinstellungen .
 
    ![](assets/one-5.png)
 
@@ -73,7 +75,7 @@ Sie haben die Möglichkeit, die angezeigten Kontaktinformationen anzupassen, ind
    <td>Gesamtzahl der Vertriebskampagnen, an denen die Person teilgenommen hat</td>
   </tr>
   <tr>
-   <td># [!UICONTROL -Aufrufe]</td>
+   <td># [!UICONTROL-Aufrufe]</td>
    <td>Gesamtzahl der Anrufe, die an diese Person getätigt wurden</td>
   </tr>
   <tr>

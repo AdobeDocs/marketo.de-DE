@@ -4,26 +4,34 @@ description: Erfahren Sie, wie Sie RTP mit Google Analytics in Marketo Engage in
 title: Integrieren von RTP mit Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/nnx4MhOQreSZOHY2526qb11svyumVMlOzqbybuPWxRQ
+TQID: 'https://experienceleague.adobe.com/nnx4MhOQreSZOHY2526qb11svyumVMlOzqbybuPWxRQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 629
+source-wordcount: '629'
 ht-degree: 2%
-
 ---
-
 # Integrieren von RTP mit Google Analytics {#integrate-rtp-with-google-analytics}
 
 >[!NOTE]
@@ -32,7 +40,7 @@ ht-degree: 2%
 >
 >In diesem Artikel wird gezeigt, wie Sie die alte Google-Standardanalyse verwenden. Wir empfehlen jedoch, zu Universal Analytics zu wechseln.
 >
->Wenn Sie den Trackingcode „analytics.js[&#x200B; noch nicht verwenden, &#x200B;](https://developers.google.com/analytics/devguides/collection/analyticsjs/) Google dringend, Ihre Site neu zu taggen, um ihn zu verwenden. Folgende Elemente werden von Google nicht mehr unterstützt:
+>Wenn Sie den Trackingcode „analytics.js[ noch nicht verwenden, ](https://developers.google.com/analytics/devguides/collection/analyticsjs/) Google dringend, Ihre Site neu zu taggen, um ihn zu verwenden. Folgende Elemente werden von Google nicht mehr unterstützt:
 >
 >* ga.js
 >* urchin.js
@@ -97,7 +105,7 @@ Messen Sie Ihre RTP-Kampagnen und korrelieren Sie sie mit Ihrem gesamten Website
 
 >[!NOTE]
 >
->Um Segmentdaten an GA zu senden, aktivieren Sie auf der Seite [[!UICONTROL Segment bearbeiten] in &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) RTP-Plattform das Kontrollkästchen **[!UICONTROL Ereignis an Google Analytics senden bei Segment Match]**.
+>Um Segmentdaten an GA zu senden, aktivieren Sie auf der Seite [[!UICONTROL Segment bearbeiten] in ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) RTP-Plattform das Kontrollkästchen **[!UICONTROL Ereignis an Google Analytics senden bei Segment Match]**.
 
 ## Einrichten von Google Analytics-Berichten mit RTP-Daten {#setting-up-google-analytics-reports-with-rtp-data}
 

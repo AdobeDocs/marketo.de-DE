@@ -2,15 +2,22 @@
 description: Erfahren Sie, wie Sie einen Konversationsfluss in eine Marketo-Landingpage einbetten. Besucherinnen und Besucher können Meetings über Dynamic Chat planen, ohne ein Formular auszufüllen.
 title: Verwenden einer Landingpage des Dialogflusses
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Dynamic Chat
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
-
 ---
-
 # Verwenden einer Landingpage des Dialogflusses{#use-a-conversational-flow-landing-page}
 
 Durch das Einbetten eines Dynamic Chat-Gesprächsflusses direkt in eine Marketo Engage-Landingpage können Besuchende ein Meeting über Dynamic Chat planen, ohne ein Formular ausfüllen oder mit einem Chatbot interagieren zu müssen.

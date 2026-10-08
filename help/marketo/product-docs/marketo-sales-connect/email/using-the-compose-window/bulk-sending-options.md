@@ -4,16 +4,18 @@ description: Erfahren Sie mehr über Massenversandoptionen in Sales Connect. Wä
 title: Optionen für den Massenversand
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc
+TQID: 'https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 270
+source-wordcount: '270'
 ht-degree: 4%
-
 ---
-
 # Optionen für den Massenversand {#bulk-sending-options}
 
 Der Massenversand von E-Mails ist eine hervorragende Möglichkeit, die Interaktion mit potenziellen Kunden zu beschleunigen. [!DNL Sales Connect] bietet zwei Möglichkeiten zum Massenversand von E-Mails: **Gruppen-E-**) und **Auswählen und**). Gruppen-E-Mails eignen sich hervorragend, um Hunderte von E-Mails schnell an eine Zielgruppe zu senden. Die Verwendung von Auswählen und Senden bedeutet, dass die E-Mail-Beschränkungen verringert werden, bietet aber mehr Anpassungsmöglichkeiten für den Benutzer.

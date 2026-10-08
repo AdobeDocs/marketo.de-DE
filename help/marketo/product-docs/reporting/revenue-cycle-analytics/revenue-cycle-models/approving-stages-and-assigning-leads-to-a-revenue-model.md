@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718683
 description: Erfahren Sie mehr über die Genehmigung von Phasen und die Zuweisung von Leads zu einem Umsatzmodell in Marketo Engage, einschließlich der Genehmigung von Phasen und. Machen Sie den nächsten Schritt selbstbewusst.
-title: Genehmigen von Phasen und Zuweisen von Leads zu einem Umsatzmodell
+title: Genehmigen von Schritten und Zuweisen von Leads zu einem Umsatzmodell
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 5%
-
 ---
-
-# Genehmigen von Phasen und Zuweisen von Leads zu einem Umsatzmodell {#approving-stages-and-assigning-leads-to-a-revenue-model}
+# Genehmigen von Schritten und Zuweisen von Leads zu einem Umsatzmodell {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
 Starten Sie Ihr **Umsatzmodell** indem Sie vorhandene Leads hinzufügen und Zuweisungsregeln für neue Leads erstellen.
 

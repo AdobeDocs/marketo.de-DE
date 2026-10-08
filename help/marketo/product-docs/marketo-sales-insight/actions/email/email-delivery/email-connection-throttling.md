@@ -3,19 +3,21 @@ description: Machen Sie sich mit der Drosselung der E-Mail-Verbindung und den Se
 title: Drosselung der E-Mail-Verbindung
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/9EY5VJaKJCwaBE-YJ8qCXreorIIXjj4hX4Ybvwm5ijg
+TQID: 'https://experienceleague.adobe.com/9EY5VJaKJCwaBE-YJ8qCXreorIIXjj4hX4Ybvwm5ijg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 438
+source-wordcount: '439'
 ht-degree: 2%
-
 ---
-
 # Drosselung der E-Mail-Verbindung {#email-connection-throttling}
 
-Die Integration Ihres [!DNL Sales Connect]-Kontos zum Versand über [!DNL Exchange]- oder Gmail-E-Mail-Anbieter bietet eine optimierte Einrichtung und optimiert die E-Mail-Zustellbarkeit für 1:1-Verkaufskommunikation. Um jedoch die Systemintegrität und die Sicherheit der Konten zu gewährleisten, setzen Gmail und [!DNL Exchange] Grenzwerte für den E-Mail-Versand durch. Diese Obergrenzen können nach Ermessen des Anbieters erhöht oder gesenkt werden.
+Die Integration Ihres [!DNL Sales Connect]-Kontos zum Versand über [!DNL Exchange]- oder Gmail-E-Mail-Anbieter bietet eine optimierte Einrichtung und optimiert die E-Mail-Zustellbarkeit für die 1:1-Verkaufskommunikation. Um jedoch die Systemintegrität und die Sicherheit der Konten zu gewährleisten, setzen Gmail und [!DNL Exchange] Grenzwerte für den E-Mail-Versand durch. Diese Obergrenzen können nach Ermessen des Anbieters erhöht oder gesenkt werden.
 
 ## Überblick {#overview}
 
@@ -36,7 +38,7 @@ Wenn Limits durchgängig überschritten werden, kann dies manchmal als verdächt
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/email-connection-throttling-2.png)
 

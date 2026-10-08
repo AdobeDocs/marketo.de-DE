@@ -3,18 +3,21 @@ description: Erfahren Sie mehr über die Registerkarte „E-Mail“ im Bedienfel
 title: Registerkarte „E-Mail“
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/uG8cRVMM-ZAnS8qZgtvVIDeLJINBEeGS92pkaYmk3ns
+TQID: 'https://experienceleague.adobe.com/uG8cRVMM-ZAnS8qZgtvVIDeLJINBEeGS92pkaYmk3ns'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '174'
 ht-degree: 4%
-
 ---
-
 # Registerkarte „E-Mail“ {#email-tab}
 
 Auf der Registerkarte E-Mail wird eine Liste aller E-Mails angezeigt, die an einen Kontakt oder Lead gesendet wurden. Sie enthält die folgenden Spalten:

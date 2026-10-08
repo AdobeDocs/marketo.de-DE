@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2360394
 description: Erfahren Sie, wie Sie Opportunity Influence Analyzer-Daten mit dem Export Opportunity Influence Analyzer in Marketo Engage exportieren. Machen Sie den nächsten Schritt selbstbewusst.
-title: Exportieren eines Analyzers für Opportunity-Einfluss
+title: Exportieren von Daten des Analyzers für Opportunity-Einfluss
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 6%
-
 ---
-
-# Exportieren eines Analyzers für Opportunity-Einfluss {#export-opportunity-influence-analyzer-data}
+# Exportieren von Daten des Analyzers für Opportunity-Einfluss {#export-opportunity-influence-analyzer-data}
 
 Um Aktualisierungen aus Ihren Revenue Cycle Explorer-Berichten zu erhalten und freizugeben, können Sie jede E-Mail-Adresse für einen vorhandenen Bericht abonnieren.
 
@@ -45,4 +51,4 @@ Um Aktualisierungen aus Ihren Revenue Cycle Explorer-Berichten zu erhalten und f
 
 >[!MORELIKETHIS]
 >
->Erfahren Sie[&#x200B; wie Sie alle Berichtsabonnements &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.
+>Erfahren Sie[ wie Sie alle Berichtsabonnements ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) verwalten können.

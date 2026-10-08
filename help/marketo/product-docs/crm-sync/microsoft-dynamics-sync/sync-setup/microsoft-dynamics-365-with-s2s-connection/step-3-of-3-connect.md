@@ -4,16 +4,21 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung mit Dynamics 365 verbinde
 title: 'Schritt 3 von 3: Marketo-Lösung mit Server-zu-Server-Verbindung verbinden'
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/CtVAFVltlfzpVkB28kTjz7YTIdk-8sMKHKDEp5XQMuY
+TQID: 'https://experienceleague.adobe.com/CtVAFVltlfzpVkB28kTjz7YTIdk-8sMKHKDEp5XQMuY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 479
+source-wordcount: '479'
 ht-degree: 4%
-
 ---
-
 # Schritt 3 von 3: Marketo-Lösung mit Server-zu-Server-Verbindung verbinden {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 Dies ist der letzte Schritt der Synchronisierung.
@@ -33,7 +38,7 @@ Dies ist der letzte Schritt der Synchronisierung.
 
 >[!NOTE]
 >
->Bevor Sie neue Anmeldeinformationen eingeben, können [&#x200B; sie hier &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
+>Bevor Sie neue Anmeldeinformationen eingeben, können [ sie hier ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
 ## Benutzerinformationen für [!DNL Dynamics] eingeben {#enter-dynamics-sync-user-information}
 
@@ -55,7 +60,7 @@ Dies ist der letzte Schritt der Synchronisierung.
 
    >[!CAUTION]
    >
-   >Überprüfen Sie, ob Ihre Organisations-URL korrekt ist. Nachfolgende Schemaänderungen können nach der Übermittlung nicht mehr rückgängig gemacht werden. Wenn eine falsche Organisations-URL verwendet wird, ist ein neues Marketo-Abonnement erforderlich. Wenn Sie die URL nicht kennen, ([&#x200B; Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Überprüfen Sie, ob Ihre Organisations-URL korrekt ist. Nachfolgende Schemaänderungen können nach der Übermittlung nicht mehr rückgängig gemacht werden. Wenn eine falsche Organisations-URL verwendet wird, ist ein neues Marketo-Abonnement erforderlich. Wenn Sie die URL nicht kennen, ([ Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
 1. Geben Sie die [!DNL Dynamics] Benutzerinformationen für die Synchronisierung ein und klicken **[!UICONTROL abschließend auf]** Speichern“.
 

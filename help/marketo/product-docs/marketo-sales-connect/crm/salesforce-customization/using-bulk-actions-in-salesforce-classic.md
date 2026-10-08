@@ -1,19 +1,21 @@
 ---
 unique-page-id: 42762794
 description: Erfahren Sie, wie Sie Massenaktionen in Salesforce Classic mit Sales Connect verwenden. Mehrere Leads oder Kontakte gleichzeitig an Sales Connect übertragen.
-title: Verwenden von Massenaktionen in  [!DNL Salesforce]  Classic
+title: Verwenden von Massenaktionen in [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M
+TQID: 'https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 376
+source-wordcount: '377'
 ht-degree: 2%
-
 ---
-
 # Verwenden von Massenaktionen in [!DNL Salesforce] Classic {#using-bulk-actions-in-salesforce-classic}
 
 Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne hinzufügen, eine Massen-E-Mail senden oder Leads von [!DNL Salesforce] zu [!DNL Sales Connect] pushen.
@@ -39,10 +41,10 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne
 1. Eine MSC-E-Mail wird angezeigt. Es umfasst die folgenden Funktionen:
 
    a. Das Feld [!UICONTROL An] zeigt &quot;[!UICONTROL Alle Empfänger]&quot; an. Dies entspricht der Liste der Leads, die Sie in der Lead-Listenansicht ausgewählt haben
-b. Diese Liste ist im linken Bereich namens &quot;[!UICONTROL Bulk Compose] sichtbar - Sie können hier Empfänger hinzufügen/entfernen
-c. Sie können eine Vorlage auswählen oder Ihre eigene E-Mail erstellen
-d. Sie können dynamische Felder, die in Ihrer E-Mail ausgefüllt werden, in der Vorschau anzeigen
-E. Sie können die E-Mail sofort senden oder einen späteren Versand planen
+   b. Diese Liste ist im linken Bereich namens &quot;[!UICONTROL Bulk Compose] sichtbar - Sie können hier Empfänger hinzufügen/entfernen
+   c. Sie können eine Vorlage auswählen oder Ihre eigene E-Mail erstellen
+   d. Sie können dynamische Felder, die in Ihrer E-Mail ausgefüllt werden, in der Vorschau anzeigen
+   E. Sie können die E-Mail sofort senden oder einen späteren Versand planen
 
    ![](assets/three-4.png)
 
@@ -60,7 +62,7 @@ E. Sie können die E-Mail sofort senden oder einen späteren Versand planen
 
    ![](assets/six.png)
 
-## In Marketo Sales Connect pushen {#push-to-marketo-sales-connect}
+## Pushen an Marketo Sales Connect {#push-to-marketo-sales-connect}
 
 1. Klicken Sie [!DNL Salesforce] auf die **[!UICONTROL Leads]** und dann auf die Schaltfläche **[!UICONTROL Los]**.
 

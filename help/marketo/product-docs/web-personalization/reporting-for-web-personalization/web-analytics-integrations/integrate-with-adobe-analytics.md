@@ -1,28 +1,35 @@
 ---
 unique-page-id: 2949160
 description: Erfahren Sie, wie Sie die Integration mit Adobe Analytics in Marketo Engage mithilfe der Integration mit Adobe Analytics durchführen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
-title: Integrieren mit Adobe Analytics
+title: Integrieren mit Adobe Analytics​
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/W9eAiWXh-XyeFqxP-BQHNdOQN5zYNuZ7ziRxXQQMZnw
+TQID: 'https://experienceleague.adobe.com/W9eAiWXh-XyeFqxP-BQHNdOQN5zYNuZ7ziRxXQQMZnw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1129
+source-wordcount: '1130'
 ht-degree: 1%
-
 ---
-
-# Integrieren mit Adobe Analytics {#integrate-with-adobe-analytics}
+# Integrieren mit Adobe Analytics&#x200B; {#integrate-with-adobe-analytics}
 
 ## Einführung {#intro}
 
@@ -121,9 +128,9 @@ Wählen Sie die Nummer [Konversionsvariable](https://microsite.omniture.com/t2/h
 
       1. Ändern Sie die vier Eigenschaftsnamen. Dies ist der Name, der in der Report Suite angezeigt wird.
 
-   1. Wählen Sie [!UICONTROL &#x200B; Feld &#x200B;]Aktiviert“ aus, um **[!UICONTROL Aktiviert]**.
+   1. Wählen Sie [!UICONTROL  Feld ]Aktiviert“ aus, um **[!UICONTROL Aktiviert]**.
 
-   1. Wählen Sie [!UICONTROL &#x200B; Feld &#x200B;]Pfadberichte“ aus, um **[!UICONTROL Aktiviert]**.
+   1. Wählen Sie [!UICONTROL  Feld ]Pfadberichte“ aus, um **[!UICONTROL Aktiviert]**.
 
 ## In [!DNL Marketo Real-Time Personalization] eingerichtet (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
@@ -193,7 +200,7 @@ Erstellen Sie ein [neues Dashboard](https://microsite.omniture.com/t2/help/en_US
 
 1. Wählen Sie die **Dashboard-Größe** 3 x 2, 2 x 2 aus.
 
-1. Erstellen Sie das [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) und fügen Sie [Inhalt“ zum Dashboard &#x200B;](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
+1. Erstellen Sie das [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) und fügen Sie [Inhalt“ zum Dashboard ](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
 
 Hinzufügen des Branchen-Reportlets zum Dashboard
 

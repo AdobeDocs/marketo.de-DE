@@ -6,13 +6,23 @@ description: Erfahren Sie, wie Sie den rohen HTML-Quell-Code in der Marketo Enga
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '369'
-ht-degree: 0%
-
+ht-degree: 49%
 ---
-
 # Bearbeiten von E-Mail-Vorlagen mit dem erweiterten HTML-Editor {#advanced-html-mode}
 
 Im erweiterten HTML-Modus können Sie den Roh-Quell-Code von E-Mail-Vorlagen direkt über die [!DNL Marketo Engage] E-Mail-Designer-Benutzeroberfläche anzeigen und bearbeiten.
@@ -21,17 +31,17 @@ Mit dieser Funktion können Sie erweiterte Ausdrücke direkt in die Quelle einf�
 
 ## Schutzmechanismen {#guardrails}
 
-Wenn Sie den erweiterten HTML-Editor verwenden, schützen die folgenden Leitplanken die Inhaltskompatibilität und definieren Erwartungen.
+Wenn Sie den erweiterten HTML-Editor verwenden, sorgen die folgenden Schutzmechanismen für die Kompatibilität der Inhalte und legen die Erwartungen fest.
 
-* Der erweiterte HTML-Editor **validiert** Code nicht. Syntaxfehler oder fehlerhafte Layouts werden nicht geprüft. Überprüfen Sie Ihre Inhalte sorgfältig, bevor Sie sie speichern.
+* Der erweiterte HTML-Editor **validiert Ihren Code nicht**. Syntaxfehler oder fehlerhafte Layouts werden nicht geprüft. Überprüfen Sie Ihre Inhalte sorgfältig, bevor Sie sie speichern.
 
-* Zukünftige Systemaktualisierungen können Änderungen überschreiben, die Sie am Standard-Markup vornehmen. **Ihre Änderungen bleiben möglicherweise nicht erhalten**.
+* Zukünftige Systemaktualisierungen können Änderungen überschreiben, die Sie am Standard-Markup vornehmen. **Ihre Änderungen werden möglicherweise nicht beibehalten**.
 
 * [!DNL Adobe] Support **kann Probleme nicht beheben oder**), die durch benutzerdefinierten Code und manuelle Änderungen verursacht werden. Erstellen Sie eine Sicherungskopie Ihres Inhalts, für den Fall, dass Sie ihn wiederherstellen müssen.
 
 * In der erweiterten HTML-Ansicht können keine Inhalte simuliert werden. Zur Desktop-Ansicht wechseln, um eine Vorschau des Inhalts anzuzeigen.
 
-* Um die Inhaltskompatibilität sicherzustellen, **Sie können nicht speichern** in der erweiterten HTML-Ansicht. Wechseln Sie zurück zur Desktop-Ansicht, wenn Sie zum Speichern Ihrer Änderungen bereit sind.
+* Um die Inhaltskompatibilität sicherzustellen, können Sie **nicht** in der erweiterten HTML-Ansicht speichern. Wechseln Sie zurück zur Desktop-Ansicht, wenn Sie zum Speichern Ihrer Änderungen bereit sind.
 
 ## Zugriff auf den erweiterten HTML-Modus {#access-html-mode}
 

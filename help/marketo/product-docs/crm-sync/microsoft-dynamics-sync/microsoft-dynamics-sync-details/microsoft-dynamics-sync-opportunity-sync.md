@@ -4,16 +4,21 @@ description: Erfahren Sie, wie die Opportunity-Synchronisierung von Microsoft Dy
 title: Microsoft Dynamics-Synchronisierung - Opportunity-Synchronisierung
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/vDSWrvMSvAa2-XSn6A-lcZYaoWRjrtKwsLo1fJvPAkg
+TQID: 'https://experienceleague.adobe.com/vDSWrvMSvAa2-XSn6A-lcZYaoWRjrtKwsLo1fJvPAkg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 316
+source-wordcount: '316'
 ht-degree: 0%
-
 ---
-
 # [!DNL Microsoft Dynamics]: Opportunity-Synchronisation {#microsoft-dynamics-sync-opportunity-sync}
 
 Die Synchronisierung von Marketo mit [!DNL Dynamics] ist leistungsstark. Im Folgenden finden Sie alle Details zur Opportunity-Synchronisierung:
@@ -28,7 +33,7 @@ Nein, Sie müssen die Opportunity in [!DNL Dynamics] erstellen. Sie wird automat
 
 ## Welche Felder werden mit Marketo synchronisiert? {#what-fields-will-sync-to-marketo}
 
-Sie können [&#x200B; Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
+Sie können [ Setup Felder auswählen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} die synchronisiert werden sollen.
 
 ## Wie ist ein Konto/Kontakt mit einer Opportunity verbunden? {#how-is-an-account-contact-associated-with-an-opportunity}
 
@@ -36,8 +41,8 @@ Der Kontakt/das Konto kann auf zwei Arten mit Opportunity verknüpft werden:
 
 * Beim Erstellen einer Opportunity können der Kontakt (Suchfeld im zu kontaktierenden Formular) und/oder das Konto (Suchfeld im zu kontaktierenden Formular) festgelegt werden. In beiden Fällen werden diese Werte im Feld Potenzieller Kunde (customerID) in Dynamics gespeichert. Dieses Feld wird nicht im Opportunity-Formular angezeigt, kann jedoch aus den Einstellungen hinzugefügt werden. Dieses Feld kann nur einen Wert enthalten, entweder Kontakt oder Konto. Marketo führt folgende Schritte durch:
 
-   * Wenn der Kontaktwert festgelegt ist und das Konto leer bleibt, erstellt Marketo eine `opportunitycontactrole` und legt das Konto für die Opportunity auf das Konto des Kontakts fest. Wenn der Kontakt kein Konto hat, bleibt dieses Feld leer.
-   * Wenn der Kontowert festgelegt ist und der Kontakt leer gelassen wird, legt Marketo das Konto nur für die Opportunity auf dieses Konto fest.
-   * Wenn beide Werte festgelegt sind, wählt Dynamics das Konto als Wert für die Kunden-ID aus, sodass das Verhalten dasselbe wie oben wäre.
+  * Wenn der Kontaktwert festgelegt ist und das Konto leer bleibt, erstellt Marketo eine `opportunitycontactrole` und legt das Konto für die Opportunity auf das Konto des Kontakts fest. Wenn der Kontakt kein Konto hat, bleibt dieses Feld leer.
+  * Wenn der Kontowert festgelegt ist und der Kontakt leer gelassen wird, legt Marketo das Konto nur für die Opportunity auf dieses Konto fest.
+  * Wenn beide Werte festgelegt sind, wählt Dynamics das Konto als Wert für die Kunden-ID aus, sodass das Verhalten dasselbe wie oben wäre.
 
 * Über Stakeholder: Dynamics verwendet Verbindungen, um über Stakeholder von der Seite „Opportunity erstellen“ aus eine Opportunity zu kontaktieren. Dazu wird für jeden neuen Stakeholder ein `opportunitycontactrole` Datensatz erstellt.

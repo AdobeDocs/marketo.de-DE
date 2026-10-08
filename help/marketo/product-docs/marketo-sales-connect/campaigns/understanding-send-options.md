@@ -4,16 +4,18 @@ description: Verstehen der Sendeoptionen für Kampagnen-E-Mail-Schritte in Sales
 title: Grundlegendes zu Sendeoptionen
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE
+TQID: 'https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 621
+source-wordcount: '621'
 ht-degree: 0%
-
 ---
-
 # Grundlegendes zu Sendeoptionen {#understanding-send-options}
 
 Wenn Sie eine Kampagne erstellen, haben Sie mehrere Möglichkeiten, wie Ihre E-Mail-Schritte in [!DNL Sales Connect] erstellt werden. Und je nachdem, wo Ihre E-Mail in Ihre Campaign-Kampagne fällt, unterscheiden sich auch Ihre Optionen.
@@ -36,8 +38,8 @@ Wenn es Ihr erster Schritt und der erste Tag in Ihrer Kampagne ist, haben Sie di
 * Mit dieser Option erstellen Sie eine [!UICONTROL E-Mail-Aufgabe] (und synchronisieren mit [!DNL Salesforce]), die Sie nach Bedarf senden können.
 * Sobald Sie diese Auswahl getroffen haben, werden wir diese Aufgaben beim Start Ihrer Kampagne in der Befehlszentrale und im Live-Feed für Sie in eine Warteschlange stellen. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie gesendet wird.
 
-   * Wenn Sie diese Aufgabe in unserer Web-Anwendung öffnen, wird ein Fenster zum Erstellen mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
-   * Wenn Sie diese Aufgabe in [!DNL Gmail] oder [!DNL Outlook] öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die von Ihnen ausgewählte Vorlage werden dynamisch ausgefüllt.
+  * Wenn Sie diese Aufgabe in unserer Web-Anwendung öffnen, wird ein Fenster zum Erstellen mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
+  * Wenn Sie diese Aufgabe in [!DNL Gmail] oder [!DNL Outlook] öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die von Ihnen ausgewählte Vorlage werden dynamisch ausgefüllt.
 
 Für alle nachfolgenden Tage/Schritte in Ihrer Kampagne haben Sie die folgenden Optionen:
 
@@ -60,8 +62,8 @@ Für alle nachfolgenden Tage/Schritte in Ihrer Kampagne haben Sie die folgenden 
 * Mit dieser Option erstellen Sie eine [!UICONTROL E-Mail-Aufgabe] (und synchronisieren mit [!DNL Salesforce]), die Sie nach Bedarf senden können.
 * Wenn Sie diese Auswahl getroffen haben, stellt Tout diese Aufgaben beim Start Ihrer Kampagne in der Kommandozentrale und im Live-Feed in eine Warteschlange. Sie können dann jede E-Mail personalisieren und senden (oder planen), bevor sie gesendet wird.
 
-   * Wenn Sie diese Aufgabe in unserer Web-Anwendung öffnen, wird ein Fenster zum Erstellen mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
-   * Wenn Sie diese Aufgabe in [!DNL Gmail] oder [!DNL Outlook] öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die von Ihnen ausgewählte Vorlage werden dynamisch ausgefüllt.
+  * Wenn Sie diese Aufgabe in unserer Web-Anwendung öffnen, wird ein Fenster zum Erstellen mit der E-Mail-Adresse Ihres Kontakts, der Betreffzeile Ihrer E-Mail und der von Ihnen ausgewählten Vorlage geöffnet.
+  * Wenn Sie diese Aufgabe in [!DNL Gmail] oder [!DNL Outlook] öffnen, wird ein natives Fenster zum Erstellen geöffnet und die E-Mail-Adresse Ihres Kontakts, die Betreffzeile Ihrer E-Mail und die von Ihnen ausgewählte Vorlage werden dynamisch ausgefüllt.
 
 **Diese E-Mail in die vorherige E-Mail einfädeln**
 

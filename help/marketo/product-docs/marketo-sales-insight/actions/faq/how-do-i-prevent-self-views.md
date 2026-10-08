@@ -3,21 +3,25 @@ description: Erfahren Sie, wie Sie verhindern können, dass Selbstansichten beim
 title: Wie kann ich Selbstansichten verhindern?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/6AN3CB0CoDTRPBerpKPzg94dpsvbsk5-r-DRhdePvMo
+TQID: 'https://experienceleague.adobe.com/6AN3CB0CoDTRPBerpKPzg94dpsvbsk5-r-DRhdePvMo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 1%
-
 ---
-
 # Wie kann ich Selbstansichten verhindern? {#how-do-i-prevent-self-views}
 
 Falsch-Positiv-Meldungen beim Ansichts-Tracking können zu Inkonsistenzen bei der Berichterstellung führen. Dies tritt häufig auf, wenn Benutzende von [!DNL Marketo Sales] versehentlich das Tracking-Pixel von ihrem E-Mail-Client aus aufrufen (wir nennen dies eine Selbstansicht). Im Folgenden finden Sie einige Tipps, wie Sie Selbstansichten deutlich reduzieren und sogar beseitigen können.
@@ -50,11 +54,11 @@ Ansichten werden nachverfolgt, indem ein kleines unsichtbares Bildpixel in Ihren
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. Klicken Sie [!UICONTROL &#x200B; Menü links auf &#x200B;]Automatischer Download“ und aktivieren Sie das Kontrollkästchen **[!UICONTROL Bilder nicht automatisch in E-Mail- oder RSS-]** von HTML herunterladen.
+1. Klicken Sie [!UICONTROL  Menü links auf ]Automatischer Download“ und aktivieren Sie das Kontrollkästchen **[!UICONTROL Bilder nicht automatisch in E-Mail- oder RSS-]** von HTML herunterladen.
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. Klicken Sie **[!UICONTROL Dialogfeld]** Trust Center[!UICONTROL &#x200B; auf &#x200B;]OK“.
+1. Klicken Sie **[!UICONTROL Dialogfeld]** Trust Center[!UICONTROL  auf ]OK“.
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
@@ -70,10 +74,10 @@ Ansichten werden nachverfolgt, indem ein kleines unsichtbares Bildpixel in Ihren
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „E]Mail“ die Option **[!UICONTROL Lesen]**.
+1. Wählen [!UICONTROL  unter „E]Mail“ die Option **[!UICONTROL Lesen]**.
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &#x200B;] auf das Optionsfeld **[!UICONTROL Nie]**.
+1. Klicken [!UICONTROL  unter ] auf das Optionsfeld **[!UICONTROL Nie]**.
 
    ![](assets/how-do-i-prevent-self-views-10.png)

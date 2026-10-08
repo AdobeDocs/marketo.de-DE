@@ -3,16 +3,18 @@ description: Erfahren Sie mehr über GenAI-Funktionen in interaktiven Webinaren.
 title: GenAI-Funktionen
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-TQID: https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE
+TQID: 'https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 694
+source-wordcount: '694'
 ht-degree: 0%
-
 ---
-
 # GenAI-Funktionen {#gen-ai-features}
 
 Automatische Generierung von Kapiteln und Zusammenfassungen für aufgezeichnete Webinare, wodurch die Zugänglichkeit verbessert und die Navigation für Ihre Zielgruppe erleichtert werden.
@@ -65,15 +67,15 @@ Nachdem Sie die Adobe GenAI-Nutzungsbedingungen akzeptiert haben, müssen Sie si
 
    * Führen Sie zwei aufeinander folgende Kapitel zusammen, indem Sie sie auswählen und auf **[!UICONTROL Zusammenführen]** klicken.
 
-      * AI generiert ein zusammengesetztes Kapitel, das aus den beiden ausgewählten Kapiteln besteht
+     * AI generiert ein zusammengesetztes Kapitel, das aus den beiden ausgewählten Kapiteln besteht
 
-      * Um mehrere Kapitel zusammenzuführen, müssen Sie zwei gleichzeitig durchführen
+     * Um mehrere Kapitel zusammenzuführen, müssen Sie zwei gleichzeitig durchführen
 
      ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
-   >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![&#x200B; &#x200B;](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) &#x200B;](assets/icon-flag.png).
+   >* Bei Bedarf können Sie die Qualität der generierten Kapitel/Zusammenfassungen mit den Symbolen __ Daumen hoch![ ](assets/icon-thumbs-up.png) oder _Daumen runter_![Daumen runter](assets/icon-thumbs-down.png) bewerten. Sie können auch alle problematischen Inhalte markieren, indem Sie auf das Markierungssymbol (![) ](assets/icon-flag.png).
    >
    >* Wenn Sie mit der ursprünglichen Zusammenfassung nicht zufrieden sind, können Sie auf die Schaltfläche **[!UICONTROL Zusammenfassung neu erstellen]** klicken, und es wird eine andere Version generiert.
 

@@ -1,7 +1,10 @@
 ---
 description: Überprüfen Sie den Datenumfang von CX Enterprise Coworker für Marketo Engage, Governance-Steuerelemente und PII-Überlegungen in wichtigen Workflows wie Lead-Import, Programm-QA und Datennormalisierung.
 title: Datenblatt zu CX Enterprise Coworker für Marketo Engage
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1459'
 ht-degree: 0%
@@ -64,7 +67,7 @@ Neben den aufgeführten Programmen sollten Sie auch CX Enterprise Coworker für 
 
 ## Verfügbarkeit und Rollout-Status
 
-**Berechtigung:** Bereitstellung ist auf Marketo Engage-Benutzende beschränkt, die den [Core Gen-AI-Bedingungen und den zusätzlichen Bedingungen“ zugestimmt &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+**Berechtigung:** Bereitstellung ist auf Marketo Engage-Benutzende beschränkt, die den [Core Gen-AI-Bedingungen und den zusätzlichen Bedingungen“ zugestimmt ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 **Rollout-Modell** Die Bereitstellung von erfolgt über Alpha und Private Beta, bevor die Beta-Erweiterung für die Öffentlichkeit erweitert wird, und letztendlich allgemein verfügbar.
 

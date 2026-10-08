@@ -4,22 +4,29 @@ description: Erfahren Sie mehr über den Leistungsbericht für Landingpages in M
 title: Leistungsbericht für Landingpage
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/ZTj9r8A5fvpeK-9EwNf8LGnsrRXz62NqOM49IK2U0b4
+TQID: 'https://experienceleague.adobe.com/ZTj9r8A5fvpeK-9EwNf8LGnsrRXz62NqOM49IK2U0b4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 3%
-
 ---
-
-# Leistungsbericht für Landingpage {#landing-page-performance-report}
+# Landingpage-Leistungsbericht {#landing-page-performance-report}
 
 Ermitteln Sie, wie viele Personen die Formulare auf Ihren Landingpages ausgefüllt haben und wie viele davon neu waren.
 
@@ -39,7 +46,7 @@ Ermitteln Sie, wie viele Personen die Formulare auf Ihren Landingpages ausgefül
    >
    >Finden Sie die Seiten mit dem höchsten Konversionsprozentsatz! [Bericht sortieren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in dieser Spalte und wählen Sie Absteigend sortieren.
 
-   Das AB-Symbol im Bericht zeigt an, dass die Statistiken die Summe aller Seiten in dieser [Landingpage-Testgruppe“ &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
+   Das AB-Symbol im Bericht zeigt an, dass die Statistiken die Summe aller Seiten in dieser [Landingpage-Testgruppe“ ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
 
 1. Scrollen Sie nach rechts, um die Anzahl der Besuche anzuzeigen, die von verschiedenen Social-Media-Plattformen stammen.
 

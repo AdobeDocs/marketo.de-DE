@@ -1,20 +1,22 @@
 ---
 unique-page-id: 11384661
 description: Erfahren Sie, wie Sie einen Titel für prädiktive Inhalte auf der Seite „Alle Inhalte“ oder im Popup „Inhalt bearbeiten“ genehmigen. Fügen Sie der Seite Prädiktiver Inhalt genehmigte Inhalte für Recommendations hinzu.
-title: Genehmigen eines Titels für prädiktive Inhalte
+title: Genehmigen eines Titels für prädiktiven Inhalt
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/3-hDzblZeRwe-GfwFAqz3dx7BVrJAl0rI0iS8moK8J4
+TQID: 'https://experienceleague.adobe.com/3-hDzblZeRwe-GfwFAqz3dx7BVrJAl0rI0iS8moK8J4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 7%
-
 ---
-
-# Genehmigen eines Titels für prädiktive Inhalte {#approve-a-title-for-predictive-content}
+# Genehmigen eines Titels für prädiktiven Inhalt {#approve-a-title-for-predictive-content}
 
 Sie können einen beliebigen Titel auf der Seite [!UICONTROL Alle Inhalte] zu prädiktiven Inhalten hinzufügen, indem Sie ihn auf der Seite [!UICONTROL Alle Inhalte] oder im Popup [!UICONTROL Inhalt bearbeiten] genehmigen.
 
@@ -40,10 +42,10 @@ Sie können Titel für prädiktive Inhalte auch direkt im Popup [!UICONTROL Inha
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
-Unabhängig davon, welche Methode Sie verwenden[!UICONTROL &#x200B; wird das Symbol „Für prädiktiven Inhalt &#x200B;]&quot; jetzt in der Zeile angezeigt.
+Unabhängig davon, welche Methode Sie verwenden[!UICONTROL  wird das Symbol „Für prädiktiven Inhalt ]&quot; jetzt in der Zeile angezeigt.
 
 ![](assets/five.png)
 
-Jetzt können Sie den Titel auf der Seite &quot;[!UICONTROL &quot; &#x200B;] sehen.
+Jetzt können Sie den Titel auf der Seite &quot;[!UICONTROL &quot; ] sehen.
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)

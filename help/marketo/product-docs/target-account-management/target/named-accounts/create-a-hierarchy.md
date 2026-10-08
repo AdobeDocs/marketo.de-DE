@@ -4,21 +4,26 @@ description: Erfahren Sie, wie Sie ohne Verwendung eines CRM manuell eine benann
 title: Erstellen einer Hierarchie
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/kjE-3RzO0RBub-PJeySgJzc3mW6QAJ9PmGqMtL6hdjc
+TQID: 'https://experienceleague.adobe.com/kjE-3RzO0RBub-PJeySgJzc3mW6QAJ9PmGqMtL6hdjc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 3%
-
 ---
-
 # Erstellen einer Hierarchie {#create-a-hierarchy}
 
 Hierarchien sollen in CRMs erstellt werden. Wenn Sie jedoch kein CRM haben, führen Sie diese Schritte aus, um eine Hierarchie manuell zu erstellen.
 
-1. Aktivieren [!UICONTROL &#x200B; unter „Benannte &#x200B;]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
+1. Aktivieren [!UICONTROL  unter „Benannte ]&quot; das Kontrollkästchen **[!UICONTROL Nach Hierarchie]** Gruppieren“.
 
    ![](assets/create-a-hierarchy-1.png)
 

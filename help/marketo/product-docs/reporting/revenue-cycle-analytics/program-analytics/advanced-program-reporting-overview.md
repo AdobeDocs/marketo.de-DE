@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2953144
 description: Erfahren Sie mehr über die erweiterte Programmberichterstellung in Marketo Engage, einschließlich der erweiterten Programmberichterstellung - Übersicht. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
-title: Übersicht über die erweiterten Programmberichte
+title: Überblick über das erweiterte Programm-Reporting
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 2%
-
 ---
-
-# Übersicht über die erweiterten Programmberichte {#advanced-program-reporting-overview}
+# Überblick über das erweiterte Programm-Reporting {#advanced-program-reporting-overview}
 
 **Revenue Cycle Explorer** umfasst mehrere Analysebereiche und eine breite Palette neuer Metriken, mit denen Sie die Effektivität des Programms messen können.
 

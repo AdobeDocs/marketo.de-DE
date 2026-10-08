@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718660
 description: Erfahren Sie mehr über das Verständnis der Umsatzmodellphasen in Marketo Engage, einschließlich des Verständnisses der Umsatzmodellphasen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
-title: Grundlegendes zu Umsatzmodellphasen
+title: Grundlegendes zu den Phasen des Umsatzmodells
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 10%
-
+source-wordcount: '82'
+ht-degree: 19%
 ---
-
-# Grundlegendes zu Umsatzmodellphasen {#understanding-revenue-model-phases}
+# Grundlegendes zu den Phasen des Umsatzmodells {#understanding-revenue-model-phases}
 
 Phasen sind eine Möglichkeit, eine Reihe von Phasen zu gruppieren. Manchmal spiegeln mehrere Phasen in einem Modell eine Phase einer funnel wider.
 

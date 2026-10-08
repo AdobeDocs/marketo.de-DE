@@ -4,16 +4,21 @@ description: Erfahren Sie, welche Salesforce-Flussschritte Trigger „Person aut
 title: Implizierte Salesforce-Aktionen
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0
+TQID: 'https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 163
+source-wordcount: '163'
 ht-degree: 22%
-
 ---
-
 # Implizierte Salesforce-Aktionen {#implied-salesforce-actions}
 
 Wenn ein [!DNL Salesforce] Flussschritt ausgeführt wird, werden manchmal zusätzliche Schritte automatisch ausgeführt. Hier sind die Regeln, also wissen Sie:
@@ -51,6 +56,6 @@ Diese Regeln gelten, wenn sich die Person derzeit nicht in [Salesforce.com](http
  </tbody>
 </table>
 
-Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des **[!UICONTROL SFDC-Typs]** filtern, wobei der Operator auf &quot;[!UICONTROL ist nicht leer“ &#x200B;]. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
+Sie können SFDC-Datensätze in einer Smart-Liste mithilfe des **[!UICONTROL SFDC-Typs]** filtern, wobei der Operator auf &quot;[!UICONTROL ist nicht leer“ ]. Alle SFDC-Datensätze haben in diesem Feld einen Wert.
 
 Denken Sie daran, dass diese automatischen Aktionen nur stattfinden, wenn sich der Lead derzeit nicht in [Salesforce.com befindet](https://salesforce.com){target="_blank"}

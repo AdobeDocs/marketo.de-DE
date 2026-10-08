@@ -4,21 +4,28 @@ description: Erfahren Sie, wie Sie den Marketo-Synchronisierungsbenutzer in Dyna
 title: Schritt 2 von 3 - Einrichten des Marketo Sync-Benutzers in [!DNL Dynamics] (2011 On-Premise)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/g-yRCQWbdVo-5rBF--v8tmevwRkrQdiCQ3M0BB42nfE
+TQID: 'https://experienceleague.adobe.com/g-yRCQWbdVo-5rBF--v8tmevwRkrQdiCQ3M0BB42nfE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 397
+source-wordcount: '397'
 ht-degree: 0%
-
 ---
-
 # Schritt 2 von 3: Einrichten von Marketo Sync User in [!DNL Dynamics] (2011 On-Premise) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 Die vorherigen Schritte sind abgeschlossen.
@@ -77,7 +84,7 @@ Einige letzte Konfigurationsschritte bleiben bestehen, bevor mit dem nächsten A
 
    >[!NOTE]
    >
-   >Wenn [!UICONTROL Marketo Config] fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht[&#x200B; veröffentlichen Sie die Marketo-Lösung erneut &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) oder melden Sie sich ab und wieder an.
+   >Wenn [!UICONTROL Marketo Config] fehlt, versuchen Sie, die Seite zu aktualisieren. Wenn das Problem weiterhin besteht[ veröffentlichen Sie die Marketo-Lösung erneut ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) oder melden Sie sich ab und wieder an.
 
 1. Klicken Sie auf **[!UICONTROL Standard]**.
 

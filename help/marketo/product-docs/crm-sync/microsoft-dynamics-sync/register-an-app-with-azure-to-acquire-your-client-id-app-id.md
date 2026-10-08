@@ -1,20 +1,25 @@
 ---
 unique-page-id: 12983390
 description: Erfahren Sie, wie Sie eine App bei Azure registrieren, um Ihre Client-ID und App-ID für die Dynamics-Synchronisierung abzurufen. Verwenden Sie Azure Active Directory- und App-Registrierungen für die Authentifizierung.
-title: Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhalten
+title: Registrieren einer App bei Azure, um Ihre Client ID/App ID zu erhalten
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/d3mD6KvWIa2q6EWknuPJvnn5oLO-P6hd1zaDxDYuVJg
+TQID: 'https://experienceleague.adobe.com/d3mD6KvWIa2q6EWknuPJvnn5oLO-P6hd1zaDxDYuVJg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 355
+source-wordcount: '355'
 ht-degree: 6%
-
 ---
-
-# Registrieren einer App bei Azure, um Ihre Client-ID/App-ID zu erhalten {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
+# Registrieren einer App bei Azure, um Ihre Client ID/App ID zu erhalten {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
 Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstützt [!DNL MS Dynamics 365] CRM mit On-Premise-ADFS-Authentifizierung.
 
@@ -37,7 +42,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/two.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL App-Registrierungen]**.
 
    ![](assets/three.png)
 
@@ -59,7 +64,7 @@ Azure Active Directory erweitert Ihre lokalen Ordner in die Cloud und unterstüt
 
    ![](assets/seven.png)
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-Berechtigungen]**.
 
    ![](assets/eight.png)
 

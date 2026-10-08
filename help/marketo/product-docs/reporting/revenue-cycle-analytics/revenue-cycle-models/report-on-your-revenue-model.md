@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2360429
 description: Erfahren Sie mehr über den Bericht zu Ihrem Umsatzmodell in Marketo Engage, einschließlich des Berichts zu Ihrem Umsatzmodell. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
-title: Berichte zu Ihrem Umsatzmodell
+title: Bericht zu Ihrem Umsatzmodell
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 6%
-
 ---
-
-# Berichte zu Ihrem Umsatzmodell {#report-on-your-revenue-model}
+# Bericht zu Ihrem Umsatzmodell {#report-on-your-revenue-model}
 
 Für jedes Umsatzzyklusmodell können Sie einen Bericht darüber generieren, wie viele Leads in den einzelnen Phasen vorhanden sind.
 

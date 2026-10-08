@@ -3,40 +3,51 @@ description: Oktober 2024 - Versionshinweise zu Marketo - Produktdokumentation
 title: Oktober 2024 – Versionshinweise
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-TQID: https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk
+TQID: 'https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: '575'
 ht-degree: 20%
-
 ---
-
 # Versionshinweise – Oktober 2024 {#release-notes-oct-24}
 
-Unten finden Sie alle Funktionen, die in der Version vom Oktober 2024 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
+Unten finden Sie alle Funktionen, die in der Version vom Oktober 2024 enthalten sind. Überprüfen Sie Ihre Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Kontakt, um mehr zu erfahren.
 
-## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen aus dem Standard-Veröffentlichungszyklus {#standard-release-cycle-features}
 
 Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem **Samstag, 4. Oktober 2024** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
@@ -98,7 +109,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><strong>Salesforce-Synchronisierungsrückstandsmetriken</strong>: Überwachen Sie den Synchronisierungsdurchsatz und die Rückstandstrends, um CRM-Aktualisierungen zu planen und zu planen, um ein optimales Synchronisierungserlebnis zu erzielen.
    </td>
    <td>Freigegeben</td>
-   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Backlog-Metriken bei der Salesforce-Synchronisierung</a></td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Rückstandsmetriken für die Salesforce-Synchronisierung</a></td>
   </tr>
  </tbody>
 </table>
@@ -108,12 +119,12 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Aktualisierung der Massenextraktions-API**: Es wurde ein Problem in der Massenextraktions-API behoben, das die Option columnHeaderNames betraf, mit der Sie benutzerdefinierte Spaltenkopfzeilennamen in der exportierten Datei angeben können. Zuvor konnten Spaltenkopfzeilennamen, die Nicht-ASCII-Zeichen enthielten, beschädigt werden.
 
-* **Einstellung von REST-API-Zugriffs-Token**: Der Abfrageparameter „access_token“, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Einstellung von REST-API-Zugriffs-Token**: Der Abfrageparameter „access_token“, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren [wie hier beschrieben](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **QR-Code veraltet**: Am 4. Oktober 2024 wird die QR-Code-Funktion, die in Push-Benachrichtigungen und In-App-Messaging-Assets verwendet wird, eingestellt. Dazu gehört die Verwendung von QR-Codes für ein neues Testgerät sowie die Erstellung neuer Assets mit QR-Codes. Wenn Funktionen mit geringerer Nutzung verworfen werden, können wir ihre Ressourcen für die Gesamtwartung von Marketo Engage neu zuweisen.
 
 * **Munchkin-Änderungen**
 
-   * **Neue Version**: Am 17. September 2024 beginnt das Rollout von [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 auf Marketo Engage-Instanzen, bei denen die Einstellung &quot;Munchkin Beta&quot; in **Admin** > **Treasure Chest** aktiviert ist. Der Rollout zu allen anderen Instanzen soll am 29. Oktober beginnen. Diese Version aktualisiert die Erstellung von Munchkin-Cookies. An der Funktionalität gibt es keine Änderungen.
+  * **Neue Version**: Am 17. September 2024 beginnt das Rollout von [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 auf Marketo Engage-Instanzen, bei denen die Einstellung &quot;Munchkin Beta&quot; in **Admin** > **Treasure Chest** aktiviert ist. Der Rollout zu allen anderen Instanzen soll am 29. Oktober beginnen. Diese Version aktualisiert die Erstellung von Munchkin-Cookies. An der Funktionalität gibt es keine Änderungen.
 
-   * **Zeichen aus URL entfernt**: Die von Munchkin JS erstellten Aktivitäten „Besuche auf Web-Seite“ und „Klicks auf Link“ entfernen jetzt nicht URL-codierte Steuerzeichen aus allen URL-Feldern. Durch diese Änderung sollen Fehler im Zusammenhang mit der Übertragung dieser Zeichentypen in Systeme verhindert werden, die diese Zeichen nicht unterstützen und für die in Marketo Engage keine gültige Verwendung besteht.
+  * **Zeichen aus URL entfernt**: Die von Munchkin JS erstellten Aktivitäten „Besuche auf Web-Seite“ und „Klicks auf Link“ entfernen jetzt nicht URL-codierte Steuerzeichen aus allen URL-Feldern. Durch diese Änderung sollen Fehler im Zusammenhang mit der Übertragung dieser Zeichentypen in Systeme verhindert werden, die diese Zeichen nicht unterstützen und für die in Marketo Engage keine gültige Verwendung besteht.

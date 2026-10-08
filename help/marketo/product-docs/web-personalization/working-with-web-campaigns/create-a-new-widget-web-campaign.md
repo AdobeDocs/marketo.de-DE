@@ -4,7 +4,7 @@ description: Erstellen Sie Widget-Web-Kampagnen, die als fester Text oder Banner
 title: Erstellen einer neuen Widget-Web-Kampagne
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
+TQID: 'https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,10 +13,12 @@ feature_v2:
     internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 4%
@@ -105,11 +107,11 @@ Eine Web-Kampagne ist eine benutzerdefinierte Reaktion, die mit einem bestimmten
 
 >[!NOTE]
 >
->**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests auf optimale Ergebnisse) &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der [!UICONTROL AutoTune]-Funktion erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, setzt die Konvertierungskampagnen mit den höchsten Werten fort und setzt die anderen Kampagnen aus.
+>**Möchten Sie Ihre Web-Kampagnen mit A/B-Tests testen?** Eine oder mehrere Web-Kampagnen können [A/B-Tests auf optimale Ergebnisse) ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Mit der [!UICONTROL AutoTune]-Funktion erkennt die Plattform automatisch die Kampagnen mit besseren Ergebnissen, setzt die Konvertierungskampagnen mit den höchsten Werten fort und setzt die anderen Kampagnen aus.
 
 ## Bearbeiten einer Web-Kampagne {#edit-a-web-campaign}
 
-Klicken Sie auf der [!UICONTROL Web]Kampagnen **auf der Kampagne auf** Bearbeiten“.
+Klicken Sie auf der [!UICONTROL Web]Kampagnen ]**auf der Kampagne auf**[!UICONTROL  Bearbeiten“.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -123,13 +125,13 @@ Siehe [Klonen einer Web-](/help/marketo/product-docs/web-personalization/working
 
 ## Vorschau einer Web-Kampagne {#preview-a-web-campaign}
 
-Klicken Sie auf [!UICONTROL &#x200B; Seite &#x200B;]Web-Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie in der Vorschau anzeigen möchten
+Klicken Sie auf [!UICONTROL  Seite ]Web-Kampagnen **[!UICONTROL auf]** Vorschau“ der Web-Kampagne, die Sie in der Vorschau anzeigen möchten
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Löschen einer Web-Kampagne {#delete-a-web-campaign}
 
-1. Klicken Sie auf der [!UICONTROL Web]&#x200B;**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
+1. Klicken Sie auf der [!UICONTROL Web]**[!UICONTROL Kampagnen]** auf die Web-Kampagne, die Sie löschen möchten.
 
    ![](assets/widget-campaign-delete-hand.png)
 

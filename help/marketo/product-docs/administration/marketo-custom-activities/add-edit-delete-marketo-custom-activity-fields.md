@@ -4,20 +4,26 @@ description: Hinzufügen, Bearbeiten oder Löschen von Feldern in einer benutzer
 title: Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen, bearbeiten oder löschen
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-TQID: https://experienceleague.adobe.com/fWMze2TPvq7qjS0UgRCst1cu-Jcn9rU89r6P8aalQU8
+TQID: 'https://experienceleague.adobe.com/fWMze2TPvq7qjS0UgRCst1cu-Jcn9rU89r6P8aalQU8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 288
+source-wordcount: '288'
 ht-degree: 0%
-
 ---
-
 # Benutzerdefinierte Marketo-Aktivitätsfelder hinzufügen, bearbeiten oder löschen {#add-edit-delete-marketo-custom-activity-fields}
 
 Erfahren Sie, wie Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen, ändern oder entfernen können.
@@ -44,7 +50,7 @@ Erfahren Sie, wie Sie ein benutzerdefiniertes Aktivitätsfeld hinzufügen, ände
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Wählen Sie den (Datentyp[!UICONTROL &#x200B; des Felds &#x200B;].
+1. Wählen Sie den (Datentyp[!UICONTROL  des Felds ].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 

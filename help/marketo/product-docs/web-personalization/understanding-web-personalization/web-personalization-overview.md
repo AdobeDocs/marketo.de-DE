@@ -4,22 +4,27 @@ description: Erfahren Sie mehr über die Funktionen von Web Personalization, ein
 title: Web-Personalisierung – Überblick
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/0TGyNY9LlCREr21ZmORSvg5fxFH-6-KdnhcaKYd--LM
+TQID: 'https://experienceleague.adobe.com/0TGyNY9LlCREr21ZmORSvg5fxFH-6-KdnhcaKYd--LM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 884
+source-wordcount: '884'
 ht-degree: 2%
-
 ---
-
 # Web-Personalisierung – Überblick {#web-personalization-overview}
 
 ## Einführung {#introduction}
@@ -55,7 +60,7 @@ Die **[!UICONTROL Web Personalization]**-Kachel ist Ihr Zugriffspunkt zum Erstel
 
 >[!NOTE]
 >
->Um auf [!UICONTROL Account-Based Web &#x200B;] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
+>Um auf [!UICONTROL Account-Based Web ] oder [!UICONTROL Website Retargeting] zuzugreifen, müssen Sie auf die Kachel [!UICONTROL Web Personalization] klicken, auch wenn Sie nicht über die [!UICONTROL Web Personalization]-App verfügen.
 
 ## Organisationen {#organizations}
 

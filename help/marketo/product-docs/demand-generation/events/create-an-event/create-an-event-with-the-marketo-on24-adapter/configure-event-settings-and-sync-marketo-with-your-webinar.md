@@ -1,20 +1,22 @@
 ---
 unique-page-id: 10096673
 description: Erfahren Sie, wie Sie Ereigniseinstellungen konfigurieren und Marketo mit Ihrem ON24-Webinar synchronisieren. Felder zuordnen und Registrierungsdaten synchronisieren.
-title: Konfigurieren der Ereigniseinstellungen und Synchronisieren von Marketo mit Your Webinar
+title: Konfigurieren der Ereigniseinstellungen und Synchronisieren von Marketo mit Ihrem Webinar
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-TQID: https://experienceleague.adobe.com/AIHOBhsWZXdVEmNRKp8ci8j5aeqyYFjaGF4vhVFozqw
+TQID: 'https://experienceleague.adobe.com/AIHOBhsWZXdVEmNRKp8ci8j5aeqyYFjaGF4vhVFozqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 240
+source-wordcount: '240'
 ht-degree: 9%
-
 ---
-
-# Konfigurieren der Ereigniseinstellungen und Synchronisieren von Marketo mit Your Webinar {#configure-event-settings-and-sync-marketo-with-your-webinar}
+# Konfigurieren der Ereigniseinstellungen und Synchronisieren von Marketo mit Ihrem Webinar {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
 Führen Sie diese Schritte aus, um die Marketo-Ereigniseinstellungen zu konfigurieren und Marketo und ON24 zu verbinden.
 
@@ -42,7 +44,7 @@ Führen Sie diese Schritte aus, um die Marketo-Ereigniseinstellungen zu konfigur
 
 ## Zeitplan festlegen {#set-the-schedule}
 
-Wenn Sie ein Ereignis einrichten, das mit einem ON24-Webinar verknüpft ist, wird der Ereigniszeitplan mit Daten von ON24 gefüllt. Gehen Sie wie folgt vor, um auf [!UICONTROL &#x200B; Dialogfeld &#x200B;]Ereigniszeitplan“ zuzugreifen.
+Wenn Sie ein Ereignis einrichten, das mit einem ON24-Webinar verknüpft ist, wird der Ereigniszeitplan mit Daten von ON24 gefüllt. Gehen Sie wie folgt vor, um auf [!UICONTROL  Dialogfeld ]Ereigniszeitplan“ zuzugreifen.
 
 1. Wählen Sie das Ereignis aus. Klicken Sie auf **[!UICONTROL Dropdown-]** „Ereignisaktionen“ und wählen Sie **[!UICONTROL Zeitplan].**
 

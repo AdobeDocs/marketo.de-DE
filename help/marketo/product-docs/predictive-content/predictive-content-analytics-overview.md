@@ -1,22 +1,25 @@
 ---
 unique-page-id: 12981204
 description: Erfahren Sie mehr über prädiktive Content Analytics-Dashboards für Top-Ansichten, Konversionsraten, Trend-Inhalte und Vorschläge. Filtern Sie nach Attributen, legen Sie Datumsbereiche fest und exportieren Sie Daten, um Ihre Inhaltsstrategie zu verfeinern.
-title: Prädiktive Inhaltsanalyse – Überblick
+title: Predictive Content Analytics – Überblick
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
+TQID: 'https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 380
+source-wordcount: '380'
 ht-degree: 10%
-
 ---
-
-# Prädiktive Inhaltsanalyse – Überblick {#predictive-content-analytics-overview}
+# Predictive Content Analytics – Überblick {#predictive-content-analytics-overview}
 
 Verwenden Sie die Inhaltsanalyse, um weitere Einblicke in Ihre vorhandenen Inhalte zu erhalten, zu erfahren (basierend auf KI und prädiktiven Algorithmen), welche Inhalte für Ihre Zielgruppen funktionieren, und den ROI Ihrer Marketing-Maßnahmen zu steigern.
 
@@ -30,7 +33,7 @@ Klicken Sie auf der Zusammenfassungsseite auf **[!UICONTROL Analytics]**.
 
 ![](assets/one.png)
 
-[!UICONTROL Analytics] umfasst mehrere Abschnitte: [!UICONTROL Top-Inhalte nach &#x200B;], [!UICONTROL Top-Inhalte nach Konversionsrate], [!UICONTROL Trending-Inhalte] [!UICONTROL Vorgeschlagene Inhalte] und [!UICONTROL Inhalte].
+[!UICONTROL Analytics] umfasst mehrere Abschnitte: [!UICONTROL Top-Inhalte nach ], [!UICONTROL Top-Inhalte nach Konversionsrate], [!UICONTROL Trending-Inhalte] [!UICONTROL Vorgeschlagene Inhalte] und [!UICONTROL Inhalte].
 
 ![](assets/new-2.png)
 
@@ -42,7 +45,7 @@ Klicken Sie auf die Schaltfläche Exportieren , um die Ergebnisse dieses Abschni
 
 ![](assets/new-3point5.png)
 
-Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B[!UICONTROL &#x200B; „ABM-]&quot;, [!UICONTROL Land] usw.).
+Sie können die Ergebnisse nach verschiedenen Attributen/Eigenschaften filtern (z. B[!UICONTROL  „ABM-]&quot;, [!UICONTROL Land] usw.).
 
 ![](assets/pca.png)
 
@@ -98,4 +101,4 @@ Suchen Sie nach dem gewünschten Inhaltselement und klicken Sie darauf, um weite
 
 >[!NOTE]
 >
->Ähnlicher Inhalt basiert auf den ausgewählten Inhalten und wird mithilfe eines Zuordnungsregel-Algorithmus berechnet. Die Ergebnisse stellen Inhaltselemente dar, auf die Besucher je nach ausgewähltem Element und früherem Besucherverhalten höchstwahrscheinlich klicken. Dabei werden weder Filter noch Zeitraum berücksichtigt.
+>Ähnlicher Inhalt basiert auf den ausgewählten Inhalten und wird mithilfe eines Zuordnungsregel-Algorithmus berechnet. Die Ergebnisse stellen Inhaltselemente dar, auf die Besucher je nach ausgewähltem Element und früherem Besucherverhalten höchstwahrscheinlich klicken. Dabei werden weder Filter noch Datumsbereich berücksichtigt.

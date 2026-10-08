@@ -4,20 +4,26 @@ description: Kombinieren Sie Werte aus mehreren Feldern oder erstellen Sie bedin
 title: Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel)
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-TQID: https://experienceleague.adobe.com/Yk-Xh-WHUE8-GR2KTCxXRSqerdz-JHu2JnzYp8tAq9U
+TQID: 'https://experienceleague.adobe.com/Yk-Xh-WHUE8-GR2KTCxXRSqerdz-JHu2JnzYp8tAq9U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 148
+source-wordcount: '148'
 ht-degree: 10%
-
 ---
-
 # Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel) {#create-and-use-a-concatenated-string-formula-field}
 
 Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo Engage-Formelfelds einen bedingten Wert erstellen.
@@ -60,4 +66,4 @@ Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo E
 
 >[!NOTE]
 >
->Formelfelder können in Landingpages, E-Mails und Smart-Listen-Spalten verwendet werden. E-Mails mit Formelfeldern können _nicht_ mithilfe einer Batch-Kampagne gesendet werden. Verwenden Sie in [&#x200B; Szenario ein &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)E-Mail-Skript-Token“.
+>Formelfelder können in Landingpages, E-Mails und Smart-Listen-Spalten verwendet werden. E-Mails mit Formelfeldern können _nicht_ mithilfe einer Batch-Kampagne gesendet werden. Verwenden Sie in [ Szenario ein ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)E-Mail-Skript-Token“.

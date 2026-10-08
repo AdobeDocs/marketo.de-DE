@@ -2,7 +2,16 @@
 description: Juli 2026 - Versionshinweise zu Marketo - Produktdokumentation
 title: Juli 2026 - Versionshinweise
 feature: Release Information
-source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '577'
 ht-degree: 13%
@@ -38,7 +47,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Marketo Engage MCP-Server</strong>: Der Marketo Engage MCP-Server fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage. Es stellt mehr als 100 Vorgänge in Formularen, Programmen, intelligenten Kampagnen, Personen/Leads, E-Mails, Snippets, Listen und Ordnern bereit.</td>
    <td>Allgemein verfügbar</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de" target="_blank">Marketo MCP-Server</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP-Server</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -49,7 +58,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><strong>Kampagnen im Archiv deaktivieren</strong>: Durch die Archivierung eines Ordners werden jetzt alle Kampagnen in diesem Ordnerbaum deaktiviert und gekündigt, sodass archivierte Smart-Kampagnen nicht unerwartet ausgeführt werden.
 </td>
    <td>Freigegeben</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Deaktivieren von Kampagnen im Archiv</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Deaktivieren von Kampagnen im Archiv</a></td>
   </tr>
     <tr>
    <td> </td>
@@ -67,12 +76,12 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Marketo AI ist jetzt ein Mitarbeiter für Marketo Engage**: Ein Mitarbeiter für Marketo Engage bietet Agentenfähigkeiten, die darauf ausgelegt sind, zeitaufwendige Marketing-Funktionen zu automatisieren. Neuer Name, gleiche Funktionen, für alle Benutzer verfügbar. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
+* **Marketo AI ist jetzt ein Mitarbeiter für Marketo Engage**: Ein Mitarbeiter für Marketo Engage bietet Agentenfähigkeiten, die darauf ausgelegt sind, zeitaufwendige Marketing-Funktionen zu automatisieren. Neuer Name, gleiche Funktionen, für alle Benutzer verfügbar. [Weitere Informationen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Einstellung von REST-API-„access_token“-**: Der `access_token` Abfrageparameter, der zum Authentifizieren von Marketo REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. August 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **REST API-Kampagnenausführungs-ID**: Unter bestimmten Umständen wurde der Wert der Kampagnenausführungs-ID einer Aktivität manchmal mit falscher Formatierung zwischen zwei Paaren von Anführungszeichen (z. B. `"campaignRunId": ""102938""`) zurückgegeben.<br/>Ab der August-Version wird dieser Wert immer im richtigen numerischen Format (`"campaignRunId": 102938`) zurückgegeben
 
-* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 schlagen Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ oder „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, mit einem 1003-Fehler-Code fehl (was anzeigt, dass die statische Zielliste zu viele Datensätze enthält), wenn die Ziellisten 10.000 oder mehr Leads enthalten. Weitere Informationen finden Sie [Migrationshandbuch](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
+* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Ab dem 30. September 2026 schlagen Aufrufe der Endpunkte „Lead-Aktivitäten abrufen“ oder „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, mit einem 1003-Fehler-Code fehl (was anzeigt, dass die statische Zielliste zu viele Datensätze enthält), wenn die Ziellisten 10.000 oder mehr Leads enthalten. Weitere Informationen finden Sie [Migrationshandbuch](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
 
 * **Limit für REST-API-Zusammenführung von Leads**: Seit dem 31. Juli 2026 führen Aufrufe, die mehr als 25 IDs im leadIds-Parameter eines Zusammenführungs-Leads-API-Aufrufs enthalten, zu einem 1080-Fehler-Code, und der Aufruf wird übersprungen. Aufträge, die die Zusammenführung von mehr als 25 Datensätzen in einem erfordern, sollten in mehrere Aufträge aufgeteilt werden, um den Erfolg dieser Aufrufe sicherzustellen.

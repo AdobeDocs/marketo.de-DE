@@ -3,25 +3,34 @@ description: September 2025 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – September 2025
 feature: Release Information
 exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
-TQID: https://experienceleague.adobe.com/WfcIv3NWuYLgVCvHGcGmKbE6pDLOJ6FBk0OAX5uNJDE
+TQID: 'https://experienceleague.adobe.com/WfcIv3NWuYLgVCvHGcGmKbE6pDLOJ6FBk0OAX5uNJDE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 960
+source-wordcount: '960'
 ht-degree: 85%
-
 ---
-
 # Versionshinweise – September 2025 {#release-notes-sep-25}
 
 Unten finden Sie alle Funktionen, die in der Version von September 2025 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage Edition auf die Verfügbarkeit der Funktionen.
@@ -46,7 +55,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Speicherung von Aktivitäten zu On-Demand-Webinaren</strong>: Benutzenden interaktiver Webinare stehen Dashboard-Daten zu On-Demand-Webinaren jetzt für mehr als 30 Tage zur Verfügung (zuvor waren es nur bis zu 30 Tage ab dem Tag des Webinars).</td>
    <td>Freigegeben</td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Manuelle Synchronisierung</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -110,4 +119,4 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
 
-* **Einstellung der alten Lead-Aktivitätsdaten**: Bis Ende Juni 2026 müssen Benutzende aus dem alten Lead-Aktivitätsdaten-Stream in den neuen Adobe I/O Lead-Aktivitätsdaten-Stream (LADS) migrieren. Diese Einstellung betrifft nur eine Handvoll Benutzender, die in den Lead-Aktivitäts-Datenstrom integriert wurden, bevor er in Adobe I/O Events integriert wurde. Wenn Sie ein neuerer Benutzer von Datenströmen sind oder bereits den Lead-Aktivitäts-Datenstrom über I/O-Ereignisse verwalten, hat dies keine Auswirkungen auf Sie. Migrationsdetails finden [&#x200B; in &#x200B;](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} Artikel .
+* **Einstellung der alten Lead-Aktivitätsdaten**: Bis Ende Juni 2026 müssen Benutzende aus dem alten Lead-Aktivitätsdaten-Stream in den neuen Adobe I/O Lead-Aktivitätsdaten-Stream (LADS) migrieren. Diese Einstellung betrifft nur eine Handvoll Benutzender, die in den Lead-Aktivitäts-Datenstrom integriert wurden, bevor er in Adobe I/O Events integriert wurde. Wenn Sie ein neuerer Benutzer von Datenströmen sind oder bereits den Lead-Aktivitäts-Datenstrom über I/O-Ereignisse verwalten, hat dies keine Auswirkungen auf Sie. Migrationsdetails finden [ in ](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} Artikel .

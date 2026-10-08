@@ -5,30 +5,33 @@ title: SEO – Verwenden eines Berichts zu Keyword-Trends der Konkurrenz
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/VOBeArgGNBHrgFwn-1sT3-paIGwxDYF9yEIHD7JDHwE
+TQID: 'https://experienceleague.adobe.com/VOBeArgGNBHrgFwn-1sT3-paIGwxDYF9yEIHD7JDHwE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Optimization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 302
+source-wordcount: '302'
 ht-degree: 5%
-
 ---
-
 # SEO – Verwenden eines Berichts zu Keyword-Trends der Konkurrenz {#seo-use-the-competitor-kw-trends-report}
 
 In diesem Bericht erfahren Sie, wie Sie und Ihre Mitbewerber im Laufe der Zeit in Keywords eingestuft werden.
 
 >[!IMPORTANT]
 >
->Am 31. März 2026 hat Marketo Engage [Suchmaschinenoptimierung) &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) ist noch für eine begrenzte Zeit verfügbar. Gehen Sie wie in den folgenden Artikeln beschrieben vor, um Daten zu exportieren.
+>Am 31. März 2026 hat Marketo Engage [Suchmaschinenoptimierung) ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) ist noch für eine begrenzte Zeit verfügbar. Gehen Sie wie in den folgenden Artikeln beschrieben vor, um Daten zu exportieren.
 >
->* [Exportprobleme](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Export Keyword Trends](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Exportprobleme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportieren von Keyword-Ergebnissen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Export Keyword Trends](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Trends mit dem Konkurrenten-Keyword exportieren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Berichte suchen {#find-reports}
 
@@ -50,7 +53,7 @@ Finden Sie heraus, welcher Prozentsatz Ihrer Keywords in einem bestimmten Bereic
 |---|---|
 | [!UICONTROL Schlüsselwörter] | Die Anzahl der Keywords, die Sie verfolgen. |
 | [!UICONTROL Rang-URLs] | Die Anzahl der URLs auf Ihrer Website, die in dem von Ihnen festgelegten Bereich nach Rang geordnet sind. |
-| [!UICONTROL &#x200B; % im Rang] | Der Prozentsatz der Schlüsselwörter für die Rangfolge in dem von Ihnen festgelegten Bereich. |
+| [!UICONTROL  % im Rang] | Der Prozentsatz der Schlüsselwörter für die Rangfolge in dem von Ihnen festgelegten Bereich. |
 | [!UICONTROL Durchschnitt Suchen] | Die durchschnittliche Anzahl der Suchen nach diesen Keywords, die während des von Ihnen festgelegten Bereichs stattgefunden haben (in den letzten 30 Tagen bei der Google US-Suche) |
 
 ## Filtern von Daten {#filtering-data}

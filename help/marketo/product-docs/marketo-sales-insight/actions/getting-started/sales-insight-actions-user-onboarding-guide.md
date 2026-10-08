@@ -1,23 +1,25 @@
 ---
 description: Erfahren Sie, wie Sie als neuer Benutzer von Sales Insight Actions beginnen können. Führen Sie die Einrichtungsschritte aus und verbinden Sie E-Mail, Salesforce und Marketo.
-title: Handbuch zum Onboarding von Benutzenden für Sales Insight Actions
+title: Onboarding-Handbuch für Sales Insight Actions-Benutzer
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/5nQmTIYbflu3p5Tpy8gJvyK8xTxZLaxJrpQQFudo9AU
+TQID: 'https://experienceleague.adobe.com/5nQmTIYbflu3p5Tpy8gJvyK8xTxZLaxJrpQQFudo9AU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 337
+source-wordcount: '337'
 ht-degree: 5%
-
 ---
-
-# Handbuch zum Onboarding von Benutzenden für Sales Insight Actions {#sales-insight-actions-user-onboarding-guide}
+# Onboarding-Handbuch für Sales Insight Actions-Benutzer {#sales-insight-actions-user-onboarding-guide}
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package&rbrace; ausschließlich mit dem Salesforce CRM integriert &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
+>Marketo Sales Insight Actions ist ein Web-basiertes Programm, das über das [Marketo Sales Insight Package} ausschließlich mit dem Salesforce CRM integriert ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Dies wird manchmal als &quot;Marketo-Vertrieb“ oder einfach als „Aktionen“ bezeichnet.
 
 >[!PREREQUISITES]
 >

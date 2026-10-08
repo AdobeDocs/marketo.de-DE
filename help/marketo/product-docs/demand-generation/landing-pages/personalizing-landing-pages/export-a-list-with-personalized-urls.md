@@ -4,16 +4,21 @@ description: Erfahren Sie, wie Sie eine Liste mit personalisierten URLs aus Mark
 title: Exportieren einer Liste mit personalisierten URLs
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
+TQID: 'https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 7%
-
 ---
-
 # Exportieren einer Liste mit personalisierten URLs {#export-a-list-with-personalized-urls}
 
 >[!PREREQUISITES]
@@ -21,7 +26,7 @@ ht-degree: 7%
 >* [Personalisierte URLs für Ihr Konto aktivieren](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [Aktivieren personalisierter URLs für eine Landingpage](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Wählen Sie Ihre Liste oder Smart-Liste aus, klicken Sie auf die Registerkarte **[!UICONTROL Leads]**, um die Ergebnisse zu erhalten, und klicken Sie dann auf das Excel-Symbol. Stellen Sie sicher, dass **[!UICONTROL eindeutiger Marketo-Code]** und **[!UICONTROL eindeutige Marketo-]** Spalten[&#x200B; sichtbar &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Wählen Sie Ihre Liste oder Smart-Liste aus, klicken Sie auf die Registerkarte **[!UICONTROL Leads]**, um die Ergebnisse zu erhalten, und klicken Sie dann auf das Excel-Symbol. Stellen Sie sicher, dass **[!UICONTROL eindeutiger Marketo-Code]** und **[!UICONTROL eindeutige Marketo-]** Spalten[ sichtbar ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 

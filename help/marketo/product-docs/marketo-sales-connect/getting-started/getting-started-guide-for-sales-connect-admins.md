@@ -1,22 +1,25 @@
 ---
 description: Erfahren Sie, wie Sie Ihre neue Sales Connect-Instanz einrichten. Führen Sie die Schritte aus, um auf das Konto zuzugreifen, Benutzer einzuladen und Salesforce und Marketo zu verbinden.
-title: Erste Schritte für  [!DNL Sales Connect] -Administratoren
+title: Erste Schritte für [!DNL Sales Connect] Administratoren
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY
+TQID: 'https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 477
+source-wordcount: '478'
 ht-degree: 0%
-
 ---
-
 # Erste Schritte für [!DNL Sales Connect] Administratoren {#getting-started-guide-for-sales-connect-admins}
 
 In diesem Dokument werden die ersten Schritte zum Einrichten der neuen [!DNL Sales Connect]-Instanz beschrieben. Für einige dieser Schritte ist ein Zugriff als Marketo-, [!DNL Salesforce]- und [!DNL Sales Connect] erforderlich. Befolgen Sie die unten stehenden Anleitungen, um die Einrichtung Ihrer Instanz abzuschließen.
@@ -50,7 +53,7 @@ Um Ihre Sales Connect-Instanz mit Ihrer Salesforce-Instanz als Admin oder Nicht-
 Durch die Verbindung mit Marketo können Ihre Verkäufer die Vorteile der Marketing-Automatisierung und der Marketing-Erkenntnisse bei der Kundenakquise nutzen. Für die folgenden Funktionen müssen Sie eine Integration mit Marketo einrichten.
 
 * Freigeben [Marketing-Kampagnen](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md){target="_blank"} für Verkäufer
-* &quot;[&#x200B; Momente“ &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md){target="_blank"} den Live-Feed pushen
+* &quot;[ Momente“ ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md){target="_blank"} den Live-Feed pushen
 * Protokollieren von Vertriebsaktivitäten in Marketo
 
 Um mehr darüber zu erfahren, wie Sie eine Verbindung zu Marketo herstellen und Vertriebsbenutzern Zugriff auf die Verbindung gewähren, [hier klicken](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.
@@ -59,7 +62,7 @@ Um mehr darüber zu erfahren, wie Sie eine Verbindung zu Marketo herstellen und 
 
 Um sicherzustellen, dass der Verkauf erfolgreich ist, müssen Sie auch die richtigen Funktionen in Ihrem primären Arbeitsbereich haben. Das Sales Connect-Anpassungspaket ermöglicht den Zugriff auf Interaktionsfunktionen und wichtige Vertriebsaktivitätsattribute über Salesforce.
 
-Weitere Informationen zur Installation der Sales Connect-Anpassung [hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md){target="_blank"}.
+Weitere Informationen zur Installation der Sales Connect-Anpassung [hier ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md){target="_blank"}.
 
 ## Testen in Sandbox {#testing-in-sandbox}
 

@@ -3,33 +3,42 @@ description: September 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – September 2023
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-TQID: https://experienceleague.adobe.com/QKjIZ21uV2k4kVUcVs53W34pyrbmi5DjZjZTWxX-CrU
+TQID: 'https://experienceleague.adobe.com/QKjIZ21uV2k4kVUcVs53W34pyrbmi5DjZjZTWxX-CrU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 972
+source-wordcount: '972'
 ht-degree: 14%
-
 ---
-
 # Versionshinweise – September 2023 {#release-notes-sep-23}
 
 Im Folgenden finden Sie alle Funktionen, die in der Version vom September 2023 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Kontakt, um mehr zu erfahren.
 
-## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen im Standard-Veröffentlichungszyklus {#standard-release-cycle-features}
 
 Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 8. September 2023** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
@@ -43,7 +52,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <td><strong>Marketo-Referenzbibliothek</strong>: Die Marketo Engage-Programmreferenzbibliothek ermöglicht es Benutzenden, „Beispielprogramme“ und andere Assets zu importieren, die von Adobe empfohlene Best Practices darstellen. Unser Produktmanagement-Team hat die Bibliothek vollständig aktualisiert und bietet wertvollere Tools für diejenigen, die ihr Programm schnell starten möchten.</td>
    <td>Freigegeben</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Übersicht über die Programm-Importbibliothek</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Überblick über die Programm-Importbibliothek</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -102,7 +111,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
   <tr>
    <td><strong>Integration von Marketo und Workfront</strong>: Für Benutzer mit Marketo und Workfront können Sie jetzt Workfront Fusion-Vorlagen verwenden, um die beiden Produkte zu integrieren und neue Automatisierungs-Workflows zu erschließen, um die Kampagnenausführung zu optimieren.</td>
    <td>Freigegeben</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=de" target="_blank">Blueprint überprüfen und genehmigen</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Blueprint überprüfen und genehmigen</a></td>
   </tr>
  </tbody>
 </table>
@@ -250,7 +259,7 @@ Alle unten aufgeführten Funktionen folgen einem Agile-Format und werden an vers
     <tr>
    <td><strong>Trigger-Token für neue Aktivitäten</strong>: Neue Trigger-Token sind verfügbar, um die neuen Aktivitäten für Dynamic Chat zu unterstützen.</td>
    <td>Freigegeben</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chat-Auslöser-Token</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chat Trigger-Token</a></td>
   </tr>
   <tr>
    <td> </td>

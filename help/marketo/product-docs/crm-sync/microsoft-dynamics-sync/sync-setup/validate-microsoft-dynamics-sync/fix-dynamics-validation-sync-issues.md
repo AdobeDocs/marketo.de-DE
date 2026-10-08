@@ -4,20 +4,26 @@ description: Erfahren Sie, wie Sie Synchronisierungsprobleme bei der Dynamics-Va
 title: Beheben von Synchronisierungsproblemen mit der Dynamics-Validierung
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/VKcPe4kYhM2tid0-Fl4ga9-uAQbgUSwHux8XCBwXjwA
+TQID: 'https://experienceleague.adobe.com/VKcPe4kYhM2tid0-Fl4ga9-uAQbgUSwHux8XCBwXjwA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 520
+source-wordcount: '520'
 ht-degree: 8%
-
 ---
-
 # Beheben von Synchronisierungsproblemen mit der Dynamics-Validierung {#fix-dynamics-validation-sync-issues}
 
 ## Ergebnisse des Synchronisierungs-Tools validieren {#validate-sync-tool-results}
@@ -46,7 +52,7 @@ Wenn Sie hier ein ![x](assets/delete.png) haben, überprüfen Sie, ob die URL g�
 
    ![](assets/four.png)
 
-## Benutzername und Passwort sind gültig {#username-and-password-are-valid}
+## Benutzername und Kennwort sind gültig {#username-and-password-are-valid}
 
 Wenn Sie hier ein ![x](assets/delete.png) haben, überprüfen Sie, ob Ihre Microsoft Dynamics-Anmeldeinformationen gültig sind. Für die S2S-Authentifizierung der Web-API muss der Benutzername in Marketo mit der [E-Mail](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user)Adresse) des Anwendungsbenutzers im CRM übereinstimmen. Bei anderen Typen sollte er mit dem Benutzernamen für die Benutzersynchronisierung übereinstimmen.
 
@@ -88,7 +94,7 @@ Wenn Sie hier ein ![x](assets/delete.png) haben, könnte dies eines der drei fol
 
 1. Stellen Sie sicher, dass „Benutzer synchronisieren“ zur Marketo-Konfiguration hinzugefügt wird.
 
-## Lösung von Marketo ist ordnungsgemäß installiert {#marketo-solution-is-properly-installed}
+## Marketo ist ordnungsgemäß installiert {#marketo-solution-is-properly-installed}
 
 Wenn Sie hier ein ![x](assets/delete.png) haben, gehen Sie zu Microsoft Dynamics, um zu überprüfen, ob die Marketo-Installation vorhanden ist. Siehe Schritt 1 der Microsoft Dynamics-Einrichtungsdokumentation.
 
@@ -108,7 +114,7 @@ Wenn Sie hier ein ![x](assets/delete.png) haben, gehen Sie zu Microsoft Dynamics
 
 Wenn Sie hier ein ![x](assets/delete.png) haben, stellen Sie sicher, dass keiner der Standardschritte deaktiviert wurde. Alle Schritte werden bei der Installation automatisch aktiviert, können jedoch bei einer Anpassung deaktiviert werden.
 
-## Synchronisierter Benutzer ist der Lösung von Marketo zugeordnet {#sync-user-is-assigned-to-the-marketo-solution}
+## Der Sync-Benutzer ist der Marketo-Lösung zugeordnet {#sync-user-is-assigned-to-the-marketo-solution}
 
 Wenn Sie hier ein ![x](assets/delete.png) haben, überprüfen Sie, ob der Benutzer „Synchronisieren“ auf der Marketo-Standardseite in Microsoft Dynamics zugewiesen ist.
 
@@ -124,7 +130,7 @@ Wenn Sie hier ein ![x](assets/delete.png) haben, überprüfen Sie, ob der Benutz
 
    ![](assets/fourteen.png)
 
-## Synchronisierter Benutzer stimmt mit Benutzernamen und Passwort überein {#sync-user-matches-username-and-password}
+## Der Sync-Benutzer stimmt mit Benutzername und Passwort überein {#sync-user-matches-username-and-password}
 
 Wenn Sie hier ein ![x](assets/delete.png) haben, weisen Sie den richtigen Synchronisierungsbenutzer im Feld Marketo-Benutzer im Schritt Standardeinrichtung der Marketo-Konfiguration in Microsoft Dynamics zu.
 

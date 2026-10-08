@@ -4,21 +4,26 @@ description: Informationen zur Syntax von E-Mail-Vorlagen im E-Mail-Editor 2.0. 
 title: Syntax von E-Mail-Vorlagen
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
+TQID: 'https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2464
+source-wordcount: '2464'
 ht-degree: 83%
-
 ---
-
 # Syntax von E-Mail-Vorlagen {#email-template-syntax}
 
-Im neuen E-Mail-Erlebnis 2.0 von Marketo bestehen E-Mail-Vorlagen aus einer beliebigen Kombination von Elementen, Variablen, Modulen oder Containern. Jede Vorlage wird definiert, indem Sie Marketo-spezifischen Syntax zu Ihrer HTML hinzufügen. Alte E-Mail-Vorlagen (v1.0) werden im E-Mail-Editor 2.0 unterstützt, verfügen jedoch nicht über alle Funktionen des neuen Editors.
+Im neuen E-Mail-Erlebnis 2.0 von Marketo bestehen E-Mail-Vorlagen aus einer beliebigen Kombination von Elementen, Variablen, Modulen oder Containern. Jedes davon wird definiert, indem Sie Marketo-spezifische Syntax zu Ihrem HTML hinzufügen. Alte E-Mail-Vorlagen (v1.0) werden im E-Mail-Editor 2.0 unterstützt, verfügen jedoch nicht über alle Funktionen des neuen Editors.
 
 Die Marketo-E-Mail-Syntax funktioniert nur in Vorlagen und einzelnen E-Mails. Sie funktioniert **nicht**, wenn sie in Ausschnitte oder Rich-Text-Token eingebettet ist.
 
@@ -45,7 +50,7 @@ Wenn Sie einen Bereich als Rich Text definieren, können Benutzende seinen Inhal
 
 ### Option 1: mktEditable {#option-mkteditable}
 
-Da der E-Mail-Editor 2.0 abwärtskompatibel ist, können in einigen alten E-Mail-Vorlagen Rich-Text-Elemente angegeben werden, indem „class=&quot;mktEditable&quot;“ zu einem beliebigen HTML-Element hinzugefügt wird. Dies wird weiterhin unterstützt und die ID des Elements wird als Anzeigename im E-Mail-Editor verwendet.
+Da der E-Mail-Editor 2.0 abwärtskompatibel ist, können in einigen alten E-Mail-Vorlagen Rich-Text-Elemente angegeben werden, indem class=&quot;mktEditable&quot; zu einem beliebigen HTML-Element hinzugefügt wird. Dies wird weiterhin unterstützt und die ID des Elements wird als Anzeigename im E-Mail-Editor verwendet.
 
 Erforderliche Attribute
 
@@ -58,7 +63,7 @@ Optionale Attribute
 
 Standardwert
 
-Der Inhalt innerhalb des HTML-Elements (falls bereitgestellt) mit „class=&quot;mktEditable&quot;“ wird als Standardwert für das Rich-Text-Element verwendet.
+Der Inhalt innerhalb des HTML-Elements (falls vorhanden) mit class=&quot;mktEditable&quot; wird als Standardwert für das Rich-Text-Element verwendet.
 
 Beispiel:
 
@@ -76,7 +81,7 @@ Erforderliche Attribute
 
 Standardwert
 
-Der Inhalt innerhalb des HTML-Elements (falls bereitgestellt) mit „class=&quot;mktoText&quot;“ wird als Standardwert für das Rich-Text-Element verwendet.
+Der Inhalt innerhalb des HTML-Elements (falls vorhanden) mit class=&quot;mktoText&quot; wird als Standardwert für das Rich-Text-Element verwendet.
 
 Beispiel:
 
@@ -150,7 +155,7 @@ Beispiel:
 
 ## Video {#video}
 
-Wenn Sie einen Bereich als Video definieren, können Endbenutzende entweder eine YouTube- oder Vimeo-URL einfügen, die als Miniaturbild (mit der Schaltfläche „Abspielen“) in die E-Mail eingefügt wird. Sie können eine Videoregion mithilfe eines `<div>` mit „class=&quot;mktoVideo&quot;“ angeben.
+Wenn Sie eine Region als Video definieren, können Endbenutzende entweder eine YouTube- oder Vimeo-URL einfügen, die als Miniaturbild (mit der Schaltfläche „Abspielen“) in der E-Mail angezeigt wird. Sie können eine Videoregion mithilfe eines `<div>` mit „class=&quot;mktoVideo&quot;“ angeben.
 
 Erforderliche Attribute
 
@@ -180,7 +185,7 @@ Erforderliche Attribute
 
 Optionale Attribute
 
-* **allowHTML:** Boolescher Wert. Steuert, ob der Wert der Variablen mit einer HTML-Escape-Sequenz versehen ist. Ist standardmäßig „falsch“, wenn weggelassen.
+* **allowHTML:** Boolescher Wert. Steuert, ob der Wert der Variablen in HTML maskiert wird. Ist standardmäßig „falsch“, wenn weggelassen.
 * **default**: Standardwert für die Zeichenfolge. Leer, wenn weggelassen.
 * **mktoModuleScope:** Boolescher Wert. Steuert, ob die Variable lokal (wahr) oder global (falsch) ist, wenn sie in einem Modul verwendet wird. Ist standardmäßig „falsch“, wenn weggelassen.
 
@@ -356,7 +361,7 @@ Erforderliche Attribute
 
 Optionale Attribute
 
-* **mktoActive:** Bestimmt, ob dieses Modul in der Liste der Module im E-Mail-Editor angezeigt wird. Ist standardmäßig „wahr“. Wenn „falsch“, kann das Modul nicht von einer Enbenutzerin bzw. einem Endbenutzer zu einer E-Mail hinzugefügt werden.
+* **mktoActive:** Bestimmt, ob dieses Modul in der Liste der Module im E-Mail-Editor angezeigt wird. Ist standardmäßig „wahr“. Wenn „falsch“, kann das Modul nicht von einer Endbenutzerin bzw. einem Endbenutzer zu einer E-Mail hinzugefügt werden.
 * **mktoAddByDefault:** Bestimmt, ob sich dieses Modul auf der Arbeitsfläche einer neuen E-Mail befindet, die diese Vorlage bei der Erstellung verwendet. Ist standardmäßig „wahr“ (wenn „mktoActive“ „falsch“ ist, wird dieser Wert ignoriert).
 
 >[!NOTE]
@@ -365,7 +370,7 @@ Optionale Attribute
 
 ## Container {#containers}
 
-Ein Container enthält Module und definiert, wo sie platziert werden können. Wenn Endbenutzende Module neu anordnen und in ihre E-Mail einfügen, steuert der Container, wo Sie platziert werden können.
+Ein Container enthält Module und definiert, wo sie platziert werden können. Wenn Endbenutzende Module in ihrer E-Mail neu anordnen und einfügen, steuert der Container, wo sie platziert werden können.
 
 **Wird entweder mithilfe von `<table>`, `<tbody>`, `<thead>`, `<tfoot>` oder `<td>` mit „class=&quot;mktoContainer&quot;“ definiert**
 

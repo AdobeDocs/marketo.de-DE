@@ -4,13 +4,19 @@ description: Erfahren Sie mehr über Attributionsbeispiel 2 in Marketo Engage, e
 title: Attributionsbeispiel 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 7%
-
 ---
-
 # Attributionsbeispiel 2 {#attribution-example}
 
 Lesen Sie das folgende Szenario und versuchen Sie, die Zahlen zu bestimmen, die im Raster enthalten sein sollen.

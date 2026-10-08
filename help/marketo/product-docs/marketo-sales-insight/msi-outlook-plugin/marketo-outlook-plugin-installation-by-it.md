@@ -1,22 +1,26 @@
 ---
 unique-page-id: 11382815
 description: Erfahren Sie, wie die IT das Marketo Outlook-Plug-in für das Unternehmen installieren kann. Stellen Sie das Add-In skaliert für Outlook-Benutzer bereit.
-title: Marketo [!DNL Outlook] Plug-in-Installation durch IT
+title: Installation des Marketo [!DNL Outlook]-Plug-ins durch IT
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/7Gq4FJlVf9jvqL2Bz34oQVL8HtBNYCjEHl32g-0RXYk
+TQID: 'https://experienceleague.adobe.com/7Gq4FJlVf9jvqL2Bz34oQVL8HtBNYCjEHl32g-0RXYk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: '196'
 ht-degree: 1%
-
 ---
-
 # Installation des Marketo [!DNL Outlook]-Plug-ins durch IT {#marketo-outlook-plugin-installation-by-it}
 
 Manchmal erfordern Unternehmensrichtlinien, dass ihr IT-Team die gesamte Software auf den Computern ihrer Mitarbeiter installiert. In diesen Fällen erledigt die IT dies häufig remote mit ihrer eigenen Bereitstellungssoftware. Dieses Dokument enthält die Befehlszeilen, die Sie während des Bereitstellungsprozesses zur Remote-Installation des Outlook-Plug-ins als Eingaben verwenden würden.

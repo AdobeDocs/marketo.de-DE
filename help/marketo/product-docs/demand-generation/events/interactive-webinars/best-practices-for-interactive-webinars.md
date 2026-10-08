@@ -3,21 +3,25 @@ description: Hier erhalten Sie Hilfe zu Best Practices für interaktive Webinare
 title: Best Practices für interaktive Webinare
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+TQID: 'https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1759
+source-wordcount: '1759'
 ht-degree: 0%
-
 ---
-
 # Best Practices für interaktive Webinare {#best-practices-for-interactive-webinars}
 
 Bei virtuellen Events, ob für kleine oder große Zielgruppen, ist es wichtig, dass alles wie geplant verläuft. Mit verschiedenen Schritten, die zur Planung und Durchführung eines Ereignisses erforderlich sind, von der Vorbereitung, Beförderung, Bereitstellung und Nachbereitung, kann es manchmal nach viel fühlen.
@@ -38,7 +42,7 @@ Die folgenden Best Practices können bei der Planung, Gestaltung und Produktion 
 
 * Vermeiden Sie die Planung von Rückgesprächen. Achten Sie darauf, dass Sie mindestens 30 Minuten Vorbereitungszeit haben, bevor Ihr Webinar beginnt. Auf diese Weise können Sie alle Änderungen an der Präsentation in letzter Minute hochladen, Ihr Mikrofon und Ihre Kamera anpassen und neue Präsentatoren mit der Benutzeroberfläche vertraut machen.
 
-* Weisen Sie Ihren Team-Mitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Moderatoren und Moderatoren können den Raum vor den Teilnehmern betreten. Gestalten [&#x200B; Ihr interaktives Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _bevor_ indem Sie Co-Moderatoren und Moderatoren hinzufügen.
+* Weisen Sie Ihren Team-Mitgliedern Rollen zu. Fügen Sie sie als Co-Hosts und Moderatoren hinzu. Moderatoren und Moderatoren können den Raum vor den Teilnehmern betreten. Gestalten [ Ihr interaktives Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _bevor_ indem Sie Co-Moderatoren und Moderatoren hinzufügen.
 
 ### Bewerben einer Veranstaltung {#promoting-your-event}
 
@@ -79,13 +83,13 @@ Die folgenden Best Practices können bei der Planung, Gestaltung und Produktion 
 * Aktivieren Sie die Aufnahmerinnerung in den Zimmereinstellungen, wenn Sie die Sitzung aufzeichnen möchten. Die Erinnerung wird 5 Minuten nach dem Meeting angezeigt, wenn die Aufzeichnung noch nicht gestartet wurde.
 
 * Aktivieren Sie den Bereich „Host“ und „Präsentator“ und richten Sie ihn mit den entsprechenden Pods ein. Dieser Bereich ist nur für Hosts und Moderatoren sichtbar und kann für die Zusammenarbeit backstage verwendet werden. Einige Pods, die hier eingeschlossen werden sollen, wären:
-   * Interaktions-Dashboard zur Überwachung der Interaktion der Teilnehmer in Echtzeit. [Hier klicken](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} um ein kurzes Video zur Verwendung des Interaktions-Dashboards anzusehen.
-   * Chat-Pod , um private Gespräche zwischen den Mitgliedern des Präsentationsteams zu ermöglichen.
-   * Notieren Sie sich den Pod zum Posten von Erinnerungsnachrichten, Fragen an den Referenten oder standardmäßige Frageantworten, die Sie kopieren und einfügen können, um schnelle Antworten auf häufige Fragen zu erhalten.
+  * Interaktions-Dashboard zur Überwachung der Interaktion der Teilnehmer in Echtzeit. [Hier klicken](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} um ein kurzes Video zur Verwendung des Interaktions-Dashboards anzusehen.
+  * Chat-Pod , um private Gespräche zwischen den Mitgliedern des Präsentationsteams zu ermöglichen.
+  * Notieren Sie sich den Pod zum Posten von Erinnerungsnachrichten, Fragen an den Referenten oder standardmäßige Frageantworten, die Sie kopieren und einfügen können, um schnelle Antworten auf häufige Fragen zu erhalten.
 
 * Benutzerdefinierte Pods sind Apps von Drittanbietern, mit denen die Funktionalität eines Adobe Connect-Raums erweitert werden kann. Benutzerdefinierte Pods können aus `apps.adobeconnect.com` als .pod- oder .zip-Dateien heruntergeladen werden, die dann im Share-Pod freigegeben werden können.
-   * Einige beliebte benutzerdefinierte Pods sind Countdown-Timer, Uhr, Rock Paper Scissors, Word Cloud, Titler.
-   * [Hier klicken](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} um ein kurzes Video über die Verwendung benutzerdefinierter Pods anzusehen.
+  * Einige beliebte benutzerdefinierte Pods sind Countdown-Timer, Uhr, Rock Paper Scissors, Word Cloud, Titler.
+  * [Hier klicken](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} um ein kurzes Video über die Verwendung benutzerdefinierter Pods anzusehen.
 
 **Datenschutz: Um die Teilnehmerinformationen vertraulich zu behandeln, überprüfen Sie die folgenden Einstellungen:**
 
@@ -93,7 +97,7 @@ Die folgenden Best Practices können bei der Planung, Gestaltung und Produktion 
 
 * **Fragen und Antworten**: Der Name des Teilnehmers, der die Frage eingereicht hat, und der Name des Gastgebers/Moderators, der geantwortet hat, können beide ausgeblendet werden. Dies erreichen Sie, indem Sie die Datenschutzoptionen im Abschnitt „Fragen und Antworten“ in den Zimmereinstellungen deaktivieren.
 
-* **Chat-Panel**: Das Chat-Panel ist ein Chat-Bereich, der nicht Teil der Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass Chats in Aufzeichnungen angezeigt werden, verwenden Sie das Chat-Panel anstelle des Chat-Pods. [Hier klicken](https://helpx.adobe.com/de/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} um mehr über die Verwendung des Chat Panels zu erfahren.
+* **Chat-Panel**: Das Chat-Panel ist ein Chat-Bereich, der nicht Teil der Sitzungsaufzeichnungen ist. Wenn Sie also nicht möchten, dass Chats in Aufzeichnungen angezeigt werden, verwenden Sie das Chat-Panel anstelle des Chat-Pods. [Hier klicken](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} um mehr über die Verwendung des Chat Panels zu erfahren.
 
 * **Privater Chat**: Deaktivieren Sie den privaten Chat, um zu verhindern, dass Teilnehmer einen anderen Teilnehmer anpingen können. Dies kann erreicht werden, indem Sie die Option „Teilnehmern erlauben, privat zu chatten“ im Abschnitt „Chat“ in den Zimmereinstellungen deaktivieren.
 
@@ -104,8 +108,8 @@ Die folgenden Best Practices können bei der Planung, Gestaltung und Produktion 
 * Führen Sie einige Probeläufe durch, um Ihre Audio-/Videoeinstellungen zu testen und sich mit Adobe Connect vertraut zu machen, wenn Sie es noch nie verwendet haben. Schließen Sie Ihre Moderatoren und Co-Moderatoren bei den Proben mit ein.
 
 * Bitten Sie Gastgeber und Moderatoren, mindestens 30 Minuten vor der Startzeit anzureisen und sicherzustellen, dass alles ordnungsgemäß funktioniert.
-   * Entscheiden Sie, wer die Fragen und Antworten und Chat-Pods moderieren soll.
-   * Füllen Sie die Fragen und Antworten und Chat-Pods mit Fragen und Chats zu Testadressen.
+  * Entscheiden Sie, wer die Fragen und Antworten und Chat-Pods moderieren soll.
+  * Füllen Sie die Fragen und Antworten und Chat-Pods mit Fragen und Chats zu Testadressen.
 
 * Programme, die Sie per Bildschirmfreigabe freigeben, im entsprechenden Fenster öffnen und demonstrieren können. Vermeiden Sie den Start und die Anmeldung bei Programmen während der Bildschirmfreigabe.
 

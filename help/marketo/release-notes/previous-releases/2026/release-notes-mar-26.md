@@ -2,13 +2,20 @@
 description: März 2026 - Versionshinweise zu Marketo - Produktdokumentation
 title: März 2026 - Versionshinweise
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
-
+source-wordcount: '533'
+ht-degree: 18%
 ---
-
 # März 2026 - Versionshinweise {#release-notes-mar-26}
 
 Nachstehend finden Sie alle Funktionen, die in der Version vom 26. März enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
@@ -40,7 +47,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <td><strong>E-Mail-Designer - Bearbeitbare HTML-Komponenten in Fragmenten</strong>: Innerhalb visueller Fragmente werden bearbeitbare Felder in Bild-, Text- und Schaltflächenkomponenten über das Bedienfeld Komponenteneigenschaft unterstützt. Für HTML-Komponenten werden bearbeitbare Felder anders konfiguriert, indem eine variablenbasierte Syntax im Quellcode der HTML-Komponente selbst verwendet wird.
    </td>
    <td>Freigegeben</i></td>
-   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Bearbeitbare HTML-Komponenten in Fragmenten</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Bearbeitbare HTML-Komponenten in Fragmenten</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -91,7 +98,7 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Einstellung von SEO** Funktionen: Am Dienstag, 31. März 2026, wird Marketo Engage die Suchmaschinenoptimierungsfunktion (SEO) einstellen. Wenn Sie SEO nicht aktiv verwenden, müssen Sie nichts tun. Wenn Sie SEO in letzter Zeit verwendet haben, haben Sie die Möglichkeit, Ihre Daten zu exportieren. [Weitere Informationen](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=de){target="_blank"}.
+* **Einstellung von SEO** Funktionen: Am Dienstag, 31. März 2026, wird Marketo Engage die Suchmaschinenoptimierungsfunktion (SEO) einstellen. Wenn Sie SEO nicht aktiv verwenden, müssen Sie nichts tun. Wenn Sie SEO in letzter Zeit verwendet haben, haben Sie die Möglichkeit, Ihre Daten zu exportieren. [Weitere Informationen](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Limit für REST-API-Zusammenführung von Leads**: Ab dem 31. Juli 2026 führen Aufrufe, die mehr als 25 IDs im leadIds-Parameter eines Zusammenführungs-Leads-API-Aufrufs enthalten, zu einem 1080-Fehler-Code, und der Aufruf wird übersprungen. Aufträge, die die Zusammenführung von mehr als 25 Datensätzen in einem erfordern, sollten in mehrere Aufträge aufgeteilt werden, um den Erfolg dieser Aufrufe sicherzustellen.
 

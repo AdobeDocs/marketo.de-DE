@@ -3,18 +3,20 @@ description: Erfahren Sie mehr über On-Demand-Webinare in interaktiven Marketo-
 title: On-Demand-Webinare
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-TQID: https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E
+TQID: 'https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 490
+source-wordcount: '490'
 ht-degree: 1%
-
 ---
-
 # On-Demand-Webinare {#on-demand-webinars}
 
 On-Demand-Webinare erfassen und verfeinern die Leads, die sich für Ihre Veranstaltung registriert haben und nicht teilgenommen haben, aber Informationen über die Veranstaltung erhalten möchten, indem Sie sich die Aufzeichnung ansehen. Informationen wie Name, E-Mail-ID und Datum/Dauer der Beobachtung können in Marketo Engage erfasst und zum Targeting dieser nicht angezeigten Leads verwendet werden.
@@ -28,9 +30,9 @@ Marketo Engage stellt die Statistiken zu Armbanduhren für On-Demand-Webinare au
 * On-Demand-Zusammenfassung : Bietet eine Zusammenfassung der Besucherzahlen (No-Shows), die die Aufzeichnung nach dem Ereignis an einem bestimmten Tag (bestimmten Tagen) ansehen
 
 * On-Demand-Statistiken: Dieses Widget bietet Informationen zu folgenden Themen:
-   * Tage, an denen die On-Demand-Aufzeichnung angezeigt werden kann: Hilft Marketing-Experten beim Ausführen von Aktionen, z. B. dem Ausführen von E-Mail-Kampagnen kurz vor dem Ende der Aufnahmeverfügbarkeitsdauer von 30 Tagen.
-   * Bisherige Gesamtanzahl der Besucher von On-Demand-Webinaren: Die Anzahl aller No-Show-Registranten, die die On-Demand-Aufzeichnung bisher angesehen haben.
-   * Durchschnittliche Dauer der Beobachtung in Minuten für alle Besucher: Gibt Marketing-Experten ein Gefühl dafür, wie viel von der Aufzeichnung angezeigt wird und welche Smart-Kampagnen verwendet werden können, um Leads oberhalb einer bestimmten Dauer der Beobachtung anzusprechen.
+  * Tage, an denen die On-Demand-Aufzeichnung angezeigt werden kann: Hilft Marketing-Experten beim Ausführen von Aktionen, z. B. dem Ausführen von E-Mail-Kampagnen kurz vor dem Ende der Aufnahmeverfügbarkeitsdauer von 30 Tagen.
+  * Bisherige Gesamtanzahl der Besucher von On-Demand-Webinaren: Die Anzahl aller No-Show-Registranten, die die On-Demand-Aufzeichnung bisher angesehen haben.
+  * Durchschnittliche Dauer der Beobachtung in Minuten für alle Besucher: Gibt Marketing-Experten ein Gefühl dafür, wie viel von der Aufzeichnung angezeigt wird und welche Smart-Kampagnen verwendet werden können, um Leads oberhalb einer bestimmten Dauer der Beobachtung anzusprechen.
 
 ![](assets/on-demand-webinars-1.png)
 

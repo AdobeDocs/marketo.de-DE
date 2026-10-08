@@ -4,19 +4,22 @@ description: Erfahren Sie, wie Sie in Marketo ein neues Veranstaltungsprogramm e
 title: Erstellen eines neuen Ereignisprogramms
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-TQID: https://experienceleague.adobe.com/IcnjJtUembK4odgMFbRHwfbkG4-TkQdqL6NJLAqDW8Q
+TQID: 'https://experienceleague.adobe.com/IcnjJtUembK4odgMFbRHwfbkG4-TkQdqL6NJLAqDW8Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 196
+source-wordcount: '196'
 ht-degree: 8%
-
 ---
-
 # Erstellen eines neuen Ereignisprogramms {#create-a-new-event-program}
 
 Ereignisse ermöglichen es Ihnen, Online- und Offline-Ereignisse zu automatisieren. Erfassen Sie den Status Ihrer Mitarbeiter, während sie verschiedene Phasen durchlaufen, und erhalten Sie genaue Messwerte für den ROI für Ihre Marketing-Initiativen.
@@ -57,7 +60,7 @@ Ereignisse ermöglichen es Ihnen, Online- und Offline-Ereignisse zu automatisier
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Erstellen Sie nach der Erstellung Ihres Ereignisses die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie sollten sich auch mit der Ansicht [Programmzeitplan“ &#x200B;](https://docs.marketo.com/display/docs/program+schedule+view).
+Erstellen Sie nach der Erstellung Ihres Ereignisses die [Landingpages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [Formulare](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) und [E-Mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), um Ihre Gäste einzuladen! Sie sollten sich auch mit der Ansicht [Programmzeitplan“ ](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >

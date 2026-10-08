@@ -6,32 +6,47 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
-TQID: https://experienceleague.adobe.com/4Xwvf1XMyNOj9RYDQEyEifBN3Iva3bc2SE94f5VIWtk
+TQID: 'https://experienceleague.adobe.com/4Xwvf1XMyNOj9RYDQEyEifBN3Iva3bc2SE94f5VIWtk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1341
-ht-degree: 40%
-
+source-wordcount: '1341'
+ht-degree: 49%
 ---
-
 # Konvertieren von Bildern in HTML-Vorlagen {#image-to-html}
 
 ## Überblick {#overview}
@@ -43,7 +58,7 @@ Der Image-zu-HTML-Konverter nutzt generative KI-Technologie und analysiert Layou
 >[!PREREQUISITES]
 >
 >* Sie müssen zunächst den [Core Gen-AI-Bedingungen und den Zusatzbedingungen](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} zustimmen, um die Gen-AI-Funktion in E-Mail-Designer nutzen zu können. Weitere Informationen erhalten Sie beim Adobe Account Team (Ihrem Account Manager).
->* Sie müssen _Zugriff auf E-Mail_ Vorlage) sowie _E-Mail-Vorlage bearbeiten/_) [in Ihrer Marketo-Rolle &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Sie müssen _Zugriff auf E-Mail_ Vorlage) sowie _E-Mail-Vorlage bearbeiten/_) [in Ihrer Marketo-Rolle ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Konvertieren eines Bildes {#convert-an-image}
 
@@ -79,10 +94,10 @@ Gehen Sie wie folgt vor, um ein Bild in eine vollständig anpassbare HTML-E-Mail
 
 1. Die konvertierte Vorlage wird im E-Mail-Designer mit allen Bearbeitungsfunktionen geöffnet. Sie können jetzt:
 
-   * Textinhalt bearbeiten und Personalisierung anwenden
+   * Bearbeiten von Textinhalt und Anwenden von Personalisierung
    * Bilder ändern und Links hinzufügen
    * Farben, Schriften und Stile anpassen
-   * Inhaltskomponenten hinzufügen, entfernen oder neu anordnen
+   * Hinzufügen, Entfernen oder Neuanordnen von Inhaltskomponenten
    * Alle E-Mail-Designer-Funktionen wie bei jeder anderen Vorlage nutzen
 
    ![](assets/image-to-html-6.png){width="800" zoomable="yes"}
@@ -111,28 +126,28 @@ Der Bild-zu-HTML-Converter eignet sich ideal für:
 
 **Bildvorbereitung**
 
-* **Resolution**: Verwenden Sie hochauflösende Bilder für eine bessere Texterkennung und Elementerkennung.
+* **Auflösung**: Verwenden Sie hochauflösende Bilder für eine bessere Texterkennung und Auffindbarkeit von Elementen.
 * **Klarheit**: Stellen Sie sicher, dass der Text klar lesbar ist und visuelle Elemente klar definiert sind.
-* **Breite**: Entwerfen Sie Bilder mit standardmäßigen E-Mail-Breiten (600-800 px), um die typischen E-Mail-Client-Anforderungen zu erfüllen.
-* **Dateiformat**: Verwenden Sie das JPEG- oder PNG-Format, um komprimierte Bilder oder Bilder von schlechter Qualität zu vermeiden.
-* **Vollständiges Design**: Vollständiges E-Mail-Design in ein einziges Bild aufnehmen, von Kopf- bis Fußzeile.
+* **Breite**: Erstellen Sie Bilder mit standardmäßigen E-Mail-Breiten (600–800 px), um die Anforderungen typischer E-Mail-Clients zu erfüllen
+* **Dateiformat**: Verwenden Sie das JPEG- oder PNG-Format. Vermeiden Sie komprimierte Bilder oder Bilder mit geringer Qualität.
+* **Vollständiges Design**: Nehmen Sie das vollständige E-Mail-Design in ein einziges Bild auf, von Kopf- bis Fußzeile.
 
 **Überlegungen zum Design**
 
 * **Einfache Layouts**: Einfache, gut strukturierte Layouts konvertieren präziser als hochkomplexe Designs.
-* **Standardelemente**: Verwenden Sie gängige E-Mail-Design-Muster (Kopfzeilen-, Hauptteil-, CTAs- und Fußzeilen).
-* **Textlesbarkeit**: Sicherstellen eines ausreichenden Kontrasts zwischen Text und Hintergrund.
-* **Web-sichere Schriftarten**: Designs, die gängige Web-sichere Schriftarten verwenden, sind zuverlässiger.
-* **Überlappende Elemente vermeiden**: Halten Sie Designelemente zur besseren Strukturerkennung klar getrennt.
+* **Standardelemente**: Verwenden Sie gängige E-Mail-Design-Muster (Kopfzeile, Hauptteil, CTAs und Fußzeile).
+* **Textlesbarkeit**: Stellen Sie einen ausreichenden Kontrast zwischen Text und Hintergründen sicher.
+* **Web-sichere Schriften**: Designs, die gängige Web-sichere Schriften verwenden, sind zuverlässiger.
+* **Vermeiden überlappender Elemente**: Halten Sie Design-Elemente zur besseren Strukturerkennung klar getrennt.
 
 **Nach der Konvertierung**
 
 * **Prüfen Sie den Entwurf**: Nach Abschluss der Konvertierung wird Ihre Vorlage automatisch als Entwurf gespeichert. Nehmen Sie sich Zeit, um die generierte HTML sorgfältig auf Korrektheit zu überprüfen.
-* **Gründlich testen**: Testen Sie die E-Mail über verschiedene E-Mail-Clients und Geräte hinweg. Nutzen Sie für schnellere Ergebnisse die Vorteile der [Litmus-Integration](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
+* **Sorgfältiges Testen**: Testen Sie die E-Mail auf verschiedenen E-Mail-Clients und Geräten. Nutzen Sie für schnellere Ergebnisse die Vorteile der [Litmus-Integration](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 * **Manuell verfeinern**: Nehmen Sie die erforderlichen Anpassungen unter Verwendung der vollständigen Bearbeitungsfunktionen des E-Mail-Designer vor.
 * **Markenausrichtung**: Überprüfen Sie, ob Farben, Schriftarten und Stile Ihren Markenrichtlinien entsprechen.
 * **Personalization**: Fügen Sie nach Bedarf dynamische Inhalte und Personalisierungs-Token hinzu.
-* **Barrierefreiheit**: Überprüfen und erweitern Sie die Funktionen für die Barrierefreiheit bei Bedarf.
+* **Barrierefreiheit**: Prüfen und erweitern Sie die Barrierefreiheitsfunktionen bei Bedarf.
 
 ## Einschränkungen und Überlegungen {#limitations}
 
@@ -142,7 +157,7 @@ Beachten Sie die folgenden Einschränkungen bei der Verwendung des Konverters �
 
 * **Textgenauigkeit**: Die KI versucht zwar, Text genau zu erkennen und zu reproduzieren, aber Sie sollten Textinhalte immer überprüfen und nach Bedarf korrigieren.
 
-* **Dynamische Inhalte**: Der Konvertierungsprozess erstellt statisches HTML basierend auf Ihrem Bild. Nach der Konvertierung müssen Sie Personalisierung, dynamische Inhalte und Tracking manuell hinzufügen.
+* **Dynamische Inhalte**: Der Konvertierungsprozess erstellt statisches HTML basierend auf Ihrem Bild. Nach der Konvertierung müssen Sie Personalisierung, dynamischen Content und Tracking manuell hinzufügen.
 
 * **Komplexe Layouts**: Hochkomplexe Designs mit komplizierten Ebenen, ungewöhnlichen Formen oder nicht standardmäßigen Elementen werden möglicherweise nicht perfekt konvertiert. Einfachere Designs liefern in der Regel bessere Ergebnisse.
 
@@ -174,7 +189,7 @@ Die Konvertierung kann je nach Komplexität und Größe des Bilddesigns bis zu f
 
 +++Kann ich die generierte Vorlage bearbeiten?
 
-Ja. Die generierte HTML-Vorlage wird im E-Mail-Designer mit allen Bearbeitungsfunktionen geöffnet. Sie können alle Aspekte der Vorlage ändern, einschließlich Text, Bilder, Stil, Layout und Struktur.
+Ja. Die generierte HTML-Vorlage wird im E-Mail-Designer mit allen Bearbeitungsfunktionen geöffnet. Sie können alle Aspekte der Vorlage bearbeiten, einschließlich Text, Bildern, Styling, Layout und Struktur.
 
 +++
 
@@ -184,9 +199,9 @@ Die KI bemüht sich, Ihr Design möglichst genau zu interpretieren, doch einige 
 
 +++
 
-+++Kann ich diese Funktion für Landingpages oder andere Inhaltstypen verwenden?
++++Kann ich diese Funktion für Landingpages oder andere Content-Typen verwenden?
 
-Der Bild-zu-HTML-Converter ist derzeit speziell für E-Mail-Vorlagen konzipiert. Verwenden Sie für andere Inhaltstypen die standardmäßigen Design- und Importoptionen, die im E-Mail-Designer verfügbar sind.
+Der Bild-zu-HTML-Converter ist derzeit speziell für E-Mail-Vorlagen konzipiert. Verwenden Sie für andere Content-Typen die standardmäßigen Design- und Importoptionen, die im E-Mail-Designer verfügbar sind.
 
 +++
 

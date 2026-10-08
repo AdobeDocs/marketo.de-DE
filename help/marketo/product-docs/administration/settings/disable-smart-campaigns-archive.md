@@ -3,13 +3,17 @@ description: Erfahren Sie, wie Sie die Funktion Smart Campaign on Archive deakti
 title: Deaktivieren von Smart-Kampagnen im Archiv
 feature: Administration
 hide: true
-source-git-commit: 526d10bb96e059d251a76ca720ff81ab42ee9516
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%
-
 ---
-
 # Deaktivieren von Smart-Kampagnen im Archiv {#disable-smart-campaigns-on-archive}
 
 Wenn diese Funktion aktiviert ist, werden die Kampagnen eines Ordners oder Programms automatisch deaktiviert, um unerwartete Aktivitäten zu verhindern.

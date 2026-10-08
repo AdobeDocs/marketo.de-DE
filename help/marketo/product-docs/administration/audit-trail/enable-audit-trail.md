@@ -4,20 +4,26 @@ description: Aktivieren Sie Audit-Protokoll und Anmeldeverlauf für eine Rolle u
 title: Aktivieren des Audit-Protokolls
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-TQID: https://experienceleague.adobe.com/-JXuS64rGSiaTMaiwUfzQWBAekwzj-53w8A2q1oLQWg
+TQID: 'https://experienceleague.adobe.com/-JXuS64rGSiaTMaiwUfzQWBAekwzj-53w8A2q1oLQWg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 244
+source-wordcount: '244'
 ht-degree: 4%
-
 ---
-
 # Aktivieren des Audit-Protokolls {#enable-audit-trail}
 
 Das Audit-Protokoll steht allen Kunden zur Verfügung und wird von zwei Administratorberechtigungen gesteuert.
@@ -80,7 +86,7 @@ Das Audit-Protokoll steht allen Kunden zur Verfügung und wird von zwei Administ
 
    >[!CAUTION]
    >
-   >Wenn Arbeitsbereiche aktiviert sind, aktivieren Sie das Kontrollkästchen der Rolle, wodurch alle Arbeitsbereiche ausgewählt werden. Wenn Sie die Auswahl eines einzelnen Arbeitsbereichs aufheben, wird das Audit-Protokoll ausgeblendet. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern“ &#x200B;](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >Wenn Arbeitsbereiche aktiviert sind, aktivieren Sie das Kontrollkästchen der Rolle, wodurch alle Arbeitsbereiche ausgewählt werden. Wenn Sie die Auswahl eines einzelnen Arbeitsbereichs aufheben, wird das Audit-Protokoll ausgeblendet. Sie haben die Möglichkeit, Arbeitsbereiche beim [Filtern“ ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Klicken Sie auf **[!UICONTROL Speichern]**.
 

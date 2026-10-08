@@ -3,17 +3,22 @@ description: Erfahren Sie, wie Sie die Zustimmung für die Client-ID und die App
 title: Erteilen von Einverständnis für Client-ID und App-Registrierung
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo
+TQID: 'https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: '293'
 ht-degree: 5%
-
 ---
-
-# Erteilen von Einverständnis für Client-ID und App-Registrierung {#grant-consent-for-client-id-and-app-registration}
+# Erteilen von Einverständnis für Client-ID und App-Registrierung&#x200B; {#grant-consent-for-client-id-and-app-registration}
 
 Gehen Sie wie folgt vor, um zu erfahren, wie Sie die erforderliche Zustimmung und Berechtigungen erteilen.
 
@@ -78,7 +83,7 @@ Als Admin können Sie auch den delegierten Berechtigungen einer Anwendung im Nam
 
 1. Navigieren Sie in Ihrem Azure-Portal zur Startseite der Anwendung.
 
-1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL API-]**.
+1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL API-]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

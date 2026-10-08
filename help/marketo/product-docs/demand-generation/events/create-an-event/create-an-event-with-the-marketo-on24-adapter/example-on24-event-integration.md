@@ -4,16 +4,18 @@ description: Lernen Sie aus einer beispielhaften ON24-Ereignisintegration mit Ma
 title: Beispiel für die ON24-Ereignisintegration
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-TQID: https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY
+TQID: 'https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 398
+source-wordcount: '398'
 ht-degree: 2%
-
 ---
-
 # Beispiel für die ON24-Ereignisintegration {#example-on-event-integration}
 
 Im Folgenden finden Sie ein Beispielereignis, einschließlich Kampagnen, für ein ON24-Webinar. Wenn Sie Ihr Ereignis erstellen, testen Sie Ihre Kampagnen, bevor Sie sie ausführen.
@@ -49,8 +51,8 @@ Im Folgenden finden Sie ein Beispielereignis, einschließlich Kampagnen, für ei
 * **Smart List** - Legen Sie fest, wen Sie zu dem Ereignis einladen.
 * **Fluss**
 
-   * E-Mail senden - Wenn es sich um eine lokale Asset-E-Mail handelt, gilt die folgende Namenskonvention: EventName.EmailName. Sie können auch globale E-Mails verwenden.
-   * Status in Bearbeitung ändern - Auf Webinar > Eingeladen festlegen.
+  * E-Mail senden - Wenn es sich um eine lokale Asset-E-Mail handelt, gilt die folgende Namenskonvention: EventName.EmailName. Sie können auch globale E-Mails verwenden.
+  * Status in Bearbeitung ändern - Auf Webinar > Eingeladen festlegen.
 
 * **Zeitplan** - Legen Sie das Datum fest, an dem die Einladung gesendet werden soll.
 
@@ -58,7 +60,7 @@ Im Folgenden finden Sie ein Beispielereignis, einschließlich Kampagnen, für ei
 
 * **Smart-Liste**
 
-   * Trigger der Kampagne basierend auf **[!UICONTROL Ausfülltes Formular]**. Schließen Sie die Landingpage, auf der sich das Formular befindet, mithilfe von **[!UICONTROL Einschränkung hinzufügen]** ein, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
+  * Trigger der Kampagne basierend auf **[!UICONTROL Ausfülltes Formular]**. Schließen Sie die Landingpage, auf der sich das Formular befindet, mithilfe von **[!UICONTROL Einschränkung hinzufügen]** ein, insbesondere wenn das Formular auf mehreren Landingpages verwendet wird.
 
 >[!CAUTION]
 >
@@ -68,9 +70,9 @@ Im Folgenden finden Sie ein Beispielereignis, einschließlich Kampagnen, für ei
 
 * **Fluss**
 
-   * **Status in Bearbeitung ändern** - Auf Webinar setzen > Registriert. **ACHTUNG**: Dieser Flussschritt ist beim Einrichten der untergeordneten Kampagne erforderlich. Wenn sich der Fortschrittsstatus einer Person in &quot;**&quot; ändert** sendet Marketo die Registrierungsinformationen an ON24.
+  * **Status in Bearbeitung ändern** - Auf Webinar setzen > Registriert. **ACHTUNG**: Dieser Flussschritt ist beim Einrichten der untergeordneten Kampagne erforderlich. Wenn sich der Fortschrittsstatus einer Person in &quot;**&quot; ändert** sendet Marketo die Registrierungsinformationen an ON24.
 
-   * **E-Mail senden** - Bestätigungs-E-Mail (auf **Betriebsbereit** festgelegt, damit Abgemeldete, die sich registriert haben, weiterhin eine E-Mail erhalten).
+  * **E-Mail senden** - Bestätigungs-E-Mail (auf **Betriebsbereit** festgelegt, damit Abgemeldete, die sich registriert haben, weiterhin eine E-Mail erhalten).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 

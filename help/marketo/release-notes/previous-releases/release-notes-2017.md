@@ -1,34 +1,56 @@
 ---
-title: "2017"
+title: '2017'
 description: 2017 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2440
+source-wordcount: '2440'
 ht-degree: 4%
-
 ---
-
 # 2017
 
 ## Winter 2017 {#winter}
@@ -65,7 +87,7 @@ Exportieren Sie alle Web-Kampagnendetails und Analysen im CSV-Format. Anschließ
 
 ## Lokalisierung {#localization}
 
-Die Apps Web Personalization[!UICONTROL Predictive Content] und Email Insights sind jetzt auf Japanisch, Deutsch und Spanisch verfügbar. Sie [&#x200B; Ihre Sprache und Ihr Gebietsschema &#x200B;](/help/marketo/product-docs/administration/settings/change-time-zone.md), um Ihre Inhalte in diesen Sprachen anzuzeigen.
+Die Apps Web Personalization[!UICONTROL Predictive Content] und Email Insights sind jetzt auf Japanisch, Deutsch und Spanisch verfügbar. Sie [ Ihre Sprache und Ihr Gebietsschema ](/help/marketo/product-docs/administration/settings/change-time-zone.md), um Ihre Inhalte in diesen Sprachen anzuzeigen.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -83,7 +105,7 @@ Verwenden [!UICONTROL Benanntes Konto] oder [!UICONTROL Kontoliste] als Dimensio
 
 ![](assets/ei.png)
 
-## [!UICONTROL Verbesserungen bei prädiktiven &#x200B;]) {#predictive-content-enhancements}
+## [!UICONTROL Verbesserungen bei prädiktiven ]) {#predictive-content-enhancements}
 
 **[Filtern nach [!UICONTROL Source aktiviert]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
@@ -127,7 +149,7 @@ Ab dem 1. August 2017 werden Kunden, die noch den alten Rich-Text-Editor und For
 
 [Marketo Activity APIs](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/)
 
-Bei den Aktivitäten-APIs von Marketo gibt es eine wichtige Änderung. Seid ihr vorbereitet?
+Bei den Aktivitäts-APIs von Marketo gibt es eine wichtige Änderung. Seid ihr vorbereitet?
 
 ## Frühjahr 2017 {#spring}
 
@@ -201,7 +223,7 @@ Legen Sie die Animationseffekte für Ihre Dialog-Web-Kampagne fest, um anzupasse
 
 **[Anpassung des Schließen-Dialogs](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-Passen Sie die Schaltfläche Schließen für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die im Stil des transparenten Dialogfelds ([!UICONTROL ) verwendet &#x200B;]. Wählen Sie das Symbol, die Farbe und die Positionierung für die Schaltfläche „Schließen“ aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
+Passen Sie die Schaltfläche Schließen für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die im Stil des transparenten Dialogfelds ([!UICONTROL ) verwendet ]. Wählen Sie das Symbol, die Farbe und die Positionierung für die Schaltfläche „Schließen“ aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
@@ -253,7 +275,7 @@ Gewährleisten Sie die Konsistenz von Nachricht und Inhalt, indem Sie Änderunge
 
 **Datenquelle für die Suche nach japanischen Unternehmen**
 
-Personen mit den Namen japanischer Unternehmen in der Landessprache in Übereinstimmung bringen.
+Personen mit japanischen Firmennamen in der jeweiligen Landessprache abgleichen.
 
 **[ABM- und LeanData-Integration](https://docs.marketo.com/x/pKmt)**
 
@@ -285,7 +307,7 @@ Steigern Sie den Return-on-Investment für Ihr Content-Marketing mit tieferen An
 
 Profitieren Sie noch mehr von Ihrem [!UICONTROL E-Mail-Insights]-Erlebnis mit neuen Möglichkeiten zur Vorbereitung und Freigabe von Daten. Sie können jetzt Ihre [!UICONTROL E-Mail-Einblicke]-Ergebnisse in [!DNL Microsoft Excel] und [!DNL PowerPoint] herunterladen, um mit den Daten außerhalb von Marketo zu arbeiten.
 
-## Unterstützung bei der Konfiguration vernetzter Identitäten {#federated-identity-configuration-support}
+## Unterstützung für die Konfiguration föderierter Identitäten {#federated-identity-configuration-support}
 
 Halten Sie die Authentifizierung (Active Directory) lokal hinter Ihrer Firewall, während Sie weiterhin [!DNL Microsoft Dynamics] CRM in der Cloud verwenden.
 
@@ -370,11 +392,11 @@ Sparen Sie Zeit durch die Wiederverwendung von Kreativ-Assets und -Bildern auf m
 
 ## Integration  {#integration}
 
-**[Email Preview API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting)**
+**[Email Preview API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Sie können jetzt eine Remote-Vorschau von E-Mails außerhalb von Marketo anzeigen, wodurch der Prozess der Lokalisierung von E-Mail-Inhalten vereinfacht und Fehler reduziert werden.
 
-**[HTML-API ersetzen](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting)**
+**[HTML-API ersetzen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Entwicklerinnen und Entwickler können HTML-Inhalte von E-Mail-Assets remote aktualisieren, sodass sie in einem einzigen System arbeiten können, um Assets zu verwalten.
 

@@ -1,19 +1,21 @@
 ---
 unique-page-id: 14352447
 description: Erfahren Sie, wie Sie über das Outlook Office 365-Plug-in eine E-Mail zu Salesforce hinzufügen. Gesendete oder empfangene E-Mails im richtigen Salesforce-Datensatz protokollieren
-title: Hinzufügen einer E-Mail-Adresse zu Salesforce (Office 365)
+title: Hinzufügen von E-Mail zu Salesforce (Office 365)
 exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/kDWFvC0ebB2apOuhl-M-WcTVlhF7wcffsw35eo1bCT8
+TQID: 'https://experienceleague.adobe.com/kDWFvC0ebB2apOuhl-M-WcTVlhF7wcffsw35eo1bCT8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 124
+source-wordcount: '124'
 ht-degree: 4%
-
 ---
-
 # E-Mail zu [!DNL Salesforce] hinzufügen (Office 365) {#add-email-to-salesforce-office}
 
 Mit E-Mail zu [!DNL Salesforce] hinzufügen können Sie alle in [!DNL Outlook] empfangenen E-Mails an Ihr [!DNL Salesforce]-Konto pushen. Wir suchen nach dem Absender der E-Mail, daher können wir diese Schaltfläche derzeit nur für empfangene E-Mails verwenden, nicht für von Ihnen gesendete E-Mails.

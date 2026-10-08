@@ -3,20 +3,23 @@ description: Erfahren Sie mehr über das Interaktions-Dashboard für interaktive
 title: Interaktions-Dashboard
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-TQID: https://experienceleague.adobe.com/S-1BPAxd26HZcEV7RvEsYQp1BWlz6q6XFbKPIL77Ed8
+TQID: 'https://experienceleague.adobe.com/S-1BPAxd26HZcEV7RvEsYQp1BWlz6q6XFbKPIL77Ed8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1783
+source-wordcount: '1786'
 ht-degree: 1%
-
 ---
-
 # Interaktions-Dashboard {#engagement-dashboard}
 
 Interaktive Webinare auf Basis von Adobe Connect verwenden verschiedene Pods, um Teilnehmer an Chats, Fragen und Antworten, Tests und Umfragen zu beteiligen. Mit dem Interaktions-Dashboard können Sie Schlüsselmetriken und Datenvisualisierungen verfolgen.
@@ -178,14 +181,14 @@ Wählen Sie im linken Bedienfeld die Option **[!UICONTROL Interaktionen]**, um a
 
 ![](assets/engagement-dashboard-9.png)
 
-Wählen Sie in der **die Registerkarte** Umfragen“ aus, um Fragen und Antworten anzuzeigen, die zur Umfrage hinzugefügt wurden. Auf dieser Registerkarte werden die folgenden Informationen angezeigt:
+Wählen Sie in der ]**die Registerkarte**[!UICONTROL  Umfragen“ aus, um Fragen und Antworten anzuzeigen, die zur Umfrage hinzugefügt wurden. Auf dieser Registerkarte werden die folgenden Informationen angezeigt:
 
 * Wählen Sie **[!UICONTROL Bericht abfragen (CSV)]**, um den Bericht für Interaktionen im Abrufbereich herunterzuladen.
 * Frage und Typ der Abfrage.
 * Anzahl der Antworten und der Zeitraum, in dem der Pod offen und aktiv war.
 * Wählen **Alle `<number>` Antworten anzeigen**, um sie in einem Dialogfenster anzuzeigen.
 
-Wählen Sie in der **die Registerkarte** Sonstige Interaktionen“ aus, um Interaktionen in anderen Pods anzuzeigen und deren Berichte herunterzuladen.
+Wählen Sie in der ]**die Registerkarte**[!UICONTROL  Sonstige Interaktionen“ aus, um Interaktionen in anderen Pods anzuzeigen und deren Berichte herunterzuladen.
 
 ![](assets/engagement-dashboard-10.png)
 

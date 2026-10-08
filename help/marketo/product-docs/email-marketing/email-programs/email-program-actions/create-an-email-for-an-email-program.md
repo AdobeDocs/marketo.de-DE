@@ -4,18 +4,23 @@ description: Erfahren Sie, wie Sie eine E-Mail für ein E-Mail-Programm erstelle
 title: Erstellen einer E-Mail für ein E-Mail-Programm
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/buVllT6O1mbSLDsUEkhuhIPclWIRv17pe22cOmi0i2w
+TQID: 'https://experienceleague.adobe.com/buVllT6O1mbSLDsUEkhuhIPclWIRv17pe22cOmi0i2w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 11%
-
 ---
-
 # Erstellen einer E-Mail für ein E-Mail-Programm {#create-an-email-for-an-email-program}
 
 >[!PREREQUISITES]
@@ -49,4 +54,4 @@ Nachdem Sie Ihr E-Mail-Programm erstellt und Ihre Audience definiert haben, soll
 
    ![](assets/five.png)
 
-Sehr gut! Nachdem wir nun eine E-Mail erstellt haben, die wir senden möchten, [&#x200B; wir „einen A/B-Test hinzufügen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) oder gehen direkt zum [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+Sehr gut! Nachdem wir nun eine E-Mail erstellt haben, die wir senden möchten, [ wir „einen A/B-Test hinzufügen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) oder gehen direkt zum [Planen Ihres E-Mail-Programms](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).

@@ -4,16 +4,21 @@ description: Erfahren Sie, wie Sie Champion-/Challenger-Betreffzeilentests durch
 title: Champion/Challenger - Betreffzeile
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/CyptDxnnRX1bG8RvAXE-lpfEVoibAkdBFcmMZzDqfxM
+TQID: 'https://experienceleague.adobe.com/CyptDxnnRX1bG8RvAXE-lpfEVoibAkdBFcmMZzDqfxM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 290
+source-wordcount: '290'
 ht-degree: 2%
-
 ---
-
 # Champion/Challenger: Betreffzeile {#champion-challenger-subject-line}
 
 Sie können auf einfache Weise mehrere Betreffzeilen testen. Senden Sie nach Abschluss des Tests E-Mails mit der effektivsten E-Mail. So geht das.

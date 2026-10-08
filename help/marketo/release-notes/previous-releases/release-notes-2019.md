@@ -1,43 +1,74 @@
 ---
-title: "2019"
+title: '2019'
 description: 2019 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+    internal-label: Sales Connect
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2528
+source-wordcount: '2530'
 ht-degree: 3%
-
 ---
-
 # 2019
 
 ## Winter 2019 {#winter}
@@ -52,7 +83,7 @@ Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktio
 
 >[!NOTE]
 >
->Microsoft drängt alle Online-Kunden, auf die neueste Version von [!DNL Microsoft Dynamics] zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit [!DNL Dynamics Online] integrieren, müssen Sie vor dem 31. [&#x200B; 2019 ein Upgrade auf &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) neueste Version der Marketo-**durchführen** um sicherzustellen, dass Ihre Integration weiterhin funktioniert.
+>Microsoft drängt alle Online-Kunden, auf die neueste Version von [!DNL Microsoft Dynamics] zu aktualisieren. Wenn Sie Ihre Marketo-Instanz mit [!DNL Dynamics Online] integrieren, müssen Sie vor dem 31. [ 2019 ein Upgrade auf ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) neueste Version der Marketo-**durchführen** um sicherzustellen, dass Ihre Integration weiterhin funktioniert.
 
 >[!NOTE]
 >
@@ -62,7 +93,7 @@ Bitte klicken Sie auf die Titel-Links, um detaillierte Artikel für jede Funktio
 
 **[E-Mail-CC für Marketo-E-Mails](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
-Fügen Sie E-Mails, die über Marketo gesendet werden, bis zu fünf CC-Adressen pro Empfänger hinzu.
+Fügen Sie bei über Marketo gesendeten E-Mails bis zu fünf CC-Adressen pro Empfänger hinzu.
 
 **API**
 
@@ -83,8 +114,8 @@ Fügen Sie E-Mails, die über Marketo gesendet werden, bis zu fünf CC-Adressen 
 * **E-Mail-**: Bessere Zustellbarkeit sowie verbessertes Antwort-Tracking, Funktionen für geplante E-Mails und Funktionen für Massen-E-Mails durch Herstellen einer Verbindung zu [!DNL Microsoft Outlook] (entweder über Office365 oder On-Premise über die Registerkarte E-Mail-Verbindung ).
 * **Neue Admin-**: Es wurden zwei Admin-Seiten hinzugefügt, um Ihre Sales Engage-Instanz zu optimieren
 
-   * *Team-Management* unterstützt einen nahtlosen Prozess zur Kontoeinrichtung, indem es Administratoren ermöglicht, Abonnements und Teams zu bearbeiten.
-   * *Salesforce-Admin-*: Hilft Teams beim schnelleren und einfacheren Einrichten der SFDC-Synchronisierung als je zuvor.
+  * *Team-Management* unterstützt einen nahtlosen Prozess zur Kontoeinrichtung, indem es Administratoren ermöglicht, Abonnements und Teams zu bearbeiten.
+  * *Salesforce-Admin-*: Hilft Teams beim schnelleren und einfacheren Einrichten der SFDC-Synchronisierung als je zuvor.
 
 * **OWA-Plug-in für[!DNL Windows]**: Mit einem einzigen Add-in werden alle [!DNL Windows Office365]-Clients in Sales Engage unterstützt, sodass Live-Feed in Outlook verwendet werden kann. Das neue Plug-in wird im Microsoft Store verfügbar sein.
 * **Pusher-Aktivitäten**: Synchronisieren Sie Sales Engage mit der Marketo-Kernplattform, um Echtzeit-Marketing-Erkenntnisse zu nutzen.
@@ -161,7 +192,7 @@ Die folgenden Funktionen wurden am 15. März 2019 veröffentlicht.
 
 ## Verbesserungen der Kernplattform
 
-* **Warteliste:** Neuer Programm-/Ereignisstatus für die Warteliste für ein Mitglied, wenn Sie es [&#x200B; „zurückstellen“ möchten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) bis eine freie Stelle geöffnet wird. Dies gilt für Kanäle, die mit Veranstaltungsprogrammen in Marketo Classic verknüpft sind, und sowohl für Ereignis- als auch für Ereignis-mit-Webinar-Programmen in [!DNL Marketo Sky]. Standardmäßig hat die Warteliste denselben Schrittwert wie „Registriert“.
+* **Warteliste:** Neuer Programm-/Ereignisstatus für die Warteliste für ein Mitglied, wenn Sie es [ „zurückstellen“ möchten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) bis eine freie Stelle geöffnet wird. Dies gilt für Kanäle, die mit Veranstaltungsprogrammen in Marketo Classic verknüpft sind, und sowohl für Ereignis- als auch für Ereignis-mit-Webinar-Programmen in [!DNL Marketo Sky]. Standardmäßig hat die Warteliste denselben Schrittwert wie „Registriert“.
 * **[Benutzerdefiniertes Kommunikationslimit](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Administratoren können jetzt benutzerdefinierte tägliche oder wöchentliche Kommunikationslimits festlegen.
 * **[Smart Campaign Asset-APIs](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Reichern Sie Ihre Analysen außerhalb von Marketo mit dem Abruf von intelligenten Kampagnendatensätzen nach aktualisiertem Datum und aktualisierter ID an.
 * **HTTPS-Tracking-Links für E-Mail**: Kunden, die „Sichere Domains für Tracking-Links“ erworben haben, können jetzt Marken-Tracking-Links in Ihren E-Mails als HTTPS anzeigen.
@@ -186,8 +217,8 @@ Die folgenden Funktionen werden voraussichtlich im ersten Kalenderquartal und bi
 
 ## Marketo Sales Engage
 
-* **Verbesserte Prüfung**: Neue Sichtbarkeit aller Personen, E-Mails und [Inhalte](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in einer Instanz mit zusätzlicher Möglichkeit, [&#x200B; von anderen Benutzern &#x200B;](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) Kampagnen zu beenden.
-* **[Abmeldeverwaltung](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximieren Sie die Zustellbarkeit und Einhaltung der Möglichkeit, E[Mail-Domains &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) blockieren. Marketo wird vor dem Senden einer E-Mail auch einen Querverweis auf die Lead-Datenbank für Abmeldungen durchführen.
+* **Verbesserte Prüfung**: Neue Sichtbarkeit aller Personen, E-Mails und [Inhalte](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in einer Instanz mit zusätzlicher Möglichkeit, [ von anderen Benutzern ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) Kampagnen zu beenden.
+* **[Abmeldeverwaltung](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximieren Sie die Zustellbarkeit und Einhaltung der Möglichkeit, E[Mail-Domains ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) blockieren. Marketo wird vor dem Senden einer E-Mail auch einen Querverweis auf die Lead-Datenbank für Abmeldungen durchführen.
 
 ## [!DNL Bizible] von Marketo
 
@@ -226,8 +257,8 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und b
 
 * **Ereignisbegrenzungen** und **Ereignisziele** sind im Allgemeinen in [!DNL Marketo Sky] unter dem Premium-Ereignis-Add-on verfügbar.
 
-   * Event-Caps: Optimieren Sie das Kundenerlebnis für Ihre Veranstaltungen und Webinare mit Registrierungs-Caps, Seitenumleitungen und Wartelistenfunktionen.
-   * Veranstaltungsziele: Legen Sie Veranstaltungsregistrierungs- und -teilnahmeziele fest und verfolgen Sie den Fortschritt in Echtzeit.
+  * Event-Caps: Optimieren Sie das Kundenerlebnis für Ihre Veranstaltungen und Webinare mit Registrierungs-Caps, Seitenumleitungen und Wartelistenfunktionen.
+  * Veranstaltungsziele: Legen Sie Veranstaltungsregistrierungs- und -teilnahmeziele fest und verfolgen Sie den Fortschritt in Echtzeit.
 
 * **Links zur Vollnavigation**: Wir haben die Navigation für alle zulässigen Anwendungen aktiviert, z. B. Hootsuite, Kalender und mehr.
 * **E-Mail-, Landingpage-, Snippet-, Formular-, Bild- und Dateilistenansichten**: Anzeigen, Suchen und Ausführen von Massenaktionen für beliebige Assets in Design Studio.
@@ -252,7 +283,7 @@ Die folgenden Funktionen werden voraussichtlich im zweiten Kalenderquartal und b
 * **Drift-Integration**: Erfahren Sie, wie sich Drift-Unterhaltungen auf den Journey Ihres Kunden auswirken. [!DNL Bizible] werden auch E-Mail-Adressen aus Konversationen abrufen, um entweder einen neuen Lead zu erstellen oder den Touchpoint mit einem vorhandenen Lead zu verbinden.
 * **Lokalisierung**: [!DNL Bizible] ist jetzt in allen von Marketo unterstützten Sprachen verfügbar (Englisch, Japanisch, Deutsch, Spanisch, Französisch und Portugiesisch).
 
-_&#x200B;**Webinar zur Produktversion**&#x200B;_ Sehen Sie sich die Aufzeichnung unseres Webinars mit den Versionsinnovationen vom 19. Juni [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.
+_**Webinar zur Produktversion**_ Sehen Sie sich die Aufzeichnung unseres Webinars mit den Versionsinnovationen vom 19. Juni [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html) an.
 
 ## August 2019 {#august}
 
@@ -293,5 +324,5 @@ Die folgenden Funktionen befinden sich in einem nicht-vierteljährlichen Zyklus 
 >
 >**Um Ihren Marketo Engage-Zugriff beizubehalten, stellen Sie sicher, dass alle Client-Systeme vor dem 13. Dezember 2019 TLS 1.2-kompatibel**. Weitere Informationen finden Sie [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/August_19_Release_Webinar.html) 28. August um 1:00PM PT / 4 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die Funktionen dieser Version.
+**_Webinar zur Produktversion_** [Nehmen Sie am 28. ](https://engage.marketo.com/August_19_Release_Webinar.html) um 13:00 Uhr PT/16:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
 

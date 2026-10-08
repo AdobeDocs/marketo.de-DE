@@ -1,24 +1,29 @@
 ---
 unique-page-id: 4719300
 description: Erfahren Sie, wie Sie benutzerdefinierte Salesforce-Objektfelder als Smart-List-Filter und Trigger-Einschränkungen hinzufügen oder entfernen. Verwenden Sie die Synchronisierung von Admin- und Salesforce-Objekten , um sichtbare Felder zu bearbeiten.
-title: Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Einschränkung für intelligente Liste/Auslöser
+title: Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Smart List/Trigger-Begrenzungen
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/wO-RIcRyhdn0Jp6FugNHCFAmebCijRvWb4mVGorppyk
+TQID: 'https://experienceleague.adobe.com/wO-RIcRyhdn0Jp6FugNHCFAmebCijRvWb4mVGorppyk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart lists
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 206
+source-wordcount: '206'
 ht-degree: 11%
-
 ---
-
-# Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Einschränkung für intelligente Liste/Auslöser {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
+# Hinzufügen/Entfernen von benutzerdefinierten Objektfeldern als Smart List/Trigger-Begrenzungen {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
 Marketo Engage bietet eine präzise Kontrolle über die Synchronisierung benutzerdefinierter Salesforce-Objekte. Auf diese Weise können Sie die Felder auswählen, die als Einschränkungen in benutzerdefinierten Objektfiltern verfügbar sind, und sie als Trigger in Smart-Kampagnen verwenden.
 

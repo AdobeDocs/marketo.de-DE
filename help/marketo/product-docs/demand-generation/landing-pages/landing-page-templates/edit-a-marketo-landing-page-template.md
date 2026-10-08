@@ -1,22 +1,28 @@
 ---
 unique-page-id: 4720738
 description: Erfahren Sie, wie Sie eine Marketo-Landingpage-Vorlage bearbeiten. Aktualisieren Sie Vorlagen in Design Studio, um das Layout oder den Inhalt für zukünftige Seiten zu ändern.
-title: Bearbeiten einer Vorlage für Marketo-Landingpages
+title: Bearbeiten einer Marketo-Landingpage-Vorlage
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/wC9hlqZXCOkpBfdi99jUtnbwmVSCPLKjmyx40wUH3h4
+TQID: 'https://experienceleague.adobe.com/wC9hlqZXCOkpBfdi99jUtnbwmVSCPLKjmyx40wUH3h4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: '102'
 ht-degree: 11%
-
 ---
-
 # Bearbeiten einer Vorlage für Marketo-Landingpages {#edit-a-marketo-landing-page-template}
 
 Sie können in Marketo jede Landingpage-Vorlage bearbeiten.

@@ -1,18 +1,23 @@
 ---
 description: Erfahren Sie, wie Sie die Marketo-Lösung für Dynamics 2016 oder Dynamics 365 lokal installieren. Importieren Sie die Lösung und führen Sie die Installationsschritte in Dynamics aus.
-title: Installieren Sie Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365 On-Premise Schritt 1 von 3
+title: Installieren von Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365 On-Premise, Schritt 1 von 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA
+TQID: 'https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 324
+source-wordcount: '325'
 ht-degree: 0%
-
 ---
-
 # Schritt 1 von 3: Synchronisierungsbenutzer für Marketo konfigurieren (2016 On-Premise /Dynamics 365 On-Premise) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
 Bevor Sie [!DNL Microsoft Dynamics] 2016 On-Premise/Dynamics 365 mit Marketo synchronisieren können, müssen Sie zunächst die Marketo-Lösung in Dynamics installieren.
@@ -33,7 +38,7 @@ Bevor Sie [!DNL Microsoft Dynamics] 2016 On-Premise/Dynamics 365 mit Marketo syn
 >
 >Sie benötigen CRM-Administratorrechte, um diese Synchronisierung durchzuführen.
 
-1. Melden Sie sich bei **[!DNL Dynamics].** an Klicken Sie auf das Dropdown **Menü**&#x200B;[!DNL Microsoft Dynamics] CRM und wählen Sie **[!UICONTROL Einstellungen]**.
+1. Melden Sie sich bei **[!DNL Dynamics].** an Klicken Sie auf das Dropdown **Menü**[!DNL Microsoft Dynamics] CRM und wählen Sie **[!UICONTROL Einstellungen]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 

@@ -4,13 +4,19 @@ description: Erfahren Sie mehr über den Vergleich der Programmeffektivität mit
 title: Vergleichen der Programmeffektivität mit dem Programm-Analyzer
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '478'
 ht-degree: 1%
-
 ---
-
 # Vergleich der Programmeffektivität mit dem [!UICONTROL Programm-Analyzer] {#compare-program-effectiveness-with-the-program-analyzer}
 
 Verwenden Sie den [!UICONTROL Programm-Analyzer], um Ihre effizientesten Programme zu ermitteln, indem Sie Programmkosten, Mitgliederakquise, Pipeline und Umsatz vergleichen.
@@ -67,7 +73,7 @@ Verwenden Sie den [!UICONTROL Programm-Analyzer], um Ihre effizientesten Program
 
    >[!NOTE]
    >
-   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, sind für Berechnungen mit Erstkontakt (FT) und Multi-Touch (MT) verfügbar. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution“ zu &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Viele der Metriken, die Sie im Programm-Analyzer auswählen können, sind für Berechnungen mit Erstkontakt (FT) und Multi-Touch (MT) verfügbar. Es ist wichtig, den [Unterschied zwischen FT- und MT-Attribution“ zu ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Beobachten Sie, wie sich die Größe der Blasen in Ihrem Diagramm ändert.
 

@@ -1,22 +1,27 @@
 ---
 unique-page-id: 2359740
 description: Erfahren Sie, wie Sie eine Marketo-Landingpage zu einer anderen Seite umleiten. Senden Sie Besucher an eine andere URL, wenn sie auf der Seite landen.
-title: Umleiten einer Marketo-Landingpage zu einer anderen Seite
+title: Leiten Sie eine Marketo-Landingpage zu einer anderen Seite weiter
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/hL18plY9nu2Irs6QC8AEtjbLPzZLvJDhfRQYwDRCgls
+TQID: 'https://experienceleague.adobe.com/hL18plY9nu2Irs6QC8AEtjbLPzZLvJDhfRQYwDRCgls'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 12%
-
 ---
-
-# Umleiten einer Marketo-Landingpage zu einer anderen Seite {#redirect-a-marketo-landing-page-to-another-page}
+# Leiten Sie eine Marketo-Landingpage zu einer anderen Seite weiter {#redirect-a-marketo-landing-page-to-another-page}
 
 Wenn Sie jemals die URL einer Seite aktualisieren und möchten, dass die alte URL weiterhin funktioniert, versuchen Sie es mit einer Umleitung! Die Einrichtung ist einfach.
 
@@ -38,7 +43,7 @@ Wenn Sie jemals die URL einer Seite aktualisieren und möchten, dass die alte UR
 
    >[!NOTE]
    >
-   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Marketo ([) &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Denken Sie daran, dass Sie nur URLs umleiten können, die mit Ihrem Marketo ([) ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
 1. Wählen Sie die Landingpage, die Sie umleiten möchten, im zweiten Feld **[!UICONTROL Ursprüngliche URL]** aus.
 

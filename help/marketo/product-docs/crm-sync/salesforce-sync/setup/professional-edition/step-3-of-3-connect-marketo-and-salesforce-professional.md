@@ -4,21 +4,28 @@ description: Erfahren Sie im letzten Schritt der Professional Edition, wie Sie M
 title: 'Schritt 3 von 3: Marketo und Salesforce verbinden (Professional)'
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/g49qFOb1sqAohhsLP72t0N-gBciCz32OO8JPKmPO0QQ
+TQID: 'https://experienceleague.adobe.com/g49qFOb1sqAohhsLP72t0N-gBciCz32OO8JPKmPO0QQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 397
+source-wordcount: '397'
 ht-degree: 0%
-
 ---
-
 # Schritt 3 von 3: Marketo und [!DNL Salesforce] verbinden (Professional) {#step-of-connect-marketo-and-salesforce-professional}
 
 In diesem Artikel konfigurieren Sie Marketo Engage für die Synchronisierung mit Ihrer konfigurierten Salesforce-Instanz.
@@ -56,7 +63,7 @@ In diesem Artikel konfigurieren Sie Marketo Engage für die Synchronisierung mit
 
    >[!NOTE]
    >
-   >[Blenden Sie in Marketo alle nicht &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Felder aus, bevor Sie auf „Felder **[!UICONTROL &quot;]**. Nachdem Sie auf Felder synchronisieren geklickt haben, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
+   >[Blenden Sie in Marketo alle nicht ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} Felder aus, bevor Sie auf „Felder **[!UICONTROL &quot;]**. Nachdem Sie auf Felder synchronisieren geklickt haben, werden alle Felder, die der Benutzer sehen kann, dauerhaft in Marketo erstellt und können nicht gelöscht werden.
 
 1. Geben Sie die in Teil 2 der Salesforce-Konfiguration ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) erstellten Anmeldeinformationen für den Salesforce-Benutzer ein und klicken Sie auf **[!UICONTROL Felder synchronisieren]**.
 

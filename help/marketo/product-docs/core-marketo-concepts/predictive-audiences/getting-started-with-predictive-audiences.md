@@ -1,26 +1,31 @@
 ---
 description: Erfahren Sie mehr über prädiktive Zielgruppen und KI-gesteuertes Targeting in Marketo. Verwenden Sie Wahrscheinlichkeitswerte und prädiktive Filter, um Ihre Ziele zu erreichen.
-title: Erste Schritte mit prädiktiven Zielgruppen
+title: Erste Schritte mit prädiktiven Zielgruppen​
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-TQID: https://experienceleague.adobe.com/Vr4R6W1EAk2p2gsKuwpncTLMOicOkUemtEkFOTujeZg
+TQID: 'https://experienceleague.adobe.com/Vr4R6W1EAk2p2gsKuwpncTLMOicOkUemtEkFOTujeZg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 60e4be0b-b3ea-5f4e-8b8c-da0f5a08dacd
+    internal-label: Predictive Audiences
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: '236'
 ht-degree: 5%
-
 ---
-
-# Erste Schritte mit prädiktiven Zielgruppen {#getting-started-with-predictive-audiences}
+# Erste Schritte mit prädiktiven Zielgruppen&#x200B; {#getting-started-with-predictive-audiences}
 
 Predictive Audiences (PA) nutzt KI und maschinelles Lernen, um Zielgruppen effektiver anzusprechen und proaktive Schritte zum Erreichen Ihrer Marketing-Ziele zu unternehmen.
 

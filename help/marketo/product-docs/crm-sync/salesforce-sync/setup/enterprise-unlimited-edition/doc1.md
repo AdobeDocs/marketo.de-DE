@@ -2,15 +2,22 @@
 description: Erfahren Sie, wie Sie Marketo-Felder zu Salesforce Enterprise oder Unlimited Edition hinzufügen. Punktzahl, Anschaffungsprogramm und Anschaffungsdatum für Lead- und Kontaktobjekte erstellen.
 title: 'Schritt 1 von 3: Marketo-Felder zu Salesforce hinzufügen (Enterprise/Unlimited)'
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 1%
-
 ---
-
 # Schritt 1 von 3: Hinzufügen der Marketo-Felder zu Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -84,7 +91,7 @@ Führen Sie die folgenden Schritte für jedes der drei benutzerdefinierten Felde
    Deaktivieren Sie das Kontrollkästchen Schreibgeschützt für das Profil des Synchronisierungsbenutzers:
 
    Wenn Sie einen Benutzer mit dem Profil eines Systemadministrators als Synchronisierungsbenutzer haben, deaktivieren Sie das Kontrollkästchen Schreibgeschützt für das Systemadministratorprofil (wie unten dargestellt)
-Wenn Sie ein benutzerdefiniertes Profil für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das Kontrollkästchen Schreibgeschützt für dieses benutzerdefinierte Profil
+   Wenn Sie ein benutzerdefiniertes Profil für den Synchronisierungsbenutzer erstellt haben, deaktivieren Sie das Kontrollkästchen Schreibgeschützt für dieses benutzerdefinierte Profil
 
    SCREENSHOT
 

@@ -3,16 +3,18 @@ description: Erfahren Sie mehr über Massen-E-Mail-Optionen in Sales Insight-Akt
 title: Optionen für Massen-E-Mails
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4
+TQID: 'https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 5%
-
 ---
-
 # Optionen für Massen-E-Mails {#bulk-emailing-options}
 
 Der Massenversand von E-Mails ist eine hervorragende Möglichkeit, die Interaktion mit potenziellen Kunden zu beschleunigen. [!DNL Marketo Sales] bietet zwei Möglichkeiten zum Massenversand von E-Mails: **Gruppen-E-**) und **Auswählen und**). Gruppen-E-Mails eignen sich hervorragend, um Hunderte von E-Mails schnell an eine Zielgruppe zu senden. Die Verwendung von Auswählen und Senden bedeutet, dass die E-Mail-Beschränkungen verringert werden, bietet aber mehr Anpassungsmöglichkeiten für den Benutzer.

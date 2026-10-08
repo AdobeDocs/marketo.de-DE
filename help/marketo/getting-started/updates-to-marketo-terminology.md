@@ -2,18 +2,19 @@
 unique-page-id: 11387674
 description: Aktualisierungen der Terminologie von Marketo – Marketo-Dokumente – Produktdokumentation
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 title: Aktualisierungen der Terminologie von Marketo
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 100%
-
 ---
-
 # Aktualisierungen der Terminologie von Marketo {#updates-to-marketo-terminology}
 
-Wir nehmen einige Änderungen an unserer Plattform vor, die sich auf die Bezeichnungen mancher Elemente auswirken werden. Wenn Sie seit März 2016 eine neue Marketo-Instanz haben oder Ihr Unternehmen sie nach Juli 2016 erneuert hat, wird Ihnen möglicherweise jetzt die neue Terminologie angezeigt.
+Wir nehmen einige Änderungen an unserer Plattform vor, die sich auf die Bezeichnungen mancher Elemente auswirken werden. Wenn Sie ab März 2016 eine neue Marketo-Instanz erstellt haben oder wenn Ihre Firma ihre Marketo-Instanz nach Juli 2016 erneuert hat, wird Ihnen möglicherweise jetzt die neue Terminologie angezeigt.
 
 Auch wenn in der Marketo-Dokumentation möglicherweise eine andere Terminologie verwendet wird, seien Sie versichert, dass alle Artikel in Kürze aktualisiert werden, um diese Änderungen widerzuspiegeln. Alle Anweisungen bleiben gleich.
 
@@ -112,7 +113,7 @@ Bei Feldern, die den Begriff „Lead“ enthielten, wurde dieser entweder durch 
 >
 >Eine vollständige Liste der betroffenen Feldnamen finden Sie in diesem [Support-Artikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## Real-Time Personalization (RTP) ist jetzt Web-Personalisierung {#real-time-personalization-rtp-is-now-web-personalization}
+## Echtzeit-Personalisierung (RTP) heißt jetzt Web-Personalisierung {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table>
  <colgroup>
@@ -139,14 +140,14 @@ Bei Feldern, die den Begriff „Lead“ enthielten, wurde dieser entweder durch 
 
 Zusätzlich zur Namensänderung besteht sie jetzt aus vier separaten Apps:
 
-| **[Web-Personalisierung](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
+| **[Web-Personalisierung](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Hat eine eigene Kachel auf der Startseite |
 |---|---|
 | **[Kontenbasiertes Web Marketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Zugänglich über die Kachel „Web-Personalisierung“ |
 | **[Personalisiertes Retargeting](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Zugänglich über die Kachel „Web-Personalisierung“ |
-| **[Prädiktive Inhalte](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Hat eine eigene Kachel auf dem Startbildschirm |
+| **[Prädiktive Inhalte](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Hat eine eigene Kachel auf der Startseite |
 
 >[!NOTE]
 >
->Die auf Ihrem Startbildschirm angezeigten Kacheln spiegeln die erworbenen Module wider.
+>Die auf Ihrer Startseite angezeigten Kacheln spiegeln die erworbenen Module wider.
 
 Vielen Dank für Ihre Geduld während dieses Updates.

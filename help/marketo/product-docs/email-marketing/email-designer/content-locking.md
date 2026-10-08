@@ -1,56 +1,65 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Sperren von Inhalt in E-Mail-Vorlagen
+title: Sperren von Content in E-Mail-Vorlagen
 description: Erfahren Sie, wie Sie Inhalte in E-Mail-Vorlagen sperren, damit andere sie nicht bearbeiten können. Schützen Sie Abschnitte in E-Mail-Designer, um Konsistenz zu gewährleisten.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-TQID: https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo
+TQID: 'https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Governance
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 909
+source-wordcount: '909'
 ht-degree: 76%
-
 ---
-
-# Sperren von Inhalt in E-Mail-Vorlagen {#lock-content-email-templates}
+# Sperren von Content in E-Mail-Vorlagen {#lock-content-email-templates}
 
 Mit Marketo Engage können Sie Inhalte in E-Mail-Vorlagen sperren, indem Sie entweder die gesamte Vorlage oder bestimmte Strukturen/Komponenten sperren. Auf diese Weise können Sie unbeabsichtigte Bearbeitungen oder Löschungen verhindern, sodass Sie das Anpassen von Vorlagen besser steuern und die Effizienz sowie Zuverlässigkeit Ihrer E-Mail-Kampagnen optimieren können.
 
 >[!AVAILABILITY]
 >
->Benutzende mit der Berechtigung zum Erstellen von Inhaltsvorlagen können die Inhaltssperre aktivieren.
+>Benutzerinnen und Benutzer mit der Berechtigung zum Erstellen von Content-Vorlagen können die Content-Sperre aktivieren.
 
 Inhaltssperren können entweder auf der Ebene **Struktur** oder auf der Ebene **Komponente** angewendet werden.
 
 * Wenn eine Struktur gesperrt ist:
 
-   * Alle Inhalte in dieser Struktur sind ebenfalls gesperrt.
-   * Der Struktur kann kein Inhalt hinzugefügt werden.
-   * Standardmäßig können Sie die Struktur nicht löschen. Sie können diese Einschränkung überschreiben, indem Sie die Option „Löschen zulassen“ aktivieren.
-   * Einzelne Inhaltskomponenten innerhalb der gesperrten Struktur können als bearbeitbar festgelegt werden.
+  * Alle Inhalte in dieser Struktur sind ebenfalls gesperrt.
+  * Der Struktur kann kein Inhalt hinzugefügt werden.
+  * Standardmäßig können Sie die Struktur nicht löschen. Sie können diese Einschränkung überschreiben, indem Sie die Option „Löschen zulassen“ aktivieren.
+  * Einzelne Inhaltskomponenten innerhalb der gesperrten Struktur können als bearbeitbar festgelegt werden.
 
 * Wenn eine Struktur bearbeitbar ist (Struktur nicht gesperrt):
 
-   * Einzelne Inhaltskomponenten können innerhalb dieser Struktur gesperrt werden.
-   * Eine Komponente kann standardmäßig nicht gelöscht werden, wenn sie gesperrt ist oder die Option „Nur Sperre für bearbeitbare Inhalte“ ausgewählt ist. Sie können diese Einschränkung überschreiben, indem Sie die Option „Löschen zulassen“ aktivieren.
+  * Einzelne Inhaltskomponenten können innerhalb dieser Struktur gesperrt werden.
+  * Eine Komponente kann standardmäßig nicht gelöscht werden, wenn sie gesperrt ist oder die Option „Nur Sperre für bearbeitbare Inhalte“ ausgewählt ist. Sie können diese Einschränkung überschreiben, indem Sie die Option „Löschen zulassen“ aktivieren.
 
 ## Sperren einer E-Mail-Vorlage {#lock-an-email-template}
 
 ### Aktivieren der Inhaltssperre {#enable-content-locking}
 
-Sie können die Inhaltssperre für eine E-Mail-Vorlage direkt im E-Mail-Designer aktivieren, unabhängig davon, ob Sie eine neue Vorlage erstellen oder eine vorhandene bearbeiten.
+Sie können die Content-Sperre für eine E-Mail-Vorlage direkt im E-Mail-Designer aktivieren, unabhängig davon, ob Sie eine neue Vorlage erstellen oder eine vorhandene bearbeiten.
 
 1. Öffnen oder erstellen Sie eine E-Mail-Vorlage und rufen Sie im E-Mail-Designer den Bildschirm zur Inhaltsbearbeitung auf.
 
@@ -58,7 +67,7 @@ Sie können die Inhaltssperre für eine E-Mail-Vorlage direkt im E-Mail-Designer
 
 1. Wählen Sie in der Dropdown-Liste **[!UICONTROL Modus]** den gewünschten Sperrmodus für die Vorlage aus:
 
-   * **[!UICONTROL Inhaltssperre]**: Sperrt bestimmte Abschnitte des Inhalts in der Vorlage. Standardmäßig können alle Strukturen und Komponenten bearbeitbar werden. Sie können dann einzelne Elemente selektiv sperren.
+   * **[!UICONTROL Inhaltssperre]**: Sperrt bestimmte Abschnitte des Inhalts in der Vorlage. Standardmäßig sind alle Strukturen und Komponenten bearbeitbar. Sie können dann einzelne Elemente selektiv sperren.
    * **[!UICONTROL Schreibgeschützt]**: Sperrt den gesamten Inhalt der Vorlage, um Änderungen zu vermeiden.
 
    ![](assets/content-locking-1.png){width="800" zoomable="yes"}
@@ -94,7 +103,7 @@ So sperren Sie eine Struktur in Ihrer Vorlage:
    >
    >Standardmäßig können Benutzende gesperrte Strukturen nicht löschen. Sie können diese Einschränkung überschreiben, indem Sie die Option **[!UICONTROL Löschen zulassen]** aktivieren.
 
-Nach dem Sperren einer Struktur können keine weiteren Inhaltskomponenten oder -fragmente dupliziert oder darin hinzugefügt werden. Alle Komponenten innerhalb einer gesperrten Struktur sind ebenfalls standardmäßig gesperrt. So legen Sie eine Komponente in einer gesperrten Struktur als bearbeitbar fest:
+Nach dem Sperren einer Struktur können keine weiteren Content-Komponenten oder -Fragmente darin dupliziert oder hinzugefügt werden. Alle Komponenten innerhalb einer gesperrten Struktur sind ebenfalls standardmäßig gesperrt. So legen Sie eine Komponente in einer gesperrten Struktur als bearbeitbar fest:
 
 1. Wählen Sie die Komponente aus, die entsperrt werden soll.
 

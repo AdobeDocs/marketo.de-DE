@@ -3,18 +3,21 @@ description: Verstehen Sie Anrufergebnisse in Sales Connect. Protokollieren Sie 
 title: Aufrufergebnisse
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/16T8TecqodLvoaD8Epnt2hgMcIbixKgG8jfgE0veggo
+TQID: 'https://experienceleague.adobe.com/16T8TecqodLvoaD8Epnt2hgMcIbixKgG8jfgE0veggo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Customer engagement
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 193
+source-wordcount: '193'
 ht-degree: 2%
-
 ---
-
 # Aufrufergebnisse {#call-outcomes}
 
 Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, damit Ihr Team die Auswirkungen Ihrer Kundeninteraktionsbemühungen verstehen kann.
@@ -29,7 +32,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, dam
 
    ![](assets/call-outcomes-1.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-outcomes-2.png)
 
@@ -51,7 +54,7 @@ Erlauben Sie Ihren Vertriebsteams, bei Anrufen Anrufergebnisse auszuwählen, dam
 
    ![](assets/call-outcomes-5.png)
 
-1. Wählen [!UICONTROL &#x200B; unter „Admin] die Option **[!UICONTROL Dialer]** aus.
+1. Wählen [!UICONTROL  unter „Admin] die Option **[!UICONTROL Dialer]** aus.
 
    ![](assets/call-outcomes-6.png)
 
