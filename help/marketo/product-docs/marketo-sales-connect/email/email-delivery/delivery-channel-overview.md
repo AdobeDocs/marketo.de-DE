@@ -4,16 +4,18 @@ description: Versandkanäle in Sales Connect verstehen. Erfahren Sie, wie E-Mail
 title: Versandkanal – Überblick
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA
+TQID: 'https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 570
+source-wordcount: '571'
 ht-degree: 1%
-
 ---
-
 # Versandkanal – Überblick {#delivery-channel-overview}
 
 Marketo [!DNL Sales Connect] bietet mehrere Optionen zum Versand von E-Mails. In diesem Artikel werden die verfügbaren Versandkanäle sowie deren Auswahl und der Zeitpunkt der Auswahl erläutert.
@@ -52,7 +54,7 @@ MSC-Server unterstützen keine DKIM- und SPF-Authentifizierungsmethoden, was die
 
 ## Marketo-Server {#marketo-servers}
 
-Marketo E-Mail-Server lassen sich nicht mit [!DNL Sales Connect] integrieren. Marketo-Server sind für die Massenbereitstellung optimiert, damit sie an die Anforderungen von Marketing-Experten angepasst werden können. Gmail und [!DNL Exchange] weisen jedoch eine höhere Erfolgsrate für die 1:1-Verkaufskommunikation auf. Aus diesem Grund empfehlen wir, diese Server für Ihre Verkaufskommunikation zu verwenden.
+Marketo E-Mail-Server lassen sich nicht mit [!DNL Sales Connect] integrieren. Marketo-Server sind für die Massenbereitstellung optimiert, damit sie an die Anforderungen von Marketing-Experten angepasst werden können. Gmail und [!DNL Exchange] haben jedoch eine höhere Erfolgsrate für die 1:1-Verkaufskommunikation, weshalb wir empfehlen, diese Server für Ihre Verkaufskommunikation zu verwenden.
 
 >[!MORELIKETHIS]
 >

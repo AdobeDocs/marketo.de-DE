@@ -7,13 +7,22 @@ role: User
 level: Beginner, Intermediate
 badge: Beta
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 35%
-
+ht-degree: 37%
 ---
-
 # Marken erstellen und verwalten {#create-and-manage-brands}
 
 Markenrichtlinien sind ein detaillierter Satz an Regeln und Standards, die die visuelle und sprachliche Identität einer Marke festlegen. Sie dienen als Referenz, um eine konsistente Markendarstellung über alle Marketing- und Kommunikationsplattformen hinweg aufrechtzuerhalten.
@@ -74,7 +83,7 @@ Um Ihre Markenrichtlinien zu erstellen und zu verwalten, können Sie die Details
 
    ![](assets/create-and-manage-brands-9.png){width="800" zoomable="yes"}
 
-1. Klicken Sie **Filtern**, um Richtlinien nach Kanal oder Elementtyp zu filtern.
+1. Klicken Sie auf **Filtern**, um Richtlinien nach Kanal oder Elementtyp zu filtern.
 
    ![](assets/create-and-manage-brands-10.png)
 

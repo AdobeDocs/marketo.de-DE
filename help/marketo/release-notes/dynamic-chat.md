@@ -3,27 +3,44 @@ description: Dynamic Chat-Versionshinweise – Marketo-Dokumente – Produktdoku
 title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-TQID: https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA
+TQID: 'https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 3551
+source-wordcount: '3551'
 ht-degree: 94%
-
 ---
-
 # Dynamic Chat-Versionshinweise {#dynamic-chat-release}
 
 Die Versionen von Adobe Dynamic Chat basieren auf einem Modell der kontinuierlichen Bereitstellung, das einen besser skalierbaren Ansatz für die Bereitstellung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat, schauen Sie daher regelmäßig nach den aktuellsten Informationen.
@@ -32,7 +49,7 @@ Die Standardseite mit den Versionshinweisen für Marketo Engage [finden Sie hier
 
 ## Version März 2026 {#march-2026-release}
 
-### Wartezeit des Besuchers {#visitor-wait-time}
+### Wartezeit-Limit für Besuchende {#visitor-wait-time}
 
 Legen Sie eine maximale Zeit (zwischen 10 und 500 Sekunden) fest, die ein Besucher wartet, bis er mit einem Live Agent verbunden ist, bevor der Besucher eine Ausweichnachricht erhält. [Weitere Informationen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
@@ -46,35 +63,35 @@ Sie können jetzt eine TXT-Datei Ihres Chat-Transkripts herunterladen, nachdem e
 
 ### Überarbeitung der Routing-Logik {#routing-logic-revamp}
 
-Die Routing-Logik des Live-Chats in Dynamic Chat wurde überarbeitet, um über alle Routing-Typen hinweg (Konto, benutzerdefiniert, Team und Round Robin) für ein intelligenteres und besser vorhersehbares Interaktionsverhalten zu sorgen. Die neue Logik vereinfacht Routing-Abläufe und verbessert Ausweichmöglichkeiten, wenn keine Agentinnen oder Agenten verfügbar sind.
+Die Routing-Logik des Live-Chats in Dynamic Chat wurde überarbeitet, um über alle Routing-Typen hinweg (Konto, benutzerdefiniert, Team und Round Robin) für ein intelligenteres und besser vorhersehbares Interaktionsverhalten zu sorgen. Die neue Logik vereinfacht Routing-Abläufe und verbessert die Handhabung von Fallbacks, wenn keine Agents verfügbar sind.
 
 #### Wichtige Verbesserungen im Routing-Verhalten
 
 * **Bis zu zwei Interaktionsversuche pro Sitzung**
 
-   * Das System versucht, eine Verbindung mit bis zu zwei Agentinnen oder Agenten herzustellen (maximal), jedoch ausschließlich innerhalb der primären Routing-Regel.
+  * Das System versucht, eine Verbindung mit bis zu zwei Agentinnen oder Agenten herzustellen (maximal), jedoch ausschließlich innerhalb der primären Routing-Regel.
 
-   * Wenn eine Agentin oder ein Agent verfügbar ist, aber nicht reagiert (z. B. den Chat ablehnt oder verpasst), versucht das System, eine Verbindung zu einer anderen Agentin oder einem anderen Agenten aus demselben Pool herzustellen.
+  * Wenn eine Agentin oder ein Agent verfügbar ist, aber nicht reagiert (z. B. den Chat ablehnt oder verpasst), versucht das System, eine Verbindung zu einer anderen Agentin oder einem anderen Agenten aus demselben Pool herzustellen.
 
-   * Die Ausweichlogik (wie etwa Round Robin) wird nur aktiviert, wenn bei der ersten Auflösung keine geeigneten Agentinnen oder Agenten gefunden werden, jedoch nicht für ein erneutes Versuchen nach einer fehlgeschlagenen Interaktion.
+  * Die Ausweichlogik (wie etwa Round Robin) wird nur aktiviert, wenn bei der ersten Auflösung keine geeigneten Agentinnen oder Agenten gefunden werden, jedoch nicht für ein erneutes Versuchen nach einer fehlgeschlagenen Interaktion.
 
 * **Spezifisches Verhalten für eine Routing-Regel**
 
 ##### – Konto-Routing –
 
-Wenn die E-Mail-Domain einer Besucherin oder eines Besuchers einem bekannten Konto zugeordnet ist, wird die als Agentin bzw. Agent zugeordnete Person immer priorisiert.
+Wenn die E-Mail-Domain einer Besucherin oder eines Besuchers einem bekannten Konto zugeordnet ist, hat der zugeordnete Agent immer Priorität.
 
-Wenn diese Person verfügbar ist, wird der Chat direkt an sie weitergeleitet.
+Wenn der Agent verfügbar ist, wird der Chat direkt an ihn weitergeleitet.
 
-Wenn sie nicht verfügbar ist, tut das System Folgendes:
+Wenn der Agent nicht verfügbar ist, führt das System Folgendes aus:
 
-* Es versucht nicht, eine andere Person als Agentin bzw. Agenten zu erreichen, auch wenn Round Robin als Ausweichlösung aktiviert ist.
+* Das System versucht nicht, einen anderen Agent zu erreichen, auch wenn Round Robin als Fallback aktiviert ist.
 
 * Stattdessen gilt Folgendes:
 
-   * Zeigt den Besprechungskalender des zugeordneten Agenten an (falls aktiviert),
-&#x200B;- oder -
-   * Kehrt zu einer Standardmeldung zurück (im schlimmsten Fall).
+  * Zeigt den Besprechungskalender des zugeordneten Agenten an (falls aktiviert),
+    - oder -
+  * Kehrt zu einer Standardmeldung zurück (im schlimmsten Fall).
 
 Die Routing-Regel auf Kartenebene (z. B. Team, benutzerdefiniert) wird nur berücksichtigt, wenn das Konto-Routing nicht zulässig ist (keine übereinstimmende Domain oder Agentin bzw. Agent).
 
@@ -84,23 +101,23 @@ Diese Regeln können mehrere geeignete Agentinnen oder Agenten zurückgeben.
 
 Wenn die erste als Agentin bzw. Agent verfügbare Person nicht interagiert, versucht das System eine weitere Person aus derselben Liste.
 
-Nur weil eine Person nicht reagiert, wird nicht gleich ein Round-Robin-Fallback ausgelöst.
+Der Round-Robin-Fallback wird nicht ausgelöst, nur weil ein Agent nicht reagiert.
 
 Wenn sich keine Agentin bzw. kein Agent meldet, passiert Folgendes:
 
 * Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
-&#x200B;- oder -
-* Es zeigt die standardmäßige Fallback-Nachricht an.
+- oder -
+* Zeigt die standardmäßige Fallback-Nachricht an.
 
 ##### – Round-Robin-Routing –
 
 Bei Verwendung als primäre Routing-Regel führt das System Folgendes durch:
 
-* Es versucht, die erste als Agentin bzw. Agent verfügbare Person aus dem Round-Robin-Pool zu kontaktieren.
+* Versucht, den ersten verfügbaren Agent aus dem Round-Robin-Pool zu kontaktieren.
 
 * Wenn die erste Person nicht antwortet, erfolgt ein erneuter Versuch mit der am nächstbesten geeigneten Person.
 
-Wenn Round Robin als Fallback verwendet wird, wird es nur aktiviert, wenn von der primären Regel keine Agentinnen oder Agenten aufgelöst werden.
+Wenn Round Robin als Fallback verwendet wird, wird es nur aktiviert, wenn von der primären Regel keine Agentinnen oder Agenten ermittelt werden.
 
 ##### Besuchererlebnisfluss
 
@@ -108,19 +125,19 @@ Das System prüft, ob Konto-Routing anwendbar ist.
 
 * Falls ja und wenn eine Agentin oder ein Agent verfügbar ist, wird sofort eine Verbindung hergestellt.
 
-* Wenn die Person nicht geeignet oder nicht verfügbar ist, wird mit der Routing-Regel auf Kartenebene fortgefahren.
+* Wenn der Agent nicht geeignet oder nicht verfügbar ist, wird mit der Routing-Regel auf Kartenebene fortgefahren.
 
 Die Routing-Regel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wird ausgewertet.
 
 * Geeignete Agentinnen und Agenten werden auf Verfügbarkeit geprüft (Berechtigungen, Status).
 
-* Das System greift auf eine Agentin bzw. einen Agenten zu und versucht bei Bedarf eine zweite Person gemäß derselben Regel.
+* Das System greift auf einen Agent zu und versucht bei Bedarf einen zweiten Agent gemäß derselben Regel.
 
 * Wenn keine Interaktion erfolgreich ist, wird eine Ausweichlogik angewendet:
 
-   * Kalender-Fallback (falls aktiviert),
-&#x200B;- oder -
-   * Standardnachricht.
+  * Kalender-Fallback (falls aktiviert),
+    - oder -
+  * Standardnachricht.
 
 Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine geeigneten Agentinnen oder Agenten gemäß der primären Routing-Regel gefunden werden, aber nicht, wenn einzelne Agentinnen bzw. Agenten nicht reagieren.
 
@@ -150,7 +167,7 @@ _&#x200B;**Konto-Routing**&#x200B;_
   <tr>
     <td>Keine Fallback-Agentin bzw. kein Fallback-Agent</td>
     <td>Die als Agentin bzw. Agent zugeordnete Person ist nicht verfügbar, kein Round-Robin-Fallback; Meeting-Buchung ist aktiviert.</td>
-    <td>Das System zeigt den Kalender der als Agentin bzw. Agent zugeordneten Person an oder eine standardmäßige Fallback-Nachricht an.</td>
+    <td>Das System zeigt den Kalender der als Agent zugeordneten Person oder eine standardmäßige Fallback-Nachricht an.</td>
   </tr>
 </tbody></table>
 
@@ -170,8 +187,8 @@ _&#x200B;**Benutzerdefiniertes Routing**&#x200B;_
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
-    <td>Benutzerdefinierte Regel löst keine Agentinnen und Agenten auf, Round-Robin-Fallback ist aktiviert.</td>
-    <td>Das System wählt eine als Agentin bzw. Agent verfügbare Person über Round Robin aus und bindet sie ein.</td>
+    <td>Benutzerdefinierte Regel löst keine Agents auf, Round-Robin-Fallback ist aktiviert.</td>
+    <td>Das System wählt einen verfügbaren Agent per Round Robin aus und bindet ihn ein.</td>
   </tr>
   <tr>
     <td>Keine Fallback-Agentin bzw. kein Fallback-Agent</td>
@@ -196,8 +213,8 @@ _&#x200B;**Team-Routing**&#x200B;_
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
-    <td>Es ist keine Team-Agentin bzw. kein Team-Agent verfügbar und Round-Robin-Fallback ist aktiviert.</td>
-    <td>Das System wählt eine Person aus dem Round-Robin-Pool als Agentin bzw. Agenten aus und stellt eine Verbindung mit ihr her.</td>
+    <td>Es ist kein Team-Agent verfügbar und Round-Robin-Fallback ist aktiviert.</td>
+    <td>Das System wählt einen Agent aus dem Round-Robin-Pool aus und stellt eine Verbindung mit ihm her.</td>
   </tr>
   <tr>
     <td>Keine Fallback-Agentin bzw. kein Fallback-Agent</td>
@@ -218,7 +235,7 @@ _&#x200B;**Round-Robin-Routing**&#x200B;_
   <tr>
     <td>Ideal</td>
     <td>Der Round-Robin-Pool weist mehrere Agentinnen und Agenten auf; die zweite Person nimmt den Chat an, nachdem die erste abgelehnt hat.</td>
-    <td>Chat stellt eine Verbindung zur zweiten Person her.</td>
+    <td>Der Chat stellt eine Verbindung zum zweiten Agent her.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
@@ -256,9 +273,9 @@ Mit dieser Version kann die Live-Agentin bzw. der Live-Agent eine E-Mail-, Slack
 
 Jetzt haben Sie die Möglichkeit, jedes Mal, wenn der Chatbot in einer Sitzung ausgelöst wird, einen Ton für die Besucherin bzw. den Besucher zu aktivieren. Es stehen verschiedene Sounds zur Auswahl.
 
-### Aktivieren von Erinnerungsnachrichten auf einem Mobilgerät {#enable-poke-messages-on-mobile}
+### Aktivieren von Erinnerungsnachrichten auf Mobilgeräten {#enable-poke-messages-on-mobile}
 
-Eine Erinnerungsnachricht („Poke“), die die Eröffnungsfrage neben dem Chat-Symbol anzeigt, ohne dass die Besucherin bzw. der Besucher darauf klicken muss, um den Chat zu sehen, kann jetzt für Personen, die ein Mobilgerät verwenden, aktiviert werden.
+„Poke“, wobei die Eröffnungsfrage neben dem Chat-Symbol angezeigt wird, ohne dass die besuchende Person darauf klicken muss, um sie zu sehen, kann jetzt für Besuchende auf Mobilgeräten aktiviert werden.
 
 ### Aktualisierung des Standard-Fallbacks {#default-fallback-update}
 
@@ -290,11 +307,11 @@ Das Analyse-Dashboard wurde u. a. in folgenden Punkten verbessert:
 
 ### Konversationsbewertung {#conversation-scoring}
 
-Quantifizieren Sie Ihre Leads basierend auf der Qualität ihrer Chat-Interaktion und verwenden Sie diese Metrik als Trigger/Filter in intelligenten Kampagnen mit Marketo Engage. Verwenden Sie das neue Attribut _Konversationsbewertung_ für die folgenden Aktivitäten:
+Quantifizieren Sie Ihre Leads basierend auf der Qualität ihrer Chat-Interaktion und verwenden Sie diese Metrik als Trigger/Filter in intelligenten Kampagnen in Marketo Engage. Verwenden Sie das neue Attribut _Konversationsbewertung_ für die folgenden Aktivitäten:
 
 * Hat einen Dialog geführt
 * Hatte eine Interaktion mit einem Konversationsfluss
-* Involviert mit einer Agentin oder einem Agenten
+* Hat mit einem Agent interagiert
 
 **Zu beachten:**
 
@@ -304,9 +321,9 @@ Quantifizieren Sie Ihre Leads basierend auf der Qualität ihrer Chat-Interaktion
 
 * So wird eine Bewertung festgelegt:
 
-   * Im Posteingang der Agentin bzw. des Agenten – Während eines Live-Chats kann die Agentin bzw. der Agent einen Wert für die Konversation aktualisieren oder festlegen, der in der Konversationsaktivität gespeichert wird.
+  * Im Posteingang der Agentin bzw. des Agenten – Während eines Live-Chats kann die Agentin bzw. der Agent einen Wert für die Konversation aktualisieren oder festlegen, der in der Konversationsaktivität gespeichert wird.
 
-   * Im Stream-Designer – Auf der Zielkarte kann die Benutzerin bzw. der Benutzer einen Wert für die Konversation aktualisieren oder festlegen.
+  * Im Stream-Designer – Auf der Zielkarte kann die Benutzerin bzw. der Benutzer einen Wert für die Konversation aktualisieren oder festlegen.
 
 ![](assets/dynamic-chat-sep-oct-2024-release-2.png)
 
@@ -332,7 +349,7 @@ Wenn also eine Besucherin bzw. ein Besucher mit dem Cookie „abc“ auf einer S
     <td>Anonym</td>
     <td>abc</td>
     <td>Existiert nicht in der Datenbank</td>
-    <td>Erstellen einer neuen Person</td>
+    <td>Neue Person erstellen</td>
   </tr>
   <tr>
     <td>Anonym</td>
@@ -349,20 +366,20 @@ Wenn also eine Besucherin bzw. ein Besucher mit dem Cookie „abc“ auf einer S
   <tr>
     <td>Bekannte Person</td>
     <td>abc</td>
-    <td>Gleich wie vorhandene Person</td>
+    <td>Entspricht einer vorhandenen Person</td>
     <td>Aktualisieren der Person</td>
   </tr>
   <tr>
     <td>Bekannte Person</td>
     <td>abc</td>
     <td>Jemand anderes als die vorhandene Person</td>
-    <td>Wenn bereits eine bekannte Person vorhanden ist, wird das Cookie übertragen und dieses Profil aufgelöst. Wenn keine Person mit dieser E-Mail-Adresse existiert, wird ein neuer Personendatensatz erstellt und das Cookie übertragen.</td>
+    <td>Wenn bereits eine bekannte Person vorhanden ist, wird das Cookie übertragen und dieses Profil aufgelöst. Wenn keine Person mit dieser E-Mail-Adresse existiert, wird ein neuer Personeneintrag erstellt und das Cookie übertragen.</td>
   </tr>
   <tr>
     <td>Bekannte Person</td>
     <td>xyz</td>
     <td>Gleich wie vorhandene Person</td>
-    <td>Hinzufügen eines neuen Cookies zu derselben Person</td>
+    <td>Fügen Sie derselben Person ein neues Cookie hinzu</td>
   </tr>
   <tr>
     <td>Bekannte Person</td>
@@ -380,13 +397,13 @@ Sie können jetzt den Chatbot aktivieren, um die Schriftart direkt von der Web-S
 
 ### Demandbase-Integration mit Dynamic Chat {#demandbase-integration-with-dynamic-chat}
 
-Demandbase-Benutzende können ihre eigene Lizenz von Demandbase mitbringen und die Integration aktivieren. Verwenden Sie Demandbase-Personenattribute für Dialog-Targeting, bedingtes Branding und benutzerdefiniertes Routing.
+Demandbase-Benutzende können ihre eigene Lizenz von Demandbase mitbringen und die Integration aktivieren. Verwenden Sie Demandbase-Personenattribute für Dialog-Targeting, Branding auf Basis von Bedingungen und benutzerdefiniertes Routing.
 
 Die Auflösung dieser Attributwerte gegenüber einer Person erfolgt in Echtzeit und wird im jeweiligen Personenprofil gespeichert.
 
 ### Optimierte Ladezeit des Konversationsflusses {#optimized-conversation-flow-load-time}
 
-Um das Kundenerlebnis zu verbessern, wird jetzt beim Laden des Konversationsflusses ein schimmernder Ladeanzeiger anstelle einer leeren Fläche angezeigt.
+Um das Anwendererlebnis zu verbessern, wird jetzt beim Laden des Konversationsflusses ein Shimmer-Loader anstelle einer leeren Fläche angezeigt.
 
 **Vorher**
 
@@ -400,13 +417,13 @@ Um das Kundenerlebnis zu verbessern, wird jetzt beim Laden des Konversationsflus
 
 **Veröffentlichungsdatum: Samstag, 23. August 2024**
 
-### Benutzerdefiniertes Formatieren Ihrer Konversationsnachrichten {#custom-format-conversation-messages}
+### Benutzerdefinierte Formatierung von Konversationsnachrichten {#custom-format-conversation-messages}
 
 Stream-Designer unterstützen jetzt das [Einfügen von HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}, um das Look-and-Feel Ihrer Konversationen anzupassen.
 
 ![](assets/dynamic-chat-aug-2024-release-1.png)
 
-### Chatbot nach unten scrollen {#chatbot-scroll-to-bottom}
+### Chatbot-Scrollen bis zur letzten Nachricht {#chatbot-scroll-to-bottom}
 
 Im Chatbot wurde ein Symbol hinzugefügt, über das Web-Besucherinnen und -Besucher direkt zur letzten Nachricht springen können. So können Besucherinnen und Besucher den Text durchscrollen, um schnell zur Konversation zurückzukehren.
 
@@ -448,7 +465,7 @@ Die meisten Konversationen auf einer Website werden mit anonymen Besucherinnen u
 
 ### Sound zur Browser-Benachrichtigung für Agentinnen und Agenten hinzugefügt {#sound-added-to-agent-browser-notification}
 
-Wenn ein Live-Chat einer Agentin oder einem Agenten zugewiesen wird, erhält diese Person eine Browser-Benachrichtigung. Aber gelegentlich sieht sie diese nicht. Darum haben wir einen [Benachrichtigungs-Sound](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} hinzugefügt, um ein Verpassen von Benachrichtigungen in Zukunft zu verhindern.
+Wenn ein Live-Chat einem Agent zugewiesen wird, erhält dieser eine Browser-Benachrichtigung. Aber gelegentlich werden diese nicht wahrgenommen. Darum haben wir einen [Benachrichtigungs-Sound](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} hinzugefügt, um ein Verpassen von Benachrichtigungen in Zukunft zu verhindern.
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
@@ -464,9 +481,9 @@ Bei einem Live-Chat möchten Agentinnen und Agenten Informationen über die Besu
 
 ### Karte „Konversationsfluss“ {#conversational-flow-card}
 
-Vereinfachen Sie in Ihren Dialogfeldern mehrere Schritte in einem Fluss, indem Sie die Karte „Konversationsfluss“ verwenden.
+Vereinfachen Sie mehrere Schritte in einem Ablauf innerhalb Ihrer Dialoge, indem Sie die Karte „Konversationsfluss“ verwenden.
 
-Beispiel: Wenn Ihr Ziel darin besteht, Registrierungen für Ihr Webinar über verschiedene Dialogfelder voranzubringen, müssten Sie denselben Fluss über alle Dialogfelder hinweg neu erstellen, die dieses Ziel haben. Und wenn Sie Details aktualisieren wollen, müssten Sie jedes einzelne Dialogfeld einzeln bearbeiten. Das ist dank der Karte „Konversationsfluss“ jetzt nicht mehr nötig.
+Beispiel: Wenn Ihr Ziel darin besteht, Registrierungen für Ihr Webinar über mehrere Dialoge voranzubringen, müssten Sie denselben Ablauf in allen Dialogen neu erstellen, die dieses Ziel haben. Und wenn Sie Details aktualisieren wollen, müssten Sie jedes einzelne Dialogfeld einzeln bearbeiten. Das ist dank der Karte „Konversationsfluss“ jetzt nicht mehr nötig.
 
 Zusätzlich zur Neuverwendung von Flüssen über mehrere Dialogfelder hinweg können Sie denselben Übergangsfluss auch für Trigger über andere Kanäle (wie Formulare und Landingpages) verwenden.
 
@@ -528,7 +545,7 @@ _&#42;Zuvor als Testfunktion mit lebenslang 100 Interaktionen verfügbar. Intera
 
 ### Rückruffunktionen {#callback-functions}
 
-[Rückruffunktionen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} ermöglichen es Ihnen, Dynamic Chat-Analyseereignisse in externen Systemen wie Adobe Analytics oder Google Analytics zu erfassen, wenn Besuchende mit Dynamic Chat-Konversationen interagieren. Sie aktivieren Dynamic Chat-Analyseereignisse, indem Sie einen Rückruf bei der API registrieren, damit auf die Ereignisse gewartet wird. So erhalten Sie einen ganzheitlicheren Überblick über Ihre Dynamic Chat-Interaktion, was andere wichtige Daten wie Web-Traffic angeht.
+[Rückruffunktionen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} ermöglichen es Ihnen, Dynamic Chat-Analyseereignisse in externen Systemen wie Adobe Analytics oder Google Analytics zu erfassen, wenn Besuchende mit Dynamic Chat-Konversationen interagieren. Sie aktivieren Dynamic Chat-Analyseereignisse, indem Sie einen Rückruf bei der API registrieren, um auf die Ereignisse zu reagieren. So erhalten Sie einen ganzheitlicheren Überblick über Ihre Dynamic Chat-Interaktion in Bezug auf andere wichtige Daten wie Webtraffic.
 
 ### Verfügbarkeitsbedingungen von Live-Agentinnen und -Agenten zu bedingter Verzweigung hinzugefügt {#live-agent-availability-conditional-branching}
 
@@ -552,7 +569,7 @@ Im Jahr 2023 haben wir Live-Chat-Funktionen für Dialoge veröffentlicht. Jetzt 
 
 ### Kürzliche Marketo Engage-Aktivitäten im Agenten-Posteingang {#recent-marketo-engage-activities-in-agent-inbox}
 
-Wir haben dem Abschnitt „Letzte Aktivitäten“ des Agenten-Posteingangs kürzlich Marketo Engage-Aktivitäten hinzugefügt. Wenn also eine Besucherin oder ein Besucher der Site einen Chat mit einer Agentin oder einem Agenten anfordert, können letztere schnell sehen, ob die Person kürzlich eine der folgenden Marketo Engage-Aktivitäten ausgeführt hat (letzte 25 Aktivitäten):
+Wir haben dem Abschnitt „Letzte Aktivitäten“ des Agent-Posteingangs kürzlich Marketo Engage-Aktivitäten hinzugefügt. Wenn eine Site-Besucherin oder ein Site-Besucher einen Chat mit einem Agent anfordert, kann der Agent schnell sehen, ob die Person kürzlich eine der folgenden Marketo Engage-Aktivitäten ausgeführt hat (letzte 25 Aktivitäten):
 
 * Hat E-Mail geöffnet
 * Hat Web-Seite besucht
@@ -563,27 +580,27 @@ Wir haben dem Abschnitt „Letzte Aktivitäten“ des Agenten-Posteingangs kürz
 
 ### Kalenderverbindungsstatus in der Agenten-Verwaltung {#calendar-connection-status-in-agent-management}
 
-Admins können jetzt leicht erkennen, welche Agentinnen und Agenten mit Berechtigungen zur Meeting-Buchung ihre Kalender in Dynamic Chat verknüpft haben. So können Sie sicherstellen, dass Ihr gesamtes Vertriebs-Team untereinander vernetzt ist und Meeting-Anfragen von Dynamic Chat akzeptiert.
+Admins können jetzt leicht erkennen, welche Agentinnen und Agenten mit Berechtigungen zur Meeting-Buchung ihre Kalender in Dynamic Chat verknüpft haben. So können Sie sicherstellen, dass Ihr gesamtes Vertriebs-Team verbunden ist und Meeting-Anfragen von Dynamic Chat akzeptiert werden.
 
 ![](assets/dynamic-chat-release-4.png)
 
 ### Einstellung „Mindestankündigung“ in der Konfiguration des Agentenkalenders {#minimum-notice-setting-in-agent-calendar-configuration}
 
-Benutzende berichteten, dass manche Web-Besucherinnen und -Besucher Meetings in ihrem Kalender mit nur 10 Minuten Vorankündigung buchten. Daher haben wir in der Konfiguration des Agentenkalenders eine Einstellung für eine Mindestankündigungszeit eingeführt und die standardmäßige Vorlaufzeit auf 24 Stunden festgelegt.
+Benutzende berichteten, dass manche Website-Besuchende Meetings in ihrem Kalender mit nur 10 Minuten Vorankündigung buchten. Daher haben wir in der Konfiguration des Agent-Kalenders eine Einstellung für eine Mindestankündigungszeit eingeführt und die standardmäßige Vorlaufzeit auf 24 Stunden festgelegt.
 
 ![](assets/dynamic-chat-release-5.png)
 
-### Hinzufügen/Entfernen von Benutzerverhalten aktualisiert {#add-remove-user-behavior-updated}
+### Verhalten beim Hinzufügen/Entfernen von Benutzenden aktualisiert {#add-remove-user-behavior-updated}
 
-Einige Benutzende gaben an, dass sie Probleme mit dem Hinzufügen und Entfernen von Agentinnen und Agenten im dynamischen Chat hatten. Daher haben wir einige Änderungen vorgenommen, um diese Probleme zu beheben.
+Einige Benutzende gaben an, dass sie Probleme mit dem Hinzufügen und Entfernen von Agents in Dynamic Chat hatten. Daher haben wir einige Änderungen vorgenommen, um diese Probleme zu beheben.
 
-Wenn eine Benutzerin oder ein Benutzer mit der Berechtigung zur Meeting-Buchung oder zum Live-Chat zur Admin Console hinzugefügt wird, wird diese Person sofort in der Agenten-Verwaltungsliste angezeigt und kann zu Dialogen, Konversationsflüssen, Routing-Regeln und Teams hinzugefügt werden.
+Wenn eine Benutzerin oder ein Benutzer mit der Berechtigung zum Live-Chat oder zur Meeting-Buchung zur Admin Console hinzugefügt wird, wird diese Person sofort in der Liste der Agent-Verwaltung angezeigt und kann zu Dialogen, Konversationsflüssen, Routing-Regeln und Teams hinzugefügt werden.
 
 Wenn eine Benutzerin oder ein Benutzer mit Berechtigungen zur Meeting-Buchung oder zum Live-Chat aus der Admin Console entfernt wird, wird diese Person sofort aus Dynamic Chat entfernt, ist nicht mehr für den Live-Chat oder das Routing von Meetings verfügbar und wird nicht mehr auf die Lizenzbeschränkungen angerechnet.
 
 ### Verbesserte Leistung von Berichten auf Konversationsebene {#improved-conversation-level-report-performance}
 
-Berichte auf individueller Dialog- und Konversationsflussebene sind jetzt leistungsfähiger und genauer. Zuvor dauerte das Laden von Dialogberichten mehrere Sekunden, und die Daten waren gelegentlich nicht mit globalen Leistungsberichten konsistent. Jetzt werden Ihre individuellen Dialogberichte im Handumdrehen geladen und die Daten immer mit globalen Berichtsdaten abgestimmt.
+Berichte auf individueller Dialog- und Konversationsflussebene sind jetzt leistungsfähiger und genauer. Zuvor dauerte das Laden von Dialogberichten mehrere Sekunden, und die Daten waren gelegentlich nicht mit globalen Leistungsberichten konsistent. Jetzt werden Ihre individuellen Dialogberichte im Handumdrehen geladen und die Daten sind immer mit globalen Berichtsdaten abgestimmt.
 
 ![](assets/dynamic-chat-release-6.png)
 
@@ -591,17 +608,17 @@ Berichte auf individueller Dialog- und Konversationsflussebene sind jetzt leistu
 
 Die Berechtigungsstruktur und die Benennungen in Adobe Admin Console wurden bereinigt, um die Berechtigungsverwaltung intuitiver zu gestalten.
 
-* Die Kategorie „Konversationsverwaltung“ heißt jetzt „Konversationen“
+* Die Kategorie „Konversations-Management“ heißt jetzt „Konversationen“
 * Die Kategorie „Meetings“ heißt jetzt „Aktivitäten“
-* Die Kategorie „Agenteneinstellungen“ heißt jetzt „Agentinnen und Agenten“
+* Die Kategorie „Agent-Einstellungen“ heißt jetzt „Agents“
 * Die Kategorie „Admin-Einstellungen“ heißt jetzt „Konfiguration“
-* Die Kategorie „Live-Chat“ wurde entfernt und alle Live-Chat-Berechtigungen wurden in die Kategorie „Agentinnen und Agenten“ verschoben
+* Die Kategorie „Live-Chat“ wurde entfernt und alle Live-Chat-Berechtigungen wurden in die Kategorie „Agents“ verschoben
 
 ![](assets/dynamic-chat-release-7.png)
 
 ### Unterstützung für Hyperlinks im Agenten-Posteingang {#support-for-hyperlinks-in-agent-inbox}
 
-Wenn Live-Chat-Agentinnen und -Agenten jetzt URLs für Besuchende im Chat freigeben, werden diese URLs mit Hyperlinks versehen, sodass Benutzende einfach darauf klicken können, um zur Seite zu navigieren, anstatt die URL kopieren und in den Browser einfügen zu müssen.
+Wenn Live-Chat-Agents jetzt URLs mit Besuchenden im Chat teilen, werden diese URLs mit Hyperlinks versehen, sodass Besuchende einfach darauf klicken können, um zur Seite zu navigieren, anstatt die URL kopieren und in den Browser einfügen zu müssen.
 
 ### Verhalten der Eingabetaste im Agent-Posteingang aktualisiert {#enter-key-behavior-updated-in-agent-inbox}
 
@@ -639,8 +656,8 @@ Mit bedingten Verzweigungen können Sie anhand verschiedener Bedingungen Verzwei
 
 **Versionsdatum: Donnerstag, 24. Januar 2024**
 
-### Limit für gleichzeitige Live-Chats in der Agenten-Verwaltung festgelegt {#Concurrent-live-chat-limit-setting}
+### Einstellung für das Limit gleichzeitiger Live-Chats in der Agent-Verwaltung {#Concurrent-live-chat-limit-setting}
 
-Standardmäßig kann jede Live-Chat-Agentin bzw. jeder Live-Agent in Ihrer Instanz maximal 5 Live-Chat-Sitzungen gleichzeitig durchführen. Wir haben eine neue Einstellung für die Agenten-Verwaltung eingeführt, mit der Sie dieses Limit auf einen Wert von 1 bis 10 anpassen können.
+Standardmäßig kann jede Live-Chat-Agentin bzw. jeder Live-Agent in Ihrer Instanz maximal 5 Live-Chat-Sitzungen gleichzeitig durchführen. Wir haben eine neue Einstellung für die Agent-Verwaltung eingeführt, mit der Sie dieses Limit auf einen Wert von 1 bis 10 anpassen können.
 
 ![](assets/dynamic-chat-release-11.png)

@@ -7,13 +7,28 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 exl-id: 719686f7-16f5-423f-a4b1-f0a35005d222
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '570'
-ht-degree: 10%
-
+ht-degree: 35%
 ---
-
 # Markenbewertung {#brand-score}
 
 Die Überprüfung der Markenbewertung gewährleistet Konsistenz in Bezug auf Ton, Messaging und visuelle Identität in Ihren E-Mail-Kampagnen und dient als Qualitätsprüfung vor der Live-Schaltung Ihres Inhalts.
@@ -32,11 +47,11 @@ Nachdem Sie Ihre Marke [eingerichtet und veröffentlicht) haben](/help/marketo/p
 
    ![](assets/brand-score-1.png){width="800" zoomable="yes"}
 
-1. Um eine andere Marke zu verwenden, wählen Sie diese aus dem Dropdown-Menü **[!UICONTROL Marke]** und klicken Sie auf **[!UICONTROL Bewertung auswerten]**.
+1. Zum Abgleich mit einer anderen Marke wählen Sie diese aus dem Dropdown-Menü **[!UICONTROL Marke]** aus und klicken Sie auf **[!UICONTROL Wert auswerten]**.
 
    ![](assets/brand-score-2.png){width="800" zoomable="yes"}
 
-1. Durchsuchen Sie den **[!UICONTROL Schreibstil]** oder **[!UICONTROL visuelle Inhalte]** um mehr Einblicke in Ihre Punktzahl zu erhalten.
+1. Durchsuchen Sie den Bereich **[!UICONTROL Schreibstil]** oder **[!UICONTROL Visuelle Inhalte]**, um weitere Erkenntnisse zu Ihrer Bewertung zu erhalten.
 
    ![](assets/brand-score-3.png){width="800" zoomable="yes"}
 
@@ -44,18 +59,18 @@ Nachdem Sie Ihre Marke [eingerichtet und veröffentlicht) haben](/help/marketo/p
 
    ![](assets/brand-score-5.png){width="800" zoomable="yes"}
 
-1. Wählen Sie eine gekennzeichnete Richtlinie aus, um spezifisches Feedback und Vorschläge anzuzeigen. Brand Alignment bewertet die folgenden Kategorien:
+1. Wählen Sie eine gekennzeichnete Richtlinie aus, um spezifisches Feedback und Vorschläge anzuzeigen. Die Markenausrichtung bewertet die folgenden Kategorien:
 
    * **[!UICONTROL Schreibstil]**:
-      * **[!UICONTROL Brand Communication Style]**: Definiert die Persönlichkeit und den emotionalen Ton, um eine konsistente Markensprache über alle Kanäle hinweg sicherzustellen.
-      * **[!UICONTROL Markenbotschaftsstandards]**: Struktur- und Formatierungsregeln für effektiven Marketing- und Werbetext.
-      * **[!UICONTROL Legal Compliance Standards]**: Stellt sicher, dass alle Kommunikationen den rechtlichen Anforderungen entsprechen, einschließlich Textplatzierungs- und Compliance-Checklisten.
+     * **[!UICONTROL Stil für Markenkommunikation]**: Definiert die Persönlichkeit und den emotionalen Ton, um eine einheitliche Markensprache über alle Kanäle hinweg sicherzustellen.
+     * **[!UICONTROL Markenbotschaftsstandards]**: Strukturelle und formatierungsbezogene Regeln für effektive Marketing- und Werbetexte.
+     * **[!UICONTROL Standards zur Einhaltung gesetzlicher Vorschriften]**: Stellt sicher, dass alle Kommunikationen den rechtlichen Anforderungen entsprechen, einschließlich Textplatzierung und Compliance-Checklisten.
 
-   * **[!UICONTROL Visueller Inhalt]**:
-      * **[!UICONTROL Fotografiestandards]**: Anforderungen an fotografische Inhalte, einschließlich Auflösung, Komposition, Beleuchtung und Dateiformaten.
-      * **[!UICONTROL Illustrationsstandards]**: Stilparameter, Zeilengewichte, Farbverwendung und Dateiformatanforderungen für Illustrationen.
-      * **[!UICONTROL Icon-Standards]**: Spezifikationen für die Icon-Gestaltung, einschließlich Gittersystemen, Strichgewichten und Dimensionierung für Einheitlichkeit.
-      * **[!UICONTROL Nutzungsrichtlinien]**: Best Practices für Bildauswahl, Platzierung und Kontext, um die Markenidentität zu wahren.
+   * **[!UICONTROL Visuelle Inhalte]**:
+     * **[!UICONTROL Fotografiestandards]**: Anforderungen an fotografische Inhalte, einschließlich Auflösung, Komposition, Beleuchtung und Dateiformaten.
+     * **[!UICONTROL Illustrationsstandards]**: Stilparameter, Linienstärken, Farbverwendung und Dateiformatanforderungen für Illustrationen.
+     * **[!UICONTROL Symbolstandards]**: Spezifikationen für die Symbolgestaltung, einschließlich Rastersystemen, Strichstärken und der Größe, um Einheitlichkeit sicherzustellen.
+     * **[!UICONTROL Nutzungsrichtlinien]**: Best Practices für Bildauswahl, Platzierung und Kontext, um die Markenidentität zu wahren.
 
    ![](assets/brand-score-4.png){width="800" zoomable="yes"}
 

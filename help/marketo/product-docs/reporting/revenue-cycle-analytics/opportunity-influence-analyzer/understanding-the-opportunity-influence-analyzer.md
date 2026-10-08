@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718648
 description: Erfahren Sie mehr über das Verständnis von Opportunity Influence Analyzer in Marketo Engage, einschließlich Informationen zu . Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
-title: Grundlegendes zum Analyzer für Opportunity-Einfluss
+title: Grundlegendes zum Analyzer für Opportunity-Einfluss​
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 3%
-
 ---
-
-# Grundlegendes zum Analyzer für Opportunity-Einfluss {#understanding-the-opportunity-influence-analyzer}
+# Grundlegendes zum Analyzer für Opportunity-Einfluss&#x200B; {#understanding-the-opportunity-influence-analyzer}
 
 Jede Gelegenheit ist eine Geschichte. Wo hast du die Führung getroffen? Welche Marketingmöglichkeiten haben sie während des Marketing-/Verkaufsprozesses beeinflusst?
 

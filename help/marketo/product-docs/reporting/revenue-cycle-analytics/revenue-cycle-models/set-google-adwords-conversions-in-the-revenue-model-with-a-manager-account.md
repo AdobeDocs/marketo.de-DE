@@ -1,16 +1,22 @@
 ---
 unique-page-id: 7504923
-description: Erfahren Sie, wie Sie [!DNL Google AdWords]-Konversionen im Umsatzmodell mit einem Managerkonto in Marketo Engage festlegen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
-title: Festlegen  [!DNL Google AdWords]  Konversionen im Umsatzmodell mit einem Manager-Konto
+description: Erfahren Sie, wie Sie [ !dnl Google AdWords]-Konversionen im Umsatzmodell mit einem Manager-Konto in Marketo Engage festlegen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
+title: Festlegen [!DNL Google AdWords] Konversionen im Umsatzmodell mit einem Manager-Konto
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
-
 ---
-
 # Festlegen [!DNL Google AdWords] Konversionen im Umsatzmodell mit einem Manager-Konto {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
 Verknüpfen Sie Ihr [!DNL Google AdWords] mit Marketo, um Offline-Konversionsdaten automatisch von Marketo in [!DNL Google AdWords] hochzuladen. In der [!DNL AdWords]-Benutzeroberfläche können Sie dann leicht erkennen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden geführt haben (oder welche Umsatzphasen Sie verfolgen möchten), nachdem Sie [benutzerdefinierte Spalten hinzufügen](https://support.google.com/adwords/answer/3073556) in [!DNL AdWords] hinzugefügt haben.

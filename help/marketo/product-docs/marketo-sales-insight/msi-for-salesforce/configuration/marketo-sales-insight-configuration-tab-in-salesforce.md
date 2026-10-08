@@ -4,20 +4,23 @@ description: Erfahren Sie mehr über die Registerkarte Konfiguration von Marketo
 title: Registerkarte „Konfiguration“ von Marketo Sales Insight in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ
+TQID: 'https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 626
+source-wordcount: '626'
 ht-degree: 1%
-
 ---
-
 # Registerkarte &quot;[!DNL Marketo Sales Insight]&quot; in [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Betriebseinstellungen {#operational-settings}
@@ -38,8 +41,8 @@ Konfigurationen gelten für alle MSI-Benutzer und sind nicht profilspezifisch.
 **VisualForce-Seiteneinstellungen**
 
 * Dropdown „Aktion aktivieren“:
-   * Möglichkeit, im Lead- und Kontakt-MSI-Layout die Dropdown-Liste E-Mail an Marketo senden auszublenden
-   * Möglichkeit, Optionen zum Hinzufügen zu Marketo Campaign aus der Dropdown-Liste im Lead- und Kontakt-MSI-Layout auszublenden
+  * Möglichkeit, im Lead- und Kontakt-MSI-Layout die Dropdown-Liste E-Mail an Marketo senden auszublenden
+  * Möglichkeit, Optionen zum Hinzufügen zu Marketo Campaign aus der Dropdown-Liste im Lead- und Kontakt-MSI-Layout auszublenden
 * Anstehende Ereignisse: Möglichkeit, eingeladene Ereignisse, alle Ereignisse für Benutzer anzuzeigen oder diese Registerkarte vollständig auszublenden
 * Künftige Kampagnen: Möglichkeit, alle E-Mail-Kampagnen anzuzeigen oder diese Registerkarte vollständig auszublenden
 * Bevorstehende Kampagnen und Ereignisse laden: Möglichkeit, die Anzahl der REST-API-Aufrufe durch Benutzende zu reduzieren, indem Ereignisse und Kampagnen hinter einer On-Demand-Schaltfläche „Bevorstehende Elemente laden“ platziert werden
@@ -50,7 +53,7 @@ Konfigurationen gelten für alle MSI-Benutzer und sind nicht profilspezifisch.
 **Registerkarte &quot;Marketo Global“**
 
 * RSS-Feed aktiviert: Nach der Aktivierung können MSI-Benutzer ihren Lead-Feed in einem RSS-Feed anzeigen (zusätzlich zum Lead-Feed in Salesforce). Der RSS-Feed kann nur funktionieren, wenn die Funktion „Token-Ablauf“ deaktiviert ist. Diese Einstellung wird auf der Admin-Seite Ihres Marketo Sales Insights gesteuert.
-* Debug-Modus für vielversprechende Kontakte
+* Debugging-Modus „Best Bets“
 * Standard ausblenden: Die hier ausgewählte Option ist die Anzahl der Tage, die ein Bester Einsatz auf der Registerkarte Beste Einsätze in Marketo ausgeblendet wird, wenn Sie auf das Symbol „Ausblenden“ klicken
 * Kontaktstatusfeld: Die hier ausgewählte Option ist der Wert, der in der Statuskopfzeile auf der Registerkarte „Best Bets“ in Marketo eingetragen wird
 * Live-Feed-Einstellungen: Die Option, nur Live-Feed (in Lead-, Kontakt-, Konto- und Opportunity-Bedienfeldern und auf der globalen Marketo-Seite), nur Lead-Feed (auf der globalen Marketo-Seite) oder sowohl Live- als auch Lead-Feed anzuzeigen

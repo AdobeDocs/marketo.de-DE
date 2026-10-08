@@ -4,16 +4,18 @@ description: Erfahren Sie, wie Sie Massenaktionen in Salesforce Lightning mit Sa
 title: Verwenden von Massenaktionen in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw
+TQID: 'https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: '408'
 ht-degree: 2%
-
 ---
-
 # Verwenden von Massenaktionen in [!DNL Salesforce Lightning] {#using-bulk-actions-in-salesforce-lightning}
 
 Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne hinzufügen, eine Massen-E-Mail senden oder Leads von [!DNL Salesforce] zu [!DNL Sales Connect] pushen.
@@ -46,9 +48,9 @@ Erfahren Sie, wie Sie Massenaktionen durchführen, z. B. Leads zu einer Kampagne
 1. Eine MSC-E-Mail wird angezeigt. Es umfasst die folgenden Funktionen:
 
    a. Das Feld [!UICONTROL An] zeigt „Alle Wareneingänge“ an. Dies entspricht der Liste der Leads, die Sie in der Lead-Listenansicht ausgewählt haben
-b. Diese Liste ist im linken Bereich namens „Bulk Compose“ sichtbar - Sie können hier Empfänger hinzufügen/entfernen
-c. Sie können eine Vorlage auswählen oder Ihre eigene E-Mail erstellen
-d. Sie können die E-Mail sofort senden oder einen späteren Versand planen
+   b. Diese Liste ist im linken Bereich namens „Bulk Compose“ sichtbar - Sie können hier Empfänger hinzufügen/entfernen
+   c. Sie können eine Vorlage auswählen oder Ihre eigene E-Mail erstellen
+   d. Sie können die E-Mail sofort senden oder einen späteren Versand planen
 
    ![](assets/three-5.png)
 

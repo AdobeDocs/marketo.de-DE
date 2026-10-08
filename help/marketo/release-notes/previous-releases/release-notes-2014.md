@@ -1,35 +1,58 @@
 ---
-title: "2014"
+title: '2014'
 description: 2014 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 3331
+source-wordcount: '3332'
 ht-degree: 5%
-
 ---
-
 
 # 2014
 
@@ -263,7 +286,7 @@ Dazu muss das neue Plug-in heruntergeladen werden. Sie können ihn von [hier](/h
 
 ## Token-Auflösung {#token-resolution}
 
-Wenn Sie eine Test-E-Mail von [!DNL Sales Insight] senden, werden die Token in der E-Mail derzeit nicht aufgelöst, und der Standardwert wird gesendet. Diese Erweiterung gewährleistet, dass Token in Test-E-Mails aufgelöst werden.
+Wenn Sie eine Test-E-Mail von [!DNL Sales Insight] senden, werden die Token in der E-Mail derzeit nicht aufgelöst, und der Standardwert wird gesendet. Diese Erweiterung gewährleistet, dass Token in Test-E-Mail aufgelöst werden.
 
 ## Prozentsätze für Sterne und Flammen anpassen {#customize-percentages-for-stars-and-flames}
 
@@ -275,7 +298,7 @@ Wenn Sie eine Test-E-Mail von [!DNL Sales Insight] senden, werden die Token in d
 
 Erstellen, lesen und aktualisieren Sie Leads programmatisch mithilfe unserer neuen ReST API. Um mit ReST zu beginnen, müssen Sie [einen benutzerdefinierten Service erstellen](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Navigieren Sie dann zur [Entwickler-Site](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api), um Details zur Verwendung dieser API zu erhalten.
 
-## Real-Time Personalization (RTP, Echtzeit-Personalisierung) – Aktualisierung der Kampagnenseite {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Marketo Real-Time Personalization (RTP, Echtzeit-Personalisierung) – Aktualisierung der Kampagnenseite {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
 RTP-Kampagnen enthalten jetzt ein neues Design mit Miniaturansichten und Kampagnenleistung. Darüber hinaus können Sie [&#x200B; Kampagnen nach Datum &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) Spitzenleistung organisieren.
 
@@ -295,13 +318,13 @@ Die folgenden Funktionen sind in der Version vom Juli 2014 enthalten. Bitte übe
 
 ## Marketing-Kalender {#marketing-calendar}
 
-Zeigen Sie alle Ihre Termine, E-Mails und dergleichen programmübergreifend an. [Dieses neue Produkt](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) wird Kunden mit 10 oder weniger [!DNL Marketo Lead Management] oder Dialog-Benutzern kostenlos zur Verfügung stehen.
+Zeigen Sie alle Ihre Ereignisse, E-Mails und mehr programmübergreifend an. [Dieses neue Produkt](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) wird Kunden mit 10 oder weniger [!DNL Marketo Lead Management] oder Dialog-Benutzern kostenlos zur Verfügung stehen.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
 Die Dokumentation zum Marketing-Kalender wird zum Zeitpunkt der Veröffentlichung verfügbar sein.
 
-## Neues Aussehen, neue Navigation {#new-look-and-feel}
+## Neues Look-and-Feel {#new-look-and-feel}
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
@@ -422,7 +445,7 @@ Du hast nach der Community gefragt und wir haben geliefert! Sie können jetzt ei
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## Verbesserte 1:1-Segmentierung und Zielgruppenbestimmung {#enhanced-segmentation-and-targeting}
+## Verbesserte 1:1-Segmentierung und -Zielgruppenbestimmung {#enhanced-segmentation-and-targeting}
 
 Sie können jetzt erweiterte Filteroperatoren verwenden, um bekannte Besucher als Zielgruppe anzusprechen.
 

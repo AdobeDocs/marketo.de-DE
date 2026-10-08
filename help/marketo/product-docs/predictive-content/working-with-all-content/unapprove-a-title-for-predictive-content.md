@@ -4,16 +4,18 @@ description: Erfahren Sie, wie Sie die Genehmigung eines Titels für prädiktive
 title: Aufheben der Genehmigung eines Titels für prädiktive Inhalte
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/qYunPafNSSAeWKtT5CTFKbJIkv7I6CIgCsFqhCf5Ikw
+TQID: 'https://experienceleague.adobe.com/qYunPafNSSAeWKtT5CTFKbJIkv7I6CIgCsFqhCf5Ikw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 159
+source-wordcount: '159'
 ht-degree: 3%
-
 ---
-
 # Genehmigung eines Titels für [!UICONTROL prädiktiven Inhalt] aufheben {#unapprove-a-title-for-predictive-content}
 
 Sie können die Genehmigung eines Titels für prädiktive Inhalte auf Ihrer [!UICONTROL Alle Inhalte]-Seite oder im [!UICONTROL Inhalt bearbeiten] aufheben.

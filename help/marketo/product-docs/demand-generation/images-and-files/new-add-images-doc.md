@@ -4,18 +4,23 @@ title: Neues Dokument zum Hinzufügen von Bildern
 hide: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-TQID: https://experienceleague.adobe.com/F4i-VcFV3IX1NG6v0s-qYE5tooll9dsjL407Vypoxow
+TQID: 'https://experienceleague.adobe.com/F4i-VcFV3IX1NG6v0s-qYE5tooll9dsjL407Vypoxow'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: ecf3b0de-0d29-4cb7-bed7-bf29ea2e2f77
+    internal-label: Image editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '308'
 ht-degree: 8%
-
 ---
-
 # Neues Dokument zum Hinzufügen von Bildern {#new-add-images-doc}
 
 Sie haben mehrere Optionen zum Hinzufügen neuer Dateien/Bilder zu Ihrem Bild- und Datei-Repository.
@@ -98,7 +103,7 @@ Text
 
    ![](assets/add-images-and-files-to-marketo-14.png)
 
-### Importieren von Adobe Experience Manager {#import-from-adobe-experience-manager}
+### Import aus Adobe Experience Manager {#import-from-adobe-experience-manager}
 
 Text
 

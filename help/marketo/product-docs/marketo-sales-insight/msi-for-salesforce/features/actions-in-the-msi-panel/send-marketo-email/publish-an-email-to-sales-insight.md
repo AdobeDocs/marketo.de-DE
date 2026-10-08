@@ -4,20 +4,23 @@ description: Erfahren Sie, wie Sie eine E-Mail von Marketo in Sales Insight ver�
 title: Veröffentlichen einer E-Mail in Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/7EFnNV-4RjI7nOwRnNJWtVTbxHPC2E6OEACX965cIqw
+TQID: 'https://experienceleague.adobe.com/7EFnNV-4RjI7nOwRnNJWtVTbxHPC2E6OEACX965cIqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 215
+source-wordcount: '216'
 ht-degree: 3%
-
 ---
-
 # Veröffentlichen einer E-Mail in [!DNL Sales Insight] {#publish-an-email-to-sales-insight}
 
 Aktivieren Sie die Einstellung In [!DNL Sales Insight] veröffentlichen , um Ihrem Verkaufs-Team eine E-Mail sowohl in [!DNL Sales Insight] als auch im [!DNL Outlook]- und Gmail-Add-in zur Verfügung zu stellen. Sie können auch ein Ablaufdatum angeben.
@@ -40,7 +43,7 @@ Aktivieren Sie die Einstellung In [!DNL Sales Insight] veröffentlichen , um Ihr
 
    >[!NOTE]
    >
-   >Um 11:59 Uhr (CST) am Ablaufdatum (wenn Sie eines festlegen) verschwindet die von Ihnen bereitgestellte E-Mail sowie alle zugehörigen Add-Ins von [!DNL Sales Insight]. Natürlich wird es in Marketo weiterhin zugänglich sein.
+   >Um 23:59 Uhr (CST) am Ablaufdatum (wenn Sie eines festlegen) verschwindet die von Ihnen zur Verfügung gestellte E-Mail von [!DNL Sales Insight] sowie allen zugehörigen Add-Ins. Natürlich wird es in Marketo weiterhin zugänglich sein.
 
 1. Klicken Sie auf **[!DNL Save]**.
 

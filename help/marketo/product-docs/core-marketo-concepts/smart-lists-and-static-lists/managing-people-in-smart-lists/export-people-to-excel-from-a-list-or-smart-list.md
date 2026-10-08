@@ -1,20 +1,25 @@
 ---
 unique-page-id: 557329
 description: Erfahren Sie, wie Sie Personen aus einer Liste oder Smart List nach Excel exportieren. Die Personen in der Liste für die Berichterstellung herunterladen.
-title: Exportieren von Personen aus einer Liste oder einer intelligenten Liste nach Excel
+title: Exportieren von Personen aus einer Liste oder einer Smart List nach Excel
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/gr2GJ22r0Kf7RCRHLsW04WYHXrsqcGAC0itjkFScKOE
+TQID: 'https://experienceleague.adobe.com/gr2GJ22r0Kf7RCRHLsW04WYHXrsqcGAC0itjkFScKOE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 191
+source-wordcount: '191'
 ht-degree: 12%
-
 ---
-
-# Exportieren von Personen aus einer Liste oder einer intelligenten Liste nach Excel {#export-people-to-excel-from-a-list-or-smart-list}
+# Exportieren von Personen aus einer Liste oder einer Smart List nach Excel {#export-people-to-excel-from-a-list-or-smart-list}
 
 Wenn Sie Listen- oder Smart-Listen-Ergebnisse außerhalb von Marketo benötigen, können Sie diese in Excel exportieren.
 

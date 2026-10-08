@@ -1,18 +1,23 @@
 ---
 description: In Schritt 3 erfahren Sie, wie Sie Marketo On-Premise mit Dynamics 2016 oder Dynamics 365 verbinden. Geben Sie in Marketo Admin Benutzeranmeldeinformationen für die Synchronisierung ein und aktivieren Sie die Synchronisierung.
-title: Installieren von Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premise Schritt 3 von 3
+title: Installieren von Marketo für [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 On-Premise Schritt 3 von 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/WYR9u4Mfq8SeuXPyuYxgA-9iZlez5oKYPpnvrl-RwqY
+TQID: 'https://experienceleague.adobe.com/WYR9u4Mfq8SeuXPyuYxgA-9iZlez5oKYPpnvrl-RwqY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '410'
 ht-degree: 4%
-
 ---
-
 # Schritt 3 von 3: Marketo [!DNL Dynamics] verbinden (2016 On-Premise/[!DNL Dynamics] 365 On-Premise) {#step-of-connect-marketo-dynamics-on-premises-2016}
 
 >[!PREREQUISITES]

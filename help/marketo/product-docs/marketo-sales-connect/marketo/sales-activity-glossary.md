@@ -3,18 +3,20 @@ description: Erfahren Sie mehr über die Bedingungen der Sales Connect-Verkaufsa
 title: Glossar zu Verkaufsaktivitäten
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo
+TQID: 'https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 597
+source-wordcount: '597'
 ht-degree: 8%
-
 ---
-
 # Glossar zu Verkaufsaktivitäten {#sales-activity-glossary}
 
 Wenn in Sales Connect ein Verkäufer: einen Lead zu einer Verkaufskadenz hinzufügt, ihm eine E-Mail sendet oder einen Aufruf zu einer Aktivität ausführt, wird dies unter dem Aktivitätsverlauf von Marketo protokolliert. Wenn der Lead mit E-Mails interagiert, werden außerdem Öffnungen, Klicks und Antworten protokolliert.
@@ -120,7 +122,7 @@ Die folgenden Aktivitäten werden von [!DNL Sales Connect] an Marketo protokolli
   <td>[!UICONTROL Marketo Vertriebspersonen-ID]</td>
  </tr>
 <tr>
-  <th rowspan="3">Hat auf Vertriebsemail geantwortet</th>
+  <th rowspan="3">Hat auf Vertriebs-E-Mail geantwortet</th>
   <td>[!UICONTROL empfangen von]</td>
  </tr>
  <tr>
@@ -164,7 +166,7 @@ Die folgenden Aktivitäten werden von [!DNL Sales Connect] an Marketo protokolli
   <td>[!UICONTROL Marketo Vertriebspersonen-ID]</td>
  </tr>
  <tr>
-  <th rowspan="6">Zur Verkaufskampagne hinzufügen</th>
+  <th rowspan="6">Zu Sales-Kampagne hinzufügen</th>
   <td>[!UICONTROL Name der Verkaufskampagne]</td>
  </tr>
  <tr>
@@ -183,7 +185,7 @@ Die folgenden Aktivitäten werden von [!DNL Sales Connect] an Marketo protokolli
   <td>[!UICONTROL Vertriebskampagnen-ID]</td>
  </tr>
  <tr>
-  <th rowspan="6">Aus Verkaufskampagne entfernen</th>
+  <th rowspan="6">Aus Sales-Kampagne entfernen</th>
   <td>[!UICONTROL Name der Verkaufskampagne]</td>
  </tr>
  <tr>

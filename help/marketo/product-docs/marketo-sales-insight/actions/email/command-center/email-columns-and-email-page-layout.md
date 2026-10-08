@@ -1,21 +1,23 @@
 ---
 description: Grundlegendes zu E-Mail-Spalten und Seitenlayout im Command Center. Anpassen, welche Spalten angezeigt werden und wie die E-Mail-Aktivität angezeigt wird.
-title: Layout von E-Mail-Spalten und E-Mail-Seiten
+title: E-Mail-Spalten und E-Mail-Seiten-Layout
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw
+TQID: 'https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 548
+source-wordcount: '548'
 ht-degree: 2%
-
 ---
-
-# Layout von E-Mail-Spalten und E-Mail-Seiten {#email-columns-and-email-page-layout}
+# E-Mail-Spalten und E-Mail-Seiten-Layout {#email-columns-and-email-page-layout}
 
 Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-Abschnitt des [Command Center“ angezeigt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Ihre Konfigurationseinstellungen werden für jeden E-Mail-Unterordner gespeichert (z. B. Zugestellt, Fehlgeschlagen, Geplant usw.).
 

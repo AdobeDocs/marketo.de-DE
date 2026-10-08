@@ -1,45 +1,76 @@
 ---
-title: "2020"
+title: '2020'
 description: 2020 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+    internal-label: Help center
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 4150
+source-wordcount: '4154'
 ht-degree: 2%
-
 ---
-
 # 2020
 
 ## Januar 2020 {#january}
@@ -48,7 +79,7 @@ Die folgenden Funktionen sind in der Version vom Januar 2020 enthalten. Überpr�
 
 >[!AVAILABILITY]
 >
->Mit einem Stern ( ![(Stern)](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern ( ![(Stern)](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihre(n) Adobe Marketo Engage-Ansprechpartner(in), um mehr zu erfahren.
 
 **_Quartalsveröffentlichungen_**
 
@@ -107,7 +138,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 >
 >* **Aktualisierung der ITP-[!DNL Munchkin] 2.1 oder höher**: Aufgrund von Änderungen an der Cookie-Richtlinie für [!DNL Safari] wird die Möglichkeit von [!DNL Munchkin], Benutzer über Sitzungen hinweg in derselben Domain zu verfolgen, von ITP je nach Browser und Browser-Version, die der Besucher verwendet, entweder auf 1 oder 7 Tage beschränkt. Aus diesem Grund implementieren wir einen neuen Webservice, der es ermöglicht, Munchkin-Cookies mit einer Set-Cookie-Kopfzeile über die HTTP-Antwort zu setzen. Weitere Informationen zur Implementierung dieses neuen Service finden Sie [hier](https://nation.marketo.com/docs/DOC-7351).
 
-**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11 :00AM PT / 2 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
+**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11:00 Uhr PT/14:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
 
 ## Februar 2020 {#february}
 
@@ -115,7 +146,7 @@ Die folgenden Funktionen sind in der Version vom Februar 2020 enthalten. Überpr
 
 >[!AVAILABILITY]
 >
->Mit einem Stern ( ![(Stern)](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern ( ![(Stern)](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihre(n) Adobe Marketo Engage-Ansprechpartner(in), um mehr zu erfahren.
 
 **_Vierteljährliche Versionen_** Die folgenden Funktionen wurden am **21. Februar 2020)**.
 
@@ -157,7 +188,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **Asset-API „_method“-Parameter**: Nach September 2020 akzeptieren Asset-API-Endpunkte keine „_method“ mehr zum Übergeben von Abfrageparametern in einem POST-Text, um URI-Längenbeschränkungen zu umgehen. Um Anfragen zu berücksichtigen, die diesen Parameter erfordern, wird die URI-Beschränkung für Asset-APIs von 6 KB auf 65 KB erhöht, sodass lange Anfrage-URIs gesendet werden können.
 * **Einstellung der Internet Explorer-**: Ab unserer Version vom 31. Juli 2020 wird die Marketo Engage-Benutzeroberfläche in Internet Explorer nicht mehr unterstützt.
 
-**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11 :00AM PT / 2 :00PM ET an einem Live-Webinar teil, das von unserem Produkt-Team veranstaltet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
+**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11:00 Uhr PT/14:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
 
 ## Juni 2020 {#june}
 
@@ -165,7 +196,7 @@ Die folgenden Funktionen sind in der Version vom Juni 2020 enthalten. Überprüf
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihre(n) Adobe Marketo Engage-Ansprechpartner(in), um mehr zu erfahren.
 
 **_Vierteljährliche Versionen_** Die folgenden Funktionen werden am (5 **Juni 2020)**.
 
@@ -187,7 +218,7 @@ Die folgenden Funktionen sind in der Version vom Juni 2020 enthalten. Überprüf
 
 * **Erkennung neuer Konten allgemein verfügbar**
 
-   * Die Erkennung neuer Konten ist eine Erweiterung unserer Kontoprofilfunktion, mit der Sie neue Zielkonten für Ihre ABM-Strategie erkennen können, die auf Ihrem KI-gestützten idealen Kundenprofilmodell basieren. Anzeigen, Auswählen und Importieren empfohlener neuer Konten zusammen mit ihren KI-basierten Anpassungs- und Intent-Datenindikatoren.
+  * Die Erkennung neuer Konten ist eine Erweiterung unserer Kontoprofilfunktion, mit der Sie neue Zielkonten für Ihre ABM-Strategie erkennen können, die auf Ihrem KI-gestützten idealen Kundenprofilmodell basieren. Anzeigen, Auswählen und Importieren empfohlener neuer Konten zusammen mit ihren KI-basierten Anpassungs- und Intent-Datenindikatoren.
 
 <br> 
 
@@ -231,7 +262,7 @@ Die folgenden Funktionen sind in der Version vom Juli 2020 enthalten. Überprüf
 
 >[!AVAILABILITY]
 >
->Bitte beachten Sie, dass je nach aktuellem Paket für Artikel mit einem Stern ( ![(Stern)](assets/yellow-star.png) der Kauf eines Mehrwert-Add-ons erforderlich sein kann. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Bitte beachten Sie, dass je nach aktuellem Paket für Artikel mit einem Stern ( ![(Stern)](assets/yellow-star.png) der Kauf eines Mehrwert-Add-ons erforderlich sein kann. Wenden Sie sich an Ihre Adobe Marketo Engage-Ansprechperson, um mehr zu erfahren.
 
 **_Vierteljährliche Versionen_** Die folgenden Funktionen werden am 31. **2020 veröffentlicht**.
 
@@ -287,7 +318,7 @@ Die folgenden Funktionen sind in der Version vom Oktober 2020 enthalten. Überpr
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern (![](assets/yellow-star.png)) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihre(n) Adobe Marketo Engage-Ansprechpartner(in), um mehr zu erfahren.
 
 **_Vierteljährliche Versionen_** Die folgenden Funktionen werden am (16 **Oktober 2020)**.
 

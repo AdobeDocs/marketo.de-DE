@@ -4,16 +4,18 @@ description: Erfahren Sie mehr über Marketo Sales Connect und wie es die Intera
 title: Sales Connect – Überblick
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k
+TQID: 'https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 256
+source-wordcount: '256'
 ht-degree: 15%
-
 ---
-
 # Sales Connect – Überblick {#sales-connect-overview}
 
 Marketo Sales Connect ist eine vielseitige Sales Support-Lösung mit einer Vielzahl von Funktionen, die Ihnen hilft, das Engagement während des gesamten Verkaufszyklus zu steigern.

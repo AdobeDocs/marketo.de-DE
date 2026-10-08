@@ -1,24 +1,31 @@
 ---
 unique-page-id: 12982903
 description: Erfahren Sie, wie Sie E-Mail-Programme mit der Zeitzone des Empfängers planen. Legen Sie den Versand auf einen Zeitraum von mindestens 25 Stunden fest und wählen Sie das Zeitzonenverhalten aus.
-title: Planen von E-Mail-Programmen mit Zeitzone der Empfängerin bzw. des Empfängers
+title: Planen von E-Mail-Programmen mit Zeitzone des Empfängers
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo
+TQID: 'https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 854
+source-wordcount: '870'
 ht-degree: 2%
-
 ---
-
 # Planen von E-Mail-Programmen mit Zeitzone der Empfängerin bzw. des Empfängers {#schedule-email-programs-with-recipient-time-zone}
 
 Wenn ein E-Mail-Programm geplant wird, während die Zeitzone des Empfängers aktiviert ist, gibt es zwei mögliche Szenarien:
@@ -42,15 +49,15 @@ Dies bietet Ihnen zwei Optionen:
 >
 >**Definition**
 >
->* **[!UICONTROL Versand am folgenden Tag in der Zeitzone des Empfängers]**: Wenn die E-Mail für Dienstag um 9 Uhr :00am geplant ist, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits verstrichen ist, die E-Mail am *Mittwoch* um 9 :00am.
+>* **[!UICONTROL Versand am folgenden Tag in der Zeitzone des Empfängers]**: Wenn die E-Mail für Dienstag um 9:00 Uhr geplant ist, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits vergangen ist, die E-Mail am *Mittwoch* um 9:00 Uhr.
 >
->* **[!UICONTROL Versand über die im Programm standardmäßig festgelegte Zeit]**: Wenn die E-Mail am Dienstag um 9 Uhr :00am ausgeführt werden soll, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits verstrichen ist, die E-Mail *basierend auf Ihren Einstellungen für die Zeitzone Ihres Abonnements*. Wenn Ihre [Zeitzoneneinstellungen für das Abonnement](/help/marketo/product-docs/administration/settings/change-time-zone.md) also auf PDT America/Los Angeles eingestellt sind, erhalten diese Empfänger die E-Mail immer noch am Dienstag um 9:00amPDT (unabhängig von der Zeit, die in ihren eigenen Zeitzonen liegt).
+>* **[!UICONTROL Versand über die im Programm standardmäßig festgelegte Zeit]**: Wenn die E-Mail am Dienstag um 9:00 Uhr veröffentlicht werden soll, erhalten qualifizierte Personen, die in Zeitzonen leben, in denen die geplante Zeit bereits verstrichen ist, die E-Mail *basierend auf Ihren Einstellungen für die Zeitzone Ihres Abonnements*. Wenn Ihre [Zeitzoneneinstellungen des Abonnements](/help/marketo/product-docs/administration/settings/change-time-zone.md) also auf PDT America/Los Angeles eingestellt sind, erhalten diese Empfänger die E-Mail immer noch am Dienstag um 9:00 Uhr PDT (unabhängig von der Zeit, die in ihren eigenen Zeitzonen liegt).
 
 >[!NOTE]
 >
 >[Weitere Informationen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) wie Marketo die Zeitzonen für Empfänger berechnet.
 
-Betrachten wir dieses Szenario genauer. Angenommen, Sie sind in San Francisco und planen eine E-Mail um 7 :00am für einen **9:00am**-Versand. In Ihrer Smart-Liste befinden sich Personen aus den folgenden Regionen:
+Betrachten wir dieses Szenario genauer. Angenommen, Sie befinden sich in San Francisco und planen einen E-Mail-Versand um 7:00 Uhr für **9:00**. In Ihrer Smart-Liste befinden sich Personen aus den folgenden Regionen:
 
 * San Francisco
 * Texas
@@ -59,11 +66,11 @@ Betrachten wir dieses Szenario genauer. Angenommen, Sie sind in San Francisco un
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-9:00am ist bereits in New York und Italien vergangen, sodass qualifizierte Personen in diesen beiden Zeitzonen die E-Mail auf der Grundlage der **Zeitzoneneinstellungen** erhalten:
+9:00 Uhr ist in New York und Italien bereits vergangen, sodass qualifizierte Personen in diesen beiden Zeitzonen die E-Mail auf der Grundlage der **Zeitzoneneinstellungen** erhalten:
 
-* **[!UICONTROL Versand am folgenden Tag in der Zeitzone des Empfängers]:** Mittwoch um 9:00am in der jeweiligen Zeitzone, **OR**
+* **[!UICONTROL Versand am folgenden Tag in der Zeitzone des Empfängers]:** Mittwoch um 9:00 Uhr in der jeweiligen Zeitzone, **OR**
 
-* **[!UICONTROL Versand erfolgt über die standardmäßig eingestellte Zeit des Programms]**: Dienstag um 9:00am.00 Uhr MEZ (New York - 12:00pm MEZ und Italien - 6 :00pm MEZ).
+* **[!UICONTROL Versand erfolgt über die standardmäßig eingestellte Zeit des Programms]**: Dienstag um 9:00 Uhr PDT (New York - 12:00 Uhr EDT und Italien - 18:00 Uhr CET).
 
 Sobald Sie Ihr Programm genehmigt haben, wird es innerhalb von 15 Minuten ausgeführt.
 
@@ -75,7 +82,7 @@ Sobald Sie Ihr Programm genehmigt haben, wird es innerhalb von 15 Minuten ausgef
 
 ## Szenario 2: Mehr als 25 Stunden {#scenario-more-than-hours}
 
-In diesem zweiten Szenario genehmigen Sie ein E-Mail-Programm mit **[!UICONTROL Zeitzone des Empfängers]** und einer geplanten Versandzeit, die mehr als 25 Stunden in der Zukunft liegt. In diesem Fall startet das Programm zur geplanten Zeit in der (**)** Zeitzone der Welt (UTC + 14:00). Es kann Personen geben, die sich für Ihre Smart-Liste qualifizieren, und zwar in jeder Zeitzone auf der ganzen Welt. Wenn wir also in der frühesten Zeitzone beginnen, können wir die E-Mail zum geplanten Datum/zur geplanten Uhrzeit an alle Empfänger in ihren jeweiligen Zeitzonen senden.
+In diesem zweiten Szenario genehmigen Sie ein E-Mail-Programm mit **[!UICONTROL Zeitzone des Empfängers]** und einer geplanten Versandzeit, die mehr als 25 Stunden in der Zukunft liegt. In diesem Fall startet das Programm zur geplanten Zeit in der (**)** Zeitzone der Welt (UTC + 14:00 Uhr). Es kann Personen geben, die sich für Ihre Smart-Liste qualifizieren, und zwar in jeder Zeitzone auf der ganzen Welt. Wenn wir also in der frühesten Zeitzone beginnen, können wir die E-Mail zum geplanten Datum/zur geplanten Uhrzeit an alle Empfänger in ihren jeweiligen Zeitzonen senden.
 
 **Kopfstart**
 
@@ -90,8 +97,8 @@ Wenn Sie also in Amerika/Los Angeles sind und sowohl die Zeitzone „Head Start�
 Kurz gesagt: E-Mail-Programme, die mit der Zeitzone des Empfängers geplant sind, müssen zur geplanten Zeit in der frühesten Zeitzone ausgeführt werden (d. h., wenn sie zuerst Mitternacht erreichen), um jede Zeitzone aufzunehmen. Wenn Sie also ein E-Mail-Programm planen…
 
 * **Mit einer Lieferzeit *innerhalb* 25 Stunden** beginnt das Programm innerhalb von 15 Minuten zu laufen. Empfänger, die die geplante Zeit bereits überschritten haben, erhalten die E-Mail basierend auf den von Ihnen ausgewählten Zeitzoneneinstellungen.
-* **mit einer Lieferzeit *mehr als* 25 Stunden in der Zukunft** startet das Programm zur geplanten Zeit in der frühesten Zeitzone (UTC +14 :00).
-* **mit Head Start** beginnt das Programm 12 Stunden vor der geplanten Zeit in der frühesten Zeitzone mit der Verarbeitung (UTC +14:00).
+* **mit einer Lieferzeit *mehr als* 25 Stunden in der Zukunft** beginnt das Programm zur geplanten Zeit in der frühesten Zeitzone (UTC +14:00) zu laufen.
+* **Mit Head Start** beginnt das Programm mit der Verarbeitung 12 Stunden vor der geplanten Zeit in der frühesten Zeitzone (UTC +14:00).
 
 >[!CAUTION]
 >

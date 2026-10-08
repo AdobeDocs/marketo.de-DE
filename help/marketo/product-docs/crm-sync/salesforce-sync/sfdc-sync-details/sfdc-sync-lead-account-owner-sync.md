@@ -4,17 +4,22 @@ description: Erfahren Sie, wie die Felder für Lead- und Kontoinhaber von Salesf
 title: SFDC-Synchronisierung - Synchronisierung von Lead/Kontoinhaber
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos
+TQID: 'https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: '218'
 ht-degree: 15%
-
 ---
-
-# SFDC-Synchronisierung: Synchronisierung von Leads/Kontoinhaberinnen bzw. Kontoinhabern {#sfdc-sync-lead-account-owner-sync}
+# SFDC-Synchronisierung: Synchronisierung von Lead-/Account-Inhabern {#sfdc-sync-lead-account-owner-sync}
 
 Diese synchronisieren technisch die Tabelle „Benutzer“ in [!DNL Salesforce]. Wir bezeichnen sie jedoch als Lead-/Kontoinhaberfelder.
 
@@ -22,17 +27,17 @@ Diese synchronisieren technisch die Tabelle „Benutzer“ in [!DNL Salesforce].
 
 Für jede mit Marketo synchronisierte Person synchronisieren wir auch die folgenden Besitzerfelder:
 
-* Vorname des Verkaufseigentümers
-* Nachname des Verkaufseigentümers
+* Vorname des Verkaufsinhabers
+* Nachname des Verkaufsinhabers
 * Titel des Vertriebsinhabers
-* Telefonnummer des Verkaufseigentümers
-* E-Mail-Adresse des Verkaufseigentümers
+* Telefonnummer des Verkaufsinhabers
+* E-Mail-Adresse des Verkaufsinhabers
 
 Für jeden Kontakt synchronisieren wir die oben genannten fünf Felder für den Lead-Inhaber sowie diese Felder für den Kontoinhaber:
 
-* Vorname des Kontoeigentümers
-* Nachname des Kontoeigentümers
-* E-Mail Adresse des Kontoeigentümers
+* Vorname des Account-Inhabers
+* Nachname des Account-Inhabers
+* E-Mail-Adresse des Account-Inhabers
 
 ## Kann ich den Lead-Inhaber in Marketo ändern? {#can-i-change-the-lead-owner-in-marketo}
 

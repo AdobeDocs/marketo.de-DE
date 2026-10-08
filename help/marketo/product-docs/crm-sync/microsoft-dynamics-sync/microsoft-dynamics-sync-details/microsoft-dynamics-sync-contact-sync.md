@@ -4,18 +4,23 @@ description: Erfahren Sie, wie die Kontaktsynchronisierung zwischen Microsoft Dy
 title: Microsoft Dynamics-Synchronisierung - Kontaktsynchronisierung
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/8Y8vrxxm1VZ99tUIQ5bp8gbWDtduaiOqQl7kpadFvqo
+TQID: 'https://experienceleague.adobe.com/8Y8vrxxm1VZ99tUIQ5bp8gbWDtduaiOqQl7kpadFvqo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 279
+source-wordcount: '279'
 ht-degree: 1%
-
 ---
-
 # [!DNL Microsoft Dynamics]: Kontaktsynchronisierung {#microsoft-dynamics-sync-contact-sync}
 
 Marketo synchronisiert Ihre gesamte Datenbank mit [!DNL Dynamics]. Er synchronisiert, wartet dann 5 Minuten und synchronisiert dann erneut, den ganzen Tag, jeden Tag. Im Folgenden finden Sie einige Details dazu, wie Marketo [!DNL Dynamics] Kontakte spezifisch behandelt.

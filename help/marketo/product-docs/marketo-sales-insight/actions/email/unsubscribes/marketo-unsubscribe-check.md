@@ -3,18 +3,20 @@ description: Erfahren Sie mehr über die Marketo-Abmeldeprüfung, damit Verkäuf
 title: Überprüfen der Abmeldung von Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/RaIYKEVyjdeUlOa4paltYIS8NPZHi1XWTmO4IeLBy-o
+TQID: 'https://experienceleague.adobe.com/RaIYKEVyjdeUlOa4paltYIS8NPZHi1XWTmO4IeLBy-o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 149
+source-wordcount: '149'
 ht-degree: 6%
-
 ---
-
 # [!UICONTROL Marketo-Abmeldeprüfung] {#marketo-unsubscribe-check}
 
 Die [!UICONTROL Marketo-Abmeldeprüfung] nutzt die Verbindung Ihres Teams zu Marketo, um zu verhindern, dass E-Mails an Personen gesendet werden, die sich im Lead-Management-System von Marketo abgemeldet haben. Wenn ein Verkaufsbenutzer eine E-Mail mit [!DNL Marketo Sales] sendet, wird ein API-Aufruf an Marketo durchgeführt, um zu überprüfen, ob die E-Mail-ID abgemeldet wurde. Wenn dies der Fall ist, blockieren wir den Versand der E-Mail.

@@ -4,16 +4,18 @@ description: Automatische Antwort-E-Mail – Marketo-Dokumente – Produktdokume
 title: Automatische Antwort-E-Mail
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w
+TQID: 'https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 391
+source-wordcount: '391'
 ht-degree: 97%
-
 ---
-
 # Automatische Antwort-E-Mail {#email-auto-response}
 
 ## Aufgabe: Senden einer Danksagungs-E-Mail, wenn jemand ein Formular ausfüllt {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
@@ -49,7 +51,7 @@ ht-degree: 97%
 
    _Ein Rich-Text-Editor wird über dem E-Mail-Editor geöffnet._
 
-1. Markieren Sie den vorhandenen E-Mail-Inhalt.
+1. Markieren Sie den vorhandenen E-Mail-Content.
 
    ![](assets/email-auto-response-6.png)
 
@@ -127,7 +129,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->Stellen Sie sicher, dass Sie Ihre richtige E-Mail-Adresse verwenden, damit Sie E-Mails empfangen können.
+>Stellen Sie sicher, dass Sie Ihre richtige E-Mail-Adresse verwenden, damit Sie die E-Mail erhalten.
 
 ## Aufgabe abgeschlossen {#mission-complete}
 

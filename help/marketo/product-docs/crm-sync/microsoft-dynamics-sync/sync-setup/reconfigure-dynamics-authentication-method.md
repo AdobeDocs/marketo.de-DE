@@ -1,19 +1,24 @@
 ---
 description: Erfahren Sie, wie Sie die Dynamics-Authentifizierungsmethode in Marketo neu konfigurieren. Deaktivieren Sie die Synchronisierung, verwenden Sie die neue Authentifizierungsmethode neu konfigurieren und überprüfen Sie die Anmeldeinformationen für die Web-API oder das ROPC.
-title: 'Authentifizierungsmethode  [!DNL Dynamics] '
+title: Authentifizierungsmethode [!DNL Dynamics]
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I
+TQID: 'https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 283
+source-wordcount: '284'
 ht-degree: 2%
-
 ---
-
-# Erneutes Konfigurieren der Dynamics-Authentifizierungsmethode {#reconfigure-dynamics-authentication-method}
+# Dynamics-Authentifizierungsmethode neu konfigurieren {#reconfigure-dynamics-authentication-method}
 
 Gehen Sie wie folgt vor, um Ihre [!DNL Dynamics] Authentifizierungsmethode zu aktualisieren.
 

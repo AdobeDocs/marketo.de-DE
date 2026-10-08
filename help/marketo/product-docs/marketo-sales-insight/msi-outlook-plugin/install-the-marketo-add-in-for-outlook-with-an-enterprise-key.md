@@ -1,21 +1,24 @@
 ---
 unique-page-id: 11377488
 description: Erfahren Sie, wie Sie das Marketo-Add-in für Outlook mit einem Unternehmensschlüssel installieren. Bereitstellen des Add-Ins für Ihre Organisation mithilfe eines Unternehmensschlüssels.
-title: Installieren des Marketo-Add-ins für  [!DNL Outlook]  mit einem Unternehmensschlüssel
+title: Installieren des Marketo-Add-ins für [!DNL Outlook] mit einem Unternehmensschlüssel
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU
+TQID: 'https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '320'
 ht-degree: 2%
-
 ---
-
 # Installieren des Marketo-Add-ins für [!DNL Outlook] mit einem Unternehmensschlüssel {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
 Vertriebsmitarbeiter verfügen häufig nicht über Administratorrechte für ihre Notebooks, und ihre IT-Teams sind für die Remote-Installation der gesamten Software verantwortlich. Das Marketo-Add-in für Outlook kann auf diese Weise mit Ihrem Unternehmensschlüssel installiert werden, der im Abschnitt Sales Insight von Admin zu finden ist. Wenn die Schaltfläche „Unternehmensschlüssel anzeigen“ nicht angezeigt wird, wenden Sie sich an den [Marketo-Support](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de), um sie zu aktivieren.

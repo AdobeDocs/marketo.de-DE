@@ -4,16 +4,18 @@ description: Erfahren Sie, wie Sie URL-Muster definieren, damit prädiktive Inha
 title: Erstellen von Inhaltsmustern
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ
+TQID: 'https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 406
+source-wordcount: '406'
 ht-degree: 2%
-
 ---
-
 # Erstellen von Inhaltsmustern {#create-content-patterns}
 
 Wenn Sie Inhaltsmuster festlegen, wird der Inhalt automatisch erkannt, wenn ein Web-Besucher auf die für das Inhaltsmuster relevante HTML-Web-Seite klickt. Sie wird verwendet, um HTML-Seiten (Blog-Beiträge, Pressemitteilungen, Nachrichtenartikel) als Inhaltselemente zur Seite „Alle Inhalte“ hinzuzufügen. Wenn die automatische Erkennung auf Inhaltsmustern basiert, werden HTML-Seiten, die mit dem definierten URL-Muster zusammenhängen, erkannt und verfolgt, wenn ein Web-Besucher eine Seite anzeigt oder auf einen Link klickt. Dieser Teil des Inhalts (URL, Seitenname und Metadaten, einschließlich Bild-URL und Beschreibung) wird der Seite „Alle Inhalte“ hinzugefügt, um prädiktive Inhalte vorzubereiten. Für die automatische Erkennung anderer Inhalte, z. B. PDFs und eingebettete Videos, müssen Sie [Inhaltssuche aktivieren](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).

@@ -3,19 +3,22 @@ description: Erfahren Sie mehr über die Highspot-Integration in Insight-Aktione
 title: Highspot-Integration
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/SMFTyAUudxHzxiE2q4IzlqYtbwzUSn77ncsM7WMIAfg
+TQID: 'https://experienceleague.adobe.com/SMFTyAUudxHzxiE2q4IzlqYtbwzUSn77ncsM7WMIAfg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 348
+source-wordcount: '348'
 ht-degree: 1%
-
 ---
-
 # Highspot-Integration {#highspot-integration}
 
 Der Vertrieb kann über Sales Insight Actions auf Highspot-Funktionen zugreifen und während des gesamten Verkaufszyklus für mehr Sichtbarkeit, Effizienz und Leistung sorgen. Benutzende von Sales Insight Action können Verkaufsinhalte auswählen, die auf der Verkaufsplattform von Highspot gespeichert sind, und diese direkt in E-Mails, E-Mail-Vorlagen und Verkaufskampagnen einfügen, während sie gleichzeitig das Content-Tracking und die Analysen in Highspot- und Insight-Verkaufaktionen erfassen.

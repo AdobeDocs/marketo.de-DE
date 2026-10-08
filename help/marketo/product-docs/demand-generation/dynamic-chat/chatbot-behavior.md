@@ -3,20 +3,26 @@ description: Erfahren Sie mehr über das Verhalten von Dynamic Chat-Chatbots in 
 title: Chatbot-Verhalten
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-TQID: https://experienceleague.adobe.com/chj5dD8Nrim8XWAnetHEOZbhi8y-q2bivL52y771tdc
+TQID: 'https://experienceleague.adobe.com/chj5dD8Nrim8XWAnetHEOZbhi8y-q2bivL52y771tdc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1700
+source-wordcount: '1700'
 ht-degree: 1%
-
 ---
-
 # Chatbot-Verhalten {#chatbot-behavior}
 
 Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete Verhalten des Chatbots für den Besucher in jedem Szenario dargestellt wird.
@@ -416,4 +422,4 @@ Im Folgenden finden Sie verschiedene mögliche Szenarien, in denen das erwartete
 
 ## Lead-Auflösung in Echtzeit {#real-time-lead-resolution}
 
-Während einer Konversation mit einem anonymen Lead und einer E-Mail-ID löst Dynamic Chat auf, ob ein bekannter Lead-Eintrag mit dieser E-Mail-ID vorhanden ist, und verwendet diesen Datensatz für die Personalisierung in Echtzeit. Wenn mehrere Datensätze gefunden werden, werden sie in Echtzeit zusammengeführt. Dieses Verhalten ist sowohl für Dialogfelder als auch für Konversationsflüsse implementiert.
+Während einer Konversation mit einem anonymen Lead und einer E-Mail-ID löst Dynamic Chat auf, ob ein bekannter Lead-Eintrag mit dieser E-Mail-ID vorhanden ist, und verwendet diesen Datensatz für die Personalisierung in Echtzeit. Wenn mehrere Datensätze gefunden werden, werden sie in Echtzeit zusammengeführt. Dieses Verhalten ist sowohl für Dialoge als auch für Konversationsflüsse implementiert.

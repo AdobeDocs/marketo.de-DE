@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2951877
 description: Erfahren Sie mehr über das Verständnis des Bereichs „Programm-Opportunity-Analyse“ in Marketo Engage, einschließlich Informationen zu . Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
-title: Grundlegendes zum Bereich für die Analyse der Programm-Opportunitys
+title: Grundlegendes zum Bereich „Programm-Opportunity-Analyse“
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: e9ef2843fb7e700f1d9d1fd1f04a27fe2f6e516e
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '923'
 ht-degree: 21%
-
 ---
-
-# Grundlegendes zum Bereich für die Analyse der Programm-Opportunitys {#understanding-the-program-opportunity-analysis-area}
+# Grundlegendes zum Bereich „Programm-Opportunity-Analyse“ {#understanding-the-program-opportunity-analysis-area}
 
 ## Überblick {#overview}
 
@@ -79,19 +85,19 @@ Wie bei der Akquise ändert sich der Wert des Beitrags zu den Umsätzen, die an 
   </tr>
   <tr>
    <td>Pipeline erstellt</td>
-   <td>Der Gutschriftanteil (als Geldwert), den das Programm für seine Einflussnahme auf die Schaffung einer neuen Chance erhalten hat. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td>
+   <td>Der Gutschriftanteil (als Geldwert), den das Programm für seine Einflussnahme auf die Erstellung der Opportunity erhalten hat. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td>
   </tr>
   <tr>
    <td>Pipeline erstellt - noch offen</td>
-   <td>Der Gutschriftanteil (als Geldwert), den das Programm für seine Einflussnahme auf die Schaffung der aktuell offenen Chance erhalten hat. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td>
+   <td>Der Gutschriftanteil (als Geldwert), den das Programm für seine Einflussnahme auf die Erstellung der aktuell geöffneten Opportunity erhalten hat. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td>
   </tr>
   <tr>
    <td>Erwarteter Umsatz</td>
-   <td>Der Gutschriftanteil (als Geldwert), den das Programm für seine Einflussnahme auf die Schaffung einer neuen Chance erhalten hat. Der erwartete Umsatz ist die Chancenwahrscheinlichkeit multipliziert mit dem Chancenwert. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td>
+   <td>Der Gutschriftanteil (als Geldwert), den das Programm für seine Einflussnahme auf die Erstellung der Opportunity erhalten hat. Der erwartete Umsatz ist die Opportunity-Wahrscheinlichkeit multipliziert mit dem Opportunity-Wert. Es kann sich um einen Bruchteil handeln, falls mehrere Leads beteiligt waren.</td>
   </tr>
   <tr>
    <td>Ertrag aus Investitionen</td>
-   <td>Dies ist das Verhältnis von Programmkosten zum Gutschriftanteil (als Geldwert), den das Programm für die Einflussnahme gewonnener Chancen erhalten hat.</td>
+   <td>Dies ist das Verhältnis zwischen den Programmkosten und dem Gutschriftanteil (als Geldwert), den das Programm für die Einflussnahme auf gewonnene Opportunities erhalten hat.</td>
   </tr>
   <tr>
    <td>Gewonnener Ertrag</td>

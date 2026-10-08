@@ -7,13 +7,22 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '902'
 ht-degree: 84%
-
 ---
-
 # Personalisieren Ihrer Marke {#personalize}
 
 ## Informationen zur Marke {#about-brand}
@@ -91,12 +100,12 @@ Im Abschnitt **[!UICONTROL Schreibstil]** werden die Standards zum Verfassen von
     </tr>
     <tr>
       <td>Kernbotschaften</td>
-      <td>Betonen Sie den Hauptvorteil betonen, z. B. verbesserte Produktivität.</td>
+      <td>Betonen Sie den Hauptvorteil, z. B. eine verbesserte Produktivität.</td>
       <td>Verwenden Sie keine Werteversprechen ohne Bezug.</td>
     </tr>
     <tr>
       <td>Benennungsstandards</td>
-      <td>Verwenden Sie einfache, beschreibende Namen verwenden, z. B. „ProScheduler“.</td>
+      <td>Verwenden Sie einfache, beschreibende Namen wie „ProScheduler“.</td>
       <td>Verwenden Sie keine komplexen Begriffe und Sonderzeichen.</td>
     </tr>
     <tr>
@@ -134,7 +143,7 @@ Im Abschnitt **[!UICONTROL Schreibstil]** werden die Standards zum Verfassen von
     <tr>
       <td>Copyright-Standards</td>
       <td>Geben Sie Urheberrechtsvermerke auf Marketing-Materialen an.</td>
-      <td>Verwenden Sie Inhalte von Dritten nicht ohne Berechtigung.</td>
+      <td>Verwenden Sie Content von Drittanbietern nicht ohne Berechtigung.</td>
     </tr>
     <tr>
       <td>Haftungsausschlussstandards</td>
@@ -159,7 +168,7 @@ So personalisieren Sie Ihren **[!UICONTROL Schreibstil]**:
 
    * **[!UICONTROL Kanaltyp]**: Wählen Sie aus, wo die Richtlinie, die Ausnahme oder der Ausschluss gelten soll. Beispielsweise soll möglicherweise ein bestimmter Schreibstil nur in E-Mail-, Mobile-, Print- oder anderen Kommunikationskanälen verwendet werden.
 
-   * **[!UICONTROL Elementtyp]**: Geben Sie an, für welches Inhaltselement die Regel gilt. Das können Elemente wie Überschriften, Schaltflächen, Links oder andere Komponenten in Ihrem Inhalt sein.
+   * **[!UICONTROL Elementtyp]**: Geben Sie an, für welches Inhaltselement die Regel gilt. Das können Elemente wie Überschriften, Schaltflächen, Links oder andere Komponenten in Ihrem Content sein.
 
    SCREENSHOT
 
@@ -206,7 +215,7 @@ Im Abschnitt **[!UICONTROL Visueller Inhalt]** werden die Standards für Bilder 
     <tr>
       <td>Nutzungsrichtlinien</td>
       <td>Wählen Sie Lifestyle-Bilder, die reale Kundinnen und Kunden widerspiegeln, die das Produkt in professionellen Umgebungen verwenden.</td>
-      <td>Verwendne Sie keine Bilder, die dem Ton der Marke widersprechen oder anscheinend aus dem Zusammenhang gerissen sind.</td>
+      <td>Verwenden Sie keine Bilder, die dem Ton der Marke widersprechen oder aus dem Zusammenhang gerissen sind.</td>
     </tr>
 </table>
 
@@ -226,7 +235,7 @@ So personalisieren Sie Ihren **[!UICONTROL visuellen Inhalt]**:
 
    * **[!UICONTROL Kanaltyp]**: Wählen Sie aus, wo die Richtlinie, die Ausnahme oder der Ausschluss gelten soll. Beispielsweise soll möglicherweise ein bestimmter Schreibstil nur in E-Mail-, Mobile-, Print- oder anderen Kommunikationskanälen verwendet werden.
 
-   * **[!UICONTROL Elementtyp]**: Geben Sie an, für welches Inhaltselement die Regel gilt. Das können Elemente wie Überschriften, Schaltflächen, Links oder andere Komponenten in Ihrem Inhalt sein.
+   * **[!UICONTROL Elementtyp]**: Geben Sie an, für welches Inhaltselement die Regel gilt. Das können Elemente wie Überschriften, Schaltflächen, Links oder andere Komponenten in Ihrem Content sein.
 
    SCREENSHOT
 
@@ -238,7 +247,7 @@ So personalisieren Sie Ihren **[!UICONTROL visuellen Inhalt]**:
 
 1. Wählen Sie bei Bedarf eine Richtlinie oder einen Ausschluss zum Aktualisieren oder Löschen aus.
 
-1. Wählen Sie eine Richtlinie oder einen Ausschluss aus, um diese bzw. diesen zu aktualisieren. Klicken Sie auf das Symbol „Löschen“, um es zu löschen.
+1. Wählen Sie eine Ihrer Richtlinien oder Ausschlüsse aus, um sie zu aktualisieren. Klicken Sie auf das Symbol „Löschen“, um es zu löschen.
 
    SCREENSHOT
 

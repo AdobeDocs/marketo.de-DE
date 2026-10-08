@@ -1,22 +1,28 @@
 ---
-description: Erhöhen oder verringern Sie das übergeordnete Limit für den Abruf benutzerdefinierter Objekte  [!DNL Velocity]  E-Mails (10 bis 100).
-title: Ändern der Beschränkungen für den Abruf benutzerdefinierter Objekte in [!DNL Velocity Scripting]
+description: Erhöhen oder verringern Sie das übergeordnete Limit für den Abruf benutzerdefinierter Objekte für [!DNL Velocity] Skript in E-Mails (10 bis 100).
+title: Ändern der Abrufbeschränkungen für benutzerdefinierte Objekte in [!DNL Velocity Scripting]
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY
+TQID: 'https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 256
+source-wordcount: '257'
 ht-degree: 1%
-
 ---
-
 # Ändern der Abrufbeschränkungen für benutzerdefinierte Objekte in [!DNL Velocity Scripting] {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
 Wenn Sie [!DNL Velocity Script] verwenden, um benutzerdefinierte Objektdaten in E-Mails anzuzeigen, kann diese Funktion auf Ihren Anwendungsfall zutreffen. Standardmäßig ist der Zugriff auf zehn übergeordnete benutzerdefinierte Objekte über das Velocity-Skript zulässig. Wenn Sie auf weitere Informationen zugreifen müssen, führen Sie die folgenden Schritte aus.

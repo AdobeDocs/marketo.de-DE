@@ -3,16 +3,21 @@ description: Erfahren Sie, wie Sie die Marketo-Lösung in Dynamics 365 mit ROPC-
 title: 'Schritt 1 von 4: Installieren der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers'
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/n6k54dW0WmIUFt7ErxsR1K6Ld-aEjhGSFLgVAZzTqL0
+TQID: 'https://experienceleague.adobe.com/n6k54dW0WmIUFt7ErxsR1K6Ld-aEjhGSFLgVAZzTqL0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 3%
-
 ---
-
 # Schritt 1 von 4: Installieren der Marketo-Lösung mit der Kennwortsteuerungsverbindung des Ressourceneigentümers {#step-1-of-4-install-the-marketo-solution-ropc}
 
 Bevor Sie [!DNL Microsoft Dynamics] 365 und Marketo synchronisieren können, müssen Sie zunächst die Marketo-Lösung in [!DNL Dynamics] installieren. **[!DNL Dynamics]Es sind Administratorberechtigungen erforderlich.**

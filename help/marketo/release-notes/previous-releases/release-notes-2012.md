@@ -1,30 +1,48 @@
 ---
-title: "2012"
+title: '2012'
 description: 2012 - Marketo-Dokumente - Produktdokumentation
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 3339
+source-wordcount: '3339'
 ht-degree: 2%
-
 ---
-
 
 # 2012
 
@@ -64,7 +82,7 @@ Marketing-Experten können jetzt mithilfe von personalisierten URLs (PURLs) kont
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## Unterstützung der EU-Datenschutzrichtlinie {#eu-privacy-directive-support}
+## Unterstützung für die EU-Datenschutzrichtlinie {#eu-privacy-directive-support}
 
 Zu den neuen Funktionen zur Einhaltung der Einstellungen für „Do Not Track“ im Browser gehört die Möglichkeit, das Tracking für anonyme Leads zu deaktivieren. Dies erleichtert die Einhaltung der strengeren EU-Vorschriften zum Datenschutz-Tracking.
 
@@ -180,7 +198,7 @@ Hinweis: Aufgrund von Einschränkungen des Browsers wird diese Funktion derzeit 
 
 ![](assets/image2014-9-23-10-3a4-3a46.png)
 
-## Text in eine E-Mail verschieben {#move-text-in-an-email}
+## Text in einer E-Mail verschieben {#move-text-in-an-email}
 
 Sie können Textblöcke in einer E-Mail neu anordnen. Wählen Sie im Texteditor einen Textblock aus. Wenn Sie auf das Bearbeitungssymbol klicken, wird die Option angezeigt, den Block nach oben oder unten zu verschieben.
 

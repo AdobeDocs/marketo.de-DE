@@ -3,16 +3,18 @@ description: Erfahren Sie mehr über das Einchecken von Ereignissen zum Eincheck
 title: Übersicht über das Einchecken in ein Ereignis
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/ryjtMEfYnhdTzBAZuJFSvOOz2R-3hgWNJL37Hmcvkok
+TQID: 'https://experienceleague.adobe.com/ryjtMEfYnhdTzBAZuJFSvOOz2R-3hgWNJL37Hmcvkok'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: '314'
 ht-degree: 4%
-
 ---
-
 # Übersicht über das Einchecken in ein Ereignis {#event-check-in-overview}
 
 >[!IMPORTANT]
@@ -25,7 +27,7 @@ In diesem Artikel wird der vollständige Prozess beschrieben. Die Überschriften
 
 Einige Aktivitäten finden vor dem Ereignis statt, z. B. das Erstellen einer neuen Rolle und das Einladen von Teilnehmern. Einige passieren während des Ereignisses, z. B. das Einchecken von Teilnehmern. Nach dem Ereignis synchronisieren Sie Ihre Daten mit Marketo und aktualisieren den Status der Person.
 
-## Vorbereiten des Ereignisses
+## Vorbereiten eines Events
 
 Vor dem Ereignis:
 

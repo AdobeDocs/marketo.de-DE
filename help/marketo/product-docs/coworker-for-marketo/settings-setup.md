@@ -1,13 +1,14 @@
 ---
 description: Erfahren Sie, wie Sie Berechtigungen für Coworker for Marketo Engage aktivieren, Organisationsregeln konfigurieren und Einstellungen wie Integrationen und Benachrichtigungen verwalten.
 title: Einstellungen und Setup
-source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 3%
-
 ---
-
 # Einstellungen und Setup {#settings-setup}
 
 Erfahren Sie, wie Sie Berechtigungen aktivieren und den Bereich Einstellungen verwenden, um Verbindungsdetails anzuzeigen, Organisationsregeln zu definieren und Integrationen und Benachrichtigungen einzurichten.

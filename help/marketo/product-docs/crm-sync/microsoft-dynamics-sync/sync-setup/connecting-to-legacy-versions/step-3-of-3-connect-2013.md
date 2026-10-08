@@ -4,16 +4,21 @@ description: Erfahren Sie im letzten Schritt, wie Sie Marketo und Dynamics 2013 
 title: 'Schritt 3 von 3: Verbinden von Marketo und Dynamics (2013 On-Premise)'
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/pERYRYCLDigsARoh7aAWOTXRFmpIWKz8j-tgDb-ShTQ
+TQID: 'https://experienceleague.adobe.com/pERYRYCLDigsARoh7aAWOTXRFmpIWKz8j-tgDb-ShTQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 401
+source-wordcount: '401'
 ht-degree: 3%
-
 ---
-
 # Schritt 3 von 3: Marketo und [!DNL Dynamics] verbinden (2013 On-Premise) {#step-of-connect-marketo-and-dynamics-on-premises}
 
 Die Lösung wird installiert und der Synchronisierungsbenutzer wird konfiguriert. Verbinden Sie als Nächstes Marketo und [!DNL Dynamics].
@@ -58,7 +63,7 @@ Die Lösung wird installiert und der Synchronisierungsbenutzer wird konfiguriert
    >* Der Benutzername in Marketo muss mit dem Benutzernamen für den Synchronisierungsbenutzer in CRM übereinstimmen. Das Format kann `user@domain.com` oder DOMAIN\user lauten.
    >* Wenn Sie die URL nicht kennen, ([&#x200B; Sie hier, wie Sie sie finden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
-## Felder für Synchronisierung auswählen {#select-fields-to-sync}
+## Felder zur Synchronisierung auswählen {#select-fields-to-sync}
 
 Auswahl der zu synchronisierenden Felder.
 

@@ -1,13 +1,14 @@
 ---
 description: Hier erhalten Sie Hilfe, wenn Verkaufs-E-Mails als Spam gekennzeichnet werden. Erfahren Sie mehr über die Ursachen und Schritte zur Verbesserung der Zustellbarkeit und zur Vermeidung von Spam-Filtern.
 title: E-Mail wurde als Spam markiert
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
-
 ---
-
 # E-Mail wurde als Spam markiert {#email-marked-as-spam}
 
 Als Unternehmen arbeiten wir hart daran, dass unsere Zustellbarkeitsraten hoch bleiben. Es gibt jedoch bestimmte Benutzerverhaltensweisen und Einstellungen, die dazu führen können, dass Trigger in Ihren gesendeten E-Mails an den Spam-Ordner weitergeleitet werden.

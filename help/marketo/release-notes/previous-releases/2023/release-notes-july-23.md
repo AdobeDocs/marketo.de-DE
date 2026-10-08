@@ -3,31 +3,39 @@ description: Juli 2023 - Versionshinweise zu Marketo - Produktdokumentation
 title: Juli 2023 – Versionshinweise
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-TQID: https://experienceleague.adobe.com/-7-rFhUAQhG90TYYv6TEUw8p9iDInRcAYM-I25fjR6E
+TQID: 'https://experienceleague.adobe.com/-7-rFhUAQhG90TYYv6TEUw8p9iDInRcAYM-I25fjR6E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 664
+source-wordcount: '664'
 ht-degree: 21%
-
 ---
-
 # Versionshinweise – Juli 2023 {#release-notes-july-23}
 
 Unten finden Sie alle Funktionen, die in der Version vom 23. Juli enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Kontakt, um mehr zu erfahren.
 
-## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen aus dem Standard-Veröffentlichungszyklus {#standard-release-cycle-features}
 
 Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden seit dem **Samstag, 21. Juli 2023 veröffentlicht**, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Bitte überprüfen Sie im Folgenden jede Funktion auf ihren Status.
 
@@ -110,7 +118,7 @@ Die folgenden Funktionen folgen einem Agile-Format und werden an verschiedenen D
   </tr>
   <tr>
    <td>Freigegeben</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Einstellung für automatisches Anhängen einer Abbestellungsnachricht</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Einstellung für automatisches Anhängen einer Abmeldenachricht</a></td>
   </tr>
   </tbody>
 </table>

@@ -3,13 +3,17 @@ description: Checkliste für geerbte Instanz-Marketing-Aktivitäten - Marketo-Do
 title: Checkliste für vererbte Marketing-Aktivitäten der Instanz
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '906'
 ht-degree: 3%
-
 ---
-
 # Vererbte Instanz: Checkliste für Marketing-Aktivitäten {#inherited-instance-marketing-activities-checklist}
 
 Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere Benutzer verschiedene Programme in Ihrer Marketo Engage-Instanz finden und verwalten und sicherstellen können, dass die Personen verarbeitet werden, um vom Marketing zum Vertrieb zu gelangen. Denken Sie daran[&#x200B; die Checklisten herunterzuladen &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) Ihren Fortschritt zu verfolgen.
@@ -23,7 +27,7 @@ Organisieren Sie den Abschnitt Marketing-Aktivitäten entsprechend, damit andere
    <th style="width:70%">Review Focus</th>
   </tr>
   <tr>
-   <td>Benennungskonventionen</td>
+   <td>Namenskonventionen</td>
    <td><li>Haben Ihre Programme eine konsistente <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#naming-schemes" target="_blank">Namenskonvention</a>?</li></td>
   </tr>
   <tr>

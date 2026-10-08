@@ -4,16 +4,18 @@ description: Erfahren Sie, wie Sie Sales Connect-Abmeldungen mit Salesforce sync
 title: Synchronisieren von Abmeldungen mit Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+TQID: 'https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 435
+source-wordcount: '436'
 ht-degree: 2%
-
 ---
-
 # Synchronisieren von Abmeldungen mit [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 
 ## Voraussetzungen für Abmeldungen zur Synchronisierung mit [!DNL Salesforce] {#requirements-for-unsubscribes-to-sync-to-salesforce}
@@ -28,7 +30,7 @@ Wenn in [!DNL Sales Connect] ein Abo storniert wird, pushen wir es in Echtzeit a
 
 **Abo-Synchronisierung**
 
-Wenn Sie die Abmeldesynchronisierung aktiviert haben (Schritt 3 unten), schalten Sie die nächtliche Synchronisierung ein. Die Synchronisation erfolgt einmal täglich um 20:0000 Uhr PST. Alle Abmeldungen in Marketo Sales werden bidirektional mit dem Opt-out-Feld in Salesforce synchronisiert.
+Wenn Sie die Abmeldesynchronisierung aktiviert haben (Schritt 3 unten), schalten Sie die nächtliche Synchronisierung ein. Die Synchronisierung erfolgt einmal täglich um 20:00 Uhr PST. Alle Abmeldungen in Marketo Sales werden bidirektional mit dem Opt-out-Feld in Salesforce synchronisiert.
 
 ## Konfigurieren von Abmeldesynchronisierung mit [!DNL Salesforce] {#configure-unsubscribe-sync-to-salesforce}
 
@@ -93,7 +95,7 @@ Benutzerinnen und Benutzer können entscheiden, ob sie ihre Abmeldungen mit dem 
 
    ![](assets/twelve.png)
 
-## Abmeldung von Marketo Sales {#marketo-sales-opt-out}
+## Marketo Sales Opt-out {#marketo-sales-opt-out}
 
 Das Feld Marketo-Verkaufsabmeldung ist ein benutzerdefiniertes Feld, das Benutzenden zur Verfügung steht, die die Marketo [!DNL Sales Connect]-Anpassungen installiert haben.
 

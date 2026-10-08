@@ -1,16 +1,17 @@
 ---
 description: Erfahren Sie, wie Sie eine getrackte Verkaufs-E-Mail senden, damit Sie Ansichten, Klicks und Antworten sehen können. Verwenden Sie einen Versandkanal und verfolgen Sie ihn über das Command Center.
-title: Senden einer getrackten E-Mail
+title: Senden einer nachverfolgten E-Mail
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 3%
-
 ---
-
-# Senden einer getrackten E-Mail {#sending-a-tracked-email}
+# Senden einer nachverfolgten E-Mail {#sending-a-tracked-email}
 
 Beim Versand einer E-Mail mit Marketo Sales Connect werden Ansichten (E-Mail-Öffnungen) und Klicks (angeklickte Links) verfolgt.
 

@@ -3,18 +3,20 @@ description: Erfahren Sie mehr über empfohlene Vorlagen und Best Practices. Ers
 title: Empfohlene Vorlagen
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Ir692n-hd8iW-xMIQZRnyyqutltbL3IFhiTDlrCOfzY
+TQID: 'https://experienceleague.adobe.com/Ir692n-hd8iW-xMIQZRnyyqutltbL3IFhiTDlrCOfzY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '308'
 ht-degree: 1%
-
 ---
-
 # Empfohlene Vorlagen {#recommended-templates}
 
 Die von [!DNL Sales Insight Action] empfohlenen Vorlagen helfen Ihnen, die richtige Botschaft zu finden und dabei Zeit zu sparen. Dies gibt Ihnen einen größeren Fluss beim Senden von E-Mails und verringert die Unsicherheit, wenn Sie versuchen, die richtige E-Mail für die richtige Person zu finden.

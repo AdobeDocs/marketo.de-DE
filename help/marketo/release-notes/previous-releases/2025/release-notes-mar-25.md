@@ -3,36 +3,45 @@ description: März 2025 - Versionshinweise zu Marketo - Produktdokumentation
 title: Versionshinweise – März 2025
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-TQID: https://experienceleague.adobe.com/-doC9SgyYBwcHdWEVf1O2DkSys8ni859Q1VN7x4BxnY
+TQID: 'https://experienceleague.adobe.com/-doC9SgyYBwcHdWEVf1O2DkSys8ni859Q1VN7x4BxnY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 527
+source-wordcount: '527'
 ht-degree: 39%
-
 ---
-
 # Versionshinweise – März 2025 {#release-notes-mar-25}
 
-Nachstehend finden Sie alle Funktionen, die in der Version vom 25. März enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
+Nachstehend finden Sie alle Funktionen, die in der Version vom 25. März enthalten sind. Überprüfen Sie Ihre Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.
 
 Die Versionshinweise speziell für Adobe Dynamic Chat [finden Sie hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Weitere Informationen erhalten Sie vom Marketo Engage-Support.
+>Mit einem Stern (![star](assets/yellow-star.png) gekennzeichnete Funktionen sind kostenpflichtige Add-ons. Wenden Sie sich an Ihren Marketo Engage-Kontakt, um mehr zu erfahren.
 
-## Funktionen aus dem standardmäßigen Veröffentlichungszyklus {#standard-release-cycle-features}
+## Funktionen im Standard-Veröffentlichungszyklus {#standard-release-cycle-features}
 
 Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszyklus und werden ab dem **Samstag, 28. März 2025** veröffentlicht, wobei die verbleibenden Funktionen in den folgenden Wochen schrittweise bereitgestellt werden. Veröffentlichungsfunktionen und -daten können sich ändern. Überprüfen Sie neben jeder Funktion ihren Status.
 
@@ -76,15 +85,15 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Einstellung von Social**: Am Mittwoch, 31. Juli 2024, begann Marketo Engage mit der Einstellung der folgenden Social-Media-Funktionen innerhalb des Produkts:
 
-   * Umfragen
-   * Social-Schaltfläche
-   * Empfehlungsangebot
-   * Videofreigabe
-   * Gewinnspiele
+  * Umfragen
+  * Social-Schaltfläche
+  * Empfehlungsangebot
+  * Videofreigabe
+  * Gewinnspiele
 
 Ab diesem Zeitpunkt waren Benutzende nicht mehr in der Lage, diese Social-Media-Funktionen in Marketo Engage zu erstellen, zu klonen oder einzubetten. Vorhandene soziale Assets funktionieren bis zum 31. Januar 2025 weiterhin. Am 1. Februar 2025 hörten die sozialen Assets auf zu funktionieren. Alle in Landingpages eingebetteten Social-Media-Funktionen müssen entfernt werden. [Weitere Informationen](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Einstellung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird nicht mehr unterstützt und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Abschaffung des Parameters „access_token“ der REST-API**: Der Abfrageparameter `access_token`, der zum Authentifizieren von Marketo-REST-API-Aufrufen verwendet wird, wird abgeschafft und ist nach dem 31. März 2026 nicht mehr verfügbar. Alle neuen und vorhandenen Integrationen sollten REST-API-Aufrufe mit dem Header „Authorization“ authentifizieren, [wie hier beschrieben](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Abschaffung der SOAP-API**: Die Unterstützung für die Marketo SOAP-API endet am 31. März 2026. Services, die SOAP-API-Funktionen verwenden, sollten zur [REST-API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} migriert werden.
 

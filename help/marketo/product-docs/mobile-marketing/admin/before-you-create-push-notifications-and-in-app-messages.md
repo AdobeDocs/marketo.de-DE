@@ -4,21 +4,25 @@ description: Erfahren Sie, was eingerichtet werden muss, bevor Sie Push- und In-
 title: Vor dem Erstellen von Push-Benachrichtigungen und In-App-Nachrichten
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/YNAyIX3spLETvHChasi9xpP9K96ksYdkr-MSdGp2qog
+TQID: 'https://experienceleague.adobe.com/YNAyIX3spLETvHChasi9xpP9K96ksYdkr-MSdGp2qog'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 417
+source-wordcount: '417'
 ht-degree: 4%
-
 ---
-
 # Vor dem Erstellen von Push-Benachrichtigungen und In-App-Nachrichten {#before-you-create-push-notifications-and-in-app-messages}
 
 Das Erstellen von Push-Benachrichtigungen und In-App-Nachrichten ist nicht schwierig, aber Sie müssen alles vorbereitet haben, bevor Sie beginnen können. Der Marketo-Administrator und der Entwickler der mobilen App sollten die folgenden Schritte ausführen, um die erforderlichen Integrationen vorzubereiten.

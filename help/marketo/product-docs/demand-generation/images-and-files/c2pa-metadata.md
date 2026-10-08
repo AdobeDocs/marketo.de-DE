@@ -3,16 +3,28 @@ description: Erfahren Sie, wie C2PA-Metadaten automatisch an KI-generierte Bilde
 title: C2PA-Metadaten in Marketo Engage
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '715'
-ht-degree: 2%
-
+ht-degree: 25%
 ---
-
 # C2PA-Metadaten in Marketo Engage
 
-Im Bereich der generativen KI-Transparenz entstehen neue Gesetze, und Adobe arbeitet daran, die geltenden Anforderungen in allen Rechtssystemen zu erfüllen. C2PA-Metadaten sind das Herkunftstool, das Adobe verwendet, um die Anforderungen dieser Gesetze zu erfüllen.
+In Bezug auf Transparenz generativer KI entstehen ständig neue Gesetze und Adobe arbeitet daran, die geltenden Anforderungen in allen Gerichtsbarkeiten zu erfüllen. C2PA-Metadaten sind das Herkunftstool, das Adobe verwendet, um die Anforderungen dieser Gesetze zu erfüllen.
 
 C2PA-Metadaten sind dauerhafte, unsichtbare Metadaten, die aufzeichnen, wie ein Inhaltselement erstellt oder bearbeitet wurde. Wenn Sie ein Bild mit Tools für generative KI in Marketo Engage generieren oder bearbeiten, werden C2PA-Metadaten automatisch an dieses Bild angehängt (Ihrerseits ist keine Aktion erforderlich). Es handelt sich um verschlüsselte, manipulationssichere Informationen, die Betrachtern helfen können, die Herkunft der Inhalte zu verstehen und die Integrität der Marken-Assets sicherzustellen. Zu diesen Informationen gehören:
 
@@ -30,22 +42,22 @@ In der folgenden Tabelle wird basierend auf der Bildaktion, die bei der Bildgene
 
 | Aktion | Beschreibung | C2PA-Metadaten angehängt? | Anwendungsbeispiel |
 |---|---|---|---|
-| **Verwenden des Tools „Bild generieren“** | Erstellen Sie ein neues Bild aus einer Textaufforderung, aus einem Referenzbild oder generieren Sie ein ähnliches Bild. | Immer. Das Bild wird durch generative KI generiert, sodass es immer neue C2PA-Metadaten enthält. | Aus einer Textaufforderung, die das gewünschte visuelle Element beschreibt, wird ein Bannerbild für eine E-Mail-Kampagne generiert. |
-| **Beschneiden eines Bildes** | Passen Sie ein Bild an die gewünschten Abmessungen an. | Nur wenn das Quellbild bereits C2PA-Metadaten enthielt. Beim Zuschneiden werden die Pixel des Bildes neu erstellt, die normalerweise diese C2PA-Metadaten löschen würden. Daher liest Marketo Engage sie vor dem Zuschneiden aus dem Quellbild, erstellt sie dann neu und fügt sie erneut an das zugeschnittene Ergebnis an. Beim Zuschneiden selbst wird keine neue generative KI-Aktion hinzugefügt, sondern die vorhandene beibehalten. | Ein generiertes Bannerbild wird zugeschnitten, damit es in eine Web-Seite passt: Die C2PA-Metadaten werden durch den Zuschnitt beibehalten. Ein hochgeladenes Stockfoto, das als Hintergrund für eine Push-Benachrichtigung verwendet wird, wird dem Bildschirm zugeordnet: Da das Stockfoto keine generative KI-Aktion aufweist, werden keine C2PA-Metadaten erstellt. |
-| **Hinzufügen einer Textüberlagerung** | Generierten Text über einem Hintergrundbild rendern | Nur wenn das Hintergrundbild bereits C2PA-Metadaten enthielt. Beim Rendern der Überlagerung wird ein neues Bild aus dem Hintergrund plus Text erstellt, der diese C2PA-Metadaten normalerweise löscht. Daher liest Marketo Engage es zuvor aus dem Hintergrundbild, erstellt es dann neu und fügt es erneut an das Ergebnis an. Der Überlagerungsschritt fügt keine neue generative KI-Aktion hinzu. | Eine Werbe-Überschrift wird als Textüberlagerung auf einem generierten Hintergrundbild für eine Landingpage gerendert: Die C2PA-Metadaten aus dem Hintergrundbild werden beibehalten. |
+| **Verwenden des Tools „Bild generieren“** | Erstellen Sie ein neues Bild aus einer Textaufforderung, aus einem Referenzbild oder generieren Sie ein ähnliches Bild. | Immer. Das Bild wird durch generative KI generiert, sodass es immer neue C2PA-Metadaten enthält. | Ein Bannerbild für eine E-Mail-Kampagne wird aus einem Text-Prompt generiert, der das gewünschte visuelle Element beschreibt. |
+| **Beschneiden eines Bildes** | Passen Sie ein Bild an die gewünschten Abmessungen an. | Nur wenn das Quellbild bereits C2PA-Metadaten enthielt. Beim Zuschneiden werden die Pixel des Bildes neu erstellt, die normalerweise diese C2PA-Metadaten löschen würden. Daher liest Marketo Engage sie vor dem Zuschneiden aus dem Quellbild, erstellt sie dann neu und fügt sie erneut an das zugeschnittene Ergebnis an. Beim Zuschneiden selbst wird keine neue generative KI-Aktion hinzugefügt, sondern die vorhandene beibehalten. | Ein generiertes Bannerbild wird zugeschnitten, damit es in eine Web-Seite passt: Die C2PA-Metadaten werden durch den Zuschnitt beibehalten. Ein hochgeladenes Stock-Foto, das als Hintergrund für eine Push-Benachrichtigung verwendet wird, wird auf die Bildschirmgröße zugeschnitten: Da das Stock-Foto keine auf generativer KI basierende Aktion aufweist, werden keine C2PA-Metadaten erstellt. |
+| **Hinzufügen einer Textüberlagerung** | Generierten Text über einem Hintergrundbild rendern | Nur wenn das Hintergrundbild bereits C2PA-Metadaten enthielt. Beim Rendern der Überlagerung wird ein neues Bild aus dem Hintergrund plus Text erstellt, der diese C2PA-Metadaten normalerweise löscht. Daher liest Marketo Engage es zuvor aus dem Hintergrundbild, erstellt es dann neu und fügt es erneut an das Ergebnis an. Der Überlagerungsschritt fügt keine neue Aktion der generativen KI hinzu. | Eine Werbeüberschrift wird als Textüberlagerung auf einem generierten Hintergrundbild für eine Landingpage gerendert: Die C2PA-Metadaten aus dem Hintergrundbild werden beibehalten. |
 
 ## Inhaltstypen und ihr Umfang
 
-**Bilder**: Überdeckt. C2PA-Metadaten werden angehängt, wenn Bilder mit generativer KI generiert werden, und bleiben durch Zuschneiden und Textüberlagerung erhalten, die von der Bildgenerierung in Marketo Engage ausgeführt werden.
+**Bilder**: Abgedeckt. C2PA-Metadaten werden angehängt, wenn Bilder mit generativer KI generiert werden, und bleiben durch Zuschneiden und Textüberlagerung erhalten, die von der Bildgenerierung in Marketo Engage ausgeführt werden.
 
-**Text**: Nicht zutreffend. Reine Textausgaben der Bilderstellung in Marketo Engage, z. B. Kopiergenerierung, Übersetzung und Vorschläge für die Markenausrichtung, erfordern keine C2PA-Metadaten.
+**Text:** Nicht anwendbar. Reine Textausgaben der Bilderstellung in Marketo Engage, z. B. Kopiergenerierung, Übersetzung und Vorschläge für die Markenausrichtung, erfordern keine C2PA-Metadaten.
 
-## Was passiert, wenn Inhalte verschoben werden?
+## Was beim Verschieben von Inhalten passiert
 
 Marketo Engage behält C2PA-Metadaten bei, die mit unterstützten Bild-Assets verknüpft sind. Wenn ein Bild beim Import in Marketo Engage C2PA-Metadaten enthält, werden die Metadaten beibehalten, wenn das Asset in generierten Kampagneninhalten und in ausgehenden E-Mail-Erlebnissen verwendet wird.
 
 ## Zusätzliche Ressourcen
 
-* [Transparenz des generativen KI-Inhalts](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
-* [Benutzerrichtlinien für die generative KI von Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
+* [Transparenz von Inhalt generativer KI](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
+* [Benutzerrichtlinien für generative KI in Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
 * [Leitlinien und Einschränkungen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}

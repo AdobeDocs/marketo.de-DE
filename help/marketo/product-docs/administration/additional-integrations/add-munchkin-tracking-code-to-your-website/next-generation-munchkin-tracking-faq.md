@@ -1,30 +1,38 @@
 ---
 unique-page-id: 10096583
-description: Häufig gestellte Fragen zum Tracking- [!DNL Munchkin]  der nächsten Generation und zur Änderung des Is Anonymous-Filters.
-title: Häufig gestellte  [!DNL Munchkin]  zum Tracking der nächsten Generation
+description: Häufig gestellte Fragen zur nächsten Generation des [!DNL Munchkin]-Trackings und zur Änderung des Is Anonymous-Filters.
+title: Häufig gestellte Fragen zur nächsten Generation [!DNL Munchkin] Tracking
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-TQID: https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk
+TQID: 'https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 1c1a93b2-f024-5627-9905-6faf6fcc22be
+    internal-label: Munchkin Tracking Code
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 705
+source-wordcount: '710'
 ht-degree: 0%
-
 ---
-
 # Häufig gestellte Fragen zur nächsten Generation [!DNL Munchkin] Tracking {#next-generation-munchkin-tracking-faq}
 
 Marketo führt die Web-Tracking-Technologie der nächsten Generation schrittweise ein.
@@ -57,7 +65,9 @@ Wenn Sie diesen Filter bereits in einer Smart-Liste verwenden (z. B. in einer Sm
 
 >[!NOTE]
 >
->**Trigger**: Besucht die Web-Seite, die Web-Seite ist die Preisseite >**Fluss**: Punktzahl ändern +10 und Interessanter Moment >**Web**: Seite mit angezeigten Preisen
+>**Trigger**: Besucht die Web-Seite, die Web-Seite ist die Preisseite
+>**Fluss**: Punktzahl ändern +10 und Interessanter Moment
+>**Web**: Seite mit angezeigten Preisen
 >
 >Bei [!DNL Munchkin] V2 tritt eine anonyme Person, die die Preisseite besucht, nicht sofort in die Kampagne ein. Sobald die anonyme Person bekannt wird, führt Marketo diese Kampagne für sie aus. Sie werden:
 >

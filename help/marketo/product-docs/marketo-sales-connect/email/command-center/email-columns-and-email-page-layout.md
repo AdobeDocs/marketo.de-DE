@@ -1,22 +1,24 @@
 ---
 unique-page-id: 37357302
 description: Erfahren Sie mehr über E-Mail-Spalten und das Layout von E-Mail-Seiten in Sales Connect. Anpassen, welche Spalten in der Command Center- und E-Mail-Ansicht angezeigt werden.
-title: Layout von E-Mail-Spalten und E-Mail-Seiten
+title: E-Mail-Spalten und E-Mail-Seiten-Layout
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk
+TQID: 'https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 533
+source-wordcount: '533'
 ht-degree: 2%
-
 ---
-
-# Layout von E-Mail-Spalten und E-Mail-Seiten {#email-columns-and-email-page-layout}
+# E-Mail-Spalten und E-Mail-Seiten-Layout {#email-columns-and-email-page-layout}
 
 Sie können jede der verfügbaren Spalten so konfigurieren, dass sie im E-Mail-Abschnitt des [!UICONTROL Command Center“ angezeigt &#x200B;]. Ihre Konfigurationseinstellungen werden für jeden E-Mail-Unterordner gespeichert (z. B. [!UICONTROL Zugestellt], , [!UICONTROL Geplant] usw.).
 

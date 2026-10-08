@@ -1,19 +1,21 @@
 ---
 unique-page-id: 37356590
 description: Erfahren Sie, wie Sie Ihrer Sales Connect-E-Mail Highspot-Inhalte hinzufügen. Fügen Sie verfolgbare Highspot-Links und -Anhänge in das Fenster „Erstellen“ ein.
-title: Hinzufügen von Highspot-Inhalten zu einer E-Mail
+title: Hinzufügen von Highspot-Content zu Ihrer E-Mail
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/kVIAJgt6Jrv6px5XM7lIepJw4m3nxHtn76aGXbUob-0
+TQID: 'https://experienceleague.adobe.com/kVIAJgt6Jrv6px5XM7lIepJw4m3nxHtn76aGXbUob-0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 149
+source-wordcount: '149'
 ht-degree: 4%
-
 ---
-
 # Hinzufügen [!DNL Highspot] E-Mail-Inhalts {#adding-highspot-content-to-your-email}
 
 Wenn Sie ein [!DNL Highspot] Kunde sind, können Sie einfach [!DNL Highspot] Inhalt in Ihre [!DNL Sales Connect] E-Mails einfügen.

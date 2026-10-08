@@ -1,19 +1,21 @@
 ---
 unique-page-id: 14352484
 description: Hier erhalten Sie Hilfe zur Behebung des Fehlers „Wir konnten Ihre Anfrage nicht authentifizieren“ beim Verbinden von Sales Connect mit Salesforce. Fehlerbehebung bei Authentifizierungsproblemen.
-title: Wie sich der Fehler „Wir konnten Ihre Anfrage nicht authentifizieren“ beheben lässt, wenn eine Verbindung zu Salesforce hergestellt werden soll
+title: Beheben des Fehlers „Wir konnten Ihre Anfrage nicht authentifizieren“, wenn Sie eine Verbindung zu Salesforce herstellen
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho
+TQID: 'https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: '175'
 ht-degree: 8%
-
 ---
-
 # Wie zu beheben „Wir konnten Ihre Anfrage nicht authentifizieren“, wenn eine Verbindung zu [!DNL Salesforce] hergestellt wurde {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
 Wenn Sie beim Versuch, eine Verbindung zwischen [!DNL Sales Connect] und [!DNL Salesforce] herzustellen, die Fehlermeldung „Wir konnten Ihre Anfrage nicht authentifizieren“ erhalten, kann Ihr Zugriff auf die API von [!DNL Salesforce] eingeschränkt sein. Wenden Sie sich an Ihren [!DNL Salesforce], um sicherzustellen, dass die folgenden Voraussetzungen erfüllt sind.

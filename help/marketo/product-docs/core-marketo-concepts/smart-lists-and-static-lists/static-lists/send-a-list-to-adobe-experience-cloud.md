@@ -4,22 +4,27 @@ description: Erfahren Sie, wie Sie eine Liste an Adobe Experience Cloud senden. 
 title: Senden einer Liste an Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
+TQID: 'https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 847
+source-wordcount: '847'
 ht-degree: 4%
-
 ---
-
 # Senden einer Liste an Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
@@ -41,13 +46,13 @@ ht-degree: 4%
 
 ## So senden Sie eine statische Liste {#how-to-send-a-static-list}
 
-Eine statische Liste ist statisch. In Adobe Experience Cloud werden keine Änderungen an der Liste vorgenommen, es sei denn, Sie nehmen diese manuell vor.
+Eine statische Liste ist statisch. In Adobe Experience Cloud werden keine Änderungen an der Liste vorgenommen, es sei denn, Sie nehmen sie manuell vor.
 
 1. Suchen Sie in Marketo die Liste, die Sie exportieren möchten. Klicken Sie mit der rechten Maustaste darauf und wählen Sie **[!UICONTROL An Experience Cloud senden]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Klicken Sie auf die Dropdown-**&#x200B;** Audience Manager-Ordner und wählen Sie den gewünschten Zielordner in der Experience Cloud aus.
+1. Klicken Sie auf die Dropdown-**&#x200B;** Audience Manager-Ordner und wählen Sie den gewünschten Zielordner in Experience Cloud aus.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
@@ -71,7 +76,7 @@ Das Synchronisieren einer Liste bedeutet, dass jedes Mal, wenn Sie eine Liste in
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
-1. Klicken Sie auf **[!UICONTROL Zielgruppenbibliotheksordner]** und wählen Sie den gewünschten Zielordner in der Experience Cloud aus.
+1. Klicken Sie auf **[!UICONTROL Zielgruppenbibliotheksordner]** und wählen Sie den gewünschten Zielordner in Experience Cloud aus.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 

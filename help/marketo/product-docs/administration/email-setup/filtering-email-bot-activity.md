@@ -1,23 +1,29 @@
 ---
 description: Filtern oder protokollieren Sie die Bot-Aktivität von E-Mails, um überhöhte Öffnungen und Klicks mithilfe von IAB-Listenabgleichen und Übereinstimmungsmustern zu verhindern.
-title: Filtern auf E-Mail-Bot-Aktivität
+title: Filtern von E-Mail-Bot-Aktivität​
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+TQID: 'https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 496
+source-wordcount: '496'
 ht-degree: 11%
-
 ---
-
-# Filtern auf E-Mail-Bot-Aktivität {#filtering-email-bot-activity}
+# Filtern von E-Mail-Bot-Aktivität&#x200B; {#filtering-email-bot-activity}
 
 Manchmal kann die E-Mail-Bot-Aktivität fälschlicherweise die Daten Ihrer E-Mail-Öffnungen und Klicks aufblähen. Gehen Sie wie folgt vor, um dieses Problem zu beheben.
 
@@ -25,10 +31,10 @@ Zur Bestätigung einer Bot-Aktivität werden zwei unterschiedliche Methoden verw
 
 * Übereinstimmung mit der [Interactive Advertising Bureau Bot List](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Aktivitäten, die mit irgendetwas auf der IAB UA/IP (User Agent/IP Address)-Liste übereinstimmen, werden als Bots markiert.
 * Übereinstimmung mit dem Übereinstimmungsmuster: Wenn zwei oder mehr Aktivitäten gleichzeitig stattfinden (in weniger als einer Sekunde), werden sie als Bots identifiziert. Beim Vergleich werden folgende Attribute berücksichtigt:
-   * Lead-ID (muss gleich sein)
-   * E-Mail-Asset (muss dasselbe sein)
-   * Link-Klick oder E-Mail öffnen
-   * Zeitdifferenz (sollte weniger als eine Sekunde betragen)
+  * Lead-ID (muss gleich sein)
+  * E-Mail-Asset (muss dasselbe sein)
+  * Link-Klick oder E-Mail öffnen
+  * Zeitdifferenz (sollte weniger als eine Sekunde betragen)
 
 Für die Aktivität E-Mail-Link-Klick und E-Mail-Öffnen werden neue Attribute mit den folgenden Werten ausgefüllt:
 
@@ -66,7 +72,7 @@ Für die Aktivität E-Mail-Link-Klick und E-Mail-Öffnen werden neue Attribute m
 >
 >* Wenn Sie [!UICONTROL Bot-Aktivität filtern] auswählen, werden möglicherweise weniger E-Mail-Öffnungen und Klicks angezeigt, da falsche Aktivitäten entfernt werden.
 
-**OPTIONALER SCHRITT**: Um eine dieser Funktionen zu deaktivieren, heben Sie die Auswahl des entsprechenden Schiebereglers auf. Andernfalls werden die Daten nicht zurückgesetzt.
+**OPTIONALER SCHRITT**: Um eine dieser Funktionen zu deaktivieren, heben Sie die Auswahl des entsprechenden Schiebereglers auf. Wenn Sie dies tun, werden die Daten nicht zurückgesetzt.&#x200B;
 
 >[!TIP]
 >

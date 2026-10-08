@@ -4,51 +4,84 @@ short-description: Lernen Sie Marketo Engage-Begriffe und ihre Definitionen kenn
 title: Marketo Engage-Glossar
 feature: Getting Started
 exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
-TQID: https://experienceleague.adobe.com/PTGIP2b0gv2iYVUC6dXES-Sh2XNeCLZJT-VnWZ5-1Yk
+TQID: 'https://experienceleague.adobe.com/PTGIP2b0gv2iYVUC6dXES-Sh2XNeCLZJT-VnWZ5-1Yk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
   - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
   - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: cfb57412-021b-4a60-afde-b402d442e24f
+    internal-label: Marketing activities
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+    internal-label: Global Assets
   - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
   - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
   - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+    internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 6103
+source-wordcount: '6103'
 ht-degree: 62%
-
 ---
-
 # Marketo Engage-Glossar {#marketo-engage-glossary}
 
 Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verwendung von Marketo Engage begegnen können.
@@ -75,7 +108,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong>Kontoliste</strong></td>
-   <td>Eine Liste der Namen wichtigsten Accounts/Organisationen. Wird auch als Target Account Management(<strong>TAM</strong>)-Liste bezeichnet.</td>
+   <td>Eine Liste der Namen der wichtigsten Konten/Organisationen. Wird auch als Target Account Management(<strong>TAM</strong>)-Liste bezeichnet.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Kontoprofilierung</strong></td>
@@ -95,7 +128,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong>Akquirierungsprogramm</strong></td>
-   <td colspan="1">Das Programm, das für die Akquise einer Person verantwortlich war. Die Person war möglicherweise anonym; dieses Programm war für die Konvertierung in eine bekannte Person verantwortlich. Dies hilft beim Einrichten einer Erstkontakt-Attribution.</td>
+   <td colspan="1">Das Programm, das für die Akquise einer Person verantwortlich war. Die Person war möglicherweise anonym, und dieses Programm war für das Konvertieren in eine bekannte Person verantwortlich. Dies hilft beim Einrichten einer Erstkontakt-Attribution.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Aktivitäten</strong></td>
@@ -103,11 +136,11 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Integrationen mit Anzeigennetzwerken</strong></a></td>
-   <td colspan="1">(ehemals Ad Bridge) Dies ist eine Möglichkeit, die einzigartigen Zielgruppendaten von Marketo mit Ihren Paid-Media-Systemen zu verbinden, damit Sie gezieltere, personalisierte digitale Werbekampagnen durchführen können.</td>
+   <td colspan="1">(ehemals Ad Bridge) Dies ist eine Möglichkeit, die einzigartigen Zielgruppendaten von Marketo mit Ihren Paid-Media-Systemen zu verbinden, damit Sie gezieltere, personalisierte digitale Anzeigenkampagnen durchführen können.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td>
-   <td colspan="1">Der offizielle Markenname für die Zusammenfassung aller Marketo-Produktangebote in Adobe Experience Cloud.</td>
+   <td colspan="1">Der offizielle Markenname für die Sammlung aller Marketo-Produktangebote in Adobe Experience Cloud.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Erweiterte BI-Analyse</strong></td>
@@ -127,7 +160,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong>Anonyme Besucherin bzw. anonymer Besucher</strong></td>
-   <td>Eine Person, die eine Website besucht hat, dort aber nie ein Formular ausgefüllt oder ihre Details hinterlassen hat.</td>
+   <td>Eine Person, die eine Website besucht, dort aber nie ein Formular ausgefüllt oder ihre Daten hinterlassen hat.</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="https://developer.adobe.com/marketo-apis/" rel="nofollow">Anwendungsprogrammierschnittstelle</a> (API)</strong></td>
@@ -165,7 +198,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
     <div>
      <p><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-smart-campaign" rel="nofollow">Stapel-Kampagne</a></strong></p>
     </div></td>
-   <td><p>Eine <strong>Kampagne</strong>, die qualifizierte Mitglieder mithilfe von Filtern oder Listenmitgliedschaften anspricht. Stapel-Kampagnen werden zu einem bestimmten Zeitpunkt gestartet und wirken sich auf eine bestimmte Gruppe von Personen gleichzeitig aus. Stapel-Kampagnen können so eingestellt werden, dass sie wiederholt oder einmalig durchgeführt werden.<br></p></td>
+   <td><p>Eine <strong>Kampagne</strong>, die qualifizierte Mitglieder mithilfe von Filtern oder Listenmitgliedschaften anspricht. Batch-Kampagnen werden zu einem bestimmten Zeitpunkt gestartet und wirken sich gleichzeitig auf eine bestimmte Gruppe von Personen aus. Batch-Kampagnen können so eingestellt werden, dass sie wiederholt oder einmalig durchgeführt werden.<br></p></td>
   </tr>
   <tr>
    <td colspan="1"><strong>Verhaltensbewertung</strong></td>
@@ -215,7 +248,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md" rel="nofollow">Kampagnenordner</a></strong></td>
-   <td colspan="1">Eine Organisationseinheit, die verschiedene <strong>Programme</strong> und/oder <strong>intelligente Kampagnen</strong> enthalten kann. Genauso wie ein Ordner auf Ihrem Desktop werden Ordner in Marketo für die Anordnung und Berichterstellung verwendet.</td>
+   <td colspan="1">Eine Organisationseinheit, die verschiedene <strong>Programme</strong> und/oder <strong>intelligente Kampagnen</strong> enthalten kann. Genauso wie ein Ordner auf deinem Desktop werden Ordner in Marketo für die Organisation und Reporting verwendet.</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#cast" rel="nofollow"><strong>Umwandlung</strong></a></td>
@@ -231,7 +264,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong>Zum Öffnen klicken %</strong></td>
-   <td>Prozentsatz der E-Mails, die geöffnet wurden und bei denen auf einen Link in der Nachricht geklickt wurde. Dabei werden Relevanz und Kontext einer E-Mail gemessen. Hierzu wird die Anzahl der Einzelklicks durch die Anzahl der Einzelöffnungen dividiert und mit 100 multipliziert, um den Wert als Prozentsatz anzuzeigen.</td>
+   <td>Prozentsatz der E-Mails, die geöffnet wurden und bei denen ein Link-Klick in der Nachricht erfolgt ist.​ Dabei werden Relevanz und Kontext einer E-Mail gemessen. Hierzu wird die Anzahl der eindeutigen Klicks durch die Anzahl der eindeutigen Öffnungen dividiert und mit 100 multipliziert, um den Wert als Prozentsatz anzuzeigen.</td>
   </tr>
   <tr>
    <td><strong>Klicks</strong></td>
@@ -300,7 +333,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   <tr>
    <td colspan="1">
     <div>
-     <p><strong> CRM (Customer Relationship Management)</strong></p>
+     <p><strong> Customer Relationship Management (CRM)</strong></p>
     </div></td>
    <td colspan="1">Ein System, mit dem Unternehmen Informationen zu ihrer Kundschaft/potenziellen Kundschaft verwalten können. Eine native Integration ermöglicht Marketo nur mit zwei CRM-Systemen: <strong>Salesforce</strong> und <strong>Microsoft Dynamics</strong>.</td>
   </tr>
@@ -351,7 +384,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong>Demografische Bewertung</strong></td>
-   <td colspan="1">Ein Punktwert, der basierend auf bestimmten Attributen der Person zugewiesen wird, wie z. B. Berufsbezeichnung, Umsatzgröße oder Zielbranche. Dient in der Regel dazu, die Eignung einer Person für Ihr Produkt oder Ihr Unternehmen zu messen. </td>
+   <td colspan="1">Ein Punktwert, der basierend auf bestimmten Attributen der Person zugewiesen wird, wie z. B. Berufsbezeichnung, Umsatzgröße oder Zielbranche. Dient in der Regel dazu, die Eignung einer Person für Ihr Produkt oder Ihre Firma zu messen. </td>
   </tr>
   <tr>
    <td colspan="1"><strong>Design-Studio</strong></td>
@@ -367,7 +400,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong>Docs</strong></td>
-   <td colspan="1">Kurz für Dokumente: Dokumente sind Hilfeartikel für Kundinnen und Kunden, um das Produkt besser zu verstehen. Marketo verfügt über Produktdokumente (die Site, auf der Sie sich derzeit befinden) und <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home" rel="nofollow">Entwickler</a>-Dokumente.</td>
+   <td colspan="1">„Docs“ ist die Kurzform für „Dokumente“ und bezeichnet Hilfeartikel, mit denen Kundinnen und Kunden das Produkt besser verstehen können. Marketo verfügt über Produktdokumente (die Site, auf der Sie sich derzeit befinden) und <a href="https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home" rel="nofollow">Entwickler</a>-Dokumente.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Domain-based Message Authentication, Reporting &amp; Conformance (DMARC)</strong></td>
@@ -383,7 +416,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong>Drip-Kampagne</strong></td>
-   <td colspan="1"><span>Eine Direkt-Marketing-Methode, bei der der Kundschaft/potenziellen Kundschaft über einen langen Zeitraum eine Serie an Korrespondenzen gesendet wird, sozusagen tröpfchenweise.</span></td>
+   <td colspan="1"><span>Eine Direkt-Marketing-Methode, bei der der Kundschaft bzw. potenziellen Kundschaft über einen langen Zeitraum eine Reihe von Korrespondenzen gesendet wird.</span></td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" rel="nofollow"><strong>Dauerhafte Abmeldung</strong></a></td>
@@ -448,7 +481,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
     <div>
      <p><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" rel="nofollow">Interaktionsprogramm</a></strong></p>
     </div></td>
-   <td colspan="1">Ein Programmtyp in Marketo. Interaktionsprogramme ermöglichen es Ihnen, neue Personen anzusprechen, indem Sie ihnen systematisch Inhalte bereitstellen (auch als „Nurturing-Programm“ bezeichnet).<br></td>
+   <td colspan="1">Ein Programmtyp in Marketo. Interaktionsprogramme ermöglichen es Ihnen, neue Personen anzusprechen, indem Sie ihnen systematisch Content bereitstellen (auch als „Nurturing-Programm“ bezeichnet).<br></td>
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md" rel="nofollow"><strong>Interaktionsbewertung</strong></a></td>
@@ -475,7 +508,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>Erschöpft</strong></a></td>
-   <td colspan="1">Wenn eine Person alle Inhalte in einem Interaktionsstrom erhalten hat. Personen, die als erschöpft gekennzeichnet sind, bleiben in diesem Status, bis zusätzliche <strong>Inhalte</strong> hinzugefügt werden.</td>
+   <td colspan="1">Wenn eine Person jedes Content-Element in einem Interaktions-Stream erhalten hat. Personen, die als erschöpft gekennzeichnet sind, bleiben in diesem Status, bis zusätzliche <strong>Inhalte</strong> hinzugefügt werden.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Experience Cloud-Zielgruppensynchronisierung</strong></td>
@@ -632,11 +665,11 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
     <div>
      <p><strong>Landingpage</strong></p>
     </div></td>
-   <td>Eine von Marketo gehostete Seite, auf der Sie <strong>Inhalte</strong> anzeigen und Besuchende nachverfolgen können. Es gibt zwei verschiedene Typen: Freiform und Geführt. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Freiform-Landingpages</a> ermöglichen es Ihnen, beliebige Inhalte per Drag-and-Drop an eine beliebige Stelle zu ziehen. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Geführte Landingpages</a> sind strikter, da durch die <strong>Vorlage</strong> ein Layout/eine Struktur vordefiniert ist.</td>
+   <td>Eine von Marketo gehostete Seite, auf der Sie <strong>Inhalte</strong> anzeigen und Besuchende nachverfolgen können. Es gibt zwei verschiedene Typen: „Freiformular“ und „Vorgegeben“. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Freiform-Landingpages</a> ermöglichen es Ihnen, beliebige Inhalte per Drag-and-Drop an eine beliebige Stelle zu ziehen. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Geführte Landingpages</a> sind strikter, da durch die <strong>Vorlage</strong> ein Layout/eine Struktur vordefiniert ist.</td>
   </tr>
   <tr>
    <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">LaunchPoint</a></strong></td>
-   <td>Der Ausgangspunkt für erstklassige Marketo-integrierte Lösungen mit Hunderten von Technologie- und Digital-Service-Partnern.</td>
+   <td>Die Startseite für marktführende, in Marketo integrierte Lösungen mit Hunderten von Technologie- und Digital-Service-Partnern.</td>
   </tr>
   <tr>
    <td><strong>Lead</strong></td>
@@ -706,7 +739,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketo Sales Connect</a> (MSC)</strong></td>
-   <td>Ein zusätzliches, facettenreiches Verkaufs-Tool, das Marketing-Fachleuten dabei hilft, mit potenziellen Kundinnen und Kunden zu interagieren und die Leistung zu verfolgen.</td>
+   <td>Ein Add-on, facettenreiches Verkaufs-Tool, das Marketing-Fachleuten dabei hilft, mit potenziellen Kundinnen und Kunden zu interagieren und die Leistung zu verfolgen.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Marketo Sales Insight (MSI)</strong></td>
@@ -722,7 +755,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong>Mein Marketo</strong></td>
-   <td colspan="1">Einer der Standardbereiche von Adobe Marketo Engage. Fungiert als Marketo-„Homepage“ und zeigt Kacheln für alle Bereiche von Marketo an, auf die Sie Zugriff haben.</td>
+   <td colspan="1">Einer der Standardabschnitte von Adobe Marketo Engage. Fungiert als Marketo-Startseite und zeigt Kacheln für alle Abschnitte von Marketo an, auf die Sie Zugriff haben.</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Meine Token</strong></a></td>
@@ -903,7 +936,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong>Rolle</strong></td>
-   <td>Ein Titel, der einer Person zugewiesen wird, die eine Reihe von Berechtigungen auf sich vereint (z. B. Admin, Marketing-Benutzende).</td>
+   <td>Ein Titel, der einer Person zugewiesen wird und eine Reihe von Berechtigungen zusammenfasst (z. B. Admin, Marketing-Benutzer).</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Rollenkonto</strong></td>
@@ -974,7 +1007,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Intelligente Kampagne</strong></a></td>
-   <td colspan="1">Eines der wichtigsten Tools in Marketo. Sie führen Aktionen aus, die Sie auf Grundlage von durch Sie festgelegten Kriterien festlegen. (siehe auch <strong><a href="#b">Stapel-Kampagne</a></strong> und <strong><a href="#t">Auslöser-Kampagne</a></strong>)</td>
+   <td colspan="1">Eines der wichtigsten Tools in Marketo. Sie führen Aktionen aus, die Sie auf Grundlage von von Ihnen festgelegten Kriterien definieren. (siehe auch <strong><a href="#b">Stapel-Kampagne</a></strong> und <strong><a href="#t">Auslöser-Kampagne</a></strong>)</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Intelligente Liste</strong></td>
@@ -990,7 +1023,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td colspan="1"><strong>Software as a Service (SaaS)</strong></td>
-   <td colspan="1">Eine Methode zur Bereitstellung von Software, für die kein Download erforderlich ist, sondern lediglich ein Gerät mit einem Webbrowser und einer Internet-Verbindung (z. B. Marketo). </td>
+   <td colspan="1">Eine Methode zur Bereitstellung von Software, für die kein Herunterladen erforderlich ist, sondern lediglich ein Gerät mit einem Webbrowser und einer Internet-Verbindung (z. B. Marketo). </td>
   </tr>
   <tr>
    <td colspan="1"><strong>Spam</strong></td>
@@ -1002,7 +1035,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong>Split-Test</strong></td>
-   <td>Ein Experiment mit zwei oder mehr Varianten zur Messung der Differenz der Ergebnisse. Das Ziel ist es, Änderungen an Web-Seiten zu identifizieren, mit denen sich ein gewünschtes Ergebnis verbessern oder maximieren lässt.</td>
+   <td>Ein Test mit zwei oder mehr Varianten, um den Unterschied in den Ergebnissen zu messen. Das Ziel ist es, Änderungen an Web-Seiten zu identifizieren, mit denen sich ein gewünschtes Ergebnis verbessern oder maximieren lässt.</td>
   </tr>
   <tr>
    <td><strong>Statische Liste</strong></td>
@@ -1098,7 +1131,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong>Benutzende</strong></td>
-   <td>Eine Person, die Marketo verwendet.</td>
+   <td>Ein Kontakt, der Marketo verwendet.</td>
   </tr>
  </tbody>
 </table>
@@ -1143,7 +1176,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web-Personalisierung</strong></td>
-   <td>Eine Add-on-Funktion, die eine Targeting- und Personalisierungsplattform bietet, mit der Marketo-Benutzende bekannte und anonyme Besuchende in Echtzeit einbinden können, je nachdem, wer sie sind und was sie tun.</td>
+   <td>Eine Add-on-Funktion, die eine Targeting- und Personalisierungsplattform bereitstellt und Marketo-Benutzenden hilft, bekannte und anonyme Besuchende in Echtzeit einzubinden – basierend darauf, wer sie sind und was sie tun.</td>
   </tr>
   <tr>
    <td><strong>Webinar</strong></td>
@@ -1155,7 +1188,7 @@ Im Folgenden finden Sie Definitionen für viele Begriffe, die Ihnen bei der Verw
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Website-Retargeting</a></strong></td>
-   <td>Eine Add-on-Funktion, mit der Benutzende von Marketo bekannte und anonyme Besuchende (über Facebook und Google) mit relevanten Anzeigen ansprechen können, die auf der Branche, benannten Konten und bekannten Daten basieren.</td>
+   <td>Eine Add-on-Funktion, mit der Marketo-Benutzende bekannte und anonyme Besuchende (über Facebook und Google) mit relevanten Anzeigen ansprechen können, die auf der Branche, benannten Konten und bekannten Daten basieren.</td>
   </tr>
   <tr>
    <td><strong>What You See Is What You Get (WYSIWYG)</strong></td>

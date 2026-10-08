@@ -1,22 +1,25 @@
 ---
 unique-page-id: 4720108
 description: Erfahren Sie, wie Sie die Inhaltsempfehlungsleiste mit Predictive Analytics für jede URL aktivieren und gestalten. Verwenden Sie Inhaltseinstellungen, um Seiten einzuschalten und Farben und Pfade anzupassen.
-title: Aktivieren der Inhaltsempfehlungsleiste
+title: Aktivieren der Content-Empfehlungsleiste
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s
+TQID: 'https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '341'
 ht-degree: 3%
-
 ---
-
-# Aktivieren der Inhaltsempfehlungsleiste {#enable-the-content-recommendation-bar}
+# Aktivieren der Content-Empfehlungsleiste {#enable-the-content-recommendation-bar}
 
 Die Inhaltsempfehlungs-Engine verwendet prädiktive Analysen und Algorithmen des maschinellen Lernens, um jedem Web-Besucher relevante Inhalte bereitzustellen. Die Recommendations-Engine sagt voraus, welche Inhalte pro Besucher am besten funktionieren würden. Der Inhalt für die Engine wird unter der Seite Recommendations überwacht und gesteuert, sodass Sie Ihren Inhalts-ROI optimieren können.
 

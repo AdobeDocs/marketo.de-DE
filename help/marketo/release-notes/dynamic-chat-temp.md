@@ -4,16 +4,25 @@ title: Dynamic Chat-Versionshinweise
 feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+TQID: 'https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 933
+source-wordcount: '933'
 ht-degree: 66%
-
 ---
-
 # Dynamic Chat-Versionshinweise {#dynamic-chat-release}
 
 Die Versionen von Adobe Dynamic Chat basieren auf einem Modell der kontinuierlichen Bereitstellung, das einen besser skalierbaren Ansatz für die Bereitstellung von Funktionen ermöglicht. Manchmal gibt es mehrere Versionen in einem Monat, schauen Sie daher regelmäßig nach den aktuellsten Informationen.
@@ -24,29 +33,29 @@ Die Standardseite mit den Versionshinweisen für Marketo Engage [finden Sie hier
 
 ### Überarbeitung der Routing-Logik {#routing-logic-revamp}
 
-Die Routing-Logik des Live-Chats in Dynamic Chat wurde überarbeitet, um über alle Routing-Typen hinweg (Konto, benutzerdefiniert, Team und Round Robin) für ein intelligenteres und besser vorhersehbares Interaktionsverhalten zu sorgen. Die neue Logik vereinfacht Routing-Abläufe und verbessert Ausweichmöglichkeiten, wenn keine Agentinnen oder Agenten verfügbar sind.
+Die Routing-Logik des Live-Chats in Dynamic Chat wurde überarbeitet, um über alle Routing-Typen hinweg (Konto, benutzerdefiniert, Team und Round Robin) für ein intelligenteres und besser vorhersehbares Interaktionsverhalten zu sorgen. Die neue Logik vereinfacht Routing-Abläufe und verbessert die Handhabung von Fallbacks, wenn keine Agents verfügbar sind.
 
 #### Wichtige Verbesserungen im Routing-Verhalten
 
 * **Bis zu zwei Interaktionsversuche pro Sitzung**
 
-   * Das System versucht, eine Verbindung mit bis zu zwei Agenten herzustellen (höchstens), jedoch ausschließlich innerhalb der primären Routingregel.
+  * Das System versucht, eine Verbindung mit bis zu zwei Agenten herzustellen (höchstens), jedoch ausschließlich innerhalb der primären Routingregel.
 
-   * Wenn ein Agent verfügbar ist, aber nicht reagiert (z. B. den Chat ablehnt oder verpasst), versucht das System, eine Verbindung zu einem anderen Agenten aus demselben Pool herzustellen.
+  * Wenn ein Agent verfügbar ist, aber nicht reagiert (z. B. den Chat ablehnt oder verpasst), versucht das System, eine Verbindung zu einem anderen Agenten aus demselben Pool herzustellen.
 
-   * Die Ausweichlogik (wie etwa Round Robin) wird nur aktiviert, wenn bei der ersten Auflösung keine geeigneten Agentinnen oder Agenten gefunden werden, jedoch nicht für ein erneutes Versuchen nach einer fehlgeschlagenen Interaktion.
+  * Die Fallback-Logik (wie etwa Round Robin) wird nur aktiviert, wenn bei der ersten Auflösung keine geeigneten Agents gefunden werden, jedoch nicht, um nach einer fehlgeschlagenen Interaktion einen erneuten Versuch zu starten.
 
 * **Spezifisches Verhalten für eine Routing-Regel**
 
 _&#x200B;**Konto-Routing**&#x200B;_
 
-Wenn die E-Mail-Domain einer Besucherin oder eines Besuchers einem bekannten Konto zugeordnet ist, wird die als Agentin bzw. Agent zugeordnete Person immer priorisiert.
+Wenn die E-Mail-Domain einer Besucherin oder eines Besuchers einem bekannten Konto zugeordnet ist, hat der zugeordnete Agent immer Priorität.
 
-Wenn diese Person verfügbar ist, wird der Chat direkt an sie weitergeleitet.
+Wenn der Agent verfügbar ist, wird der Chat direkt an ihn weitergeleitet.
 
-Wenn sie nicht verfügbar ist, tut das System Folgendes:
+Wenn der Agent nicht verfügbar ist, führt das System Folgendes aus:
 
-* Es versucht nicht, eine andere Person als Agentin bzw. Agenten zu erreichen, auch wenn Round Robin als Ausweichlösung aktiviert ist.
+* Das System versucht nicht, einen anderen Agent zu erreichen, auch wenn Round Robin als Fallback aktiviert ist.
 
 Stattdessen gilt Folgendes:
 
@@ -66,18 +75,18 @@ Nur weil eine Person nicht reagiert, wird nicht gleich ein Round-Robin-Fallback 
 Wenn sich keine Agentin bzw. kein Agent meldet, passiert Folgendes:
 
 * Das System zeigt den Kalender des ersten Agenten an (falls aktiviert).
-&#x200B;- oder -
+- oder -
 * Es zeigt die standardmäßige Fallback-Nachricht an.
 
 _&#x200B;**Round-Robin-Routing**&#x200B;_
 
 Bei Verwendung als primäre Routing-Regel führt das System Folgendes durch:
 
-* Es versucht, die erste als Agentin bzw. Agent verfügbare Person aus dem Round-Robin-Pool zu kontaktieren.
+* Versucht, den ersten verfügbaren Agent aus dem Round-Robin-Pool zu kontaktieren.
 
 * Wenn die erste Person nicht antwortet, erfolgt ein erneuter Versuch mit der am nächstbesten geeigneten Person.
 
-Wenn Round Robin als Fallback verwendet wird, wird es nur aktiviert, wenn von der primären Regel keine Agentinnen oder Agenten aufgelöst werden.
+Wenn Round Robin als Fallback verwendet wird, wird es nur aktiviert, wenn von der primären Regel keine Agentinnen oder Agenten ermittelt werden.
 
 _&#x200B;**Besuchererlebnis-Fluss**&#x200B;_
 
@@ -85,7 +94,7 @@ Das System prüft, ob Konto-Routing anwendbar ist.
 
 * Falls ja und wenn eine Agentin oder ein Agent verfügbar ist, wird sofort eine Verbindung hergestellt.
 
-* Wenn die Person nicht geeignet oder nicht verfügbar ist, wird mit der Routing-Regel auf Kartenebene fortgefahren.
+* Wenn der Agent nicht geeignet oder nicht verfügbar ist, wird mit der Routing-Regel auf Kartenebene fortgefahren.
 
 Routingregel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wurden ausgewertet.
 
@@ -95,9 +104,9 @@ Routingregel auf Kartenebene (benutzerdefiniert, Team, Round Robin) wurden ausge
 
 * Wenn keine Interaktion erfolgreich ist, wird die Ausweichlogik angewendet:
 
-   * Kalender-Fallback (falls aktiviert),
-&#x200B;- oder -
-   * Standardnachricht.
+  * Kalender-Fallback (falls aktiviert),
+    - oder -
+  * Standardnachricht.
 
 Round Robin wird als Ausweichlösung nur dann in Betracht gezogen, wenn keine geeigneten Agentinnen oder Agenten gemäß der primären Routing-Regel gefunden werden, aber nicht, wenn einzelne Agentinnen bzw. Agenten nicht reagieren.
 

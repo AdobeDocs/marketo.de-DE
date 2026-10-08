@@ -1,20 +1,22 @@
 ---
 description: Erfahren Sie mehr über E-Mail-Vorlagen für Transaktionsverkäufe und wenn keine Abmelde-Links erforderlich sind. Wird für Eins-zu-eins-Transaktionsnachrichten verwendet.
-title: E-Mail-Vorlagen für Transaktionsverkäufe
+title: Vorlagen für transaktionale Vertriebs-E-Mails
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-TQID: https://experienceleague.adobe.com/jtFUKYM-28npTije11gtCPNGBdsgEcI6Qhp6lbbLWUY
+TQID: 'https://experienceleague.adobe.com/jtFUKYM-28npTije11gtCPNGBdsgEcI6Qhp6lbbLWUY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 194
+source-wordcount: '194'
 ht-degree: 5%
-
 ---
-
 # E-Mail-Vorlagen für Transaktionsverkäufe {#transactional-sales-email-templates}
 
 Wenn Ihr Team Transaktions- oder nicht-kommerzielle E-Mails versendet, können Sie eine E-Mail-Vorlage als nicht-kommerziell markieren, damit Abmeldungen umgangen werden können.

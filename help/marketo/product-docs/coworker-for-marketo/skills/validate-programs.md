@@ -1,7 +1,10 @@
 ---
 description: Erfahren Sie, wie Sie Ihre Programme auf Best Practices für alle Komponenten überprüfen können, z. B. E-Mails, Landingpages, Kampagnen und mehr.
 title: Programme validieren
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 2%

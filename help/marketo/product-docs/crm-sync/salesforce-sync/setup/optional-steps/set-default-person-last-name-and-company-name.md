@@ -1,20 +1,25 @@
 ---
 unique-page-id: 4719291
 description: Erfahren Sie, wie Sie den Nachnamen und Firmennamen der Standardperson für die Synchronisierung mit Salesforce festlegen. Verwenden Sie die Optionen Admin und Sync , damit partielle Datensätze mit Standardwerten synchronisiert werden.
-title: Festlegen des standardmäßigen Nachnamens einer Person und Firmennamens
+title: Festlegen des Standardnachnamens einer Person und des Firmennamens
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/pq4XPfiwO1UemSmg3edhJgWWmvR-mx4Q3udff9xzWt0
+TQID: 'https://experienceleague.adobe.com/pq4XPfiwO1UemSmg3edhJgWWmvR-mx4Q3udff9xzWt0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 149
+source-wordcount: '149'
 ht-degree: 10%
-
 ---
-
-# Festlegen des standardmäßigen Nachnamens einer Person und Firmennamens {#set-default-person-last-name-and-company-name}
+# Festlegen des Standardnachnamens einer Person und des Firmennamens {#set-default-person-last-name-and-company-name}
 
 [!DNL Salesforce] erfordert (mindestens) Nachnamen und Firmennamen für die Leads und Kontakte. Unvollständige Datensätze werden nicht mit [!DNL Salesforce] synchronisiert. Wenn Sie partielle Datensätze synchronisieren möchten, müssen Sie Standardwerte für die Verwendung von Marketo mit [!DNL Salesforce] festlegen.
 

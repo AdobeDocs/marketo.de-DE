@@ -1,20 +1,22 @@
 ---
 unique-page-id: 10096712
 description: Erfahren Sie, wie Sie Ihr Webinar-Ereignis in ON24 für die Verwendung mit Marketo erstellen. Richten Sie das Ereignis in ON24 ein, bevor Sie mit Marketo synchronisieren.
-title: Erstellen eines Your Webinar-Ereignisses in ON24
+title: Erstellen eines Webinar-Ereignisses in ON24
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-TQID: https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0
+TQID: 'https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 6%
-
 ---
-
-# Erstellen eines Your Webinar-Ereignisses in ON24 {#create-your-webinar-event-in-on}
+# Erstellen eines Webinar-Ereignisses in ON24 {#create-your-webinar-event-in-on}
 
 Nachdem Sie Ihr Webinar in ON24 erstellt haben, können Sie ein Marketo-Ereignis erstellen und es mit dem ON24-Webinar verknüpfen. Dadurch können die Systeme Registrierungs- und Anwesenheitsinformationen austauschen. Notieren Sie sich die URL und andere Informationen zur Verwendung in Ihrer Bestätigungs-E-Mail und ICS-Datei.
 

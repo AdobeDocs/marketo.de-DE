@@ -7,32 +7,41 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-TQID: https://experienceleague.adobe.com/SCmyn9QUECmvQgVltKknlvLuvL15Tz3LYorBFYB1hqI
+TQID: 'https://experienceleague.adobe.com/SCmyn9QUECmvQgVltKknlvLuvL15Tz3LYorBFYB1hqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: fdc003d7aed05d85687427d9455bb806eb33d0b2
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1403
+source-wordcount: '1403'
 ht-degree: 12%
-
 ---
-
 # Anpassbare Fragmente {#customizable-fragments}
 
 Wenn Fragmente in einer E-Mail oder E-Mail-Vorlage verwendet werden, sind sie aufgrund der Vererbung standardmäßig gesperrt, d. h. alle Änderungen, die an einem Fragment vorgenommen werden, werden automatisch an alle Assets weitergegeben, in denen es verwendet wird. Mit anpassbaren Fragmenten können bestimmte Felder innerhalb eines Fragments als bearbeitbar definiert werden, wenn das Fragment zu einer E-Mail oder E-Mail-Vorlage hinzugefügt wird. Wenn Sie beispielsweise über ein Fragment mit einem Banner, etwas Text und einer Schaltfläche verfügen, können Sie bestimmte Felder, z. B. die Bild- oder Schaltflächen-Ziel-URL, als bearbeitbar festlegen.
 
 Mit anpassbaren Fragmenten können Sie Inhalte verwalten und personalisieren, ohne völlig neue Inhaltsbausteine zu erstellen oder die Fragmentvererbung zu unterbrechen. Änderungen, die auf Fragmentebene vorgenommen werden, werden weiterhin weitergegeben und ermöglichen die Anpassung auf E-Mail- oder E-Mail-Vorlagenebene.
 
-Sowohl visuelle Fragmente als auch Ausdrucksfragmente können als anpassbar markiert werden.
+Sowohl visuelle Fragmente als auch Ausdrucksfragmente können als benutzerdefiniert markiert werden.
 
 ## Hinzufügen bearbeitbarer Felder in visuellen Fragmenten {#visual}
 
@@ -42,7 +51,7 @@ Gehen Sie wie folgt vor, um Teile eines visuellen Fragments als bearbeitbar fest
 >
 >Bearbeitbare Felder können zu **Bild**-, **Text**- und **Schaltflächenkomponenten** hinzugefügt werden. Für **HTML**-Komponenten werden bearbeitbare Felder ähnlich wie Ausdrucksfragmente mithilfe des Personalisierungseditors hinzugefügt. [Erfahren Sie mehr über bearbeitbare Felder in HTML-Komponenten in Fragmenten](#editable-html)
 
-1. Öffnen Sie den Bildschirm zur Inhaltsbearbeitung von Fragmenten.
+1. Öffnen Sie den Bearbeitungsbildschirm für den Fragment-Content.
 
 1. Wählen Sie die Komponente in Ihrem Fragment aus, für die Sie bearbeitbare Felder konfigurieren möchten.
 
@@ -119,7 +128,7 @@ Die Inline-Deklaration unterstützt optionale Parameter, die die Darstellung ode
 
 | Aktion | Parameter | Beispiel |
 |---|---|---|
-| Deklarieren eines bearbeitbaren Felds mit einem **Standardwert**. Wenn das Fragment zu einer E-Mail hinzugefügt wird, wird dieser Standardwert verwendet, es sei denn, der Autor überschreibt ihn. | Hinzufügen des Standardwerts zwischen den Inline-Tags. | `{{#inline "editableFieldID"}}default_value{{/inline}}` |
+| Deklarieren eines bearbeitbaren Felds mit einem **Standardwert**. Wenn das Fragment zu einer E-Mail hinzugefügt wird, wird dieser Standardwert verwendet, es sei denn, der Autor überschreibt ihn. | Fügen Sie den Standardwert zwischen die Inline-Tags ein. | `{{#inline "editableFieldID"}}default_value{{/inline}}` |
 | Definieren eines **Labels** für das bearbeitbare Feld. Dieser Titel wird in der E-Mail-Designer angezeigt, wenn der E-Mail-Autor die Felder des Fragments bearbeitet. | `name="title"` | `{{#inline "editableFieldID" name="title"}}default_value{{/inline}}` |
 | Deklarieren Sie ein bearbeitbares Feld, das eine **Bildquelle“**. | `assetType="image"` | `{{#inline "editableFieldID" assetType="image"}}default_value{{/inline}}` |
 | Deklarieren Sie ein bearbeitbares Feld, das eine **URL** enthält, die verfolgt werden muss. | `assetType="url"` | `{{#inline "editableFieldID" assetType="url"}}default_value{{/inline}}` |

@@ -4,18 +4,20 @@ description: Erfahren Sie mehr über Admin- und Nicht-Admin-Benutzerberechtigung
 title: Details zum Benutzerzugriff
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R6ZtthzpNCoE7mMQX3NxjBcrpMBRPCDILsVz5-aGWRY
+TQID: 'https://experienceleague.adobe.com/R6ZtthzpNCoE7mMQX3NxjBcrpMBRPCDILsVz5-aGWRY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 248
+source-wordcount: '248'
 ht-degree: 2%
-
 ---
-
 # Details zum Benutzerzugriff {#user-access-details}
 
 Auf was haben Administratoren und Nicht-Administratoren Zugriff?
@@ -48,30 +50,30 @@ Administratoren können Kampagnen im Namen von Benutzern stoppen.
 
 * Analytics:
 
-   * Benutzer können Team Analytics anzeigen
-   * Benutzer können einen Drill-in nur für die Teams durchführen, zu denen sie gehören
-   * Benutzer können ihre eigenen Analysen betrachten
+  * Benutzer können Team Analytics anzeigen
+  * Benutzer können einen Drill-in nur für die Teams durchführen, zu denen sie gehören
+  * Benutzer können ihre eigenen Analysen betrachten
 
 * Seite Beziehungen:
 
-   * Benutzende können Gruppen für alle freigeben
-   * Benutzende können Gruppen nur für die Teams freigeben, zu denen sie gehören
-   * Wenn ein Benutzer gelöscht wird, übertragen seine freigegebenen Kontakte das Eigentum an den primären Administrator, der den Benutzer gelöscht hat
+  * Benutzende können Gruppen für alle freigeben
+  * Benutzende können Gruppen nur für die Teams freigeben, zu denen sie gehören
+  * Wenn ein Benutzer gelöscht wird, übertragen seine freigegebenen Kontakte das Eigentum an den primären Administrator, der den Benutzer gelöscht hat
 
 * Sales Beat - Nächster und Live-Feed:
 
-   * Benutzer können die Ansicht „Alle“ anzeigen
-   * Benutzer können nach den Teams filtern, zu denen sie gehören
-   * Benutzer können Beiträge für alle freigeben
-   * Benutzer können Beiträge nur für das/die Team(s) freigeben, dem/denen sie angehören
+  * Benutzer können die Ansicht „Alle“ anzeigen
+  * Benutzer können nach den Teams filtern, zu denen sie gehören
+  * Benutzer können Beiträge für alle freigeben
+  * Benutzer können Beiträge nur für das/die Team(s) freigeben, dem/denen sie angehören
 
 * Team Management-Seite:
 
-   * Nicht anzeigen
+  * Nicht anzeigen
 
 * Vorlagenseite:
 
-   * Benutzer können Vorlagen für alle freigeben
-   * Benutzende können Vorlagen in Kategorien freigeben, die ihre Admins ihnen erlauben
-   * Wenn ein(e) Benutzende(r) aus einem Team entfernt wird, wird die Freigabe seiner Vorlagen für dieses Team aufgehoben
-   * Wenn ein(e) Benutzende(r) aus einem Team gelöscht wird, überträgt seine/ihre Vorlage das Eigentum an den Master-Administrator/in, der/die den/die Benutzende gelöscht hat
+  * Benutzer können Vorlagen für alle freigeben
+  * Benutzende können Vorlagen in Kategorien freigeben, die ihre Admins ihnen erlauben
+  * Wenn ein(e) Benutzende(r) aus einem Team entfernt wird, wird die Freigabe seiner Vorlagen für dieses Team aufgehoben
+  * Wenn ein(e) Benutzende(r) aus einem Team gelöscht wird, überträgt seine/ihre Vorlage das Eigentum an den Master-Administrator/in, der/die den/die Benutzende gelöscht hat

@@ -1,16 +1,23 @@
 ---
 description: Erfahren Sie, wie Sie einen festen Satz von Werten für ein Feld definieren, um die Daten- und Workflow-Verwaltung zu vereinfachen.
-title: Auswahllisten-Verwaltung
+title: Auswahllisten-Management
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
-
 ---
-
-# Auswahllisten-Verwaltung {#picklist-management}
+# Auswahllisten-Management {#picklist-management}
 
 Mit der Auswahllistenverwaltung können Sie einen festen Satz von Werten für ein Feld definieren, um die Daten- und Workflow-Verwaltung in Marketo Engage zu vereinfachen. Nur Nicht-Text-Felder, die keinem CRM-Feld mit einer definierten Auswahlliste zugeordnet sind, können in Marketo verwaltet werden. Wenn ein Feld einem CRM-Feld zugeordnet ist, das über eine definierte Auswahlliste verfügt, müssen die Werte für dieses Feld im CRM definiert werden.
 

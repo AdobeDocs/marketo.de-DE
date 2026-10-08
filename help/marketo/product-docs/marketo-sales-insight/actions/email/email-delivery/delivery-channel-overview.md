@@ -3,16 +3,18 @@ description: Erfahren Sie mehr über Versandkanäle für den Versand von Verkauf
 title: Versandkanal – Überblick
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE
+TQID: 'https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 678
+source-wordcount: '679'
 ht-degree: 0%
-
 ---
-
 # Versandkanal – Überblick {#delivery-channel-overview}
 
 Marketo Sales bietet mehrere Optionen zum Versand von E-Mails. In diesem Artikel werden die verfügbaren Versandkanäle sowie deren Auswahl und der Zeitpunkt der Auswahl erläutert.
@@ -57,7 +59,7 @@ MSC-Server unterstützen keine DKIM- und SPF-Authentifizierungsmethoden, was die
 
 ## Marketo-Server {#marketo-servers}
 
-E-Mail-Server von Marketo lassen sich nicht mit Marketo Sales integrieren. Marketo-Server sind für die Massenbereitstellung optimiert, damit sie an die Anforderungen von Marketing-Experten angepasst werden können. Gmail und [!DNL Exchange] weisen jedoch eine höhere Erfolgsrate für die 1:1-Verkaufskommunikation auf. Aus diesem Grund empfehlen wir, diese Server für Ihre Verkaufskommunikation zu verwenden.
+E-Mail-Server von Marketo lassen sich nicht mit Marketo Sales integrieren. Marketo-Server sind für die Massenbereitstellung optimiert, damit sie an die Anforderungen von Marketing-Experten angepasst werden können. Gmail und [!DNL Exchange] haben jedoch eine höhere Erfolgsrate für die 1:1-Verkaufskommunikation, weshalb wir empfehlen, diese Server für Ihre Verkaufskommunikation zu verwenden.
 
 >[!MORELIKETHIS]
 >

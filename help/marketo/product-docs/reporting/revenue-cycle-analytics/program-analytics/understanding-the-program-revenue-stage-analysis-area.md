@@ -4,13 +4,19 @@ description: Erfahren Sie mehr über das Verständnis des Bereichs „Programm-U
 title: Grundlegendes zum Bereich für die Analyse der Programmumsatzphasen
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: e9ef2843fb7e700f1d9d1fd1f04a27fe2f6e516e
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 8%
-
 ---
-
 # Grundlegendes zum Bereich für die Analyse der Programmumsatzphasen {#understanding-the-program-revenue-stage-analysis-area}
 
 In diesem Analysebereich können Sie die Effektivität einzelner Programme analysieren oder Ergebnisse nach Kanal zusammenfassen. Es bietet Einblicke, wie viele der neu generierten Namen bestimmte Erfolgspfade in Ihrem Umsatzzyklusmodell erreicht haben.
@@ -79,7 +85,7 @@ Um verfügbare Dimensionen oder Kennzahlen innerhalb einer Kategorie anzuzeigen,
 <table>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>Abmessung</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Dimension</strong></p></td>
    <td colspan="1" rowspan="1"><p><strong>Beschreibung</strong></p></td>
   </tr>
   <tr>
@@ -98,7 +104,7 @@ Um verfügbare Dimensionen oder Kennzahlen innerhalb einer Kategorie anzuzeigen,
 <table>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>Abmessung</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Dimension</strong></p></td>
    <td colspan="1" rowspan="1"><p><strong>Beschreibung</strong></p></td>
   </tr>
   <tr>

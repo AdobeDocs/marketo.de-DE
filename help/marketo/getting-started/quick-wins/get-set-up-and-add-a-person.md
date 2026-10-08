@@ -4,18 +4,20 @@ description: Einrichten und eine Person hinzufügen – Marketo-Dokumente – Pr
 title: Einrichten und eine Person hinzufügen
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/rRqzAz5PfuToNYobPd16xS8kPKeEyiymlN0Bs-YuA5c
+TQID: 'https://experienceleague.adobe.com/rRqzAz5PfuToNYobPd16xS8kPKeEyiymlN0Bs-YuA5c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 229
+source-wordcount: '229'
 ht-degree: 96%
-
 ---
-
 # Einrichten und eine Person hinzufügen {#get-set-up-and-add-a-person}
 
 Es gibt ein paar Sachen zu erledigen, bevor Sie mit Ihren Aufgaben loslegen können.
@@ -28,7 +30,7 @@ Es gibt ein paar Sachen zu erledigen, bevor Sie mit Ihren Aufgaben loslegen kön
 
 ## Schritt 2: Erstellen eines Lernordners {#step-create-a-learning-folder}
 
-Es soll ein Ordner erstellt werden, in dem alle Vorgänge gespeichert werden, die Sie in den einzelnen Aufgaben ausführen.
+Erstellen wir einen Ordner, in dem alles gespeichert wird, was Sie in den einzelnen Aufgaben erstellen.
 
 1. Navigieren Sie zum Bereich **[!UICONTROL Marketing-Aktivitäten]**.
 
@@ -72,7 +74,7 @@ Fügen Sie sich selbst als Person in Marketo hinzu, sodass Sie zu einem spätere
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. Klicken Sie auf die Registerkarte **[!UICONTROL Personen]**. Ihr Name sollte in der Datenbank angezeigt werden.
+1. Klicken Sie auf die Registerkarte **[!UICONTROL Personen]**. Sie sollten sich selbst in der Datenbank sehen.
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 

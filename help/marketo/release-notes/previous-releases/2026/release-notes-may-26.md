@@ -2,13 +2,20 @@
 description: Mai 2026 - Versionshinweise zu Marketo - Produktdokumentation
 title: Mai 2026 - Versionshinweise
 feature: Release Information
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '805'
 ht-degree: 14%
-
 ---
-
 # Mai 2026 - Versionshinweise {#release-notes-may-26}
 
 Im Folgenden finden Sie alle Funktionen, die in der Version vom Mai 2026 enthalten sind. Überprüfen Sie Ihre Adobe Marketo Engage-Edition auf die Verfügbarkeit der Funktionen.

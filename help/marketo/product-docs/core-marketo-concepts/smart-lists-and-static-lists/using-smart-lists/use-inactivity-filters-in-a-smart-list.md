@@ -1,20 +1,25 @@
 ---
 unique-page-id: 7511477
 description: Erfahren Sie, wie Sie Inaktivitätsfilter in einer Smart List verwenden. Finde Leute, die seit einer bestimmten Zeit nichts getan haben.
-title: Verwenden von Inaktivitätsfiltern in einer intelligenten Liste
+title: Verwenden von Inaktivitätsfiltern in einer Smart List
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/Yn0UrS8Umo--Uhd7iGyUCI-aB0pTyY0jxrf2277qUSM
+TQID: 'https://experienceleague.adobe.com/Yn0UrS8Umo--Uhd7iGyUCI-aB0pTyY0jxrf2277qUSM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 133
+source-wordcount: '133'
 ht-degree: 13%
-
 ---
-
-# Verwenden von Inaktivitätsfiltern in einer intelligenten Liste {#use-inactivity-filters-in-a-smart-list}
+# Verwenden von Inaktivitätsfiltern in einer Smart List {#use-inactivity-filters-in-a-smart-list}
 
 Verwenden Sie Inaktivitätsfilter, um Personen in einer Smart-Liste zu finden, die etwas nicht getan haben.
 

@@ -1,19 +1,34 @@
 ---
 solution: Marketo Engage
 product: Marketo Engage
-title: Verwenden von Modulen in der E-Mail-Designer
+title: Verwenden von Modulen im E-Mail-Designer
 description: Erfahren Sie, wie Sie in E-Mail-Designer auf vorgefertigte Module zugreifen, diese einfügen und anpassen können, einschließlich Kopf- und Fußzeilen, um ein konsistentes E-Mail-Design zu gewährleisten.
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '470'
-ht-degree: 0%
-
+ht-degree: 55%
 ---
-
-# Verwenden von Modulen in der E-Mail-Designer {#email-modules}
+# Verwenden von Modulen im E-Mail-Designer {#email-modules}
 
 E-Mail-Designer enthält eine Bibliothek mit Modulen: einsatzbereite, vollständig strukturierte Inhaltsbausteine, die die E-Mail-Erstellung beschleunigen und die Konsistenz des Designs in Ihrer gesamten Kommunikation fördern.
 
@@ -23,9 +38,9 @@ Im Gegensatz [Inhaltskomponenten](/help/marketo/product-docs/email-marketing/ema
 >
 >Module sind keine Fragmente. Sie sind in der von Ihnen entworfenen E-Mail enthalten. Nachdem Sie ein Modul jedoch an Ihre Anforderungen angepasst haben, können Sie es als &quot;[&#x200B; Fragment“ speichern](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#visual-fragments) um es dann für andere E-Mails und Nachrichten wiederzuverwenden.
 
-## Zugreifen auf und Einfügen von Modulen {#access-modules}
+## Aufrufen und Einfügen von Modulen {#access-modules}
 
-Gehen Sie wie folgt vor, um die verfügbaren Module in der E-Mail-Designer anzuzeigen und zu nutzen.
+Gehen Sie wie folgt vor, um die verfügbaren Module im E-Mail-Designer anzuzeigen und zu nutzen.
 
 1. Öffnen Sie die gewünschte E-Mail.
 
@@ -41,7 +56,7 @@ Gehen Sie wie folgt vor, um die verfügbaren Module in der E-Mail-Designer anzuz
 
    ![](assets/modules-2.png)
 
-1. Das Modul wird mit seinem Standardinhalt eingefügt. Klicken Sie auf ein beliebiges Element auf der Arbeitsfläche, um mit der Inline-Bearbeitung von Inhalten zu beginnen. Klicken Sie auf einen Textbereich, um ihn direkt einzugeben, oder klicken Sie auf ein Bild, um ihn mithilfe Ihrer Asset-Bibliothek zu ersetzen.
+1. Das Modul wird mit seinem Standardinhalt eingefügt. Klicken Sie auf ein beliebiges Element auf der Arbeitsfläche, um mit der Inline-Bearbeitung von Inhalten zu beginnen. Klicken Sie auf einen Textbereich, um direkt Text einzugeben, oder klicken Sie auf ein Bild, um es durch ein Bild aus Ihrer Asset-Bibliothek zu ersetzen.
 
    >[!NOTE]
    >
@@ -51,19 +66,19 @@ Gehen Sie wie folgt vor, um die verfügbaren Module in der E-Mail-Designer anzuz
 
    ![](assets/modules-3.png){width="70%"}
 
-1. Sie können auch [Inhaltskomponenten](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content) direkt zum Modul hinzufügen. Wechseln Sie zur Registerkarte **[!UICONTROL Komponenten]** im linken Bereich und ziehen Sie eine Komponente per Drag-and-Drop in das Modul. Die Komponente übernimmt standardmäßig die Formatierung des Moduls, kann jedoch bei Bedarf überschrieben werden.
+1. Sie können dem Modul auch [Inhaltskomponenten](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content) direkt hinzufügen. Wechseln Sie zur Registerkarte **[!UICONTROL Komponenten]** im linken Bereich und ziehen Sie eine Komponente per Drag-and-Drop in das Modul. Die Komponente übernimmt standardmäßig die Formatierung des Moduls. Diese können Sie jedoch bei Bedarf überschreiben.
 
    ![](assets/modules-4.png){width="60%"}
 
 ## Verfügbare Module {#available-modules}
 
-Die folgenden Modulkategorien sind vorkonfiguriert verfügbar. Für jedes Modul gibt es mehrere Layout-Varianten, z. B. einspaltige, zweispaltige und dreispaltige Raster. Erweitern Sie die Modulkategorien, um die Variante auszuwählen, die Ihrem Layout entspricht.
+Die folgenden Modulkategorien sind vorkonfiguriert verfügbar. Für jedes Modul gibt es mehrere Layout-Varianten, z. B. einspaltige, zweispaltige und dreispaltige Raster. Erweitern Sie die Modulkategorien, um die Variante auszuwählen, die zu Ihrem Layout passt.
 
 | Modul | Beschreibung |
 |---|---|
-| **[!UICONTROL Kopfzeilen]** | E-Mail-Kopfzeile mit Ihrem Logo, Navigations-Links und Einführungstext zur Marke. |
-| **[!UICONTROL Held]** | Bannerabschnitt in voller Breite: ideal für Werbeaktionen, Ankündigungen oder Kampagnenöffner. |
-| **[!UICONTROL Testimonial]** | Kundenzitate oder Social Proof in einem einheitlichen, formatierten Format. |
-| **[!UICONTROL Karten]** | Produkte, Artikel oder Inhaltselemente in ein- oder mehrspaltigen Rasterlayouts. |
-| **[!UICONTROL Teams]** | Team-Mitglieder, Autoren oder Redner mit Foto, Namen und Rolle. |
-| **[!UICONTROL Footers]** | Vollständige E-Mail-Fußzeile mit Navigations-Links, Social-Media-Symbolen, einer legalen Kopie und erforderlichen Ausschluss- und Mirrorseiten-Links. |
+| **[!UICONTROL Kopfzeilen]** | Markenkonforme E-Mail-Kopfzeile mit Ihrem Logo, Navigations-Links und Einführungstext. |
+| **[!UICONTROL Hero]** | Bannerabschnitt in voller Breite: ideal für Werbeaktionen, Ankündigungen oder Kampagnenöffner. |
+| **[!UICONTROL Kundenreferenzen]** | Kundenzitate oder Social Proof in einem konsistenten, einheitlich formatierten Format. |
+| **[!UICONTROL Karten]** | Produkte, Artikel oder Inhaltselemente in ein- oder mehrspaltigen Raster-Layouts. |
+| **[!UICONTROL Teams]** | Team-Mitglieder, Autorinnen und Autoren, Rednerinnen und Redner mit Foto, Namen und Rolle. |
+| **[!UICONTROL Fußzeilen]** | Vollständige E-Mail-Fußzeile mit Navigations-Links, Social-Media-Symbolen, rechtlichen Informationen und obligatorischen Abmelde- und Mirrorseiten-Links. |

@@ -4,20 +4,23 @@ description: Erfahren Sie mehr über Smart Campaign-Karten in Marketo Moments. A
 title: Grundlegendes zu Karten für intelligente Kampagnen
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/U7hXSh81b-BRlEHvMRNOVix71p0tgahqOTYcVirSoVo
+TQID: 'https://experienceleague.adobe.com/U7hXSh81b-BRlEHvMRNOVix71p0tgahqOTYcVirSoVo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Flow Step
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 602
+source-wordcount: '602'
 ht-degree: 1%
-
 ---
-
 # Grundlegendes zu Karten für intelligente Kampagnen {#understanding-smart-campaign-cards}
 
 Verwenden Sie Marketo Moments , um jede Ausführung Ihrer Smart-Kampagnen von Ihrem Smartphone oder iPad aus anzuzeigen. Die Smart Campaign-Karte &quot;Marketo Moments“ stellt einen einzelnen Durchgang einer Kampagne dar. Bei jeder Ausführung einer Smart Campaign wird eine neue Karte angezeigt. Smart-Campaign-Karten sind oben links mit einer Glühbirne gekennzeichnet.

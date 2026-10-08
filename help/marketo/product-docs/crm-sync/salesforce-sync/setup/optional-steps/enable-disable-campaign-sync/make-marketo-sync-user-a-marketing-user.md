@@ -1,20 +1,25 @@
 ---
 unique-page-id: 8782944
 description: Erfahren Sie, wie Sie den Marketo-Synchronisierungsbenutzer zu einem Marketing-Benutzer in Salesforce machen. Aktivieren Sie das Kontrollkästchen Marketing-Benutzer , damit die Salesforce-Kampagnensynchronisierung ordnungsgemäß funktioniert.
-title: Festlegen von Marketo-Synchronisierungsbenutzenden als Marketing-Benutzende
+title: Festlegen des Marketo-Synchronisierungsbenutzers als Marketing-Benutzer
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/42ACB3EIyob3z4J9OAXmejZCHIxQ6nmoTayn67kw4-8
+TQID: 'https://experienceleague.adobe.com/42ACB3EIyob3z4J9OAXmejZCHIxQ6nmoTayn67kw4-8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 117
+source-wordcount: '117'
 ht-degree: 16%
-
 ---
-
-# Festlegen von Marketo-Synchronisierungsbenutzenden als Marketing-Benutzende {#make-marketo-sync-user-a-marketing-user}
+# Festlegen des Marketo-Synchronisierungsbenutzers als Marketing-Benutzer {#make-marketo-sync-user-a-marketing-user}
 
 Der [Marketo-Synchronisierungsbenutzer](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} muss Marketing-Benutzer sein, damit die Salesforce-Kampagnensynchronisierung ordnungsgemäß funktioniert. So machen Sie einen Benutzer zu einem Marketing-Benutzer in Salesforce.
 

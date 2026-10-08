@@ -4,21 +4,29 @@ title: Dunkler Modus
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
-TQID: https://experienceleague.adobe.com/zGeCSfSKkyTkteiTaPmkiirkOXxEP1YVdWmHMvSWnR0
+TQID: 'https://experienceleague.adobe.com/zGeCSfSKkyTkteiTaPmkiirkOXxEP1YVdWmHMvSWnR0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1236
+source-wordcount: '1236'
 ht-degree: 42%
-
 ---
-
 # Dunkler Modus {#dark-mode}
 
 Beim Entwerfen Ihrer E-Mails können Sie mit der E-Mail-Designer zur Ansicht **[!UICONTROL Dunkelmodus]** wechseln.
@@ -85,7 +93,7 @@ Um optimale Ergebnisse zu erzielen, testen Sie Ihren Inhalt in den E-Mail-Client
 
 Beim dunklen Modus im E-Mail-Designer sind zwei Aspekte zu berücksichtigen:
 
-* Sie können eine Vorschau anzeigen, wie der standardmäßige dunkle Modus in den meisten unterstützenden E-Mail-Clients gerendert wird. [Weitere Informationen](#preview-dark-mode)
+* Sie können eine Vorschau anzeigen, wie der standardmäßige dunkle Modus in den meisten unterstützten E-Mail-Clients gerendert wird. [Weitere Informationen](#preview-dark-mode)
 
 * Wenn Sie die Standardeinstellungen unterstützender E-Mail-Clients überschreiben möchten, können Sie benutzerdefinierte Einstellungen für den Dunkelmodus in der E-Mail definieren, die Sie bearbeiten. [Weitere Informationen](#define-custom-dark-mode)
 
@@ -169,7 +177,7 @@ Der Dunkelmodus kann Farben, Hintergründe und Bilder verändern und manchmal di
 
 * Stellen Sie einen ausreichenden Kontrast zwischen Text- und Hintergrundfarben sicher, damit die Lesbarkeit sowohl im hellen als auch im dunklen Modus gewahrt bleibt.
 
-* Vermeiden Sie es, sich bei kritischen Inhalten allein auf Hintergrundfarben zu verlassen. Einige Clients überschreiben Hintergrundfarben im dunklen Modus, sodass Sie sicherstellen müssen, dass wichtige Informationen weiterhin sichtbar sind.
+* Vermeiden Sie es, sich bei kritischem Content allein auf Hintergrundfarben zu verlassen. Einige Clients überschreiben Hintergrundfarben im dunklen Modus, sodass Sie sicherstellen müssen, dass wichtige Informationen weiterhin sichtbar sind.
 
 **Entwerfen barrierefreier Inhalte im dunklen Modus**
 

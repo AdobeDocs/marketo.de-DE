@@ -2,15 +2,19 @@
 description: Erfahren Sie mehr über Interaktionswerkzeuge in interaktiven Webinaren. Verwenden Sie Umfragen, Fragen und Antworten sowie andere Funktionen, um die Interaktion der Teilnehmer während der Webinare zu verbessern.
 title: Interaktionswerkzeuge in interaktiven Webinaren
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Interactive Webinars
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1285'
 ht-degree: 0%
-
 ---
-
 # Interaktionswerkzeuge in interaktiven Webinaren {#engagement-tools-in-interactive-webinars}
 
 Funktion zur Bereitstellung von Pods in einem Adobe Connect-Raum. Um einen Pod zu einem Layout hinzuzufügen, klicken Sie auf das Menü Pods und wählen Sie den Pod aus, den Sie hinzufügen möchten.

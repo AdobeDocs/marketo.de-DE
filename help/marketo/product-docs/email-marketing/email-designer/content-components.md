@@ -6,23 +6,35 @@ description: Erfahren Sie mehr über Inhaltskomponenten zur Personalisierung des
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-hidefromtoc: true
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1317'
-ht-degree: 75%
-
+ht-degree: 82%
 ---
-
 # Inhaltskomponenten {#content-components}
 
 Beim Erstellen Ihres E-Mail **[!UICONTROL Inhalts können Sie mit]** Inhaltskomponenten“ Ihre E-Mail mit unbearbeiteten Komponenten personalisieren, die Sie bearbeiten können, sobald sie in einer E-Mail platziert wurden.
 
-Sie können beliebig viele Strukturkomponenten zu einer oder mehreren Strukturkomponenten hinzufügen. Diese definieren das Layout Ihrer E-Mail.
+Sie können beliebig viele Content-Komponenten innerhalb einer oder mehrerer Strukturkomponenten hinzufügen, die das Layout Ihrer E-Mail definieren.
 
 ## Hinzufügen von Inhaltskomponenten {#add-content-components}
 
-Um zu Ihrer E-Mail Inhaltskomponenten hinzuzufügen und sie an Ihre Anforderungen anzupassen, führen Sie die folgenden Schritte aus.
+Um Content-Komponenten zu Ihrer E-Mail hinzuzufügen und sie an Ihre Anforderungen anzupassen, führen Sie die folgenden Schritte aus.
 
 1. Verwenden Sie in der E-Mail-Designer einen vorhandenen Inhalt oder ziehen Sie per Drag **[!UICONTROL and-Drop „Strukturkomponenten]** in einen leeren Inhalt, um das Layout Ihrer E-Mail zu definieren. `[Learn how](content-from-scratch.md)`
 
@@ -30,7 +42,7 @@ Um zu Ihrer E-Mail Inhaltskomponenten hinzuzufügen und sie an Ihre Anforderunge
 
    SCREENSHOT
 
-1. Platzieren Sie die Inhaltskomponenten Ihrer Wahl mittels Drag-and-Drop in den relevanten Strukturkomponenten.
+1. Platzieren Sie die Content-Komponenten Ihrer Wahl mittels Drag-and-Drop in den relevanten Strukturkomponenten.
 
    SCREENSHOT
 
@@ -48,7 +60,7 @@ Um zu Ihrer E-Mail Inhaltskomponenten hinzuzufügen und sie an Ihre Anforderunge
 
 ## Container {#container}
 
-Um bestimmte Stile auf eine Gruppe von Inhaltskomponenten anzuwenden, können Sie einen **[!UICONTROL Container]** und dann darin Ihre gewünschten Inhaltskomponenten hinzufügen. Auf diese Weise können Sie einen eigenen Stil auf den Container anwenden, der sich vom Stil unterscheidet, der auf die Inhaltskomponenten in diesem Container angewendet wird.
+Um bestimmte Stile auf eine Gruppe von Inhaltskomponenten anzuwenden, können Sie einen **[!UICONTROL Container]** und dann darin Ihre gewünschten Inhaltskomponenten hinzufügen. Auf diese Weise können Sie einen eigenen Stil für den Container anwenden, der sich von dem Stil unterscheidet, der auf die Content-Komponenten in diesem Container angewendet wird.
 
 Fügen Sie beispielsweise die Komponente **[!UICONTROL Container]** hinzu, und fügen Sie anschließend die Komponente [Schaltfläche](#button) innerhalb dieses Containers hinzu. Sie können einen bestimmten Hintergrund für den Container und einen anderen für die Schaltfläche verwenden.
 
@@ -76,7 +88,7 @@ Verwenden Sie die Komponente **[!UICONTROL Schaltfläche]**, um eine oder mehrer
 
    SCREENSHOT
 
-1. Sie können Ihre Schaltfläche weiter personalisieren, indem Sie Stilattribute wie **[!UICONTROL Rahmen]**, **[!UICONTROL Größe]**, **[!UICONTROL Rand]** usw. im Bereich **[!UICONTROL Komponenteneinstellungen]** ändern.
+1. Sie können Ihre Schaltfläche weiter personalisieren, indem Sie im Bereich **[!UICONTROL Komponenteneinstellungen]** Stilattribute wie **[!UICONTROL Rahmen]**, **[!UICONTROL Größe]**, **[!UICONTROL Rand]** etc. ändern.
 
 ## Text {#text}
 
@@ -107,7 +119,7 @@ SCREENSHOT
    * **[!UICONTROL Duplizieren]**: Hinzufügen einer Kopie Ihrer Textkomponente.
    * **[!UICONTROL Löschen]**: Entfernen einer ausgewählten Textkomponente aus Ihrer E-Mail.
 
-1. Passen Sie die anderen Stilattribute wie Textfarbe, Schriftfamilie, Rahmen, Abstand, Rand usw. auf der Registerkarte **[!UICONTROL Stile]** an.
+1. Passen Sie andere Stilattribute wie Textfarbe, Schriftfamilie, Rahmen, Abstand, Rand etc. über die Registerkarte **[!UICONTROL Stile]** an.
 
    SCREENSHOT
 
@@ -164,7 +176,7 @@ Verwenden Sie die Komponente **[!UICONTROL Bild]**, um eine Bilddatei von Ihrem 
 
 1. Sie können auch wählen **[!UICONTROL Ähnliche Stock-Fotos suchen]**. `[Learn more](../integrations/stock.md)`
 
-1. Passen Sie auf **[!UICONTROL Registerkarte]** Stile“ die anderen Stilattribute wie Rand, Rahmen usw. an oder fügen Sie einen Link hinzu, um Ihre Audience zu einem anderen Inhalt **[!UICONTROL Bereich Komponenteneinstellungen]**.
+1. Passen Sie auf der Registerkarte **[!UICONTROL Stile]** die anderen Stilattribute wie Rand, Rahmen etc. an oder fügen Sie im Bereich **[!UICONTROL Komponenteneinstellungen]** einen Link hinzu, um Ihre Zielgruppe zu einem anderen Inhalt umzuleiten.
 
 ## Social {#social}
 
@@ -172,7 +184,7 @@ Verwenden Sie die Komponente **[!UICONTROL Social]**, um Links zu Social-Media-S
 
 1. Ziehen Sie die Komponente **[!UICONTROL Social]** von den **[!UICONTROL Inhaltskomponenten]** in eine **[!UICONTROL Strukturkomponente]**.
 
-1. Klicken Sie auf die neu hinzugefügte Komponente.
+1. Wählen Sie die neu hinzugefügte Komponente aus.
 
 1. Im Feld **[!UICONTROL Social]** der Registerkarte **[!UICONTROL Einstellungen]** können Sie auswählen, welche sozialen Medien Sie hinzufügen oder entfernen möchten.
 
@@ -184,9 +196,9 @@ Verwenden Sie die Komponente **[!UICONTROL Social]**, um Links zu Social-Media-S
 
    SCREENSHOT
 
-1. Bei Bedarf können Sie auch die Symbole der einzelnen sozialen Medien über Ihre Assets ändern.
+1. Bei Bedarf können Sie auch die Symbole der einzelnen Social-Media-Plattformen über Ihre Assets ändern.
 
-1. Passen Sie die anderen Stilattribute wie Stil, Rand, Rahmen usw. auf der Registerkarte **[!UICONTROL Stile]** an.
+1. Passen Sie auf der Registerkarte **[!UICONTROL Stile]** die anderen Stilattribute wie Stil, Rand, Rahmen usw. an.
 
 ## Angebotsentscheidung {#offer-decision}
 
@@ -208,4 +220,4 @@ Erfahren Sie, wie Sie in `[this section](add-offers-email.md)` personalisierte A
 
 >[!IMPORTANT]
 >
->Wenn Änderungen an einer Angebotsentscheidung vorgenommen werden, die in einer Journey-Nachricht verwendet wird, müssen Sie die Veröffentlichung der Journey aufheben und sie dann erneut veröffentlichen.  Dadurch wird sichergestellt, dass die Änderungen in die Journey aufgenommen werden und die Nachricht den neuesten Aktualisierungen entspricht.
+>Wenn Änderungen an einer Angebotsentscheidung vorgenommen werden, die in einer Journey-Nachricht verwendet wird, müssen Sie die Veröffentlichung der Journey aufheben und sie anschließend erneut veröffentlichen.  Dadurch wird sichergestellt, dass die Änderungen in die Journey aufgenommen werden und die Nachricht den neuesten Aktualisierungen entspricht.

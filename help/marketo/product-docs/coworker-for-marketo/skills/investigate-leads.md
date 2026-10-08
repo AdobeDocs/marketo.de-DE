@@ -1,7 +1,10 @@
 ---
 description: Der leitende Mitarbeiter von Investigate beantwortet die Fragen, die Marketing-Experten am häufigsten stellen. Es ist schneller und zuverlässiger als das manuelle Durchsuchen von Aktivitätsprotokollen, intelligentem Kampagnenverlauf und Bewertungsdatensätzen.
 title: Leads untersuchen
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%

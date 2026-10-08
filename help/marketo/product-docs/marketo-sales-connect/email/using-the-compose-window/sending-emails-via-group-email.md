@@ -4,16 +4,18 @@ description: Erfahren Sie, wie Sie in Sales Connect E-Mails über Gruppen-E-Mail
 title: Senden von E-Mails per Gruppen-E-Mail
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/f32d4DuWA3TMzH1b-8DJzOGevSpIZ3QQQFDkZbS4QK4
+TQID: 'https://experienceleague.adobe.com/f32d4DuWA3TMzH1b-8DJzOGevSpIZ3QQQFDkZbS4QK4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: '175'
 ht-degree: 8%
-
 ---
-
 # Senden von E-Mails per Gruppen-E-Mail {#sending-emails-via-group-email}
 
 So senden/bearbeiten Sie E-Mails mit der Option Gruppen-E-Mail .

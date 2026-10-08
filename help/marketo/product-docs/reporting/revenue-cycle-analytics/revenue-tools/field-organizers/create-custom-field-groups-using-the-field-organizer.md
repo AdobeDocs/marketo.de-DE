@@ -1,17 +1,23 @@
 ---
 unique-page-id: 10094404
 description: Erfahren Sie, wie Sie benutzerdefinierte Feldergruppen mit dem Feld-Organizer in Marketo Engage mithilfe von „Benutzerdefinierte Feldergruppen erstellen“ erstellen. Verwenden Sie dieses Handbuch, um Ihren nächsten Schritt abzuschließen.
-title: Erstellen benutzerdefinierter Feldergruppen mit dem Feldorganisator
+title: Erstellen benutzerdefinierter Feldgruppen mit dem Feldorganisator
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1033'
 ht-degree: 4%
-
 ---
-
-# Erstellen benutzerdefinierter Feldergruppen mit dem Feldorganisator {#create-custom-field-groups-using-the-field-organizer}
+# Erstellen benutzerdefinierter Feldgruppen mit dem Feldorganisator {#create-custom-field-groups-using-the-field-organizer}
 
 Bevor Sie benutzerdefinierte Feldergruppen für das Reporting im Bereich Modellleistungsanalyse (Leads) des Umsatzzyklus-Explorers aktivieren können, müssen Sie standardmäßige oder benutzerdefinierte Felder in Gruppen für das Reporting über den Feld-Organisator in der Marketo-Lead-Verwaltung kategorisieren. Dies gilt nur für Lead- und Firmenattribute.
 Wenn Sie ein Standardfeld oder ein benutzerdefiniertes Feld aus der Dropdown-Liste Feld im Dialogfeld „Neuer Feltorganisator“ auswählen, ordnet das System den Datentyp Marketo-Lead-Management dem Feld zu, das Sie gruppieren möchten, und zwar mit einem der drei verfügbaren Editoren im Feld-Organizer: Zeichenfolge, Ganzzahl oder Datum.
