@@ -86,7 +86,7 @@ Anzeigenamen in Feldern können Text in verschiedenen Sprachen anzeigen (z. B. w
 
 ## Programmdaten ändern {#change-program-data}
 
-Mit [!UICONTROL  Schritt &quot;] ändern“ können Sie den [!UICONTROL Erfolgsstatus] und das [!UICONTROL Erfolgsdatum] eines Programmmitglieds manuell über eine Kampagne ändern. Sie können diesen Flussschritt verwenden, um einen Fehler zu korrigieren oder ein Mitglied, das möglicherweise nicht wie vorgesehen am Programm teilgenommen hat, manuell zu ändern.
+Mit [!UICONTROL &#x200B; Schritt &quot;] ändern“ können Sie den [!UICONTROL Erfolgsstatus] und das [!UICONTROL Erfolgsdatum] eines Programmmitglieds manuell über eine Kampagne ändern. Sie können diesen Flussschritt verwenden, um einen Fehler zu korrigieren oder ein Mitglied, das möglicherweise nicht wie vorgesehen am Programm teilgenommen hat, manuell zu ändern.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
 
@@ -104,7 +104,7 @@ Webhooks wurden verbessert, um Token in der URL/Payload zu escapen, und können 
 
 ## Aktualisierter SOAP-API-Endpunkt {#updated-soap-api-endpoint}
 
-Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter &quot;[!UICONTROL &quot; ] &quot;SOAP-API“ angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der [!DNL Spark SMB Edition] nicht verfügbar)
+Der bevorzugte SOAP-API-Endpunkt wurde aktualisiert und wird unter &quot;[!UICONTROL &quot; &#x200B;] &quot;SOAP-API“ angezeigt. Aktualisieren Sie Ihre Aufrufe, um diesen neuen Endpunkt zu verwenden. API-Aufrufe an den alten Endpunkt sind veraltet, funktionieren aber weiterhin. (SOAP-API in der [!DNL Spark SMB Edition] nicht verfügbar)
 
 ## Mobile-Unterstützung für [!DNL Facebook] Registerkarten {#mobile-support-for-facebook-tabs}
 
@@ -138,7 +138,7 @@ Ein Gewinnspiel gibt Ihren Leads die Chance, einen Preis zu gewinnen und ihre Fr
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Zusätzliche [!UICONTROL  (Fehlermeldung] Sprachen {#additional-form-error-message-languages}
+## Zusätzliche [!UICONTROL &#x200B; (Fehlermeldung] Sprachen {#additional-form-error-message-languages}
 
 Mehr als ein Dutzend Sprachen wurden zu den Formularfehlermeldungen hinzugefügt!
 
@@ -204,7 +204,7 @@ Mit der neu organisierten Fluss-Aktionsstruktur finden Sie Fluss-Aktionen schnel
 
 ## Umbenannte Fluss-Aktionen {#renamed-flow-actions}
 
-Der Status für das Ändern des Verlaufs [!UICONTROL  jetzt „Programmstatus ändern]. Programmdaten ändern heißt jetzt [!UICONTROL Programm erfolgreich ].
+Der Status für das Ändern des Verlaufs [!UICONTROL &#x200B; jetzt „Programmstatus ändern]. Programmdaten ändern heißt jetzt [!UICONTROL Programm erfolgreich &#x200B;].
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
 
@@ -434,7 +434,7 @@ Führen Sie im neuen E-Mail-Programm einen [A/B-Test](/help/marketo/product-docs
 
 ## Lead-Details in [!UICONTROL E-Mail-] {#lead-details-in-email-analysis}
 
-Wir haben in „E-Mail-Analyse[!UICONTROL  zusätzliche Lead- und ] eingeführt. Sie können jetzt Ihre E-Mail-Statistiken gruppiert nach neuen Attributen wie [!UICONTROL Branche] und [!UICONTROL Lead Source] anzeigen.
+Wir haben in „E-Mail-Analyse[!UICONTROL &#x200B; zusätzliche Lead- und &#x200B;] eingeführt. Sie können jetzt Ihre E-Mail-Statistiken gruppiert nach neuen Attributen wie [!UICONTROL Branche] und [!UICONTROL Lead Source] anzeigen.
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 

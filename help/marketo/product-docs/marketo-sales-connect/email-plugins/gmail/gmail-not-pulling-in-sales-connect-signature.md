@@ -20,4 +20,4 @@ ht-degree: 20%
 
 Wir verwenden Ihre Gmail-Signatur in Gmail, anstatt Ihre [[!DNL Sales Connect] Signatur](https://toutapp.com/next#settings) einzufügen.
 
-Sie können Ihre Signatur in Gmail ([) ](https://mail.google.com/mail/u/0/#settings/general).
+Sie können Ihre Signatur in Gmail ([) &#x200B;](https://mail.google.com/mail/u/0/#settings/general).

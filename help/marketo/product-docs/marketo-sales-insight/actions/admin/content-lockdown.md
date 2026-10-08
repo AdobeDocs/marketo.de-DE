@@ -29,7 +29,7 @@ Durch die Aktivierung der Inhaltssperre können Benutzende ohne Administratorrec
 
    ![](assets/content-lockdown-1.png)
 
-1. Klicken [!UICONTROL  unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
+1. Klicken [!UICONTROL &#x200B; unter &quot;]&quot; auf **[!UICONTROL Allgemein]**.
 
    ![](assets/content-lockdown-2.png)
 

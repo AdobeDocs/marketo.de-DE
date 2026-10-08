@@ -119,7 +119,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Greifen Sie auf die Bearbeitungsfunktionen von Adobe zu, ohne Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder direkt im [!UICONTROL Design Studio“ einfach verbessern, zuschneiden und Text ].
+* [Bildbearbeitung](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Greifen Sie auf die Bearbeitungsfunktionen von Adobe zu, ohne Marketo Engage verlassen zu müssen. Mit dieser neuen Funktion können Sie Bilder direkt im [!UICONTROL Design Studio“ einfach verbessern, zuschneiden und Text &#x200B;].
 
 ## [!DNL Sales Insight]
 
@@ -138,7 +138,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 >
 >* **Aktualisierung der ITP-[!DNL Munchkin] 2.1 oder höher**: Aufgrund von Änderungen an der Cookie-Richtlinie für [!DNL Safari] wird die Möglichkeit von [!DNL Munchkin], Benutzer über Sitzungen hinweg in derselben Domain zu verfolgen, von ITP je nach Browser und Browser-Version, die der Besucher verwendet, entweder auf 1 oder 7 Tage beschränkt. Aus diesem Grund implementieren wir einen neuen Webservice, der es ermöglicht, Munchkin-Cookies mit einer Set-Cookie-Kopfzeile über die HTTP-Antwort zu setzen. Weitere Informationen zur Implementierung dieses neuen Service finden Sie [hier](https://nation.marketo.com/docs/DOC-7351).
 
-**_Webinar zur Produktversion_** [Nehmen Sie ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11:00 Uhr PT/14:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
+**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11:00 Uhr PT/14:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
 
 ## Februar 2020 {#february}
 
@@ -188,7 +188,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 * **Asset-API „_method“-Parameter**: Nach September 2020 akzeptieren Asset-API-Endpunkte keine „_method“ mehr zum Übergeben von Abfrageparametern in einem POST-Text, um URI-Längenbeschränkungen zu umgehen. Um Anfragen zu berücksichtigen, die diesen Parameter erfordern, wird die URI-Beschränkung für Asset-APIs von 6 KB auf 65 KB erhöht, sodass lange Anfrage-URIs gesendet werden können.
 * **Einstellung der Internet Explorer-**: Ab unserer Version vom 31. Juli 2020 wird die Marketo Engage-Benutzeroberfläche in Internet Explorer nicht mehr unterstützt.
 
-**_Webinar zur Produktversion_** [Nehmen Sie ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11:00 Uhr PT/14:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
+**_Webinar zur Produktversion_** [Nehmen Sie &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3. März um 11:00 Uhr PT/14:00 Uhr ET an einem Live-Webinar teil, das von unserem Produktteam gehostet wird, und erfahren Sie mehr über die in dieser Version enthaltenen Funktionen.
 
 ## Juni 2020 {#june}
 
@@ -254,7 +254,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 * **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Ab Version 159 von [!DNL Munchkin] JS wird in der Browser-Konsole eine Warnung vor veralteten Elementen protokolliert, wenn die Methode „Lead verknüpfen“ aufgerufen wird. Diese Warnung gibt an, dass die Funktion in einer zukünftigen Version entfernt wird.  Der vollständige Zeitplan zur Einstellung wird zu einem späteren Zeitpunkt bekannt gegeben.
 
-**_Webinar zur Produktversion_** [Sehen Sie sich die Aufzeichnung ](https://engage.marketo.com/June-Release-2020-On-Demand.html) Webinars zu den Produktinnovationen vom 20. Juni an.
+**_Webinar zur Produktversion_** [Sehen Sie sich die Aufzeichnung &#x200B;](https://engage.marketo.com/June-Release-2020-On-Demand.html) Webinars zu den Produktinnovationen vom 20. Juni an.
 
 ## Juli 2020 {#july}
 
@@ -308,7 +308,7 @@ Die folgenden Funktionen befinden sich in einem nicht vierteljährlichen Zyklus 
 
 * **Entfernen von Asset-API-Parametern „_method“**: Nach September 2020 akzeptieren Asset-API-Endpunkte keine „_method“ mehr zum Übergeben von Abfrageparametern in einem POST-Text, um URI-Längenbeschränkungen zu umgehen. Um Anfragen nachzukommen, für die dieser Parameter erforderlich ist, werden die URI-Beschränkungen für Asset-APIs von 8 KB auf 65 KB erhöht.
 * **[[!DNL Munchkin] Lead verknüpfen](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Mit dieser Version des Munchkin JavaScript-Clients, Version 159, werden wir die [!DNL Munchkin] Associate-Lead-Methode einstellen. Wenn aufgerufen wird, erhalten Sie einen Warnhinweis, dass die Methode in einer zukünftigen Version entfernt wird. Nach dem Entfernen ist die Methode nicht mehr funktionsfähig und Versuche, sie zu verwenden, schlagen fehl. Marketo Engage-Kunden, die diese Methode kürzlich verwendet haben, werden einzeln über ihre Verwendung benachrichtigt.
-* **Unterstützung für Internet Explorer**: Wie bereits angekündigt, endet die Marketo Engage-Unterstützung für Internet Explorer 11 am **. Juli 2020**. Wir werden [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL  Apple Safari] und [!DNL Microsoft Edge] weiterhin unterstützen.
+* **Unterstützung für Internet Explorer**: Wie bereits angekündigt, endet die Marketo Engage-Unterstützung für Internet Explorer 11 am **. Juli 2020**. Wir werden [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL &#x200B; Apple Safari] und [!DNL Microsoft Edge] weiterhin unterstützen.
 * **Sky Default Experience**: Die Option für Administratoren oder Benutzer, [!DNL Marketo Sky] als Standarderlebnis festzulegen, wird in dieser Version entfernt, um eine Aktualisierung des primären Benutzererlebnisses vorzubereiten. Weitere Informationen zur Aktualisierung des primären Erlebnisses, die für später in diesem Jahr geplant ist, werden im Juli verfügbar sein. Benutzer, die [!DNL Marketo Sky] als Standarderlebnis festgelegt haben oder Zugriff auf [!DNL Marketo Sky] erhalten haben, können weiterhin über eine Kachel auf der Startseite von My Marketo auf [!DNL Marketo Sky] zugreifen.
 * **EdgeHTML (nicht-Chromium) [!DNL Microsoft Edge] Unterstützung**: Marketo Engage wird Ende 2020 keine EdgeHTML-Versionen von Microsoft Edge mehr unterstützen. Ab dem 1. Januar 2021 unterstützen wir nur die neueste Chromium-Version von Microsoft Edge.
 
@@ -326,7 +326,7 @@ Die folgenden Funktionen sind in der Version vom Oktober 2020 enthalten. Überpr
 
 ![(Stern)](assets/yellow-star.png)
 
-* **Account Smart List (Beta)**: Laden Sie Ihre ABM-Strategie mit der neuen Funktion „Account Smart List“ auf. Dynamische Identifizierung von Konten mit gewünschten Konto- und Personenattributen, um kanalübergreifende Kampagnen auszuführen und zeitnahe Warnhinweise an den Vertrieb zu senden, um Angebote schneller abzuschließen. Hinweis: Dies ist nur für Target Account Management-Kunden verfügbar, die das [Benutzererlebnis der nächsten Generation“ ](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205) haben.
+* **Account Smart List (Beta)**: Laden Sie Ihre ABM-Strategie mit der neuen Funktion „Account Smart List“ auf. Dynamische Identifizierung von Konten mit gewünschten Konto- und Personenattributen, um kanalübergreifende Kampagnen auszuführen und zeitnahe Warnhinweise an den Vertrieb zu senden, um Angebote schneller abzuschließen. Hinweis: Dies ist nur für Target Account Management-Kunden verfügbar, die das [Benutzererlebnis der nächsten Generation“ &#x200B;](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205) haben.
 
 ## E-Mail-Marketing {#email-marketing}
 

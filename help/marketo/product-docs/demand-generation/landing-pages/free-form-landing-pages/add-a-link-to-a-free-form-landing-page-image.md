@@ -33,7 +33,7 @@ ht-degree: 20%
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Geben Sie Ihren mailto-Link in „linkUrl ****.
+1. Geben Sie Ihren mailto-Link in „linkUrl **&#x200B;**.
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

@@ -26,7 +26,7 @@ ht-degree: 9%
 
    ![](assets/one-1.png)
 
-1. Wählen [!UICONTROL  unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
+1. Wählen [!UICONTROL &#x200B; unter &quot;]&quot; die Option **[!UICONTROL Team-Verwaltung]** aus.
 
    ![](assets/two-1.png)
 
@@ -44,7 +44,7 @@ ht-degree: 9%
 
 ## Personen zu Ihrem Unterteam hinzufügen {#add-people-to-your-sub-team}
 
-1. Wählen Sie noch [!UICONTROL  &quot;]&quot; die Gruppe **[!UICONTROL Alle]** aus.
+1. Wählen Sie noch [!UICONTROL &#x200B; &quot;]&quot; die Gruppe **[!UICONTROL Alle]** aus.
 
    ![](assets/five-1.png)
 

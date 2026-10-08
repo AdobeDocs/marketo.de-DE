@@ -19,7 +19,7 @@ CX Enterprise Coworker für Marketo Engage bietet Agentenfähigkeiten zur Automa
 
 >[!IMPORTANT]
 >
->* Nachdem CX Enterprise Coworker für Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, ](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
+>* Nachdem CX Enterprise Coworker für Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, &#x200B;](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
 >
 >* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die PII-Überlegungen im Datenblatt [CX Enterprise Coworker for Marketo Engage](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
@@ -43,7 +43,7 @@ Beschreiben Sie eine Marketing-Kampagne im Klartext. CX Enterprise Coworker für
 
 ### Leads untersuchen {#investigate-leads}
 
-Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads ](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
+Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
 
 ### Produktkenntnisse {#product-knowledge}
 

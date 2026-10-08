@@ -43,7 +43,7 @@ Um MSI von Ihrer MS [!DNL Dynamics]-Instanz zu deinstallieren, müssen Sie sowoh
 
    >[!NOTE]
    >
-   >Stellen Sie sicher[ dass Sie die globale MS Dynamics-](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) deaktivieren, bevor Sie die Feldsynchronisierung deaktivieren.
+   >Stellen Sie sicher[&#x200B; dass Sie die globale MS Dynamics-](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) deaktivieren, bevor Sie die Feldsynchronisierung deaktivieren.
 
    ![](assets/eight.png)
 

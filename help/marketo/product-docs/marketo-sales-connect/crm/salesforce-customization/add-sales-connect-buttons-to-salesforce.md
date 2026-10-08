@@ -40,4 +40,4 @@ ht-degree: 13%
 
 1. Bearbeiten Sie das Seiten-Layout für Lead/Kontakt/Konto.
 1. Wählen Sie den Abschnitt für [!UICONTROL Schaltflächen].
-1. Ziehen Sie die Schaltfläche **[!UICONTROL Zu MSC]** Kampagne hinzufügen“ in den Abschnitt **[!UICONTROL Benutzerdefinierte Schaltflächen]** der ][!UICONTROL .
+1. Ziehen Sie die Schaltfläche **[!UICONTROL Zu MSC]** Kampagne hinzufügen“ in den Abschnitt **[!UICONTROL Benutzerdefinierte Schaltflächen]** der .

@@ -24,7 +24,7 @@ ht-degree: 9%
 ---
 # Bearbeiten von Titel und Metadaten einer Landingpage {#edit-landing-page-title-and-metadata}
 
-Mit Marketo können Sie die [Meta-Tags Ihrer Landingpage für SEO-Zwecke ](https://www.w3schools.com/tags/tag_meta.asp) und den `<head>` Teil der HTML anpassen.
+Mit Marketo können Sie die [Meta-Tags Ihrer Landingpage für SEO-Zwecke &#x200B;](https://www.w3schools.com/tags/tag_meta.asp) und den `<head>` Teil der HTML anpassen.
 
 1. Wählen Sie eine Landingpage aus und klicken Sie auf **[!UICONTROL Entwurf bearbeiten]**.
 

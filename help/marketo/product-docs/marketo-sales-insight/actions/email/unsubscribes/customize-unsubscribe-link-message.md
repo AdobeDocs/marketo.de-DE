@@ -29,7 +29,7 @@ Wir haben Teams immer erlaubt, ihre Abmelde-Link-Nachrichten anzupassen, aber Ad
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Klicken [!UICONTROL  unter „Admin] auf **[!UICONTROL Abmeldungen]**.
+1. Klicken [!UICONTROL &#x200B; unter „Admin] auf **[!UICONTROL Abmeldungen]**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 

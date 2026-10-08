@@ -23,7 +23,7 @@ workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 10%
 ---
-# Score-Felder festlegen, die für &quot;[!UICONTROL &quot; ] &quot;[!UICONTROL &quot; ] &quot;[!DNL Sales Insight]&quot; verwendet werden sollen {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Score-Felder festlegen, die für &quot;[!UICONTROL &quot; &#x200B;] &quot;[!UICONTROL &quot; &#x200B;] &quot;[!DNL Sales Insight]&quot; verwendet werden sollen {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >

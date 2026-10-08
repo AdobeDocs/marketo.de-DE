@@ -49,11 +49,11 @@ Benutzerinnen und Benutzer können entscheiden, ob sie ihre Abmeldungen mit dem 
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. Wählen [!UICONTROL  unter „Admin]Einstellungen die Option **[!UICONTROL Abmeldungen]** aus.
+1. Wählen [!UICONTROL &#x200B; unter „Admin]Einstellungen die Option **[!UICONTROL Abmeldungen]** aus.
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. Klicken Sie auf die **[!UICONTROL Integrationen]**. Aktivieren [!UICONTROL  unter „Mit Salesforce synchronisieren] die nächtliche Synchronisierung.
+1. Klicken Sie auf die **[!UICONTROL Integrationen]**. Aktivieren [!UICONTROL &#x200B; unter „Mit Salesforce synchronisieren] die nächtliche Synchronisierung.
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
@@ -106,6 +106,6 @@ Benutzerinnen und Benutzer können entscheiden, ob sie ihre Abmeldungen mit dem 
 
 ## Marketo Sales Opt-out {#marketo-sales-opt-out}
 
-Das Feld Marketo Sales Opt-out ist ein benutzerdefiniertes Feld, das Benutzenden zur Verfügung steht, die das Marketo Sales Insight Package [aus der AppExchange) ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} haben.
+Das Feld Marketo Sales Opt-out ist ein benutzerdefiniertes Feld, das Benutzenden zur Verfügung steht, die das Marketo Sales Insight Package [aus der AppExchange) &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} haben.
 
 Nachdem Sie das Marketo Sales Insight-Package erfolgreich von der AppExchange in Salesforce installiert haben, wird das Feld Marketo Sales Opt-out für Sie verfügbar.

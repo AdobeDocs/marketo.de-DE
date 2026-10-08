@@ -376,7 +376,7 @@ Auf den bestehenden Übersichtsseiten für Programme und Kampagnen wurden das Er
 
 ## [!UICONTROL Von] für Assets verwendet {#used-by-for-assets}
 
-Wir haben eine neue Registerkarte zu unseren Asset[!UICONTROL Zusammenfassungs-] namens &quot;[!UICONTROL  von“ ]!
+Wir haben eine neue Registerkarte zu unseren Asset[!UICONTROL Zusammenfassungs-] namens &quot;[!UICONTROL &#x200B; von“ &#x200B;]!
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
@@ -556,7 +556,7 @@ Verwenden Sie die entsprechenden Trigger und Filter, um Benutzer zu identifizier
 
 ## Granulare Administratorberechtigungen {#granular-admin-permissions}
 
-Unsere neueste Version bietet Ihnen besseren Zugriff und bessere Kontrolle über [!UICONTROL Admin]-Rollen, indem sie den Zugriff auf verschiedene Funktionen im Bereich „Admin[!UICONTROL  von Marketo ] jede Rolle steuert. Wenn Sie eine neue Rolle erstellen, können Sie dieser Rolle bestimmte [!UICONTROL Admin]-Funktionen zuweisen, auf die diese Rolle zugreifen kann.
+Unsere neueste Version bietet Ihnen besseren Zugriff und bessere Kontrolle über [!UICONTROL Admin]-Rollen, indem sie den Zugriff auf verschiedene Funktionen im Bereich „Admin[!UICONTROL &#x200B; von Marketo &#x200B;] jede Rolle steuert. Wenn Sie eine neue Rolle erstellen, können Sie dieser Rolle bestimmte [!UICONTROL Admin]-Funktionen zuweisen, auf die diese Rolle zugreifen kann.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
@@ -589,13 +589,13 @@ Sehen Sie sich an, welcher Prozentsatz der Pipeline und des Umsatzes Ihres Unter
 
 ## Benutzerdefinierte Opportunity-Felder in der Programm-Opportunity-Analyse&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-Fügen Sie benutzerdefinierte Opportunity-Felder hinzu, um die Berichte zur Analyse von Programm-Opportunities in [!UICONTROL Revenue Explorer) ].
+Fügen Sie benutzerdefinierte Opportunity-Felder hinzu, um die Berichte zur Analyse von Programm-Opportunities in [!UICONTROL Revenue Explorer) &#x200B;].
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## Kampagnenprüfung {#campaign-inspector}
 
-Haben Sie sich jemals gefragt, welche Kampagnen eine bestimmte Flussaktion verwenden, z. B[!UICONTROL  &quot;]&quot; oder [!UICONTROL Kampagne anfordern]? Oder wo ein bestimmter Filter verwendet wird? Mit dem neuen [!UICONTROL Kampagneninspektor] (verfügbar über die Schatztruhe) können Sie diese Kampagnen sowie aktive Kampagnen und Kampagnen mit Fehlern identifizieren.
+Haben Sie sich jemals gefragt, welche Kampagnen eine bestimmte Flussaktion verwenden, z. B[!UICONTROL &#x200B; &quot;]&quot; oder [!UICONTROL Kampagne anfordern]? Oder wo ein bestimmter Filter verwendet wird? Mit dem neuen [!UICONTROL Kampagneninspektor] (verfügbar über die Schatztruhe) können Sie diese Kampagnen sowie aktive Kampagnen und Kampagnen mit Fehlern identifizieren.
 
 Gehen Sie **[!UICONTROL Admin]** > **[!UICONTROL Schatztruhe]** um den **[!UICONTROL Kampagneninspektor]** zu aktivieren.
 

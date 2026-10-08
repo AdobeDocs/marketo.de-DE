@@ -42,4 +42,4 @@ Sie erhalten eine E-Mail mit Token-Werten, die für die von Ihnen ausgewählten 
 
 >[!NOTE]
 >
->Keine Sorge. Sie bleiben auch nach dem Versand der Test-E-Mail auf der ] &quot;[!UICONTROL Marketo-E-Mail senden, damit Sie die von Ihnen erstellte E-Mail nicht verlieren.
+>Keine Sorge. Sie bleiben auch nach dem Versand der Test-E-Mail auf der  &quot;Marketo-E-Mail senden, damit Sie die von Ihnen erstellte E-Mail nicht verlieren.
