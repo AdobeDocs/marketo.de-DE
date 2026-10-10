@@ -4,9 +4,9 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: bf54ef2e3651759827fa6d040a94512f694d8f9a
+source-git-commit: 6df3337e516a4d8345ee7d1362ab36e9724cc771
 workflow-type: tm+mt
-source-wordcount: '8936'
+source-wordcount: '8940'
 ht-degree: 96%
 ---
 
@@ -484,11 +484,11 @@ ht-degree: 96%
       + [Erste Schritte mit prädiktiven Zielgruppen](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [Modelle und Erkenntnisse](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [Vorhersagefilter](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-  + Mitarbeiter für Marketo Engage {#coworker-for-marketo}
+  + CX Enterprise Coworker für Marketo Engage {#coworker-for-marketo}
     + [Übersicht](product-docs/coworker-for-marketo/overview.md)
     + [Einstellungen und Setup](product-docs/coworker-for-marketo/settings-setup.md)
     + [Organisationsregeln](product-docs/coworker-for-marketo/organizational-rules.md)
-    + [Datenblatt für Mitarbeiter für Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
+    + [Datenblatt zu CX Enterprise Coworker für Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Skills {#skills}
       + [Produktkenntnisse](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[Surface-Einblicke](product-docs/coworker-for-marketo/skills/surface-insights.md)
