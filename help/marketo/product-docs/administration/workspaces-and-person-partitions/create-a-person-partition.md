@@ -55,4 +55,4 @@ Nachdem Sie die Partition erstellt haben, sollten Sie das Update sehen.
 
 >[!TIP]
 >
->Sie können eine bestimmte Personenpartition auswählen, nach der Personen während des [-Importvorgangs ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} werden.
+>Sie können eine bestimmte Personenpartition auswählen, nach der Personen während des [-Importvorgangs &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} werden.
