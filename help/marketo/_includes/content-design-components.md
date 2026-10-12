@@ -3,11 +3,9 @@ title: Inhaltserstellung - Komponenten
 description: Wiederverwendbarer Abschnitt über die Verwendung von Komponenten und Inhaltselementen für die Inhaltserstellung
 source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
-
 ---
-
 # Inhaltserstellung - Komponenten
 
 1. Um mit dem Erstellen oder Ändern von Inhalten zu beginnen, ziehen Sie ein Element per Drag-and-Drop aus „Strukturen“ auf die Arbeitsfläche. Bearbeiten Sie die Einstellungen im Bereich auf der rechten Seite.
