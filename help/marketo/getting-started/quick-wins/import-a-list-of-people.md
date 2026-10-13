@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '589'
-ht-degree: 95%
+source-wordcount: '621'
+ht-degree: 90%
 ---
 # Importieren einer Liste mit Personen {#import-a-list-of-people}
 
@@ -138,9 +138,9 @@ In diesem Tutorial erfahren Sie, wie Sie Personen aus einer Tabellenkalkulations
    >
    >Wenn Sie bestimmte Felder nicht importieren möchten, wählen Sie im Dropdown-Menü „Marketo-Feld“ die Option **Ignorieren** aus.
 
-1. Wählen Sie **Mein Messeprogramm** als **[!UICONTROL Akquiseprogramm]** und klicken Sie dann auf **[!UICONTROL Importieren]**.
+1. Wenn Sie [Personenpartitionen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"} eingerichtet haben, wählen Sie hier die gewünschte aus. Wählen Sie **Mein Messeprogramm** als **[!UICONTROL Akquiseprogramm]** und klicken Sie dann auf **[!UICONTROL Importieren]**.
 
-   ![](assets/import-a-list-of-people-13.png)
+   ![](assets/import-a-list-of-people-13-new.png)
 
 1. Warten Sie, bis Ihre Personen importiert sind, und schließen Sie dann das Popup mit dem Importfortschritt.
 

@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 18%
+source-wordcount: '578'
+ht-degree: 16%
 ---
 # Versionshinweise: September 2026 {#release-notes-sep-26}
 
@@ -61,8 +61,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Partition beim Importieren auswählen</strong>: Sie können jetzt beim Importieren von Personendatensätzen in Umgebungen, in denen Arbeitsbereiche und Partitionen aktiviert sind, aus der Liste der Partitionen des lokalen Arbeitsbereichs auswählen.</td>
-   <td><i>Demnächst</i></td>
-   <td><i>Demnächst</i></td>
+   <td>Freigegeben</td>
+   <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up" target="_blank">Listen-Import</a></td>
   </tr>
   <tr>
    <td> </td>
