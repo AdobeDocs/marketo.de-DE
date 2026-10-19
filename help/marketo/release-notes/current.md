@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: 29aa413a7346a79906f4021dedc79e8e48170c69
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '472'
+ht-degree: 15%
 ---
 # Versionshinweise: Oktober 2026 {#release-notes-oct-26}
 
@@ -47,6 +47,26 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:65%">Funktion</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
+  </tr>
+  <tr>
+   <td><strong>Kampagnenkompetenz planen</strong>: CX Enterprise Coworker für Marketo Engage kann jetzt eine Kampagnenbeschreibung in ein vollständiges Dokument zur Einrichtung von Marketo Engage-Programmen umwandeln. Das Dokument enthält die Ordnerstruktur, intelligente Kampagnen, E-Mail-Konfigurationen, Token und eine QS-Checkliste. Dies hilft Teams, Kampagnen schneller zu starten und die Programmeinrichtung zu standardisieren. Die Qualifikation kann über Markdown konfiguriert werden.</td>
+   <td><i>Demnächst</i></td>
+   <td><i>Demnächst</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Aufrufbare Agenten</strong>: Erstellen Sie KI-Agenten, die als Flussschritt in Ihren Smart-Kampagnen ausgeführt werden und auf der Grundlage von Anweisungen, die Sie in einfacher Sprache schreiben, auf einen Lead-Datensatz reagieren. Beispielsweise kann ein Agent die Daten eines Leads normalisieren oder Bots als wahrscheinlich kennzeichnen und dann das Ergebnis zurück in die Felder auf dem Lead schreiben. Dadurch wird eine auf dem Urteilsvermögen basierende Lead-Verarbeitung ohne benutzerdefinierten Code in Ihre Kampagnen integriert.</td>
+   <td><i>Demnächst</i></td>
+   <td><i>Demnächst</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>In dieses Programm/diesen Ordner klonen</strong>: Klonvorgänge in Marketo Engage bieten jetzt durchgängig die Option „Dieser Ordner“ oder „Dieses Programm“ als erste Option bei der Auswahl des Ziels des geklonten Assets. Bei Auswahl dieser Option wird das Asset in das übergeordnete Programm oder den Ordner des aktuellen Assets geklont.</td>
@@ -71,8 +91,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 ## Ankündigungen {#announcements}
 
-* **Einstellung der Erfassung von Bildern aus dem Web**: Um den modernen Best Practices für Sicherheit und Datenschutz zu entsprechen, wird die Funktion [Abrufen von Bildern aus &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}Web) ab der Oktober-Version eingestellt.
+* **Einstellung der Erfassung von Bildern aus dem Web**: Um den modernen Best Practices für Sicherheit und Datenschutz zu entsprechen, wird die Funktion [Abrufen von Bildern aus ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}Web) ab der Oktober-Version eingestellt.
 
 * **API-Namensbeschränkungen für benutzerdefinierte Aktivitätsattribute**: API-Namen für benutzerdefinierte Aktivitätsattribute, die über die API oder die Benutzeroberfläche erstellt wurden, dürfen jetzt nur alphanumerische Zeichen und Unterstriche enthalten und müssen mit einem alphanumerischen Zeichen beginnen.
 
-* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Seit dem 30. September 2026 schlagen Aufrufe an die Endpunkte „Lead-Aktivitäten abrufen“ oder „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, mit einem 1003-Fehler-Code fehl (was bedeutet, dass die statische Zielliste zu viele Datensätze enthält), wenn die Ziellisten 10.000 oder mehr Leads enthalten. Weitere Informationen finden Sie [Migrationshandbuch](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
+* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Seit dem 30. September 2026 schlagen Aufrufe an die Endpunkte „Lead-Aktivitäten abrufen“ oder „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, mit einem 1003-Fehler-Code fehl (was bedeutet, dass die statische Zielliste zu viele Datensätze enthält), wenn die Ziellisten 10.000 oder mehr Leads enthalten. Weitere Informationen finden Sie [Migrationshandbuch](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
