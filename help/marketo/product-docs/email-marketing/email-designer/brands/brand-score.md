@@ -35,7 +35,7 @@ Die Überprüfung der Markenbewertung gewährleistet Konsistenz in Bezug auf Ton
 
 >[!AVAILABILITY]
 >
->Sie müssen der [Benutzervereinbarung“ zustimmen](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"} bevor Sie den KI-Assistenten in Adobe Marketo Engage verwenden können. Weitere Informationen erhalten Sie beim Adobe-Support.
+>Sie müssen der [Benutzervereinbarung“ zustimmen](https://www.adobe.com/de/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"} bevor Sie den KI-Assistenten in Adobe Marketo Engage verwenden können. Weitere Informationen erhalten Sie beim Adobe-Support.
 
 ## Validieren von Inhalten mit Markenausrichtung {#validate-content}
 

@@ -85,7 +85,7 @@ Erörterte Themen sind in Smart List-Triggern und -Filtern als Einschränkung ve
 
 >[!IMPORTANT]
 >
->Bei der Verwendung der generativen KI müssen Sie die [Adobe Experience Cloud-Benutzerrichtlinien für die generative KI](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) einhalten, um sicherzustellen, dass Adobe Experience Cloud-Funktionen, die die generative KI integrieren, auf sichere und verantwortungsvolle Weise verwendet werden.
+>Bei der Verwendung der generativen KI müssen Sie die [Adobe Experience Cloud-Benutzerrichtlinien für die generative KI](https://www.adobe.com/de/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) einhalten, um sicherzustellen, dass Adobe Experience Cloud-Funktionen, die die generative KI integrieren, auf sichere und verantwortungsvolle Weise verwendet werden.
 
 ## FAQs {#faq}
 
