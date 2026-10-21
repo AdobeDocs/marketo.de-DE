@@ -66,17 +66,17 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
    <td>Abgeschlossen</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">Juli '26</a></td>
+  <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">Juli '26</a></td>
    <td>10. Juli 2026</td>
    <td>Abgeschlossen</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">August '26</a></td>
+  <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">August '26</a></td>
    <td>14. August 2026</td>
    <td>Abgeschlossen</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">September '26</a></td>
+  <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">September '26</a></td>
    <td>25. September 2026</td>
    <td>In Bearbeitung</td>
   </tr>
