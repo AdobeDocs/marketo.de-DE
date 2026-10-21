@@ -70,7 +70,7 @@ Dieses Tool wird verwendet, um Ihnen `pulling information from the People page` 
 | `{{my_signature}}` | Keith Flynn, Senior Technical Writer - Adobe |
 | `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | leitender technischer Redakteur |
-| `{{work_website}}` | <https://www.adobe.com> |
+| `{{work_website}}` | <https://www.adobe.com/de> |
 
 **Zu beachten**:
 

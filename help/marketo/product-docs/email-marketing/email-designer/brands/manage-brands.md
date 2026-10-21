@@ -31,7 +31,7 @@ Manuelle Eingabe und Organisation Ihrer Markendetails oder Hochladen von Dokumen
 
 >[!AVAILABILITY]
 >
->Sie müssen der [Benutzervereinbarung“ zustimmen](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} bevor Sie den KI-Assistenten in Adobe Marketo Engage verwenden können. Weitere Informationen erhalten Sie von Ihrem Adobe Account Manager.
+>Sie müssen der [Benutzervereinbarung“ zustimmen](https://www.adobe.com/de/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} bevor Sie den KI-Assistenten in Adobe Marketo Engage verwenden können. Weitere Informationen erhalten Sie von Ihrem Adobe Account Manager.
 
 ## Zugriff auf Marken {#access}
 

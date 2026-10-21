@@ -26,7 +26,7 @@ ht-degree: 0%
 ---
 # Bedingtes E-Mail-Öffnungs-Tracking {#conditional-open-tracking}
 
-Erfahren Sie, wie Sie Marketo Engage so konfigurieren, dass das Einverständnis der Endbenutzer zum Tracking des E-Mail-Öffnens (in Pixel) berücksichtigt wird, in Übereinstimmung mit [verschiedenen Richtlinien](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=de){target="_blank"}. Der Ansatz verwendet ein benutzerdefiniertes boolesches Feld, um zu bestimmen, welche E-Mail-Variante eine Person erhält, entweder mit aktiviertem oder mit deaktiviertem Öffnungs-Tracking.
+Erfahren Sie, wie Sie Marketo Engage so konfigurieren, dass das Einverständnis der Endbenutzer zum Tracking des E-Mail-Öffnens (in Pixel) berücksichtigt wird, in Übereinstimmung mit [verschiedenen Richtlinien](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=de&lang=de){target="_blank"}. Der Ansatz verwendet ein benutzerdefiniertes boolesches Feld, um zu bestimmen, welche E-Mail-Variante eine Person erhält, entweder mit aktiviertem oder mit deaktiviertem Öffnungs-Tracking.
 
 ## Schritt 1: Erstellen eines benutzerdefinierten booleschen Felds {#custom-field}
 

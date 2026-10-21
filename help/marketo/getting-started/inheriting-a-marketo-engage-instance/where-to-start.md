@@ -29,9 +29,9 @@ Beginnen Sie einen neuen Auftrag oder übernehmen Sie eine vorhandene Instanz vo
 
 Vergewissern Sie sich, dass Sie in der Marketo Engage-Community ordnungsgemäß eingerichtet sind.
 
-* [**Richten Sie Ihr Profil ein**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=de){target="_blank"} indem Sie die erforderlichen Felder ausfüllen (Unternehmen, Lösungsspezialisierungen, Land usw.)
+* [**Richten Sie Ihr Profil ein**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=de&lang=de){target="_blank"} indem Sie die erforderlichen Felder ausfüllen (Unternehmen, Lösungsspezialisierungen, Land usw.)
 
-* Lesen Sie mehr über die [**Community-Richtlinien für Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=de){target="_blank"}.
+* Lesen Sie mehr über die [**Community-Richtlinien für Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=de&lang=de){target="_blank"}.
 
 * Erfahren Sie, wie [**einen Support-Fall einreichen**](https://experienceleague.adobe.com/de/support#home){target="_blank"} und bestätigen Sie, dass Sie als [Support-Administrator“ eingerichtet &#x200B;](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
@@ -86,7 +86,7 @@ Benötigen Sie weitere Hilfe? Verbinden Sie sich über die unten stehenden Links
 
 * Für technische Unterstützung bei Problemen, die nicht ordnungsgemäß funktionieren, wenden Sie sich an den **[Marketo Engage-Support](https://experienceleague.adobe.com/de/support){target="_blank"}**.
 
-* Treten Sie mit anderen Marketo Engage-Benutzenden in der **[Adobe Marketo Engage-Community in Verbindung und lernen Sie von ihnen &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=de){target="_blank"}**.
+* Treten Sie mit anderen Marketo Engage-Benutzenden in der **[Adobe Marketo Engage-Community in Verbindung und lernen Sie von ihnen &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=de&lang=de){target="_blank"}**.
 
 * Wenn Sie praktische Unterstützung benötigen, um Ihre Marketo Engage-Instanz optimal zu nutzen, wenden Sie sich an **[Adobe Professional Services](https://business.adobe.com/de/products/marketo/services-support.html){target="_blank"}**.
 
