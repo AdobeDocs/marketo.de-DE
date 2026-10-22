@@ -11,7 +11,7 @@ feature_v2:
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
     internal-label: Release information
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 14%
@@ -83,4 +83,4 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **REST-API Kampagnenausführungs-ID**: Unter bestimmten Umständen wurde der Wert der Kampagnenausführungs-ID einer Aktivität manchmal mit falscher Formatierung zwischen zwei Paaren von Anführungszeichen zurückgegeben (z. B. `"campaignRunId": ""102938""`).<br/>Ab der August-Version wird dieser Wert immer im richtigen numerischen Format (`"campaignRunId": 102938`) zurückgegeben.
 
-* **Einstellung der Erfassung von Bildern aus dem Web**: Um den modernen Best Practices für Sicherheit und Datenschutz zu entsprechen, wird die Funktion [Abrufen von Bildern aus &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}Web) ab der Oktober-Version eingestellt.
+* **Einstellung der Erfassung von Bildern aus dem Web**: Um den modernen Best Practices für Sicherheit und Datenschutz zu entsprechen, wird die Funktion [Erfassen von Bildern aus &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}Web) ab der November-Version eingestellt.
