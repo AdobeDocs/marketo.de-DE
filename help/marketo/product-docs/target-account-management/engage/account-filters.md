@@ -75,4 +75,4 @@ Legen Sie &quot;[!UICONTROL Untergeordnete Elemente einschließen] auf **[!UICON
 
 >[!MORELIKETHIS]
 >
->[Account-Trigger ](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
+>[Account-Trigger &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)

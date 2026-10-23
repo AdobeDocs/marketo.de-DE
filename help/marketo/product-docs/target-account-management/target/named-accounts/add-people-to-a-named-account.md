@@ -21,7 +21,7 @@ workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 6%
 ---
-# Personen zu einem &quot;[!UICONTROL  Konto“ ] {#add-people-to-a-named-account}
+# Personen zu einem &quot;[!UICONTROL &#x200B; Konto“ &#x200B;] {#add-people-to-a-named-account}
 
 Es gibt drei verschiedene Möglichkeiten, Personen in TAM manuell zu einem benannten Konto hinzuzufügen.
 
@@ -49,7 +49,7 @@ Es gibt drei verschiedene Möglichkeiten, Personen in TAM manuell zu einem benan
 
    ![](assets/five.png)
 
-1. Geben Sie im Suchfeld &quot;[!UICONTROL Zu benanntem Konto hinzufügen“ ].
+1. Geben Sie im Suchfeld &quot;[!UICONTROL Zu benanntem Konto hinzufügen“ &#x200B;].
 
    ![](assets/six.png)
 
