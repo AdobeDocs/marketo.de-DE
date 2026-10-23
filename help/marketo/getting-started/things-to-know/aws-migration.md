@@ -9,10 +9,10 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f0fb0c3ca9c2a49f605308310ed9aa0dcb2624ac
+source-git-commit: 6d87546b2dda91d292596a246fda2aec8c5b496a
 workflow-type: tm+mt
-source-wordcount: '1252'
-ht-degree: 5%
+source-wordcount: '1245'
+ht-degree: 4%
 ---
 # AWS-Migration {#aws-migration}
 
@@ -286,7 +286,7 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
    <td>21. Oktober 2026</td>
    <td>AB38</td>
    <td>17:00 PDT</td>
-   <td>Planmäßig</td>
+   <td>Abgeschlossen</td>
   </tr>
   <tr>
    <td>22. Oktober 2026</td>
@@ -308,12 +308,9 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
   </tr>
   <tr>
    <td>6. November 2026</td>
-   <td>AB18<br>
-   AB36</td>
-   <td>16.00 Uhr PST<br>
-   17.00 Uhr PST</td>
-   <td>Planmäßig<br>
-   Planmäßig</td>
+   <td>AB18</td>
+   <td>16.00 Uhr PST</td>
+   <td>Planmäßig</td>
   </tr>
   <tr>
    <td>18. November 2026</td>
