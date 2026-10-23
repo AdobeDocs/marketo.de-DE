@@ -6,25 +6,29 @@ exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
 TQID: https://experienceleague.adobe.com/hdywHZ1nm-guYiDHprc3a7l9u2iab-kCGvkIxd-oLoo
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 508
+source-wordcount: '508'
 ht-degree: 16%
-
 ---
-
 # Erweitertes Nurturing: NUR-JJJJ-MM {#nur-yyyy-mm-advanced-nurture}
 
 Dies ist ein Beispiel für erweiterte Nurture-Programme, die das Marketo Engage Engagement Program verwenden. Verschachtelte E-Mail-Programme verhindern, dass Personen Inhalte erhalten, die sie bereits konsumiert haben, oder steuern den Typ des Inhalts, den sie in jedem Stream konsumieren sollen. Attributionsberichte können für jedes einzelne verschachtelte E-Mail-Programm ausgeführt werden. Kanäle: „Pflegen“ und ein dedizierter Kanal „Pflege-E-Mail“ für die verschachtelten E-Mail-Programme senden eine Newsletter-E-Mail mit einem Marketo Engage-E-Mail-Programm. Die E-Mail kann einen A/B-Test enthalten oder nicht.
 
-Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
+Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um weitere Unterstützung bei der Strategie oder bei der Anpassung eines Programms zu erhalten.
 
 ## Kanal-Zusammenfassung {#channel-summary}
 
@@ -80,12 +84,12 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage​</a></td>
    <td>01 - E-Mail (Live in verschachtelten Programmen)</td>
   </tr>
    <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage​</a></td>
    <td>02 - E-Mail (Live in verschachtelten Programmen)</td>
   </tr>
    <tr>
@@ -194,20 +198,20 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
 ## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Tags in diesem Abonnement erstellen - _Empfohlen_
-   * Ignorieren
+  * Tags in diesem Abonnement erstellen - _Empfohlen_
+  * Ignorieren
 
 * **Landingpage-Vorlage mit demselben Namen**
-   * Originalvorlage kopieren
-   * Zielvorlage verwenden - _Empfohlen_
+  * Originalvorlage kopieren
+  * Zielvorlage verwenden - _Empfohlen_
 
 * **Bilder mit demselben Namen**
-   * Beide Dateien beibehalten
-   * Element in diesem Abonnement ersetzen - _Empfohlen_
+  * Beide Dateien beibehalten
+  * Element in diesem Abonnement ersetzen - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
-   * Beide Vorlagen beibehalten
-   * Vorhandene Vorlage ersetzen - _Empfohlen_
+  * Beide Vorlagen beibehalten
+  * Vorhandene Vorlage ersetzen - _Empfohlen_
 
 ## Bewährte Methoden {#best-practices}
 

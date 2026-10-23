@@ -87,7 +87,7 @@ Exportieren Sie alle Web-Kampagnendetails und Analysen im CSV-Format. Anschließ
 
 ## Lokalisierung {#localization}
 
-Die Apps Web Personalization[!UICONTROL Predictive Content] und Email Insights sind jetzt auf Japanisch, Deutsch und Spanisch verfügbar. Sie [&#x200B; Ihre Sprache und Ihr Gebietsschema &#x200B;](/help/marketo/product-docs/administration/settings/change-time-zone.md), um Ihre Inhalte in diesen Sprachen anzuzeigen.
+Die Apps Web Personalization[!UICONTROL Predictive Content] und Email Insights sind jetzt auf Japanisch, Deutsch und Spanisch verfügbar. Sie [ Ihre Sprache und Ihr Gebietsschema ](/help/marketo/product-docs/administration/settings/change-time-zone.md), um Ihre Inhalte in diesen Sprachen anzuzeigen.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -105,7 +105,7 @@ Verwenden [!UICONTROL Benanntes Konto] oder [!UICONTROL Kontoliste] als Dimensio
 
 ![](assets/ei.png)
 
-## [!UICONTROL Verbesserungen bei prädiktiven &#x200B;]) {#predictive-content-enhancements}
+## [!UICONTROL Verbesserungen bei prädiktiven ]) {#predictive-content-enhancements}
 
 **[Filtern nach [!UICONTROL Source aktiviert]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
@@ -223,7 +223,7 @@ Legen Sie die Animationseffekte für Ihre Dialog-Web-Kampagne fest, um anzupasse
 
 **[Anpassung des Schließen-Dialogs](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-Passen Sie die Schaltfläche Schließen für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die im Stil des transparenten Dialogfelds ([!UICONTROL ) verwendet &#x200B;]. Wählen Sie das Symbol, die Farbe und die Positionierung für die Schaltfläche „Schließen“ aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
+Passen Sie die Schaltfläche Schließen für Dialogfelder an. Wählen Sie aus einer Reihe von Optionen aus, die im Stil des transparenten Dialogfelds ([!UICONTROL ) verwendet ]. Wählen Sie das Symbol, die Farbe und die Positionierung für die Schaltfläche „Schließen“ aus. Sie können auch ein eigenes Schaltflächenbild hinzufügen.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
@@ -392,11 +392,11 @@ Sparen Sie Zeit durch die Wiederverwendung von Kreativ-Assets und -Bildern auf m
 
 ## Integration  {#integration}
 
-**[Email Preview API](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting)**
+**[Email Preview API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Sie können jetzt eine Remote-Vorschau von E-Mails außerhalb von Marketo anzeigen, wodurch der Prozess der Lokalisierung von E-Mail-Inhalten vereinfacht und Fehler reduziert werden.
 
-**[HTML-API ersetzen](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/email-scripting)**
+**[HTML-API ersetzen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Entwicklerinnen und Entwickler können HTML-Inhalte von E-Mail-Assets remote aktualisieren, sodass sie in einem einzigen System arbeiten können, um Assets zu verwalten.
 

@@ -6,17 +6,18 @@ exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
 TQID: https://experienceleague.adobe.com/h8XJqbxeqH-Fm3xe8BzwBnSW41F5CfuDiA1sPP6JJVU
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 1058
+source-wordcount: '1058'
 ht-degree: 28%
-
 ---
-
 # Metriken und Dimensionen {#metrics-and-dimensions}
 
 Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Analysebericht des Umsatzzyklus-Explorers verfügbar sind.
@@ -327,8 +328,8 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Analyseberic
             <li>Abbestellt</li>
             <li>E-Mail-Adresse</li>
             <li>E-Mail-Adresse ungültig</li>
-            <li>E-Mail-Adresse des Lead-Eigentümers</li>
-            <li>Position des Lead-Eigentümers</li>
+            <li>E-Mail-Adresse der bzw. des Lead-Inhabenden</li>
+            <li>Position der bzw. des Lead-Inhabenden</li>
             <li>Name des Lead-Inhabers</li>
             <li>Lead-Quelle</li>
             <li>Lead-Status</li>
@@ -680,7 +681,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Analyseberic
             <li>Kosten pro Mitglied</li>
             <li>Kosten pro neue Namen</li>
             <li>Kosten pro Erfolg</li>
-            <li>Kosten pro Erfolg (Neuer Name)</li>
+            <li>Kosten pro Erfolg (Neue Namen)</li>
             <li>Programmkosten</li>
           </ul>
       </td>
@@ -718,7 +719,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Analyseberic
             <li>% neuer Name (aktuell)</li>
             <li>% neuer Name (immer)</li>
             <li>Durchschn. Tage bis Staging</li>
-            <li>Kosten pro neuem Namen</li>
+            <li>Kosten pro neuem Namen​</li>
             <li>Neuer Name (aktuell)</li>
             <li>Neuer Name (immer)</li>
           </ul>
@@ -732,7 +733,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Analyseberic
             <li>(FT) Erstellte Pipeline</li>
             <li>(FT) Erstellte Pipeline - Noch offen</li>
             <li>(FT) Erwarteter Ertrag</li>
-            <li>(FT) Ertrag-Investitions-Verhältnis</li>
+            <li>(FT) Umsatz im Verhältnis zur Investition</li>
             <li>(FT) Gewonnener Ertrag</li>
             <li>(MT) Opportunity-Kosten</li>
             <li>(MT) Opportunities erstellt</li>
@@ -740,7 +741,7 @@ Im Folgenden finden Sie alle Metriken und Dimensionen, die für den Analyseberic
             <li>(MT) Erstellte Pipeline</li>
             <li>(MT) Erstellte Pipeline - Noch offen</li>
             <li>(MT) Erwarteter Ertrag</li>
-            <li>(MT) Ertrag-Investitions-Verhältnis</li>
+            <li>(MT) Umsatz im Verhältnis zur Investition</li>
             <li>(MT) Gewonnener Ertrag</li>
             <li>Durchschn. Anzahl der Erfolge pro abgeschlossener Opportunity</li>
             <li>Durchschn. Anzahl der Erfolge pro erstellter Opportunity</li>

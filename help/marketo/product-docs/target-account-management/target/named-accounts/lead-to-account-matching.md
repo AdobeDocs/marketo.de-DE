@@ -1,29 +1,34 @@
 ---
 unique-page-id: 11381156
 description: Erfahren Sie mehr über die Lead-Konto-Zuordnung und wie Marketo in nahezu Echtzeit zu benannten Konten führt. Schwache Übereinstimmungen und Trigger bei neuen Leads beheben.
-title: Abgleich zwischen Lead und Konto
+title: Lead-Konto-Abgleich
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/UOnC6liEOBDJ7IbaKhf5lYjNfZgKJEXAYqaHrYLGErc
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 subfeature_v2:
   - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 515
+source-wordcount: '515'
 ht-degree: 4%
-
 ---
-
-# Abgleich zwischen Lead und Konto {#lead-to-account-matching}
+# Lead-Konto-Abgleich {#lead-to-account-matching}
 
 Abgleichen von rechten Leads zu Konten mit rechtlichem Namen mithilfe von Marketo Lead-Konto-Abgleich.
 
@@ -77,7 +82,7 @@ Nachdem der [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support
 
    ![](assets/lead-to-account-matching-2.png)
 
-1. Bestätigen Sie, dass das Feld vorhanden ist, indem Sie nach &quot;[!UICONTROL Abgestimmtes Berichtskonto“ &#x200B;].
+1. Bestätigen Sie, dass das Feld vorhanden ist, indem Sie nach &quot;[!UICONTROL Abgestimmtes Berichtskonto“ ].
 
    ![](assets/lead-to-account-matching-3.png)
 

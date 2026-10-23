@@ -78,7 +78,7 @@ Die folgenden Funktionen sind in der Version vom Januar 2015 enthalten. Bitte ü
 
 **Handy-freundliche Landingpages**
 
-Sie können [im Landingpage-Editor &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) mobile Ansichten für Landingpages erstellen). Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und steigern Sie die Interaktion, indem Sie Ihre Inhalte für den einfachen Gebrauch unterwegs anpassen. Diese Funktion wird in der Woche nach der Veröffentlichung schrittweise eingeführt.
+Sie können [im Landingpage-Editor ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) mobile Ansichten für Landingpages erstellen). Stellen Sie Ihre Nachricht unabhängig vom Gerät effektiv bereit und steigern Sie die Interaktion, indem Sie Ihre Inhalte für den einfachen Gebrauch unterwegs anpassen. Diese Funktion wird in der Woche nach der Veröffentlichung schrittweise eingeführt.
 
 [Video mit schrittweisen Anleitungen für -Landingpages](https://youtu.be/aPQHlG2X6c0)
 
@@ -90,7 +90,7 @@ Drei neue Aufrufe für die Lead &amp; Activity REST-API:
 * Leads nach Programm-ID abrufen
 * Gelöschte Leads abrufen
 
-Außerdem gibt es eine neue Option für Lead synchronisieren , um die Lead-Änderung für einen schnelleren API-Aufruf asynchron zu schreiben. Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
+Außerdem gibt es eine neue Option für Lead synchronisieren , um die Lead-Änderung für einen schnelleren API-Aufruf asynchron zu schreiben. Alle Details werden nach der Veröffentlichung unter [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home verfügbar sein](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/home)
 
 **E-Mail-Skriptfunktionen: Support für benutzerdefinierte Objekte**
 
@@ -121,7 +121,7 @@ Die RTP-Tag-Optionen unter „Kontoeinstellungen“ wurden aktualisiert, um Folg
 1. Asynchrones Tag ohne CDN
 1. Synchrones Tag ohne CDN
 
-Um eine optimale Leistung zu erzielen, wird empfohlen, das -Tag nach dem `<head>` oben in der Kopfzeile Ihrer Web-Seite zu platzieren. Alle Tags ermöglichen die Verwendung der [RTP-](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Informationen zur Bereitstellung des RTP-Tags finden Sie unter [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Um eine optimale Leistung zu erzielen, wird empfohlen, das -Tag nach dem `<head>` oben in der Kopfzeile Ihrer Web-Seite zu platzieren. Alle Tags ermöglichen die Verwendung der [RTP-](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Informationen zur Bereitstellung des RTP-Tags finden Sie unter [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -163,7 +163,7 @@ Wählen Sie mithilfe von „Ziel-URL hinzufügen“ die Seiten aus, die Ihre Ech
 
 **Land und Bundesland zum kontobasierten Targeting hinzugefügt**
 
-Jetzt können Land und Bundesland zu Ihren Named-Accounts-Listen hinzugefügt werden. Zielen Sie auf wichtigste potenzielle Kunden an bestimmten Standorten ab.
+Jetzt können Land und Bundesland zu Ihren Listen mit benannten Konten hinzugefügt werden. Zielen Sie auf wichtigste potenzielle Kunden an bestimmten Standorten ab.
 
 ## März 2015 {#march}
 
@@ -191,13 +191,13 @@ Verknüpfen Sie Ihr [[!DNL Google AdWords] Konto mit Marketo](/help/marketo/prod
 
 ## Neue Asset-REST-APIs {#new-asset-rest-apis}
 
-[Neue Asset-REST-APIs](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/assets/assets)
+[Neue Asset-REST-APIs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 Wir bieten jetzt Unterstützung für das Erstellen und Bearbeiten von E-Mails, Vorlagen, meinen Token, Dateien und Snippets [über die API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## [!DNL Microsoft Dynamics] 2015 On-Premise {#microsoft-dynamics-on-premise}
 
-Unterstützt mit dem neuesten Installationsprogramm ([&#x200B; über die App zugänglich](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Unterstützt mit dem neuesten Installationsprogramm ([ über die App zugänglich](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
@@ -207,7 +207,7 @@ Nutzen Sie die [Lead-Datenfelder](/help/marketo/product-docs/web-personalization
 
 ## RTP: Webinhalte nach E-Mail- oder Programmkampagnenname personalisieren {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Setzen Sie das Gespräch mit Ihrem Lead über alle Kanäle von E-Mail bis Web fort. [Personalisieren eingehender Inhalte basierend auf der E-Mail-Kampagne oder dem &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md), der in den Marketing-Aktivitäten von Marketo verwendet wird.
+Setzen Sie das Gespräch mit Ihrem Lead über alle Kanäle von E-Mail bis Web fort. [Personalisieren eingehender Inhalte basierend auf der E-Mail-Kampagne oder dem ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md), der in den Marketing-Aktivitäten von Marketo verwendet wird.
 
 ## April 2015 {#april}
 
