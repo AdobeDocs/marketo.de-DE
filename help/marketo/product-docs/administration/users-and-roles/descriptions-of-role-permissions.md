@@ -7,34 +7,51 @@ feature: Users and Roles
 TQID: https://experienceleague.adobe.com/3n-kUApPaDh4HNYgYPGgo94S04tjxqrTgA7UxdwY1h4
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1338
+source-wordcount: '1338'
 ht-degree: 18%
-
 ---
-
 # Beschreibungen der Rollenberechtigungen {#descriptions-of-role-permissions}
 
 Nachfolgend finden Sie eine Liste aller verfügbaren Berechtigungen, die Sie Ihren Rollen zuweisen können. Berechtigungen sind im Allgemeinen mit bestimmten Funktionsbereichen in Marketo verknüpft und können Ihnen dabei helfen zu steuern, auf welche Bereiche und Funktionen verschiedene Benutzende Zugriff haben.
@@ -139,53 +156,53 @@ Ermöglicht Benutzenden Zugriff auf Kalenderpräsentationen - Aktiviert die Anze
 Ermöglicht Benutzenden den Zugriff auf die Registerkarte „Design Studio“ und die Ansicht der Baumstruktur, jedoch nicht auf Details.
 
 * Auf E-Mail zugreifen
-   * E-Mail bearbeiten - Ermöglicht Benutzern das Bearbeiten, Erstellen und Klonen von E-Mails
-      * Operative E-Mails erstellen und bearbeiten - Ermöglicht Benutzern das Erstellen und/oder Bearbeiten operativer E-Mails. Siehe: [E-Mail funktionsfähig machen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+  * E-Mail bearbeiten - Ermöglicht Benutzern das Bearbeiten, Erstellen und Klonen von E-Mails
+    * Operative E-Mails erstellen und bearbeiten - Ermöglicht Benutzern das Erstellen und/oder Bearbeiten operativer E-Mails. Siehe: [E-Mail funktionsfähig machen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * E-Mail genehmigen - Ermöglicht Benutzern das Genehmigen von E-Mails.
-      * E-Mail löschen - Ermöglicht Benutzern das Löschen von E-Mails.
-      * Branded Domain festlegen - Ermöglicht Benutzern die Arbeit mit Branding-Domains. Siehe: [Hinzufügen einer zusätzlichen Branding-Domain](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+    * E-Mail genehmigen - Ermöglicht Benutzern das Genehmigen von E-Mails.
+    * E-Mail löschen - Ermöglicht Benutzern das Löschen von E-Mails.
+    * Branded Domain festlegen - Ermöglicht Benutzern die Arbeit mit Branding-Domains. Siehe: [Hinzufügen einer zusätzlichen Branding-Domain](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Auf E-Mail-Vorlage zugreifen
 
-   * E-Mail-Vorlage genehmigen
-   * E-Mail-Vorlage löschen
-   * E-Mail-Vorlage bearbeiten - E-Mail-Vorlagen bearbeiten, erstellen und klonen
+  * E-Mail-Vorlage genehmigen
+  * E-Mail-Vorlage löschen
+  * E-Mail-Vorlage bearbeiten - E-Mail-Vorlagen bearbeiten, erstellen und klonen
 
 * Auf Formular zugreifen
 
-   * Formular genehmigen
-   * Formular löschen
-   * Formular bearbeiten - Formulare bearbeiten, erstellen und klonen
+  * Formular genehmigen
+  * Formular löschen
+  * Formular bearbeiten - Formulare bearbeiten, erstellen und klonen
 
 * Auf Bild zugreifen
 
-   * Bild löschen
-   * Bild hochladen
+  * Bild löschen
+  * Bild hochladen
 
 * Auf Landing Page zugreifen
 
-   * Landing Page genehmigen
-   * Landingpage löschen
-   * Landingpage bearbeiten - Landingpages bearbeiten, erstellen und klonen
+  * Landing Page genehmigen
+  * Landingpage löschen
+  * Landingpage bearbeiten - Landingpages bearbeiten, erstellen und klonen
 
-* Auf Landing Page-Vorlage zugreifen
+* Zugreifen auf die Landingpage-Vorlage
 
-   * Landing Page-Vorlage genehmigen
-   * Landing Page-Vorlage löschen
-   * Landingpage-Vorlage bearbeiten - Landingpage-Vorlagen bearbeiten, erstellen und klonen
+  * Landing Page-Vorlage genehmigen
+  * Landing Page-Vorlage löschen
+  * Landingpage-Vorlage bearbeiten - Landingpage-Vorlagen bearbeiten, erstellen und klonen
 
 * Auf Ausschnitt zugreifen
 
-   * Ausschnitt genehmigen
-   * Ausschnitt löschen
-   * Ausschnitt bearbeiten
+  * Ausschnitt genehmigen
+  * Ausschnitt löschen
+  * Ausschnitt bearbeiten
 
 * Auf Social App zugreifen
 
-   * Social App genehmigen
-   * Social App löschen
-   * Social App bearbeiten
+  * Social App genehmigen
+  * Social App löschen
+  * Social App bearbeiten
 
 ## Auf Datenbank zugreifen {#access-database}
 
@@ -193,14 +210,14 @@ Anzeigen der Datenbank sowie Anzeigen und Bearbeiten von Smart-/Static-Listen.
 
 * Auf Segmentierung zugreifen
 
-   * Segmentierung genehmigen
-   * Segmentierung löschen
-   * Segmentierung bearbeiten
+  * Segmentierung genehmigen
+  * Segmentierung löschen
+  * Segmentierung bearbeiten
 
 * Löschen von Person
 * Liste erstellen
-   * Zugriff zum Erstellen einer Asset-Liste in Datenbank- und Marketing-Aktivitäten
-   * Zugriff zum Erstellen von Smart-Listen-Assets in Datenbank- und Marketing-Aktivitäten
+  * Zugriff zum Erstellen einer Asset-Liste in Datenbank- und Marketing-Aktivitäten
+  * Zugriff zum Erstellen von Smart-Listen-Assets in Datenbank- und Marketing-Aktivitäten
 * Liste löschen
 * Person bearbeiten - Verhindert die manuelle Bearbeitung und Ausführung von Einzelflussschritten. Personen können dennoch bearbeitet werden, indem Kampagnen für sie ausgeführt werden.
 * Person exportieren - Tabellen aus Ihren Datenbanklisten exportieren
@@ -217,15 +234,15 @@ Zeigen Sie die Registerkarte Marketing-Aktivitäten, Kampagnen und Kampagnenordn
 
 * Auf SMS-Nachricht zugreifen
 
-   * SMS-Nachricht genehmigen
-   * SMS-Nachricht löschen
-   * SMS-Nachricht bearbeiten
+  * SMS-Nachricht genehmigen
+  * SMS-Nachricht löschen
+  * SMS-Nachricht bearbeiten
 
 * Auf Push-Benachrichtigung zugreifen
 
-   * Push-Benachrichtigung genehmigen
-   * Push-Benachrichtigung löschen
-   * Push-Benachrichtigung bearbeiten
+  * Push-Benachrichtigung genehmigen
+  * Push-Benachrichtigung löschen
+  * Push-Benachrichtigung bearbeiten
 
 * Auf Preise zugreifen
 * Auslöser-Kampagne aktivieren

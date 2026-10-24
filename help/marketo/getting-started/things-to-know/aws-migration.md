@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 6d87546b2dda91d292596a246fda2aec8c5b496a
+source-git-commit: 26cd137342ecb342803a74c44713541af9faf28c
 workflow-type: tm+mt
-source-wordcount: '1245'
+source-wordcount: '1282'
 ht-degree: 4%
 ---
 # AWS-Migration {#aws-migration}
@@ -32,7 +32,7 @@ Während des Migrationsfensters sind nicht alle Marketo Engage-Services verfügb
 
 * **Vermeiden Sie**, Datenimporte oder -exporte oder größere Kampagnen zur Lead-/Personengenerierung.
 
-* **IP-Zulassungslisten überprüfen und aktualisieren** für Anmeldung, API-Zugriff, E-Mail-Versand, Webtracking und Integrationen.
+* **IP-Zulassungslisten überprüfen und aktualisieren** für Anmeldung, API-Zugriff, E-Mail-Versand, Webtracking und Integrationen (wie CRM-Synchronisierung und Webhooks).
 
 * **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([&#x200B; Tabelle unten) hinzugefügt werden &#x200B;](#ip-addresses).
 
@@ -332,7 +332,7 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
 
 ## Hinzuzufügende IP-Adressen {#ip-addresses}
 
-Arbeiten Sie je nach Rechenzentrum mit Ihrer IT-Abteilung zusammen, um die entsprechenden IP-Adressen hinzuzufügen.
+Wenn Ihr Unternehmen eine IP-Zulassungsliste, eine Firewall, eine Zugriffssteuerungsliste, eine Sicherheitsgruppe oder einen anderen Server oder Drittanbieterdienst verwendet, der bzw. die für die Annahme von Verbindungen von Marketo Engage konfiguriert wurde, wenden Sie sich an Ihre IT-Abteilung, um die in der folgenden Tabelle aufgeführten IP-Adressen hinzuzufügen, die für Ihr Rechenzentrum spezifisch sind.
 
 <table>
 <tbody>

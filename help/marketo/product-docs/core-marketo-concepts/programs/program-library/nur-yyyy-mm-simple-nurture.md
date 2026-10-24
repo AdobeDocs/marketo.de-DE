@@ -6,18 +6,21 @@ exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
 TQID: https://experienceleague.adobe.com/4dEZucMMXmSHngRHdUqasKVAg08MkwZFIDn1OzbxnVg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 369
+source-wordcount: '369'
 ht-degree: 20%
-
 ---
-
 # Einfaches Nurturing: NUR-JJJJ-MM {#nur-yyyy-mm-simple-nurture}
 
 Dies ist ein Beispiel für Simple Nurture-Programme, bei denen das Marketo Engage Engagement-Programm verwendet wird. Dabei werden Inhalte im Zeitverlauf in die Datenbank übertragen, während Streams verwendet werden, um Datensätze anhand des Verhaltens durch die Journey zu leiten.
@@ -55,17 +58,17 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
   </tr>
   <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage​</a></td>
    <td>01 - E-Mail</td>
   </tr>
    <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage​</a></td>
    <td>02 - E-Mail</td>
   </tr>
    <tr>
    <td>E-Mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-Mail-Vorlage für Schnellstart</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Schnellstart-E-Mail-Vorlage​</a></td>
    <td>03 - E-Mail</td>
   </tr>
   <tr>
@@ -150,20 +153,20 @@ Wenden Sie sich an das Adobe-Accountteam oder besuchen Sie die Seite [Adobe Prof
 ## Kollisionsregeln {#conflict-rules}
 
 * **Programm-Tags**
-   * Tags in diesem Abonnement erstellen - _Empfohlen_
-   * Ignorieren
+  * Tags in diesem Abonnement erstellen - _Empfohlen_
+  * Ignorieren
 
 * **Landingpage-Vorlage mit demselben Namen**
-   * Originalvorlage kopieren
-   * Zielvorlage verwenden - _Empfohlen_
+  * Originalvorlage kopieren
+  * Zielvorlage verwenden - _Empfohlen_
 
 * **Bilder mit demselben Namen**
-   * Beide Dateien beibehalten
-   * Element in diesem Abonnement ersetzen - _Empfohlen_
+  * Beide Dateien beibehalten
+  * Element in diesem Abonnement ersetzen - _Empfohlen_
 
 * **E-Mail-Vorlagen mit demselben Namen**
-   * Beide Vorlagen beibehalten
-   * Vorhandene Vorlage ersetzen - _Empfohlen_
+  * Beide Vorlagen beibehalten
+  * Vorhandene Vorlage ersetzen - _Empfohlen_
 
 ## Bewährte Methoden {#best-practices}
 

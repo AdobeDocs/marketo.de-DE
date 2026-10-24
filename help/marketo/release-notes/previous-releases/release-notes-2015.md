@@ -163,7 +163,7 @@ Wählen Sie mithilfe von „Ziel-URL hinzufügen“ die Seiten aus, die Ihre Ech
 
 **Land und Bundesland zum kontobasierten Targeting hinzugefügt**
 
-Jetzt können Land und Bundesland zu Ihren Named-Accounts-Listen hinzugefügt werden. Zielen Sie auf wichtigste potenzielle Kunden an bestimmten Standorten ab.
+Jetzt können Land und Bundesland zu Ihren Listen mit benannten Konten hinzugefügt werden. Zielen Sie auf wichtigste potenzielle Kunden an bestimmten Standorten ab.
 
 ## März 2015 {#march}
 
