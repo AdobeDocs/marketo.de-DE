@@ -8,14 +8,14 @@ product_v2:
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 96caeb4343efdbe747a93c2424c50840d6917798
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1078'
 ht-degree: 5%
 ---
 # Richtlinie zur Datenaufbewahrung in Marketo-Aktivitäten - Auswirkungen auf das Reporting
 
-Marketo speichert Marketing-Aktivitätsdaten fortlaufend. Aktivitäts- und Kampagnenmitgliedschaftsdaten werden für rollierende 25 Monate nach dem Aktivitätsdatum gespeichert, und Aktivitätsdaten mit hohem Volumen werden standardmäßig für einen rollierenden Zeitraum von 90 Tagen nach dem Aktivitätsdatum gespeichert, der pro Benutzer angepasst werden kann. Nach Ablauf dieser Aufbewahrungsfristen sind die Daten nicht mehr über die Marketo-Benutzeroberfläche verfügbar.
+Marketo speichert Marketing-Aktivitätsdaten fortlaufend. Aktivitäts- und Kampagnenmitgliedschaftsdaten werden für rollierende 25 Monate nach dem Aktivitätsdatum gespeichert, und Aktivitätsdaten mit hohem Volumen werden standardmäßig für einen rollierenden Zeitraum von 90 Tagen nach dem Aktivitätsdatum gespeichert. Nach Ablauf dieser Aufbewahrungsfristen sind die Daten nicht mehr über die Marketo-Benutzeroberfläche verfügbar.
 
 ## Marketo Analytics-Berichte
 
