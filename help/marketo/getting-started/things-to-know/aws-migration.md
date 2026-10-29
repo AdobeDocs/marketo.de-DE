@@ -9,16 +9,16 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 26cd137342ecb342803a74c44713541af9faf28c
+source-git-commit: e5afc046c226779f9969569cf4648792d8c32ae5
 workflow-type: tm+mt
-source-wordcount: '1282'
+source-wordcount: '1278'
 ht-degree: 4%
 ---
 # AWS-Migration {#aws-migration}
 
 In den nächsten Monaten werden alle Marketo Engage-Abonnements von einem privaten Rechenzentrum in die öffentliche Cloud von AWS migriert, um Zuverlässigkeit, Skalierbarkeit und Geschwindigkeit zu verbessern.
 
-Etwa 30 Tage vor der Migration erhalten Sie eine E-Mail [&#x200B; eine In-App-Benachrichtigung](#identify). Verwenden Sie dieses Handbuch zur Vorbereitung.
+Etwa 30 Tage vor der Migration erhalten Sie eine E-Mail [ eine In-App-Benachrichtigung](#identify). Verwenden Sie dieses Handbuch zur Vorbereitung.
 
 ## Empfohlene Aktionen {#actions}
 
@@ -34,7 +34,7 @@ Während des Migrationsfensters sind nicht alle Marketo Engage-Services verfügb
 
 * **IP-Zulassungslisten überprüfen und aktualisieren** für Anmeldung, API-Zugriff, E-Mail-Versand, Webtracking und Integrationen (wie CRM-Synchronisierung und Webhooks).
 
-* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([&#x200B; Tabelle unten) hinzugefügt werden &#x200B;](#ip-addresses).
+* **Neue IP-Adressen hinzufügen** und die aktuellen IPs unverändert lassen. Siehe die IP-Adressen, die über die ([ Tabelle unten) hinzugefügt werden ](#ip-addresses).
 
 ## Erwartete Service-Auswirkungen {#impacts}
 
@@ -47,11 +47,11 @@ Die folgenden Auswirkungen erfordern keine Maßnahmen Ihrerseits.
 
 >[!IMPORTANT]
 >
->Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich [&#128279;](https://experienceleague.adobe.com/de/support){target="_blank"} Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
+>Wenn Sie [externe Formulare](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} verwenden und vermeiden möchten, dass Formulardaten verloren gehen, die erfasst wurden, während Marketo Engage während Ihres Migrationsfensters nicht verfügbar ist, wenden Sie sich ](https://experienceleague.adobe.com/en/support){target="_blank"} [Adobe-Support **mindestens zwei** im Voraus und geben Sie die Formular-ID und die Munchkin-ID Ihres Abonnements an.
 
 ## Identifizieren des Rechenzentrums/Pods {#identify}
 
-Bevor Sie sich den unten stehenden Zeitplan ansehen, [&#x200B; Sie (erfahren Sie, wie Sie &#x200B;](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"}, in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
+Bevor Sie sich den unten stehenden Zeitplan ansehen, [ Sie (erfahren Sie, wie Sie ](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"}, in welchem Rechenzentrum und Pod/Server sich Ihr Abonnement befindet).
 
 ## Zeitplan {#schedule}
 
@@ -294,8 +294,8 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
    AB52</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
-   <td>Planmäßig<br>
-   Planmäßig</td>
+   <td>Abgeschlossen<br>
+   Abgeschlossen</td>
   </tr>
   <tr>
    <td>28. Oktober 2026</td>
@@ -303,8 +303,8 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
    AB25</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
-   <td>Planmäßig<br>
-   Planmäßig</td>
+   <td>Abgeschlossen<br>
+   Abgeschlossen</td>
   </tr>
   <tr>
    <td>6. November 2026</td>
@@ -365,9 +365,9 @@ Wenn Ihr Unternehmen eine IP-Zulassungsliste, eine Firewall, eine Zugriffssteuer
 
 Die neuesten Informationen finden Sie auf dieser Seite als Lesezeichen.
 
-Für Statusaktualisierungen können Sie [Abonnieren, um sie zu erhalten](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} zu Beginn und nach Abschluss der Migration zugreifen. Sie können auch [status.adobe.com](https://status.adobe.com/de){target="_blank"} während Ihres Migrationsfensters besuchen.
+Für Statusaktualisierungen können Sie [Abonnieren, um sie zu erhalten](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} zu Beginn und nach Abschluss der Migration zugreifen. Sie können auch [status.adobe.com](https://status.adobe.com/de){target="_blank"} während Ihres Migrationsfensters besuchen.
 
-Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/de/support){target="_blank"}.
+Bei Fragen wenden Sie sich über das Support-Portal in der Admin Console oder [Experience League an den Adobe-Support](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Häufig gestellte Fragen {#faq}
 
@@ -393,6 +393,6 @@ Standard- und Listen-Abmeldungen (von E-Mail-Clients) werden weiterhin empfangen
 **Gibt es Alternativen zum Anhalten von Kampagnen?**
 Ja. Wenn Sie verhindern möchten, dass Personen voranschreiten, aber eingehende Daten nicht verlieren möchten, sollten Sie die folgenden Optionen in Betracht ziehen:
 
-* Auswahl-Schritt hinzufügen: Anstatt die Kampagne zu deaktivieren, lassen Sie sie aktiv, fügen Sie jedoch [Fluss-Schritt warten](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} oder einen sofortigen „Nichts tun“-Schritt ganz oben im Fluss hinzu. Legen Sie eine [Auswahlregel](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} fest, die Ihre Benutzer in diesen angehaltenen Zustand versetzt, und aktualisieren Sie dann die Auswahlregeln, wenn Sie bereit sind.
-* Aus Fluss entfernen: Wenn Personen bereits in die Kampagne eingetreten sind, ihr Fortschritt jedoch angehalten werden muss, verwenden Sie die Aktion [Aus Fluss entfernen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"}, um sie abzurufen, ohne den Trigger der Kampagne dauerhaft zu deaktivieren.
+* Auswahl-Schritt hinzufügen: Anstatt die Kampagne zu deaktivieren, lassen Sie sie aktiv, fügen Sie jedoch [Fluss-Schritt warten](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} oder einen sofortigen „Nichts tun“-Schritt ganz oben im Fluss hinzu. Legen Sie eine [Auswahlregel](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} fest, die Ihre Benutzer in diesen angehaltenen Zustand versetzt, und aktualisieren Sie dann die Auswahlregeln, wenn Sie bereit sind.
+* Aus Fluss entfernen: Wenn Personen bereits in die Kampagne eingetreten sind, ihr Fortschritt jedoch angehalten werden muss, verwenden Sie die Aktion [Aus Fluss entfernen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"}, um sie abzurufen, ohne den Trigger der Kampagne dauerhaft zu deaktivieren.
 * Batch-Alternative: Konvertieren Sie Trigger-Kampagnen in Batch-Kampagnen, wenn Sie kein sofortiges Routing oder keine Antworten benötigen und die Personen nur über Nacht oder in terminierten Intervallen verarbeiten möchten.
