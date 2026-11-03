@@ -31,7 +31,7 @@ Verknüpfen Sie Ihr [!DNL Google AdWords] mit Marketo, um Offline-Konversionsdat
 
 Wenn Sie über mehrere [!DNL Google Adwords]-Konten verfügen, können Sie diese mit einer [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (früher als [!DNL My Client Center] bezeichnet) in Marketo integrieren.
 
-Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -43,7 +43,7 @@ Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [](https://su
 
 >[!NOTE]
 >
->Sie können auch ein [Standalone-Konto [!DNL Google AdWords]  als  [!DNL Launchpoint] -Service ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
+>Sie können auch ein [Standalone-Konto [!DNL Google AdWords]  als  [!DNL Launchpoint] -Service &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
 1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
