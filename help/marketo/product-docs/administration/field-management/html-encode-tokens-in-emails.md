@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '100'
 ht-degree: 13%
 ---
 # HTML-Kodier-Token in E-Mails {#html-encode-tokens-in-emails}
@@ -36,7 +36,7 @@ In E-Mails verwendete Personen- und Unternehmens-Token aktivieren oder deaktivie
 >
 >Bei der Kodierung werden Zeichen in ihre HTML-Code-Versionen konvertiert, um Verwirrung bei der Übertragung zu vermeiden (d. h., &quot;&amp;&quot; wird in `&amp;` geändert). Weitere Informationen erhalten Sie von einem Web-Entwickler.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6095008
-description: Verknüpfung  [!DNL Google AdWords]  Marketo über LaunchPoint zum Hochladen von Offline-Konversionsdaten für das Reporting in AdWords.
-title: ' [!DNL Google AdWords]  as a [!DNL LaunchPoint] Service'
+description: Verknüpfen Sie [!DNL Google AdWords] über LaunchPoint mit Marketo, um Offline-Konversionsdaten für das Reporting in AdWords hochzuladen.
+title: Hinzufügen von [!DNL Google AdWords] as a [!DNL LaunchPoint] Service
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/gpw57sy3WitNAh6g4mkajXuuFlRFzunZmfedM4aCrCk
@@ -20,18 +20,16 @@ topic_v2:
     internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 284
+source-wordcount: '288'
 ht-degree: 3%
-
 ---
-
 # Hinzufügen von [!DNL Google AdWords] as a [!DNL LaunchPoint] Service {#add-google-adwords-as-a-launchpoint-service}
 
 Verknüpfen Sie Ihr [!DNL Google AdWords] mit Marketo, um Offline-Konversionsdaten automatisch von Marketo in [!DNL Google AdWords] hochzuladen. In der [!DNL AdWords]-Benutzeroberfläche können Sie dann sehen, welche Klicks zu qualifizierten Leads, Chancen und neuen Kunden (oder zu welchen Umsatzstadien Sie verfolgen möchten) geführt haben, nachdem Sie [benutzerdefinierte Spalten hinzufügen](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords] hinzugefügt haben. Diese Informationen werden nicht in der Marketo-Benutzeroberfläche angezeigt.
 
-Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -43,9 +41,9 @@ Erfahren Sie mehr über die Offline-Konversions-Importfunktion von [&#128279;](h
 
 >[!NOTE]
 >
->Sie können auch einen [[!DNL Google AdWords] as a [!DNL Launchpoint] Service mit einem Manager-Konto &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
+>Sie können auch einen [[!DNL Google AdWords] as a [!DNL Launchpoint] Service mit einem Manager-Konto ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 

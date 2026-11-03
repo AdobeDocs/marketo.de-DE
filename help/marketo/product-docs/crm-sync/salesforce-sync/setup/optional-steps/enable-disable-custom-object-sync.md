@@ -20,9 +20,9 @@ subfeature_v2:
     internal-label: Smart lists
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
     internal-label: Salesforce integration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '235'
 ht-degree: 6%
 ---
 # Aktivieren/Deaktivieren der benutzerdefinierten Objektsynchronisierung {#enable-disable-custom-object-sync}
@@ -35,7 +35,7 @@ Benutzerdefinierte Objekte, die in Ihrer Salesforce-Instanz erstellt wurden, kö
 >
 >**Administratorberechtigungen erforderlich**
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 

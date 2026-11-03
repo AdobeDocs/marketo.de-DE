@@ -14,9 +14,9 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 8%
 ---
 # Upgrade der [!DNL Marketo Sales Insight] Lösung für [!DNL Microsoft Dynamics] {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
@@ -27,7 +27,7 @@ Wenn eine neue [!DNL Microsoft Dynamics] zur [!DNL Sales Insight] veröffentlich
 >
 >**Admin-Berechtigungen erforderlich**
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 

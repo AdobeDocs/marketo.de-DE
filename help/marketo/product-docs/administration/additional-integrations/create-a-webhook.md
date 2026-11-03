@@ -21,18 +21,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 220
+source-wordcount: '221'
 ht-degree: 0%
-
 ---
-
 # Erstellen eines [!DNL Webhook] {#create-a-webhook}
 
 Verwenden Sie [!DNL Webhooks], um Web-Services von Drittanbietern zu nutzen, um Textnachrichten zu senden, Personendaten zu erweitern und vieles mehr.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-a-webhook-1.png)
 
@@ -68,4 +66,4 @@ Verwenden Sie [!DNL Webhooks], um Web-Services von Drittanbietern zu nutzen, um 
 
 >[!NOTE]
 >
->Weitere Informationen finden Sie in den [[!DNL Webhooks]](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Weitere Informationen finden Sie in den [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

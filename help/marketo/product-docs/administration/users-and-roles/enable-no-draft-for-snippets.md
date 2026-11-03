@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10095636
 description: Erfahren Sie, wie Sie „Kein Entwurf“ für Snippets aktivieren, damit Snippet-Änderungen für genehmigte Assets gelten, ohne dass neue Entwürfe erforderlich sind.
-title: Aktivieren von Ausschnitten ohne Entwurf
+title: Aktivieren von No-Draft für Snippets
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
 TQID: https://experienceleague.adobe.com/nAwbSiNOywTfvFLik5J5QFdc1x4ScglfrVxsSVuLBSc
@@ -27,14 +27,12 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '170'
 ht-degree: 7%
-
 ---
-
-# Aktivieren von Ausschnitten ohne Entwurf {#enable-no-draft-for-snippets}
+# Aktivieren von No-Draft für Snippets {#enable-no-draft-for-snippets}
 
 Mit „Kein Entwurf“ für Ausschnitte können Sie Änderungen an Ausschnitten verteilen, ohne genehmigte Assets damit zu entwerfen. Alle Assets, die das bearbeitete Snippet verwenden, erhalten die Aktualisierungen und behalten ihren jeweiligen Status:
 
@@ -48,7 +46,7 @@ Kein Entwurf wird automatisch für alle Administratorrollen aktiviert. Ein Admin
 >
 >**Admin-Berechtigungen erforderlich**
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 

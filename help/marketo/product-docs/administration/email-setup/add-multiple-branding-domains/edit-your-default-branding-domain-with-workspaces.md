@@ -19,14 +19,14 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '148'
 ht-degree: 12%
 ---
 # Bearbeiten Ihrer standardmäßigen Branding-Domain mit Arbeitsbereichen {#edit-your-default-branding-domain-with-workspaces}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
@@ -34,7 +34,7 @@ ht-degree: 12%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Tabelle „Branding]Domains“ die aktuelle generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie in die Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die aktuelle generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie in die Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 

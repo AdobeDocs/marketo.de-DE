@@ -14,9 +14,9 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 11%
 ---
 # Herunterladen der [!DNL Marketo Sales Insight] Lösung für [!DNL Microsoft Dynamics] {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
@@ -27,9 +27,9 @@ ht-degree: 11%
 
 >[!IMPORTANT]
 >
->Das Plug-in auf dieser Seite ist für diejenigen vorgesehen, die mit der nativen CRM-Synchronisierungslösung von Marketo mit Marketo Engage synchronisieren[!DNL Dynamics 365]. Für diejenigen, die Folgendes haben: eine benutzerdefinierte Synchronisierung, [!DNL MS Dynamics 365 Online] (9.x und höher), und [!DNL Marketo Sales Insight] gekauft haben, [&#x200B; das Paket hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>Das Plug-in auf dieser Seite ist für diejenigen vorgesehen, die mit der nativen CRM-Synchronisierungslösung von Marketo mit Marketo Engage synchronisieren[!DNL Dynamics 365]. Für diejenigen, die Folgendes haben: eine benutzerdefinierte Synchronisierung, [!DNL MS Dynamics 365 Online] (9.x und höher), und [!DNL Marketo Sales Insight] gekauft haben, [ das Paket hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/mainnavhand.png)
 

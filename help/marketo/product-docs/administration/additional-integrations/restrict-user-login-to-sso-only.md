@@ -18,26 +18,24 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '274'
 ht-degree: 5%
-
 ---
-
 # Beschränken der Benutzeranmeldung auf SSO {#restrict-user-login-to-sso-only}
 
 Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) und sicherstellen möchten, dass Benutzer die SSO-Sicherheit nicht umgehen können, befolgen Sie diese Anweisungen.
 
 >[!IMPORTANT]
 >
->Dieser Artikel gilt nicht für Marketo[Abonnements mit aktiviertem &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+>Dieser Artikel gilt nicht für Marketo[Abonnements mit aktiviertem ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
 
 >[!NOTE]
 >
 >**Admin-Berechtigungen erforderlich**
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
@@ -55,7 +53,7 @@ Wenn Sie [SSO verwenden](/help/marketo/product-docs/administration/additional-in
 
 >[!NOTE]
 >
->Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ Einladung angenommen wurde, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich“ &#x200B;].
+>Es empfiehlt sich, die Benutzer einzuladen und die Einladung anzunehmen. _Nachdem_ Einladung angenommen wurde, sollten Administratoren sie auf &quot;[!UICONTROL SSO erforderlich“ ].
 
 >[!TIP]
 >

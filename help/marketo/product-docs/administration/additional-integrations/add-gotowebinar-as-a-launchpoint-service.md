@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512289
-description: Add [!DNL GoToWebinar] as a LaunchPoint-Service, damit Marketo die Registrierung und Teilnahme für Webinare verwaltet.
-title: ' [!DNL GoToWebinar]  as a [!DNL LaunchPoint] Service'
+description: Fügen Sie [!DNL GoToWebinar] als LaunchPoint-Service hinzu, damit Marketo die Registrierung und Teilnahme für Webinare verwaltet.
+title: Hinzufügen von [!DNL GoToWebinar] as a [!DNL LaunchPoint] Service
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/5KrCqBMRk-5avIMRc9GLDJPI5FY8JAWGwRaeC60HEFY
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 154
+source-wordcount: '158'
 ht-degree: 1%
-
 ---
-
 # Hinzufügen von [!DNL GoToWebinar] as a [!DNL LaunchPoint] Service {#add-gotowebinar-as-a-launchpoint-service}
 
 Marketo verwaltet die Registrierung und die Teilnahme an [!DNL GoToWebinar].
@@ -39,7 +37,7 @@ Marketo verwaltet die Registrierung und die Teilnahme an [!DNL GoToWebinar].
 >
 >[!DNL GoToMeeting], [!DNL GoToWebcast] und [!DNL GoToTraining] werden derzeit nicht unterstützt.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 

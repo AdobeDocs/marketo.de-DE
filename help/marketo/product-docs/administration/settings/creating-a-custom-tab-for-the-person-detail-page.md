@@ -16,18 +16,16 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 138
-ht-degree: 13%
-
+source-wordcount: '139'
+ht-degree: 12%
 ---
-
 # Erstellen einer benutzerdefinierten Registerkarte für die Seite „Personendetails“ {#creating-a-custom-tab-for-the-person-detail-page}
 
 Wenn Sie häufig auf einen bestimmten Satz von Feldern auf der Seite „Personendetails“ zugreifen müssen, sollten Sie ein benutzerdefiniertes Layout erstellen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

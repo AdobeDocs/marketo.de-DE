@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '139'
 ht-degree: 13%
 ---
 # Bearbeiten Ihrer standardmäßigen Marken-Domain {#edit-your-default-branding-domain}
@@ -30,9 +30,9 @@ Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit
 
 >[!PREREQUISITES]
 >
->Vergewissern Sie sich, [&#x200B; Sie einen CNAME in Ihrem DNS eingerichtet haben](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} bevor Sie Ihre Branding-Domains in Marketo hinzufügen.
+>Vergewissern Sie sich, [ Sie einen CNAME in Ihrem DNS eingerichtet haben](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} bevor Sie Ihre Branding-Domains in Marketo hinzufügen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
@@ -40,7 +40,7 @@ Das Bearbeiten der Standard-Branding-Domain ist der erste Schritt bei der Arbeit
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Wählen Sie in [!UICONTROL &#x200B; Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie zur Branding-Domain Ihres Unternehmens zu ändern.
+1. Wählen Sie in [!UICONTROL  Tabelle „Branding]Domains“ die generische Domain aus und klicken Sie auf **[!UICONTROL Bearbeiten]**, um sie zur Branding-Domain Ihres Unternehmens zu ändern.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 

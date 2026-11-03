@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 85
+source-wordcount: '86'
 ht-degree: 17%
-
 ---
-
 # Aktivieren oder Deaktivieren von Schatzkisten-Funktionen {#enable-or-disable-treasure-chest-features}
 
 Die Schatztruhe enthält experimentelle Funktionen, die nicht vollständig unterstützt werden.
@@ -29,7 +27,7 @@ Die Schatztruhe enthält experimentelle Funktionen, die nicht vollständig unter
 >
 >**Admin-Berechtigungen erforderlich**
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 

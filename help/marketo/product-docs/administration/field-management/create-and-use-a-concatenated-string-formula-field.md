@@ -19,16 +19,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 10%
 ---
 # Erstellen und Verwenden eines verketteten Zeichenfolgenfelds (Formel) {#create-and-use-a-concatenated-string-formula-field}
 
 Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo Engage-Formelfelds einen bedingten Wert erstellen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
@@ -66,4 +66,4 @@ Sie können Werte aus mehreren Feldern kombinieren oder mithilfe eines Marketo E
 
 >[!NOTE]
 >
->Formelfelder können in Landingpages, E-Mails und Smart-Listen-Spalten verwendet werden. E-Mails mit Formelfeldern können _nicht_ mithilfe einer Batch-Kampagne gesendet werden. Verwenden Sie in [&#x200B; Szenario ein &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)E-Mail-Skript-Token“.
+>Formelfelder können in Landingpages, E-Mails und Smart-Listen-Spalten verwendet werden. E-Mails mit Formelfeldern können _nicht_ mithilfe einer Batch-Kampagne gesendet werden. Verwenden Sie in [ Szenario ein ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)E-Mail-Skript-Token“.

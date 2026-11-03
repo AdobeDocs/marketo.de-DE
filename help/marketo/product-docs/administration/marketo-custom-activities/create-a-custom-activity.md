@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 6%
 ---
 # Erstellen einer benutzerdefinierten Aktivität {#create-a-custom-activity}
@@ -32,7 +32,7 @@ Führen Sie die folgenden Schritte aus, um eine neue benutzerdefinierte Aktivit�
 >
 >Die meisten Abonnements haben ein zugewiesenes Limit von 10 benutzerdefinierten Aktivitätstypen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-activity-1.png)
 
@@ -52,7 +52,7 @@ Führen Sie die folgenden Schritte aus, um eine neue benutzerdefinierte Aktivit�
    >
    >Wenn Sie sich entscheiden, den [!UICONTROL API-Namen] zu ändern, stellen Sie sicher, dass der Name nicht mit Feldern in anderen benutzerdefinierten Aktivitäten kollidiert.
 
-1. Definieren Sie [!UICONTROL Filter] und [!UICONTROL Trigger &#x200B;] und klicken Sie auf **[!UICONTROL Weiter]**.
+1. Definieren Sie [!UICONTROL Filter] und [!UICONTROL Trigger ] und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![](assets/create-a-custom-activity-5.png)
 
