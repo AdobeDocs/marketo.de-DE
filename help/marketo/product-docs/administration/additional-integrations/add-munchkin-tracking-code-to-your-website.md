@@ -20,9 +20,9 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '689'
 ht-degree: 3%
 ---
 # Hinzufügen [!DNL Munchkin] Trackingcodes zu Ihrer Website {#add-munchkin-tracking-code-to-your-website}
@@ -39,7 +39,7 @@ Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens [!DNL Munchkin
 >
 >Benutzer von Adobe Experience Cloud können auch die [Marketo-Integration in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} verwenden, um [!DNL Munchkin] Skript auf ihren Web-Seiten einzufügen. Wenn Sie Adobe Launch verwenden _(das [!DNL Munchkin] wird automatisch hinzugefügt_ sodass Sie es nicht selbst hinzufügen müssen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
@@ -79,7 +79,7 @@ Der benutzerdefinierte JavaScript-Trackingcode von Marketo namens [!DNL Munchkin
 
 Wenn Sie Arbeitsbereiche in Ihrem Marketo-Konto verwenden, verfügen Sie wahrscheinlich auch über separate Web-Präsenzen, die Ihren Arbeitsbereichen entsprechen. In diesem Fall können Sie das JavaScript zum Tracking von [!DNL Munchkin] verwenden, um Ihre anonymen Personen dem richtigen Arbeitsbereich und der richtigen Partition zuzuweisen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 

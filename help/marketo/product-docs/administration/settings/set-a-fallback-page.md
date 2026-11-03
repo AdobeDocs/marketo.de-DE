@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 81
+source-wordcount: '82'
 ht-degree: 13%
-
 ---
-
 # Festlegen einer Fallback-Seite {#set-a-fallback-page}
 
 Fallback-Seiten sind die letzte Verteidigungslinie, wenn Ihre Landingpage offline ist oder nicht gefunden wurde. Stellen Sie sicher, dass Sie eine eingerichtet haben.
@@ -29,7 +27,7 @@ Fallback-Seiten sind die letzte Verteidigungslinie, wenn Ihre Landingpage offlin
 >
 >**Admin-Berechtigungen erforderlich**
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/set-a-fallback-page-1.png)
 

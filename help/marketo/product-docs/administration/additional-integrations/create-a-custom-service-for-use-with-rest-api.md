@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360350
 description: Erstellen Sie einen benutzerdefinierten LaunchPoint-Service, der mit einem Benutzer verknüpft ist, der nur über eine API für die REST-API-Integration verfügt.
-title: Erstellen eines benutzerdefinierten Service zur Verwendung mit der REST-API
+title: Erstellen eines benutzerdefinierten Diensts für die Verwendung mit der REST-API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
 TQID: https://experienceleague.adobe.com/7RYZTS-1WiaU0A8ThqHvk01S7GLIIP65xyKI3SIuPyo
@@ -16,14 +16,12 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: '177'
 ht-degree: 15%
-
 ---
-
-# Erstellen eines benutzerdefinierten Service zur Verwendung mit der REST-API {#create-a-custom-service-for-use-with-rest-api}
+# Erstellen eines benutzerdefinierten Diensts für die Verwendung mit der REST-API {#create-a-custom-service-for-use-with-rest-api}
 
 Wenn Sie über die ReST-API eine Integration mit Marketo vornehmen möchten, erstellen Sie einen benutzerdefinierten Service.
 
@@ -43,7 +41,7 @@ Wenn Sie über die ReST-API eine Integration mit Marketo vornehmen möchten, ers
 
 ## Benutzerdefinierten Service erstellen {#create-custom-service}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -67,7 +65,7 @@ Wenn Sie über die ReST-API eine Integration mit Marketo vornehmen möchten, ers
 
 ## Anmeldedaten für den API-Zugriff {#credentials-for-api-access}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 

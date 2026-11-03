@@ -18,13 +18,11 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: '118'
 ht-degree: 6%
-
 ---
-
 # Informationen zur Massenexport-API {#bulk-export-api-information}
 
 Erfahren Sie, wie Sie überprüfen können[&#x200B; wie viel Kapazität (](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}-API) Ihre Marketo Engage-Instanz in den letzten sieben Tagen in Anspruch genommen hat.
@@ -33,7 +31,7 @@ Erfahren Sie, wie Sie überprüfen können[&#x200B; wie viel Kapazität (](https
 >
 >Wenn Sie zusätzliche Kapazität benötigen, wenden Sie sich an Ihren Kundenbetreuer.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/bulk-export-api-information-1.png)
 
@@ -49,4 +47,4 @@ Erfahren Sie, wie Sie überprüfen können[&#x200B; wie viel Kapazität (](https
 
 >[!NOTE]
 >
->Die Zuordnung für Ihre Marketo Engage-Instanz wird täglich um 12 :00 Uhr CST zurückgesetzt.
+>Die Zuordnung für Ihre Marketo Engage-Instanz wird täglich um 0:00 Uhr CST zurückgesetzt.

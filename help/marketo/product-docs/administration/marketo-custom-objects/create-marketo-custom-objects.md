@@ -21,9 +21,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '774'
 ht-degree: 4%
 ---
 # Erstellen benutzerdefinierter Marketo-Objekte {#create-marketo-custom-objects}
@@ -42,7 +42,7 @@ Verwenden Sie benutzerdefinierte Objekte in Marketo, um für Ihr Unternehmen spe
 
 Dieses Beispiel zeigt ein benutzerdefiniertes Auto-Objekt zur Verwendung in einer Eins-zu-Viele-Struktur. Später erstellen Sie ein benutzerdefiniertes Kursobjekt und ein Zwischenobjekt, das in einer n:n-Struktur verwendet werden kann.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -88,7 +88,7 @@ Dieses Beispiel zeigt ein benutzerdefiniertes Kursobjekt, das Sie zum Erstellen 
 >
 >Bei einer n:n-Beziehung müssen Sie keine Relation im benutzerdefinierten -Objekt erstellen. Stattdessen fügen Sie zwei Links zum Zwischenobjekt hinzu (siehe unten).
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -130,7 +130,7 @@ Verwenden Sie ein Zwischenobjekt, um ein benutzerdefiniertes Objekt mit Personen
 >
 >Für eine benutzerdefinierte Eins-zu-viele-Objektstruktur müssen Sie kein Zwischenobjekt erstellen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-13.png)
 

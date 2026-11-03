@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '306'
 ht-degree: 3%
 ---
 # Hinzufügen von benutzerdefinierten Marketo-Objektfeldern {#add-marketo-custom-object-fields}
@@ -30,7 +30,7 @@ Nachdem Sie ein benutzerdefiniertes Objekt erstellt haben, müssen Sie diesem Fe
 
 Felder definieren die spezifischen Informationen, die von einem benutzerdefinierten Objekt verwendet werden. Verknüpfungsfelder dienen einem bestimmten Zweck (Verbinden benutzerdefinierter Objekte) und werden in einem [&#x200B; Artikel &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 

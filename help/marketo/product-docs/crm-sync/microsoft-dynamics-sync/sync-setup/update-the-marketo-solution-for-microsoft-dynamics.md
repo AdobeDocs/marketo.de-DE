@@ -14,9 +14,9 @@ feature_v2:
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
     internal-label: Microsoft Dynamics
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '181'
 ht-degree: 2%
 ---
 # Aktualisieren der Marketo-Lösung für [!DNL Microsoft Dynamics] {#update-the-marketo-solution-for-microsoft-dynamics}
@@ -31,7 +31,7 @@ Sobald eine neue [!DNL Microsoft Dynamics] veröffentlicht wird, können Sie das
 >
 >Es ist zwingend erforderlich, dass Sie die neueste Marketo-Lösung herunterladen _bevor_ Sie ein Update durchführen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 

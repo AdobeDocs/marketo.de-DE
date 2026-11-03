@@ -23,9 +23,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '737'
 ht-degree: 2%
 ---
 # Hinzufügen von benutzerdefinierten Marketo-Objektverknüpfungsfeldern {#add-marketo-custom-object-link-fields}
@@ -43,7 +43,7 @@ Beim Erstellen benutzerdefinierter Objekte müssen Sie Verknüpfungsfelder berei
 
 Gehen Sie wie folgt vor, um ein Verknüpfungsfeld in einem benutzerdefinierten Objekt für eine 1:n-Struktur zu erstellen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -97,7 +97,7 @@ Gehen Sie wie folgt vor, um ein Verknüpfungsfeld in einem Zwischenobjekt zur Ve
 >
 >Sie müssen bereits das Zwischenobjekt und alle benutzerdefinierten Objekte erstellt haben, mit denen Sie es verknüpfen möchten.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 

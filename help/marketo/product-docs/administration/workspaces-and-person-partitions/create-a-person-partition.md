@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 8%
 ---
 # Erstellen einer Personen-Partition {#create-a-person-partition}
@@ -33,7 +33,7 @@ Erstellen Sie eine neue Personenpartition wie folgt.
 >
 >Weitere Informationen finden Sie unter [Grundlagen zu Arbeitsbereichen und Personenpartitionen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-a-person-partition-1.png)
 

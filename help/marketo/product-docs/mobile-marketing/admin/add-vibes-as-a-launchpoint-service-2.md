@@ -10,9 +10,9 @@ product_v2:
 feature_v2:
   - id: 44b89f75-c1af-5353-8094-79b278102d46
     internal-label: Mobile Marketing
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '158'
 ht-degree: 10%
 ---
 # Hinzufügen von Vibes als LaunchPoint-Service {#add-vibes-as-a-launchpoint-service}
@@ -27,7 +27,7 @@ Sie können SMS-Nachrichten an Personen senden, die sich für Ihre Vibes-SMS-Kam
 >
 >Sie müssen über ein aktives Vibes-Konto und eine Adobe-Lizenz für Vibes SMS verfügen.
 
-1. Navigieren Sie in My Marketo zum Bereich **[!UICONTROL Admin]** .
+1. Klicken Sie in My Marketo in My Marketo auf **[!UICONTROL Admin]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 

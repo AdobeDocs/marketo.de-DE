@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512292
-description: Add [!DNL Level 3 Web Meeting] as a LaunchPoint-Service zur Verwaltung der Registrierung und Teilnahme in Marketo.
-title: ' [!DNL Level 3 Web Meeting]  als  [!DNL LaunchPoint Service]'
+description: Fügen Sie [!DNL Level 3 Web Meeting] als LaunchPoint-Service hinzu, um die Registrierung und die Teilnahme an Marketo zu verwalten.
+title: '[!DNL Level 3 Web Meeting] als [!DNL LaunchPoint Service] hinzufügen'
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/3Pdb9Y3Bozl0TTaPkRlZ-jgP9sn-iYZJ-60z8N6MlPI
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 98
-ht-degree: 3%
-
+source-wordcount: '101'
+ht-degree: 2%
 ---
-
 # Hinzufügen von [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Service {#add-level-three-web-meeting-as-a-launchpoint-service}
 
 Marketo verwaltet die Registrierung und die Teilnahme an [!DNL Level 3 Web Meeting].
@@ -35,7 +33,7 @@ Marketo verwaltet die Registrierung und die Teilnahme an [!DNL Level 3 Web Meeti
 >
 >Für diesen Schritt ist ein vorhandenes Abonnement von [!DNL Level 3 Web Meeting]- und Administratorrechten erforderlich. Halten Sie Ihre Zugriffsnummer, Ihren Zugriffscode und Ihren Passcode bereit.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 

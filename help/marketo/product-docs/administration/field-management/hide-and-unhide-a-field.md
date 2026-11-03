@@ -21,9 +21,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '178'
 ht-degree: 7%
 ---
 # Ein- und Ausblenden eines Felds {#hide-and-unhide-a-field}
@@ -36,7 +36,7 @@ Wenn Sie ein Feld in Marketo Engage nicht mehr benötigen, können Sie es in der
 >
 >**Admin-Berechtigungen erforderlich**
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -64,7 +64,7 @@ Wenn Sie ein Feld in Marketo Engage nicht mehr benötigen, können Sie es in der
 
 ## Ein Feld einblenden {#unhide-a-field}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 

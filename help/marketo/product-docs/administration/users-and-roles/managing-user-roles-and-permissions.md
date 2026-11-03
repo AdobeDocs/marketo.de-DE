@@ -21,13 +21,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 492
+source-wordcount: '496'
 ht-degree: 2%
-
 ---
-
 # Verwalten von Benutzerrollen und -berechtigungen {#managing-user-roles-and-permissions}
 
 Legen Sie Benutzerrollen fest, erstellen und bearbeiten Sie sie und weisen Sie sie Benutzern zu. Auf diese Weise können Sie die Bereiche und Funktionen steuern, auf die jeder Marketo-Benutzer Zugriff hat.
@@ -53,7 +51,7 @@ Sie können die Produktadministratorrollen Admin oder Adobe nicht löschen, aber
 
 Sie können Benutzenden Rollen zuweisen, wenn Sie [Benutzende zum ersten Mal erstellen](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md).
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -77,7 +75,7 @@ Sie können Benutzenden Rollen zuweisen, wenn Sie [Benutzende zum ersten Mal ers
 
 Manchmal hat Ihr Unternehmen Mitarbeiter in sehr spezifischen Rollen, die eine benutzerdefinierte Kombination von Berechtigungen erfordern.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -101,7 +99,7 @@ Manchmal hat Ihr Unternehmen Mitarbeiter in sehr spezifischen Rollen, die eine b
 
 Wenn Sie die Berechtigungen ändern müssen, die einer vorhandenen Rolle zugeordnet sind, können Sie die Rolle bearbeiten.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -129,7 +127,7 @@ Wenn Sie die Berechtigungen ändern müssen, die einer vorhandenen Rolle zugeord
 
 Wenn eine Rolle nicht mehr erforderlich ist, können Sie sie löschen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 

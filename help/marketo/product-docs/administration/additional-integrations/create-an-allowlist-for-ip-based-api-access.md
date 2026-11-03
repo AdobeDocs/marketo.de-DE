@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: aa0494716e0deb2a2d04be5b2e6fdd1c13483f45
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 15%
 ---
 # Erstellen einer Zulassungsliste für IP-basierten API-Zugriff {#create-an-allowlist-for-ip-based-api-access}
@@ -29,7 +29,7 @@ Manchmal soll der API-Zugriff nur auf eine bestimmte IP-Adresse oder einen Adres
 >
 >**Admin-Berechtigungen erforderlich**
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 

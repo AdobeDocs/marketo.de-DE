@@ -21,9 +21,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '1703'
+source-wordcount: '1704'
 ht-degree: 84%
 ---
 # Einrichtungsschritte {#setup-steps}
@@ -73,7 +73,7 @@ Der erste Teil ist des E-Mail-Tracking-CNAME, `[EmailTrackingCNAME]`. Diesen mü
 >
 >E-Mail- und Landingpage-CNAME müssen unterschiedlich sein. Vermeiden Sie auch CNAMEs wie „track“ oder „link“. Er wird oft als Spam gekennzeichnet.
 
-Um Ihren Marketo-Tracking-Link abzurufen, navigieren Sie in den Bereich **[!UICONTROL Admin]**.
+Um Ihren Marketo-Tracking-Link zu finden, klicken Sie in Ihrem Marketo auf **[!UICONTROL Admin]**.
 
 ![](assets/setup-steps-1.png)
 

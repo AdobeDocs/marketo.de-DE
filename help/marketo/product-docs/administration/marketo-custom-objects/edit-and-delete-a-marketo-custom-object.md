@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '266'
 ht-degree: 6%
 ---
 # Bearbeiten und Löschen eines benutzerdefinierten Marketo-Objekts {#edit-and-delete-a-marketo-custom-object}
@@ -34,7 +34,7 @@ ht-degree: 6%
 
 Verwenden Sie das Menü Benutzerdefinierte Objektaktionen , um ein benutzerdefiniertes Objekt zu bearbeiten oder zu löschen.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
@@ -64,7 +64,7 @@ Das Löschen eines benutzerdefinierten Objekts erfordert Sorgfalt. Benutzerdefin
 >
 >Ein benutzerdefiniertes Objekt kann nach dem Löschen nicht wiederhergestellt werden.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 

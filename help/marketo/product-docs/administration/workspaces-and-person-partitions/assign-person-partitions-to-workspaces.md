@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '143'
 ht-degree: 15%
 ---
 # Zuweisen von Personen-Partitionen zu Arbeitsbereichen {#assign-person-partitions-to-workspaces}
@@ -37,7 +37,7 @@ Gehen Sie wie folgt vor, um die Personenpartition und Arbeitsbereichszuweisungen
 >
 >Arbeitsbereiche und Personenpartitionen können komplex sein. Wenden Sie sich an den [Marketo](https://nation.marketo.com/t5/support/ct-p/Support?profile.language=de){target="_blank"}Support, um Hilfe bei der Einrichtung zu erhalten.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 

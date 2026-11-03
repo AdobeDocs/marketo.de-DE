@@ -10,9 +10,9 @@ product_v2:
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '62'
 ht-degree: 0%
 ---
 # Standardwährung festlegen {#set-default-currency}
@@ -23,7 +23,7 @@ Erfahren Sie, wie Sie die Standardwährung für Ihr Marketo Engage-Abonnement an
 >
 >**Administratorberechtigungen erforderlich.**
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/set-default-currency-1.png)
 

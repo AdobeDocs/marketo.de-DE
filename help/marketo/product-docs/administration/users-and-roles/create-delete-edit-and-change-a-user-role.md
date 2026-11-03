@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360198
 description: Schritte zum Erstellen, Löschen und Bearbeiten von Benutzerrollen, einschließlich der Benennung von Rollen, der Auswahl von Berechtigungen und der Frage, welche Systemrollen nicht geändert werden können.
-title: Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen
+title: Erstellen, Löschen, Bearbeiten und Ändern einer Benutzerrolle
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
 TQID: https://experienceleague.adobe.com/JcgZAmTXB5rvXJGwvBbK20FxB4w7t-AlYx0rkn4ccT0
@@ -17,14 +17,12 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 281
+source-wordcount: '285'
 ht-degree: 8%
-
 ---
-
-# Erstellen, Löschen, Bearbeiten und Ändern von Benutzerrollen {#create-delete-edit-and-change-a-user-role}
+# Erstellen, Löschen, Bearbeiten und Ändern einer Benutzerrolle {#create-delete-edit-and-change-a-user-role}
 
 **Rollen** gruppieren einen Berechtigungssatz. **Berechtigungen** ermöglichen es Ihnen, Aktionen in Marketo durchzuführen. Sie weisen einem Benutzer **Rolle** zu.
 
@@ -41,7 +39,7 @@ ht-degree: 8%
 
 ## Erstellen einer Rolle {#create-a-role}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
@@ -59,7 +57,7 @@ ht-degree: 8%
 
 ## Löschen einer Rolle {#delete-a-role}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
@@ -85,7 +83,7 @@ ht-degree: 8%
 >
 >Um Ihre eigene Benutzerrolle zu bearbeiten, müssen Sie sich als ein anderer Benutzer mit Administratorrechten anmelden.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
@@ -111,7 +109,7 @@ ht-degree: 8%
 
 ## Benutzerrolle ändern {#change-a-users-role}
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 

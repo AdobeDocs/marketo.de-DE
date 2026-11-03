@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360217
 description: Wie Sie in der Umsatzzyklusanalyse Optionen für Erstkontakt- und Multitouch-Attribution, Lead-Konversion und Marketing-beeinflusste Opportunities festlegen.
-title: Ändern der Attributionseinstellungen für Analytics
+title: Ändern von Attributionseinstellungen für Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
 TQID: https://experienceleague.adobe.com/AjpEYRzLKRQQsTmYdQUvAVnlcmG-Q6nbVjaZCuQYaUc
@@ -21,18 +21,16 @@ topic_v2:
     internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '175'
 ht-degree: 5%
-
 ---
-
 # Ändern der Attributionseinstellungen für Analytics {#change-attribution-settings-for-analytics}
 
 Sie können die Art und Weise ändern, wie Marketo Kontakte mit Opportunities für Erstkontakt- und Mehrfachkontakt-Attribution, Lead-Konversionsmetriken und der Marketing-beeinflussten Opportunity-Markierung verknüpft.
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512272
-description: Hinzufügen  [!DNL Webex]  Webinaren als LaunchPoint-Service, um Registrierung und Teilnahme mit Marketo zu synchronisieren.
-title: ' [!DNL Webex]  as a [!DNL LaunchPoint] Service'
+description: Hinzufügen [!DNL Webex] Webinare als LaunchPoint-Service, um Registrierung und Teilnahme mit Marketo zu synchronisieren.
+title: Hinzufügen von [!DNL Webex] as a [!DNL LaunchPoint] Service
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/usUuncd-iS8bP6trbho6Y9aO-idLgQsYmSIgNCq7g2I
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: '117'
 ht-degree: 4%
-
 ---
-
 # Hinzufügen von [!DNL Webex] as a [!DNL LaunchPoint] Service {#add-webex-as-a-launchpoint-service}
 
 Marketo Engage verwaltet die Registrierung und Teilnahme an [!DNL Webex] Webinaren. Sie müssen über ein vorhandenes Abonnement für [[!UICONTROL WebEx]](https://www.webex.com/) verfügen.
@@ -31,7 +29,7 @@ Marketo Engage verwaltet die Registrierung und Teilnahme an [!DNL Webex] Webinar
 >
 >**Admin-Berechtigungen erforderlich**
 
-1. Navigieren Sie zum Bereich **[!UICONTROL Admin]**.
+1. Klicken Sie in „Mein Marketo&quot; auf **[!UICONTROL Admin]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-1.png)
 
