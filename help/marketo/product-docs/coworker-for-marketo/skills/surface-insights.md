@@ -1,15 +1,14 @@
 ---
 description: Sprechen Sie mit CX Enterprise Coworker für Marketo Engage über Ihre Leistungsdaten. Stellen Sie Fragen in einfacher Sprache und erhalten Sie Antworten, die in Ihrer Marketo Engage-Umgebung basieren.
 title: Surface-Einblicke
-badge: Beta
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 26d2dab1123b77187e5d73a2ee0e67940c39e082
 workflow-type: tm+mt
-source-wordcount: '537'
-ht-degree: 1%
+source-wordcount: '536'
+ht-degree: 0%
 ---
 # Surface-Einblicke {#surface-insights}
 
