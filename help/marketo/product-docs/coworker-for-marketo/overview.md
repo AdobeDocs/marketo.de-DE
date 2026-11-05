@@ -4,9 +4,9 @@ title: Übersicht über CX Enterprise Coworker für Marketo Engage
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '468'
 ht-degree: 1%
 ---
 # Übersicht über CX Enterprise Coworker für Marketo Engage {#overview}
@@ -37,6 +37,10 @@ Geben Sie Ihre Anfrage in das Feld Eingabeaufforderung ein, wählen Sie eine der
 
 Die Center Console verfügt über eine wachsende Anzahl von Agentenkenntnissen, die Ihnen bei verschiedenen Aufgaben helfen. Jede Fähigkeit ist ein speziell entwickelter KI-Assistent, mit dem Sie durch natürliche Sprache interagieren, um eine bestimmte Aufgabe zu erfüllen.
 
+### Kampagnen planen {#plan-campaigns}
+
+Umwandeln einer Kampagnenbeschreibung in einen strukturierten Implementierungsplan für Marketo Engage. Die Fähigkeit Kampagnen planen skizziert die Programmstruktur, Zielgruppenlogik, E-Mails, intelligente Kampagnen, Token, Reporting und Prüfungen vor der Aktivierung. Erfahren Sie mehr über die [Kampagnen planen](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}.
+
 ### Erstellen von Programmen {#build-programs}
 
 Beschreiben Sie eine Marketing-Kampagne im Klartext. CX Enterprise Coworker für Marketo Engage erstellt die Programmstruktur mit Asset-Platzhaltern und Zeitplan. Erfahren Sie mehr über die [Kenntnisse zu Programmen erstellen](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
@@ -59,11 +63,7 @@ Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzu
 
 ## Demnächst {#coming-soon}
 
-Weitere Agenten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben entwickelt wurden, werden in Kürze verfügbar sein, z. B.:
-
-* Diagnostizieren, warum ein Lead keine MQL erhalten hat oder den Lebenszyklus nicht durchläuft.
-* Generieren vollständiger Marketo Engage-Programme direkt aus einer Kampagnenbeschreibung
-* Und mehr.
+Weitere Fähigkeiten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben entwickelt wurden, werden in Kürze verfügbar sein.
 
 >[!MORELIKETHIS]
 >

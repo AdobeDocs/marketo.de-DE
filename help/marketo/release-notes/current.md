@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 15%
+source-wordcount: '471'
+ht-degree: 14%
 ---
 # Versionshinweise: November 2026 {#release-notes-nov-26}
 
@@ -50,8 +50,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Kampagnenkompetenz planen</strong>: CX Enterprise Coworker für Marketo Engage kann jetzt eine Kampagnenbeschreibung in ein vollständiges Dokument zur Einrichtung von Marketo Engage-Programmen umwandeln. Das Dokument enthält die Ordnerstruktur, intelligente Kampagnen, E-Mail-Konfigurationen, Token und eine QS-Checkliste. Dies hilft Teams, Kampagnen schneller zu starten und die Programmeinrichtung zu standardisieren. Die Qualifikation kann über Markdown konfiguriert werden.</td>
-   <td><i>Demnächst</i></td>
-   <td><i>Demnächst</i></td>
+   <td>Freigegeben</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md" target="_blank">Kampagnen planen</a></td>
   </tr>
   <tr>
    <td> </td>
