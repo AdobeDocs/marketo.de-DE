@@ -4,9 +4,9 @@ title: Übersicht über CX Enterprise Coworker für Marketo Engage
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '468'
 ht-degree: 1%
 ---
 # Übersicht über CX Enterprise Coworker für Marketo Engage {#overview}
@@ -19,7 +19,7 @@ CX Enterprise Coworker für Marketo Engage bietet Agentenfähigkeiten zur Automa
 
 >[!IMPORTANT]
 >
->* Nachdem CX Enterprise Coworker für Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, &#x200B;](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
+>* Nachdem CX Enterprise Coworker für Marketo Engage für Ihr Abonnement aktiviert wurde, müssen Sie einige [Einrichtungsschritte) ausführen, ](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} sicherzustellen, dass die gewünschten Benutzenden Zugriff haben.
 >
 >* Überprüfen Sie den Datenumfang, die Governance-Steuerung und die PII-Überlegungen im Datenblatt [CX Enterprise Coworker for Marketo Engage](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
@@ -37,13 +37,17 @@ Geben Sie Ihre Anfrage in das Feld Eingabeaufforderung ein, wählen Sie eine der
 
 Die Center Console verfügt über eine wachsende Anzahl von Agentenkenntnissen, die Ihnen bei verschiedenen Aufgaben helfen. Jede Fähigkeit ist ein speziell entwickelter KI-Assistent, mit dem Sie durch natürliche Sprache interagieren, um eine bestimmte Aufgabe zu erfüllen.
 
+### Kampagnen planen {#plan-campaigns}
+
+Umwandeln einer Kampagnenbeschreibung in einen strukturierten Implementierungsplan für Marketo Engage. Die Fähigkeit Kampagnen planen skizziert die Programmstruktur, Zielgruppenlogik, E-Mails, intelligente Kampagnen, Token, Reporting und Prüfungen vor der Aktivierung. Erfahren Sie mehr über die [Kampagnen planen](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}.
+
 ### Erstellen von Programmen {#build-programs}
 
 Beschreiben Sie eine Marketing-Kampagne im Klartext. CX Enterprise Coworker für Marketo Engage erstellt die Programmstruktur mit Asset-Platzhaltern und Zeitplan. Erfahren Sie mehr über die [Kenntnisse zu Programmen erstellen](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
 
 ### Leads untersuchen {#investigate-leads}
 
-Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
+Finden Sie heraus, warum eine bestimmte Person/ein Lead einen Meilenstein (wie MQL, Programmqualifikation oder eine Kampagne) nicht erreicht hat, und erhalten Sie eine Klartext-Erklärung, was passiert ist. Erfahren Sie mehr über die [Kenntnisse zu Leads ](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
 
 ### Produktkenntnisse {#product-knowledge}
 
@@ -59,12 +63,8 @@ Importieren und deduplizieren Sie Lead-Listen mit Unterstützung für die Feldzu
 
 ## Demnächst {#coming-soon}
 
-Weitere Agenten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben entwickelt wurden, werden in Kürze verfügbar sein, z. B.:
-
-* Diagnostizieren, warum ein Lead keine MQL erhalten hat oder den Lebenszyklus nicht durchläuft.
-* Generieren vollständiger Marketo Engage-Programme direkt aus einer Kampagnenbeschreibung
-* Und mehr.
+Weitere Fähigkeiten, die für die sich wiederholenden, zeitaufwendigsten Aufgaben entwickelt wurden, werden in Kürze verfügbar sein.
 
 >[!MORELIKETHIS]
 >
->Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=de){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
+>Der [Marketo Engage MCP-Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fungiert als Brücke zwischen Ihrem KI-Assistenten und Marketo Engage.
