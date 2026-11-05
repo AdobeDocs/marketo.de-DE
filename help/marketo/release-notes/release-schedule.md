@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: dc6ced4679de39db058fb0125ce7cc5586c77560
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 64%
+source-wordcount: '202'
+ht-degree: 62%
 ---
 # Versionsplanung {#release-schedule}
 
@@ -66,23 +66,28 @@ _Veröffentlichungsdaten und Funktionen können sich ändern._
    <td>Abgeschlossen</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">Juli '26</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">Juli '26</a></td>
    <td>10. Juli 2026</td>
    <td>Abgeschlossen</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">August '26</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">August '26</a></td>
    <td>14. August 2026</td>
    <td>Abgeschlossen</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/de/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">September '26</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">September '26</a></td>
    <td>25. September 2026</td>
    <td>In Bearbeitung</td>
   </tr>
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">November '26</a></td>
    <td>6. November 2026</td>
+   <td>Planmäßig</td>
+  </tr>
+  <tr>
+  <td>Januar '27</td>
+   <td>15. Januar 2027</td>
    <td>Planmäßig</td>
   </tr>
  </tbody>
