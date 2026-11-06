@@ -4,9 +4,9 @@ title: Aufrufbare Agenten
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
+source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
 workflow-type: tm+mt
-source-wordcount: '2004'
+source-wordcount: '2002'
 ht-degree: 1%
 ---
 # Aufrufbare Agenten {#callable-agents}
@@ -58,7 +58,7 @@ Wählen Sie eine Vorlage aus, um die Anweisungen, Eingabefelder und Ausgabefelde
 
 | Vorlage | Zweck | Eingaben | Ausgaben |
 | --- | --- | --- | --- |
-| Normalisierer für Firmennamen | Bereinigt Firmennamen durch Entfernen rechtlicher Suffixe, Korrigieren gängiger Tippfehler und Anwenden der standardmäßigen Markengroßschreibung. | Unternehmen | Normalisierte Firma (Text); Konfidenz (Zahl, 0-1) |
+| Normalisierer für Firmennamen | Bereinigt Firmennamen durch Entfernen rechtlicher Suffixe, Korrigieren gängiger Tippfehler und Anwenden der standardmäßigen Markengroßschreibung. | Unternehmen | Normalisierte Firma (Text); Konfidenz (Zahl) |
 | Formatierer E.164 Telefon | Formatiert Telefonnummern nach dem internationalen E.164-Standard. | Telefon | Normalisierte Telefonnummer (Text); Konfidenz (Zahl) |
 | Job Title Standardizer | Standardisiert Stellenbezeichnungen und leitet Dienstalter ab. | Titel | Normalisierter Titel (Text); Dienstalter (C-Level, VP, Director, Manager, Person oder Unbekannt); Konfidenz |
 | Bot- und Spam-Erkennung | Kennzeichnet Bot- oder Spam-Formularübermittlungen. | E-Mail, Vorname, Nachname, Firma, Telefon | Ist nicht (true/false); Konfidenz; Grund; Flags (kommagetrennt) |
