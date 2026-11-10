@@ -4,10 +4,10 @@ title: Einstellungen und Setup
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 3%
+source-wordcount: '588'
+ht-degree: 4%
 ---
 # Einstellungen und Setup {#settings-setup}
 
@@ -37,6 +37,10 @@ Es gibt eine Berechtigung _Zugriffskollege für Marketo Engage_ und eine Rolle _
 ### Berechtigung „Zugriff auf Mitarbeiter für Marketo Engage&quot; {#access-coworker-marketo-permission}
 
 Gehen Sie wie folgt vor, um _Access Coworker for Marketo Engage_ für qualifizierte Rollen zu aktivieren, für die er noch nicht aktiviert ist.
+
+>[!NOTE]
+>
+>**Admin-Berechtigungen erforderlich**
 
 1. Klicken Sie in „Meine Marketo **auf &quot;**&quot; und dann **Benutzer und Rollen**.
 
