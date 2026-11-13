@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: e5afc046c226779f9969569cf4648792d8c32ae5
+source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
 workflow-type: tm+mt
-source-wordcount: '1278'
+source-wordcount: '1286'
 ht-degree: 4%
 ---
 # AWS-Migration {#aws-migration}
@@ -60,6 +60,7 @@ Es werden regelmäßig neue Daten und Daten zum Rechenzentrum/Pod hinzugefügt o
 Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie benachrichtigt und wir werden einen neuen Zeitplan erstellen.
 
 +++Zeitplan Juli
+
 <table>
  <tbody>
   <tr>
@@ -253,6 +254,8 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
 
 +++
 
++++ Oktober-Plan
+
 <table>
  <tbody>
   <tr>
@@ -306,17 +309,30 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
    <td>Abgeschlossen<br>
    Abgeschlossen</td>
   </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Datum</th>
+   <th style="width:25%">Rechenzentrum/Pod</th>
+   <th style="width:25%">Uhrzeit</th>
+   <th style="width:25%">Status</th>
+  </tr>
   <tr>
    <td>6. November 2026</td>
    <td>AB18</td>
    <td>16.00 Uhr PST</td>
-   <td>Planmäßig</td>
+   <td>Abgeschlossen</td>
   </tr>
   <tr>
    <td>18. November 2026</td>
-   <td>SJ14</td>
-   <td>17.00 Uhr PST</td>
-   <td>Planmäßig</td>
+   <td><i>SJ14</i></td>
+   <td><i>17.00 Uhr PST</i></td>
+   <td><i>Zurückgestellt (Datum wird noch bekannt gegeben)</i></td>
   </tr>
   <tr>
    <td>20. November 2026</td>
