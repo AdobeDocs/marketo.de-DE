@@ -78,7 +78,7 @@ Wählen Sie das Modell aus, das Ihren Einverständnis- und Datenschutzanforderun
 Überschreibungen des E-Mail-Trackings auf Personenebene sind standardmäßig deaktiviert. Um sie zu aktivieren, wenden Sie sich an den Kunden-Support von Adobe und geben Sie Folgendes an:
 
 1. Dass Sie Überschreibungen des E **Mail-Trackings auf Benutzerebene aktivieren**.
-2. Gibt an, ob die Standardinstanz **standardmäßig aktiviert“ oder****standardmäßig deaktiviert** lauten soll.
+2. Gibt an, ob die Standardinstanz **standardmäßig aktiviert“ oder**&#x200B;**standardmäßig deaktiviert** lauten soll.
 
 >[!TIP]
 > 

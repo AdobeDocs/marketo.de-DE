@@ -36,7 +36,7 @@ Mit aufrufbaren Agenten können Sie einen KI-Agenten als Schritt in einer Market
 
 1. Wählen Sie **[!UICONTROL Speichern]**, um einen Entwurf zu speichern, oder **[!UICONTROL Speichern und Veröffentlichen]**, um den Agenten in Marketo Engage verfügbar zu machen.
 
-1. Öffnen Sie eine Smart-Kampagne und wählen Sie die Registerkarte **[!UICONTROL Fluss]** aus. Suchen Sie im Abschnitt Marketing der Flussschritt-Liste nach **Aufrufagent: _[Agentenname]_**und ziehen Sie ihn in den Fluss.
+1. Öffnen Sie eine Smart-Kampagne und wählen Sie die Registerkarte **[!UICONTROL Fluss]** aus. Suchen Sie im Abschnitt Marketing der Flussschritt-Liste nach **Aufrufagent: _[Agentenname]_**&#x200B;und ziehen Sie ihn in den Fluss.
 
 1. Testen Sie die Kampagne mit einer kleinen Gruppe von Leads. Überprüfen Sie das Aktivitätsprotokoll und bestätigen Sie, dass die Ausgabefelder wie erwartet aktualisiert werden, bevor Sie die Kampagne für alle Leads aktivieren.
 
