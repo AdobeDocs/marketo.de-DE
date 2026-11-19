@@ -4,18 +4,18 @@ title: Aufrufbare Agenten
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '1995'
 ht-degree: 1%
 ---
 # Aufrufbare Agenten {#callable-agents}
 
 Mit aufrufbaren Agenten können Sie einen KI-Agenten als Schritt in einer Marketo Engage Smart Campaign verwenden. Erstellen Sie einen Agenten in CX Enterprise Coworker für Marketo Engage, wählen Sie die Lead-Felder aus, die er liest und aktualisiert, und veröffentlichen Sie ihn zur Verwendung in Kampagnen. Agenten können dabei helfen, Daten zu bereinigen, Leads zu klassifizieren, fehlende Informationen anzureichern oder Formularübermittlungen auf dem Bildschirm anzuzeigen.
 
->[!PREREQUISITES]
+>[!NOTE]
 >
->Sie müssen über die Berechtigung **Zugriffsadministrator** in Marketo Engage verfügen.
+>**Administrator** Berechtigungen erforderlich.
 
 ## Voraussetzungen {#before-you-begin}
 
@@ -36,7 +36,7 @@ Mit aufrufbaren Agenten können Sie einen KI-Agenten als Schritt in einer Market
 
 1. Wählen Sie **[!UICONTROL Speichern]**, um einen Entwurf zu speichern, oder **[!UICONTROL Speichern und Veröffentlichen]**, um den Agenten in Marketo Engage verfügbar zu machen.
 
-1. Öffnen Sie eine Smart-Kampagne und wählen Sie die Registerkarte **[!UICONTROL Fluss]** aus. Suchen Sie im Abschnitt Marketing der Flussschritt-Liste nach **Aufrufagent: _[Agentenname]_**&#x200B;und ziehen Sie ihn in den Fluss.
+1. Öffnen Sie eine Smart-Kampagne und wählen Sie die Registerkarte **[!UICONTROL Fluss]** aus. Suchen Sie im Abschnitt Marketing der Flussschritt-Liste nach **Aufrufagent: _[Agentenname]_**und ziehen Sie ihn in den Fluss.
 
 1. Testen Sie die Kampagne mit einer kleinen Gruppe von Leads. Überprüfen Sie das Aktivitätsprotokoll und bestätigen Sie, dass die Ausgabefelder wie erwartet aktualisiert werden, bevor Sie die Kampagne für alle Leads aktivieren.
 

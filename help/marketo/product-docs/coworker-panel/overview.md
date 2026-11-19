@@ -5,9 +5,9 @@ badge: Beta
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 94ccd99bcc01dfa2d3df002853cb1396baf45de9
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '613'
 ht-degree: 1%
 ---
 # CX Enterprise Coworker-Bedienfeld in Marketo Engage {#coworker-panel-overview}
@@ -22,7 +22,7 @@ Im Bedienfeld „Kollege“ können Sie CX Enterprise Coworker direkt aus Market
 
 | Bereich | Details |
 | --- | --- |
-| Zugriff | Öffnen Sie die eingebettete Beta-Version in Marketo Engage. Das vorhandene CX Enterprise Coworker für Marketo Engage-Erlebnis bleibt über seinen [aktuellen Zugriffspunkt](/help/marketo/product-docs/coworker-for-marketo/overview.md#access) verfügbar. |
+| Zugriff | Öffnen Sie das eingebettete Coworker-Beta-Erlebnis in Marketo Engage. Das vorhandene CX Enterprise Coworker für Marketo Engage-Erlebnis bleibt über seinen [aktuellen Zugriffspunkt](/help/marketo/product-docs/coworker-for-marketo/overview.md#access) verfügbar. |
 | Bestehende Konversationen | Ihr bestehender Unterhaltungsverlauf bleibt im aktuellen CX Enterprise Coworker für Marketo Engage-Erlebnis verfügbar. Durch Aktivierung der Beta-Version wird dieser Verlauf nicht entfernt. |
 | Verlauf und Kontext | Die Beta-Version und das vorhandene Erlebnis verfügen über separaten Konversationsverlauf und -kontext. Eine Unterhaltung in einem ist in dem anderen nicht verfügbar. |
 | Vorhandene Funktionen | bleibt in der aktuellen Version verfügbar. |
