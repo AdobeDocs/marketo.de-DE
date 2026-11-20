@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 12%
+source-wordcount: '543'
+ht-degree: 11%
 ---
 # Versionshinweise: November 2026 {#release-notes-nov-26}
 
@@ -70,8 +70,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>In dieses Programm/diesen Ordner klonen</strong>: Klonvorgänge in Marketo Engage bieten jetzt durchgängig die Option „Dieser Ordner“ oder „Dieses Programm“ als erste Option bei der Auswahl des Ziels des geklonten Assets. Bei Auswahl dieser Option wird das Asset in das übergeordnete Programm oder den Ordner des aktuellen Assets geklont.</td>
-   <td><i>Demnächst</i></td>
-   <td><i>Demnächst</i></td>
+   <td>Freigegeben</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -81,8 +81,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <tr>
    <td><strong>Sofortiger Warnhinweis bei CRM-Synchronisierung</strong>: Durch Aktivieren oder Deaktivieren der nativen CRM-Synchronisierung für eine Umgebung erhalten Benutzerinnen und Trigger, die sich für den CRM-Benachrichtigungskanal angemeldet haben, jetzt eine Benachrichtigung.</td>
-   <td><i>Demnächst</i></td>
-   <td><i>Demnächst</i></td>
+   <td>Freigegeben</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tr>
   </tbody>
@@ -93,8 +93,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Einstellung der klassischen Benutzeroberfläche**: Die Benutzeroberfläche von Marketo Engage hat jetzt ein aktualisiertes Aussehen, einschließlich aktualisierter Menüs, Symbole und Layouts, um ein saubereres, moderneres Erlebnis zu bieten. Es handelt sich lediglich um eine visuelle Aktualisierung. Vorhandene Funktionen oder Workflows werden nicht geändert. Sie können derzeit über ein Dropdown-Menü zwischen der klassischen und der aktualisierten Benutzeroberfläche wechseln, aber die klassische Benutzeroberfläche wird bis Ende der Version vom Januar 2027 eingestellt (das genaue Datum wird in Kürze festgelegt).
 
-* **Einstellung der Erfassung von Bildern aus dem Web**: Um den modernen Best Practices für Sicherheit und Datenschutz zu entsprechen, wird die Funktion [Erfassen von Bildern aus &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}Web) ab der November-Version eingestellt.
+* **Einstellung der Erfassung von Bildern aus dem Web**: Um den modernen Best Practices für Sicherheit und Datenschutz zu entsprechen, wird die Funktion [Erfassen von Bildern aus ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}Web) ab der November-Version eingestellt.
 
 * **API-Namensbeschränkungen für benutzerdefinierte Aktivitätsattribute**: API-Namen für benutzerdefinierte Aktivitätsattribute, die über die API oder die Benutzeroberfläche erstellt wurden, dürfen jetzt nur alphanumerische Zeichen und Unterstriche enthalten und müssen mit einem alphanumerischen Zeichen beginnen.
 
-* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Seit dem 30. September 2026 schlagen Aufrufe an die Endpunkte „Lead-Aktivitäten abrufen“ oder „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, mit einem 1003-Fehler-Code fehl (was bedeutet, dass die statische Zielliste zu viele Datensätze enthält), wenn die Ziellisten 10.000 oder mehr Leads enthalten. Weitere Informationen finden Sie [Migrationshandbuch](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
+* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Seit dem 30. September 2026 schlagen Aufrufe an die Endpunkte „Lead-Aktivitäten abrufen“ oder „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, mit einem 1003-Fehler-Code fehl (was bedeutet, dass die statische Zielliste zu viele Datensätze enthält), wenn die Ziellisten 10.000 oder mehr Leads enthalten. Weitere Informationen finden Sie [Migrationshandbuch](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
