@@ -91,7 +91,7 @@ Die Überschreibungsfelder sind boolesche Personenfelder. Legen Sie sie mithilfe
 
 | Methode | Hinweise |
 |---|---|
-| [Schritt „Datenwert ändern“](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | Verwenden Sie eine intelligente Kampagne, um ein Feld festzulegen, wenn eine Person Ihre Kriterien erfüllt, z. B. ein Einverständnis-Kontrollkästchen in einem Formular übermitteln. |
+| [Schritt „Datenwert ändern“](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | Verwenden Sie eine intelligente Kampagne, um ein Feld festzulegen, wenn eine Person Ihre Kriterien erfüllt, z. B. ein Einverständnis-Kontrollkästchen in einem Formular übermitteln. |
 | Formulare | Ordnen Sie ein Kontrollkästchen oder ein ausgeblendetes Feld in einem Marketo Engage-Formular dem Personenfeld zu. |
 | Listen-Import | Fügt das Feld als Spalte in die Importdatei ein. |
 | REST-API | Verwenden Sie die API-Feldnamen `overrideOpenTrackingDefault` und `overrideClickTrackingDefault`. |
@@ -115,7 +115,7 @@ Wenn Marketo Engage eine Person nicht verfolgt, ändert es den E-Mail-Inhalt, de
 | Trigger-E-Mails, z. B. E-Mails, die von einer intelligenten Trigger-Kampagne gesendet werden | Ja |
 | E-Mails mit A/B-Tests oder Champion-/Challenger-Varianten | Ja. Das Tracking wird für jede Person separat festgelegt, unabhängig von der Variante, die sie erhält. |
 | Als Webseite anzeigen | Ja. Die Web-Version folgt den aktuellen Einstellungen der Person. Das Anzeigen einer Änderung kann bis zu einer Stunde dauern. |
-| [Operative E-Mails](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | Nein. Sie folgen normalem Tracking-Verhalten. |
+| [Operative E-Mails](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | Nein. Sie folgen normalem Tracking-Verhalten. |
 | Beispiel-(Test-)E-Mails | Nein. Sie folgen normalem Tracking-Verhalten. |
 | E-Mail-Vorschau | Keine Änderung. Vorschauen werden nicht verfolgt. |
 | Warn-E-Mails | Keine Änderung. Warnhinweise werden nicht verfolgt. |
@@ -125,7 +125,7 @@ Wenn Marketo Engage eine Person nicht verfolgt, ändert es den E-Mail-Inhalt, de
 
 Marketo Engage liest die Überschreibungswerte einer Person, wenn es die E-Mail für den Versand vorbereitet.
 
-- **Geplanter oder verzögerter Versand:** Wenn eine E-Mail jetzt vorbereitet und zu einem späteren Zeitpunkt zugestellt wird (z. B[&#x200B; mit &quot;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}&quot; oder [Zeitzone des Empfängers](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}), gelten die Werte zur Vorbereitungszeit. Eine nach der Vorbereitung vorgenommene Änderung ändert diese E-Mail nicht.
+- **Geplanter oder verzögerter Versand:** Wenn eine E-Mail jetzt vorbereitet und zu einem späteren Zeitpunkt zugestellt wird (z. B[&#x200B; mit &quot;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}&quot; oder [Zeitzone des Empfängers](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}), gelten die Werte zur Vorbereitungszeit. Eine nach der Vorbereitung vorgenommene Änderung ändert diese E-Mail nicht.
 - **Bereits zugestellte E-Mails:** Ändern der Überschreibung einer Person ändert sich nichts an den E-Mails, die sie bereits erhalten hat. Klicks auf Links in zuvor gesendeten E-Mails können weiterhin verfolgt werden, wenn diese Links mit aktiviertem Tracking vorbereitet wurden.
 - **Zukünftige E-Mails:** Eine Änderung gilt für E-Mails, die Marketo Engage nach der Änderung vorbereitet.
 
