@@ -4,9 +4,9 @@ title: Aufrufbare Agenten
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 5381bb670df1f69e535d0b349833f07b241a8ffd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1959'
+source-wordcount: '1971'
 ht-degree: 1%
 ---
 # Aufrufbare Agenten {#callable-agents}
@@ -37,6 +37,10 @@ Mit aufrufbaren Agenten können Sie einen KI-Agenten als Schritt in einer Market
    ![](assets/callable-agents-3.png)
 
 1. Um eine Vorlage zu verwenden, klicken Sie auf **Von einer Vorlage starten** und wählen Sie eine aus.
+
+   >[!NOTE]
+   >
+   >Weitere Informationen zu aufrufbaren Agentvorlagen finden Sie unter [Von einer Vorlage starten](#start-from-a-template).
 
 1. Um einen eigenen zu erstellen, geben Sie einen **[!UICONTROL Agentennamen]** ein und schreiben Sie **[!UICONTROL Agentenanweisungen]** in denen beschrieben wird, wie die einzelnen Leads verarbeitet werden.
 
