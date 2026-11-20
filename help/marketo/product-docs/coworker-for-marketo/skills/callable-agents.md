@@ -4,9 +4,9 @@ title: Aufrufbare Agenten
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
+source-git-commit: 5381bb670df1f69e535d0b349833f07b241a8ffd
 workflow-type: tm+mt
-source-wordcount: '1995'
+source-wordcount: '1959'
 ht-degree: 1%
 ---
 # Aufrufbare Agenten {#callable-agents}
@@ -26,17 +26,31 @@ Mit aufrufbaren Agenten können Sie einen KI-Agenten als Schritt in einer Market
 
 1. Klicken Sie in „Mein Marketo&quot; auf die Kachel **[!UICONTROL CX Enterprise Coworker für Marketo Engage]** .
 
-1. Wählen Sie **[!UICONTROL aufrufbare Agenten]** im linken Navigationsbereich aus. Die Liste enthält den Namen, das Erstellungsdatum, den Ersteller und den Status jedes Agenten. Nach Name suchen oder nach Name oder Erstellungsdatum sortieren.
+   ![](assets/callable-agents-1.png)
 
-1. Wählen Sie **[!UICONTROL Aufrufbaren Agenten erstellen]** aus. Wählen Sie eine Vorlage aus oder lassen Sie die Vorlagenauswahl leer, um von Grund auf neu zu beginnen.
+1. Klicken Sie oben rechts auf **[!UICONTROL Agenten]**.
 
-1. Geben Sie einen **[!UICONTROL Agentennamen]** ein und schreiben Sie **[!UICONTROL Agentenanweisungen]** in denen beschrieben wird, wie die einzelnen Leads verarbeitet werden.
+   ![](assets/callable-agents-2.png)
 
-1. Fügen **[!UICONTROL unter „Zu sendende Lead]** die Lead-Felder hinzu, die der Agent als Eingabe benötigt. Fügen Sie unter **[!UICONTROL Zu aktualisierende Lead]** jeden Wert hinzu, den der Agent zurückgeben soll, und ordnen Sie ihn einem aktualisierbaren Lead-Feld zu.
+1. Wählen Sie **[!UICONTROL Aufrufbaren Agenten erstellen]** aus.
 
-1. Wählen Sie **[!UICONTROL Speichern]**, um einen Entwurf zu speichern, oder **[!UICONTROL Speichern und Veröffentlichen]**, um den Agenten in Marketo Engage verfügbar zu machen.
+   ![](assets/callable-agents-3.png)
 
-1. Öffnen Sie eine Smart-Kampagne und wählen Sie die Registerkarte **[!UICONTROL Fluss]** aus. Suchen Sie im Abschnitt Marketing der Flussschritt-Liste nach **Aufrufagent: _[Agentenname]_**&#x200B;und ziehen Sie ihn in den Fluss.
+1. Um eine Vorlage zu verwenden, klicken Sie auf **Von einer Vorlage starten** und wählen Sie eine aus.
+
+1. Um einen eigenen zu erstellen, geben Sie einen **[!UICONTROL Agentennamen]** ein und schreiben Sie **[!UICONTROL Agentenanweisungen]** in denen beschrieben wird, wie die einzelnen Leads verarbeitet werden.
+
+1. Fügen **[!UICONTROL unter „Zu sendende Lead]** die Lead-Felder hinzu, die der Agent als Eingabe benötigt. Fügen Sie unter **[!UICONTROL Zu aktualisierende Lead]** jeden Wert hinzu, den der Agent zurückgeben soll, und ordnen Sie ihn einem aktualisierbaren Lead-Feld zu. Klicken Sie **[!UICONTROL Erstellen]** wenn Sie fertig sind.
+
+   ![](assets/callable-agents-4.png)
+
+1. Öffnen Sie eine Smart-Kampagne und wählen Sie die Registerkarte **[!UICONTROL Fluss]** aus.
+
+   ![](assets/callable-agents-5.png)
+
+1. Geben Sie bei der Suche nach Flussaktionen „aufrufbar“ ein. Suchen Sie den gewünschten Agenten und ziehen Sie ihn auf die Arbeitsfläche.
+
+   ![](assets/callable-agents-6.png)
 
 1. Testen Sie die Kampagne mit einer kleinen Gruppe von Leads. Überprüfen Sie das Aktivitätsprotokoll und bestätigen Sie, dass die Ausgabefelder wie erwartet aktualisiert werden, bevor Sie die Kampagne für alle Leads aktivieren.
 
