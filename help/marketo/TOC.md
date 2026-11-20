@@ -4,9 +4,9 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8fdac8e20931dac59034be5ec8557ad1a7f13236
+source-git-commit: a913c84b1c4f8927c951af685884edfc792ff213
 workflow-type: tm+mt
-source-wordcount: '8953'
+source-wordcount: '8958'
 ht-degree: 96%
 ---
 
@@ -112,6 +112,7 @@ ht-degree: 96%
       + [Aktivieren von Kommunikationsbeschränkungen](product-docs/administration/email-setup/enable-communication-limits.md)
       + [Aktivieren von Personenbeschränkungen für intelligente Kampagnen](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [Tracking der E-Mail-Öffnungen auf Kampagnenebene](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
+      + {hide-from-toc}[E-Mail-Tracking auf Personenebene](product-docs/administration/email-setup/email-tracking-at-person-level.md)
       + [Filtern auf E-Mail-Bot-Aktivität](product-docs/administration/email-setup/filtering-email-bot-activity.md)
       + [Entfernen des Abmeldetexts](product-docs/administration/email-setup/remove-unsubscribe-text.md)
     + Feldverwaltung {#field-management}
