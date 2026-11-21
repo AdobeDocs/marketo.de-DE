@@ -4,7 +4,7 @@ user-guide-title: Marketo-Handbuch
 user-guide-description: Marketo-Produktdokumentation
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: a913c84b1c4f8927c951af685884edfc792ff213
+source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
 workflow-type: tm+mt
 source-wordcount: '8958'
 ht-degree: 96%
@@ -492,7 +492,7 @@ ht-degree: 96%
     + [Datenblatt zu CX Enterprise Coworker für Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Skills {#skills}
       + [Produktkenntnisse](product-docs/coworker-for-marketo/skills/product-knowledge.md)
-      + {hide-from-toc}[Aufrufbare Agenten](product-docs/coworker-for-marketo/skills/callable-agents.md)
+      + [Aufrufbare Agenten](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[Surface-Einblicke](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [Erstellen von Programmen](product-docs/coworker-for-marketo/skills/build-programs.md)
       + [Kampagnen planen](product-docs/coworker-for-marketo/skills/plan-campaigns.md)

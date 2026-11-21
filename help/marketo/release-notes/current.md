@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 12%
+source-wordcount: '542'
+ht-degree: 11%
 ---
 # Versionshinweise: November 2026 {#release-notes-nov-26}
 
@@ -60,8 +60,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>Aufrufbare Agenten</strong>: Erstellen Sie KI-Agenten, die als Flussschritt in Ihren Smart-Kampagnen ausgeführt werden und auf der Grundlage von Anweisungen, die Sie in einfacher Sprache schreiben, auf einen Lead-Datensatz reagieren. Beispielsweise kann ein Agent die Daten eines Leads normalisieren oder Bots als wahrscheinlich kennzeichnen und dann das Ergebnis zurück in die Felder auf dem Lead schreiben. Dadurch wird eine auf dem Urteilsvermögen basierende Lead-Verarbeitung ohne benutzerdefinierten Code in Ihre Kampagnen integriert.</td>
-   <td><i>Demnächst</i></td>
-   <td><i>Demnächst</i></td>
+   <td>Freigegeben</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">Aufrufbare Agenten</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -70,8 +70,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   </tr>
   <tr>
    <td><strong>In dieses Programm/diesen Ordner klonen</strong>: Klonvorgänge in Marketo Engage bieten jetzt durchgängig die Option „Dieser Ordner“ oder „Dieses Programm“ als erste Option bei der Auswahl des Ziels des geklonten Assets. Bei Auswahl dieser Option wird das Asset in das übergeordnete Programm oder den Ordner des aktuellen Assets geklont.</td>
-   <td><i>Demnächst</i></td>
-   <td><i>Demnächst</i></td>
+   <td>Freigegeben</td>
+   <td>Nicht zutreffend</td>
   </tr>
   <tr>
    <td> </td>
@@ -81,8 +81,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
   <tr>
    <tr>
    <td><strong>Sofortiger Warnhinweis bei CRM-Synchronisierung</strong>: Durch Aktivieren oder Deaktivieren der nativen CRM-Synchronisierung für eine Umgebung erhalten Benutzerinnen und Trigger, die sich für den CRM-Benachrichtigungskanal angemeldet haben, jetzt eine Benachrichtigung.</td>
-   <td><i>Demnächst</i></td>
-   <td><i>Demnächst</i></td>
+   <td>Freigegeben</td>
+   <td>Nicht zutreffend</td>
   </tr>
   </tr>
   </tbody>
