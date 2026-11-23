@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
+source-git-commit: 91384ddefe8af5313a9959c8f660bc34d40bff63
 workflow-type: tm+mt
-source-wordcount: '1286'
+source-wordcount: '1284'
 ht-degree: 4%
 ---
 # AWS-Migration {#aws-migration}
@@ -340,8 +340,8 @@ Wenn eine Migration aus irgendeinem Grund nicht erfolgreich war, werden Sie bena
    SJ38</td>
    <td>17.00 Uhr PST<br>
    18.00 Uhr PST</td>
-   <td>Planmäßig<br>
-   Planmäßig</td>
+   <td>Abgeschlossen<br>
+   Abgeschlossen</td>
   </tr>
   </body>
 </table>
