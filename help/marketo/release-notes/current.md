@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '576'
+ht-degree: 10%
 ---
 # Versionshinweise: November 2026 {#release-notes-nov-26}
 
@@ -47,6 +47,16 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
    <th style="width:65%">Funktion</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Dokumentation</th>
+  </tr>
+  <tr>
+   <td><strong>E-Mail-Tracking auf Personenebene</strong>: Mit Überschreibungen der E-Mail-Tracking-Funktion auf Personenebene können Sie das E-Mail-, Öffnungs- und Klick-Tracking für eine einzelne Person steuern und so Einverständnis- und Datenschutzanforderungen unterstützen.</td>
+   <td>Freigegeben</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">E-Mail-Tracking auf Personenebene</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>Kampagnenkompetenz planen</strong>: CX Enterprise Coworker für Marketo Engage kann jetzt eine Kampagnenbeschreibung in ein vollständiges Dokument zur Einrichtung von Marketo Engage-Programmen umwandeln. Das Dokument enthält die Ordnerstruktur, intelligente Kampagnen, E-Mail-Konfigurationen, Token und eine QS-Checkliste. Dies hilft Teams, Kampagnen schneller zu starten und die Programmeinrichtung zu standardisieren. Die Qualifikation kann über Markdown konfiguriert werden.</td>
@@ -93,8 +103,8 @@ Die folgenden Funktionen fallen unter den standardmäßigen Veröffentlichungszy
 
 * **Einstellung der klassischen Benutzeroberfläche**: Die Benutzeroberfläche von Marketo Engage hat jetzt ein aktualisiertes Aussehen, einschließlich aktualisierter Menüs, Symbole und Layouts, um ein saubereres, moderneres Erlebnis zu bieten. Es handelt sich lediglich um eine visuelle Aktualisierung. Vorhandene Funktionen oder Workflows werden nicht geändert. Sie können derzeit über ein Dropdown-Menü zwischen der klassischen und der aktualisierten Benutzeroberfläche wechseln, aber die klassische Benutzeroberfläche wird bis Ende der Version vom Januar 2027 eingestellt (das genaue Datum wird in Kürze festgelegt).
 
-* **Einstellung der Erfassung von Bildern aus dem Web**: Um den modernen Best Practices für Sicherheit und Datenschutz zu entsprechen, wird die Funktion [Erfassen von Bildern aus &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}Web) ab der November-Version eingestellt.
+* **Einstellung der Erfassung von Bildern aus dem Web**: Um den modernen Best Practices für Sicherheit und Datenschutz zu entsprechen, wird die Funktion [Erfassen von Bildern aus ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}Web) ab der November-Version eingestellt.
 
 * **API-Namensbeschränkungen für benutzerdefinierte Aktivitätsattribute**: API-Namen für benutzerdefinierte Aktivitätsattribute, die über die API oder die Benutzeroberfläche erstellt wurden, dürfen jetzt nur alphanumerische Zeichen und Unterstriche enthalten und müssen mit einem alphanumerischen Zeichen beginnen.
 
-* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Seit dem 30. September 2026 schlagen Aufrufe an die Endpunkte „Lead-Aktivitäten abrufen“ oder „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, mit einem 1003-Fehler-Code fehl (was bedeutet, dass die statische Zielliste zu viele Datensätze enthält), wenn die Ziellisten 10.000 oder mehr Leads enthalten. Weitere Informationen finden Sie [Migrationshandbuch](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
+* **Statische Listengrößenbeschränkungen für Lead-Aktivitäten abrufen und Lead-Änderungen abrufen**: Seit dem 30. September 2026 schlagen Aufrufe an die Endpunkte „Lead-Aktivitäten abrufen“ oder „Lead-Änderungen abrufen“, die den `listId`-Parameter enthalten, mit einem 1003-Fehler-Code fehl (was bedeutet, dass die statische Zielliste zu viele Datensätze enthält), wenn die Ziellisten 10.000 oder mehr Leads enthalten. Weitere Informationen finden Sie [Migrationshandbuch](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} .
